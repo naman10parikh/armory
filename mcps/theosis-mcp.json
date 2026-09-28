@@ -1,0 +1,7 @@
+{
+  "name": "theosis-mcp",
+  "description": "PostgreSQL-backed MCP server for deep Bible study, integrating 140+ translations, Greek/Hebrew lexicons, cross-references, and semantic search.",
+  "source_repo": "PrattyT85/theosis-mcp",
+  "source_url": "https://github.com/PrattyT85/theosis-mcp",
+  "install": "npx -y theosis-mcp"
+}

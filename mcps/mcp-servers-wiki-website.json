@@ -1,6 +1,6 @@
 {
   "name": "mcp-servers-wiki-website",
-  "description": "Mcp Servers Wiki Website MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "suryansh-business-work/mcp-servers-wiki-website",
   "source_url": "https://mcp.so/server/mcp-servers-wiki-website/suryansh-business-work",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-servers-wiki-website/suryansh-business-work\n# See source for mcpServers config block"

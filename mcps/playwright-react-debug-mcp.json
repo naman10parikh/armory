@@ -1,0 +1,7 @@
+{
+  "name": "playwright-react-debug-mcp",
+  "description": "Enables AI-assisted debugging of React applications by providing browser control, DOM inspection, network monitoring, React DevTools, and error analysis through natural language conversation.",
+  "source_repo": "Lars-Albinsson/playwright-react-debug-mcp",
+  "source_url": "https://github.com/Lars-Albinsson/playwright-react-debug-mcp",
+  "install": "npx -y playwright-react-debug-mcp"
+}

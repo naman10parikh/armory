@@ -1,0 +1,7 @@
+{
+  "name": "lovable-mcp-server",
+  "description": "An MCP server for real-time analysis of Lovable-generated projects, enabling Claude Desktop to instantly understand project structure, components, dependencies, and more.",
+  "source_repo": "hiromima/lovable-mcp-server",
+  "source_url": "https://github.com/hiromima/lovable-mcp-server",
+  "install": "npx -y lovable-mcp-server"
+}

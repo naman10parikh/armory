@@ -1,0 +1,7 @@
+{
+  "name": "fio-bank-mcp-http",
+  "description": "Provides an HTTP wrapper around the FIO Bank MCP server, enabling secure access to FIO Bank account data over HTTPS for Cursor and Railway via MCP Streamable HTTP with Bearer authentication.",
+  "source_repo": "ondrejsanetrnik/fio-bank-mcp-http",
+  "source_url": "https://github.com/ondrejsanetrnik/fio-bank-mcp-http",
+  "install": "# git clone --depth 1 https://github.com/ondrejsanetrnik/fio-bank-mcp-http\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cc-mvp",
+  "description": "A Cocos Creator 3.8 editor extension that exposes scene, node, component, prefab, preview, build, asset, and debug operations as MCP tools for AI clients like Codex and Claude Code.",
+  "source_repo": "akunone/cc-mcp",
+  "source_url": "https://github.com/akunone/cc-mcp",
+  "install": "npx -y cc-mcp"
+}

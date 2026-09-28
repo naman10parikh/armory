@@ -1,0 +1,7 @@
+{
+  "name": "libre-mcp",
+  "description": "MCP server for controlling LibreOffice (Writer and Calc) via the UNO API, enabling document creation, editing, saving, and export from AI clients.",
+  "source_repo": "krondor-corp/libre-mcp",
+  "source_url": "https://github.com/krondor-corp/libre-mcp",
+  "install": "npx -y libre-mcp"
+}

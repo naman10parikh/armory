@@ -1,0 +1,7 @@
+{
+  "name": "mcp-walmart-marketplace",
+  "description": "This MCP server enables interaction with Walmart Marketplace APIs, offering tools for managing items, orders, inventory, prices, promotions, feeds, and more, with automatic OAuth2 authentication and spec-driven endpoint discovery.",
+  "source_repo": "alyiox/mcp-walmart-marketplace",
+  "source_url": "https://github.com/alyiox/mcp-walmart-marketplace",
+  "install": "# git clone --depth 1 https://github.com/alyiox/mcp-walmart-marketplace\n# See source for mcpServers config block"
+}

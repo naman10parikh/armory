@@ -1,0 +1,7 @@
+{
+  "name": "folio-mcp",
+  "description": "MCP server for FOLIO, the Federated Open Legal Information Ontology. Makes the full ontology available to AI agents as searchable, browsable tools.",
+  "source_repo": "alea-institute/folio-mcp",
+  "source_url": "https://github.com/alea-institute/folio-mcp",
+  "install": "npx -y folio-mcp"
+}

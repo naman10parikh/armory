@@ -1,0 +1,7 @@
+{
+  "name": "2xapi-com-gpt-image-mcp-server",
+  "description": "Wraps OpenAI-compatible text-to-image APIs as MCP tools, enabling image generation directly from conversations in Claude Code, Codex, Cursor, or Claude Desktop using the user's own API key.",
+  "source_repo": "wenkezhi8/2Xapi.com-GPT-image-MCP-Server",
+  "source_url": "https://github.com/wenkezhi8/2Xapi.com-GPT-image-MCP-Server",
+  "install": "npx -y 2Xapi.com-GPT-image-MCP-Server"
+}

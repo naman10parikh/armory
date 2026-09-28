@@ -1,0 +1,7 @@
+{
+  "name": "uiverse-mcp-tool",
+  "description": "FastMCP-based tool for extracting UI component code from Uiverse.io, supporting HTML/CSS, React, Vue, Svelte, and Lit frameworks.",
+  "source_repo": "YBMecho/Uiverse_MCP",
+  "source_url": "https://github.com/YBMecho/Uiverse_MCP",
+  "install": "npx -y Uiverse_MCP"
+}

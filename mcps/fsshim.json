@@ -1,0 +1,7 @@
+{
+  "name": "fsshim",
+  "description": "A drop-in replacement for the blocked Filesystem MCP server that provides standard file operations with symlink hardening, enabling tools like read, write, and directory listing.",
+  "source_repo": "mujo8/mcp-664-workaround",
+  "source_url": "https://github.com/mujo8/mcp-664-workaround",
+  "install": "# git clone --depth 1 https://github.com/mujo8/mcp-664-workaround\n# See source for mcpServers config block"
+}

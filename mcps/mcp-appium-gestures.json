@@ -1,0 +1,7 @@
+{
+  "name": "mcp-appium-gestures",
+  "description": "Provides resources and tools for generating Appium mobile gesture code (tap, swipe, scroll, etc.) in JavaScript and Java.",
+  "source_repo": "AppiumTestDistribution/mcp-appium-gestures",
+  "source_url": "https://github.com/AppiumTestDistribution/mcp-appium-gestures",
+  "install": "# git clone --depth 1 https://github.com/AppiumTestDistribution/mcp-appium-gestures\n# See source for mcpServers config block"
+}

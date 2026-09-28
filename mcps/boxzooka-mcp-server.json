@@ -1,0 +1,7 @@
+{
+  "name": "boxzooka-mcp-server",
+  "description": "MCP server wrapping Boxzooka's bxz-api to provide 33 tools for managing products, inbound orders, orders, inventory, shipments, and returns.",
+  "source_repo": "TomDimond/Boxzooka",
+  "source_url": "https://github.com/TomDimond/Boxzooka",
+  "install": "# git clone --depth 1 https://github.com/TomDimond/Boxzooka\n# See source for mcpServers config block"
+}

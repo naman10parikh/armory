@@ -1,0 +1,7 @@
+{
+  "name": "mcp-kql-server",
+  "description": "MCP server for executing Kusto Query Language (KQL) queries against Azure Data Explorer clusters, integrating with Claude Desktop and VS Code via Azure CLI authentication.",
+  "source_repo": "ksagala/mcp-kql-server",
+  "source_url": "https://github.com/ksagala/mcp-kql-server",
+  "install": "# git clone --depth 1 https://github.com/ksagala/mcp-kql-server\n# See source for mcpServers config block"
+}

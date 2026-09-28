@@ -1,0 +1,7 @@
+{
+  "name": "aionmcp",
+  "description": "An autonomous Go MCP server that dynamically imports OpenAPI, GraphQL, and AsyncAPI specs and exposes them as tools to agents with self-learning and auto-documentation.",
+  "source_repo": "kiransth77/aionmcp",
+  "source_url": "https://github.com/kiransth77/aionmcp",
+  "install": "# git clone --depth 1 https://github.com/kiransth77/aionmcp\n# See source for mcpServers config block"
+}

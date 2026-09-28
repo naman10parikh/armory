@@ -1,6 +1,6 @@
 {
   "name": "mcp-go-sdk",
-  "description": "Mcp Go Sdk MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "dentaku7/mcp-go-sdk",
   "source_url": "https://mcp.so/server/mcp-go-sdk/dentaku7",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-go-sdk/dentaku7\n# See source for mcpServers config block"

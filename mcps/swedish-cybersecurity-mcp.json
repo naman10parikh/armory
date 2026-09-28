@@ -1,0 +1,7 @@
+{
+  "name": "swedish-cybersecurity-mcp",
+  "description": "Enables querying Swedish cybersecurity regulations, decisions, and requirements from CERT-SE directly from MCP-compatible clients like Claude and Cursor.",
+  "source_repo": "Ansvar-Systems/swedish-cybersecurity-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/swedish-cybersecurity-mcp",
+  "install": "npx -y swedish-cybersecurity-mcp"
+}

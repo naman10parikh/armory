@@ -1,0 +1,7 @@
+{
+  "name": "rce-cho-mcp",
+  "description": "Enables querying the Dutch RCE Cultural Heritage Objects linked data endpoint via SPARQL, with ontology guidance and query validation for safe, accurate results.",
+  "source_repo": "jolietjakeblues/rce-cho-mcp",
+  "source_url": "https://github.com/jolietjakeblues/rce-cho-mcp",
+  "install": "npx -y rce-cho-mcp"
+}

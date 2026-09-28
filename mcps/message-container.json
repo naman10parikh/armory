@@ -1,0 +1,7 @@
+{
+  "name": "message-container",
+  "description": "Enables AI clients to read and search macOS Messages history through a read-only MCP interface.",
+  "source_repo": "B-HS/message-container",
+  "source_url": "https://github.com/B-HS/message-container",
+  "install": "# git clone --depth 1 https://github.com/B-HS/message-container\n# See source for mcpServers config block"
+}

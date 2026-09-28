@@ -1,0 +1,7 @@
+{
+  "name": "contextbridge",
+  "description": "Local-first code retrieval for AI agents — cuts codebase context from thousands of tokens to a few hundred, with zero hallucinated file paths.",
+  "source_repo": "tijuthomas5/context-bridge-mcp",
+  "source_url": "https://github.com/tijuthomas5/context-bridge-mcp",
+  "install": "npx -y context-bridge-mcp"
+}

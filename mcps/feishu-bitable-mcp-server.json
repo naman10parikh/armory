@@ -1,0 +1,7 @@
+{
+  "name": "feishu-bitable-mcp-server",
+  "description": "Enables interacting with Feishu (Lark) multidimensional tables through MCP tools. Supports listing tables, reading records, searching records and apps, and getting views.",
+  "source_repo": "011011100/feishu-mcp",
+  "source_url": "https://github.com/011011100/feishu-mcp",
+  "install": "npx -y feishu-mcp"
+}

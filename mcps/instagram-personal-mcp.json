@@ -1,0 +1,7 @@
+{
+  "name": "instagram-personal-mcp",
+  "description": "An MCP server that wraps instagrapi to read, engage, and send DMs from a personal Instagram account, supporting 24 tools for auth, profile, engagement, and messages.",
+  "source_repo": "AleemHaider/instagram-personal-mcp",
+  "source_url": "https://github.com/AleemHaider/instagram-personal-mcp",
+  "install": "npx -y instagram-personal-mcp"
+}

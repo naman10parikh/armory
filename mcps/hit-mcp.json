@@ -1,0 +1,7 @@
+{
+  "name": "hit-mcp",
+  "description": "Read-only MCP server for the HIT ticket management system that lists queues, searches/fetches ticket details, and lists ticket templates.",
+  "source_repo": "DevpeakAB/hit-mcp",
+  "source_url": "https://github.com/DevpeakAB/hit-mcp",
+  "install": "npx -y hit-mcp"
+}

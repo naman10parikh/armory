@@ -1,0 +1,7 @@
+{
+  "name": "company-records",
+  "description": "Exposes a fictional B2B CRM database (companies, contacts, deals) as callable MCP tools, enabling AI agents to answer natural-language questions about company records, contacts, and pipeline data.",
+  "source_repo": "greyfieldsoftwaresolutions/mcp-server-demo",
+  "source_url": "https://github.com/greyfieldsoftwaresolutions/mcp-server-demo",
+  "install": "# git clone --depth 1 https://github.com/greyfieldsoftwaresolutions/mcp-server-demo\n# See source for mcpServers config block"
+}

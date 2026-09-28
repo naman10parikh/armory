@@ -1,0 +1,7 @@
+{
+  "name": "pref-pe-recife-cnd",
+  "description": "MCP server for consulting negative debt certificates (Certidão Negativa de Débitos) from the Recife city government in Brazil, providing read-only access to official data via a hosted HTTP endpoint.",
+  "source_repo": "mcp-dir/pref_pe_recife_cnd-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_pe_recife_cnd-mcp",
+  "install": "npx -y pref_pe_recife_cnd-mcp"
+}

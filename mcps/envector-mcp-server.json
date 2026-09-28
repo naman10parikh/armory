@@ -1,0 +1,7 @@
+{
+  "name": "envector-mcp-server",
+  "description": "Enables AI applications to perform homomorphic encryption-based vector search via enVector, allowing secure data retrieval in private networks.",
+  "source_repo": "CryptoLabInc/envector-mcp-server",
+  "source_url": "https://github.com/CryptoLabInc/envector-mcp-server",
+  "install": "npx -y envector-mcp-server"
+}

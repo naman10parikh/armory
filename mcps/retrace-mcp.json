@@ -1,0 +1,7 @@
+{
+  "name": "retrace-mcp",
+  "description": "Read-only MCP server for searching your local Retrace screen-history database, with tools for full-text search, segment listing, frame details, app usage, and tags.",
+  "source_repo": "calvingunther66/retracemcpclaude",
+  "source_url": "https://github.com/calvingunther66/retracemcpclaude",
+  "install": "# git clone --depth 1 https://github.com/calvingunther66/retracemcpclaude\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "barcode-scanner-mcp",
+  "description": "MCP server for scanning and generating barcodes and QR codes. Enables decoding barcodes from images, generating QR codes, and creating barcodes in multiple formats.",
+  "source_repo": "domdomegg/barcode-scanner-mcp",
+  "source_url": "https://github.com/domdomegg/barcode-scanner-mcp",
+  "install": "npx -y barcode-scanner-mcp"
+}

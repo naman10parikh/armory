@@ -1,0 +1,7 @@
+{
+  "name": "airlock-mcp",
+  "description": "Enables AI agents to install and bootstrap projects using Airlock Smith, a guided spec-building workflow.",
+  "source_repo": "reunionstudio/airlock-mcp",
+  "source_url": "https://github.com/reunionstudio/airlock-mcp",
+  "install": "npx -y airlock-mcp"
+}

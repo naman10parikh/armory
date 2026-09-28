@@ -1,0 +1,7 @@
+{
+  "name": "pymemsim-mcp",
+  "description": "Exposes membrane simulation capabilities through an MCP server, enabling gas hollow-fiber membrane simulations with dynamic thermodynamic model sources.",
+  "source_repo": "sinagilassi/PyMemSim-MCP",
+  "source_url": "https://github.com/sinagilassi/PyMemSim-MCP",
+  "install": "npx -y PyMemSim-MCP"
+}

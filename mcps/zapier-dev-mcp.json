@@ -1,0 +1,7 @@
+{
+  "name": "zapier-dev-mcp",
+  "description": "MCP server that helps developers build and review Zapier integrations by inspecting, linting, validating, and generating test fixtures for their zapier-platform-cli projects.",
+  "source_repo": "arose26/zapier-dev-mcp",
+  "source_url": "https://github.com/arose26/zapier-dev-mcp",
+  "install": "npx -y zapier-dev-mcp"
+}

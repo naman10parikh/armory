@@ -1,0 +1,7 @@
+{
+  "name": "nanmesh-mcp",
+  "description": "MCP server for NaN Mesh, enabling AI agents to search entities, cast trust reviews, register agents, post content, and query trust scores from the AI trust network.",
+  "source_repo": "NaNMesh/nanmesh-mcp",
+  "source_url": "https://github.com/NaNMesh/nanmesh-mcp",
+  "install": "npx -y nanmesh-mcp"
+}

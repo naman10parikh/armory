@@ -1,0 +1,7 @@
+{
+  "name": "maldives-gazette-mcp",
+  "description": "A read-only MCP server for the official Maldives Government Gazette, enabling search and retrieval of gazette records and Iulaan announcements, including attachments.",
+  "source_repo": "Rayyan011/maldives-gazette-mcp",
+  "source_url": "https://github.com/Rayyan011/maldives-gazette-mcp",
+  "install": "npx -y maldives-gazette-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mdm-mcp",
+  "description": "Provides 12 MCP tools to directly interact with DEM MDM backend API, enabling Cursor or AI agents to manage MDM data.",
+  "source_repo": "767560479/mdm-mcp",
+  "source_url": "https://github.com/767560479/mdm-mcp",
+  "install": "npx -y mdm-mcp"
+}

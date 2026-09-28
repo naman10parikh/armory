@@ -1,0 +1,7 @@
+{
+  "name": "autofixture-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides comprehensive documentation and usage examples for the AutoFixture testing library.",
+  "source_repo": "nader-hbo/autofixture-mcp-server",
+  "source_url": "https://github.com/nader-hbo/autofixture-mcp-server",
+  "install": "npx -y autofixture-mcp-server"
+}

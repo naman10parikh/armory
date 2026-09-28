@@ -1,0 +1,7 @@
+{
+  "name": "telegram-mcp-kit",
+  "description": "Exposes the Telegram Bot API as tools for Claude Code or any MCP client, enabling message sending, chat management, file handling, and bot information retrieval.",
+  "source_repo": "QuocTang/telegram-mcp-kit",
+  "source_url": "https://github.com/QuocTang/telegram-mcp-kit",
+  "install": "# git clone --depth 1 https://github.com/QuocTang/telegram-mcp-kit\n# See source for mcpServers config block"
+}

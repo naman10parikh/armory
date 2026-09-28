@@ -1,0 +1,7 @@
+{
+  "name": "striderlabs-mcp-progressive",
+  "description": "Progressive Insurance MCP connector for personal AI agents. Provides tools to get quotes, look up policies, check claims, manage payments, retrieve ID cards, get coverage recommendations, and request roadside assistance.",
+  "source_repo": "markswendsen-code/mcp-progressive",
+  "source_url": "https://github.com/markswendsen-code/mcp-progressive",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-progressive\n# See source for mcpServers config block"
+}

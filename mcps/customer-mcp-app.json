@@ -1,0 +1,7 @@
+{
+  "name": "customer-mcp-app",
+  "description": "Enables querying customers by name with a React UI for pagination, details, external company search, and safe customer creation after explicit confirmation.",
+  "source_repo": "GAJYA/customer-mcp-apps",
+  "source_url": "https://github.com/GAJYA/customer-mcp-apps",
+  "install": "# git clone --depth 1 https://github.com/GAJYA/customer-mcp-apps\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "podcast-recommendations",
+  "description": "Enables AI agents to discover long-tail podcasts through randomized probe queries, trend lookups, and RSS feed peeks, providing cadence, episode length, and feed details without requiring API keys.",
+  "source_repo": "surendranb/podcast-recommendations",
+  "source_url": "https://github.com/surendranb/podcast-recommendations",
+  "install": "# git clone --depth 1 https://github.com/surendranb/podcast-recommendations\n# See source for mcpServers config block"
+}

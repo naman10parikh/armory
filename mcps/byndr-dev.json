@@ -1,0 +1,7 @@
+{
+  "name": "byndr-dev",
+  "description": "Enables LLM-driven data enrichment for EPLAN article databases, allowing proposals for missing translations and descriptions through a Model Context Protocol server.",
+  "source_repo": "covagashi/byndr-dev",
+  "source_url": "https://github.com/covagashi/byndr-dev",
+  "install": "# git clone --depth 1 https://github.com/covagashi/byndr-dev\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "imaginode",
+  "description": "Generate AI images and videos from Claude, Cursor or any MCP client: 48+ models on one account (Flux 2, Nano Banana 2, Seedream 5, Kling V3, Seedance 2.5, Veo 3.1), with the exact cost in credits returned on every call.",
+  "source_repo": "Frankhoubre/imaginode-mcp",
+  "source_url": "https://github.com/Frankhoubre/imaginode-mcp",
+  "install": "npx -y imaginode-mcp"
+}

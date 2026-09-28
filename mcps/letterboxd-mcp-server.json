@@ -1,0 +1,7 @@
+{
+  "name": "letterboxd-mcp-server",
+  "description": "Enables AI models to interact with Letterboxd data and perform account actions like rating films, writing reviews, and managing watchlists.",
+  "source_repo": "alexstajos/Letterboxd-MCP",
+  "source_url": "https://github.com/alexstajos/Letterboxd-MCP",
+  "install": "npx -y Letterboxd-MCP"
+}

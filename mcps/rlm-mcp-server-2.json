@@ -1,0 +1,7 @@
+{
+  "name": "rlm-mcp-server-2",
+  "description": "Enables any LLM to process arbitrarily long contexts through recursive decomposition, without requiring external LLM APIs.",
+  "source_repo": "win10ogod/RLM-MCP",
+  "source_url": "https://github.com/win10ogod/RLM-MCP",
+  "install": "npx -y RLM-MCP"
+}

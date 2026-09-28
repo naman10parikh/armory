@@ -1,0 +1,7 @@
+{
+  "name": "hub-bus",
+  "description": "An MCP broker that provides local communication between Manager and Lead agents for message routing and coordination.",
+  "source_repo": "claude-max-agent/hub-bus",
+  "source_url": "https://github.com/claude-max-agent/hub-bus",
+  "install": "# git clone --depth 1 https://github.com/claude-max-agent/hub-bus\n# See source for mcpServers config block"
+}

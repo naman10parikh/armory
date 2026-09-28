@@ -1,0 +1,7 @@
+{
+  "name": "streetlight",
+  "description": "Enables MCP-capable agents to control REAPER through safe, typed operations for game audio workflows such as creating variations and rendering WAV files.",
+  "source_repo": "hexingyuofficial/streetlight-reaper-mcp",
+  "source_url": "https://github.com/hexingyuofficial/streetlight-reaper-mcp",
+  "install": "npx -y streetlight-reaper-mcp"
+}

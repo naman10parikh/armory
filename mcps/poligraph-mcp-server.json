@@ -1,0 +1,7 @@
+{
+  "name": "poligraph-mcp-server",
+  "description": "Exposes French political data from Poligraph as MCP tools, allowing journalists and citizens to query politicians, votes, fact-checks, elections, and more via natural language.",
+  "source_repo": "ironlam/poligraph-mcp",
+  "source_url": "https://github.com/ironlam/poligraph-mcp",
+  "install": "npx -y poligraph-mcp"
+}

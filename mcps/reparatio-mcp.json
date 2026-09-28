@@ -1,0 +1,7 @@
+{
+  "name": "reparatio-mcp",
+  "description": "MCP server for Reparatio that lets AI assistants inspect, convert, merge, append, and query local data files in over 25 formats.",
+  "source_repo": "jfrancis42/reparatio-mcp",
+  "source_url": "https://github.com/jfrancis42/reparatio-mcp",
+  "install": "npx -y reparatio-mcp"
+}

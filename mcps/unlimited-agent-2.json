@@ -1,0 +1,7 @@
+{
+  "name": "unlimited-agent-2",
+  "description": "Enables a private ChatGPT app to remotely control a Windows PC through file operations, PowerShell, screenshots, mouse and keyboard input, clipboard, and Chrome browser automation.",
+  "source_repo": "yungsuk53-pixel/unlimited-agent",
+  "source_url": "https://github.com/yungsuk53-pixel/unlimited-agent",
+  "install": "# git clone --depth 1 https://github.com/yungsuk53-pixel/unlimited-agent\n# See source for mcpServers config block"
+}

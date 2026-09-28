@@ -1,0 +1,7 @@
+{
+  "name": "crashstory-mcp",
+  "description": "A read-only MCP server that provides access to Colorado crash records, attorney discovery, and AI-analyzed review intelligence for use in AI workflows.",
+  "source_repo": "DavidMelamed/crashstory-mcp",
+  "source_url": "https://github.com/DavidMelamed/crashstory-mcp",
+  "install": "npx -y crashstory-mcp"
+}

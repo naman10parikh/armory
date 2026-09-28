@@ -1,0 +1,7 @@
+{
+  "name": "deadends-dev",
+  "description": "Helps AI agents avoid repeating known failures by providing deterministic lookup of dead ends for coding errors and country-specific real-world rules.",
+  "source_repo": "dbwls99706/deadends.dev",
+  "source_url": "https://github.com/dbwls99706/deadends.dev",
+  "install": "# git clone --depth 1 https://github.com/dbwls99706/deadends.dev\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "langclaw-croo-agent",
+  "description": "A paid callable research agent that provides source-backed reports, onchain intelligence, and claim verification via MCP tools for coding tools like Codex, Claude Code, Cursor, and Windsurf.",
+  "source_repo": "Langclaw-AI-CROO/langclaw-croo-agent",
+  "source_url": "https://github.com/Langclaw-AI-CROO/langclaw-croo-agent",
+  "install": "# git clone --depth 1 https://github.com/Langclaw-AI-CROO/langclaw-croo-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hotwired-mcp",
+  "description": "MCP server for Hotwired multi-agent workflow orchestration, enabling AI agents to coordinate locally via Unix sockets with tools for protocol, messaging, and task management.",
+  "source_repo": "hotwired-sh/hotwired-mcp",
+  "source_url": "https://github.com/hotwired-sh/hotwired-mcp",
+  "install": "npx -y hotwired-mcp"
+}

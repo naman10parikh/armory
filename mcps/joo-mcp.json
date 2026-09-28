@@ -1,0 +1,7 @@
+{
+  "name": "joo-mcp",
+  "description": "Enables natural language CRUD operations on notes by integrating FastAPI, Gemini, and MCP.",
+  "source_repo": "marcjoo1209/joo_mcp",
+  "source_url": "https://github.com/marcjoo1209/joo_mcp",
+  "install": "npx -y joo_mcp"
+}

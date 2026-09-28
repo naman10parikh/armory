@@ -1,0 +1,7 @@
+{
+  "name": "webreaper",
+  "description": "AI-native web scraper: scrape, crawl and map any site to clean markdown over stdio. MIT-licensed.",
+  "source_repo": "alex-on-ai/WebReaper",
+  "source_url": "https://github.com/alex-on-ai/WebReaper",
+  "install": "# git clone --depth 1 https://github.com/alex-on-ai/WebReaper\n# See source for mcpServers config block"
+}

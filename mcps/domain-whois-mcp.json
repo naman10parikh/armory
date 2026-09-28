@@ -1,0 +1,7 @@
+{
+  "name": "domain-whois-mcp",
+  "description": "Enables AI agents to perform real-time WHOIS and RDAP lookups, domain availability checks, and TLD infrastructure exploration using native protocols without API keys.",
+  "source_repo": "kemalabuteliyte/domain-whois-mcp",
+  "source_url": "https://github.com/kemalabuteliyte/domain-whois-mcp",
+  "install": "npx -y domain-whois-mcp"
+}

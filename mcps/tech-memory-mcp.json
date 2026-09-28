@@ -1,0 +1,7 @@
+{
+  "name": "tech-memory-mcp",
+  "description": "A MCP server that gives Claude Code and other AI assistants long-term memory by automatically extracting technical knowledge from conversations and retrieving relevant experiences in future sessions.",
+  "source_repo": "myx0423/tech-memory-mcp",
+  "source_url": "https://github.com/myx0423/tech-memory-mcp",
+  "install": "npx -y tech-memory-mcp"
+}

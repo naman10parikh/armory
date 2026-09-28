@@ -1,0 +1,7 @@
+{
+  "name": "synthesia-mcp",
+  "description": "Enables creating and managing Synthesia avatar videos through natural language, with draft-by-default rendering to save quota.",
+  "source_repo": "keithazz/synthesia-mcp",
+  "source_url": "https://github.com/keithazz/synthesia-mcp",
+  "install": "npx -y synthesia-mcp"
+}

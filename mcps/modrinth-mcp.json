@@ -1,0 +1,7 @@
+{
+  "name": "modrinth-mcp",
+  "description": "Enables AI agents to search, read, and publish Minecraft mods on Modrinth, including creating projects and uploading jar files as new versions.",
+  "source_repo": "justinscott12/modrinth-mcp",
+  "source_url": "https://github.com/justinscott12/modrinth-mcp",
+  "install": "npx -y modrinth-mcp"
+}

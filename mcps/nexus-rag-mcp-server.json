@@ -1,0 +1,7 @@
+{
+  "name": "nexus-rag-mcp-server",
+  "description": "Enables AI agents with long-term memory and retrieval-augmented generation (RAG) capabilities, allowing them to recall past conversations, search local files, and learn user preferences.",
+  "source_repo": "kaushikkumarkr/RAG-MCP",
+  "source_url": "https://github.com/kaushikkumarkr/RAG-MCP",
+  "install": "npx -y RAG-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "white-hat-thumbnails",
+  "description": "MCP server that lets AI assistants manage Roblox thumbnails end to end, including performance tracking, generation, publishing, auto-rotation, and Discord team notifications.",
+  "source_repo": "Haydebug/whitehat-thumbnails-mcp",
+  "source_url": "https://github.com/Haydebug/whitehat-thumbnails-mcp",
+  "install": "npx -y whitehat-thumbnails-mcp"
+}

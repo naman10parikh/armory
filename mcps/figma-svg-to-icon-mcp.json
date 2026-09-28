@@ -1,0 +1,7 @@
+{
+  "name": "figma-svg-to-icon-mcp",
+  "description": "Extracts SVG icons from Figma and generates React TSX icon components automatically, enabling AI assistants like GitHub Copilot and Claude to manage icon workflows.",
+  "source_repo": "Pruthvik1/figma-svg-to-icon-mcp",
+  "source_url": "https://github.com/Pruthvik1/figma-svg-to-icon-mcp",
+  "install": "npx -y figma-svg-to-icon-mcp"
+}

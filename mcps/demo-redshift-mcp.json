@@ -1,0 +1,7 @@
+{
+  "name": "demo-redshift-mcp",
+  "description": "Enables natural-language analysis of insurance customer migration data through CrewAI agents, providing tools for querying renewals, churn, competitor returns, and feature adoption.",
+  "source_repo": "balu7771/demo-redshift-mcp",
+  "source_url": "https://github.com/balu7771/demo-redshift-mcp",
+  "install": "npx -y demo-redshift-mcp"
+}

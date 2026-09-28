@@ -1,0 +1,7 @@
+{
+  "name": "parallight-lecture-9-agentify",
+  "description": "A secure MCP server that wraps ERPNext with five narrow tools and layered safety gates (identity passthrough, risk grading, approvals, isolation), enabling agents to safely interact with ERPNext data.",
+  "source_repo": "mrvgao/parallight-lecture-9-agentify",
+  "source_url": "https://github.com/mrvgao/parallight-lecture-9-agentify",
+  "install": "# git clone --depth 1 https://github.com/mrvgao/parallight-lecture-9-agentify\n# See source for mcpServers config block"
+}

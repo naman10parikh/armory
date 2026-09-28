@@ -1,0 +1,7 @@
+{
+  "name": "bosch-flow-mcp",
+  "description": "MCP server for Bosch eBike Flow (Smart System / BES3). Read-only access to battery health and charge-cycle trends, components and firmware, live state-of-charge, and per-ride activity data (distance, elevation, power, assist-mode, CO2), signing in with your own Bosch account via PKCE.",
+  "source_repo": "partymola/bosch-flow-mcp",
+  "source_url": "https://github.com/partymola/bosch-flow-mcp",
+  "install": "npx -y bosch-flow-mcp"
+}

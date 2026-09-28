@@ -1,0 +1,7 @@
+{
+  "name": "code-impact-mcp",
+  "description": "Fast pre-commit dependency gate for AI-assisted code changes. Answers \"is this safe to commit?\" with a PASS/WARN/BLOCK verdict in seconds, so you can catch risky blast radius before a bad commit, not after it. No database, no heavy setup.",
+  "source_repo": "vk0dev/code-impact-mcp",
+  "source_url": "https://github.com/vk0dev/code-impact-mcp",
+  "install": "npx -y code-impact-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cryptodata-mcp",
+  "description": "Delivers real-time crypto market microstructure, derivatives, order flow CVD/OI regime classification, fear & greed sentiment, and whale tracking context, enabling traders to assess market regimes and complement charting tools.",
+  "source_repo": "MeongGanas/crypto-data-mcp",
+  "source_url": "https://github.com/MeongGanas/crypto-data-mcp",
+  "install": "npx -y crypto-data-mcp"
+}

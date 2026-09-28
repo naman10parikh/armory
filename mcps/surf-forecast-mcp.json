@@ -1,0 +1,7 @@
+{
+  "name": "surf-forecast-mcp",
+  "description": "Provides surf forecast data including swell height, period, direction, and wind conditions for any location worldwide using the Open-Meteo Marine API. It also includes tools to find the best day to surf and integrates with MCP clients via a Python server.",
+  "source_repo": "lucasinocencio1/mcp-surf-forecast",
+  "source_url": "https://github.com/lucasinocencio1/mcp-surf-forecast",
+  "install": "# git clone --depth 1 https://github.com/lucasinocencio1/mcp-surf-forecast\n# See source for mcpServers config block"
+}

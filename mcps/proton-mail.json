@@ -1,0 +1,7 @@
+{
+  "name": "proton-mail",
+  "description": "A safe-by-default MCP server that gives Claude access to your Proton Mail through Proton Mail Bridge's localhost IMAP/SMTP. Sending requires human approval and destructive operations are limited.",
+  "source_repo": "alex-pradas/mcp-proton-email",
+  "source_url": "https://github.com/alex-pradas/mcp-proton-email",
+  "install": "# git clone --depth 1 https://github.com/alex-pradas/mcp-proton-email\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-color-pizza",
+  "description": "MCP server that names hex colors using human-friendly color-name lists.",
+  "source_repo": "pipeworx-io/mcp-color-pizza",
+  "source_url": "https://github.com/pipeworx-io/mcp-color-pizza",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-color-pizza\n# See source for mcpServers config block"
+}

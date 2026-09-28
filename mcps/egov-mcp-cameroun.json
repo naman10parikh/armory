@@ -1,0 +1,7 @@
+{
+  "name": "egov-mcp-cameroun",
+  "description": "AI-native eGovernment platform for Cameroonian public services, providing tools for tax calendar, social contributions, and company searches via MCP.",
+  "source_repo": "LANDRYJACQUES237/egov-mcp",
+  "source_url": "https://github.com/LANDRYJACQUES237/egov-mcp",
+  "install": "npx -y egov-mcp"
+}

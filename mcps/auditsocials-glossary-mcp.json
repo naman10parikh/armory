@@ -1,0 +1,7 @@
+{
+  "name": "auditsocials-glossary-mcp",
+  "description": "Provides AI assistants with a curated glossary of 212 advertising and platform-policy terms, enabling accurate definitions and search with source attribution.",
+  "source_repo": "auditsocials/auditsocials-mcp",
+  "source_url": "https://github.com/auditsocials/auditsocials-mcp",
+  "install": "npx -y auditsocials-mcp"
+}

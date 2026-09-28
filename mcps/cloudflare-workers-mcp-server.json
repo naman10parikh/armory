@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-workers-mcp-server",
+  "description": "Enables managing Cloudflare Workers through Claude, with read-only tools for listing and viewing workers, and planned deployment of static sites and worker scripts via natural language.",
+  "source_repo": "daniil-shumko/cloudflare-workers-mcp",
+  "source_url": "https://github.com/daniil-shumko/cloudflare-workers-mcp",
+  "install": "npx -y cloudflare-workers-mcp"
+}

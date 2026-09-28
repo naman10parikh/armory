@@ -1,0 +1,7 @@
+{
+  "name": "mcp-upbank",
+  "description": "Enables querying Up Bank account transactions and spending habits through natural language, using the Up Bank API in read-only mode.",
+  "source_repo": "sirmews/mcp-upbank",
+  "source_url": "https://github.com/sirmews/mcp-upbank",
+  "install": "# git clone --depth 1 https://github.com/sirmews/mcp-upbank\n# See source for mcpServers config block"
+}

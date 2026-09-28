@@ -1,0 +1,7 @@
+{
+  "name": "brave-search-mcp-server",
+  "description": "Enables AI assistants to perform web searches using Brave Search with EU AI Act compliance and enterprise features.",
+  "source_repo": "CSOAI-ORG/brave-search",
+  "source_url": "https://github.com/CSOAI-ORG/brave-search",
+  "install": "# git clone --depth 1 https://github.com/CSOAI-ORG/brave-search\n# See source for mcpServers config block"
+}

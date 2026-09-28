@@ -1,0 +1,7 @@
+{
+  "name": "psd-mcp-server",
+  "description": "Enables parsing of PSD files and extraction of layer information, design tokens, and assets to assist LLMs in converting designs to code.",
+  "source_repo": "drapon/psd-mcp-server",
+  "source_url": "https://github.com/drapon/psd-mcp-server",
+  "install": "npx -y psd-mcp-server"
+}

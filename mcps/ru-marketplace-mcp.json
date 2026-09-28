@@ -1,0 +1,7 @@
+{
+  "name": "ru-marketplace-mcp",
+  "description": "MCP server that reads product data from Russian and Chinese marketplaces (Wildberries, Ozon, Yandex Market, Avito, etc.) — prices, availability, ratings, reviews, and seller details — with price comparison across sources. Requires no API keys; some sources use your Chrome session for anti-bot access",
+  "source_repo": "Vladimir-Human/ru-marketplace-mcp",
+  "source_url": "https://github.com/Vladimir-Human/ru-marketplace-mcp",
+  "install": "npx -y ru-marketplace-mcp"
+}

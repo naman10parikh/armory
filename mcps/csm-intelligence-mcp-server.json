@@ -1,0 +1,7 @@
+{
+  "name": "csm-intelligence-mcp-server",
+  "description": "Exposes simulated Salesforce CRM data as MCP tools for Claude Desktop, enabling customer success managers to prioritize at-risk accounts, review opportunities, cases, and Gong notes via natural language.",
+  "source_repo": "maheshsane/csm-mcp-server",
+  "source_url": "https://github.com/maheshsane/csm-mcp-server",
+  "install": "npx -y csm-mcp-server"
+}

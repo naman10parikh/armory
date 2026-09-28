@@ -1,0 +1,7 @@
+{
+  "name": "cricket-analytics-mcp",
+  "description": "Enables cricket analytics via natural language, including player stats, team performance, match results, comparisons, and news, powered by OpenAI and MCP.",
+  "source_repo": "manasranjanmeher99/Cricket_Analyst_MCP",
+  "source_url": "https://github.com/manasranjanmeher99/Cricket_Analyst_MCP",
+  "install": "npx -y Cricket_Analyst_MCP"
+}

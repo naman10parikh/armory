@@ -1,0 +1,7 @@
+{
+  "name": "caixa-tem-mcp",
+  "description": "Connects your Caixa Tem account to AI assistants via Open Finance Brasil, enabling read-only queries of balances, statements, credit card bills, and investments in natural language.",
+  "source_repo": "mcp-dir/caixatem-mcp",
+  "source_url": "https://github.com/mcp-dir/caixatem-mcp",
+  "install": "npx -y caixatem-mcp"
+}

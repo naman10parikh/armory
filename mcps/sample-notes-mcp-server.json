@@ -1,0 +1,7 @@
+{
+  "name": "sample-notes-mcp-server",
+  "description": "A lightweight MCP server for managing text notes with add, list, search, and delete operations, persisting notes as a JSON file.",
+  "source_repo": "hanoak/sample-notes-mcp-server",
+  "source_url": "https://github.com/hanoak/sample-notes-mcp-server",
+  "install": "npx -y sample-notes-mcp-server"
+}

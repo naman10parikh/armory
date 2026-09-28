@@ -1,0 +1,7 @@
+{
+  "name": "m5-petit-relations",
+  "description": "Enables reading and updating relationship data (likes, dislikes, important info, feelings, closeness, notes) for characters in a multi-character system, supporting both private and public relations.",
+  "source_repo": "PetitOnes/m5-petit-relations",
+  "source_url": "https://github.com/PetitOnes/m5-petit-relations",
+  "install": "# git clone --depth 1 https://github.com/PetitOnes/m5-petit-relations\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "invovate-mcp-server",
+  "description": "Create invoices from any MCP client via the Invovate API — compute totals and generate PDF, JSON, or UBL invoices in 11 languages. Exposes four tools: calculate_invoice_totals (no API key needed), generate_invoice_pdf, generate_invoice_ubl, and get_invoice_capabilities.",
+  "source_repo": "LightSpeedPlusOne/invovate-mcp-server",
+  "source_url": "https://github.com/LightSpeedPlusOne/invovate-mcp-server",
+  "install": "npx -y invovate-mcp-server"
+}

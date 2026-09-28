@@ -1,0 +1,7 @@
+{
+  "name": "cryptoboss-mcp-server",
+  "description": "Enables AI agents to access 48 real-time crypto data tools including prices, DeFi, meme tokens, gas, sentiment, Solana, and agent commerce, with post-paid billing via Solana USDC.",
+  "source_repo": "elevasyncsolutions-jpg/cryptodata-api",
+  "source_url": "https://github.com/elevasyncsolutions-jpg/cryptodata-api",
+  "install": "# git clone --depth 1 https://github.com/elevasyncsolutions-jpg/cryptodata-api\n# See source for mcpServers config block"
+}

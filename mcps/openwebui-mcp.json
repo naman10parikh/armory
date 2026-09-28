@@ -1,0 +1,7 @@
+{
+  "name": "openwebui-mcp",
+  "description": "Open WebUI MCP server that exposes ask and list_models tools, letting any MCP client query Open WebUI models through the full tool-calling loop (including server-side tools) via stdio, SSE, or streamable HTTP transports.",
+  "source_repo": "vedmaka/openwebui-mcp",
+  "source_url": "https://github.com/vedmaka/openwebui-mcp",
+  "install": "npx -y openwebui-mcp"
+}

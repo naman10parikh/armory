@@ -1,0 +1,7 @@
+{
+  "name": "fbem",
+  "description": "An MCP server that enables AI agents to post Reels and Photos to Facebook by capturing and replaying the native web API through a Chrome extension.",
+  "source_repo": "crisng95/fbem",
+  "source_url": "https://github.com/crisng95/fbem",
+  "install": "# git clone --depth 1 https://github.com/crisng95/fbem\n# See source for mcpServers config block"
+}

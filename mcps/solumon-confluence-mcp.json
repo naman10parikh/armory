@@ -1,0 +1,7 @@
+{
+  "name": "solumon-confluence-mcp",
+  "description": "MCP server for reading Confluence Server/DC documents with search, page content, metadata, spaces, page tree, and attachment/image support.",
+  "source_repo": "solumon/confluence-mcp",
+  "source_url": "https://github.com/solumon/confluence-mcp",
+  "install": "npx -y confluence-mcp"
+}

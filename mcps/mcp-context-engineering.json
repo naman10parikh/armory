@@ -1,0 +1,7 @@
+{
+  "name": "mcp-context-engineering",
+  "description": "Scopes MCP tool definitions and strips Markdown from outputs to minimize token usage, improving agent cost and accuracy.",
+  "source_repo": "crzyc0d3r/mcp-context-engineering",
+  "source_url": "https://github.com/crzyc0d3r/mcp-context-engineering",
+  "install": "# git clone --depth 1 https://github.com/crzyc0d3r/mcp-context-engineering\n# See source for mcpServers config block"
+}

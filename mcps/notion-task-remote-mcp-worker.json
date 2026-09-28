@@ -1,0 +1,7 @@
+{
+  "name": "notion-task-remote-mcp-worker",
+  "description": "MCP server that creates tasks in a Notion database via a Cloudflare Worker, exposing a create_task tool through Streamable HTTP. Enables ChatGPT/Claude to add structured to-dos to Notion without natural language parsing.",
+  "source_repo": "H4nnhoi/TAC",
+  "source_url": "https://github.com/H4nnhoi/TAC",
+  "install": "# git clone --depth 1 https://github.com/H4nnhoi/TAC\n# See source for mcpServers config block"
+}

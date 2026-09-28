@@ -1,0 +1,7 @@
+{
+  "name": "jupiter-mcp",
+  "description": "MCP server for Jupiter API on Solana, enabling immediate swaps via Ultra API and limit orders via Trigger API.",
+  "source_repo": "araa47/jupiter-mcp",
+  "source_url": "https://github.com/araa47/jupiter-mcp",
+  "install": "npx -y jupiter-mcp"
+}

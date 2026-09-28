@@ -1,0 +1,7 @@
+{
+  "name": "multi-agent-games",
+  "description": "MCP server allowing two agents to play chess or Connect Four against each other, with a live rendered board and emotion signaling.",
+  "source_repo": "theslmcompany/multi-agent-games-mcp",
+  "source_url": "https://github.com/theslmcompany/multi-agent-games-mcp",
+  "install": "npx -y multi-agent-games-mcp"
+}

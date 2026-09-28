@@ -1,0 +1,7 @@
+{
+  "name": "octo-mcp",
+  "description": "Controls Octo Browser antidetect profiles and automates browser tasks through natural language, enabling profile lifecycle management, web scraping, and full browser automation via CDP.",
+  "source_repo": "mazamakasa/octo-mcp",
+  "source_url": "https://github.com/mazamakasa/octo-mcp",
+  "install": "npx -y octo-mcp"
+}

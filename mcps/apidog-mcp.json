@@ -1,0 +1,7 @@
+{
+  "name": "apidog-mcp",
+  "description": "An MCP server for Apidog that enables listing projects, inspecting API trees, creating modules and folders, and adding or updating requests without manual configuration.",
+  "source_repo": "ixlammm/apidog-mcp",
+  "source_url": "https://github.com/ixlammm/apidog-mcp",
+  "install": "npx -y apidog-mcp"
+}

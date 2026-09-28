@@ -1,0 +1,7 @@
+{
+  "name": "query-engine-mcp",
+  "description": "Enables agents to perform controlled enterprise data queries through semantic intent, with runtime validation of statistics, filters, granularity, permissions, and physical bindings. Exposes tools like semantic_query for safe, fail-closed access to data horizons and capabilities.",
+  "source_repo": "gufengdong/query-engine-mcp",
+  "source_url": "https://github.com/gufengdong/query-engine-mcp",
+  "install": "npx -y query-engine-mcp"
+}

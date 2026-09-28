@@ -1,0 +1,7 @@
+{
+  "name": "chrome-hook-mcp",
+  "description": "Drives real Chromium browsers for multi-account testing and full network capture, with Cloudflare bypass via patched Playwright and real browser attach mode.",
+  "source_repo": "d3sh1n/chrome-Hook-MCP",
+  "source_url": "https://github.com/d3sh1n/chrome-Hook-MCP",
+  "install": "npx -y chrome-Hook-MCP"
+}

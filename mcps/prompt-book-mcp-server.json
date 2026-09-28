@@ -1,6 +1,6 @@
 {
   "name": "prompt-book-mcp-server",
-  "description": "Prompt Book Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "cardinalblue/prompt-book-mcp-server",
   "source_url": "https://mcp.so/server/prompt-book-mcp-server/cardinalblue",
   "install": "npx -y prompt-book-mcp-server"

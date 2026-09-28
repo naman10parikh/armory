@@ -1,0 +1,7 @@
+{
+  "name": "glance",
+  "description": "An MCP server that gives Claude Code real browser control for web automation, testing, and screenshots.",
+  "source_repo": "DebugBase/glance",
+  "source_url": "https://github.com/DebugBase/glance",
+  "install": "# git clone --depth 1 https://github.com/DebugBase/glance\n# See source for mcpServers config block"
+}

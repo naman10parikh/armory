@@ -1,0 +1,7 @@
+{
+  "name": "bevigil-mcp-server",
+  "description": "MCP server that provides AI-native access to BeVigil's OSINT API, enabling mobile app security research and asset discovery through tools for hosts, subdomains, S3 buckets, URLs, wordlists, and multi-step investigations.",
+  "source_repo": "santhosh-005/bevigil-mcp-server",
+  "source_url": "https://github.com/santhosh-005/bevigil-mcp-server",
+  "install": "npx -y bevigil-mcp-server"
+}

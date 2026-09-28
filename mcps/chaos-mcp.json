@@ -1,0 +1,7 @@
+{
+  "name": "chaos-mcp",
+  "description": "On-demand micro-mutation sandbox for AI test verification that maps weaknesses in unit tests by running isolated mutation testing via the Model Context Protocol.",
+  "source_repo": "AraneaDev/Chaos-MCP",
+  "source_url": "https://github.com/AraneaDev/Chaos-MCP",
+  "install": "npx -y Chaos-MCP"
+}

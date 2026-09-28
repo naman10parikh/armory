@@ -1,0 +1,7 @@
+{
+  "name": "houdinimcp-server",
+  "description": "Connects SideFX Houdini to Claude via the Model Context Protocol, enabling node creation, modification, and code execution through natural language.",
+  "source_repo": "3dprevis/h_c_mcp",
+  "source_url": "https://github.com/3dprevis/h_c_mcp",
+  "install": "npx -y h_c_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "poke-voice-mcp-server",
+  "description": "Enables Poke to trigger outbound AI phone calls through Vapi telephony, using a stateless server with installer-owned credentials.",
+  "source_repo": "ionnes69/poke-voice-mcp-server",
+  "source_url": "https://github.com/ionnes69/poke-voice-mcp-server",
+  "install": "npx -y poke-voice-mcp-server"
+}

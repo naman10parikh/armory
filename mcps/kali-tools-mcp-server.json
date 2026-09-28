@@ -1,0 +1,7 @@
+{
+  "name": "kali-tools-mcp-server",
+  "description": "Integrates 7 security tools (nmap, nuclei, dirsearch, sqlmap, hydra, Acunetix, Metasploit) via MCP protocol for AI-assisted penetration testing with enterprise-grade safety features.",
+  "source_repo": "Xc1Ym/kali-tools-mcp",
+  "source_url": "https://github.com/Xc1Ym/kali-tools-mcp",
+  "install": "npx -y kali-tools-mcp"
+}

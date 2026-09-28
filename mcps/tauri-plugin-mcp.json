@@ -1,0 +1,7 @@
+{
+  "name": "tauri-plugin-mcp",
+  "description": "An MCP server that allows AI agents to interact with and debug Tauri applications through screenshots, DOM access, input simulation, and more.",
+  "source_repo": "P3GLEG/tauri-plugin-mcp",
+  "source_url": "https://github.com/P3GLEG/tauri-plugin-mcp",
+  "install": "npx -y tauri-plugin-mcp"
+}

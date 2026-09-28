@@ -1,0 +1,7 @@
+{
+  "name": "lime-ref-postgres-mcp",
+  "description": "MCP server that provides secure PostgreSQL access with LIME agent identity verification, whitelist-based authorization, and audit events.",
+  "source_repo": "Mawyxx/lime-ref-postgres-mcp",
+  "source_url": "https://github.com/Mawyxx/lime-ref-postgres-mcp",
+  "install": "npx -y lime-ref-postgres-mcp"
+}

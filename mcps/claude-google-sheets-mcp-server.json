@@ -1,0 +1,7 @@
+{
+  "name": "claude-google-sheets-mcp-server",
+  "description": "A comprehensive MCP server for Google Sheets integration with Claude, enabling spreadsheet discovery, data manipulation, and formatting through natural language commands and slash commands.",
+  "source_repo": "ringo380/claude-google-sheets-mcp",
+  "source_url": "https://github.com/ringo380/claude-google-sheets-mcp",
+  "install": "npx -y claude-google-sheets-mcp"
+}

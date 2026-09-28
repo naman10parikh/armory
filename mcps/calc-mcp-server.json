@@ -1,0 +1,7 @@
+{
+  "name": "calc-mcp-server",
+  "description": "An MCP server that performs exact arithmetic calculations, avoiding the pitfalls of float64 and unsafe eval, with resource limits for safe execution.",
+  "source_repo": "slettmayer/calc-mcp-server",
+  "source_url": "https://github.com/slettmayer/calc-mcp-server",
+  "install": "npx -y calc-mcp-server"
+}

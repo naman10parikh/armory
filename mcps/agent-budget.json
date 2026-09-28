@@ -1,0 +1,7 @@
+{
+  "name": "agent-budget",
+  "description": "Budget management and cost tracking MCP server for autonomous agents, enabling budget creation, cost recording, spending projections, and alert rules.",
+  "source_repo": "nyx-builds/agent-budget",
+  "source_url": "https://github.com/nyx-builds/agent-budget",
+  "install": "# git clone --depth 1 https://github.com/nyx-builds/agent-budget\n# See source for mcpServers config block"
+}

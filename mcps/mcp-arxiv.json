@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arxiv",
+  "description": "An MCP server that enables AI assistants to search arXiv papers, retrieve metadata, and access PDFs.",
+  "source_repo": "alexgenovese/mcp-arxiv",
+  "source_url": "https://github.com/alexgenovese/mcp-arxiv",
+  "install": "# git clone --depth 1 https://github.com/alexgenovese/mcp-arxiv\n# See source for mcpServers config block"
+}

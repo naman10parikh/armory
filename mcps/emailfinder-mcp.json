@@ -1,0 +1,7 @@
+{
+  "name": "emailfinder-mcp",
+  "description": "MCP server for emailfinder.dev that enables AI assistants to find verified professional email addresses via name/domain, LinkedIn URLs, company domains, roles, and email validation.",
+  "source_repo": "xinxinhenaixin/emailfinder-mcp",
+  "source_url": "https://github.com/xinxinhenaixin/emailfinder-mcp",
+  "install": "npx -y emailfinder-mcp"
+}

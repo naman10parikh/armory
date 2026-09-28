@@ -1,0 +1,7 @@
+{
+  "name": "mcp-yearning",
+  "description": "MCP server for Yearning SQL audit platform that enables AI assistants to query and manage orders, browse data sources and table structures, submit and review SQL orders, and execute read-only queries.",
+  "source_repo": "zhouweico/mcp-yearning",
+  "source_url": "https://github.com/zhouweico/mcp-yearning",
+  "install": "# git clone --depth 1 https://github.com/zhouweico/mcp-yearning\n# See source for mcpServers config block"
+}

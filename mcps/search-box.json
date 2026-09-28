@@ -1,0 +1,7 @@
+{
+  "name": "search-box",
+  "description": "Provides keyless, privacy-focused web search through DuckDuckGo and SearxNG via MCP, with token-efficient tool discovery and caching.",
+  "source_repo": "Aphelion-Development/search-box",
+  "source_url": "https://github.com/Aphelion-Development/search-box",
+  "install": "# git clone --depth 1 https://github.com/Aphelion-Development/search-box\n# See source for mcpServers config block"
+}

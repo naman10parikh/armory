@@ -1,0 +1,7 @@
+{
+  "name": "ampl-mcp",
+  "description": "An MCP server exposing AMPL optimisation modelling to coding agents, plus a matching Claude plugin.",
+  "source_repo": "worc4021/ampl-mcp",
+  "source_url": "https://github.com/worc4021/ampl-mcp",
+  "install": "npx -y ampl-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dossi-de-cr-dito-completo",
+  "description": "Provides complete credit dossiers for individuals or companies, including registration data, risk score, and pending issues, via a hosted MCP server with a single read-only tool.",
+  "source_repo": "mcp-dir/credito_dossie-mcp",
+  "source_url": "https://github.com/mcp-dir/credito_dossie-mcp",
+  "install": "npx -y credito_dossie-mcp"
+}

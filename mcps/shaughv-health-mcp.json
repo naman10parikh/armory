@@ -1,0 +1,7 @@
+{
+  "name": "shaughv-health-mcp",
+  "description": "A remote MCP server that allows trusted LLM assistants to read Google Health/Fitbit data and log nutrition, hydration, and body measurements via the Google Health API.",
+  "source_repo": "RealEmmettS/Google-Health-MCP",
+  "source_url": "https://github.com/RealEmmettS/Google-Health-MCP",
+  "install": "npx -y Google-Health-MCP"
+}

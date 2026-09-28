@@ -1,0 +1,7 @@
+{
+  "name": "imagefeatures-mcp",
+  "description": "An MCP server that provides classic computer vision feature extraction tools (color, texture, shape) for image analysis, enabling LLMs to perform precise mathematical image comparisons and quality assessments.",
+  "source_repo": "kelkalot/imagefeatures-mcp",
+  "source_url": "https://github.com/kelkalot/imagefeatures-mcp",
+  "install": "npx -y imagefeatures-mcp"
+}

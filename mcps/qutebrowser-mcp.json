@@ -1,0 +1,7 @@
+{
+  "name": "qutebrowser-mcp",
+  "description": "MCP server for automating qutebrowser browser via CDP and IPC. Enables tab management, navigation, screenshots, JavaScript execution, and authenticated HTTP requests through the browser's session.",
+  "source_repo": "afreakk/qutebrowser-mcp",
+  "source_url": "https://github.com/afreakk/qutebrowser-mcp",
+  "install": "npx -y qutebrowser-mcp"
+}

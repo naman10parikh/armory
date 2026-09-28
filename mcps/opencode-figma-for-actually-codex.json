@@ -1,0 +1,7 @@
+{
+  "name": "opencode-figma-for-actually-codex",
+  "description": "Local MCP bridge that exposes the ChatGPT Figma connector to OpenCode without launching Codex, using the existing authenticated session.",
+  "source_repo": "kargnas/opencode-figma-for-actually-codex",
+  "source_url": "https://github.com/kargnas/opencode-figma-for-actually-codex",
+  "install": "# git clone --depth 1 https://github.com/kargnas/opencode-figma-for-actually-codex\n# See source for mcpServers config block"
+}

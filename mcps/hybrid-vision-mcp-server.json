@@ -1,0 +1,7 @@
+{
+  "name": "hybrid-vision-mcp-server",
+  "description": "Bridges local vision engines (Tesseract.js OCR and Sharp preprocessing) with Ollama vision models for image analysis, comparison, text localization, and browser screenshot annotation over MCP-compliant HTTP/SSE transports.",
+  "source_repo": "sameersemna/hybrid-vision-mcp",
+  "source_url": "https://github.com/sameersemna/hybrid-vision-mcp",
+  "install": "npx -y hybrid-vision-mcp"
+}

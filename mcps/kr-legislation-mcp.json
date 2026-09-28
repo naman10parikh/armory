@@ -1,0 +1,7 @@
+{
+  "name": "kr-legislation-mcp",
+  "description": "Integrates 132 tools from the Korean Ministry of Legislation OPEN API to provide comprehensive access to Korean legal documents, including statutes, precedents, treaties, administrative rules, and local ordinances.",
+  "source_repo": "ChangooLee/mcp-kr-legislation",
+  "source_url": "https://github.com/ChangooLee/mcp-kr-legislation",
+  "install": "# git clone --depth 1 https://github.com/ChangooLee/mcp-kr-legislation\n# See source for mcpServers config block"
+}

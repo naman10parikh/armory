@@ -1,0 +1,7 @@
+{
+  "name": "certid-o-tj-c-vel-criminal-e-fiscal",
+  "description": "Emits civil, criminal, and fiscal certificates from Brazilian state courts (Tribunal de Justiça) using CPF or CNPJ and UF. Read-only MCP server accessible via HTTP, pay-per-use with prepaid credits.",
+  "source_repo": "mcp-dir/tj_certidao-mcp",
+  "source_url": "https://github.com/mcp-dir/tj_certidao-mcp",
+  "install": "npx -y tj_certidao-mcp"
+}

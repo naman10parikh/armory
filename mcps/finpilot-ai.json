@@ -1,0 +1,7 @@
+{
+  "name": "finpilot-ai",
+  "description": "An MCP server that transforms standard LLMs into autonomous investment bankers, enabling live market data retrieval, fundamental ratio calculations, DCF valuations, portfolio diversification assessment, and automated emailing of executive reports.",
+  "source_repo": "ShahzaadAhmed/MCP_project",
+  "source_url": "https://github.com/ShahzaadAhmed/MCP_project",
+  "install": "# git clone --depth 1 https://github.com/ShahzaadAhmed/MCP_project\n# See source for mcpServers config block"
+}

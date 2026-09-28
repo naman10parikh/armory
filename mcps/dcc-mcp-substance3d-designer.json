@@ -1,0 +1,7 @@
+{
+  "name": "dcc-mcp-substance3d-designer",
+  "description": "Adapter that runs an MCP server inside Substance 3D Designer, enabling tools to inspect and interact with the active designer session and its packages through natural language.",
+  "source_repo": "dcc-mcp/dcc-mcp-substance3d-designer",
+  "source_url": "https://github.com/dcc-mcp/dcc-mcp-substance3d-designer",
+  "install": "# git clone --depth 1 https://github.com/dcc-mcp/dcc-mcp-substance3d-designer\n# See source for mcpServers config block"
+}

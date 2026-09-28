@@ -1,0 +1,7 @@
+{
+  "name": "hai-etoromcp",
+  "description": "Provides a containerised MCP interface for Etoro trading, enabling secure SSH-authenticated interactions.",
+  "source_repo": "jbkunama1/hAI.etoroMCP",
+  "source_url": "https://github.com/jbkunama1/hAI.etoroMCP",
+  "install": "# git clone --depth 1 https://github.com/jbkunama1/hAI.etoroMCP\n# See source for mcpServers config block"
+}

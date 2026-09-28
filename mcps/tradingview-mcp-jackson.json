@@ -1,0 +1,7 @@
+{
+  "name": "tradingview-mcp-jackson",
+  "description": "An MCP server that connects to TradingView Desktop via Chrome DevTools Protocol, enabling chart control, Pine Script development, and a morning brief workflow with AI-driven analysis.",
+  "source_repo": "nimit791/tradingview-mcp-jackson",
+  "source_url": "https://github.com/nimit791/tradingview-mcp-jackson",
+  "install": "# git clone --depth 1 https://github.com/nimit791/tradingview-mcp-jackson\n# See source for mcpServers config block"
+}

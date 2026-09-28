@@ -1,0 +1,7 @@
+{
+  "name": "zk-circuit-auditor-mcp",
+  "description": "An MCP server that audits zero-knowledge circuits (Circom, Noir, Halo2) for soundness and constraint bugs, powered by the Cysic Minimax model.",
+  "source_repo": "uitkhoanna/zk-mcp",
+  "source_url": "https://github.com/uitkhoanna/zk-mcp",
+  "install": "npx -y zk-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "reai-mcp-server",
+  "description": "MCP server for FSM report migration analysis, providing fuzzy search of report mappings, pattern registry, and columnar report generation.",
+  "source_repo": "van0219/reai-mcp",
+  "source_url": "https://github.com/van0219/reai-mcp",
+  "install": "npx -y reai-mcp"
+}

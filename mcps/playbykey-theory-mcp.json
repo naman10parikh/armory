@@ -1,0 +1,7 @@
+{
+  "name": "playbykey-theory-mcp",
+  "description": "An MCP server exposing @playbykey/theory as AI-callable music theory tools. Compute chords, scales, progressions, transpositions, and MIDI/frequency conversions instead of having your AI assistant guess at music theory from training data.",
+  "source_repo": "DigitalBrewLLC/playbykey-dev-tools",
+  "source_url": "https://github.com/DigitalBrewLLC/playbykey-dev-tools",
+  "install": "# git clone --depth 1 https://github.com/DigitalBrewLLC/playbykey-dev-tools\n# See source for mcpServers config block"
+}

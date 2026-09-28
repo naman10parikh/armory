@@ -1,0 +1,7 @@
+{
+  "name": "courtapi-mcp-server",
+  "description": "Search and retrieve US federal court cases, dockets, claims, and documents via PACER — directly from Claude and other MCP-compatible AI assistants.",
+  "source_repo": "courtio/courtapi-mcp",
+  "source_url": "https://github.com/courtio/courtapi-mcp",
+  "install": "npx -y courtapi-mcp"
+}

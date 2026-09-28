@@ -1,0 +1,7 @@
+{
+  "name": "transita-mcp-server",
+  "description": "Provides immigration eligibility intelligence, enabling AI assistants to match user profiles to visas, compare pathways, and get country overviews using Transita's API.",
+  "source_repo": "snenenenenenene/transita-mcp-server",
+  "source_url": "https://github.com/snenenenenenene/transita-mcp-server",
+  "install": "npx -y transita-mcp-server"
+}

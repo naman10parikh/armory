@@ -1,0 +1,7 @@
+{
+  "name": "roo-mcp",
+  "description": "Enables AI clients to create, manage, and configure Roo smart shortlinks and their add-ons, such as QR codes, scheduled redirects, and webhooks, through MCP tools.",
+  "source_repo": "dzisner/roo-mcp",
+  "source_url": "https://github.com/dzisner/roo-mcp",
+  "install": "npx -y roo-mcp"
+}

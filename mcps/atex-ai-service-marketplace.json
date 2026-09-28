@@ -1,0 +1,7 @@
+{
+  "name": "atex-ai-service-marketplace",
+  "description": "An MCP server that provides a unified API to access multiple AI models and Chinese compliance tools, including ad keyword detection, GEO visibility checks, and SEO scanning.",
+  "source_repo": "lm203688/atex",
+  "source_url": "https://github.com/lm203688/atex",
+  "install": "# git clone --depth 1 https://github.com/lm203688/atex\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wesioiot-mcp",
+  "description": "MCP server for MiniMax media generation (TTS, image, video, music) routed through the wesioiot proxy, enabling media creation with PT-BR voices and async job polling.",
+  "source_repo": "wesioplayconstructor/wesioiot-top_proxy-mcp",
+  "source_url": "https://github.com/wesioplayconstructor/wesioiot-top_proxy-mcp",
+  "install": "npx -y wesioiot-top_proxy-mcp"
+}

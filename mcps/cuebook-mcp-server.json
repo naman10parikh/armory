@@ -1,0 +1,7 @@
+{
+  "name": "cuebook-mcp-server",
+  "description": "Provides market intelligence including asset search, market state, cues, events, and paper trading via the Model Context Protocol.",
+  "source_repo": "cuebook-public/cuebook-cli",
+  "source_url": "https://github.com/cuebook-public/cuebook-cli",
+  "install": "# git clone --depth 1 https://github.com/cuebook-public/cuebook-cli\n# See source for mcpServers config block"
+}

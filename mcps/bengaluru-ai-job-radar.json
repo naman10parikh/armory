@@ -1,0 +1,7 @@
+{
+  "name": "bengaluru-ai-job-radar",
+  "description": "Search for AI internship and early-career roles in Bengaluru using Tavily, save leads to a local JSON database, and render a Prefab dashboard UI.",
+  "source_repo": "VaibhavMugulavalli/JobSearch_MCP",
+  "source_url": "https://github.com/VaibhavMugulavalli/JobSearch_MCP",
+  "install": "npx -y JobSearch_MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "runn-mcp-server",
+  "description": "MCP server for the Runn API, enabling resource management and reporting through natural language.",
+  "source_repo": "gemini2026/runn-mcp-server",
+  "source_url": "https://github.com/gemini2026/runn-mcp-server",
+  "install": "npx -y runn-mcp-server"
+}

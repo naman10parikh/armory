@@ -1,0 +1,7 @@
+{
+  "name": "cnv-lab-mcp",
+  "description": "MCP server for reserving lab hardware in GLPI, triggering CNV cluster deployments in Jenkins, and importing ACM spoke clusters.",
+  "source_repo": "galkremer1/cnv-lab-mcp",
+  "source_url": "https://github.com/galkremer1/cnv-lab-mcp",
+  "install": "npx -y cnv-lab-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-officegest",
+  "description": "Exposes a curated subset of the Officegest API v2 (22 CRUD tools) for managing clients, sales, and stock to AI clients like Claude Code and Claude Desktop.",
+  "source_repo": "rubencodex86/officegest-api-v2-mcp",
+  "source_url": "https://github.com/rubencodex86/officegest-api-v2-mcp",
+  "install": "npx -y officegest-api-v2-mcp"
+}

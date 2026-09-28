@@ -1,0 +1,7 @@
+{
+  "name": "tracegraph",
+  "description": "An MCP server that induces agent behavior from traces into a spec, then gates MCP calls against that spec to block invalid actions.",
+  "source_repo": "wayfarer-ai/tracegraph",
+  "source_url": "https://github.com/wayfarer-ai/tracegraph",
+  "install": "# git clone --depth 1 https://github.com/wayfarer-ai/tracegraph\n# See source for mcpServers config block"
+}

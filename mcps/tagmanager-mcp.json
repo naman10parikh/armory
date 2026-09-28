@@ -1,0 +1,7 @@
+{
+  "name": "tagmanager-mcp",
+  "description": "An MCP server for the Google Tag Manager API v2 that enables AI assistants to query GTM accounts, containers, tags, triggers, variables, and unpublished changes.",
+  "source_repo": "jinchliu/tagmanager-mcp",
+  "source_url": "https://github.com/jinchliu/tagmanager-mcp",
+  "install": "npx -y tagmanager-mcp"
+}

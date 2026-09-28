@@ -1,0 +1,7 @@
+{
+  "name": "mcp-waggle",
+  "description": "An MCP server for planning and overseeing the tecture-graph project, giving coding agents a persistent place to log researches, development activities, test results, and project progress.",
+  "source_repo": "shanika/mcp-waggle",
+  "source_url": "https://github.com/shanika/mcp-waggle",
+  "install": "# git clone --depth 1 https://github.com/shanika/mcp-waggle\n# See source for mcpServers config block"
+}

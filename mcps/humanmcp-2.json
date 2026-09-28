@@ -1,0 +1,7 @@
+{
+  "name": "humanmcp-2",
+  "description": "Personal MCP server for humans who create. 39 tools: content publishing, Ed25519 signatures, license control, artworks with provenance, async Q&A, listings, federation. Your content, your rules.",
+  "source_repo": "",
+  "source_url": "https://humanmcp.net",
+  "install": "# git clone --depth 1 https://humanmcp.net\n# See source for mcpServers config block"
+}

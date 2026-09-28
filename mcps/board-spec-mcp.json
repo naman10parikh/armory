@@ -1,0 +1,7 @@
+{
+  "name": "board-spec-mcp",
+  "description": "MCP server that serves Qualcomm Yocto board specs from a git repo, enabling retrieval and validation of board specifications.",
+  "source_repo": "roshs189/board-spec-mcp",
+  "source_url": "https://github.com/roshs189/board-spec-mcp",
+  "install": "npx -y board-spec-mcp"
+}

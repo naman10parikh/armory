@@ -1,0 +1,7 @@
+{
+  "name": "agnes-image-mcp-server",
+  "description": "Enables text-to-image generation using Agnes Image 2.1 Flash via OpenAI-compatible API, supporting aspect ratios, custom resolution, and multi-image generation.",
+  "source_repo": "kira4094/agnes-image-mcp-server",
+  "source_url": "https://github.com/kira4094/agnes-image-mcp-server",
+  "install": "npx -y agnes-image-mcp-server"
+}

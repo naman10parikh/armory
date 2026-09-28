@@ -1,0 +1,7 @@
+{
+  "name": "law7-mcp",
+  "description": "Provides AI assistants with up-to-date legal documents from official sources, enabling accurate legal information retrieval and analysis.",
+  "source_repo": "mikhashev/law7",
+  "source_url": "https://github.com/mikhashev/law7",
+  "install": "# git clone --depth 1 https://github.com/mikhashev/law7\n# See source for mcpServers config block"
+}

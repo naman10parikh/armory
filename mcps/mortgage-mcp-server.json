@@ -1,0 +1,7 @@
+{
+  "name": "mortgage-mcp-server",
+  "description": "Provides mortgage calculation tools, including monthly payment, amortization schedules, lump sum payments, and extra monthly payments for real estate agents and AI assistants.",
+  "source_repo": "jibbs1703/Financial-Tools-MCP",
+  "source_url": "https://github.com/jibbs1703/Financial-Tools-MCP",
+  "install": "npx -y Financial-Tools-MCP"
+}

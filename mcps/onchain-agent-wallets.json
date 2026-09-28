@@ -1,0 +1,7 @@
+{
+  "name": "onchain-agent-wallets",
+  "description": "MCP server that gives AI agents a Solana wallet with a capped, revocable token allowance from a user-owned vault, enforced on-chain by SPL Token delegations plus local guardrails, without exposing the owner's private key.",
+  "source_repo": "nirholas/onchain-agent-wallets",
+  "source_url": "https://github.com/nirholas/onchain-agent-wallets",
+  "install": "# git clone --depth 1 https://github.com/nirholas/onchain-agent-wallets\n# See source for mcpServers config block"
+}

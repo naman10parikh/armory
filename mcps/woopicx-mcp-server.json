@@ -1,0 +1,7 @@
+{
+  "name": "woopicx-mcp-server",
+  "description": "Enables searching free graphics on Woopicx (3D icons, mockups, stock photos, illustrations, certificates, tattoo designs) through natural language.",
+  "source_repo": "Davoooda/woopicx-mcp",
+  "source_url": "https://github.com/Davoooda/woopicx-mcp",
+  "install": "npx -y woopicx-mcp"
+}

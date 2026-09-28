@@ -1,6 +1,6 @@
 {
   "name": "example-mcp-server-backup",
-  "description": "Example Mcp Server Backup MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "MarkPushRec/example-mcp-server-backup",
   "source_url": "https://mcp.so/server/example-mcp-server-backup/MarkPushRec",
   "install": "# git clone --depth 1 https://mcp.so/server/example-mcp-server-backup/MarkPushRec\n# See source for mcpServers config block"

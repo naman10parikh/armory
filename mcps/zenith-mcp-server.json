@@ -1,0 +1,7 @@
+{
+  "name": "zenith-mcp-server",
+  "description": "Personal habit tracking MCP server for a 90-day mission, tracking 6 non-negotiable habits with Supabase backend, exposes tools for logging and viewing progress.",
+  "source_repo": "antonatanasovalekseev-coder/zenith-mcp",
+  "source_url": "https://github.com/antonatanasovalekseev-coder/zenith-mcp",
+  "install": "npx -y zenith-mcp"
+}

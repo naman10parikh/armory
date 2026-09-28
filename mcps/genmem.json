@@ -1,0 +1,7 @@
+{
+  "name": "genmem",
+  "description": "A local-first MCP server that gives AI assistants long-term memory by storing, searching, and recalling notes as Markdown files on your machine.",
+  "source_repo": "helloSobuj/genmem",
+  "source_url": "https://github.com/helloSobuj/genmem",
+  "install": "# git clone --depth 1 https://github.com/helloSobuj/genmem\n# See source for mcpServers config block"
+}

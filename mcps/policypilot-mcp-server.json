@@ -1,0 +1,7 @@
+{
+  "name": "policypilot-mcp-server",
+  "description": "Enables LLM agents to automate Check Point firewall rule changes by translating natural language access requests into correct, first-match-safe policy updates via MCP tools.",
+  "source_repo": "alshawwaf/PolicyPilot",
+  "source_url": "https://github.com/alshawwaf/PolicyPilot",
+  "install": "# git clone --depth 1 https://github.com/alshawwaf/PolicyPilot\n# See source for mcpServers config block"
+}

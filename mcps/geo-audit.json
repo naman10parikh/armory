@@ -1,0 +1,7 @@
+{
+  "name": "geo-audit",
+  "description": "Evaluates any website's AI visibility with 15 checks across crawlability, structure, content, and connectivity, and provides actionable fixes.",
+  "source_repo": "nycsav/notion-geo-audit",
+  "source_url": "https://github.com/nycsav/notion-geo-audit",
+  "install": "# git clone --depth 1 https://github.com/nycsav/notion-geo-audit\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "expo-docs-mcp-server",
+  "description": "Provides access to Expo documentation with advanced search, full content retrieval, section browsing, API references, and quick start guides.",
+  "source_repo": "ah2-io/expo-docs-mcp",
+  "source_url": "https://github.com/ah2-io/expo-docs-mcp",
+  "install": "npx -y expo-docs-mcp"
+}

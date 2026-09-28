@@ -1,0 +1,7 @@
+{
+  "name": "slack-message-sender",
+  "description": "MCP server for sending messages to Slack channels and replying in threads, with automatic channel name resolution and support for Claude Desktop and KADI agents.",
+  "source_repo": "a-g-e-n-t-s/mcp-server-slack",
+  "source_url": "https://github.com/a-g-e-n-t-s/mcp-server-slack",
+  "install": "# git clone --depth 1 https://github.com/a-g-e-n-t-s/mcp-server-slack\n# See source for mcpServers config block"
+}

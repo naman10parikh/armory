@@ -1,0 +1,7 @@
+{
+  "name": "marketplace-lister-mcp",
+  "description": "Enables posting second-hand items to Facebook Marketplace from local photo folders via Claude, featuring login, listing creation, pricing reference, and publishing tools.",
+  "source_repo": "noobsplzwin/marketplace-lister-mcp",
+  "source_url": "https://github.com/noobsplzwin/marketplace-lister-mcp",
+  "install": "npx -y marketplace-lister-mcp"
+}

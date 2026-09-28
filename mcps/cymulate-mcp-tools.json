@@ -1,0 +1,7 @@
+{
+  "name": "cymulate-mcp-tools",
+  "description": "Community MCP server for the Cymulate security validation platform. It exposes the full Cymulate REST API (337 endpoints) as 106 semantic tools for BAS, exposure validation, attack surface management, and platform administration.",
+  "source_repo": "lyonzin/cymulate-mcp-tools",
+  "source_url": "https://github.com/lyonzin/cymulate-mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/lyonzin/cymulate-mcp-tools\n# See source for mcpServers config block"
+}

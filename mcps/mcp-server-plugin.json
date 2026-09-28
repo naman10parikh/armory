@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-plugin",
+  "description": "Enables recording Codex tool failures as redacted .tape evidence, inspecting captured runs, injecting failure conditions, and saving offline regression tests.",
+  "source_repo": "jiangkoumo/agenttape",
+  "source_url": "https://github.com/jiangkoumo/agenttape",
+  "install": "# git clone --depth 1 https://github.com/jiangkoumo/agenttape\n# See source for mcpServers config block"
+}

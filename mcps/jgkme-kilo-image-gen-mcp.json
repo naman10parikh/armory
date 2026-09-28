@@ -1,0 +1,7 @@
+{
+  "name": "jgkme-kilo-image-gen-mcp",
+  "description": "MCP server for generating, editing, and processing images via multiple providers including Kilo, OpenRouter, OpenAI, and Gemini, with local tools for background removal, resizing, and cropping.",
+  "source_repo": "jgkme/kilo-image-gen-mcp",
+  "source_url": "https://github.com/jgkme/kilo-image-gen-mcp",
+  "install": "npx -y kilo-image-gen-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hydris-diagnostic-mcp",
+  "description": "A security-hardened, read-only MCP server that authenticates service and user identities, enforces factory-level access grants, and audit-logs every tool call before dispatching read-only plant overview queries.",
+  "source_repo": "tarun-km/hydris-mcp-integration",
+  "source_url": "https://github.com/tarun-km/hydris-mcp-integration",
+  "install": "# git clone --depth 1 https://github.com/tarun-km/hydris-mcp-integration\n# See source for mcpServers config block"
+}

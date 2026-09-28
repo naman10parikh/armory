@@ -1,0 +1,7 @@
+{
+  "name": "contractaudit-mcp-server",
+  "description": "Enables read-only search over a curated, provenance-preserving corpus of EVM smart-contract security knowledge, providing tools for retrieving audit findings, document context, and source information.",
+  "source_repo": "ArmaghanRazaChaudhary/ContractAudit",
+  "source_url": "https://github.com/ArmaghanRazaChaudhary/ContractAudit",
+  "install": "# git clone --depth 1 https://github.com/ArmaghanRazaChaudhary/ContractAudit\n# See source for mcpServers config block"
+}

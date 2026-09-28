@@ -1,0 +1,7 @@
+{
+  "name": "construction-alert-mcp",
+  "description": "건설알림이 MCP server that lets users search Seoul city construction project lists and retrieve onsite photos via the Seoul Open Data API, with per-user API key isolation.",
+  "source_repo": "hlucent/construction-alert-mcp",
+  "source_url": "https://github.com/hlucent/construction-alert-mcp",
+  "install": "npx -y construction-alert-mcp"
+}

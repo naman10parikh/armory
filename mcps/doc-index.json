@@ -1,0 +1,7 @@
+{
+  "name": "doc-index",
+  "description": "A local-first semantic search server for documents, supporting PDFs, Office files, and text/markdown, enabling natural language search via the Model Context Protocol (MCP).",
+  "source_repo": "mike-anderson/doc-index-mcp",
+  "source_url": "https://github.com/mike-anderson/doc-index-mcp",
+  "install": "npx -y doc-index-mcp"
+}

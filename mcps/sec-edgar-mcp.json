@@ -1,0 +1,7 @@
+{
+  "name": "sec-edgar-mcp",
+  "description": "Access SEC EDGAR financial data through your AI assistant. Search public companies, pull income statements, balance sheets, and cash flows, browse 10-K/10-Q filings, track insider trades, and view historical stock prices. Built for investors, analysts, and finance teams who need fast access to regul",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/janmacher02-xl8y/sec-edgar-mcp",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/janmacher02-xl8y/sec-edgar-mcp\n# See source for mcpServers config block"
+}

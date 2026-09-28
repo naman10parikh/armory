@@ -1,0 +1,7 @@
+{
+  "name": "zim-mcp-server",
+  "description": "Enables large language models to directly access and search content in ZIM files, allowing offline question answering and information retrieval from resources like Wikipedia.",
+  "source_repo": "ThinkInAI-Hackathon/zim-mcp-server",
+  "source_url": "https://github.com/ThinkInAI-Hackathon/zim-mcp-server",
+  "install": "npx -y zim-mcp-server"
+}

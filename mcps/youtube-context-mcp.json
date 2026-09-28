@@ -1,0 +1,7 @@
+{
+  "name": "youtube-context-mcp",
+  "description": "A small MCP server that gives agents rich context about a YouTube video — its transcript, jump-to-the-moment deep links, metadata, and most-replayed moments — so they can answer questions, summarize, pull quotes, or surface highlights.",
+  "source_repo": "realiti4/youtube-context-mcp",
+  "source_url": "https://github.com/realiti4/youtube-context-mcp",
+  "install": "npx -y youtube-context-mcp"
+}

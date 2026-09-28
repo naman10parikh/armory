@@ -1,0 +1,7 @@
+{
+  "name": "mcp-noticiel",
+  "description": "Exposes the Noticiel product manual catalog to AI agents via the Model Context Protocol, enabling search and retrieval of manuals from the public WordPress REST API.",
+  "source_repo": "waddou/mcp-noticiel",
+  "source_url": "https://github.com/waddou/mcp-noticiel",
+  "install": "# git clone --depth 1 https://github.com/waddou/mcp-noticiel\n# See source for mcpServers config block"
+}

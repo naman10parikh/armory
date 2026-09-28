@@ -1,0 +1,7 @@
+{
+  "name": "codebase-intelligence-mcp-server",
+  "description": "An MCP server that indexes a local Python codebase into a SQLite graph for hybrid code search, file context, lazy explanations, dependency traces, and version-aware symbol history.",
+  "source_repo": "S-naruka/MCP",
+  "source_url": "https://github.com/S-naruka/MCP",
+  "install": "# git clone --depth 1 https://github.com/S-naruka/MCP\n# See source for mcpServers config block"
+}

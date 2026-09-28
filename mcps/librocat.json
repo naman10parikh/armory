@@ -1,0 +1,7 @@
+{
+  "name": "librocat",
+  "description": "Provides AI agents with persistent memory over MCP by indexing OKF Markdown notes in a Git repository and exposing tools for searching, reading, writing, organizing, and reviewing knowledge.",
+  "source_repo": "librocat/librocat",
+  "source_url": "https://github.com/librocat/librocat",
+  "install": "# git clone --depth 1 https://github.com/librocat/librocat\n# See source for mcpServers config block"
+}

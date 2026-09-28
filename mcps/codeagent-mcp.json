@@ -1,0 +1,7 @@
+{
+  "name": "codeagent-mcp",
+  "description": "An autonomous code-reasoning agent that parses repositories using tree-sitter, indexes symbols into SQLite, and answers questions about the codebase through an agentic loop powered by Claude via OpenRouter.",
+  "source_repo": "AbhiGupta1310/CodeAgent-MCP",
+  "source_url": "https://github.com/AbhiGupta1310/CodeAgent-MCP",
+  "install": "npx -y CodeAgent-MCP"
+}

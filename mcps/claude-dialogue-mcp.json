@@ -1,0 +1,7 @@
+{
+  "name": "claude-dialogue-mcp",
+  "description": "Enables peer-to-peer asynchronous conversation between Claude.ai and Claude Code instances via a shared file-based notebook, allowing them to leave messages, start threads, and organize by project.",
+  "source_repo": "theMethodolojeeOrg/claude-dialogue-mcp",
+  "source_url": "https://github.com/theMethodolojeeOrg/claude-dialogue-mcp",
+  "install": "npx -y claude-dialogue-mcp"
+}

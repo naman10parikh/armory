@@ -1,0 +1,7 @@
+{
+  "name": "fraud-detection-mcp",
+  "description": "AI-powered fraud detection and investigation platform that exposes tools for querying, scoring, and investigating financial applications using LangGraph, MLflow, and SQLite in-memory.",
+  "source_repo": "liatdavid2/fraud-detection-mcp",
+  "source_url": "https://github.com/liatdavid2/fraud-detection-mcp",
+  "install": "npx -y fraud-detection-mcp"
+}

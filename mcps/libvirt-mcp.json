@@ -1,0 +1,7 @@
+{
+  "name": "libvirt-mcp",
+  "description": "Enables management of KVM/QEMU virtual machines on remote libvirt hosts via SSH, with tools for inspection, lifecycle management, snapshots, and cloning.",
+  "source_repo": "rzippert/libvirt-mcp",
+  "source_url": "https://github.com/rzippert/libvirt-mcp",
+  "install": "npx -y libvirt-mcp"
+}

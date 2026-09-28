@@ -1,0 +1,7 @@
+{
+  "name": "a-bonus-redmine-mcp",
+  "description": "MCP server for Redmine that enables interaction with issues, wiki pages, and time entries through natural language.",
+  "source_repo": "b4zs/redmine-mcp",
+  "source_url": "https://github.com/b4zs/redmine-mcp",
+  "install": "npx -y redmine-mcp"
+}

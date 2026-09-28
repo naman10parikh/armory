@@ -1,0 +1,7 @@
+{
+  "name": "discord-mcp-bridge",
+  "description": "Enables local AI agents to securely search and read Discord messages and channels visible to the current client, without requiring a bot or user token.",
+  "source_repo": "eam2539/discord-mcp-bridge",
+  "source_url": "https://github.com/eam2539/discord-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/eam2539/discord-mcp-bridge\n# See source for mcpServers config block"
+}

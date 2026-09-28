@@ -1,0 +1,7 @@
+{
+  "name": "meok-eu-mobility-package-mcp",
+  "description": "An MCP server for EU Mobility Package compliance, enabling operators to check drivers' hours, cabotage rules, smart tachograph requirements, and posted worker declarations for cross-border road transport.",
+  "source_repo": "CSOAI-ORG/meok-eu-mobility-package-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/meok-eu-mobility-package-mcp",
+  "install": "npx -y meok-eu-mobility-package-mcp"
+}

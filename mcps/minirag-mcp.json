@@ -1,0 +1,7 @@
+{
+  "name": "minirag-mcp",
+  "description": "Local-first RAG MCP server that indexes local documents and provides hybrid search (semantic + keyword) with file ingestion, URL fetching, and a CLI, keeping data on-device.",
+  "source_repo": "sfrangulov/minirag-mcp",
+  "source_url": "https://github.com/sfrangulov/minirag-mcp",
+  "install": "npx -y minirag-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sysprobe-mcp",
+  "description": "Token-efficient MCP server for Linux system diagnostics and desktop/hardware control, providing compact JSON output with hard size limits and a safety model that requires explicit flags for mutating actions.",
+  "source_repo": "Raindancer118/sysprobe-mcp",
+  "source_url": "https://github.com/Raindancer118/sysprobe-mcp",
+  "install": "npx -y sysprobe-mcp"
+}

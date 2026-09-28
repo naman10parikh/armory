@@ -1,0 +1,7 @@
+{
+  "name": "fusion-compiler-session-mcp-2",
+  "description": "Enables starting and managing named independent PTY sessions for Synopsys Fusion Compiler, sending arbitrary Tcl commands, and listing/interrupting sessions via MCP.",
+  "source_repo": "camucamulemon7/test_mcp3",
+  "source_url": "https://github.com/camucamulemon7/test_mcp3",
+  "install": "# git clone --depth 1 https://github.com/camucamulemon7/test_mcp3\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "naver-search-mcp",
+  "description": "MCP server for Naver Search Open API, enabling search news, blog, and shop functionalities through natural language.",
+  "source_repo": "iamyaeeun/naver-search-mcp",
+  "source_url": "https://github.com/iamyaeeun/naver-search-mcp",
+  "install": "npx -y naver-search-mcp"
+}

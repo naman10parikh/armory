@@ -1,0 +1,7 @@
+{
+  "name": "unhollow",
+  "description": "Provides semantic search over project knowledge layers (memories, wiki, docs) using local embeddings, enabling AI coding agents to recall relevant context without external API calls.",
+  "source_repo": "VitalikPro13/unhollow",
+  "source_url": "https://github.com/VitalikPro13/unhollow",
+  "install": "# git clone --depth 1 https://github.com/VitalikPro13/unhollow\n# See source for mcpServers config block"
+}

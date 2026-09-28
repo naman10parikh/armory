@@ -1,0 +1,7 @@
+{
+  "name": "e-stat-mcp-server",
+  "description": "MCP server for accessing Japanese government statistics portal 'e-Stat' API, enabling language models to search and retrieve statistical data.",
+  "source_repo": "cygkichi/estat-mcp-server",
+  "source_url": "https://github.com/cygkichi/estat-mcp-server",
+  "install": "npx -y estat-mcp-server"
+}

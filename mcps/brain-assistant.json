@@ -1,0 +1,7 @@
+{
+  "name": "brain-assistant",
+  "description": "A natural language interface for the Brain knowledge management system, enabling conversational interactions, intelligent workflows, and tool suggestions.",
+  "source_repo": "MikeyBeez/mcp-brain-assistant",
+  "source_url": "https://github.com/MikeyBeez/mcp-brain-assistant",
+  "install": "# git clone --depth 1 https://github.com/MikeyBeez/mcp-brain-assistant\n# See source for mcpServers config block"
+}

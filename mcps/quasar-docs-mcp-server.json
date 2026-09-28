@@ -1,0 +1,7 @@
+{
+  "name": "quasar-docs-mcp-server",
+  "description": "Provides easy access to Quasar Framework documentation through the Model Context Protocol, supporting Claude Code and other MCP tools.",
+  "source_repo": "mamit514/quasar-docs-mcp-server",
+  "source_url": "https://github.com/mamit514/quasar-docs-mcp-server",
+  "install": "npx -y quasar-docs-mcp-server"
+}

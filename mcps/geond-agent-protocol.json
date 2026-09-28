@@ -1,0 +1,7 @@
+{
+  "name": "geond-agent-protocol",
+  "description": "Local-first shared memory and coordination layer for AI coding agents, with repository evidence, reservations, handoffs, code graph context, and dashboard review backed by PostgreSQL/pgvector.",
+  "source_repo": "geondongkim/geond-agent-protocol",
+  "source_url": "https://github.com/geondongkim/geond-agent-protocol",
+  "install": "# git clone --depth 1 https://github.com/geondongkim/geond-agent-protocol\n# See source for mcpServers config block"
+}

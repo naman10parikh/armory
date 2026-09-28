@@ -1,0 +1,7 @@
+{
+  "name": "bookmind",
+  "description": "An intelligent bookkeeping MCP server for QuickBooks Online that enables natural language control over categorization, reconciliation, monthly close, and anomaly detection.",
+  "source_repo": "bbookmind/mcp",
+  "source_url": "https://github.com/bbookmind/mcp",
+  "install": "# git clone --depth 1 https://github.com/bbookmind/mcp\n# See source for mcpServers config block"
+}

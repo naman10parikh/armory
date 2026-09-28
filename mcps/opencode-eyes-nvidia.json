@@ -1,0 +1,7 @@
+{
+  "name": "opencode-eyes-nvidia",
+  "description": "MCP server that gives non-multimodal models 'eyes' by describing images via NVIDIA NIM's MiniMax-M3 model, with tools to describe images and list available vision models. It supports multiple NVIDIA API keys with automatic failover and rotation.",
+  "source_repo": "bauerelizabeth07139/opencode-eyes-nvidia",
+  "source_url": "https://github.com/bauerelizabeth07139/opencode-eyes-nvidia",
+  "install": "# git clone --depth 1 https://github.com/bauerelizabeth07139/opencode-eyes-nvidia\n# See source for mcpServers config block"
+}

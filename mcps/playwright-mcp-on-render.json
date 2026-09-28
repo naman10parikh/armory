@@ -1,0 +1,7 @@
+{
+  "name": "playwright-mcp-on-render",
+  "description": "Deploys Microsoft's Playwright MCP server to Render, providing a public MCP URL for streamable HTTP or SSE connections. Enables browser automation and interaction via natural language in clients like Cursor, Cline, Claude, and VS Code.",
+  "source_repo": "halande1144/playwright-mcp",
+  "source_url": "https://github.com/halande1144/playwright-mcp",
+  "install": "npx -y playwright-mcp"
+}

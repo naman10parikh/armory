@@ -1,0 +1,7 @@
+{
+  "name": "marketscope-ai-mcp-server",
+  "description": "Enables AI-powered analysis of healthcare market segments, product comparisons, and sales data insights using natural language processing and retrieval-augmented generation.",
+  "source_repo": "BigDataTeam5/MarketScope-AI-Powered-Industry-Segment-Intelligence-Platform",
+  "source_url": "https://github.com/BigDataTeam5/MarketScope-AI-Powered-Industry-Segment-Intelligence-Platform",
+  "install": "# git clone --depth 1 https://github.com/BigDataTeam5/MarketScope-AI-Powered-Industry-Segment-Intelligence-Platform\n# See source for mcpServers config block"
+}

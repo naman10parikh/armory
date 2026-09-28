@@ -1,0 +1,7 @@
+{
+  "name": "confluence-http-api-mcp",
+  "description": "Read-only MCP server for self-hosted Confluence that lets AI agents search pages, fetch content, and navigate page trees via the REST API.",
+  "source_repo": "rkorablin/confluence-http-api-mcp",
+  "source_url": "https://github.com/rkorablin/confluence-http-api-mcp",
+  "install": "npx -y confluence-http-api-mcp"
+}

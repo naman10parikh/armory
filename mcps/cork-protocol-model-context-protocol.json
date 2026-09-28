@@ -1,0 +1,7 @@
+{
+  "name": "cork-protocol-model-context-protocol",
+  "description": "Typed MCP gateway for Cork Protocol operations, enabling secure and deterministic interaction with operation core and signing gate.",
+  "source_repo": "Cork-Technology/cork-mcp",
+  "source_url": "https://github.com/Cork-Technology/cork-mcp",
+  "install": "npx -y cork-mcp"
+}

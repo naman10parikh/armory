@@ -1,0 +1,7 @@
+{
+  "name": "nvim-editor-mcp",
+  "description": "MCP server bridging tool calls to Neovim editor actions via RPC. Enables AI agents to open files, run Lua, manage quickfix lists, fetch diagnostics, and send notifications.",
+  "source_repo": "gierdo/nvim-editor-mcp",
+  "source_url": "https://github.com/gierdo/nvim-editor-mcp",
+  "install": "npx -y nvim-editor-mcp"
+}

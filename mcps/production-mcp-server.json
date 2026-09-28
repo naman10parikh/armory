@@ -1,0 +1,7 @@
+{
+  "name": "production-mcp-server",
+  "description": "MCP server that exposes immutable CAN signal and MISRA reference facts as read-only resources and provides a human-gated defect filing tool with tamper-evident audit logging.",
+  "source_repo": "tonomr/production-mcp-server",
+  "source_url": "https://github.com/tonomr/production-mcp-server",
+  "install": "npx -y production-mcp-server"
+}

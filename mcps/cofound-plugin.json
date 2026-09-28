@@ -1,0 +1,7 @@
+{
+  "name": "cofound-plugin",
+  "description": "MCP-native co-founder directory. Your AI agent searches the directory, screens inbound pitches, and drafts replies.",
+  "source_repo": "cofound-agent/plugin",
+  "source_url": "https://github.com/cofound-agent/plugin",
+  "install": "# git clone --depth 1 https://github.com/cofound-agent/plugin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pok-mon-champions-mcp-server",
+  "description": "Provides accurate competitive Pokémon information for Pokémon Champions, including damage calculation, type effectiveness, Pokémon data, and regulation legality checks.",
+  "source_repo": "Emieeel/poke-mcp-tool",
+  "source_url": "https://github.com/Emieeel/poke-mcp-tool",
+  "install": "# git clone --depth 1 https://github.com/Emieeel/poke-mcp-tool\n# See source for mcpServers config block"
+}

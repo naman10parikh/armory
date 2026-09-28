@@ -1,0 +1,7 @@
+{
+  "name": "basecamp-2-mcp-server",
+  "description": "An MCP server that wraps the Basecamp 2 REST API, enabling Claude to create and manage todos, projects, and people through natural language.",
+  "source_repo": "envisialearning/Basecamp2_mcp",
+  "source_url": "https://github.com/envisialearning/Basecamp2_mcp",
+  "install": "npx -y Basecamp2_mcp"
+}

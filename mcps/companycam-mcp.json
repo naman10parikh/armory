@@ -1,0 +1,7 @@
+{
+  "name": "companycam-mcp",
+  "description": "Enables managing CompanyCam projects, photos, tags, comments, and users through natural language, using the CompanyCam API.",
+  "source_repo": "Bos-Automations/companycam-mcp-server",
+  "source_url": "https://github.com/Bos-Automations/companycam-mcp-server",
+  "install": "npx -y companycam-mcp-server"
+}

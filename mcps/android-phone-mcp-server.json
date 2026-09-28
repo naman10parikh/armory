@@ -1,0 +1,7 @@
+{
+  "name": "android-phone-mcp-server",
+  "description": "MCP server for controlling Android devices via semantic actions with verification, enabling any MCP client to interact with phones through natural language and structured tools.",
+  "source_repo": "expoli/android-phone-mcp-server",
+  "source_url": "https://github.com/expoli/android-phone-mcp-server",
+  "install": "npx -y android-phone-mcp-server"
+}

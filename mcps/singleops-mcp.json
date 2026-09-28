@@ -1,0 +1,7 @@
+{
+  "name": "singleops-mcp",
+  "description": "Enables reading operations, searching clients, and creating leads in SingleOps, the US green-industry field-service platform, through natural language commands.",
+  "source_repo": "sanjibani/singleops-mcp",
+  "source_url": "https://github.com/sanjibani/singleops-mcp",
+  "install": "npx -y singleops-mcp"
+}

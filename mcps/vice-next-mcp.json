@@ -1,0 +1,7 @@
+{
+  "name": "vice-next-mcp",
+  "description": "Enables interaction with VICE emulators for Commodore systems through binary monitor protocol, supporting keyboard matrix injection and IEC observers for targets like C64, VIC-20, etc.",
+  "source_repo": "promptengineer1768-ctrl/vice-next-mcp",
+  "source_url": "https://github.com/promptengineer1768-ctrl/vice-next-mcp",
+  "install": "npx -y vice-next-mcp"
+}

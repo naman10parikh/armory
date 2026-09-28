@@ -1,0 +1,7 @@
+{
+  "name": "ai-detection-engineering-platform",
+  "description": "An MCP server that enables conversational interaction with Wazuh SIEM, allowing users to investigate alerts, hunt threats, tune false positives, edit rules, and run security actions via natural language.",
+  "source_repo": "Simoon896/ai-detection-engineering-platform",
+  "source_url": "https://github.com/Simoon896/ai-detection-engineering-platform",
+  "install": "# git clone --depth 1 https://github.com/Simoon896/ai-detection-engineering-platform\n# See source for mcpServers config block"
+}

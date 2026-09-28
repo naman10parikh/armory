@@ -1,0 +1,7 @@
+{
+  "name": "gwanggo-mcp",
+  "description": "Enables AI agents to generate images and videos using 30+ models (Seedream, Sora, Veo, etc.) via the Gwanggo API. Provides tools for model listing, image/video generation, task checking, and credit balance.",
+  "source_repo": "bill-950207/gwanggo-mcp",
+  "source_url": "https://github.com/bill-950207/gwanggo-mcp",
+  "install": "npx -y gwanggo-mcp"
+}

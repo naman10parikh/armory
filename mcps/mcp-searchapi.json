@@ -1,0 +1,7 @@
+{
+  "name": "mcp-searchapi",
+  "description": "An MCP server that exposes eight SearchApi.io search engines as discrete tools, returning trimmed structured results to save context.",
+  "source_repo": "Byski/mcp-searchapi",
+  "source_url": "https://github.com/Byski/mcp-searchapi",
+  "install": "# git clone --depth 1 https://github.com/Byski/mcp-searchapi\n# See source for mcpServers config block"
+}

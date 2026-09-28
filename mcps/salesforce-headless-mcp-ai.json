@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-headless-mcp-ai",
+  "description": "Enables users to interact with a Salesforce org through a web AI assistant powered by a configurable AI provider, supporting read-only queries and gated write operations with audit logging.",
+  "source_repo": "TechwithZakir/salesforce_mcp_ai",
+  "source_url": "https://github.com/TechwithZakir/salesforce_mcp_ai",
+  "install": "# git clone --depth 1 https://github.com/TechwithZakir/salesforce_mcp_ai\n# See source for mcpServers config block"
+}

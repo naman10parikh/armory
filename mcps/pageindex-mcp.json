@@ -1,0 +1,7 @@
+{
+  "name": "pageindex-mcp",
+  "description": "A self-hosted MCP server for PageIndex's vectorless, reasoning-based document retrieval. It ingests PDFs into a hierarchical table of contents using an LLM and serves documents, structure, and page content via MCP tools.",
+  "source_repo": "lorenzpfei/pageindex-mcp-self-hosted",
+  "source_url": "https://github.com/lorenzpfei/pageindex-mcp-self-hosted",
+  "install": "# git clone --depth 1 https://github.com/lorenzpfei/pageindex-mcp-self-hosted\n# See source for mcpServers config block"
+}

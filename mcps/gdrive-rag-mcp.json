@@ -1,0 +1,7 @@
+{
+  "name": "gdrive-rag-mcp",
+  "description": "Enables Google# MyData from (JSON (server name is",
+  "source_repo": "phamviet86/gdrive-rag-mcp",
+  "source_url": "https://github.com/phamviet86/gdrive-rag-mcp",
+  "install": "npx -y gdrive-rag-mcp"
+}

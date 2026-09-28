@@ -1,0 +1,7 @@
+{
+  "name": "mcp-garmin-connect",
+  "description": "An MCP server that gives LLMs access to Garmin Connect data, including training, recovery, sleep, stress, VO2 Max, and running summaries for personalized fitness advice.",
+  "source_repo": "kavakoss/mcp-garmin-connect",
+  "source_url": "https://github.com/kavakoss/mcp-garmin-connect",
+  "install": "# git clone --depth 1 https://github.com/kavakoss/mcp-garmin-connect\n# See source for mcpServers config block"
+}

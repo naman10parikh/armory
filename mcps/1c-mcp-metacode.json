@@ -1,0 +1,7 @@
+{
+  "name": "1c-mcp-metacode",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/1c-mcp-metacode",
+  "install": "# git clone --depth 1 https://mcp.so/server/1c-mcp-metacode\n# See source for mcpServers config block"
+}

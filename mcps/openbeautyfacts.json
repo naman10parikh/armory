@@ -1,0 +1,7 @@
+{
+  "name": "openbeautyfacts",
+  "description": "Enables querying Open Beauty Facts product data through natural language, using the Pipeworx MCP gateway.",
+  "source_repo": "pipeworx-io/mcp-openbeautyfacts",
+  "source_url": "https://github.com/pipeworx-io/mcp-openbeautyfacts",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-openbeautyfacts\n# See source for mcpServers config block"
+}

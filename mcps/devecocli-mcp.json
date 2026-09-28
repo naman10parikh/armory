@@ -1,0 +1,7 @@
+{
+  "name": "devecocli-mcp",
+  "description": "Unified HarmonyOS development MCP server that provides capability search and execution, offline documentation retrieval, and skill marketplace search, enabling AI assistants to manage HarmonyOS projects, build, run, debug, and access official docs via natural language.",
+  "source_repo": "kelai141/devecocli-mcp",
+  "source_url": "https://github.com/kelai141/devecocli-mcp",
+  "install": "npx -y devecocli-mcp"
+}

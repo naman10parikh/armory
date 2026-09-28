@@ -1,0 +1,7 @@
+{
+  "name": "agenttax-mcp-server",
+  "description": "Enables MCP tool developers and AI agents to track payments, calculate sales tax liability, and ensure tax compliance across US jurisdictions.",
+  "source_repo": "AgentTax/agenttax-mcp",
+  "source_url": "https://github.com/AgentTax/agenttax-mcp",
+  "install": "npx -y agenttax-mcp"
+}

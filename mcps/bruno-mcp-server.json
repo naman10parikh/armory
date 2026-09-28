@@ -1,0 +1,7 @@
+{
+  "name": "bruno-mcp-server",
+  "description": "Enables AI coding assistants to discover, inspect, and run API requests in Bruno collections locally, keeping all data private.",
+  "source_repo": "kodlbegiko/bruno-mcp-server",
+  "source_url": "https://github.com/kodlbegiko/bruno-mcp-server",
+  "install": "npx -y bruno-mcp-server"
+}

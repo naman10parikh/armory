@@ -1,0 +1,7 @@
+{
+  "name": "cross-review",
+  "description": "MCP server orchestrating API-first cross-review between Claude, ChatGPT Codex, Gemini, DeepSeek, Grok, and Perplexity with unanimous convergence gates.",
+  "source_repo": "LCV-Ideas-Software/cross-review",
+  "source_url": "https://github.com/LCV-Ideas-Software/cross-review",
+  "install": "# git clone --depth 1 https://github.com/LCV-Ideas-Software/cross-review\n# See source for mcpServers config block"
+}

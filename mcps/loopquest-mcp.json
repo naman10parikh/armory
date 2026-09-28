@@ -1,0 +1,7 @@
+{
+  "name": "loopquest-mcp",
+  "description": "Enables MCP agents to submit content for human review via LoopQuest, returning verdicts asynchronously.",
+  "source_repo": "TomPhillipsLabs/loopquest-mcp",
+  "source_url": "https://github.com/TomPhillipsLabs/loopquest-mcp",
+  "install": "npx -y loopquest-mcp"
+}

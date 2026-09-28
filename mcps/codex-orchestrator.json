@@ -1,0 +1,7 @@
+{
+  "name": "codex-orchestrator",
+  "description": "Enables safe, isolated Codex implementation runs with planning approval, verification, and bounded fixes, without merging or pushing code automatically.",
+  "source_repo": "bedOnWeekends/codex-mcp",
+  "source_url": "https://github.com/bedOnWeekends/codex-mcp",
+  "install": "npx -y codex-mcp"
+}

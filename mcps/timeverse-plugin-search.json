@@ -1,0 +1,7 @@
+{
+  "name": "timeverse-plugin-search",
+  "description": "Searches multiple sources including SkillHub, Smithery, MCP Registry, GitHub, and web for MCP servers and skill packages.",
+  "source_repo": "elimyliu/timeverse-plugin-search",
+  "source_url": "https://github.com/elimyliu/timeverse-plugin-search",
+  "install": "# git clone --depth 1 https://github.com/elimyliu/timeverse-plugin-search\n# See source for mcpServers config block"
+}

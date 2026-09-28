@@ -1,0 +1,7 @@
+{
+  "name": "wmca-mcp-server",
+  "description": "Enables AI clients like Claude Code to perform stock price queries and trading orders through NH투자증권's WMCA DLL using natural language.",
+  "source_repo": "mydream1208/wmca-mcp",
+  "source_url": "https://github.com/mydream1208/wmca-mcp",
+  "install": "npx -y wmca-mcp"
+}

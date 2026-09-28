@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-pr-cadin",
+  "description": "MCP server for querying the Paraná state tax agency's CADIN registry, read-only, hosted, with pay-per-use credits.",
+  "source_repo": "mcp-dir/sefaz_pr_cadin-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_pr_cadin-mcp",
+  "install": "npx -y sefaz_pr_cadin-mcp"
+}

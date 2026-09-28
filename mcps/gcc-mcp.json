@@ -1,0 +1,7 @@
+{
+  "name": "gcc-mcp",
+  "description": "Persistent, structured memory for AI coding agents via a git-like filesystem with branch/commit/merge tools, enabling agents to maintain context across sessions.",
+  "source_repo": "yanhao13/gcc-mcp",
+  "source_url": "https://github.com/yanhao13/gcc-mcp",
+  "install": "npx -y gcc-mcp"
+}

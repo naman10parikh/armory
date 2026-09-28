@@ -1,0 +1,7 @@
+{
+  "name": "repythonnet-mcp",
+  "description": "Enables static analysis and patching of .NET binaries through decompilation, IL analysis, renaming, and IL patching over the Model Context Protocol.",
+  "source_repo": "SEKOIA-IO/RePythonNET-MCP",
+  "source_url": "https://github.com/SEKOIA-IO/RePythonNET-MCP",
+  "install": "npx -y RePythonNET-MCP"
+}

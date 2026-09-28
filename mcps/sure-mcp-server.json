@@ -1,0 +1,7 @@
+{
+  "name": "sure-mcp-server",
+  "description": "Integrates the Sure self-hosted personal finance platform with Claude Desktop, enabling account management, transaction operations, category viewing, and AI chat via natural language.",
+  "source_repo": "robcerda/sure-mcp-server",
+  "source_url": "https://github.com/robcerda/sure-mcp-server",
+  "install": "npx -y sure-mcp-server"
+}

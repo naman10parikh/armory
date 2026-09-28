@@ -1,0 +1,7 @@
+{
+  "name": "cli-orchestrator-mcp",
+  "description": "Resilient multi-CLI orchestration server for AI agents that routes tasks to Claude, Gemini, or Codex with automatic retry, circuit breaker, and fallback.",
+  "source_repo": "lleontor705/cli-orchestrator-mcp",
+  "source_url": "https://github.com/lleontor705/cli-orchestrator-mcp",
+  "install": "npx -y cli-orchestrator-mcp"
+}

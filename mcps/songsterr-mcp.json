@@ -1,0 +1,7 @@
+{
+  "name": "songsterr-mcp",
+  "description": "Fetch Songsterr tabs and transpose them between tunings and string counts, outputting ASCII or Guitar Pro files.",
+  "source_repo": "jaegerpicker/SongsterrMCP",
+  "source_url": "https://github.com/jaegerpicker/SongsterrMCP",
+  "install": "# git clone --depth 1 https://github.com/jaegerpicker/SongsterrMCP\n# See source for mcpServers config block"
+}

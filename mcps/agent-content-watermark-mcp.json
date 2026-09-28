@@ -1,0 +1,7 @@
+{
+  "name": "agent-content-watermark-mcp",
+  "description": "Enables EU AI Act Article 50(2) compliant watermarking of AI-generated content using C2PA manifest envelopes.",
+  "source_repo": "CSOAI-ORG/agent-content-watermark-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/agent-content-watermark-mcp",
+  "install": "npx -y agent-content-watermark-mcp"
+}

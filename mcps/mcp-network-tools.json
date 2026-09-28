@@ -1,0 +1,7 @@
+{
+  "name": "mcp-network-tools",
+  "description": "A secure MCP server for network diagnostics, providing tools like ping, traceroute, whois, nslookup, dig, nmap, curl, and netstat through natural language interfaces.",
+  "source_repo": "kerbart/mcp-network-tool",
+  "source_url": "https://github.com/kerbart/mcp-network-tool",
+  "install": "# git clone --depth 1 https://github.com/kerbart/mcp-network-tool\n# See source for mcpServers config block"
+}

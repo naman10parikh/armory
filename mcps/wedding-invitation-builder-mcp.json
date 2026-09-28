@@ -1,0 +1,7 @@
+{
+  "name": "wedding-invitation-builder-mcp",
+  "description": "Enables creating and customizing mobile wedding invitations through natural language, with support for multiple designs, RSVP, maps, gallery, and share tokens.",
+  "source_repo": "minwoo19930301/wedding-invitation-builder-mcp",
+  "source_url": "https://github.com/minwoo19930301/wedding-invitation-builder-mcp",
+  "install": "npx -y wedding-invitation-builder-mcp"
+}

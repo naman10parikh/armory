@@ -1,0 +1,7 @@
+{
+  "name": "telnyx-mcp-server",
+  "description": "MCP server enabling interaction with Telnyx telephony, messaging, and AI assistant APIs through natural language.",
+  "source_repo": "fastmcp-me/telnyx-mcp-server",
+  "source_url": "https://github.com/fastmcp-me/telnyx-mcp-server",
+  "install": "npx -y telnyx-mcp-server"
+}

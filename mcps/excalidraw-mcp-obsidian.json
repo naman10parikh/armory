@@ -1,0 +1,7 @@
+{
+  "name": "excalidraw-mcp-obsidian",
+  "description": "MCP server enabling AI assistants to create and edit Excalidraw diagrams as Obsidian-native .excalidraw.md files, with style presets, batch element creation, arrow binding, and an Obsidian selection bridge for localized edits.",
+  "source_repo": "zzmkxd/excalidraw-mcp-obsidian",
+  "source_url": "https://github.com/zzmkxd/excalidraw-mcp-obsidian",
+  "install": "# git clone --depth 1 https://github.com/zzmkxd/excalidraw-mcp-obsidian\n# See source for mcpServers config block"
+}

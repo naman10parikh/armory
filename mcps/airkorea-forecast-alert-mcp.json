@@ -1,0 +1,7 @@
+{
+  "name": "airkorea-forecast-alert-mcp",
+  "description": "Enables querying Korean air quality forecasts, weekly ultrafine dust forecasts, high-concentration PM2.5 forecasts, particulate matter alarm statuses, ozone advisories, and yellow dust advisories from the AirKorea OpenAPI.",
+  "source_repo": "hlucent/airkorea-forecast-alert-mcp",
+  "source_url": "https://github.com/hlucent/airkorea-forecast-alert-mcp",
+  "install": "npx -y airkorea-forecast-alert-mcp"
+}

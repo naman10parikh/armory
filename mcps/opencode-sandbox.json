@@ -1,0 +1,7 @@
+{
+  "name": "opencode-sandbox",
+  "description": "Spins up isolated opencode instances in Docker containers as MCP servers, providing 80 tools for file and shell operations within a scoped workspace without exposing the host filesystem.",
+  "source_repo": "hsb3/opencode-sandbox",
+  "source_url": "https://github.com/hsb3/opencode-sandbox",
+  "install": "# git clone --depth 1 https://github.com/hsb3/opencode-sandbox\n# See source for mcpServers config block"
+}

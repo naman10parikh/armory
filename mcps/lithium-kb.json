@@ -1,0 +1,7 @@
+{
+  "name": "lithium-kb",
+  "description": "MCP server that provides a structured project knowledge base for AI coding agents, enabling project memory management, targeted document retrieval, and symbol map queries to improve token efficiency and context persistence.",
+  "source_repo": "liulinnuha/lithium-kb",
+  "source_url": "https://github.com/liulinnuha/lithium-kb",
+  "install": "# git clone --depth 1 https://github.com/liulinnuha/lithium-kb\n# See source for mcpServers config block"
+}

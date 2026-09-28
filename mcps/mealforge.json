@@ -1,0 +1,7 @@
+{
+  "name": "mealforge",
+  "description": "Enables AI-driven weekly meal planning with structured recipes, cooking steps, and grocery lists.",
+  "source_repo": "LooseWireDev/mealforge",
+  "source_url": "https://github.com/LooseWireDev/mealforge",
+  "install": "# git clone --depth 1 https://github.com/LooseWireDev/mealforge\n# See source for mcpServers config block"
+}

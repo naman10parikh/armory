@@ -1,0 +1,7 @@
+{
+  "name": "maasy-mcp-server",
+  "description": "Connects Claude to marketing intelligence, enabling brand scanning, content generation, campaign management, and CRM analysis through natural language.",
+  "source_repo": "BELIEVE-IT-GROUP/mcp-server",
+  "source_url": "https://github.com/BELIEVE-IT-GROUP/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/BELIEVE-IT-GROUP/mcp-server\n# See source for mcpServers config block"
+}

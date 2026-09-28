@@ -1,0 +1,7 @@
+{
+  "name": "luxare-retail-mcp",
+  "description": "An MCP server that exposes Diaspark retail reporting APIs for searching customers, sales history, and inventory through tools compatible with Claude Desktop and Claude Code.",
+  "source_repo": "akshayadeodiaspark/luxare-retail-mcp",
+  "source_url": "https://github.com/akshayadeodiaspark/luxare-retail-mcp",
+  "install": "npx -y luxare-retail-mcp"
+}

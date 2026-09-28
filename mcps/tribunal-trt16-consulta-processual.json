@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trt16-consulta-processual",
+  "description": "Provides a read-only MCP server to query process information from the Brazilian TRT16 labor court via an official source, working with any MCP client over HTTP with prepaid credits.",
+  "source_repo": "mcp-dir/tribunal_trt16_processo-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trt16_processo-mcp",
+  "install": "npx -y tribunal_trt16_processo-mcp"
+}

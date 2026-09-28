@@ -1,0 +1,7 @@
+{
+  "name": "agent-notifier",
+  "description": "Sends desktop notifications when agents complete tasks, supporting local and remote agents.",
+  "source_repo": "davidkelley/agent-notifier",
+  "source_url": "https://github.com/davidkelley/agent-notifier",
+  "install": "# git clone --depth 1 https://github.com/davidkelley/agent-notifier\n# See source for mcpServers config block"
+}

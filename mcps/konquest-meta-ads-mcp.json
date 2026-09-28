@@ -1,0 +1,7 @@
+{
+  "name": "konquest-meta-ads-mcp",
+  "description": "A Windows-ready MCP server to manage Meta Ads with Claude Code, providing ad creation, targeting checks, diagnostics, and safety gates for supervised ad operations.",
+  "source_repo": "Eastmapquest735/konquest-meta-ads-mcp",
+  "source_url": "https://github.com/Eastmapquest735/konquest-meta-ads-mcp",
+  "install": "npx -y konquest-meta-ads-mcp"
+}

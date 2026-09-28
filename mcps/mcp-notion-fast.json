@@ -1,0 +1,7 @@
+{
+  "name": "mcp-notion-fast",
+  "description": "A lightweight MCP server for Notion that enables natural language management of pages, databases, and blocks through the current Notion API.",
+  "source_repo": "TTaoGaming/mcp-notion-fast",
+  "source_url": "https://github.com/TTaoGaming/mcp-notion-fast",
+  "install": "# git clone --depth 1 https://github.com/TTaoGaming/mcp-notion-fast\n# See source for mcpServers config block"
+}

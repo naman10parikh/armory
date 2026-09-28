@@ -1,0 +1,7 @@
+{
+  "name": "timecamp-mcp-server",
+  "description": "Integrates TimeCamp time tracking into AI assistants, enabling real-time timer control, time entry management, smart search, and reporting.",
+  "source_repo": "kkeeling/timecamp-mcp-server",
+  "source_url": "https://github.com/kkeeling/timecamp-mcp-server",
+  "install": "npx -y timecamp-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "adb-sms",
+  "description": "Enables agents to read Android SMS verification codes via ADB and use them to complete web-based SMS login flows.",
+  "source_repo": "zalazp/mcp-adb-sms",
+  "source_url": "https://github.com/zalazp/mcp-adb-sms",
+  "install": "# git clone --depth 1 https://github.com/zalazp/mcp-adb-sms\n# See source for mcpServers config block"
+}

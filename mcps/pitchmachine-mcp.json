@@ -1,0 +1,7 @@
+{
+  "name": "pitchmachine-mcp",
+  "description": "MCP server that lets AI agents create hyper-personalized pitch microsites, manage receivers, generate pitches, and retrieve public URLs.",
+  "source_repo": "rcabanes-ops/pitchmachine-mcp",
+  "source_url": "https://github.com/rcabanes-ops/pitchmachine-mcp",
+  "install": "npx -y pitchmachine-mcp"
+}

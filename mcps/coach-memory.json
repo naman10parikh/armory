@@ -1,0 +1,7 @@
+{
+  "name": "coach-memory",
+  "description": "A personal career-coach memory service that ingests coaching logs, embeds them for semantic search, and exposes the memory to Claude clients via MCP, with a Next.js dashboard for browsing.",
+  "source_repo": "gianniskotsas/personal-coach",
+  "source_url": "https://github.com/gianniskotsas/personal-coach",
+  "install": "# git clone --depth 1 https://github.com/gianniskotsas/personal-coach\n# See source for mcpServers config block"
+}

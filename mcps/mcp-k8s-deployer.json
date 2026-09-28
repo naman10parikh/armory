@@ -1,0 +1,7 @@
+{
+  "name": "mcp-k8s-deployer",
+  "description": "Enables LLMs to dynamically orchestrate containerized application deployments to a Kubernetes cluster, handling configuration validation, manifest generation, dry-run planning, and service endpoint extraction.",
+  "source_repo": "stwins60/mcp-k8s-deployer",
+  "source_url": "https://github.com/stwins60/mcp-k8s-deployer",
+  "install": "# git clone --depth 1 https://github.com/stwins60/mcp-k8s-deployer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chrome-course-mcp",
+  "description": "A local MCP server that enables Codex to inspect and interact with Chrome tabs through the Chrome DevTools Protocol, primarily for collecting authorized Brightspace course materials into local folders.",
+  "source_repo": "CrispyW0nton/Chrome-MCP",
+  "source_url": "https://github.com/CrispyW0nton/Chrome-MCP",
+  "install": "npx -y Chrome-MCP"
+}

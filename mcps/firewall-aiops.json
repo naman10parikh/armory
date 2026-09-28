@@ -1,0 +1,7 @@
+{
+  "name": "firewall-aiops",
+  "description": "Governed OPNsense + pfSense firewall operations — gateway-health, rule-shadow, and blocked-traffic RCA, with guarded rule/alias writes, unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.",
+  "source_repo": "AIops-tools/Firewall-AIops",
+  "source_url": "https://github.com/AIops-tools/Firewall-AIops",
+  "install": "# git clone --depth 1 https://github.com/AIops-tools/Firewall-AIops\n# See source for mcpServers config block"
+}

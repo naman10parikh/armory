@@ -1,0 +1,7 @@
+{
+  "name": "muninn",
+  "description": "Provides persistent memory for AI coding agents via MCP, allowing them to recall fragility, decisions, and bugs across sessions.",
+  "source_repo": "ravnltd/muninn",
+  "source_url": "https://github.com/ravnltd/muninn",
+  "install": "# git clone --depth 1 https://github.com/ravnltd/muninn\n# See source for mcpServers config block"
+}

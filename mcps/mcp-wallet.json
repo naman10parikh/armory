@@ -1,0 +1,7 @@
+{
+  "name": "mcp-wallet",
+  "description": "Chain-agnostic MCP wallet interface for durable AI agents, enabling autonomous creation, signing, and broadcasting of native transfers while keeping mnemonics encrypted in local custody.",
+  "source_repo": "matt-scientist/mcp-wallet",
+  "source_url": "https://github.com/matt-scientist/mcp-wallet",
+  "install": "# git clone --depth 1 https://github.com/matt-scientist/mcp-wallet\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "visual-browser-agent",
+  "description": "Enables AI coding agents to see and interact with real Chrome pages through structured DOM inspection, targeted screenshots, recordings, and human-in-the-loop approvals across major coding-agent hosts.",
+  "source_repo": "Akakaui/visual-browser-agent",
+  "source_url": "https://github.com/Akakaui/visual-browser-agent",
+  "install": "# git clone --depth 1 https://github.com/Akakaui/visual-browser-agent\n# See source for mcpServers config block"
+}

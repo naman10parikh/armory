@@ -1,0 +1,7 @@
+{
+  "name": "import-guardian",
+  "description": "Scans generated JavaScript/TypeScript code to detect AI-hallucinated or suspicious npm package imports before installation, providing a verdict of CLEAN, REVIEW, or BLOCK.",
+  "source_repo": "Baneado98/import-guardian",
+  "source_url": "https://github.com/Baneado98/import-guardian",
+  "install": "# git clone --depth 1 https://github.com/Baneado98/import-guardian\n# See source for mcpServers config block"
+}

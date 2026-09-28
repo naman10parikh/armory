@@ -1,0 +1,7 @@
+{
+  "name": "youtube-analytics-mcp",
+  "description": "A local, read-only MCP server that provides Claude with private YouTube Analytics data—views, retention, traffic sources, demographics, revenue, and impressions/CTR—via authenticated Google APIs.",
+  "source_repo": "adilsonicjunior/youtube-analytics-mcp",
+  "source_url": "https://github.com/adilsonicjunior/youtube-analytics-mcp",
+  "install": "npx -y youtube-analytics-mcp"
+}

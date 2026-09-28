@@ -1,0 +1,7 @@
+{
+  "name": "shopify-mcp-manager",
+  "description": "Enables AI assistants like Cursor or Claude Desktop to fully manage a Shopify store using the Model Context Protocol, with tools for products, orders, customers, inventory, discounts, and analytics.",
+  "source_repo": "elsi06/shopify-mcp-manager",
+  "source_url": "https://github.com/elsi06/shopify-mcp-manager",
+  "install": "# git clone --depth 1 https://github.com/elsi06/shopify-mcp-manager\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "myscheme",
+  "description": "Enables searching live myScheme.gov.in schemes by eligibility, keyword, and detail lookup through MCP tools.",
+  "source_repo": "Monikaips/MCP",
+  "source_url": "https://github.com/Monikaips/MCP",
+  "install": "# git clone --depth 1 https://github.com/Monikaips/MCP\n# See source for mcpServers config block"
+}

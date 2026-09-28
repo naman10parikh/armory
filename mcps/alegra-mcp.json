@@ -1,0 +1,7 @@
+{
+  "name": "alegra-mcp",
+  "description": "Enables querying and managing Alegra inventory and products through natural language, including stock checks and product searches.",
+  "source_repo": "koutaxd2-dev/MCP-ALEGRA-",
+  "source_url": "https://github.com/koutaxd2-dev/MCP-ALEGRA-",
+  "install": "# git clone --depth 1 https://github.com/koutaxd2-dev/MCP-ALEGRA-\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gitbranchmcp",
+  "description": "A local-first MCP server for AI programming branch notes and mainline decision logging, supporting branch management, summary merging, and Markdown export with optional Git-mode for isolated branch conversations.",
+  "source_repo": "lianggaoyuan/GitBranchMCP",
+  "source_url": "https://github.com/lianggaoyuan/GitBranchMCP",
+  "install": "# git clone --depth 1 https://github.com/lianggaoyuan/GitBranchMCP\n# See source for mcpServers config block"
+}

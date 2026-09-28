@@ -1,0 +1,7 @@
+{
+  "name": "processos-judiciais-completa",
+  "description": "Enables complete judicial process lookup for individuals or companies via CPF/CNPJ, returning detailed case information. Works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/processos_judiciais_completa-mcp",
+  "source_url": "https://github.com/mcp-dir/processos_judiciais_completa-mcp",
+  "install": "npx -y processos_judiciais_completa-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "schwab-mcp",
+  "description": "Exposes Charles Schwab brokerage data to AI assistants via MCP, enabling natural language queries about positions, option chains, account balances, and trade audits with Lightning micropayment monetization.",
+  "source_repo": "lonniev/schwab-mcp",
+  "source_url": "https://github.com/lonniev/schwab-mcp",
+  "install": "npx -y schwab-mcp"
+}

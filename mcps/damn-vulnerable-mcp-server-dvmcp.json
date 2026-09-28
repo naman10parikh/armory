@@ -1,0 +1,7 @@
+{
+  "name": "damn-vulnerable-mcp-server-dvmcp",
+  "description": "An intentionally vulnerable MCP server for security training, enabling users to practice attacking and defending AI agents through realistic scenarios.",
+  "source_repo": "Kyze-Labs/damn-vulnerable-MCP-Server",
+  "source_url": "https://github.com/Kyze-Labs/damn-vulnerable-MCP-Server",
+  "install": "npx -y damn-vulnerable-MCP-Server"
+}

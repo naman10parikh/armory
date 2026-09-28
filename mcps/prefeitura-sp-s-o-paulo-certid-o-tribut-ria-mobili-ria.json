@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-sp-s-o-paulo-certid-o-tribut-ria-mobili-ria",
+  "description": "Consulta a fonte oficial da Prefeitura de São Paulo para emitir Certidões Tributárias Mobiliárias, via ferramenta somente leitura.",
+  "source_repo": "mcp-dir/pref_sp_sao_paulo_ctm-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_sp_sao_paulo_ctm-mcp",
+  "install": "npx -y pref_sp_sao_paulo_ctm-mcp"
+}

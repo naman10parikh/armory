@@ -1,0 +1,7 @@
+{
+  "name": "mcp1",
+  "description": "A minimal MCP server that tells an interactive knock-knock joke suitable for children, supporting both local stdio and HTTP deployments.",
+  "source_repo": "bcauley70/mcp1",
+  "source_url": "https://github.com/bcauley70/mcp1",
+  "install": "# git clone --depth 1 https://github.com/bcauley70/mcp1\n# See source for mcpServers config block"
+}

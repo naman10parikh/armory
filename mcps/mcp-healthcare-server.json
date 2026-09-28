@@ -1,0 +1,7 @@
+{
+  "name": "mcp-healthcare-server",
+  "description": "An MCP server for clinical workflows with tools for patient lookup, appointment booking, prescriptions, drug interactions, symptom triage, lab results, insurance eligibility, and telehealth, enforcing role-based access control and audit logging.",
+  "source_repo": "SaadRiaz99/mcp-medical-tools",
+  "source_url": "https://github.com/SaadRiaz99/mcp-medical-tools",
+  "install": "# git clone --depth 1 https://github.com/SaadRiaz99/mcp-medical-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "guion-web-mcp-server",
+  "description": "Enables web research through multi-provider search, documentation lookup, public code search, and clean Markdown extraction from static or JavaScript-rendered pages via five read-only tools.",
+  "source_repo": "GuionAI/web",
+  "source_url": "https://github.com/GuionAI/web",
+  "install": "# git clone --depth 1 https://github.com/GuionAI/web\n# See source for mcpServers config block"
+}

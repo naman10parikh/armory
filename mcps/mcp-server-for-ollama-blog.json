@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-for-ollama-blog",
+  "description": "Exposes a blog CRUD API (posts and comments) as MCP tools, with an integrated AI chatbot agent powered by Ollama Gemma2 for natural language interaction.",
+  "source_repo": "varun123936/mcp-server-ollama",
+  "source_url": "https://github.com/varun123936/mcp-server-ollama",
+  "install": "# git clone --depth 1 https://github.com/varun123936/mcp-server-ollama\n# See source for mcpServers config block"
+}

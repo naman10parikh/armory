@@ -1,0 +1,7 @@
+{
+  "name": "io-github-xfloukiex-lab-road-poneglyph",
+  "description": "Enables reviewing plans for unstated assumptions, risks, and blind spots through a structured pre-mortem analysis.",
+  "source_repo": "xfloukiex-lab/road-poneglyph",
+  "source_url": "https://github.com/xfloukiex-lab/road-poneglyph",
+  "install": "# git clone --depth 1 https://github.com/xfloukiex-lab/road-poneglyph\n# See source for mcpServers config block"
+}

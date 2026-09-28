@@ -1,0 +1,7 @@
+{
+  "name": "happy-mcp",
+  "description": "A standalone MCP gateway that lets external AIs control Happy machines via OAuth, with dual LLM review for sensitive operations. Enables secure remote control of approved machines and directories through natural language.",
+  "source_repo": "hlife0/happy-mcp",
+  "source_url": "https://github.com/hlife0/happy-mcp",
+  "install": "npx -y happy-mcp"
+}

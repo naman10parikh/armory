@@ -1,0 +1,7 @@
+{
+  "name": "janus-kinematic-drive",
+  "description": "Gives your agent a private Kinematic Drive: a deterministic memory engine for sub-millisecond exact recall over code and docs with no hallucination. Also provides self-serve checkout and metered pay-per-call tools for AI agents.",
+  "source_repo": "janus-ubos-republic/janus-kinematic-drive",
+  "source_url": "https://github.com/janus-ubos-republic/janus-kinematic-drive",
+  "install": "# git clone --depth 1 https://github.com/janus-ubos-republic/janus-kinematic-drive\n# See source for mcpServers config block"
+}

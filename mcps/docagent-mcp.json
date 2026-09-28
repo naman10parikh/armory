@@ -1,0 +1,7 @@
+{
+  "name": "docagent-mcp",
+  "description": "Enables local document question-answering and retrieval via MCP, supporting multi-turn conversation, intent recognition, and tools for document search, Q&A, and summarization.",
+  "source_repo": "wuliuke/docagent-mcp",
+  "source_url": "https://github.com/wuliuke/docagent-mcp",
+  "install": "npx -y docagent-mcp"
+}

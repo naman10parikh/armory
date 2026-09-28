@@ -1,0 +1,7 @@
+{
+  "name": "voidmail",
+  "description": "Email for AI agents. Create inboxes, send and receive emails without phone or CAPTCHA.",
+  "source_repo": "voidly-ai/mcp-email",
+  "source_url": "https://github.com/voidly-ai/mcp-email",
+  "install": "# git clone --depth 1 https://github.com/voidly-ai/mcp-email\n# See source for mcpServers config block"
+}

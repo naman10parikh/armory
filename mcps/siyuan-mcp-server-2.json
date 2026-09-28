@@ -1,0 +1,7 @@
+{
+  "name": "siyuan-mcp-server-2",
+  "description": "Enables AI assistants to create, read, update, and manage SiYuan notes, supporting notebook management, document operations, block editing, database attribute views, search, file operations, and export.",
+  "source_repo": "rexding97/siyuan-mcp-server",
+  "source_url": "https://github.com/rexding97/siyuan-mcp-server",
+  "install": "npx -y siyuan-mcp-server"
+}

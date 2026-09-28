@@ -1,0 +1,7 @@
+{
+  "name": "e2b-universal-mcp-server",
+  "description": "Enables interaction with E2b's tools and services through a standardized MCP interface, allowing AI agents to use E2b capabilities.",
+  "source_repo": "universal-mcp/e2b",
+  "source_url": "https://github.com/universal-mcp/e2b",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/e2b\n# See source for mcpServers config block"
+}

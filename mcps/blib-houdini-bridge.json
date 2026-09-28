@@ -1,0 +1,7 @@
+{
+  "name": "blib-houdini-bridge",
+  "description": "Enables AI assistants and CLI tools to read and control Houdini scenes with a safety model that separates read and write operations.",
+  "source_repo": "760849256/houdini-mcp-cli",
+  "source_url": "https://github.com/760849256/houdini-mcp-cli",
+  "install": "# git clone --depth 1 https://github.com/760849256/houdini-mcp-cli\n# See source for mcpServers config block"
+}

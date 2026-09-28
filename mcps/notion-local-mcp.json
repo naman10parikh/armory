@@ -1,0 +1,7 @@
+{
+  "name": "notion-local-mcp",
+  "description": "Reads the local SQLite cache of the Notion desktop app to enable fast, offline search and retrieval of Notion pages from Claude.",
+  "source_repo": "lu1ee/notion-local-mcp",
+  "source_url": "https://github.com/lu1ee/notion-local-mcp",
+  "install": "npx -y notion-local-mcp"
+}

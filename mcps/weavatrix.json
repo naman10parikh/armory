@@ -1,0 +1,7 @@
+{
+  "name": "weavatrix",
+  "description": "Provides a dependency graph of any local repository with tools for change impact, transitive dependents, health audits, and more, enabling AI coding agents to see structure and refactor safely.",
+  "source_repo": "sergii-ziborov/weavatrix",
+  "source_url": "https://github.com/sergii-ziborov/weavatrix",
+  "install": "# git clone --depth 1 https://github.com/sergii-ziborov/weavatrix\n# See source for mcpServers config block"
+}

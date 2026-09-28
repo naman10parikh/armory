@@ -1,0 +1,7 @@
+{
+  "name": "perceive",
+  "description": "Reachability-filtered browser perception and actions for AI agents. Filters snapshots to elements a user could actually reach (removes modal-occluded, closed-drawer, off-screen and inert elements), with ref-stable snapshots and state diffs.",
+  "source_repo": "gauthierpiarrette/perceive",
+  "source_url": "https://github.com/gauthierpiarrette/perceive",
+  "install": "# git clone --depth 1 https://github.com/gauthierpiarrette/perceive\n# See source for mcpServers config block"
+}

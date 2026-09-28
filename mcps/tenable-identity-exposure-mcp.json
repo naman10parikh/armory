@@ -1,0 +1,7 @@
+{
+  "name": "tenable-identity-exposure-mcp",
+  "description": "Provides MCP tools to query the Tenable Identity Exposure (TIE) API for security profiles, deviances, attacks, and activity timelines, with enforced read-only mode to protect credentials.",
+  "source_repo": "ukkugh/tenable-identity-exposure-mcp",
+  "source_url": "https://github.com/ukkugh/tenable-identity-exposure-mcp",
+  "install": "npx -y tenable-identity-exposure-mcp"
+}

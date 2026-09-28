@@ -1,0 +1,7 @@
+{
+  "name": "ops-mcp-kit",
+  "description": "Enables AI assistants to query company logs, databases, caches, and config centers (e.g., Aliyun SLS, MySQL, Redis, Nacos) through local MCP servers, with read-only enforcement and SSH tunneling for production access.",
+  "source_repo": "1907670605/ops-mcp-kit",
+  "source_url": "https://github.com/1907670605/ops-mcp-kit",
+  "install": "# git clone --depth 1 https://github.com/1907670605/ops-mcp-kit\n# See source for mcpServers config block"
+}

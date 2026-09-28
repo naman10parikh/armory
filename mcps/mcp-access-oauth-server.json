@@ -1,0 +1,7 @@
+{
+  "name": "mcp-access-oauth-server",
+  "description": "Remote MCP server with built-in OAuth authentication via Cloudflare Access, enabling secure tool access and user identity-based restrictions.",
+  "source_repo": "sheevu/mcp-access-oauth",
+  "source_url": "https://github.com/sheevu/mcp-access-oauth",
+  "install": "# git clone --depth 1 https://github.com/sheevu/mcp-access-oauth\n# See source for mcpServers config block"
+}

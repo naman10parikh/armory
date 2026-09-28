@@ -1,0 +1,7 @@
+{
+  "name": "collectives-mcp",
+  "description": "MCP server for Nextcloud Collectives that exposes collectives, pages, tags, attachments, page history, and trash to Claude and MCP-compatible clients via OCS API and WebDAV.",
+  "source_repo": "megamaced/nc_collectives-mcp",
+  "source_url": "https://github.com/megamaced/nc_collectives-mcp",
+  "install": "npx -y nc_collectives-mcp"
+}

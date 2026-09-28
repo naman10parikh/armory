@@ -1,0 +1,7 @@
+{
+  "name": "mcp-meteors",
+  "description": "Provides NASA fireball, near-Earth asteroid, and close approach data via MCP, enabling users to query space object information using natural language.",
+  "source_repo": "pipeworx-io/mcp-meteors",
+  "source_url": "https://github.com/pipeworx-io/mcp-meteors",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-meteors\n# See source for mcpServers config block"
+}

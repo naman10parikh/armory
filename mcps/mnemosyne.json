@@ -1,0 +1,7 @@
+{
+  "name": "mnemosyne",
+  "description": "Provides persistent memory for LLM applications, enabling AI assistants to remember user preferences, facts, and conversation history across sessions.",
+  "source_repo": "kharshita590/Mnemosyne",
+  "source_url": "https://github.com/kharshita590/Mnemosyne",
+  "install": "# git clone --depth 1 https://github.com/kharshita590/Mnemosyne\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "apify-mcp-server",
+  "description": "Enables web scraping, browser automation, and dataset management through Apify's actor platform.",
+  "source_repo": "madaoQ/apify-mcp",
+  "source_url": "https://github.com/madaoQ/apify-mcp",
+  "install": "npx -y apify-mcp"
+}

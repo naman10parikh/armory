@@ -1,0 +1,7 @@
+{
+  "name": "mcp-wayback-machine-server",
+  "description": "MCP server and CLI tool for interacting with the Internet Archive's Wayback Machine, supporting full CDX search, snapshot retrieval, screenshot listing, snapshot comparison, and optional authentication.",
+  "source_repo": "Mearman/mcp-wayback-machine",
+  "source_url": "https://github.com/Mearman/mcp-wayback-machine",
+  "install": "# git clone --depth 1 https://github.com/Mearman/mcp-wayback-machine\n# See source for mcpServers config block"
+}

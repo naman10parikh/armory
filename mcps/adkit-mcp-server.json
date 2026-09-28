@@ -1,0 +1,7 @@
+{
+  "name": "adkit-mcp-server",
+  "description": "A lightweight semantic ad-matching engine for LLMs that serves relevant advertisements via MCP, allowing agents to request ads using natural-language context.",
+  "source_repo": "Exorust/Adkit-MCP",
+  "source_url": "https://github.com/Exorust/Adkit-MCP",
+  "install": "npx -y Adkit-MCP"
+}

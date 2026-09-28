@@ -1,0 +1,7 @@
+{
+  "name": "uk-ai-bill-compliance-mcp",
+  "description": "MCP server for UK AI Bill 2026 compliance, implementing a 5-principles framework (Safety, Transparency, Fairness, Accountability, Contestability) to help audit and classify AI systems.",
+  "source_repo": "CSOAI-ORG/uk-ai-bill-compliance-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/uk-ai-bill-compliance-mcp",
+  "install": "npx -y uk-ai-bill-compliance-mcp"
+}

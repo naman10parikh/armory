@@ -1,0 +1,7 @@
+{
+  "name": "desktopbridge",
+  "description": "Enables local macOS automation via the Model Context Protocol, allowing file operations, system monitoring, shell commands, clipboard access, and screenshots with configurable security restrictions.",
+  "source_repo": "jameymcelveen/desktop-bridge",
+  "source_url": "https://github.com/jameymcelveen/desktop-bridge",
+  "install": "# git clone --depth 1 https://github.com/jameymcelveen/desktop-bridge\n# See source for mcpServers config block"
+}

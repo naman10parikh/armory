@@ -1,0 +1,7 @@
+{
+  "name": "mcp-archiveorg",
+  "description": "An MCP server for the Internet Archive that enables searching the full text of digitized books, browsing the catalogue, and reading Wayback Machine captures. No API key or configuration required.",
+  "source_repo": "smeet666/mcp-archiveorg",
+  "source_url": "https://github.com/smeet666/mcp-archiveorg",
+  "install": "# git clone --depth 1 https://github.com/smeet666/mcp-archiveorg\n# See source for mcpServers config block"
+}

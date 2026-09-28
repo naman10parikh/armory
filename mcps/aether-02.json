@@ -1,0 +1,7 @@
+{
+  "name": "aether-02",
+  "description": "AETHER_02 is an MCP server written in Rust that gives AI assistants full control over Linux via standard input/output.",
+  "source_repo": "foursecondfivefour/aether-linux-mcp-server",
+  "source_url": "https://github.com/foursecondfivefour/aether-linux-mcp-server",
+  "install": "npx -y aether-linux-mcp-server"
+}

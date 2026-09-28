@@ -1,0 +1,7 @@
+{
+  "name": "nexustrader-mcp",
+  "description": "Exposes NexusTrader's account, positions, market data, and trading capabilities to AI assistants via natural language.",
+  "source_repo": "Quantweb3-com/NexusTrader-mcp",
+  "source_url": "https://github.com/Quantweb3-com/NexusTrader-mcp",
+  "install": "npx -y NexusTrader-mcp"
+}

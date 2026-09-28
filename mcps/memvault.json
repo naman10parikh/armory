@@ -1,0 +1,7 @@
+{
+  "name": "memvault",
+  "description": "A local knowledge engine for AI agents that captures, retrieves, and serves agent sessions via hybrid search and MCP.",
+  "source_repo": "heonyus/memvault",
+  "source_url": "https://github.com/heonyus/memvault",
+  "install": "# git clone --depth 1 https://github.com/heonyus/memvault\n# See source for mcpServers config block"
+}

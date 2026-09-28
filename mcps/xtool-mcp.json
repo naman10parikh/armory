@@ -1,0 +1,7 @@
+{
+  "name": "xtool-mcp",
+  "description": "Provides tools and resources for interacting with xTool laser machines, enabling material settings recommendations, design generation, troubleshooting, and machine knowledge through natural language.",
+  "source_repo": "iamcoyr/xtool-mcp",
+  "source_url": "https://github.com/iamcoyr/xtool-mcp",
+  "install": "npx -y xtool-mcp"
+}

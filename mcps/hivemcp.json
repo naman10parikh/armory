@@ -1,0 +1,7 @@
+{
+  "name": "hivemcp",
+  "description": "MCP server that generates and edits PowerPoint, Word, and Excel files for OpenWebUI, exposing both MCP and OpenAPI interfaces for document creation and editing.",
+  "source_repo": "traxonLp/HiveMCP",
+  "source_url": "https://github.com/traxonLp/HiveMCP",
+  "install": "# git clone --depth 1 https://github.com/traxonLp/HiveMCP\n# See source for mcpServers config block"
+}

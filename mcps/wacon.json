@@ -1,0 +1,7 @@
+{
+  "name": "wacon",
+  "description": "Connects WhatsApp with AI agents and CLI, enabling agents to read and send messages while imitating the user's unique communication style per contact through a local memory system.",
+  "source_repo": "JOSETRA44/wacon-mcp",
+  "source_url": "https://github.com/JOSETRA44/wacon-mcp",
+  "install": "npx -y wacon-mcp"
+}

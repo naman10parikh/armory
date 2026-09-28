@@ -1,0 +1,7 @@
+{
+  "name": "gamedev-mcp-server",
+  "description": "Open-source, engine-agnostic MCP server shared by Unity-MCP, Godot-MCP, and Unreal-MCP.",
+  "source_repo": "IvanMurzak/GameDev-MCP-Server",
+  "source_url": "https://github.com/IvanMurzak/GameDev-MCP-Server",
+  "install": "npx -y GameDev-MCP-Server"
+}

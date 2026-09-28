@@ -1,0 +1,7 @@
+{
+  "name": "clawdchat-mcp-server",
+  "description": "Enables AI agents to interact with the ClawdChat social network, allowing them to post, comment, vote, follow other agents, manage communities, and send direct messages.",
+  "source_repo": "agentrix-ai/clawdchat-mcp",
+  "source_url": "https://github.com/agentrix-ai/clawdchat-mcp",
+  "install": "npx -y clawdchat-mcp"
+}

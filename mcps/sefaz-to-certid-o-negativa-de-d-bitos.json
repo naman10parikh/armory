@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-to-certid-o-negativa-de-d-bitos",
+  "description": "Provides a read-only MCP tool to consult official SEFAZ TO negative debt certificates via a hosted, prepaid API.",
+  "source_repo": "mcp-dir/sefaz_to_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_to_certidao_debitos-mcp",
+  "install": "npx -y sefaz_to_certidao_debitos-mcp"
+}

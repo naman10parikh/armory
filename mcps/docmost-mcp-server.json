@@ -1,0 +1,7 @@
+{
+  "name": "docmost-mcp-server",
+  "description": "Enables AI agents to search, create, modify, and organize documentation pages and spaces in Docmost.",
+  "source_repo": "MrMartiniMo/docmost-mcp",
+  "source_url": "https://github.com/MrMartiniMo/docmost-mcp",
+  "install": "npx -y docmost-mcp"
+}

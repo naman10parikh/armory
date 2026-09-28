@@ -1,0 +1,7 @@
+{
+  "name": "domotz-mcp-server",
+  "description": "Enables Claude to query and manage Domotz network monitoring through 133 API actions, covering collectors, devices, alerts, and configuration.",
+  "source_repo": "jacedomotz/domotz-mcp-server",
+  "source_url": "https://github.com/jacedomotz/domotz-mcp-server",
+  "install": "npx -y domotz-mcp-server"
+}

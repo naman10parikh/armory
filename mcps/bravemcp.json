@@ -1,0 +1,7 @@
+{
+  "name": "bravemcp",
+  "description": "A local-first browser extension and MCP server that captures your browsing history, bookmarks, highlights, and notes, making them searchable by Claude Desktop as a personal memory assistant.",
+  "source_repo": "glatinone/BraveMCP",
+  "source_url": "https://github.com/glatinone/BraveMCP",
+  "install": "# git clone --depth 1 https://github.com/glatinone/BraveMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "repiscope",
+  "description": "A read-only MCP server that gives coding agents structured, read-only access to sibling repositories, ensuring security by design with zero write tools.",
+  "source_repo": "3xpr1ment/repiscope",
+  "source_url": "https://github.com/3xpr1ment/repiscope",
+  "install": "# git clone --depth 1 https://github.com/3xpr1ment/repiscope\n# See source for mcpServers config block"
+}

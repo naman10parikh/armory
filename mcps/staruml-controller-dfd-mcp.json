@@ -1,0 +1,7 @@
+{
+  "name": "staruml-controller-dfd-mcp",
+  "description": "An MCP server specialized for Data Flow Diagrams, enabling AI assistants to programmatically create and manage DFD elements like external entities, processes, data stores, and data flows in StarUML.",
+  "source_repo": "pontasan/staruml-controller-dfd-mcp",
+  "source_url": "https://github.com/pontasan/staruml-controller-dfd-mcp",
+  "install": "npx -y staruml-controller-dfd-mcp"
+}

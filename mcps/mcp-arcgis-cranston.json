@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arcgis-cranston",
+  "description": "Enables querying and searching Cranston, Rhode Island open geospatial datasets (parcels, zoning, city services) via ArcGIS Feature Services.",
+  "source_repo": "pipeworx-io/mcp-arcgis-cranston",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-cranston",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-cranston\n# See source for mcpServers config block"
+}

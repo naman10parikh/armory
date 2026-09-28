@@ -1,0 +1,7 @@
+{
+  "name": "thread-contract-mcp-server",
+  "description": "Thread Contract is a local runtime contract layer for AI coding-agent threads. It lets users pin explicit, thread-scoped rules without turning them into project policy or long-term memory.",
+  "source_repo": "ch998244353/Thread-Contract-mcp",
+  "source_url": "https://github.com/ch998244353/Thread-Contract-mcp",
+  "install": "npx -y Thread-Contract-mcp"
+}

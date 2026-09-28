@@ -1,0 +1,7 @@
+{
+  "name": "project-graph-mcp",
+  "description": "Maximizes AI agent context window by enabling compact code reading and editing, reducing tokens by 40% for deeper codebase understanding.",
+  "source_repo": "rnd-pro/project-graph-mcp",
+  "source_url": "https://github.com/rnd-pro/project-graph-mcp",
+  "install": "npx -y project-graph-mcp"
+}

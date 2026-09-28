@@ -1,0 +1,7 @@
+{
+  "name": "taskpad",
+  "description": "A Windows system-tray task manager with MCP server integration, enabling Claude Code, Claude Desktop, and claude.ai to read and write tasks via stdio or SSE.",
+  "source_repo": "Evert-vh/TaskPad",
+  "source_url": "https://github.com/Evert-vh/TaskPad",
+  "install": "# git clone --depth 1 https://github.com/Evert-vh/TaskPad\n# See source for mcpServers config block"
+}

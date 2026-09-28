@@ -1,0 +1,7 @@
+{
+  "name": "betting-brain-v3",
+  "description": "Provides betting intelligence and analytics tools including exposure, CLV, sharp scoring, live betting, and Fantasy402 integration, running on Cloudflare Edge.",
+  "source_repo": "brendadeeznuts1111/betting-brain-v3",
+  "source_url": "https://github.com/brendadeeznuts1111/betting-brain-v3",
+  "install": "# git clone --depth 1 https://github.com/brendadeeznuts1111/betting-brain-v3\n# See source for mcpServers config block"
+}

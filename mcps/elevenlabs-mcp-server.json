@@ -1,0 +1,7 @@
+{
+  "name": "elevenlabs-mcp-server",
+  "description": "Enables text-to-speech conversion using ElevenLabs API with voice management, streaming support, and multiple models.",
+  "source_repo": "mafzaal/elevan-labs-mcp",
+  "source_url": "https://github.com/mafzaal/elevan-labs-mcp",
+  "install": "npx -y elevan-labs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mithra-mcp",
+  "description": "Turns a one-person, multi-project workspace into state an agent can reason over, exposing live git status, Kanban boards, tasks, standups, and production health as queryable tools via MCP.",
+  "source_repo": "RuiciroRS/mithra-mcp",
+  "source_url": "https://github.com/RuiciroRS/mithra-mcp",
+  "install": "npx -y mithra-mcp"
+}

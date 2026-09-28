@@ -1,0 +1,7 @@
+{
+  "name": "ol-ops-mcp",
+  "description": "Enables secure SSH-based operations on Oracle Linux 8+ hosts through a curated, YAML-defined capability catalog, with typed parameters, two-phase confirmations for mutations, and full audit logging.",
+  "source_repo": "Kevenny/MCP-SSH",
+  "source_url": "https://github.com/Kevenny/MCP-SSH",
+  "install": "# git clone --depth 1 https://github.com/Kevenny/MCP-SSH\n# See source for mcpServers config block"
+}

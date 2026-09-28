@@ -1,0 +1,7 @@
+{
+  "name": "cripto-norte-telegram-mcp-server",
+  "description": "Enables publishing posts to a Telegram channel via an MCP tool, designed for scheduled content delivery and integration with Claude.",
+  "source_repo": "petazuev228277/cripto-norte-telegram-mcp",
+  "source_url": "https://github.com/petazuev228277/cripto-norte-telegram-mcp",
+  "install": "npx -y cripto-norte-telegram-mcp"
+}

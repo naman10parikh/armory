@@ -1,6 +1,6 @@
 {
   "name": "servicestack-mcp",
-  "description": "Servicestack Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "ServiceStack/servicestack-mcp",
   "source_url": "https://mcp.so/server/servicestack-mcp/ServiceStack",
   "install": "npx -y servicestack-mcp"

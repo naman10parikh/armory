@@ -1,0 +1,7 @@
+{
+  "name": "brainbase-mcp",
+  "description": "Enables management of Brainbase agents, components, evals, tasks, and more via a remote MCP connection with OAuth authentication.",
+  "source_repo": "BrainbaseHQ/brainbase-mcp",
+  "source_url": "https://github.com/BrainbaseHQ/brainbase-mcp",
+  "install": "npx -y brainbase-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-openai-platform",
+  "description": "A local MCP server exposing the OpenAI platform REST API as tools for file management, fine-tuning, inference, images, audio, batch processing, and organization usage/costs.",
+  "source_repo": "cyclomax-x/open_ai_mcp",
+  "source_url": "https://github.com/cyclomax-x/open_ai_mcp",
+  "install": "npx -y open_ai_mcp"
+}

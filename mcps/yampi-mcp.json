@@ -1,0 +1,7 @@
+{
+  "name": "yampi-mcp",
+  "description": "An MCP server that lets you manage a Yampi e-commerce store through natural language, enabling operations like looking up orders, creating products, adjusting stock, and building coupons and offers.",
+  "source_repo": "Eduardo-Orsi/yampi-mcp",
+  "source_url": "https://github.com/Eduardo-Orsi/yampi-mcp",
+  "install": "npx -y yampi-mcp"
+}

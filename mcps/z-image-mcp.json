@@ -1,0 +1,7 @@
+{
+  "name": "z-image-mcp",
+  "description": "Enables text-to-image generation using Z Image models via RunAPI, with task management and pricing lookup.",
+  "source_repo": "runapi-ai/z-image-mcp",
+  "source_url": "https://github.com/runapi-ai/z-image-mcp",
+  "install": "npx -y z-image-mcp"
+}

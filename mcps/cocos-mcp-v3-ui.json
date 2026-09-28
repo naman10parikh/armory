@@ -1,0 +1,7 @@
+{
+  "name": "cocos-mcp-v3-ui",
+  "description": "An MCP server that lets Claude Code drive the Cocos Creator 3.8.x editor to build UI, enabling translation of Figma designs into Cocos scenes by creating nodes, components, sprites, and prefabs.",
+  "source_repo": "nguyennt02/cocos-mcp-v3-ui",
+  "source_url": "https://github.com/nguyennt02/cocos-mcp-v3-ui",
+  "install": "# git clone --depth 1 https://github.com/nguyennt02/cocos-mcp-v3-ui\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uis-mcp-server",
+  "description": "MCP server for UNESCO UIS statistics enabling search of indicators, listing of geographical units, and data retrieval with provenance and license compliance.",
+  "source_repo": "SidneyBissoli/uis-mcp-server",
+  "source_url": "https://github.com/SidneyBissoli/uis-mcp-server",
+  "install": "npx -y uis-mcp-server"
+}

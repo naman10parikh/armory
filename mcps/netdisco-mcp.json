@@ -1,0 +1,7 @@
+{
+  "name": "netdisco-mcp",
+  "description": "Enables AI agents to interact with the Netdisco network management platform through its complete REST API, supporting device inspection, port queries, VLAN searches, and job management.",
+  "source_repo": "omichelbraga/netdisco-mcp",
+  "source_url": "https://github.com/omichelbraga/netdisco-mcp",
+  "install": "npx -y netdisco-mcp"
+}

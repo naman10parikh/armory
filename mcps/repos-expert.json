@@ -1,0 +1,7 @@
+{
+  "name": "repos-expert",
+  "description": "MCP server that studies a folder of code repositories, generates markdown documentation (architecture, interfaces, activity), and serves answers over MCP with live ripgrep search and file reads so AI assistants can query codebases and their relationships.",
+  "source_repo": "end1989/repos-expert",
+  "source_url": "https://github.com/end1989/repos-expert",
+  "install": "# git clone --depth 1 https://github.com/end1989/repos-expert\n# See source for mcpServers config block"
+}

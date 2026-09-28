@@ -1,0 +1,7 @@
+{
+  "name": "vertex-ai-search-mcp-server",
+  "description": "Enables integration with Google Cloud Vertex AI Search for enterprise search capabilities through a stdio-based MCP server.",
+  "source_repo": "hi120ki/mcp-vertex-ai-search-ts-stdio",
+  "source_url": "https://github.com/hi120ki/mcp-vertex-ai-search-ts-stdio",
+  "install": "# git clone --depth 1 https://github.com/hi120ki/mcp-vertex-ai-search-ts-stdio\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tableau-mcp-dev",
+  "description": "MCP server that wraps the Tableau REST API and VizQL Data Service to expose tools for listing workbooks/datasources and querying datasources, enabling LLM agents to interact with Tableau Server/Cloud through natural language.",
+  "source_repo": "rfawwaz13/tableau-mcp-dev",
+  "source_url": "https://github.com/rfawwaz13/tableau-mcp-dev",
+  "install": "# git clone --depth 1 https://github.com/rfawwaz13/tableau-mcp-dev\n# See source for mcpServers config block"
+}

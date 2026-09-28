@@ -1,0 +1,7 @@
+{
+  "name": "tasq",
+  "description": "A local-first task manager with SQLite backend, exposed as CLI, TUI, and MCP server. Enables AI assistants to manage tasks via tools for add, edit, search, plan, and more.",
+  "source_repo": "ptucholski/tasq",
+  "source_url": "https://github.com/ptucholski/tasq",
+  "install": "# git clone --depth 1 https://github.com/ptucholski/tasq\n# See source for mcpServers config block"
+}

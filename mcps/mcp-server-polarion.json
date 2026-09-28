@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-polarion",
+  "description": "A Model Context Protocol (MCP) server for Polarion ALM. Lets AI assistants read documents, work items, and traceability links — and create, update, and reorganize work items — directly from your Polarion instance.",
+  "source_repo": "devemberx/mcp-server-polarion",
+  "source_url": "https://github.com/devemberx/mcp-server-polarion",
+  "install": "# git clone --depth 1 https://github.com/devemberx/mcp-server-polarion\n# See source for mcpServers config block"
+}

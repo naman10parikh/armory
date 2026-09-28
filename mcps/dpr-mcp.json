@@ -1,0 +1,7 @@
+{
+  "name": "dpr-mcp",
+  "description": "Provides a Model Context Protocol interface for secure, multi-agent collaboration on Git repositories, offering isolated workspaces, change requests, reviews, and approval workflows with Git as the source of truth.",
+  "source_repo": "Charan-Sharan/dpr-mcp",
+  "source_url": "https://github.com/Charan-Sharan/dpr-mcp",
+  "install": "npx -y dpr-mcp"
+}

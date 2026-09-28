@@ -1,0 +1,7 @@
+{
+  "name": "reletter",
+  "description": "Search 7M+ newsletters and full-text archives, with subscriber numbers, contacts, social accounts, rankings, and audience data.",
+  "source_repo": "getreletter/reletter-mcp",
+  "source_url": "https://github.com/getreletter/reletter-mcp",
+  "install": "npx -y reletter-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prowlo-mcp",
+  "description": "Enables AI agents to semantically search and access read-only Reddit and X data through a hosted MCP server, with residential proxy crawling and no API credentials required.",
+  "source_repo": "prowlo-com/prowlo-mcp",
+  "source_url": "https://github.com/prowlo-com/prowlo-mcp",
+  "install": "npx -y prowlo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gmail-mcp-server-artymclabin-fork",
+  "description": "Lean Gmail MCP server with auto authentication, attachments, thread operations, filter management, and configurable OAuth scopes. Actively maintained fork of GongRzhe/Gmail-MCP-Server.",
+  "source_repo": "ArtyMcLabin/Gmail-MCP-Server",
+  "source_url": "https://github.com/ArtyMcLabin/Gmail-MCP-Server",
+  "install": "npx -y Gmail-MCP-Server"
+}

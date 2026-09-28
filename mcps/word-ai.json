@@ -1,0 +1,7 @@
+{
+  "name": "word-ai",
+  "description": "Structure-preserving Word DOCX editing MCP server with a .NET Open XML backend and Office.js live sessions. Enables safe, auditable, incremental editing of Microsoft Word documents for AI agents.",
+  "source_repo": "flyfish-dev/word-ai",
+  "source_url": "https://github.com/flyfish-dev/word-ai",
+  "install": "# git clone --depth 1 https://github.com/flyfish-dev/word-ai\n# See source for mcpServers config block"
+}

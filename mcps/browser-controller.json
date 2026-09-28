@@ -1,0 +1,7 @@
+{
+  "name": "browser-controller",
+  "description": "Gives MCP-compatible AI agents direct control of your real browser with existing sessions, logins, and cookies. Supports multiple agents concurrently with tab targeting.",
+  "source_repo": "compnew2006/browser-controller",
+  "source_url": "https://github.com/compnew2006/browser-controller",
+  "install": "# git clone --depth 1 https://github.com/compnew2006/browser-controller\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cogniz-memory-platform-mcp-server",
+  "description": "Official Model Context Protocol (MCP) server for Cogniz Memory Platform. Enables AI assistants like Claude to store and retrieve memories across conversations.",
+  "source_repo": "cognizonline/Cogniz_Claude_MCP",
+  "source_url": "https://github.com/cognizonline/Cogniz_Claude_MCP",
+  "install": "npx -y Cogniz_Claude_MCP"
+}

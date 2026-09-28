@@ -1,0 +1,7 @@
+{
+  "name": "qodev-gitlab-mcp",
+  "description": "A Model Context Protocol server for GitLab integration, enabling AI assistants to manage projects, merge requests, pipelines, issues, releases, and more.",
+  "source_repo": "qodevai/gitlab-mcp",
+  "source_url": "https://github.com/qodevai/gitlab-mcp",
+  "install": "npx -y gitlab-mcp"
+}

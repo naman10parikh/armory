@@ -1,0 +1,7 @@
+{
+  "name": "kuantokusta-mcp",
+  "description": "Enables searching for products on KuantoKusta.pt with filters and retrieving detailed product information including prices from multiple stores.",
+  "source_repo": "ThiagoJacobLannes/kuantokusta-mcp",
+  "source_url": "https://github.com/ThiagoJacobLannes/kuantokusta-mcp",
+  "install": "npx -y kuantokusta-mcp"
+}

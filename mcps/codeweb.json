@@ -1,0 +1,7 @@
+{
+  "name": "codeweb",
+  "description": "An MCP server that maps code symbol relationships and provides tools for impact analysis, caller lookup, and duplicate detection to help coding agents understand codebases efficiently.",
+  "source_repo": "GhostlyGawd/codeweb",
+  "source_url": "https://github.com/GhostlyGawd/codeweb",
+  "install": "# git clone --depth 1 https://github.com/GhostlyGawd/codeweb\n# See source for mcpServers config block"
+}

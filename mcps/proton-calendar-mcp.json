@@ -1,0 +1,7 @@
+{
+  "name": "proton-calendar-mcp",
+  "description": "Enables reading Proton Calendar events via a secret ICS share link, with tools to list, search, and get event details.",
+  "source_repo": "cora-p/proton-calendar-mcp",
+  "source_url": "https://github.com/cora-p/proton-calendar-mcp",
+  "install": "npx -y proton-calendar-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "multi-agent-research-assistant-mcp-server",
+  "description": "FastMCP server offering weather and news lookup tools, demonstrating MCP integration with a LangGraph multi-agent research workflow.",
+  "source_repo": "ANINDASAU/LLMEngg_8-Multi-Agent-Research-Assistant-MCP-Server",
+  "source_url": "https://github.com/ANINDASAU/LLMEngg_8-Multi-Agent-Research-Assistant-MCP-Server",
+  "install": "npx -y LLMEngg_8-Multi-Agent-Research-Assistant-MCP-Server"
+}

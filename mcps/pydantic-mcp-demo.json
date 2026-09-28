@@ -1,0 +1,7 @@
+{
+  "name": "pydantic-mcp-demo",
+  "description": "Serve a pydantic-ai toolset as an MCP server, enabling reuse of tools across agents and MCP surfaces.",
+  "source_repo": "thejens/pydantic-mcp-demo",
+  "source_url": "https://github.com/thejens/pydantic-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/thejens/pydantic-mcp-demo\n# See source for mcpServers config block"
+}

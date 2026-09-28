@@ -1,0 +1,7 @@
+{
+  "name": "agent-scheduler",
+  "description": "MCP server for scheduling tasks with cron-like recurring jobs, one-time tasks, priority queues, retry logic, and job dependencies.",
+  "source_repo": "nyx-builds/agent-scheduler",
+  "source_url": "https://github.com/nyx-builds/agent-scheduler",
+  "install": "# git clone --depth 1 https://github.com/nyx-builds/agent-scheduler\n# See source for mcpServers config block"
+}

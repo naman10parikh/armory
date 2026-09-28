@@ -1,0 +1,7 @@
+{
+  "name": "ssas-mcp-server",
+  "description": "A read-only MCP server for querying SQL Server Analysis Services (multidimensional cubes via MDX and tabular models via DAX) using Windows Integrated Security.",
+  "source_repo": "dbdave/mssas_mcp_server",
+  "source_url": "https://github.com/dbdave/mssas_mcp_server",
+  "install": "npx -y mssas_mcp_server"
+}

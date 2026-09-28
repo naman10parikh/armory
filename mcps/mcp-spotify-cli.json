@@ -1,0 +1,7 @@
+{
+  "name": "mcp-spotify-cli",
+  "description": "A CLI agent that controls Spotify through natural language commands, leveraging the Model Context Protocol to separate Spotify tools from the LLM client, and supporting multiple AI providers like Groq, Gemini, and OpenAI.",
+  "source_repo": "walterreiner/mcp-spotify-cli",
+  "source_url": "https://github.com/walterreiner/mcp-spotify-cli",
+  "install": "# git clone --depth 1 https://github.com/walterreiner/mcp-spotify-cli\n# See source for mcpServers config block"
+}

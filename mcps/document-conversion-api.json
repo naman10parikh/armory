@@ -1,0 +1,7 @@
+{
+  "name": "document-conversion-api",
+  "description": "Enables conversion between PDF/Office documents and structured JSON, supporting extraction and generation of document content.",
+  "source_repo": "nexus-mcp-infra/document-conversion-api",
+  "source_url": "https://github.com/nexus-mcp-infra/document-conversion-api",
+  "install": "# git clone --depth 1 https://github.com/nexus-mcp-infra/document-conversion-api\n# See source for mcpServers config block"
+}

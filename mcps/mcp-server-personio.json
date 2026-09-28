@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-personio",
+  "description": "MCP server for the Personio HR API with employee and HR profiles, enabling self-service and HR operations like managing absences, attendances, documents, and organizational data.",
+  "source_repo": "borgels/mcp-server-personio",
+  "source_url": "https://github.com/borgels/mcp-server-personio",
+  "install": "# git clone --depth 1 https://github.com/borgels/mcp-server-personio\n# See source for mcpServers config block"
+}

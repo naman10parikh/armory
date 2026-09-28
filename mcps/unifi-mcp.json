@@ -1,0 +1,7 @@
+{
+  "name": "unifi-mcp",
+  "description": "Enables management of a local UniFi controller, including devices, clients, network configuration, and monitoring through a single action tool.",
+  "source_repo": "jmagar/unifi-mcp",
+  "source_url": "https://github.com/jmagar/unifi-mcp",
+  "install": "npx -y unifi-mcp"
+}

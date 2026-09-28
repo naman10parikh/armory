@@ -1,0 +1,7 @@
+{
+  "name": "renewable-grid-intelligence-atlas-mcp",
+  "description": "Enables AI agents to search and retrieve cited evidence packs for renewable energy assets, analyze locations, and access regional energy context, all from a local DuckDB snapshot of Aragon renewable infrastructure data.",
+  "source_repo": "txemaleon/renewable-grid-intelligence-atlas",
+  "source_url": "https://github.com/txemaleon/renewable-grid-intelligence-atlas",
+  "install": "# git clone --depth 1 https://github.com/txemaleon/renewable-grid-intelligence-atlas\n# See source for mcpServers config block"
+}

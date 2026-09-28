@@ -1,0 +1,7 @@
+{
+  "name": "officient-mcp-server",
+  "description": "Enables interaction with the Officient HR API to manage people, days off, and salary slips through natural language.",
+  "source_repo": "bitterpanda63/officient-mcp-server",
+  "source_url": "https://github.com/bitterpanda63/officient-mcp-server",
+  "install": "npx -y officient-mcp-server"
+}

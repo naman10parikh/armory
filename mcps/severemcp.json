@@ -1,0 +1,7 @@
+{
+  "name": "severemcp",
+  "description": "Enables AI agents to control Severe's Luau scripting environment, allowing operations like running Luau, inspecting the game tree, reading memory, and building ESP from chat.",
+  "source_repo": "RealSlimShady2000/SevereMCP",
+  "source_url": "https://github.com/RealSlimShady2000/SevereMCP",
+  "install": "# git clone --depth 1 https://github.com/RealSlimShady2000/SevereMCP\n# See source for mcpServers config block"
+}

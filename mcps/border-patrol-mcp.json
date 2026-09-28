@@ -1,0 +1,7 @@
+{
+  "name": "border-patrol-mcp",
+  "description": "A policy-enforcing MCP gateway that intercepts all tool calls to downstream MCP servers, applying allow/deny/ask rules with human approval and audit logging for safe access to dangerous tools.",
+  "source_repo": "pavlealeksic/border-patrol-mcp",
+  "source_url": "https://github.com/pavlealeksic/border-patrol-mcp",
+  "install": "npx -y border-patrol-mcp"
+}

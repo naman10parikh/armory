@@ -1,0 +1,7 @@
+{
+  "name": "mcp-opencode",
+  "description": "MCP server for opencode that queries GitHub Copilot models via a persistent opencode server, requiring no API keys.",
+  "source_repo": "kud/mcp-opencode",
+  "source_url": "https://github.com/kud/mcp-opencode",
+  "install": "# git clone --depth 1 https://github.com/kud/mcp-opencode\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "qsw-mcp",
+  "description": "Smart Doc MCP Server that enables AI agents to read web pages (with or without browser, supporting login and SPA) and perform OCR on clipboard images.",
+  "source_repo": "qinouz/qsw-mcp",
+  "source_url": "https://github.com/qinouz/qsw-mcp",
+  "install": "npx -y qsw-mcp"
+}

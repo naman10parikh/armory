@@ -1,0 +1,7 @@
+{
+  "name": "clean-architecture-mcp-server",
+  "description": "Enables scaffolding and managing Clean Architecture in Next.js projects, providing tools to initialize structure, create features with all layers, and validate architecture compliance.",
+  "source_repo": "valentin-harrang/clean-architecture-mcp-server",
+  "source_url": "https://github.com/valentin-harrang/clean-architecture-mcp-server",
+  "install": "npx -y clean-architecture-mcp-server"
+}

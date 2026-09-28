@@ -1,0 +1,7 @@
+{
+  "name": "temway-mcp-server",
+  "description": "Let your AI assistant design beautiful emails & layouts — in your Temway workspace. It turns Claude, ChatGPT, Cursor and friends into a visual email & layout authoring studio.",
+  "source_repo": "temway/mcp-server",
+  "source_url": "https://github.com/temway/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/temway/mcp-server\n# See source for mcpServers config block"
+}

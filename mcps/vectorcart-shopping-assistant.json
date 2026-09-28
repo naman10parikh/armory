@@ -1,0 +1,7 @@
+{
+  "name": "vectorcart-shopping-assistant",
+  "description": "MCP server that enables AI shopping assistants to understand customer needs, search products using visual and semantic queries, apply metadata filters, and recommend relevant products from an inventory.",
+  "source_repo": "Rounit-1st/VectorCart-MCP",
+  "source_url": "https://github.com/Rounit-1st/VectorCart-MCP",
+  "install": "npx -y VectorCart-MCP"
+}

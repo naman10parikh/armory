@@ -1,0 +1,7 @@
+{
+  "name": "digital-human-library",
+  "description": "MCP server for creating and managing digital human models with built-in EU AI Act compliance, part of the MEOK AI Labs ecosystem.",
+  "source_repo": "CSOAI-ORG/digital-human-library",
+  "source_url": "https://github.com/CSOAI-ORG/digital-human-library",
+  "install": "# git clone --depth 1 https://github.com/CSOAI-ORG/digital-human-library\n# See source for mcpServers config block"
+}

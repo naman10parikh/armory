@@ -1,0 +1,7 @@
+{
+  "name": "gov-transparency-mcp",
+  "description": "MCP server for US government transparency data (congressional trades, federal contracts, campaign finance, lobbying, regulations) with per-call paid access via x402 USDC.",
+  "source_repo": "forgemeshlabs/gov-transparency-mcp",
+  "source_url": "https://github.com/forgemeshlabs/gov-transparency-mcp",
+  "install": "npx -y gov-transparency-mcp"
+}

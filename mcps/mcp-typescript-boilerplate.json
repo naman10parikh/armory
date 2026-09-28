@@ -1,0 +1,7 @@
+{
+  "name": "mcp-typescript-boilerplate",
+  "description": "A TypeScript boilerplate for building MCP servers using the official SDK, with a layered architecture for easy adaptation to different APIs.",
+  "source_repo": "abe-source/mcp-typescript-boilerplate",
+  "source_url": "https://github.com/abe-source/mcp-typescript-boilerplate",
+  "install": "# git clone --depth 1 https://github.com/abe-source/mcp-typescript-boilerplate\n# See source for mcpServers config block"
+}

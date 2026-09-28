@@ -1,0 +1,7 @@
+{
+  "name": "deriva-mcp-server",
+  "description": "Enables AI assistants to manage Deriva catalogs and execute ML workflows, including dataset versioning, controlled vocabularies, and feature management.",
+  "source_repo": "informatics-isi-edu/deriva-mcp",
+  "source_url": "https://github.com/informatics-isi-edu/deriva-mcp",
+  "install": "npx -y deriva-mcp"
+}

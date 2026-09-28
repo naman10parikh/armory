@@ -1,0 +1,7 @@
+{
+  "name": "agent-memory-os",
+  "description": "Local-first memory engine for AI-agent teams: private/team/project ACL, associative recall, and federated sync across nodes. One SQLite file, no LLM required.",
+  "source_repo": "yamantaka520/Agent-Memory-OS",
+  "source_url": "https://github.com/yamantaka520/Agent-Memory-OS",
+  "install": "# git clone --depth 1 https://github.com/yamantaka520/Agent-Memory-OS\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "freeagent-mcp",
+  "description": "A local, read-only MCP server that exposes FreeAgent accounting data to AI clients, enabling natural language queries about balances, transactions, categories, and financial reports.",
+  "source_repo": "duncanmcclean/freeagent-mcp",
+  "source_url": "https://github.com/duncanmcclean/freeagent-mcp",
+  "install": "npx -y freeagent-mcp"
+}

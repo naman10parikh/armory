@@ -1,0 +1,7 @@
+{
+  "name": "bumblewick-support-desk-mcp-server",
+  "description": "Enables AI assistants to manage customer support for a fictional candle shop, including order lookup, customer file access, and safe refund processing with server-side safety rules.",
+  "source_repo": "Saveanu-Robert/bumblewick-support-mcp",
+  "source_url": "https://github.com/Saveanu-Robert/bumblewick-support-mcp",
+  "install": "npx -y bumblewick-support-mcp"
+}

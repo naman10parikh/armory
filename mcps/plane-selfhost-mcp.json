@@ -1,0 +1,7 @@
+{
+  "name": "plane-selfhost-mcp",
+  "description": "Enables interaction with self-hosted Plane project management instances using X-API-Key authentication, offering tools for project discovery, issue management, and workflow state operations.",
+  "source_repo": "nicolasegpla/plane-selfhost-mcp",
+  "source_url": "https://github.com/nicolasegpla/plane-selfhost-mcp",
+  "install": "npx -y plane-selfhost-mcp"
+}

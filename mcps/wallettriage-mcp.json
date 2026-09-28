@@ -1,0 +1,7 @@
+{
+  "name": "wallettriage-mcp",
+  "description": "Real-time exploit-exposure check for EVM wallets with x402 USDC payments, no signup needed.",
+  "source_repo": "wallettriage/wallettriage-mcp",
+  "source_url": "https://github.com/wallettriage/wallettriage-mcp",
+  "install": "npx -y wallettriage-mcp"
+}

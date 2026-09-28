@@ -1,0 +1,7 @@
+{
+  "name": "zee-media-client-reporting-mcp",
+  "description": "Read-only MCP server exposing client dashboard data (client series and reports) from Supabase, allowing live natural language queries about any client.",
+  "source_repo": "dannyzeemedia/zm-reporting-mcp",
+  "source_url": "https://github.com/dannyzeemedia/zm-reporting-mcp",
+  "install": "npx -y zm-reporting-mcp"
+}

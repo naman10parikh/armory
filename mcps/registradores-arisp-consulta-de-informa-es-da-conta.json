@@ -1,0 +1,7 @@
+{
+  "name": "registradores-arisp-consulta-de-informa-es-da-conta",
+  "description": "Read-only MCP server that enables consulting official account information from the Brazilian registry ARISP, with a single query tool and prepaid credit-based pricing.",
+  "source_repo": "mcp-dir/registradores_info_conta-mcp",
+  "source_url": "https://github.com/mcp-dir/registradores_info_conta-mcp",
+  "install": "npx -y registradores_info_conta-mcp"
+}

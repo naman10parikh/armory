@@ -1,0 +1,7 @@
+{
+  "name": "clawmanager-fleet-control",
+  "description": "Lease governed AI agent instances without hand-built runner queues.",
+  "source_repo": "clauxel/clawmanager-fleet-control-mcp",
+  "source_url": "https://github.com/clauxel/clawmanager-fleet-control-mcp",
+  "install": "npx -y clawmanager-fleet-control-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "plaud-mcp-dcr-bridge",
+  "description": "Deploys a Remote MCP server bridge for Plaud on Google Cloud Run, enabling Gemini Enterprise apps to connect via Dynamic Client Registration and OAuth 2.0 proxy.",
+  "source_repo": "jerryscy/plaud-mcp-dcr-bridge",
+  "source_url": "https://github.com/jerryscy/plaud-mcp-dcr-bridge",
+  "install": "# git clone --depth 1 https://github.com/jerryscy/plaud-mcp-dcr-bridge\n# See source for mcpServers config block"
+}

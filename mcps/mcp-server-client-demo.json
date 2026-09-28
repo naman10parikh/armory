@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-client-demo",
+  "description": "A demo MCP server with streamable HTTP transport and auto tool registry, enabling LLMs to connect with external data sources and tools.",
+  "source_repo": "S1LV3RJ1NX/mcp-server-client-demo",
+  "source_url": "https://github.com/S1LV3RJ1NX/mcp-server-client-demo",
+  "install": "# git clone --depth 1 https://github.com/S1LV3RJ1NX/mcp-server-client-demo\n# See source for mcpServers config block"
+}

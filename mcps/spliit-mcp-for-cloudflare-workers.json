@@ -1,0 +1,7 @@
+{
+  "name": "spliit-mcp-for-cloudflare-workers",
+  "description": "An unofficial, security-focused MCP server for Spliit that runs on Cloudflare Workers. It enables remote management of multiple Spliit groups, including reading balances and expenses, and safely preparing and committing drafts.",
+  "source_repo": "kegelmeier/spliit-mcp-cloudflare",
+  "source_url": "https://github.com/kegelmeier/spliit-mcp-cloudflare",
+  "install": "# git clone --depth 1 https://github.com/kegelmeier/spliit-mcp-cloudflare\n# See source for mcpServers config block"
+}

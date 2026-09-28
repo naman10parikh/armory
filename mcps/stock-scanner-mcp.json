@@ -1,0 +1,7 @@
+{
+  "name": "stock-scanner-mcp",
+  "description": "A modular MCP server providing 64 tools across 13 modules for real-time stock and crypto market data, including scanning, technical analysis, options flow, insider trades, and personalized watchlists.",
+  "source_repo": "yyordanov-tradu/stock-scanner-mcp",
+  "source_url": "https://github.com/yyordanov-tradu/stock-scanner-mcp",
+  "install": "npx -y stock-scanner-mcp"
+}

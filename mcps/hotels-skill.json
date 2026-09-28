@@ -1,0 +1,7 @@
+{
+  "name": "hotels-skill",
+  "description": "Enables real-time hotel search and pricing data from Booking.com for AI agents and Claude.",
+  "source_repo": "Anmoldureha/hotels-skill",
+  "source_url": "https://github.com/Anmoldureha/hotels-skill",
+  "install": "# git clone --depth 1 https://github.com/Anmoldureha/hotels-skill\n# See source for mcpServers config block"
+}

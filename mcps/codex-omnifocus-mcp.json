@@ -1,0 +1,7 @@
+{
+  "name": "codex-omnifocus-mcp",
+  "description": "Enables Codex to interact with the user's local OmniFocus database on macOS, allowing task management, project creation, and tag operations through natural language.",
+  "source_repo": "phd-peter/codex-omnifocus-mcp",
+  "source_url": "https://github.com/phd-peter/codex-omnifocus-mcp",
+  "install": "npx -y codex-omnifocus-mcp"
+}

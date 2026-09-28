@@ -1,0 +1,7 @@
+{
+  "name": "sftp-mcp",
+  "description": "Provides a browsable, mutable SFTP filesystem for AI agents, supporting file operations like listing, uploading, downloading, moving, and deleting.",
+  "source_repo": "cordfuse/sftp-mcp",
+  "source_url": "https://github.com/cordfuse/sftp-mcp",
+  "install": "npx -y sftp-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mysql-mcp",
+  "description": "Enables read-only SQL queries and datasource listing for MySQL databases via MCP.",
+  "source_repo": "yufei8807/mysql-mcp",
+  "source_url": "https://github.com/yufei8807/mysql-mcp",
+  "install": "npx -y mysql-mcp"
+}

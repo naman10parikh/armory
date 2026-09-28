@@ -1,0 +1,7 @@
+{
+  "name": "typespec-mcp-server",
+  "description": "Enables building MCP servers using TypeSpec, with tools for learning, scaffolding projects, and compiling TypeSpec to generate server assets.",
+  "source_repo": "bterlson/typespec-mcp",
+  "source_url": "https://github.com/bterlson/typespec-mcp",
+  "install": "npx -y typespec-mcp"
+}

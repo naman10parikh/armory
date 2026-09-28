@@ -1,0 +1,7 @@
+{
+  "name": "activecampaign-mcp",
+  "description": "Enables natural language interaction with the full ActiveCampaign account API, covering ~325 tools from v3 REST, SMS, WhatsApp, and Segments, with safety categories and Docker deployment.",
+  "source_repo": "ohneben/ActiveCampaign-MCP",
+  "source_url": "https://github.com/ohneben/ActiveCampaign-MCP",
+  "install": "npx -y ActiveCampaign-MCP"
+}

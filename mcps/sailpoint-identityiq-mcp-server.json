@@ -1,0 +1,7 @@
+{
+  "name": "sailpoint-identityiq-mcp-server",
+  "description": "This server enables interaction with SailPoint IdentityIQ through SCIM API endpoints, allowing MCP clients like Claude Desktop to manage identity resources using natural language.",
+  "source_repo": "N8Maynard91/sailpoint-iiq-mcp-server",
+  "source_url": "https://github.com/N8Maynard91/sailpoint-iiq-mcp-server",
+  "install": "npx -y sailpoint-iiq-mcp-server"
+}

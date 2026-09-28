@@ -1,0 +1,7 @@
+{
+  "name": "whalesync-mcp-server",
+  "description": "Enables AI agents to create, manage, and monitor two-way data syncs between platforms like Airtable, Webflow, HubSpot, Salesforce, Notion, and Postgres, including mapping fields, running syncs, and troubleshooting record-level issues.",
+  "source_repo": "whalesync/whalesync-mcp",
+  "source_url": "https://github.com/whalesync/whalesync-mcp",
+  "install": "npx -y whalesync-mcp"
+}

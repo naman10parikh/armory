@@ -1,0 +1,7 @@
+{
+  "name": "voyager-repo",
+  "description": "MCP server that provides safe, read-only repository orientation and risk assessment via the scout_repo tool, including structural analysis, dependency vetting, and detection of high-risk findings.",
+  "source_repo": "dir-ai/voyager-repo",
+  "source_url": "https://github.com/dir-ai/voyager-repo",
+  "install": "# git clone --depth 1 https://github.com/dir-ai/voyager-repo\n# See source for mcpServers config block"
+}

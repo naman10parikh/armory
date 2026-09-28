@@ -1,0 +1,7 @@
+{
+  "name": "workshop-assistant",
+  "description": "Enables AI assistants to query a garage workshop database for live information on open jobs, vehicle history, parts availability, and bookings, and to append notes to job cards.",
+  "source_repo": "sayan1xs/workshop-mcp-server",
+  "source_url": "https://github.com/sayan1xs/workshop-mcp-server",
+  "install": "npx -y workshop-mcp-server"
+}

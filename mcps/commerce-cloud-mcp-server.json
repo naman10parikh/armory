@@ -1,0 +1,7 @@
+{
+  "name": "commerce-cloud-mcp-server",
+  "description": "Connects AI applications with Salesforce Commerce Cloud for product management, order analysis, custom object operations, and content asset management.",
+  "source_repo": "brinzl/commercecloud-mcp-server",
+  "source_url": "https://github.com/brinzl/commercecloud-mcp-server",
+  "install": "npx -y commercecloud-mcp-server"
+}

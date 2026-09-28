@@ -1,6 +1,6 @@
 {
   "name": "docker-mcp-portal",
-  "description": "Docker Mcp Portal MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "ajeetraina/docker-mcp-portal",
   "source_url": "https://mcp.so/server/docker-mcp-portal/ajeetraina",
   "install": "# git clone --depth 1 https://mcp.so/server/docker-mcp-portal/ajeetraina\n# See source for mcpServers config block"

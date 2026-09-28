@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-cloud-regions",
+  "description": "A Model Context Protocol (MCP) server providing comprehensive cloud region data across all major providers. Query, filter, and compare cloud infrastructure locations worldwide.",
+  "source_repo": "jasonwilbur/mcp-server-cloud-regions",
+  "source_url": "https://github.com/jasonwilbur/mcp-server-cloud-regions",
+  "install": "# git clone --depth 1 https://github.com/jasonwilbur/mcp-server-cloud-regions\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "googlesearch-mcpserver",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/googlesearch_mcpserver",
+  "install": "# git clone --depth 1 https://mcp.so/server/googlesearch_mcpserver\n# See source for mcpServers config block"
+}

@@ -1,6 +1,6 @@
 {
   "name": "mcp-tweetbinder",
-  "description": "Mcp Tweetbinder MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "AudienseCo/mcp-tweetbinder",
   "source_url": "https://mcp.so/server/mcp-tweetbinder/AudienseCo",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-tweetbinder/AudienseCo\n# See source for mcpServers config block"

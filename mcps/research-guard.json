@@ -1,0 +1,7 @@
+{
+  "name": "research-guard",
+  "description": "An MCP server that detects duplicated research directions and probes blind spots before committing to a project, helping researchers avoid wasted effort.",
+  "source_repo": "Fengrru/research-guard",
+  "source_url": "https://github.com/Fengrru/research-guard",
+  "install": "# git clone --depth 1 https://github.com/Fengrru/research-guard\n# See source for mcpServers config block"
+}

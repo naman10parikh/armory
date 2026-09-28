@@ -1,0 +1,7 @@
+{
+  "name": "next-generation-mcp-server",
+  "description": "Enables sandboxed file operations via MCP tools, resources, and prompts, with a Claude CLI client and Groq-powered web UI for file CRUD, search, code review, and documentation generation.",
+  "source_repo": "TanvirIslam-BD/next-generation-mcp-server",
+  "source_url": "https://github.com/TanvirIslam-BD/next-generation-mcp-server",
+  "install": "npx -y next-generation-mcp-server"
+}

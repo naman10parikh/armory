@@ -1,0 +1,7 @@
+{
+  "name": "kilimo-mcp",
+  "description": "Provides Kenya precision agriculture tools via MCP, including crop calendar, fertilizer guide, pest alerts, and KALRO crop variety recommendations.",
+  "source_repo": "gabrielmahia/kilimo-mcp",
+  "source_url": "https://github.com/gabrielmahia/kilimo-mcp",
+  "install": "npx -y kilimo-mcp"
+}

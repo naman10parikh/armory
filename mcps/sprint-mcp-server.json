@@ -1,0 +1,7 @@
+{
+  "name": "sprint-mcp-server",
+  "description": "Enables LLM agents to manage structured sprint-based development workflows following the Sprint Protocol, including sprint initialization, status checking, and manifest generation.",
+  "source_repo": "cnavta/sprint-mcp",
+  "source_url": "https://github.com/cnavta/sprint-mcp",
+  "install": "npx -y sprint-mcp"
+}

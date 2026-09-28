@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ns-railways",
+  "description": "MCP server for querying Dutch railway data via the NS API, with planned tools for station search, departures, trip planning, and disruptions.",
+  "source_repo": "McCullonas/mcp-ns-railways",
+  "source_url": "https://github.com/McCullonas/mcp-ns-railways",
+  "install": "# git clone --depth 1 https://github.com/McCullonas/mcp-ns-railways\n# See source for mcpServers config block"
+}

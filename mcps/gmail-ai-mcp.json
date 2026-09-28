@@ -1,0 +1,7 @@
+{
+  "name": "gmail-ai-mcp",
+  "description": "MCP server for Gmail that provides tools to download attachments, fetch raw messages, manage filters, and create drafts, while deliberately omitting send functionality for safety.",
+  "source_repo": "InfiniteRoomLabs/gmail-ai-broker",
+  "source_url": "https://github.com/InfiniteRoomLabs/gmail-ai-broker",
+  "install": "# git clone --depth 1 https://github.com/InfiniteRoomLabs/gmail-ai-broker\n# See source for mcpServers config block"
+}

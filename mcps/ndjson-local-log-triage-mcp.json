@@ -1,0 +1,7 @@
+{
+  "name": "ndjson-local-log-triage-mcp",
+  "description": "MCP server that stream-parses NDJSON log files without loading them into memory — filter by pattern, detect error spikes via Z-score analysis, summarize severity timelines by time window.",
+  "source_repo": "vola-trebla/ndjson-local-log-triage-mcp",
+  "source_url": "https://github.com/vola-trebla/ndjson-local-log-triage-mcp",
+  "install": "npx -y ndjson-local-log-triage-mcp"
+}

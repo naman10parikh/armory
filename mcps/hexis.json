@@ -1,0 +1,7 @@
+{
+  "name": "hexis",
+  "description": "A git-backed MCP server that centrally manages AI agent skills, tools, and knowledge with role-based access, change requests, and a remote OAuth 2.1 endpoint.",
+  "source_repo": "Bevel-Software/Hexis",
+  "source_url": "https://github.com/Bevel-Software/Hexis",
+  "install": "# git clone --depth 1 https://github.com/Bevel-Software/Hexis\n# See source for mcpServers config block"
+}

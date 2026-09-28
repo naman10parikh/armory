@@ -1,0 +1,7 @@
+{
+  "name": "comptox-mcp-server",
+  "description": "Exposes EPA Computational Toxicology (CompTox) evidence federation through MCP, enabling chemical identity, hazard, exposure, and bioactivity data retrieval for AI agents.",
+  "source_repo": "ToxMCP/comptox-mcp",
+  "source_url": "https://github.com/ToxMCP/comptox-mcp",
+  "install": "npx -y comptox-mcp"
+}

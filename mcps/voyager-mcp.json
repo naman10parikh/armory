@@ -1,0 +1,7 @@
+{
+  "name": "voyager-mcp",
+  "description": "A Voyager-inspired MCP server that enables coding agents to build and immediately use CLI tools without restarting sessions.",
+  "source_repo": "changjonathanc/voyager-mcp",
+  "source_url": "https://github.com/changjonathanc/voyager-mcp",
+  "install": "npx -y voyager-mcp"
+}

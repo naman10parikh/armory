@@ -1,0 +1,7 @@
+{
+  "name": "meok-rail-freight-uk-mcp",
+  "description": "UK rail freight compliance MCP server enabling checks on ORR licensing, ROGS safety certificates, RIR 2011 interoperability, TSI standards, RID dangerous goods, and Network Rail capacity access. It also prepares ORR inspection packs against the 14 Major Issues.",
+  "source_repo": "CSOAI-ORG/meok-rail-freight-uk-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/meok-rail-freight-uk-mcp",
+  "install": "npx -y meok-rail-freight-uk-mcp"
+}

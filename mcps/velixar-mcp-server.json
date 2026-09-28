@@ -1,0 +1,7 @@
+{
+  "name": "velixar-mcp-server",
+  "description": "The first cognitive memory server for AI assistants, providing persistent memory, knowledge graph, identity awareness, contradiction detection, and belief tracking across sessions.",
+  "source_repo": "VelixarAi/velixar-mcp-server",
+  "source_url": "https://github.com/VelixarAi/velixar-mcp-server",
+  "install": "npx -y velixar-mcp-server"
+}

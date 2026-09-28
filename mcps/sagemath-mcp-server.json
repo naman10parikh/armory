@@ -1,0 +1,7 @@
+{
+  "name": "sagemath-mcp-server",
+  "description": "A universal mathematics MCP server that gives LLM clients full access to SageMath for symbolic calculus, number theory, linear algebra, and more, with persistent state across tool calls.",
+  "source_repo": "XBP-Europe/sagemath-mcp",
+  "source_url": "https://github.com/XBP-Europe/sagemath-mcp",
+  "install": "npx -y sagemath-mcp"
+}

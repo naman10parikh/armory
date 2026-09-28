@@ -1,0 +1,7 @@
+{
+  "name": "noteharbor-mcp",
+  "description": "Provides MCP tools to upsert and search vector-embedded note chunks, enabling semantic retrieval from a PostgreSQL/pgvector backend.",
+  "source_repo": "kris-atelier/noteharbor-python",
+  "source_url": "https://github.com/kris-atelier/noteharbor-python",
+  "install": "# git clone --depth 1 https://github.com/kris-atelier/noteharbor-python\n# See source for mcpServers config block"
+}

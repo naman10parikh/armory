@@ -1,0 +1,7 @@
+{
+  "name": "textin-xparse-mcp-server",
+  "description": "Enables document parsing via TextIn xParse API, supporting synchronous and asynchronous jobs with configurable options.",
+  "source_repo": "aenron/textin-mcp",
+  "source_url": "https://github.com/aenron/textin-mcp",
+  "install": "npx -y textin-mcp"
+}

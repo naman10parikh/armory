@@ -1,0 +1,7 @@
+{
+  "name": "shadowrun",
+  "description": "A local-first stdio proxy for MCP servers that traps destructive tool calls and holds them for manual commit or discard, preventing accidental mutations.",
+  "source_repo": "pranavgawasproject/shadowrun-mcp",
+  "source_url": "https://github.com/pranavgawasproject/shadowrun-mcp",
+  "install": "npx -y shadowrun-mcp"
+}

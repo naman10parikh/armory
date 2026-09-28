@@ -1,0 +1,7 @@
+{
+  "name": "mcp-toolkit-pro",
+  "description": "Enables AI agents to interact with GitHub (search repos, read files, issues, PRs), analyze code for quality and issues, and manage tasks with priority sorting.",
+  "source_repo": "DzAchref/mcp-toolkit-pro",
+  "source_url": "https://github.com/DzAchref/mcp-toolkit-pro",
+  "install": "# git clone --depth 1 https://github.com/DzAchref/mcp-toolkit-pro\n# See source for mcpServers config block"
+}

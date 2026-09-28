@@ -1,0 +1,7 @@
+{
+  "name": "mdlog-mcp",
+  "description": "An MCP server that provides read-only tools to search, list, and read date-organized markdown logs, enabling natural-language queries over past notes and digests.",
+  "source_repo": "yamk12nfu/mdlog-mcp",
+  "source_url": "https://github.com/yamk12nfu/mdlog-mcp",
+  "install": "npx -y mdlog-mcp"
+}

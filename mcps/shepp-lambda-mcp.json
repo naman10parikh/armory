@@ -1,0 +1,7 @@
+{
+  "name": "shepp-lambda-mcp",
+  "description": "A Model Context Protocol (MCP) server that bridges MCP clients with AWS Lambda functions, enabling AI models to invoke Lambda functions as tools without code changes.",
+  "source_repo": "sam-shepp/shepp-lambda-mcp",
+  "source_url": "https://github.com/sam-shepp/shepp-lambda-mcp",
+  "install": "npx -y shepp-lambda-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "easypanel-mcp-server",
+  "description": "MCP Server for full Easypanel control via Claude Code, Cursor, and Claude Desktop. Provides 37 tools for deploy, logs, env vars, domains, databases, and monitoring with built-in safety guards.",
+  "source_repo": "helbertparanhos/easypanel-mcp-server",
+  "source_url": "https://github.com/helbertparanhos/easypanel-mcp-server",
+  "install": "npx -y easypanel-mcp-server"
+}

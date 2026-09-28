@@ -1,0 +1,7 @@
+{
+  "name": "openai-gpt-image-1-mcp",
+  "description": "Provides AI agents and coding assistants with image generation and editing capabilities using OpenAI's GPT-image-1 model, with support for local or Supabase storage.",
+  "source_repo": "DevRico003/openai-gpt-image-1-mcp",
+  "source_url": "https://github.com/DevRico003/openai-gpt-image-1-mcp",
+  "install": "npx -y openai-gpt-image-1-mcp"
+}

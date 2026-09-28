@@ -1,0 +1,7 @@
+{
+  "name": "local-model-suitability-mcp",
+  "description": "Evaluates task suitability for local models before cloud API calls, routing to Ollama or similar to reduce costs.",
+  "source_repo": "OjasKord/local-model-suitability-mcp",
+  "source_url": "https://github.com/OjasKord/local-model-suitability-mcp",
+  "install": "npx -y local-model-suitability-mcp"
+}

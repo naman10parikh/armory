@@ -1,0 +1,7 @@
+{
+  "name": "adaptyv-foundry-mcp-server",
+  "description": "Enables natural language control of Adaptyv Bio's Foundry lab API through Claude Desktop/Code, allowing users to create experiments, check status, and retrieve results using plain English commands.",
+  "source_repo": "Mofasshara/adaptyv-foundry",
+  "source_url": "https://github.com/Mofasshara/adaptyv-foundry",
+  "install": "# git clone --depth 1 https://github.com/Mofasshara/adaptyv-foundry\n# See source for mcpServers config block"
+}

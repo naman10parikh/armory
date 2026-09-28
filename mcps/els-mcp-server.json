@@ -1,0 +1,7 @@
+{
+  "name": "els-mcp-server",
+  "description": "Enables LLM agents to query the Explore Local Statistics API for local area data like employment rates and demographics.",
+  "source_repo": "bothness/els-mcp-poc",
+  "source_url": "https://github.com/bothness/els-mcp-poc",
+  "install": "# git clone --depth 1 https://github.com/bothness/els-mcp-poc\n# See source for mcpServers config block"
+}

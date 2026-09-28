@@ -1,0 +1,7 @@
+{
+  "name": "doaj-discovery-mcp",
+  "description": "Costless-first Model Context Protocol server for discovering DOAJ-indexed journals and articles.",
+  "source_repo": "ramiramirez-nl/doaj-discovery-mcp",
+  "source_url": "https://github.com/ramiramirez-nl/doaj-discovery-mcp",
+  "install": "npx -y doaj-discovery-mcp"
+}

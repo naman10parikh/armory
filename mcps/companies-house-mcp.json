@@ -1,0 +1,7 @@
+{
+  "name": "companies-house-mcp",
+  "description": "Enables looking up UK companies, officers, ownership, filings, and running due diligence checks via the Companies House API, usable from AI tools like Claude or Cursor.",
+  "source_repo": "aicayzer/companies-house-mcp",
+  "source_url": "https://github.com/aicayzer/companies-house-mcp",
+  "install": "npx -y companies-house-mcp"
+}

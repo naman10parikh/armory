@@ -1,0 +1,7 @@
+{
+  "name": "singaporemobileproxy",
+  "description": "browse websites through singaporean IP",
+  "source_repo": "Xavierfok/singapore-proxy-mcp",
+  "source_url": "https://github.com/Xavierfok/singapore-proxy-mcp",
+  "install": "npx -y singapore-proxy-mcp"
+}

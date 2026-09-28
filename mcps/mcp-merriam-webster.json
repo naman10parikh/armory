@@ -1,0 +1,7 @@
+{
+  "name": "mcp-merriam-webster",
+  "description": "Enables querying Merriam-Webster's Collegiate Dictionary and thesaurus via natural language, providing definitions, synonyms, and related word data.",
+  "source_repo": "pipeworx-io/mcp-merriam-webster",
+  "source_url": "https://github.com/pipeworx-io/mcp-merriam-webster",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-merriam-webster\n# See source for mcpServers config block"
+}

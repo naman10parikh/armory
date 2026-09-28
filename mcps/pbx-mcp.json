@@ -1,0 +1,7 @@
+{
+  "name": "pbx-mcp",
+  "description": "An MCP server that lets AI assistants inspect and control Asterisk and FreeSWITCH PBX systems, enabling natural language queries about live switch status, channels, registrations, and call control.",
+  "source_repo": "ictinnovations/pbx-mcp",
+  "source_url": "https://github.com/ictinnovations/pbx-mcp",
+  "install": "npx -y pbx-mcp"
+}

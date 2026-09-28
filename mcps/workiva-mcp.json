@@ -1,0 +1,7 @@
+{
+  "name": "workiva-mcp",
+  "description": "An MCP server for the Workiva platform that pairs API tools with a knowledge base of confirmed API behavior, automatically attaching fixes to failing API calls, and supporting SQL execution and other Wdata operations.",
+  "source_repo": "woof-xyz/workiva-mcp",
+  "source_url": "https://github.com/woof-xyz/workiva-mcp",
+  "install": "npx -y workiva-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "skeleton-mcp",
+  "description": "A starter template for building an MCP server with Vault-based secret management and Postgres-backed configuration, featuring tool-level authorization and redacted output.",
+  "source_repo": "LesterAJohn/skeleton-mcp",
+  "source_url": "https://github.com/LesterAJohn/skeleton-mcp",
+  "install": "npx -y skeleton-mcp"
+}

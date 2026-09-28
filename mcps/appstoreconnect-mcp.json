@@ -1,0 +1,7 @@
+{
+  "name": "appstoreconnect-mcp",
+  "description": "MCP server for Apple App Store Connect API, enabling management of apps, subscriptions, pricing, and more from MCP-compatible clients. Features subscription pricing with Purchasing Power Parity rebalance.",
+  "source_repo": "akoskomuves/appstoreconnect-mcp",
+  "source_url": "https://github.com/akoskomuves/appstoreconnect-mcp",
+  "install": "npx -y appstoreconnect-mcp"
+}

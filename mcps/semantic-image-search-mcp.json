@@ -1,0 +1,7 @@
+{
+  "name": "semantic-image-search-mcp",
+  "description": "Enables natural language search of local photo archives using AI-powered semantic understanding, with integration into Claude Desktop via the Model Context Protocol.",
+  "source_repo": "Casey-Hemingway/semantic-image-search-mcp",
+  "source_url": "https://github.com/Casey-Hemingway/semantic-image-search-mcp",
+  "install": "npx -y semantic-image-search-mcp"
+}

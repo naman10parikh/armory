@@ -1,0 +1,7 @@
+{
+  "name": "hledit-mcp",
+  "description": "Exposes hash-anchored file edits to MCP-compatible AI coding agents, enabling safe read and write operations with stale edit detection.",
+  "source_repo": "dabito/hledit-mcp",
+  "source_url": "https://github.com/dabito/hledit-mcp",
+  "install": "npx -y hledit-mcp"
+}

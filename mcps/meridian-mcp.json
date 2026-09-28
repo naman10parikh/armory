@@ -1,0 +1,7 @@
+{
+  "name": "meridian-mcp",
+  "description": "A timezone-aware MCP server that converts times, looks up current local times, and finds overlapping working-hour slots for distributed teams.",
+  "source_repo": "marcusicaro/meridian-mcp",
+  "source_url": "https://github.com/marcusicaro/meridian-mcp",
+  "install": "npx -y meridian-mcp"
+}

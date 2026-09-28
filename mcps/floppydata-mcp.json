@@ -1,0 +1,7 @@
+{
+  "name": "floppydata-mcp",
+  "description": "Lets agents fetch web data and manage rotating proxies through the Floppydata API v2 directly from MCP clients.",
+  "source_repo": "Floppydata/floppydata-mcp",
+  "source_url": "https://github.com/Floppydata/floppydata-mcp",
+  "install": "npx -y floppydata-mcp"
+}

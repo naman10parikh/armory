@@ -1,0 +1,7 @@
+{
+  "name": "civicdataforge",
+  "description": "Provides MCP-compatible agents structured access to official government records, including short-term rental permits, healthcare exclusions, childcare licensing, and NYC film permits.",
+  "source_repo": "equinoxaifinance-rgb/civicdataforge-mcp",
+  "source_url": "https://github.com/equinoxaifinance-rgb/civicdataforge-mcp",
+  "install": "npx -y civicdataforge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sap-digital-manufacturing-dmc-mcp-server",
+  "description": "Enables AI-powered manufacturing operations analysis and automated report generation from SAP DMC, with direct delivery to MS Teams.",
+  "source_repo": "vijayeshmt/Claude-MCP-for-SAP-DM",
+  "source_url": "https://github.com/vijayeshmt/Claude-MCP-for-SAP-DM",
+  "install": "# git clone --depth 1 https://github.com/vijayeshmt/Claude-MCP-for-SAP-DM\n# See source for mcpServers config block"
+}

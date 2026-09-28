@@ -1,0 +1,7 @@
+{
+  "name": "civic-superagents",
+  "description": "Enables querying a comprehensive data lake of Italian civic open data, returning cited facts about Italian municipalities across domains like environment, education, finance, and governance.",
+  "source_repo": "Play-New/civic-superagents",
+  "source_url": "https://github.com/Play-New/civic-superagents",
+  "install": "# git clone --depth 1 https://github.com/Play-New/civic-superagents\n# See source for mcpServers config block"
+}

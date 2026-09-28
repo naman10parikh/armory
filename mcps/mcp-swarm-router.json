@@ -1,0 +1,7 @@
+{
+  "name": "mcp-swarm-router",
+  "description": "This MCP server enables LLM hosts to plan large tasks and delegate subtasks to specialized local CLI agents, such as Codex and Claude Code, using tools like delegate_task and get_agent_roster.",
+  "source_repo": "rputasi/mcp-swarm-router",
+  "source_url": "https://github.com/rputasi/mcp-swarm-router",
+  "install": "# git clone --depth 1 https://github.com/rputasi/mcp-swarm-router\n# See source for mcpServers config block"
+}

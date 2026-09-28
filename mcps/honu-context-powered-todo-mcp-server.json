@@ -1,0 +1,7 @@
+{
+  "name": "honu-context-powered-todo-mcp-server",
+  "description": "Enables context-powered task management on Trello boards, automatically creating detailed sprint tasks with acceptance criteria and QA steps using AI.",
+  "source_repo": "honu-ai/honu_context_powered_todo_mcp",
+  "source_url": "https://github.com/honu-ai/honu_context_powered_todo_mcp",
+  "install": "npx -y honu_context_powered_todo_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jira-assets-mcp-server",
+  "description": "Provides read and write access to Atlassian Jira Assets (formerly Insight) via MCP, enabling AI clients to fetch objects, discover schemas, update fields, and apply bulk changes. Includes a review dashboard for bulk editing.",
+  "source_repo": "Road2DevNull/jira-assets-mcp",
+  "source_url": "https://github.com/Road2DevNull/jira-assets-mcp",
+  "install": "npx -y jira-assets-mcp"
+}

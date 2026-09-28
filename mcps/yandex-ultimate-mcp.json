@@ -1,0 +1,7 @@
+{
+  "name": "yandex-ultimate-mcp",
+  "description": "Unifies multiple Yandex MCP servers (Direct, Metrika, Webmaster, Tracker, Cloud, Maps, Search) into a single interface with auto-configuration and auth wizard.",
+  "source_repo": "lemonchikHere/yandex-ultimate-mcp",
+  "source_url": "https://github.com/lemonchikHere/yandex-ultimate-mcp",
+  "install": "npx -y yandex-ultimate-mcp"
+}

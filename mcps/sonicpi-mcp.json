@@ -1,0 +1,7 @@
+{
+  "name": "sonicpi-mcp",
+  "description": "Enables AI-powered music generation and control of Sonic Pi through natural language requests using OSC.",
+  "source_repo": "PranavPradhan/sonicpi-mcp",
+  "source_url": "https://github.com/PranavPradhan/sonicpi-mcp",
+  "install": "npx -y sonicpi-mcp"
+}

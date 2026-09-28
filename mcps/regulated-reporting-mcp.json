@@ -1,0 +1,7 @@
+{
+  "name": "regulated-reporting-mcp",
+  "description": "MCP server for regulated financial reporting on Workiva, enabling agents to search, read, and write to Workiva workbooks with policy-gated mutations, readback verification, and immutable receipts. Supports both a compact 3-tool facade and a full 117-tool catalog, plus a credential-free mock mode.",
+  "source_repo": "dbett4/regulated-reporting-mcp",
+  "source_url": "https://github.com/dbett4/regulated-reporting-mcp",
+  "install": "npx -y regulated-reporting-mcp"
+}

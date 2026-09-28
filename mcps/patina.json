@@ -1,0 +1,7 @@
+{
+  "name": "patina",
+  "description": "Affect-weighted persistent memory for LLM agents, served over MCP, enabling emotional memory coordinates, trace-based forgetting, hybrid search, and persona-based recall.",
+  "source_repo": "Whale02/patina",
+  "source_url": "https://github.com/Whale02/patina",
+  "install": "# git clone --depth 1 https://github.com/Whale02/patina\n# See source for mcpServers config block"
+}

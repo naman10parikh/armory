@@ -1,0 +1,7 @@
+{
+  "name": "uptime-kuma-mcp-server",
+  "description": "Enables managing Uptime Kuma monitors via MCP protocol, supporting batch add, list, and delete operations.",
+  "source_repo": "Camusama/uptime-kuma-mcp-server",
+  "source_url": "https://github.com/Camusama/uptime-kuma-mcp-server",
+  "install": "npx -y uptime-kuma-mcp-server"
+}

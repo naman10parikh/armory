@@ -1,0 +1,7 @@
+{
+  "name": "hypermnesia",
+  "description": "A semantic memory store for AI agents, enabling persistent memory across sessions via MCP tools with semantic search, scoped access, and local embeddings.",
+  "source_repo": "others-git/hypermnesia",
+  "source_url": "https://github.com/others-git/hypermnesia",
+  "install": "# git clone --depth 1 https://github.com/others-git/hypermnesia\n# See source for mcpServers config block"
+}

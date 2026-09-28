@@ -1,0 +1,7 @@
+{
+  "name": "debrid-link-mcp-server",
+  "description": "Enables AI assistants to manage Seedbox torrents, unlock premium download links, and create transcoding streams via the Debrid-Link API v2.",
+  "source_repo": "sigmundwei-sys/debrid-link-mcp-server",
+  "source_url": "https://github.com/sigmundwei-sys/debrid-link-mcp-server",
+  "install": "npx -y debrid-link-mcp-server"
+}

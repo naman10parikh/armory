@@ -1,0 +1,7 @@
+{
+  "name": "loa-mcp-server",
+  "description": "MCP server that searches Japanese addresses and returns their locations as polygons or points using the open 住所LOD dataset, enabling geocoding, reverse geocoding, batch GeoJSON export, and map visualization.",
+  "source_repo": "uedayou/loa-mcp-server",
+  "source_url": "https://github.com/uedayou/loa-mcp-server",
+  "install": "npx -y loa-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "finance-tracker-mcp-server",
+  "description": "Enables real-time stock price retrieval and inline financial calculations via MCP, leveraging Yahoo Finance data.",
+  "source_repo": "RugvedJ-Dev/finance_tracker_mcp",
+  "source_url": "https://github.com/RugvedJ-Dev/finance_tracker_mcp",
+  "install": "npx -y finance_tracker_mcp"
+}

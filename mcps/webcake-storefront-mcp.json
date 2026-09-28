@@ -1,0 +1,7 @@
+{
+  "name": "webcake-storefront-mcp",
+  "description": "Enables AI assistants to build, validate, and publish storefront pages to WebCake/StoreCake sites based on natural language descriptions.",
+  "source_repo": "vuluu2k/webcake-storefront-mcp",
+  "source_url": "https://github.com/vuluu2k/webcake-storefront-mcp",
+  "install": "npx -y webcake-storefront-mcp"
+}

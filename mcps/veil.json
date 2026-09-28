@@ -1,0 +1,7 @@
+{
+  "name": "veil",
+  "description": "An MCP server that lets an AI agent orchestrate credential placement without ever seeing the secret value, while a human-controlled interface independently authorizes the destination.",
+  "source_repo": "rosostolato/veil-mcp",
+  "source_url": "https://github.com/rosostolato/veil-mcp",
+  "install": "npx -y veil-mcp"
+}

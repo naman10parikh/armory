@@ -1,0 +1,7 @@
+{
+  "name": "codex-discord-mcp",
+  "description": "A local-first Discord bridge for Codex CLI, enabling Discord-to-Codex relay, Codex-to-Discord MCP tools, and hybrid workflows with access control and attachment safety.",
+  "source_repo": "Openclaw-Metis/codex-discord-mcp",
+  "source_url": "https://github.com/Openclaw-Metis/codex-discord-mcp",
+  "install": "npx -y codex-discord-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tutu-compass",
+  "description": "A travel negotiation agent for Russian trips that turns one natural-language request into a plan_trip MCP tool, surfacing budget-vs-connection trade-offs and offering instant plan B rerouting.",
+  "source_repo": "svyatrunov/tutu-compass",
+  "source_url": "https://github.com/svyatrunov/tutu-compass",
+  "install": "# git clone --depth 1 https://github.com/svyatrunov/tutu-compass\n# See source for mcpServers config block"
+}

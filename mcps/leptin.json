@@ -1,0 +1,7 @@
+{
+  "name": "leptin",
+  "description": "Token-budgeted MCP memory for AI coding agents, with dedup, merge, decay, and a savings ledger.",
+  "source_repo": "lionellau/leptin",
+  "source_url": "https://github.com/lionellau/leptin",
+  "install": "# git clone --depth 1 https://github.com/lionellau/leptin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "atproto-mcp-server",
+  "description": "An MCP server for interacting with the AT Protocol (ATProto) ecosystem, including Bluesky, providing tools for identity, profiles, and social discovery.",
+  "source_repo": "ewanc26/atproto-mcp-server",
+  "source_url": "https://github.com/ewanc26/atproto-mcp-server",
+  "install": "npx -y atproto-mcp-server"
+}

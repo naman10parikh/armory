@@ -1,0 +1,7 @@
+{
+  "name": "falldental-us-mcp",
+  "description": "Wraps the falldental-us-sdk as an MCP server for sovereign, offline-capable dental workflow management, with Ed25519 signing and FallMarket discoverability.",
+  "source_repo": "sjgant80-hub/falldental-us-mcp",
+  "source_url": "https://github.com/sjgant80-hub/falldental-us-mcp",
+  "install": "npx -y falldental-us-mcp"
+}

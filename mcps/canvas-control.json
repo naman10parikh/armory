@@ -1,0 +1,7 @@
+{
+  "name": "canvas-control",
+  "description": "Turns Canvas LMS into a scriptable pipeline and exposes it to AI assistants via MCP for querying courses, grades, assignments, and syncing files using natural language.",
+  "source_repo": "tomtranjr/canvas-control",
+  "source_url": "https://github.com/tomtranjr/canvas-control",
+  "install": "# git clone --depth 1 https://github.com/tomtranjr/canvas-control\n# See source for mcpServers config block"
+}

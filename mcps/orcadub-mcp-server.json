@@ -1,0 +1,7 @@
+{
+  "name": "orcadub-mcp-server",
+  "description": "Enables AI video dubbing from any MCP-capable agent: upload a video or provide a URL, submit a dubbing job, poll progress, and download the finished MP4.",
+  "source_repo": "Continuum-AI-Corp/orcadub-mcp-server",
+  "source_url": "https://github.com/Continuum-AI-Corp/orcadub-mcp-server",
+  "install": "npx -y orcadub-mcp-server"
+}

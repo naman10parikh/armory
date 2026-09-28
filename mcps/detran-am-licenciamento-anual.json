@@ -1,0 +1,7 @@
+{
+  "name": "detran-am-licenciamento-anual",
+  "description": "A hosted, read-only MCP server that queries official DETRAN Amazonas annual licensing data via natural language, works with any MCP client, and is paid per consultation with prepaid credits.",
+  "source_repo": "mcp-dir/detran_am_licenciamento_anual-mcp",
+  "source_url": "https://github.com/mcp-dir/detran_am_licenciamento_anual-mcp",
+  "install": "npx -y detran_am_licenciamento_anual-mcp"
+}

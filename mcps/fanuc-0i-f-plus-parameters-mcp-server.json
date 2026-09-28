@@ -1,0 +1,7 @@
+{
+  "name": "fanuc-0i-f-plus-parameters-mcp-server",
+  "description": "Enables querying, searching, and comparing FANUC CNC parameters for the 0i-F Plus series.",
+  "source_repo": "tsai70213-debug/FANUC_MCP",
+  "source_url": "https://github.com/tsai70213-debug/FANUC_MCP",
+  "install": "npx -y FANUC_MCP"
+}

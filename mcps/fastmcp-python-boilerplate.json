@@ -1,0 +1,7 @@
+{
+  "name": "fastmcp-python-boilerplate",
+  "description": "Provides a production-ready FastMCP Python server boilerplate with structured logging, rate limiting, and config validation for building MCP servers compatible with Claude and other agents.",
+  "source_repo": "srmcguirt/fastmcp-python-boilerplate",
+  "source_url": "https://github.com/srmcguirt/fastmcp-python-boilerplate",
+  "install": "# git clone --depth 1 https://github.com/srmcguirt/fastmcp-python-boilerplate\n# See source for mcpServers config block"
+}

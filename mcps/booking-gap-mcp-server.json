@@ -1,0 +1,7 @@
+{
+  "name": "booking-gap-mcp-server",
+  "description": "Measures the shape of idle time in a booking calendar. Separates gaps that can actually be sold from structurally unsellable dead time, accounting for turnover time and the booking start grid. Fully offline, no API key required.",
+  "source_repo": "h-kazuki-pixel/booking-gap-mcp-server",
+  "source_url": "https://github.com/h-kazuki-pixel/booking-gap-mcp-server",
+  "install": "npx -y booking-gap-mcp-server"
+}

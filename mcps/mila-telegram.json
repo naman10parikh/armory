@@ -1,0 +1,7 @@
+{
+  "name": "mila-telegram",
+  "description": "Enables running Claude Code sessions from Telegram with group auto-join, voice transcription, reply-quote context, and a restart-proof polling daemon.",
+  "source_repo": "shakhruz/mila-telegram",
+  "source_url": "https://github.com/shakhruz/mila-telegram",
+  "install": "# git clone --depth 1 https://github.com/shakhruz/mila-telegram\n# See source for mcpServers config block"
+}

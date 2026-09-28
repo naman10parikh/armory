@@ -1,0 +1,7 @@
+{
+  "name": "anthropic-skill",
+  "description": "A robust, lightweight Model Context Protocol (MCP) server designed to empower your AI Agents with context-awareness, safe execution sandboxes, and dedicated thought logs.",
+  "source_repo": "williamchek/anthropic_skill",
+  "source_url": "https://github.com/williamchek/anthropic_skill",
+  "install": "# git clone --depth 1 https://github.com/williamchek/anthropic_skill\n# See source for mcpServers config block"
+}

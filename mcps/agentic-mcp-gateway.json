@@ -1,0 +1,7 @@
+{
+  "name": "agentic-mcp-gateway",
+  "description": "Provides an agentic RAG workflow with tool calling, enabling natural-language retrieval of policy docs, payment searches, and ticket creation over MCP stdio or HTTP.",
+  "source_repo": "tanvir-ux/agentic-mcp-gateway",
+  "source_url": "https://github.com/tanvir-ux/agentic-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/tanvir-ux/agentic-mcp-gateway\n# See source for mcpServers config block"
+}

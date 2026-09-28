@@ -1,0 +1,7 @@
+{
+  "name": "vibsync",
+  "description": "Vibsync gives Claude Code, Cursor, Codex, and other AI coding agents long-term team memory and live work context. It carries both what the team knows — discoveries, fixes, failed approaches, product rules, and decisions — and what the team is doing now — questions, tasks, ownership, and active work",
+  "source_repo": "snakaya/vibsync-mcp",
+  "source_url": "https://github.com/snakaya/vibsync-mcp",
+  "install": "npx -y vibsync-mcp"
+}

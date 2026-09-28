@@ -1,0 +1,7 @@
+{
+  "name": "joblet-mcp-server",
+  "description": "Enables AI assistants to manage distributed computing jobs through the Joblet platform, supporting job orchestration, workflows, storage, networks, and monitoring.",
+  "source_repo": "ehsaniara/joblet-mcp-server",
+  "source_url": "https://github.com/ehsaniara/joblet-mcp-server",
+  "install": "npx -y joblet-mcp-server"
+}

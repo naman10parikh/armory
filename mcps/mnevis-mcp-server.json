@@ -1,0 +1,7 @@
+{
+  "name": "mnevis-mcp-server",
+  "description": "A lightweight, zero-dependency Python MCP server that exposes a single do_everything tool. Any AI agent that supports MCP can use it to offload all language-model work to a local OpenAI-compatible endpoint, reducing cost on the agent's primary LLM.",
+  "source_repo": "mar-co-za/mnevis-mcp",
+  "source_url": "https://github.com/mar-co-za/mnevis-mcp",
+  "install": "npx -y mnevis-mcp"
+}

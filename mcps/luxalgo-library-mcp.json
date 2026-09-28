@@ -1,0 +1,7 @@
+{
+  "name": "luxalgo-library-mcp",
+  "description": "Read-only, keyless MCP server for searching and retrieving trading concepts, indicator details, families, and source code from the LuxAlgo Library.",
+  "source_repo": "LuxAlgo/luxalgo-mcp-server",
+  "source_url": "https://github.com/LuxAlgo/luxalgo-mcp-server",
+  "install": "npx -y luxalgo-mcp-server"
+}

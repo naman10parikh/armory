@@ -1,0 +1,7 @@
+{
+  "name": "arxiv-scout",
+  "description": "Search and retrieve academic papers directly from arXiv with advanced query capabilities. Extract full text from PDFs to generate summaries, literature reviews, and side-by-side comparisons. Track citations and references to discover related research and map out academic trends.",
+  "source_repo": "shawnnygoh/arxiv-scout",
+  "source_url": "https://github.com/shawnnygoh/arxiv-scout",
+  "install": "# git clone --depth 1 https://github.com/shawnnygoh/arxiv-scout\n# See source for mcpServers config block"
+}

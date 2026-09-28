@@ -1,0 +1,7 @@
+{
+  "name": "trusted-agent-stack",
+  "description": "Provides a local groundedness verifier as an MCP server, returning a verdict on whether a draft answer is supported by provided document excerpts.",
+  "source_repo": "kiyeonjeon21/trusted-agent-stack",
+  "source_url": "https://github.com/kiyeonjeon21/trusted-agent-stack",
+  "install": "# git clone --depth 1 https://github.com/kiyeonjeon21/trusted-agent-stack\n# See source for mcpServers config block"
+}

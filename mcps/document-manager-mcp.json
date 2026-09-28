@@ -1,0 +1,7 @@
+{
+  "name": "document-manager-mcp",
+  "description": "MCP server for managing product documentation as markdown files. Supports creating, reading, updating, deleting, and searching docs with optional semantic search.",
+  "source_repo": "rfbatista/document-manager-mcp",
+  "source_url": "https://github.com/rfbatista/document-manager-mcp",
+  "install": "npx -y document-manager-mcp"
+}

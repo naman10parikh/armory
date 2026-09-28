@@ -1,0 +1,7 @@
+{
+  "name": "pharma-mcp",
+  "description": "MCP server for clinical and pharmaceutical data, enabling search of ClinicalTrials.gov, PubMed, FDA, and ICH guidelines without API keys.",
+  "source_repo": "pubspro/pharma-mcp",
+  "source_url": "https://github.com/pubspro/pharma-mcp",
+  "install": "npx -y pharma-mcp"
+}

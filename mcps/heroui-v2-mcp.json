@@ -1,0 +1,7 @@
+{
+  "name": "heroui-v2-mcp",
+  "description": "A standalone local MCP server that serves HeroUI v2 component documentation, source code, style definitions, and theme tokens by fetching directly from the official GitHub repository.",
+  "source_repo": "dmjacas/heroui-v2-mcp",
+  "source_url": "https://github.com/dmjacas/heroui-v2-mcp",
+  "install": "npx -y heroui-v2-mcp"
+}

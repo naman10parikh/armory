@@ -1,0 +1,7 @@
+{
+  "name": "plaxis-mcp",
+  "description": "MCP server that enables controlling PLAXIS 2D from any MCP client, exposing geometry, staged construction, meshing, calculation, and results as tools via a Windows-local stdio server. It supports role-separated Input/Output processes, shared profiles, and hardened security.",
+  "source_repo": "yixuanzhong/PLAXIS-MCP",
+  "source_url": "https://github.com/yixuanzhong/PLAXIS-MCP",
+  "install": "npx -y PLAXIS-MCP"
+}

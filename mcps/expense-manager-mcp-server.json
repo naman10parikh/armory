@@ -1,0 +1,7 @@
+{
+  "name": "expense-manager-mcp-server",
+  "description": "Enables natural language management of personal expenses, including adding, updating, deleting, searching, and summarizing expenses stored in a local SQLite database.",
+  "source_repo": "sonali1103/expense-manager-mcp-server",
+  "source_url": "https://github.com/sonali1103/expense-manager-mcp-server",
+  "install": "npx -y expense-manager-mcp-server"
+}

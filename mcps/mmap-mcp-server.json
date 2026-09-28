@@ -1,0 +1,7 @@
+{
+  "name": "mmap-mcp-server",
+  "description": "Enables AI assistants to read, search, and convert MindManager .mmap files without installing MindManager.",
+  "source_repo": "pmanyeh/mmap-mcp-server",
+  "source_url": "https://github.com/pmanyeh/mmap-mcp-server",
+  "install": "npx -y mmap-mcp-server"
+}

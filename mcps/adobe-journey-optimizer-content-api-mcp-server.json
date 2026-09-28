@@ -1,0 +1,7 @@
+{
+  "name": "adobe-journey-optimizer-content-api-mcp-server",
+  "description": "Enables interaction with Adobe Journey Optimizer content through the Content API, supporting sandbox configuration and secure credential management.",
+  "source_repo": "etrakselis/ajo_content_mcp",
+  "source_url": "https://github.com/etrakselis/ajo_content_mcp",
+  "install": "npx -y ajo_content_mcp"
+}

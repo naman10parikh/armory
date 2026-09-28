@@ -1,0 +1,7 @@
+{
+  "name": "wave-mcp-server-2",
+  "description": "Comprehensive MCP server for Wave Accounting, providing 45+ tools across invoicing, customers, products, transactions, bills, estimates, taxes, and financial reporting, plus 17 pre-built UI workflows.",
+  "source_repo": "BusyBee3333/wave-mcp-2026-complete",
+  "source_url": "https://github.com/BusyBee3333/wave-mcp-2026-complete",
+  "install": "# git clone --depth 1 https://github.com/BusyBee3333/wave-mcp-2026-complete\n# See source for mcpServers config block"
+}

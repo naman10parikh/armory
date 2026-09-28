@@ -1,0 +1,7 @@
+{
+  "name": "fmod-studio-mcp",
+  "description": "An MCP server that drives FMOD Studio live through its scripting terminal, exposing the FMOD Studio Scripting API as MCP tools for immediate project editing.",
+  "source_repo": "EYamanS/fmod-studio-mcp",
+  "source_url": "https://github.com/EYamanS/fmod-studio-mcp",
+  "install": "npx -y fmod-studio-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "siteone-mcp-server",
+  "description": "Enables SEO auditing and site analysis by crawling websites, identifying issues, and generating reports like sitemaps and markdown exports.",
+  "source_repo": "Dorkside/siteone-mcp-server",
+  "source_url": "https://github.com/Dorkside/siteone-mcp-server",
+  "install": "npx -y siteone-mcp-server"
+}

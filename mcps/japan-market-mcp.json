@@ -1,0 +1,7 @@
+{
+  "name": "japan-market-mcp",
+  "description": "Enables AI agents to search and compare prices across Japanese used camera, watch, luxury brand, and instrument marketplaces from multiple stores, returning price, brand, condition, and source store information.",
+  "source_repo": "atushi1841/japan-market-mcp",
+  "source_url": "https://github.com/atushi1841/japan-market-mcp",
+  "install": "npx -y japan-market-mcp"
+}

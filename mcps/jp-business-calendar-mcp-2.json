@@ -1,0 +1,7 @@
+{
+  "name": "jp-business-calendar-mcp-2",
+  "description": "Enables Japanese business calendar operations such as holiday checking, business day calculations, payment date calculation, fiscal year determination, and deadline tracking, all locally without external API.",
+  "source_repo": "tsuruokashun08/jp-business-calendar-mcp",
+  "source_url": "https://github.com/tsuruokashun08/jp-business-calendar-mcp",
+  "install": "npx -y jp-business-calendar-mcp"
+}

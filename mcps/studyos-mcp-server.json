@@ -1,0 +1,7 @@
+{
+  "name": "studyos-mcp-server",
+  "description": "Enables Claude Web to import batches of educational problems into the StudyOS Problem Bank via the StudyOS Import API, with automatic retries and normalized results for efficient problem generation workflows.",
+  "source_repo": "OrbitDev-ux/studyos-mcp",
+  "source_url": "https://github.com/OrbitDev-ux/studyos-mcp",
+  "install": "npx -y studyos-mcp"
+}

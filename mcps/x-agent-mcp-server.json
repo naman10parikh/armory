@@ -1,0 +1,7 @@
+{
+  "name": "x-agent-mcp-server",
+  "description": "Provides 19+ tools for AI agents to interact with X/Twitter, including search, posting, analysis, and monitoring capabilities.",
+  "source_repo": "talocode/x-agent",
+  "source_url": "https://github.com/talocode/x-agent",
+  "install": "# git clone --depth 1 https://github.com/talocode/x-agent\n# See source for mcpServers config block"
+}

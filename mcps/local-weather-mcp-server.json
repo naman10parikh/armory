@@ -1,0 +1,7 @@
+{
+  "name": "local-weather-mcp-server",
+  "description": "Provides a health check and a get_weather tool to query current weather by city name via HTTP, designed for integration with Dify.",
+  "source_repo": "GuardForever/mcp_demo",
+  "source_url": "https://github.com/GuardForever/mcp_demo",
+  "install": "# git clone --depth 1 https://github.com/GuardForever/mcp_demo\n# See source for mcpServers config block"
+}

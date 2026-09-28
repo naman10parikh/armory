@@ -1,0 +1,7 @@
+{
+  "name": "movie-recommendation-mcp",
+  "description": "FastMCP wrapper around a Rust movie recommendation API, providing tools to fetch movie recommendations and check service health.",
+  "source_repo": "movie-reservation-platform-lab/movie-recommendation-mcp",
+  "source_url": "https://github.com/movie-reservation-platform-lab/movie-recommendation-mcp",
+  "install": "npx -y movie-recommendation-mcp"
+}

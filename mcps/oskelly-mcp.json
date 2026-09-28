@@ -1,0 +1,7 @@
+{
+  "name": "oskelly-mcp",
+  "description": "MCP server for browsing the public oskelly.ru catalog using 14 anonymous read-only tools to search products, apply filters, explore categories/brands, and fetch product details.",
+  "source_repo": "ihavealotofguap/oskelly-mcp",
+  "source_url": "https://github.com/ihavealotofguap/oskelly-mcp",
+  "install": "npx -y oskelly-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "camunda-engine-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that enables AI assistants to interact with Camunda Platform workflow engine. Provides 21 specialized tools for complete workflow automation and process management.",
+  "source_repo": "maksdizzy/camunda-engine-mcp",
+  "source_url": "https://github.com/maksdizzy/camunda-engine-mcp",
+  "install": "npx -y camunda-engine-mcp"
+}

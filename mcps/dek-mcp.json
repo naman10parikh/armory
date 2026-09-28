@@ -1,0 +1,7 @@
+{
+  "name": "dek-mcp",
+  "description": "Local MCP server exposing the dek-memory hybrid memory engine over stdio, with optional ChatGPT tools for managing account memories via a browser profile.",
+  "source_repo": "1000bath/dek-mcp",
+  "source_url": "https://github.com/1000bath/dek-mcp",
+  "install": "npx -y dek-mcp"
+}

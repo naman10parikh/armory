@@ -1,0 +1,7 @@
+{
+  "name": "sedis-mcp",
+  "description": "An MCP server that provides read-only access to Sedis Bolagsanalys and Fastighetsbenchmark data via natural language, enabling AI assistants to query Swedish listed-company financials and real-estate comparables.",
+  "source_repo": "sedis-ab/sedis-mcp",
+  "source_url": "https://github.com/sedis-ab/sedis-mcp",
+  "install": "npx -y sedis-mcp"
+}

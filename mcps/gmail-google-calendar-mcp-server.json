@@ -1,0 +1,7 @@
+{
+  "name": "gmail-google-calendar-mcp-server",
+  "description": "Combines Gmail and Google Calendar operations with multi-account OAuth, attachments, and email templates in a single MCP server.",
+  "source_repo": "ftaricano/mcp-gmail-calendar",
+  "source_url": "https://github.com/ftaricano/mcp-gmail-calendar",
+  "install": "# git clone --depth 1 https://github.com/ftaricano/mcp-gmail-calendar\n# See source for mcpServers config block"
+}

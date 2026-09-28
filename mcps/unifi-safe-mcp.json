@@ -1,0 +1,7 @@
+{
+  "name": "unifi-safe-mcp",
+  "description": "Enables read-only, bounded access to UniFi Network appliance health, devices, and active clients through three safe MCP tools with TLS verification and redirect rejection.",
+  "source_repo": "bgauger/unifi-safe-mcp",
+  "source_url": "https://github.com/bgauger/unifi-safe-mcp",
+  "install": "npx -y unifi-safe-mcp"
+}

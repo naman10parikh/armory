@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-codex-tools-mcp",
+  "description": "Enables ChatGPT to inspect and edit local projects through a secure MCP interface, offering workspace management, file operations, git integration, and safe command execution.",
+  "source_repo": "Kerberos255/chatgpt-codex-tools-mcp",
+  "source_url": "https://github.com/Kerberos255/chatgpt-codex-tools-mcp",
+  "install": "npx -y chatgpt-codex-tools-mcp"
+}

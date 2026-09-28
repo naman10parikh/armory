@@ -1,0 +1,7 @@
+{
+  "name": "alpha-sentinel-market-intelligence-x402-mcp-server",
+  "description": "Enables AI agents to access real-time crypto market data, volatility alerts, sentiment analysis, risk scores, and market reports through micropayment-gated MCP tools with on-chain settlement.",
+  "source_repo": "kwizzlesurp10-ctrl/alpha-sentinel-mcp",
+  "source_url": "https://github.com/kwizzlesurp10-ctrl/alpha-sentinel-mcp",
+  "install": "npx -y alpha-sentinel-mcp"
+}

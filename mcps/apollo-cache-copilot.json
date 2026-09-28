@@ -1,0 +1,7 @@
+{
+  "name": "apollo-cache-copilot",
+  "description": "MCP server for diagnosing Apollo InMemoryCache normalization defects, providing cache analysis and repair planning tools for React Native apps.",
+  "source_repo": "nihar777/apollo-cache-copilot",
+  "source_url": "https://github.com/nihar777/apollo-cache-copilot",
+  "install": "# git clone --depth 1 https://github.com/nihar777/apollo-cache-copilot\n# See source for mcpServers config block"
+}

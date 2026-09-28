@@ -1,0 +1,7 @@
+{
+  "name": "rag-server",
+  "description": "Local MCP server that provides a search_documents tool to query a RAG pipeline built with Ollama embeddings and ChromaDB, enabling Claude Desktop to retrieve relevant document chunks.",
+  "source_repo": "andreeagheorghe/rag-mcp",
+  "source_url": "https://github.com/andreeagheorghe/rag-mcp",
+  "install": "npx -y rag-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stateless-mcp-incident-lab-typescript-raw",
+  "description": "A raw TypeScript MCP server simulating incident lifecycles with tools, resources, prompts, and signed multi-round remediation approval. Enables CLI-based interaction, protocol negotiation, and health/security testing without external MCP SDK dependencies.",
+  "source_repo": "maximalfocus/stateless-mcp-incident-lab-typescript-raw",
+  "source_url": "https://github.com/maximalfocus/stateless-mcp-incident-lab-typescript-raw",
+  "install": "# git clone --depth 1 https://github.com/maximalfocus/stateless-mcp-incident-lab-typescript-raw\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vast-mcp-server",
+  "description": "Enables LLMs to manage VAST Data storage infrastructure, including views, quotas, snapshots, and network configurations, through natural language commands.",
+  "source_repo": "jim-coyne/vast_MCP",
+  "source_url": "https://github.com/jim-coyne/vast_MCP",
+  "install": "npx -y vast_MCP"
+}

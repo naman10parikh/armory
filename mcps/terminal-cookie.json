@@ -1,0 +1,7 @@
+{
+  "name": "terminal-cookie",
+  "description": "Enables Claude AI to play a cookie-themed dungeon RPG, including clicking cookies, recruiting heroes, exploring dungeons, and managing inventory through natural language commands.",
+  "source_repo": "mantasdigital/terminal-cookie",
+  "source_url": "https://github.com/mantasdigital/terminal-cookie",
+  "install": "# git clone --depth 1 https://github.com/mantasdigital/terminal-cookie\n# See source for mcpServers config block"
+}

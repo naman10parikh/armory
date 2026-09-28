@@ -1,0 +1,7 @@
+{
+  "name": "overlord-mcp-server",
+  "description": "MCP server for the Overlord C2 framework that gives AI agents 66+ tools for management, monitoring, debugging, and plugin development across clients, plugins, builds, users, audit logs, database, configurations, proxies, and notifications.",
+  "source_repo": "skeeminator/Overlord-MCP",
+  "source_url": "https://github.com/skeeminator/Overlord-MCP",
+  "install": "npx -y Overlord-MCP"
+}

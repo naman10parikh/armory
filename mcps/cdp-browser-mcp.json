@@ -1,0 +1,7 @@
+{
+  "name": "cdp-browser-mcp",
+  "description": "MCP server that attaches to already-running Chromium browsers via CDP, enabling agents to control multiple browser sessions for navigation, input, network capture, and automation while avoiding anti-bot detection with Patchright.",
+  "source_repo": "killaragorn/cdp-browser-mcp",
+  "source_url": "https://github.com/killaragorn/cdp-browser-mcp",
+  "install": "npx -y cdp-browser-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "altr-mcp-server",
+  "description": "Enables AI assistants to manage data security on the ALTR platform for Snowflake, Databricks, and OLTP databases, offering 99 tools across 10 domains including tag masking, policies, classification, and access governance.",
+  "source_repo": "altrsoftware/altr-mcp-server",
+  "source_url": "https://github.com/altrsoftware/altr-mcp-server",
+  "install": "npx -y altr-mcp-server"
+}

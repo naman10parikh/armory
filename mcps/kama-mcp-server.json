@@ -1,0 +1,7 @@
+{
+  "name": "kama-mcp-server",
+  "description": "MCP server that auto-discovers Kama CRM API endpoints from OpenAPI spec and exposes them as tools for AI agents to perform CRM operations via natural language.",
+  "source_repo": "AsemanServer/kama-mcp-server",
+  "source_url": "https://github.com/AsemanServer/kama-mcp-server",
+  "install": "npx -y kama-mcp-server"
+}

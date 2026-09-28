@@ -1,0 +1,7 @@
+{
+  "name": "partiri-cloud-mcp-server",
+  "description": "MCP server for the Partiri Cloud PaaS platform. Enables AI agents to manage workspaces, projects, services, deployments, and metrics.",
+  "source_repo": "Partiri-Cloud/harbor-mcp",
+  "source_url": "https://github.com/Partiri-Cloud/harbor-mcp",
+  "install": "npx -y harbor-mcp"
+}

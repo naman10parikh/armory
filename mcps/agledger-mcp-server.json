@@ -1,0 +1,7 @@
+{
+  "name": "agledger-mcp-server",
+  "description": "Connects MCP-compatible AI agents to the AGLedger API for change control, recording every change with signed, hash-chained records. Provides API pass-through tools and an offline audit verifier.",
+  "source_repo": "agledger-ai/mcp-server",
+  "source_url": "https://github.com/agledger-ai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/agledger-ai/mcp-server\n# See source for mcpServers config block"
+}

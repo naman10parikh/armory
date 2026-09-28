@@ -1,0 +1,7 @@
+{
+  "name": "promptvault-mcp-server",
+  "description": "Enables prompt versioning, evaluation, and management via MCP, CLI, and REST APIs, with support for multiple LLM providers.",
+  "source_repo": "KrishBnsl/promptVault",
+  "source_url": "https://github.com/KrishBnsl/promptVault",
+  "install": "# git clone --depth 1 https://github.com/KrishBnsl/promptVault\n# See source for mcpServers config block"
+}

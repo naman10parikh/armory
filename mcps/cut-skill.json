@@ -1,0 +1,7 @@
+{
+  "name": "cut-skill",
+  "description": "Enables AI agents to control video editing software (剪映/CapCut and Adobe Premiere Pro) through a unified interface, supporting operations like material import, clip splitting, subtitle addition, effects, transitions, audio mixing, and export.",
+  "source_repo": "ygtec/cut.skill",
+  "source_url": "https://github.com/ygtec/cut.skill",
+  "install": "# git clone --depth 1 https://github.com/ygtec/cut.skill\n# See source for mcpServers config block"
+}

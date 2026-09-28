@@ -1,0 +1,7 @@
+{
+  "name": "ssl-doctor",
+  "description": "Enables live TLS/SSL certificate health checks for any hostname, providing expiry, hostname match, trust verdict, and a health score. Supports both free and paid deep tiers with protocol/cipher analysis.",
+  "source_repo": "Baneado98/ssl-doctor",
+  "source_url": "https://github.com/Baneado98/ssl-doctor",
+  "install": "# git clone --depth 1 https://github.com/Baneado98/ssl-doctor\n# See source for mcpServers config block"
+}

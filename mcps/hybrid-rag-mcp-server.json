@@ -1,0 +1,7 @@
+{
+  "name": "hybrid-rag-mcp-server",
+  "description": "Enables natural language search over PDF documents using vector search, allowing MCP clients like Claude Desktop to query PDF content.",
+  "source_repo": "n-irei/hybrid-rag-mcp-server",
+  "source_url": "https://github.com/n-irei/hybrid-rag-mcp-server",
+  "install": "npx -y hybrid-rag-mcp-server"
+}

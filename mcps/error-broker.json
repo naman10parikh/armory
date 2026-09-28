@@ -1,0 +1,7 @@
+{
+  "name": "error-broker",
+  "description": "Classifies agent errors and provides clear recovery actions (retry, escalate) with configurable categories and strategies, plus MCP tools for direct agent use.",
+  "source_repo": "amsultan2010/error-broker",
+  "source_url": "https://github.com/amsultan2010/error-broker",
+  "install": "# git clone --depth 1 https://github.com/amsultan2010/error-broker\n# See source for mcpServers config block"
+}

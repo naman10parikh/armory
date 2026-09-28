@@ -1,0 +1,7 @@
+{
+  "name": "quote-collection-mcp-server",
+  "description": "Enables managing a personal quote collection with add, search, random, delete, and import functions via the Model Context Protocol.",
+  "source_repo": "Bellasabaja/MCP-Server",
+  "source_url": "https://github.com/Bellasabaja/MCP-Server",
+  "install": "# git clone --depth 1 https://github.com/Bellasabaja/MCP-Server\n# See source for mcpServers config block"
+}

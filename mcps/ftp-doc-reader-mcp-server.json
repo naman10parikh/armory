@@ -1,0 +1,7 @@
+{
+  "name": "ftp-doc-reader-mcp-server",
+  "description": "Enables searching Word documents on remote FTP/FTPS servers by keyword, returning matching files with context snippets.",
+  "source_repo": "hackerpl/doc-mcp-server",
+  "source_url": "https://github.com/hackerpl/doc-mcp-server",
+  "install": "npx -y doc-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-supply-guard",
+  "description": "Enables supply-chain integrity for MCP tools by locking tool-definition hashes after review and detecting added, removed, modified, or risky tool definitions.",
+  "source_repo": "wwb-bill/mcp-supply-guard",
+  "source_url": "https://github.com/wwb-bill/mcp-supply-guard",
+  "install": "# git clone --depth 1 https://github.com/wwb-bill/mcp-supply-guard\n# See source for mcpServers config block"
+}

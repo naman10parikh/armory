@@ -1,0 +1,7 @@
+{
+  "name": "interactive-terminal-mcp-server",
+  "description": "Provides AI agents with fully interactive terminal sessions, including TUI support, keyboard control, and screen capture across Windows, Linux, and Mac.",
+  "source_repo": "Vltja/vitjas-interactive-terminal",
+  "source_url": "https://github.com/Vltja/vitjas-interactive-terminal",
+  "install": "# git clone --depth 1 https://github.com/Vltja/vitjas-interactive-terminal\n# See source for mcpServers config block"
+}

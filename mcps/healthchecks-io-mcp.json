@@ -1,0 +1,7 @@
+{
+  "name": "healthchecks-io-mcp",
+  "description": "Enables AI assistants to interact with Healthchecks.io, allowing users to list, create, update, pause, resume, and delete checks, as well as view ping history and integrations.",
+  "source_repo": "ronniechong/healthchecks-io-mcp",
+  "source_url": "https://github.com/ronniechong/healthchecks-io-mcp",
+  "install": "npx -y healthchecks-io-mcp"
+}

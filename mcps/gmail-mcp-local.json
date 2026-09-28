@@ -1,0 +1,7 @@
+{
+  "name": "gmail-mcp-local",
+  "description": "Local-first Gmail MCP server using PKCE + loopback OAuth flow that stores refresh tokens in the OS keychain, enabling secure read/write Gmail access via MCP tools without tokens leaving the device.",
+  "source_repo": "alexpekach/gmail-mcp-local",
+  "source_url": "https://github.com/alexpekach/gmail-mcp-local",
+  "install": "# git clone --depth 1 https://github.com/alexpekach/gmail-mcp-local\n# See source for mcpServers config block"
+}

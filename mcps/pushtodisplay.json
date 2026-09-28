@@ -1,0 +1,7 @@
+{
+  "name": "pushtodisplay",
+  "description": "Send structured content to selected boards on iOS and android devices via MCP server, route updates to specific panels, and render in real time with display-focused multi-panel layouts.",
+  "source_repo": "pushtodisplay/cli",
+  "source_url": "https://github.com/pushtodisplay/cli",
+  "install": "# git clone --depth 1 https://github.com/pushtodisplay/cli\n# See source for mcpServers config block"
+}

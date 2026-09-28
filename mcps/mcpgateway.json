@@ -1,0 +1,7 @@
+{
+  "name": "mcpgateway",
+  "description": "A multi-tenant control plane for MCP that aggregates upstream MCP servers behind a single authenticated URL, with deny-by-default policy enforcement and a replayable audit trail.",
+  "source_repo": "ABHIJEET-MUNESHWAR/MCPGateway",
+  "source_url": "https://github.com/ABHIJEET-MUNESHWAR/MCPGateway",
+  "install": "# git clone --depth 1 https://github.com/ABHIJEET-MUNESHWAR/MCPGateway\n# See source for mcpServers config block"
+}

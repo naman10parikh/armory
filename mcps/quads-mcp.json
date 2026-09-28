@@ -1,0 +1,7 @@
+{
+  "name": "quads-mcp",
+  "description": "MCP server for interacting with QUADS infrastructure systems via API, enabling resource management and automation through LLM applications.",
+  "source_repo": "grafuls/quads-mcp",
+  "source_url": "https://github.com/grafuls/quads-mcp",
+  "install": "npx -y quads-mcp"
+}

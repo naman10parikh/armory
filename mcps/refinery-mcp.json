@@ -1,0 +1,7 @@
+{
+  "name": "refinery-mcp",
+  "description": "Cleans HTML from URLs or raw HTML into LLM-ready text, reducing token burn for AI agents.",
+  "source_repo": "LareLabs/refinery-mcp",
+  "source_url": "https://github.com/LareLabs/refinery-mcp",
+  "install": "npx -y refinery-mcp"
+}

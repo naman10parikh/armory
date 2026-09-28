@@ -1,0 +1,7 @@
+{
+  "name": "ratebook-mcp",
+  "description": "Provides electricity tariff queries and rate calculations for US utilities, enabling cost estimation and optimal charging schedules.",
+  "source_repo": "cbetz/ratebook",
+  "source_url": "https://github.com/cbetz/ratebook",
+  "install": "# git clone --depth 1 https://github.com/cbetz/ratebook\n# See source for mcpServers config block"
+}

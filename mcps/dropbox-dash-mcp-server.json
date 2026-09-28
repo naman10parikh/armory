@@ -1,0 +1,7 @@
+{
+  "name": "dropbox-dash-mcp-server",
+  "description": "Exposes Dropbox Dash search and file metadata via STDIO, enabling users to search across company content and fetch detailed file metadata and content.",
+  "source_repo": "dropbox/mcp-server-dash",
+  "source_url": "https://github.com/dropbox/mcp-server-dash",
+  "install": "# git clone --depth 1 https://github.com/dropbox/mcp-server-dash\n# See source for mcpServers config block"
+}

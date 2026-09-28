@@ -1,0 +1,7 @@
+{
+  "name": "claribicom",
+  "description": "clariBI is an AI-powered business intelligence platform that lets SaaS and ecommerce teams ask plain-English questions across Stripe, HubSpot, Google Analytics, ad platforms, and 30+ other sources. The AI engine picks the right visualization from 24 chart types and generates dashboards automatically",
+  "source_repo": "ICS-cz/claribi-mcp",
+  "source_url": "https://github.com/ICS-cz/claribi-mcp",
+  "install": "npx -y claribi-mcp"
+}

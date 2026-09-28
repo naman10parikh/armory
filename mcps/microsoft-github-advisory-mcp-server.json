@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-github-advisory-mcp-server",
+  "description": "Enables querying GitHub Security Advisories from a local cloned advisory database using tools like list_advisories and get_advisory.",
+  "source_repo": "microsoft/github-advisory-mcp",
+  "source_url": "https://github.com/microsoft/github-advisory-mcp",
+  "install": "npx -y github-advisory-mcp"
+}

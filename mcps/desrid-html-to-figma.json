@@ -1,0 +1,7 @@
+{
+  "name": "desrid-html-to-figma",
+  "description": "This MCP server lets AI agents connect to Figma to read, analyze, create, and modify designs, including elements, styles, assets, and code generation. It works with free Figma accounts and supports parallel multi-agent use across MCP-compatible clients.",
+  "source_repo": "Desrid/desrid-html-to-figma",
+  "source_url": "https://github.com/Desrid/desrid-html-to-figma",
+  "install": "# git clone --depth 1 https://github.com/Desrid/desrid-html-to-figma\n# See source for mcpServers config block"
+}

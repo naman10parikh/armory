@@ -1,0 +1,7 @@
+{
+  "name": "django-ai-boost",
+  "description": "A Model Context Protocol (MCP) server for developing Django applications. It exposes Django project information through MCP tools, enabling AI assistants to better understand and interact with Django codebases.",
+  "source_repo": "vintasoftware/django-ai-boost",
+  "source_url": "https://github.com/vintasoftware/django-ai-boost",
+  "install": "# git clone --depth 1 https://github.com/vintasoftware/django-ai-boost\n# See source for mcpServers config block"
+}

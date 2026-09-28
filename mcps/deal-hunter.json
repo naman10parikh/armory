@@ -1,0 +1,7 @@
+{
+  "name": "deal-hunter",
+  "description": "MCP server that finds the cheapest effective price for products in India by comparing live prices across retailers, applying coupons and card rewards, and recommending the best combination.",
+  "source_repo": "sujithsuresh-803/deal-hunter",
+  "source_url": "https://github.com/sujithsuresh-803/deal-hunter",
+  "install": "# git clone --depth 1 https://github.com/sujithsuresh-803/deal-hunter\n# See source for mcpServers config block"
+}

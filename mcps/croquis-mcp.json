@@ -1,0 +1,7 @@
+{
+  "name": "croquis-mcp",
+  "description": "Enables AI agents to manage web production projects by providing tools for sitemap planning, content drafting, and review comment workflows.",
+  "source_repo": "humbulls/croquis",
+  "source_url": "https://github.com/humbulls/croquis",
+  "install": "# git clone --depth 1 https://github.com/humbulls/croquis\n# See source for mcpServers config block"
+}

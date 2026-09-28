@@ -1,0 +1,7 @@
+{
+  "name": "local-intelligence-server",
+  "description": "Enables offline local LLM analysis of text data via MCP, taking raw text and an instruction to return analysis results without cloud calls.",
+  "source_repo": "pypi-ahmad/add-an-llm-to-your-mcp-server",
+  "source_url": "https://github.com/pypi-ahmad/add-an-llm-to-your-mcp-server",
+  "install": "npx -y add-an-llm-to-your-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "glm-vision",
+  "description": "MCP server that gives text-only models vision capabilities via free GLM vision models, supporting image description, OCR, chart/document analysis, and grounding with automatic model fallback.",
+  "source_repo": "yblt/glm-vision",
+  "source_url": "https://github.com/yblt/glm-vision",
+  "install": "# git clone --depth 1 https://github.com/yblt/glm-vision\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "canvas-relay",
+  "description": "MCP server for a persistent local whiteboard that lets AI assistants read, add, update, and delete canvas elements, with undo/redo and provenance tracking.",
+  "source_repo": "rncchen/canvas-relay",
+  "source_url": "https://github.com/rncchen/canvas-relay",
+  "install": "# git clone --depth 1 https://github.com/rncchen/canvas-relay\n# See source for mcpServers config block"
+}

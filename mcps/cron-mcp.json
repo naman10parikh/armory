@@ -1,0 +1,7 @@
+{
+  "name": "cron-mcp",
+  "description": "Enables AI agents to parse, validate, explain, and preview cron expressions, surfacing common silent bugs before deployment.",
+  "source_repo": "takeaseatventure/cron-mcp",
+  "source_url": "https://github.com/takeaseatventure/cron-mcp",
+  "install": "npx -y cron-mcp"
+}

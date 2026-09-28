@@ -1,0 +1,7 @@
+{
+  "name": "dissid-audit-mcp",
+  "description": "Wraps three deterministic audit scripts (funnel, accessibility, LLM visibility) as MCP tools, returning honest markdown reports with no fabricated results.",
+  "source_repo": "sidhunt/dissid-audit-mcp",
+  "source_url": "https://github.com/sidhunt/dissid-audit-mcp",
+  "install": "npx -y dissid-audit-mcp"
+}

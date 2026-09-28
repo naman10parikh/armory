@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sqlite-rbac-demo",
+  "description": "A secure MCP server that exposes a SQLite database to AI agents with Role-Based Access Control, supporting authentication, customer/order/user management, and audit logging.",
+  "source_repo": "phpdev-expert/mcp-server",
+  "source_url": "https://github.com/phpdev-expert/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/phpdev-expert/mcp-server\n# See source for mcpServers config block"
+}

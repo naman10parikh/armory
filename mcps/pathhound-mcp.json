@@ -1,0 +1,7 @@
+{
+  "name": "pathhound-mcp",
+  "description": "An MCP server that enables LLMs to query and reason over Active Directory attack graphs collected by BloodHound, providing attack paths, blast radius analysis, choke points, and defender remediation advice.",
+  "source_repo": "iabdullah215/pathhound-mcp",
+  "source_url": "https://github.com/iabdullah215/pathhound-mcp",
+  "install": "npx -y pathhound-mcp"
+}

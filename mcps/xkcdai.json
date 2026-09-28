@@ -1,0 +1,7 @@
+{
+  "name": "xkcdai",
+  "description": "An MCP server that finds relevant xkcd comics during conversation by semantically matching the context to comic titles, alt text, and transcripts.",
+  "source_repo": "papjuli/xkcdai",
+  "source_url": "https://github.com/papjuli/xkcdai",
+  "install": "# git clone --depth 1 https://github.com/papjuli/xkcdai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "recruitdata",
+  "description": "Unified job search MCP server that aggregates live listings from multiple job boards with deduplication, enabling AI agents to find and filter jobs by keyword and location.",
+  "source_repo": "ssaikrishna862/recruitdata-mcp",
+  "source_url": "https://github.com/ssaikrishna862/recruitdata-mcp",
+  "install": "npx -y recruitdata-mcp"
+}

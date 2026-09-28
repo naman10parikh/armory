@@ -1,0 +1,7 @@
+{
+  "name": "rjmlaird-mcp",
+  "description": "A remote MCP server template for Cloudflare Workers, enabling easy deployment and connection to AI clients like Cloudflare AI Playground and Claude Desktop.",
+  "source_repo": "rjmlaird/rjmlaird-mcp",
+  "source_url": "https://github.com/rjmlaird/rjmlaird-mcp",
+  "install": "npx -y rjmlaird-mcp"
+}

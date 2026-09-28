@@ -1,0 +1,7 @@
+{
+  "name": "recruit-crm-mcp",
+  "description": "MCP server for Recruit CRM, enabling AI assistants to search candidates, view jobs, and manage recruiting workflows.",
+  "source_repo": "ebragas/recruitcrm-mcp",
+  "source_url": "https://github.com/ebragas/recruitcrm-mcp",
+  "install": "npx -y recruitcrm-mcp"
+}

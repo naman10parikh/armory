@@ -1,0 +1,7 @@
+{
+  "name": "synapse-ai-execution-server",
+  "description": "Node.js + TypeScript server that runs Synapse AI agent graphs with Salesforce integration, performing all AI inference and MCP tool execution to keep Apex within governor limits.",
+  "source_repo": "SfdcAnnu/Archon-Server",
+  "source_url": "https://github.com/SfdcAnnu/Archon-Server",
+  "install": "# git clone --depth 1 https://github.com/SfdcAnnu/Archon-Server\n# See source for mcpServers config block"
+}

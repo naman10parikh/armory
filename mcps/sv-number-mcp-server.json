@@ -1,0 +1,7 @@
+{
+  "name": "sv-number-mcp-server",
+  "description": "MCP server that lets agents order temporary phone numbers, receive SMS verification codes, and manage activations via nine simple tools.",
+  "source_repo": "sv-number/mcp-server",
+  "source_url": "https://github.com/sv-number/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/sv-number/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "unit-converter-ai-mcp-server",
+  "description": "Enables unit conversion for length, weight, temperature, and currency using simple tools, with a free tier and paid upgrade for higher usage.",
+  "source_repo": "CSOAI-ORG/unit-converter-ai-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/unit-converter-ai-mcp",
+  "install": "npx -y unit-converter-ai-mcp"
+}

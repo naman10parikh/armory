@@ -1,6 +1,6 @@
 {
   "name": "mcp-sse-updated",
-  "description": "MCP SSE Updated MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "biswapm/MCP-SSE-updated",
   "source_url": "https://mcp.so/server/MCP-SSE-updated/biswapm",
   "install": "# git clone --depth 1 https://mcp.so/server/MCP-SSE-updated/biswapm\n# See source for mcpServers config block"

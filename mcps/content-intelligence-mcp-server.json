@@ -1,0 +1,7 @@
+{
+  "name": "content-intelligence-mcp-server",
+  "description": "Provides content intelligence tools for AI agents, including extraction, analysis, research, comparison, monitoring, and briefing, powered by free LLMs with pay-per-call or subscription pricing.",
+  "source_repo": "ruvendors5-ops/content-intelligence-mcp",
+  "source_url": "https://github.com/ruvendors5-ops/content-intelligence-mcp",
+  "install": "npx -y content-intelligence-mcp"
+}

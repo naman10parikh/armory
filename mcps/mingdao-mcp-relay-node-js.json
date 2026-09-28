@@ -1,0 +1,7 @@
+{
+  "name": "mingdao-mcp-relay-node-js",
+  "description": "Proxies MCP tools from Mingdao cloud, enabling Coze to use them securely without exposing Mingdao tokens.",
+  "source_repo": "cmmzxx/mcp-relay-node",
+  "source_url": "https://github.com/cmmzxx/mcp-relay-node",
+  "install": "# git clone --depth 1 https://github.com/cmmzxx/mcp-relay-node\n# See source for mcpServers config block"
+}

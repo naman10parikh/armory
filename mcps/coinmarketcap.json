@@ -1,0 +1,7 @@
+{
+  "name": "coinmarketcap",
+  "description": "Enables AI agents to access Coinmarketcap data through real API endpoints with no authentication required, supporting crypto and DeFi queries.",
+  "source_repo": "junct-bot/coinmarketcap-mcp",
+  "source_url": "https://github.com/junct-bot/coinmarketcap-mcp",
+  "install": "npx -y coinmarketcap-mcp"
+}

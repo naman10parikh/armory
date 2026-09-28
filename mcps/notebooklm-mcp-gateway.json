@@ -1,0 +1,7 @@
+{
+  "name": "notebooklm-mcp-gateway",
+  "description": "Unofficial MCP server that enables interaction with NotebookLM through a Cloudflare Worker, supporting tools for notebooks, sources, chat, notes, and more. It uses OAuth authentication and stateless encrypted credential envelopes.",
+  "source_repo": "nazar256/notebooklm-mcp-gateway",
+  "source_url": "https://github.com/nazar256/notebooklm-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/nazar256/notebooklm-mcp-gateway\n# See source for mcpServers config block"
+}

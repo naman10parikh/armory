@@ -1,0 +1,7 @@
+{
+  "name": "blender-fleet",
+  "description": "Enables multiple AI agents to concurrently submit isolated 3D modeling jobs to headless Blender workers, with per-job outputs, logs, and status tracking.",
+  "source_repo": "Kiet1308/blender-headless-fleet",
+  "source_url": "https://github.com/Kiet1308/blender-headless-fleet",
+  "install": "# git clone --depth 1 https://github.com/Kiet1308/blender-headless-fleet\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "null-402-mcp",
+  "description": "Lets agents pay x402-protected endpoints privately on Stellar using zero-knowledge proofs, with tools to create wallets, deposit funds, and pay endpoints while revealing only a nullifier.",
+  "source_repo": "shinothelegend/null-402-mcp",
+  "source_url": "https://github.com/shinothelegend/null-402-mcp",
+  "install": "npx -y null-402-mcp"
+}

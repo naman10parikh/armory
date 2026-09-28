@@ -1,0 +1,7 @@
+{
+  "name": "cad-meu-dinheiro",
+  "description": "Syncs bank data from Pluggy to Postgres and provides MCP tools to answer natural-language questions about spending, budgets, transactions, and categorization rules.",
+  "source_repo": "KarolineKS/MCP-Open-Finance",
+  "source_url": "https://github.com/KarolineKS/MCP-Open-Finance",
+  "install": "# git clone --depth 1 https://github.com/KarolineKS/MCP-Open-Finance\n# See source for mcpServers config block"
+}

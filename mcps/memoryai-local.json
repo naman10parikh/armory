@@ -1,0 +1,7 @@
+{
+  "name": "memoryai-local",
+  "description": "Provides persistent long-term memory and local RAG document search for Claude Desktop, fully offline. Enables memory save/search and document retrieval via MCP.",
+  "source_repo": "cenkierpiotr/memoryai-local-windows2",
+  "source_url": "https://github.com/cenkierpiotr/memoryai-local-windows2",
+  "install": "# git clone --depth 1 https://github.com/cenkierpiotr/memoryai-local-windows2\n# See source for mcpServers config block"
+}

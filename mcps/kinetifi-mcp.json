@@ -1,0 +1,7 @@
+{
+  "name": "kinetifi-mcp",
+  "description": "Cross-chain MCP server that coordinates operations between Casper and Mantle networks, enabling yield scanning, portfolio aggregation, and intent-based strategy generation.",
+  "source_repo": "Tmalone1250/kinetifi-mcp",
+  "source_url": "https://github.com/Tmalone1250/kinetifi-mcp",
+  "install": "npx -y kinetifi-mcp"
+}

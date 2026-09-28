@@ -1,0 +1,7 @@
+{
+  "name": "iac-mcp",
+  "description": "Enables AI to dynamically discover and control native macOS applications (like Finder, Mail, Safari) through AppleScript/JXA automation without pre-built integrations.",
+  "source_repo": "jsavin/iac-mcp",
+  "source_url": "https://github.com/jsavin/iac-mcp",
+  "install": "npx -y iac-mcp"
+}

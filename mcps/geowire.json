@@ -1,0 +1,7 @@
+{
+  "name": "geowire",
+  "description": "Unified place search and geocoding over OpenStreetMap, Google, and your own CSV data. Provider fallback, multi-provider merge + dedup, cost budgets, and a policy engine. Works with zero API keys. Tools: search_places, get_place, geocode_address, reverse_geocode, list_geo_providers.",
+  "source_repo": "geowire/geowire",
+  "source_url": "https://github.com/geowire/geowire",
+  "install": "# git clone --depth 1 https://github.com/geowire/geowire\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shelfkeeper-mcp-server",
+  "description": "MCP server for Amazon FBA sellers providing tools for profit calculation, inventory health analysis, COGS breakdown, tax deduction guidance, reorder point calculation, and FBA fee reference.",
+  "source_repo": "arnold-commits/shelfkeeper-mcp-server",
+  "source_url": "https://github.com/arnold-commits/shelfkeeper-mcp-server",
+  "install": "npx -y shelfkeeper-mcp-server"
+}

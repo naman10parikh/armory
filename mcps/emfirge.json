@@ -1,0 +1,7 @@
+{
+  "name": "emfirge",
+  "description": "Enables AI to scan AWS accounts, analyze attack paths, and verify security fixes on a read-only graph of cloud resources.",
+  "source_repo": "theanshsonkar/emfirge",
+  "source_url": "https://github.com/theanshsonkar/emfirge",
+  "install": "# git clone --depth 1 https://github.com/theanshsonkar/emfirge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ross-mcp",
+  "description": "Personal life admin MCP server that manages Apple Reminders from any Claude session via a cloud relay to a local Mac agent.",
+  "source_repo": "Ross-C/ross-mcp",
+  "source_url": "https://github.com/Ross-C/ross-mcp",
+  "install": "npx -y ross-mcp"
+}

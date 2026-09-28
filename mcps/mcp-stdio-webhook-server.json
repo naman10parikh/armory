@@ -1,0 +1,7 @@
+{
+  "name": "mcp-stdio-webhook-server",
+  "description": "A lightweight MCP server that accepts event envelopes, maps them to configurable tools, and supports STDIO transport with Docker deployment.",
+  "source_repo": "encoded-evolution/mcp_webhook_python_zed",
+  "source_url": "https://github.com/encoded-evolution/mcp_webhook_python_zed",
+  "install": "# git clone --depth 1 https://github.com/encoded-evolution/mcp_webhook_python_zed\n# See source for mcpServers config block"
+}

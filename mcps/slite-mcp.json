@@ -1,0 +1,7 @@
+{
+  "name": "slite-mcp",
+  "description": "Integrates with Slite's API to search, retrieve, create, and edit notes via the MCP protocol.",
+  "source_repo": "fajarmf/slite-mcp",
+  "source_url": "https://github.com/fajarmf/slite-mcp",
+  "install": "npx -y slite-mcp"
+}

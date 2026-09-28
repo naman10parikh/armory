@@ -1,0 +1,7 @@
+{
+  "name": "soundiiz-mcp",
+  "description": "An MCP server for Soundiiz that lets AI assistants inspect sync jobs and SmartLinks across streaming services, trigger syncs, and clean up stale links.",
+  "source_repo": "BASIC-BIT/soundiiz-mcp",
+  "source_url": "https://github.com/BASIC-BIT/soundiiz-mcp",
+  "install": "npx -y soundiiz-mcp"
+}

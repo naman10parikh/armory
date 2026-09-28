@@ -1,0 +1,7 @@
+{
+  "name": "git-readonly-mcp",
+  "description": "A read-only MCP server that exposes Git history, diffs, refs, and file contents to AI assistants, with strict access controls and security restrictions.",
+  "source_repo": "kazuki0529/git-readonly-mcp",
+  "source_url": "https://github.com/kazuki0529/git-readonly-mcp",
+  "install": "npx -y git-readonly-mcp"
+}

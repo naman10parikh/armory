@@ -1,0 +1,7 @@
+{
+  "name": "multiservice-ia",
+  "description": "A local MCP server that provides a sovereign memory substrate for LLMs, enabling capture, recall, explanation, and anticipation of conversation turns with bi-temporal events and a strict read-only query surface.",
+  "source_repo": "wilf974/MultiServices-AI",
+  "source_url": "https://github.com/wilf974/MultiServices-AI",
+  "install": "# git clone --depth 1 https://github.com/wilf974/MultiServices-AI\n# See source for mcpServers config block"
+}

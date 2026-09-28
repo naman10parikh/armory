@@ -1,0 +1,7 @@
+{
+  "name": "publisher-content-mcp-server",
+  "description": "Exposes publisher journalism to LLMs and agent frameworks via search, retrieval, source grounding, and consistent citation, enabling accurate content retrieval with attribution and policy enforcement.",
+  "source_repo": "ravintambimuttu-eng/The-Mail",
+  "source_url": "https://github.com/ravintambimuttu-eng/The-Mail",
+  "install": "# git clone --depth 1 https://github.com/ravintambimuttu-eng/The-Mail\n# See source for mcpServers config block"
+}

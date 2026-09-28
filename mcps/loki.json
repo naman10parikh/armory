@@ -1,0 +1,7 @@
+{
+  "name": "loki",
+  "description": "Loki lets an AI agent run an entire website at runtime — content schema, content, code, routes, and design — through a single MCP endpoint.",
+  "source_repo": "jokull/loki",
+  "source_url": "https://github.com/jokull/loki",
+  "install": "# git clone --depth 1 https://github.com/jokull/loki\n# See source for mcpServers config block"
+}

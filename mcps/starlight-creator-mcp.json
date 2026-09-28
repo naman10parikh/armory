@@ -1,0 +1,7 @@
+{
+  "name": "starlight-creator-mcp",
+  "description": "Enables agentic creators to generate images, videos, and audio, run taste-based scoring, and publish through human-gated signed manifests using their own keys and local provenance.",
+  "source_repo": "frankxai/starlight-creator-mcp",
+  "source_url": "https://github.com/frankxai/starlight-creator-mcp",
+  "install": "npx -y starlight-creator-mcp"
+}

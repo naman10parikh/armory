@@ -1,0 +1,7 @@
+{
+  "name": "san-diego-regional-gis-mcp",
+  "description": "Enables natural language interaction with SANDAG's regional GIS datasets for San Diego County, supporting discovery, querying, and spatial analysis of layers like parcels, floodplains, and transit.",
+  "source_repo": "codeforanchorage/esri-living-atlas-mcp",
+  "source_url": "https://github.com/codeforanchorage/esri-living-atlas-mcp",
+  "install": "npx -y esri-living-atlas-mcp"
+}

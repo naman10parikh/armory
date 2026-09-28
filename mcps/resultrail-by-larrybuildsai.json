@@ -1,0 +1,7 @@
+{
+  "name": "resultrail-by-larrybuildsai",
+  "description": "Hosted MCP server that provides pay-per-success public-data result packs with source URLs, confidence, timestamps, and receipt hashes.",
+  "source_repo": "LarryLemonBot/resultrail-mcp-server",
+  "source_url": "https://github.com/LarryLemonBot/resultrail-mcp-server",
+  "install": "npx -y resultrail-mcp-server"
+}

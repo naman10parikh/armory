@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tagmanager",
+  "description": "MCP server for Google Tag Manager, offering tools to manage accounts, containers, workspaces, tags, triggers, and versions, with explicit confirmation for production-affecting actions.",
+  "source_repo": "gustavomkt/mcp-tagmanager",
+  "source_url": "https://github.com/gustavomkt/mcp-tagmanager",
+  "install": "# git clone --depth 1 https://github.com/gustavomkt/mcp-tagmanager\n# See source for mcpServers config block"
+}

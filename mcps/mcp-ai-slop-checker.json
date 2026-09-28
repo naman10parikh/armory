@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ai-slop-checker",
+  "description": "Three deterministic MCP tools that score text for AI-writing tells (em-dash density, hedge words, tricolons, boilerplate openers) and grade landing-page copy. No LLM, no network calls, no API key — same input always yields the same score. Published on the official MCP registry as io.github.parweb/ai",
+  "source_repo": "parweb/mcp-ai-slop-checker",
+  "source_url": "https://github.com/parweb/mcp-ai-slop-checker",
+  "install": "# git clone --depth 1 https://github.com/parweb/mcp-ai-slop-checker\n# See source for mcpServers config block"
+}

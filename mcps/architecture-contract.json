@@ -1,0 +1,7 @@
+{
+  "name": "architecture-contract",
+  "description": "An agnostic MCP server that reads arc.yaml from the workspace, exposing tools to map layers, trace slices, generate scaffolding, and validate architectural rules.",
+  "source_repo": "godrix/mcp-architecture-contract",
+  "source_url": "https://github.com/godrix/mcp-architecture-contract",
+  "install": "# git clone --depth 1 https://github.com/godrix/mcp-architecture-contract\n# See source for mcpServers config block"
+}

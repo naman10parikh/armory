@@ -1,0 +1,7 @@
+{
+  "name": "reasonix-vision-mcp",
+  "description": "A Vision Bridge MCP Server that enables text-only models to call vision models to describe images, supporting OpenAI-compatible APIs with optional image compression.",
+  "source_repo": "LxyMp/reasonix-vision-mcp",
+  "source_url": "https://github.com/LxyMp/reasonix-vision-mcp",
+  "install": "npx -y reasonix-vision-mcp"
+}

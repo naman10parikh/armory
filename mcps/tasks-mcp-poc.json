@@ -1,0 +1,7 @@
+{
+  "name": "tasks-mcp-poc",
+  "description": "A generic task manager (like Monday, Jira, Trello) with MCP as its only interface, enabling task and user management via natural language through Claude.",
+  "source_repo": "cizar/tasks-mcp-poc",
+  "source_url": "https://github.com/cizar/tasks-mcp-poc",
+  "install": "# git clone --depth 1 https://github.com/cizar/tasks-mcp-poc\n# See source for mcpServers config block"
+}

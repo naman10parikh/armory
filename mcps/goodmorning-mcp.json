@@ -1,0 +1,7 @@
+{
+  "name": "goodmorning-mcp",
+  "description": "Exposes models available on the gm inference gateway as callable tools, enabling coding agents to query models and list available ones via natural language.",
+  "source_repo": "taostat/gm-mcp",
+  "source_url": "https://github.com/taostat/gm-mcp",
+  "install": "npx -y gm-mcp"
+}

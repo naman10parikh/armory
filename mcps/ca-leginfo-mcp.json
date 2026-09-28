@@ -1,0 +1,7 @@
+{
+  "name": "ca-leginfo-mcp",
+  "description": "MCP server for California statutes and legislation, enabling verification of current statutory text, tracking pending bills that would amend or repeal sections, and retrieving legislative history from 1993 onward using official legislative bulk data.",
+  "source_repo": "nomindnick/ca-leginfo-mcp",
+  "source_url": "https://github.com/nomindnick/ca-leginfo-mcp",
+  "install": "npx -y ca-leginfo-mcp"
+}

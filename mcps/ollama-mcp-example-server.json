@@ -1,0 +1,7 @@
+{
+  "name": "ollama-mcp-example-server",
+  "description": "A simple MCP server that exposes stock price lookup tools, demonstrating how to set up MCP from scratch with Ollama.",
+  "source_repo": "kirillsaidov/ollama-mcp-example",
+  "source_url": "https://github.com/kirillsaidov/ollama-mcp-example",
+  "install": "# git clone --depth 1 https://github.com/kirillsaidov/ollama-mcp-example\n# See source for mcpServers config block"
+}

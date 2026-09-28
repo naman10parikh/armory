@@ -1,0 +1,7 @@
+{
+  "name": "uxlint",
+  "description": "Audits any site's UX the way a design-literate reviewer would — contrast, tap targets, type scale, colour discipline, scan patterns, copy — and returns the rule, the source line and the exact fix.",
+  "source_repo": "uxlint-net/uxlint-cli",
+  "source_url": "https://github.com/uxlint-net/uxlint-cli",
+  "install": "# git clone --depth 1 https://github.com/uxlint-net/uxlint-cli\n# See source for mcpServers config block"
+}

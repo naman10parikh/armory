@@ -1,0 +1,7 @@
+{
+  "name": "sleepsweet",
+  "description": "Enables AI agents to audit and clean their memory files by scanning for duplicates, broken links, stale facts, and conflicts, with non-destructive, reversible fixes and a full audit trail. It also lets the calling agent serve as the conflict judge through MCP tools.",
+  "source_repo": "SleepSweet/sleepsweet",
+  "source_url": "https://github.com/SleepSweet/sleepsweet",
+  "install": "# git clone --depth 1 https://github.com/SleepSweet/sleepsweet\n# See source for mcpServers config block"
+}

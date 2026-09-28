@@ -1,0 +1,7 @@
+{
+  "name": "mcp-telegram-cloud",
+  "description": "Open source MCP server that connects a Telegram account to AI assistants over OAuth + QR login, enabling read-only and safe state-change operations.",
+  "source_repo": "kaka-sangi/mcp-telegram-cloud-deploy",
+  "source_url": "https://github.com/kaka-sangi/mcp-telegram-cloud-deploy",
+  "install": "# git clone --depth 1 https://github.com/kaka-sangi/mcp-telegram-cloud-deploy\n# See source for mcpServers config block"
+}

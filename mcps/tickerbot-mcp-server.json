@@ -1,0 +1,7 @@
+{
+  "name": "tickerbot-mcp-server",
+  "description": "Enables scanning and querying stock market data across thousands of US tickers and top cryptos, with tools for signal analysis, historical replay, and webhook subscriptions.",
+  "source_repo": "tickerbot/tickerbot-mcp",
+  "source_url": "https://github.com/tickerbot/tickerbot-mcp",
+  "install": "npx -y tickerbot-mcp"
+}

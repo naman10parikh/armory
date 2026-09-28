@@ -1,0 +1,7 @@
+{
+  "name": "sap-help-mcp",
+  "description": "An MCP server for searching SAP Help Portal documentation, enabling AI assistants to search, browse, and retrieve SAP documentation programmatically.",
+  "source_repo": "ethanhan2014/sap-help-mcp",
+  "source_url": "https://github.com/ethanhan2014/sap-help-mcp",
+  "install": "npx -y sap-help-mcp"
+}

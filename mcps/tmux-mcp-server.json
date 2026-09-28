@@ -1,0 +1,7 @@
+{
+  "name": "tmux-mcp-server",
+  "description": "MCP server for tmux enabling AI assistants to manage tmux sessions, windows, panes, layouts, and execute commands securely through natural language. Supports multiple profiles including read-only and full tool sets.",
+  "source_repo": "manhnv198669/tmux-mcp-server",
+  "source_url": "https://github.com/manhnv198669/tmux-mcp-server",
+  "install": "npx -y tmux-mcp-server"
+}

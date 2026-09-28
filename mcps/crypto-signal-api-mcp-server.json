@@ -1,0 +1,7 @@
+{
+  "name": "crypto-signal-api-mcp-server",
+  "description": "Enables AI agents to fetch real-time trading signals and technical indicators for cryptocurrencies using Binance market data.",
+  "source_repo": "lazymac2x/crypto-signal-api",
+  "source_url": "https://github.com/lazymac2x/crypto-signal-api",
+  "install": "# git clone --depth 1 https://github.com/lazymac2x/crypto-signal-api\n# See source for mcpServers config block"
+}

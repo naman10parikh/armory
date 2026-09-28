@@ -1,0 +1,7 @@
+{
+  "name": "whynote-mcp",
+  "description": "A read-only MCP server for searching and reading notes from a WhyNote account. It provides tools to search note lines, list todos, and read daily notes.",
+  "source_repo": "Coooolinz/why-note-mcp",
+  "source_url": "https://github.com/Coooolinz/why-note-mcp",
+  "install": "npx -y why-note-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alfresco-mcp-server",
+  "description": "A minimal MCP server for Alfresco providing tools via the Alfresco REST API, with ticket-based authentication and support for stdio, SSE, and HTTP transports.",
+  "source_repo": "AlfrescoLabs/alfresco-mcp-server",
+  "source_url": "https://github.com/AlfrescoLabs/alfresco-mcp-server",
+  "install": "npx -y alfresco-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chance-electro-pricing",
+  "description": "Provides electrical pricing, cable sizing, and profitability analysis tools for construction estimating, integrating with Claude to answer pricing queries based on a US-market-calibrated price list and NEC standards.",
+  "source_repo": "barmanoff/chance-electro-capstone",
+  "source_url": "https://github.com/barmanoff/chance-electro-capstone",
+  "install": "# git clone --depth 1 https://github.com/barmanoff/chance-electro-capstone\n# See source for mcpServers config block"
+}

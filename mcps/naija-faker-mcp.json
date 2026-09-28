@@ -1,0 +1,7 @@
+{
+  "name": "naija-faker-mcp",
+  "description": "Enables AI assistants to generate fake Nigerian data including names, addresses, phone numbers, LGAs, and states for Yoruba, Igbo, and Hausa ethnic groups.",
+  "source_repo": "kodegrenade/naija-faker-mcp",
+  "source_url": "https://github.com/kodegrenade/naija-faker-mcp",
+  "install": "npx -y naija-faker-mcp"
+}

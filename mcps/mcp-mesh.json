@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mesh",
+  "description": "Universal MCP router and gateway that bridges LLM agents to OpenAPI, GraphQL, and AWS Lambda services with ISO/IEC 42001 AI governance, RBAC, PII redaction, semantic tool routing, and a web dashboard.",
+  "source_repo": "Sahil-Chavan96/mcp-mesh",
+  "source_url": "https://github.com/Sahil-Chavan96/mcp-mesh",
+  "install": "# git clone --depth 1 https://github.com/Sahil-Chavan96/mcp-mesh\n# See source for mcpServers config block"
+}

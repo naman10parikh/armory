@@ -1,0 +1,7 @@
+{
+  "name": "pandap-mcp",
+  "description": "Connects Claude to the Pandapé recruitment API, enabling natural language management of vacancies, structured candidate review against custom criteria, pipeline stage updates, and CV downloads.",
+  "source_repo": "Jairodaniel-17/pandape-mcp",
+  "source_url": "https://github.com/Jairodaniel-17/pandape-mcp",
+  "install": "npx -y pandape-mcp"
+}

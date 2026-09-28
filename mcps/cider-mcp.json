@@ -1,0 +1,7 @@
+{
+  "name": "cider-mcp",
+  "description": "An MCP server that lets agents control Cider 4, the Apple Music client, enabling playback, queue, library management, catalog search, and playlist creation.",
+  "source_repo": "MarioDanielPanuco/cider-mcp",
+  "source_url": "https://github.com/MarioDanielPanuco/cider-mcp",
+  "install": "npx -y cider-mcp"
+}

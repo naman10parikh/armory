@@ -1,0 +1,7 @@
+{
+  "name": "cindex",
+  "description": "Provides a search_code tool for coding agents to perform local, offline semantic code search on a tree-sitter AST indexed codebase using GGUF embeddings, with no network calls or API keys.",
+  "source_repo": "aarontrmartin/code-indexer",
+  "source_url": "https://github.com/aarontrmartin/code-indexer",
+  "install": "# git clone --depth 1 https://github.com/aarontrmartin/code-indexer\n# See source for mcpServers config block"
+}

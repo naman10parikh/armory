@@ -1,0 +1,7 @@
+{
+  "name": "slimdex-mcp",
+  "description": "Slimdex is a local MCP server that helps coding agents retrieve code narrowly—outlines, line ranges, symbol bodies, references, and intent-based searches—instead of reading whole files into context, featuring a persistent index and tools for exploration, editing, and session memory.",
+  "source_repo": "Siddhukaushik/slimdex-mcp",
+  "source_url": "https://github.com/Siddhukaushik/slimdex-mcp",
+  "install": "npx -y slimdex-mcp"
+}

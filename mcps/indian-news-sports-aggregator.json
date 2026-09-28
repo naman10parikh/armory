@@ -1,0 +1,7 @@
+{
+  "name": "indian-news-sports-aggregator",
+  "description": "MCP server that aggregates and caches top stories from Indian news websites, prioritizing sports stories, and exposes them via tools for use with Claude.",
+  "source_repo": "28shekhar/mcp-sports-aggregator",
+  "source_url": "https://github.com/28shekhar/mcp-sports-aggregator",
+  "install": "# git clone --depth 1 https://github.com/28shekhar/mcp-sports-aggregator\n# See source for mcpServers config block"
+}

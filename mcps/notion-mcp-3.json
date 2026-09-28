@@ -1,7 +1,0 @@
-{
-  "name": "notion-mcp-3",
-  "description": "Notion MCP MCP server listed on mcp.so.",
-  "source_repo": "ghubnerr/Notion-MCP",
-  "source_url": "https://mcp.so/server/Notion-MCP/ghubnerr",
-  "install": "npx -y Notion-MCP"
-}

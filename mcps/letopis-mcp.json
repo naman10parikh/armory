@@ -1,0 +1,7 @@
+{
+  "name": "letopis-mcp",
+  "description": "Read-only MCP server that exposes retrieval tools over a Telegram chat archive, including archive overview, full-text search with Russian morphology, aggregates, message retrieval, and local context. It lets LLM agents answer questions from chat history without syncing Telegram, downloading files, o",
+  "source_repo": "Toligrim/Letopis-mcp",
+  "source_url": "https://github.com/Toligrim/Letopis-mcp",
+  "install": "npx -y Letopis-mcp"
+}

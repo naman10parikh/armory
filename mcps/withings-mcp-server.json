@@ -1,0 +1,7 @@
+{
+  "name": "withings-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that brings your Withings health data into Claude, allowing natural conversation access to sleep patterns, body measurements, workouts, heart data, and more.",
+  "source_repo": "akutishevsky/withings-mcp",
+  "source_url": "https://github.com/akutishevsky/withings-mcp",
+  "install": "npx -y withings-mcp"
+}

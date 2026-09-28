@@ -1,0 +1,7 @@
+{
+  "name": "atlas-mcp",
+  "description": "An MCP server that brings AI-powered search and conversation to your FHIR clinical documents.",
+  "source_repo": "rsanandres/atlas_mcp",
+  "source_url": "https://github.com/rsanandres/atlas_mcp",
+  "install": "npx -y atlas_mcp"
+}

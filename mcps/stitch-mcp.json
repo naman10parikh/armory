@@ -1,0 +1,7 @@
+{
+  "name": "stitch-mcp",
+  "description": "A CLI and MCP server to preview, build, and integrate AI-generated UI designs from Google Stitch into your local development workflow and coding agents.",
+  "source_repo": "ayemish/stitch-mcp",
+  "source_url": "https://github.com/ayemish/stitch-mcp",
+  "install": "npx -y stitch-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "checkpoint-mcp",
+  "description": "MCP server for Check Point Harmony Endpoint that exposes policy, asset, vulnerability, quarantine, and remediation API methods as MCP tools, with per-request credential isolation and automatic two-step authentication.",
+  "source_repo": "MSPbotsAI/checkpoint-mcp",
+  "source_url": "https://github.com/MSPbotsAI/checkpoint-mcp",
+  "install": "npx -y checkpoint-mcp"
+}

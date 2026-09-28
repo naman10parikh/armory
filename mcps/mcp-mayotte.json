@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mayotte",
+  "description": "MCP server for Mayotte public data, vigilance, administrative references, and local risk discovery, enabling users to search datasets, list communes, and fetch official information.",
+  "source_repo": "Hug0x0/mcp-mayotte",
+  "source_url": "https://github.com/Hug0x0/mcp-mayotte",
+  "install": "# git clone --depth 1 https://github.com/Hug0x0/mcp-mayotte\n# See source for mcpServers config block"
+}

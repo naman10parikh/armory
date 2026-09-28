@@ -1,0 +1,7 @@
+{
+  "name": "file-search-mcp",
+  "description": "Search local file contents recursively with keyword matching",
+  "source_repo": "rubber25ba/file-search-mcp",
+  "source_url": "https://github.com/rubber25ba/file-search-mcp",
+  "install": "npx -y file-search-mcp"
+}

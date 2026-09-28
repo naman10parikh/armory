@@ -1,0 +1,7 @@
+{
+  "name": "mcp-context-master",
+  "description": "Automatically analyzes project dependencies to discover and download the most relevant documentation, enabling developers to quickly set up comprehensive project context.",
+  "source_repo": "onigetoc/mcp-context-master",
+  "source_url": "https://github.com/onigetoc/mcp-context-master",
+  "install": "# git clone --depth 1 https://github.com/onigetoc/mcp-context-master\n# See source for mcpServers config block"
+}

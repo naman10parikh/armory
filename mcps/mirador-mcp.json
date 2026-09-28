@@ -1,0 +1,7 @@
+{
+  "name": "mirador-mcp",
+  "description": "Thin MCP adapter for Mirador Core that exposes data tools through the Core Internal API, enabling business data queries and schema exploration.",
+  "source_repo": "C3SC0-V4113/Mirador-MCP",
+  "source_url": "https://github.com/C3SC0-V4113/Mirador-MCP",
+  "install": "npx -y Mirador-MCP"
+}

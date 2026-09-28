@@ -1,0 +1,7 @@
+{
+  "name": "manus-mcp-server",
+  "description": "Enables Claude to generate images by wrapping the Manus API through a remote MCP server with OAuth authentication.",
+  "source_repo": "jamie442532-hash/manus-mcp-server-3",
+  "source_url": "https://github.com/jamie442532-hash/manus-mcp-server-3",
+  "install": "# git clone --depth 1 https://github.com/jamie442532-hash/manus-mcp-server-3\n# See source for mcpServers config block"
+}

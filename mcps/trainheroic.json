@@ -1,0 +1,7 @@
+{
+  "name": "trainheroic",
+  "description": "Allows for management of TrainHeroic Athlete accounts via MCP and the unofficial API",
+  "source_repo": "cmagorian/trainheroicMcp",
+  "source_url": "https://github.com/cmagorian/trainheroicMcp",
+  "install": "# git clone --depth 1 https://github.com/cmagorian/trainheroicMcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "korea-invoice-mcp",
+  "description": "Enables AI agents to issue, query, and transmit Korean electronic tax invoices (전자세금계산서) via POPBiLL/Linkhub, including VAT computation and NTS reporting.",
+  "source_repo": "junter1989k-ai/korea-invoice-mcp",
+  "source_url": "https://github.com/junter1989k-ai/korea-invoice-mcp",
+  "install": "npx -y korea-invoice-mcp"
+}

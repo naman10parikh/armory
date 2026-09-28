@@ -1,0 +1,7 @@
+{
+  "name": "i3x-mcp-server",
+  "description": "Bridges Claude (or any MCP client) to manufacturing data via the i3X standard, enabling natural language queries about equipment status, hierarchy, and historical trends.",
+  "source_repo": "cesmii/i3X-MCP-Server",
+  "source_url": "https://github.com/cesmii/i3X-MCP-Server",
+  "install": "npx -y i3X-MCP-Server"
+}

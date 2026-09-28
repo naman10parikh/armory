@@ -1,0 +1,7 @@
+{
+  "name": "turbovec-mcp",
+  "description": "Enables local semantic code search using compressed vectors from turbovec and any OpenAI-compatible embeddings endpoint.",
+  "source_repo": "potatofacee/turbovec-mcp",
+  "source_url": "https://github.com/potatofacee/turbovec-mcp",
+  "install": "npx -y turbovec-mcp"
+}

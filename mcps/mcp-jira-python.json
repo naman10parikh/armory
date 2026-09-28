@@ -1,0 +1,7 @@
+{
+  "name": "mcp-jira-python",
+  "description": "MCP server for JIRA integration enabling issue management, search, comments, and linking via natural language.",
+  "source_repo": "amovfx/mcp-jira-python",
+  "source_url": "https://github.com/amovfx/mcp-jira-python",
+  "install": "# git clone --depth 1 https://github.com/amovfx/mcp-jira-python\n# See source for mcpServers config block"
+}

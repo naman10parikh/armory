@@ -1,0 +1,7 @@
+{
+  "name": "rentcast-mcp-server-unofficial",
+  "description": "Enables querying the RentCast property API for rent and sale value estimates, market statistics, property records, and active listings through six read-only tools.",
+  "source_repo": "hasankhadra/rentcast-mcp",
+  "source_url": "https://github.com/hasankhadra/rentcast-mcp",
+  "install": "npx -y rentcast-mcp"
+}

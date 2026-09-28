@@ -1,0 +1,7 @@
+{
+  "name": "nest-mcp-learning-server",
+  "description": "A read-only MCP server that teaches how to expose documentation as a resource and safe operations as tools, using JSONPlaceholder as the data source.",
+  "source_repo": "mohamedalalwan-penny/nest-mcp-learning-server",
+  "source_url": "https://github.com/mohamedalalwan-penny/nest-mcp-learning-server",
+  "install": "# git clone --depth 1 https://github.com/mohamedalalwan-penny/nest-mcp-learning-server\n# See source for mcpServers config block"
+}

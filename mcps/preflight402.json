@@ -1,0 +1,7 @@
+{
+  "name": "preflight402",
+  "description": "MCP server that preflights endpoints before agent payments, returning a trust verdict with proceed/caution/avoid recommendation.",
+  "source_repo": "duskwire/preflight402",
+  "source_url": "https://github.com/duskwire/preflight402",
+  "install": "# git clone --depth 1 https://github.com/duskwire/preflight402\n# See source for mcpServers config block"
+}

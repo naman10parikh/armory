@@ -1,0 +1,7 @@
+{
+  "name": "composio-mcp-server",
+  "description": "Exposes Composio tools and actions (Gmail, Linear, etc.) as MCP-compatible tools for language models to interact with in a structured way.",
+  "source_repo": "comigor/composio-mcp-server",
+  "source_url": "https://github.com/comigor/composio-mcp-server",
+  "install": "npx -y composio-mcp-server"
+}

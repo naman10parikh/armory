@@ -1,0 +1,7 @@
+{
+  "name": "jira-ai-auditor",
+  "description": "Enables running Jira project health audits directly in Claude Desktop, providing real-time health scores, risk detection, and team workload analysis through natural language.",
+  "source_repo": "Avtandil-abu/jira-ai-auditor",
+  "source_url": "https://github.com/Avtandil-abu/jira-ai-auditor",
+  "install": "# git clone --depth 1 https://github.com/Avtandil-abu/jira-ai-auditor\n# See source for mcpServers config block"
+}

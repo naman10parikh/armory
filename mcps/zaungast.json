@@ -1,0 +1,7 @@
+{
+  "name": "zaungast",
+  "description": "A read-only, offline MCP server for Microsoft Teams that searches chats, reads conversations, and finds people directly from the local on-disk cache with no cloud API.",
+  "source_repo": "mbe24/zaungast",
+  "source_url": "https://github.com/mbe24/zaungast",
+  "install": "# git clone --depth 1 https://github.com/mbe24/zaungast\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "manga-trans",
+  "description": "Enables AI agents to perform local-first manga/comic scanlation by inspecting raw pages, translating text, cleaning speech bubbles, and typesetting localized content through MCP tools.",
+  "source_repo": "chiraitori/manga-trans",
+  "source_url": "https://github.com/chiraitori/manga-trans",
+  "install": "# git clone --depth 1 https://github.com/chiraitori/manga-trans\n# See source for mcpServers config block"
+}

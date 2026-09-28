@@ -1,0 +1,7 @@
+{
+  "name": "homey-wan-kenobi-mcp",
+  "description": "MCP server for controlling Homey Pro smart home systems, offering 60+ tools for device control, flow authoring, automation, monitoring, and network diagnostics.",
+  "source_repo": "Ringosystems/Homey-Wan-Kenobi-MCP",
+  "source_url": "https://github.com/Ringosystems/Homey-Wan-Kenobi-MCP",
+  "install": "npx -y Homey-Wan-Kenobi-MCP"
+}

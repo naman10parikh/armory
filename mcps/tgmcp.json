@@ -1,0 +1,7 @@
+{
+  "name": "tgmcp",
+  "description": "Enables AI agents to interact with Telegram accounts through MCP, supporting messaging, contacts, groups, media, and admin functions.",
+  "source_repo": "OEvortex/tgmcp",
+  "source_url": "https://github.com/OEvortex/tgmcp",
+  "install": "# git clone --depth 1 https://github.com/OEvortex/tgmcp\n# See source for mcpServers config block"
+}

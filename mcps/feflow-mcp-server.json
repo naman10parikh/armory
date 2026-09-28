@@ -1,0 +1,7 @@
+{
+  "name": "feflow-mcp-server",
+  "description": "Enables AI assistants to control FEFLOW 7.5 groundwater simulation software through MCP, supporting model loading, mesh operations, parameter management, and result export.",
+  "source_repo": "Followmyself/DHI_FEFLOW_MCP",
+  "source_url": "https://github.com/Followmyself/DHI_FEFLOW_MCP",
+  "install": "npx -y DHI_FEFLOW_MCP"
+}

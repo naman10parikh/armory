@@ -1,0 +1,7 @@
+{
+  "name": "pseudolife-mcp",
+  "description": "Enables persistent long-term memory for Claude Code across sessions, with tools for storing, searching, and managing facts, knowledge graphs, and procedural lessons.",
+  "source_repo": "Pseudogiant-xr/Pseudolife-MCP",
+  "source_url": "https://github.com/Pseudogiant-xr/Pseudolife-MCP",
+  "install": "npx -y Pseudolife-MCP"
+}

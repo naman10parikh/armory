@@ -1,0 +1,7 @@
+{
+  "name": "kimi-acp-mcp",
+  "description": "Bridges Claude Code to Kimi Code via MCP, enabling task delegation with file and command execution.",
+  "source_repo": "TuTouPower/kimi-acp-mcp",
+  "source_url": "https://github.com/TuTouPower/kimi-acp-mcp",
+  "install": "npx -y kimi-acp-mcp"
+}

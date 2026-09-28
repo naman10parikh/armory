@@ -1,0 +1,7 @@
+{
+  "name": "catmcp",
+  "description": "A lightweight MCP server that serves a curated collection of cat jokes to LLM clients, supporting tools for random jokes by category, search, and resource access.",
+  "source_repo": "chambtai-sys/CatMCP",
+  "source_url": "https://github.com/chambtai-sys/CatMCP",
+  "install": "# git clone --depth 1 https://github.com/chambtai-sys/CatMCP\n# See source for mcpServers config block"
+}

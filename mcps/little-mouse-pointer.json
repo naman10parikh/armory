@@ -1,0 +1,7 @@
+{
+  "name": "little-mouse-pointer",
+  "description": "Enables AI agents to select Windows desktop UI elements, windows, or screen regions via mouse hover, then obtain context through UI Automation, screenshots, and local OCR for MCP-compatible clients.",
+  "source_repo": "Fish121380/auto-mouse",
+  "source_url": "https://github.com/Fish121380/auto-mouse",
+  "install": "# git clone --depth 1 https://github.com/Fish121380/auto-mouse\n# See source for mcpServers config block"
+}

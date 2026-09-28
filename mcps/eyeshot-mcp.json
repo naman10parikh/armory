@@ -1,0 +1,7 @@
+{
+  "name": "eyeshot-mcp",
+  "description": "Provides screenshot capture and vision analysis tools that enable AI to see and analyze screen content on Windows, forming an automated capture-analyze pipeline.",
+  "source_repo": "FlyFeathers/eyeshot-mcp",
+  "source_url": "https://github.com/FlyFeathers/eyeshot-mcp",
+  "install": "npx -y eyeshot-mcp"
+}

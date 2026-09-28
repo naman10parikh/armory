@@ -1,0 +1,7 @@
+{
+  "name": "signalk-mcp-server",
+  "description": "Enables AI agents to access SignalK marine data with 90-96% token reduction by executing JavaScript code in V8 isolates for client-side filtering and processing.",
+  "source_repo": "VesselSense/signalk-mcp-server",
+  "source_url": "https://github.com/VesselSense/signalk-mcp-server",
+  "install": "npx -y signalk-mcp-server"
+}

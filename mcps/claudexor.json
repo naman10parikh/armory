@@ -1,0 +1,7 @@
+{
+  "name": "claudexor",
+  "description": "MCP control plane for Claude Code, Codex, Cursor, and OpenCode. Supports opt-in quota-aware rotation across multiple native Claude Code or Codex subscription accounts of the same harness, with isolated credentials, separate quotas, and bounded task handoffs.",
+  "source_repo": "razzant/claudexor",
+  "source_url": "https://github.com/razzant/claudexor",
+  "install": "# git clone --depth 1 https://github.com/razzant/claudexor\n# See source for mcpServers config block"
+}

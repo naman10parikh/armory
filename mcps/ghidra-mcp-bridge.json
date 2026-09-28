@@ -1,0 +1,7 @@
+{
+  "name": "ghidra-mcp-bridge",
+  "description": "A PyGhidra-based MCP server that exposes Ghidra's reverse engineering capabilities to AI agents, enabling binary analysis via tools like overview, search, view, list, edit, script execution, and version control.",
+  "source_repo": "Hao17/LiteGhidraMCP",
+  "source_url": "https://github.com/Hao17/LiteGhidraMCP",
+  "install": "# git clone --depth 1 https://github.com/Hao17/LiteGhidraMCP\n# See source for mcpServers config block"
+}

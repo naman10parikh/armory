@@ -1,0 +1,7 @@
+{
+  "name": "debmatic-mcp",
+  "description": "Integrates HomeMatic smart home devices (via CCU3, RaspberryMatic, or debmatic) as MCP tools, enabling natural language query and control of rooms, devices, programs, and system variables.",
+  "source_repo": "claymore666/debmatic-mcp",
+  "source_url": "https://github.com/claymore666/debmatic-mcp",
+  "install": "npx -y debmatic-mcp"
+}

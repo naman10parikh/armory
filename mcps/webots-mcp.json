@@ -1,0 +1,7 @@
+{
+  "name": "webots-mcp",
+  "description": "Bridges AI agents with Webots robotics simulation, enabling natural language control of Nao robots and visual perception.",
+  "source_repo": "punithkrishnakeepudi/webots-mcp-server",
+  "source_url": "https://github.com/punithkrishnakeepudi/webots-mcp-server",
+  "install": "npx -y webots-mcp-server"
+}

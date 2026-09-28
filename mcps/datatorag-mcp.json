@@ -1,0 +1,7 @@
+{
+  "name": "datatorag-mcp",
+  "description": "An open-source Model Context Protocol gateway that connects Google Workspace, Jira, and Confluence to AI assistants, providing 70 tools across one endpoint with multi-account support and token-optimized responses.",
+  "source_repo": "datatorag/mcp-gateway",
+  "source_url": "https://github.com/datatorag/mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/datatorag/mcp-gateway\n# See source for mcpServers config block"
+}

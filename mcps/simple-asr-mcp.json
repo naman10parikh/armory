@@ -1,0 +1,7 @@
+{
+  "name": "simple-asr-mcp",
+  "description": "Minimal MCP server for local speech recognition using faster-whisper. Runs on CPU, no cloud required.",
+  "source_repo": "Selentar/simple-asr-mcp",
+  "source_url": "https://github.com/Selentar/simple-asr-mcp",
+  "install": "npx -y simple-asr-mcp"
+}

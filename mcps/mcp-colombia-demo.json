@@ -1,0 +1,7 @@
+{
+  "name": "mcp-colombia-demo",
+  "description": "MCP server that lets AI assistants query official Colombian department data (capital, population, area, municipalities, and phone prefix) in real time through the public Colombia REST API.",
+  "source_repo": "julio7879/mcp-colombia-demo",
+  "source_url": "https://github.com/julio7879/mcp-colombia-demo",
+  "install": "# git clone --depth 1 https://github.com/julio7879/mcp-colombia-demo\n# See source for mcpServers config block"
+}

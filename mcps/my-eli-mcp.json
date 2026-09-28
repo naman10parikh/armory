@@ -1,0 +1,7 @@
+{
+  "name": "my-eli-mcp",
+  "description": "MCP server for the Laws of Malaysia Online portal, fetching and citing Malaysian principal Acts with verifiable citations.",
+  "source_repo": "matematicsolutions/my-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/my-eli-mcp",
+  "install": "npx -y my-eli-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "linkwarden-mcp",
+  "description": "MCP server for Linkwarden bookmarks providing read-first search and preserved content access with opt-in write, delete, and collection-delete tools, plus heuristic triage workflows.",
+  "source_repo": "flumpiey/linkwarden-mcp",
+  "source_url": "https://github.com/flumpiey/linkwarden-mcp",
+  "install": "npx -y linkwarden-mcp"
+}

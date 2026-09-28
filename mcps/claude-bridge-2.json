@@ -1,0 +1,7 @@
+{
+  "name": "claude-bridge-2",
+  "description": "Shared MCP server enabling two Claude Code instances to collaborate over the internet by sharing messages, memory, tasks, and files through a common URL and room key.",
+  "source_repo": "mocky70025/mcp_for_claude_collaboration",
+  "source_url": "https://github.com/mocky70025/mcp_for_claude_collaboration",
+  "install": "# git clone --depth 1 https://github.com/mocky70025/mcp_for_claude_collaboration\n# See source for mcpServers config block"
+}

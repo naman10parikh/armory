@@ -1,0 +1,7 @@
+{
+  "name": "mcp-duplicati",
+  "description": "MCP server for Duplicati backup management. Enables checking status, running backups, viewing logs, and controlling the scheduler.",
+  "source_repo": "aaronckj/mcp-duplicati",
+  "source_url": "https://github.com/aaronckj/mcp-duplicati",
+  "install": "# git clone --depth 1 https://github.com/aaronckj/mcp-duplicati\n# See source for mcpServers config block"
+}

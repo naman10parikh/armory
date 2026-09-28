@@ -1,0 +1,7 @@
+{
+  "name": "dedicated-mac-mini-ai-bot-setup-mcp",
+  "description": "Enables founders to evaluate and purchase a managed AI operator running on a dedicated Mac mini, with tools to retrieve offer details and queue status.",
+  "source_repo": "eibrahim/dedicated-mac-mini-ai-bot-setup-mcp",
+  "source_url": "https://github.com/eibrahim/dedicated-mac-mini-ai-bot-setup-mcp",
+  "install": "npx -y dedicated-mac-mini-ai-bot-setup-mcp"
+}

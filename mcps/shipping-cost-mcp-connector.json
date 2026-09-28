@@ -1,0 +1,7 @@
+{
+  "name": "shipping-cost-mcp-connector",
+  "description": "Pulls real and estimated shipping costs from Shiprocket and Delhivery into Claude, with rollup summaries for yesterday, last 7 days, MTD, and last 30 days.",
+  "source_repo": "asm-2023/claude-shipping-mcp",
+  "source_url": "https://github.com/asm-2023/claude-shipping-mcp",
+  "install": "npx -y claude-shipping-mcp"
+}

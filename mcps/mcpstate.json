@@ -1,0 +1,7 @@
+{
+  "name": "mcpstate",
+  "description": "Durable, user-keyed state management for stateless MCP servers. Enables agents to persist and resume state across conversations, clients, and devices.",
+  "source_repo": "varmabudharaju/mcpstate",
+  "source_url": "https://github.com/varmabudharaju/mcpstate",
+  "install": "# git clone --depth 1 https://github.com/varmabudharaju/mcpstate\n# See source for mcpServers config block"
+}

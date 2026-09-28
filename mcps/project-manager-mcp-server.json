@@ -1,0 +1,7 @@
+{
+  "name": "project-manager-mcp-server",
+  "description": "Enables project management through natural language, allowing users to create, list, and update tasks with SQLite persistence, integrated with Claude Code and deployable over SSE.",
+  "source_repo": "cjafet/mcp-project-manager",
+  "source_url": "https://github.com/cjafet/mcp-project-manager",
+  "install": "# git clone --depth 1 https://github.com/cjafet/mcp-project-manager\n# See source for mcpServers config block"
+}

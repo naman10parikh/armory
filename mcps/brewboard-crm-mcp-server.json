@@ -1,0 +1,7 @@
+{
+  "name": "brewboard-crm-mcp-server",
+  "description": "Connects Claude.ai to the BrewBoard Supabase database for analytics and post-visit customer messaging, exposing tools like revenue summary, peak hours, orders, and a simulated revisit message.",
+  "source_repo": "ASHITA2005/crm_mcp",
+  "source_url": "https://github.com/ASHITA2005/crm_mcp",
+  "install": "npx -y crm_mcp"
+}

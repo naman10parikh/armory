@@ -1,0 +1,7 @@
+{
+  "name": "cloudgate-mcp",
+  "description": "Enables building and managing Cloudgate workflow-APIs, including controllers, actions, workflow graphs, and databases, from any MCP-compatible AI client.",
+  "source_repo": "cloudgatedevs/mcp",
+  "source_url": "https://github.com/cloudgatedevs/mcp",
+  "install": "# git clone --depth 1 https://github.com/cloudgatedevs/mcp\n# See source for mcpServers config block"
+}

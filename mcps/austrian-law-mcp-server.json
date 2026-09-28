@@ -1,0 +1,7 @@
+{
+  "name": "austrian-law-mcp-server",
+  "description": "Enables AI assistants to search and retrieve Austrian federal legislation, provisions, case law, and EU implementation data with verbatim source citations and currency validation.",
+  "source_repo": "Ansvar-Systems/Austrian-law-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/Austrian-law-mcp",
+  "install": "npx -y Austrian-law-mcp"
+}

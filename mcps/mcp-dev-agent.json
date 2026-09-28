@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dev-agent",
+  "description": "Provides AI agents with shell execution and file management capabilities on a development VM, including running commands and editing files via tools like run_command, read_file, and edit_file.",
+  "source_repo": "wilianconte/mcp-dev",
+  "source_url": "https://github.com/wilianconte/mcp-dev",
+  "install": "# git clone --depth 1 https://github.com/wilianconte/mcp-dev\n# See source for mcpServers config block"
+}

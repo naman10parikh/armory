@@ -1,0 +1,7 @@
+{
+  "name": "project-decision-rag",
+  "description": "Semantic search over project-specific decision rules using Chroma, enabling LLMs to retrieve relevant context.",
+  "source_repo": "mtakahashi-ivi/mtakahashi-prejudice-mcp-local-rag",
+  "source_url": "https://github.com/mtakahashi-ivi/mtakahashi-prejudice-mcp-local-rag",
+  "install": "# git clone --depth 1 https://github.com/mtakahashi-ivi/mtakahashi-prejudice-mcp-local-rag\n# See source for mcpServers config block"
+}

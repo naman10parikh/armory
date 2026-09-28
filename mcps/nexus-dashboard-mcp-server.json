@@ -1,0 +1,7 @@
+{
+  "name": "nexus-dashboard-mcp-server",
+  "description": "A local Model Context Protocol (MCP) server that allows an MCP client such as Codex to discover and call Cisco Nexus Dashboard APIs for inventory, health checks, troubleshooting, and controlled configuration changes.",
+  "source_repo": "amikum0504/ND-External-MCP",
+  "source_url": "https://github.com/amikum0504/ND-External-MCP",
+  "install": "npx -y ND-External-MCP"
+}

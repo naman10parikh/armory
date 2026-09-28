@@ -1,0 +1,7 @@
+{
+  "name": "pc-bot",
+  "description": "MCP server that enables AI agents to control Windows by clicking, typing, and navigating with a visible cursor overlay, using a layered approach (native UIA, browser CDP, pixel fallback) for reliable interaction.",
+  "source_repo": "ChristopherDond/pc-bot",
+  "source_url": "https://github.com/ChristopherDond/pc-bot",
+  "install": "# git clone --depth 1 https://github.com/ChristopherDond/pc-bot\n# See source for mcpServers config block"
+}

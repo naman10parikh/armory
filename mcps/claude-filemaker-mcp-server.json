@@ -1,0 +1,7 @@
+{
+  "name": "claude-filemaker-mcp-server",
+  "description": "An MCP server that connects Claude to FileMaker databases via the Data API, enabling natural language queries, record management, layout exploration, and script execution.",
+  "source_repo": "ayushshah31/Claude-Filemaker-Mcp",
+  "source_url": "https://github.com/ayushshah31/Claude-Filemaker-Mcp",
+  "install": "npx -y Claude-Filemaker-Mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-shellcheck",
+  "description": "MCP server that provides shell script linting via ShellCheck. Allows AI agents to analyze shell scripts for common errors, stylistic issues, and potential bugs.",
+  "source_repo": "Ev3lynx727/mcp-shellcheck",
+  "source_url": "https://github.com/Ev3lynx727/mcp-shellcheck",
+  "install": "# git clone --depth 1 https://github.com/Ev3lynx727/mcp-shellcheck\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "king-crimson-mcp",
+  "description": "MCP server that surfaces King Crimson records, live performances, and a curated incarnation model showing which line-up era each song belongs to.",
+  "source_repo": "ytkoka/king-crimson-mcp",
+  "source_url": "https://github.com/ytkoka/king-crimson-mcp",
+  "install": "npx -y king-crimson-mcp"
+}

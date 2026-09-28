@@ -1,0 +1,7 @@
+{
+  "name": "opera-o-de-transporte-antt",
+  "description": "Enables querying ANTT road freight transport operations by RNTRC and RENAVAM to confirm registration. Read-only MCP server that works with any MCP client over HTTP, with pay-per-use pricing.",
+  "source_repo": "mcp-dir/antt_operacao_transporte-mcp",
+  "source_url": "https://github.com/mcp-dir/antt_operacao_transporte-mcp",
+  "install": "npx -y antt_operacao_transporte-mcp"
+}

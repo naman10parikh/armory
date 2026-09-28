@@ -1,0 +1,7 @@
+{
+  "name": "t5chem-mcp-server",
+  "description": "Enables chemical reaction predictions (retrosynthesis, product, reagents), molecule validation, and property calculation through the Model Context Protocol, integrating with AI assistants.",
+  "source_repo": "bugatti742/t5chem",
+  "source_url": "https://github.com/bugatti742/t5chem",
+  "install": "# git clone --depth 1 https://github.com/bugatti742/t5chem\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "seosiri-content-schema-mcp",
+  "description": "An open-source, local-first MCP server for automated Schema.org JSON-LD generation, GA4 metric validation, /llm.txt auditing, and content stickiness analytics.",
+  "source_repo": "SEOSiri-Official/content-schema-mcp",
+  "source_url": "https://github.com/SEOSiri-Official/content-schema-mcp",
+  "install": "npx -y content-schema-mcp"
+}

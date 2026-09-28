@@ -1,0 +1,7 @@
+{
+  "name": "gov-mcp",
+  "description": "An MCP server that enforces runtime governance on AI agent actions — file access, command execution, delegation chains, and permission escalation.",
+  "source_repo": "liuhaotian2024-prog/gov-mcp",
+  "source_url": "https://github.com/liuhaotian2024-prog/gov-mcp",
+  "install": "npx -y gov-mcp"
+}

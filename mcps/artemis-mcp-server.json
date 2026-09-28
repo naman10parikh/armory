@@ -1,0 +1,7 @@
+{
+  "name": "artemis-mcp-server",
+  "description": "An MCP server that lets an AI agent work with an ActiveMQ Artemis broker.",
+  "source_repo": "k-krawczyk/artemis-mcp-server",
+  "source_url": "https://github.com/k-krawczyk/artemis-mcp-server",
+  "install": "npx -y artemis-mcp-server"
+}

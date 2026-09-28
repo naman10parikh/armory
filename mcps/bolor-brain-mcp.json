@@ -1,0 +1,7 @@
+{
+  "name": "bolor-brain-mcp",
+  "description": "Bolor Brain MCP gives Claude Code structured reasoning, persistent memory, and learning through 11 MCP tools, enabling complex problem-solving, knowledge storage, and experience-based recall.",
+  "source_repo": "photoxpedia/bolor-brain-mcp",
+  "source_url": "https://github.com/photoxpedia/bolor-brain-mcp",
+  "install": "npx -y bolor-brain-mcp"
+}

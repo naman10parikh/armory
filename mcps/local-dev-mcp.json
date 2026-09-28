@@ -1,0 +1,7 @@
+{
+  "name": "local-dev-mcp",
+  "description": "Enables AI agents to work with multiple local projects on Windows, providing file system access and PowerShell command execution, with project auto-detection and support for various dev tools.",
+  "source_repo": "mfokusnik/LocalDevMCP",
+  "source_url": "https://github.com/mfokusnik/LocalDevMCP",
+  "install": "# git clone --depth 1 https://github.com/mfokusnik/LocalDevMCP\n# See source for mcpServers config block"
+}

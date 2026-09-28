@@ -1,0 +1,7 @@
+{
+  "name": "cronmcp",
+  "description": "Cron scheduler stdio MCP server that enables creating and managing scheduled prompt jobs with persistence and optional tick notifications.",
+  "source_repo": "vaibhavpandeyvpz/cronmcp",
+  "source_url": "https://github.com/vaibhavpandeyvpz/cronmcp",
+  "install": "# git clone --depth 1 https://github.com/vaibhavpandeyvpz/cronmcp\n# See source for mcpServers config block"
+}

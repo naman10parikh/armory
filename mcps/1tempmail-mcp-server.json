@@ -1,0 +1,7 @@
+{
+  "name": "1tempmail-mcp-server",
+  "description": "Enables AI assistants to generate temporary email addresses, check inboxes, and read messages using the 1TempMail API.",
+  "source_repo": "haskx/1tempmail-mcp-server",
+  "source_url": "https://github.com/haskx/1tempmail-mcp-server",
+  "install": "npx -y 1tempmail-mcp-server"
+}

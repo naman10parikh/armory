@@ -1,0 +1,7 @@
+{
+  "name": "receita-federal-simples-mei-emiss-o-de-guia-de-parcelamento",
+  "description": "An MCP server that provides read-only access to Brazilian Federal Revenue (Receita Federal) data to issue installment payment guides for MEI (Microempreendedor Individual) from official sources.",
+  "source_repo": "mcp-dir/receita_federal_simples_mei_eg-mcp",
+  "source_url": "https://github.com/mcp-dir/receita_federal_simples_mei_eg-mcp",
+  "install": "npx -y receita_federal_simples_mei_eg-mcp"
+}

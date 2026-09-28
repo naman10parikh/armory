@@ -1,0 +1,7 @@
+{
+  "name": "itu-mcp",
+  "description": "İTÜ MCP connects your ITU Ninova and OBS accounts to Claude, Cursor, Codex and other MCP clients, enabling natural language queries for courses, assignments, grades, and more.",
+  "source_repo": "yatuk/itu-mcp",
+  "source_url": "https://github.com/yatuk/itu-mcp",
+  "install": "npx -y itu-mcp"
+}

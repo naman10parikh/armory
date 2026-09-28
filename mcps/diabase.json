@@ -1,0 +1,7 @@
+{
+  "name": "diabase",
+  "description": "Diabase is an MCP server that provides a safe control plane for AI agents to manage Supabase backends, with features like planning, approval workflows, and audit trails.",
+  "source_repo": "francescoridolfi/diabase",
+  "source_url": "https://github.com/francescoridolfi/diabase",
+  "install": "# git clone --depth 1 https://github.com/francescoridolfi/diabase\n# See source for mcpServers config block"
+}

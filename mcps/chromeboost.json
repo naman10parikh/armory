@@ -1,0 +1,7 @@
+{
+  "name": "chromeboost",
+  "description": "Lets Claude Code drive your own Chrome browser with human-like clicks, drags, and typing. It uses your real sessions and logins, and pauses for your confirmation on anything irreversible.",
+  "source_repo": "lordamdal/chromeboost",
+  "source_url": "https://github.com/lordamdal/chromeboost",
+  "install": "# git clone --depth 1 https://github.com/lordamdal/chromeboost\n# See source for mcpServers config block"
+}

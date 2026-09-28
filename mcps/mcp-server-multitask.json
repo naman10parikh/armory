@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-multitask",
+  "description": "MCP server that provides weather, geocoding, and currency conversion tools, enabling AI models like OpenAI to access real-time data through function calling.",
+  "source_repo": "Jotarose/mcp-server-multitask",
+  "source_url": "https://github.com/Jotarose/mcp-server-multitask",
+  "install": "# git clone --depth 1 https://github.com/Jotarose/mcp-server-multitask\n# See source for mcpServers config block"
+}

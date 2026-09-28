@@ -1,0 +1,7 @@
+{
+  "name": "tenjin-mcp-server",
+  "description": "Enables agents to discover, read, buy, and publish knowledge using USDC on Base, with search and free essays at no cost.",
+  "source_repo": "BackTrackCo/tenjin-agent",
+  "source_url": "https://github.com/BackTrackCo/tenjin-agent",
+  "install": "# git clone --depth 1 https://github.com/BackTrackCo/tenjin-agent\n# See source for mcpServers config block"
+}

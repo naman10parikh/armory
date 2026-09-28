@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tabular",
+  "description": "Enables SQL querying over CSV and Excel files using DuckDB, providing tools to load files, inspect schemas, and run read-only queries via MCP.",
+  "source_repo": "ayushsri/mcp-tabular",
+  "source_url": "https://github.com/ayushsri/mcp-tabular",
+  "install": "# git clone --depth 1 https://github.com/ayushsri/mcp-tabular\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "limesurvey-mcp-server",
+  "description": "MCP server that exposes LimeSurvey's RemoteControl 2 JSON-RPC API as tools, enabling survey creation, activation, response export, and participant management through natural language.",
+  "source_repo": "pmanciniq/limesurvey-mcp-server",
+  "source_url": "https://github.com/pmanciniq/limesurvey-mcp-server",
+  "install": "npx -y limesurvey-mcp-server"
+}

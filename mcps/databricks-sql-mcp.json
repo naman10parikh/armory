@@ -1,0 +1,7 @@
+{
+  "name": "databricks-sql-mcp",
+  "description": "Enables AI assistants to execute SQL queries and explore databases, tables, and catalogs on Databricks using Unity Catalog.",
+  "source_repo": "benkeeley9/databricks-sql-mcp",
+  "source_url": "https://github.com/benkeeley9/databricks-sql-mcp",
+  "install": "npx -y databricks-sql-mcp"
+}

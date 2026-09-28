@@ -1,0 +1,7 @@
+{
+  "name": "ai-code-reviewer",
+  "description": "An installable MCP server that reviews diffs/PRs against a target repository's own coding conventions, learned via RAG over its code, docs, and lint config, citing specific file:line sources.",
+  "source_repo": "devatraj/AI-Code-Reviewer",
+  "source_url": "https://github.com/devatraj/AI-Code-Reviewer",
+  "install": "# git clone --depth 1 https://github.com/devatraj/AI-Code-Reviewer\n# See source for mcpServers config block"
+}

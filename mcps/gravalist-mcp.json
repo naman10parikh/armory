@@ -1,0 +1,7 @@
+{
+  "name": "gravalist-mcp",
+  "description": "Enables querying high-end gravel routes with micro-elevation maps, weather pacing, and MCP integration for AI agents to scout route gaps and identify locked gates.",
+  "source_repo": "Collective-Social/Gravalist-MCP",
+  "source_url": "https://github.com/Collective-Social/Gravalist-MCP",
+  "install": "npx -y Gravalist-MCP"
+}

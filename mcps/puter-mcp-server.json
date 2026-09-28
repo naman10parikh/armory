@@ -1,0 +1,7 @@
+{
+  "name": "puter-mcp-server",
+  "description": "Provides AI-powered media generation tools including image, speech, video, OCR, and voice conversion via the Model Context Protocol.",
+  "source_repo": "tiantian-pago/puter_mcp",
+  "source_url": "https://github.com/tiantian-pago/puter_mcp",
+  "install": "npx -y puter_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "reflect-mcp-server",
+  "description": "An unofficial MCP server that enables adding content to daily notes, creating notes, saving links, and scheduling reminders in Reflect from Claude Desktop.",
+  "source_repo": "moisescabello/moi-reflect-mcp",
+  "source_url": "https://github.com/moisescabello/moi-reflect-mcp",
+  "install": "npx -y moi-reflect-mcp"
+}

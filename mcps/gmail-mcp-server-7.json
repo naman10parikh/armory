@@ -1,0 +1,7 @@
+{
+  "name": "gmail-mcp-server-7",
+  "description": "Multi-account Gmail integration for AI assistants via the Model Context Protocol (MCP).",
+  "source_repo": "arkaigrowth/gmail-mcp-server",
+  "source_url": "https://github.com/arkaigrowth/gmail-mcp-server",
+  "install": "npx -y gmail-mcp-server"
+}

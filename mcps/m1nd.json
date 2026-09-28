@@ -1,0 +1,7 @@
+{
+  "name": "m1nd",
+  "description": "m1nd is a local MCP runtime that gives coding agents graph-native memory of a codebase: structure, docs, decisions, change impact, recovery state, and investigation continuity.",
+  "source_repo": "maxkle1nz/m1nd",
+  "source_url": "https://github.com/maxkle1nz/m1nd",
+  "install": "# git clone --depth 1 https://github.com/maxkle1nz/m1nd\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "reponav",
+  "description": "Enables locating evidence for repository questions using CodeGraph or ripgrep, providing verified results and follow-ups.",
+  "source_repo": "gchigoo/repo-nav",
+  "source_url": "https://github.com/gchigoo/repo-nav",
+  "install": "# git clone --depth 1 https://github.com/gchigoo/repo-nav\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prospecto-mcp",
+  "description": "MCP server for Prospecto that enables managing your prospection pipeline with AI, including prospects, campaigns, and scraping.",
+  "source_repo": "aboudou-cto-bloko/prospecto-mcp",
+  "source_url": "https://github.com/aboudou-cto-bloko/prospecto-mcp",
+  "install": "npx -y prospecto-mcp"
+}

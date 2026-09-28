@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-poster-mcp",
+  "description": "MCP server that lets you publish text and image posts to LinkedIn, fetch your profile, and check auth status using natural language.",
+  "source_repo": "codebytemirza/linkedin-post-mcp",
+  "source_url": "https://github.com/codebytemirza/linkedin-post-mcp",
+  "install": "npx -y linkedin-post-mcp"
+}

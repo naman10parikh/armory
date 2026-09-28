@@ -1,0 +1,7 @@
+{
+  "name": "image-forensics-mcp",
+  "description": "An MCP server that enables AI assistants to analyze images for AI-generated content using noise maps, error level analysis, frequency analysis, spectral decay, color analysis, and metadata inspection.",
+  "source_repo": "surewht/image-forensics-mcp",
+  "source_url": "https://github.com/surewht/image-forensics-mcp",
+  "install": "npx -y image-forensics-mcp"
+}

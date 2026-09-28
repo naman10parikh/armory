@@ -1,0 +1,7 @@
+{
+  "name": "agent-pool-mcp",
+  "description": "Multi-agent orchestration server that enables parallel task delegation, sequential pipelines, cron scheduling, and cross-model peer review via CLI providers like Codex, Antigravity, OpenCode, and Claude Code.",
+  "source_repo": "rnd-pro/agent-pool-mcp",
+  "source_url": "https://github.com/rnd-pro/agent-pool-mcp",
+  "install": "npx -y agent-pool-mcp"
+}

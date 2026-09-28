@@ -1,0 +1,7 @@
+{
+  "name": "kobo-mcp-server",
+  "description": "Enables reading and writing to KoBoToolbox via MCP, including creating forms, deploying them, attaching media, and submitting data, all from chat.",
+  "source_repo": "tagnonkoua-ux/kobo-mcp-server",
+  "source_url": "https://github.com/tagnonkoua-ux/kobo-mcp-server",
+  "install": "npx -y kobo-mcp-server"
+}

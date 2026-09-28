@@ -1,0 +1,7 @@
+{
+  "name": "accform-layout-mcp",
+  "description": "Local MCP server and CLI for Access layout files, rendered to SVG without Microsoft Access. Enables visual verification of form/report layout changes.",
+  "source_repo": "demilul/accform-layout-mcp",
+  "source_url": "https://github.com/demilul/accform-layout-mcp",
+  "install": "npx -y accform-layout-mcp"
+}

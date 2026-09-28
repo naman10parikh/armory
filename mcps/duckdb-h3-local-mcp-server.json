@@ -1,0 +1,7 @@
+{
+  "name": "duckdb-h3-local-mcp-server",
+  "description": "Converts raster and vector geospatial data into H3-indexed Parquet files and serves them via a local MCP server with DuckDB SQL querying.",
+  "source_repo": "paomon5/mcp-server-lib",
+  "source_url": "https://github.com/paomon5/mcp-server-lib",
+  "install": "# git clone --depth 1 https://github.com/paomon5/mcp-server-lib\n# See source for mcpServers config block"
+}

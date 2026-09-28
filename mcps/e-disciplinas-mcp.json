@@ -1,0 +1,7 @@
+{
+  "name": "e-disciplinas-mcp",
+  "description": "MCP server that lets AI agents securely access E-Disciplinas courses, materials, and files via Moodle Web Services API.",
+  "source_repo": "Miguel-Calhabeu/edisciplinas-mcp",
+  "source_url": "https://github.com/Miguel-Calhabeu/edisciplinas-mcp",
+  "install": "npx -y edisciplinas-mcp"
+}

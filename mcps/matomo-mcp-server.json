@@ -1,0 +1,7 @@
+{
+  "name": "matomo-mcp-server",
+  "description": "Enables LLMs to directly query a Matomo analytics instance, execute reporting methods, fetch historical trends, report metadata, and dynamically generated chart images through typed MCP tools.",
+  "source_repo": "alexgenovese/matomo-mcp",
+  "source_url": "https://github.com/alexgenovese/matomo-mcp",
+  "install": "npx -y matomo-mcp"
+}

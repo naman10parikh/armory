@@ -1,0 +1,7 @@
+{
+  "name": "fia-signals-mcp",
+  "description": "Enables AI agents to access professional crypto market intelligence via 8 MCP tools, covering market regime, fear/greed, funding rates, DeFi yields, token signals, wallet risk, and contract audits. Backed by real-time data from Binance, DeFiLlama, Etherscan, with both free tools and x402 micropaymen",
+  "source_repo": "Odds7/fia-signals-mcp",
+  "source_url": "https://github.com/Odds7/fia-signals-mcp",
+  "install": "npx -y fia-signals-mcp"
+}

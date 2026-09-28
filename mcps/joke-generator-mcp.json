@@ -1,0 +1,7 @@
+{
+  "name": "joke-generator-mcp",
+  "description": "Enables users to fetch developer and programming jokes, either random or by specific topic, through simple MCP tools.",
+  "source_repo": "aidevshakil/mcp-learning",
+  "source_url": "https://github.com/aidevshakil/mcp-learning",
+  "install": "# git clone --depth 1 https://github.com/aidevshakil/mcp-learning\n# See source for mcpServers config block"
+}

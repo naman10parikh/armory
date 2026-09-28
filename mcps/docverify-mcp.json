@@ -1,0 +1,7 @@
+{
+  "name": "docverify-mcp",
+  "description": "MCP server that extracts financial statement figures from PDFs and deterministically verifies all totals before returning them, refusing to disclose any numbers that fail tie-out checks.",
+  "source_repo": "ethan-haas/docverify-mcp",
+  "source_url": "https://github.com/ethan-haas/docverify-mcp",
+  "install": "npx -y docverify-mcp"
+}

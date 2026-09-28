@@ -1,0 +1,7 @@
+{
+  "name": "rms-location-intelligence-mcp-server",
+  "description": "Provides access to the Moody's RMS Location Intelligence API for property catastrophe risk analysis, with 114+ data product layers covering multiple perils and regions.",
+  "source_repo": "omar-k01/li-rms-mcp",
+  "source_url": "https://github.com/omar-k01/li-rms-mcp",
+  "install": "npx -y li-rms-mcp"
+}

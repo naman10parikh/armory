@@ -1,0 +1,7 @@
+{
+  "name": "qwed-mcp",
+  "description": "Enables deterministic verification for AI assistants by executing Python code that uses symbolic engines like SymPy and Z3 for math, logic, and code analysis.",
+  "source_repo": "QWED-AI/qwed-mcp",
+  "source_url": "https://github.com/QWED-AI/qwed-mcp",
+  "install": "npx -y qwed-mcp"
+}

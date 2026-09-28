@@ -1,0 +1,7 @@
+{
+  "name": "splunk-soc-mcp-server",
+  "description": "Enables AI-assisted SOC workflows by connecting Claude Desktop to Splunk Enterprise for security event analysis and incident response.",
+  "source_repo": "netguru1966/splunk-mcp-soc-demo",
+  "source_url": "https://github.com/netguru1966/splunk-mcp-soc-demo",
+  "install": "# git clone --depth 1 https://github.com/netguru1966/splunk-mcp-soc-demo\n# See source for mcpServers config block"
+}

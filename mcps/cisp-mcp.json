@@ -1,0 +1,7 @@
+{
+  "name": "cisp-mcp",
+  "description": "A MCP server that wraps CISP enterprise information APIs into MCP tools, enabling AI agents to query business data like company profiles, trademarks, patents, and more.",
+  "source_repo": "fw-magic/cisp-mcp",
+  "source_url": "https://github.com/fw-magic/cisp-mcp",
+  "install": "npx -y cisp-mcp"
+}

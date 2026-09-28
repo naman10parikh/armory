@@ -1,0 +1,7 @@
+{
+  "name": "gtfs-pro-mcp",
+  "description": "MCP server that provides tools for querying live transit data (stops, departures, routes, vehicles, alerts) from any WP GTFS Pro site, enabling AI assistants to answer rider questions.",
+  "source_repo": "digital-mountaineers/gtfs-pro-mcp",
+  "source_url": "https://github.com/digital-mountaineers/gtfs-pro-mcp",
+  "install": "npx -y gtfs-pro-mcp"
+}

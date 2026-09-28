@@ -1,0 +1,7 @@
+{
+  "name": "anonymize-mcp",
+  "description": "Anonymize PII and redact text for GDPR using real NLP, not just regex. Czech-first, built on ÚFAL/LINDAT (MasKIT + NameTag NER) with 80+ PII patterns. Also multilingual NER across 35+ languages, morphology (UDPipe), machine translation, and spellcheck. 6 tools. Non-commercial use only. Install: pip",
+  "source_repo": "Buggy1111/anonymize-mcp",
+  "source_url": "https://github.com/Buggy1111/anonymize-mcp",
+  "install": "npx -y anonymize-mcp"
+}

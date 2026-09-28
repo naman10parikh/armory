@@ -1,0 +1,7 @@
+{
+  "name": "enhanced-word-document-mcp-server",
+  "description": "A consolidated MCP server for creating, reading, and manipulating Microsoft Word documents with 25 tools including search/replace, track changes, and document protection.",
+  "source_repo": "ildunari/enhanced-word",
+  "source_url": "https://github.com/ildunari/enhanced-word",
+  "install": "# git clone --depth 1 https://github.com/ildunari/enhanced-word\n# See source for mcpServers config block"
+}

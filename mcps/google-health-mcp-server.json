@@ -1,0 +1,7 @@
+{
+  "name": "google-health-mcp-server",
+  "description": "MCP server to read daily activity, sleep, heart rate, and body metrics from Google Health API, allowing AI assistants like Claude to access your health data. Optionally syncs health metrics to an Obsidian vault.",
+  "source_repo": "madfreakz/google-health-mcp-server",
+  "source_url": "https://github.com/madfreakz/google-health-mcp-server",
+  "install": "npx -y google-health-mcp-server"
+}

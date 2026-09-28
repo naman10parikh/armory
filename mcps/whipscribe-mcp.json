@@ -1,0 +1,7 @@
+{
+  "name": "whipscribe-mcp",
+  "description": "MCP server for Whipscribe — transcribe audio and video from a URL or local file via Claude Desktop, Claude Code, Cursor, Windsurf, or any MCP-compatible client.",
+  "source_repo": "neugence/whipscribe-mcp",
+  "source_url": "https://github.com/neugence/whipscribe-mcp",
+  "install": "npx -y whipscribe-mcp"
+}

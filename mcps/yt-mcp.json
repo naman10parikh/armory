@@ -1,0 +1,7 @@
+{
+  "name": "yt-mcp",
+  "description": "MCP server for managing YouTube channels using Data API v3 and Analytics. Supports video upload, comments, playlists, and analytics via ~30 tools, with stateless OAuth authentication.",
+  "source_repo": "hoangvantuan/yt-mcp",
+  "source_url": "https://github.com/hoangvantuan/yt-mcp",
+  "install": "npx -y yt-mcp"
+}

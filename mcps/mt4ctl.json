@@ -1,0 +1,7 @@
+{
+  "name": "mt4ctl",
+  "description": "An MCP server for operating headless MetaTrader 4 terminals remotely over SSH, enabling status checks, logs, screenshots, systemd control, and automated first-login.",
+  "source_repo": "ak40u/mt4ctl",
+  "source_url": "https://github.com/ak40u/mt4ctl",
+  "install": "# git clone --depth 1 https://github.com/ak40u/mt4ctl\n# See source for mcpServers config block"
+}

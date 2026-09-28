@@ -1,0 +1,7 @@
+{
+  "name": "polynodes-osc-mcp",
+  "description": "MCP server for controlling PolyNodes spatial sonic synthesis via OSC, allowing AI assistants to adjust parameters through natural language.",
+  "source_repo": "naotochan/polynodes-osc-mcp",
+  "source_url": "https://github.com/naotochan/polynodes-osc-mcp",
+  "install": "npx -y polynodes-osc-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kuik-fileshare-mcp",
+  "description": "Enables KUIK Agent to access on-premise SMB/CIFS shares on a Windows Server using the employee's own credentials, enforcing live ACLs. Supports file operations such as list, read, write, search, move, copy, delete, and upload/download without mounting or duplicating data.",
+  "source_repo": "codekuik/kuik-agent-mcp-fileshare",
+  "source_url": "https://github.com/codekuik/kuik-agent-mcp-fileshare",
+  "install": "# git clone --depth 1 https://github.com/codekuik/kuik-agent-mcp-fileshare\n# See source for mcpServers config block"
+}

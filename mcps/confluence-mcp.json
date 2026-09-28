@@ -1,0 +1,7 @@
+{
+  "name": "confluence-mcp",
+  "description": "Provides read access to Confluence Server/Data Center pages, sections, tables, and search via the Confluence REST API v1.",
+  "source_repo": "DmitryKhali/confluence-mcp",
+  "source_url": "https://github.com/DmitryKhali/confluence-mcp",
+  "install": "npx -y confluence-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "devns",
+  "description": "Enables managing local development domains under .test TLD, including adding/removing domains, health checks, and DNS-over-HTTPS status.",
+  "source_repo": "apiep/devns",
+  "source_url": "https://github.com/apiep/devns",
+  "install": "# git clone --depth 1 https://github.com/apiep/devns\n# See source for mcpServers config block"
+}

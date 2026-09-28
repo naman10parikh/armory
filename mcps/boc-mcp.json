@@ -1,0 +1,7 @@
+{
+  "name": "boc-mcp",
+  "description": "MCP server for BeyondContainer platform, enabling LLMs to query clusters, nodes, workloads, images, monitoring, and security scans via 58 tools.",
+  "source_repo": "zhanghan5/boc-mcp",
+  "source_url": "https://github.com/zhanghan5/boc-mcp",
+  "install": "npx -y boc-mcp"
+}

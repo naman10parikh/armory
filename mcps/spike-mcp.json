@@ -1,0 +1,7 @@
+{
+  "name": "spike-mcp",
+  "description": "Connects Claude to Jira and Confluence for researching, designing spike docs with Mermaid diagrams, writing Confluence pages, and creating Jira tickets.",
+  "source_repo": "de-cryptor/spike-mcp",
+  "source_url": "https://github.com/de-cryptor/spike-mcp",
+  "install": "npx -y spike-mcp"
+}

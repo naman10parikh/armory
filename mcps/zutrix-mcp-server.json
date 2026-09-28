@@ -1,0 +1,7 @@
+{
+  "name": "zutrix-mcp-server",
+  "description": "Connect your AI tools to Zutrix SEO data, enabling access to projects, keywords, competitors, backlinks, and more.",
+  "source_repo": "Zutrix-Technologies/zutrix-mcp-server",
+  "source_url": "https://github.com/Zutrix-Technologies/zutrix-mcp-server",
+  "install": "npx -y zutrix-mcp-server"
+}

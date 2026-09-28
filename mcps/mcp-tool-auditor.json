@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tool-auditor",
+  "description": "Audits MCP tool descriptions for quality and reliability, scoring them 0-100, detecting smells, and providing rewritten versions for better agent accuracy.",
+  "source_repo": "princeruhulofficial/mcp-tool-auditor-20260730",
+  "source_url": "https://github.com/princeruhulofficial/mcp-tool-auditor-20260730",
+  "install": "# git clone --depth 1 https://github.com/princeruhulofficial/mcp-tool-auditor-20260730\n# See source for mcpServers config block"
+}

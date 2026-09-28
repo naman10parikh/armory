@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trf3-consulta-p-blica",
+  "description": "MCP server for consulting official public data from Brazil's TRF3 (Tribunal Regional Federal da 3ª Região) through a read-only hosted API, compatible with any MCP over HTTP client.",
+  "source_repo": "mcp-dir/tribunal_trf3_consulta_publica-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trf3_consulta_publica-mcp",
+  "install": "npx -y tribunal_trf3_consulta_publica-mcp"
+}

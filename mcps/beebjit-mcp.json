@@ -1,0 +1,7 @@
+{
+  "name": "beebjit-mcp",
+  "description": "Lets an AI application instantiate, connect to, drive, capture output from, and interrogate a real BBC Micro emulator.",
+  "source_repo": "acscpt/beebjit-mcp",
+  "source_url": "https://github.com/acscpt/beebjit-mcp",
+  "install": "npx -y beebjit-mcp"
+}

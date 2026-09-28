@@ -1,0 +1,7 @@
+{
+  "name": "foldkit-4",
+  "description": "Exposes the 7-prime spine, 7 κ-bands, and 6 fold operations as tools and resources for foldkit, enabling state folding, κ-band classification, and fold operations via natural language.",
+  "source_repo": "sjgant80-hub/fallshell-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallshell-mcp",
+  "install": "npx -y fallshell-mcp"
+}

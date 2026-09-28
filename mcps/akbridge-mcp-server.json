@@ -1,0 +1,7 @@
+{
+  "name": "akbridge-mcp-server",
+  "description": "Connects AKShare's extensive financial data interfaces to the Model Context Protocol (MCP), enabling LLM clients and agents to search, describe, and call these interfaces via natural language. Provides structured JSON output, pagination, routing, and automated validation to simplify data retrieval w",
+  "source_repo": "kevynf/akbridge",
+  "source_url": "https://github.com/kevynf/akbridge",
+  "install": "# git clone --depth 1 https://github.com/kevynf/akbridge\n# See source for mcpServers config block"
+}

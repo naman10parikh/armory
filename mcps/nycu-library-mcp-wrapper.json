@@ -1,0 +1,7 @@
+{
+  "name": "nycu-library-mcp-wrapper",
+  "description": "A Cloudflare Workers-based wrapper that normalizes NYCU Library MCP server responses into Markdown and structured content, ensuring any MCP-compatible AI workspace receives complete item-level data for catalog searches and account queries.",
+  "source_repo": "PipperL/nycu-library-mcp-wrapper",
+  "source_url": "https://github.com/PipperL/nycu-library-mcp-wrapper",
+  "install": "# git clone --depth 1 https://github.com/PipperL/nycu-library-mcp-wrapper\n# See source for mcpServers config block"
+}

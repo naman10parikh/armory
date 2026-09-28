@@ -1,0 +1,7 @@
+{
+  "name": "lead-details-mcp",
+  "description": "Manages leads and sends emails directly from Claude chat, with tools to add, search, filter, and update leads, plus email capabilities.",
+  "source_repo": "aadarshlodhi/Lead-Details-MCP",
+  "source_url": "https://github.com/aadarshlodhi/Lead-Details-MCP",
+  "install": "npx -y Lead-Details-MCP"
+}

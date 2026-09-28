@@ -1,0 +1,7 @@
+{
+  "name": "ableton-mcp-server",
+  "description": "MCP server that enables AI agents to read and edit Ableton Live sets, including tracks, clips, MIDI notes, devices, and scenes.",
+  "source_repo": "giuliobracci/ableton-mcp-server",
+  "source_url": "https://github.com/giuliobracci/ableton-mcp-server",
+  "install": "npx -y ableton-mcp-server"
+}

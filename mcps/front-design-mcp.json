@@ -1,0 +1,7 @@
+{
+  "name": "front-design-mcp",
+  "description": "A local-first FastMCP server that indexes offline frontend catalogs (components, patterns, motion libraries) and exposes discover, search, compare, and recommend tools to AI agents via stdio.",
+  "source_repo": "miguelcc06/front-design-mcp",
+  "source_url": "https://github.com/miguelcc06/front-design-mcp",
+  "install": "npx -y front-design-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "live2d-to-agent",
+  "description": "Enables AI agents to control a Live2D desktop pet's expressions and actions via MCP protocol.",
+  "source_repo": "lmy414/live2d-to-agent",
+  "source_url": "https://github.com/lmy414/live2d-to-agent",
+  "install": "# git clone --depth 1 https://github.com/lmy414/live2d-to-agent\n# See source for mcpServers config block"
+}

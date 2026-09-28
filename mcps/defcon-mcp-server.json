@@ -1,0 +1,7 @@
+{
+  "name": "defcon-mcp-server",
+  "description": "Enables AI tools to play the game DEFCON by providing tools to communicate with the game, analyze game state, and issue commands such as placing structures, moving fleets, and launching nukes.",
+  "source_repo": "jorisvddonk/defcon-mcp-server",
+  "source_url": "https://github.com/jorisvddonk/defcon-mcp-server",
+  "install": "npx -y defcon-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pdf-extraction-mcp-server",
+  "description": "Enables Claude to extract text and metadata from PDF files via URL or base64 encoding. Supports optional bearer token authentication and can be deployed as a custom connector on claude.ai.",
+  "source_repo": "isthisemaildangerous/extraction-mcp",
+  "source_url": "https://github.com/isthisemaildangerous/extraction-mcp",
+  "install": "npx -y extraction-mcp"
+}

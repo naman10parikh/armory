@@ -1,0 +1,7 @@
+{
+  "name": "mcpedia",
+  "description": "Local codebase RAG and MCP server that indexes repository source code and documentation into a searchable LanceDB store, enabling AI assistants to query repository knowledge through the Model Context Protocol.",
+  "source_repo": "HamedFathi/MCPedia",
+  "source_url": "https://github.com/HamedFathi/MCPedia",
+  "install": "# git clone --depth 1 https://github.com/HamedFathi/MCPedia\n# See source for mcpServers config block"
+}

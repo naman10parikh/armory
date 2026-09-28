@@ -1,0 +1,7 @@
+{
+  "name": "cognirepo",
+  "description": "MCP server providing persistent memory and context for AI tools, including semantic memory, knowledge graph, and session history to avoid starting from scratch in every conversation.",
+  "source_repo": "ashlesh-t/cognirepo",
+  "source_url": "https://github.com/ashlesh-t/cognirepo",
+  "install": "# git clone --depth 1 https://github.com/ashlesh-t/cognirepo\n# See source for mcpServers config block"
+}

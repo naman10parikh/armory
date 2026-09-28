@@ -1,0 +1,7 @@
+{
+  "name": "pymc-marketing-mcp",
+  "description": "Provides a controlled interface for Bayesian Marketing Mix Modeling, letting AI agents validate datasets, fit and diagnose MMMs, analyze channel contributions and ROI, simulate and optimize budgets, calibrate with lift tests, and cross-validate models—all with statistical verification, uncertainty r",
+  "source_repo": "imMamdouhaboammar/pymc-marketing-mcp",
+  "source_url": "https://github.com/imMamdouhaboammar/pymc-marketing-mcp",
+  "install": "npx -y pymc-marketing-mcp"
+}

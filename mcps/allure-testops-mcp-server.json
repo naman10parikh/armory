@@ -1,0 +1,7 @@
+{
+  "name": "allure-testops-mcp-server",
+  "description": "Enables natural language interaction with Allure TestOps API for managing test cases, launches, and test plans with full CRUD support and 56+ controller endpoints.",
+  "source_repo": "alshurov13/allure-testops-mcp-python",
+  "source_url": "https://github.com/alshurov13/allure-testops-mcp-python",
+  "install": "# git clone --depth 1 https://github.com/alshurov13/allure-testops-mcp-python\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "corporate-events-mcp",
+  "description": "Normalizes and serves corporate events (earnings, dividends, splits, M\\&A) from US, UK, Canada, and Australia via a programmatic MCP API.",
+  "source_repo": "mercytopsy50/corporate-events-mcp",
+  "source_url": "https://github.com/mercytopsy50/corporate-events-mcp",
+  "install": "npx -y corporate-events-mcp"
+}

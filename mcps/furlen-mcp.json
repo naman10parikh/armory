@@ -1,0 +1,7 @@
+{
+  "name": "furlen-mcp",
+  "description": "Turns a CSV — or a public dataset named in plain English — into an animated chart video. Every numeric claim in the generated narration is recomputed from the source rows before export, and a claim that does not reconcile blocks the export rather than shipping.",
+  "source_repo": "amitsha86/furlen-mcp",
+  "source_url": "https://github.com/amitsha86/furlen-mcp",
+  "install": "npx -y furlen-mcp"
+}

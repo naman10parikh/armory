@@ -1,0 +1,7 @@
+{
+  "name": "rollout-playbook-mcp",
+  "description": "Exposes deployment playbooks as MCP resources and tools, enabling AI assistants to search best practices and generate tailored rollout plans.",
+  "source_repo": "wmatragi/rollout-playbook-mcp",
+  "source_url": "https://github.com/wmatragi/rollout-playbook-mcp",
+  "install": "npx -y rollout-playbook-mcp"
+}

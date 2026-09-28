@@ -1,0 +1,7 @@
+{
+  "name": "co-reading-mcp",
+  "description": "A local MCP server that gives Claude a durable reading room for EPUB and plain text books, enabling chunk-by-chunk navigation, annotations, progress tracking, and shared margin cards.",
+  "source_repo": "idleprocesscc/co-reading-mcp",
+  "source_url": "https://github.com/idleprocesscc/co-reading-mcp",
+  "install": "npx -y co-reading-mcp"
+}

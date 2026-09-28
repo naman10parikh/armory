@@ -1,0 +1,7 @@
+{
+  "name": "runapi-ai-gemini-omni-mcp",
+  "description": "MCP server for the Gemini Omni model line, enabling task creation (audio, character, text-to-video) and pricing checks through RunAPI.",
+  "source_repo": "runapi-ai/gemini-omni-mcp",
+  "source_url": "https://github.com/runapi-ai/gemini-omni-mcp",
+  "install": "npx -y gemini-omni-mcp"
+}

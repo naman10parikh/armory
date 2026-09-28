@@ -1,0 +1,7 @@
+{
+  "name": "supermemory-stdio-mcp",
+  "description": "A stdio-based MCP server that wraps Supermemory's REST API, providing persistent memory, semantic search, and user profiles via stdio transport for universal compatibility with MCP clients.",
+  "source_repo": "jfreels123/supermemory-stdio-mcp",
+  "source_url": "https://github.com/jfreels123/supermemory-stdio-mcp",
+  "install": "npx -y supermemory-stdio-mcp"
+}

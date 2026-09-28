@@ -1,0 +1,7 @@
+{
+  "name": "ip-api-mcp-server",
+  "description": "Enables looking up approximate location of public or specific IP addresses, returning country, city, ISP, and coordinates via ip-api.com.",
+  "source_repo": "Dangkoolwat/IP-API",
+  "source_url": "https://github.com/Dangkoolwat/IP-API",
+  "install": "# git clone --depth 1 https://github.com/Dangkoolwat/IP-API\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bsn-inventory-mcp",
+  "description": "Enables identification of BSN SKU/material and real-time inventory availability through natural language queries and vector search.",
+  "source_repo": "aapatil67/inventory-mcp",
+  "source_url": "https://github.com/aapatil67/inventory-mcp",
+  "install": "npx -y inventory-mcp"
+}

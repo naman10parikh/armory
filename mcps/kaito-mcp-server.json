@@ -1,0 +1,7 @@
+{
+  "name": "kaito-mcp-server",
+  "description": "Provides crypto market intelligence tools, reference resources, and prompt templates for sentiment analysis, mindshare tracking, social intelligence, and more.",
+  "source_repo": "MetaSearch-IO/kaito-mcp-server",
+  "source_url": "https://github.com/MetaSearch-IO/kaito-mcp-server",
+  "install": "npx -y kaito-mcp-server"
+}

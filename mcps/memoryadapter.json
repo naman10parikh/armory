@@ -1,0 +1,7 @@
+{
+  "name": "memoryadapter",
+  "description": "An MCP server that enables verified agents to retrieve from, propose changes to, and share capabilities around a human-owned Markdown/Git knowledge base, ensuring curation, exact-byte approval, and Git-based promotion.",
+  "source_repo": "kerfuffledev/memoryadapter",
+  "source_url": "https://github.com/kerfuffledev/memoryadapter",
+  "install": "# git clone --depth 1 https://github.com/kerfuffledev/memoryadapter\n# See source for mcpServers config block"
+}

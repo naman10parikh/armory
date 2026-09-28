@@ -1,0 +1,7 @@
+{
+  "name": "mcp-keyword-search-server",
+  "description": "Enables searching for a keyword within a text file using Model Context Protocol tools via standard input/output.",
+  "source_repo": "TuShArBhArDwA/mcp-keyword-search-server",
+  "source_url": "https://github.com/TuShArBhArDwA/mcp-keyword-search-server",
+  "install": "# git clone --depth 1 https://github.com/TuShArBhArDwA/mcp-keyword-search-server\n# See source for mcpServers config block"
+}

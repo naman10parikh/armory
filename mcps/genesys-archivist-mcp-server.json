@@ -1,0 +1,7 @@
+{
+  "name": "genesys-archivist-mcp-server",
+  "description": "Captures Genesys Cloud Architect flows and their dependent resources, then generates grounded business and technical documentation as Markdown, PDF, and diagrams from immutable capture bundles.",
+  "source_repo": "mahmouddattiaa/genesys-architect-docs-mcp",
+  "source_url": "https://github.com/mahmouddattiaa/genesys-architect-docs-mcp",
+  "install": "npx -y genesys-architect-docs-mcp"
+}

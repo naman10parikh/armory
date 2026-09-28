@@ -1,0 +1,7 @@
+{
+  "name": "linux-profiler",
+  "description": "A comprehensive Linux system performance profiler with MCP remote invocation support, featuring advanced process profiling and flame graph generation.",
+  "source_repo": "yuezhongtao/linux-profiler-tool",
+  "source_url": "https://github.com/yuezhongtao/linux-profiler-tool",
+  "install": "# git clone --depth 1 https://github.com/yuezhongtao/linux-profiler-tool\n# See source for mcpServers config block"
+}

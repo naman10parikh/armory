@@ -1,0 +1,7 @@
+{
+  "name": "pokemon-champions-mcp",
+  "description": "Calculates 1:1 Pokémon Champions singles matchups, returning structured JSON stats, speed, type, and damage analysis, with Korean/English input support.",
+  "source_repo": "joonhyungkimweb/pokemon-champions-mcp",
+  "source_url": "https://github.com/joonhyungkimweb/pokemon-champions-mcp",
+  "install": "npx -y pokemon-champions-mcp"
+}

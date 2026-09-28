@@ -1,0 +1,7 @@
+{
+  "name": "market-inspector",
+  "description": "Multi-asset market intelligence MCP server that monitors cryptocurrency movements, equity data, and ECB foreign-exchange reference rates to produce structured market briefs using Gemini.",
+  "source_repo": "dcosodev/market-inspector",
+  "source_url": "https://github.com/dcosodev/market-inspector",
+  "install": "# git clone --depth 1 https://github.com/dcosodev/market-inspector\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vaibot-mcp-server",
+  "description": "Governance circuit-breaker MCP server that enables AI agents to request risk-based decisions, approve or deny actions, and finalize outcomes with full audit receipts.",
+  "source_repo": "vaibot-io/mcp-server",
+  "source_url": "https://github.com/vaibot-io/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/vaibot-io/mcp-server\n# See source for mcpServers config block"
+}

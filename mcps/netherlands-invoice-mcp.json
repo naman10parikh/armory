@@ -1,0 +1,7 @@
+{
+  "name": "netherlands-invoice-mcp",
+  "description": "Enables AI agents to send Dutch B2B electronic invoices (e-factuur) over the Peppol network using Storecove as the access point.",
+  "source_repo": "junter1989k-ai/netherlands-invoice-mcp",
+  "source_url": "https://github.com/junter1989k-ai/netherlands-invoice-mcp",
+  "install": "npx -y netherlands-invoice-mcp"
+}

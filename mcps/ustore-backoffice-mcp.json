@@ -1,0 +1,7 @@
+{
+  "name": "ustore-backoffice-mcp",
+  "description": "Enables natural language interaction with the XMPie uStore BackOffice REST API, providing tools to list, search, describe, and execute API endpoints with server-side authentication, read-only by default.",
+  "source_repo": "tkuan/uStoreBackoffice-mcp",
+  "source_url": "https://github.com/tkuan/uStoreBackoffice-mcp",
+  "install": "npx -y uStoreBackoffice-mcp"
+}

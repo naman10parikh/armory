@@ -1,0 +1,7 @@
+{
+  "name": "faxin-mcp",
+  "description": "Enables AI clients to directly search Chinese legal resources — laws, regulations, case rules, outline concepts, and similar cases — from the Faxin platform, using a user's own Faxin account for authentication.",
+  "source_repo": "Emnllawlab/faxin-mcp",
+  "source_url": "https://github.com/Emnllawlab/faxin-mcp",
+  "install": "npx -y faxin-mcp"
+}

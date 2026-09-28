@@ -1,0 +1,7 @@
+{
+  "name": "training-platform-mcp-g2",
+  "description": "MCP server for tracking user course progress, providing tools to retrieve and save course and stage progress for authenticated users with data persisted in SQL Server.",
+  "source_repo": "Julianmac-mac/mcp-training-platform",
+  "source_url": "https://github.com/Julianmac-mac/mcp-training-platform",
+  "install": "# git clone --depth 1 https://github.com/Julianmac-mac/mcp-training-platform\n# See source for mcpServers config block"
+}

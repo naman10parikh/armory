@@ -1,0 +1,7 @@
+{
+  "name": "backcrew-fieldroutes-mcp-server",
+  "description": "Enables AI assistants like Claude to read and optionally write data in FieldRoutes (formerly PestRoutes) using plain English, with read-only mode by default and granular safety profiles.",
+  "source_repo": "jayson-svg/backcrew-mcp-fieldroutes",
+  "source_url": "https://github.com/jayson-svg/backcrew-mcp-fieldroutes",
+  "install": "# git clone --depth 1 https://github.com/jayson-svg/backcrew-mcp-fieldroutes\n# See source for mcpServers config block"
+}

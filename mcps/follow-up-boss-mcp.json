@@ -1,0 +1,7 @@
+{
+  "name": "follow-up-boss-mcp",
+  "description": "Enables Claude to interact with Follow Up Boss CRM, allowing lead management, task scheduling, and pipeline tracking through natural language.",
+  "source_repo": "homesbyaiden-cpu/follow-up-boss-mcp",
+  "source_url": "https://github.com/homesbyaiden-cpu/follow-up-boss-mcp",
+  "install": "npx -y follow-up-boss-mcp"
+}

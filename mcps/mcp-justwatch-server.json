@@ -1,0 +1,7 @@
+{
+  "name": "mcp-justwatch-server",
+  "description": "Enables searching for movies and TV shows and retrieving streaming availability data across multiple platforms and countries.",
+  "source_repo": "kkrizka/mcp-justwatch",
+  "source_url": "https://github.com/kkrizka/mcp-justwatch",
+  "install": "# git clone --depth 1 https://github.com/kkrizka/mcp-justwatch\n# See source for mcpServers config block"
+}

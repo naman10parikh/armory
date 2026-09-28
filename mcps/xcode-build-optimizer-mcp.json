@@ -1,0 +1,7 @@
+{
+  "name": "xcode-build-optimizer-mcp",
+  "description": "MCP server for Xcode build optimization, providing build-timing analysis, DerivedData/module-cache management, and build-speed config linting for AI coding agents.",
+  "source_repo": "sanatillayev/xcode-build-optimizer-mcp",
+  "source_url": "https://github.com/sanatillayev/xcode-build-optimizer-mcp",
+  "install": "npx -y xcode-build-optimizer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ts-review-graph",
+  "description": "Enables Claude Code to query a TypeScript dependency graph and retrieve the minimal set of files needed for code review, implementation, or debugging.",
+  "source_repo": "elchika-inc/ts-review-graph",
+  "source_url": "https://github.com/elchika-inc/ts-review-graph",
+  "install": "# git clone --depth 1 https://github.com/elchika-inc/ts-review-graph\n# See source for mcpServers config block"
+}

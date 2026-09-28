@@ -1,0 +1,7 @@
+{
+  "name": "django-native-mcp",
+  "description": "A Django-native MCP application and tool registration framework inspired by Celery, providing async tool definitions, autodiscovery, and stdio/Streamable HTTP serving built on the official MCP Python SDK.",
+  "source_repo": "xelaxela13/django-native-mcp",
+  "source_url": "https://github.com/xelaxela13/django-native-mcp",
+  "install": "npx -y django-native-mcp"
+}

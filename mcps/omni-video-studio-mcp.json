@@ -1,0 +1,7 @@
+{
+  "name": "omni-video-studio-mcp",
+  "description": "Enables AI agents to edit video using text-based proxies, motion graphics via Hyperframes, and advanced FFmpeg rendering, turning any LLM IDE into a professional video editor.",
+  "source_repo": "Mallet-Dev/omni-video-mcp",
+  "source_url": "https://github.com/Mallet-Dev/omni-video-mcp",
+  "install": "npx -y omni-video-mcp"
+}

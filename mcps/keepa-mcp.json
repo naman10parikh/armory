@@ -1,0 +1,7 @@
+{
+  "name": "keepa-mcp",
+  "description": "Enables AI assistants to access Amazon price history, sales rank trends, product details, best-sellers, and deals via the Keepa API for product research and deal hunting.",
+  "source_repo": "purahmanian/keepa-mcp",
+  "source_url": "https://github.com/purahmanian/keepa-mcp",
+  "install": "npx -y keepa-mcp"
+}

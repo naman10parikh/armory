@@ -1,0 +1,7 @@
+{
+  "name": "wavedash-mcp-server",
+  "description": "Read-only, unauthenticated remote MCP server for public Wavedash docs, providing SDK guidance, engine setup help, and publishing checklists for agents.",
+  "source_repo": "wvdsh/ai",
+  "source_url": "https://github.com/wvdsh/ai",
+  "install": "# git clone --depth 1 https://github.com/wvdsh/ai\n# See source for mcpServers config block"
+}

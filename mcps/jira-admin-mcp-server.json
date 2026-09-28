@@ -1,0 +1,7 @@
+{
+  "name": "jira-admin-mcp-server",
+  "description": "Enables an AI assistant to administer a Jira Cloud site with 78 purpose-built tools for behind-the-scenes admin work like custom fields, permission schemes, workflows, screens, issue-type schemes, groups, project roles, saved filters, and bulk operations.",
+  "source_repo": "its-qusai-nasr/jira-admin-mcp",
+  "source_url": "https://github.com/its-qusai-nasr/jira-admin-mcp",
+  "install": "npx -y jira-admin-mcp"
+}

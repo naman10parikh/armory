@@ -1,0 +1,7 @@
+{
+  "name": "heap-analyzer-mcp-server",
+  "description": "Provides tools to analyze and compare JVM thread dumps, summarizing thread states and detecting deadlocks.",
+  "source_repo": "rajendrag/jvm-heap-analyzer-mcp",
+  "source_url": "https://github.com/rajendrag/jvm-heap-analyzer-mcp",
+  "install": "npx -y jvm-heap-analyzer-mcp"
+}

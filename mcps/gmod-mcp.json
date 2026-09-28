@@ -1,0 +1,7 @@
+{
+  "name": "gmod-mcp",
+  "description": "MCP server for Garry's Mod enabling RCON command execution, Lua scripting, window control, screenshots, and SFTP file management.",
+  "source_repo": "beekamai/gmod-mcp",
+  "source_url": "https://github.com/beekamai/gmod-mcp",
+  "install": "npx -y gmod-mcp"
+}

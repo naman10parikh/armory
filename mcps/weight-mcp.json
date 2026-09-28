@@ -1,0 +1,7 @@
+{
+  "name": "weight-mcp",
+  "description": "A personal calorie and protein counter MCP server for use inside claude.ai, enabling users to log meals from photos or text, track weight, and view an interactive dashboard.",
+  "source_repo": "CommanderTvis/weight-mcp",
+  "source_url": "https://github.com/CommanderTvis/weight-mcp",
+  "install": "npx -y weight-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "predictedge-data-mcp",
+  "description": "Live analytics at the edge across prediction markets",
+  "source_repo": "94gvmz9fcz-rgb/pickaxe-public-ledger",
+  "source_url": "https://github.com/94gvmz9fcz-rgb/pickaxe-public-ledger",
+  "install": "# git clone --depth 1 https://github.com/94gvmz9fcz-rgb/pickaxe-public-ledger\n# See source for mcpServers config block"
+}

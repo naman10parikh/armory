@@ -1,0 +1,7 @@
+{
+  "name": "resume-mcp-server",
+  "description": "MCP server for browsing and searching your local resume and job application documents",
+  "source_repo": "mnoomnoo/resume-mcp-server",
+  "source_url": "https://github.com/mnoomnoo/resume-mcp-server",
+  "install": "npx -y resume-mcp-server"
+}

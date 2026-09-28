@@ -1,0 +1,7 @@
+{
+  "name": "mcp-stytch-consumer-todo-list",
+  "description": "An MCP server that manages a TODO list with user authentication via Stytch, enabling AI agents to interact with a full-stack application.",
+  "source_repo": "shophypelive-cloud/mcp-stytch-consumer-todo-list",
+  "source_url": "https://github.com/shophypelive-cloud/mcp-stytch-consumer-todo-list",
+  "install": "# git clone --depth 1 https://github.com/shophypelive-cloud/mcp-stytch-consumer-todo-list\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fdtd-lumerical-mcp",
+  "description": "Local MCP server for controlling Ansys Lumerical FDTD from Codex.",
+  "source_repo": "pcmdagonger/FDTD-Lumerical-mcp",
+  "source_url": "https://github.com/pcmdagonger/FDTD-Lumerical-mcp",
+  "install": "npx -y FDTD-Lumerical-mcp"
+}

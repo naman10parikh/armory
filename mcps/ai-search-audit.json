@@ -1,0 +1,7 @@
+{
+  "name": "ai-search-audit",
+  "description": "Enables auditing AI search visibility: checks site readiness for AI crawlers and measures whether ChatGPT, Gemini, and Perplexity recommend your site, including verbatim answers and citation gap analysis.",
+  "source_repo": "bolidee/ai-search-audit",
+  "source_url": "https://github.com/bolidee/ai-search-audit",
+  "install": "# git clone --depth 1 https://github.com/bolidee/ai-search-audit\n# See source for mcpServers config block"
+}

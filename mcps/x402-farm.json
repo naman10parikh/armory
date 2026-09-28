@@ -1,0 +1,7 @@
+{
+  "name": "x402-farm",
+  "description": "MCP server providing 10 pay-per-call APIs for web scraping, DNS, email validation, and French business data, with autonomous micropayments via the x402 protocol (USDC on Base).",
+  "source_repo": "Ghost11777/x402-farm",
+  "source_url": "https://github.com/Ghost11777/x402-farm",
+  "install": "# git clone --depth 1 https://github.com/Ghost11777/x402-farm\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "regwatch-co",
+  "description": "An MCP server for querying Colombian legislative norms and their current legal effect, with read-only tools for normativity search and validity consultation. It provides provenance-backed data with explicit citations to official sources.",
+  "source_repo": "LesVulture/regwatch-co",
+  "source_url": "https://github.com/LesVulture/regwatch-co",
+  "install": "# git clone --depth 1 https://github.com/LesVulture/regwatch-co\n# See source for mcpServers config block"
+}

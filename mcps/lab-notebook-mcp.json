@@ -1,0 +1,7 @@
+{
+  "name": "lab-notebook-mcp",
+  "description": "Enables persistent, append-only storage of measurement data and experimental records using a SQL schema, with read-only and read-write modes for professional lab notebook use.",
+  "source_repo": "fc0web/lab-notebook-mcp",
+  "source_url": "https://github.com/fc0web/lab-notebook-mcp",
+  "install": "npx -y lab-notebook-mcp"
+}

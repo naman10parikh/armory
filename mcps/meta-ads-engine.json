@@ -1,0 +1,7 @@
+{
+  "name": "meta-ads-engine",
+  "description": "A clean-room Meta Ads MCP server that lets you build, launch, and read Meta ad campaigns via Claude Code using a single system-user token.",
+  "source_repo": "Matthew-Lee-Nello/meta-ads-engine",
+  "source_url": "https://github.com/Matthew-Lee-Nello/meta-ads-engine",
+  "install": "# git clone --depth 1 https://github.com/Matthew-Lee-Nello/meta-ads-engine\n# See source for mcpServers config block"
+}

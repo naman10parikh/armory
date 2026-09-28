@@ -1,0 +1,7 @@
+{
+  "name": "spx-mcp-server",
+  "description": "Web-only MCP server for php-spx reports that calls embedded SPX web endpoints, parses full reports, and returns LLM-sized JSON summaries instead of raw event streams.",
+  "source_repo": "szepeviktor/spx-mcp-server",
+  "source_url": "https://github.com/szepeviktor/spx-mcp-server",
+  "install": "npx -y spx-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "branchpoint",
+  "description": "Provides AI agents with persistent, branch-aware context memory by storing summaries per Git branch and automatically enriching them with recent commits and divergence from main. Enables agents to maintain coherent state across sessions without mixing contexts from different branches.",
+  "source_repo": "Caarlosgg/branchpoint",
+  "source_url": "https://github.com/Caarlosgg/branchpoint",
+  "install": "# git clone --depth 1 https://github.com/Caarlosgg/branchpoint\n# See source for mcpServers config block"
+}

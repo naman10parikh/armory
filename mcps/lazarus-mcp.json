@@ -1,0 +1,7 @@
+{
+  "name": "lazarus-mcp",
+  "description": "Enables automatic diagnosis, safe repair, and evidence generation for broken Node and Python repositories, providing scan, autopsy, resurrect, and evidence-pack tools via MCP.",
+  "source_repo": "luzzwaix/lazarus-mcp",
+  "source_url": "https://github.com/luzzwaix/lazarus-mcp",
+  "install": "npx -y lazarus-mcp"
+}

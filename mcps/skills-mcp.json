@@ -1,0 +1,7 @@
+{
+  "name": "skills-mcp",
+  "description": "Enables Claude/MCP agents to search, list, get details, and generate install commands for skills, MCP servers, and connections from the DFL Forge skills registry.",
+  "source_repo": "devfellowship/skills-mcp",
+  "source_url": "https://github.com/devfellowship/skills-mcp",
+  "install": "npx -y skills-mcp"
+}

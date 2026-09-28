@@ -1,0 +1,7 @@
+{
+  "name": "intelliverse-router-mcp-server",
+  "description": "Enables agents to manage the Intelliverse platform: create apps, API keys, knowledge bases, send email, generate media, and chat without specifying an LLM.",
+  "source_repo": "intelli-verse-x/router-mcp",
+  "source_url": "https://github.com/intelli-verse-x/router-mcp",
+  "install": "npx -y router-mcp"
+}

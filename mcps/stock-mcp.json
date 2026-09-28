@@ -1,0 +1,7 @@
+{
+  "name": "stock-mcp",
+  "description": "Provides access to Massive (Polygon) market data including stock and options OHLCV bars as CSV, ticker search, and market movers via FastMCP.",
+  "source_repo": "Plydeen/Stock-MCP",
+  "source_url": "https://github.com/Plydeen/Stock-MCP",
+  "install": "npx -y Stock-MCP"
+}

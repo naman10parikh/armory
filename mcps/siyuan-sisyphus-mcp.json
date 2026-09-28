@@ -1,0 +1,7 @@
+{
+  "name": "siyuan-sisyphus-mcp",
+  "description": "Enables AI agents to safely read, search, edit, and organize SiYuan notes, with git-like document timeline and notebook-level permissions.",
+  "source_repo": "yangtaihong59/siyuan-plugins-mcp-sisyphus",
+  "source_url": "https://github.com/yangtaihong59/siyuan-plugins-mcp-sisyphus",
+  "install": "# git clone --depth 1 https://github.com/yangtaihong59/siyuan-plugins-mcp-sisyphus\n# See source for mcpServers config block"
+}

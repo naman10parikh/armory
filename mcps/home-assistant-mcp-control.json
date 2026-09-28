@@ -1,0 +1,7 @@
+{
+  "name": "home-assistant-mcp-control",
+  "description": "Enables control of external Home Assistant devices via an MCP control layer and frontend system page.",
+  "source_repo": "chllhc-SVG/home-assistant-mcp",
+  "source_url": "https://github.com/chllhc-SVG/home-assistant-mcp",
+  "install": "npx -y home-assistant-mcp"
+}

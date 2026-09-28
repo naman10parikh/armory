@@ -1,0 +1,7 @@
+{
+  "name": "openclaw-task-mcp",
+  "description": "MCP server for OpenClaw task lifecycle management, enabling starting, listing, and checking status of tasks via a Gateway API.",
+  "source_repo": "EnviableAmaretto/openclaw-task-mcp",
+  "source_url": "https://github.com/EnviableAmaretto/openclaw-task-mcp",
+  "install": "npx -y openclaw-task-mcp"
+}

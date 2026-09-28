@@ -1,0 +1,7 @@
+{
+  "name": "ecardwidget-mcp-server",
+  "description": "Enables AI assistants to interact with an eCardWidget account using a scoped API key, allowing search and sending of eCards, directory management, and listing campaigns, widgets, and automations.",
+  "source_repo": "eCardWidget/ecardwidget-mcp",
+  "source_url": "https://github.com/eCardWidget/ecardwidget-mcp",
+  "install": "npx -y ecardwidget-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "software-design-mermaid-mcp",
+  "description": "Enables visual drag-and-drop editing of Mermaid diagrams through Claude, allowing iterative refinement of software architecture designs.",
+  "source_repo": "wzh4464/software-design-mermaid-mcp",
+  "source_url": "https://github.com/wzh4464/software-design-mermaid-mcp",
+  "install": "npx -y software-design-mermaid-mcp"
+}

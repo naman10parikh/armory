@@ -1,0 +1,7 @@
+{
+  "name": "bling-mcp",
+  "description": "MCP server for Bling ERP, enabling read and write operations on sales orders, products, contacts, accounts payable/receivable, NF-e, inventory, and more via OAuth 2.0.",
+  "source_repo": "mcp-dir/bling-mcp",
+  "source_url": "https://github.com/mcp-dir/bling-mcp",
+  "install": "npx -y bling-mcp"
+}

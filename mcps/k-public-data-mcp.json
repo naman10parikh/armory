@@ -1,0 +1,7 @@
+{
+  "name": "k-public-data-mcp",
+  "description": "Integrates Korean public data sources including law, court cases, corporate disclosures, and public data portal, with comparative US and German case law support.",
+  "source_repo": "hjsh200219/korea-public-data-mcp",
+  "source_url": "https://github.com/hjsh200219/korea-public-data-mcp",
+  "install": "npx -y korea-public-data-mcp"
+}

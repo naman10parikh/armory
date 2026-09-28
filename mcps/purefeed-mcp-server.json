@@ -1,0 +1,7 @@
+{
+  "name": "purefeed-mcp-server",
+  "description": "Connects AI assistants to Purefeed for access to AI-curated Twitter/X feeds, signals, semantic search, and post creation.",
+  "source_repo": "poloniki/purefeed-mcp",
+  "source_url": "https://github.com/poloniki/purefeed-mcp",
+  "install": "npx -y purefeed-mcp"
+}

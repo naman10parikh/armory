@@ -1,0 +1,7 @@
+{
+  "name": "completemcp",
+  "description": "Enables tailoring resumes to job descriptions by scraping JDs, applying rules, and generating optimized DOCX resumes.",
+  "source_repo": "srimankatipally/CompleteMCP",
+  "source_url": "https://github.com/srimankatipally/CompleteMCP",
+  "install": "# git clone --depth 1 https://github.com/srimankatipally/CompleteMCP\n# See source for mcpServers config block"
+}

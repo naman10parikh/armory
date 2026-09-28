@@ -1,0 +1,7 @@
+{
+  "name": "agent-gamma-agentgamma",
+  "description": "Here is a brief description of what our MCP server does: Description Project Tollbooth is a real-time market microstructure and options analytics gateway. It exposes quantitative Gamma Verdicts (hedging effects, dealer exposure aggregates, and volatility regimes) and 0DTE Verdicts (real-time pinning",
+  "source_repo": "Longfortv5/project_tollbooth",
+  "source_url": "https://github.com/Longfortv5/project_tollbooth",
+  "install": "# git clone --depth 1 https://github.com/Longfortv5/project_tollbooth\n# See source for mcpServers config block"
+}

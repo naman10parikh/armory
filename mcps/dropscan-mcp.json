@@ -1,0 +1,7 @@
+{
+  "name": "dropscan-mcp",
+  "description": "MCP server for the Dropscan postal-mail-to-email API. It enables reading and managing physical mail items, including listing, downloading scans, and (when explicitly enabled) executing actions like forwarding or destroying letters.",
+  "source_repo": "bitterdev/dropscan-mcp",
+  "source_url": "https://github.com/bitterdev/dropscan-mcp",
+  "install": "npx -y dropscan-mcp"
+}

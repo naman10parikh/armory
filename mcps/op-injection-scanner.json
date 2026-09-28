@@ -1,0 +1,7 @@
+{
+  "name": "op-injection-scanner",
+  "description": "An MCP server for prompt injection boundary enforcement that scans URL content using a tiered LLM model strategy.",
+  "source_repo": "ethereum-optimism/op-injection-scanner",
+  "source_url": "https://github.com/ethereum-optimism/op-injection-scanner",
+  "install": "# git clone --depth 1 https://github.com/ethereum-optimism/op-injection-scanner\n# See source for mcpServers config block"
+}

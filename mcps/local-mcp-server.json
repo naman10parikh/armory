@@ -1,0 +1,7 @@
+{
+  "name": "local-mcp-server",
+  "description": "Enables tool-calling LLMs to search the internet, capture website images, extract webpage text, and more via a local MCP server.",
+  "source_repo": "BigStationW/Local-MCP-server",
+  "source_url": "https://github.com/BigStationW/Local-MCP-server",
+  "install": "npx -y Local-MCP-server"
+}

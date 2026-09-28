@@ -1,0 +1,7 @@
+{
+  "name": "golf-coach",
+  "description": "Analyzes your Trackman golf data to diagnose weaknesses and generate personalized practice plans with drills and progress tracking, acting as a data-driven coach.",
+  "source_repo": "bjornj12/golf-coach",
+  "source_url": "https://github.com/bjornj12/golf-coach",
+  "install": "# git clone --depth 1 https://github.com/bjornj12/golf-coach\n# See source for mcpServers config block"
+}

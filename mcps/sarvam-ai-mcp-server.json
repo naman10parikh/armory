@@ -1,0 +1,7 @@
+{
+  "name": "sarvam-ai-mcp-server",
+  "description": "Enables LLM-based clients to perform Indic language processing including translation, transliteration, language identification, and chat with the SarvamAI-M model.",
+  "source_repo": "sumandey7684/sarvam_mcp",
+  "source_url": "https://github.com/sumandey7684/sarvam_mcp",
+  "install": "npx -y sarvam_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "solana-trading-mcp-server",
+  "description": "AI-powered Solana trading bot with MCP integration for trading and monitoring.",
+  "source_repo": "itsKazgar/solana-mcp-server",
+  "source_url": "https://github.com/itsKazgar/solana-mcp-server",
+  "install": "npx -y solana-mcp-server"
+}

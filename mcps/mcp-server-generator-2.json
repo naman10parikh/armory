@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-generator-2",
+  "description": "Generates production-ready MCP servers with dual-mode (MCP + CLI) architecture, tests, and documentation. Includes progressive disclosure tools for AI agents and best practices guidance.",
+  "source_repo": "hitoshura25/mcp-server-generator",
+  "source_url": "https://github.com/hitoshura25/mcp-server-generator",
+  "install": "# git clone --depth 1 https://github.com/hitoshura25/mcp-server-generator\n# See source for mcpServers config block"
+}

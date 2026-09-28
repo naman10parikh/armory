@@ -1,0 +1,7 @@
+{
+  "name": "okfgen-mcp",
+  "description": "An MCP server that enables AI agents to generate, search, and reason over knowledge graphs from code, databases, docs, and open-data portals without requiring an LLM or API key.",
+  "source_repo": "bushans/okfgen",
+  "source_url": "https://github.com/bushans/okfgen",
+  "install": "# git clone --depth 1 https://github.com/bushans/okfgen\n# See source for mcpServers config block"
+}

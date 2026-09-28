@@ -1,0 +1,7 @@
+{
+  "name": "mimir",
+  "description": "Mimir is Perseus's external persistent memory backend — a lightweight Rust MCP server that stores cross-session facts so agents remember what they learned last week. Zero network calls, no API keys, just SQLite + FTS5 running alongside your workspace.",
+  "source_repo": "tcconnally/mimir",
+  "source_url": "https://github.com/tcconnally/mimir",
+  "install": "# git clone --depth 1 https://github.com/tcconnally/mimir\n# See source for mcpServers config block"
+}

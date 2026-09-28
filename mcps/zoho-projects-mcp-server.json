@@ -1,0 +1,7 @@
+{
+  "name": "zoho-projects-mcp-server",
+  "description": "An enhanced MCP server for Zoho Projects API integration, enabling AI assistants to manage projects, tasks, issues, milestones, comments, attachments, and more with automatic OAuth token refresh.",
+  "source_repo": "andrewcraigmorgan/zoho-projects-mcp",
+  "source_url": "https://github.com/andrewcraigmorgan/zoho-projects-mcp",
+  "install": "npx -y zoho-projects-mcp"
+}

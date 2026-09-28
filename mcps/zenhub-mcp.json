@@ -1,0 +1,7 @@
+{
+  "name": "zenhub-mcp",
+  "description": "Provides full access to the ZenHub GraphQL API. Enables project management operations like creating issues, epics, workspaces, and sprints through natural language.",
+  "source_repo": "derekbar90/zenhub-mcp",
+  "source_url": "https://github.com/derekbar90/zenhub-mcp",
+  "install": "npx -y zenhub-mcp"
+}

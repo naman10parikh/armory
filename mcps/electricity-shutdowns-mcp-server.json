@@ -1,0 +1,7 @@
+{
+  "name": "electricity-shutdowns-mcp-server",
+  "description": "Monitors electricity outage schedules in Ukraine's Dnipropetrovsk region, enabling users to check outages, receive notifications, and calculate optimal charging time for MacBooks.",
+  "source_repo": "AIckathon-2025-08/blackout-tracker-mcp",
+  "source_url": "https://github.com/AIckathon-2025-08/blackout-tracker-mcp",
+  "install": "npx -y blackout-tracker-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cadence-mcp",
+  "description": "A daily-rhythm support MCP server for ADHD and bipolar disorder, providing 23 tools for mood tracking, social rhythm regularity, early warning detection, task breakdown, and crisis support, all running locally with zero dependencies.",
+  "source_repo": "imai-design/cadence-mcp",
+  "source_url": "https://github.com/imai-design/cadence-mcp",
+  "install": "npx -y cadence-mcp"
+}

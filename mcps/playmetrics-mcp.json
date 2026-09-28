@@ -1,0 +1,7 @@
+{
+  "name": "playmetrics-mcp",
+  "description": "Read-only MCP server for the PlayMetrics youth-sports club management platform, enabling AI agents to query clubs, teams, players, schedules, registrations, and payments.",
+  "source_repo": "sanjibani/playmetrics-mcp",
+  "source_url": "https://github.com/sanjibani/playmetrics-mcp",
+  "install": "npx -y playmetrics-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zammad-remote-mcp",
+  "description": "A remote MCP server for Zammad, enabling ticket management, search, and OAuth authentication.",
+  "source_repo": "JUVOJustin/zammad-remote-mcp",
+  "source_url": "https://github.com/JUVOJustin/zammad-remote-mcp",
+  "install": "npx -y zammad-remote-mcp"
+}

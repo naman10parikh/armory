@@ -1,0 +1,7 @@
+{
+  "name": "trademind-unified-mcp",
+  "description": "Enables unified access to portfolio management, market data, risk analysis, trade records, compliance checks, and Slack notifications through a single MCP server.",
+  "source_repo": "vishalkumar-2006/trademind-unified-mcp",
+  "source_url": "https://github.com/vishalkumar-2006/trademind-unified-mcp",
+  "install": "npx -y trademind-unified-mcp"
+}

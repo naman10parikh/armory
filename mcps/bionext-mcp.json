@@ -1,0 +1,7 @@
+{
+  "name": "bionext-mcp",
+  "description": "Enables bioinformatics analysis through natural language conversations with Claude Desktop, automatically generating and executing Python scripts to produce HTML reports and visualizations.",
+  "source_repo": "Cherine0205/BioNext-mcp",
+  "source_url": "https://github.com/Cherine0205/BioNext-mcp",
+  "install": "npx -y BioNext-mcp"
+}

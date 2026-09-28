@@ -1,0 +1,7 @@
+{
+  "name": "ada-mcp-2",
+  "description": "Enables AI agents to manage Cardano wallets, check balances, send ADA and native assets, and settle atomic swaps via a built-in MCP server.",
+  "source_repo": "kuiralabs/ada-dev-cli",
+  "source_url": "https://github.com/kuiralabs/ada-dev-cli",
+  "install": "# git clone --depth 1 https://github.com/kuiralabs/ada-dev-cli\n# See source for mcpServers config block"
+}

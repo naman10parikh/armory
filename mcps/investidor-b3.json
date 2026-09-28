@@ -1,0 +1,7 @@
+{
+  "name": "investidor-b3",
+  "description": "Consolidates your B3 investment portfolio (stocks, FIIs, fixed income, etc.) from all brokerages into one view. Provides read-only tools to check position, dividends, transactions, and more.",
+  "source_repo": "mcp-dir/b3-mcp",
+  "source_url": "https://github.com/mcp-dir/b3-mcp",
+  "install": "npx -y b3-mcp"
+}

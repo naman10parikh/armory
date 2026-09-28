@@ -1,0 +1,7 @@
+{
+  "name": "mono-mcp",
+  "description": "An MCP server that enables AI assistants to retrieve and format Monobank account statements and transactions by date range.",
+  "source_repo": "clar1k/mono-mcp",
+  "source_url": "https://github.com/clar1k/mono-mcp",
+  "install": "npx -y mono-mcp"
+}

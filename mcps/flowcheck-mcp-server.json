@@ -1,0 +1,7 @@
+{
+  "name": "flowcheck-mcp-server",
+  "description": "Acts as a production-grade safety layer for AI-assisted coding, monitoring Git hygiene, scanning for security issues (PII, secrets, injection), and enabling semantic history search.",
+  "source_repo": "backslash-ux/flowcheck",
+  "source_url": "https://github.com/backslash-ux/flowcheck",
+  "install": "# git clone --depth 1 https://github.com/backslash-ux/flowcheck\n# See source for mcpServers config block"
+}

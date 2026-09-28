@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-aviation-weather-mcp-server",
+  "description": "Fetch METARs, TAFs, PIREPs, and SIGMETs/AIRMETs from the NWS Aviation Weather Center via MCP.",
+  "source_repo": "cyanheads/aviation-weather-mcp-server",
+  "source_url": "https://github.com/cyanheads/aviation-weather-mcp-server",
+  "install": "npx -y aviation-weather-mcp-server"
+}

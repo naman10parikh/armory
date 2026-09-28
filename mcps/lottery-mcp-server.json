@@ -1,0 +1,7 @@
+{
+  "name": "lottery-mcp-server",
+  "description": "A Model Context Protocol server for querying and analyzing double-color ball (双色球) lottery historical data from 2013 to present, offering tools for data retrieval, statistical analysis, and reference number generation.",
+  "source_repo": "Lumosylva/lottery-mcp-server",
+  "source_url": "https://github.com/Lumosylva/lottery-mcp-server",
+  "install": "npx -y lottery-mcp-server"
+}

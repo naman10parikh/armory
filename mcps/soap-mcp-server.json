@@ -1,0 +1,7 @@
+{
+  "name": "soap-mcp-server",
+  "description": "Exposes SOAP web services as Model Context Protocol (MCP) servers, allowing AI models to interact with legacy SOAP services through automatic method discovery and type mapping.",
+  "source_repo": "mayankgupta7673/soap-mcp-server",
+  "source_url": "https://github.com/mayankgupta7673/soap-mcp-server",
+  "install": "npx -y soap-mcp-server"
+}

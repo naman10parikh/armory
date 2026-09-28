@@ -1,0 +1,7 @@
+{
+  "name": "tailwind-context-resolver-mcp",
+  "description": "Loads your project's Tailwind CSS config and exposes tools for AI agents to query actual design tokens and validate class names, preventing hallucination of non-existent utilities.",
+  "source_repo": "vola-trebla/tailwind-context-resolver-mcp",
+  "source_url": "https://github.com/vola-trebla/tailwind-context-resolver-mcp",
+  "install": "npx -y tailwind-context-resolver-mcp"
+}

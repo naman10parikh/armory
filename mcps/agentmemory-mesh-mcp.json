@@ -1,0 +1,7 @@
+{
+  "name": "agentmemory-mesh-mcp",
+  "description": "A paid remote MCP server offering memory management tools (smart search, save observation, session summary, graph query) with structured receipts and audit trails for agent and CI workflows.",
+  "source_repo": "clauxel/agentmemory-mesh-mcp",
+  "source_url": "https://github.com/clauxel/agentmemory-mesh-mcp",
+  "install": "npx -y agentmemory-mesh-mcp"
+}

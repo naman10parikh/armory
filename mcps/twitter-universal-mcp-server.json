@@ -1,0 +1,7 @@
+{
+  "name": "twitter-universal-mcp-server",
+  "description": "Provides a standardized MCP interface for interacting with Twitter's tools and services, compatible with MCP-compliant applications.",
+  "source_repo": "universal-mcp/twitter",
+  "source_url": "https://github.com/universal-mcp/twitter",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/twitter\n# See source for mcpServers config block"
+}

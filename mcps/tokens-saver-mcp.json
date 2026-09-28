@@ -1,0 +1,7 @@
+{
+  "name": "tokens-saver-mcp",
+  "description": "Routes narrow text-processing tools (classification, extraction, summarization, etc.) to budget models to reduce token consumption on the main model.",
+  "source_repo": "AndersHsueh/tokens-saver-mcp",
+  "source_url": "https://github.com/AndersHsueh/tokens-saver-mcp",
+  "install": "npx -y tokens-saver-mcp"
+}

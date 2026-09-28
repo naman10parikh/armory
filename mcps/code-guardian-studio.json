@@ -1,0 +1,7 @@
+{
+  "name": "code-guardian-studio",
+  "description": "An MCP server that transforms Claude Code into an intelligent refactoring assistant, enabling code scanning, hotspot detection, optimization reports, and safe refactoring for large repositories.",
+  "source_repo": "phuongrealmax/code-guardian",
+  "source_url": "https://github.com/phuongrealmax/code-guardian",
+  "install": "# git clone --depth 1 https://github.com/phuongrealmax/code-guardian\n# See source for mcpServers config block"
+}

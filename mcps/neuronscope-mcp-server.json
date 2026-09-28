@@ -1,0 +1,7 @@
+{
+  "name": "neuronscope-mcp-server",
+  "description": "MCP server for analyzing transformer language model internals, exposing tools to trace attention heads and neurons responsible for predictions, get activation statistics, ablate components, and sketch circuits.",
+  "source_repo": "RudrenduPaul/NeuronScope",
+  "source_url": "https://github.com/RudrenduPaul/NeuronScope",
+  "install": "# git clone --depth 1 https://github.com/RudrenduPaul/NeuronScope\n# See source for mcpServers config block"
+}

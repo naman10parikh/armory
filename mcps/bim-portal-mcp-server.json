@@ -1,0 +1,7 @@
+{
+  "name": "bim-portal-mcp-server",
+  "description": "A comprehensive MCP server implemented in TypeScript that provides access to the German BIM Portal REST API, enabling querying of organizations, building properties, LOINs, domain models, and AIA resources through natural language.",
+  "source_repo": "razbakov/bim-portal-mcp",
+  "source_url": "https://github.com/razbakov/bim-portal-mcp",
+  "install": "npx -y bim-portal-mcp"
+}

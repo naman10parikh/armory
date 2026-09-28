@@ -1,0 +1,7 @@
+{
+  "name": "dynamics-365-finance-operations-mcp-server",
+  "description": "Provides a secure gateway to the Dynamics 365 F\\&O OData API, enabling LLMs and MCP clients to query and manage entities such as customers, system users, and more.",
+  "source_repo": "Sahib-Sawhney-WH/FnO-MCP-Server",
+  "source_url": "https://github.com/Sahib-Sawhney-WH/FnO-MCP-Server",
+  "install": "npx -y FnO-MCP-Server"
+}

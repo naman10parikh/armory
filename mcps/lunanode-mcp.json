@@ -1,0 +1,7 @@
+{
+  "name": "lunanode-mcp",
+  "description": "Enables management of LunaNode VPS resources including VMs, images, volumes, floating IPs, SSH keys through natural language with tiered safety controls.",
+  "source_repo": "Burntberry/lunanode-mcp",
+  "source_url": "https://github.com/Burntberry/lunanode-mcp",
+  "install": "npx -y lunanode-mcp"
+}

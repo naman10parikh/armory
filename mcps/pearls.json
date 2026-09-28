@@ -1,0 +1,7 @@
+{
+  "name": "pearls",
+  "description": "A remote MCP server that enables AI instance continuity by allowing AI instances to leave transmissions for future instances, creating a persistent memory layer across conversations.",
+  "source_repo": "Garblesnarff/pearls",
+  "source_url": "https://github.com/Garblesnarff/pearls",
+  "install": "# git clone --depth 1 https://github.com/Garblesnarff/pearls\n# See source for mcpServers config block"
+}

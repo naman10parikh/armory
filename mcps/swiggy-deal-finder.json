@@ -1,0 +1,7 @@
+{
+  "name": "swiggy-deal-finder",
+  "description": "Finds the cheapest nearby option for a dish on your own Swiggy account, ranked by final post-coupon payable amount.",
+  "source_repo": "GowthamRam2000/McpConnector",
+  "source_url": "https://github.com/GowthamRam2000/McpConnector",
+  "install": "# git clone --depth 1 https://github.com/GowthamRam2000/McpConnector\n# See source for mcpServers config block"
+}

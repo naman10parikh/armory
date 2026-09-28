@@ -1,0 +1,7 @@
+{
+  "name": "youtube-watch-mcp",
+  "description": "An MCP server that tracks your favorite YouTube creators and tells you when they've posted something new — right from Claude.",
+  "source_repo": "Achanandhi-M/youtube-watch-mcp",
+  "source_url": "https://github.com/Achanandhi-M/youtube-watch-mcp",
+  "install": "npx -y youtube-watch-mcp"
+}

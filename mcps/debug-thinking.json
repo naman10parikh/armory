@@ -1,0 +1,7 @@
+{
+  "name": "debug-thinking",
+  "description": "Structures debugging processes into a persistent knowledge graph, enabling problem decomposition, hypothesis testing, and reusable solution discovery.",
+  "source_repo": "tosssssy/mcp-server-debug-thinking",
+  "source_url": "https://github.com/tosssssy/mcp-server-debug-thinking",
+  "install": "# git clone --depth 1 https://github.com/tosssssy/mcp-server-debug-thinking\n# See source for mcpServers config block"
+}

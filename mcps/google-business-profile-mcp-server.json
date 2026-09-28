@@ -1,0 +1,7 @@
+{
+  "name": "google-business-profile-mcp-server",
+  "description": "Enables AI assistants to manage Google Business Profiles by creating posts, replying to reviews, listing locations, and more through natural language commands.",
+  "source_repo": "narkov/gbp-mcp-server",
+  "source_url": "https://github.com/narkov/gbp-mcp-server",
+  "install": "npx -y gbp-mcp-server"
+}

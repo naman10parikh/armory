@@ -1,6 +1,6 @@
 {
   "name": "figma-context-mcp-tokens",
-  "description": "Figma Context MCP Tokens MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "j4ckp0t85/Figma-Context-MCP-tokens",
   "source_url": "https://mcp.so/server/Figma-Context-MCP-tokens/j4ckp0t85",
   "install": "# git clone --depth 1 https://mcp.so/server/Figma-Context-MCP-tokens/j4ckp0t85\n# See source for mcpServers config block"

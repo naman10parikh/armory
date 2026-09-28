@@ -1,0 +1,7 @@
+{
+  "name": "recapfy-mcp",
+  "description": "Exposes Recapfy's paid endpoints as MCP tools to ask questions about YouTube videos and fetch full transcripts, with automatic USDC payment on Solana per call.",
+  "source_repo": "pedrot95dev/recapfy.mcp",
+  "source_url": "https://github.com/pedrot95dev/recapfy.mcp",
+  "install": "# git clone --depth 1 https://github.com/pedrot95dev/recapfy.mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "worldcup-2026-mcp",
+  "description": "Query FIFA World Cup 2026 data including matches, standings, teams, and statistics.",
+  "source_repo": "Eduardo-Lucas/worldcup-2026-mcp",
+  "source_url": "https://github.com/Eduardo-Lucas/worldcup-2026-mcp",
+  "install": "npx -y worldcup-2026-mcp"
+}

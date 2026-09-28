@@ -1,6 +1,6 @@
 {
   "name": "basecamp-mcp-server",
-  "description": "Basecamp MCP Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "georgeantonopoulos/Basecamp-MCP-Server",
   "source_url": "https://mcp.so/server/Basecamp-MCP-Server/georgeantonopoulos",
   "install": "npx -y Basecamp-MCP-Server"

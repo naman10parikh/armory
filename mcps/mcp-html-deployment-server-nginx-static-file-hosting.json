@@ -1,0 +1,7 @@
+{
+  "name": "mcp-html-deployment-server-nginx-static-file-hosting",
+  "description": "Enables LLMs and clients to upload, deploy, and manage static websites (HTML/CSS/JS) on a server with Nginx, supporting API key authentication and customizable site TTL with automatic cleanup.",
+  "source_repo": "rushxb/mcp-html-mcp-nginx",
+  "source_url": "https://github.com/rushxb/mcp-html-mcp-nginx",
+  "install": "# git clone --depth 1 https://github.com/rushxb/mcp-html-mcp-nginx\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sql-console",
+  "description": "Enables querying Microsoft SQL Server databases using natural language or predefined SQL, with read-only safety. Integrates with Cursor and Claude Desktop for database exploration and management.",
+  "source_repo": "ManojPabani/mcp-sql-console",
+  "source_url": "https://github.com/ManojPabani/mcp-sql-console",
+  "install": "# git clone --depth 1 https://github.com/ManojPabani/mcp-sql-console\n# See source for mcpServers config block"
+}

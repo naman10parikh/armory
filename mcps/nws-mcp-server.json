@@ -1,0 +1,7 @@
+{
+  "name": "nws-mcp-server",
+  "description": "MCP server that integrates the National Weather Service API to fetch weather alerts for US states and forecasts for coordinates.",
+  "source_repo": "Lil-Code30/nws-mcp-server",
+  "source_url": "https://github.com/Lil-Code30/nws-mcp-server",
+  "install": "npx -y nws-mcp-server"
+}

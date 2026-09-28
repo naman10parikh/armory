@@ -1,0 +1,7 @@
+{
+  "name": "pr-guardian-mcp",
+  "description": "Analyzes GitHub Pull Request diffs for security vulnerabilities and data leaks, using a deterministic filter to skip trivial changes and an AI-powered analysis for logic changes.",
+  "source_repo": "maiv3n/pr-guardian-mcp",
+  "source_url": "https://github.com/maiv3n/pr-guardian-mcp",
+  "install": "npx -y pr-guardian-mcp"
+}

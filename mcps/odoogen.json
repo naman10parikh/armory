@@ -1,0 +1,7 @@
+{
+  "name": "odoogen",
+  "description": "A specialized MCP server that turns AI agents into elite Odoo 19 developers by enforcing enterprise-grade code conventions across Python, XML, OWL components, and manifests.",
+  "source_repo": "FoxPink-dev/odoogen",
+  "source_url": "https://github.com/FoxPink-dev/odoogen",
+  "install": "# git clone --depth 1 https://github.com/FoxPink-dev/odoogen\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-1c-syntax-assistant",
+  "description": "MCP server for 1C:Enterprise that provides precise syntax reference cards (call signatures, parameters, return types, examples) by element name and lists object members. It helps AI agents answer 1C development questions using the official Russian help book.",
+  "source_repo": "IElagin/mcp-1c-syntax-assistant",
+  "source_url": "https://github.com/IElagin/mcp-1c-syntax-assistant",
+  "install": "# git clone --depth 1 https://github.com/IElagin/mcp-1c-syntax-assistant\n# See source for mcpServers config block"
+}

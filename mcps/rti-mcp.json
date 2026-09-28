@@ -1,0 +1,7 @@
+{
+  "name": "rti-mcp",
+  "description": "An MCP server that lets you query your own RTI applications on India's RTI Online portal, including status, overdue requests, and reply PDFs, without re-entering OTP and captcha for every lookup.",
+  "source_repo": "gouthamganeshm/rti-mcp",
+  "source_url": "https://github.com/gouthamganeshm/rti-mcp",
+  "install": "npx -y rti-mcp"
+}

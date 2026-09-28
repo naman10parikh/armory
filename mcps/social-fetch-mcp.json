@@ -1,0 +1,7 @@
+{
+  "name": "social-fetch-mcp",
+  "description": "Lets coding agents fetch real social media and web data from platforms like TikTok, Instagram, YouTube, and more, directly inside editors like Cursor and VS Code.",
+  "source_repo": "social-freak-ltd/socialfetch-mcp",
+  "source_url": "https://github.com/social-freak-ltd/socialfetch-mcp",
+  "install": "npx -y socialfetch-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "middle-tool",
+  "description": "Provides a unified MCP server to interact with multiple middleware (Loki, MySQL, Redis, RocketMQ, Elasticsearch, MongoDB) through a desktop application for connection management and configuration export.",
+  "source_repo": "2514385224/middle-tool",
+  "source_url": "https://github.com/2514385224/middle-tool",
+  "install": "# git clone --depth 1 https://github.com/2514385224/middle-tool\n# See source for mcpServers config block"
+}

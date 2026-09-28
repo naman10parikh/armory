@@ -1,0 +1,7 @@
+{
+  "name": "git-changelog-mcp",
+  "description": "Enables AI agents to read git commits from local repositories and generate beautifully formatted, categorized changelogs.",
+  "source_repo": "kslmisel/git-changelog-mcp",
+  "source_url": "https://github.com/kslmisel/git-changelog-mcp",
+  "install": "npx -y git-changelog-mcp"
+}

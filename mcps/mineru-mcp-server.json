@@ -1,0 +1,7 @@
+{
+  "name": "mineru-mcp-server",
+  "description": "MCP server for document processing using MinerU APIs, supporting automatic splitting and merging of large files and providing six tools for document processing, task management, and token handling.",
+  "source_repo": "neosun100/mineru-mcp-server",
+  "source_url": "https://github.com/neosun100/mineru-mcp-server",
+  "install": "npx -y mineru-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "straitsx-mcp-card-gateway",
+  "description": "Enables AI agents to pay with crypto (XSGD) via EIP-3009 and receive single-use virtual Visa cards from the StraitsX sandbox or production environment.",
+  "source_repo": "anishnar/straitsX-mcp-demo",
+  "source_url": "https://github.com/anishnar/straitsX-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/anishnar/straitsX-mcp-demo\n# See source for mcpServers config block"
+}

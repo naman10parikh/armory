@@ -1,0 +1,7 @@
+{
+  "name": "aily-local-file-mcp",
+  "description": "Exposes local file system operations to AI assistants via Streamable HTTP with security features like auth, path whitelisting, and audit logging.",
+  "source_repo": "zhuxice-ctrl/feishu_mcp",
+  "source_url": "https://github.com/zhuxice-ctrl/feishu_mcp",
+  "install": "npx -y feishu_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "reminders",
+  "description": "Enables fuzzy search, creation, and management of Apple Reminders via CLI or MCP tools.",
+  "source_repo": "cardmagic/reminders",
+  "source_url": "https://github.com/cardmagic/reminders",
+  "install": "# git clone --depth 1 https://github.com/cardmagic/reminders\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tai-skeleton",
+  "description": "Open-source MCP server hosting tools, agents, extensions, connectors, hooks, and storage for the TAI ecosystem, implementing the tai42-contract interfaces.",
+  "source_repo": "tai42ai/tai-skeleton",
+  "source_url": "https://github.com/tai42ai/tai-skeleton",
+  "install": "# git clone --depth 1 https://github.com/tai42ai/tai-skeleton\n# See source for mcpServers config block"
+}

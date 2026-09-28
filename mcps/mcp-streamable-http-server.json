@@ -1,0 +1,7 @@
+{
+  "name": "mcp-streamable-http-server",
+  "description": "Enables exposing MCP tools over HTTP using Python and FastAPI, allowing AI assistants like Cursor to connect and use tools like web search, echo, and math operations.",
+  "source_repo": "RuhamaCopilot/mcp-streamable-http",
+  "source_url": "https://github.com/RuhamaCopilot/mcp-streamable-http",
+  "install": "# git clone --depth 1 https://github.com/RuhamaCopilot/mcp-streamable-http\n# See source for mcpServers config block"
+}

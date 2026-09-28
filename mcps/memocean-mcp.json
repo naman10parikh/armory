@@ -1,0 +1,7 @@
+{
+  "name": "memocean-mcp",
+  "description": "Local-first AI Memory MCP server for AI agents to search and manage knowledge stored in Obsidian vaults, optimized for CJK languages with zero AI dependency.",
+  "source_repo": "ChannelLabAI/memocean",
+  "source_url": "https://github.com/ChannelLabAI/memocean",
+  "install": "# git clone --depth 1 https://github.com/ChannelLabAI/memocean\n# See source for mcpServers config block"
+}

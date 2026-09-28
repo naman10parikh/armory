@@ -1,0 +1,7 @@
+{
+  "name": "oncrawl-mcp-server",
+  "description": "MCP server that exposes OnCrawl's API for use with Claude Code and Claude Desktop. Enables Claude to perform deep technical SEO analysis by querying crawl data, Google Search Console metrics, and crawl-over-crawl comparisons.",
+  "source_repo": "Amaculus/oncrawl-mcp-server",
+  "source_url": "https://github.com/Amaculus/oncrawl-mcp-server",
+  "install": "npx -y oncrawl-mcp-server"
+}

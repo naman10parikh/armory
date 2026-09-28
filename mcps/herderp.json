@@ -1,0 +1,7 @@
+{
+  "name": "herderp",
+  "description": "Wraps the herdr CLI to provide curated tools and session necromancy, allowing revival of previous Claude Code agent sessions from herdr spaces.",
+  "source_repo": "ryanthedev/herderp",
+  "source_url": "https://github.com/ryanthedev/herderp",
+  "install": "# git clone --depth 1 https://github.com/ryanthedev/herderp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ravenna-mcp-server",
+  "description": "Allows LLMs to create, update, and retrieve tickets directly from the Ravenna help desk platform.",
+  "source_repo": "RavennaHQ/ravenna-mcp-server",
+  "source_url": "https://github.com/RavennaHQ/ravenna-mcp-server",
+  "install": "npx -y ravenna-mcp-server"
+}

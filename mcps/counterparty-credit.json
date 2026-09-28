@@ -1,0 +1,7 @@
+{
+  "name": "counterparty-credit",
+  "description": "An MCP server that scores the credit health of public energy companies using public data, providing a 0-100 score and factor breakdown. Enables agents to assess financial soundness of utilities, generators, and energy marketers.",
+  "source_repo": "comtechai/counterparty-credit",
+  "source_url": "https://github.com/comtechai/counterparty-credit",
+  "install": "# git clone --depth 1 https://github.com/comtechai/counterparty-credit\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "local-rag",
+  "description": "A local-first document retrieval MCP server that enables AI coding tools like Codex to search private local documents via semantic search and keyword boost, supporting ingestion of PDF, DOCX, TXT, Markdown, and HTML files.",
+  "source_repo": "zongzi-zongzhi/local-Rag",
+  "source_url": "https://github.com/zongzi-zongzhi/local-Rag",
+  "install": "# git clone --depth 1 https://github.com/zongzi-zongzhi/local-Rag\n# See source for mcpServers config block"
+}

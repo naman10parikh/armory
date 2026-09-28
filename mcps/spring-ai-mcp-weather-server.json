@@ -1,0 +1,7 @@
+{
+  "name": "spring-ai-mcp-weather-server",
+  "description": "Exposes tools for retrieving weather forecasts and alerts using the National Weather Service API.",
+  "source_repo": "AmanHogan/k3s-mcp",
+  "source_url": "https://github.com/AmanHogan/k3s-mcp",
+  "install": "npx -y k3s-mcp"
+}

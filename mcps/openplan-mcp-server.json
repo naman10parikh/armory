@@ -1,0 +1,7 @@
+{
+  "name": "openplan-mcp-server",
+  "description": "Helps AI agents decompose goals into costed execution plans, checkpoint progress with deviation tracking, and learn from past project data.",
+  "source_repo": "vncsleal/openplan",
+  "source_url": "https://github.com/vncsleal/openplan",
+  "install": "# git clone --depth 1 https://github.com/vncsleal/openplan\n# See source for mcpServers config block"
+}

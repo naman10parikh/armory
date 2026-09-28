@@ -1,0 +1,7 @@
+{
+  "name": "story-mcp",
+  "description": "Enables writers and researchers to manage large Markdown documents with AI-powered tools, including version history, semantic search, and context management.",
+  "source_repo": "clchinkc/document-mcp",
+  "source_url": "https://github.com/clchinkc/document-mcp",
+  "install": "npx -y document-mcp"
+}

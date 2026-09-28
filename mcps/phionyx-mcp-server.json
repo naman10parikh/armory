@@ -1,0 +1,7 @@
+{
+  "name": "phionyx-mcp-server",
+  "description": "An MCP trust boundary that produces signed, hash-chained evidence envelopes for third-party MCP tool calls, enabling tamper-evident audit and descriptor verification.",
+  "source_repo": "halvrenofviryel/phionyx-mcp-server",
+  "source_url": "https://github.com/halvrenofviryel/phionyx-mcp-server",
+  "install": "npx -y phionyx-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pyscrappy",
+  "description": "A Python web-scraping toolkit that exposes 22 tools for fetching structured web data (from any URL to search, finance, e-commerce, and reference sources) as validated JSON for AI agents.",
+  "source_repo": "mldsveda/PyScrappy",
+  "source_url": "https://github.com/mldsveda/PyScrappy",
+  "install": "# git clone --depth 1 https://github.com/mldsveda/PyScrappy\n# See source for mcpServers config block"
+}

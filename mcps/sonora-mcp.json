@@ -1,0 +1,7 @@
+{
+  "name": "sonora-mcp",
+  "description": "MCP server that wraps the Multiroom Audio Hub v2 REST API, providing 24 tools to control multiroom audio systems. Enables AI assistants to manage inputs, outputs, groups, routes, playback, and master mute.",
+  "source_repo": "Sonora-Multiroom/sonora-mcp",
+  "source_url": "https://github.com/Sonora-Multiroom/sonora-mcp",
+  "install": "npx -y sonora-mcp"
+}

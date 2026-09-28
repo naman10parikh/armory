@@ -1,0 +1,7 @@
+{
+  "name": "baatjie-mcp-server",
+  "description": "MCP server exposing Baatjie Group's tanOS property OS and sigscheCore signal scheduler through generic CRUD and workflow tools, featuring audit logging, PII redaction, and dependency-aware action planning.",
+  "source_repo": "dantalan/baatjie-mcp-server",
+  "source_url": "https://github.com/dantalan/baatjie-mcp-server",
+  "install": "npx -y baatjie-mcp-server"
+}

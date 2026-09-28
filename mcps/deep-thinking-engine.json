@@ -1,0 +1,7 @@
+{
+  "name": "deep-thinking-engine",
+  "description": "Enables deep reasoning and cognitive enhancement through multi-agent debate, bias detection, and structured thinking, with privacy-first local execution.",
+  "source_repo": "MitsudoAI/mcp-style-agent",
+  "source_url": "https://github.com/MitsudoAI/mcp-style-agent",
+  "install": "# git clone --depth 1 https://github.com/MitsudoAI/mcp-style-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "outlook-graph-mcp",
+  "description": "Enables to manage your Outlook mailbox via Microsoft Graph (write access) with delegated permissions, providing MCP tools to create, modify, and send emails, folders, categories, rules, and automatic replies.",
+  "source_repo": "LPDigitale/outlook-graph-mcp",
+  "source_url": "https://github.com/LPDigitale/outlook-graph-mcp",
+  "install": "npx -y outlook-graph-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openapi-mcp-builder",
+  "description": "Enables users to convert any OpenAPI or Swagger spec URL into a hosted MCP server on the Agentic Tools Platform, with tools for analyzing, trimming, and managing OpenAPI specifications.",
+  "source_repo": "charley-forey/openapi-mcp",
+  "source_url": "https://github.com/charley-forey/openapi-mcp",
+  "install": "npx -y openapi-mcp"
+}

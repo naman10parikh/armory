@@ -1,0 +1,7 @@
+{
+  "name": "traintrack-mcp",
+  "description": "MCP server for Indian Railways data, enabling AI agents to search trains, get schedules, live status, PNR info, and more without an API key.",
+  "source_repo": "freakynit/traintrack-mcp",
+  "source_url": "https://github.com/freakynit/traintrack-mcp",
+  "install": "npx -y traintrack-mcp"
+}

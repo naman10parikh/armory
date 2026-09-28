@@ -1,0 +1,7 @@
+{
+  "name": "eden-mcp",
+  "description": "Local MCP server for automating the Eden Nintendo Switch emulator, enabling control of Switch buttons, touch input, screenshots, and parallel sessions via the control-enabled custom build.",
+  "source_repo": "Leuconoe/eden-mcp",
+  "source_url": "https://github.com/Leuconoe/eden-mcp",
+  "install": "npx -y eden-mcp"
+}

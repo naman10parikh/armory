@@ -1,0 +1,7 @@
+{
+  "name": "hloro-ai",
+  "description": "MCP server that translates natural language commands into SCARA robot arm control instructions, featuring simulation mode, safety validation, and multiple transport modes (STDIO/HTTP/OAuth).",
+  "source_repo": "HBConline/HLORO-AI",
+  "source_url": "https://github.com/HBConline/HLORO-AI",
+  "install": "# git clone --depth 1 https://github.com/HBConline/HLORO-AI\n# See source for mcpServers config block"
+}

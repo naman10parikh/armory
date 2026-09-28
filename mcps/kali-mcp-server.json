@@ -1,0 +1,7 @@
+{
+  "name": "kali-mcp-server",
+  "description": "基于Kali Linux的MCP服务器，为AI助手提供渗透测试和安全评估工具接口，支持网络扫描、Web扫描、密码攻击等90多个工具。",
+  "source_repo": "PenTestT00ls/kali-mcp-server",
+  "source_url": "https://github.com/PenTestT00ls/kali-mcp-server",
+  "install": "npx -y kali-mcp-server"
+}

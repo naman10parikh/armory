@@ -1,0 +1,7 @@
+{
+  "name": "omnihub",
+  "description": "A local-first MCP server for personal memory management, enabling AI agents to store, search, and retrieve developer insights with offline semantic search and auto-categorization.",
+  "source_repo": "malharrrr/OmniHub",
+  "source_url": "https://github.com/malharrrr/OmniHub",
+  "install": "# git clone --depth 1 https://github.com/malharrrr/OmniHub\n# See source for mcpServers config block"
+}

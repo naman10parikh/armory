@@ -1,0 +1,7 @@
+{
+  "name": "stardew-save-mcp",
+  "description": "Read-only MCP server that reads Stardew Valley saves and answers questions about your farm state, calculates processing/planning, and verifies game rules against the wiki.",
+  "source_repo": "vehemont/sdv-mcp",
+  "source_url": "https://github.com/vehemont/sdv-mcp",
+  "install": "npx -y sdv-mcp"
+}

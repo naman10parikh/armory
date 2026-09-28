@@ -1,0 +1,7 @@
+{
+  "name": "feishu-enhance-mcp",
+  "description": "Enables real-time Feishu message monitoring, sending, file upload to cloud documents, and supports async and scheduled tasks via MCP.",
+  "source_repo": "jiaxinghit/feishu-enhance-mcp",
+  "source_url": "https://github.com/jiaxinghit/feishu-enhance-mcp",
+  "install": "npx -y feishu-enhance-mcp"
+}

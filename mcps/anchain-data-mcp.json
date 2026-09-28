@@ -1,0 +1,7 @@
+{
+  "name": "anchain-data-mcp",
+  "description": "Enables AI assistants to access AnChain.AI blockchain intelligence APIs for risk assessment, sanctions screening, and transaction analysis on blockchain addresses and transactions.",
+  "source_repo": "AnChainAI/anchain-data-mcp",
+  "source_url": "https://github.com/AnChainAI/anchain-data-mcp",
+  "install": "npx -y anchain-data-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "invoicex-ray",
+  "description": "An MCP server for detecting Trade-Based Money Laundering (TBML) in Indian trade finance, cross-referencing invoices against commodity benchmarks, customs records, and regulatory timelines to identify over/under-invoicing, phantom shipments, and duplicate financing.",
+  "source_repo": "DevNarayanU/MCP-Nitro",
+  "source_url": "https://github.com/DevNarayanU/MCP-Nitro",
+  "install": "# git clone --depth 1 https://github.com/DevNarayanU/MCP-Nitro\n# See source for mcpServers config block"
+}

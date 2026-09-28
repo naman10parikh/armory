@@ -1,0 +1,7 @@
+{
+  "name": "gmail-multi-account-mcp-server",
+  "description": "Enables Claude Desktop to interact with multiple Gmail accounts via MCP, providing tools for sending, searching, reading, labeling, filtering, thread management, drafts, and attachments. It also ensures correct thread replies and recoverable deletes.",
+  "source_repo": "ishaan-skyacres/gmail-multi-mcp",
+  "source_url": "https://github.com/ishaan-skyacres/gmail-multi-mcp",
+  "install": "npx -y gmail-multi-mcp"
+}

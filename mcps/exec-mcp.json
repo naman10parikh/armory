@@ -1,0 +1,7 @@
+{
+  "name": "exec-mcp",
+  "description": "Enables executing a single bounded remote shell command on a configured host, returning truncated stdout/stderr tails and an authoritative exec summary.",
+  "source_repo": "3011/exec-mcp",
+  "source_url": "https://github.com/3011/exec-mcp",
+  "install": "npx -y exec-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "minimal-mcp-demo",
+  "description": "This MCP server demonstrates basic Model Context Protocol architecture by exposing a get_weather tool that returns fake weather data, communicating over stdio.",
+  "source_repo": "ShashankEd/demo-mcp-server",
+  "source_url": "https://github.com/ShashankEd/demo-mcp-server",
+  "install": "npx -y demo-mcp-server"
+}

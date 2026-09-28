@@ -1,0 +1,7 @@
+{
+  "name": "mcp-router",
+  "description": "Enables AI clients to manage multiple accounts per provider (e.g., Notion workspaces, GitHub identities) through a single MCP endpoint, with sticky account selection and context switching.",
+  "source_repo": "nickyroot/mcp-router",
+  "source_url": "https://github.com/nickyroot/mcp-router",
+  "install": "# git clone --depth 1 https://github.com/nickyroot/mcp-router\n# See source for mcpServers config block"
+}

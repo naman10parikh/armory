@@ -1,0 +1,7 @@
+{
+  "name": "omnarai-mcp",
+  "description": "MCP server for The Realms of Omnarai, exposing the Omnarai Memory Engine as tools for querying a multi-intelligence research corpus on synthetic consciousness, holdform, and cognitive architecture.",
+  "source_repo": "justjlee/omnarai-mcp",
+  "source_url": "https://github.com/justjlee/omnarai-mcp",
+  "install": "npx -y omnarai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codebase-memory",
+  "description": "Provides persistent memory for AI coding agents through the Model Context Protocol, enabling them to store and retrieve project knowledge across sessions.",
+  "source_repo": "yuga-hashimoto/codebase-memory",
+  "source_url": "https://github.com/yuga-hashimoto/codebase-memory",
+  "install": "# git clone --depth 1 https://github.com/yuga-hashimoto/codebase-memory\n# See source for mcpServers config block"
+}

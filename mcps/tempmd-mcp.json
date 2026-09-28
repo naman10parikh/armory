@@ -1,0 +1,7 @@
+{
+  "name": "tempmd-mcp",
+  "description": "Enables publishing and updating web artifacts (HTML, Markdown, CSV, Mermaid) to get stable public URLs that update in place; supports lifecycle management like expiry and restoration.",
+  "source_repo": "huangdun/tempmd-mcp",
+  "source_url": "https://github.com/huangdun/tempmd-mcp",
+  "install": "npx -y tempmd-mcp"
+}

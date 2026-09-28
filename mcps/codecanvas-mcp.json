@@ -1,0 +1,7 @@
+{
+  "name": "codecanvas-mcp",
+  "description": "Provides local static-analysis tools for Python that let coding agents trace call paths, branch guards, side effects, and change impact, producing citation-ready answers with explicit uncertainty signals.",
+  "source_repo": "donggyun112/codecanvas",
+  "source_url": "https://github.com/donggyun112/codecanvas",
+  "install": "# git clone --depth 1 https://github.com/donggyun112/codecanvas\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claude-presence",
+  "description": "Minimal MCP server for inter-session coordination between parallel Claude Code instances, providing presence registry, advisory resource locks, and a broadcast inbox.",
+  "source_repo": "garniergeorges/claude-presence",
+  "source_url": "https://github.com/garniergeorges/claude-presence",
+  "install": "# git clone --depth 1 https://github.com/garniergeorges/claude-presence\n# See source for mcpServers config block"
+}

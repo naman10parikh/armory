@@ -1,0 +1,7 @@
+{
+  "name": "groupon-mcp",
+  "description": "MCP server for Groupon that enables searching and browsing local, goods, and travel deals via natural language. No API key required for reading deals.",
+  "source_repo": "chrischall/groupon-mcp",
+  "source_url": "https://github.com/chrischall/groupon-mcp",
+  "install": "npx -y groupon-mcp"
+}

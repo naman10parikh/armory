@@ -1,0 +1,7 @@
+{
+  "name": "dutch-property-context",
+  "description": "Enables querying Dutch property context for an address, returning building, energy, neighborhood, environment, heritage, and school data from public registers, with explicit match verification and signals.",
+  "source_repo": "rleefers/dutch-property-context",
+  "source_url": "https://github.com/rleefers/dutch-property-context",
+  "install": "# git clone --depth 1 https://github.com/rleefers/dutch-property-context\n# See source for mcpServers config block"
+}

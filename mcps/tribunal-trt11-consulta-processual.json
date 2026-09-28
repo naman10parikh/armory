@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trt11-consulta-processual",
+  "description": "Consulta processual em fonte oficial do Tribunal Regional do Trabalho da 11ª Região (TRT11), com ferramenta somente leitura para agentes de IA via MCP over HTTP.",
+  "source_repo": "mcp-dir/tribunal_trt11_processo-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trt11_processo-mcp",
+  "install": "npx -y tribunal_trt11_processo-mcp"
+}

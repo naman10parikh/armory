@@ -1,0 +1,7 @@
+{
+  "name": "claude-seo-kit",
+  "description": "An MCP server for SEO auditing that performs technical SEO, content quality, Schema.org, sitemap, hreflang, and GEO checks, returning scores and prioritized fixes.",
+  "source_repo": "FreeAutomation-Tech/claude-seo-kit",
+  "source_url": "https://github.com/FreeAutomation-Tech/claude-seo-kit",
+  "install": "# git clone --depth 1 https://github.com/FreeAutomation-Tech/claude-seo-kit\n# See source for mcpServers config block"
+}

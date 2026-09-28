@@ -1,0 +1,7 @@
+{
+  "name": "swiss-transport-mcp",
+  "description": "Enables AI assistants to access Swiss public transport data including journey planning, real-time departures, disruptions, occupancy forecasts, ticket prices, and train formations via a standardized MCP interface.",
+  "source_repo": "malkreide/swiss-transport-mcp",
+  "source_url": "https://github.com/malkreide/swiss-transport-mcp",
+  "install": "npx -y swiss-transport-mcp"
+}

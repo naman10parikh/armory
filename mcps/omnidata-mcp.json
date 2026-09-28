@@ -1,0 +1,7 @@
+{
+  "name": "omnidata-mcp",
+  "description": "A unified Model Context Protocol server for data engineering and analytics that lets LLM clients query, profile, transform, and visualize data using DuckDB and PySpark, while keeping raw data out of the model's context through read-only, bounded, and audited operations.",
+  "source_repo": "MostafaAI10/OmniData-MCP",
+  "source_url": "https://github.com/MostafaAI10/OmniData-MCP",
+  "install": "npx -y OmniData-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "engineering-documentation-mcp-server",
+  "description": "Analyzes code repositories and generates comprehensive documentation published to Google Docs with Mermaid diagrams.",
+  "source_repo": "mfaizanmumtaz/Engineering-Docs-MCP",
+  "source_url": "https://github.com/mfaizanmumtaz/Engineering-Docs-MCP",
+  "install": "npx -y Engineering-Docs-MCP"
+}

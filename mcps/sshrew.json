@@ -1,0 +1,7 @@
+{
+  "name": "sshrew",
+  "description": "Enables Claude to read files and run allowlisted commands on any Linux machine that can dial out, without inbound SSH or port forwarding.",
+  "source_repo": "duriantaco/sshrew",
+  "source_url": "https://github.com/duriantaco/sshrew",
+  "install": "# git clone --depth 1 https://github.com/duriantaco/sshrew\n# See source for mcpServers config block"
+}

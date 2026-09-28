@@ -1,0 +1,7 @@
+{
+  "name": "inner-voice",
+  "description": "MCP server enabling AI companions to deliver authored inner monologues alongside replies via atomically submitted batches.",
+  "source_repo": "gobly2333/inner-voice",
+  "source_url": "https://github.com/gobly2333/inner-voice",
+  "install": "# git clone --depth 1 https://github.com/gobly2333/inner-voice\n# See source for mcpServers config block"
+}

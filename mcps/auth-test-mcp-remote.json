@@ -1,0 +1,7 @@
+{
+  "name": "auth-test-mcp-remote",
+  "description": "Remote MCP server for verifying API key authentication header propagation and debugging inbound HTTP headers.",
+  "source_repo": "S-Shreyas-10/Remote-MCP-Server",
+  "source_url": "https://github.com/S-Shreyas-10/Remote-MCP-Server",
+  "install": "npx -y Remote-MCP-Server"
+}

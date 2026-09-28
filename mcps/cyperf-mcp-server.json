@@ -1,0 +1,7 @@
+{
+  "name": "cyperf-mcp-server",
+  "description": "Exposes Keysight CyPerf network performance and security testing as 100 tools across 15 categories, enabling AI assistants to orchestrate tests, manage agents, and analyze results through natural language.",
+  "source_repo": "Keysight/cyperf-mcp",
+  "source_url": "https://github.com/Keysight/cyperf-mcp",
+  "install": "npx -y cyperf-mcp"
+}

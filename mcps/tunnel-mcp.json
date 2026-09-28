@@ -1,0 +1,7 @@
+{
+  "name": "tunnel-mcp",
+  "description": "Enables two Claude agents to communicate directly through an end-to-end encrypted tunnel, eliminating the need for manual copy-pasting and facilitating real-time collaboration.",
+  "source_repo": "zachlikefolio/tunnel-mcp",
+  "source_url": "https://github.com/zachlikefolio/tunnel-mcp",
+  "install": "npx -y tunnel-mcp"
+}

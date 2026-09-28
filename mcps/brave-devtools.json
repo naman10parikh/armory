@@ -1,0 +1,7 @@
+{
+  "name": "brave-devtools",
+  "description": "MCP server that lets AI coding assistants control and inspect a live Brave browser using DevTools for automation, debugging, and performance analysis.",
+  "source_repo": "triuzzi/brave-devtools-mcp",
+  "source_url": "https://github.com/triuzzi/brave-devtools-mcp",
+  "install": "npx -y brave-devtools-mcp"
+}

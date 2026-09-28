@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bcr",
+  "description": "MCP server that provides real-time access to Peruvian economic indicators from the BCRP API, with persistent memory, knowledge graph, document RAG, and statistical analysis tools.",
+  "source_repo": "AnderMC66/bcrp-mcp",
+  "source_url": "https://github.com/AnderMC66/bcrp-mcp",
+  "install": "npx -y bcrp-mcp"
+}

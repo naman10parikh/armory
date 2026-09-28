@@ -1,0 +1,7 @@
+{
+  "name": "flighthunter-mcp",
+  "description": "A Model Context Protocol (MCP) server that gives Claude the ability to search for cheap flights — including Russian airlines — and present direct booking links.",
+  "source_repo": "Vetlinskiy/flighthunter-mcp",
+  "source_url": "https://github.com/Vetlinskiy/flighthunter-mcp",
+  "install": "npx -y flighthunter-mcp"
+}

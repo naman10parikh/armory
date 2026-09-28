@@ -1,0 +1,7 @@
+{
+  "name": "hebbrix-mcp-server",
+  "description": "Provides long-term memory and a temporal knowledge graph for AI agents, enabling persistent memory and reasoning across sessions.",
+  "source_repo": "Hebbrix/hebbrix-mcp",
+  "source_url": "https://github.com/Hebbrix/hebbrix-mcp",
+  "install": "npx -y hebbrix-mcp"
+}

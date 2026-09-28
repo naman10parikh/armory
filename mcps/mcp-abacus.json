@@ -1,0 +1,7 @@
+{
+  "name": "mcp-abacus",
+  "description": "Pure-Python MCP server for type-faithful calculation — evaluate expressions under fixed-point, IEEE-754 double, or exact rational arithmetic, with every answer labelled with its precision (exact vs inexact).",
+  "source_repo": "laszlopere/mcp-abacus",
+  "source_url": "https://github.com/laszlopere/mcp-abacus",
+  "install": "# git clone --depth 1 https://github.com/laszlopere/mcp-abacus\n# See source for mcpServers config block"
+}

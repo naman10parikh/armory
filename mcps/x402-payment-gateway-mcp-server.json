@@ -1,0 +1,7 @@
+{
+  "name": "x402-payment-gateway-mcp-server",
+  "description": "Enables AI agents to make micropayments using USDC on Solana via the x402 protocol, supporting payment requests, on-chain verification, and revenue tracking.",
+  "source_repo": "AiAgentKarl/x402-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/x402-mcp-server",
+  "install": "npx -y x402-mcp-server"
+}

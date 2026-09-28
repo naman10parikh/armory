@@ -1,0 +1,7 @@
+{
+  "name": "image-relay-mcp",
+  "description": "Enables image generation and editing via third-party relay services. Returns local file paths and Markdown display hints.",
+  "source_repo": "qa594741/image-relay-bridge",
+  "source_url": "https://github.com/qa594741/image-relay-bridge",
+  "install": "# git clone --depth 1 https://github.com/qa594741/image-relay-bridge\n# See source for mcpServers config block"
+}

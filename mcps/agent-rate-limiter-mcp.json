@@ -1,0 +1,7 @@
+{
+  "name": "agent-rate-limiter-mcp",
+  "description": "Fleet-wide shared rate limiter for A2A + multi-MCP deployments, providing a shared counter with sliding window, concurrency grants, and signed enforcement attestations.",
+  "source_repo": "CSOAI-ORG/agent-rate-limiter-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/agent-rate-limiter-mcp",
+  "install": "npx -y agent-rate-limiter-mcp"
+}

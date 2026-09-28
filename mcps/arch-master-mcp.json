@@ -1,0 +1,7 @@
+{
+  "name": "arch-master-mcp",
+  "description": "Multi-stack scaffolding engine for generating production-ready module structures (NestJS, Java Spring, Python FastAPI) directly from an MCP-compatible AI client, reducing token usage for boilerplate code.",
+  "source_repo": "NicolasAEV/arch-master-mcp",
+  "source_url": "https://github.com/NicolasAEV/arch-master-mcp",
+  "install": "npx -y arch-master-mcp"
+}

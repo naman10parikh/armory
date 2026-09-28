@@ -1,0 +1,7 @@
+{
+  "name": "gpt-web-codex",
+  "description": "Enables local code execution via Codex (Luna) through MCP, using ChatGPT Web conversations as a planner. Provides file, terminal, and code execution tools while keeping long-running jobs manageable.",
+  "source_repo": "m4j2rpf766-crypto/gpt-web-codex",
+  "source_url": "https://github.com/m4j2rpf766-crypto/gpt-web-codex",
+  "install": "# git clone --depth 1 https://github.com/m4j2rpf766-crypto/gpt-web-codex\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rag-config-generator-mcp",
+  "description": "Generates RAG pipeline configurations from natural language descriptions, providing recommendations for chunking, embeddings, and vector stores.",
+  "source_repo": "Bisma474/rag-config-generator-mcp",
+  "source_url": "https://github.com/Bisma474/rag-config-generator-mcp",
+  "install": "npx -y rag-config-generator-mcp"
+}

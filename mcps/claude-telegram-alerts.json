@@ -1,0 +1,7 @@
+{
+  "name": "claude-telegram-alerts",
+  "description": "Sends Telegram alerts for Claude Code status updates, including notifications for task completion, user requests, and custom status updates with normal or urgent priority.",
+  "source_repo": "anthony-potts/claude-telegram-alerts",
+  "source_url": "https://github.com/anthony-potts/claude-telegram-alerts",
+  "install": "# git clone --depth 1 https://github.com/anthony-potts/claude-telegram-alerts\n# See source for mcpServers config block"
+}

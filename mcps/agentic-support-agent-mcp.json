@@ -1,0 +1,7 @@
+{
+  "name": "agentic-support-agent-mcp",
+  "description": "Enables AI agents to check order statuses, retrieve FAQ policy answers via RAG, and create/manage support tickets, all based on the e-commerce support workflow in the repository.",
+  "source_repo": "snehaharurkar/-agentic-support-agent-mcp",
+  "source_url": "https://github.com/snehaharurkar/-agentic-support-agent-mcp",
+  "install": "npx -y -agentic-support-agent-mcp"
+}

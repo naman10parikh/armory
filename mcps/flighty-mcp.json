@@ -1,0 +1,7 @@
+{
+  "name": "flighty-mcp",
+  "description": "A read-only MCP server that exposes personal Flighty app flight data as geo-ready legs with coordinates, enabling queries by date, year, or flight number, and aggregate stats.",
+  "source_repo": "sailingnaturali/flighty-mcp",
+  "source_url": "https://github.com/sailingnaturali/flighty-mcp",
+  "install": "npx -y flighty-mcp"
+}

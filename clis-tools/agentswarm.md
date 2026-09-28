@@ -7,7 +7,7 @@ license: MIT
 ---
 # agentswarm
 
-Use to orchestrate a swarm of sub-agents under a CEO pattern — break a mission into roles, dispatch them, and coordinate via signal files, when one agent isn't enough but a full visible grid is overkill.
+Use to orchestrate a swarm of sub-agents under a CEO pattern when one agent isn't enough but a full visible grid is overkill: break a mission into roles, dispatch them, and coordinate via signal files.
 
 **Source:** https://github.com/naman10parikh/agentswarm
 

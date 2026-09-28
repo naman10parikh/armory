@@ -1,0 +1,7 @@
+{
+  "name": "claude-kb",
+  "description": "Enables searching and retrieving Claude Code conversation history via hybrid semantic and keyword search, allowing the agent to access its own past interactions.",
+  "source_repo": "tenequm/claude-kb",
+  "source_url": "https://github.com/tenequm/claude-kb",
+  "install": "# git clone --depth 1 https://github.com/tenequm/claude-kb\n# See source for mcpServers config block"
+}

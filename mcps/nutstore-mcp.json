@@ -1,0 +1,7 @@
+{
+  "name": "nutstore-mcp",
+  "description": "MCP server for Nutstore cloud storage, enabling AI assistants to manage files via WebDAV with support for listing, searching, uploading, downloading, and more.",
+  "source_repo": "silverze/nutstore-mcp",
+  "source_url": "https://github.com/silverze/nutstore-mcp",
+  "install": "npx -y nutstore-mcp"
+}

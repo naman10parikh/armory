@@ -1,0 +1,7 @@
+{
+  "name": "jaumemory-mcp-server",
+  "description": "Provides persistent memory capabilities for AI assistants, enabling storage, recall, and analysis of information across conversations with intelligent memory management.",
+  "source_repo": "Jau-app/JauMemory-mcp-server",
+  "source_url": "https://github.com/Jau-app/JauMemory-mcp-server",
+  "install": "npx -y JauMemory-mcp-server"
+}

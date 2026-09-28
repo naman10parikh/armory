@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sessions",
+  "description": "Search and browse Claude Code conversation history across all your projects.",
+  "source_repo": "Yurich-ru/mcp-sessions",
+  "source_url": "https://github.com/Yurich-ru/mcp-sessions",
+  "install": "# git clone --depth 1 https://github.com/Yurich-ru/mcp-sessions\n# See source for mcpServers config block"
+}

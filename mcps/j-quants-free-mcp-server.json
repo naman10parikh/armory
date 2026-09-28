@@ -1,0 +1,7 @@
+{
+  "name": "j-quants-free-mcp-server",
+  "description": "Enables access to Japanese stock market data via the free J-Quants API, providing tools for company search, daily quotes, and financial statements.",
+  "source_repo": "cygkichi/jquants-free-mcp-server",
+  "source_url": "https://github.com/cygkichi/jquants-free-mcp-server",
+  "install": "npx -y jquants-free-mcp-server"
+}

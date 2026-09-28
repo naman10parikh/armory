@@ -1,0 +1,7 @@
+{
+  "name": "runapi-ai-runway-aleph-mcp",
+  "description": "MCP server for the Runway Aleph model line. Enables creating edit video tasks, polling status, and checking pricing through a single RunAPI API key.",
+  "source_repo": "runapi-ai/runway-aleph-mcp",
+  "source_url": "https://github.com/runapi-ai/runway-aleph-mcp",
+  "install": "npx -y runway-aleph-mcp"
+}

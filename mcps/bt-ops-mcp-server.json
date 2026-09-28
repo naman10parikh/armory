@@ -1,0 +1,7 @@
+{
+  "name": "bt-ops-mcp-server",
+  "description": "An MCP server for controlled server operations via BaoTa Panel, providing 50+ tools for system, site, database, files, cron, Docker, and network management with safety features like permission tiers, credential masking, and audit logs.",
+  "source_repo": "tangchangzhe/bt-ops-mcp-server",
+  "source_url": "https://github.com/tangchangzhe/bt-ops-mcp-server",
+  "install": "npx -y bt-ops-mcp-server"
+}

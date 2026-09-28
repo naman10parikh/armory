@@ -1,0 +1,7 @@
+{
+  "name": "local-file-system-mcp-server",
+  "description": "Provides tools to check disk usage and search files by keyword on the local system.",
+  "source_repo": "MomoSGM/Mcp_mohamedNour",
+  "source_url": "https://github.com/MomoSGM/Mcp_mohamedNour",
+  "install": "# git clone --depth 1 https://github.com/MomoSGM/Mcp_mohamedNour\n# See source for mcpServers config block"
+}

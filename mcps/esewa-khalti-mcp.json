@@ -1,0 +1,7 @@
+{
+  "name": "esewa-khalti-mcp",
+  "description": "Integrates eSewa and Khalti payment gateways into Claude, enabling payment processing via natural language.",
+  "source_repo": "Abidit/eSewa-Khalti-mcp",
+  "source_url": "https://github.com/Abidit/eSewa-Khalti-mcp",
+  "install": "npx -y eSewa-Khalti-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ragdocs-mcp-server",
+  "description": "Enables semantic search and management of documentation through vector similarity using Qdrant and Ollama/OpenAI embeddings.",
+  "source_repo": "mcpflow/ragdocs",
+  "source_url": "https://github.com/mcpflow/ragdocs",
+  "install": "# git clone --depth 1 https://github.com/mcpflow/ragdocs\n# See source for mcpServers config block"
+}

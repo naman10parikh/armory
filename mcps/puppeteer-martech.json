@@ -1,0 +1,7 @@
+{
+  "name": "puppeteer-martech",
+  "description": "Extends Puppeteer to enable digital marketing and SEO analysis, including detection of analytics tools, advertising pixels, tag managers, and SEO audits.",
+  "source_repo": "moonbirdai/puppeteer-plus-martech-mcp",
+  "source_url": "https://github.com/moonbirdai/puppeteer-plus-martech-mcp",
+  "install": "npx -y puppeteer-plus-martech-mcp"
+}

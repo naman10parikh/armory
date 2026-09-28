@@ -1,0 +1,7 @@
+{
+  "name": "hevy-coach",
+  "description": "MCP server that connects Claude to the Hevy fitness app, enabling AI-driven personalized strength coaching by reading lifting history and programming workouts.",
+  "source_repo": "jmilinovich/claude-hevy-coach",
+  "source_url": "https://github.com/jmilinovich/claude-hevy-coach",
+  "install": "# git clone --depth 1 https://github.com/jmilinovich/claude-hevy-coach\n# See source for mcpServers config block"
+}

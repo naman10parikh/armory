@@ -1,0 +1,7 @@
+{
+  "name": "minimal-mcp",
+  "description": "A minimal MCP server that demonstrates the entire protocol using a simple in-memory todo list, including tools, resources, prompts, and elicitation.",
+  "source_repo": "gitcommit-computerphile/Custom-MCP-Server",
+  "source_url": "https://github.com/gitcommit-computerphile/Custom-MCP-Server",
+  "install": "npx -y Custom-MCP-Server"
+}

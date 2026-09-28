@@ -1,0 +1,7 @@
+{
+  "name": "mcp-grad-party",
+  "description": "A celebratory MCP server that provides information about the MCP spec graduation, including tools for trivia, toasts, and migration checklists. No authentication required.",
+  "source_repo": "arcadeai-labs/mcp-grad-party",
+  "source_url": "https://github.com/arcadeai-labs/mcp-grad-party",
+  "install": "# git clone --depth 1 https://github.com/arcadeai-labs/mcp-grad-party\n# See source for mcpServers config block"
+}

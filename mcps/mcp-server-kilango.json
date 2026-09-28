@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-kilango",
+  "description": "MCP server that wraps Kilango's operator/control API as tools so an AI assistant can build and manage portals in a Kilango workspace — creating/managing portals, pages, blocks, widgets, apps, and connections, with drag-and-drop reordering and a contract-driven escape hatch for any OpenAPI operation.",
+  "source_repo": "borgels/mcp-server-kilango",
+  "source_url": "https://github.com/borgels/mcp-server-kilango",
+  "install": "# git clone --depth 1 https://github.com/borgels/mcp-server-kilango\n# See source for mcpServers config block"
+}

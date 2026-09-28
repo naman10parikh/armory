@@ -1,0 +1,7 @@
+{
+  "name": "mcp-kettlelogic",
+  "description": "A read-only MCP server that exposes Kettle Logic's published whitepapers, playbooks, and industry pages to AI agents through tools and resources, fetching content live from the public website.",
+  "source_repo": "mploschiavo/mcp-kettlelogic",
+  "source_url": "https://github.com/mploschiavo/mcp-kettlelogic",
+  "install": "# git clone --depth 1 https://github.com/mploschiavo/mcp-kettlelogic\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "polymarket-data-by-polymarketscan",
+  "description": "Real-time Polymarket analytics for AI agents. Query live prediction market data including whale trades, market odds, trader profiles, and leaderboards. **Available tools:** - `get_whale_trades` — large trades above a size threshold - `get_market_odds` — current prices and implied probability for any",
+  "source_repo": "",
+  "source_url": "https://PolymarketScan.org/API",
+  "install": "# git clone --depth 1 https://PolymarketScan.org/API\n# See source for mcpServers config block"
+}

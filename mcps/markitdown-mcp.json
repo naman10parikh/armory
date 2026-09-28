@@ -1,0 +1,7 @@
+{
+  "name": "markitdown-mcp",
+  "description": "Converts documents (PDF, DOCX, XLSX, PPTX, HTML, TXT, MD) to Markdown and stores them locally with search and retrieval capabilities.",
+  "source_repo": "alfredoanton82/markitdown-mcp",
+  "source_url": "https://github.com/alfredoanton82/markitdown-mcp",
+  "install": "npx -y markitdown-mcp"
+}

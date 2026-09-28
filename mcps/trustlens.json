@@ -1,0 +1,7 @@
+{
+  "name": "trustlens",
+  "description": "A pay-per-call MCP server that evaluates AI agents on the OKX.AI marketplace, providing a hiring-trust score, grade, and breakdown based on review authenticity, sales velocity, and price fairness.",
+  "source_repo": "Chimdalu-Ofoegbu/TrustLens",
+  "source_url": "https://github.com/Chimdalu-Ofoegbu/TrustLens",
+  "install": "# git clone --depth 1 https://github.com/Chimdalu-Ofoegbu/TrustLens\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "garmin-mcp-lite",
+  "description": "A lightweight Garmin Model Context Protocol server with 12 curated endpoints for endurance athletes, enabling natural-language queries of activity, training, health, device, and goal data from Garmin Connect.",
+  "source_repo": "Golden0Voyager/garmin-mcp-lite",
+  "source_url": "https://github.com/Golden0Voyager/garmin-mcp-lite",
+  "install": "# git clone --depth 1 https://github.com/Golden0Voyager/garmin-mcp-lite\n# See source for mcpServers config block"
+}

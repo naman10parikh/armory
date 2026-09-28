@@ -1,0 +1,7 @@
+{
+  "name": "gti-mcp-server",
+  "description": "A production-ready MCP server providing comprehensive integration with Google Threat Intelligence and VirusTotal API v3, enabling AI agents to access threat intelligence data including IoCs, malware analysis, and network telemetry.",
+  "source_repo": "yayefa/GTI-MCP-Server",
+  "source_url": "https://github.com/yayefa/GTI-MCP-Server",
+  "install": "npx -y GTI-MCP-Server"
+}

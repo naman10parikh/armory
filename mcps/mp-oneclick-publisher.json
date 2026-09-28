@@ -1,0 +1,7 @@
+{
+  "name": "mp-oneclick-publisher",
+  "description": "Converts Markdown documents into formatted WeChat Official Account draft articles with automatic image generation and styling.",
+  "source_repo": "yawen666/mp-oneclick-publisher",
+  "source_url": "https://github.com/yawen666/mp-oneclick-publisher",
+  "install": "# git clone --depth 1 https://github.com/yawen666/mp-oneclick-publisher\n# See source for mcpServers config block"
+}

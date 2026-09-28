@@ -1,0 +1,7 @@
+{
+  "name": "balatro-codex-mcp",
+  "description": "Allows Codex desktop to control the Steam game Balatro via local STDIO MCP tools, exposing only constrained normal game actions without debugging or cheat capabilities.",
+  "source_repo": "deanxizian/balatro-codex-mcp",
+  "source_url": "https://github.com/deanxizian/balatro-codex-mcp",
+  "install": "npx -y balatro-codex-mcp"
+}

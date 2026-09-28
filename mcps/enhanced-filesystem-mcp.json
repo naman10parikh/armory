@@ -1,0 +1,7 @@
+{
+  "name": "enhanced-filesystem-mcp",
+  "description": "High-performance MCP server giving AI agents advanced filesystem and automation capabilities on Windows, with 26 tools across file I/O, search, Git, process management, and more.",
+  "source_repo": "AesirKode/enhanced-filesystem-mcp",
+  "source_url": "https://github.com/AesirKode/enhanced-filesystem-mcp",
+  "install": "npx -y enhanced-filesystem-mcp"
+}

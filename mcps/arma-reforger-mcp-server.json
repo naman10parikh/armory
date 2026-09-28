@@ -1,0 +1,7 @@
+{
+  "name": "arma-reforger-mcp-server",
+  "description": "A local, security-focused MCP server for Arma Reforger modding, providing AI coding assistants with tools for project discovery, script analysis, resource validation, log diagnosis, API documentation search, file editing, and Workbench automation.",
+  "source_repo": "maxionice/arma-reforger-mcp",
+  "source_url": "https://github.com/maxionice/arma-reforger-mcp",
+  "install": "npx -y arma-reforger-mcp"
+}

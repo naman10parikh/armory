@@ -1,0 +1,7 @@
+{
+  "name": "worldmonitor-mcp-2",
+  "description": "Live global-intelligence data as a 39-tool MCP server: real-time markets, conflict events, country risk and resilience scores, shipping chokepoints, maritime and aviation activity, energy, climate, health, cyber threats, sanctions, forecasts, and AI-generated world/country briefs. Discovery is anony",
+  "source_repo": "",
+  "source_url": "https://www.worldmonitor.app",
+  "install": "# git clone --depth 1 https://www.worldmonitor.app\n# See source for mcpServers config block"
+}

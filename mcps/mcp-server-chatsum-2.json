@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-chatsum-2",
+  "description": "MCP server to summarize chat messages from a local database.",
+  "source_repo": "AmokOrg/mcp-server-chatsum-1",
+  "source_url": "https://github.com/AmokOrg/mcp-server-chatsum-1",
+  "install": "# git clone --depth 1 https://github.com/AmokOrg/mcp-server-chatsum-1\n# See source for mcpServers config block"
+}

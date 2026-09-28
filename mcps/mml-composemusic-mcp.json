@@ -1,0 +1,7 @@
+{
+  "name": "mml-composemusic-mcp",
+  "description": "MCP server for composing retro chip music (2A03 APU) using MML. It provides tools to generate WAV files, validate syntax, and create templates.",
+  "source_repo": "takashi000/mml-composemusic-mcp",
+  "source_url": "https://github.com/takashi000/mml-composemusic-mcp",
+  "install": "npx -y mml-composemusic-mcp"
+}

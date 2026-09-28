@@ -1,0 +1,7 @@
+{
+  "name": "converse-mcp-enhanced",
+  "description": "Multi-model AI conversation MCP for Claude Desktop. Seamlessly integrate with GPT-4, Gemini, xAI, Perplexity, and local models via Ollama.",
+  "source_repo": "justmy2satoshis/converse-mcp-enhanced",
+  "source_url": "https://github.com/justmy2satoshis/converse-mcp-enhanced",
+  "install": "# git clone --depth 1 https://github.com/justmy2satoshis/converse-mcp-enhanced\n# See source for mcpServers config block"
+}

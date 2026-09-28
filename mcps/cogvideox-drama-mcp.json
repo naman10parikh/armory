@@ -1,0 +1,7 @@
+{
+  "name": "cogvideox-drama-mcp",
+  "description": "An MCP server that turns drama scripts into storyboard shots and generates videos for each shot using Zhipu CogVideoX, returning timed download URLs. It can be integrated with MCP-compatible agents like LangChain, Dify, Cline, and Cherry Studio.",
+  "source_repo": "lcy-fe-dev/cogvideox-drama-mcp",
+  "source_url": "https://github.com/lcy-fe-dev/cogvideox-drama-mcp",
+  "install": "npx -y cogvideox-drama-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "haulage-uk-compliance-mcp",
+  "description": "Enables UK haulage compliance checks including operator licence verification, tachograph auditing, drivers' hours calculations, and DVSA roadside inspection support.",
+  "source_repo": "CSOAI-ORG/haulage-uk-compliance-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/haulage-uk-compliance-mcp",
+  "install": "npx -y haulage-uk-compliance-mcp"
+}

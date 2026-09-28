@@ -1,0 +1,7 @@
+{
+  "name": "exisjs-mcp",
+  "description": "MCP server that connects AI coding agents to ExisJS projects, enabling them to read local ExisJS documentation and scaffold idiomatic ExisJS boilerplate code (routes, plugins, gateways, configs).",
+  "source_repo": "v25group/exisjs-mcp",
+  "source_url": "https://github.com/v25group/exisjs-mcp",
+  "install": "npx -y exisjs-mcp"
+}

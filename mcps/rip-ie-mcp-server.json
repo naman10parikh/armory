@@ -1,0 +1,7 @@
+{
+  "name": "rip-ie-mcp-server",
+  "description": "A Model Context Protocol (MCP) compliant server that provides access to the RIP.ie GraphQL backend, allowing users to query and retrieve death notices and related information from RIP.ie.",
+  "source_repo": "CiaranMcAleer/RipIEMCP",
+  "source_url": "https://github.com/CiaranMcAleer/RipIEMCP",
+  "install": "# git clone --depth 1 https://github.com/CiaranMcAleer/RipIEMCP\n# See source for mcpServers config block"
+}

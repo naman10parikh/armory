@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-ce-cupom-fiscal-eletr-nico-sat",
+  "description": "Enables users to query official SEFAZ CE Cupom Fiscal Eletrônico (SAT) data through a hosted, read-only MCP server with prepaid per-query credits.",
+  "source_repo": "mcp-dir/sefaz_ce_cfe-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_ce_cfe-mcp",
+  "install": "npx -y sefaz_ce_cfe-mcp"
+}

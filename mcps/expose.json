@@ -1,0 +1,7 @@
+{
+  "name": "expose",
+  "description": "Easily build MCP tools for Claude desktop app.",
+  "source_repo": "deadcodedump/expose",
+  "source_url": "https://github.com/deadcodedump/expose",
+  "install": "# git clone --depth 1 https://github.com/deadcodedump/expose\n# See source for mcpServers config block"
+}

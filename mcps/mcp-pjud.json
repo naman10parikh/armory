@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pjud",
+  "description": "Unofficial read-only MCP server for querying public civil court cases from the Chilean Judicial Branch, providing case data and notary actions with real diligence dates.",
+  "source_repo": "notluquis/mcp-pjud-cl",
+  "source_url": "https://github.com/notluquis/mcp-pjud-cl",
+  "install": "# git clone --depth 1 https://github.com/notluquis/mcp-pjud-cl\n# See source for mcpServers config block"
+}

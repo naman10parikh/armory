@@ -1,0 +1,7 @@
+{
+  "name": "kikobooks-mcp-server",
+  "description": "A Model Context Protocol server for KikoBooks enterprise bookkeeping software that enables AI assistants to perform accounting operations on accounts, customers, invoices, bills, and more through natural language.",
+  "source_repo": "AccountantInc/mcp-kiko",
+  "source_url": "https://github.com/AccountantInc/mcp-kiko",
+  "install": "# git clone --depth 1 https://github.com/AccountantInc/mcp-kiko\n# See source for mcpServers config block"
+}

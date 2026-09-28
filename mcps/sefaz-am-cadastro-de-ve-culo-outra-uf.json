@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-am-cadastro-de-ve-culo-outra-uf",
+  "description": "MCP server for consulting vehicle registration data from SEFAZ AM (Amazonas State Revenue) for vehicles from other states. It provides a read-only tool that queries official sources and works with any MCP client.",
+  "source_repo": "mcp-dir/sefaz_am_cadastro_veiculo-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_am_cadastro_veiculo-mcp",
+  "install": "npx -y sefaz_am_cadastro_veiculo-mcp"
+}

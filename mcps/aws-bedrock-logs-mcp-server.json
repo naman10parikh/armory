@@ -1,6 +1,6 @@
 {
   "name": "aws-bedrock-logs-mcp-server",
-  "description": "Aws Bedrock Logs Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "dheerajoruganty/aws-bedrock-logs-mcp-server",
   "source_url": "https://mcp.so/server/aws-bedrock-logs-mcp-server/dheerajoruganty",
   "install": "npx -y aws-bedrock-logs-mcp-server"

@@ -1,0 +1,7 @@
+{
+  "name": "devops-assistant-mcp",
+  "description": "Enables querying local MySQL databases and managing Docker containers (listing, logs) through natural language via the Model Context Protocol.",
+  "source_repo": "Karun9107/devops-assistant-mcp",
+  "source_url": "https://github.com/Karun9107/devops-assistant-mcp",
+  "install": "npx -y devops-assistant-mcp"
+}

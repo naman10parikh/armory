@@ -1,0 +1,7 @@
+{
+  "name": "rawtrace-mcp",
+  "description": "Records raw DOM mutations and network events during AI agent browser interactions, enabling detailed debugging and analysis of Playwright automations.",
+  "source_repo": "ss26367098/rawtrace-mcp",
+  "source_url": "https://github.com/ss26367098/rawtrace-mcp",
+  "install": "npx -y rawtrace-mcp"
+}

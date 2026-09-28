@@ -1,0 +1,7 @@
+{
+  "name": "cyber-mcp-server",
+  "description": "A production-style MCP server providing AI models with cybersecurity tools including port scanning, WHOIS, DNS, threat intelligence, CVE lookup, and more.",
+  "source_repo": "warnii/cyber-mcp-server",
+  "source_url": "https://github.com/warnii/cyber-mcp-server",
+  "install": "npx -y cyber-mcp-server"
+}

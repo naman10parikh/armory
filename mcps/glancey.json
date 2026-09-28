@@ -1,0 +1,7 @@
+{
+  "name": "glancey",
+  "description": "Adds semantic code search to AI coding agents, enabling natural language queries across entire codebases to retrieve relevant code chunks, saving tokens and providing deep context.",
+  "source_repo": "nicholaspsmith/Glancey",
+  "source_url": "https://github.com/nicholaspsmith/Glancey",
+  "install": "# git clone --depth 1 https://github.com/nicholaspsmith/Glancey\n# See source for mcpServers config block"
+}

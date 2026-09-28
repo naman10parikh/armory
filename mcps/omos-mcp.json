@@ -1,0 +1,7 @@
+{
+  "name": "omos-mcp",
+  "description": "MCP server that lets AI agents read and search project documents in OMOS Shared Drive, with source-referenced answers and Google Drive links.",
+  "source_repo": "Pd011161/OMOS-MCP",
+  "source_url": "https://github.com/Pd011161/OMOS-MCP",
+  "install": "npx -y OMOS-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "conselho-regional-de-odontologia-rj-cadastro",
+  "description": "Provides a read-only MCP tool to query the official registry of the Regional Council of Dentistry of Rio de Janeiro via an MCP HTTP server.",
+  "source_repo": "mcp-dir/cro_rj_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cro_rj_cadastro-mcp",
+  "install": "npx -y cro_rj_cadastro-mcp"
+}

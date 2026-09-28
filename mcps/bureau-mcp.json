@@ -1,0 +1,7 @@
+{
+  "name": "bureau-mcp",
+  "description": "A personal MCP connection aggregator that routes tool calls from a single endpoint to multiple backend MCP services like Zo, Context7, Notion, and Canva.",
+  "source_repo": "ThePhilosopha/bureau-mcp",
+  "source_url": "https://github.com/ThePhilosopha/bureau-mcp",
+  "install": "npx -y bureau-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jobd",
+  "description": "jobd is a self-hostable, GPU-aware job broker that queues and routes shell commands across your own machines — picking workers by available VRAM and tool tags, streaming logs back, and surviving across sessions. It ships native MCP integration, so agents can submit, monitor, and control long-running",
+  "source_repo": "musharna/jobd",
+  "source_url": "https://github.com/musharna/jobd",
+  "install": "# git clone --depth 1 https://github.com/musharna/jobd\n# See source for mcpServers config block"
+}

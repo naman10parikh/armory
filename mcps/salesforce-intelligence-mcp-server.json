@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-intelligence-mcp-server",
+  "description": "Enables users to ask questions about their Salesforce org in plain language, with answers grounded in offline metadata vault and read-only live org access.",
+  "source_repo": "PranavNagrecha/Salesforce-Intelligence",
+  "source_url": "https://github.com/PranavNagrecha/Salesforce-Intelligence",
+  "install": "# git clone --depth 1 https://github.com/PranavNagrecha/Salesforce-Intelligence\n# See source for mcpServers config block"
+}

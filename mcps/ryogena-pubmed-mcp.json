@@ -1,0 +1,7 @@
+{
+  "name": "ryogena-pubmed-mcp",
+  "description": "Exposes NCBI PubMed as MCP tools for searching literature, fetching abstracts, exploring citation graphs, and finding author publications without requiring an API key.",
+  "source_repo": "KyleVick4/pubmed-mcp",
+  "source_url": "https://github.com/KyleVick4/pubmed-mcp",
+  "install": "npx -y pubmed-mcp"
+}

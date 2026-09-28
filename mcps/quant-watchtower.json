@@ -1,0 +1,7 @@
+{
+  "name": "quant-watchtower",
+  "description": "A read-only MCP operations console for monitoring an algorithmic trading fleet, providing heartbeat, reconciliation, alert, and audit data through six typed tools.",
+  "source_repo": "janvrsinsky/jv-watchtower-mcp",
+  "source_url": "https://github.com/janvrsinsky/jv-watchtower-mcp",
+  "install": "npx -y jv-watchtower-mcp"
+}

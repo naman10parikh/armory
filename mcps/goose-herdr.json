@@ -1,0 +1,7 @@
+{
+  "name": "goose-herdr",
+  "description": "Enables goose to control the Herdr terminal workspace manager, allowing AI agents to inspect and manipulate workspaces, tabs, panes, run commands, and manage agent states.",
+  "source_repo": "aquaherd/goose-herdr",
+  "source_url": "https://github.com/aquaherd/goose-herdr",
+  "install": "# git clone --depth 1 https://github.com/aquaherd/goose-herdr\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "patrowlintelmcp",
+  "description": "Exposes PatrowlIntel vulnerability intelligence (CVEs, EPSS, CISA KEV, public exploits, trending attacks) via MCP tools like search_cves, get_cve, and list_trending_attacks.",
+  "source_repo": "Patrowl/PatrowlIntelMCP",
+  "source_url": "https://github.com/Patrowl/PatrowlIntelMCP",
+  "install": "# git clone --depth 1 https://github.com/Patrowl/PatrowlIntelMCP\n# See source for mcpServers config block"
+}

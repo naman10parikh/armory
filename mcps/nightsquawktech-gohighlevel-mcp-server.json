@@ -1,0 +1,7 @@
+{
+  "name": "nightsquawktech-gohighlevel-mcp-server",
+  "description": "Stdio MCP server for curated GoHighLevel API v2 coverage, enabling create, update, and delete operations on custom fields, contacts, opportunities, tags, conversations, calendars, and more, with safe guarded destructive tools requiring explicit confirmation.",
+  "source_repo": "NightSquawk/gohighlevel-mcp-server",
+  "source_url": "https://github.com/NightSquawk/gohighlevel-mcp-server",
+  "install": "npx -y gohighlevel-mcp-server"
+}

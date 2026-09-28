@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trt18-certid-o-eletr-nica-de-a-es-trabalhistas-ceat",
+  "description": "Enables users to query official TRT18 labor lawsuit certificates (CEAT) through a read-only MCP tool, using prepaid credits. Works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/tribunal_trt18_ceat-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trt18_ceat-mcp",
+  "install": "npx -y tribunal_trt18_ceat-mcp"
+}

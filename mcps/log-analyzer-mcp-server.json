@@ -1,0 +1,7 @@
+{
+  "name": "log-analyzer-mcp-server",
+  "description": "Enables querying and analyzing logs from multiple remote Unix hosts via the Log Collector API, with tools for search, error detection, and summary generation.",
+  "source_repo": "adai78/log-analyzer-mcp",
+  "source_url": "https://github.com/adai78/log-analyzer-mcp",
+  "install": "npx -y log-analyzer-mcp"
+}

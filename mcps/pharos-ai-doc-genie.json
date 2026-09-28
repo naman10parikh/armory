@@ -1,0 +1,7 @@
+{
+  "name": "pharos-ai-doc-genie",
+  "description": "Enables AI agents to generate real Office documents (.pptx, .docx, .xlsx) and source code from natural language via MCP protocol.",
+  "source_repo": "huimingchen081-beep/pharos-ai-doc-genie",
+  "source_url": "https://github.com/huimingchen081-beep/pharos-ai-doc-genie",
+  "install": "# git clone --depth 1 https://github.com/huimingchen081-beep/pharos-ai-doc-genie\n# See source for mcpServers config block"
+}

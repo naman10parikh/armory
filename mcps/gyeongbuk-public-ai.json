@@ -1,0 +1,7 @@
+{
+  "name": "gyeongbuk-public-ai",
+  "description": "Enables querying Gyeongbuk-province and municipal population, local tax, policy, and council data through MCP tools, returning conclusions with sources and limitations.",
+  "source_repo": "LanaKee/mcp",
+  "source_url": "https://github.com/LanaKee/mcp",
+  "install": "# git clone --depth 1 https://github.com/LanaKee/mcp\n# See source for mcpServers config block"
+}

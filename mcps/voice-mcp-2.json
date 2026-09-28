@@ -1,0 +1,7 @@
+{
+  "name": "voice-mcp-2",
+  "description": "An MCP server for AI voice synthesis with an inline audio player, allowing users to give their AI assistant a custom cloned voice using DashScope or ElevenLabs.",
+  "source_repo": "ALLY596/zero-voice-mcp",
+  "source_url": "https://github.com/ALLY596/zero-voice-mcp",
+  "install": "npx -y zero-voice-mcp"
+}

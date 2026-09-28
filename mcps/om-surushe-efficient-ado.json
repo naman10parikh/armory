@@ -1,0 +1,7 @@
+{
+  "name": "om-surushe-efficient-ado",
+  "description": "Enables AI assistants to interact with Azure DevOps through an MCP server with 34 tools for PRs, work items, repos, and branches, optimized for token efficiency and agent-first workflows.",
+  "source_repo": "om-surushe/efficient-ado",
+  "source_url": "https://github.com/om-surushe/efficient-ado",
+  "install": "# git clone --depth 1 https://github.com/om-surushe/efficient-ado\n# See source for mcpServers config block"
+}

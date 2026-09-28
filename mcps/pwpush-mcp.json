@@ -1,0 +1,7 @@
+{
+  "name": "pwpush-mcp",
+  "description": "An MCP server for Password Pusher that allows creating, previewing, and managing self-destructing secret links without retrieving the secret payload.",
+  "source_repo": "k9fr4n/pwpush-mcp",
+  "source_url": "https://github.com/k9fr4n/pwpush-mcp",
+  "install": "npx -y pwpush-mcp"
+}

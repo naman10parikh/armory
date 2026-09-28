@@ -1,0 +1,7 @@
+{
+  "name": "upscayl-docker-worker",
+  "description": "Enables private, GPU-backed image upscaling via a local Hermes MCP bridge that submits jobs to an authenticated Upscayl worker API.",
+  "source_repo": "yellowcooln/upscayl-docker-worker",
+  "source_url": "https://github.com/yellowcooln/upscayl-docker-worker",
+  "install": "# git clone --depth 1 https://github.com/yellowcooln/upscayl-docker-worker\n# See source for mcpServers config block"
+}

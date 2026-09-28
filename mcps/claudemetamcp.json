@@ -1,0 +1,7 @@
+{
+  "name": "claudemetamcp",
+  "description": "Local MCP server for operating Instagram, Meta Ads, and Facebook Page from Claude Code via Meta's Graph API. Provides 20 tools for publishing, campaign management, and insights.",
+  "source_repo": "Alan7799DE/ClaudeMetaMCP",
+  "source_url": "https://github.com/Alan7799DE/ClaudeMetaMCP",
+  "install": "# git clone --depth 1 https://github.com/Alan7799DE/ClaudeMetaMCP\n# See source for mcpServers config block"
+}

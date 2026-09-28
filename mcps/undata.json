@@ -1,0 +1,7 @@
+{
+  "name": "undata",
+  "description": "A CLI and MCP server for querying UN statistical data via the SDMX REST API, providing tools to list datasets, retrieve WDI and MDG data, search series, and compare countries without requiring an API key.",
+  "source_repo": "JOSETRA44/UNdata-mcp",
+  "source_url": "https://github.com/JOSETRA44/UNdata-mcp",
+  "install": "npx -y UNdata-mcp"
+}

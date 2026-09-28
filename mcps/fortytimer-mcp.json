@@ -1,0 +1,7 @@
+{
+  "name": "fortytimer-mcp",
+  "description": "A read-only MCP server for fortyTimer, exposing tools to fetch time balances, time entries, project times, and leave requests.",
+  "source_repo": "fortytimer/fortytimer-mcp",
+  "source_url": "https://github.com/fortytimer/fortytimer-mcp",
+  "install": "npx -y fortytimer-mcp"
+}

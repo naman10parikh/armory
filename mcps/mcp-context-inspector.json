@@ -1,0 +1,7 @@
+{
+  "name": "mcp-context-inspector",
+  "description": "An MCP server that records agent execution metrics and exposes a Context Window Explorer to visualize exactly what entered the model's context window across sessions, tokens, and tool calls.",
+  "source_repo": "sohaibsohail98/mcp-context-inspector",
+  "source_url": "https://github.com/sohaibsohail98/mcp-context-inspector",
+  "install": "# git clone --depth 1 https://github.com/sohaibsohail98/mcp-context-inspector\n# See source for mcpServers config block"
+}

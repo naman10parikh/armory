@@ -1,0 +1,7 @@
+{
+  "name": "hebcal-mcp",
+  "description": "MCP server for Hebcal, enabling users to generate Jewish holiday lists, convert Hebrew dates, look up Shabbat candle lighting times, Torah readings, and yahrzeits.",
+  "source_repo": "hebcal/hebcal-mcp",
+  "source_url": "https://github.com/hebcal/hebcal-mcp",
+  "install": "npx -y hebcal-mcp"
+}

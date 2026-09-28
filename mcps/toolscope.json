@@ -1,0 +1,7 @@
+{
+  "name": "toolscope",
+  "description": "Enables AI agents to query a local SQLite catalog of installed macOS GUI apps and CLI tools, searching by capability, retrieving tool details, and checking machine statistics over MCP.",
+  "source_repo": "Isuprman/toolscope",
+  "source_url": "https://github.com/Isuprman/toolscope",
+  "install": "# git clone --depth 1 https://github.com/Isuprman/toolscope\n# See source for mcpServers config block"
+}

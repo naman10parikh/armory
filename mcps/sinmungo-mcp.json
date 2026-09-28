@@ -1,0 +1,7 @@
+{
+  "name": "sinmungo-mcp",
+  "description": "Helps users draft formal Korean government civil complaints from informal descriptions, classifying the complaint type, providing legal hints, and generating a copyable complaint text with direct links to the appropriate submission portal.",
+  "source_repo": "yuneunmi814-cmyk/sinmungo-mcp",
+  "source_url": "https://github.com/yuneunmi814-cmyk/sinmungo-mcp",
+  "install": "npx -y sinmungo-mcp"
+}

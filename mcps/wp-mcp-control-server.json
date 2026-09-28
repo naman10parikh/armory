@@ -1,0 +1,7 @@
+{
+  "name": "wp-mcp-control-server",
+  "description": "MCP server that connects AI clients to WordPress for content management, site settings, Elementor editing, and more via a secure API.",
+  "source_repo": "mpierre135/wp-mcp-control-server",
+  "source_url": "https://github.com/mpierre135/wp-mcp-control-server",
+  "install": "# git clone --depth 1 https://github.com/mpierre135/wp-mcp-control-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claude-intercom",
+  "description": "Enables real-time messaging between Claude Code instances, allowing agents to send, receive, and reply to messages instantly via file-based communication with auto-notification.",
+  "source_repo": "sanztheo/claude-intercom",
+  "source_url": "https://github.com/sanztheo/claude-intercom",
+  "install": "# git clone --depth 1 https://github.com/sanztheo/claude-intercom\n# See source for mcpServers config block"
+}

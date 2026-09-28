@@ -1,0 +1,7 @@
+{
+  "name": "smart-reader-mcp",
+  "description": "Reads PDF, image, or video files by sniffing format and delegating to specialized sibling MCP servers, extracting facts and metadata without LLMs.",
+  "source_repo": "SylphxAI/smart-reader-mcp",
+  "source_url": "https://github.com/SylphxAI/smart-reader-mcp",
+  "install": "npx -y smart-reader-mcp"
+}

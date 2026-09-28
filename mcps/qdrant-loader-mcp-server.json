@@ -1,0 +1,7 @@
+{
+  "name": "qdrant-loader-mcp-server",
+  "description": "Enables AI development tools to perform semantic search and document relationship analysis on vectorized content stored in Qdrant databases.",
+  "source_repo": "martin-papy/qdrant-loader",
+  "source_url": "https://github.com/martin-papy/qdrant-loader",
+  "install": "# git clone --depth 1 https://github.com/martin-papy/qdrant-loader\n# See source for mcpServers config block"
+}

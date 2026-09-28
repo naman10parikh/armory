@@ -1,0 +1,7 @@
+{
+  "name": "repo-interrogator",
+  "description": "A local-first MCP server that enables AI tools to safely inspect and search code repositories, providing indexing, deterministic BM25 search, code outlining, and context bundles without code modification.",
+  "source_repo": "taggedzi/Repo-Interrogator",
+  "source_url": "https://github.com/taggedzi/Repo-Interrogator",
+  "install": "# git clone --depth 1 https://github.com/taggedzi/Repo-Interrogator\n# See source for mcpServers config block"
+}

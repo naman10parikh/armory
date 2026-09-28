@@ -1,0 +1,7 @@
+{
+  "name": "creativescope-mcp",
+  "description": "Mobile-game ad creative intelligence for MCP-enabled agents, providing live access to creative search, rankings, advertiser profiles, and AI analysis from public ad placements across major SDK ad networks.",
+  "source_repo": "creativescope/creativescope-mcp",
+  "source_url": "https://github.com/creativescope/creativescope-mcp",
+  "install": "npx -y creativescope-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ddev-mcp",
+  "description": "Enables AI assistants to automate DDEV development environments, including project management, database operations, and executing commands for various CMS frameworks.",
+  "source_repo": "codingsasi/ddev-mcp",
+  "source_url": "https://github.com/codingsasi/ddev-mcp",
+  "install": "npx -y ddev-mcp"
+}

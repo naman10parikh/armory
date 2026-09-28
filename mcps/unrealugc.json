@@ -1,0 +1,7 @@
+{
+  "name": "unrealugc",
+  "description": "Official MCP server for creating and managing AI UGC video ads. Browse assets, estimate credit costs, generate videos, and retrieve completed outputs through eleven typed tools.",
+  "source_repo": "UnrealUGC/mcp",
+  "source_url": "https://github.com/UnrealUGC/mcp",
+  "install": "# git clone --depth 1 https://github.com/UnrealUGC/mcp\n# See source for mcpServers config block"
+}

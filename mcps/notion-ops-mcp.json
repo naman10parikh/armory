@@ -1,0 +1,7 @@
+{
+  "name": "notion-ops-mcp",
+  "description": "MCP server that combines Notion document search, reading, updating, and verification into single tool calls (notion_read_document and notion_publish_document), using the official Notion MCP over Streamable HTTP. Enables conflict-safe read/publish operations with OAuth/PAT authentication via local st",
+  "source_repo": "kimata1007/notion-ops-mcp",
+  "source_url": "https://github.com/kimata1007/notion-ops-mcp",
+  "install": "npx -y notion-ops-mcp"
+}

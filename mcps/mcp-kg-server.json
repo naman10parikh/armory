@@ -1,0 +1,7 @@
+{
+  "name": "mcp-kg-server",
+  "description": "MCP server exposing a medical knowledge graph (289 Western drugs, 204 TCM drugs, diseases, symptoms) as MCP tools. Enables AI agents to search drugs, check drug compatibility, and query symptoms-to-medication recommendations locally.",
+  "source_repo": "chwsvveuiygbfiw/mcp-kg-server",
+  "source_url": "https://github.com/chwsvveuiygbfiw/mcp-kg-server",
+  "install": "# git clone --depth 1 https://github.com/chwsvveuiygbfiw/mcp-kg-server\n# See source for mcpServers config block"
+}

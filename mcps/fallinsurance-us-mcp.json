@@ -1,0 +1,7 @@
+{
+  "name": "fallinsurance-us-mcp",
+  "description": "A sovereign, MIT-licensed MCP server wrapping the fallinsurance-us-sdk, enabling offline-capable insurance operations for autonomous agents.",
+  "source_repo": "sjgant80-hub/fallinsurance-us-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallinsurance-us-mcp",
+  "install": "npx -y fallinsurance-us-mcp"
+}

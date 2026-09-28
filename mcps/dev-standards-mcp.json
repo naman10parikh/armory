@@ -1,0 +1,7 @@
+{
+  "name": "dev-standards-mcp",
+  "description": "MCP server that provides a searchable knowledge base of internal development standards, enabling AI coding agents to consistently reference and comply with them.",
+  "source_repo": "mitonattou919/dev-standards-mcp",
+  "source_url": "https://github.com/mitonattou919/dev-standards-mcp",
+  "install": "npx -y dev-standards-mcp"
+}

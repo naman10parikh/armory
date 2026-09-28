@@ -1,0 +1,7 @@
+{
+  "name": "customaise",
+  "description": "Connects AI coding agents to the Customaise Chrome extension, enabling management of UserScripts and AgentScripts, visual DOM selection, tab control, and WebMCP tool calls directly from your IDE.",
+  "source_repo": "getcustomaise/customaise-mcp",
+  "source_url": "https://github.com/getcustomaise/customaise-mcp",
+  "install": "npx -y customaise-mcp"
+}

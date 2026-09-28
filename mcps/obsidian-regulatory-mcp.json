@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-regulatory-mcp",
+  "description": "Provides AI assistants with verified regulatory data from 850+ official sources across 50+ jurisdictions, enabling accurate compliance research.",
+  "source_repo": "richbile/obsidian-regulatory-mcp",
+  "source_url": "https://github.com/richbile/obsidian-regulatory-mcp",
+  "install": "npx -y obsidian-regulatory-mcp"
+}

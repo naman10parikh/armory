@@ -1,0 +1,7 @@
+{
+  "name": "bitcoin-staking-mcp",
+  "description": "Enables agents to discover, understand, and plan native Bitcoin staking on Stacks through a read-only interface combining live PoX state, bond manifests, yield scenarios, security guidance, and compatibility checks. It includes a goal-first concierge workflow and explicitly separates live, published",
+  "source_repo": "andre-stacks/bitcoin-staking-mcp",
+  "source_url": "https://github.com/andre-stacks/bitcoin-staking-mcp",
+  "install": "npx -y bitcoin-staking-mcp"
+}

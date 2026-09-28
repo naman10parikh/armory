@@ -1,6 +1,6 @@
 {
   "name": "android-mcp-server",
-  "description": "Android Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "jiantao88/android-mcp-server",
   "source_url": "https://mcp.so/server/android-mcp-server/jiantao88",
   "install": "npx -y android-mcp-server"

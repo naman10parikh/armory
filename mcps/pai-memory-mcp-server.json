@@ -1,0 +1,7 @@
+{
+  "name": "pai-memory-mcp-server",
+  "description": "Enables semantic and keyword search across AI work sessions, learnings, reflections, failures, research, and relationships stored in PAI's MEMORY directory.",
+  "source_repo": "srieg/pai-memory-mcp",
+  "source_url": "https://github.com/srieg/pai-memory-mcp",
+  "install": "npx -y pai-memory-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "meridian",
+  "description": "Local-first AI compliance scanner via Model Context Protocol, scanning codebases for violations of DPDPA 2023, RBI FREE-AI, SEBI AI/ML, and the EU AI Act.",
+  "source_repo": "KNambiarDJsc/Meridian",
+  "source_url": "https://github.com/KNambiarDJsc/Meridian",
+  "install": "# git clone --depth 1 https://github.com/KNambiarDJsc/Meridian\n# See source for mcpServers config block"
+}

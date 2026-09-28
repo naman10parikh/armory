@@ -1,0 +1,7 @@
+{
+  "name": "banana-accounting-mcp-server",
+  "description": "Exposes the Banana Accounting Plus Integrated Web Server API V2 to LLMs, enabling reading accounts, balances, journals, reports, and VAT data, and creating new accounting files from a local Banana Accounting instance.",
+  "source_repo": "AxLabs/banana-mcp-server",
+  "source_url": "https://github.com/AxLabs/banana-mcp-server",
+  "install": "npx -y banana-mcp-server"
+}

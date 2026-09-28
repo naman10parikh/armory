@@ -1,0 +1,7 @@
+{
+  "name": "pr-genius",
+  "description": "Evidence-backed PR contribution advisor MCP server. Analyzes PR contribution strategy using 550+ real case studies across 33 repos. Provides risk assessment, anti-pattern detection, and maintainer policy guidance.",
+  "source_repo": "zsxh1990/pr-genius",
+  "source_url": "https://github.com/zsxh1990/pr-genius",
+  "install": "# git clone --depth 1 https://github.com/zsxh1990/pr-genius\n# See source for mcpServers config block"
+}

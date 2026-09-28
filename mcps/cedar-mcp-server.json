@@ -1,0 +1,7 @@
+{
+  "name": "cedar-mcp-server",
+  "description": "Enables interaction with the CEDAR metadata repository, including fetching templates, searching BioPortal ontology terms, and managing template instances.",
+  "source_repo": "musen-lab/cedar-mcp",
+  "source_url": "https://github.com/musen-lab/cedar-mcp",
+  "install": "npx -y cedar-mcp"
+}

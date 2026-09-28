@@ -1,0 +1,7 @@
+{
+  "name": "cityparity",
+  "description": "Cost-of-living and quality-of-life comparison across ~165 cities: take-home pay, the equivalent salary you'd need, and the safety-net deltas (childcare, healthcare, vacation, parental leave).",
+  "source_repo": "summerstateofmind/cityparity",
+  "source_url": "https://github.com/summerstateofmind/cityparity",
+  "install": "# git clone --depth 1 https://github.com/summerstateofmind/cityparity\n# See source for mcpServers config block"
+}

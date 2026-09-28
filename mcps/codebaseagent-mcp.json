@@ -1,0 +1,7 @@
+{
+  "name": "codebaseagent-mcp",
+  "description": "CodebaseAgent-MCP is an MCP server that uses a lightweight RAG pipeline to delegate repository analysis to a dedicated OpenAI-compatible LLM, reducing token consumption by having the primary assistant receive only the relevant findings instead of repeatedly scanning the entire codebase.",
+  "source_repo": "FI-Mihej/codebase-agent-mcp",
+  "source_url": "https://github.com/FI-Mihej/codebase-agent-mcp",
+  "install": "npx -y codebase-agent-mcp"
+}

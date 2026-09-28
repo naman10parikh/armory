@@ -1,0 +1,7 @@
+{
+  "name": "fofamap",
+  "description": "A MCP-enabled asset mapping and vulnerability scanning agent with AI self-reflection, allowing natural language queries and automated scanning decisions.",
+  "source_repo": "asaotomo/FofaMap",
+  "source_url": "https://github.com/asaotomo/FofaMap",
+  "install": "# git clone --depth 1 https://github.com/asaotomo/FofaMap\n# See source for mcpServers config block"
+}

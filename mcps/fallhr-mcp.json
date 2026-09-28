@@ -1,0 +1,7 @@
+{
+  "name": "fallhr-mcp",
+  "description": "MCP server for the foldkit framework, exposing 7-prime spine, 7 κ-bands, and 6 fold operations as tools and resources for state folding, kappa band classification, and origami-like operations in any MCP client.",
+  "source_repo": "sjgant80-hub/fallhr-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallhr-mcp",
+  "install": "npx -y fallhr-mcp"
+}

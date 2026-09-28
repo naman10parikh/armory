@@ -1,6 +1,6 @@
 {
   "name": "anitabi-mcp-server",
-  "description": "Anitabi Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "QiYuOr2/anitabi-mcp-server",
   "source_url": "https://mcp.so/server/anitabi-mcp-server/QiYuOr2",
   "install": "npx -y anitabi-mcp-server"

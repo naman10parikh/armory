@@ -1,0 +1,7 @@
+{
+  "name": "synpareia-trust-toolkit",
+  "description": "Verifiable dealings with other agents: prove what you did, vet who you deal with, bind agreements",
+  "source_repo": "synpareia/trust-mcp",
+  "source_url": "https://github.com/synpareia/trust-mcp",
+  "install": "npx -y trust-mcp"
+}

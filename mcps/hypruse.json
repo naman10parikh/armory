@@ -1,0 +1,7 @@
+{
+  "name": "hypruse",
+  "description": "An MCP server for Hyprland that enables AI agents to control workspaces, windows, mouse, keyboard, and take screenshots on a Wayland desktop.",
+  "source_repo": "IlyasKhallouki/hypruse",
+  "source_url": "https://github.com/IlyasKhallouki/hypruse",
+  "install": "# git clone --depth 1 https://github.com/IlyasKhallouki/hypruse\n# See source for mcpServers config block"
+}

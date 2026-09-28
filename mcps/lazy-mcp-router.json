@@ -1,0 +1,7 @@
+{
+  "name": "lazy-mcp-router",
+  "description": "Safety-first local MCP tool gate with control plane, runtime security, and observability for managing MCP backends.",
+  "source_repo": "naive000/lazy-mcp-router",
+  "source_url": "https://github.com/naive000/lazy-mcp-router",
+  "install": "# git clone --depth 1 https://github.com/naive000/lazy-mcp-router\n# See source for mcpServers config block"
+}

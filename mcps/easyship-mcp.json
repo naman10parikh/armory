@@ -1,0 +1,7 @@
+{
+  "name": "easyship-mcp",
+  "description": "Enables AI agents to manage global shipping operations, including rate comparison, shipment creation, label purchasing, tracking, pickup scheduling, address validation, billing, and analytics, via natural language.",
+  "source_repo": "easyship/easyship-mcp-plugin",
+  "source_url": "https://github.com/easyship/easyship-mcp-plugin",
+  "install": "# git clone --depth 1 https://github.com/easyship/easyship-mcp-plugin\n# See source for mcpServers config block"
+}

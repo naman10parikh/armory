@@ -1,0 +1,7 @@
+{
+  "name": "clio-mcp",
+  "description": "Connects Claude to Clio practice management, enabling AI-assisted access to matters, contacts, documents, tasks, and billing with audit logging and encryption for law firm compliance.",
+  "source_repo": "oktopeak/clio-mcp",
+  "source_url": "https://github.com/oktopeak/clio-mcp",
+  "install": "npx -y clio-mcp"
+}

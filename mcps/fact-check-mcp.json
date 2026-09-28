@@ -1,0 +1,7 @@
+{
+  "name": "fact-check-mcp",
+  "description": "Verifies claims with verdicts (supported/disputed/unverifiable), confidence scores, and cited sources by cross-referencing FoundryNet Data Network and web search.",
+  "source_repo": "FoundryNet/fact-check-mcp",
+  "source_url": "https://github.com/FoundryNet/fact-check-mcp",
+  "install": "npx -y fact-check-mcp"
+}

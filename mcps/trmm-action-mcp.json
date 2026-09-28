@@ -1,0 +1,7 @@
+{
+  "name": "trmm-action-mcp",
+  "description": "Enables approved senior engineers to run vetted, read-only audit scripts on Tactical RMM agents from Claude, using a fixed catalog of tools to inspect things like local admins, disk space, and installed software without permitting arbitrary code execution or destructive actions.",
+  "source_repo": "JohnGilligan2/tactical-rmm-audit-mcp",
+  "source_url": "https://github.com/JohnGilligan2/tactical-rmm-audit-mcp",
+  "install": "npx -y tactical-rmm-audit-mcp"
+}

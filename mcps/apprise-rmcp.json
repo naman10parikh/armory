@@ -1,0 +1,7 @@
+{
+  "name": "apprise-rmcp",
+  "description": "MCP server that enables agents to send tagged notifications through Apprise, run one-off URL sends, and check upstream health via stdio or streamable HTTP.",
+  "source_repo": "dinglebear-ai/rapprise",
+  "source_url": "https://github.com/dinglebear-ai/rapprise",
+  "install": "# git clone --depth 1 https://github.com/dinglebear-ai/rapprise\n# See source for mcpServers config block"
+}

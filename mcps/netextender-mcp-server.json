@@ -1,0 +1,7 @@
+{
+  "name": "netextender-mcp-server",
+  "description": "Enables checking VPN status, listing profiles, connecting, and disconnecting SonicWall NetExtender VPN via MCP.",
+  "source_repo": "Mhdd-24/NetExtender-MCP",
+  "source_url": "https://github.com/Mhdd-24/NetExtender-MCP",
+  "install": "npx -y NetExtender-MCP"
+}

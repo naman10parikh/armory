@@ -1,0 +1,7 @@
+{
+  "name": "databricks-mcp",
+  "description": "Exposes Databricks REST APIs as MCP tools for managing and querying a Databricks workspace, including clusters, jobs, SQL, Unity Catalog, and more.",
+  "source_repo": "inav/databricks-mcp",
+  "source_url": "https://github.com/inav/databricks-mcp",
+  "install": "npx -y databricks-mcp"
+}

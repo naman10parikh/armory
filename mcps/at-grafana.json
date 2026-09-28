@@ -1,0 +1,7 @@
+{
+  "name": "at-grafana",
+  "description": "Enables AI agents to read Grafana dashboards, alert rules, and query datasources (Prometheus, Loki, etc.) through MCP tools, integrating Grafana monitoring into the IDE.",
+  "source_repo": "xwamt/At-grafana",
+  "source_url": "https://github.com/xwamt/At-grafana",
+  "install": "# git clone --depth 1 https://github.com/xwamt/At-grafana\n# See source for mcpServers config block"
+}

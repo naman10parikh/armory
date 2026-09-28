@@ -1,0 +1,7 @@
+{
+  "name": "medium-mcp",
+  "description": "Enables reading Medium articles via a local MCP server using a persistent Edge profile. Supports searching and fetching articles as Markdown after manual Google login.",
+  "source_repo": "ycagraoglu/medium-mcp",
+  "source_url": "https://github.com/ycagraoglu/medium-mcp",
+  "install": "npx -y medium-mcp"
+}

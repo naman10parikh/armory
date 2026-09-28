@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rag-mini",
+  "description": "A minimal RAG service that exposes a vector index for document retrieval via REST and MCP, allowing querying for relevant document chunks and returning a suggested LLM prompt.",
+  "source_repo": "Pinger1456/mcp-rag-mini",
+  "source_url": "https://github.com/Pinger1456/mcp-rag-mini",
+  "install": "# git clone --depth 1 https://github.com/Pinger1456/mcp-rag-mini\n# See source for mcpServers config block"
+}

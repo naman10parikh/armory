@@ -1,0 +1,7 @@
+{
+  "name": "qalabmcp",
+  "description": "A local MCP server providing 7 QA testing tools for client validation, test case generation, percentile calculation, HTTP error classification, SLA evaluation, API response validation, and customer lookup, intended for use with OpenCode or VS Code Copilot.",
+  "source_repo": "Chrisvlj/qaLabMcp",
+  "source_url": "https://github.com/Chrisvlj/qaLabMcp",
+  "install": "# git clone --depth 1 https://github.com/Chrisvlj/qaLabMcp\n# See source for mcpServers config block"
+}

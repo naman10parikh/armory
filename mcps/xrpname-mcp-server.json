@@ -1,0 +1,7 @@
+{
+  "name": "xrpname-mcp-server",
+  "description": "Enables AI agents to look up XRPL domain availability, pricing, profiles, portfolios, and transaction status, and to get registration links for signing in the user's own wallet.",
+  "source_repo": "XRPDomains/xrpname-mcp-server",
+  "source_url": "https://github.com/XRPDomains/xrpname-mcp-server",
+  "install": "npx -y xrpname-mcp-server"
+}

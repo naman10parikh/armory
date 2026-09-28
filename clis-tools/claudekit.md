@@ -7,7 +7,7 @@ license: MIT
 ---
 # claudekit
 
-Impressive CLI toolkit providing auto-save checkpointing, code quality hooks, specification generation and execution, and 20+ specialized subagents including oracle (gpt-5), code-reviewer (6-aspect deep analysis), ai-sdk-expert (Vercel AI SDK), typescript-expert and many more for Claude Code workflows.
+A CLI toolkit for Claude Code with auto-save checkpoints, code quality hooks, specification generation and execution, and 20+ specialised sub-agents, including a code reviewer and TypeScript and Vercel AI SDK experts.
 
 **Source:** https://github.com/carlrannaberg/claudekit
 

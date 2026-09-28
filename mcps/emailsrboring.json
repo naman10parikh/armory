@@ -1,0 +1,7 @@
+{
+  "name": "emailsrboring",
+  "description": "A safe, redacting MCP server for Apple Mail on macOS that enables an LLM to read, search, triage, draft, and confirm sending email while stripping secrets and blocking dangerous actions.",
+  "source_repo": "ahmadzafar-code/emailsRboring",
+  "source_url": "https://github.com/ahmadzafar-code/emailsRboring",
+  "install": "# git clone --depth 1 https://github.com/ahmadzafar-code/emailsRboring\n# See source for mcpServers config block"
+}

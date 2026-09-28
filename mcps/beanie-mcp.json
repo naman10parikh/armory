@@ -1,0 +1,7 @@
+{
+  "name": "beanie-mcp",
+  "description": "An MCP server for querying Beancount ledgers using natural language, enabling financial analysis through Claude with tools for BQL queries and ledger validation.",
+  "source_repo": "klinikal/beanie-mcp",
+  "source_url": "https://github.com/klinikal/beanie-mcp",
+  "install": "npx -y beanie-mcp"
+}

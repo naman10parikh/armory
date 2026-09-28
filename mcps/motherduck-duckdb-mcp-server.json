@@ -1,0 +1,7 @@
+{
+  "name": "motherduck-duckdb-mcp-server",
+  "description": "A local MCP server implementation that interacts with DuckDB and MotherDuck databases, providing SQL analytics capabilities to AI Assistants and IDEs.",
+  "source_repo": "fastmcp-me/mcp-server-motherduck",
+  "source_url": "https://github.com/fastmcp-me/mcp-server-motherduck",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/mcp-server-motherduck\n# See source for mcpServers config block"
+}

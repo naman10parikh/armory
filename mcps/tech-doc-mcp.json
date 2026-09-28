@@ -1,0 +1,7 @@
+{
+  "name": "tech-doc-mcp",
+  "description": "Provides local technical documentation with hybrid search (semantic + BM25) for AI agents, ensuring access to up-to-date framework docs.",
+  "source_repo": "cy-wwyy/tech_doc_mcp",
+  "source_url": "https://github.com/cy-wwyy/tech_doc_mcp",
+  "install": "npx -y tech_doc_mcp"
+}

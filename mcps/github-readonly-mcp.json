@@ -1,0 +1,7 @@
+{
+  "name": "github-readonly-mcp",
+  "description": "A read-only MCP server for GitHub that exposes 7 tools (list repos, commits, branches, pull requests, issues, file contents, search) via a Cloudflare Worker, using a single password for authorization and a fine-grained GitHub token for access control.",
+  "source_repo": "jpalvarezb/claude-github-mcp",
+  "source_url": "https://github.com/jpalvarezb/claude-github-mcp",
+  "install": "npx -y claude-github-mcp"
+}

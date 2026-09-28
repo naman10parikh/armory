@@ -1,0 +1,7 @@
+{
+  "name": "markupr-mcp-server",
+  "description": "Enables AI coding agents to capture screen and voice recordings, extract timestamped frames, and receive structured Markdown reports with context for bug fixing and UI feedback.",
+  "source_repo": "eddiesanjuan/markupr",
+  "source_url": "https://github.com/eddiesanjuan/markupr",
+  "install": "# git clone --depth 1 https://github.com/eddiesanjuan/markupr\n# See source for mcpServers config block"
+}

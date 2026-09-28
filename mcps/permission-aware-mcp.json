@@ -1,0 +1,7 @@
+{
+  "name": "permission-aware-mcp",
+  "description": "Enables secure file system operations (read, write, delete) and simulated command execution with server-enforced permission policies, risk assessment, and human-in-the-loop approval.",
+  "source_repo": "TanvirIslam-BD/permission-aware-mcp",
+  "source_url": "https://github.com/TanvirIslam-BD/permission-aware-mcp",
+  "install": "npx -y permission-aware-mcp"
+}

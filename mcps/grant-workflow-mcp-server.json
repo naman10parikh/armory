@@ -1,0 +1,7 @@
+{
+  "name": "grant-workflow-mcp-server",
+  "description": "A Python MCP server for querying grant applications and previewing or committing scoped reviewer reassignments.",
+  "source_repo": "shrizasom/grant-management-platform",
+  "source_url": "https://github.com/shrizasom/grant-management-platform",
+  "install": "# git clone --depth 1 https://github.com/shrizasom/grant-management-platform\n# See source for mcpServers config block"
+}

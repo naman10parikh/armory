@@ -1,0 +1,7 @@
+{
+  "name": "kbk-mcp",
+  "description": "MCP server for KaboomKartell radio, enabling AI assistants to query live tracks, vote for songs, and access radio stats and schedule.",
+  "source_repo": "FlorianWinkler1248/kbk-mcp",
+  "source_url": "https://github.com/FlorianWinkler1248/kbk-mcp",
+  "install": "npx -y kbk-mcp"
+}

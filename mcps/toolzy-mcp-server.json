@@ -1,0 +1,7 @@
+{
+  "name": "toolzy-mcp-server",
+  "description": "Enables AI assistants to search, view details, and check availability of tool rental listings from Toolzy's peer-to-peer marketplace.",
+  "source_repo": "Toolzy-2/toolzy-mcp",
+  "source_url": "https://github.com/Toolzy-2/toolzy-mcp",
+  "install": "npx -y toolzy-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "miband-mcp",
+  "description": "Enables AI to query Xiaomi Mi Band health data (steps, sleep, heart rate) from Gadgetbridge SQLite exports via the MCP protocol, allowing natural language questions about daily activity.",
+  "source_repo": "ChenxiDawn/miband-mcp",
+  "source_url": "https://github.com/ChenxiDawn/miband-mcp",
+  "install": "npx -y miband-mcp"
+}

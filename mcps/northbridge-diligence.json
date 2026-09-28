@@ -1,0 +1,7 @@
+{
+  "name": "northbridge-diligence",
+  "description": "An MCP server that wraps SEC EDGAR APIs to provide company financial data, screening metrics, and disclosure signals for investment diligence, with every figure traced to its source filing.",
+  "source_repo": "chidrupa99/northbridge-diligence",
+  "source_url": "https://github.com/chidrupa99/northbridge-diligence",
+  "install": "# git clone --depth 1 https://github.com/chidrupa99/northbridge-diligence\n# See source for mcpServers config block"
+}

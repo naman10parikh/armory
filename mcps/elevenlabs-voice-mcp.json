@@ -1,0 +1,7 @@
+{
+  "name": "elevenlabs-voice-mcp",
+  "description": "Enables Claude to speak responses out loud using ElevenLabs text-to-speech API, with tools to list voices and convert text to speech.",
+  "source_repo": "krystiangw/elevenlabs-voice-mcp",
+  "source_url": "https://github.com/krystiangw/elevenlabs-voice-mcp",
+  "install": "npx -y elevenlabs-voice-mcp"
+}

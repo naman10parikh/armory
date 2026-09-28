@@ -1,0 +1,7 @@
+{
+  "name": "yandex-reverse-image-search-mcp-server",
+  "description": "Enables reverse image search using Yandex via Apify, returning structured JSON with matching pages, similar images, and more.",
+  "source_repo": "johnisanerd/Apify-Yandex-Reverse-Image-Search-API",
+  "source_url": "https://github.com/johnisanerd/Apify-Yandex-Reverse-Image-Search-API",
+  "install": "# git clone --depth 1 https://github.com/johnisanerd/Apify-Yandex-Reverse-Image-Search-API\n# See source for mcpServers config block"
+}

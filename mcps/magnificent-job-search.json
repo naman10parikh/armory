@@ -1,0 +1,7 @@
+{
+  "name": "magnificent-job-search",
+  "description": "AI Job search over 3.5M+ live US jobs",
+  "source_repo": "AdanRott/magnificent-jobs-plugin",
+  "source_url": "https://github.com/AdanRott/magnificent-jobs-plugin",
+  "install": "# git clone --depth 1 https://github.com/AdanRott/magnificent-jobs-plugin\n# See source for mcpServers config block"
+}

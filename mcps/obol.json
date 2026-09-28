@@ -1,0 +1,7 @@
+{
+  "name": "obol",
+  "description": "Enables AI agents to access Solana wallet analytics, token data, and DeFi tools via pay-per-request USDC micropayments using the x402 protocol, without API keys or subscriptions.",
+  "source_repo": "halfkey/obol",
+  "source_url": "https://github.com/halfkey/obol",
+  "install": "# git clone --depth 1 https://github.com/halfkey/obol\n# See source for mcpServers config block"
+}

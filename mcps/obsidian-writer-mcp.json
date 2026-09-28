@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-writer-mcp",
+  "description": "MCP server that writes to Obsidian vaults via the obsidian-writer HTTP service. Supports managing inbox entries, lists, notes, and tasks.",
+  "source_repo": "ariedotme/obsidian-writer-mcp",
+  "source_url": "https://github.com/ariedotme/obsidian-writer-mcp",
+  "install": "npx -y obsidian-writer-mcp"
+}

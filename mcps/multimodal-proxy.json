@@ -1,0 +1,7 @@
+{
+  "name": "multimodal-proxy",
+  "description": "为纯文本主模型提供多模态能力的MCP服务器，通过外包图像、视频和音频分析给外部多模态模型并回填文字结果。",
+  "source_repo": "macgaf/multimodal-proxy-plugin",
+  "source_url": "https://github.com/macgaf/multimodal-proxy-plugin",
+  "install": "# git clone --depth 1 https://github.com/macgaf/multimodal-proxy-plugin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stripe-reporting-mcp",
+  "description": "Read-only Stripe finance, ops, and risk reporting exposed via MCP, HTTP API, and CLI. Enables querying balances, payments, customers, payouts, reconciliation, and risk alerts without mutating Stripe state.",
+  "source_repo": "ohrytskov/stripe-reporting-mcp",
+  "source_url": "https://github.com/ohrytskov/stripe-reporting-mcp",
+  "install": "npx -y stripe-reporting-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chrome-server",
+  "description": "Enables browser automation, including navigation, form filling, login with CAPTCHA handling, and element manipulation, using a Chrome-based MCP server.",
+  "source_repo": "dlwjdtn535/mcp-chrome-server",
+  "source_url": "https://github.com/dlwjdtn535/mcp-chrome-server",
+  "install": "# git clone --depth 1 https://github.com/dlwjdtn535/mcp-chrome-server\n# See source for mcpServers config block"
+}

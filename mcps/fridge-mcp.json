@@ -1,0 +1,7 @@
+{
+  "name": "fridge-mcp",
+  "description": "Enables users to manage their fridge inventory by listing, adding, removing, checking items, and identifying expiring items, as well as getting dinner ideas from available ingredients.",
+  "source_repo": "Pozzitron1337/fridge-mcp",
+  "source_url": "https://github.com/Pozzitron1337/fridge-mcp",
+  "install": "npx -y fridge-mcp"
+}

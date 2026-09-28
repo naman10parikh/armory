@@ -1,6 +1,6 @@
 {
   "name": "claude-mcp-marketing",
-  "description": "Claude Mcp Marketing MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "redmorestudio/claude-mcp-marketing",
   "source_url": "https://mcp.so/server/claude-mcp-marketing/redmorestudio",
   "install": "# git clone --depth 1 https://mcp.so/server/claude-mcp-marketing/redmorestudio\n# See source for mcpServers config block"

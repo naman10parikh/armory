@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-server-on-cloudflare-4",
+  "description": "Enables deploying a remote Model Context Protocol (MCP) server on Cloudflare Workers with OAuth authentication, allowing tools to be exposed and called from MCP clients like Claude Desktop.",
+  "source_repo": "dsaf123/mcp-assistant",
+  "source_url": "https://github.com/dsaf123/mcp-assistant",
+  "install": "# git clone --depth 1 https://github.com/dsaf123/mcp-assistant\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "amazon-product-research-mcp-server",
+  "description": "MCP server that gives an AI assistant tools to search and inspect Amazon product data.",
+  "source_repo": "ludodelot/amazon-product-research-mcp",
+  "source_url": "https://github.com/ludodelot/amazon-product-research-mcp",
+  "install": "npx -y amazon-product-research-mcp"
+}

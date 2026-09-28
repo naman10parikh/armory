@@ -1,0 +1,7 @@
+{
+  "name": "long-novel-agent-kit",
+  "description": "Provides local desktop agents with durable project memory and safety gates for writing long novels, enabling continuity management, chapter drafting, and state-aware handoffs.",
+  "source_repo": "mushroomfk/long-novel-agent-kit",
+  "source_url": "https://github.com/mushroomfk/long-novel-agent-kit",
+  "install": "# git clone --depth 1 https://github.com/mushroomfk/long-novel-agent-kit\n# See source for mcpServers config block"
+}

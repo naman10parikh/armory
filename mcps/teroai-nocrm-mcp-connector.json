@@ -1,0 +1,7 @@
+{
+  "name": "teroai-nocrm-mcp-connector",
+  "description": "Enables ChatGPT to interact with noCRM leads for outreach tracking, including listing, retrieving, creating leads and adding comments, without destructive operations.",
+  "source_repo": "RyansitoTeroAI/teroai-nocrm-mcp",
+  "source_url": "https://github.com/RyansitoTeroAI/teroai-nocrm-mcp",
+  "install": "npx -y teroai-nocrm-mcp"
+}

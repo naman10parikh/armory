@@ -1,0 +1,7 @@
+{
+  "name": "personal-llm-wiki-kit",
+  "description": "Enables querying a local wiki through MCP-style tools, including search, Q\\&A, and knowledge map, with a web viewer for human browsing.",
+  "source_repo": "repisto/personal-llm-wiki-kit",
+  "source_url": "https://github.com/repisto/personal-llm-wiki-kit",
+  "install": "# git clone --depth 1 https://github.com/repisto/personal-llm-wiki-kit\n# See source for mcpServers config block"
+}

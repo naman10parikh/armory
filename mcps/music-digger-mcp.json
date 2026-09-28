@@ -1,0 +1,7 @@
+{
+  "name": "music-digger-mcp",
+  "description": "Control Apple Music via natural language from Claude Code, with the ability to mark tracks and accumulate reactions in an Obsidian Vault.",
+  "source_repo": "hisasann/music-digger-mcp",
+  "source_url": "https://github.com/hisasann/music-digger-mcp",
+  "install": "npx -y music-digger-mcp"
+}

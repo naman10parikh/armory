@@ -1,0 +1,7 @@
+{
+  "name": "nocodb-mcp-server",
+  "description": "Provides CRUD operations (Create, Read, Update, Delete) for Nocodb tables through the Model Context Protocol.",
+  "source_repo": "granthooks/Nocodb-MCP-Server",
+  "source_url": "https://github.com/granthooks/Nocodb-MCP-Server",
+  "install": "npx -y Nocodb-MCP-Server"
+}

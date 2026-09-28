@@ -1,0 +1,7 @@
+{
+  "name": "rotv-mcp",
+  "description": "Read-only MCP server for Romanian TV guide, streaming catalog, and entertainment concierge, exposing 13 tools for program search, recommendations, and event detection.",
+  "source_repo": "marian5070/rotv.mcp",
+  "source_url": "https://github.com/marian5070/rotv.mcp",
+  "install": "# git clone --depth 1 https://github.com/marian5070/rotv.mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-atlassian-server",
+  "description": "Enables AI assistants to interact with Atlassian Cloud APIs for Confluence and Jira, supporting document management, search, issue tracking, and sprint operations through natural language.",
+  "source_repo": "Vijay-Duke/mcp-atlassian",
+  "source_url": "https://github.com/Vijay-Duke/mcp-atlassian",
+  "install": "# git clone --depth 1 https://github.com/Vijay-Duke/mcp-atlassian\n# See source for mcpServers config block"
+}

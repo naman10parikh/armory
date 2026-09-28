@@ -1,0 +1,7 @@
+{
+  "name": "indian-option-mcp",
+  "description": "MCP Server for Indian Options — Real-time option chains, Greeks, 34+ strategies, OI analysis, IV smile, Max Pain. Works with Claude Desktop. Replaces Sensibull.",
+  "source_repo": "devag7/Indian-Option-MCP",
+  "source_url": "https://github.com/devag7/Indian-Option-MCP",
+  "install": "npx -y Indian-Option-MCP"
+}

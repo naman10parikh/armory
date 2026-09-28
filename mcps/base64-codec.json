@@ -1,0 +1,7 @@
+{
+  "name": "base64-codec",
+  "description": "Enables AI agents to encode text to base64 or decode base64 back to plaintext, with support for standard and URL-safe variants and pay-per-call micropayments via x402.",
+  "source_repo": "Br0ski777/base64-codec-x402",
+  "source_url": "https://github.com/Br0ski777/base64-codec-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/base64-codec-x402\n# See source for mcpServers config block"
+}

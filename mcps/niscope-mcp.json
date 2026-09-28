@@ -1,0 +1,7 @@
+{
+  "name": "niscope-mcp",
+  "description": "Enables AI assistants to directly control NI oscilloscopes (e.g., PXIe-5160/5164/5110) through the Model Context Protocol, including waveform acquisition, measurement, and configuration.",
+  "source_repo": "YMZDS/niscope-mcp",
+  "source_url": "https://github.com/YMZDS/niscope-mcp",
+  "install": "npx -y niscope-mcp"
+}

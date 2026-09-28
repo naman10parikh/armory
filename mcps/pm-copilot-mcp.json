@@ -1,0 +1,7 @@
+{
+  "name": "pm-copilot-mcp",
+  "description": "An AI-powered Product Management Operating System that provides tools for PRDs, user stories, prioritization, competitor analysis, roadmaps, KPIs, meeting notes, and product strategy via MCP clients.",
+  "source_repo": "Sumukhmg/Mcp",
+  "source_url": "https://github.com/Sumukhmg/Mcp",
+  "install": "# git clone --depth 1 https://github.com/Sumukhmg/Mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ssm-mcp-server",
+  "description": "Model Context Protocol server providing access to Cloudera Streams Messaging Manager (SMM) with support for both standalone and CDP deployments. Enables cluster, broker, and topic management through Claude Desktop.",
+  "source_repo": "BrooksIan/SMM-MCP-Server",
+  "source_url": "https://github.com/BrooksIan/SMM-MCP-Server",
+  "install": "npx -y SMM-MCP-Server"
+}

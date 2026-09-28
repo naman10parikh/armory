@@ -1,0 +1,7 @@
+{
+  "name": "smartshift-mcp",
+  "description": "Enables management of work schedules through KakaoTalk native calendar integration. Users can generate, input, and distribute work schedules with compliance to labor laws.",
+  "source_repo": "tkddnjs-dlqslek/smartshift-mcp",
+  "source_url": "https://github.com/tkddnjs-dlqslek/smartshift-mcp",
+  "install": "npx -y smartshift-mcp"
+}

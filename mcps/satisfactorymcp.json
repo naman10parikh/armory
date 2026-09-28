@@ -1,0 +1,7 @@
+{
+  "name": "satisfactorymcp",
+  "description": "An MCP server for Satisfactory that plans factories using your actual save files, reads game data, and runs LP/MILP optimization. It provides tools for game data lookup, factory planning, hard drive advice, and a local web map of your world.",
+  "source_repo": "lukszi/SatisfactoryMCP",
+  "source_url": "https://github.com/lukszi/SatisfactoryMCP",
+  "install": "# git clone --depth 1 https://github.com/lukszi/SatisfactoryMCP\n# See source for mcpServers config block"
+}

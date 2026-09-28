@@ -1,0 +1,7 @@
+{
+  "name": "whois",
+  "description": "Query WHOIS/RDAP information for domains, IP addresses, CIDR prefixes and ASNs. Results are normalized to RDAP-style (RFC 9083) JSON. Public instance of the open-source KincaidYang/whois server, which can also be self-hosted.",
+  "source_repo": "KincaidYang/whois",
+  "source_url": "https://github.com/KincaidYang/whois",
+  "install": "# git clone --depth 1 https://github.com/KincaidYang/whois\n# See source for mcpServers config block"
+}

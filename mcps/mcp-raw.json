@@ -1,0 +1,7 @@
+{
+  "name": "mcp-raw",
+  "description": "A zero-dependency MCP server that demonstrates the raw MCP protocol over stdio and Streamable HTTP transports, with simple tools like time, echo, and add.",
+  "source_repo": "Cynthiaflora/mcp-raw",
+  "source_url": "https://github.com/Cynthiaflora/mcp-raw",
+  "install": "# git clone --depth 1 https://github.com/Cynthiaflora/mcp-raw\n# See source for mcpServers config block"
+}

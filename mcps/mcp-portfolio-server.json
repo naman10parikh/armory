@@ -1,0 +1,7 @@
+{
+  "name": "mcp-portfolio-server",
+  "description": "Fetches and normalizes investment portfolio data from eToro and Interactive Brokers (IBKR), enabling AI agents to consolidate, aggregate, and visualize holdings across brokers.",
+  "source_repo": "enpalco/mcp-portfolio-server",
+  "source_url": "https://github.com/enpalco/mcp-portfolio-server",
+  "install": "# git clone --depth 1 https://github.com/enpalco/mcp-portfolio-server\n# See source for mcpServers config block"
+}

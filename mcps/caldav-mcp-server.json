@@ -1,0 +1,7 @@
+{
+  "name": "caldav-mcp-server",
+  "description": "Enables full CRUD operations on calendar events, free/busy queries, and availability slot finding via CalDAV, supporting Nextcloud, Radicale, iCloud, and other RFC 4791-compliant servers.",
+  "source_repo": "johnwujiang2008/caldav-mcp-server",
+  "source_url": "https://github.com/johnwujiang2008/caldav-mcp-server",
+  "install": "npx -y caldav-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "carrymem",
+  "description": "Your portable AI memory layer. Classify, store, and recall what matters across models, tools, and devices.",
+  "source_repo": "lulin70/carrymem",
+  "source_url": "https://github.com/lulin70/carrymem",
+  "install": "# git clone --depth 1 https://github.com/lulin70/carrymem\n# See source for mcpServers config block"
+}

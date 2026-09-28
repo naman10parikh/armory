@@ -1,0 +1,7 @@
+{
+  "name": "mcp-apache-superset",
+  "description": "Connects LLM clients to Apache Superset for querying charts, dashboards, datasets, databases, and executing SQL.",
+  "source_repo": "dguerrar/mcp-apache-superset",
+  "source_url": "https://github.com/dguerrar/mcp-apache-superset",
+  "install": "# git clone --depth 1 https://github.com/dguerrar/mcp-apache-superset\n# See source for mcpServers config block"
+}

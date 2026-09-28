@@ -1,0 +1,7 @@
+{
+  "name": "yomi",
+  "description": "Enables AI agents to read, reply, send images, and search LINE messages by logging in as a secondary device, without official API or browser.",
+  "source_repo": "RikaiDev/yomi",
+  "source_url": "https://github.com/RikaiDev/yomi",
+  "install": "# git clone --depth 1 https://github.com/RikaiDev/yomi\n# See source for mcpServers config block"
+}

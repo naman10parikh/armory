@@ -1,0 +1,7 @@
+{
+  "name": "pmi-mcp-server",
+  "description": "MCP server that exposes a single tool to execute SQL queries directly against Microsoft SQL Server via pyodbc, returning result sets as JSON. It forwards queries without parsing or filtering, relying on database permissions for security.",
+  "source_repo": "diegoluppi1993/pmi-mcp-server",
+  "source_url": "https://github.com/diegoluppi1993/pmi-mcp-server",
+  "install": "npx -y pmi-mcp-server"
+}

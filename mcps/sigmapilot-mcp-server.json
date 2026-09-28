@@ -1,0 +1,7 @@
+{
+  "name": "sigmapilot-mcp-server",
+  "description": "A remote Model Context Protocol (MCP) server for real-time cryptocurrency and stock market analysis. Provides AI-powered market intelligence tools with 9 theory-based analysis engines, multi-chain DEX discovery, and enterprise features.",
+  "source_repo": "SigmaPilotAI/sigmapilot-mcp",
+  "source_url": "https://github.com/SigmaPilotAI/sigmapilot-mcp",
+  "install": "npx -y sigmapilot-mcp"
+}

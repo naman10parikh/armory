@@ -1,0 +1,7 @@
+{
+  "name": "halo-itsm-mcp-server",
+  "description": "Enables AI assistants to manage tickets, users, clients, assets, and more in Halo ITSM through the Model Context Protocol.",
+  "source_repo": "michelbragaguimaraes/HaloITSM_MCP",
+  "source_url": "https://github.com/michelbragaguimaraes/HaloITSM_MCP",
+  "install": "npx -y HaloITSM_MCP"
+}

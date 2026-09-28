@@ -1,0 +1,7 @@
+{
+  "name": "research-intelligence-mcp",
+  "description": "A unified MCP server for academic paper discovery, citation exploration, and research intelligence workflows over multiple scientific knowledge sources.",
+  "source_repo": "supuni9622/research-intelligence-mcp",
+  "source_url": "https://github.com/supuni9622/research-intelligence-mcp",
+  "install": "npx -y research-intelligence-mcp"
+}

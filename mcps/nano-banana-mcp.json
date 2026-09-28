@@ -1,0 +1,7 @@
+{
+  "name": "nano-banana-mcp",
+  "description": "MCP server that generates images using Gemini 3 Pro Image on Vertex AI, with support for reference images, task management, and GCS integration.",
+  "source_repo": "nexoreai/nano-banana-mcp",
+  "source_url": "https://github.com/nexoreai/nano-banana-mcp",
+  "install": "npx -y nano-banana-mcp"
+}

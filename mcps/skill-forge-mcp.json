@@ -1,0 +1,7 @@
+{
+  "name": "skill-forge-mcp",
+  "description": "An MCP server that exposes the Agent Skill creation guide (9 phases) as MCP resources, enabling AI agents to build SKILL.md files on demand.",
+  "source_repo": "popyson1648/skill-forge-mcp",
+  "source_url": "https://github.com/popyson1648/skill-forge-mcp",
+  "install": "npx -y skill-forge-mcp"
+}

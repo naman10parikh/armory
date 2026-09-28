@@ -1,0 +1,7 @@
+{
+  "name": "mcp-apis-guru",
+  "description": "Keyless directory of 2,500+ public APIs and their OpenAPI specs, enabling AI agents to discover and interact with APIs.",
+  "source_repo": "pipeworx-io/mcp-apis-guru",
+  "source_url": "https://github.com/pipeworx-io/mcp-apis-guru",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-apis-guru\n# See source for mcpServers config block"
+}

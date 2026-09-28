@@ -1,0 +1,7 @@
+{
+  "name": "polygraph",
+  "description": "Open behavioral litmus for MCP servers — grades A–F across tool-output injection, egress, sensitive-data, and adversarial-input, with reproducible, content-addressed evidence. Tools: run_litmus, verify_attestation.",
+  "source_repo": "polygraphso/litmus",
+  "source_url": "https://github.com/polygraphso/litmus",
+  "install": "# git clone --depth 1 https://github.com/polygraphso/litmus\n# See source for mcpServers config block"
+}

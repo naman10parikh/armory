@@ -1,0 +1,7 @@
+{
+  "name": "orthanc-dicom-nerve-segmentation-mcp-server",
+  "description": "Enables navigating an Orthanc PACS, extracting PDF reports, and running nerve segmentation on ultrasound DICOM instances, with results uploaded back as new series.",
+  "source_repo": "shrutig1602/DCM-Segmentation-MCP-Server",
+  "source_url": "https://github.com/shrutig1602/DCM-Segmentation-MCP-Server",
+  "install": "npx -y DCM-Segmentation-MCP-Server"
+}

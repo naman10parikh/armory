@@ -1,0 +1,7 @@
+{
+  "name": "sapphire-wellness-mcp",
+  "description": "Exposes health metrics (activity, blood pressure, glucose, heart rate, sleep, SpO2) from the Sapphire Wellness App to AI assistants via the Model Context Protocol.",
+  "source_repo": "IBMC-WORK-REDESIGN-FDE-COHORT/sapphire-wellness-mcp",
+  "source_url": "https://github.com/IBMC-WORK-REDESIGN-FDE-COHORT/sapphire-wellness-mcp",
+  "install": "npx -y sapphire-wellness-mcp"
+}

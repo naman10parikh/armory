@@ -1,6 +1,6 @@
 {
   "name": "mcp-namecheap-registrar",
-  "description": "Mcp Namecheap Registrar MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "dalton-cole/mcp-namecheap-registrar",
   "source_url": "https://mcp.so/server/mcp-namecheap-registrar/dalton-cole",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-namecheap-registrar/dalton-cole\n# See source for mcpServers config block"

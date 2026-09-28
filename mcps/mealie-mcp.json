@@ -1,0 +1,7 @@
+{
+  "name": "mealie-mcp",
+  "description": "Docker-hosted MCP server for Mealie that enables AI agents to read cookbooks, extract recipes, translate them if needed, store them in Mealie, and verify the results.",
+  "source_repo": "NigelVanHattum/mealie-mcp",
+  "source_url": "https://github.com/NigelVanHattum/mealie-mcp",
+  "install": "npx -y mealie-mcp"
+}

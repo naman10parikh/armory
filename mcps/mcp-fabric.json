@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fabric",
+  "description": "MCP server for managing Microsoft Fabric notebooks and Dataflow Gen2 via the Fabric REST API. Supports reading, creating, updating, running, and deleting items within workspaces.",
+  "source_repo": "rajivdatta/mcp-fabric",
+  "source_url": "https://github.com/rajivdatta/mcp-fabric",
+  "install": "# git clone --depth 1 https://github.com/rajivdatta/mcp-fabric\n# See source for mcpServers config block"
+}

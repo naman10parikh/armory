@@ -1,0 +1,7 @@
+{
+  "name": "ge-feishu-bridge-server-mcp",
+  "description": "Acts as a bridge between AI agents and Feishu/Lark, enabling document search and reading with adaptive format conversion to Markdown.",
+  "source_repo": "lingshuangqq/ge_feishu_bridge_server_mcp",
+  "source_url": "https://github.com/lingshuangqq/ge_feishu_bridge_server_mcp",
+  "install": "npx -y ge_feishu_bridge_server_mcp"
+}

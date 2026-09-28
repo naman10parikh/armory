@@ -1,0 +1,7 @@
+{
+  "name": "omnimcp-router",
+  "description": "A universal MCP gateway that aggregates multiple MCP servers into a single endpoint, providing features like hot-reload, auto-healing, and a hook system for request/response mutation.",
+  "source_repo": "Simonc44/OmniMCP",
+  "source_url": "https://github.com/Simonc44/OmniMCP",
+  "install": "# git clone --depth 1 https://github.com/Simonc44/OmniMCP\n# See source for mcpServers config block"
+}

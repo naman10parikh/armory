@@ -1,0 +1,7 @@
+{
+  "name": "commandbridge-mcp",
+  "description": "Cross-platform MCP server for policy-controlled command execution on Linux and Windows, with no SSH dependency.",
+  "source_repo": "HsinPu/command-bridge-mcp-server",
+  "source_url": "https://github.com/HsinPu/command-bridge-mcp-server",
+  "install": "npx -y command-bridge-mcp-server"
+}

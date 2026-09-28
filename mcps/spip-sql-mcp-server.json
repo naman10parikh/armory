@@ -1,0 +1,7 @@
+{
+  "name": "spip-sql-mcp-server",
+  "description": "Provides read-only Microsoft SQL Server database access to AI agents with row-level security, enabling SELECT queries, table metadata, and schema introspection through MCP.",
+  "source_repo": "MahmoudNour2003/spip-sql-mcp-server",
+  "source_url": "https://github.com/MahmoudNour2003/spip-sql-mcp-server",
+  "install": "npx -y spip-sql-mcp-server"
+}

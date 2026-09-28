@@ -1,0 +1,7 @@
+{
+  "name": "svg-whiteboard-mcp",
+  "description": "MCP server that manages in-memory SVG path canvases and provides preview URLs for rendering in a sandbox iframe via AIRI's surface contract.",
+  "source_repo": "lulu0119/svg-whiteboard-mcp",
+  "source_url": "https://github.com/lulu0119/svg-whiteboard-mcp",
+  "install": "npx -y svg-whiteboard-mcp"
+}

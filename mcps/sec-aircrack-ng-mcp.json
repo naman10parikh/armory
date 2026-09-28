@@ -1,0 +1,7 @@
+{
+  "name": "sec-aircrack-ng-mcp",
+  "description": "Enables AI assistants to perform authorized WiFi security assessments, including network scanning, handshake capture, and password cracking, by executing aircrack-ng commands on a remote Kali Linux system via SSH.",
+  "source_repo": "schwarztim/sec-aircrack-ng-mcp",
+  "source_url": "https://github.com/schwarztim/sec-aircrack-ng-mcp",
+  "install": "npx -y sec-aircrack-ng-mcp"
+}

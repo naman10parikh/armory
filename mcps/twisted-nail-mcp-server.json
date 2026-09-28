@@ -1,0 +1,7 @@
+{
+  "name": "twisted-nail-mcp-server",
+  "description": "Enables AI assistants to query Twisted Nail's services, materials, service area, and FAQs for aggregate supply and hauling.",
+  "source_repo": "cba70118/twistednail-mcp",
+  "source_url": "https://github.com/cba70118/twistednail-mcp",
+  "install": "npx -y twistednail-mcp"
+}

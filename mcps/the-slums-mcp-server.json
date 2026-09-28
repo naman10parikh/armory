@@ -1,0 +1,7 @@
+{
+  "name": "the-slums-mcp-server",
+  "description": "MCP server that lets AI agents manage an AzerothCore WoW server, providing tools for status checks, character/account lookups, account creation, announcements, GM commands, bans, and events.",
+  "source_repo": "joshhmann/the-slums-mcp",
+  "source_url": "https://github.com/joshhmann/the-slums-mcp",
+  "install": "npx -y the-slums-mcp"
+}

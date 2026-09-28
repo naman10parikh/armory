@@ -1,0 +1,7 @@
+{
+  "name": "tmdb-media",
+  "description": "Provides tools for AI clients to scan, match, and scrape TMDB metadata for local media files, with safe sidecar writing or full Jellyfin-style reorganization including file renaming and NFO generation.",
+  "source_repo": "DipsySu/media-scraper-mcp",
+  "source_url": "https://github.com/DipsySu/media-scraper-mcp",
+  "install": "npx -y media-scraper-mcp"
+}

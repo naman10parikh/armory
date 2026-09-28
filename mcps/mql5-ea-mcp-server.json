@@ -1,0 +1,7 @@
+{
+  "name": "mql5-ea-mcp-server",
+  "description": "A local MCP server for querying MQL5 documentation, including reference, algo book, and neural networks book, with tools for search, smart query, error diagnosis, and browsing.",
+  "source_repo": "ductri-dev/mql5-ea-mcp",
+  "source_url": "https://github.com/ductri-dev/mql5-ea-mcp",
+  "install": "npx -y mql5-ea-mcp"
+}

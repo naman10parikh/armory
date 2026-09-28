@@ -1,0 +1,7 @@
+{
+  "name": "simple-qqdocs-mcp",
+  "description": "Operates Tencent Docs spreadsheet cells by reading boundaries, clicking, and inputting text via Playwright MCP, with caching options for efficiency.",
+  "source_repo": "thetime50/simple-qqdocs-mcp",
+  "source_url": "https://github.com/thetime50/simple-qqdocs-mcp",
+  "install": "npx -y simple-qqdocs-mcp"
+}

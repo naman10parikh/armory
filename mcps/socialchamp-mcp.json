@@ -1,0 +1,7 @@
+{
+  "name": "socialchamp-mcp",
+  "description": "MCP server that exposes the full Social Champ tool catalog for scheduling and managing posts, channels, workspaces, labels, queues, and more through AI clients like Claude Desktop and Cursor.",
+  "source_repo": "SocialChamp/socialchamp-mcp",
+  "source_url": "https://github.com/SocialChamp/socialchamp-mcp",
+  "install": "npx -y socialchamp-mcp"
+}

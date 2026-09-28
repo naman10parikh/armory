@@ -1,0 +1,7 @@
+{
+  "name": "gdb-mcp-server",
+  "description": "Enables AI agents to interact with GDB for debugging via the MCP protocol. Supports setting breakpoints, stepping through code, inspecting memory and registers, and more.",
+  "source_repo": "yywz1999/gdb-mcp-server",
+  "source_url": "https://github.com/yywz1999/gdb-mcp-server",
+  "install": "npx -y gdb-mcp-server"
+}

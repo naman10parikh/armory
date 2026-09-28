@@ -1,0 +1,7 @@
+{
+  "name": "recall-memory-mcp",
+  "description": "Enables AI agents to store, retrieve, and self-improve procedural memories (lessons learned) based on relevance to the current task, pruning unused memories to reduce context load and prevent repetition of past mistakes.",
+  "source_repo": "ashleyevz89-hue/recall-memory-mcp",
+  "source_url": "https://github.com/ashleyevz89-hue/recall-memory-mcp",
+  "install": "npx -y recall-memory-mcp"
+}

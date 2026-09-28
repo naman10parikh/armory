@@ -1,0 +1,7 @@
+{
+  "name": "blipr-mcp",
+  "description": "Enables AI agents to send push alerts to your phone via Blipr, useful for notifying when tasks complete, builds break, or approvals are needed.",
+  "source_repo": "applogico/blipr-mcp",
+  "source_url": "https://github.com/applogico/blipr-mcp",
+  "install": "npx -y blipr-mcp"
+}

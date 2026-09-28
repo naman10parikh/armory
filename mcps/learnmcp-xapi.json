@@ -1,0 +1,7 @@
+{
+  "name": "learnmcp-xapi",
+  "description": "Enables AI agents to record and retrieve learning activities through xAPI-compliant Learning Record Stores, bridging AI interactions with learning analytics.",
+  "source_repo": "DavidLMS/learnmcp-xapi",
+  "source_url": "https://github.com/DavidLMS/learnmcp-xapi",
+  "install": "# git clone --depth 1 https://github.com/DavidLMS/learnmcp-xapi\n# See source for mcpServers config block"
+}

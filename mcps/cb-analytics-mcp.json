@@ -1,0 +1,7 @@
+{
+  "name": "cb-analytics-mcp",
+  "description": "A standalone MCP server plus admin GUI for Couchbase Enterprise Analytics and Couchbase Capella Analytics, exposing 55 well-typed, audited tools for query execution, schema introspection, and cluster management.",
+  "source_repo": "celticht32/Enterprise-Analytics-MCP",
+  "source_url": "https://github.com/celticht32/Enterprise-Analytics-MCP",
+  "install": "npx -y Enterprise-Analytics-MCP"
+}

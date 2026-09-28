@@ -1,0 +1,7 @@
+{
+  "name": "argentina-legal-law-mcp-server",
+  "description": "A specialized MCP server for Argentine legal professionals, enabling legal research, document processing, case analysis, and practice management through integration with official Argentine legal databases.",
+  "source_repo": "guidobonomini/argentina-law-mcp-server",
+  "source_url": "https://github.com/guidobonomini/argentina-law-mcp-server",
+  "install": "npx -y argentina-law-mcp-server"
+}

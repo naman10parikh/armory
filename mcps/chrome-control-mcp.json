@@ -1,6 +1,6 @@
 {
   "name": "chrome-control-mcp",
-  "description": "Chrome Control Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "needsupport/chrome-control-mcp",
   "source_url": "https://mcp.so/server/chrome-control-mcp/needsupport",
   "install": "npx -y chrome-control-mcp"

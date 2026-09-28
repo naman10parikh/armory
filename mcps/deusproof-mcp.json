@@ -1,0 +1,7 @@
+{
+  "name": "deusproof-mcp",
+  "description": "Enables AI agents to certify their creations with verifiable, timestamped proof anchored to Bitcoin, and to verify certificates.",
+  "source_repo": "Abracadabrastartup/deusproof-mcp",
+  "source_url": "https://github.com/Abracadabrastartup/deusproof-mcp",
+  "install": "npx -y deusproof-mcp"
+}

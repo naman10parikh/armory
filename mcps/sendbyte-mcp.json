@@ -1,0 +1,7 @@
+{
+  "name": "sendbyte-mcp",
+  "description": "Enables AI agents to send emails and manage sending domains, templates, analytics, and content checks through the SendByte platform using the Model Context Protocol.",
+  "source_repo": "Sendbyte-Africa/sendbyte-mcp",
+  "source_url": "https://github.com/Sendbyte-Africa/sendbyte-mcp",
+  "install": "npx -y sendbyte-mcp"
+}

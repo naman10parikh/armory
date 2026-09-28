@@ -1,0 +1,7 @@
+{
+  "name": "iamsamuelfraga-mcp-hubspot",
+  "description": "A comprehensive MCP server providing Claude with enterprise-grade access to HubSpot CRM, including contacts, deals, quotes, workflows, and automation through 37 tools.",
+  "source_repo": "iamsamuelfraga/mcp-hubspot",
+  "source_url": "https://github.com/iamsamuelfraga/mcp-hubspot",
+  "install": "# git clone --depth 1 https://github.com/iamsamuelfraga/mcp-hubspot\n# See source for mcpServers config block"
+}

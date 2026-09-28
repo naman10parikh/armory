@@ -1,0 +1,7 @@
+{
+  "name": "sahmk-mcp",
+  "description": "Official MCP server for interacting with Saudi market data (Sahmk) via natural language queries, enabling stock quotes, company info, and market summaries inside AI agents like Cursor and Claude Desktop.",
+  "source_repo": "sahmk-sa/sahmk-mcp",
+  "source_url": "https://github.com/sahmk-sa/sahmk-mcp",
+  "install": "npx -y sahmk-mcp"
+}

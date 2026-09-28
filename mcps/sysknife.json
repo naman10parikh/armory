@@ -1,0 +1,7 @@
+{
+  "name": "sysknife",
+  "description": "Your sysadmin co-pilot — an AI that administers Linux through typed, approval-gated, Ed25519-audited actions instead of shell strings. Reference implementation of the LACS standard.",
+  "source_repo": "lacs-project/sysknife",
+  "source_url": "https://github.com/lacs-project/sysknife",
+  "install": "# git clone --depth 1 https://github.com/lacs-project/sysknife\n# See source for mcpServers config block"
+}

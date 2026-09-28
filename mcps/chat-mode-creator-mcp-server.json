@@ -1,0 +1,7 @@
+{
+  "name": "chat-mode-creator-mcp-server",
+  "description": "Creates custom VS Code chat modes and prompts for specialized development workflows such as Azure migration, Bicep development, and spec-driven development.",
+  "source_repo": "charris-msft/chat-mode-creator-mcp",
+  "source_url": "https://github.com/charris-msft/chat-mode-creator-mcp",
+  "install": "npx -y chat-mode-creator-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-jp-calendar",
+  "description": "Provides accurate Japanese business day utilities including holiday checks, settlement day calculations, and fiscal period determination, all with embedded holiday data from 2020-2030.",
+  "source_repo": "skypier-jp-works/mcp-jp-calendar",
+  "source_url": "https://github.com/skypier-jp-works/mcp-jp-calendar",
+  "install": "# git clone --depth 1 https://github.com/skypier-jp-works/mcp-jp-calendar\n# See source for mcpServers config block"
+}

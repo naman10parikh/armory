@@ -1,0 +1,7 @@
+{
+  "name": "agentwebsearch-mcp",
+  "description": "An MCP server that provides web search and content fetching using real Chrome browsers via CDP, bypassing bot detection and requiring no API keys.",
+  "source_repo": "insung8150/AgentWebSearch-MCP",
+  "source_url": "https://github.com/insung8150/AgentWebSearch-MCP",
+  "install": "npx -y AgentWebSearch-MCP"
+}

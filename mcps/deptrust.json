@@ -1,0 +1,7 @@
+{
+  "name": "deptrust",
+  "description": "deptrust is a CLI that checks package versions for known vulnerabilities across npm, PyPI, crates.io, Go modules, RubyGems, NuGet, Maven, Packagist, pub.dev, CocoaPods, Hex.pm, Hackage, GitHub Actions, and more. It runs locally as a CLI and as an MCP server. It calls public package registry and OSV",
+  "source_repo": "clidey/deptrust",
+  "source_url": "https://github.com/clidey/deptrust",
+  "install": "# git clone --depth 1 https://github.com/clidey/deptrust\n# See source for mcpServers config block"
+}

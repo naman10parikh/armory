@@ -1,0 +1,7 @@
+{
+  "name": "foldkit-2",
+  "description": "Exposes 7-prime spine, 7 κ-bands, and 6 fold operations as native tools and resources in any MCP client like Claude Code, Cursor, or Cline.",
+  "source_repo": "sjgant80-hub/fallclaimonboard-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallclaimonboard-mcp",
+  "install": "npx -y fallclaimonboard-mcp"
+}

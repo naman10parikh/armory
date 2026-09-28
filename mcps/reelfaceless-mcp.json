@@ -1,0 +1,7 @@
+{
+  "name": "reelfaceless-mcp",
+  "description": "Schedule short-form video posts to YouTube and TikTok from Claude Desktop or any MCP client using the ReelFaceless public API.",
+  "source_repo": "danyial/reelfaceless_mcp",
+  "source_url": "https://github.com/danyial/reelfaceless_mcp",
+  "install": "npx -y reelfaceless_mcp"
+}

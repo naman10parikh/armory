@@ -1,0 +1,7 @@
+{
+  "name": "arcgis-glynncounty",
+  "description": "Enables searching and querying Glynn County, Georgia open geospatial datasets (parcels, zoning, addresses, public works) via ArcGIS Feature Services, with tools for dataset discovery, layer querying, and schema inspection.",
+  "source_repo": "pipeworx-io/mcp-arcgis-glynncounty",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-glynncounty",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-glynncounty\n# See source for mcpServers config block"
+}

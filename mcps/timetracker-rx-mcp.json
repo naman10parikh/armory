@@ -1,0 +1,7 @@
+{
+  "name": "timetracker-rx-mcp",
+  "description": "Exposes TimeTracker RX REST API as an MCP server, enabling AI tools like Claude and Cursor to manage time entries, projects, work items, and analytics with a security policy that restricts write operations to owned resources.",
+  "source_repo": "nori1173-ops/timetracker-rx-mcp",
+  "source_url": "https://github.com/nori1173-ops/timetracker-rx-mcp",
+  "install": "npx -y timetracker-rx-mcp"
+}

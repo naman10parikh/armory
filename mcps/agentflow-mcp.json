@@ -1,0 +1,7 @@
+{
+  "name": "agentflow-mcp",
+  "description": "Provides enterprise architecture knowledge tools that ground agents in curated patterns, enabling translation of messy enterprise asks into realistic architecture recommendations, platform selection, risk checks, and brand context retrieval.",
+  "source_repo": "ishfuseini/agentflow-mcp",
+  "source_url": "https://github.com/ishfuseini/agentflow-mcp",
+  "install": "npx -y agentflow-mcp"
+}

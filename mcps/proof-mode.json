@@ -1,0 +1,7 @@
+{
+  "name": "proof-mode",
+  "description": "An MCP server implementing a multi-phase backend for structured model interactions, bounded compilation, exact-hash confirmation, and Codex-run provenance, with trust-separation hardening.",
+  "source_repo": "vikramlaishram-lang/proof-mode",
+  "source_url": "https://github.com/vikramlaishram-lang/proof-mode",
+  "install": "# git clone --depth 1 https://github.com/vikramlaishram-lang/proof-mode\n# See source for mcpServers config block"
+}

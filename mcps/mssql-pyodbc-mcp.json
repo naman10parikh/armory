@@ -1,0 +1,7 @@
+{
+  "name": "mssql-pyodbc-mcp",
+  "description": "Local stdio MCP server for read-only Microsoft SQL Server access through Python and pyodbc, providing test connection, list tables, describe table, and query tools.",
+  "source_repo": "tsod/mssql-pyodbc-mcp",
+  "source_url": "https://github.com/tsod/mssql-pyodbc-mcp",
+  "install": "npx -y mssql-pyodbc-mcp"
+}

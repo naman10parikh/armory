@@ -1,0 +1,7 @@
+{
+  "name": "finsec-mcp",
+  "description": "Connects AI agents to over 4 million certified SEC EDGAR financial facts with cryptographic provenance and zero hallucination.",
+  "source_repo": "Calera-Labs/finsec-mcp",
+  "source_url": "https://github.com/Calera-Labs/finsec-mcp",
+  "install": "npx -y finsec-mcp"
+}

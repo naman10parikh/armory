@@ -1,0 +1,7 @@
+{
+  "name": "renderform-mcp",
+  "description": "MCP server for RenderForm API, enabling automatic generation of images, PDFs, screenshots, and videos from templates, along with management of renders, templates, fonts, and organization usage.",
+  "source_repo": "RenderForm/renderform-mcp",
+  "source_url": "https://github.com/RenderForm/renderform-mcp",
+  "install": "npx -y renderform-mcp"
+}

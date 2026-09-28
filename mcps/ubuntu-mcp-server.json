@@ -1,0 +1,7 @@
+{
+  "name": "ubuntu-mcp-server",
+  "description": "MCP server for managing Ubuntu servers over SSH. Enables Claude to check system health, inspect services, tail logs, review updates, and run commands remotely.",
+  "source_repo": "PainInTheNic/MCP-Ubuntu",
+  "source_url": "https://github.com/PainInTheNic/MCP-Ubuntu",
+  "install": "# git clone --depth 1 https://github.com/PainInTheNic/MCP-Ubuntu\n# See source for mcpServers config block"
+}

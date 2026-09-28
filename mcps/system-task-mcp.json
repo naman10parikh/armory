@@ -1,0 +1,7 @@
+{
+  "name": "system-task-mcp",
+  "description": "Enables Claude to interact with System Task projects, teams, and tasks, providing daily briefs, project reports, team load, and risk identification, as well as creating and updating tasks and demands.",
+  "source_repo": "luis1amaral/system-task-mcp",
+  "source_url": "https://github.com/luis1amaral/system-task-mcp",
+  "install": "npx -y system-task-mcp"
+}

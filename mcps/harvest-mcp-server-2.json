@@ -1,0 +1,7 @@
+{
+  "name": "harvest-mcp-server-2",
+  "description": "Integrates with Harvest time tracking to allow AI assistants to log time, view projects, manage tasks, and track work hours, with optional Azure DevOps integration for automated time logging from work items.",
+  "source_repo": "dmarttinen/HarvestMCP",
+  "source_url": "https://github.com/dmarttinen/HarvestMCP",
+  "install": "# git clone --depth 1 https://github.com/dmarttinen/HarvestMCP\n# See source for mcpServers config block"
+}

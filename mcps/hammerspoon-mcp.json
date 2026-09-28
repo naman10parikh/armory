@@ -1,0 +1,7 @@
+{
+  "name": "hammerspoon-mcp",
+  "description": "Give AI agents deep control over macOS — windows, audio, Bluetooth, Spaces, Focus mode, and 200+ OS APIs — through one MCP server.",
+  "source_repo": "mobabur94/hammerspoon-mcp",
+  "source_url": "https://github.com/mobabur94/hammerspoon-mcp",
+  "install": "npx -y hammerspoon-mcp"
+}

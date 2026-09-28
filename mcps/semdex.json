@@ -1,0 +1,7 @@
+{
+  "name": "semdex",
+  "description": "A local MCP server that parses codebases into semantic chunks, indexes them in SQLite with vector embeddings, and exposes MCP tools for LLM agents to query.",
+  "source_repo": "raghavwahi/semdex-mcp-server",
+  "source_url": "https://github.com/raghavwahi/semdex-mcp-server",
+  "install": "npx -y semdex-mcp-server"
+}

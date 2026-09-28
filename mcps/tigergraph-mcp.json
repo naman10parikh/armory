@@ -1,0 +1,7 @@
+{
+  "name": "tigergraph-mcp",
+  "description": "Model Context Protocol (MCP) server for TigerGraph that lets AI agents interact with TigerGraph through the MCP standard using pyTigerGraph's async APIs.",
+  "source_repo": "tigergraph/tigergraph-mcp",
+  "source_url": "https://github.com/tigergraph/tigergraph-mcp",
+  "install": "npx -y tigergraph-mcp"
+}

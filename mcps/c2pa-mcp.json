@@ -1,0 +1,7 @@
+{
+  "name": "c2pa-mcp",
+  "description": "Verifies C2PA Content Credentials for local files or URLs and returns an LLM-ready verdict on trust, AI generation, and provenance.",
+  "source_repo": "harelrech/c2pa-mcp",
+  "source_url": "https://github.com/harelrech/c2pa-mcp",
+  "install": "npx -y c2pa-mcp"
+}

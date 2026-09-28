@@ -1,0 +1,7 @@
+{
+  "name": "poland",
+  "description": "Your AI agent's practical guide to life and administration in Poland.",
+  "source_repo": "Xopoko/poland",
+  "source_url": "https://github.com/Xopoko/poland",
+  "install": "# git clone --depth 1 https://github.com/Xopoko/poland\n# See source for mcpServers config block"
+}

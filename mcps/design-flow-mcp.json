@@ -1,0 +1,7 @@
+{
+  "name": "design-flow-mcp",
+  "description": "MCP server bridging ChatGPT-compatible clients to the Design Flow System, enabling project session management, draft import, round locking, and read-only access to design state and traceability.",
+  "source_repo": "fargo161/design-flow-mcp",
+  "source_url": "https://github.com/fargo161/design-flow-mcp",
+  "install": "npx -y design-flow-mcp"
+}

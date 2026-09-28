@@ -1,0 +1,7 @@
+{
+  "name": "safe-terminal-mcp-server",
+  "description": "A secure, controlled terminal MCP server that enables executing whitelisted shell commands safely with multiple security layers.",
+  "source_repo": "Kristos/safe-terminal-mcp",
+  "source_url": "https://github.com/Kristos/safe-terminal-mcp",
+  "install": "npx -y safe-terminal-mcp"
+}

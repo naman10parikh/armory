@@ -1,0 +1,7 @@
+{
+  "name": "crossref-mcp",
+  "description": "Enables retrieval of academic literature metadata via DOI or search using the Crossref REST API.",
+  "source_repo": "ebiyu/crossref-mcp",
+  "source_url": "https://github.com/ebiyu/crossref-mcp",
+  "install": "npx -y crossref-mcp"
+}

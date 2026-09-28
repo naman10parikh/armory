@@ -1,0 +1,7 @@
+{
+  "name": "weclapp-mcp-server",
+  "description": "Enables Claude to read weclapp data such as customers, invoices, and articles via a secure MCP server.",
+  "source_repo": "shivam23ecog/weclapp-mcp-server",
+  "source_url": "https://github.com/shivam23ecog/weclapp-mcp-server",
+  "install": "npx -y weclapp-mcp-server"
+}

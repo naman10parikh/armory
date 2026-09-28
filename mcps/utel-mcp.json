@@ -1,0 +1,7 @@
+{
+  "name": "utel-mcp",
+  "description": "An MCP server that wraps the UTEL IP-telephony REST API as MCP tools, enabling LLM agents to make authenticated HTTP requests to the UTEL API via a simple tool interface.",
+  "source_repo": "muhammadyusuf-kurbonov/utel-mcp",
+  "source_url": "https://github.com/muhammadyusuf-kurbonov/utel-mcp",
+  "install": "npx -y utel-mcp"
+}

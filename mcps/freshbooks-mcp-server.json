@@ -1,0 +1,7 @@
+{
+  "name": "freshbooks-mcp-server",
+  "description": "Provides 29 tools for Claude to query and update FreshBooks directly, including invoices, clients, estimates, expenses, payments, timesheets, and reports.",
+  "source_repo": "zeal-tristian-chevier/containerized-freshbooks-mcp",
+  "source_url": "https://github.com/zeal-tristian-chevier/containerized-freshbooks-mcp",
+  "install": "npx -y containerized-freshbooks-mcp"
+}

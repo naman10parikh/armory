@@ -1,0 +1,7 @@
+{
+  "name": "eudic-mcp",
+  "description": "Enables management of Eudic dictionary wordbooks, including categories and words, directly from MCP-compatible clients like Claude Desktop.",
+  "source_repo": "safeblood/eudic-mcp",
+  "source_url": "https://github.com/safeblood/eudic-mcp",
+  "install": "npx -y eudic-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "now-sdk-ext-mcp",
+  "description": "An MCP server that enables AI assistants to interact with ServiceNow instances, allowing script execution, data querying, ATF tests, and log tailing through natural language commands.",
+  "source_repo": "sonisoft-cnanda/now-sdk-ext-mcp",
+  "source_url": "https://github.com/sonisoft-cnanda/now-sdk-ext-mcp",
+  "install": "npx -y now-sdk-ext-mcp"
+}

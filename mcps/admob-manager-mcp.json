@@ -1,0 +1,7 @@
+{
+  "name": "admob-manager-mcp",
+  "description": "Provides AI agents with complete control over Google AdMob accounts, apps, ad units, mediation groups, A/B experiments, and performance reporting via the AdMob REST API.",
+  "source_repo": "w3wide/admob-manager-mcp",
+  "source_url": "https://github.com/w3wide/admob-manager-mcp",
+  "install": "npx -y admob-manager-mcp"
+}

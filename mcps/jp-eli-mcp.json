@@ -1,0 +1,7 @@
+{
+  "name": "jp-eli-mcp",
+  "description": "Searches and retrieves Japanese national legislation from the official e-Gov API, providing verifiable citations with stable URLs and human-readable references.",
+  "source_repo": "matematicsolutions/jp-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/jp-eli-mcp",
+  "install": "npx -y jp-eli-mcp"
+}

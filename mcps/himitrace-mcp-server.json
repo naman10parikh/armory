@@ -1,0 +1,7 @@
+{
+  "name": "himitrace-mcp-server",
+  "description": "A Model Context Protocol (MCP) server connecting AI agents to the Polygon blockchain for product origin verification and supply chain timeline auditing",
+  "source_repo": "hieuluongxuan/himitrace-mcp",
+  "source_url": "https://github.com/hieuluongxuan/himitrace-mcp",
+  "install": "npx -y himitrace-mcp"
+}

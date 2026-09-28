@@ -1,0 +1,7 @@
+{
+  "name": "canada-payments-mcp",
+  "description": "Enables AI agents to accept payments in Canada via Stripe, supporting cards and digital wallets like Apple Pay and Google Pay.",
+  "source_repo": "junter1989k-ai/canada-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/canada-payments-mcp",
+  "install": "npx -y canada-payments-mcp"
+}

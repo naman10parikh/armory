@@ -1,0 +1,7 @@
+{
+  "name": "mcp-grep",
+  "description": "A grep server implementation that exposes grep functionality through the Model Context Protocol (MCP), supporting natural language prompts and common grep options such as case-insensitive matching, context lines, and recursive searching.",
+  "source_repo": "fastmcp-me/mcp-grep-erniebrodeur",
+  "source_url": "https://github.com/fastmcp-me/mcp-grep-erniebrodeur",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/mcp-grep-erniebrodeur\n# See source for mcpServers config block"
+}

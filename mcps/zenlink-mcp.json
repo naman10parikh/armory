@@ -1,0 +1,7 @@
+{
+  "name": "zenlink-mcp",
+  "description": "Enables browser automation and control through ZenLink, allowing Claude Desktop and other MCP clients to drive a Zen Browser with 75+ tools for navigation, content extraction, interaction, parallel multi-tab operations, and session management.",
+  "source_repo": "JayQuan-McCleary/ZenLink-MCP",
+  "source_url": "https://github.com/JayQuan-McCleary/ZenLink-MCP",
+  "install": "npx -y ZenLink-MCP"
+}

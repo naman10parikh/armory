@@ -1,0 +1,7 @@
+{
+  "name": "space-ocr-mcp",
+  "description": "Provides structured OCR with verified bounding boxes using the space-ocr API. Allows extraction of structured fields from document images and listing of built-in templates.",
+  "source_repo": "hwang-yh-cto/space-ocr-mcp",
+  "source_url": "https://github.com/hwang-yh-cto/space-ocr-mcp",
+  "install": "npx -y space-ocr-mcp"
+}

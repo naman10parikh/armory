@@ -1,0 +1,7 @@
+{
+  "name": "vectr",
+  "description": "Semantic codebase search + persistent working memory for AI code editors. Local, zero-config, MCP. No API key.",
+  "source_repo": "swapnanil/vectr",
+  "source_url": "https://github.com/swapnanil/vectr",
+  "install": "# git clone --depth 1 https://github.com/swapnanil/vectr\n# See source for mcpServers config block"
+}

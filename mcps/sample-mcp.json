@@ -1,0 +1,7 @@
+{
+  "name": "sample-mcp",
+  "description": "A sample MCP server built with NestJS and TypeScript, demonstrating a ping tool for testing connectivity with MCP clients.",
+  "source_repo": "JeonJunYeong/sample-mcp",
+  "source_url": "https://github.com/JeonJunYeong/sample-mcp",
+  "install": "npx -y sample-mcp"
+}

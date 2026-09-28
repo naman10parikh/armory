@@ -1,0 +1,7 @@
+{
+  "name": "darwinrelay",
+  "description": "Enables MCP agents to control macOS natively with shell, PTY, background Chrome automation, and Accessibility-based desktop control.",
+  "source_repo": "dcierra/darwinrelay",
+  "source_url": "https://github.com/dcierra/darwinrelay",
+  "install": "# git clone --depth 1 https://github.com/dcierra/darwinrelay\n# See source for mcpServers config block"
+}

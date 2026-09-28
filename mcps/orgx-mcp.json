@@ -1,0 +1,7 @@
+{
+  "name": "orgx-mcp",
+  "description": "Provides organizational memory for AI agents, enabling shared company memory, decision recall, artifact management, approval review, task delegation, and initiative tracking.",
+  "source_repo": "useorgx/orgx-mcp",
+  "source_url": "https://github.com/useorgx/orgx-mcp",
+  "install": "npx -y orgx-mcp"
+}

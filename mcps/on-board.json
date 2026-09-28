@@ -1,0 +1,7 @@
+{
+  "name": "on-board",
+  "description": "On Board is a local MCP server that gives multiple AI agents and IDEs a shared project memory, ticket queue, and handoff history, so agents can seamlessly continue each other's work. It supports agent-to-agent wake events, enabling autonomous workflows like reject-fix-resubmit cycles without human r",
+  "source_repo": "swisspra/On_Board",
+  "source_url": "https://github.com/swisspra/On_Board",
+  "install": "# git clone --depth 1 https://github.com/swisspra/On_Board\n# See source for mcpServers config block"
+}

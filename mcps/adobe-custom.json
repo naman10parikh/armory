@@ -1,0 +1,7 @@
+{
+  "name": "adobe-custom",
+  "description": "Enables Adobe Experience Platform and AEM content operations through a shared tool registry, exposing health checks, fragment search, sandbox management, dataset queries, and content fragment fetching via MCP and web interfaces.",
+  "source_repo": "BinayPrad/custom-mcp-adobe",
+  "source_url": "https://github.com/BinayPrad/custom-mcp-adobe",
+  "install": "# git clone --depth 1 https://github.com/BinayPrad/custom-mcp-adobe\n# See source for mcpServers config block"
+}

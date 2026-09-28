@@ -1,0 +1,7 @@
+{
+  "name": "appian-mcp-server",
+  "description": "Enables interaction with Appian applications through the Model Context Protocol, allowing querying and managing records, executing processes, and querying reports via natural language.",
+  "source_repo": "cmsappian123-bit/MCP-Appian",
+  "source_url": "https://github.com/cmsappian123-bit/MCP-Appian",
+  "install": "# git clone --depth 1 https://github.com/cmsappian123-bit/MCP-Appian\n# See source for mcpServers config block"
+}

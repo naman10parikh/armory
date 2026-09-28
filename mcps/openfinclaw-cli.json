@@ -1,0 +1,7 @@
+{
+  "name": "openfinclaw-cli",
+  "description": "Enables quant research, strategy generation, backtesting, and paper trading from natural language prompts, integrating with AI agents via an MCP server.",
+  "source_repo": "mirror29/openfinclaw-cli",
+  "source_url": "https://github.com/mirror29/openfinclaw-cli",
+  "install": "# git clone --depth 1 https://github.com/mirror29/openfinclaw-cli\n# See source for mcpServers config block"
+}

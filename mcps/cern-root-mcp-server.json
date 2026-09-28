@@ -1,0 +1,7 @@
+{
+  "name": "cern-root-mcp-server",
+  "description": "An MCP server and CLI tool that allow LLMs to interact with CERN ROOT files.",
+  "source_repo": "MohamedElashri/root-mcp",
+  "source_url": "https://github.com/MohamedElashri/root-mcp",
+  "install": "npx -y root-mcp"
+}

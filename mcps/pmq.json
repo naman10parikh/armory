@@ -1,0 +1,7 @@
+{
+  "name": "pmq",
+  "description": "Fail-closed Polymarket CLOB V2 MCP server (Python). Read tools need zero credentials; trading tools exist only when the operator sets PMQ_MCP_LIVE=1, each order capped by PMQ_MCP_MAX_USD and buys per day by PMQ_MCP_DAILY_USD. Keys never leave your process.",
+  "source_repo": "crp4222/pmq",
+  "source_url": "https://github.com/crp4222/pmq",
+  "install": "# git clone --depth 1 https://github.com/crp4222/pmq\n# See source for mcpServers config block"
+}

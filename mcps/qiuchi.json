@@ -1,0 +1,7 @@
+{
+  "name": "qiuchi",
+  "description": "A production-grade MCP server framework with plugin system, middleware pipeline, and multi-transport support for building LLM tool services.",
+  "source_repo": "chain-engine/x-QiuChi",
+  "source_url": "https://github.com/chain-engine/x-QiuChi",
+  "install": "# git clone --depth 1 https://github.com/chain-engine/x-QiuChi\n# See source for mcpServers config block"
+}

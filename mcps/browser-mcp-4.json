@@ -1,0 +1,7 @@
+{
+  "name": "browser-mcp-4",
+  "description": "Provides real browser automation with stealth capabilities for screenshots, page fetching, web search, and data extraction using system browsers.",
+  "source_repo": "sthbryan/browser-mcp",
+  "source_url": "https://github.com/sthbryan/browser-mcp",
+  "install": "npx -y browser-mcp"
+}

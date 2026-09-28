@@ -1,0 +1,7 @@
+{
+  "name": "mcp-products-server",
+  "description": "Enables product management (add, fetch) through natural language using Claude Desktop and GitHub Copilot.",
+  "source_repo": "lokesh1382/mcp-products-demo",
+  "source_url": "https://github.com/lokesh1382/mcp-products-demo",
+  "install": "# git clone --depth 1 https://github.com/lokesh1382/mcp-products-demo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "code-indexing-mcp",
+  "description": "A local-only codebase indexer that extracts syntax-aware chunks, creates embeddings locally, and enables semantic code search and symbol lookup via MCP.",
+  "source_repo": "MarcinHamiga/code-indexing-mcp",
+  "source_url": "https://github.com/MarcinHamiga/code-indexing-mcp",
+  "install": "npx -y code-indexing-mcp"
+}

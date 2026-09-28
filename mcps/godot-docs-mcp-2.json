@@ -1,0 +1,7 @@
+{
+  "name": "godot-docs-mcp-2",
+  "description": "Query Godot Engine documentation with full-text search across classes, methods, properties, and inheritance.",
+  "source_repo": "15195999826/godot-docs-mcp",
+  "source_url": "https://github.com/15195999826/godot-docs-mcp",
+  "install": "npx -y godot-docs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "own-mcp-server",
+  "description": "A personal MCP server that wraps projects as tools for Claude, starting with Internship Copilot for job posting analysis, fit scoring, and application tracking.",
+  "source_repo": "luisspanner/own-mcp-server",
+  "source_url": "https://github.com/luisspanner/own-mcp-server",
+  "install": "npx -y own-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mnemex",
+  "description": "Provides human-like memory dynamics for AI assistants, enabling natural forgetting and reinforcement of memories over time.",
+  "source_repo": "fastmcp-me/mnemex",
+  "source_url": "https://github.com/fastmcp-me/mnemex",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/mnemex\n# See source for mcpServers config block"
+}

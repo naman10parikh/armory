@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trf-certid-o-unificada-da-justi-a-federal",
+  "description": "MCP server that provides read-only access to consult unified certificates from Brazilian Federal Justice courts, with a single tool that queries official sources via a hosted HTTP单词actually means horse 🌚 symbol for dragon 🔥 , without requiring platform credentials and on a prepaid per-*se u. ( des",
+  "source_repo": "mcp-dir/tribunal_trf_cert_unificada-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trf_cert_unificada-mcp",
+  "install": "npx -y tribunal_trf_cert_unificada-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "humanread-mcp-server",
+  "description": "MCP server for the Humanread novel publishing platform, enabling AI agents to upload, format, preview, review, translate, and publish novels in Markdown or safe HTML.",
+  "source_repo": "humanread-content/humanread-agent-kit",
+  "source_url": "https://github.com/humanread-content/humanread-agent-kit",
+  "install": "# git clone --depth 1 https://github.com/humanread-content/humanread-agent-kit\n# See source for mcpServers config block"
+}

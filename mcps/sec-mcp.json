@@ -1,0 +1,7 @@
+{
+  "name": "sec-mcp",
+  "description": "MCP server for analyzing SEC filings (10-K, 10-Q, 8-K) with industry-aware financial extraction and BERT-based NLP.",
+  "source_repo": "Aomala/SEC-MCP",
+  "source_url": "https://github.com/Aomala/SEC-MCP",
+  "install": "npx -y SEC-MCP"
+}

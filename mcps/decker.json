@@ -1,0 +1,7 @@
+{
+  "name": "decker",
+  "description": "Deterministic market-state engine for trading agents — zero LLM in the signal path. 8 tools: structural market state & phase, action gate (GO/WATCH/HOLD), entry/target/invalidation coordinates, bar-by-bar state timeline, composed view cards, and pre-trade intent validation. Every output traces to a",
+  "source_repo": "gigshow/decker-ai",
+  "source_url": "https://github.com/gigshow/decker-ai",
+  "install": "# git clone --depth 1 https://github.com/gigshow/decker-ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nexus-browser-mcp",
+  "description": "A browser-automation MCP server built on Playwright that provides deterministic snapshots via MutationObserver/requestAnimationFrame, HITL governance, multi-task isolation, and self-healing browser sessions for LLM-driven browsing.",
+  "source_repo": "paipaipai666/nexus-browser-mcp",
+  "source_url": "https://github.com/paipaipai666/nexus-browser-mcp",
+  "install": "npx -y nexus-browser-mcp"
+}

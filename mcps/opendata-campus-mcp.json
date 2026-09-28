@@ -1,0 +1,7 @@
+{
+  "name": "opendata-campus-mcp",
+  "description": "教育資源導航 MCP，可透過 TWCampus 目錄路由至台灣官方教育平台，即時搜尋與讀取公開學習資源。",
+  "source_repo": "trionnemesis/opendataCampus-MCP",
+  "source_url": "https://github.com/trionnemesis/opendataCampus-MCP",
+  "install": "npx -y opendataCampus-MCP"
+}

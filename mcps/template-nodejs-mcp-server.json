@@ -1,0 +1,7 @@
+{
+  "name": "template-nodejs-mcp-server",
+  "description": "A Node.js template for building stateful MCP servers with streamable HTTP transport, featuring modular tools and resources for easy extension and integration.",
+  "source_repo": "HarveyYifanLi/Template-Nodejs-MCP-Server",
+  "source_url": "https://github.com/HarveyYifanLi/Template-Nodejs-MCP-Server",
+  "install": "npx -y Template-Nodejs-MCP-Server"
+}

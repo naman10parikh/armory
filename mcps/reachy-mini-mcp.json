@@ -1,0 +1,7 @@
+{
+  "name": "reachy-mini-mcp",
+  "description": "MCP server for Reachy Mini robot that exposes robot state and motion control to LLM frontends like Claude Desktop.",
+  "source_repo": "nolte/reachy-mini-mcp",
+  "source_url": "https://github.com/nolte/reachy-mini-mcp",
+  "install": "npx -y reachy-mini-mcp"
+}

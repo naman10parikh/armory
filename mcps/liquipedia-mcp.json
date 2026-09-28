@@ -1,0 +1,7 @@
+{
+  "name": "liquipedia-mcp",
+  "description": "Provides MCP tools to query Liquipedia esports data (matches, teams, players, tournaments, placements, standings) via the Liquipedia v3 API and MediaWiki action API.",
+  "source_repo": "Archers007/LiqMcp",
+  "source_url": "https://github.com/Archers007/LiqMcp",
+  "install": "# git clone --depth 1 https://github.com/Archers007/LiqMcp\n# See source for mcpServers config block"
+}

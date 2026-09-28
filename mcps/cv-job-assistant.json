@@ -1,0 +1,7 @@
+{
+  "name": "cv-job-assistant",
+  "description": "Enables Claude to parse CVs, search job boards (Remotive, Arbeitnow, Adzuna, Greenhouse/Lever), tailor resumes and cover letters, and prepare application packages with direct apply links—without ever auto-submitting. It runs 100% locally and free, storing jobs and applications as JSON files.",
+  "source_repo": "JahidRayhan/cv-job-mcp",
+  "source_url": "https://github.com/JahidRayhan/cv-job-mcp",
+  "install": "npx -y cv-job-mcp"
+}

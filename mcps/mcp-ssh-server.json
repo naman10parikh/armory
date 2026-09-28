@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ssh-server",
+  "description": "Enables AI assistants to execute commands and transfer files on remote servers over SSH connections.",
+  "source_repo": "Fabber-bot/mcp-ssh-server",
+  "source_url": "https://github.com/Fabber-bot/mcp-ssh-server",
+  "install": "# git clone --depth 1 https://github.com/Fabber-bot/mcp-ssh-server\n# See source for mcpServers config block"
+}

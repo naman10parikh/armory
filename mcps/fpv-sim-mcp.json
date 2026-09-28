@@ -1,0 +1,7 @@
+{
+  "name": "fpv-sim-mcp",
+  "description": "MCP server that exposes a deterministic force-on-force simulation of FPV sUAS vs counter-UAS RF direction finding as tools for AI agents to run engagements, sweep seeds, and compare configurations.",
+  "source_repo": "wasomma/fpv-sim-mcp",
+  "source_url": "https://github.com/wasomma/fpv-sim-mcp",
+  "install": "npx -y fpv-sim-mcp"
+}

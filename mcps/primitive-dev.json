@@ -1,0 +1,7 @@
+{
+  "name": "primitive-dev",
+  "description": "Email infrastructure for AI agents — send, receive, search, and manage email over a clean HTTP API. Connect verified domains, route inbound mail, set up webhooks, and automate email workflows. Authenticate with a Primitive API key or via OAuth.",
+  "source_repo": "",
+  "source_url": "https://primitive.dev",
+  "install": "# git clone --depth 1 https://primitive.dev\n# See source for mcpServers config block"
+}

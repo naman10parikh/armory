@@ -1,0 +1,7 @@
+{
+  "name": "handsontable-mcp-server",
+  "description": "MCP server providing access to Handsontable documentation for AI-powered code generation, with tools to fetch docs, search, and list categories.",
+  "source_repo": "GreenFlux/handsontable-mcp-server",
+  "source_url": "https://github.com/GreenFlux/handsontable-mcp-server",
+  "install": "npx -y handsontable-mcp-server"
+}

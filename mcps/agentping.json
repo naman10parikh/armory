@@ -1,0 +1,7 @@
+{
+  "name": "agentping",
+  "description": "Let your AI agent notify you via email, Slack, Discord, or webhook using a single tool.",
+  "source_repo": "Noriget/agentping",
+  "source_url": "https://github.com/Noriget/agentping",
+  "install": "# git clone --depth 1 https://github.com/Noriget/agentping\n# See source for mcpServers config block"
+}

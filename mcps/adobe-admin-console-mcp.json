@@ -1,0 +1,7 @@
+{
+  "name": "adobe-admin-console-mcp",
+  "description": "Exposes Adobe's User Management API (UMAPI) as MCP tools for listing users, managing product profiles, and assigning or removing Acrobat/PDF licenses in Enterprise organizations.",
+  "source_repo": "MSPbotsAI/adobe-admin-console-mcp",
+  "source_url": "https://github.com/MSPbotsAI/adobe-admin-console-mcp",
+  "install": "npx -y adobe-admin-console-mcp"
+}

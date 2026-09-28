@@ -1,0 +1,7 @@
+{
+  "name": "kyc-compliance-mcp-server",
+  "description": "Agentic KYC/AML compliance server with tools for sanctions screening, identity verification, and risk assessment, where AI orchestrates discretionary checks within deterministic compliance guardrails.",
+  "source_repo": "esskay2016/kyc-compliance-mcp",
+  "source_url": "https://github.com/esskay2016/kyc-compliance-mcp",
+  "install": "npx -y kyc-compliance-mcp"
+}

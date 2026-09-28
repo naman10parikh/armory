@@ -1,0 +1,7 @@
+{
+  "name": "wecom-msg-audit-mcp",
+  "description": "Enables AI agents to securely access and search enterprise WeChat (WeCom) chat records with full decryption and auditing, supporting message retrieval, decryption, local storage, and querying via MCP tools.",
+  "source_repo": "deadmau5v/wecom-msg-audit-mcp",
+  "source_url": "https://github.com/deadmau5v/wecom-msg-audit-mcp",
+  "install": "npx -y wecom-msg-audit-mcp"
+}

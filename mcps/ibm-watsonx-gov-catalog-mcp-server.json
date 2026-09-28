@@ -1,0 +1,7 @@
+{
+  "name": "ibm-watsonx-gov-catalog-mcp-server",
+  "description": "Bridges AI agents with tools on IBM watsonx governed agentic catalog, enabling secure governance and tool invocation via the Model Context Protocol.",
+  "source_repo": "IBM/ibm-watsonx-gov-catalog-mcp-server",
+  "source_url": "https://github.com/IBM/ibm-watsonx-gov-catalog-mcp-server",
+  "install": "npx -y ibm-watsonx-gov-catalog-mcp-server"
+}

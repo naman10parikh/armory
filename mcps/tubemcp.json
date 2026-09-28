@@ -1,0 +1,7 @@
+{
+  "name": "tubemcp",
+  "description": "MCP server that lets AI agents search YouTube and fetch transcripts.",
+  "source_repo": "BlockBenny/tubemcp",
+  "source_url": "https://github.com/BlockBenny/tubemcp",
+  "install": "# git clone --depth 1 https://github.com/BlockBenny/tubemcp\n# See source for mcpServers config block"
+}

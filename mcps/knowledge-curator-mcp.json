@@ -1,0 +1,7 @@
+{
+  "name": "knowledge-curator-mcp",
+  "description": "A local, zero-cost MCP server that fact-checks your Markdown/Obsidian notes using a local LLM (via Ollama) and free sources like Wikipedia and DuckDuckGo, with no cloud API or API keys.",
+  "source_repo": "Ryu07-d/knowledge-curator-mcp",
+  "source_url": "https://github.com/Ryu07-d/knowledge-curator-mcp",
+  "install": "npx -y knowledge-curator-mcp"
+}

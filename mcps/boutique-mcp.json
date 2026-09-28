@@ -1,0 +1,7 @@
+{
+  "name": "boutique-mcp",
+  "description": "Provides a local catalog of MCP servers (legal data connectors and agent skills) from MateMatic Boutique, enabling search and obtaining install commands without proxying requests.",
+  "source_repo": "matematicsolutions/boutique-mcp",
+  "source_url": "https://github.com/matematicsolutions/boutique-mcp",
+  "install": "npx -y boutique-mcp"
+}

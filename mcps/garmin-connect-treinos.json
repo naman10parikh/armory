@@ -1,0 +1,7 @@
+{
+  "name": "garmin-connect-treinos",
+  "description": "Enables listing, creating, editing, deleting, and scheduling structured workouts (run, cycle, swim, triathlon) on Garmin Connect via natural language.",
+  "source_repo": "mcp-dir/garmin-mcp",
+  "source_url": "https://github.com/mcp-dir/garmin-mcp",
+  "install": "npx -y garmin-mcp"
+}

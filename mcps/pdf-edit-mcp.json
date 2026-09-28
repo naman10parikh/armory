@@ -1,0 +1,7 @@
+{
+  "name": "pdf-edit-mcp",
+  "description": "Enables editing text in existing PDFs by modifying content stream operators, preserving original fonts and positions. Provides fidelity reports on every edit, indicating font preservation, substitution, overflow, and other degradations.",
+  "source_repo": "AryanBV/pdf-edit-mcp",
+  "source_url": "https://github.com/AryanBV/pdf-edit-mcp",
+  "install": "npx -y pdf-edit-mcp"
+}

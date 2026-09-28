@@ -1,0 +1,7 @@
+{
+  "name": "swiss-environment-mcp",
+  "description": "Connects AI assistants to Swiss environmental data from BAFU, including air quality, hydrology, natural hazards, and open datasets, with no API keys required.",
+  "source_repo": "malkreide/swiss-environment-mcp",
+  "source_url": "https://github.com/malkreide/swiss-environment-mcp",
+  "install": "npx -y swiss-environment-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "svgator-mcp-server",
+  "description": "Enables AI assistants to browse, inspect, edit, create, and export SVGator projects, handling everything from simple color edits to complex animated exports.",
+  "source_repo": "SVGator/mcp",
+  "source_url": "https://github.com/SVGator/mcp",
+  "install": "# git clone --depth 1 https://github.com/SVGator/mcp\n# See source for mcpServers config block"
+}

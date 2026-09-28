@@ -1,0 +1,7 @@
+{
+  "name": "dns-whois-mcp-2",
+  "description": "FastMCP server for DNS lookups and WHOIS domain research, enabling comprehensive domain investigation with parallel DNS records, WHOIS, and reverse lookups.",
+  "source_repo": "palimpsest-labs/dns-whois-mcp",
+  "source_url": "https://github.com/palimpsest-labs/dns-whois-mcp",
+  "install": "npx -y dns-whois-mcp"
+}

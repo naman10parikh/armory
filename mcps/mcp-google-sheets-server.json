@@ -1,0 +1,7 @@
+{
+  "name": "mcp-google-sheets-server",
+  "description": "Enables professional Google Sheets management with 40+ tools for sheet operations, formatting, charts, and enterprise features.",
+  "source_repo": "Longtran2404/mcp-google-sheets",
+  "source_url": "https://github.com/Longtran2404/mcp-google-sheets",
+  "install": "# git clone --depth 1 https://github.com/Longtran2404/mcp-google-sheets\n# See source for mcpServers config block"
+}

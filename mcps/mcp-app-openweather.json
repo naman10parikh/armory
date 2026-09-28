@@ -1,0 +1,7 @@
+{
+  "name": "mcp-app-openweather",
+  "description": "An MCP server that provides weather forecasts from OpenWeather and renders interactive charts in chat via MCP Apps, letting users query forecasts and switch units, day range, and metrics.",
+  "source_repo": "kasza-introhive/mcp-app-openweather",
+  "source_url": "https://github.com/kasza-introhive/mcp-app-openweather",
+  "install": "# git clone --depth 1 https://github.com/kasza-introhive/mcp-app-openweather\n# See source for mcpServers config block"
+}

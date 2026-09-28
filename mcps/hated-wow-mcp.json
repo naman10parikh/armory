@@ -1,0 +1,7 @@
+{
+  "name": "hated-wow-mcp",
+  "description": "MCP server for writing World of Warcraft addons, providing in-game Lua API references, Blizzard's UI source code, and game asset data to AI assistants.",
+  "source_repo": "RdyGaming/hated-wow-mcp",
+  "source_url": "https://github.com/RdyGaming/hated-wow-mcp",
+  "install": "npx -y hated-wow-mcp"
+}

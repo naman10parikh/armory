@@ -1,0 +1,7 @@
+{
+  "name": "jira-confluence-mcp",
+  "description": "This MCP server provides unified read/write access to Jira Cloud tickets and Confluence Cloud pages, enabling search, retrieval, and updates. It automatically downloads log attachments from tickets into a shared directory for the companion Log Intelligence MCP to ingest.",
+  "source_repo": "anands-bounteous/jira-confluence-mcp",
+  "source_url": "https://github.com/anands-bounteous/jira-confluence-mcp",
+  "install": "npx -y jira-confluence-mcp"
+}

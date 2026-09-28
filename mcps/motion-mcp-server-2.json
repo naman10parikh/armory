@@ -1,0 +1,7 @@
+{
+  "name": "motion-mcp-server-2",
+  "description": "Enables managing tasks, projects, schedules, users, comments, and more in Motion via natural language through the Model Context Protocol.",
+  "source_repo": "markobullrush/motion-mcp-2",
+  "source_url": "https://github.com/markobullrush/motion-mcp-2",
+  "install": "# git clone --depth 1 https://github.com/markobullrush/motion-mcp-2\n# See source for mcpServers config block"
+}

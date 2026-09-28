@@ -1,0 +1,7 @@
+{
+  "name": "pvr-inox-mcp",
+  "description": "Enables users to query PVR/INOX cinema showtimes, live seat availability, and booking status across India, and to set up watch alerts for when shows become bookable or desired seats free up.",
+  "source_repo": "notprashanth/pvr-inox-mcp",
+  "source_url": "https://github.com/notprashanth/pvr-inox-mcp",
+  "install": "npx -y pvr-inox-mcp"
+}

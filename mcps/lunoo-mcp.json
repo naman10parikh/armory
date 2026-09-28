@@ -1,0 +1,7 @@
+{
+  "name": "lunoo-mcp",
+  "description": "MCP server for Lunoo rankings, enabling users to discover niches, fetch rankings, and get item details across thousands of categories using consensus-based scores.",
+  "source_repo": "PeakProductivity/lunoo-mcp",
+  "source_url": "https://github.com/PeakProductivity/lunoo-mcp",
+  "install": "npx -y lunoo-mcp"
+}

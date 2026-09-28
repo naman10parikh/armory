@@ -1,0 +1,7 @@
+{
+  "name": "yuque-local-mcp",
+  "description": "本地语雀 MCP 服务器，通过浏览器登录态访问语雀，支持读取、创建和编辑文档，具有知识库白名单和只读模式等安全特性。",
+  "source_repo": "fanb129/yuque-local-mcp",
+  "source_url": "https://github.com/fanb129/yuque-local-mcp",
+  "install": "npx -y yuque-local-mcp"
+}

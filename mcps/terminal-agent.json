@@ -1,0 +1,7 @@
+{
+  "name": "terminal-agent",
+  "description": "Local daemon that bridges AI assistants to the local filesystem with read-only commands and optional write mode, enforcing strict security filters to prevent credential leakage.",
+  "source_repo": "StevenLi-phoenix/terminal-agent",
+  "source_url": "https://github.com/StevenLi-phoenix/terminal-agent",
+  "install": "# git clone --depth 1 https://github.com/StevenLi-phoenix/terminal-agent\n# See source for mcpServers config block"
+}

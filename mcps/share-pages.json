@@ -1,0 +1,7 @@
+{
+  "name": "share-pages",
+  "description": "Enables creating, listing, and deleting temporary shared Markdown/HTML pages with 72-hour expiration. Supports local Node.js or Cloudflare Workers deployment with OAuth login.",
+  "source_repo": "takapi-s/share-pages",
+  "source_url": "https://github.com/takapi-s/share-pages",
+  "install": "# git clone --depth 1 https://github.com/takapi-s/share-pages\n# See source for mcpServers config block"
+}

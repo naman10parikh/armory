@@ -1,0 +1,7 @@
+{
+  "name": "hibp-mcp-server",
+  "description": "Enables querying Have I Been Pwned API for data breaches, passwords, and pastes via natural language.",
+  "source_repo": "darrenjrobinson/HIBP-MCP-Server",
+  "source_url": "https://github.com/darrenjrobinson/HIBP-MCP-Server",
+  "install": "npx -y HIBP-MCP-Server"
+}

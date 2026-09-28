@@ -1,0 +1,7 @@
+{
+  "name": "mcp-enterprise-tool-gateway",
+  "description": "Governed MCP server for bank-grade agent tool access with RBAC, PII redaction, rate limiting, and audit logging.",
+  "source_repo": "manuelbomi/MCP-Enterprise-Tool-Gateway-A-Governed-Model-Context-Protocol-Server-for-Bank-Grade-Agent-Tool-Acce",
+  "source_url": "https://github.com/manuelbomi/MCP-Enterprise-Tool-Gateway-A-Governed-Model-Context-Protocol-Server-for-Bank-Grade-Agent-Tool-Acce",
+  "install": "# git clone --depth 1 https://github.com/manuelbomi/MCP-Enterprise-Tool-Gateway-A-Governed-Model-Context-Protocol-Server-for-Bank-Grade-Agent-Tool-Acce\n# See source for mcpServers config block"
+}

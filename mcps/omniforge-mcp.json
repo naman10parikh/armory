@@ -1,0 +1,7 @@
+{
+  "name": "omniforge-mcp",
+  "description": "An enterprise-grade MCP server that enables AI coding assistants to securely connect with external tools, APIs, databases, and cloud services through a unified interface, offering structured engineering workflows and multi-client support.",
+  "source_repo": "ankur-gaurav161418/omniforge",
+  "source_url": "https://github.com/ankur-gaurav161418/omniforge",
+  "install": "# git clone --depth 1 https://github.com/ankur-gaurav161418/omniforge\n# See source for mcpServers config block"
+}

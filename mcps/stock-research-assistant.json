@@ -1,0 +1,7 @@
+{
+  "name": "stock-research-assistant",
+  "description": "A stock research MCP server that enables natural-language queries for market data, watchlist management, company analysis, and research note tracking, using FastMCP and Databricks Lakebase Postgres.",
+  "source_repo": "hasthi/stock-research-assistant",
+  "source_url": "https://github.com/hasthi/stock-research-assistant",
+  "install": "# git clone --depth 1 https://github.com/hasthi/stock-research-assistant\n# See source for mcpServers config block"
+}

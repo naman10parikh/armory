@@ -1,0 +1,7 @@
+{
+  "name": "vyos-mcp",
+  "description": "MCP server for managing VyOS routers via the VyOS HTTP API, allowing AI assistants to read config, set interfaces, firewall rules, VPNs, and more.",
+  "source_repo": "alch3mistdev/vyos-mcp",
+  "source_url": "https://github.com/alch3mistdev/vyos-mcp",
+  "install": "npx -y vyos-mcp"
+}

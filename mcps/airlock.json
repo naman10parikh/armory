@@ -1,0 +1,7 @@
+{
+  "name": "airlock",
+  "description": "Enables LLM agents to safely search and fetch content from a single configured domain, preventing data exfiltration through deterministic enforcement.",
+  "source_repo": "fazalrshah/airlock",
+  "source_url": "https://github.com/fazalrshah/airlock",
+  "install": "# git clone --depth 1 https://github.com/fazalrshah/airlock\n# See source for mcpServers config block"
+}

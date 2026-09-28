@@ -1,0 +1,7 @@
+{
+  "name": "cyberdyne-mcp",
+  "description": "Lets an AI agent hire and pay a verified human: post real-world tasks (voice, observation, judgment) and pay in USDC via a non-custodial x402 auth-capture escrow on Base, budget frozen at deploy. Humans verify their X identity before submitting.",
+  "source_repo": "Cyberdyne-OS/cyberdyne-mcp",
+  "source_url": "https://github.com/Cyberdyne-OS/cyberdyne-mcp",
+  "install": "npx -y cyberdyne-mcp"
+}

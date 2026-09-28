@@ -1,0 +1,7 @@
+{
+  "name": "fluxmail",
+  "description": "Self-hosted MCP server to access your Gmail / Outlook / IMAP email",
+  "source_repo": "churichard/fluxmail",
+  "source_url": "https://github.com/churichard/fluxmail",
+  "install": "# git clone --depth 1 https://github.com/churichard/fluxmail\n# See source for mcpServers config block"
+}

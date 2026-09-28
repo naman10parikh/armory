@@ -1,0 +1,7 @@
+{
+  "name": "telegram-mcp-server-3",
+  "description": "A Telegram integration for Claude, Cursor, and other MCP-compatible clients. It exposes Telegram account, chat, message, contact, media, folder, and admin operations through the Model Context Protocol using Telethon.",
+  "source_repo": "Asadullayev06/telegram-mcp",
+  "source_url": "https://github.com/Asadullayev06/telegram-mcp",
+  "install": "npx -y telegram-mcp"
+}

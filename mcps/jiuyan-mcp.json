@@ -1,0 +1,7 @@
+{
+  "name": "jiuyan-mcp",
+  "description": "Enables retrieving data from 韭研公社 (jiuyangongshe.com) including timelines, hot rankings, article search, and community feeds, with optional login-protected features like stock movements and follow feeds, all without a browser.",
+  "source_repo": "Zessi-C/jiuyan-mcp",
+  "source_url": "https://github.com/Zessi-C/jiuyan-mcp",
+  "install": "npx -y jiuyan-mcp"
+}

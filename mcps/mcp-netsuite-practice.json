@@ -1,0 +1,7 @@
+{
+  "name": "mcp-netsuite-practice",
+  "description": "MCP server that exposes read-only NetSuite tools for querying warehouse stock levels and order status, using mock data locally and a pluggable client interface.",
+  "source_repo": "awnt9/mcp-netsuite-practice",
+  "source_url": "https://github.com/awnt9/mcp-netsuite-practice",
+  "install": "# git clone --depth 1 https://github.com/awnt9/mcp-netsuite-practice\n# See source for mcpServers config block"
+}

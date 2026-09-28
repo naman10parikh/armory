@@ -1,0 +1,7 @@
+{
+  "name": "semantic-product-search-mcp",
+  "description": "Exposes product catalog and semantic search as tools for an LLM agent, enabling natural language product recommendations based on intent rather than keyword matching.",
+  "source_repo": "sebastian946/SemanticProductSearch",
+  "source_url": "https://github.com/sebastian946/SemanticProductSearch",
+  "install": "# git clone --depth 1 https://github.com/sebastian946/SemanticProductSearch\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "m2m-sentinel",
+  "description": "Deterministic EVM bytecode capability intelligence, EIP-1967 proxy resolution, and preflight guards for autonomous agents on Base.",
+  "source_repo": "M2M-Sentinel/m2m-sentinel-sdk",
+  "source_url": "https://github.com/M2M-Sentinel/m2m-sentinel-sdk",
+  "install": "# git clone --depth 1 https://github.com/M2M-Sentinel/m2m-sentinel-sdk\n# See source for mcpServers config block"
+}

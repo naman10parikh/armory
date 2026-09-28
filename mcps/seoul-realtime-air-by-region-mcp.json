@@ -1,0 +1,7 @@
+{
+  "name": "seoul-realtime-air-by-region-mcp",
+  "description": "Enables querying real-time air quality data by region in Seoul, South Korea, using the Seoul Open Data Platform API, supporting multiple regions and monitoring stations.",
+  "source_repo": "hlucent/seoul-realtime-air-by-region-mcp",
+  "source_url": "https://github.com/hlucent/seoul-realtime-air-by-region-mcp",
+  "install": "npx -y seoul-realtime-air-by-region-mcp"
+}

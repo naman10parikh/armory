@@ -1,0 +1,7 @@
+{
+  "name": "pinoox-mcp",
+  "description": "MCP server for the Pinoox PHP HMVC platform, giving any MCP-compatible AI client real project context.",
+  "source_repo": "pinoox/pinoox-mcp",
+  "source_url": "https://github.com/pinoox/pinoox-mcp",
+  "install": "npx -y pinoox-mcp"
+}

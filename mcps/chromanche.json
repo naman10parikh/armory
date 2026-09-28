@@ -1,0 +1,7 @@
+{
+  "name": "chromanche",
+  "description": "Lets any MCP-capable coding agent drive your real, logged-in Chrome through a local MCP server and MV3 extension.",
+  "source_repo": "marcobazzani/Chromanche",
+  "source_url": "https://github.com/marcobazzani/Chromanche",
+  "install": "# git clone --depth 1 https://github.com/marcobazzani/Chromanche\n# See source for mcpServers config block"
+}

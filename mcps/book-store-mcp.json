@@ -1,0 +1,7 @@
+{
+  "name": "book-store-mcp",
+  "description": "Enables users to search and explore a bookstore catalog including books, authors, categories, stock, prices, and recommendations through natural language.",
+  "source_repo": "arlansantos/bookstore-mcp",
+  "source_url": "https://github.com/arlansantos/bookstore-mcp",
+  "install": "npx -y bookstore-mcp"
+}

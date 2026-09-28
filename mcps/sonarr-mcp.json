@@ -1,0 +1,7 @@
+{
+  "name": "sonarr-mcp",
+  "description": "Exposes the Sonarr v3 REST API as MCP tools, enabling LLMs to read and manage a Sonarr instance including series, episodes, downloads, history, and more. Supports both read and write operations, with destructive tools flagged.",
+  "source_repo": "SavageCore/sonarr-mcp",
+  "source_url": "https://github.com/SavageCore/sonarr-mcp",
+  "install": "npx -y sonarr-mcp"
+}

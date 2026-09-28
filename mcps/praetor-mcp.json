@@ -1,0 +1,7 @@
+{
+  "name": "praetor-mcp",
+  "description": "Provides a local synthetic MCP stdio service for querying maintenance evidence and preparing human-review-gated advisory packets, with deterministic governance, evidence boundary tracing, and Agent K integrity scoring to separate retrieved evidence from model inference while preserving human review",
+  "source_repo": "drosadocastro-bit/PRAETOR_MCP_BICAMERAL",
+  "source_url": "https://github.com/drosadocastro-bit/PRAETOR_MCP_BICAMERAL",
+  "install": "# git clone --depth 1 https://github.com/drosadocastro-bit/PRAETOR_MCP_BICAMERAL\n# See source for mcpServers config block"
+}

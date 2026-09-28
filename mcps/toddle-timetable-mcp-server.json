@@ -1,0 +1,7 @@
+{
+  "name": "toddle-timetable-mcp-server",
+  "description": "MCP server that lets Claude look up a student's daily class schedule. It includes a built-in mock timetable and uses Streamable HTTP transport, requiring no API credentials to try.",
+  "source_repo": "Iamdevwastaken/toddle-mcp-server",
+  "source_url": "https://github.com/Iamdevwastaken/toddle-mcp-server",
+  "install": "npx -y toddle-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pour-picks-mcp-server",
+  "description": "Enables querying the Pour Picks bourbon & whiskey database with tools for search, bottle details, recommendations, comparisons, and trending, providing structured tasting profiles, prices, pairings, and ratings.",
+  "source_repo": "bguillow-rgb/pour-picks-mcp",
+  "source_url": "https://github.com/bguillow-rgb/pour-picks-mcp",
+  "install": "npx -y pour-picks-mcp"
+}

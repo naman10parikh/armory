@@ -1,0 +1,7 @@
+{
+  "name": "jobnimbus-mcp-server",
+  "description": "Connects Claude to your JobNimbus account via API, enabling management of contacts, jobs, notes, and other CRM entities through natural language.",
+  "source_repo": "drummouse/JobNimbus-MCP",
+  "source_url": "https://github.com/drummouse/JobNimbus-MCP",
+  "install": "npx -y JobNimbus-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "astrofabric",
+  "description": "AstroFabric is an agentic AI operating system for growth, revenue and digital operations. Specialist AI agents plan and execute complete missions through metered tools, with enforced budgets, approval-gated writes and full run transcripts. Work runs from the console, REST API, hosted MCP server, sch",
+  "source_repo": "sam1siam/astrofabric-mcp",
+  "source_url": "https://github.com/sam1siam/astrofabric-mcp",
+  "install": "npx -y astrofabric-mcp"
+}

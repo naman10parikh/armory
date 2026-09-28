@@ -1,0 +1,7 @@
+{
+  "name": "cityflo-ontime-mcp",
+  "description": "MCP server for analyzing bus route on-time performance, providing lateness summaries, trip drill-downs, and flagged data reports.",
+  "source_repo": "deepachaudharyoct10/cityflo-ontime-mcp",
+  "source_url": "https://github.com/deepachaudharyoct10/cityflo-ontime-mcp",
+  "install": "npx -y cityflo-ontime-mcp"
+}

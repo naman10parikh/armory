@@ -1,0 +1,7 @@
+{
+  "name": "unicefstats-mcp",
+  "description": "MCP server for UNICEF child development statistics. Query 790+ child-focused indicators across 200+ countries with disaggregations by sex, age, wealth quintile, and residence. No API key required.",
+  "source_repo": "jpazvd/unicefstats-mcp",
+  "source_url": "https://github.com/jpazvd/unicefstats-mcp",
+  "install": "npx -y unicefstats-mcp"
+}

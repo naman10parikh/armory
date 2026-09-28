@@ -1,0 +1,7 @@
+{
+  "name": "mcp-digger",
+  "description": "Code context for AI coding agents. Progressive, on-demand access to your internal .NET / NuGet package source — agents browse, search, and read private C# libraries autonomously, with zero workspace pollution.",
+  "source_repo": "janeksm/mcp-digger",
+  "source_url": "https://github.com/janeksm/mcp-digger",
+  "install": "# git clone --depth 1 https://github.com/janeksm/mcp-digger\n# See source for mcpServers config block"
+}

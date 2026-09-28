@@ -1,0 +1,7 @@
+{
+  "name": "roon-mcp",
+  "description": "Controls music playback on a FiiO M23 device through Roon, allowing Claude to search and play tracks, adjust volume, and manage playback.",
+  "source_repo": "txagscott/roon-mcp",
+  "source_url": "https://github.com/txagscott/roon-mcp",
+  "install": "npx -y roon-mcp"
+}

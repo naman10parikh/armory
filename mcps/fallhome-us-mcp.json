@@ -1,0 +1,7 @@
+{
+  "name": "fallhome-us-mcp",
+  "description": "A sovereign, MIT-licensed MCP server wrapping the fallhome-us-sdk, enabling autonomous agents and developers to interact with the FallMarket ecosystem through Ed25519-signed operations.",
+  "source_repo": "sjgant80-hub/fallhome-us-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallhome-us-mcp",
+  "install": "npx -y fallhome-us-mcp"
+}

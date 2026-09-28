@@ -1,0 +1,7 @@
+{
+  "name": "ilo-mcp-server",
+  "description": "MCP server for accessing ILOSTAT (ILO statistical database) with tools to search indicators, retrieve metadata, list dimension values, and fetch data, with full provenance tracking.",
+  "source_repo": "SidneyBissoli/ilo-mcp-server",
+  "source_url": "https://github.com/SidneyBissoli/ilo-mcp-server",
+  "install": "npx -y ilo-mcp-server"
+}

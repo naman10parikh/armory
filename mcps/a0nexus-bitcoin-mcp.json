@@ -1,0 +1,7 @@
+{
+  "name": "a0nexus-bitcoin-mcp",
+  "description": "Provides live Bitcoin network data (fees, mempool, hashrate) and AI-powered price/fee forecasts via MCP tools, with free access to basic data and pay-per-call for advanced features.",
+  "source_repo": "A0Nexus-bit/a0nexus-bitcoin-mcp",
+  "source_url": "https://github.com/A0Nexus-bit/a0nexus-bitcoin-mcp",
+  "install": "npx -y a0nexus-bitcoin-mcp"
+}

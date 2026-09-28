@@ -1,0 +1,7 @@
+{
+  "name": "gohighlevel-mcp-server",
+  "description": "Enables AI assistants to manage GoHighLevel CRM data including contacts, conversations, opportunities, calendars, and forms through MCP tools and resources.",
+  "source_repo": "basicmachines-co/open-ghl-mcp",
+  "source_url": "https://github.com/basicmachines-co/open-ghl-mcp",
+  "install": "npx -y open-ghl-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "insite",
+  "description": "A comprehensive browser automation MCP server using Playwright, offering 50+ tools for page control, element interaction, content extraction, and more across multiple browser engines.",
+  "source_repo": "jowharshamshiri/insite",
+  "source_url": "https://github.com/jowharshamshiri/insite",
+  "install": "# git clone --depth 1 https://github.com/jowharshamshiri/insite\n# See source for mcpServers config block"
+}

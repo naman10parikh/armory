@@ -1,0 +1,7 @@
+{
+  "name": "dragapp-mcp-server",
+  "description": "MCP server for Gmail shared inboxes and WhatsApp — read, reply, search, and organize your team's email from Claude, ChatGPT, or Cursor. 47 tools covering email threads, WhatsApp messaging, boards, contacts, knowledge base, analytics, and automations.",
+  "source_repo": "nick-timms/drag-mcp-server",
+  "source_url": "https://github.com/nick-timms/drag-mcp-server",
+  "install": "npx -y drag-mcp-server"
+}

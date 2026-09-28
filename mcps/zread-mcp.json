@@ -1,0 +1,7 @@
+{
+  "name": "zread-mcp",
+  "description": "Connects to the Zread.ai documentation platform, enabling AI assistants to read GitHub repository documents, search code, and interact with repository AI.",
+  "source_repo": "ejfkdev/zread-mcp",
+  "source_url": "https://github.com/ejfkdev/zread-mcp",
+  "install": "npx -y zread-mcp"
+}

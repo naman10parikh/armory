@@ -1,0 +1,7 @@
+{
+  "name": "pref-mt-cuiaba-cnd-mcp",
+  "description": "Enables querying negative debt certificates (Certidão Negativa de Débitos) from the Prefeitura de Cuiabá, MT, through a read-only MCP tool.",
+  "source_repo": "mcp-dir/pref_mt_cuiaba_cnd-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_mt_cuiaba_cnd-mcp",
+  "install": "npx -y pref_mt_cuiaba_cnd-mcp"
+}

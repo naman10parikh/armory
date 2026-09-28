@@ -1,0 +1,7 @@
+{
+  "name": "local-network-mcp",
+  "description": "MCP server enabling local network interaction, shell command execution, system resource monitoring, and SSH-based remote device management.",
+  "source_repo": "ahmed-hashim-pro/local-network-mcp",
+  "source_url": "https://github.com/ahmed-hashim-pro/local-network-mcp",
+  "install": "npx -y local-network-mcp"
+}

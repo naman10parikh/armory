@@ -1,0 +1,7 @@
+{
+  "name": "jira-aio-mcp-server",
+  "description": "Enables to interact with Jira AIO Test Case Management System, allowing retrieval of test cases, projects, folders, and search functionality.",
+  "source_repo": "qamary666/jira-aio-mcp-server",
+  "source_url": "https://github.com/qamary666/jira-aio-mcp-server",
+  "install": "npx -y jira-aio-mcp-server"
+}

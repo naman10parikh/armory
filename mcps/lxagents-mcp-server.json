@@ -1,0 +1,7 @@
+{
+  "name": "lxagents-mcp-server",
+  "description": "Delivers the LXAgents shared agent instruction set via MCP prompts and resources. It includes read-only tools for setting up and checking agent instructions in repositories.",
+  "source_repo": "LXAgents/mcp-server",
+  "source_url": "https://github.com/LXAgents/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/LXAgents/mcp-server\n# See source for mcpServers config block"
+}

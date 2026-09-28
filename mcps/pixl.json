@@ -1,0 +1,7 @@
+{
+  "name": "pixl",
+  "description": "Turns AI coding hosts into a guided mobile-UI design tool with design interviews, token contracts, linters, and local browser preview.",
+  "source_repo": "ishk9/pixl",
+  "source_url": "https://github.com/ishk9/pixl",
+  "install": "# git clone --depth 1 https://github.com/ishk9/pixl\n# See source for mcpServers config block"
+}

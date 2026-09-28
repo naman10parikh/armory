@@ -1,0 +1,7 @@
+{
+  "name": "plextrac-mcp-server",
+  "description": "An unofficial MCP server for PlexTrac that exposes 335 tools for managing clients, reports, findings, assets, and more through natural language, enabling agents like Codex and Claude to interact with PlexTrac programmatically.",
+  "source_repo": "erikrubstein/plextrac-mcp2",
+  "source_url": "https://github.com/erikrubstein/plextrac-mcp2",
+  "install": "# git clone --depth 1 https://github.com/erikrubstein/plextrac-mcp2\n# See source for mcpServers config block"
+}

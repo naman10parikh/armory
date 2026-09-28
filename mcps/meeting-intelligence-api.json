@@ -1,0 +1,7 @@
+{
+  "name": "meeting-intelligence-api",
+  "description": "AI scheduling assistant for agents. Timezone conversion, public holidays for 100+ countries, business hours checker, multi-timezone meeting slot finder, and Google Calendar event creation. x402 native — pay $0.01 per call, no signup needed. Works with Claude, ChatGPT, Cursor and all MCP clients.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/stockvibes07/meeting-mcp",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/stockvibes07/meeting-mcp\n# See source for mcpServers config block"
+}

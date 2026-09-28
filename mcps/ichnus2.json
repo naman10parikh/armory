@@ -1,0 +1,7 @@
+{
+  "name": "ichnus2",
+  "description": "Enables bug localization by analyzing a repo and bug report with an ant-swarm LLM, returning a HOT/WARM/COLD heatmap and JSON audit trail via MCP.",
+  "source_repo": "Sharann-del/Ichnus",
+  "source_url": "https://github.com/Sharann-del/Ichnus",
+  "install": "# git clone --depth 1 https://github.com/Sharann-del/Ichnus\n# See source for mcpServers config block"
+}

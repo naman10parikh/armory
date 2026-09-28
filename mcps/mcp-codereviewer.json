@@ -1,0 +1,7 @@
+{
+  "name": "mcp-codereviewer",
+  "description": "A three-layer funnel AI code review engine that reduces LLM token consumption by 70%+ while providing deep code analysis. It integrates with GitHub PRs via MCP protocol to automate code review with static analysis, RAG, and LLM-based checks.",
+  "source_repo": "jack-hack666/mcp-code-reviewer",
+  "source_url": "https://github.com/jack-hack666/mcp-code-reviewer",
+  "install": "# git clone --depth 1 https://github.com/jack-hack666/mcp-code-reviewer\n# See source for mcpServers config block"
+}

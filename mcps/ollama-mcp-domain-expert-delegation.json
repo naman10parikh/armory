@@ -1,0 +1,7 @@
+{
+  "name": "ollama-mcp-domain-expert-delegation",
+  "description": "An MCP server that lets AI agents delegate domain-specific tasks to local Ollama models, using purpose-built specialists for structured tasks like config generation, parsing, and validation.",
+  "source_repo": "byrn-baker/ollama-domain-experts-mcp",
+  "source_url": "https://github.com/byrn-baker/ollama-domain-experts-mcp",
+  "install": "npx -y ollama-domain-experts-mcp"
+}

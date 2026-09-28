@@ -1,0 +1,7 @@
+{
+  "name": "rclone-mcp-server",
+  "description": "MCP server for the Rclone RC API that enables AI assistants to manage cloud storage remotes, copy/sync files, and list directories through natural language.",
+  "source_repo": "angenge/rclone-mcp-server",
+  "source_url": "https://github.com/angenge/rclone-mcp-server",
+  "install": "npx -y rclone-mcp-server"
+}

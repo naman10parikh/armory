@@ -1,0 +1,7 @@
+{
+  "name": "brassiere-aesthetics-mcp-server",
+  "description": "MCP server implementing visual vocabulary and structural parameters for brassiere/lingerie design. Maps professional design taxonomy to image-generation-ready specifications with zero LLM cost for composition.",
+  "source_repo": "dmarsters/brassiere-aesthetics-mcp",
+  "source_url": "https://github.com/dmarsters/brassiere-aesthetics-mcp",
+  "install": "npx -y brassiere-aesthetics-mcp"
+}

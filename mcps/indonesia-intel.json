@@ -1,0 +1,7 @@
+{
+  "name": "indonesia-intel",
+  "description": "MCP server for China-to-Indonesia outbound intelligence ingestion, enabling source discovery, candidate review, event confirmation, taxonomy management, stats analysis, fact-checking, and CSV export.",
+  "source_repo": "JASMINE145-ACT/indonesia-intel",
+  "source_url": "https://github.com/JASMINE145-ACT/indonesia-intel",
+  "install": "# git clone --depth 1 https://github.com/JASMINE145-ACT/indonesia-intel\n# See source for mcpServers config block"
+}

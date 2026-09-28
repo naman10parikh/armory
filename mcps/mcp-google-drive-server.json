@@ -1,0 +1,7 @@
+{
+  "name": "mcp-google-drive-server",
+  "description": "Enables AI assistants to interact with Google Drive, supporting file operations like list, search, read, create, update, delete, share, and manage permissions.",
+  "source_repo": "mrbit-dev/mcp-google-driver",
+  "source_url": "https://github.com/mrbit-dev/mcp-google-driver",
+  "install": "# git clone --depth 1 https://github.com/mrbit-dev/mcp-google-driver\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "democracy-without-politicians-mcp",
+  "description": "Enables users to search and read verbatim passages from Terry Bouricius's book 'Democracy Without Politicians', honoring the author's request to display his actual words rather than AI summaries.",
+  "source_repo": "zhiganov/democracy-without-politicians-mcp",
+  "source_url": "https://github.com/zhiganov/democracy-without-politicians-mcp",
+  "install": "npx -y democracy-without-politicians-mcp"
+}

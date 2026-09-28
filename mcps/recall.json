@@ -1,0 +1,7 @@
+{
+  "name": "recall",
+  "description": "MCP server providing AI agents with a typed-edge graph memory layer that enables bounded hallucination, surgical forgetting, and audit trails, supporting multiple clients like Claude Desktop and Cursor.",
+  "source_repo": "yash194/recall",
+  "source_url": "https://github.com/yash194/recall",
+  "install": "# git clone --depth 1 https://github.com/yash194/recall\n# See source for mcpServers config block"
+}

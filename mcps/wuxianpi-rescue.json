@@ -1,0 +1,7 @@
+{
+  "name": "wuxianpi-rescue",
+  "description": "MCP server for WuxianPi Rescue, enabling search and retrieval of rescue plugins, their documentation, and user comments via natural language.",
+  "source_repo": "jiwuyou/wuxianpi-rescue",
+  "source_url": "https://github.com/jiwuyou/wuxianpi-rescue",
+  "install": "# git clone --depth 1 https://github.com/jiwuyou/wuxianpi-rescue\n# See source for mcpServers config block"
+}

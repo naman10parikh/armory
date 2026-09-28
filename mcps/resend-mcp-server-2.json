@@ -1,0 +1,7 @@
+{
+  "name": "resend-mcp-server-2",
+  "description": "Enables sending emails via the Resend API from Claude, with tools for sending, checking delivery status, listing recent emails, and managing domains.",
+  "source_repo": "blw10210/resend-mcp-server",
+  "source_url": "https://github.com/blw10210/resend-mcp-server",
+  "install": "npx -y resend-mcp-server"
+}

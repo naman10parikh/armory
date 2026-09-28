@@ -1,0 +1,7 @@
+{
+  "name": "civicrm-mcp",
+  "description": "Enables MCP-compatible clients to interact with a CiviCRM installation through its APIv4, providing tools for contact management, events, contributions, and more with configurable safety features.",
+  "source_repo": "YogiAdhik/civicrm-mcp",
+  "source_url": "https://github.com/YogiAdhik/civicrm-mcp",
+  "install": "npx -y civicrm-mcp"
+}

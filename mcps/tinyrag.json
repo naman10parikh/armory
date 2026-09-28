@@ -1,0 +1,7 @@
+{
+  "name": "tinyrag",
+  "description": "Enables LLM agents to access a private knowledge base through MCP by automatically chunking and indexing .txt documents, with zero configuration and no Docker or vector database required.",
+  "source_repo": "spacecat398/TinyRAG-MCP",
+  "source_url": "https://github.com/spacecat398/TinyRAG-MCP",
+  "install": "npx -y TinyRAG-MCP"
+}

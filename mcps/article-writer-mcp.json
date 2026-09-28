@@ -1,0 +1,7 @@
+{
+  "name": "article-writer-mcp",
+  "description": "Enables automated content creation pipeline: topic research, article writing, image sourcing, and GitHub PR submission for blogs.",
+  "source_repo": "Cappybara12/mcp-use",
+  "source_url": "https://github.com/Cappybara12/mcp-use",
+  "install": "# git clone --depth 1 https://github.com/Cappybara12/mcp-use\n# See source for mcpServers config block"
+}

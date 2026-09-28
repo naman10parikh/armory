@@ -1,0 +1,7 @@
+{
+  "name": "jcgeagentinterface",
+  "description": "MCP-compatible interface for discovering, loading, solving, validating, and inspecting JCGE computable general equilibrium models.",
+  "source_repo": "equicirco/JCGEAgentInterface.jl",
+  "source_url": "https://github.com/equicirco/JCGEAgentInterface.jl",
+  "install": "# git clone --depth 1 https://github.com/equicirco/JCGEAgentInterface.jl\n# See source for mcpServers config block"
+}

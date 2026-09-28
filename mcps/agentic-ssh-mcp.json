@@ -1,0 +1,7 @@
+{
+  "name": "agentic-ssh-mcp",
+  "description": "Enables secure SSH command execution and log retrieval with intelligent summarization using local LLM (Ollama) and Model Context Protocol (MCP) standards.",
+  "source_repo": "MSelcukAkbas/agentic-ssh-mcp",
+  "source_url": "https://github.com/MSelcukAkbas/agentic-ssh-mcp",
+  "install": "npx -y agentic-ssh-mcp"
+}

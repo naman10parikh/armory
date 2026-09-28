@@ -1,0 +1,7 @@
+{
+  "name": "mastodon-mcp-server",
+  "description": "Comprehensive MCP server for Mastodon integration, enabling AI assistants to read timelines, post statuses, manage accounts, search, and more on any Mastodon instance.",
+  "source_repo": "VitexSoftware/mastodon-mcp-server",
+  "source_url": "https://github.com/VitexSoftware/mastodon-mcp-server",
+  "install": "npx -y mastodon-mcp-server"
+}

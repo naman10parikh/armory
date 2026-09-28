@@ -1,0 +1,7 @@
+{
+  "name": "techzone-mcp",
+  "description": "MCP server for IBM Technology Zone: manage reservations end-to-end and search the catalog from Claude.",
+  "source_repo": "zm-gh-ibm/techzone-mcp",
+  "source_url": "https://github.com/zm-gh-ibm/techzone-mcp",
+  "install": "npx -y techzone-mcp"
+}

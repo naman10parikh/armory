@@ -1,0 +1,7 @@
+{
+  "name": "bug-bounty-assistant-mcp",
+  "description": "An MCP server that provides passive and low-impact active reconnaissance tools for authorized bug bounty and security assessments, enabling LLMs to perform structured recon and generate reports.",
+  "source_repo": "rohitprasad-code/recon-mcp",
+  "source_url": "https://github.com/rohitprasad-code/recon-mcp",
+  "install": "npx -y recon-mcp"
+}

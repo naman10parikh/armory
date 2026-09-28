@@ -1,0 +1,7 @@
+{
+  "name": "io-github-rcsb-rcsb-mcp",
+  "description": "Enables discovery, inspection, and cross-referencing of Protein Data Bank structures through three RCSB APIs: search, data, and sequence coordinates.",
+  "source_repo": "rcsb/rcsb-mcp",
+  "source_url": "https://github.com/rcsb/rcsb-mcp",
+  "install": "npx -y rcsb-mcp"
+}

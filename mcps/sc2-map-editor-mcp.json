@@ -1,0 +1,7 @@
+{
+  "name": "sc2-map-editor-mcp",
+  "description": "An MCP server for inspecting and editing StarCraft II maps and mods directly, enabling file-level manipulation of map components, triggers, scripts, and more without the Galaxy Editor UI.",
+  "source_repo": "erivgout/sc2-map-editor-mcp",
+  "source_url": "https://github.com/erivgout/sc2-map-editor-mcp",
+  "install": "npx -y sc2-map-editor-mcp"
+}

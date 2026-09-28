@@ -1,0 +1,7 @@
+{
+  "name": "sophotron",
+  "description": "MCP server for searching and retrieving philosophy papers, combining Semantic Scholar, OpenAlex, Unpaywall, CrossRef, and PhilArchive with PDF resolution, taxonomy browsing, and a personal library.",
+  "source_repo": "rookslog/sophotron",
+  "source_url": "https://github.com/rookslog/sophotron",
+  "install": "# git clone --depth 1 https://github.com/rookslog/sophotron\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-office-assistant",
+  "description": "An AI-powered office assistant using LLM, RAG, and MCP tools to answer weather queries, retrieve information from documents, and automatically generate Excel and Word reports.",
+  "source_repo": "varma5359/AI_MCP_Assistance",
+  "source_url": "https://github.com/varma5359/AI_MCP_Assistance",
+  "install": "# git clone --depth 1 https://github.com/varma5359/AI_MCP_Assistance\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "limitless",
+  "description": "A portable self-hosted memory layer for AI tools, storing context, memories, and handoffs for access from any MCP-compatible client.",
+  "source_repo": "JDS300/limitless-mcp",
+  "source_url": "https://github.com/JDS300/limitless-mcp",
+  "install": "npx -y limitless-mcp"
+}

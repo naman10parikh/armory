@@ -1,0 +1,7 @@
+{
+  "name": "etherscan-mcp-python",
+  "description": "Provides comprehensive access to Ethereum blockchain data through the Etherscan API, including account, block, contract, transaction, token, gas, statistics, logs, and RPC proxy tools.",
+  "source_repo": "FLock-io/etherscan-mcp-python",
+  "source_url": "https://github.com/FLock-io/etherscan-mcp-python",
+  "install": "# git clone --depth 1 https://github.com/FLock-io/etherscan-mcp-python\n# See source for mcpServers config block"
+}

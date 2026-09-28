@@ -1,0 +1,7 @@
+{
+  "name": "mpf-amaz-nia-protege-mcp-server",
+  "description": "MCP server for querying official data from Amazônia Protege, a Brazilian environmental protection initiative. Provides a read-only tool for consulting data, with prepaid credit usage.",
+  "source_repo": "mcp-dir/mpf_amazonia_protege-mcp",
+  "source_url": "https://github.com/mcp-dir/mpf_amazonia_protege-mcp",
+  "install": "npx -y mpf_amazonia_protege-mcp"
+}

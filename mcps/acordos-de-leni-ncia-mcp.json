@@ -1,0 +1,7 @@
+{
+  "name": "acordos-de-leni-ncia-mcp",
+  "description": "Verifies whether a company has entered into a leniency agreement under the Brazilian Anti-Corruption Law by CNPJ, read-only, hosted without credentials, pay-per-query.",
+  "source_repo": "mcp-dir/acordos_leniencia-mcp",
+  "source_url": "https://github.com/mcp-dir/acordos_leniencia-mcp",
+  "install": "npx -y acordos_leniencia-mcp"
+}

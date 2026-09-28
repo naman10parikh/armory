@@ -1,0 +1,7 @@
+{
+  "name": "mcp-planner",
+  "description": "MCP server for Microsoft Planner via the Microsoft Graph API, enabling users to find groups and plans, manage buckets and tasks (create, update, assign, complete, delete) with automatic ETag handling.",
+  "source_repo": "mspstack/mcp-planner",
+  "source_url": "https://github.com/mspstack/mcp-planner",
+  "install": "# git clone --depth 1 https://github.com/mspstack/mcp-planner\n# See source for mcpServers config block"
+}

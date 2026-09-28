@@ -1,0 +1,7 @@
+{
+  "name": "calcuris-mcp",
+  "description": "Provides real tax calculations for US, Canada, Australia, and UK income, property, and dividend taxes using up-to-date local data with no API keys required.",
+  "source_repo": "tresor4k/calcuris-mcp",
+  "source_url": "https://github.com/tresor4k/calcuris-mcp",
+  "install": "npx -y calcuris-mcp"
+}

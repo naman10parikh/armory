@@ -1,0 +1,7 @@
+{
+  "name": "cartograph",
+  "description": "Cartograph is an MCP server that provides agent-native code intelligence by building a queryable code graph from a repository using tree-sitter and SQLite. It offers tools for symbol lookup, call graph traversal, blast radius analysis, and architecture overview to help coding agents answer structura",
+  "source_repo": "GokulRaj2210/cartograph-mcp",
+  "source_url": "https://github.com/GokulRaj2210/cartograph-mcp",
+  "install": "npx -y cartograph-mcp"
+}

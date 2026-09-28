@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ai-research-assistant",
+  "description": "An offline MCP server that enables research tasks such as summarizing text, extracting key points, and saving/retrieving notes via a CLI client and stdio transport.",
+  "source_repo": "paneri11/MCP-AI-Research-Assistant",
+  "source_url": "https://github.com/paneri11/MCP-AI-Research-Assistant",
+  "install": "# git clone --depth 1 https://github.com/paneri11/MCP-AI-Research-Assistant\n# See source for mcpServers config block"
+}

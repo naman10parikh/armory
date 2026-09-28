@@ -1,0 +1,7 @@
+{
+  "name": "judge-audit-mcp",
+  "description": "An MCP server that audits LLM-as-judge evaluations, detecting judge drift across runs, measuring bias through controlled probes, and comparing judge agreement with human raters.",
+  "source_repo": "asif786ka/judge-audit-mcp",
+  "source_url": "https://github.com/asif786ka/judge-audit-mcp",
+  "install": "npx -y judge-audit-mcp"
+}

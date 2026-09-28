@@ -1,6 +1,6 @@
 {
   "name": "php-mcp-server",
-  "description": "Php Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "he426100/php-mcp-server",
   "source_url": "https://mcp.so/server/php-mcp-server/he426100",
   "install": "npx -y php-mcp-server"

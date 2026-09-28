@@ -1,0 +1,7 @@
+{
+  "name": "1c-mcp-proxy",
+  "description": "Proxies MCP protocol to JSON-RPC for 1C:Enterprise IT management system, enabling AI agents to manage tasks, projects, knowledge base, and files.",
+  "source_repo": "Diversus23/itmcp",
+  "source_url": "https://github.com/Diversus23/itmcp",
+  "install": "# git clone --depth 1 https://github.com/Diversus23/itmcp\n# See source for mcpServers config block"
+}

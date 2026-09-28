@@ -1,0 +1,7 @@
+{
+  "name": "hrms-mcp",
+  "description": "An HRMS assistant for AI tools that enables filing DSRs, checking leave balances, looking up colleagues, and reviewing appraisals through natural language.",
+  "source_repo": "SookieAI/hrms-mcp",
+  "source_url": "https://github.com/SookieAI/hrms-mcp",
+  "install": "npx -y hrms-mcp"
+}

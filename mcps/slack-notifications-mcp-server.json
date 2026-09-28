@@ -1,0 +1,7 @@
+{
+  "name": "slack-notifications-mcp-server",
+  "description": "Enables sending customizable Slack notifications from Claude, supporting rich formatting, task completion alerts, and priority levels for development workflows.",
+  "source_repo": "Chiuchau-Inc/mcp-slack-notifications",
+  "source_url": "https://github.com/Chiuchau-Inc/mcp-slack-notifications",
+  "install": "# git clone --depth 1 https://github.com/Chiuchau-Inc/mcp-slack-notifications\n# See source for mcpServers config block"
+}

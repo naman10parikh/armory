@@ -1,0 +1,7 @@
+{
+  "name": "kalvium-livebooks",
+  "description": "A read-only MCP server that lets you browse Kalvium Livebooks using your existing browser session, listing livebooks and lessons and retrieving lesson content as Markdown.",
+  "source_repo": "L-Sandeep/kalvium-mcp",
+  "source_url": "https://github.com/L-Sandeep/kalvium-mcp",
+  "install": "npx -y kalvium-mcp"
+}

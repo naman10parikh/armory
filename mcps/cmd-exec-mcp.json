@@ -1,0 +1,7 @@
+{
+  "name": "cmd-exec-mcp",
+  "description": "A command execution MCP server supporting local execution, sandbox isolation via Docker/OpenSandbox, and SSH remote execution.",
+  "source_repo": "YC-CLT/cmd-exec-mcp",
+  "source_url": "https://github.com/YC-CLT/cmd-exec-mcp",
+  "install": "npx -y cmd-exec-mcp"
+}

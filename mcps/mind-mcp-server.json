@@ -1,0 +1,7 @@
+{
+  "name": "mind-mcp-server",
+  "description": "Enables AI agents to persist and retrieve memories via a personal knowledge graph, with tools for emotional intelligence, CRM, life management, social features, self-training, and autonomous insights.",
+  "source_repo": "theastraway/mind-mcp-server",
+  "source_url": "https://github.com/theastraway/mind-mcp-server",
+  "install": "npx -y mind-mcp-server"
+}

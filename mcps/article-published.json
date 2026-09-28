@@ -1,0 +1,7 @@
+{
+  "name": "article-published",
+  "description": "MCP server that connects AI clients to a browser extension for extracting articles from web pages and saving them as drafts to multiple content platforms.",
+  "source_repo": "yesheng-oss/Article-published",
+  "source_url": "https://github.com/yesheng-oss/Article-published",
+  "install": "# git clone --depth 1 https://github.com/yesheng-oss/Article-published\n# See source for mcpServers config block"
+}

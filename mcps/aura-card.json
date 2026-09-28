@@ -1,0 +1,7 @@
+{
+  "name": "aura-card",
+  "description": "An MCP server that generates a personalized 'aura card' with a reading, color palette, and artwork based on a user's description and optional photo, costing 0.5 USDT per call via x402.",
+  "source_repo": "pranay123-stack/aura-card-asp",
+  "source_url": "https://github.com/pranay123-stack/aura-card-asp",
+  "install": "# git clone --depth 1 https://github.com/pranay123-stack/aura-card-asp\n# See source for mcpServers config block"
+}

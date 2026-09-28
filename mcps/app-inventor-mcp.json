@@ -1,0 +1,7 @@
+{
+  "name": "app-inventor-mcp",
+  "description": "Enables AI agents to build and edit MIT App Inventor projects as .aia files, supporting screens, components, properties, blocks, assets, and project merging.",
+  "source_repo": "SirHumza/app-inventor-mcp",
+  "source_url": "https://github.com/SirHumza/app-inventor-mcp",
+  "install": "npx -y app-inventor-mcp"
+}

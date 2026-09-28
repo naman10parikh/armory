@@ -1,0 +1,7 @@
+{
+  "name": "surfagent-x",
+  "description": "X adapter for SurfAgent that gives AI agents X-native verbs for navigation, extraction, posting, replies, likes, reposts, proof-first task execution, recovery, and deeper research workflows.",
+  "source_repo": "surfagentapp/surfagent-x",
+  "source_url": "https://github.com/surfagentapp/surfagent-x",
+  "install": "# git clone --depth 1 https://github.com/surfagentapp/surfagent-x\n# See source for mcpServers config block"
+}

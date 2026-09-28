@@ -1,0 +1,7 @@
+{
+  "name": "io-github-1nzpainter-painting-lessons",
+  "description": "Search transcribed painting lessons from mypaintingclub.com using natural-language questions, returning relevant passages with links to lessons and timestamped video deep links.",
+  "source_repo": "1nzpainter/MCP",
+  "source_url": "https://github.com/1nzpainter/MCP",
+  "install": "# git clone --depth 1 https://github.com/1nzpainter/MCP\n# See source for mcpServers config block"
+}

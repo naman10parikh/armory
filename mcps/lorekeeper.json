@@ -1,0 +1,7 @@
+{
+  "name": "lorekeeper",
+  "description": "MCP memory server for AI agents that gets better with use",
+  "source_repo": "Jessinra/Lorekeeper",
+  "source_url": "https://github.com/Jessinra/Lorekeeper",
+  "install": "# git clone --depth 1 https://github.com/Jessinra/Lorekeeper\n# See source for mcpServers config block"
+}

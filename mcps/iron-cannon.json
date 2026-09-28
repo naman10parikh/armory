@@ -1,0 +1,7 @@
+{
+  "name": "iron-cannon",
+  "description": "An MCP-powered compliance copilot for SaaS stacks, enabling structured audit workflows including stack detection, module wiremapping, implementation directives, code verification, and security/infrastructure/legal readiness gates.",
+  "source_repo": "DillonRich/Iron_Cannon",
+  "source_url": "https://github.com/DillonRich/Iron_Cannon",
+  "install": "# git clone --depth 1 https://github.com/DillonRich/Iron_Cannon\n# See source for mcpServers config block"
+}

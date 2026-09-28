@@ -1,0 +1,7 @@
+{
+  "name": "data247",
+  "description": "Data247's MCP connector offers many different data services including phone carrier lookup, phone append, email append, reverse phone append, reverse email append, CNAM lookup, IP address geolocation, Do-not-call, phone number in-service verificaition, email deliverability verification, fraud detect",
+  "source_repo": "LogicTreeInc/Data247",
+  "source_url": "https://github.com/LogicTreeInc/Data247",
+  "install": "# git clone --depth 1 https://github.com/LogicTreeInc/Data247\n# See source for mcpServers config block"
+}

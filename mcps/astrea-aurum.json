@@ -1,0 +1,7 @@
+{
+  "name": "astrea-aurum",
+  "description": "MCP server for read-only queries and reports from the Astrea (Aurum) legal software. Enables retrieving case information by client, new cases per month, tags, financials (fees/expenses), schedule (hearings, meetings, deadlines, tasks), and case updates for client reports.",
+  "source_repo": "mcp-dir/astrea-mcp",
+  "source_url": "https://github.com/mcp-dir/astrea-mcp",
+  "install": "npx -y astrea-mcp"
+}

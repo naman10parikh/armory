@@ -1,0 +1,7 @@
+{
+  "name": "my-mcpserver",
+  "description": "A production-ready template for developing Model Context Protocol (MCP) servers using Python and FastMCP, with example tools like a multiply calculator, code review prompt generator, and Red Hat logo tool.",
+  "source_repo": "bekumar12/my-mcpserver",
+  "source_url": "https://github.com/bekumar12/my-mcpserver",
+  "install": "# git clone --depth 1 https://github.com/bekumar12/my-mcpserver\n# See source for mcpServers config block"
+}

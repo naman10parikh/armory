@@ -1,0 +1,7 @@
+{
+  "name": "text-to-sql-mcp",
+  "description": "MCP server that translates natural-language questions into SQL, validates every query structurally, and executes approved read-only queries against a SQLite database, returning results and rejections.",
+  "source_repo": "HamzaOuadid/text-to-sql-mcp",
+  "source_url": "https://github.com/HamzaOuadid/text-to-sql-mcp",
+  "install": "npx -y text-to-sql-mcp"
+}

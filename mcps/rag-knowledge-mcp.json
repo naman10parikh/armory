@@ -1,0 +1,7 @@
+{
+  "name": "rag-knowledge-mcp",
+  "description": "Connects RAG knowledge bases to Claude Desktop and Claude Code, allowing retrieval-augmented generation from ingested documents.",
+  "source_repo": "evokateur/rag-knowledge-mcp",
+  "source_url": "https://github.com/evokateur/rag-knowledge-mcp",
+  "install": "npx -y rag-knowledge-mcp"
+}

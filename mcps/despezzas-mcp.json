@@ -1,0 +1,7 @@
+{
+  "name": "despezzas-mcp",
+  "description": "An unofficial MCP server that connects Despezzas financial data to MCP clients like ChatGPT, enabling listing accounts, cards, categories, searching transactions, and performing write operations with safety protections.",
+  "source_repo": "guipmilek/despezzas-mcp-clean-snapshot",
+  "source_url": "https://github.com/guipmilek/despezzas-mcp-clean-snapshot",
+  "install": "# git clone --depth 1 https://github.com/guipmilek/despezzas-mcp-clean-snapshot\n# See source for mcpServers config block"
+}

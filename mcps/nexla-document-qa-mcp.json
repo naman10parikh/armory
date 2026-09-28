@@ -1,0 +1,7 @@
+{
+  "name": "nexla-document-qa-mcp",
+  "description": "A local MCP server that answers natural language questions over a collection of research PDFs, using semantic retrieval and Gemini for grounded answers with citations.",
+  "source_repo": "PShinde630/nexla-document-qa-mcp",
+  "source_url": "https://github.com/PShinde630/nexla-document-qa-mcp",
+  "install": "npx -y nexla-document-qa-mcp"
+}

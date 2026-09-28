@@ -1,0 +1,7 @@
+{
+  "name": "hs-code-classifier-mcp-server",
+  "description": "Classifies product descriptions to official HS codes and validates supplier-provided codes using government tariff schedules via the HSPing API.",
+  "source_repo": "OjasKord/hs-code-classifier-mcp-server",
+  "source_url": "https://github.com/OjasKord/hs-code-classifier-mcp-server",
+  "install": "npx -y hs-code-classifier-mcp-server"
+}

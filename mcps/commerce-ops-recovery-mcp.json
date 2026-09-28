@@ -1,0 +1,7 @@
+{
+  "name": "commerce-ops-recovery-mcp",
+  "description": "MCP server that helps commerce operations investigate and safely recover orders left inconsistent after captured-payment webhook failures, with atomic recovery actions and audit history.",
+  "source_repo": "althaf-ka/commerce-ops-recovery-mcp",
+  "source_url": "https://github.com/althaf-ka/commerce-ops-recovery-mcp",
+  "install": "npx -y commerce-ops-recovery-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hex-mcp",
+  "description": "An MCP server that exposes Hex's public API as deterministic, snake_case MCP tools, supporting read-only and full operation modes.",
+  "source_repo": "mskonovalov/hex-mcp",
+  "source_url": "https://github.com/mskonovalov/hex-mcp",
+  "install": "npx -y hex-mcp"
+}

@@ -1,6 +1,6 @@
 {
   "name": "minimal-mcp-server",
-  "description": "Minimal Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "LeZuse/minimal-mcp-server",
   "source_url": "https://mcp.so/server/minimal-mcp-server/LeZuse",
   "install": "npx -y minimal-mcp-server"

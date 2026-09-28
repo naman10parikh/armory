@@ -1,0 +1,7 @@
+{
+  "name": "yourtraffic",
+  "description": "Enables agents to access web analytics statistics via OAuth, providing a privacy-first, cookie-free analytics service.",
+  "source_repo": "kozmos-tech/yourtraffic",
+  "source_url": "https://github.com/kozmos-tech/yourtraffic",
+  "install": "# git clone --depth 1 https://github.com/kozmos-tech/yourtraffic\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openehr-mcp-server",
+  "description": "Enables MCP clients like Claude Desktop to interact with openEHR REST APIs (EHRbase) for creating compositions, managing EHRs, listing templates, and executing AQL queries.",
+  "source_repo": "deak-ai/openehr-mcp-server",
+  "source_url": "https://github.com/deak-ai/openehr-mcp-server",
+  "install": "npx -y openehr-mcp-server"
+}

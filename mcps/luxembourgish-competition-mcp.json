@@ -1,0 +1,7 @@
+{
+  "name": "luxembourgish-competition-mcp",
+  "description": "Enables querying Luxembourgish competition data, including regulations, decisions, and requirements from the Conseil de la concurrence, directly from MCP-compatible clients.",
+  "source_repo": "Ansvar-Systems/luxembourgish-competition-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/luxembourgish-competition-mcp",
+  "install": "npx -y luxembourgish-competition-mcp"
+}

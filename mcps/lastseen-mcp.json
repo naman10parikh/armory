@@ -1,0 +1,7 @@
+{
+  "name": "lastseen-mcp",
+  "description": "Checks whether software dependencies (npm packages, GitHub Actions, MCP servers, Docker images) are alive, dormant, abandoned, archived, or deleted using dated observations from lastseen.dev.",
+  "source_repo": "agentidx/lastseen-mcp",
+  "source_url": "https://github.com/agentidx/lastseen-mcp",
+  "install": "npx -y lastseen-mcp"
+}

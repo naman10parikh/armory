@@ -1,0 +1,7 @@
+{
+  "name": "sernobre-moodle-mcp",
+  "description": "MCP server for Moodle that lets AI agents publish and manage pedagogical content — courses, lessons, quizzes, forums — via Moodle Web Services with idempotency.",
+  "source_repo": "sernobre/moodle-mcp-sernobre",
+  "source_url": "https://github.com/sernobre/moodle-mcp-sernobre",
+  "install": "# git clone --depth 1 https://github.com/sernobre/moodle-mcp-sernobre\n# See source for mcpServers config block"
+}

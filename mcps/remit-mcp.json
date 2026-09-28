@@ -1,0 +1,7 @@
+{
+  "name": "remit-mcp",
+  "description": "MCP server for African diaspora remittance optimization, enabling comparison of remittance corridors and estimation of savings.",
+  "source_repo": "gabrielmahia/remit-mcp",
+  "source_url": "https://github.com/gabrielmahia/remit-mcp",
+  "install": "npx -y remit-mcp"
+}

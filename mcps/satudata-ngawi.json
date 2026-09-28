@@ -1,0 +1,7 @@
+{
+  "name": "satudata-ngawi",
+  "description": "MCP server for accessing Indonesian local government data from Satu Data Ngawi. Enables querying datasets, organizations, categories, and statistics through natural language.",
+  "source_repo": "adityafba/mcp-satudata-ngawi",
+  "source_url": "https://github.com/adityafba/mcp-satudata-ngawi",
+  "install": "# git clone --depth 1 https://github.com/adityafba/mcp-satudata-ngawi\n# See source for mcpServers config block"
+}

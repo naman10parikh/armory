@@ -1,0 +1,7 @@
+{
+  "name": "sevdesk-mcp",
+  "description": "Integrates with the sevdesk German accounting API, providing 76 tools for full CRUD operations across contacts, invoices, vouchers, orders, credit notes, bank accounts, transactions, parts, tags, addresses, and communication ways.",
+  "source_repo": "sajadghawami/sevdesk-mcp",
+  "source_url": "https://github.com/sajadghawami/sevdesk-mcp",
+  "install": "npx -y sevdesk-mcp"
+}

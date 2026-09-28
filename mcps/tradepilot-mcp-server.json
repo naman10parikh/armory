@@ -1,0 +1,7 @@
+{
+  "name": "tradepilot-mcp-server",
+  "description": "A production-grade MCP server that integrates Polygon.io market data with an 18-layer technical analysis engine to generate actionable options trading signals and high-probability playbooks.",
+  "source_repo": "Sakhir786/tradepilot-mcp-server",
+  "source_url": "https://github.com/Sakhir786/tradepilot-mcp-server",
+  "install": "npx -y tradepilot-mcp-server"
+}

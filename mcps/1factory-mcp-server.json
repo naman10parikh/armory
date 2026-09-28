@@ -1,0 +1,7 @@
+{
+  "name": "1factory-mcp-server",
+  "description": "An open-source MCP bridge for the 1Factory API, providing read-only tools for searching and retrieving part masters, plans, inspections, FAIs, suppliers, and QMS records, with a strong security focus and local deployment.",
+  "source_repo": "Trillx/1factory-mcp",
+  "source_url": "https://github.com/Trillx/1factory-mcp",
+  "install": "npx -y 1factory-mcp"
+}

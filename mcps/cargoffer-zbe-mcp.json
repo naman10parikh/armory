@@ -1,0 +1,7 @@
+{
+  "name": "cargoffer-zbe-mcp",
+  "description": "MCP server for checking vehicle routes against Low Emission Zones (ZBE/LEZ) in Spain and Portugal.",
+  "source_repo": "cargoffer/zbe-mcp-server",
+  "source_url": "https://github.com/cargoffer/zbe-mcp-server",
+  "install": "npx -y zbe-mcp-server"
+}

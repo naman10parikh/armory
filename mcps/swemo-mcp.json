@@ -1,0 +1,7 @@
+{
+  "name": "swemo-mcp",
+  "description": "An MCP server that provides tools for querying Swedish monetary-policy data from Sveriges Riksbank, including GDP, unemployment, CPI, and policy rates, enabling LLMs and clients to fetch economic indicators and forecasts.",
+  "source_repo": "aerugo/swemo-mcp",
+  "source_url": "https://github.com/aerugo/swemo-mcp",
+  "install": "npx -y swemo-mcp"
+}

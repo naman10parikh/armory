@@ -1,0 +1,7 @@
+{
+  "name": "tokenless-zendesk-mcp",
+  "description": "MCP server that authenticates via browser session cookies to access Zendesk's REST API without API tokens, supporting reads and writes with agent permissions.",
+  "source_repo": "yutamago/tokenless-zendesk-mcp",
+  "source_url": "https://github.com/yutamago/tokenless-zendesk-mcp",
+  "install": "npx -y tokenless-zendesk-mcp"
+}

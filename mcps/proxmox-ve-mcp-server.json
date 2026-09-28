@@ -1,0 +1,7 @@
+{
+  "name": "proxmox-ve-mcp-server",
+  "description": "Enables natural language management of Proxmox VE VMs and containers, including lifecycle, snapshots, cloud-init, and secure multi-step automation workflows.",
+  "source_repo": "MTDEV2312/Proxmox_mcp",
+  "source_url": "https://github.com/MTDEV2312/Proxmox_mcp",
+  "install": "npx -y Proxmox_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "coordination-memory-mcp",
+  "description": "An append-only coordination memory for multi-agent and human work, backed by SQLite, with a local dashboard and acceptance contracts that enforce integrator review before work is considered accepted.",
+  "source_repo": "yanqiw/comem",
+  "source_url": "https://github.com/yanqiw/comem",
+  "install": "# git clone --depth 1 https://github.com/yanqiw/comem\n# See source for mcpServers config block"
+}

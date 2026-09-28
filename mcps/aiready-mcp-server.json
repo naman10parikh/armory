@@ -1,0 +1,7 @@
+{
+  "name": "aiready-mcp-server",
+  "description": "Provides AI-readiness assessment and improvement tools for AI agents, including code scanning, issue remediation, and contextual data via MCP.",
+  "source_repo": "getaiready/aiready-mcp-server",
+  "source_url": "https://github.com/getaiready/aiready-mcp-server",
+  "install": "npx -y aiready-mcp-server"
+}

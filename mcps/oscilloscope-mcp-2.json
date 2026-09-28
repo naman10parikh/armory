@@ -1,0 +1,7 @@
+{
+  "name": "oscilloscope-mcp-2",
+  "description": "MCP server that lets an AI agent operate a bench oscilloscope over LAN/SCPI to observe physical pin behavior, bridging RTL simulation and hardware testing.",
+  "source_repo": "masahiro-999/oscilloscope-mcp",
+  "source_url": "https://github.com/masahiro-999/oscilloscope-mcp",
+  "install": "npx -y oscilloscope-mcp"
+}

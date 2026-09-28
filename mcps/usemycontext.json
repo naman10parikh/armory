@@ -1,0 +1,7 @@
+{
+  "name": "usemycontext",
+  "description": "The personal context layer for AI - one user owned profile plus files, read by any MCP client so you never re-introduce yourself.",
+  "source_repo": "usemycontext/claude-code-plugin",
+  "source_url": "https://github.com/usemycontext/claude-code-plugin",
+  "install": "# git clone --depth 1 https://github.com/usemycontext/claude-code-plugin\n# See source for mcpServers config block"
+}

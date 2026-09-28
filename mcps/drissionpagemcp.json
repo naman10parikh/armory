@@ -1,0 +1,7 @@
+{
+  "name": "drissionpagemcp",
+  "description": "Provides browser automation via DrissionPage and FastMCP, enabling AI to control Chrome browsers for tasks like page navigation, element interaction, JavaScript execution, and network monitoring.",
+  "source_repo": "wxhzhwxhzh/DrissionPageMCP",
+  "source_url": "https://github.com/wxhzhwxhzh/DrissionPageMCP",
+  "install": "# git clone --depth 1 https://github.com/wxhzhwxhzh/DrissionPageMCP\n# See source for mcpServers config block"
+}

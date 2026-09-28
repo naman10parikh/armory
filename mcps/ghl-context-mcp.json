@@ -1,0 +1,7 @@
+{
+  "name": "ghl-context-mcp",
+  "description": "Enables AI agents to pull focused GoHighLevel context before talking to a contact, including contact lookup, timeline summaries, pipeline positions, and appointments, with optional guarded writes. It helps agents brief themselves on a person without exposing raw CRM API noise.",
+  "source_repo": "ceosykes/ghl-context-mcp",
+  "source_url": "https://github.com/ceosykes/ghl-context-mcp",
+  "install": "npx -y ghl-context-mcp"
+}

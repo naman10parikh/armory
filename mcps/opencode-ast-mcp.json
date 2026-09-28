@@ -1,0 +1,7 @@
+{
+  "name": "opencode-ast-mcp",
+  "description": "Turn any MCP-aware IDE into an agentic coding system backed by tree-sitter, a local Qwen 18B, OpenRouter, and Podman.",
+  "source_repo": "maThiaslI152/opencode-ast-mcp",
+  "source_url": "https://github.com/maThiaslI152/opencode-ast-mcp",
+  "install": "npx -y opencode-ast-mcp"
+}

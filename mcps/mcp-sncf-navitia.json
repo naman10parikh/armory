@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sncf-navitia",
+  "description": "MCP server for querying French railway services (SNCF) via the Navitia API, enabling station search, journey planning, and departure board retrieval.",
+  "source_repo": "McCullonas/mcp-sncf-navitia",
+  "source_url": "https://github.com/McCullonas/mcp-sncf-navitia",
+  "install": "# git clone --depth 1 https://github.com/McCullonas/mcp-sncf-navitia\n# See source for mcpServers config block"
+}

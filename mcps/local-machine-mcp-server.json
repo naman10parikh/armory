@@ -1,0 +1,7 @@
+{
+  "name": "local-machine-mcp-server",
+  "description": "Turns your local machine into an MCP server with a GUI, allowing agents to execute file operations, run commands (including admin), manage background processes, and query databases, with optional ngrok exposure.",
+  "source_repo": "authmeonline/local-machine-mcp",
+  "source_url": "https://github.com/authmeonline/local-machine-mcp",
+  "install": "npx -y local-machine-mcp"
+}

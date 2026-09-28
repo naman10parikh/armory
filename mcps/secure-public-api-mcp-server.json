@@ -1,0 +1,7 @@
+{
+  "name": "secure-public-api-mcp-server",
+  "description": "OAuth-protected FastMCP server exposing eight read-only public APIs (currency, weather, art, pets, dictionary, random images, vehicles) via MCP tools, with optional Gemini LLM-based routing for query selection.",
+  "source_repo": "rmohaan/mcp-api",
+  "source_url": "https://github.com/rmohaan/mcp-api",
+  "install": "# git clone --depth 1 https://github.com/rmohaan/mcp-api\n# See source for mcpServers config block"
+}

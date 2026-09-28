@@ -1,0 +1,7 @@
+{
+  "name": "churchsuite-bookings-mcp",
+  "description": "Enables querying ChurchSuite bookings, resources, ministries, and serving patterns via MCP tools, providing read-only access to church management data.",
+  "source_repo": "stevehaskew/churchsuite-mcp",
+  "source_url": "https://github.com/stevehaskew/churchsuite-mcp",
+  "install": "npx -y churchsuite-mcp"
+}

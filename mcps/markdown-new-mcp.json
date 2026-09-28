@@ -1,0 +1,7 @@
+{
+  "name": "markdown-new-mcp",
+  "description": "Convert PDF, DOCX, XLSX, images, and 20+ formats to Markdown using markdown.new API.",
+  "source_repo": "takltc/markdown-new-mcp",
+  "source_url": "https://github.com/takltc/markdown-new-mcp",
+  "install": "npx -y markdown-new-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sin-code-frontend-design-skill",
+  "description": "Provides 8 MCP tools for frontend design: load design system, generate components, scaffold pages, review consistency, extract tokens, check WCAG 2.2 AA, test responsiveness, and export to Figma.",
+  "source_repo": "OpenSIN-Code/SIN-Code-Frontend-Design-Skill",
+  "source_url": "https://github.com/OpenSIN-Code/SIN-Code-Frontend-Design-Skill",
+  "install": "# git clone --depth 1 https://github.com/OpenSIN-Code/SIN-Code-Frontend-Design-Skill\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vibelens",
+  "description": "Enables AI coding assistants to visually inspect local web pages by providing screenshots, console errors, and sanitized DOM snapshots.",
+  "source_repo": "soumyachk101/VibeLens",
+  "source_url": "https://github.com/soumyachk101/VibeLens",
+  "install": "# git clone --depth 1 https://github.com/soumyachk101/VibeLens\n# See source for mcpServers config block"
+}

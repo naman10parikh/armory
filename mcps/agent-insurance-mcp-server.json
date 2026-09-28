@@ -1,0 +1,7 @@
+{
+  "name": "agent-insurance-mcp-server",
+  "description": "MCP server for AI agent transaction insurance and escrow — protect agent-to-agent payments with smart escrow, dispute resolution, and risk scoring.",
+  "source_repo": "AiAgentKarl/agent-insurance-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/agent-insurance-mcp-server",
+  "install": "npx -y agent-insurance-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sap-ai-assistant-mcp-gateway",
+  "description": "Enables natural-language interaction with SAP BTP destinations and OData services through MCP tools, allowing users to discover and query OData endpoints and get AI-generated answers.",
+  "source_repo": "Sambit-Kumar-2001/SAP-AI-Assistant-MCP-Gateway",
+  "source_url": "https://github.com/Sambit-Kumar-2001/SAP-AI-Assistant-MCP-Gateway",
+  "install": "# git clone --depth 1 https://github.com/Sambit-Kumar-2001/SAP-AI-Assistant-MCP-Gateway\n# See source for mcpServers config block"
+}

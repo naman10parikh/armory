@@ -1,0 +1,7 @@
+{
+  "name": "fiken-mcp",
+  "description": "Enables AI assistants to manage invoices, contacts, purchases, journal entries, and other accounting operations via the Fiken API.",
+  "source_repo": "gronnmann/fiken-mcp",
+  "source_url": "https://github.com/gronnmann/fiken-mcp",
+  "install": "npx -y fiken-mcp"
+}

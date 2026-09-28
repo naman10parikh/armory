@@ -1,0 +1,7 @@
+{
+  "name": "gadgethumans-mcp",
+  "description": "GadgetHumans MCP offers 58 tools across 8 categories—AI, weather, crypto, web scraping, code, DNS, SEO, and data—via a single HTTP endpoint, with no API keys and a free tier. It enables any MCP client to access these utilities through natural language.",
+  "source_repo": "gadgethumans-dev/gadgethumans-mcp",
+  "source_url": "https://github.com/gadgethumans-dev/gadgethumans-mcp",
+  "install": "npx -y gadgethumans-mcp"
+}

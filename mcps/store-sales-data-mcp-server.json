@@ -1,0 +1,7 @@
+{
+  "name": "store-sales-data-mcp-server",
+  "description": "Enables querying and managing daily store sales data stored in CSV files, including listing available dates, retrieving raw sales data, computing daily and per-item statistics, and saving new daily sales data.",
+  "source_repo": "eXpresser-UXM/20260617-dx-dojo-mcp-server-sample",
+  "source_url": "https://github.com/eXpresser-UXM/20260617-dx-dojo-mcp-server-sample",
+  "install": "# git clone --depth 1 https://github.com/eXpresser-UXM/20260617-dx-dojo-mcp-server-sample\n# See source for mcpServers config block"
+}

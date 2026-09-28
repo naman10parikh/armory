@@ -1,0 +1,7 @@
+{
+  "name": "brink",
+  "description": "A single-player cinematic geopolitical roleplay MCP server where an LLM game-master handles decision-making with persistent world state and rules enforcement.",
+  "source_repo": "JavaDerek/brink",
+  "source_url": "https://github.com/JavaDerek/brink",
+  "install": "# git clone --depth 1 https://github.com/JavaDerek/brink\n# See source for mcpServers config block"
+}

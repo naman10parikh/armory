@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bitfinex",
+  "description": "Enables access to Bitfinex v2 public market data including ticker history, trades, orderbook, stats, candles, derivatives status, and liquidations via MCP tools, with plain English querying support.",
+  "source_repo": "pipeworx-io/mcp-bitfinex",
+  "source_url": "https://github.com/pipeworx-io/mcp-bitfinex",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-bitfinex\n# See source for mcpServers config block"
+}

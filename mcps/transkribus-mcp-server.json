@@ -1,0 +1,7 @@
+{
+  "name": "transkribus-mcp-server",
+  "description": "MCP server for the Transkribus REST API. Manage collections, documents, HTR/OCR recognition, models, and more through the Model Context Protocol.",
+  "source_repo": "lazyants/transkribus-mcp-server",
+  "source_url": "https://github.com/lazyants/transkribus-mcp-server",
+  "install": "npx -y transkribus-mcp-server"
+}

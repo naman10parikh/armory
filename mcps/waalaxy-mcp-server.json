@@ -1,0 +1,7 @@
+{
+  "name": "waalaxy-mcp-server",
+  "description": "Enables users to manage Waalaxy LinkedIn automation campaigns through MCP tools using browser automation (Playwright) to interact with the Waalaxy web interface.",
+  "source_repo": "globodai-group/mcp-server-waalaxy",
+  "source_url": "https://github.com/globodai-group/mcp-server-waalaxy",
+  "install": "# git clone --depth 1 https://github.com/globodai-group/mcp-server-waalaxy\n# See source for mcpServers config block"
+}

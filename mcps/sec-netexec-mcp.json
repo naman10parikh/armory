@@ -1,0 +1,7 @@
+{
+  "name": "sec-netexec-mcp",
+  "description": "An MCP server that enables AI assistants to execute NetExec network penetration testing commands via SSH to a Kali Linux machine, supporting protocols like SMB, WinRM, SSH, LDAP, and more.",
+  "source_repo": "schwarztim/sec-netexec-mcp",
+  "source_url": "https://github.com/schwarztim/sec-netexec-mcp",
+  "install": "npx -y sec-netexec-mcp"
+}

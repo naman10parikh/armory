@@ -1,0 +1,7 @@
+{
+  "name": "affiliate-marketplace-mcp",
+  "description": "Enables AI agents to automate the full affiliate e-commerce workflow across Shopee and TikTok Shop, including product hunting, seller auditing, review mining, and generating video storyboards and VideoFactory projects. It provides nine MCP tools for search, intelligence extraction, database queries,",
+  "source_repo": "tody-agent/affiliate-marketplace-connector",
+  "source_url": "https://github.com/tody-agent/affiliate-marketplace-connector",
+  "install": "# git clone --depth 1 https://github.com/tody-agent/affiliate-marketplace-connector\n# See source for mcpServers config block"
+}

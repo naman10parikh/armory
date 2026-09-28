@@ -1,0 +1,7 @@
+{
+  "name": "hospital-data-mcp-server",
+  "description": "Enables access to a synthetic hospital dataset through MCP, supporting SSE and STDIO transports, deployable to IBM Cloud Code Engine.",
+  "source_repo": "Nniol/wxo-bootcamp-mcp-server",
+  "source_url": "https://github.com/Nniol/wxo-bootcamp-mcp-server",
+  "install": "npx -y wxo-bootcamp-mcp-server"
+}

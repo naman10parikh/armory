@@ -1,0 +1,7 @@
+{
+  "name": "filesystem-watcher-mcp",
+  "description": "Enables AI coding agents to watch directories for live filesystem changes (create, modify, delete, move) via the Model Context Protocol, providing event-driven access without busy-polling.",
+  "source_repo": "trycatchkamal/filesystemwatcher-mcp",
+  "source_url": "https://github.com/trycatchkamal/filesystemwatcher-mcp",
+  "install": "npx -y filesystemwatcher-mcp"
+}

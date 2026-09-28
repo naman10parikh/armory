@@ -1,0 +1,7 @@
+{
+  "name": "vr-org-mcp",
+  "description": "Read-only MCP server for VR.org providing live VR/AR/XR news, editorial, deals, headset comparisons, top games/apps, and Q&A through ten tools. Requires no API keys or configuration.",
+  "source_repo": "evanatpizzarobot/vr-org-mcp",
+  "source_url": "https://github.com/evanatpizzarobot/vr-org-mcp",
+  "install": "npx -y vr-org-mcp"
+}

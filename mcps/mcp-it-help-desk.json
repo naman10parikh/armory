@@ -1,0 +1,7 @@
+{
+  "name": "mcp-it-help-desk",
+  "description": "AI-powered IT support server that understands issues in Turkish and English, suggests fixes, and routes to the right experts via Django DB.",
+  "source_repo": "minasenel/mcp-it-helpdesk",
+  "source_url": "https://github.com/minasenel/mcp-it-helpdesk",
+  "install": "# git clone --depth 1 https://github.com/minasenel/mcp-it-helpdesk\n# See source for mcpServers config block"
+}

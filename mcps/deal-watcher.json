@@ -1,0 +1,7 @@
+{
+  "name": "deal-watcher",
+  "description": "Enables monitoring Amazon.sa product prices with Telegram alerts, using a two-step approval process for tracking products.",
+  "source_repo": "s2leh/deal-watcher-ai-agent",
+  "source_url": "https://github.com/s2leh/deal-watcher-ai-agent",
+  "install": "# git clone --depth 1 https://github.com/s2leh/deal-watcher-ai-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "skillsindex-mcp",
+  "description": "Enables AI agents to search, score, review, and submit tools from the SkillsIndex directory of 11,000+ AI agent tools.",
+  "source_repo": "thomasblc/skillsindex-mcp",
+  "source_url": "https://github.com/thomasblc/skillsindex-mcp",
+  "install": "npx -y skillsindex-mcp"
+}

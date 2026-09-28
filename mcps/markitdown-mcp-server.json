@@ -1,0 +1,7 @@
+{
+  "name": "markitdown-mcp-server",
+  "description": "Converts documents (PDF, DOCX, images, etc.) to Markdown using Microsoft's Markitdown library, with no local setup required. Integrates with AI agents via MCP for seamless document conversion.",
+  "source_repo": "RECTOR-LABS/markitdown-mcp-server",
+  "source_url": "https://github.com/RECTOR-LABS/markitdown-mcp-server",
+  "install": "npx -y markitdown-mcp-server"
+}

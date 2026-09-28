@@ -1,0 +1,7 @@
+{
+  "name": "pdf-knowledge-mcp",
+  "description": "A local RAG MCP server for PDF development experience, enabling document ingestion, semantic search, and Q\\&A with source citations using TF-IDF and cosine similarity.",
+  "source_repo": "tycket033-tech/pdf-knowledge-mcp",
+  "source_url": "https://github.com/tycket033-tech/pdf-knowledge-mcp",
+  "install": "npx -y pdf-knowledge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "better-playwright-mcp",
+  "description": "Token-efficient browser automation MCP server using Playwright, with getOutline and searchSnapshot to save ~95% tokens compared to full snapshots.",
+  "source_repo": "ekuznetski/better-playwright-mcp",
+  "source_url": "https://github.com/ekuznetski/better-playwright-mcp",
+  "install": "npx -y better-playwright-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ecommerce-mcp-server",
+  "description": "Enables AI agents to search products, lookup barcodes, and manage shopping carts and wishlists using free e-commerce APIs.",
+  "source_repo": "AiAgentKarl/ecommerce-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/ecommerce-mcp-server",
+  "install": "npx -y ecommerce-mcp-server"
+}

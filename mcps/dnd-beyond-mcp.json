@@ -1,0 +1,7 @@
+{
+  "name": "dnd-beyond-mcp",
+  "description": "Enables reading D\\&D Beyond characters and campaigns through Claude using Playwright for authentication.",
+  "source_repo": "jacoscha/dnd-beyond-mcp",
+  "source_url": "https://github.com/jacoscha/dnd-beyond-mcp",
+  "install": "npx -y dnd-beyond-mcp"
+}

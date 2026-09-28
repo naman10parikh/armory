@@ -1,0 +1,7 @@
+{
+  "name": "minio-put-mcp-server",
+  "description": "A PUT-only MCP server for MinIO that enables file, batch, and streaming uploads with automatic date/machine/file path organization and metadata generation for data archiving.",
+  "source_repo": "zymeli/minio-put-mcp",
+  "source_url": "https://github.com/zymeli/minio-put-mcp",
+  "install": "npx -y minio-put-mcp"
+}

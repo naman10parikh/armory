@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-agent",
+  "description": "A real MCP server exposing data-analyst tools (SQL querying, schema introspection, stats, charting) over a sales database, with a Gemini agent that discovers and calls those tools at runtime via the standard MCP protocol.",
+  "source_repo": "dhandashreya/mcp-data-agent",
+  "source_url": "https://github.com/dhandashreya/mcp-data-agent",
+  "install": "# git clone --depth 1 https://github.com/dhandashreya/mcp-data-agent\n# See source for mcpServers config block"
+}

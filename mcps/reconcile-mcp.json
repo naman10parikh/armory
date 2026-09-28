@@ -1,0 +1,7 @@
+{
+  "name": "reconcile-mcp",
+  "description": "Matches expected payments (pain.001) against observed booked entries (camt.053) for ISO 20022 cash reconciliation, providing explainable match results with scoring and classification.",
+  "source_repo": "sebastienrousseau/reconcile-mcp",
+  "source_url": "https://github.com/sebastienrousseau/reconcile-mcp",
+  "install": "npx -y reconcile-mcp"
+}

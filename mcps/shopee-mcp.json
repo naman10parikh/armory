@@ -1,0 +1,7 @@
+{
+  "name": "shopee-mcp",
+  "description": "MCP server for searching Shopee products in Singapore or Indonesia and generating affiliate links via the Shopee Affiliate Open API.",
+  "source_repo": "TatarchenkovAndrey/shopee-mcp",
+  "source_url": "https://github.com/TatarchenkovAndrey/shopee-mcp",
+  "install": "npx -y shopee-mcp"
+}

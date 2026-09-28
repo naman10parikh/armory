@@ -1,0 +1,7 @@
+{
+  "name": "llm-cost-guard",
+  "description": "MCP server for tracking LLM costs, setting spending limits, and receiving budget alerts directly within AI editors via slash commands like /guard.",
+  "source_repo": "Wimoron/llm-cost-guard",
+  "source_url": "https://github.com/Wimoron/llm-cost-guard",
+  "install": "# git clone --depth 1 https://github.com/Wimoron/llm-cost-guard\n# See source for mcpServers config block"
+}

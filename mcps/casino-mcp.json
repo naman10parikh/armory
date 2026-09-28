@@ -1,0 +1,7 @@
+{
+  "name": "casino-mcp",
+  "description": "Control CASINO quantum Monte Carlo calculations: start a run, poll whether it is still running, stop it, list past jobs — and read CASINO's out file as structured data instead of 4000 lines of text.",
+  "source_repo": "Konjkov/casino-mcp",
+  "source_url": "https://github.com/Konjkov/casino-mcp",
+  "install": "npx -y casino-mcp"
+}

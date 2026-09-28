@@ -1,0 +1,7 @@
+{
+  "name": "bazaligjore",
+  "description": "An MCP server for researching Albanian legislation, providing access to the Official Gazette, amendment graphs, and Constitutional Court decisions via a structured index.",
+  "source_repo": "the13thclown/bazaligjore",
+  "source_url": "https://github.com/the13thclown/bazaligjore",
+  "install": "# git clone --depth 1 https://github.com/the13thclown/bazaligjore\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "idamcp",
+  "description": "Enables AI tools to execute IDA Python code inside IDA Pro for reverse engineering tasks via MCP over SSE.",
+  "source_repo": "won0-kim/idamcp",
+  "source_url": "https://github.com/won0-kim/idamcp",
+  "install": "# git clone --depth 1 https://github.com/won0-kim/idamcp\n# See source for mcpServers config block"
+}

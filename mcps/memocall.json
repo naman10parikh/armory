@@ -1,0 +1,7 @@
+{
+  "name": "memocall",
+  "description": "An MCP server that lets Claude Code recall the context of past conversations from any project on demand.",
+  "source_repo": "baodq06/memocall",
+  "source_url": "https://github.com/baodq06/memocall",
+  "install": "# git clone --depth 1 https://github.com/baodq06/memocall\n# See source for mcpServers config block"
+}

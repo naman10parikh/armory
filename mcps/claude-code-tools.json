@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-tools",
+  "description": "MCP server providing code review, auto-fix, test running, linting, formatting, and refactor suggestions for Claude Code.",
+  "source_repo": "permacopia3223/claude-code-tools",
+  "source_url": "https://github.com/permacopia3223/claude-code-tools",
+  "install": "# git clone --depth 1 https://github.com/permacopia3223/claude-code-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "moldsim-mcp",
+  "description": "An MCP server that gives AI assistants expert knowledge about injection molding simulation, providing tools for material properties, process validation, troubleshooting, and simulation specification generation.",
+  "source_repo": "moldsim/moldsim-mcp",
+  "source_url": "https://github.com/moldsim/moldsim-mcp",
+  "install": "npx -y moldsim-mcp"
+}

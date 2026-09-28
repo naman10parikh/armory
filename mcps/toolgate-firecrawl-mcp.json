@@ -1,0 +1,7 @@
+{
+  "name": "toolgate-firecrawl-mcp",
+  "description": "A recoverable Firecrawl MCP server that adds payment lifecycle, idempotency, and automatic refunds/fallbacks to web scraping, enabling reliable paid scraping via natural language.",
+  "source_repo": "tkorkmazeth/toolgate-firecrawl-mcp",
+  "source_url": "https://github.com/tkorkmazeth/toolgate-firecrawl-mcp",
+  "install": "npx -y toolgate-firecrawl-mcp"
+}

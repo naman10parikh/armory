@@ -1,0 +1,7 @@
+{
+  "name": "jelly-memo-local-mcp-server",
+  "description": "A local MCP server that enables AI tools to find and propose changes to Jelly Memo notes, running only on 127.0.0.1:8765 with optional pairing token for security.",
+  "source_repo": "egm7126/simpleMemo-releases",
+  "source_url": "https://github.com/egm7126/simpleMemo-releases",
+  "install": "# git clone --depth 1 https://github.com/egm7126/simpleMemo-releases\n# See source for mcpServers config block"
+}

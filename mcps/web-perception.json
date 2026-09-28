@@ -1,0 +1,7 @@
+{
+  "name": "web-perception",
+  "description": "Give your AI ears and eyes and perception",
+  "source_repo": "asume21/webear",
+  "source_url": "https://github.com/asume21/webear",
+  "install": "# git clone --depth 1 https://github.com/asume21/webear\n# See source for mcpServers config block"
+}

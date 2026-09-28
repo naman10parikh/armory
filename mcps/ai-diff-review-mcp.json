@@ -1,0 +1,7 @@
+{
+  "name": "ai-diff-review-mcp",
+  "description": "Enables AI agents to edit files in VS Code with an interactive diff review panel, allowing users to accept or reject changes.",
+  "source_repo": "iiNothh/ai-diff-review-mcp",
+  "source_url": "https://github.com/iiNothh/ai-diff-review-mcp",
+  "install": "npx -y ai-diff-review-mcp"
+}

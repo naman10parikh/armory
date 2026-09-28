@@ -1,0 +1,7 @@
+{
+  "name": "fofa-mcp-server",
+  "description": "MCP server for querying the FOFA API, enabling network asset search and account information retrieval.",
+  "source_repo": "intbjw/fofa-mcp-server",
+  "source_url": "https://github.com/intbjw/fofa-mcp-server",
+  "install": "npx -y fofa-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-clean",
+  "description": "Enables local management of approved project folders through tools for file operations, project status, backups, health checks, git checkpoints, and rollback. Operations are restricted to configured allowed roots.",
+  "source_repo": "olegzh100/MCP-CLEAN",
+  "source_url": "https://github.com/olegzh100/MCP-CLEAN",
+  "install": "# git clone --depth 1 https://github.com/olegzh100/MCP-CLEAN\n# See source for mcpServers config block"
+}

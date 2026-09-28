@@ -1,0 +1,7 @@
+{
+  "name": "mcp-cmf-chile",
+  "description": "MCP server that provides access to all public data from Chile's Financial Market Commission (CMF), including companies, financial statements, mutual funds, economic indicators, and more, allowing AI agents to connect to official financial regulator information without cost or API keys.",
+  "source_repo": "JoaquinMulet/mcp-cmf-chile",
+  "source_url": "https://github.com/JoaquinMulet/mcp-cmf-chile",
+  "install": "# git clone --depth 1 https://github.com/JoaquinMulet/mcp-cmf-chile\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "javascript-mcp-server",
+  "description": "Deterministic MCP server for semantic analysis of JavaScript/TypeScript codebases, including frameworks like Vue, Angular, React, and Node. It provides tools for type checking, code metrics, framework-specific analysis, and quality heuristics via static parsing.",
+  "source_repo": "aferreiraguido/javascript-mcp-server",
+  "source_url": "https://github.com/aferreiraguido/javascript-mcp-server",
+  "install": "npx -y javascript-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "irq-freeipa-mcp",
+  "description": "MCP server for FreeIPA identity management. Provides 36 tools for managing users, groups, sudo rules, HBAC rules, certificates, hosts, and SSSD cache.",
+  "source_repo": "toddbartholow/irq-freeipa-mcp",
+  "source_url": "https://github.com/toddbartholow/irq-freeipa-mcp",
+  "install": "npx -y irq-freeipa-mcp"
+}

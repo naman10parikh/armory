@@ -1,0 +1,7 @@
+{
+  "name": "soi-mcp",
+  "description": "Provides IRS income and tax statistics by ZIP code, enabling LLM agents to query income distribution, tax liabilities, credits, and deductions for any U.S. ZIP code using public IRS SOI data without an API key.",
+  "source_repo": "mcpwright/soi-mcp",
+  "source_url": "https://github.com/mcpwright/soi-mcp",
+  "install": "npx -y soi-mcp"
+}

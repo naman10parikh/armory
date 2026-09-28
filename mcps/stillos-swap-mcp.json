@@ -1,0 +1,7 @@
+{
+  "name": "stillos-swap-mcp",
+  "description": "Non-custodial Solana swap routing with best-price execution, flat 0.25% fee, and built-in on-chain scam checking for token safety.",
+  "source_repo": "stillmarcus24/stillos-swap-mcp",
+  "source_url": "https://github.com/stillmarcus24/stillos-swap-mcp",
+  "install": "npx -y stillos-swap-mcp"
+}

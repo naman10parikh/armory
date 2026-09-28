@@ -1,0 +1,7 @@
+{
+  "name": "pc2e-pii-shield",
+  "description": "MCP server for secure read-only PostgreSQL queries with automatic PII masking, pseudonymization, and strict SQL guards to enforce data privacy compliance.",
+  "source_repo": "thegeekybeng/mcp-pii-shield",
+  "source_url": "https://github.com/thegeekybeng/mcp-pii-shield",
+  "install": "# git clone --depth 1 https://github.com/thegeekybeng/mcp-pii-shield\n# See source for mcpServers config block"
+}

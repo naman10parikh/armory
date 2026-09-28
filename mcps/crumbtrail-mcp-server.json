@@ -1,0 +1,7 @@
+{
+  "name": "crumbtrail-mcp-server",
+  "description": "Retrieves captured bug context and evidence for coding agents, enabling progressive disclosure of sessions, manifests, and window correlations to diagnose and fix issues.",
+  "source_repo": "CrumbtrailDev/crumbtrail-cli",
+  "source_url": "https://github.com/CrumbtrailDev/crumbtrail-cli",
+  "install": "# git clone --depth 1 https://github.com/CrumbtrailDev/crumbtrail-cli\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lattice-mcp-server",
+  "description": "Enables LLM agents to compute and analyze the thermodynamics of hot, strongly interacting matter from lattice QCD, including the equation of state, hadron resonance gas properties, and associated plots, using the latqcdtools package.",
+  "source_repo": "nesar/lattice-mcp-server",
+  "source_url": "https://github.com/nesar/lattice-mcp-server",
+  "install": "npx -y lattice-mcp-server"
+}

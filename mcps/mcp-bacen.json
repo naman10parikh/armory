@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bacen",
+  "description": "Provides tools to query Brazilian Central Bank public data, including SGS time series and PTAX exchange rates.",
+  "source_repo": "Baldros/mcp-bacen",
+  "source_url": "https://github.com/Baldros/mcp-bacen",
+  "install": "# git clone --depth 1 https://github.com/Baldros/mcp-bacen\n# See source for mcpServers config block"
+}

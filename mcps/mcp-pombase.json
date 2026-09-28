@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pombase",
+  "description": "Enables AI agents to query the PomBase fission yeast model-organism database for genetic and molecular data through the Pipeworx MCP gateway.",
+  "source_repo": "pipeworx-io/mcp-pombase",
+  "source_url": "https://github.com/pipeworx-io/mcp-pombase",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-pombase\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "timeweb-mcp",
+  "description": "MCP server for Timeweb Cloud that enables AI assistants to manage cloud servers, domains, DNS records, and view account balance via natural language commands.",
+  "source_repo": "k2spam/timeweb-mcp",
+  "source_url": "https://github.com/k2spam/timeweb-mcp",
+  "install": "npx -y timeweb-mcp"
+}

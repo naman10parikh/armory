@@ -1,0 +1,7 @@
+{
+  "name": "wix-bookings-mcp-server",
+  "description": "Enables managing Wix Bookings courses and searching participants through the Wix Bookings API with tools to list services, list formations with participants, get formation participants, and search bookings by name, email, or phone.",
+  "source_repo": "mateotiedra/wix-formation-mcp",
+  "source_url": "https://github.com/mateotiedra/wix-formation-mcp",
+  "install": "npx -y wix-formation-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stardew-mcp",
+  "description": "Exposes the Stardew Valley Wiki as structured data via MCP tools for keyword/semantic search, page retrieval, and entity listings.",
+  "source_repo": "cbhl/farming-game-mcp",
+  "source_url": "https://github.com/cbhl/farming-game-mcp",
+  "install": "npx -y farming-game-mcp"
+}

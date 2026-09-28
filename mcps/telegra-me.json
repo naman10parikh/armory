@@ -1,0 +1,7 @@
+{
+  "name": "telegra-me",
+  "description": "Bridges MCP clients to Telegram for sending notifications and waiting for user replies.",
+  "source_repo": "guedes-joaofelipe/telegra-me",
+  "source_url": "https://github.com/guedes-joaofelipe/telegra-me",
+  "install": "# git clone --depth 1 https://github.com/guedes-joaofelipe/telegra-me\n# See source for mcpServers config block"
+}

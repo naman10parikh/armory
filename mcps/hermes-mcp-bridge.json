@@ -1,0 +1,7 @@
+{
+  "name": "hermes-mcp-bridge",
+  "description": "Read-only MCP bridge exposing Hermes gateway monitoring tools (status, mission control, channels, approvals) to ChatGPT via HTTP/SSE.",
+  "source_repo": "jigsgfx/hermes-mcp-bridge",
+  "source_url": "https://github.com/jigsgfx/hermes-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/jigsgfx/hermes-mcp-bridge\n# See source for mcpServers config block"
+}

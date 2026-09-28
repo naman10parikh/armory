@@ -1,0 +1,7 @@
+{
+  "name": "obra-cfo",
+  "description": "Local-first MCP server that simulates an investment committee on your pitch materials to assess funding readiness, integrating with Obra CTO for technical evidence.",
+  "source_repo": "lilycip/obra-cfo",
+  "source_url": "https://github.com/lilycip/obra-cfo",
+  "install": "# git clone --depth 1 https://github.com/lilycip/obra-cfo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "content-contracts-mcp-server",
+  "description": "MCP server exposing content contract validators (SEO.md, PRODUCTHUNT.md, LINKEDIN.md) as tools so AI agents can verify generated content against concrete rules without maintaining linters. It provides linting and JSON-LD export tools with config and content passed as parameters, not file paths.",
+  "source_repo": "MauricioPerera/content-contracts-mcp-server",
+  "source_url": "https://github.com/MauricioPerera/content-contracts-mcp-server",
+  "install": "npx -y content-contracts-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "octave-mcp",
+  "description": "MCP server for deterministic document infrastructure, enabling canonical normalization, schema validation, and grammar compilation for structured AI artifacts.",
+  "source_repo": "elevanaltd/octave-mcp",
+  "source_url": "https://github.com/elevanaltd/octave-mcp",
+  "install": "npx -y octave-mcp"
+}

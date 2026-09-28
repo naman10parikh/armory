@@ -1,0 +1,7 @@
+{
+  "name": "mac-messages",
+  "description": "Enables AI agents to read the entire Apple Messages (iMessage/SMS) history on a Mac through a read-only, batched tool that supports listing chats, retrieving transcripts, polling recent messages, and searching message bodies via REST or streamable HTTP MCP.",
+  "source_repo": "whogben/mac_messages_host",
+  "source_url": "https://github.com/whogben/mac_messages_host",
+  "install": "# git clone --depth 1 https://github.com/whogben/mac_messages_host\n# See source for mcpServers config block"
+}

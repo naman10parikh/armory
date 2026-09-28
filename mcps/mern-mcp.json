@@ -1,0 +1,7 @@
+{
+  "name": "mern-mcp",
+  "description": "Enables scaffolding full-stack MERN CRUD resources including models, routes, controllers, and React components with preview and apply modes.",
+  "source_repo": "IrtezaAsadRizvi/mern-mcp",
+  "source_url": "https://github.com/IrtezaAsadRizvi/mern-mcp",
+  "install": "npx -y mern-mcp"
+}

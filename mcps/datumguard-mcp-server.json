@@ -1,0 +1,7 @@
+{
+  "name": "datumguard-mcp-server",
+  "description": "Enables engineering design assurance for architecture, piping, and plate designs by drafting, validating, and verifying design contracts and DXF drawings through independent verification.",
+  "source_repo": "tjwnsdhfz/datumguard",
+  "source_url": "https://github.com/tjwnsdhfz/datumguard",
+  "install": "# git clone --depth 1 https://github.com/tjwnsdhfz/datumguard\n# See source for mcpServers config block"
+}

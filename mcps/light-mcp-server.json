@@ -1,0 +1,7 @@
+{
+  "name": "light-mcp-server",
+  "description": "MCP server for the LIGHT photonic programming language. Enables executing light programs, evaluating expressions, applying parameterized templates, chaining pipes, and accessing opcode/runtime info.",
+  "source_repo": "teslasolar/light",
+  "source_url": "https://github.com/teslasolar/light",
+  "install": "# git clone --depth 1 https://github.com/teslasolar/light\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-hasolidit",
+  "description": "MCP server that enables AI tools to search, read threads, and retrieve latest posts from the Hasolidit financial community forum.",
+  "source_repo": "danielgolub/mcp-hasolidit",
+  "source_url": "https://github.com/danielgolub/mcp-hasolidit",
+  "install": "# git clone --depth 1 https://github.com/danielgolub/mcp-hasolidit\n# See source for mcpServers config block"
+}

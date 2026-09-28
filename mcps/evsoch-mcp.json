@@ -1,0 +1,7 @@
+{
+  "name": "evsoch-mcp",
+  "description": "A secure thin client bridge for EVSocho vehicle data ingest, enabling tools like health check, brand listing, and vehicle draft validation/upsert via daily tokens and server-side auth.",
+  "source_repo": "EVSOCH/evsoch-mcp",
+  "source_url": "https://github.com/EVSOCH/evsoch-mcp",
+  "install": "npx -y evsoch-mcp"
+}

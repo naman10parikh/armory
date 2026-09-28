@@ -1,0 +1,7 @@
+{
+  "name": "freemcp-for-figma",
+  "description": "Enables AI coding agents to read and write a user's Figma file through the Figma Plugin API, offline and privately, without API tokens or rate limits.",
+  "source_repo": "w4ndaja/figma-plugin-as-mcp",
+  "source_url": "https://github.com/w4ndaja/figma-plugin-as-mcp",
+  "install": "npx -y figma-plugin-as-mcp"
+}

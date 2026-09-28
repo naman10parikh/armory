@@ -1,0 +1,7 @@
+{
+  "name": "der-sp-indica-o-do-condutor-infrator",
+  "description": "Enables consulting the indication of the offending driver (condutor infrator) from official DER SP (São Paulo State Highway Department) sources. It is a read-only HTTP MCP server with pre-paid credits, compatible with any MCP client.",
+  "source_repo": "mcp-dir/der_sp_indicacao-mcp",
+  "source_url": "https://github.com/mcp-dir/der_sp_indicacao-mcp",
+  "install": "npx -y der_sp_indicacao-mcp"
+}

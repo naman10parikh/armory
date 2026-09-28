@@ -1,0 +1,7 @@
+{
+  "name": "keplr-wallet-mcp",
+  "description": "Your AI-powered wallet for Cosmos. Send, stake, swap — just ask.",
+  "source_repo": "chainapsis/keplr-wallet-mcp",
+  "source_url": "https://github.com/chainapsis/keplr-wallet-mcp",
+  "install": "npx -y keplr-wallet-mcp"
+}

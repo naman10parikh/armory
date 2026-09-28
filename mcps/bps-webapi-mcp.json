@@ -1,0 +1,7 @@
+{
+  "name": "bps-webapi-mcp",
+  "description": "Enables AI assistants to access official Indonesian statistical data (BPS) through MCP, providing tools for dynamic data queries, foreign trade, publications, and more.",
+  "source_repo": "Rasyidarfan/bps-webapi-mcp",
+  "source_url": "https://github.com/Rasyidarfan/bps-webapi-mcp",
+  "install": "npx -y bps-webapi-mcp"
+}

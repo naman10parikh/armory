@@ -1,0 +1,7 @@
+{
+  "name": "model-price-watch",
+  "description": "Live LLM API pricing: current token prices, model comparisons, cheapest-model lookups, and The LLM Price Index for 150+ models across 20+ providers, re-verified daily. No API key required.",
+  "source_repo": "romanshumy/llm-prices-data",
+  "source_url": "https://github.com/romanshumy/llm-prices-data",
+  "install": "# git clone --depth 1 https://github.com/romanshumy/llm-prices-data\n# See source for mcpServers config block"
+}

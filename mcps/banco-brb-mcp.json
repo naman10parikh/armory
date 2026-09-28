@@ -1,0 +1,7 @@
+{
+  "name": "banco-brb-mcp",
+  "description": "Connects to Banco BRB via Open Finance Brasil to read balances, statements, card invoices, and investments using natural language.",
+  "source_repo": "mcp-dir/brb-mcp",
+  "source_url": "https://github.com/mcp-dir/brb-mcp",
+  "install": "npx -y brb-mcp"
+}

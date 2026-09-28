@@ -1,0 +1,7 @@
+{
+  "name": "claudechat",
+  "description": "Enables Claude Code agents to communicate across sessions, terminals, and repositories through shared channels with persistent context.",
+  "source_repo": "zzibo/claudechat",
+  "source_url": "https://github.com/zzibo/claudechat",
+  "install": "# git clone --depth 1 https://github.com/zzibo/claudechat\n# See source for mcpServers config block"
+}

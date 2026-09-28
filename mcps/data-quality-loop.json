@@ -1,0 +1,7 @@
+{
+  "name": "data-quality-loop",
+  "description": "Enables autonomous data quality inspection and repair workflows. It scans DuckDB warehouses for anomalies, generates and verifies fixes in a dry-run copy, then applies them after validation, with full audit logging.",
+  "source_repo": "auron-lmh/data-quality-loop",
+  "source_url": "https://github.com/auron-lmh/data-quality-loop",
+  "install": "# git clone --depth 1 https://github.com/auron-lmh/data-quality-loop\n# See source for mcpServers config block"
+}

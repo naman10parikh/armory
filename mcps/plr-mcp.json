@@ -1,0 +1,7 @@
+{
+  "name": "plr-mcp",
+  "description": "A Model Context Protocol server for PyLabRobot that exposes liquid handler, plate reader, thermocycler, and heater-shaker as MCP tools. It ships in simulation mode by default, allowing end-to-end testing without hardware.",
+  "source_repo": "di-omics/plr-mcp",
+  "source_url": "https://github.com/di-omics/plr-mcp",
+  "install": "npx -y plr-mcp"
+}

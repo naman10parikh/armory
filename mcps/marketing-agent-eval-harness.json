@@ -1,0 +1,7 @@
+{
+  "name": "marketing-agent-eval-harness",
+  "description": "Provides two MCP tools for querying a synthetic marketing SQLite database and running agent evaluation cases, with read-only SQL guarding and deterministic planning. The server communicates over stdio and supports initialization handshake and tool listing.",
+  "source_repo": "Praharsh-Projects/marketing-agent-eval-harness",
+  "source_url": "https://github.com/Praharsh-Projects/marketing-agent-eval-harness",
+  "install": "# git clone --depth 1 https://github.com/Praharsh-Projects/marketing-agent-eval-harness\n# See source for mcpServers config block"
+}

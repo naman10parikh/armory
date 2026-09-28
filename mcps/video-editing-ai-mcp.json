@@ -1,0 +1,7 @@
+{
+  "name": "video-editing-ai-mcp",
+  "description": "AI-powered video editing toolkit: scene splitting, subtitle generation, thumbnail planning, color grading, and aspect ratio conversion.",
+  "source_repo": "CSOAI-ORG/video-editing-ai-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/video-editing-ai-mcp",
+  "install": "npx -y video-editing-ai-mcp"
+}

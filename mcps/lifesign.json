@@ -1,0 +1,7 @@
+{
+  "name": "lifesign",
+  "description": "Enables AI agents to read real-time device status and health data (battery, location, network) reported from a mobile phone, acting as a single-port HTTP/MCP telemetry server.",
+  "source_repo": "shutdown-awa/lifesign",
+  "source_url": "https://github.com/shutdown-awa/lifesign",
+  "install": "# git clone --depth 1 https://github.com/shutdown-awa/lifesign\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "resto-mcp",
+  "description": "Searches restaurants via Google Places API and returns an interactive carousel, ready for Mistral Le Chat / Alpic.",
+  "source_repo": "aristochatti/restaurant-mcp",
+  "source_url": "https://github.com/aristochatti/restaurant-mcp",
+  "install": "npx -y restaurant-mcp"
+}

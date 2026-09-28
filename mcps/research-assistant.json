@@ -1,0 +1,7 @@
+{
+  "name": "research-assistant",
+  "description": "Enables searching arXiv papers, extracting paper information, listing paper topics, and generating structured research prompts through MCP tools, resources, and prompts.",
+  "source_repo": "pytholic/mcp-walkthrough",
+  "source_url": "https://github.com/pytholic/mcp-walkthrough",
+  "install": "# git clone --depth 1 https://github.com/pytholic/mcp-walkthrough\n# See source for mcpServers config block"
+}

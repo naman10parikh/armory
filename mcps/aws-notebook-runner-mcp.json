@@ -1,0 +1,7 @@
+{
+  "name": "aws-notebook-runner-mcp",
+  "description": "Enables running Jupyter notebooks on temporary AWS compute (EC2 + SSM) with cost estimation, dry-run planning, progress reporting, and automatic cleanup.",
+  "source_repo": "YummyTastyCode/aws-notebook-runner-mcp",
+  "source_url": "https://github.com/YummyTastyCode/aws-notebook-runner-mcp",
+  "install": "npx -y aws-notebook-runner-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "diagrams-mcp",
+  "description": "Enables generating cloud architecture diagrams, flowcharts, sequence diagrams, and more using three rendering engines: mingrammer/diagrams, Mermaid, and PlantUML.",
+  "source_repo": "ByteOverDev/diagrams-mcp",
+  "source_url": "https://github.com/ByteOverDev/diagrams-mcp",
+  "install": "npx -y diagrams-mcp"
+}

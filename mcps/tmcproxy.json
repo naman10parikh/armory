@@ -1,0 +1,7 @@
+{
+  "name": "tmcproxy",
+  "description": "Bridges OpenAI's Secure MCP Tunnel to legacy stdio MCP servers by answering server/discover requests that older servers don't support.",
+  "source_repo": "mkusaka/tmcproxy",
+  "source_url": "https://github.com/mkusaka/tmcproxy",
+  "install": "# git clone --depth 1 https://github.com/mkusaka/tmcproxy\n# See source for mcpServers config block"
+}

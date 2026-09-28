@@ -1,0 +1,7 @@
+{
+  "name": "vector-mcp",
+  "description": "A production-grade MCP server for integrating RAG into AI agents, supporting multiple vector databases with enterprise security and dynamic tool selection.",
+  "source_repo": "Knuckles-Team/vector-mcp",
+  "source_url": "https://github.com/Knuckles-Team/vector-mcp",
+  "install": "npx -y vector-mcp"
+}

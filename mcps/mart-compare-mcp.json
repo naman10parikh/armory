@@ -1,0 +1,7 @@
+{
+  "name": "mart-compare-mcp",
+  "description": "Enables users to compare and get recommendations across multiple supermarket products, combining curated specifications with realtime price and review lookups.",
+  "source_repo": "ksbsjh74-code/mart-compare-mcp",
+  "source_url": "https://github.com/ksbsjh74-code/mart-compare-mcp",
+  "install": "npx -y mart-compare-mcp"
+}

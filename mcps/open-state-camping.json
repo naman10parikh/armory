@@ -1,0 +1,7 @@
+{
+  "name": "open-state-camping",
+  "description": "MCP server that lets citizens search and book Parks Canada campgrounds, accommodations, day use, and backcountry permits through their own AI assistant, with secure local session handling and payment completed by the user in their own browser.",
+  "source_repo": "JCrossman/can-fed-camp-mcp",
+  "source_url": "https://github.com/JCrossman/can-fed-camp-mcp",
+  "install": "npx -y can-fed-camp-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zoho-crm-mcp",
+  "description": "Provides live Zoho CRM data access via MCP tools, enabling queries on modules, records, fields, and related lists without syncing data.",
+  "source_repo": "5ivatej/zoho-crm-mcp",
+  "source_url": "https://github.com/5ivatej/zoho-crm-mcp",
+  "install": "npx -y zoho-crm-mcp"
+}

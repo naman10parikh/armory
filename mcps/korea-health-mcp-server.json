@@ -1,0 +1,7 @@
+{
+  "name": "korea-health-mcp-server",
+  "description": "Enables natural language querying of Korean public medical data (data.go.kr) through MCP clients like Claude, providing tools for searching hospitals, drugs, non-payment costs, disease statistics, and more.",
+  "source_repo": "NSLC7779/dk-korea-health-mcp",
+  "source_url": "https://github.com/NSLC7779/dk-korea-health-mcp",
+  "install": "npx -y dk-korea-health-mcp"
+}

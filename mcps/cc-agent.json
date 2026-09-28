@@ -1,0 +1,7 @@
+{
+  "name": "cc-agent",
+  "description": "MCP server that spawns autonomous Claude Code agents in GitHub repos, enabling task delegation with persistent state, multi-step workflows, and job monitoring.",
+  "source_repo": "Gonzih/cc-agent",
+  "source_url": "https://github.com/Gonzih/cc-agent",
+  "install": "# git clone --depth 1 https://github.com/Gonzih/cc-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "opspilot-mcp",
+  "description": "An MCP server exposing Kubernetes-style diagnostic tools to an LLM agent, with a safety approval gate for destructive actions, all backed by a mock cluster for local testing.",
+  "source_repo": "srurora/opspilot-mcp",
+  "source_url": "https://github.com/srurora/opspilot-mcp",
+  "install": "npx -y opspilot-mcp"
+}

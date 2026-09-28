@@ -1,0 +1,7 @@
+{
+  "name": "verity-mcp-server",
+  "description": "Enables AI agents to invoke six pre-trade integrity check skills: detect coordinated activity, score market subjects, cross-check claims, and flag disinformation patterns.",
+  "source_repo": "cchurctrip/verity-mcp",
+  "source_url": "https://github.com/cchurctrip/verity-mcp",
+  "install": "npx -y verity-mcp"
+}

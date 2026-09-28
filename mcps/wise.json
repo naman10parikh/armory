@@ -1,0 +1,7 @@
+{
+  "name": "wise",
+  "description": "Enables AI agents to access Wise multi-currency account data, including balances, transactions, transfers, and card purchases via MCP protocol.",
+  "source_repo": "mcp-dir/wise-mcp",
+  "source_url": "https://github.com/mcp-dir/wise-mcp",
+  "install": "npx -y wise-mcp"
+}

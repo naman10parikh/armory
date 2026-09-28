@@ -1,0 +1,7 @@
+{
+  "name": "originalvoices-mcp-server",
+  "description": "Enables asking questions to AI twins representing specific audiences for research purposes.",
+  "source_repo": "ovlabs/mcp-server-originalvoices",
+  "source_url": "https://github.com/ovlabs/mcp-server-originalvoices",
+  "install": "# git clone --depth 1 https://github.com/ovlabs/mcp-server-originalvoices\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "forloop-mcp",
+  "description": "Enables AI harnesses to run iterative loops on code repositories with built-in quality evaluations, security gates, and approval workflows for tasks like fixing tests or implementing features.",
+  "source_repo": "Master0fFate/forloop-mcp",
+  "source_url": "https://github.com/Master0fFate/forloop-mcp",
+  "install": "npx -y forloop-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wavekit-mcp",
+  "description": "An MCP server that provides AI assistants with a persistent, sandboxed Python environment for waveform analysis, enabling loading and manipulation of VCD/FST/FSDB files and temporal pattern matching.",
+  "source_repo": "cxzzzz/wavekit-mcp",
+  "source_url": "https://github.com/cxzzzz/wavekit-mcp",
+  "install": "npx -y wavekit-mcp"
+}

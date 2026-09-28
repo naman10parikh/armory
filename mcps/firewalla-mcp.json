@@ -1,0 +1,7 @@
+{
+  "name": "firewalla-mcp",
+  "description": "Exposes the Firewalla MSP API as tools for Claude Code and other MCP clients, enabling natural-language management of Firewalla boxes, alarms, rules, devices, flows, target lists, and trends with full read/write capabilities.",
+  "source_repo": "djuntgen/firewalla-mcp",
+  "source_url": "https://github.com/djuntgen/firewalla-mcp",
+  "install": "npx -y firewalla-mcp"
+}

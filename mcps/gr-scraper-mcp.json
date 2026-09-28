@@ -1,0 +1,7 @@
+{
+  "name": "gr-scraper-mcp",
+  "description": "Tracks live board game inventory on thegamerules.com by scraping the catalogue, diffing against the last snapshot, and reporting additions/removals. Integrates with a Telegram bot for commands and notifications.",
+  "source_repo": "Psilolouben/gr_mcp",
+  "source_url": "https://github.com/Psilolouben/gr_mcp",
+  "install": "npx -y gr_mcp"
+}

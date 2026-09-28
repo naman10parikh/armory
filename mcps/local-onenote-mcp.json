@@ -1,0 +1,7 @@
+{
+  "name": "local-onenote-mcp",
+  "description": "A pure-local Microsoft OneNote MCP server for Windows that controls the OneNote desktop app through the local OneNote COM API without needing Azure, Microsoft Graph, API keys, or OAuth.",
+  "source_repo": "Peteroooooooo/local-onenote-mcp",
+  "source_url": "https://github.com/Peteroooooooo/local-onenote-mcp",
+  "install": "npx -y local-onenote-mcp"
+}

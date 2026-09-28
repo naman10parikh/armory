@@ -1,0 +1,7 @@
+{
+  "name": "toolhail",
+  "description": "Discovers MCP servers by capability and lets agents call them remotely through a hosted proxy, with per-use metering and payment via Stripe.",
+  "source_repo": "toolhail/toolbroker",
+  "source_url": "https://github.com/toolhail/toolbroker",
+  "install": "# git clone --depth 1 https://github.com/toolhail/toolbroker\n# See source for mcpServers config block"
+}

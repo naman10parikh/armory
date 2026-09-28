@@ -1,0 +1,7 @@
+{
+  "name": "pulltrader-seller-economics-mcp",
+  "description": "Estimates the net amount a trading-card seller keeps when selling the same card through eBay versus Pulltrader's selling methods, using a deterministic fee schedule.",
+  "source_repo": "Pulltrader/pulltrader-mcp",
+  "source_url": "https://github.com/Pulltrader/pulltrader-mcp",
+  "install": "npx -y pulltrader-mcp"
+}

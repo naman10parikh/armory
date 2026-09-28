@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mysql-explorer",
+  "description": "MCP server that connects AI agents to MySQL databases for schema exploration, data querying, and SQL execution via natural language.",
+  "source_repo": "xsg22/mcp-mysql-explorer",
+  "source_url": "https://github.com/xsg22/mcp-mysql-explorer",
+  "install": "# git clone --depth 1 https://github.com/xsg22/mcp-mysql-explorer\n# See source for mcpServers config block"
+}

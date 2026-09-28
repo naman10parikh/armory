@@ -1,0 +1,7 @@
+{
+  "name": "agent-api-gateway-mcp",
+  "description": "MCP server that extracts structured JSON from public URLs for AI agents using schemas like product, article, and company.",
+  "source_repo": "ZachDreamZ/agent-api-gateway-mcp",
+  "source_url": "https://github.com/ZachDreamZ/agent-api-gateway-mcp",
+  "install": "npx -y agent-api-gateway-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "infraops-mcp-server",
+  "description": "Enables infrastructure operations through Claude Code by exposing 195 tools across 7 providers including Coolify, VPS, Hetzner, Namecheap, Cloudflare, Supabase, and GitHub for server management, DNS, cloud resources, and more.",
+  "source_repo": "AlobarQuest/infraops-mcp-server",
+  "source_url": "https://github.com/AlobarQuest/infraops-mcp-server",
+  "install": "npx -y infraops-mcp-server"
+}

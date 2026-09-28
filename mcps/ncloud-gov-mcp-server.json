@@ -1,0 +1,7 @@
+{
+  "name": "ncloud-gov-mcp-server",
+  "description": "MCP server for managing Naver Cloud Platform Government Cloud infrastructure via natural language. Provides ~877 tools across compute, network, database, storage, security, and other services.",
+  "source_repo": "sjk4425/ncloud-gov-mcp-server",
+  "source_url": "https://github.com/sjk4425/ncloud-gov-mcp-server",
+  "install": "npx -y ncloud-gov-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "addigy-mcp",
+  "description": "Unified MCP server for Addigy device management, exposing both v2 and legacy v1 APIs to query devices, alerts, policies, and applications.",
+  "source_repo": "MSPbotsAI/addigy-mcp",
+  "source_url": "https://github.com/MSPbotsAI/addigy-mcp",
+  "install": "npx -y addigy-mcp"
+}

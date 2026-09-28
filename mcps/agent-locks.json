@@ -1,0 +1,7 @@
+{
+  "name": "agent-locks",
+  "description": "A filesystem-based MCP server for AI coding agents to coordinate work across git worktrees by claiming files, checking for conflicts, and logging progress without affecting the repository's git history.",
+  "source_repo": "luohoa97/agent-locks",
+  "source_url": "https://github.com/luohoa97/agent-locks",
+  "install": "# git clone --depth 1 https://github.com/luohoa97/agent-locks\n# See source for mcpServers config block"
+}

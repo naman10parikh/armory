@@ -1,0 +1,7 @@
+{
+  "name": "purrr-mint-mcp",
+  "description": "Mints $PURRR tokens by spending $CASHCAT on Robinhood Chain, with a discounted rate for AI agent-initiated mints.",
+  "source_repo": "PurrrficationRH/purrr-mint-mcp",
+  "source_url": "https://github.com/PurrrficationRH/purrr-mint-mcp",
+  "install": "npx -y purrr-mint-mcp"
+}

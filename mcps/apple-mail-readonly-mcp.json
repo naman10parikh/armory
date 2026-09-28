@@ -1,0 +1,7 @@
+{
+  "name": "apple-mail-readonly-mcp",
+  "description": "A local MCP server for searching and reading downloaded Apple Mail data without changing mail state.",
+  "source_repo": "hzcsj/apple-mail-readonly-mcp",
+  "source_url": "https://github.com/hzcsj/apple-mail-readonly-mcp",
+  "install": "npx -y apple-mail-readonly-mcp"
+}

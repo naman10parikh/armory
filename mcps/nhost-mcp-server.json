@@ -1,0 +1,7 @@
+{
+  "name": "nhost-mcp-server",
+  "description": "Official MCP server for the Nhost backend platform. Manage Postgres data, GraphQL, auth, storage, migrations and Hasura metadata via AI assistants.",
+  "source_repo": "nhost/mcp-nhost",
+  "source_url": "https://github.com/nhost/mcp-nhost",
+  "install": "# git clone --depth 1 https://github.com/nhost/mcp-nhost\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shakespeare-monologues-mcp",
+  "description": "Enables search and retrieval of Shakespeare monologue metadata including character, play, first line, and paraphrases through various tools.",
+  "source_repo": "slshults/shakespeare-monologues-mcp",
+  "source_url": "https://github.com/slshults/shakespeare-monologues-mcp",
+  "install": "npx -y shakespeare-monologues-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "browser-feedback-mcp",
+  "description": "Enables visual browser feedback collection directly into Claude Code. Users can point at elements in their browser and send annotated feedback that Claude can act on immediately.",
+  "source_repo": "itk-dev/mcp-claude-code-browser-feedback",
+  "source_url": "https://github.com/itk-dev/mcp-claude-code-browser-feedback",
+  "install": "# git clone --depth 1 https://github.com/itk-dev/mcp-claude-code-browser-feedback\n# See source for mcpServers config block"
+}

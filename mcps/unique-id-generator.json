@@ -1,0 +1,7 @@
+{
+  "name": "unique-id-generator",
+  "description": "A simple MCP server that provides tools for generating unique IDs in several formats, useful for when you need an LLM to create data containing new IDs.",
+  "source_repo": "Pyroxin/mcp-server-unique-id-generator",
+  "source_url": "https://github.com/Pyroxin/mcp-server-unique-id-generator",
+  "install": "# git clone --depth 1 https://github.com/Pyroxin/mcp-server-unique-id-generator\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "line-desktop-mcp",
+  "description": "Enables AI tools to read and send messages through LINE Desktop via MCP, supporting manual or automatic sending without official LINE API tokens.",
+  "source_repo": "dtwang/line-desktop-mcp",
+  "source_url": "https://github.com/dtwang/line-desktop-mcp",
+  "install": "npx -y line-desktop-mcp"
+}

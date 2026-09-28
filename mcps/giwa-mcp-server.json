@@ -1,0 +1,7 @@
+{
+  "name": "giwa-mcp-server",
+  "description": "Enables AI agents to interact with the GIWA blockchain, including balance queries, contract interactions, Flashblocks preconfirmations, Dojang attestations, and UP ID resolution.",
+  "source_repo": "Alicepoltora/giwa-mcp-server",
+  "source_url": "https://github.com/Alicepoltora/giwa-mcp-server",
+  "install": "npx -y giwa-mcp-server"
+}

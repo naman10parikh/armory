@@ -1,0 +1,7 @@
+{
+  "name": "hcloud-mcp-server",
+  "description": "An MCP server that exposes the Huawei Cloud CLI as a single tool for AI assistants to discover and execute commands interactively via --help navigation, with built-in safety for destructive operations.",
+  "source_repo": "juandvasquezp/hcloud-mcp",
+  "source_url": "https://github.com/juandvasquezp/hcloud-mcp",
+  "install": "npx -y hcloud-mcp"
+}

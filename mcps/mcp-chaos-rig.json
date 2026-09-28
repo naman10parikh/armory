@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chaos-rig",
+  "description": "A local MCP server that breaks on demand, allowing you to test your client against auth failures, disappearing tools, flaky responses, and token expiry from a web UI.",
+  "source_repo": "Typewise/mcp-chaos-rig",
+  "source_url": "https://github.com/Typewise/mcp-chaos-rig",
+  "install": "# git clone --depth 1 https://github.com/Typewise/mcp-chaos-rig\n# See source for mcpServers config block"
+}

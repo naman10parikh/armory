@@ -1,0 +1,7 @@
+{
+  "name": "techtv-mail",
+  "description": "Enables Claude/Cowork to read and send email through a cPanel-hosted IMAP/SMTP mailbox, providing tools to list folders, search messages, fetch message content, and send email as that mailbox.",
+  "source_repo": "GPeteWarren/techtv-mcp",
+  "source_url": "https://github.com/GPeteWarren/techtv-mcp",
+  "install": "npx -y techtv-mcp"
+}

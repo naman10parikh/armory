@@ -1,0 +1,7 @@
+{
+  "name": "andy",
+  "description": "Enables AI agents to learn from their sessions by inspecting history, proposing rules or skills, and automatically persisting them to configuration files.",
+  "source_repo": "timtty-sinch/andy_learn_tool",
+  "source_url": "https://github.com/timtty-sinch/andy_learn_tool",
+  "install": "# git clone --depth 1 https://github.com/timtty-sinch/andy_learn_tool\n# See source for mcpServers config block"
+}

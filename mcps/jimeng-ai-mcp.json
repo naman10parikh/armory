@@ -1,0 +1,7 @@
+{
+  "name": "jimeng-ai-mcp",
+  "description": "Wraps Jimeng AI's image and video generation APIs for AI assistants to create and edit visual content via natural language.",
+  "source_repo": "andyleimc-source/jimeng-ai-mcp",
+  "source_url": "https://github.com/andyleimc-source/jimeng-ai-mcp",
+  "install": "npx -y jimeng-ai-mcp"
+}

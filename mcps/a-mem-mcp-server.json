@@ -1,6 +1,6 @@
 {
   "name": "a-mem-mcp-server",
-  "description": "A Mem Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Titan-co/a-mem-mcp-server",
   "source_url": "https://mcp.so/server/a-mem-mcp-server/Titan-co",
   "install": "npx -y a-mem-mcp-server"

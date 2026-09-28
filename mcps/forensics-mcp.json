@@ -1,0 +1,7 @@
+{
+  "name": "forensics-mcp",
+  "description": "A local MCP server that wraps common forensic command-line tools for CTF/forensics competitions into MCP tools, enabling automated analysis of disk images, memory dumps, network captures, SQLite databases, archives, and steganography.",
+  "source_repo": "Mei-You-Qian/forensics-MCP",
+  "source_url": "https://github.com/Mei-You-Qian/forensics-MCP",
+  "install": "npx -y forensics-MCP"
+}

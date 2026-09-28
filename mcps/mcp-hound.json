@@ -1,0 +1,7 @@
+{
+  "name": "mcp-hound",
+  "description": "Enables code search across indexed repositories using regex patterns, with pagination, repository listing, and file context retrieval via Hound integration.",
+  "source_repo": "jmagly/mcp-hound",
+  "source_url": "https://github.com/jmagly/mcp-hound",
+  "install": "# git clone --depth 1 https://github.com/jmagly/mcp-hound\n# See source for mcpServers config block"
+}

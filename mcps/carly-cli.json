@@ -1,0 +1,7 @@
+{
+  "name": "carly-cli",
+  "description": "Agent-native MCP server for Carly, the AI scheduling assistant. Exposes 11 tools to read and manage booking pages, event types, calendars, bookings, and available slots. Allows you to manage and create booking pages from the command line.",
+  "source_repo": "UseCarly/carly-cli",
+  "source_url": "https://github.com/UseCarly/carly-cli",
+  "install": "# git clone --depth 1 https://github.com/UseCarly/carly-cli\n# See source for mcpServers config block"
+}

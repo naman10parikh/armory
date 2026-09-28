@@ -1,0 +1,7 @@
+{
+  "name": "postmark-mcp-server",
+  "description": "Enables sending and managing emails via Postmark, including email delivery with templates, template listing, and delivery statistics.",
+  "source_repo": "Lupiita4/postmark-mcp",
+  "source_url": "https://github.com/Lupiita4/postmark-mcp",
+  "install": "npx -y postmark-mcp"
+}

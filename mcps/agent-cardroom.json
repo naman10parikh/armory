@@ -1,0 +1,7 @@
+{
+  "name": "agent-cardroom",
+  "description": "Enables users to play virtual-chip poker games like Texas Hold'em and Zha Jin Hua against bot opponents within Codex, with interactive UI or text commands.",
+  "source_repo": "GZ-L/agent-cardroom",
+  "source_url": "https://github.com/GZ-L/agent-cardroom",
+  "install": "# git clone --depth 1 https://github.com/GZ-L/agent-cardroom\n# See source for mcpServers config block"
+}

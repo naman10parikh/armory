@@ -1,0 +1,7 @@
+{
+  "name": "zentao-bug-mcp",
+  "description": "MCP server for Zentao that reads bugs, extracts reproduction steps, and allows AI to update bug status after fixing.",
+  "source_repo": "ceeyang/zentao_mcp",
+  "source_url": "https://github.com/ceeyang/zentao_mcp",
+  "install": "npx -y zentao_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "redbark-mcp-server",
+  "description": "Connect AI agents to your Australian bank and global brokerage data — live balances, transactions, holdings, and trades over the Model Context Protocol.",
+  "source_repo": "redbark-co/redbark-mcp",
+  "source_url": "https://github.com/redbark-co/redbark-mcp",
+  "install": "npx -y redbark-mcp"
+}

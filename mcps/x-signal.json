@@ -1,0 +1,7 @@
+{
+  "name": "x-signal",
+  "description": "Let ChatGPT or Codex research X (Twitter) through an existing account: search Top and Latest, follow threads, compare feeds, find accounts, and link posts. Read-only, local Docker service.",
+  "source_repo": "anotb/x-signal",
+  "source_url": "https://github.com/anotb/x-signal",
+  "install": "# git clone --depth 1 https://github.com/anotb/x-signal\n# See source for mcpServers config block"
+}

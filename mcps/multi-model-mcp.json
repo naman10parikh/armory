@@ -1,0 +1,7 @@
+{
+  "name": "multi-model-mcp",
+  "description": "An MCP server that exposes tools for sub-agent style reasoning across multiple LLM providers, enabling delegation of prompts to various models and running critique loops, debates, red-teaming, and answer ranking.",
+  "source_repo": "fernando-freitas-alves/multi-model-mcp",
+  "source_url": "https://github.com/fernando-freitas-alves/multi-model-mcp",
+  "install": "npx -y multi-model-mcp"
+}

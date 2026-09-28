@@ -1,0 +1,7 @@
+{
+  "name": "jouleops-mcp-server",
+  "description": "Exposes SAP HANA Cloud operational data and controlled business actions as MCP tools for natural-language enterprise assistants.",
+  "source_repo": "nilansh-07/jouleops",
+  "source_url": "https://github.com/nilansh-07/jouleops",
+  "install": "# git clone --depth 1 https://github.com/nilansh-07/jouleops\n# See source for mcpServers config block"
+}

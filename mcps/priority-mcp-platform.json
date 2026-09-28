@@ -1,0 +1,7 @@
+{
+  "name": "priority-mcp-platform",
+  "description": "Multi-tenant MCP server connecting Claude to Priority ERP via OData. Supports read-only operations through natural language.",
+  "source_repo": "naticity1-build/ai-mcp",
+  "source_url": "https://github.com/naticity1-build/ai-mcp",
+  "install": "npx -y ai-mcp"
+}

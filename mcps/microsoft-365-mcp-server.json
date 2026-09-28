@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-365-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for interacting with Microsoft 365 and Microsoft Office services through the Graph API.",
+  "source_repo": "IDEAtells-B-V-Software/hermes-ms365-mcp",
+  "source_url": "https://github.com/IDEAtells-B-V-Software/hermes-ms365-mcp",
+  "install": "npx -y hermes-ms365-mcp"
+}

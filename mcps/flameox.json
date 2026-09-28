@@ -1,0 +1,7 @@
+{
+  "name": "flameox",
+  "description": "Enables coding agents to query, compare, and audit local profiler traces, benchmarks, memory captures, and execution evidence without uploading code or data, using CLI and MCP interfaces.",
+  "source_repo": "morluto/flameox",
+  "source_url": "https://github.com/morluto/flameox",
+  "install": "# git clone --depth 1 https://github.com/morluto/flameox\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "opengpt-connect",
+  "description": "MCP server bridging ChatGPT to local OpenHarness tools, enabling file reads/writes, grep, LSP, and shell execution on a workspace.",
+  "source_repo": "Zonxpk/opengpt",
+  "source_url": "https://github.com/Zonxpk/opengpt",
+  "install": "# git clone --depth 1 https://github.com/Zonxpk/opengpt\n# See source for mcpServers config block"
+}

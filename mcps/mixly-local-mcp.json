@@ -1,0 +1,7 @@
+{
+  "name": "mixly-local-mcp",
+  "description": "A fully local MCP server for Mixly that lets AI clients discover boards, scan blocks, build/validate/open projects, generate code, and compile via Arduino CLI—all without uploading source or relying on a remote server.",
+  "source_repo": "ovoVHV/mixly-local-mcp",
+  "source_url": "https://github.com/ovoVHV/mixly-local-mcp",
+  "install": "npx -y mixly-local-mcp"
+}

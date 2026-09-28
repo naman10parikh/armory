@@ -1,0 +1,7 @@
+{
+  "name": "secop-mcp-server",
+  "description": "An MCP server to query Colombian public procurement data from SECOP I and II in real time, enabling contract research, transparency oversight, and data journalism.",
+  "source_repo": "juandavidsernav/secop-mcp-server",
+  "source_url": "https://github.com/juandavidsernav/secop-mcp-server",
+  "install": "npx -y secop-mcp-server"
+}

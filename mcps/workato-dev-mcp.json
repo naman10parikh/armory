@@ -1,0 +1,7 @@
+{
+  "name": "workato-dev-mcp",
+  "description": "Enables authoring and debugging Workato recipes from Claude by wrapping the Workato Developer REST API for recipe CRUD, start/stop, and job inspection.",
+  "source_repo": "krishnagutta/workato-dev-mcp",
+  "source_url": "https://github.com/krishnagutta/workato-dev-mcp",
+  "install": "npx -y workato-dev-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "plantcv-mcp",
+  "description": "Enables plant phenotyping via MCP, returning plant trait measurements along with segmentation overlays to validate mask quality, preventing unreliable outputs.",
+  "source_repo": "musharna/plantcv-mcp",
+  "source_url": "https://github.com/musharna/plantcv-mcp",
+  "install": "npx -y plantcv-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "groupsio-mcp-server",
+  "description": "Enables consuming and managing Groups.io mailing lists programmatically via the Groups.io REST API. Provides tools to list subscriptions, fetch group details, search archives, manage members, and access files, events, and databases.",
+  "source_repo": "ke4qqq/groupsio-mcp-server",
+  "source_url": "https://github.com/ke4qqq/groupsio-mcp-server",
+  "install": "npx -y groupsio-mcp-server"
+}

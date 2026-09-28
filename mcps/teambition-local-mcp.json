@@ -1,0 +1,7 @@
+{
+  "name": "teambition-local-mcp",
+  "description": "Wraps Teambition Open Platform v3 API as MCP tools for batch task creation, enabling n8n workflows to search projects, manage members, and create tasks.",
+  "source_repo": "veeta825-eng/teambition-local-mcp",
+  "source_url": "https://github.com/veeta825-eng/teambition-local-mcp",
+  "install": "npx -y teambition-local-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "my-first-mcp",
+  "description": "A basic MCP server implementing a weather tool using Next.js and the Vercel MCP adapter.",
+  "source_repo": "MaidedPonce/my-first-mcp",
+  "source_url": "https://github.com/MaidedPonce/my-first-mcp",
+  "install": "npx -y my-first-mcp"
+}

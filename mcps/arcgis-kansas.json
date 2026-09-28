@@ -1,0 +1,7 @@
+{
+  "name": "arcgis-kansas",
+  "description": "Enables searching and querying Kansas State GIS open geospatial data (parcels, zoning, transport, statewide layers) via ArcGIS Feature/Map Services.",
+  "source_repo": "pipeworx-io/mcp-arcgis-kansas",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-kansas",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-kansas\n# See source for mcpServers config block"
+}

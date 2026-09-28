@@ -1,0 +1,7 @@
+{
+  "name": "ipmentor",
+  "description": "Provides verified IPv4 subnet calculations, IP analysis, and network diagram generation for AI tutoring systems via MCP.",
+  "source_repo": "DavidLMS/ipmentor",
+  "source_url": "https://github.com/DavidLMS/ipmentor",
+  "install": "# git clone --depth 1 https://github.com/DavidLMS/ipmentor\n# See source for mcpServers config block"
+}

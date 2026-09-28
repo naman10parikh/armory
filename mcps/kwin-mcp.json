@@ -1,0 +1,7 @@
+{
+  "name": "kwin-mcp",
+  "description": "Enables AI agents to automate Linux desktop GUI by launching and interacting with Wayland applications in isolated virtual KWin sessions, or connecting to live desktops for collaborative automation.",
+  "source_repo": "isac322/kwin-mcp",
+  "source_url": "https://github.com/isac322/kwin-mcp",
+  "install": "npx -y kwin-mcp"
+}

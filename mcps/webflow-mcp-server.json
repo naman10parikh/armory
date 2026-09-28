@@ -1,0 +1,7 @@
+{
+  "name": "webflow-mcp-server",
+  "description": "Enables AI agents to interact with Webflow APIs for managing sites, pages, components, CMS collections, and custom code.",
+  "source_repo": "ampcome-mcps/webflow-mcp",
+  "source_url": "https://github.com/ampcome-mcps/webflow-mcp",
+  "install": "npx -y webflow-mcp"
+}

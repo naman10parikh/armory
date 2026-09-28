@@ -1,0 +1,7 @@
+{
+  "name": "dq-mcp",
+  "description": "Enables language models to run data-quality checks and profiling on local files, using dbt-style assertions like not_null, unique, relationships, and accepted_values.",
+  "source_repo": "jyoshnagoshika-spec/dq-mcp",
+  "source_url": "https://github.com/jyoshnagoshika-spec/dq-mcp",
+  "install": "npx -y dq-mcp"
+}

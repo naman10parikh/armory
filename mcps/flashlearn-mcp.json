@@ -1,0 +1,7 @@
+{
+  "name": "flashlearn-mcp",
+  "description": "An MCP server for the FlashLearnAI public API that enables AI-powered flashcard deck generation, browsing sets, SM-2 spaced-repetition study sessions, and API usage tracking through natural language.",
+  "source_repo": "dapperAuteur/flashlearn-mcp",
+  "source_url": "https://github.com/dapperAuteur/flashlearn-mcp",
+  "install": "npx -y flashlearn-mcp"
+}

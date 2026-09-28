@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trt19-certid-o-eletr-nica-de-a-es-trabalhistas-ceat",
+  "description": "Provides a read-only tool to consult official labor court (TRT19) electronic certificates of labor actions (CEAT), with pay-per-use credits and support for any MCP client.",
+  "source_repo": "mcp-dir/tribunal_trt19_ceat-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trt19_ceat-mcp",
+  "install": "npx -y tribunal_trt19_ceat-mcp"
+}

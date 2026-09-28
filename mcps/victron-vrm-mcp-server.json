@@ -1,0 +1,7 @@
+{
+  "name": "victron-vrm-mcp-server",
+  "description": "Read-only MCP server integrating with the Victron VRM API to monitor solar systems, batteries, alarms, and more.",
+  "source_repo": "gimi-q/victron-vrm-mcp",
+  "source_url": "https://github.com/gimi-q/victron-vrm-mcp",
+  "install": "npx -y victron-vrm-mcp"
+}

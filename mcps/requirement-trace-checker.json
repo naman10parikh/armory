@@ -1,0 +1,7 @@
+{
+  "name": "requirement-trace-checker",
+  "description": "Enables users to analyze project materials and build traceability from requirements to coverage, identifying gaps.",
+  "source_repo": "YanKe1816/requirement-trace-checker",
+  "source_url": "https://github.com/YanKe1816/requirement-trace-checker",
+  "install": "# git clone --depth 1 https://github.com/YanKe1816/requirement-trace-checker\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "servicenow-mcp-2",
+  "description": "A ServiceNow MCP server that enables natural language management of incidents via the Table API, with tools to create, read, update, search, comment on, and resolve incidents.",
+  "source_repo": "siddhardhan/servicenow-mcp",
+  "source_url": "https://github.com/siddhardhan/servicenow-mcp",
+  "install": "npx -y servicenow-mcp"
+}

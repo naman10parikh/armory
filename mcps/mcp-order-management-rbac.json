@@ -1,0 +1,7 @@
+{
+  "name": "mcp-order-management-rbac",
+  "description": "MCP server that enforces role-based access control for order management, allowing users to view, refund, or delete orders based on their role (USER, MANAGER, ADMIN) with a JWT-authenticated FastAPI frontend.",
+  "source_repo": "sourabhbagda24/mcp-order-management-rbac",
+  "source_url": "https://github.com/sourabhbagda24/mcp-order-management-rbac",
+  "install": "# git clone --depth 1 https://github.com/sourabhbagda24/mcp-order-management-rbac\n# See source for mcpServers config block"
+}

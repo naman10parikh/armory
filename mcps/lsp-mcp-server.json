@@ -1,0 +1,7 @@
+{
+  "name": "lsp-mcp-server",
+  "description": "Exposes type-aware code navigation and fast file search to AI agents via language servers, enabling definitions, references, symbols, and file lookup without reading entire codebases.",
+  "source_repo": "garretpremo/lsp-mcp-server",
+  "source_url": "https://github.com/garretpremo/lsp-mcp-server",
+  "install": "npx -y lsp-mcp-server"
+}

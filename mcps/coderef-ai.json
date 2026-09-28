@@ -1,0 +1,7 @@
+{
+  "name": "coderef-ai",
+  "description": "A tool for vibecoding personnel and non-programmers to perform static code audit, query knowledge graph, and generate project documentation via MCP protocol.",
+  "source_repo": "keaizuizui/Coderef-Ai",
+  "source_url": "https://github.com/keaizuizui/Coderef-Ai",
+  "install": "# git clone --depth 1 https://github.com/keaizuizui/Coderef-Ai\n# See source for mcpServers config block"
+}

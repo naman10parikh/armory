@@ -1,0 +1,7 @@
+{
+  "name": "debuggingmax-mcp-server-notion",
+  "description": "Comprehensive MCP server for the Notion API. Provides 22 tools for full CRUD operations on pages, databases, blocks, users, and comments.",
+  "source_repo": "DebuggingMax/mcp-server-notion",
+  "source_url": "https://github.com/DebuggingMax/mcp-server-notion",
+  "install": "# git clone --depth 1 https://github.com/DebuggingMax/mcp-server-notion\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "global-news-mcp-server",
+  "description": "Enables global news retrieval across multiple countries and categories (world, country, technology, science) via RSS feeds, exposing reusable MCP tools for fetching and searching news articles with no API keys required.",
+  "source_repo": "kevin-arock/global-news-mcp",
+  "source_url": "https://github.com/kevin-arock/global-news-mcp",
+  "install": "npx -y global-news-mcp"
+}

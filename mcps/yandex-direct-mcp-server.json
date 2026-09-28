@@ -1,0 +1,7 @@
+{
+  "name": "yandex-direct-mcp-server",
+  "description": "Integrates with Yandex Direct API v5 to manage ads via 20 tools, with dry-run protection preventing accidental spending.",
+  "source_repo": "OlegRadinuk/yandex-direct-mcp",
+  "source_url": "https://github.com/OlegRadinuk/yandex-direct-mcp",
+  "install": "npx -y yandex-direct-mcp"
+}

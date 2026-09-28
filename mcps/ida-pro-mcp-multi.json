@@ -1,0 +1,7 @@
+{
+  "name": "ida-pro-mcp-multi",
+  "description": "Extends IDA Pro with multi-instance support and vulnerability scanning for AI-assisted reverse engineering.",
+  "source_repo": "QYmag1c/ida-pro-mcp-multi",
+  "source_url": "https://github.com/QYmag1c/ida-pro-mcp-multi",
+  "install": "# git clone --depth 1 https://github.com/QYmag1c/ida-pro-mcp-multi\n# See source for mcpServers config block"
+}

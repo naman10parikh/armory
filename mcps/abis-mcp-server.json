@@ -1,0 +1,7 @@
+{
+  "name": "abis-mcp-server",
+  "description": "Enables real-time AI behavioral drift monitoring and detection for Claude Code, tracking shifts in model behavior across 11 major models with tools for scorecards, version changes, and compliance reports.",
+  "source_repo": "cijlabs/abis-mcp",
+  "source_url": "https://github.com/cijlabs/abis-mcp",
+  "install": "npx -y abis-mcp"
+}

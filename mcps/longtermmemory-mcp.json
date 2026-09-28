@@ -1,0 +1,7 @@
+{
+  "name": "longtermmemory-mcp",
+  "description": "A fully local MCP server that gives AI agents persistent, semantic long-term memory without any cloud dependencies.",
+  "source_repo": "MarcelRoozekrans/LongtermMemory-MCP",
+  "source_url": "https://github.com/MarcelRoozekrans/LongtermMemory-MCP",
+  "install": "npx -y LongtermMemory-MCP"
+}

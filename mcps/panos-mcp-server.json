@@ -1,0 +1,7 @@
+{
+  "name": "panos-mcp-server",
+  "description": "MCP server for managing Palo Alto Networks firewalls and Panorama, providing tools to interact with PanOS via MCP protocol with authenticated HTTP transport.",
+  "source_repo": "marcusjfloyd/palo-alto-mcp",
+  "source_url": "https://github.com/marcusjfloyd/palo-alto-mcp",
+  "install": "npx -y palo-alto-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tms-development-wizard",
+  "description": "Enables rapid exploration and integration of Omelet's Routing Engine and iNavi's Maps API for building Transport Management Systems, providing endpoint discovery, schema exploration, integration patterns, and troubleshooting guides.",
+  "source_repo": "omelet-ai/tms-dev-mcp",
+  "source_url": "https://github.com/omelet-ai/tms-dev-mcp",
+  "install": "npx -y tms-dev-mcp"
+}

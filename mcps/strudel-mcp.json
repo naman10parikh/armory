@@ -1,0 +1,7 @@
+{
+  "name": "strudel-mcp",
+  "description": "Enables LLMs to interact with Strudel, a JavaScript live coding music environment, by executing patterns, retrieving states, and accessing documentation.",
+  "source_repo": "utenadev/strudel-mcp",
+  "source_url": "https://github.com/utenadev/strudel-mcp",
+  "install": "npx -y strudel-mcp"
+}

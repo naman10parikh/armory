@@ -1,0 +1,7 @@
+{
+  "name": "fallflat-arena",
+  "description": "An MCP server hosting a multiplayer undercover game where AI and humans compete to identify the spy and guess who is human.",
+  "source_repo": "renjinxi/fallflat-arena",
+  "source_url": "https://github.com/renjinxi/fallflat-arena",
+  "install": "# git clone --depth 1 https://github.com/renjinxi/fallflat-arena\n# See source for mcpServers config block"
+}

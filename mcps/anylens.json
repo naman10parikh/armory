@@ -1,0 +1,7 @@
+{
+  "name": "anylens",
+  "description": "Turn any link — video, PDF, screenshot, or article — into cached, timestamp-anchored understanding agents can query through lenses (explainer, build spec, teardown, design tokens, production blueprint). Every claim carries the exact second or page it came from.",
+  "source_repo": "Slowper/anylens",
+  "source_url": "https://github.com/Slowper/anylens",
+  "install": "# git clone --depth 1 https://github.com/Slowper/anylens\n# See source for mcpServers config block"
+}

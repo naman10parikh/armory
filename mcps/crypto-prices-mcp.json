@@ -1,0 +1,7 @@
+{
+  "name": "crypto-prices-mcp",
+  "description": "Provides live and historical cryptocurrency prices, trending coins, and global market data via CoinGecko API, enabling AI agents to fetch real-time and historical crypto information.",
+  "source_repo": "guptaprakhariitr/crypto-prices-mcp",
+  "source_url": "https://github.com/guptaprakhariitr/crypto-prices-mcp",
+  "install": "npx -y crypto-prices-mcp"
+}

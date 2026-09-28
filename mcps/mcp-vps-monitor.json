@@ -1,0 +1,7 @@
+{
+  "name": "mcp-vps-monitor",
+  "description": "Provides system monitoring tools for VPS including CPU, memory, disk, network ping, top processes, and Docker status, with read-only architecture and security features.",
+  "source_repo": "sykin7/mcp-vps-monitor",
+  "source_url": "https://github.com/sykin7/mcp-vps-monitor",
+  "install": "# git clone --depth 1 https://github.com/sykin7/mcp-vps-monitor\n# See source for mcpServers config block"
+}

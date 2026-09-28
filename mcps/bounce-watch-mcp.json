@@ -1,0 +1,7 @@
+{
+  "name": "bounce-watch-mcp",
+  "description": "Tracks buying and momentum signals for companies, such as funding rounds, senior hires, office openings, customer wins, and partnerships, with each event carrying its date.",
+  "source_repo": "bouncewatch/mcp",
+  "source_url": "https://github.com/bouncewatch/mcp",
+  "install": "# git clone --depth 1 https://github.com/bouncewatch/mcp\n# See source for mcpServers config block"
+}

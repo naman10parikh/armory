@@ -1,0 +1,7 @@
+{
+  "name": "mcp-api-engineering-lab",
+  "description": "A public MCP server demonstrating how an AI agent can retrieve database schemas and manage local OpenAPI contracts via tools for CRUD operations.",
+  "source_repo": "joseant1215/mcp-api-engineering-lab",
+  "source_url": "https://github.com/joseant1215/mcp-api-engineering-lab",
+  "install": "# git clone --depth 1 https://github.com/joseant1215/mcp-api-engineering-lab\n# See source for mcpServers config block"
+}

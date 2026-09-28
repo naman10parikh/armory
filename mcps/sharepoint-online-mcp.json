@@ -1,0 +1,7 @@
+{
+  "name": "sharepoint-online-mcp",
+  "description": "Zero-config MCP server for SharePoint Online that enables managing sites, pages, navigation, and branding via natural language, with automatic device code authentication and no Azure registration required.",
+  "source_repo": "dYn36/sharepoint-online-mcp",
+  "source_url": "https://github.com/dYn36/sharepoint-online-mcp",
+  "install": "npx -y sharepoint-online-mcp"
+}

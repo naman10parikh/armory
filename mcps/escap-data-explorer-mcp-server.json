@@ -1,0 +1,7 @@
+{
+  "name": "escap-data-explorer-mcp-server",
+  "description": "An MCP server that provides official statistical data for development indicators in Asia-Pacific. It wraps the ESCAP Data Explorer API, letting any MCP-compatible host query SDG and thematic data through natural language.",
+  "source_repo": "un-shayani/ESCAP-SDMX-MCP",
+  "source_url": "https://github.com/un-shayani/ESCAP-SDMX-MCP",
+  "install": "npx -y ESCAP-SDMX-MCP"
+}

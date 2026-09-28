@@ -1,0 +1,7 @@
+{
+  "name": "hyread-mcp",
+  "description": "MCP server for querying HyRead ebook collections across 41 Taiwan public libraries, enabling search, book details, and library availability checks via natural language.",
+  "source_repo": "lunkerchen/hyread-mcp",
+  "source_url": "https://github.com/lunkerchen/hyread-mcp",
+  "install": "npx -y hyread-mcp"
+}

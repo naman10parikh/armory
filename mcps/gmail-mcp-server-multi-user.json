@@ -1,0 +1,7 @@
+{
+  "name": "gmail-mcp-server-multi-user",
+  "description": "Multi-user Gmail MCP server that enables sending/receiving emails, managing accounts, and searching mail via SMTP/IMAP with per-user isolation and encrypted app passwords.",
+  "source_repo": "Aishu2508/MCP",
+  "source_url": "https://github.com/Aishu2508/MCP",
+  "install": "# git clone --depth 1 https://github.com/Aishu2508/MCP\n# See source for mcpServers config block"
+}

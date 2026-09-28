@@ -1,0 +1,7 @@
+{
+  "name": "whatsapp-web-mcp",
+  "description": "Local MCP server for agents to search, structure, and export authorized WhatsApp Web conversations. Uses Playwright for DOM interaction, supports message search, export, media transcription, and controlled message sending.",
+  "source_repo": "KingDonRush/whatsapp-web-mcp",
+  "source_url": "https://github.com/KingDonRush/whatsapp-web-mcp",
+  "install": "npx -y whatsapp-web-mcp"
+}

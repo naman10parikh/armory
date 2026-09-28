@@ -1,0 +1,7 @@
+{
+  "name": "cicall",
+  "description": "A terminal-independent MCP runtime for CLI agents, enabling orchestration of CLI processes via a background daemon and any MCP client.",
+  "source_repo": "basionwang-bot/cicall",
+  "source_url": "https://github.com/basionwang-bot/cicall",
+  "install": "# git clone --depth 1 https://github.com/basionwang-bot/cicall\n# See source for mcpServers config block"
+}

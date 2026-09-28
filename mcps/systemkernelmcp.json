@@ -1,0 +1,7 @@
+{
+  "name": "systemkernelmcp",
+  "description": "Provides 180+ tools for full system control including terminal, Git, Docker, Kubernetes, VMs, BIOS, kernel, cybersecurity, AI, and cloud, designed to work with MCP clients like Cursor and Claude Desktop.",
+  "source_repo": "needyamin/system-kernel-mcp",
+  "source_url": "https://github.com/needyamin/system-kernel-mcp",
+  "install": "npx -y system-kernel-mcp"
+}

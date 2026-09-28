@@ -1,0 +1,7 @@
+{
+  "name": "countdownmcp",
+  "description": "A local, read-only MCP server that gives Codex a plan-aware view of its remaining usage and helps choose work that fits the current usage window.",
+  "source_repo": "AlonTsur1601/CountdownMCP",
+  "source_url": "https://github.com/AlonTsur1601/CountdownMCP",
+  "install": "# git clone --depth 1 https://github.com/AlonTsur1601/CountdownMCP\n# See source for mcpServers config block"
+}

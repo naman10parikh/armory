@@ -1,0 +1,7 @@
+{
+  "name": "beemcp",
+  "description": "Unofficial MCP server that bridges AI assistants with Bee wearable lifelogging data, enabling retrieval and management of conversations, facts, todos, and locations.",
+  "source_repo": "OkGoDoIt/beemcp",
+  "source_url": "https://github.com/OkGoDoIt/beemcp",
+  "install": "# git clone --depth 1 https://github.com/OkGoDoIt/beemcp\n# See source for mcpServers config block"
+}

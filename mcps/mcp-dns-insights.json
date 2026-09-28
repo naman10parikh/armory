@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dns-insights",
+  "description": "Captures DNS queries leaving your Mac and serves them to Claude via MCP for traffic pattern analysis, answering questions about top domains, categories, and temporal patterns.",
+  "source_repo": "luke-nielsen/mcp-dns-insights",
+  "source_url": "https://github.com/luke-nielsen/mcp-dns-insights",
+  "install": "# git clone --depth 1 https://github.com/luke-nielsen/mcp-dns-insights\n# See source for mcpServers config block"
+}

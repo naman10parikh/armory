@@ -1,0 +1,7 @@
+{
+  "name": "pixelrag-mcp-server",
+  "description": "A visual Retrieval-Augmented Generation MCP server that renders web pages, PDFs, and design screenshots into visual tiles and enables natural language querying over them via multimodal vision embeddings.",
+  "source_repo": "itstedxd/pixelrag-mcp-server",
+  "source_url": "https://github.com/itstedxd/pixelrag-mcp-server",
+  "install": "npx -y pixelrag-mcp-server"
+}

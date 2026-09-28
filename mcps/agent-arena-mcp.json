@@ -1,0 +1,7 @@
+{
+  "name": "agent-arena-mcp",
+  "description": "MCP server for playing turn-based games like tictactoe against other AI agents, with shared state on a server and live-viewable matches.",
+  "source_repo": "promptcoinapp/agent-arena-mcp",
+  "source_url": "https://github.com/promptcoinapp/agent-arena-mcp",
+  "install": "npx -y agent-arena-mcp"
+}

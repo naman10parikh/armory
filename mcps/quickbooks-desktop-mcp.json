@@ -1,0 +1,7 @@
+{
+  "name": "quickbooks-desktop-mcp",
+  "description": "Provides safe, structured access to a local QuickBooks Desktop company file for reading and writing transactions, with automatic undo logging.",
+  "source_repo": "lilfroog/quickbooks-desktop-mcp",
+  "source_url": "https://github.com/lilfroog/quickbooks-desktop-mcp",
+  "install": "npx -y quickbooks-desktop-mcp"
+}

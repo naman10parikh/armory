@@ -1,0 +1,7 @@
+{
+  "name": "contacts-mcp",
+  "description": "Enables AI assistants to manage contacts with full CRUD, dedup, merge, import/export, sync with Google/Apple/CardDAV, and git-backed rollback.",
+  "source_repo": "Bluesun-Networks/contacts-mcp",
+  "source_url": "https://github.com/Bluesun-Networks/contacts-mcp",
+  "install": "npx -y contacts-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "atlas-vision-mcp",
+  "description": "Enables text-only coding agents to analyze local images using a dedicated vision provider, returning markdown and structured JSON evidence for screenshots, diagrams, UI mockups, and error captures.",
+  "source_repo": "QuangThai/vision-bridge-mcp",
+  "source_url": "https://github.com/QuangThai/vision-bridge-mcp",
+  "install": "npx -y vision-bridge-mcp"
+}

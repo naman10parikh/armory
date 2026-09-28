@@ -1,0 +1,7 @@
+{
+  "name": "mcp-experiments",
+  "description": "Provides tools for executing Bash and AppleScript commands from LLMs on macOS, with safety modes.",
+  "source_repo": "jordanperr/mcp-experiments",
+  "source_url": "https://github.com/jordanperr/mcp-experiments",
+  "install": "# git clone --depth 1 https://github.com/jordanperr/mcp-experiments\n# See source for mcpServers config block"
+}

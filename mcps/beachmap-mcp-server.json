@@ -1,0 +1,7 @@
+{
+  "name": "beachmap-mcp-server",
+  "description": "Enables querying a curated database of 478 European beaches with filters such as country, sand type, Blue Flag status, sea temperature, and best months for swimming.",
+  "source_repo": "Flightmussy/beachmap-mcp",
+  "source_url": "https://github.com/Flightmussy/beachmap-mcp",
+  "install": "npx -y beachmap-mcp"
+}

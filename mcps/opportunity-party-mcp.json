@@ -1,0 +1,7 @@
+{
+  "name": "opportunity-party-mcp",
+  "description": "Scrapes the Opportunity Party website and converts policy PDFs to structured markdown for LLM consumption.",
+  "source_repo": "mcwalrus/oppertunity-party",
+  "source_url": "https://github.com/mcwalrus/oppertunity-party",
+  "install": "# git clone --depth 1 https://github.com/mcwalrus/oppertunity-party\n# See source for mcpServers config block"
+}

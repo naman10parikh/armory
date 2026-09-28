@@ -1,0 +1,7 @@
+{
+  "name": "deskmail-ai",
+  "description": "Connects Claude Desktop to a local email client, enabling AI-powered email reading, searching, drafting, and organization while preventing sending or permanent deletion.",
+  "source_repo": "scrappy-builds/deskmail-ai",
+  "source_url": "https://github.com/scrappy-builds/deskmail-ai",
+  "install": "# git clone --depth 1 https://github.com/scrappy-builds/deskmail-ai\n# See source for mcpServers config block"
+}

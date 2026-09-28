@@ -1,0 +1,7 @@
+{
+  "name": "email-deadsimple-dead-simple-email",
+  "description": "Provides AI agents with real email infrastructure, enabling them to create inboxes, send/receive messages, and extract verification codes from incoming mail.",
+  "source_repo": "deadsimple-email/deadsimple-email",
+  "source_url": "https://github.com/deadsimple-email/deadsimple-email",
+  "install": "# git clone --depth 1 https://github.com/deadsimple-email/deadsimple-email\n# See source for mcpServers config block"
+}

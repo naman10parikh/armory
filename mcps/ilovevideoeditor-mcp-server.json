@@ -1,0 +1,7 @@
+{
+  "name": "ilovevideoeditor-mcp-server",
+  "description": "Enables AI agents to render videos with iLoveVideoEditor by listing templates, filling in variables, submitting render jobs, polling status, and retrieving download URLs.",
+  "source_repo": "ilovevideoeditor/mcp-server",
+  "source_url": "https://github.com/ilovevideoeditor/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/ilovevideoeditor/mcp-server\n# See source for mcpServers config block"
+}

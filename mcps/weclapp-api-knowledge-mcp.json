@@ -1,0 +1,7 @@
+{
+  "name": "weclapp-api-knowledge-mcp",
+  "description": "A standalone MCP server for exploring the weclapp REST API v2, providing offline knowledge about entities, endpoints, and relationships, plus optional live GET probes against a tenant.",
+  "source_repo": "serenmind/weclapp-api-knowledgebase-mcp",
+  "source_url": "https://github.com/serenmind/weclapp-api-knowledgebase-mcp",
+  "install": "npx -y weclapp-api-knowledgebase-mcp"
+}

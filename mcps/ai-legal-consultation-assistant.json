@@ -1,0 +1,7 @@
+{
+  "name": "ai-legal-consultation-assistant",
+  "description": "MCP server for evidence-based Chinese legal consultation. It routes labor law questions to a knowledge base and other queries to public search, returning answers with citations and fallback reasons.",
+  "source_repo": "kdemm3158-hash/kedi-Legal-Assistant",
+  "source_url": "https://github.com/kdemm3158-hash/kedi-Legal-Assistant",
+  "install": "# git clone --depth 1 https://github.com/kdemm3158-hash/kedi-Legal-Assistant\n# See source for mcpServers config block"
+}

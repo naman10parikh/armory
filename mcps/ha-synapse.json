@@ -1,0 +1,7 @@
+{
+  "name": "ha-synapse",
+  "description": "Connects LLM coding agents to Home Assistant instances, enabling configuration file management, service calls, template testing, and automation diagnostics via MCP tools.",
+  "source_repo": "sidprax/HA-Synapse",
+  "source_url": "https://github.com/sidprax/HA-Synapse",
+  "install": "# git clone --depth 1 https://github.com/sidprax/HA-Synapse\n# See source for mcpServers config block"
+}

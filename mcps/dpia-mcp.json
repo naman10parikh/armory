@@ -1,0 +1,7 @@
+{
+  "name": "dpia-mcp",
+  "description": "Acts as a document store for AI-guided DPIA workflows, enabling saving structured answers, generating Word documents and Excel risk registers from Swedish DPIA templates.",
+  "source_repo": "oskarpalm/DPIA-MCP",
+  "source_url": "https://github.com/oskarpalm/DPIA-MCP",
+  "install": "npx -y DPIA-MCP"
+}

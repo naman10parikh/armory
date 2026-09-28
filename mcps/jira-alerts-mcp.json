@@ -1,0 +1,7 @@
+{
+  "name": "jira-alerts-mcp",
+  "description": "Enables interaction with Jira Service Management Operations alerts and on-call schedules, including searching alerts, reading notes and activity logs, acknowledging, closing, annotating, adding responders, and querying current and next on-call rotations.",
+  "source_repo": "rrvrs/jira-alerts-mcp",
+  "source_url": "https://github.com/rrvrs/jira-alerts-mcp",
+  "install": "npx -y jira-alerts-mcp"
+}

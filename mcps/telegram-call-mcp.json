@@ -1,0 +1,7 @@
+{
+  "name": "telegram-call-mcp",
+  "description": "MCP server that enables AI agents to place real Telegram voice calls and speak a message aloud via TTS, with configurable repeats and call handling.",
+  "source_repo": "maloleg/telegram-call-mcp",
+  "source_url": "https://github.com/maloleg/telegram-call-mcp",
+  "install": "npx -y telegram-call-mcp"
+}

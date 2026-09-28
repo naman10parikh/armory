@@ -1,0 +1,7 @@
+{
+  "name": "safemap-uv-index-mcp",
+  "description": "This MCP server provides UV index information for South Korean cities and districts, sourced from the Ministry of the Interior and Safety's living safety map, enabling filtered lookups by region and returning index values with occurrence times.",
+  "source_repo": "hlucent/safemap-uv-index-mcp",
+  "source_url": "https://github.com/hlucent/safemap-uv-index-mcp",
+  "install": "npx -y safemap-uv-index-mcp"
+}

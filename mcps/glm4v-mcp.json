@@ -1,0 +1,7 @@
+{
+  "name": "glm4v-mcp",
+  "description": "Enables to analyze images using GLM-4V vision model via the MCP protocol, supporting local file paths and Data URLs.",
+  "source_repo": "1340896123/glm4v-mcp",
+  "source_url": "https://github.com/1340896123/glm4v-mcp",
+  "install": "npx -y glm4v-mcp"
+}

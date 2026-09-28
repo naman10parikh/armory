@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sql-metrics",
+  "description": "Exposes read-only PostgreSQL queries as typed MCP tools, enabling natural-language data analysis while keeping raw tables hidden and enforcing safety limits.",
+  "source_repo": "JuanPinilla198/mcp-sql-metrics",
+  "source_url": "https://github.com/JuanPinilla198/mcp-sql-metrics",
+  "install": "# git clone --depth 1 https://github.com/JuanPinilla198/mcp-sql-metrics\n# See source for mcpServers config block"
+}

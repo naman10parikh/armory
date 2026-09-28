@@ -1,0 +1,7 @@
+{
+  "name": "github-issue-manager",
+  "description": "Integrates with GitHub REST API to allow LLM agents to list and create repository issues.",
+  "source_repo": "preethi6379/mcp-server",
+  "source_url": "https://github.com/preethi6379/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/preethi6379/mcp-server\n# See source for mcpServers config block"
+}

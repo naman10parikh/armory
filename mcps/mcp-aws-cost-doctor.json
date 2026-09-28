@@ -1,0 +1,7 @@
+{
+  "name": "mcp-aws-cost-doctor",
+  "description": "Read-only AWS cost diagnostic server that enables AI agents to detect idle resources and orphaned assets, surfacing potential savings via boto3 describe calls.",
+  "source_repo": "sarteta/mcp-aws-cost-doctor",
+  "source_url": "https://github.com/sarteta/mcp-aws-cost-doctor",
+  "install": "# git clone --depth 1 https://github.com/sarteta/mcp-aws-cost-doctor\n# See source for mcpServers config block"
+}

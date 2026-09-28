@@ -1,0 +1,7 @@
+{
+  "name": "best-cad-mcp",
+  "description": "Enables agent-driven CAD automation by inspecting, editing, and validating DWG drawings through a handle-first workflow, with support for visual grounding, CADPlan execution, and local SQLite workspace management.",
+  "source_repo": "LokmenoWer/best-cad-mcp",
+  "source_url": "https://github.com/LokmenoWer/best-cad-mcp",
+  "install": "npx -y best-cad-mcp"
+}

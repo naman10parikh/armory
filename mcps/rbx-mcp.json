@@ -1,0 +1,7 @@
+{
+  "name": "rbx-mcp",
+  "description": "An MCP server that bridges any MCP-capable AI host to Roblox Studio. The AI executes Lua live in Studio, reads output/errors, and iterates.",
+  "source_repo": "lolofuk123/rbx-mcp",
+  "source_url": "https://github.com/lolofuk123/rbx-mcp",
+  "install": "npx -y rbx-mcp"
+}

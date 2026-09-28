@@ -1,0 +1,7 @@
+{
+  "name": "pagerduty-mcp",
+  "description": "Enables PagerDuty incident response operations including listing incidents, acknowledging and resolving incidents, looking up on-call schedules, and listing services.",
+  "source_repo": "chenzhaoxuan0/pagerduty-mcp",
+  "source_url": "https://github.com/chenzhaoxuan0/pagerduty-mcp",
+  "install": "npx -y pagerduty-mcp"
+}

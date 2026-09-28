@@ -1,0 +1,7 @@
+{
+  "name": "fizzy-do-mcp",
+  "description": "Open-source MCP server that connects AI assistants to Fizzy (Basecamp's task management) with 70+ tools for boards, cards, workflows, and AI-powered project management.",
+  "source_repo": "ryanyogan/fizzy-do-mcp",
+  "source_url": "https://github.com/ryanyogan/fizzy-do-mcp",
+  "install": "npx -y fizzy-do-mcp"
+}

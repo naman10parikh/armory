@@ -1,0 +1,7 @@
+{
+  "name": "mcp-prompt-explorer-server",
+  "description": "A demonstration MCP server for exploring MCP prompts with 10 reusable development prompts.",
+  "source_repo": "Tamilarasan555/mcp-prompt-explorer",
+  "source_url": "https://github.com/Tamilarasan555/mcp-prompt-explorer",
+  "install": "# git clone --depth 1 https://github.com/Tamilarasan555/mcp-prompt-explorer\n# See source for mcpServers config block"
+}

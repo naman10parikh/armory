@@ -1,0 +1,7 @@
+{
+  "name": "shipkit",
+  "description": "MCP server for shipping iOS apps, enabling screenshots of simulators, managing App Store Connect metadata, and submitting apps for review.",
+  "source_repo": "marumemomo/shipkit",
+  "source_url": "https://github.com/marumemomo/shipkit",
+  "install": "# git clone --depth 1 https://github.com/marumemomo/shipkit\n# See source for mcpServers config block"
+}

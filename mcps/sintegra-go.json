@@ -1,0 +1,7 @@
+{
+  "name": "sintegra-go",
+  "description": "Enables querying Brazilian SINTEGRA tax registration data via a hosted MCP server, with read-only access and pay-per-query prepaid credits.",
+  "source_repo": "mcp-dir/sintegra_go-mcp",
+  "source_url": "https://github.com/mcp-dir/sintegra_go-mcp",
+  "install": "npx -y sintegra_go-mcp"
+}

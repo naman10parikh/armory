@@ -1,0 +1,7 @@
+{
+  "name": "seismo-mcp",
+  "description": "Bridges AI assistants to seismology software (ObsPy, CWP/SU, SAC, PyGMT), allowing users to process seismic waveforms and perform analysis through natural language instead of writing code.",
+  "source_repo": "AnnanRen/seismo-mcp",
+  "source_url": "https://github.com/AnnanRen/seismo-mcp",
+  "install": "npx -y seismo-mcp"
+}

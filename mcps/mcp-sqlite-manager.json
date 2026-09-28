@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sqlite-manager",
+  "description": "Enables SQLite database interactions including querying, updating, and schema management through structured tools.",
+  "source_repo": "jonnyhoff/mcp-sqlite-manager",
+  "source_url": "https://github.com/jonnyhoff/mcp-sqlite-manager",
+  "install": "# git clone --depth 1 https://github.com/jonnyhoff/mcp-sqlite-manager\n# See source for mcpServers config block"
+}

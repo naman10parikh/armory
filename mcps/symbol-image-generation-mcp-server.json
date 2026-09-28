@@ -1,0 +1,7 @@
+{
+  "name": "symbol-image-generation-mcp-server",
+  "description": "Generates stylized 3D symbol images with automatic background removal using multiple AI image generators (Google Imagen, Stability AI, DALL-E 3) and integrates with MCP clients like Claude Desktop.",
+  "source_repo": "geochilmaru/symbol-image-mcp",
+  "source_url": "https://github.com/geochilmaru/symbol-image-mcp",
+  "install": "npx -y symbol-image-mcp"
+}

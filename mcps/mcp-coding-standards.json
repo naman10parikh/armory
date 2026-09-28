@@ -1,0 +1,7 @@
+{
+  "name": "mcp-coding-standards",
+  "description": "A server providing programming guidelines and coding standards for multiple languages, enabling access and search of best practices for C#, Go, JavaScript, Python, and TypeScript.",
+  "source_repo": "KarateJB/mcp-coding-standards",
+  "source_url": "https://github.com/KarateJB/mcp-coding-standards",
+  "install": "# git clone --depth 1 https://github.com/KarateJB/mcp-coding-standards\n# See source for mcpServers config block"
+}

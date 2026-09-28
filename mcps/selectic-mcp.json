@@ -1,0 +1,7 @@
+{
+  "name": "selectic-mcp",
+  "description": "Enables AI assistants to call, text, and email businesses on your behalf, read back transcripts, recordings, and replies.",
+  "source_repo": "selectic-ai/selectic-mcp",
+  "source_url": "https://github.com/selectic-ai/selectic-mcp",
+  "install": "npx -y selectic-mcp"
+}

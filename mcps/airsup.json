@@ -1,0 +1,7 @@
+{
+  "name": "airsup",
+  "description": "Enables ChatGPT instances to exchange messages asynchronously through a Supabase-backed queue, with tools for identity, live chat, and scheduled worker coordination.",
+  "source_repo": "tadeus123/airsup2",
+  "source_url": "https://github.com/tadeus123/airsup2",
+  "install": "# git clone --depth 1 https://github.com/tadeus123/airsup2\n# See source for mcpServers config block"
+}

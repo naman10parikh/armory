@@ -1,0 +1,7 @@
+{
+  "name": "sceneboard-mcp-for-codex",
+  "description": "Enables Codex to create, update, review, and present live SceneBoard boards after user approves a one-time connection.",
+  "source_repo": "leecatinc/sceneboard-mcp",
+  "source_url": "https://github.com/leecatinc/sceneboard-mcp",
+  "install": "npx -y sceneboard-mcp"
+}

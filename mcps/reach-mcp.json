@@ -1,0 +1,7 @@
+{
+  "name": "reach-mcp",
+  "description": "A controllable multi-source search MCP server for AI agents. Enables searching multiple sources like Reddit, X, YouTube, and more, with control over sources, time window, and optional synthesis.",
+  "source_repo": "xyonium/reach-mcp",
+  "source_url": "https://github.com/xyonium/reach-mcp",
+  "install": "npx -y reach-mcp"
+}

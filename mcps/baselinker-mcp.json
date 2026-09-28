@@ -1,0 +1,7 @@
+{
+  "name": "baselinker-mcp",
+  "description": "Free, open-source MCP server and CLI for the BaseLinker API, exposing two tools to call any API method and list methods with minimal context cost.",
+  "source_repo": "konradbachowski/baselinker-mcp",
+  "source_url": "https://github.com/konradbachowski/baselinker-mcp",
+  "install": "npx -y baselinker-mcp"
+}

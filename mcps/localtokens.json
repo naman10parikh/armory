@@ -1,0 +1,7 @@
+{
+  "name": "localtokens",
+  "description": "An MCP server that turns your machine or LAN of ollama nodes into a local token generator, enabling coding agents to delegate bounded processing tasks to local models and save cloud credits.",
+  "source_repo": "PRojas01/localtokens",
+  "source_url": "https://github.com/PRojas01/localtokens",
+  "install": "# git clone --depth 1 https://github.com/PRojas01/localtokens\n# See source for mcpServers config block"
+}

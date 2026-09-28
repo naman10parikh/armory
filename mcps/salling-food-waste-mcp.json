@@ -1,0 +1,7 @@
+{
+  "name": "salling-food-waste-mcp",
+  "description": "Find discounted food waste from Danish supermarkets (Salling Group) via the Model Context Protocol. Provides tools to search nearby stores or get products by store ID.",
+  "source_repo": "Kristoffer88/salling-food-waste-mcp",
+  "source_url": "https://github.com/Kristoffer88/salling-food-waste-mcp",
+  "install": "npx -y salling-food-waste-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-search-mcp-2",
+  "description": "Free multi-source search for AI agents with multi-source verification, token savings, and MCP native support.",
+  "source_repo": "lennney/agent-search-mcp",
+  "source_url": "https://github.com/lennney/agent-search-mcp",
+  "install": "npx -y agent-search-mcp"
+}

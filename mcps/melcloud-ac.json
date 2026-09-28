@@ -1,0 +1,7 @@
+{
+  "name": "melcloud-ac",
+  "description": "An MCP server that enables LLMs to control Mitsubishi Electric AC units through MELCloud, supporting device listing, power on/off, temperature changes, and smart auto comfort mode.",
+  "source_repo": "vascosilvaa/melcloud-ac",
+  "source_url": "https://github.com/vascosilvaa/melcloud-ac",
+  "install": "# git clone --depth 1 https://github.com/vascosilvaa/melcloud-ac\n# See source for mcpServers config block"
+}

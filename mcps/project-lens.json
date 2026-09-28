@@ -1,0 +1,7 @@
+{
+  "name": "project-lens",
+  "description": "MCP server that scans workspace roots to build a registry of version-controlled projects, exposing tools for searching, listing, and inspecting projects to help AI coding agents navigate multi-repo workspaces efficiently.",
+  "source_repo": "MatiasPujado/Project_Lens",
+  "source_url": "https://github.com/MatiasPujado/Project_Lens",
+  "install": "# git clone --depth 1 https://github.com/MatiasPujado/Project_Lens\n# See source for mcpServers config block"
+}

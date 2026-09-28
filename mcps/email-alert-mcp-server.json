@@ -1,0 +1,7 @@
+{
+  "name": "email-alert-mcp-server",
+  "description": "Enables AI agents to read, filter, send emails, and check unread counts via the Model Context Protocol using Gmail SMTP/IMAP.",
+  "source_repo": "tejaskumbhar288/email-mcp-server",
+  "source_url": "https://github.com/tejaskumbhar288/email-mcp-server",
+  "install": "npx -y email-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "commit-discipline-mcp",
+  "description": "An MCP server that enforces disciplined Git workflows by planning coding tasks into small, test-gated commits, ensuring tests pass before staging and preventing out-of-scope or oversized changes.",
+  "source_repo": "ayush-singh-0601/commit-discipline-mcp",
+  "source_url": "https://github.com/ayush-singh-0601/commit-discipline-mcp",
+  "install": "npx -y commit-discipline-mcp"
+}

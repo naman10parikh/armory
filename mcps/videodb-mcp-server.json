@@ -1,0 +1,7 @@
+{
+  "name": "videodb-mcp-server",
+  "description": "Connects Claude and other MCP clients to VideoDB, enabling video upload, indexing, semantic search, clipping, and streaming directly from a conversation. OAuth-secured and deployable to Vercel with zero infrastructure.",
+  "source_repo": "video-db/videodb-mcp",
+  "source_url": "https://github.com/video-db/videodb-mcp",
+  "install": "npx -y videodb-mcp"
+}

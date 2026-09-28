@@ -1,0 +1,7 @@
+{
+  "name": "june-calendar-mcp",
+  "description": "MCP server for Google Calendar (single-user) using Service Account authentication. Provides tools to manage events, check free/busy, and find free slots.",
+  "source_repo": "zobra-auto/june-calendar-mcp",
+  "source_url": "https://github.com/zobra-auto/june-calendar-mcp",
+  "install": "npx -y june-calendar-mcp"
+}

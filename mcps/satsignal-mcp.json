@@ -1,0 +1,7 @@
+{
+  "name": "satsignal-mcp",
+  "description": "Enables tamper-evident anchoring of file, text, or JSON hashes to the BSV blockchain via MCP tools, with verification and lookup capabilities.",
+  "source_repo": "Steleet/satsignal-mcp",
+  "source_url": "https://github.com/Steleet/satsignal-mcp",
+  "install": "npx -y satsignal-mcp"
+}

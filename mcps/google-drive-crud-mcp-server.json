@@ -1,0 +1,7 @@
+{
+  "name": "google-drive-crud-mcp-server",
+  "description": "MCP server that gives Claude full read-write access to Google Drive, Docs, Sheets, and Slides using your own Google OAuth credentials and hosted server.",
+  "source_repo": "adampaulwalker/claude-gdrive-mcp",
+  "source_url": "https://github.com/adampaulwalker/claude-gdrive-mcp",
+  "install": "npx -y claude-gdrive-mcp"
+}

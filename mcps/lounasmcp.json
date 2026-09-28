@@ -1,0 +1,7 @@
+{
+  "name": "lounasmcp",
+  "description": "Enables retrieval of daily lunch menus for restaurants in Sello shopping center (Espoo) from lounaat.info.",
+  "source_repo": "JareCoder/LounasMCP",
+  "source_url": "https://github.com/JareCoder/LounasMCP",
+  "install": "# git clone --depth 1 https://github.com/JareCoder/LounasMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "clueso-mcp",
+  "description": "Clueso's MCP connects your favorite AI agents to a video creation engine. Just describe what you need — and every output stays fully editable, by you or AI.",
+  "source_repo": "clueso-ai/clueso-mcp",
+  "source_url": "https://github.com/clueso-ai/clueso-mcp",
+  "install": "npx -y clueso-mcp"
+}

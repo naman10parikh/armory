@@ -1,0 +1,7 @@
+{
+  "name": "grounding-enforcer",
+  "description": "A standalone MCP server that validates model output against retrieved sources. It flags any claim, statistic, attribution, quote, or URL that cannot be traced back to a real source.",
+  "source_repo": "steveswain14/mcp-grounding-enforcer",
+  "source_url": "https://github.com/steveswain14/mcp-grounding-enforcer",
+  "install": "# git clone --depth 1 https://github.com/steveswain14/mcp-grounding-enforcer\n# See source for mcpServers config block"
+}

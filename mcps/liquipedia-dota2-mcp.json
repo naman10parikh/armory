@@ -1,0 +1,7 @@
+{
+  "name": "liquipedia-dota2-mcp",
+  "description": "Read-only MCP server for sourced Dota 2 tournament, team, player, schedule, and result data from Liquipedia, with revision-level metadata and caching.",
+  "source_repo": "Mooooooon/liquipedia-dota2-mcp",
+  "source_url": "https://github.com/Mooooooon/liquipedia-dota2-mcp",
+  "install": "npx -y liquipedia-dota2-mcp"
+}

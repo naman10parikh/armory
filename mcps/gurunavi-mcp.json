@@ -1,0 +1,7 @@
+{
+  "name": "gurunavi-mcp",
+  "description": "MCP server that transforms Gurunavi into a browser-driven semantic proxy, providing restaurant search, details, and reservation management through normalized interfaces with safety controls.",
+  "source_repo": "koduki/gurunavi-mcp",
+  "source_url": "https://github.com/koduki/gurunavi-mcp",
+  "install": "npx -y gurunavi-mcp"
+}

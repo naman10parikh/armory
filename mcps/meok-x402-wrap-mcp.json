@@ -1,0 +1,7 @@
+{
+  "name": "meok-x402-wrap-mcp",
+  "description": "Provides a 1-line USDC paywall wrapper for any FastMCP tool using the Coinbase x402 protocol, enabling pay-per-call endpoints settled on Base, Polygon, Solana, or Bitcoin Lightning.",
+  "source_repo": "CSOAI-ORG/meok-x402-wrap-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/meok-x402-wrap-mcp",
+  "install": "npx -y meok-x402-wrap-mcp"
+}

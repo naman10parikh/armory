@@ -1,0 +1,7 @@
+{
+  "name": "ratduck-search-mcp",
+  "description": "An MCP server that gives an agent the open web: searches DuckDuckGo via its no-JavaScript front end, scrapes any URL, and filters/re-ranks results to deliver the top few instead of a wall of links.",
+  "source_repo": "dixonSolutions/ratduck-search-mcp",
+  "source_url": "https://github.com/dixonSolutions/ratduck-search-mcp",
+  "install": "npx -y ratduck-search-mcp"
+}

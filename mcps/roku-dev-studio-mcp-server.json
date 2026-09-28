@@ -1,0 +1,7 @@
+{
+  "name": "roku-dev-studio-mcp-server",
+  "description": "All-in-one developer tool and MCP Server for Roku development, featuring ECP device control, automated channel sideloading, BrightScript debugging, and real-time log monitoring.",
+  "source_repo": "paramount-engineering/roku-dev-studio",
+  "source_url": "https://github.com/paramount-engineering/roku-dev-studio",
+  "install": "# git clone --depth 1 https://github.com/paramount-engineering/roku-dev-studio\n# See source for mcpServers config block"
+}

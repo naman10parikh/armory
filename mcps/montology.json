@@ -1,0 +1,7 @@
+{
+  "name": "montology",
+  "description": "Enforces design systems and vocabulary via ontology checks, candidate scanning, linting, and structural search across repositories.",
+  "source_repo": "socialite-ml/montology",
+  "source_url": "https://github.com/socialite-ml/montology",
+  "install": "# git clone --depth 1 https://github.com/socialite-ml/montology\n# See source for mcpServers config block"
+}

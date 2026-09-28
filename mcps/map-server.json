@@ -1,0 +1,7 @@
+{
+  "name": "map-server",
+  "description": "A minimal MCP server built on the official Python SDK, running over Streamable HTTP. It provides demo tools (echo, add) and a time resource for testing MCP clients.",
+  "source_repo": "gcordova17/mcp-server",
+  "source_url": "https://github.com/gcordova17/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/gcordova17/mcp-server\n# See source for mcpServers config block"
+}

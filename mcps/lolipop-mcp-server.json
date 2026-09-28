@@ -1,0 +1,7 @@
+{
+  "name": "lolipop-mcp-server",
+  "description": "Manage domains, subdomains, free SSL certificates, and WordPress installations on Lolipop Rental Server through natural language conversations with AI assistants.",
+  "source_repo": "pepabo/lolipop-mcp",
+  "source_url": "https://github.com/pepabo/lolipop-mcp",
+  "install": "npx -y lolipop-mcp"
+}

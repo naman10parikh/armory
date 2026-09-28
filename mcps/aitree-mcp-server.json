@@ -1,0 +1,7 @@
+{
+  "name": "aitree-mcp-server",
+  "description": "Enables AI assistants to generate annotated file trees, retrieve file statistics, list git-changed files, and read file contents from local directories or GitHub repositories.",
+  "source_repo": "Paracci/aitree",
+  "source_url": "https://github.com/Paracci/aitree",
+  "install": "# git clone --depth 1 https://github.com/Paracci/aitree\n# See source for mcpServers config block"
+}

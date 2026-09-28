@@ -1,0 +1,7 @@
+{
+  "name": "lore-db-mcp-server",
+  "description": "Provides tools for semantic search, CRUD, verification, and reindexing of documents in a local vector-based knowledge base, usable via HTTP or stdio.",
+  "source_repo": "andreehultgren/lore-db",
+  "source_url": "https://github.com/andreehultgren/lore-db",
+  "install": "# git clone --depth 1 https://github.com/andreehultgren/lore-db\n# See source for mcpServers config block"
+}

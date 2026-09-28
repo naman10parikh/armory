@@ -1,0 +1,7 @@
+{
+  "name": "mtdevkit",
+  "description": "An MCP server that scaffolds Flutter projects from a custom clean-architecture Bitbucket template, enabling AI agents to create, list, and inspect Flutter projects via natural language.",
+  "source_repo": "stephangopaul/MTDevKit",
+  "source_url": "https://github.com/stephangopaul/MTDevKit",
+  "install": "# git clone --depth 1 https://github.com/stephangopaul/MTDevKit\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "clawcall-mcp-server",
+  "description": "Enables AI agents to make real outbound phone calls to US/Canada numbers, handle conversations, and return transcripts and recordings via the Model Context Protocol.",
+  "source_repo": "ClawCall-Dev/ClawCall",
+  "source_url": "https://github.com/ClawCall-Dev/ClawCall",
+  "install": "# git clone --depth 1 https://github.com/ClawCall-Dev/ClawCall\n# See source for mcpServers config block"
+}

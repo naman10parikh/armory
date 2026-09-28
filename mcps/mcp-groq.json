@@ -1,0 +1,7 @@
+{
+  "name": "mcp-groq",
+  "description": "Provides a suite of AI tools for web search, mathematical calculations, and tech news aggregation via MCP, leveraging Groq LLMs.",
+  "source_repo": "rahulsamant37/MCP-GROQ",
+  "source_url": "https://github.com/rahulsamant37/MCP-GROQ",
+  "install": "# git clone --depth 1 https://github.com/rahulsamant37/MCP-GROQ\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jn-engine-contributor-mcp",
+  "description": "A read-only MCP gateway for contributors to JN Engine, exposing immutable repository snapshots via REST and Streamable HTTP for ChatGPT, Claude, and coding agents.",
+  "source_repo": "alexscott2718-gif/jn-engine-contributor-mcp",
+  "source_url": "https://github.com/alexscott2718-gif/jn-engine-contributor-mcp",
+  "install": "npx -y jn-engine-contributor-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "croncron",
+  "description": "An MCP server that lets AI agents manage cron jobs through natural language — adding, listing, pausing, removing, running, and viewing logs of scheduled jobs with plain-English schedule parsing, automatic log capture, missed-run detection, and failure alerts.",
+  "source_repo": "itsnotrwanman/croncron",
+  "source_url": "https://github.com/itsnotrwanman/croncron",
+  "install": "# git clone --depth 1 https://github.com/itsnotrwanman/croncron\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "netsuite-saved-search-mcp",
+  "description": "Exposes NetSuite saved search exports as a structured query interface for Claude, enabling file discovery, column inspection, filtering, aggregation, memo categorization, and anomaly detection.",
+  "source_repo": "maximizeGPT/netsuite-saved-search-mcp",
+  "source_url": "https://github.com/maximizeGPT/netsuite-saved-search-mcp",
+  "install": "npx -y netsuite-saved-search-mcp"
+}

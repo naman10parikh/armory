@@ -1,0 +1,7 @@
+{
+  "name": "tracearr-mcp",
+  "description": "MCP server exposing Tracearr's Public API v2 as read-only tools to query Plex, Jellyfin, and Emby monitoring data such as watch history, active streams, media, users, libraries, and recently added items.",
+  "source_repo": "SavageCore/tracearr-mcp",
+  "source_url": "https://github.com/SavageCore/tracearr-mcp",
+  "install": "npx -y tracearr-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "soundings-mcp",
+  "description": "Enables users to fetch, analyze, and visualize RAOB upper-air sounding data, including station search, thermodynamic calculations, and Skew-T diagram generation with S3 upload support.",
+  "source_repo": "basicbill/soundings-mcp",
+  "source_url": "https://github.com/basicbill/soundings-mcp",
+  "install": "npx -y soundings-mcp"
+}

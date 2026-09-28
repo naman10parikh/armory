@@ -1,0 +1,7 @@
+{
+  "name": "indica-facil-mcp-chatwoot",
+  "description": "Exposes the full Chatwoot API as 129 tools for AI assistants, enabling account, contact, conversation, message, inbox, team, report, help center, automation, and custom attribute management, plus exclusive Kanban and scheduled message features.",
+  "source_repo": "nicolasdasilvaesilva/mcp-chatwoot",
+  "source_url": "https://github.com/nicolasdasilvaesilva/mcp-chatwoot",
+  "install": "# git clone --depth 1 https://github.com/nicolasdasilvaesilva/mcp-chatwoot\n# See source for mcpServers config block"
+}

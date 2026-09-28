@@ -1,0 +1,7 @@
+{
+  "name": "sse-email-mcp-server",
+  "description": "Provides email sending and receiving via SMTP/IMAP/POP3, supporting major email providers and dynamic authentication for AI assistant integration.",
+  "source_repo": "1018053166/sse-email-mcp-server",
+  "source_url": "https://github.com/1018053166/sse-email-mcp-server",
+  "install": "npx -y sse-email-mcp-server"
+}

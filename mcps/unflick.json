@@ -1,0 +1,7 @@
+{
+  "name": "unflick",
+  "description": "Video player for humans and AI. GUI + CLI + a built-in MCP server (39 tools) to drive playback, clip, transcribe, and search your media library from Claude, Cursor, or any MCP client. Local Whisper subtitles. MIT, local-first.",
+  "source_repo": "zhitongblog/unflick",
+  "source_url": "https://github.com/zhitongblog/unflick",
+  "install": "# git clone --depth 1 https://github.com/zhitongblog/unflick\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mailcal-mcp-server",
+  "description": "MCP server for MailCal that reads emails via IMAP, extracts calendar events (interviews, assessments, meetings, deadlines), and provides tools to list, sync, add, update, and delete these events.",
+  "source_repo": "GlenYe-Coding/MailCal",
+  "source_url": "https://github.com/GlenYe-Coding/MailCal",
+  "install": "# git clone --depth 1 https://github.com/GlenYe-Coding/MailCal\n# See source for mcpServers config block"
+}

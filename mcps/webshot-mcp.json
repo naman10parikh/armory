@@ -1,0 +1,7 @@
+{
+  "name": "webshot-mcp",
+  "description": "Enables agents to take screenshots and extract text from web pages using a persistent Chrome browser via CDP, with built-in SSRF protection.",
+  "source_repo": "Brandon-35/webshot-mcp",
+  "source_url": "https://github.com/Brandon-35/webshot-mcp",
+  "install": "npx -y webshot-mcp"
+}

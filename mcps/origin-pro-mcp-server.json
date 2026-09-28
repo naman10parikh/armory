@@ -1,0 +1,7 @@
+{
+  "name": "origin-pro-mcp-server",
+  "description": "Enables AI assistants to control OriginLab Origin Pro via COM automation for data analysis, graphing, and styling, with real-time GUI updates.",
+  "source_repo": "youngminsw/Origin-Pro-MCP",
+  "source_url": "https://github.com/youngminsw/Origin-Pro-MCP",
+  "install": "npx -y Origin-Pro-MCP"
+}

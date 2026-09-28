@@ -1,0 +1,7 @@
+{
+  "name": "symfony-php-mcp",
+  "description": "A production-ready Model Context Protocol (MCP) server that bridges your Symfony/PHP project with LLMs such as Claude. It exposes tools that let the AI read your project's routes, services, Twig templates, and PHP source code.",
+  "source_repo": "maschmann/symfony-php-mcp",
+  "source_url": "https://github.com/maschmann/symfony-php-mcp",
+  "install": "npx -y symfony-php-mcp"
+}

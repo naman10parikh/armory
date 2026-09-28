@@ -1,0 +1,7 @@
+{
+  "name": "aigist-mcp",
+  "description": "Publish and manage shareable HTML/Markdown pages with access control and comments via MCP clients.",
+  "source_repo": "marshallino16/aigist-mcp",
+  "source_url": "https://github.com/marshallino16/aigist-mcp",
+  "install": "npx -y aigist-mcp"
+}

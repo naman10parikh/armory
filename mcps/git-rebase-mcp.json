@@ -1,0 +1,7 @@
+{
+  "name": "git-rebase-mcp",
+  "description": "MCP server that makes git rebase safe for agents by refusing unsafe operations, presenting conflicts as two intents, and verifying the branch's change against its base.",
+  "source_repo": "aaron-riact/git-rebase-mcp",
+  "source_url": "https://github.com/aaron-riact/git-rebase-mcp",
+  "install": "npx -y git-rebase-mcp"
+}

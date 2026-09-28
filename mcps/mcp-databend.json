@@ -1,0 +1,7 @@
+{
+  "name": "mcp-databend",
+  "description": "Enables AI agents to connect to Databend databases safely with a session sandbox that keeps production read-only while agents experiment.",
+  "source_repo": "databendlabs/mcp-databend",
+  "source_url": "https://github.com/databendlabs/mcp-databend",
+  "install": "# git clone --depth 1 https://github.com/databendlabs/mcp-databend\n# See source for mcpServers config block"
+}

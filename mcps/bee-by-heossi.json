@@ -1,0 +1,7 @@
+{
+  "name": "bee-by-heossi",
+  "description": "Bee by HEOSSI is a governed MCP server exposing 14 tools for specialist intelligence, code, security, research, provenance, usage, tenant-scoped documents and memory, and Quantum Reasoning Lab workflows. Hosted calls are authenticated, plan- and policy-gated, and metered.",
+  "source_repo": "heossihq/bee-public",
+  "source_url": "https://github.com/heossihq/bee-public",
+  "install": "# git clone --depth 1 https://github.com/heossihq/bee-public\n# See source for mcpServers config block"
+}

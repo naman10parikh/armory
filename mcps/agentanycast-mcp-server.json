@@ -1,0 +1,7 @@
+{
+  "name": "agentanycast-mcp-server",
+  "description": "Enables AI tools to discover, communicate with, and orchestrate AI agents over a decentralized peer-to-peer network with end-to-end encryption.",
+  "source_repo": "AgentAnycast/agentanycast-mcp",
+  "source_url": "https://github.com/AgentAnycast/agentanycast-mcp",
+  "install": "npx -y agentanycast-mcp"
+}

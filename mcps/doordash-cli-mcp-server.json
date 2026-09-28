@@ -1,0 +1,7 @@
+{
+  "name": "doordash-cli-mcp-server",
+  "description": "Local MCP wrapper for DoorDash CLI on macOS, exposing DoorDash services like restaurant search, menus, carts, ordering, and payments as MCP tools with secure token-based access.",
+  "source_repo": "francisschmaltz/doordash-cli-mcp",
+  "source_url": "https://github.com/francisschmaltz/doordash-cli-mcp",
+  "install": "npx -y doordash-cli-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hcdp-mcp-server",
+  "description": "A Model Context Protocol server providing seamless access to the Hawaii Climate Data Portal API for querying climate and weather data for Hawaii and American Samoa.",
+  "source_repo": "tyson-swetnam/hcdp-mcp",
+  "source_url": "https://github.com/tyson-swetnam/hcdp-mcp",
+  "install": "npx -y hcdp-mcp"
+}

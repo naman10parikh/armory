@@ -1,0 +1,7 @@
+{
+  "name": "vtrack-mcp-server",
+  "description": "MCP server that exposes the V-Track project management API as tools for AI assistants, enabling interaction with projects, tasks, issues, sprints, and more.",
+  "source_repo": "harrynguyen14/vtrack-api-mcp",
+  "source_url": "https://github.com/harrynguyen14/vtrack-api-mcp",
+  "install": "npx -y vtrack-api-mcp"
+}

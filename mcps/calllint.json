@@ -1,0 +1,7 @@
+{
+  "name": "calllint",
+  "description": "Static preflight safety gate for MCP servers — scan configs before you run them. Never executes.",
+  "source_repo": "calllint/calllint",
+  "source_url": "https://github.com/calllint/calllint",
+  "install": "# git clone --depth 1 https://github.com/calllint/calllint\n# See source for mcpServers config block"
+}

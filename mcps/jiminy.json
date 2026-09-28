@@ -1,0 +1,7 @@
+{
+  "name": "jiminy",
+  "description": "Serves a versioned constitution (mission and principles) over MCP as a coherence control plane for multi-agent systems, enabling agents to fetch the current direction and receive change notifications.",
+  "source_repo": "cizambra/jiminy",
+  "source_url": "https://github.com/cizambra/jiminy",
+  "install": "# git clone --depth 1 https://github.com/cizambra/jiminy\n# See source for mcpServers config block"
+}

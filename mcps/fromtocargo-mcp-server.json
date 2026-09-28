@@ -1,0 +1,7 @@
+{
+  "name": "fromtocargo-mcp-server",
+  "description": "Real published tariffs for European road freight and moving: quote by m3, kg, pallets or LDM across 560k+ routes. Dated price index, freight glossary, order submission. Live endpoint at https://mcp.fromtocargo.com/mcp (19 tools).",
+  "source_repo": "coservices-ee/fromtocargo-mcp",
+  "source_url": "https://github.com/coservices-ee/fromtocargo-mcp",
+  "install": "npx -y fromtocargo-mcp"
+}

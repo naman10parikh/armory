@@ -1,0 +1,7 @@
+{
+  "name": "graphiti-fastmcp-server",
+  "description": "A temporally-aware knowledge graph MCP server for AI agents, enabling episodic ingestion, entity management, and semantic search with support for multiple LLM and embedding providers.",
+  "source_repo": "donbr/graphiti-fastmcp",
+  "source_url": "https://github.com/donbr/graphiti-fastmcp",
+  "install": "# git clone --depth 1 https://github.com/donbr/graphiti-fastmcp\n# See source for mcpServers config block"
+}

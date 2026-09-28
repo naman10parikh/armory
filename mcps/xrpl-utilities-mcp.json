@@ -1,0 +1,7 @@
+{
+  "name": "xrpl-utilities-mcp",
+  "description": "Exposes 17 read-only tools from six XRPL-Utilities services so AI agents can access XRPL wallet analysis, signal feeds, macro telemetry, permissioned asset stacks, RWA tracking, and ETF flow data.",
+  "source_repo": "XRPL-Utilities/xrpl-utilities-mcp",
+  "source_url": "https://github.com/XRPL-Utilities/xrpl-utilities-mcp",
+  "install": "npx -y xrpl-utilities-mcp"
+}

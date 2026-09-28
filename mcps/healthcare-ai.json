@@ -1,0 +1,7 @@
+{
+  "name": "healthcare-ai",
+  "description": "Enables healthcare AI interactions via MCP protocol with built-in EU AI Act compliance. Provides quick installation, well-documented API, and enterprise support.",
+  "source_repo": "CSOAI-ORG/healthcare-ai",
+  "source_url": "https://github.com/CSOAI-ORG/healthcare-ai",
+  "install": "# git clone --depth 1 https://github.com/CSOAI-ORG/healthcare-ai\n# See source for mcpServers config block"
+}

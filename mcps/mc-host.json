@@ -1,0 +1,7 @@
+{
+  "name": "mc-host",
+  "description": "Enables managing a local Minecraft hosting service through MCP, including server creation, start/stop, mod installation, and log retrieval.",
+  "source_repo": "PS5Gamer55555/mc-host",
+  "source_url": "https://github.com/PS5Gamer55555/mc-host",
+  "install": "# git clone --depth 1 https://github.com/PS5Gamer55555/mc-host\n# See source for mcpServers config block"
+}

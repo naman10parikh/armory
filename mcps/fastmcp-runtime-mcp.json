@@ -1,0 +1,7 @@
+{
+  "name": "fastmcp-runtime-mcp",
+  "description": "Paid remote MCP for hosted MCP server providing structured receipts, usage logs, and audit-ready evidence for agent and CI workflows.",
+  "source_repo": "clauxel/fastmcp-runtime-mcp",
+  "source_url": "https://github.com/clauxel/fastmcp-runtime-mcp",
+  "install": "npx -y fastmcp-runtime-mcp"
+}

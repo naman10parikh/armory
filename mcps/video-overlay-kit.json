@@ -1,0 +1,7 @@
+{
+  "name": "video-overlay-kit",
+  "description": "An MCP server that generates MP4 b-roll videos from scene specs, enabling AI agents to create branded overlays for short-form video without After Effects.",
+  "source_repo": "alichherawalla/video-overlay-kit",
+  "source_url": "https://github.com/alichherawalla/video-overlay-kit",
+  "install": "# git clone --depth 1 https://github.com/alichherawalla/video-overlay-kit\n# See source for mcpServers config block"
+}

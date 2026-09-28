@@ -1,0 +1,7 @@
+{
+  "name": "ek-chuah-mcp",
+  "description": "Read-only MCP server that serves the Archivo Epistemico (epistemic graph), enabling AI to read and query the epistemic path autonomously via tools like search, get_via, resolve, and get_necesidad.",
+  "source_repo": "Entheos69/Ek-Chuah-mcp",
+  "source_url": "https://github.com/Entheos69/Ek-Chuah-mcp",
+  "install": "npx -y Ek-Chuah-mcp"
+}

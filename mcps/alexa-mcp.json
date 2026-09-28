@@ -1,0 +1,7 @@
+{
+  "name": "alexa-mcp",
+  "description": "Enables AI assistants to audit and clean up Amazon Alexa accounts: list routines, smart-home devices, scenes, and activity history, with optional deletion of orphan devices.",
+  "source_repo": "snordquist/alexa-mcp",
+  "source_url": "https://github.com/snordquist/alexa-mcp",
+  "install": "npx -y alexa-mcp"
+}

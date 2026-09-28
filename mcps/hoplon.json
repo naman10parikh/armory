@@ -1,0 +1,7 @@
+{
+  "name": "hoplon",
+  "description": "Enables AI coding agents and hosts to enforce deterministic repository boundaries via MCP, providing structured reads, supervised edits, snapshots, audits, and recovery with machine-readable evidence.",
+  "source_repo": "justguy/hoplon",
+  "source_url": "https://github.com/justguy/hoplon",
+  "install": "# git clone --depth 1 https://github.com/justguy/hoplon\n# See source for mcpServers config block"
+}

@@ -1,6 +1,6 @@
 {
   "name": "hyperdrive-eng",
-  "description": "Hyperdrive Eng MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "mcp-nodejs-debugger/hyperdrive-eng",
   "source_url": "https://mcp.so/server/hyperdrive-eng/mcp-nodejs-debugger",
   "install": "# git clone --depth 1 https://mcp.so/server/hyperdrive-eng/mcp-nodejs-debugger\n# See source for mcpServers config block"

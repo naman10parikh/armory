@@ -1,0 +1,7 @@
+{
+  "name": "frontier-mcp",
+  "description": "An MCP server that exposes the markdown issue tracker under .scratch/ as a queryable graph, letting agents see open, blocked, or takeable issues without re-parsing prose.",
+  "source_repo": "51ck/frontier-mcp",
+  "source_url": "https://github.com/51ck/frontier-mcp",
+  "install": "npx -y frontier-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "safe-code-mcp",
+  "description": "A local MCP server that provides controlled repository access with policy-based file filtering, secret redaction, and audit logging for AI coding agents.",
+  "source_repo": "marcojourney/safe-code-mcp",
+  "source_url": "https://github.com/marcojourney/safe-code-mcp",
+  "install": "npx -y safe-code-mcp"
+}

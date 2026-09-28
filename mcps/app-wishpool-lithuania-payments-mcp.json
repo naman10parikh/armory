@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-lithuania-payments-mcp",
+  "description": "Enables AI agents to accept payments in Lithuania through Stripe hosted checkout, supporting cards, Apple Pay, and Google Pay.",
+  "source_repo": "junter1989k-ai/lithuania-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/lithuania-payments-mcp",
+  "install": "npx -y lithuania-payments-mcp"
+}

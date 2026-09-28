@@ -1,0 +1,7 @@
+{
+  "name": "vin-recall-mcp",
+  "description": "A remote MCP server that provides tools to decode vehicle VINs and check for open safety recalls using NHTSA's public APIs.",
+  "source_repo": "pratikmehkarkar/vin-recall-mcp",
+  "source_url": "https://github.com/pratikmehkarkar/vin-recall-mcp",
+  "install": "npx -y vin-recall-mcp"
+}

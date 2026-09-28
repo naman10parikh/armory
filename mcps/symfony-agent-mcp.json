@@ -1,0 +1,7 @@
+{
+  "name": "symfony-agent-mcp",
+  "description": "Enables AI assistants to perform read-only introspection of Symfony applications, exposing routes, controllers, services, entities, database schema, migrations, logs, and more via MCP tools.",
+  "source_repo": "shakaran/symfony-agent-mcp",
+  "source_url": "https://github.com/shakaran/symfony-agent-mcp",
+  "install": "npx -y symfony-agent-mcp"
+}

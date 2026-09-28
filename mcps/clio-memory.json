@@ -1,0 +1,7 @@
+{
+  "name": "clio-memory",
+  "description": "A self-hosted MCP memory and state system for long-running AI relationships, storing source text locally with explicit memory tools and a web manager for humans.",
+  "source_repo": "dan521627-hash/Clio-Memory",
+  "source_url": "https://github.com/dan521627-hash/Clio-Memory",
+  "install": "# git clone --depth 1 https://github.com/dan521627-hash/Clio-Memory\n# See source for mcpServers config block"
+}

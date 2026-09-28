@@ -1,0 +1,7 @@
+{
+  "name": "webex-bot-mcp",
+  "description": "Enables automated messaging, room management, and team collaboration through the Webex platform using a bot.",
+  "source_repo": "WebexCommunity/webex-bot-mcp",
+  "source_url": "https://github.com/WebexCommunity/webex-bot-mcp",
+  "install": "npx -y webex-bot-mcp"
+}

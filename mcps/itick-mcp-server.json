@@ -1,0 +1,7 @@
+{
+  "name": "itick-mcp-server",
+  "description": "Exposes iTick REST API as MCP tools, providing market data for stocks, crypto, forex, indices, futures, and funds including tick, quote, depth, and kline.",
+  "source_repo": "281287994w-art/itick-mcp-server",
+  "source_url": "https://github.com/281287994w-art/itick-mcp-server",
+  "install": "npx -y itick-mcp-server"
+}

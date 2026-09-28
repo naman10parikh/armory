@@ -1,0 +1,7 @@
+{
+  "name": "mcp-svstudio",
+  "description": "Enables LLM agents to manipulate Synthesizer V Studio 2 Pro projects, including notes, lyrics, phonemes, vocal attributes, parameters, and playback through the official Dreamtonics Scripting API.",
+  "source_repo": "shotarokawade/SV-MCP",
+  "source_url": "https://github.com/shotarokawade/SV-MCP",
+  "install": "npx -y SV-MCP"
+}

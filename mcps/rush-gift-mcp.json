@@ -1,0 +1,7 @@
+{
+  "name": "rush-gift-mcp",
+  "description": "The rush-gift-mcp server helps users en route to an appointment find last-minute gift recommendations and pickup stores along their route, considering time constraints, budget, and relationship. It provides AI-driven planning tools that calculate detour feasibility and generate appropriate gift mess",
+  "source_repo": "memorylane-dev/rush-gift-mcp",
+  "source_url": "https://github.com/memorylane-dev/rush-gift-mcp",
+  "install": "npx -y rush-gift-mcp"
+}

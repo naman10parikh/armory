@@ -1,0 +1,7 @@
+{
+  "name": "codejung-mcp",
+  "description": "MCP server that exposes the self-hosted codeJung code-review service as tools, enabling PR and local directory reviews through any MCP client.",
+  "source_repo": "beardfaceguy/codeJung-mcp",
+  "source_url": "https://github.com/beardfaceguy/codeJung-mcp",
+  "install": "npx -y codeJung-mcp"
+}

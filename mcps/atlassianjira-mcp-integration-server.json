@@ -1,0 +1,7 @@
+{
+  "name": "atlassianjira-mcp-integration-server",
+  "description": "Enables Jira integration with dynamic configuration, time logging, task creation, issue updates, and bulk imports through natural language.",
+  "source_repo": "techrivers/AtlassianJira-MCP-Integration",
+  "source_url": "https://github.com/techrivers/AtlassianJira-MCP-Integration",
+  "install": "# git clone --depth 1 https://github.com/techrivers/AtlassianJira-MCP-Integration\n# See source for mcpServers config block"
+}

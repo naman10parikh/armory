@@ -1,0 +1,7 @@
+{
+  "name": "agy-search",
+  "description": "Wraps the local agy CLI into an MCP server to provide a web_search tool that enables Claude Code to perform real internet searches through Gemini/Google.",
+  "source_repo": "mrbruce516/agy-search",
+  "source_url": "https://github.com/mrbruce516/agy-search",
+  "install": "# git clone --depth 1 https://github.com/mrbruce516/agy-search\n# See source for mcpServers config block"
+}

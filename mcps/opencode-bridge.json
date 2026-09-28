@@ -1,0 +1,7 @@
+{
+  "name": "opencode-bridge",
+  "description": "Lets Claude Code delegate coding tasks to external models running on a local opencode serve, preserving main agent tokens for planning and review.",
+  "source_repo": "Guipegoraro/opencode-bridge",
+  "source_url": "https://github.com/Guipegoraro/opencode-bridge",
+  "install": "# git clone --depth 1 https://github.com/Guipegoraro/opencode-bridge\n# See source for mcpServers config block"
+}

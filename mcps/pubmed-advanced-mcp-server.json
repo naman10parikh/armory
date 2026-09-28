@@ -1,0 +1,7 @@
+{
+  "name": "pubmed-advanced-mcp-server",
+  "description": "This MCP server provides 16 intelligent tools for searching, retrieving, and linking biomedical literature from PubMed and PMC. It enables LLM applications to perform complex queries, batch processing, and cross-database linking.",
+  "source_repo": "SuyashEkhande/Pubmed-MCP-Advanced",
+  "source_url": "https://github.com/SuyashEkhande/Pubmed-MCP-Advanced",
+  "install": "# git clone --depth 1 https://github.com/SuyashEkhande/Pubmed-MCP-Advanced\n# See source for mcpServers config block"
+}

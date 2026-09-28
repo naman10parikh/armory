@@ -1,0 +1,7 @@
+{
+  "name": "vedic-birth-chart",
+  "description": "Enables AI agents to fetch a Vedic D1 (Rasi) birth chart from date, time, and location using the FreeAstrologyAPI.",
+  "source_repo": "mukeshsoni151/mcp-tools",
+  "source_url": "https://github.com/mukeshsoni151/mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/mukeshsoni151/mcp-tools\n# See source for mcpServers config block"
+}

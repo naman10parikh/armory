@@ -1,0 +1,7 @@
+{
+  "name": "himcp",
+  "description": "Compiles OpenAPI 3.x documents and HTTP manifests into verified MCP tools, serving only operator-approved HTTP operations over Model Context Protocol stdio.",
+  "source_repo": "efficjump/hi-mcp",
+  "source_url": "https://github.com/efficjump/hi-mcp",
+  "install": "npx -y hi-mcp"
+}

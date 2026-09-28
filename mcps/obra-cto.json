@@ -1,0 +1,7 @@
+{
+  "name": "obra-cto",
+  "description": "A local-first MCP server that scores your codebase's Build Readiness by reading code and running tests on your machine, outputting a diligence-grade score and risk register without uploading your source.",
+  "source_repo": "lilycip/obra-cto",
+  "source_url": "https://github.com/lilycip/obra-cto",
+  "install": "# git clone --depth 1 https://github.com/lilycip/obra-cto\n# See source for mcpServers config block"
+}

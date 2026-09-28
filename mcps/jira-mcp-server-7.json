@@ -1,0 +1,7 @@
+{
+  "name": "jira-mcp-server-7",
+  "description": "Connects Claude to Jira, allowing users to query tasks, log work, add comments, and execute JQL queries through conversational AI.",
+  "source_repo": "pedrohedro/jira-mcp-server",
+  "source_url": "https://github.com/pedrohedro/jira-mcp-server",
+  "install": "npx -y jira-mcp-server"
+}

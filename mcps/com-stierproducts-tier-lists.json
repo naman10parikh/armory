@@ -1,0 +1,7 @@
+{
+  "name": "com-stierproducts-tier-lists",
+  "description": "Provides read-only access to stierproducts' aggregated product tier lists and reviews, enabling category listing, product search, and retrieval of detailed tier rankings with citations.",
+  "source_repo": "stierproducts/mcp",
+  "source_url": "https://github.com/stierproducts/mcp",
+  "install": "# git clone --depth 1 https://github.com/stierproducts/mcp\n# See source for mcpServers config block"
+}

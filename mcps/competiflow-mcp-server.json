@@ -1,0 +1,7 @@
+{
+  "name": "competiflow-mcp-server",
+  "description": "Track competitors, run discovery, read the interpreted change feed, triage items, and pull workspace digests without leaving your AI client.",
+  "source_repo": "nyku/competiflow-mcp",
+  "source_url": "https://github.com/nyku/competiflow-mcp",
+  "install": "npx -y competiflow-mcp"
+}

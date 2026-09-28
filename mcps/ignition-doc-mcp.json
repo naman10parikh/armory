@@ -1,0 +1,7 @@
+{
+  "name": "ignition-doc-mcp",
+  "description": "An MCP server that provides AI assistants with real-time access to Inductive Automation Ignition documentation, enabling accurate answers on Ignition-specific topics by searching live docs and fetching full pages.",
+  "source_repo": "nurnaufal321/inductiveautomation-doc-mcp",
+  "source_url": "https://github.com/nurnaufal321/inductiveautomation-doc-mcp",
+  "install": "npx -y inductiveautomation-doc-mcp"
+}

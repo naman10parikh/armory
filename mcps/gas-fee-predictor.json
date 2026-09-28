@@ -1,0 +1,7 @@
+{
+  "name": "gas-fee-predictor",
+  "description": "Provides live Ethereum and Layer-2 gas fee data, ETH price, transaction cost estimates, and optimal timing recommendations for AI agents via the Model Context Protocol.",
+  "source_repo": "higherbeing/gasfeepredictor-mcp",
+  "source_url": "https://github.com/higherbeing/gasfeepredictor-mcp",
+  "install": "npx -y gasfeepredictor-mcp"
+}

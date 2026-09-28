@@ -1,0 +1,7 @@
+{
+  "name": "autoit-mcp",
+  "description": "Windows GUI automation MCP server for Claude Code, enabling deterministic desktop app control via 32 tools including window management, input, pixel search, and file verification, leveraging the AutoIt backend.",
+  "source_repo": "benina/autoit-mcp",
+  "source_url": "https://github.com/benina/autoit-mcp",
+  "install": "npx -y autoit-mcp"
+}

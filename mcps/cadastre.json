@@ -1,0 +1,7 @@
+{
+  "name": "cadastre",
+  "description": "Cadastre is an address book and rulebook for infrastructure, giving people and AI agents a single place to query facts about servers, services, networks, domains, repositories, and deployment policies, with provenance and trust signals.",
+  "source_repo": "TheDancingDeveloper-org/cadastre",
+  "source_url": "https://github.com/TheDancingDeveloper-org/cadastre",
+  "install": "# git clone --depth 1 https://github.com/TheDancingDeveloper-org/cadastre\n# See source for mcpServers config block"
+}

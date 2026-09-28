@@ -1,0 +1,7 @@
+{
+  "name": "budget-planner-mcp",
+  "description": "Enables budget management, scenario creation, and value updates through natural language, integrating with the Budget Planner MVP.",
+  "source_repo": "maejie/abc",
+  "source_url": "https://github.com/maejie/abc",
+  "install": "# git clone --depth 1 https://github.com/maejie/abc\n# See source for mcpServers config block"
+}

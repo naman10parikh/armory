@@ -1,0 +1,7 @@
+{
+  "name": "youtube-transcripts-mcp-server",
+  "description": "Provides YouTube video transcripts (text and metadata) as MCP tools for AI hosts like Claude Code, enabling summarization, search, and Q&A without watching the video.",
+  "source_repo": "kmprograms/mcp-server-yt-transcriptions",
+  "source_url": "https://github.com/kmprograms/mcp-server-yt-transcriptions",
+  "install": "# git clone --depth 1 https://github.com/kmprograms/mcp-server-yt-transcriptions\n# See source for mcpServers config block"
+}

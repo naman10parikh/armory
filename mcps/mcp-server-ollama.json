@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-ollama",
+  "description": "Enables natural language management of blog posts and comments through a decoupled architecture using Ollama and JSON-RPC. Supports creating, updating, deleting posts and comments via AI chatbot or MCP clients.",
+  "source_repo": "varun123936/mcp-server-ollama1",
+  "source_url": "https://github.com/varun123936/mcp-server-ollama1",
+  "install": "# git clone --depth 1 https://github.com/varun123936/mcp-server-ollama1\n# See source for mcpServers config block"
+}

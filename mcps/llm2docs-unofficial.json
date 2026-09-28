@@ -1,0 +1,7 @@
+{
+  "name": "llm2docs-unofficial",
+  "description": "An unofficial MCP server for Google Docs that lets large language models securely access, read, and interact with documents, enabling smarter workflows and AI-assisted editing.",
+  "source_repo": "NoManNayeem/google-docs-mcp-server",
+  "source_url": "https://github.com/NoManNayeem/google-docs-mcp-server",
+  "install": "npx -y google-docs-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "computer-split-screen-mcp",
+  "description": "A high-performance, cross-platform MCP server for split-screen window management on Windows and macOS, providing 16 window manipulation tools.",
+  "source_repo": "Beta0415/computer-split-screen-mcp",
+  "source_url": "https://github.com/Beta0415/computer-split-screen-mcp",
+  "install": "npx -y computer-split-screen-mcp"
+}

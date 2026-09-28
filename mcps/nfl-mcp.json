@@ -1,0 +1,7 @@
+{
+  "name": "nfl-mcp",
+  "description": "MCP server that turns real NFL & fantasy data into a decisive edge, offering 70+ tools for draft assistance, start/sit recommendations, trade analysis, playoff odds, and more, with live league integration.",
+  "source_repo": "paulhardebeck-svg/nfl_mcp",
+  "source_url": "https://github.com/paulhardebeck-svg/nfl_mcp",
+  "install": "npx -y nfl_mcp"
+}

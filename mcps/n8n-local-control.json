@@ -1,0 +1,7 @@
+{
+  "name": "n8n-local-control",
+  "description": "MCP server that turns natural-language requests into configured n8n workflows and safely operates a local n8n Docker stack, including workflow management, API access, and Docker lifecycle operations with confirmation-based safety.",
+  "source_repo": "RobertIonutF/n8n-local-control",
+  "source_url": "https://github.com/RobertIonutF/n8n-local-control",
+  "install": "# git clone --depth 1 https://github.com/RobertIonutF/n8n-local-control\n# See source for mcpServers config block"
+}

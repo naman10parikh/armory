@@ -1,0 +1,7 @@
+{
+  "name": "gavriel-mcp",
+  "description": "Local MCP server that exposes the Gavriel alarm monitoring API as tools for AI agents, enabling ticket, event, account, and intervention management with read and write capabilities.",
+  "source_repo": "Mateo-404/gavriel-mcp",
+  "source_url": "https://github.com/Mateo-404/gavriel-mcp",
+  "install": "npx -y gavriel-mcp"
+}

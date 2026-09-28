@@ -1,0 +1,7 @@
+{
+  "name": "quickhelp",
+  "description": "free dev tools (JWT, JSON, Base64, image converter, hash, UUID, and more) — each with a UI, REST API, and MCP server. No auth, stateless, <5s.",
+  "source_repo": "Jan-Stepien/quickhelp",
+  "source_url": "https://github.com/Jan-Stepien/quickhelp",
+  "install": "# git clone --depth 1 https://github.com/Jan-Stepien/quickhelp\n# See source for mcpServers config block"
+}

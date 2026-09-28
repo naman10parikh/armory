@@ -1,0 +1,7 @@
+{
+  "name": "system-mcp",
+  "description": "Exposes system telemetry tools to retrieve CPU, memory, disk, battery, network, process, and GPU metrics from a local machine.",
+  "source_repo": "Chandukasireddy/system_mcp",
+  "source_url": "https://github.com/Chandukasireddy/system_mcp",
+  "install": "npx -y system_mcp"
+}

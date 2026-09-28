@@ -1,0 +1,7 @@
+{
+  "name": "board-terminal-skill",
+  "description": "MCP server for running shell commands on a Linux development board via UART serial.",
+  "source_repo": "kkst1/uart-and-order-SKILL-for-board-based-on-MCP",
+  "source_url": "https://github.com/kkst1/uart-and-order-SKILL-for-board-based-on-MCP",
+  "install": "npx -y uart-and-order-SKILL-for-board-based-on-MCP"
+}

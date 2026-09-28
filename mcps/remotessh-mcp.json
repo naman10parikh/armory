@@ -1,0 +1,7 @@
+{
+  "name": "remotessh-mcp",
+  "description": "Provides local command execution, remote SSH, interactive terminals, file read/write, and source search for AI CLI through stdio, with large output pagination and safety confirmations.",
+  "source_repo": "Dorimui/remotessh-mcp",
+  "source_url": "https://github.com/Dorimui/remotessh-mcp",
+  "install": "npx -y remotessh-mcp"
+}

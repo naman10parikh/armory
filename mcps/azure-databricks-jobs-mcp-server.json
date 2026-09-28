@@ -1,0 +1,7 @@
+{
+  "name": "azure-databricks-jobs-mcp-server",
+  "description": "Exposes Azure Databricks Jobs tools (list, run, get output) with Entra ID authentication and OBO flow for per-user context.",
+  "source_repo": "JanneMattila/azure-databricks-jobs-mcp-server",
+  "source_url": "https://github.com/JanneMattila/azure-databricks-jobs-mcp-server",
+  "install": "npx -y azure-databricks-jobs-mcp-server"
+}

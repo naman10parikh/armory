@@ -1,0 +1,7 @@
+{
+  "name": "fitnotes-mcp-server",
+  "description": "Enables analysis of FitNotes workout data through an LLM, providing insights on progress, muscle groups, and personalized recommendations.",
+  "source_repo": "makkoncept/fitnotes_mcp",
+  "source_url": "https://github.com/makkoncept/fitnotes_mcp",
+  "install": "npx -y fitnotes_mcp"
+}

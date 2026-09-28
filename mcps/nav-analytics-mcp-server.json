@@ -1,0 +1,7 @@
+{
+  "name": "nav-analytics-mcp-server",
+  "description": "Enables querying Indian mutual fund NAV analytics via DuckDB, offering tools for fund search, point-to-point returns, category rankings, and more, using local or Azure parquet data.",
+  "source_repo": "Tech-Armstrong/MF-SIF-MCP",
+  "source_url": "https://github.com/Tech-Armstrong/MF-SIF-MCP",
+  "install": "npx -y MF-SIF-MCP"
+}

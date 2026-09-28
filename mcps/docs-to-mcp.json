@@ -1,0 +1,7 @@
+{
+  "name": "docs-to-mcp",
+  "description": "Enables searching and retrieving documentation from crawled documentation sites as an MCP server, allowing coding agents to query real docs instead of relying on training data.",
+  "source_repo": "gabrielassisxyz/docs-to-mcp",
+  "source_url": "https://github.com/gabrielassisxyz/docs-to-mcp",
+  "install": "npx -y docs-to-mcp"
+}

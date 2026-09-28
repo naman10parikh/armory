@@ -1,0 +1,7 @@
+{
+  "name": "whoop-mcp-server",
+  "description": "Enables language models to query cycles, recovery, strain, and workout data from the Whoop API.",
+  "source_repo": "khushishelat/ctvidic_whoop-mcp-server",
+  "source_url": "https://github.com/khushishelat/ctvidic_whoop-mcp-server",
+  "install": "npx -y ctvidic_whoop-mcp-server"
+}

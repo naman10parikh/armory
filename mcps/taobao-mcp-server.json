@@ -1,0 +1,7 @@
+{
+  "name": "taobao-mcp-server",
+  "description": "Model Context Protocol (MCP) server for scraping Taobao and Tmall product information. Enables AI assistants to fetch comprehensive product data including details, images, specifications, reviews, and Q&A sections.",
+  "source_repo": "JeremyDong22/taobao_mcp",
+  "source_url": "https://github.com/JeremyDong22/taobao_mcp",
+  "install": "npx -y taobao_mcp"
+}

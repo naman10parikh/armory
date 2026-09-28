@@ -1,0 +1,7 @@
+{
+  "name": "drop-mcp",
+  "description": "A tiny remote MCP server with a single tool, drop, that saves a file from local content or a URL into a mounted directory, acting as a file dropper for watch-folder importers.",
+  "source_repo": "Transmitt0r/drop-mcp",
+  "source_url": "https://github.com/Transmitt0r/drop-mcp",
+  "install": "npx -y drop-mcp"
+}

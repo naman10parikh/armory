@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-bridge",
+  "description": "Connects Codex and compatible ChatGPT desktop plugin hosts to local Obsidian vaults for search, reading, and optional note creation/appending.",
+  "source_repo": "studentepercaso/obsidian-bridge",
+  "source_url": "https://github.com/studentepercaso/obsidian-bridge",
+  "install": "# git clone --depth 1 https://github.com/studentepercaso/obsidian-bridge\n# See source for mcpServers config block"
+}

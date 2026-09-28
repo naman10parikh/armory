@@ -1,0 +1,7 @@
+{
+  "name": "vaultpdf-mcp",
+  "description": "A local PDF manipulation server for AI agents that provides tools for merging, splitting, extracting info, and converting images to PDF, all without uploading files.",
+  "source_repo": "AlexeySamosadov/vaultpdf-mcp",
+  "source_url": "https://github.com/AlexeySamosadov/vaultpdf-mcp",
+  "install": "npx -y vaultpdf-mcp"
+}

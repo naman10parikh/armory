@@ -1,0 +1,7 @@
+{
+  "name": "mist-mcp-server",
+  "description": "Exposes Juniper Mist REST API as 22 curated MCP tools, enabling AI agents to query and manage network resources like sites, devices, WLANs, and Marvis AI insights through natural language.",
+  "source_repo": "adam5isalive/mist-mcp-server",
+  "source_url": "https://github.com/adam5isalive/mist-mcp-server",
+  "install": "npx -y mist-mcp-server"
+}

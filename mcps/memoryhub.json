@@ -1,0 +1,7 @@
+{
+  "name": "memoryhub",
+  "description": "MCP server for persistent memory using Qdrant vector store. Stores text memories with LLM-generated embeddings and retrieves them via semantic search.",
+  "source_repo": "taraksh01/memoryhub",
+  "source_url": "https://github.com/taraksh01/memoryhub",
+  "install": "# git clone --depth 1 https://github.com/taraksh01/memoryhub\n# See source for mcpServers config block"
+}

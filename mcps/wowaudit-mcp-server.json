@@ -1,0 +1,7 @@
+{
+  "name": "wowaudit-mcp-server",
+  "description": "Exposes the WoWAudit API as structured tools for guild management, including roster, raid planning, attendance, wishlists, loot history, and applications, with read-only mode by default and optional write support.",
+  "source_repo": "MangelSpec/wowaudit-mcp-server",
+  "source_url": "https://github.com/MangelSpec/wowaudit-mcp-server",
+  "install": "npx -y wowaudit-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-reddit-ads",
+  "description": "MCP server for Reddit Ads API v3 enabling campaign management, ad creation, performance reporting, and audience targeting through Claude.",
+  "source_repo": "mharnett/mcp-reddit-ads",
+  "source_url": "https://github.com/mharnett/mcp-reddit-ads",
+  "install": "# git clone --depth 1 https://github.com/mharnett/mcp-reddit-ads\n# See source for mcpServers config block"
+}

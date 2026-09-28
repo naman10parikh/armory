@@ -1,0 +1,7 @@
+{
+  "name": "animica",
+  "description": "Read-only chain data, AI inference, verifiable quantum randomness, and mining stats for the Animica post-quantum L1 — 15 tools, no private keys.",
+  "source_repo": "animicaorg/animica-mcp",
+  "source_url": "https://github.com/animicaorg/animica-mcp",
+  "install": "npx -y animica-mcp"
+}

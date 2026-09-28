@@ -1,0 +1,7 @@
+{
+  "name": "openlex-mcp",
+  "description": "MCP Server for Canton Zurich legislation (ZH-Lex) — full-text search, article extraction, and education law tools for ~970 cantonal laws.",
+  "source_repo": "malkreide/openlex-mcp",
+  "source_url": "https://github.com/malkreide/openlex-mcp",
+  "install": "npx -y openlex-mcp"
+}

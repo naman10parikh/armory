@@ -1,0 +1,7 @@
+{
+  "name": "aios-mcp",
+  "description": "A remote MCP server that turns AIOS Kernel conventions into callable tools scoped to a single Google Doc, enabling section listing, content retrieval, and guarded edits via find/replace or append.",
+  "source_repo": "onefineday16/aios-mcp",
+  "source_url": "https://github.com/onefineday16/aios-mcp",
+  "install": "npx -y aios-mcp"
+}

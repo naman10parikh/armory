@@ -1,0 +1,7 @@
+{
+  "name": "vred-mcp",
+  "description": "A local MCP server that enables MCP-compatible AI clients to inspect and control the currently open scene in a running Autodesk VRED Professional 2027 instance via a secure bridge, supporting read-only inspection and gated mutations like selection, visibility, transforms, and screenshots.",
+  "source_repo": "krngrover6/autodesk-vred-mcp",
+  "source_url": "https://github.com/krngrover6/autodesk-vred-mcp",
+  "install": "npx -y autodesk-vred-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "commercebridge",
+  "description": "MCP server providing unified access to eBay, Shopify, Best Buy, and Etsy marketplace data via the Commerce API, enabling product searches and listing retrieval across multiple retailers.",
+  "source_repo": "IsaiahDupree/commercebridge",
+  "source_url": "https://github.com/IsaiahDupree/commercebridge",
+  "install": "# git clone --depth 1 https://github.com/IsaiahDupree/commercebridge\n# See source for mcpServers config block"
+}

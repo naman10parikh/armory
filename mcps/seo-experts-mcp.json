@@ -1,0 +1,7 @@
+{
+  "name": "seo-experts-mcp",
+  "description": "Enables AI assistants to query distilled SEO expert tactics from public content, returning actionable insights linked to original source videos.",
+  "source_repo": "thatsheaps/experts",
+  "source_url": "https://github.com/thatsheaps/experts",
+  "install": "# git clone --depth 1 https://github.com/thatsheaps/experts\n# See source for mcpServers config block"
+}

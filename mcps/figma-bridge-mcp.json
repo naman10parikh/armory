@@ -1,0 +1,7 @@
+{
+  "name": "figma-bridge-mcp",
+  "description": "Local MCP server connecting AI clients to the Figma desktop app for inspecting and editing Figma documents via the Plugin API.",
+  "source_repo": "Halil-KAPLAN/figma-bridge-mcp",
+  "source_url": "https://github.com/Halil-KAPLAN/figma-bridge-mcp",
+  "install": "npx -y figma-bridge-mcp"
+}

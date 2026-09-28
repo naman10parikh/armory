@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arcgis-sanclemente",
+  "description": "Provides access to City of San Clemente GIS open geospatial data (ArcGIS), enabling search and query of datasets like parcels, zoning, and public works.",
+  "source_repo": "pipeworx-io/mcp-arcgis-sanclemente",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-sanclemente",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-sanclemente\n# See source for mcpServers config block"
+}

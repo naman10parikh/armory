@@ -1,0 +1,7 @@
+{
+  "name": "cro-df-cadastro",
+  "description": "MCP server for querying official dental council registration records in the Federal District of Brazil (Conselho Regional de Odontologia DF), offering a single read-only tool via prepaid credits.",
+  "source_repo": "mcp-dir/cro_df_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cro_df_cadastro-mcp",
+  "install": "npx -y cro_df_cadastro-mcp"
+}

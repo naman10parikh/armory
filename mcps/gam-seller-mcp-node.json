@@ -1,0 +1,7 @@
+{
+  "name": "gam-seller-mcp-node",
+  "description": "A governed, read-only MCP server for ad inventory discovery from Google Ad Manager, exposing three tools (well_known_capabilities, discover_products, get_forecast) to buyer-side agents without modifying or accessing the ad server.",
+  "source_repo": "juan-sibbo/gam-seller-mcp-node",
+  "source_url": "https://github.com/juan-sibbo/gam-seller-mcp-node",
+  "install": "# git clone --depth 1 https://github.com/juan-sibbo/gam-seller-mcp-node\n# See source for mcpServers config block"
+}

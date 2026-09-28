@@ -1,0 +1,7 @@
+{
+  "name": "process-mcp",
+  "description": "An MCP server that allows AI assistants to manage background processes, enabling start, stop, monitoring, and querying of long-running shell commands without blocking the conversation.",
+  "source_repo": "Kruceo/process-mcp",
+  "source_url": "https://github.com/Kruceo/process-mcp",
+  "install": "npx -y process-mcp"
+}

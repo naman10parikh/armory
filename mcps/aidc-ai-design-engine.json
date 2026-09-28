@@ -1,0 +1,7 @@
+{
+  "name": "aidc-ai-design-engine",
+  "description": "Deterministic AI data-center design engine exposed as MCP tools for sizing, validation, and physical layout. Supports NVIDIA Hopper, Blackwell, and Vera Rubin with anonymous access to the remote engine.",
+  "source_repo": "aidc2026ai-melon/aidc-ai-mcp",
+  "source_url": "https://github.com/aidc2026ai-melon/aidc-ai-mcp",
+  "install": "npx -y aidc-ai-mcp"
+}

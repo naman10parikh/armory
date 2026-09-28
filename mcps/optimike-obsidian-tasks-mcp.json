@@ -1,0 +1,7 @@
+{
+  "name": "optimike-obsidian-tasks-mcp",
+  "description": "Enables AI-assisted task management by extracting and querying Obsidian Tasks from markdown files, with support for status mapping, date filters, and Obsidian Tasks query syntax.",
+  "source_repo": "optimikelabs/optimike-obsidian-tasks-mcp",
+  "source_url": "https://github.com/optimikelabs/optimike-obsidian-tasks-mcp",
+  "install": "npx -y optimike-obsidian-tasks-mcp"
+}

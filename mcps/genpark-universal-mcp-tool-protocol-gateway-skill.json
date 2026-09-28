@@ -1,0 +1,7 @@
+{
+  "name": "genpark-universal-mcp-tool-protocol-gateway-skill",
+  "description": "A lightweight, zero-dependency MCP gateway adapter that enables Claude/Cursor agents to process structured JSON payloads and integrate with GenPark AI agent pipelines.",
+  "source_repo": "alphaparkinc/genpark-universal-mcp-tool-protocol-gateway-skill",
+  "source_url": "https://github.com/alphaparkinc/genpark-universal-mcp-tool-protocol-gateway-skill",
+  "install": "# git clone --depth 1 https://github.com/alphaparkinc/genpark-universal-mcp-tool-protocol-gateway-skill\n# See source for mcpServers config block"
+}

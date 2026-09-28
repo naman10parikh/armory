@@ -1,0 +1,7 @@
+{
+  "name": "agi-feeder",
+  "description": "An MCP server that routes tasks to the best AI models, aggregates responses with confidence scoring, and applies billionaire thinking frameworks for strategic decisions.",
+  "source_repo": "axisassists/billionaire-mindset-agi-feeder",
+  "source_url": "https://github.com/axisassists/billionaire-mindset-agi-feeder",
+  "install": "# git clone --depth 1 https://github.com/axisassists/billionaire-mindset-agi-feeder\n# See source for mcpServers config block"
+}

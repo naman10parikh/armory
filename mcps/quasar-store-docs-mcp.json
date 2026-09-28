@@ -1,0 +1,7 @@
+{
+  "name": "quasar-store-docs-mcp",
+  "description": "An MCP server that lets AI coding assistants list, search, and read the public Quasar Store documentation in real time.",
+  "source_repo": "iiamdark/quasar-docs-mcp",
+  "source_url": "https://github.com/iiamdark/quasar-docs-mcp",
+  "install": "npx -y quasar-docs-mcp"
+}

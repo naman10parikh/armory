@@ -1,0 +1,7 @@
+{
+  "name": "securedact-mcp",
+  "description": "Securedact MCP is a local-first privacy layer for MCP-compatible AI workflows. It detects, reviews, redacts, and audits sensitive information before approved sanitized content is used downstream.",
+  "source_repo": "GigantesHJI/securedact-mcp",
+  "source_url": "https://github.com/GigantesHJI/securedact-mcp",
+  "install": "npx -y securedact-mcp"
+}

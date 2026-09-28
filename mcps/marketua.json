@@ -1,0 +1,7 @@
+{
+  "name": "marketua",
+  "description": "Search Ukrainian marketplaces (OLX, Hotline, Prom; Rozetka via Bright Data MCP) from a plain-language prompt and get structured offers with prices and links.",
+  "source_repo": "cuzin85/marketua",
+  "source_url": "https://github.com/cuzin85/marketua",
+  "install": "# git clone --depth 1 https://github.com/cuzin85/marketua\n# See source for mcpServers config block"
+}

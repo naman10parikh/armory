@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-mcp-for-cursor",
+  "description": "MCP server for Obsidian vaults, optimised for Cursor agents — safe note editing, lean tool surface, direct filesystem access.",
+  "source_repo": "JeddowesF/Obsidian-MCP-For-Cursor",
+  "source_url": "https://github.com/JeddowesF/Obsidian-MCP-For-Cursor",
+  "install": "# git clone --depth 1 https://github.com/JeddowesF/Obsidian-MCP-For-Cursor\n# See source for mcpServers config block"
+}

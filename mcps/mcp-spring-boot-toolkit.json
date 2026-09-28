@@ -1,0 +1,7 @@
+{
+  "name": "mcp-spring-boot-toolkit",
+  "description": "Provides tools and guides for Spring Boot development including code generation, security audit, and query optimization.",
+  "source_repo": "nhuson269/mcp-spring-boot-toolkit",
+  "source_url": "https://github.com/nhuson269/mcp-spring-boot-toolkit",
+  "install": "# git clone --depth 1 https://github.com/nhuson269/mcp-spring-boot-toolkit\n# See source for mcpServers config block"
+}

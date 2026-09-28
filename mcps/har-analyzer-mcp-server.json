@@ -1,0 +1,7 @@
+{
+  "name": "har-analyzer-mcp-server",
+  "description": "A Python MCP server that loads and analyzes HAR files locally, providing structured summaries to AI assistants to avoid token explosion and sensitive content filtering.",
+  "source_repo": "polybeta2/har-mcp-server",
+  "source_url": "https://github.com/polybeta2/har-mcp-server",
+  "install": "npx -y har-mcp-server"
+}

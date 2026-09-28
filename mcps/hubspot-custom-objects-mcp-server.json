@@ -1,0 +1,7 @@
+{
+  "name": "hubspot-custom-objects-mcp-server",
+  "description": "Enables full CRUD operations on HubSpot custom objects, complementing the official server that only handles standard objects.",
+  "source_repo": "Saad-K-CRM/Hubspot-Custom-Objects-MCP",
+  "source_url": "https://github.com/Saad-K-CRM/Hubspot-Custom-Objects-MCP",
+  "install": "npx -y Hubspot-Custom-Objects-MCP"
+}

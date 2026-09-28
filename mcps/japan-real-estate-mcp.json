@@ -1,0 +1,7 @@
+{
+  "name": "japan-real-estate-mcp",
+  "description": "Japanese real-estate actual transaction prices and official land prices (official MLIT Reinfolib data): search by area, period, and property type, with published land-price reference points.",
+  "source_repo": "easakura/japan-real-estate-mcp",
+  "source_url": "https://github.com/easakura/japan-real-estate-mcp",
+  "install": "npx -y japan-real-estate-mcp"
+}

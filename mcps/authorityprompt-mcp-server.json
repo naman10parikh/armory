@@ -1,0 +1,7 @@
+{
+  "name": "authorityprompt-mcp-server",
+  "description": "Enables Gemini to read verified company facts, sources, provenance, and confidence from AuthorityPrompt for any published company domain.",
+  "source_repo": "authorityprompt/gemini-authorityprompt-mcp",
+  "source_url": "https://github.com/authorityprompt/gemini-authorityprompt-mcp",
+  "install": "npx -y gemini-authorityprompt-mcp"
+}

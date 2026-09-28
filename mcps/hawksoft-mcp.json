@@ -1,0 +1,7 @@
+{
+  "name": "hawksoft-mcp",
+  "description": "Enables natural language interaction with HawkSoft insurance agency management data, including reading clients, policies, and claims, and writing log notes, attachments, and receipts.",
+  "source_repo": "sanjibani/hawksoft-mcp",
+  "source_url": "https://github.com/sanjibani/hawksoft-mcp",
+  "install": "npx -y hawksoft-mcp"
+}

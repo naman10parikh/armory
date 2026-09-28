@@ -1,0 +1,7 @@
+{
+  "name": "forcedream-mcp",
+  "description": "Enables discovery and invocation of AI agents from the ForceDream platform. Provides cryptographic verification of agent outputs for trustless task integrity.",
+  "source_repo": "forcedreamai/forcedream-mcp",
+  "source_url": "https://github.com/forcedreamai/forcedream-mcp",
+  "install": "npx -y forcedream-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hypotree",
+  "description": "A persistent, self-revising hypothesis DAG for agentic R&D, exposed as an MCP server. It enables agents to structure working knowledge as a directed acyclic graph of hypotheses, with automatic write-back belief revision and cascading pruning based on evidence.",
+  "source_repo": "tygryso/hypotree",
+  "source_url": "https://github.com/tygryso/hypotree",
+  "install": "# git clone --depth 1 https://github.com/tygryso/hypotree\n# See source for mcpServers config block"
+}

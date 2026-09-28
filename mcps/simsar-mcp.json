@@ -1,0 +1,7 @@
+{
+  "name": "simsar-mcp",
+  "description": "Enables AI assistants to access comprehensive cryptocurrency market analysis, including real-time prices, 35+ technical indicators, market sentiment, futures data, and economic events.",
+  "source_repo": "miratcan/simsar-mcp",
+  "source_url": "https://github.com/miratcan/simsar-mcp",
+  "install": "npx -y simsar-mcp"
+}

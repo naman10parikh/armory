@@ -1,0 +1,7 @@
+{
+  "name": "jetkvm-mcp",
+  "description": "MCP server that enables AI to see and control a physical computer via a JetKVM device for screen viewing, mouse/keyboard input, media mounting, and power management.",
+  "source_repo": "shvartzj1/jetkvm-mcp",
+  "source_url": "https://github.com/shvartzj1/jetkvm-mcp",
+  "install": "npx -y jetkvm-mcp"
+}

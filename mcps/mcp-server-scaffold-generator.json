@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-scaffold-generator",
+  "description": "Generates production-ready MCP server projects from a single command, providing project structure, tool examples, and optional advanced templates.",
+  "source_repo": "ZachDreamZ/mcp-server-scaffold",
+  "source_url": "https://github.com/ZachDreamZ/mcp-server-scaffold",
+  "install": "# git clone --depth 1 https://github.com/ZachDreamZ/mcp-server-scaffold\n# See source for mcpServers config block"
+}

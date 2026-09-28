@@ -1,0 +1,7 @@
+{
+  "name": "canton-agent-mcp",
+  "description": "Enables AI agents to request sign-ins and payments on the Canton Network through a human's mobile wallet, where each request requires explicit human approval and hardware-backed signing.",
+  "source_repo": "vsima/canton-agent-mcp",
+  "source_url": "https://github.com/vsima/canton-agent-mcp",
+  "install": "npx -y canton-agent-mcp"
+}

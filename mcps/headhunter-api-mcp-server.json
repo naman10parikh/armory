@@ -1,0 +1,7 @@
+{
+  "name": "headhunter-api-mcp-server",
+  "description": "Enables AI assistants to access and manage HeadHunter job platform data, including vacancies, resumes, negotiations, and employer settings via 167+ tools.",
+  "source_repo": "sargonpiraev/hh-mcp-server",
+  "source_url": "https://github.com/sargonpiraev/hh-mcp-server",
+  "install": "npx -y hh-mcp-server"
+}

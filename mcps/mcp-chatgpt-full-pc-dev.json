@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chatgpt-full-pc-dev",
+  "description": "Enables ChatGPT to control a Windows PC remotely via OpenAI Secure MCP Tunnel, executing file operations, PowerShell commands, and system actions through a local MCP server.",
+  "source_repo": "tgzx/MCP-ChatGPT",
+  "source_url": "https://github.com/tgzx/MCP-ChatGPT",
+  "install": "# git clone --depth 1 https://github.com/tgzx/MCP-ChatGPT\n# See source for mcpServers config block"
+}

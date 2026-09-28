@@ -1,0 +1,7 @@
+{
+  "name": "ai-cupid",
+  "description": "MCP server for matchmaking and dating, enabling users to register, answer a questionnaire, receive daily matches, and send paid greetings through natural language in AI chat interfaces like Claude and ChatGPT.",
+  "source_repo": "Jessieeeeai/ai-cupid",
+  "source_url": "https://github.com/Jessieeeeai/ai-cupid",
+  "install": "# git clone --depth 1 https://github.com/Jessieeeeai/ai-cupid\n# See source for mcpServers config block"
+}

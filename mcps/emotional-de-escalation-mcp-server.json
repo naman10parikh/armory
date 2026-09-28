@@ -1,0 +1,7 @@
+{
+  "name": "emotional-de-escalation-mcp-server",
+  "description": "Provides strategic dialogue management and emotional de-escalation for customer support bots, detecting problem patterns and recommending actions like escalation to a human operator.",
+  "source_repo": "ilyajob05/emo_bot",
+  "source_url": "https://github.com/ilyajob05/emo_bot",
+  "install": "# git clone --depth 1 https://github.com/ilyajob05/emo_bot\n# See source for mcpServers config block"
+}

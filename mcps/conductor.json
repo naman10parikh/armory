@@ -1,0 +1,7 @@
+{
+  "name": "conductor",
+  "description": "Provides a persistent hierarchical task tree for LLM agents, enabling them to decompose work, track progress, record results, and handle failures outside the context window, with an optional web UI for monitoring and control.",
+  "source_repo": "shannonbay/Conductor",
+  "source_url": "https://github.com/shannonbay/Conductor",
+  "install": "# git clone --depth 1 https://github.com/shannonbay/Conductor\n# See source for mcpServers config block"
+}

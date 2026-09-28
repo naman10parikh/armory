@@ -1,0 +1,7 @@
+{
+  "name": "openparliament-ca",
+  "description": "Provides access to Canadian parliamentary data including debates, bills, votes, politicians, and committees via the OpenParliament.ca civic-tech mirror.",
+  "source_repo": "pipeworx-io/mcp-openparliament-ca",
+  "source_url": "https://github.com/pipeworx-io/mcp-openparliament-ca",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-openparliament-ca\n# See source for mcpServers config block"
+}

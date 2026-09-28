@@ -1,0 +1,7 @@
+{
+  "name": "mcp-vision-server-2",
+  "description": "MCP server that provides the describe_image tool, enabling AI clients to analyze local images by forwarding them to any OpenAI-compatible vision endpoint and returning a text description.",
+  "source_repo": "joshsssn/mcp-vision-server",
+  "source_url": "https://github.com/joshsssn/mcp-vision-server",
+  "install": "# git clone --depth 1 https://github.com/joshsssn/mcp-vision-server\n# See source for mcpServers config block"
+}

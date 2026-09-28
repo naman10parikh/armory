@@ -1,0 +1,7 @@
+{
+  "name": "vintage",
+  "description": "Provides point-in-time financial data access and an honest backtesting engine via MCP, enabling users to research restated fundamentals, run backtests with deflated Sharpe metrics, and benchmark returns against published factors.",
+  "source_repo": "RezaSoleymanifar/vintage",
+  "source_url": "https://github.com/RezaSoleymanifar/vintage",
+  "install": "# git clone --depth 1 https://github.com/RezaSoleymanifar/vintage\n# See source for mcpServers config block"
+}

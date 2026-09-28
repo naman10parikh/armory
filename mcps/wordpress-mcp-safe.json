@@ -1,0 +1,7 @@
+{
+  "name": "wordpress-mcp-safe",
+  "description": "A safe MCP server for WordPress staging that enables reading content, creating drafts, analyzing SEO, and generating reports without publishing or deleting.",
+  "source_repo": "illancillotto/mcp-wordpress",
+  "source_url": "https://github.com/illancillotto/mcp-wordpress",
+  "install": "# git clone --depth 1 https://github.com/illancillotto/mcp-wordpress\n# See source for mcpServers config block"
+}

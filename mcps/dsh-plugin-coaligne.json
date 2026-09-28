@@ -1,0 +1,7 @@
+{
+  "name": "dsh-plugin-coaligne",
+  "description": "Connects DeepSeek Harness agents to CoAligne's cloud project context. Provides MCP tools for searching synced files, managing comments, and creating review requests.",
+  "source_repo": "dataelement/dsh-plugin-coaligne",
+  "source_url": "https://github.com/dataelement/dsh-plugin-coaligne",
+  "install": "# git clone --depth 1 https://github.com/dataelement/dsh-plugin-coaligne\n# See source for mcpServers config block"
+}

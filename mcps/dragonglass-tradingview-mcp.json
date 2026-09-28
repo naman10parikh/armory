@@ -1,0 +1,7 @@
+{
+  "name": "dragonglass-tradingview-mcp",
+  "description": "Enables AI co-pilots to interact with TradingView charts, manage alerts via REST API, automate morning briefs with custom trading rules, and perform real-time market analysis.",
+  "source_repo": "nightwing-7/dragonglass-tradingview-mcp",
+  "source_url": "https://github.com/nightwing-7/dragonglass-tradingview-mcp",
+  "install": "npx -y dragonglass-tradingview-mcp"
+}

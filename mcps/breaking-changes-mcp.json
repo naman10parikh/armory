@@ -1,0 +1,7 @@
+{
+  "name": "breaking-changes-mcp",
+  "description": "Provides accurate, source-grounded breaking-change briefings for npm packages by reading real GitHub release notes and CHANGELOGs, helping coding agents avoid hallucinated dependency migrations.",
+  "source_repo": "Anicodeth/breaking-changes-mcp",
+  "source_url": "https://github.com/Anicodeth/breaking-changes-mcp",
+  "install": "npx -y breaking-changes-mcp"
+}

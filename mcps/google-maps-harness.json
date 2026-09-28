@@ -1,0 +1,7 @@
+{
+  "name": "google-maps-harness",
+  "description": "Thirteen read-only Google Maps Platform tools for an agent: where a place is, what is around it, how long it takes to get there, and what the conditions are when it arrives.",
+  "source_repo": "oakley7247/google-maps-harness",
+  "source_url": "https://github.com/oakley7247/google-maps-harness",
+  "install": "# git clone --depth 1 https://github.com/oakley7247/google-maps-harness\n# See source for mcpServers config block"
+}

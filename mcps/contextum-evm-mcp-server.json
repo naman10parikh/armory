@@ -1,0 +1,7 @@
+{
+  "name": "contextum-evm-mcp-server",
+  "description": "Enables AI applications to retrieve on-chain context from EVM-compatible blockchains via the Model Context Protocol.",
+  "source_repo": "slattman/contextum-evm-mcp-server",
+  "source_url": "https://github.com/slattman/contextum-evm-mcp-server",
+  "install": "npx -y contextum-evm-mcp-server"
+}

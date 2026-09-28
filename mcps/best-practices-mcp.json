@@ -1,0 +1,7 @@
+{
+  "name": "best-practices-mcp",
+  "description": "Enables searching ServiceNow's public best-practices library across content types without authentication.",
+  "source_repo": "wiz0floyd/best-practices-mcp",
+  "source_url": "https://github.com/wiz0floyd/best-practices-mcp",
+  "install": "npx -y best-practices-mcp"
+}

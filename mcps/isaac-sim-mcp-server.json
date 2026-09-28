@@ -1,0 +1,7 @@
+{
+  "name": "isaac-sim-mcp-server",
+  "description": "Enables natural language control of NVIDIA Isaac Sim through the Model Context Protocol, allowing you to create robots, build scenes, run simulations, and debug physics from any MCP-compatible IDE.",
+  "source_repo": "whats2000/isaacsim-mcp-server",
+  "source_url": "https://github.com/whats2000/isaacsim-mcp-server",
+  "install": "npx -y isaacsim-mcp-server"
+}

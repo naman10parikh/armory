@@ -1,0 +1,7 @@
+{
+  "name": "camoufox-mcp-python",
+  "description": "An MCP server that provides browser automation with anti-detect fingerprinting, accessibility snapshots, and ref-based element targeting, powered by Camoufox.",
+  "source_repo": "zc-libre/camoufox-mcp-python",
+  "source_url": "https://github.com/zc-libre/camoufox-mcp-python",
+  "install": "# git clone --depth 1 https://github.com/zc-libre/camoufox-mcp-python\n# See source for mcpServers config block"
+}

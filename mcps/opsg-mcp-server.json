@@ -1,0 +1,7 @@
+{
+  "name": "opsg-mcp-server",
+  "description": "Enables AI agents to manage transactions, initiate payments, and integrate with the OPSG/iPay88 payment gateway using local merchant credentials.",
+  "source_repo": "fredericktvf/opsg-mcp-server",
+  "source_url": "https://github.com/fredericktvf/opsg-mcp-server",
+  "install": "npx -y opsg-mcp-server"
+}

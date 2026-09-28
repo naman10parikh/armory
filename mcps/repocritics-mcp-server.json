@@ -1,0 +1,7 @@
+{
+  "name": "repocritics-mcp-server",
+  "description": "Provides read access to community-written summaries, scores, and reviews of open-source repositories via the RepoCritics corpus. Enables search and retrieval of wiki pages, reviews, metadata, and AI reports for repositories.",
+  "source_repo": "repocritics/mcp-server",
+  "source_url": "https://github.com/repocritics/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/repocritics/mcp-server\n# See source for mcpServers config block"
+}

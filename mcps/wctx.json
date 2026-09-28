@@ -1,0 +1,7 @@
+{
+  "name": "wctx",
+  "description": "Wctx is an MCP server that captures structured, evidence-backed context from completed coding agent sessions and serves it to future sessions, enabling cross-repository knowledge reuse without cloud dependencies or embeddings.",
+  "source_repo": "Haroon-jay/wctx",
+  "source_url": "https://github.com/Haroon-jay/wctx",
+  "install": "# git clone --depth 1 https://github.com/Haroon-jay/wctx\n# See source for mcpServers config block"
+}

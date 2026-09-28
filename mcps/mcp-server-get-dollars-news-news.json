@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-get-dollars-news-news",
-  "description": "Mcp_server_get_dollars_news_news MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "RainbollD/mcp_server_get_dollars_news_news",
   "source_url": "https://mcp.so/server/mcp_server_get_dollars_news_news/RainbollD",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp_server_get_dollars_news_news/RainbollD\n# See source for mcpServers config block"

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-grand-prix",
+  "description": "Enables LLM agents to participate in a live 3D racing simulation by submitting race strategies, reacting to dynamic events, and observing full race state through MCP tools.",
+  "source_repo": "pefman/mcpGrandPrix",
+  "source_url": "https://github.com/pefman/mcpGrandPrix",
+  "install": "# git clone --depth 1 https://github.com/pefman/mcpGrandPrix\n# See source for mcpServers config block"
+}

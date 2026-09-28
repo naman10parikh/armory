@@ -1,0 +1,7 @@
+{
+  "name": "mcp-a2ui-vega",
+  "description": "Enables creating and editing live, interactive dashboards with Vega-Lite charts via A2UI in MCP hosts, with dataset binding and reusable widgets.",
+  "source_repo": "vpm238/mcp-a2ui-vega",
+  "source_url": "https://github.com/vpm238/mcp-a2ui-vega",
+  "install": "# git clone --depth 1 https://github.com/vpm238/mcp-a2ui-vega\n# See source for mcpServers config block"
+}

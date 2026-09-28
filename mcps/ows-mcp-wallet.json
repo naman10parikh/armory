@@ -1,0 +1,7 @@
+{
+  "name": "ows-mcp-wallet",
+  "description": "Enables AI agents to check balances and send transactions across multiple blockchains with automatic spending limit protection and policy enforcement.",
+  "source_repo": "Danmwihoti/ows-mcp-wallet",
+  "source_url": "https://github.com/Danmwihoti/ows-mcp-wallet",
+  "install": "# git clone --depth 1 https://github.com/Danmwihoti/ows-mcp-wallet\n# See source for mcpServers config block"
+}

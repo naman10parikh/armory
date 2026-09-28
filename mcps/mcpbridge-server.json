@@ -1,0 +1,7 @@
+{
+  "name": "mcpbridge-server",
+  "description": "Enables AI coding agents to control and interact with Unreal Engine 4.27 editor through MCP protocol, translating tool calls into HTTP commands for the in-editor plugin.",
+  "source_repo": "RBG-WebDesign/MCPBridge-Server",
+  "source_url": "https://github.com/RBG-WebDesign/MCPBridge-Server",
+  "install": "# git clone --depth 1 https://github.com/RBG-WebDesign/MCPBridge-Server\n# See source for mcpServers config block"
+}

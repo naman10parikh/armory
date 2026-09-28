@@ -1,0 +1,7 @@
+{
+  "name": "log-query-mcp",
+  "description": "MCP server that exposes Discord and Twitch/Chatty chat log query tools to Claude Code, enabling searching messages, channel stats, user messages, and events from chat logs.",
+  "source_repo": "tenbux/log-query-mcp",
+  "source_url": "https://github.com/tenbux/log-query-mcp",
+  "install": "npx -y log-query-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "enzyme",
+  "description": "Enables interaction with a knowledge base via Enzyme's concept graph, exposing init, petri, catalyze, and status tools for MCP-compatible clients. Supports in-client exploration and search of vaults using pre-computed catalysts.",
+  "source_repo": "byenzyme/enzyme",
+  "source_url": "https://github.com/byenzyme/enzyme",
+  "install": "# git clone --depth 1 https://github.com/byenzyme/enzyme\n# See source for mcpServers config block"
+}

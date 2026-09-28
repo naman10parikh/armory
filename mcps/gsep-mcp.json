@@ -1,0 +1,7 @@
+{
+  "name": "gsep-mcp",
+  "description": "Protects AI agents from prompt injection and destructive actions while enabling self-improving prompts through a security pipeline.",
+  "source_repo": "gsepcore/gsep-mcp",
+  "source_url": "https://github.com/gsepcore/gsep-mcp",
+  "install": "npx -y gsep-mcp"
+}

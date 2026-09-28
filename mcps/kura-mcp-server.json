@@ -1,0 +1,7 @@
+{
+  "name": "kura-mcp-server",
+  "description": "Enables AI assistants to manage and monitor Eclipse Kura IoT gateways through their REST APIs, supporting device configuration, deployment, and cloud connectivity.",
+  "source_repo": "MMaiero/kura-mcp-server",
+  "source_url": "https://github.com/MMaiero/kura-mcp-server",
+  "install": "npx -y kura-mcp-server"
+}

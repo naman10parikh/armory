@@ -1,0 +1,7 @@
+{
+  "name": "mcp-crc",
+  "description": "Computes CRC-32 and Adler-32 checksums for UTF-8 text. Enables error-detection checksum calculations without any keys or network.",
+  "source_repo": "pipeworx-io/mcp-crc",
+  "source_url": "https://github.com/pipeworx-io/mcp-crc",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-crc\n# See source for mcpServers config block"
+}

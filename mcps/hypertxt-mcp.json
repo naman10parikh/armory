@@ -1,0 +1,7 @@
+{
+  "name": "hypertxt-mcp",
+  "description": "Provides MCP-compatible agents with a deliberately scoped content-operations toolset for managing Hypertxt projects, articles, and Google Search Console data.",
+  "source_repo": "simplebytes-com/hypertxt-python",
+  "source_url": "https://github.com/simplebytes-com/hypertxt-python",
+  "install": "# git clone --depth 1 https://github.com/simplebytes-com/hypertxt-python\n# See source for mcpServers config block"
+}

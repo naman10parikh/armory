@@ -1,0 +1,7 @@
+{
+  "name": "tabedata-mcp",
+  "description": "MCP server for Japanese food nutrition data, enabling bilingual JP/EN lookups across konbini, restaurant chains, and grocery brands.",
+  "source_repo": "mrslbt/tabedata-mcp",
+  "source_url": "https://github.com/mrslbt/tabedata-mcp",
+  "install": "npx -y tabedata-mcp"
+}

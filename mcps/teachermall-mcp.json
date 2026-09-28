@@ -1,0 +1,7 @@
+{
+  "name": "teachermall-mcp",
+  "description": "Enables natural language search of Teachermall products and provides smart recommendations for classroom kits, lesson materials, and budget-optimized shopping lists.",
+  "source_repo": "reallygood83/teachermall-mcp",
+  "source_url": "https://github.com/reallygood83/teachermall-mcp",
+  "install": "npx -y teachermall-mcp"
+}

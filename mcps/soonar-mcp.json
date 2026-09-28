@@ -1,0 +1,7 @@
+{
+  "name": "soonar-mcp",
+  "description": "Enables searching, viewing, and managing Slovak business leads (companies) via the SoonaR API, including finding companies by criteria, enriching contacts, and pushing to Odoo CRM.",
+  "source_repo": "Pupatko/soonar-mcp",
+  "source_url": "https://github.com/Pupatko/soonar-mcp",
+  "install": "npx -y soonar-mcp"
+}

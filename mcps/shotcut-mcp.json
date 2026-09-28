@@ -1,0 +1,7 @@
+{
+  "name": "shotcut-mcp",
+  "description": "Enables AI clients to create, edit, validate, preview, and render Shotcut projects (saved as MLT XML) without operating the GUI, using structured timeline editing tools and local safety mechanisms.",
+  "source_repo": "matrodrigs/shotcut-mcp",
+  "source_url": "https://github.com/matrodrigs/shotcut-mcp",
+  "install": "npx -y shotcut-mcp"
+}

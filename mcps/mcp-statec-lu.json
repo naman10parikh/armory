@@ -1,0 +1,7 @@
+{
+  "name": "mcp-statec-lu",
+  "description": "Enables querying of STATEC Luxembourg economic and statistical data through natural language using MCP tools and the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-statec-lu",
+  "source_url": "https://github.com/pipeworx-io/mcp-statec-lu",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-statec-lu\n# See source for mcpServers config block"
+}

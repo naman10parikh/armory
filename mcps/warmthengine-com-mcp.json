@@ -1,0 +1,7 @@
+{
+  "name": "warmthengine-com-mcp",
+  "description": "MCP server exposing 16 programmatic tools for AI systems to query verified Coordination Intelligence on AI infrastructure events, connections, and actors across geopolitical blocs.",
+  "source_repo": "warmthengine/warmth-engine-observatory",
+  "source_url": "https://github.com/warmthengine/warmth-engine-observatory",
+  "install": "# git clone --depth 1 https://github.com/warmthengine/warmth-engine-observatory\n# See source for mcpServers config block"
+}

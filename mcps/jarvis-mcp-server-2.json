@@ -1,0 +1,7 @@
+{
+  "name": "jarvis-mcp-server-2",
+  "description": "MCP server providing time retrieval and echo tools, running as an independent network process over Streamable HTTP.",
+  "source_repo": "AlexanderBuiko/jarvis-mcp-server",
+  "source_url": "https://github.com/AlexanderBuiko/jarvis-mcp-server",
+  "install": "npx -y jarvis-mcp-server"
+}

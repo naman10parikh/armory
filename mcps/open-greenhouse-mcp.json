@@ -1,0 +1,7 @@
+{
+  "name": "open-greenhouse-mcp",
+  "description": "Production-ready MCP server for Greenhouse ATS that provides comprehensive recruitment tools—screening, pipeline analytics, search, and safe write operations—across read-only, recruiter, and full profiles.",
+  "source_repo": "Comradery64/open-greenhouse-mcp",
+  "source_url": "https://github.com/Comradery64/open-greenhouse-mcp",
+  "install": "npx -y open-greenhouse-mcp"
+}

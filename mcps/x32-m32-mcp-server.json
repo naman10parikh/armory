@@ -1,0 +1,7 @@
+{
+  "name": "x32-m32-mcp-server",
+  "description": "Enables control of Behringer X32/M32 digital mixing consoles via OSC protocol for remote mixing, automated setup, and live adjustments through an AI assistant.",
+  "source_repo": "guycochran/X32-MCP",
+  "source_url": "https://github.com/guycochran/X32-MCP",
+  "install": "npx -y X32-MCP"
+}

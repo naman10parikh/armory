@@ -1,0 +1,7 @@
+{
+  "name": "mcp-yandex-dostavka",
+  "description": "MCP server for Yandex Delivery B2B API, enabling natural language interaction to calculate delivery costs, create and manage express and platform delivery orders, track couriers, and handle pickup points.",
+  "source_repo": "A1-x-Tech/mcp-yandex-dostavka",
+  "source_url": "https://github.com/A1-x-Tech/mcp-yandex-dostavka",
+  "install": "# git clone --depth 1 https://github.com/A1-x-Tech/mcp-yandex-dostavka\n# See source for mcpServers config block"
+}

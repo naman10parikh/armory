@@ -1,0 +1,7 @@
+{
+  "name": "riskmodels",
+  "description": "RiskModels decomposes any US stock or portfolio into market, sector, subsector, and residual risk components with executable ETF hedge ratios — enabling portfolio managers to understand risk exposure and construct precise hedges programmatically.",
+  "source_repo": "BlueWaterCorp/RiskModels_API",
+  "source_url": "https://github.com/BlueWaterCorp/RiskModels_API",
+  "install": "# git clone --depth 1 https://github.com/BlueWaterCorp/RiskModels_API\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "reconbox-mcp",
+  "description": "Enables Claude to run Kali Linux penetration-testing tools (e.g., nmap, sqlmap, ffuf) in an isolated Docker container.",
+  "source_repo": "hafizfarhad/reconbox-mcp",
+  "source_url": "https://github.com/hafizfarhad/reconbox-mcp",
+  "install": "npx -y reconbox-mcp"
+}

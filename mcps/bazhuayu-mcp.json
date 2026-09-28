@@ -1,0 +1,7 @@
+{
+  "name": "bazhuayu-mcp",
+  "description": "Converts natural language collection requests into cloud scraping tasks by searching templates, validating parameters, executing tasks, and exporting structured data.",
+  "source_repo": "bazhuayu-team/bazhuayu-mcp",
+  "source_url": "https://github.com/bazhuayu-team/bazhuayu-mcp",
+  "install": "npx -y bazhuayu-mcp"
+}

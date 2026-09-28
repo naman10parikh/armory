@@ -1,0 +1,7 @@
+{
+  "name": "data-mcp",
+  "description": "MCP server generated from an OpenAPI Specification, exposing tools via HTTP. It allows clients to invoke API operations using JSON-RPC 2.0 requests.",
+  "source_repo": "Tattzy25/data-mcp",
+  "source_url": "https://github.com/Tattzy25/data-mcp",
+  "install": "npx -y data-mcp"
+}

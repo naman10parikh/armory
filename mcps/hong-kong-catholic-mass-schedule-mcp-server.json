@@ -1,0 +1,7 @@
+{
+  "name": "hong-kong-catholic-mass-schedule-mcp-server",
+  "description": "Provides Hong Kong Catholic mass schedule data, allowing AI assistants to search churches, find mass times, and get parish information for the Catholic Diocese of Hong Kong.",
+  "source_repo": "gabrielkoo/hong-kong-catholic-mass-schedule-mcp",
+  "source_url": "https://github.com/gabrielkoo/hong-kong-catholic-mass-schedule-mcp",
+  "install": "npx -y hong-kong-catholic-mass-schedule-mcp"
+}

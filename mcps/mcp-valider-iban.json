@@ -1,0 +1,7 @@
+{
+  "name": "mcp-valider-iban",
+  "description": "Validates International Bank Account Numbers (IBANs) through a Cloudflare-hosted MCP server, enabling agents to check IBAN validity via natural language.",
+  "source_repo": "peonixo147/MCP-valider_iban",
+  "source_url": "https://github.com/peonixo147/MCP-valider_iban",
+  "install": "# git clone --depth 1 https://github.com/peonixo147/MCP-valider_iban\n# See source for mcpServers config block"
+}

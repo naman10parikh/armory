@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-tjma-nada-consta",
+  "description": "Enables querying the Tribunal TJMA Nada Consta official source for certificate checks via a read-only MCP tool, with prepaid credit per consultation.",
+  "source_repo": "mcp-dir/tribunal_tjma_nada_consta-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_tjma_nada_consta-mcp",
+  "install": "npx -y tribunal_tjma_nada_consta-mcp"
+}

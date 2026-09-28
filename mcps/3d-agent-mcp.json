@@ -1,0 +1,7 @@
+{
+  "name": "3d-agent-mcp",
+  "description": "MCP server for generating print-ready 3D models from text descriptions via a multi-agent pipeline, enabling AI assistants to create and optimize STL files.",
+  "source_repo": "teslaproduuction/3d-agent-mcp",
+  "source_url": "https://github.com/teslaproduuction/3d-agent-mcp",
+  "install": "npx -y 3d-agent-mcp"
+}

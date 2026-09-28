@@ -1,0 +1,7 @@
+{
+  "name": "verity",
+  "description": "A multi-agent verification MCP server that uses cross-family LLM critics, NLI, and consistency checks to minimize hallucinations and false claims in LLM outputs.",
+  "source_repo": "johnnyryan/Verity",
+  "source_url": "https://github.com/johnnyryan/Verity",
+  "install": "# git clone --depth 1 https://github.com/johnnyryan/Verity\n# See source for mcpServers config block"
+}

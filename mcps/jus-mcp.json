@@ -1,0 +1,7 @@
+{
+  "name": "jus-mcp",
+  "description": "Enables access to comprehensive Brazilian legal data through a single MCP connection, including court cases, DJEN publications, jurisprudence, judicial calculations, procurement from PNCP, TCU decisions, compliance checks, and official certificates—all without login.",
+  "source_repo": "mcp-dir/jus-mcp",
+  "source_url": "https://github.com/mcp-dir/jus-mcp",
+  "install": "npx -y jus-mcp"
+}

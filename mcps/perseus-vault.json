@@ -1,0 +1,7 @@
+{
+  "name": "perseus-vault",
+  "description": "An encrypted, local-first memory server for AI agents that uses SQLite + FTS5 hybrid search, keeping memory off the GPU to maximize HBM for inference.",
+  "source_repo": "tcconnally/perseus-amd-act-ii",
+  "source_url": "https://github.com/tcconnally/perseus-amd-act-ii",
+  "install": "# git clone --depth 1 https://github.com/tcconnally/perseus-amd-act-ii\n# See source for mcpServers config block"
+}

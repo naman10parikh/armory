@@ -1,0 +1,7 @@
+{
+  "name": "casee-intelligence-mcp-server",
+  "description": "Enables AI agents to retrieve real-time, trusted-source competitive intelligence from the CaSee platform, offering tools for source search, trend analysis, source aggregation, and statistics with T-Score credibility scoring.",
+  "source_repo": "xcasee/casee-mcp-server",
+  "source_url": "https://github.com/xcasee/casee-mcp-server",
+  "install": "npx -y casee-mcp-server"
+}

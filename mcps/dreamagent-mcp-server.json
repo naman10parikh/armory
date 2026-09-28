@@ -1,0 +1,7 @@
+{
+  "name": "dreamagent-mcp-server",
+  "description": "Enables ChatGPT to operate a DreamAgent account via MCP, allowing creation and management of projects (Telegram/Discord bots, websites, schedulers) and conversational build/edit/debug through DreamAgent's AI agent.",
+  "source_repo": "nivethaug/dreamagent-mcp-server",
+  "source_url": "https://github.com/nivethaug/dreamagent-mcp-server",
+  "install": "npx -y dreamagent-mcp-server"
+}

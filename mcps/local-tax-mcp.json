@@ -1,0 +1,7 @@
+{
+  "name": "local-tax-mcp",
+  "description": "Korean local tax MCP server providing access to local tax laws, precedents, interpretations, reduction ordinances, and operational rules for legal research and citation verification.",
+  "source_repo": "seunguk3/local-tax-mcp",
+  "source_url": "https://github.com/seunguk3/local-tax-mcp",
+  "install": "npx -y local-tax-mcp"
+}

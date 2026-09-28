@@ -1,0 +1,7 @@
+{
+  "name": "htzl-a-share-mcp",
+  "description": "MCP server providing 29 A-share analysis skills including real-time data, capital flow, limit-up tracking, technical/fundamental analysis, backtesting, risk control, and Xueqiu portfolio tracking, enabling AI agents to execute market research and strategy tasks.",
+  "source_repo": "mm2xai/htzl-a-share-mcp-demo",
+  "source_url": "https://github.com/mm2xai/htzl-a-share-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/mm2xai/htzl-a-share-mcp-demo\n# See source for mcpServers config block"
+}

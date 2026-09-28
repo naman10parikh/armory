@@ -1,0 +1,7 @@
+{
+  "name": "memorybase-mcp-server",
+  "description": "MCP server that logs insights from Claude sessions and sends them via HTTP to a server for Telegram notification and storage in memoryBase.",
+  "source_repo": "veryCoolTimo/memorybase-mcp",
+  "source_url": "https://github.com/veryCoolTimo/memorybase-mcp",
+  "install": "npx -y memorybase-mcp"
+}

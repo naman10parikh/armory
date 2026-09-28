@@ -1,0 +1,7 @@
+{
+  "name": "standupbot-mcp",
+  "description": "Connects Claude to GitHub activity to generate standup summaries of commits, PRs, reviews, and issues for individuals or teams.",
+  "source_repo": "rimysore/standupbot-mcp",
+  "source_url": "https://github.com/rimysore/standupbot-mcp",
+  "install": "npx -y standupbot-mcp"
+}

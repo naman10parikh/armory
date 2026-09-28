@@ -1,0 +1,7 @@
+{
+  "name": "gripe-mcp",
+  "description": "Enables AI agents to self-report bugs, ambiguities, and improvement requests via a single report_issue tool, logging to PostgreSQL or JSONL with severity and mode classification.",
+  "source_repo": "retospect/gripe-mcp",
+  "source_url": "https://github.com/retospect/gripe-mcp",
+  "install": "npx -y gripe-mcp"
+}

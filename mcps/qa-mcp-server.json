@@ -1,0 +1,7 @@
+{
+  "name": "qa-mcp-server",
+  "description": "An AI-powered QA automation server that integrates Jira, GitHub, Jenkins, AWS, and Webex into a unified interface for QA engineers.",
+  "source_repo": "DwonnG/qa-mcp-server",
+  "source_url": "https://github.com/DwonnG/qa-mcp-server",
+  "install": "npx -y qa-mcp-server"
+}

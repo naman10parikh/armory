@@ -1,0 +1,7 @@
+{
+  "name": "romaco-mcp",
+  "description": "MCP server for romaco-charts. Control your trading chart from Claude, Cursor, or any MCP-compatible AI agent.",
+  "source_repo": "romaco-labs/romaco-mcp",
+  "source_url": "https://github.com/romaco-labs/romaco-mcp",
+  "install": "npx -y romaco-mcp"
+}

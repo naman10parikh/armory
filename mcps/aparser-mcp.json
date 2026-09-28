@@ -1,0 +1,7 @@
+{
+  "name": "aparser-mcp",
+  "description": "Enables AI agents to drive parsing tasks via A-Parser, including running SERP queries, queueing bulk jobs, polling, and fetching results.",
+  "source_repo": "izzipizzy/aparser-mcp",
+  "source_url": "https://github.com/izzipizzy/aparser-mcp",
+  "install": "npx -y aparser-mcp"
+}

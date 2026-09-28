@@ -1,0 +1,7 @@
+{
+  "name": "cacoo-remote-mcp-server",
+  "description": "Enables managing Cacoo diagrams, folders, organizations, and account information through MCP tools over HTTP, with OAuth-based authentication, email allowlisting, and support for multiple Cacoo accounts.",
+  "source_repo": "midnight480/cacoo-remote-mcp-server",
+  "source_url": "https://github.com/midnight480/cacoo-remote-mcp-server",
+  "install": "npx -y cacoo-remote-mcp-server"
+}

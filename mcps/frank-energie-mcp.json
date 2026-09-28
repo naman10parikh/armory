@@ -1,0 +1,7 @@
+{
+  "name": "frank-energie-mcp",
+  "description": "Exposes Frank Energie energy data (electricity and gas prices, account info) as MCP tools for LLMs, using python-frank-energie for API communication.",
+  "source_repo": "HiDiHo01/frank-energie-mcp",
+  "source_url": "https://github.com/HiDiHo01/frank-energie-mcp",
+  "install": "npx -y frank-energie-mcp"
+}

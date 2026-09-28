@@ -1,0 +1,7 @@
+{
+  "name": "daraja-mcp",
+  "description": "Enables interaction with Safaricom M-Pesa Daraja 3.0 API, covering payments, disbursements, treasury, and fraud checks, with a built-in simulator for testing without credentials.",
+  "source_repo": "parseen254/daraja-mcp",
+  "source_url": "https://github.com/parseen254/daraja-mcp",
+  "install": "npx -y daraja-mcp"
+}

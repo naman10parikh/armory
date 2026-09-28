@@ -1,0 +1,7 @@
+{
+  "name": "monti-apm-mcp-server",
+  "description": "Enables AI assistants to interact with Monti APM for Meteor application performance monitoring.",
+  "source_repo": "quavedev/montiapm-mcp",
+  "source_url": "https://github.com/quavedev/montiapm-mcp",
+  "install": "npx -y montiapm-mcp"
+}

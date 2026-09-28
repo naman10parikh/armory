@@ -1,0 +1,7 @@
+{
+  "name": "sphere-mcp",
+  "description": "An MCP server that enforces a privacy boundary so agents can analyze sensitive data without ever seeing individual records, using synthetic twins and a sandboxed execution environment.",
+  "source_repo": "statzihuai/sphere-mcp",
+  "source_url": "https://github.com/statzihuai/sphere-mcp",
+  "install": "npx -y sphere-mcp"
+}

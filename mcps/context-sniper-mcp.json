@@ -1,0 +1,7 @@
+{
+  "name": "context-sniper-mcp",
+  "description": "A local MCP server that indexes a repository into line-range chunks and serves compact evidence packets to cut token usage when exploring or debugging code.",
+  "source_repo": "ywq090522/context-sniper-mcp",
+  "source_url": "https://github.com/ywq090522/context-sniper-mcp",
+  "install": "npx -y context-sniper-mcp"
+}

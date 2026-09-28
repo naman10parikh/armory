@@ -1,0 +1,7 @@
+{
+  "name": "shield-ia",
+  "description": "Automated security audit assistant for GitHub repositories that detects static vulnerabilities (leaked credentials, vulnerable dependencies, bad Docker practices, excessive GitHub Actions permissions), calculates a security score, and provides risk explanations and mitigation recommendations via Coh",
+  "source_repo": "virginia-carrizo-bello/shield_ia",
+  "source_url": "https://github.com/virginia-carrizo-bello/shield_ia",
+  "install": "# git clone --depth 1 https://github.com/virginia-carrizo-bello/shield_ia\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ccv2-logs-mcp",
+  "description": "Enables AI agents to search and analyze SAP Commerce Cloud (CCv2) runtime logs via OpenSearch Dashboards using a session cookie, providing read-only tools for full-text search and error aggregation.",
+  "source_repo": "bfernandez2-seidor/ccv2-logs-mcp",
+  "source_url": "https://github.com/bfernandez2-seidor/ccv2-logs-mcp",
+  "install": "npx -y ccv2-logs-mcp"
+}

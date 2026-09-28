@@ -1,0 +1,7 @@
+{
+  "name": "makiti-mcp",
+  "description": "MCP server that acts as a shopping assistant, enabling product search, comparison, deal finding, and price history tracking via Hound web search.",
+  "source_repo": "seasayDev/makiti-mcp",
+  "source_url": "https://github.com/seasayDev/makiti-mcp",
+  "install": "npx -y makiti-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "spectramcp",
+  "description": "Enables AI agents to process RF signals, perform spectral analysis, and execute radar DSP primitives such as Range-Doppler processing and CFAR detection, supporting both file-based and live SDR capture.",
+  "source_repo": "IamOumarIbrahim/SpectraMCP",
+  "source_url": "https://github.com/IamOumarIbrahim/SpectraMCP",
+  "install": "# git clone --depth 1 https://github.com/IamOumarIbrahim/SpectraMCP\n# See source for mcpServers config block"
+}

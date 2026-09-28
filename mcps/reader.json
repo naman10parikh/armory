@@ -1,0 +1,7 @@
+{
+  "name": "reader",
+  "description": "MCP server that lets Claude send documents, drills, and choices to an e-reader (Kindle, Kobo, etc.) in real time via a Cloudflare Worker, supporting anonymous and OAuth-authenticated access.",
+  "source_repo": "nevescloud/reader",
+  "source_url": "https://github.com/nevescloud/reader",
+  "install": "# git clone --depth 1 https://github.com/nevescloud/reader\n# See source for mcpServers config block"
+}

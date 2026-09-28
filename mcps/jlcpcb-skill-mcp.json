@@ -1,0 +1,7 @@
+{
+  "name": "jlcpcb-skill-mcp",
+  "description": "An MCP server that picks JLCPCB/LCSC parts for KiCad circuits with assembly cost in mind, automating part selection, stock risk checks, and quantity-tiered pricing.",
+  "source_repo": "hulryung/jlcpcb-skill-mcp",
+  "source_url": "https://github.com/hulryung/jlcpcb-skill-mcp",
+  "install": "npx -y jlcpcb-skill-mcp"
+}

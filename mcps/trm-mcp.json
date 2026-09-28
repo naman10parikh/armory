@@ -1,0 +1,7 @@
+{
+  "name": "trm-mcp",
+  "description": "A local, offline-first MCP server for searching, grepping, reading, rendering, and comparing long datasheet/TRM PDFs, using hybrid retrieval with BM25, dense embeddings, and visual page indexing.",
+  "source_repo": "strongtz/trm-mcp",
+  "source_url": "https://github.com/strongtz/trm-mcp",
+  "install": "npx -y trm-mcp"
+}

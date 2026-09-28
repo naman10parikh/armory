@@ -1,0 +1,7 @@
+{
+  "name": "outlook-snds-mcp",
+  "description": "Brings Outlook.com Smart Network Data Services (SNDS) API into MCP clients, allowing users to query IP reputation data such as volume, complaint rates, and spam verdicts using natural language.",
+  "source_repo": "optipub/outlook-snds-mcp",
+  "source_url": "https://github.com/optipub/outlook-snds-mcp",
+  "install": "npx -y outlook-snds-mcp"
+}

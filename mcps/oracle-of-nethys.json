@@ -1,0 +1,7 @@
+{
+  "name": "oracle-of-nethys",
+  "description": "Provides search and retrieval over a local database of Pathfinder 2e rules. Enables Claude Code to answer rules questions with cited, accurate answers from fetched entries.",
+  "source_repo": "fbonds/oracle-of-nethys",
+  "source_url": "https://github.com/fbonds/oracle-of-nethys",
+  "install": "# git clone --depth 1 https://github.com/fbonds/oracle-of-nethys\n# See source for mcpServers config block"
+}

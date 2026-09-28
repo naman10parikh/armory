@@ -1,0 +1,7 @@
+{
+  "name": "servicetitan-mcp",
+  "description": "A remote MCP server that exposes the ServiceTitan API as tools, enabling Claude and other clients to manage customers, jobs, pricebook, invoicing, and more with write safety and built-in observability.",
+  "source_repo": "lpeluso-dotcom/servicetitan-mcp",
+  "source_url": "https://github.com/lpeluso-dotcom/servicetitan-mcp",
+  "install": "npx -y servicetitan-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dynamic-mysql-mcp",
+  "description": "Enables secure, runtime-authenticated MySQL database querying and mutation through dynamic tools, allowing AI assistants to list databases/tables, describe schemas, and perform CRUD operations.",
+  "source_repo": "fadlee/dynamic-mysql-mcp",
+  "source_url": "https://github.com/fadlee/dynamic-mysql-mcp",
+  "install": "npx -y dynamic-mysql-mcp"
+}

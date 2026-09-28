@@ -1,0 +1,7 @@
+{
+  "name": "mcp-memories",
+  "description": "Captures code build sessions and publishes them to a shared team knowledge base, making past work discoverable via semantic search.",
+  "source_repo": "benkipnis/mcp-memories",
+  "source_url": "https://github.com/benkipnis/mcp-memories",
+  "install": "# git clone --depth 1 https://github.com/benkipnis/mcp-memories\n# See source for mcpServers config block"
+}

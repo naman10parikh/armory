@@ -1,6 +1,6 @@
 {
   "name": "mplayer",
-  "description": "Mplayer MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "server/mplayer",
   "source_url": "https://mcp.so/server/mplayer/server",
   "install": "# git clone --depth 1 https://mcp.so/server/mplayer/server\n# See source for mcpServers config block"

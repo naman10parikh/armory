@@ -1,0 +1,7 @@
+{
+  "name": "conta-simples-mcp-server",
+  "description": "Integrates with Conta Simples to manage business banking, credit cards, and team accounts through natural language. Provides tools for viewing statements, managing cards, categories, users, and invites.",
+  "source_repo": "mcp-dir/contasimples-mcp",
+  "source_url": "https://github.com/mcp-dir/contasimples-mcp",
+  "install": "npx -y contasimples-mcp"
+}

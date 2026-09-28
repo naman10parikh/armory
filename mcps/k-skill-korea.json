@@ -1,0 +1,7 @@
+{
+  "name": "k-skill-korea",
+  "description": "A read-only MCP server providing access to various Korean public data such as subway arrivals, weather, fine dust, bike availability, real estate, and more.",
+  "source_repo": "taeyoung1005/k-skill-korea-mcp",
+  "source_url": "https://github.com/taeyoung1005/k-skill-korea-mcp",
+  "install": "npx -y k-skill-korea-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "draytek-vigor-mcp-server",
+  "description": "Provides DSL diagnosis and CLI access to DrayTek Vigor 167 modems via interactive SSH shell, enabling command discovery and execution through MCP tools.",
+  "source_repo": "dtrywets/draytek-vigor-mcp",
+  "source_url": "https://github.com/dtrywets/draytek-vigor-mcp",
+  "install": "npx -y draytek-vigor-mcp"
+}

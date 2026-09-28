@@ -1,0 +1,7 @@
+{
+  "name": "weights-biases-mcp-server",
+  "description": "Enables querying W\\&B Weave traces and creating W\\&B Reports with text and visualizations through natural language.",
+  "source_repo": "riballes/mcp-server",
+  "source_url": "https://github.com/riballes/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/riballes/mcp-server\n# See source for mcpServers config block"
+}

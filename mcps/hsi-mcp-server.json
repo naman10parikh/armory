@@ -1,0 +1,7 @@
+{
+  "name": "hsi-mcp-server",
+  "description": "Retrieves real-time Hang Seng Index data and news headlines with AI-powered summaries from AAStocks, supporting stock quote lookups via symbol or company name.",
+  "source_repo": "0nri/hsi-mcp-server",
+  "source_url": "https://github.com/0nri/hsi-mcp-server",
+  "install": "npx -y hsi-mcp-server"
+}

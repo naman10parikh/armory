@@ -1,0 +1,7 @@
+{
+  "name": "yhteentoimivuusalusta-mcp-server",
+  "description": "Enables searching, validating, and referencing Finnish standardized terminology, data models, and code lists to ensure consistency in design documentation for Finnish government and building industry projects.",
+  "source_repo": "jrastas/yhteentoimivuusagentti",
+  "source_url": "https://github.com/jrastas/yhteentoimivuusagentti",
+  "install": "# git clone --depth 1 https://github.com/jrastas/yhteentoimivuusagentti\n# See source for mcpServers config block"
+}

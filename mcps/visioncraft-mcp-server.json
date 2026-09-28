@@ -1,0 +1,7 @@
+{
+  "name": "visioncraft-mcp-server",
+  "description": "Delivers up-to-date computer vision and GenAI knowledge to AI assistants via a comprehensive knowledge base and RAVEN engine, enabling accurate and efficient responses.",
+  "source_repo": "augmentedstartups/VisionCraft-MCP-Server",
+  "source_url": "https://github.com/augmentedstartups/VisionCraft-MCP-Server",
+  "install": "npx -y VisionCraft-MCP-Server"
+}

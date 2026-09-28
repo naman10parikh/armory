@@ -1,0 +1,7 @@
+{
+  "name": "apache-spark-history-server-mcp",
+  "description": "Exposes Spark History Server data as tools for AI agents, enabling natural language querying of Spark applications, jobs, stages, and performance metrics.",
+  "source_repo": "kubeflow/mcp-apache-spark-history-server",
+  "source_url": "https://github.com/kubeflow/mcp-apache-spark-history-server",
+  "install": "# git clone --depth 1 https://github.com/kubeflow/mcp-apache-spark-history-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claude-chatgpt-agent-bridge",
+  "description": "An MCP task broker that enables Claude and Codex/ChatGPT agents to delegate tasks to each other, with persistent queues, worker adapters, and security controls.",
+  "source_repo": "jcharveyjr/claude-chatgpt-agent-bridge",
+  "source_url": "https://github.com/jcharveyjr/claude-chatgpt-agent-bridge",
+  "install": "# git clone --depth 1 https://github.com/jcharveyjr/claude-chatgpt-agent-bridge\n# See source for mcpServers config block"
+}

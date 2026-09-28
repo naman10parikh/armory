@@ -1,0 +1,7 @@
+{
+  "name": "ibm-bob-cursor-bridge",
+  "description": "Provides tools for Cursor to interact with IBM Bob Shell, enabling Bob-powered coding assistance, session management, and task delegation directly from Cursor.",
+  "source_repo": "dtrywets/bob-cursor-mcp",
+  "source_url": "https://github.com/dtrywets/bob-cursor-mcp",
+  "install": "npx -y bob-cursor-mcp"
+}

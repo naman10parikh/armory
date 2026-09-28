@@ -1,0 +1,7 @@
+{
+  "name": "mcp-help-article-server",
+  "description": "MCP server that serves help articles to tenants with tenant isolation, enabling AI to search and retrieve tenant-specific content.",
+  "source_repo": "anupriya-babbar/MCPServer_Tenant_QnA",
+  "source_url": "https://github.com/anupriya-babbar/MCPServer_Tenant_QnA",
+  "install": "# git clone --depth 1 https://github.com/anupriya-babbar/MCPServer_Tenant_QnA\n# See source for mcpServers config block"
+}

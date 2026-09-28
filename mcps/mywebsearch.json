@@ -1,0 +1,7 @@
+{
+  "name": "mywebsearch",
+  "description": "Name: MyWebSearch Type: MCP Server (stdio + streamable-http/SSE) Repository: https://github.com/wtznicy/my-websearch npm: my-websearch (npx -y my-websearch@latest) Description: Multi-engine web search MCP server, CLI and local daemon — no API keys or registration required. Searches bing/baidu/csdn/j",
+  "source_repo": "wtznicy/my-websearch",
+  "source_url": "https://github.com/wtznicy/my-websearch",
+  "install": "# git clone --depth 1 https://github.com/wtznicy/my-websearch\n# See source for mcpServers config block"
+}

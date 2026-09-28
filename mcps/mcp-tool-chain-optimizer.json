@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tool-chain-optimizer",
+  "description": "Analyzes multi-step AI agent tool chains to compute success probability, identify bottlenecks, and suggest better execution orders, enabling more reliable agents via local pure-math computation.",
+  "source_repo": "princeruhulofficial/mcp-tool-chain-optimizer",
+  "source_url": "https://github.com/princeruhulofficial/mcp-tool-chain-optimizer",
+  "install": "# git clone --depth 1 https://github.com/princeruhulofficial/mcp-tool-chain-optimizer\n# See source for mcpServers config block"
+}

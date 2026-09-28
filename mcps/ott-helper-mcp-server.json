@@ -1,0 +1,7 @@
+{
+  "name": "ott-helper-mcp-server",
+  "description": "Provides intelligent OTT content recommendations based on IMDB ratings, platform availability, and genre preferences, enabling users to search and filter movies and series across multiple streaming services.",
+  "source_repo": "shreyapiu/cine-ott-assist",
+  "source_url": "https://github.com/shreyapiu/cine-ott-assist",
+  "install": "# git clone --depth 1 https://github.com/shreyapiu/cine-ott-assist\n# See source for mcpServers config block"
+}

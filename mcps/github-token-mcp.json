@@ -1,0 +1,7 @@
+{
+  "name": "github-token-mcp",
+  "description": "Enables secure retrieval of GitHub App installation tokens using 1Password authentication, providing temporary access tokens for GitHub API operations.",
+  "source_repo": "appare45/github-token-mcp",
+  "source_url": "https://github.com/appare45/github-token-mcp",
+  "install": "npx -y github-token-mcp"
+}

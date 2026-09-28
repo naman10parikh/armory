@@ -1,0 +1,7 @@
+{
+  "name": "askuserquestionplus",
+  "description": "An MCP server that enables LLMs to ask users questions through a web interface with keyboard shortcuts, supporting single/multiple choice and custom input.",
+  "source_repo": "JoJoJotarou/AskUserQuestionPlus",
+  "source_url": "https://github.com/JoJoJotarou/AskUserQuestionPlus",
+  "install": "# git clone --depth 1 https://github.com/JoJoJotarou/AskUserQuestionPlus\n# See source for mcpServers config block"
+}

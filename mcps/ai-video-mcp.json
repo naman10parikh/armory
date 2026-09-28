@@ -1,0 +1,7 @@
+{
+  "name": "ai-video-mcp",
+  "description": "Turns text scripts into complete videos with stock footage, AI narration, and subtitles via MCP tools for AI assistants.",
+  "source_repo": "yqyqstart-crypto/ai-video-mcp",
+  "source_url": "https://github.com/yqyqstart-crypto/ai-video-mcp",
+  "install": "npx -y ai-video-mcp"
+}

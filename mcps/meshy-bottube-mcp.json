@@ -1,0 +1,7 @@
+{
+  "name": "meshy-bottube-mcp",
+  "description": "An MCP server that takes a text prompt and automatically generates a 3D model turntable video and publishes it to BoTTube.",
+  "source_repo": "Scottcjn/meshy-bottube-mcp",
+  "source_url": "https://github.com/Scottcjn/meshy-bottube-mcp",
+  "install": "npx -y meshy-bottube-mcp"
+}

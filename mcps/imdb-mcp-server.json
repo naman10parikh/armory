@@ -1,0 +1,7 @@
+{
+  "name": "imdb-mcp-server",
+  "description": "Enables LLMs to search movies and people, retrieve movie details, cast lists, and the IMDB Top 250 through JSON-RPC or MCP protocol.",
+  "source_repo": "Adarsh2001-dot/imdb-mcp",
+  "source_url": "https://github.com/Adarsh2001-dot/imdb-mcp",
+  "install": "npx -y imdb-mcp"
+}

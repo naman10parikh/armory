@@ -1,0 +1,7 @@
+{
+  "name": "cloakbrowser-mcp-server",
+  "description": "A stealth browser automation MCP server that wraps CloakBrowser's patched Chromium to bypass bot detection, providing 22 tools for web navigation, interaction, and session management.",
+  "source_repo": "MiwooMiwoo/cloakbrowser-mcp",
+  "source_url": "https://github.com/MiwooMiwoo/cloakbrowser-mcp",
+  "install": "npx -y cloakbrowser-mcp"
+}

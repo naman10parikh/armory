@@ -1,0 +1,7 @@
+{
+  "name": "cpzai-mcp-server",
+  "description": "MCP server for CPZAI platform, enabling AI agents to manage trading strategies, run backtests, route orders across brokers, and access portfolios, risk analytics, and market data through natural language.",
+  "source_repo": "CPZ-Lab/cpzai-mcp-server",
+  "source_url": "https://github.com/CPZ-Lab/cpzai-mcp-server",
+  "install": "npx -y cpzai-mcp-server"
+}

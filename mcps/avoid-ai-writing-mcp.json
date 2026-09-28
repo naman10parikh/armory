@@ -1,0 +1,7 @@
+{
+  "name": "avoid-ai-writing-mcp",
+  "description": "Provides local, deterministic scoring and detailed auditing of text for AI-writing patterns via two read-only tools, with no network calls or language models.",
+  "source_repo": "conorbronsdon/avoid-ai-writing-mcp",
+  "source_url": "https://github.com/conorbronsdon/avoid-ai-writing-mcp",
+  "install": "npx -y avoid-ai-writing-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-hybrid-search",
+  "description": "MCP server that indexes Obsidian notes and enables hybrid search (full-text, fuzzy, semantic) for AI assistants to find and read notes.",
+  "source_repo": "flowing-abyss/obsidian-hybrid-search",
+  "source_url": "https://github.com/flowing-abyss/obsidian-hybrid-search",
+  "install": "# git clone --depth 1 https://github.com/flowing-abyss/obsidian-hybrid-search\n# See source for mcpServers config block"
+}

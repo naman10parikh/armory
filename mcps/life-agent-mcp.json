@@ -1,0 +1,7 @@
+{
+  "name": "life-agent-mcp",
+  "description": "Enables turning any personal-assistant REST backend into Claude-ready tools via a single MCP server, providing 38 tools for communications, finance, health, and more.",
+  "source_repo": "cbolden15/life-agent-mcp",
+  "source_url": "https://github.com/cbolden15/life-agent-mcp",
+  "install": "npx -y life-agent-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-eur-lex",
+  "description": "Enables searching and quoting EU legislation with verifiable EUR-Lex citations, including GDPR, NIS2, DORA, and the EU AI Act.",
+  "source_repo": "pipeworx-io/mcp-eur-lex",
+  "source_url": "https://github.com/pipeworx-io/mcp-eur-lex",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-eur-lex\n# See source for mcpServers config block"
+}

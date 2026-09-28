@@ -1,0 +1,7 @@
+{
+  "name": "mspbots-agent-mcp",
+  "description": "Exposes MSPbots Agent Platform connector inventory to MCP clients, listing connectors with installation and connection status. Supports per-request header authentication over Streamable HTTP/SSE.",
+  "source_repo": "MSPbotsAI/mspbots-agent-mcp",
+  "source_url": "https://github.com/MSPbotsAI/mspbots-agent-mcp",
+  "install": "npx -y mspbots-agent-mcp"
+}

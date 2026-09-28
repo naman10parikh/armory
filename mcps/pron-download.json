@@ -1,0 +1,7 @@
+{
+  "name": "pron-download",
+  "description": "Enables searching and downloading PornHub videos via MCP tools with stealth anti-detection and aria2 for robust downloading.",
+  "source_repo": "bomomoQWQ/Pron-download",
+  "source_url": "https://github.com/bomomoQWQ/Pron-download",
+  "install": "# git clone --depth 1 https://github.com/bomomoQWQ/Pron-download\n# See source for mcpServers config block"
+}

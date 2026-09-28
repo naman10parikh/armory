@@ -1,0 +1,7 @@
+{
+  "name": "asterisk-voice-mcp",
+  "description": "Enables AI agents to place VoIP phone calls via Asterisk, play TTS messages, capture DTMF input, and optionally record and transcribe voice responses.",
+  "source_repo": "SSOURABH58/asterisk-voice-mcp",
+  "source_url": "https://github.com/SSOURABH58/asterisk-voice-mcp",
+  "install": "npx -y asterisk-voice-mcp"
+}

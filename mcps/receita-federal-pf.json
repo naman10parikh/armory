@@ -1,0 +1,7 @@
+{
+  "name": "receita-federal-pf",
+  "description": "Enables querying the Brazilian Federal Revenue registration status of an individual using CPF and birth date, with a read-only MCP tool accessible from various AI clients.",
+  "source_repo": "mcp-dir/receita_pf-mcp",
+  "source_url": "https://github.com/mcp-dir/receita_pf-mcp",
+  "install": "npx -y receita_pf-mcp"
+}

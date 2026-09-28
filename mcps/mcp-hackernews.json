@@ -1,0 +1,7 @@
+{
+  "name": "mcp-hackernews",
+  "description": "Enables searching, reading, and watching Hacker News topics, including item retrieval, feed listing, and persistent topic watches with watermarks.",
+  "source_repo": "lemenkov/mcp-hackernews",
+  "source_url": "https://github.com/lemenkov/mcp-hackernews",
+  "install": "# git clone --depth 1 https://github.com/lemenkov/mcp-hackernews\n# See source for mcpServers config block"
+}

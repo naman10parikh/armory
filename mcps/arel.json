@@ -1,0 +1,7 @@
+{
+  "name": "arel",
+  "description": "A production-oriented reliability, benchmarking, and evaluation system that layers multi-version protocol negotiation, adaptive streaming, connection pooling, and resilience onto an MCP agent runtime.",
+  "source_repo": "Akgithub2028/Agent-Reliability-and-Evaluation-Lab",
+  "source_url": "https://github.com/Akgithub2028/Agent-Reliability-and-Evaluation-Lab",
+  "install": "# git clone --depth 1 https://github.com/Akgithub2028/Agent-Reliability-and-Evaluation-Lab\n# See source for mcpServers config block"
+}

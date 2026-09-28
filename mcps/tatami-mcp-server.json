@@ -1,0 +1,7 @@
+{
+  "name": "tatami-mcp-server",
+  "description": "Tatami MCP server enables querying email delivery events, bounce/deferral reasons, and deliverability report sections via the Tatami API, with optional team/project headers.",
+  "source_repo": "bentonow/tatami-mcp-server",
+  "source_url": "https://github.com/bentonow/tatami-mcp-server",
+  "install": "npx -y tatami-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fiware-orion-mcp",
+  "description": "MCP server for FIWARE Orion Context Broker enabling LLMs to manage NGSI-v2 context entities like IoT devices, sensors, and vehicles.",
+  "source_repo": "k2iser/fiware-orion-mcp",
+  "source_url": "https://github.com/k2iser/fiware-orion-mcp",
+  "install": "npx -y fiware-orion-mcp"
+}

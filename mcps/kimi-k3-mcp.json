@@ -1,0 +1,7 @@
+{
+  "name": "kimi-k3-mcp",
+  "description": "A read-only MCP server that gives Codex and other clients a Kimi K3 second opinion through OpenRouter, enabling algorithm review, code review, and project planning.",
+  "source_repo": "catid/k3mcp",
+  "source_url": "https://github.com/catid/k3mcp",
+  "install": "# git clone --depth 1 https://github.com/catid/k3mcp\n# See source for mcpServers config block"
+}

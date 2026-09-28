@@ -1,0 +1,7 @@
+{
+  "name": "starmeet-mcp-server",
+  "description": "Provides Vedic astrology tools to AI assistants, enabling birth chart calculation, daily Panchang, and nakshatra profiles via the star-meet.com API.",
+  "source_repo": "edestory/mcp-starmeet",
+  "source_url": "https://github.com/edestory/mcp-starmeet",
+  "install": "# git clone --depth 1 https://github.com/edestory/mcp-starmeet\n# See source for mcpServers config block"
+}

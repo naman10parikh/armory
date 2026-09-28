@@ -1,0 +1,7 @@
+{
+  "name": "yanifend-mcp",
+  "description": "Hosted MCP server for YaniFend, a WordPress feedback widget. Manage your questionary (list/create/update/delete questions and options) and read collected answers via natural language.",
+  "source_repo": "skippedaga/yanifend-mcp",
+  "source_url": "https://github.com/skippedaga/yanifend-mcp",
+  "install": "npx -y yanifend-mcp"
+}

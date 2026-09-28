@@ -1,0 +1,7 @@
+{
+  "name": "lyrion-mcp",
+  "description": "Enables an AI agent to inspect and control Lyrion Music Server (Logitech Media Server) players via the LMS JSON-RPC API, including playback, volume, playlists, favorites, radio, and library search/browse.",
+  "source_repo": "SimoneB79/lyrion-mcp",
+  "source_url": "https://github.com/SimoneB79/lyrion-mcp",
+  "install": "npx -y lyrion-mcp"
+}

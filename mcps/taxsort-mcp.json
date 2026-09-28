@@ -1,0 +1,7 @@
+{
+  "name": "taxsort-mcp",
+  "description": "Personal tax transaction classification (US Schedule A & C) MCP server that imports bank CSVs, classifies transactions with Claude AI, and provides tools for review, override, summaries, and cost tracking.",
+  "source_repo": "lonniev/taxsort-mcp",
+  "source_url": "https://github.com/lonniev/taxsort-mcp",
+  "install": "npx -y taxsort-mcp"
+}

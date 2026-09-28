@@ -1,0 +1,7 @@
+{
+  "name": "kaken-mcp-server",
+  "description": "MCP server for querying the Japanese KAKEN database of scientific research grants, enabling search of projects and researchers via Claude.",
+  "source_repo": "masa-med-ai/kaken-mcp-server",
+  "source_url": "https://github.com/masa-med-ai/kaken-mcp-server",
+  "install": "npx -y kaken-mcp-server"
+}

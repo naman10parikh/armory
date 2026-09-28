@@ -1,0 +1,7 @@
+{
+  "name": "searchts",
+  "description": "Enables AI agents to read any URL by using an escalating open-source unlocker to bypass common bot walls, returning clean Markdown content.",
+  "source_repo": "capad-xyz/searchts",
+  "source_url": "https://github.com/capad-xyz/searchts",
+  "install": "# git clone --depth 1 https://github.com/capad-xyz/searchts\n# See source for mcpServers config block"
+}

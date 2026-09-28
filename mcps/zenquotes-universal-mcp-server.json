@@ -1,0 +1,7 @@
+{
+  "name": "zenquotes-universal-mcp-server",
+  "description": "Enables interaction with Zenquotes's tools and services through a unified API, allowing users to access quotes and related functionality via natural language.",
+  "source_repo": "universal-mcp/zenquotes",
+  "source_url": "https://github.com/universal-mcp/zenquotes",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/zenquotes\n# See source for mcpServers config block"
+}

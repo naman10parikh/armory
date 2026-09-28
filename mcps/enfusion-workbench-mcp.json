@@ -1,0 +1,7 @@
+{
+  "name": "enfusion-workbench-mcp",
+  "description": "MCP server for Arma Reforger / Enfusion Workbench modding. Describe what you want to build, and Claude handles the rest — API research (8,803 indexed classes), code generation, project scaffolding, project-wide indexing and refactoring, live Workbench control, and in-editor testing.",
+  "source_repo": "Goldwep/enfusion-workbench-mcp",
+  "source_url": "https://github.com/Goldwep/enfusion-workbench-mcp",
+  "install": "npx -y enfusion-workbench-mcp"
+}

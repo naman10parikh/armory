@@ -1,0 +1,7 @@
+{
+  "name": "cadastro-pf-b-sico",
+  "description": "Enables querying basic Brazilian CPF registration data (name, status, birth date) via a hosted MCP server with a single read-only tool, usable from any MCP client.",
+  "source_repo": "mcp-dir/cpf_cadastral-mcp",
+  "source_url": "https://github.com/mcp-dir/cpf_cadastral-mcp",
+  "install": "npx -y cpf_cadastral-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "enhanced-memory-mcp-server",
+  "description": "A high-performance memory management system for AI agents with 200+ tools including 4-tier memory architecture, advanced RAG pipeline, and Git-like versioning.",
+  "source_repo": "marc-shade/enhanced-memory-mcp",
+  "source_url": "https://github.com/marc-shade/enhanced-memory-mcp",
+  "install": "npx -y enhanced-memory-mcp"
+}

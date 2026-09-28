@@ -1,0 +1,7 @@
+{
+  "name": "present-agent-mcp",
+  "description": "Find 5 explainable, personalized gift recommendations from inside any MCP client by reasoning about relationship, occasion, and context.",
+  "source_repo": "GuillaumeRacine/present-agent-mcp",
+  "source_url": "https://github.com/GuillaumeRacine/present-agent-mcp",
+  "install": "npx -y present-agent-mcp"
+}

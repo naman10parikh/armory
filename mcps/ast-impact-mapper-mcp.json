@@ -1,0 +1,7 @@
+{
+  "name": "ast-impact-mapper-mcp",
+  "description": "MCP server that analyzes TypeScript/JavaScript codebases via AST parsing and dependency graph tracing to identify affected tests, detect dead code, circular dependencies, and trace import chains, enabling AI agents to run only relevant tests.",
+  "source_repo": "vola-trebla/ast-impact-mapper-mcp",
+  "source_url": "https://github.com/vola-trebla/ast-impact-mapper-mcp",
+  "install": "npx -y ast-impact-mapper-mcp"
+}

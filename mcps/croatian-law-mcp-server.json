@@ -1,0 +1,7 @@
+{
+  "name": "croatian-law-mcp-server",
+  "description": "Provides access to Croatian law via MCP, enabling full-text search across 4,531 statutes and 157,667 provisions, citation validation, and EU directive cross-references from official sources.",
+  "source_repo": "Ansvar-Systems/Croatian-law-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/Croatian-law-mcp",
+  "install": "npx -y Croatian-law-mcp"
+}

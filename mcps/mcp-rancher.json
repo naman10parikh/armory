@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rancher",
+  "description": "Operates Rancher-managed Kubernetes through any MCP client with capability detection, generic resource access, and curated workflows, wrapped in an audit-logged, rate-limited, confirmation-guarded safety model.",
+  "source_repo": "rex/mcp-rancher",
+  "source_url": "https://github.com/rex/mcp-rancher",
+  "install": "# git clone --depth 1 https://github.com/rex/mcp-rancher\n# See source for mcpServers config block"
+}

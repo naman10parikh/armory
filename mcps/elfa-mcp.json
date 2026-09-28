@@ -1,0 +1,7 @@
+{
+  "name": "elfa-mcp",
+  "description": "MCP server for the Elfa API, providing crypto social intelligence from X and Telegram, including trending, mentions, narratives, and market chat. It also supports Auto, a condition engine for automated monitoring and actions.",
+  "source_repo": "elfa-ai/mcp",
+  "source_url": "https://github.com/elfa-ai/mcp",
+  "install": "# git clone --depth 1 https://github.com/elfa-ai/mcp\n# See source for mcpServers config block"
+}

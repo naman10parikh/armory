@@ -1,0 +1,7 @@
+{
+  "name": "elasticsearch-investigation-mcp",
+  "description": "Read-only MCP server that converts Elasticsearch logs into citable evidence for AI agents, offering deterministic log summarization and search tools.",
+  "source_repo": "Edrient17/elasticsearch-investigation-mcp",
+  "source_url": "https://github.com/Edrient17/elasticsearch-investigation-mcp",
+  "install": "npx -y elasticsearch-investigation-mcp"
+}

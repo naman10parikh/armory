@@ -1,0 +1,7 @@
+{
+  "name": "hypercrawl",
+  "description": "Self-hosted, cookie-aware web-automation engine that turns any website into callable MCP tools, with stateful browser sessions, web search, and multi-page crawling.",
+  "source_repo": "JoinSyndicate/hypercrawl",
+  "source_url": "https://github.com/JoinSyndicate/hypercrawl",
+  "install": "# git clone --depth 1 https://github.com/JoinSyndicate/hypercrawl\n# See source for mcpServers config block"
+}

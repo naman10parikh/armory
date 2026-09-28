@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-builder",
+  "description": "Enables users to generate, deploy, and register a read-only MCP server from database connection parameters without writing code.",
+  "source_repo": "rithikathena-cmyk/MCP-Server-Builder",
+  "source_url": "https://github.com/rithikathena-cmyk/MCP-Server-Builder",
+  "install": "# git clone --depth 1 https://github.com/rithikathena-cmyk/MCP-Server-Builder\n# See source for mcpServers config block"
+}

@@ -1,6 +1,6 @@
 {
   "name": "mcp-api-server",
-  "description": "MCP API Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Rishavv007/MCP-API-Server",
   "source_url": "https://mcp.so/server/MCP-API-Server/Rishavv007",
   "install": "# git clone --depth 1 https://mcp.so/server/MCP-API-Server/Rishavv007\n# See source for mcpServers config block"

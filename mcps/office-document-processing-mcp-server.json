@@ -1,0 +1,7 @@
+{
+  "name": "office-document-processing-mcp-server",
+  "description": "Enables creation and editing of Word, Excel, and PowerPoint documents within MCP clients through AI assistants.",
+  "source_repo": "iflow-mcp/thewdy-office-editor-mcp",
+  "source_url": "https://github.com/iflow-mcp/thewdy-office-editor-mcp",
+  "install": "npx -y thewdy-office-editor-mcp"
+}

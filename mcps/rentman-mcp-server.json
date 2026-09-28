@@ -1,0 +1,7 @@
+{
+  "name": "rentman-mcp-server",
+  "description": "Provides live access to Rentman account resources including projects, equipment, contacts, and crew through natural language queries via ChatGPT and Claude.",
+  "source_repo": "jonnynguyen528-art/Rentman",
+  "source_url": "https://github.com/jonnynguyen528-art/Rentman",
+  "install": "# git clone --depth 1 https://github.com/jonnynguyen528-art/Rentman\n# See source for mcpServers config block"
+}

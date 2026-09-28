@@ -1,0 +1,7 @@
+{
+  "name": "deferno-mcp-server",
+  "description": "Exposes the Deferno task-manager backend to AI agents, enabling them to read, create, update, and manage tasks, habits, chores, events, and daily plans.",
+  "source_repo": "Circuit-Stitch/defernowork-mcp",
+  "source_url": "https://github.com/Circuit-Stitch/defernowork-mcp",
+  "install": "npx -y defernowork-mcp"
+}

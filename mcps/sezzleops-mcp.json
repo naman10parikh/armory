@@ -1,0 +1,7 @@
+{
+  "name": "sezzleops-mcp",
+  "description": "Enables safe Sezzle merchant operations with mutation previews, explicit approval gates, settlement reconciliation, webhook verification, and integration diagnostics.",
+  "source_repo": "onatozmenn/sezzle-merchant-mcp",
+  "source_url": "https://github.com/onatozmenn/sezzle-merchant-mcp",
+  "install": "npx -y sezzle-merchant-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "threads-scheduler-mcp",
+  "description": "A local-first MCP server for reading, planning, scheduling, and publishing Meta Threads posts, with OAuth and Keychain integration.",
+  "source_repo": "ElvisGoodluck/treads-mcp",
+  "source_url": "https://github.com/ElvisGoodluck/treads-mcp",
+  "install": "npx -y treads-mcp"
+}

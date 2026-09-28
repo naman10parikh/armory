@@ -1,0 +1,7 @@
+{
+  "name": "oreo-pudding",
+  "description": "Enables LLM clients to interact with Apple Calendar (iCloud) via CalDAV, supporting listing calendars, retrieving, creating, updating, and moving events.",
+  "source_repo": "div0ky/oreo-pudding",
+  "source_url": "https://github.com/div0ky/oreo-pudding",
+  "install": "# git clone --depth 1 https://github.com/div0ky/oreo-pudding\n# See source for mcpServers config block"
+}

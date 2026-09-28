@@ -1,0 +1,7 @@
+{
+  "name": "mcp-minecraft-forge",
+  "description": "MCP server for Forge Minecraft modding documentation. Gives AI assistants direct access to Forge docs with structured search results.",
+  "source_repo": "Hayremyt/mcp-minecraft-forge",
+  "source_url": "https://github.com/Hayremyt/mcp-minecraft-forge",
+  "install": "# git clone --depth 1 https://github.com/Hayremyt/mcp-minecraft-forge\n# See source for mcpServers config block"
+}

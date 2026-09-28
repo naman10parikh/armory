@@ -1,0 +1,7 @@
+{
+  "name": "community-bot",
+  "description": "MCP server that provides tools to search and retrieve skills, badges, and evidence from the Gaia Skill Tree registry.",
+  "source_repo": "gaia-research/community-bot",
+  "source_url": "https://github.com/gaia-research/community-bot",
+  "install": "# git clone --depth 1 https://github.com/gaia-research/community-bot\n# See source for mcpServers config block"
+}

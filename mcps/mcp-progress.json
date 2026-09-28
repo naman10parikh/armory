@@ -1,0 +1,7 @@
+{
+  "name": "mcp-progress",
+  "description": "MCP server providing notifications and progress tracking for long-running operations.",
+  "source_repo": "jaume-ferrarons/mcp-progress",
+  "source_url": "https://github.com/jaume-ferrarons/mcp-progress",
+  "install": "# git clone --depth 1 https://github.com/jaume-ferrarons/mcp-progress\n# See source for mcpServers config block"
+}

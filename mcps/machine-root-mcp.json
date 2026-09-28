@@ -1,0 +1,7 @@
+{
+  "name": "machine-root-mcp",
+  "description": "A self-hosted MCP server that gives AI coding assistants direct shell access to your local machine, enabling execution of arbitrary bash commands for development workflows.",
+  "source_repo": "tusharnain/machine-root-mcp",
+  "source_url": "https://github.com/tusharnain/machine-root-mcp",
+  "install": "npx -y machine-root-mcp"
+}

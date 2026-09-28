@@ -1,0 +1,7 @@
+{
+  "name": "bybit-ws",
+  "description": "An MCP server that enables AI agents to scan the market, manage positions, and retrieve trading metrics for Bybit through natural language commands.",
+  "source_repo": "poliakarmai/bybit-ws",
+  "source_url": "https://github.com/poliakarmai/bybit-ws",
+  "install": "# git clone --depth 1 https://github.com/poliakarmai/bybit-ws\n# See source for mcpServers config block"
+}

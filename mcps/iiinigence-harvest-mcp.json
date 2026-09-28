@@ -1,0 +1,7 @@
+{
+  "name": "iiinigence-harvest-mcp",
+  "description": "MCP server for Harvest time tracking, enabling users to manage timers, log time, and generate reports through natural language.",
+  "source_repo": "iiinigence/harvest-mcp",
+  "source_url": "https://github.com/iiinigence/harvest-mcp",
+  "install": "npx -y harvest-mcp"
+}

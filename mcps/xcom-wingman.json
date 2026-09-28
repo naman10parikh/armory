@@ -1,0 +1,7 @@
+{
+  "name": "xcom-wingman",
+  "description": "A local MCP server enabling tactical advisors to semantically and keyword search XCOM 2 strategy guides and game configuration files for base-building, combat, and soldier build decisions.",
+  "source_repo": "MrWhilhelmSan/Xcom2Wingman",
+  "source_url": "https://github.com/MrWhilhelmSan/Xcom2Wingman",
+  "install": "# git clone --depth 1 https://github.com/MrWhilhelmSan/Xcom2Wingman\n# See source for mcpServers config block"
+}

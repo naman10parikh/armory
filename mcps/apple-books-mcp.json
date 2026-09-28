@@ -1,0 +1,7 @@
+{
+  "name": "apple-books-mcp",
+  "description": "Enables AI clients to read and write local Apple Books library, collections, and annotations. Supports searching, exporting, and modifying books and highlights via MCP tools.",
+  "source_repo": "ragmha/apple-books-mcp",
+  "source_url": "https://github.com/ragmha/apple-books-mcp",
+  "install": "npx -y apple-books-mcp"
+}

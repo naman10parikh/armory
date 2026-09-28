@@ -1,0 +1,7 @@
+{
+  "name": "nmap-mcp-server",
+  "description": "An MCP server that provides Nmap scanning tools such as ping, port scans, service discovery, and SMB share enumeration, running inside a Docker container for isolation.",
+  "source_repo": "jarrodcoulter/nmap-mcp-server",
+  "source_url": "https://github.com/jarrodcoulter/nmap-mcp-server",
+  "install": "npx -y nmap-mcp-server"
+}

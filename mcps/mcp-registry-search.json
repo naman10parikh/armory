@@ -1,0 +1,7 @@
+{
+  "name": "mcp-registry-search",
+  "description": "Enables semantic and full-text search over the official Model Context Protocol registry to discover MCP servers for integration.",
+  "source_repo": "lastmile-ai/mcp-registry-search",
+  "source_url": "https://github.com/lastmile-ai/mcp-registry-search",
+  "install": "# git clone --depth 1 https://github.com/lastmile-ai/mcp-registry-search\n# See source for mcpServers config block"
+}

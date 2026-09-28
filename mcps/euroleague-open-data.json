@@ -1,0 +1,7 @@
+{
+  "name": "euroleague-open-data",
+  "description": "An MCP server that lets an LLM query a DuckDB warehouse of EuroLeague and EuroCup basketball data in natural language, offering tools for player and team stats, shot charts, boxscores, and fantasy draft analysis without contacting upstream APIs.",
+  "source_repo": "McNews11/euroleague-open-data",
+  "source_url": "https://github.com/McNews11/euroleague-open-data",
+  "install": "# git clone --depth 1 https://github.com/McNews11/euroleague-open-data\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ilystics-mcp",
+  "description": "This repository is the public manifest for the hosted Vibe Springs MCP server. The server runs at https://vibesprings.net/mcp — there is nothing to install or build. Connect directly over Streamable HTTP. 🌐 Endpoint: https://vibesprings.net/mcp (Streamable HTTP, stateless) 🧰 22 tools — 2 free, 20",
+  "source_repo": "chrispy90/vibesprings-mcp",
+  "source_url": "https://github.com/chrispy90/vibesprings-mcp",
+  "install": "npx -y vibesprings-mcp"
+}

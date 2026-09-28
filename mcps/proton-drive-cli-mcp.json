@@ -1,0 +1,7 @@
+{
+  "name": "proton-drive-cli-mcp",
+  "description": "Manage Proton Drive from Claude, Codex, VS Code/Copilot, and any MCP client through Proton's official CLI. Authentication and encrypted Drive behavior stay with Proton's tooling.",
+  "source_repo": "borealstack/proton-drive-cli-mcp",
+  "source_url": "https://github.com/borealstack/proton-drive-cli-mcp",
+  "install": "npx -y proton-drive-cli-mcp"
+}

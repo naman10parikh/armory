@@ -1,0 +1,7 @@
+{
+  "name": "workbench-mcp",
+  "description": "workbench-mcp is a Python FastMCP server for controlled local workspace inspection, bounded file reads/searches, guarded text patching, allowlisted test execution, read-only Git status, approved artifact collection, and workspace diagnostics.",
+  "source_repo": "bhawnapannu2701/workbench-mcp",
+  "source_url": "https://github.com/bhawnapannu2701/workbench-mcp",
+  "install": "npx -y workbench-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jira-local-mcp",
+  "description": "Local MCP server for Jira Server/Data Center providing read-only tools and queued write operations that require manual approval via a local web UI.",
+  "source_repo": "LittleWhiteMouse-233/Jira-local-MCP",
+  "source_url": "https://github.com/LittleWhiteMouse-233/Jira-local-MCP",
+  "install": "npx -y Jira-local-MCP"
+}

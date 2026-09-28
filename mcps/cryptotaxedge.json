@@ -1,0 +1,7 @@
+{
+  "name": "cryptotaxedge",
+  "description": "US tax classification for on-chain transactions: tx hash in → canonical category, tax treatment, confidence, and review flags out. 80+ chains.",
+  "source_repo": "sturs49/cryptotaxedge-mcp",
+  "source_url": "https://github.com/sturs49/cryptotaxedge-mcp",
+  "install": "npx -y cryptotaxedge-mcp"
+}

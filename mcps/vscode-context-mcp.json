@@ -1,0 +1,7 @@
+{
+  "name": "vscode-context-mcp",
+  "description": "A Model Context Protocol (MCP) server that provides VSCode context and filesystem operations for AI assistants.",
+  "source_repo": "vilasone455/vscode-context-mcp",
+  "source_url": "https://github.com/vilasone455/vscode-context-mcp",
+  "install": "npx -y vscode-context-mcp"
+}

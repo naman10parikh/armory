@@ -1,0 +1,7 @@
+{
+  "name": "tigo-energy-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides comprehensive access to Tigo Energy solar system data and analytics. It enables AI assistants to interact with your Tigo solar monitoring system to retrieve production data, performance metrics, system health information, and maintenance insights.",
+  "source_repo": "matt-dreyer/Tigo_MCP_server",
+  "source_url": "https://github.com/matt-dreyer/Tigo_MCP_server",
+  "install": "npx -y Tigo_MCP_server"
+}

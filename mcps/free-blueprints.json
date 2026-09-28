@@ -1,0 +1,7 @@
+{
+  "name": "free-blueprints",
+  "description": "Enables deploying pre-built AI agent blueprints for RFx procurement and employee onboarding, with no signup or API key required.",
+  "source_repo": "agent-blueprint/free-blueprints",
+  "source_url": "https://github.com/agent-blueprint/free-blueprints",
+  "install": "# git clone --depth 1 https://github.com/agent-blueprint/free-blueprints\n# See source for mcpServers config block"
+}

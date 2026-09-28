@@ -1,0 +1,7 @@
+{
+  "name": "voltageinputmcp",
+  "description": "Enables a frontier model to drive a desktop at input speed by delegating rapid sequences of keyboard and mouse actions to small local models running via a state-machine playbook, without per-action round-trips.",
+  "source_repo": "casualkre/voltage-input-mcp",
+  "source_url": "https://github.com/casualkre/voltage-input-mcp",
+  "install": "npx -y voltage-input-mcp"
+}

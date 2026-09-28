@@ -1,0 +1,7 @@
+{
+  "name": "smartbw-mcp",
+  "description": "Enables AI agents to securely retrieve passwords, API keys, and other items from a Vaultwarden/Bitwarden vault using MCP tools with fuzzy search and caching.",
+  "source_repo": "ocoj/smartbw-mcp",
+  "source_url": "https://github.com/ocoj/smartbw-mcp",
+  "install": "npx -y smartbw-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "freemodel-mcp",
+  "description": "Routes tasks to the optimal AI model based on task type and benchmark scores across 25+ platforms. Automatically selects the best model for coding, reasoning, writing, and more using public benchmark data.",
+  "source_repo": "yummy342/freemodel-mcp",
+  "source_url": "https://github.com/yummy342/freemodel-mcp",
+  "install": "npx -y freemodel-mcp"
+}

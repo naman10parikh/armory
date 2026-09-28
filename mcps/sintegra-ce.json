@@ -1,0 +1,7 @@
+{
+  "name": "sintegra-ce",
+  "description": "Consulta a SINTEGRA do Ceará em fonte oficial via MCP, com uma ferramenta de leitura para verificar situação cadastral de contribuintes.",
+  "source_repo": "mcp-dir/sintegra_ce-mcp",
+  "source_url": "https://github.com/mcp-dir/sintegra_ce-mcp",
+  "install": "npx -y sintegra_ce-mcp"
+}

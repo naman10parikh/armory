@@ -1,0 +1,7 @@
+{
+  "name": "x402-mcp-demo",
+  "description": "A minimal demo of the x402 payment protocol protecting an MCP tool endpoint, showing how to charge for MCP tools using real 402 rejections and testnet payments.",
+  "source_repo": "Thinkflow-ro/x402-mcp-demo",
+  "source_url": "https://github.com/Thinkflow-ro/x402-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/Thinkflow-ro/x402-mcp-demo\n# See source for mcpServers config block"
+}

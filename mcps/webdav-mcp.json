@@ -1,0 +1,7 @@
+{
+  "name": "webdav-mcp",
+  "description": "Provides 8 WebDAV file operations as MCP tools for AI agents to interact with remote WebDAV servers.",
+  "source_repo": "vernonstinebaker/webdav-mcp",
+  "source_url": "https://github.com/vernonstinebaker/webdav-mcp",
+  "install": "npx -y webdav-mcp"
+}

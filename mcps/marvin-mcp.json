@@ -1,0 +1,7 @@
+{
+  "name": "marvin-mcp",
+  "description": "Official Model Context Protocol server for Marvin CMS, enabling AI clients to read workspace info, entries, collections, assets, and resources via tools, resources, and prompts.",
+  "source_repo": "InnerOpen/marvin-mcp",
+  "source_url": "https://github.com/InnerOpen/marvin-mcp",
+  "install": "npx -y marvin-mcp"
+}

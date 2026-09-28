@@ -1,0 +1,7 @@
+{
+  "name": "fastmcp-webinar-demo-server",
+  "description": "An MCP server with six tools including web search, URL fetching, math calculation, and note management. Designed for a live-coding demo integrating FastMCP with LangGraph ReAct agents.",
+  "source_repo": "rabia-s/FastMCP-Webinar",
+  "source_url": "https://github.com/rabia-s/FastMCP-Webinar",
+  "install": "# git clone --depth 1 https://github.com/rabia-s/FastMCP-Webinar\n# See source for mcpServers config block"
+}

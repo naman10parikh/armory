@@ -1,0 +1,7 @@
+{
+  "name": "der-pr-certid-o-negativa-de-d-bitos-por-placa",
+  "description": "Enables querying negative debt certificates (Certidão Negativa de Débitos) from DER PR by vehicle license plate, using an official source. It's a read-only, hosted MCP server that works with any MCP client.",
+  "source_repo": "mcp-dir/der_pr_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/der_pr_certidao_debitos-mcp",
+  "install": "npx -y der_pr_certidao_debitos-mcp"
+}

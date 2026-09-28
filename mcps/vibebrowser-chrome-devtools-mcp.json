@@ -1,0 +1,7 @@
+{
+  "name": "vibebrowser-chrome-devtools-mcp",
+  "description": "A fork of Chrome DevTools MCP that adds Streamable HTTP transport for multiple AI agents to concurrently control and inspect a live Chrome browser via the Model Context Protocol.",
+  "source_repo": "OpenCodeEngineer/chrome-devtools-mcp",
+  "source_url": "https://github.com/OpenCodeEngineer/chrome-devtools-mcp",
+  "install": "npx -y chrome-devtools-mcp"
+}

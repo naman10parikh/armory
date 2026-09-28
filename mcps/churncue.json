@@ -1,0 +1,7 @@
+{
+  "name": "churncue",
+  "description": "Production-oriented customer-retention intelligence that uses deterministic machine learning to predict churn and generate prioritized rescue reports, governed through MCP tools.",
+  "source_repo": "Bhaktabahadurthapa/ChurnCue",
+  "source_url": "https://github.com/Bhaktabahadurthapa/ChurnCue",
+  "install": "# git clone --depth 1 https://github.com/Bhaktabahadurthapa/ChurnCue\n# See source for mcpServers config block"
+}

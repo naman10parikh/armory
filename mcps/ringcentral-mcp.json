@@ -1,0 +1,7 @@
+{
+  "name": "ringcentral-mcp",
+  "description": "Enables interaction with RingCentral phone system data, including account info, extensions, presence, call queues, contacts, and call logs/recordings, through MCP tools.",
+  "source_repo": "MSPbotsAI/ringcentral-mcp",
+  "source_url": "https://github.com/MSPbotsAI/ringcentral-mcp",
+  "install": "npx -y ringcentral-mcp"
+}

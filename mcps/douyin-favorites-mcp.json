@@ -1,0 +1,7 @@
+{
+  "name": "douyin-favorites-mcp",
+  "description": "MCP server that reads your personal Douyin favorites and collection folders via a logged-in browser session, providing tools to list and retrieve video/collection data for AI assistants.",
+  "source_repo": "mlbb229229-create/douyin-favorites-mcp",
+  "source_url": "https://github.com/mlbb229229-create/douyin-favorites-mcp",
+  "install": "npx -y douyin-favorites-mcp"
+}

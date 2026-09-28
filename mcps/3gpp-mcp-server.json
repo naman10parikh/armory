@@ -1,0 +1,7 @@
+{
+  "name": "3gpp-mcp-server",
+  "description": "Exposes 3GPP Release 18 OpenAPI specifications as tools for AI assistants, enabling querying and searching of 5G network function APIs via natural language.",
+  "source_repo": "gholtzap/3gpp-mcp-5g",
+  "source_url": "https://github.com/gholtzap/3gpp-mcp-5g",
+  "install": "# git clone --depth 1 https://github.com/gholtzap/3gpp-mcp-5g\n# See source for mcpServers config block"
+}

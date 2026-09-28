@@ -1,0 +1,7 @@
+{
+  "name": "agentic-research",
+  "description": "Enables AI agents to perform deep web research by searching, fetching, chunking, retrieving, and synthesizing cited answers from exact source passages via a deep_research tool.",
+  "source_repo": "abhilash2429/agentic-research",
+  "source_url": "https://github.com/abhilash2429/agentic-research",
+  "install": "# git clone --depth 1 https://github.com/abhilash2429/agentic-research\n# See source for mcpServers config block"
+}

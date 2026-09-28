@@ -1,0 +1,7 @@
+{
+  "name": "opspilot-mcp-server",
+  "description": "An AI Operations Investigation MCP server that enables LLMs to investigate order fulfillment incidents by correlating data across independent services using predefined scenarios.",
+  "source_repo": "suhas-developer07/opspilot-mcp",
+  "source_url": "https://github.com/suhas-developer07/opspilot-mcp",
+  "install": "npx -y opspilot-mcp"
+}

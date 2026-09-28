@@ -1,0 +1,7 @@
+{
+  "name": "google-maps-scraper",
+  "description": "Give your AI agent live Google Maps search, review, and photo data through one secure MCP connection.",
+  "source_repo": "GMapsExtractor/Google-Maps-Scraper-MCP-server",
+  "source_url": "https://github.com/GMapsExtractor/Google-Maps-Scraper-MCP-server",
+  "install": "npx -y Google-Maps-Scraper-MCP-server"
+}

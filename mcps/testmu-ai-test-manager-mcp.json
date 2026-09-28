@@ -1,0 +1,7 @@
+{
+  "name": "testmu-ai-test-manager-mcp",
+  "description": "Enables management of TestMu AI test projects, test cases, test runs, and integration with Jira, HyperExecute, and AI insights through natural language.",
+  "source_repo": "prakhar-gahlot/TestMu-AI-Test-Manager-MCP",
+  "source_url": "https://github.com/prakhar-gahlot/TestMu-AI-Test-Manager-MCP",
+  "install": "npx -y TestMu-AI-Test-Manager-MCP"
+}

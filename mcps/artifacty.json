@@ -1,0 +1,7 @@
+{
+  "name": "artifacty",
+  "description": "A local, agent-to-agent artifact exchange for LLM workflows. Enables MCP-capable tools like Claude, Codex, and Gemini to publish, list, read, update, and continue from artifacts without copying content through chat.",
+  "source_repo": "raeseoklee/artifacty",
+  "source_url": "https://github.com/raeseoklee/artifacty",
+  "install": "# git clone --depth 1 https://github.com/raeseoklee/artifacty\n# See source for mcpServers config block"
+}

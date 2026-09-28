@@ -1,0 +1,7 @@
+{
+  "name": "taskwarrior-mcp",
+  "description": "Enables natural language interaction with Taskwarrior tasks through the MCP. Supports project-scoped task management including adding, searching, modifying, completing, and annotating tasks.",
+  "source_repo": "KaiErikNiermann/taskwarrior-mcp",
+  "source_url": "https://github.com/KaiErikNiermann/taskwarrior-mcp",
+  "install": "npx -y taskwarrior-mcp"
+}

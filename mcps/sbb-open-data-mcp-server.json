@@ -1,0 +1,7 @@
+{
+  "name": "sbb-open-data-mcp-server",
+  "description": "An MCP server for Swiss Federal Railways (SBB) open data, enabling AI models to query real-time disruptions, passenger frequencies, station details, and more without an API key.",
+  "source_repo": "malkreide/sbb-opendata-mcp",
+  "source_url": "https://github.com/malkreide/sbb-opendata-mcp",
+  "install": "npx -y sbb-opendata-mcp"
+}

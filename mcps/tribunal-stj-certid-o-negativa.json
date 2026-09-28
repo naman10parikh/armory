@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-stj-certid-o-negativa",
+  "description": "Consulta certidões negativas do Tribunal STJ em fonte oficial, com ferramenta somente leitura. Funciona com qualquer cliente MCP via HTTP.",
+  "source_repo": "mcp-dir/tribunal_stj_certidao_negativa-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_stj_certidao_negativa-mcp",
+  "install": "npx -y tribunal_stj_certidao_negativa-mcp"
+}

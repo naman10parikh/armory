@@ -1,0 +1,7 @@
+{
+  "name": "data-360-mcp-server",
+  "description": "Enables natural-language-driven exploration, querying, and full configuration management of Salesforce Data Cloud / Data 360 via MCP.",
+  "source_repo": "pradipsksk/Data360-MCP",
+  "source_url": "https://github.com/pradipsksk/Data360-MCP",
+  "install": "npx -y Data360-MCP"
+}

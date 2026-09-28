@@ -1,0 +1,7 @@
+{
+  "name": "test-coverage-mcp",
+  "description": "MCP server that provides instant, token-efficient test coverage data for any programming language, allowing agents to query coverage summaries and track session progress.",
+  "source_repo": "goldbergyoni/test-coverage-mcp",
+  "source_url": "https://github.com/goldbergyoni/test-coverage-mcp",
+  "install": "npx -y test-coverage-mcp"
+}

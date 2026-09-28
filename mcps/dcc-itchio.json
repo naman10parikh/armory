@@ -1,0 +1,7 @@
+{
+  "name": "dcc-itchio",
+  "description": "Enables secure acquisition of itch.io game assets via official RSS feeds and authenticated Butler daemon downloads, and preview-gated publishing of game builds with hash-bound receipts and license verification.",
+  "source_repo": "dcc-mcp/dcc-itchio",
+  "source_url": "https://github.com/dcc-mcp/dcc-itchio",
+  "install": "# git clone --depth 1 https://github.com/dcc-mcp/dcc-itchio\n# See source for mcpServers config block"
+}

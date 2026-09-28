@@ -1,0 +1,7 @@
+{
+  "name": "intune-assignment-checker-mcp",
+  "description": "A local, read-only MCP server that inspects and explains Microsoft Intune assignments through Microsoft Graph /beta, with delegated sign-in and secure token caching.",
+  "source_repo": "ugurkocde/IntuneAssignmentChecker-MCP",
+  "source_url": "https://github.com/ugurkocde/IntuneAssignmentChecker-MCP",
+  "install": "npx -y IntuneAssignmentChecker-MCP"
+}

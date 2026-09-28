@@ -1,0 +1,7 @@
+{
+  "name": "microstructure-mcp",
+  "description": "Computes structured market-structure features (liquidity zones, fair value gaps, order blocks, break of structure) from live Bybit data and exposes them as typed MCP tools for AI agents.",
+  "source_repo": "Rustamovppl/microstructure-mcp",
+  "source_url": "https://github.com/Rustamovppl/microstructure-mcp",
+  "install": "npx -y microstructure-mcp"
+}

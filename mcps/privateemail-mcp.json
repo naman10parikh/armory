@@ -1,0 +1,7 @@
+{
+  "name": "privateemail-mcp",
+  "description": "Enables reading, searching, and sending emails through a Namecheap PrivateEmail mailbox.",
+  "source_repo": "admingsph/privateemail-mcp",
+  "source_url": "https://github.com/admingsph/privateemail-mcp",
+  "install": "npx -y privateemail-mcp"
+}

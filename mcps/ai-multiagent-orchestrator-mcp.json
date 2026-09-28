@@ -1,0 +1,7 @@
+{
+  "name": "ai-multiagent-orchestrator-mcp",
+  "description": "MCP server that coordinates multiple AI specialists (SQL database, document RAG, and web research) using LangGraph, routing each question to the relevant agents and synthesizing their responses into a single answer with honest confidence flags.",
+  "source_repo": "rajmyagentit-del/AI-MULTIAGENT-ARCHESTRATOR",
+  "source_url": "https://github.com/rajmyagentit-del/AI-MULTIAGENT-ARCHESTRATOR",
+  "install": "# git clone --depth 1 https://github.com/rajmyagentit-del/AI-MULTIAGENT-ARCHESTRATOR\n# See source for mcpServers config block"
+}

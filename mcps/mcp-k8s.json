@@ -1,0 +1,7 @@
+{
+  "name": "mcp-k8s",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/mcp-k8s",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-k8s\n# See source for mcpServers config block"
+}

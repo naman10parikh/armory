@@ -1,0 +1,7 @@
+{
+  "name": "animai",
+  "description": "Enables AI agents to search for and fetch pre-vetted, production-safe 3D and motion components (React Three Fiber & GSAP) for injection into Next.js apps via AST-safe edits.",
+  "source_repo": "Hajjy22/animai",
+  "source_url": "https://github.com/Hajjy22/animai",
+  "install": "# git clone --depth 1 https://github.com/Hajjy22/animai\n# See source for mcpServers config block"
+}

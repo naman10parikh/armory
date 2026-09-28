@@ -1,0 +1,7 @@
+{
+  "name": "geospatial-tools-mcp-server",
+  "description": "Provides 15 geospatial utility tools for AI agents, covering coordinate transformation, spatial data validation, elevation/terrain, viewshed analysis, and drone flight planning.",
+  "source_repo": "gifro10/geospatial-tools-mcp",
+  "source_url": "https://github.com/gifro10/geospatial-tools-mcp",
+  "install": "npx -y geospatial-tools-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sintegra-cadastros-estaduais",
+  "description": "MCP server for consulting Brazilian state taxpayer registrations (Sintegra) using CPF/CNPJ, state registration, and UF. It provides read-only, pay-per-use access via hosted HTTP MCP, compatible with any MCP client.",
+  "source_repo": "mcp-dir/sintegra-mcp",
+  "source_url": "https://github.com/mcp-dir/sintegra-mcp",
+  "install": "npx -y sintegra-mcp"
+}

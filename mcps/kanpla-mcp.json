@@ -1,0 +1,7 @@
+{
+  "name": "kanpla-mcp",
+  "description": "Unofficial read-only MCP server to log into Kanpla and read canteen menus using your account credentials.",
+  "source_repo": "diarmind/kanpla-mcp",
+  "source_url": "https://github.com/diarmind/kanpla-mcp",
+  "install": "npx -y kanpla-mcp"
+}

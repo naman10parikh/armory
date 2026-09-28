@@ -1,0 +1,7 @@
+{
+  "name": "ccgo-imager-mcp",
+  "description": "Enables Codex and Claude to generate or edit images using natural language via a CCGO image generation MCP key.",
+  "source_repo": "Maren-en/ccgo-imager-mcp",
+  "source_url": "https://github.com/Maren-en/ccgo-imager-mcp",
+  "install": "npx -y ccgo-imager-mcp"
+}

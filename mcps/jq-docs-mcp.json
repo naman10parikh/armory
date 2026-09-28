@@ -1,0 +1,7 @@
+{
+  "name": "jq-docs-mcp",
+  "description": "MCP server that provides AI with documentation for 221 JointQuant API functions and 2,479 data table fields, enabling accurate code generation without hallucination.",
+  "source_repo": "jiaweizhang1995/jq-docs-mcp",
+  "source_url": "https://github.com/jiaweizhang1995/jq-docs-mcp",
+  "install": "npx -y jq-docs-mcp"
+}

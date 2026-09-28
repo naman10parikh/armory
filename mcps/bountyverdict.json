@@ -1,0 +1,7 @@
+{
+  "name": "bountyverdict",
+  "description": "MCP server offering seven paid bounded decision APIs for autonomous coding agents, including diagnosing GitHub Actions failures, classifying flaky tests, auditing skills, and comparing bounties, all settled via x402 Base USDC.",
+  "source_repo": "Mimirs402/bountyverdict",
+  "source_url": "https://github.com/Mimirs402/bountyverdict",
+  "install": "# git clone --depth 1 https://github.com/Mimirs402/bountyverdict\n# See source for mcpServers config block"
+}

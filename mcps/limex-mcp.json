@@ -1,0 +1,7 @@
+{
+  "name": "limex-mcp",
+  "description": "Enables research queries and billing management through the Limex hosted API.",
+  "source_repo": "Limex-HQ/limex-mcp",
+  "source_url": "https://github.com/Limex-HQ/limex-mcp",
+  "install": "npx -y limex-mcp"
+}

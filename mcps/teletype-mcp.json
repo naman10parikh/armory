@@ -1,0 +1,7 @@
+{
+  "name": "teletype-mcp",
+  "description": "Local MCP server for managing Teletype.in publications. Enables creating, editing, and publishing articles through natural language, with support for draft-only or auto-publish modes.",
+  "source_repo": "shaekhovismagil-bit/teletype-mcp",
+  "source_url": "https://github.com/shaekhovismagil-bit/teletype-mcp",
+  "install": "npx -y teletype-mcp"
+}

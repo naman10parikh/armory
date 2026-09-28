@@ -1,0 +1,7 @@
+{
+  "name": "tldraw-mcp-app",
+  "description": "Provides a standalone MCP server for tldraw diagrams, enabling clients to create, edit, and persist multiple canvases over Streamable HTTP with semantic protocol v2.",
+  "source_repo": "ZunbaRan/tldraw-mcp-app",
+  "source_url": "https://github.com/ZunbaRan/tldraw-mcp-app",
+  "install": "# git clone --depth 1 https://github.com/ZunbaRan/tldraw-mcp-app\n# See source for mcpServers config block"
+}

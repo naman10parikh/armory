@@ -1,0 +1,7 @@
+{
+  "name": "techword-translator-mcp-server",
+  "description": "Provides translation services for technical terms across English, Spanish, and German via MCP tools for search and translation.",
+  "source_repo": "josego85/TechWordTranslatorMCP-Server",
+  "source_url": "https://github.com/josego85/TechWordTranslatorMCP-Server",
+  "install": "npx -y TechWordTranslatorMCP-Server"
+}

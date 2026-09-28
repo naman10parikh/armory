@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-sp-campinas-parcelas-iptu",
+  "description": "Allows AI assistants to query official IPTU (property tax) installment data from the Campinas city government, offering a read-only MCP tool with pay-per-use prepaid credits.",
+  "source_repo": "mcp-dir/pref_sp_campinas_iptu-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_sp_campinas_iptu-mcp",
+  "install": "npx -y pref_sp_campinas_iptu-mcp"
+}

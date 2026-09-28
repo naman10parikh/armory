@@ -1,0 +1,7 @@
+{
+  "name": "saas-alerts-mcp",
+  "description": "MCP server for Kaseya SaaS Alerts, providing tools to query security events, manage customers/users, handle devices, billing, reports, and partner settings via the External Partner API.",
+  "source_repo": "wyre-technology/saas-alerts-mcp",
+  "source_url": "https://github.com/wyre-technology/saas-alerts-mcp",
+  "install": "npx -y saas-alerts-mcp"
+}

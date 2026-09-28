@@ -1,0 +1,7 @@
+{
+  "name": "seoul-uncomfort-report-mcp",
+  "description": "MCP server for querying Seoul city's uncomfortable report statistics by sector, district, and year/month.",
+  "source_repo": "hlucent/seoul-uncomfort-report-mcp",
+  "source_url": "https://github.com/hlucent/seoul-uncomfort-report-mcp",
+  "install": "npx -y seoul-uncomfort-report-mcp"
+}

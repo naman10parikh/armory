@@ -1,0 +1,7 @@
+{
+  "name": "polybugger-mcp",
+  "description": "Multi-language MCP debugger for AI agents that supports Python, JavaScript/TypeScript, Go, Rust, and C/C++ with features like container debugging, session recovery, and watch expressions.",
+  "source_repo": "wilfoa/polybugger-mcp",
+  "source_url": "https://github.com/wilfoa/polybugger-mcp",
+  "install": "npx -y polybugger-mcp"
+}

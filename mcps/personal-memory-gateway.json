@@ -1,0 +1,7 @@
+{
+  "name": "personal-memory-gateway",
+  "description": "A privacy-first memory layer for AI that securely bridges local knowledge with AI assistants through MCP tools, with intelligent redaction and local vector database.",
+  "source_repo": "shubham-01-star/mcp-personal-memory-gateway",
+  "source_url": "https://github.com/shubham-01-star/mcp-personal-memory-gateway",
+  "install": "# git clone --depth 1 https://github.com/shubham-01-star/mcp-personal-memory-gateway\n# See source for mcpServers config block"
+}

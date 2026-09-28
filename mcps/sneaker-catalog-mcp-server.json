@@ -1,0 +1,7 @@
+{
+  "name": "sneaker-catalog-mcp-server",
+  "description": "Provides tools for searching a sneaker catalog (hybrid keyword and semantic search), retrieving product details, and checking inventory stock.",
+  "source_repo": "KeeperSolutions/stripe-academy-product-catalog",
+  "source_url": "https://github.com/KeeperSolutions/stripe-academy-product-catalog",
+  "install": "# git clone --depth 1 https://github.com/KeeperSolutions/stripe-academy-product-catalog\n# See source for mcpServers config block"
+}

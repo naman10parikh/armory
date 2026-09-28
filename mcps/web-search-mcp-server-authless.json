@@ -1,0 +1,7 @@
+{
+  "name": "web-search-mcp-server-authless",
+  "description": "Deployable remote MCP server on Cloudflare Workers without authentication, enabling custom tool integration with AI Playground and Claude Desktop.",
+  "source_repo": "dvc890/web-search-mcp-server-authless",
+  "source_url": "https://github.com/dvc890/web-search-mcp-server-authless",
+  "install": "# git clone --depth 1 https://github.com/dvc890/web-search-mcp-server-authless\n# See source for mcpServers config block"
+}

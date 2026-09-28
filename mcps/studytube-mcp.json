@@ -1,0 +1,7 @@
+{
+  "name": "studytube-mcp",
+  "description": "An MCP server that transforms YouTube educational videos into learning resources by extracting transcripts and generating summaries, notes, quizzes, and flashcards using AI.",
+  "source_repo": "Suganda25/StudyTube-MCP",
+  "source_url": "https://github.com/Suganda25/StudyTube-MCP",
+  "install": "npx -y StudyTube-MCP"
+}

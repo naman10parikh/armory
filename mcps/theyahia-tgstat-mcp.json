@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-tgstat-mcp",
+  "description": "MCP server for TGStat API that provides analytics for Telegram channels, including search, posts, statistics, mentions, and comparison across 8 tools.",
+  "source_repo": "theYahia/tgstat-mcp",
+  "source_url": "https://github.com/theYahia/tgstat-mcp",
+  "install": "npx -y tgstat-mcp"
+}

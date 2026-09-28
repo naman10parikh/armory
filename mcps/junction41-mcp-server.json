@@ -1,0 +1,7 @@
+{
+  "name": "junction41-mcp-server",
+  "description": "MCP server for the Junction41 platform, providing 125 tools for agent lifecycle, jobs, workspace, payments, bounties, and more, enabling LLMs to interact with Junction41.",
+  "source_repo": "autobb888/j41-sovagent-mcp-server",
+  "source_url": "https://github.com/autobb888/j41-sovagent-mcp-server",
+  "install": "npx -y j41-sovagent-mcp-server"
+}

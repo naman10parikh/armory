@@ -1,0 +1,7 @@
+{
+  "name": "oraclemcp",
+  "description": "Governed, least-privilege Oracle Database access for AI agents via the Model Context Protocol, enabling schema introspection, DDL, ad-hoc queries, and plan analysis in pure Rust.",
+  "source_repo": "MuhDur/oraclemcp",
+  "source_url": "https://github.com/MuhDur/oraclemcp",
+  "install": "# git clone --depth 1 https://github.com/MuhDur/oraclemcp\n# See source for mcpServers config block"
+}

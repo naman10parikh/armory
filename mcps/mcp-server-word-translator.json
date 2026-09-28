@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-word-translator",
+  "description": "Enables translating DOCX documents with the Google Cloud Translation API while preserving original formatting, styles, tables, images, and lists through direct XML manipulation. Supports validation, batching, streaming for large files, and translation status tracking.",
+  "source_repo": "Mavline/mcp-server_word-translator",
+  "source_url": "https://github.com/Mavline/mcp-server_word-translator",
+  "install": "# git clone --depth 1 https://github.com/Mavline/mcp-server_word-translator\n# See source for mcpServers config block"
+}

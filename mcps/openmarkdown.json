@@ -1,0 +1,7 @@
+{
+  "name": "openmarkdown",
+  "description": "Local-first Markdown editor whose MCP server lets a coding agent and a human co-edit the same .md file — it opens and reveals files in the editor and reads or section-edits their contents. Tools: open_file, reveal, read_section, write_section, wait_for_change.",
+  "source_repo": "OpenMarkdown-dev/OpenMarkdown-releases",
+  "source_url": "https://github.com/OpenMarkdown-dev/OpenMarkdown-releases",
+  "install": "# git clone --depth 1 https://github.com/OpenMarkdown-dev/OpenMarkdown-releases\n# See source for mcpServers config block"
+}

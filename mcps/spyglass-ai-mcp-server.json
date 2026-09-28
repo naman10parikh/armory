@@ -1,0 +1,7 @@
+{
+  "name": "spyglass-ai-mcp-server",
+  "description": "Enables LLMs to query telemetry data via the Spyglass AI agent, providing intelligent insights about application performance, errors, and bottlenecks.",
+  "source_repo": "Spyglass-AI/spyglass-mcp",
+  "source_url": "https://github.com/Spyglass-AI/spyglass-mcp",
+  "install": "npx -y spyglass-mcp"
+}

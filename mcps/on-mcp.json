@@ -1,0 +1,7 @@
+{
+  "name": "on-mcp",
+  "description": "Connect your Íon account to Claude, ChatGPT, and AI agents via Open Finance Brasil to query balances, statements, credit card bills, and investments in natural language. Read-only and regulated by the Central Bank.",
+  "source_repo": "mcp-dir/ion-mcp",
+  "source_url": "https://github.com/mcp-dir/ion-mcp",
+  "install": "npx -y ion-mcp"
+}

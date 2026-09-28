@@ -1,0 +1,7 @@
+{
+  "name": "biolab-mcp-server",
+  "description": "Unified MCP server providing AI-agent-ready access to AlphaFold, PubMed, ChEMBL, Ensembl, and 37+ scientific databases.",
+  "source_repo": "brahimbattou/biolab-mcp-server",
+  "source_url": "https://github.com/brahimbattou/biolab-mcp-server",
+  "install": "npx -y biolab-mcp-server"
+}

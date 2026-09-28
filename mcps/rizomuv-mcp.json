@@ -1,0 +1,7 @@
+{
+  "name": "rizomuv-mcp",
+  "description": "Enables natural language control of RizomUV for UV unwrapping tasks, including loading, cutting, unfolding, packing, and saving meshes via both live socket and CLI fallback.",
+  "source_repo": "fkrn75/rizomuv-mcp",
+  "source_url": "https://github.com/fkrn75/rizomuv-mcp",
+  "install": "npx -y rizomuv-mcp"
+}

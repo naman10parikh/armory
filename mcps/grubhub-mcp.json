@@ -1,0 +1,7 @@
+{
+  "name": "grubhub-mcp",
+  "description": "An MCP server for Grubhub that enables searching restaurants, browsing menus, building carts, checking out, and placing orders, with additional support for campus dining cards.",
+  "source_repo": "sawyershoemaker/grubhub-mcp",
+  "source_url": "https://github.com/sawyershoemaker/grubhub-mcp",
+  "install": "npx -y grubhub-mcp"
+}

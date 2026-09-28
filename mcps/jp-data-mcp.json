@@ -1,0 +1,7 @@
+{
+  "name": "jp-data-mcp",
+  "description": "MCP server for Japanese public business data, enabling AI agents to validate and look up corporate numbers, search bank/branch codes, and check national holidays. Runs locally with no telemetry; live corporate registry data requires a free NTA app ID.",
+  "source_repo": "kimotostudio/jp-data-mcp",
+  "source_url": "https://github.com/kimotostudio/jp-data-mcp",
+  "install": "npx -y jp-data-mcp"
+}

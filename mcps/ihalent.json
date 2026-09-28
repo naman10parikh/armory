@@ -1,0 +1,7 @@
+{
+  "name": "ihalent",
+  "description": "Turns Turkish public-tender result notices into structured records and provides analytics on firm history, discount distributions, and competition metrics via an MCP server.",
+  "source_repo": "gulmezeren2-byte/ihalent",
+  "source_url": "https://github.com/gulmezeren2-byte/ihalent",
+  "install": "# git clone --depth 1 https://github.com/gulmezeren2-byte/ihalent\n# See source for mcpServers config block"
+}

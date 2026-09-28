@@ -1,0 +1,7 @@
+{
+  "name": "wechat-official-studio-mcp-server",
+  "description": "A local MCP server that enables managing WeChat Official Account content through the logged-in web session, including reading published articles and analytics, uploading images, and creating drafts after explicit confirmation.",
+  "source_repo": "zero-times/wechat-official-studio-mcp",
+  "source_url": "https://github.com/zero-times/wechat-official-studio-mcp",
+  "install": "npx -y wechat-official-studio-mcp"
+}

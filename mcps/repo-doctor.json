@@ -1,0 +1,7 @@
+{
+  "name": "repo-doctor",
+  "description": "MCP server that produces scored, evidence-cited audits of public GitHub repos via tools for fetching metadata, reading files, scanning git history, and checking hygiene.",
+  "source_repo": "Infojitsu/repo-doctor",
+  "source_url": "https://github.com/Infojitsu/repo-doctor",
+  "install": "# git clone --depth 1 https://github.com/Infojitsu/repo-doctor\n# See source for mcpServers config block"
+}

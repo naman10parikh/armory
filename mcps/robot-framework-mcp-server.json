@@ -1,0 +1,7 @@
+{
+  "name": "robot-framework-mcp-server",
+  "description": "A local MCP server that parses Robot Framework output.xml files, scores and groups failures, and exposes structured triage data to Claude Desktop and Claude Code.",
+  "source_repo": "Matthew-M-King/robot-framework-mcp-server",
+  "source_url": "https://github.com/Matthew-M-King/robot-framework-mcp-server",
+  "install": "npx -y robot-framework-mcp-server"
+}

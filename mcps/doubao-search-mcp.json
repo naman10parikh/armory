@@ -1,0 +1,7 @@
+{
+  "name": "doubao-search-mcp",
+  "description": "MCP server for Doubao Search that enables real web search in any MCP client, backed by ByteDance-exclusive Chinese sources and the open web.",
+  "source_repo": "alchaincyf/doubao-search-mcp",
+  "source_url": "https://github.com/alchaincyf/doubao-search-mcp",
+  "install": "npx -y doubao-search-mcp"
+}

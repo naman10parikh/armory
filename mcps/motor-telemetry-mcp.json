@@ -1,0 +1,7 @@
+{
+  "name": "motor-telemetry-mcp",
+  "description": "Exposes industrial motor telemetry data to AI agents via MCP and REST, enabling natural-language queries about motor status, health, and alerts. Provides a single tool and resource for retrieving real-time motor metrics and escalating critical conditions.",
+  "source_repo": "0xcf02/motor-telemetry-mcp",
+  "source_url": "https://github.com/0xcf02/motor-telemetry-mcp",
+  "install": "npx -y motor-telemetry-mcp"
+}

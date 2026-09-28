@@ -1,0 +1,7 @@
+{
+  "name": "mcp-quickbooks",
+  "description": "Enables LLM agents to manage QuickBooks Online invoices, customers, and payments via typed tools with OAuth 2.1 authentication, rate limiting, and retries, plus read-only resources for company and receivables summaries.",
+  "source_repo": "amin-ale/mcp-quickbooks",
+  "source_url": "https://github.com/amin-ale/mcp-quickbooks",
+  "install": "# git clone --depth 1 https://github.com/amin-ale/mcp-quickbooks\n# See source for mcpServers config block"
+}

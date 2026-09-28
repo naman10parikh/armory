@@ -1,0 +1,7 @@
+{
+  "name": "posteahora-mcp",
+  "description": "Enables AI agents to create, schedule, and publish social media posts across Instagram, X/Twitter, LinkedIn, Threads, Facebook, and other platforms via the PosteAhora API.",
+  "source_repo": "posteahora/mcp",
+  "source_url": "https://github.com/posteahora/mcp",
+  "install": "# git clone --depth 1 https://github.com/posteahora/mcp\n# See source for mcpServers config block"
+}

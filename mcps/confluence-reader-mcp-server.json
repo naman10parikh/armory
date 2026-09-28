@@ -1,0 +1,7 @@
+{
+  "name": "confluence-reader-mcp-server",
+  "description": "Enables AI assistants to read Confluence Cloud pages as markdown, browse page trees, download image attachments, and diff content against local documentation.",
+  "source_repo": "satiyap/confluence-reader-mcp",
+  "source_url": "https://github.com/satiyap/confluence-reader-mcp",
+  "install": "npx -y confluence-reader-mcp"
+}

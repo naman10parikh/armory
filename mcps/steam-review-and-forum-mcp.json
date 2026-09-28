@@ -1,0 +1,7 @@
+{
+  "name": "steam-review-and-forum-mcp",
+  "description": "Enables exploring Steam store reviews and community discussion threads with server-side filtering, temporal analysis, and metadata context for understanding player sentiment and feedback beyond store page noise.",
+  "source_repo": "icue/SteamReviewAndForumMcp",
+  "source_url": "https://github.com/icue/SteamReviewAndForumMcp",
+  "install": "# git clone --depth 1 https://github.com/icue/SteamReviewAndForumMcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "commerce-layer-metrics-mcp-server",
+  "description": "Enables AI agents to query commerce metrics data such as orders, carts, and returns via breakdowns, stats, and searches through the Commerce Layer Metrics API.",
+  "source_repo": "commercelayer/mcp-server-metrics",
+  "source_url": "https://github.com/commercelayer/mcp-server-metrics",
+  "install": "# git clone --depth 1 https://github.com/commercelayer/mcp-server-metrics\n# See source for mcpServers config block"
+}

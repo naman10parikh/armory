@@ -1,0 +1,7 @@
+{
+  "name": "mspbots-forms-mcp",
+  "description": "MCP server for the MSPbots Forms/Survey API, enabling agents to create, publish, and manage surveys, share links, and analyze responses.",
+  "source_repo": "MSPbotsAI/mspbots-forms-mcp",
+  "source_url": "https://github.com/MSPbotsAI/mspbots-forms-mcp",
+  "install": "npx -y mspbots-forms-mcp"
+}

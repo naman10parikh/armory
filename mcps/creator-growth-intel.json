@@ -1,0 +1,7 @@
+{
+  "name": "creator-growth-intel",
+  "description": "MCP server that answers questions about creator marketing, influencer pricing, and app growth using a curated corpus of operator quotes with links, and explicitly flags when evidence is thin or absent.",
+  "source_repo": "dylanpakd-cyber/creator-growth-intel",
+  "source_url": "https://github.com/dylanpakd-cyber/creator-growth-intel",
+  "install": "# git clone --depth 1 https://github.com/dylanpakd-cyber/creator-growth-intel\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "unreal-mcp-ghost",
+  "description": "Enables AI clients to control Unreal Engine 5 editor for automated Blueprint authoring, level inspection, actor spawning, and other editor workflows via a local Python MCP server and UE plugin.",
+  "source_repo": "CrispyW0nton/Unreal-MCP-Ghost",
+  "source_url": "https://github.com/CrispyW0nton/Unreal-MCP-Ghost",
+  "install": "# git clone --depth 1 https://github.com/CrispyW0nton/Unreal-MCP-Ghost\n# See source for mcpServers config block"
+}

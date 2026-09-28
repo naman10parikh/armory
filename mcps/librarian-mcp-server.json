@@ -1,0 +1,7 @@
+{
+  "name": "librarian-mcp-server",
+  "description": "A local MCP server that gives AI agents structured access to a personal Obsidian knowledge vault, with semantic search, organization through Maps of Content, and git-backed history.",
+  "source_repo": "MasterWushi/librarian-mcp",
+  "source_url": "https://github.com/MasterWushi/librarian-mcp",
+  "install": "npx -y librarian-mcp"
+}

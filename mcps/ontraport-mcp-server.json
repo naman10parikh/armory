@@ -1,0 +1,7 @@
+{
+  "name": "ontraport-mcp-server",
+  "description": "Stateless Node.js service that exposes Ontraport CRM functionality as structured tools for AI agents via the Model Context Protocol.",
+  "source_repo": "landonray/Mcp-server",
+  "source_url": "https://github.com/landonray/Mcp-server",
+  "install": "# git clone --depth 1 https://github.com/landonray/Mcp-server\n# See source for mcpServers config block"
+}

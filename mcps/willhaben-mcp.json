@@ -1,0 +1,7 @@
+{
+  "name": "willhaben-mcp",
+  "description": "Enables searching Austria's largest classifieds marketplace (willhaben.at) for real estate, cars, jobs, and second-hand items via natural-language queries and structured filters, with full listing details.",
+  "source_repo": "aliildan/willhaben-mcp",
+  "source_url": "https://github.com/aliildan/willhaben-mcp",
+  "install": "npx -y willhaben-mcp"
+}

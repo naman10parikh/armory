@@ -1,0 +1,7 @@
+{
+  "name": "nfts-memory-mcp",
+  "description": "Self-hosted SQLite-backed memory server for Claude that syncs memories across claude.ai, Claude Desktop, and Claude Code via a single MCP server with OAuth.",
+  "source_repo": "newforesttech/nfts-memory-mcp",
+  "source_url": "https://github.com/newforesttech/nfts-memory-mcp",
+  "install": "npx -y nfts-memory-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "oracle-mcp-server",
+  "description": "A read-only MCP server for exploring and querying Oracle schemas safely. Provides tools for table listing, schema description, column search, and validated SELECT execution.",
+  "source_repo": "AlexandruDodita/Oracle-MCP",
+  "source_url": "https://github.com/AlexandruDodita/Oracle-MCP",
+  "install": "npx -y Oracle-MCP"
+}

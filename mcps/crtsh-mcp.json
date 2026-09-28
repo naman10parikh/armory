@@ -1,0 +1,7 @@
+{
+  "name": "crtsh-mcp",
+  "description": "Enables certificate transparency log search via crt.sh, allowing users to query SSL/TLS certificates, enumerate subdomains, and retrieve certificate details with no API key required.",
+  "source_repo": "Dthen/crtsh-mcp",
+  "source_url": "https://github.com/Dthen/crtsh-mcp",
+  "install": "npx -y crtsh-mcp"
+}

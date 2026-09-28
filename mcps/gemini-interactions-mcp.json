@@ -1,0 +1,7 @@
+{
+  "name": "gemini-interactions-mcp",
+  "description": "A FastMCP server for stateful Gemini conversations with automatic Google Search grounding.",
+  "source_repo": "DigiBugCat/gemini-interactions-mcp",
+  "source_url": "https://github.com/DigiBugCat/gemini-interactions-mcp",
+  "install": "npx -y gemini-interactions-mcp"
+}

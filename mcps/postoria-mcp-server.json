@@ -1,0 +1,7 @@
+{
+  "name": "postoria-mcp-server",
+  "description": "Enables MCP-compatible clients to create, schedule, queue, inspect, and delete Postoria posts through the Postoria Public API.",
+  "source_repo": "postoria-app/postoria-mcp-server",
+  "source_url": "https://github.com/postoria-app/postoria-mcp-server",
+  "install": "npx -y postoria-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kernelmind-mcp",
+  "description": "Enables AI agents to query Linux kernel source code, git history, LKML discussions, Patchwork patches, and documentation with evidence-ranked results, citations, and explicit assumptions or contradictions.",
+  "source_repo": "Reinazhard/kernelmind-mcp",
+  "source_url": "https://github.com/Reinazhard/kernelmind-mcp",
+  "install": "npx -y kernelmind-mcp"
+}

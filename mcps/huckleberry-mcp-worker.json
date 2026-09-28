@@ -1,0 +1,7 @@
+{
+  "name": "huckleberry-mcp-worker",
+  "description": "An always-on MCP server that lets AI assistants read and write sleep, feeding, diaper, and growth records for the Huckleberry baby-tracking app through a Cloudflare Worker using the Firebase REST API.",
+  "source_repo": "jcrispiniano/huckleberry-mcp-worker",
+  "source_url": "https://github.com/jcrispiniano/huckleberry-mcp-worker",
+  "install": "# git clone --depth 1 https://github.com/jcrispiniano/huckleberry-mcp-worker\n# See source for mcpServers config block"
+}

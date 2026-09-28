@@ -1,0 +1,7 @@
+{
+  "name": "pharma-mcp-server",
+  "description": "Enables drug safety, interactions, adverse events, and regulatory data queries using free sources like DrugBank, WHO, FDA FAERS, and more. Provides tools for checking drugs, interactions, adverse events, and searching across pharmaceutical databases.",
+  "source_repo": "rootsbymenda/pharma-mcp-server",
+  "source_url": "https://github.com/rootsbymenda/pharma-mcp-server",
+  "install": "npx -y pharma-mcp-server"
+}

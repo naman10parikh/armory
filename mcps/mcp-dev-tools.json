@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dev-tools",
+  "description": "Integrates AI into software development workflows by providing three MCP tools: code review checklists, conventional commit message generation, and API documentation formatting from docstrings. Connects to Claude Desktop and any MCP-compatible client.",
+  "source_repo": "SKeval/mcp-dev-tools",
+  "source_url": "https://github.com/SKeval/mcp-dev-tools",
+  "install": "# git clone --depth 1 https://github.com/SKeval/mcp-dev-tools\n# See source for mcpServers config block"
+}

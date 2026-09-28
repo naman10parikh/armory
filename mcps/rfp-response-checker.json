@@ -1,0 +1,7 @@
+{
+  "name": "rfp-response-checker",
+  "description": "Checks whether a supplier RFP response addresses each requirement explicitly stated by the buyer, using deterministic text rules for requirement extraction and coverage checking.",
+  "source_repo": "YanKe1816/rfp-response-checker",
+  "source_url": "https://github.com/YanKe1816/rfp-response-checker",
+  "install": "# git clone --depth 1 https://github.com/YanKe1816/rfp-response-checker\n# See source for mcpServers config block"
+}

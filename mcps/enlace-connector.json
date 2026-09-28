@@ -1,0 +1,7 @@
+{
+  "name": "enlace-connector",
+  "description": "Deploy Python functions as authenticated MCP connectors for Claude.ai and other MCP hosts, with pluggable OAuth and support for separate venvs for heavy dependencies.",
+  "source_repo": "i2mint/enlace_connector",
+  "source_url": "https://github.com/i2mint/enlace_connector",
+  "install": "# git clone --depth 1 https://github.com/i2mint/enlace_connector\n# See source for mcpServers config block"
+}

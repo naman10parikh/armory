@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-spain-payments-mcp",
+  "description": "Enables AI agents to accept payments in Spain via Stripe hosted checkout (cards, Apple Pay, Google Pay) through a stateless MCP server.",
+  "source_repo": "junter1989k-ai/spain-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/spain-payments-mcp",
+  "install": "npx -y spain-payments-mcp"
+}

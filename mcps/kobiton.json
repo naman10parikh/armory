@@ -1,0 +1,7 @@
+{
+  "name": "kobiton",
+  "description": "Enables mobile device management, app upload, automation session execution, and test result viewing through the Kobiton platform, integrated with AI coding assistants.",
+  "source_repo": "kobiton/automate",
+  "source_url": "https://github.com/kobiton/automate",
+  "install": "# git clone --depth 1 https://github.com/kobiton/automate\n# See source for mcpServers config block"
+}

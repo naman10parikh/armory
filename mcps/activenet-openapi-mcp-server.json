@@ -1,0 +1,7 @@
+{
+  "name": "activenet-openapi-mcp-server",
+  "description": "Enables AI agents to interact with ActiveNet OpenAPI services for managing organizations, activities, customers, facilities, and more.",
+  "source_repo": "globalpayments/an-mcp-server",
+  "source_url": "https://github.com/globalpayments/an-mcp-server",
+  "install": "npx -y an-mcp-server"
+}

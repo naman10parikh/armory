@@ -1,0 +1,7 @@
+{
+  "name": "grillme-mcp",
+  "description": "Decision stress-testing MCP server that injects a GRILL protocol into ChatGPT Web conversations, enabling read-only interrogation of plans, state tracking, and recommended answers for decision-making.",
+  "source_repo": "PuntoxPunto/GrillMe-mcp",
+  "source_url": "https://github.com/PuntoxPunto/GrillMe-mcp",
+  "install": "npx -y GrillMe-mcp"
+}

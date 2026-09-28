@@ -1,0 +1,7 @@
+{
+  "name": "wellness-cgm-mcp",
+  "description": "Local-first CGM MCP for AI agents: Dexcom Developer API and FreeStyle Libre via LibreLink Up.",
+  "source_repo": "davidmosiah/wellness-cgm-mcp",
+  "source_url": "https://github.com/davidmosiah/wellness-cgm-mcp",
+  "install": "npx -y wellness-cgm-mcp"
+}

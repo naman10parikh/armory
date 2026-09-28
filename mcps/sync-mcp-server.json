@@ -1,0 +1,7 @@
+{
+  "name": "sync-mcp-server",
+  "description": "Enables AI agents to create lipsync videos, manage assets, and check generation status via the Sync API.",
+  "source_repo": "synchronicity-labs/mcp-server",
+  "source_url": "https://github.com/synchronicity-labs/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/synchronicity-labs/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "splits-mcp-server",
+  "description": "Enables managing Splits transactions, accounts, signers, and authentication through natural language or AI assistants.",
+  "source_repo": "0xSplits/splits-cli",
+  "source_url": "https://github.com/0xSplits/splits-cli",
+  "install": "# git clone --depth 1 https://github.com/0xSplits/splits-cli\n# See source for mcpServers config block"
+}

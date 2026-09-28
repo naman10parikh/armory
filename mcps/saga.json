@@ -1,0 +1,7 @@
+{
+  "name": "saga",
+  "description": "A local-first MCP server for document ingestion and semantic search, providing tools to add, search, and retrieve documents, chunks, and code blocks.",
+  "source_repo": "maxinedotdev/saga",
+  "source_url": "https://github.com/maxinedotdev/saga",
+  "install": "# git clone --depth 1 https://github.com/maxinedotdev/saga\n# See source for mcpServers config block"
+}

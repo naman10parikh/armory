@@ -1,0 +1,7 @@
+{
+  "name": "employee-graph-mcp",
+  "description": "An MCP server that provides tools to query and analyze an employee knowledge graph in Neo4j, including semantic resume search, person similarity, and read-only Cypher queries.",
+  "source_repo": "deepan8545/employee-graph-mcp-",
+  "source_url": "https://github.com/deepan8545/employee-graph-mcp-",
+  "install": "# git clone --depth 1 https://github.com/deepan8545/employee-graph-mcp-\n# See source for mcpServers config block"
+}

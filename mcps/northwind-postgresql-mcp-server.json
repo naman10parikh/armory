@@ -1,0 +1,7 @@
+{
+  "name": "northwind-postgresql-mcp-server",
+  "description": "A read-only MCP server that connects Claude to the Northwind sample PostgreSQL database, allowing natural language queries to generate SQL and charts.",
+  "source_repo": "mosesliao/postgres-mcp",
+  "source_url": "https://github.com/mosesliao/postgres-mcp",
+  "install": "npx -y postgres-mcp"
+}

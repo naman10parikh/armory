@@ -1,0 +1,7 @@
+{
+  "name": "rviz-map-image-mcp",
+  "description": "Converts a live ROS 2 occupancy map into shareable images (PNG/JPEG/base64) and provides tools for map metadata, coordinate conversion, corner goal finding, and Nav2 navigation commands.",
+  "source_repo": "itsbharatj/rviz-map-image-mcp",
+  "source_url": "https://github.com/itsbharatj/rviz-map-image-mcp",
+  "install": "npx -y rviz-map-image-mcp"
+}

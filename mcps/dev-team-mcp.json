@@ -1,0 +1,7 @@
+{
+  "name": "dev-team-mcp",
+  "description": "Autonomous AI software development pipeline that transforms tickets into production-ready code through planning, coding, testing, reviewing, and delivery stages.",
+  "source_repo": "th1234th/dev-team-mcp",
+  "source_url": "https://github.com/th1234th/dev-team-mcp",
+  "install": "npx -y dev-team-mcp"
+}

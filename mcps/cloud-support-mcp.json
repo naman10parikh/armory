@@ -1,0 +1,7 @@
+{
+  "name": "cloud-support-mcp",
+  "description": "MCP server for Google Cloud Support API v2. Provides tools for managing Google Cloud support cases through AI assistants.",
+  "source_repo": "polar3130/cloud-support-mcp",
+  "source_url": "https://github.com/polar3130/cloud-support-mcp",
+  "install": "npx -y cloud-support-mcp"
+}

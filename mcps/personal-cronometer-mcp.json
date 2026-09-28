@@ -1,0 +1,7 @@
+{
+  "name": "personal-cronometer-mcp",
+  "description": "Enables MCP clients like Codex and Claude Code to securely read and manage a personal Cronometer account, including food logs, nutrient summaries with missing-data awareness, food search, biometrics, and export analysis.",
+  "source_repo": "ekelly95/cronometer-personal-mcp",
+  "source_url": "https://github.com/ekelly95/cronometer-personal-mcp",
+  "install": "npx -y cronometer-personal-mcp"
+}

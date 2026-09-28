@@ -1,0 +1,7 @@
+{
+  "name": "autonomous-documentation-discovery-engine",
+  "description": "Enables AI agents to search, fetch, and clean live documentation from LangChain, LlamaIndex, and OpenAI via Model Context Protocol, with token-optimized extraction.",
+  "source_repo": "DharaniDasari/Custom-MCP",
+  "source_url": "https://github.com/DharaniDasari/Custom-MCP",
+  "install": "npx -y Custom-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cg-agent-kit",
+  "description": "Enables AI agents to design hardware by writing C-like HDL and compiling it to Verilog, with real toolchain verification including synthesis checks.",
+  "source_repo": "Neosyn-Logic/cg-agent-kit",
+  "source_url": "https://github.com/Neosyn-Logic/cg-agent-kit",
+  "install": "# git clone --depth 1 https://github.com/Neosyn-Logic/cg-agent-kit\n# See source for mcpServers config block"
+}

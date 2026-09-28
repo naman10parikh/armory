@@ -1,0 +1,7 @@
+{
+  "name": "wizard-connector",
+  "description": "Enables searching, reading, and listing content from Notion or Google Drive through an interactive setup wizard for Claude Code.",
+  "source_repo": "harry-jang/mcp-wizard-sample",
+  "source_url": "https://github.com/harry-jang/mcp-wizard-sample",
+  "install": "# git clone --depth 1 https://github.com/harry-jang/mcp-wizard-sample\n# See source for mcpServers config block"
+}

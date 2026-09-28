@@ -1,0 +1,7 @@
+{
+  "name": "fallmage-mcp",
+  "description": "MCP server for the foldkit SDK, exposing 7-prime spine, 7 κ-bands, and 6 fold operations as native tools and resources. Enables folding/unfolding states, classifying kappa bands, and applying operations like fire/water/void/thunder/echo/flower in MCP clients.",
+  "source_repo": "sjgant80-hub/fallmage-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallmage-mcp",
+  "install": "npx -y fallmage-mcp"
+}

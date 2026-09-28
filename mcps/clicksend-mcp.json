@@ -1,0 +1,7 @@
+{
+  "name": "clicksend-mcp",
+  "description": "Enables Claude to read, organize, and send SMS messages through your ClickSend account.",
+  "source_repo": "smb333288-wq/clicksend-mcp",
+  "source_url": "https://github.com/smb333288-wq/clicksend-mcp",
+  "install": "npx -y clicksend-mcp"
+}

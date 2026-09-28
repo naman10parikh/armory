@@ -1,0 +1,7 @@
+{
+  "name": "contextbolt-bookmarks",
+  "description": "AI-powered recall over your saved bookmarks. It gives Claude semantic search, topic clusters, recent saves, and save-from-chat across the content you save from X, Reddit, LinkedIn, and the web.",
+  "source_repo": "ContextBolt/mcp-server",
+  "source_url": "https://github.com/ContextBolt/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/ContextBolt/mcp-server\n# See source for mcpServers config block"
+}

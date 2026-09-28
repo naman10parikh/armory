@@ -1,0 +1,7 @@
+{
+  "name": "hk-climate-and-weather-mcp-server",
+  "description": "Provides access to Hong Kong climate and weather data from the Hong Kong Observatory, including current conditions, forecasts, warnings, tides, and more.",
+  "source_repo": "hkopenai/hk-climate-mcp-server",
+  "source_url": "https://github.com/hkopenai/hk-climate-mcp-server",
+  "install": "npx -y hk-climate-mcp-server"
+}

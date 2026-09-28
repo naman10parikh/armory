@@ -1,0 +1,7 @@
+{
+  "name": "a4i",
+  "description": "MCP server for the Cisco ACI REST API, enabling LLM clients to query and modify fabric configurations via tools like get, post, diff, and merge using an existing logged-in session.",
+  "source_repo": "minefuto/a4i",
+  "source_url": "https://github.com/minefuto/a4i",
+  "install": "# git clone --depth 1 https://github.com/minefuto/a4i\n# See source for mcpServers config block"
+}

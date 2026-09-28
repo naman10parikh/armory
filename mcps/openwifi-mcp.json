@@ -1,0 +1,7 @@
+{
+  "name": "openwifi-mcp",
+  "description": "Turns Claude Code into an interactive OpenWiFi triage assistant, providing tools for searching Linux wireless patches, Jira tickets, running LLM-based triage, backporting, and building OpenWiFi.",
+  "source_repo": "firasshaari/openwifi-mcp",
+  "source_url": "https://github.com/firasshaari/openwifi-mcp",
+  "install": "npx -y openwifi-mcp"
+}

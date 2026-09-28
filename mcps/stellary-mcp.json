@@ -1,0 +1,7 @@
+{
+  "name": "stellary-mcp",
+  "description": "Connect AI assistants and coding agents to live Stellary projects through the Model Context Protocol, exposing tools for project, board, collaboration, cockpit, and agent-mission operations while preserving existing permissions.",
+  "source_repo": "Anymfah/stellary-mcp",
+  "source_url": "https://github.com/Anymfah/stellary-mcp",
+  "install": "npx -y stellary-mcp"
+}

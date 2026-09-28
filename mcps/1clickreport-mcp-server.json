@@ -1,0 +1,7 @@
+{
+  "name": "1clickreport-mcp-server",
+  "description": "Provides 40 MCP tools to connect AI assistants like Claude to marketing platforms (Google Ads, Meta Ads, GA4, Search Console, Stripe) for reading, analyzing, managing, and monitoring ad campaigns and analytics through natural language.",
+  "source_repo": "1clickreport/mcp",
+  "source_url": "https://github.com/1clickreport/mcp",
+  "install": "# git clone --depth 1 https://github.com/1clickreport/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aedile",
+  "description": "Enables AI coding assistants to analyze codebases locally before generating code, reducing duplication and enforcing architecture boundaries.",
+  "source_repo": "aaryanrwt/aedile",
+  "source_url": "https://github.com/aaryanrwt/aedile",
+  "install": "# git clone --depth 1 https://github.com/aaryanrwt/aedile\n# See source for mcpServers config block"
+}

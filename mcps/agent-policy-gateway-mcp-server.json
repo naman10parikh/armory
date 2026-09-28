@@ -1,0 +1,7 @@
+{
+  "name": "agent-policy-gateway-mcp-server",
+  "description": "Compliance and guardrails infrastructure for AI agents, enabling safe operations within regulatory boundaries like GDPR and EU AI Act.",
+  "source_repo": "AiAgentKarl/agent-policy-gateway-mcp",
+  "source_url": "https://github.com/AiAgentKarl/agent-policy-gateway-mcp",
+  "install": "npx -y agent-policy-gateway-mcp"
+}

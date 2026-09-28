@@ -1,0 +1,7 @@
+{
+  "name": "docker-mcp-server-2",
+  "description": "More than just a fully featured MCP server that lets AI agents manage Docker — containers, images, networks, volumes, swarm services, secrets, configs, nodes, plugins, etc., it helps you create workflows to easily manage your Docker environments.",
+  "source_repo": "L337-org/docker-mcp",
+  "source_url": "https://github.com/L337-org/docker-mcp",
+  "install": "npx -y docker-mcp"
+}

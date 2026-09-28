@@ -1,0 +1,7 @@
+{
+  "name": "ardupilot-mcp",
+  "description": "Enables natural language analysis of ArduPilot flight logs (.bin files) via AI chat apps like Claude Desktop, Cursor, and VS Code, providing explanations and answering questions about flight issues.",
+  "source_repo": "furkanisikay/ardupilot-mcp",
+  "source_url": "https://github.com/furkanisikay/ardupilot-mcp",
+  "install": "npx -y ardupilot-mcp"
+}

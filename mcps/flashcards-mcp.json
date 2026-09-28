@@ -1,0 +1,7 @@
+{
+  "name": "flashcards-mcp",
+  "description": "An MCP server for making flashcards with your agents and being quizzed on them using SM-2 spaced repetition.",
+  "source_repo": "saiashirwad/flashcards",
+  "source_url": "https://github.com/saiashirwad/flashcards",
+  "install": "# git clone --depth 1 https://github.com/saiashirwad/flashcards\n# See source for mcpServers config block"
+}

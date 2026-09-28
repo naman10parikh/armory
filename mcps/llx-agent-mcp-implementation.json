@@ -1,0 +1,7 @@
+{
+  "name": "llx-agent-mcp-implementation",
+  "description": "A minimal MCP server with a sample search_news skill that demonstrates how Claude Code can automatically call a skill over the MCP protocol.",
+  "source_repo": "Cathylixi/LLX-Agent-MCP-Implementation",
+  "source_url": "https://github.com/Cathylixi/LLX-Agent-MCP-Implementation",
+  "install": "# git clone --depth 1 https://github.com/Cathylixi/LLX-Agent-MCP-Implementation\n# See source for mcpServers config block"
+}

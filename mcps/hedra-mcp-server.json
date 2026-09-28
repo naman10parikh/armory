@@ -1,0 +1,7 @@
+{
+  "name": "hedra-mcp-server",
+  "description": "Enables browsing Hedra's model catalog and managing AI generation jobs, including submitting, polling, and uploading files, through MCP clients.",
+  "source_repo": "HemanthDonga/hedra-mcp-server",
+  "source_url": "https://github.com/HemanthDonga/hedra-mcp-server",
+  "install": "npx -y hedra-mcp-server"
+}

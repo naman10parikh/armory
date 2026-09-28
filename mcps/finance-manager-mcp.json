@@ -1,0 +1,7 @@
+{
+  "name": "finance-manager-mcp",
+  "description": "Enables self-hosted personal finance management for MCP clients by connecting read-only bank accounts via SimpleFIN, syncing transactions into a local SQLite database, and exposing tools to query balances, spending, budgets, cash flow, and net worth.",
+  "source_repo": "0xArchiviste/Finance-Manager-MCP",
+  "source_url": "https://github.com/0xArchiviste/Finance-Manager-MCP",
+  "install": "npx -y Finance-Manager-MCP"
+}

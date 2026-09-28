@@ -1,0 +1,7 @@
+{
+  "name": "agentstack-mcp",
+  "description": "One deterministic reasoning stack behind a single MCP endpoint, chaining scenario simulation, decision analysis, and precision computation with 40-digit decimal math.",
+  "source_repo": "inity13/agentstack-mcp",
+  "source_url": "https://github.com/inity13/agentstack-mcp",
+  "install": "npx -y agentstack-mcp"
+}

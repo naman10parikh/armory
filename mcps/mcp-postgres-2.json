@@ -1,0 +1,7 @@
+{
+  "name": "mcp-postgres-2",
+  "description": "A comprehensive PostgreSQL MCP server providing 27 tools for database management and administration, including connection management, query execution, schema introspection, CRUD operations, and server monitoring.",
+  "source_repo": "itunified-io/mcp-postgres",
+  "source_url": "https://github.com/itunified-io/mcp-postgres",
+  "install": "# git clone --depth 1 https://github.com/itunified-io/mcp-postgres\n# See source for mcpServers config block"
+}

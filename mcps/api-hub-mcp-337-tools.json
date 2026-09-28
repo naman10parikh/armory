@@ -1,0 +1,7 @@
+{
+  "name": "api-hub-mcp-337-tools",
+  "description": "Full-stack utility API with 337+ tools including AI chat, web scraping, weather, finance, SEO, crypto, colors, readability, DNS, and more — all through a single MCP server. Pay-as-you-go credits, no API keys needed.",
+  "source_repo": "scotia1973-bot/api-hub",
+  "source_url": "https://github.com/scotia1973-bot/api-hub",
+  "install": "# git clone --depth 1 https://github.com/scotia1973-bot/api-hub\n# See source for mcpServers config block"
+}

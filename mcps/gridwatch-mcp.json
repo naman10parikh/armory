@@ -1,0 +1,7 @@
+{
+  "name": "gridwatch-mcp",
+  "description": "MCP server exposing distributed industrial asset data (battery storage, EV chargers, solar arrays) with tools for asset status, geospatial search, alerts, anomaly explanation, and load simulation.",
+  "source_repo": "mohithchow/gridwatch-mcp",
+  "source_url": "https://github.com/mohithchow/gridwatch-mcp",
+  "install": "npx -y gridwatch-mcp"
+}

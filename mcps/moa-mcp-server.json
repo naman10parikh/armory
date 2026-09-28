@@ -1,0 +1,7 @@
+{
+  "name": "moa-mcp-server",
+  "description": "Enables users to leverage a mixture-of-agents architecture where multiple AI models discuss a question in parallel and a president model synthesizes the best answer.",
+  "source_repo": "accoutmissing/moa-mcp-server",
+  "source_url": "https://github.com/accoutmissing/moa-mcp-server",
+  "install": "npx -y moa-mcp-server"
+}

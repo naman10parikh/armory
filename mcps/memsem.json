@@ -1,0 +1,7 @@
+{
+  "name": "memsem",
+  "description": "Semantic memory MCP server that gives AI agents a self-writing, priority-based memory with local semantic search and automatic contradiction handling. It persists across sessions and projects, entirely on your machine.",
+  "source_repo": "WindSeries69/memsem",
+  "source_url": "https://github.com/WindSeries69/memsem",
+  "install": "# git clone --depth 1 https://github.com/WindSeries69/memsem\n# See source for mcpServers config block"
+}

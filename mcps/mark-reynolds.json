@@ -1,0 +1,7 @@
+{
+  "name": "mark-reynolds",
+  "description": "Post-quantum document anchoring for AI agents. Anchor any SHA-256 hash to Algorand mainnet with ML-DSA-65 (NIST FIPS-204) signatures and receive a self-contained proof bundle verifiable offline — decades from now, without trusting any vendor.",
+  "source_repo": "m-reynaldo35/pq-verifiable-archive",
+  "source_url": "https://github.com/m-reynaldo35/pq-verifiable-archive",
+  "install": "# git clone --depth 1 https://github.com/m-reynaldo35/pq-verifiable-archive\n# See source for mcpServers config block"
+}

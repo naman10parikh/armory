@@ -1,0 +1,7 @@
+{
+  "name": "smart-coding-mcp",
+  "description": "A stateful MCP server that provides persistent memory, deterministic static analysis, and evolving conventions for AI coding assistants.",
+  "source_repo": "cbuntingde/smart-agent",
+  "source_url": "https://github.com/cbuntingde/smart-agent",
+  "install": "# git clone --depth 1 https://github.com/cbuntingde/smart-agent\n# See source for mcpServers config block"
+}

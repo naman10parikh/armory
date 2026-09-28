@@ -1,0 +1,7 @@
+{
+  "name": "market-depth-lab-mcp",
+  "description": "Read-only Hyperliquid and cross-exchange market research for AI agents, providing structured tools for live market data without requiring authentication.",
+  "source_repo": "derkcc/market-depth-lab-mcp",
+  "source_url": "https://github.com/derkcc/market-depth-lab-mcp",
+  "install": "npx -y market-depth-lab-mcp"
+}

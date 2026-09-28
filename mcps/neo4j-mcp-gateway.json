@@ -1,0 +1,7 @@
+{
+  "name": "neo4j-mcp-gateway",
+  "description": "A single local MCP gateway for Neo4j that exposes both proxied generic Neo4j tools (schema, Cypher, GDS) and custom YAML-defined use-case tools behind one stdio endpoint.",
+  "source_repo": "jeffneo/neo4j-mcp-gateway",
+  "source_url": "https://github.com/jeffneo/neo4j-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/jeffneo/neo4j-mcp-gateway\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "qa-touch-mcp-server",
+  "description": "Official MCP server for QA Touch, enabling AI assistants to manage test cases, defects, test runs, and more via natural language.",
+  "source_repo": "qatouch/qatouch-mcp-server",
+  "source_url": "https://github.com/qatouch/qatouch-mcp-server",
+  "install": "npx -y qatouch-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-sales-mcp-server",
+  "description": "Enables AI assistants to query ERP sales data, including employees, sales, customers, and top products, through MCP tools.",
+  "source_repo": "pratik-eternal/ai-sales-mcp",
+  "source_url": "https://github.com/pratik-eternal/ai-sales-mcp",
+  "install": "npx -y ai-sales-mcp"
+}

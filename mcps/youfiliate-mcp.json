@@ -1,0 +1,7 @@
+{
+  "name": "youfiliate-mcp",
+  "description": "MCP server for managing Youfiliate Smart Links from AI assistants like Claude Desktop, enabling creation of geo-targeted affiliate links, analytics, and YouTube description migrations.",
+  "source_repo": "andrewmpierce/youfiliate-mcp",
+  "source_url": "https://github.com/andrewmpierce/youfiliate-mcp",
+  "install": "npx -y youfiliate-mcp"
+}

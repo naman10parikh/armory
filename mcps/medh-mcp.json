@@ -1,0 +1,7 @@
+{
+  "name": "medh-mcp",
+  "description": "Operator-tuned MCP server for Venice AI, providing 31 tools for chat, image, video, audio, and music generation with curated presets and workflow prompts.",
+  "source_repo": "vivmuk/medha-mcp",
+  "source_url": "https://github.com/vivmuk/medha-mcp",
+  "install": "npx -y medha-mcp"
+}

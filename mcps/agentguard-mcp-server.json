@@ -1,0 +1,7 @@
+{
+  "name": "agentguard-mcp-server",
+  "description": "Provides policy-driven runtime authorization and security evaluation for MCP-based agents, including MCP streaming HTTP gateway, mock MCP servers, deterministic agent demos, and audited tool invocation with redacted PostgreSQL audit chains.",
+  "source_repo": "jahao-18/Agent_Guard",
+  "source_url": "https://github.com/jahao-18/Agent_Guard",
+  "install": "# git clone --depth 1 https://github.com/jahao-18/Agent_Guard\n# See source for mcpServers config block"
+}

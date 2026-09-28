@@ -1,0 +1,7 @@
+{
+  "name": "mongodb-memory-mcp-server",
+  "description": "A production-grade MCP server that provides persistent long-term memory for AI agents using MongoDB, enabling them to store, search, update, delete, retrieve, and summarize structured project memories across developer workflows.",
+  "source_repo": "Sahilkr02/mongodb-mcp",
+  "source_url": "https://github.com/Sahilkr02/mongodb-mcp",
+  "install": "npx -y mongodb-mcp"
+}

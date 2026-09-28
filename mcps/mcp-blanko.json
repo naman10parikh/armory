@@ -1,0 +1,7 @@
+{
+  "name": "mcp-blanko",
+  "description": "A template for building MCP servers in TypeScript with placeholder tools and dual transport support (stdio + SSE).",
+  "source_repo": "KI4JLU/Entgeltrechner-MCP",
+  "source_url": "https://github.com/KI4JLU/Entgeltrechner-MCP",
+  "install": "npx -y Entgeltrechner-MCP"
+}

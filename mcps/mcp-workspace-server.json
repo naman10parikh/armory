@@ -1,0 +1,7 @@
+{
+  "name": "mcp-workspace-server",
+  "description": "Enables AI agents to safely list, read, and search files within a restricted local workspace, with safeguards against path traversal and configurable size limits.",
+  "source_repo": "sivanlm-commits/mcp-workspace-server",
+  "source_url": "https://github.com/sivanlm-commits/mcp-workspace-server",
+  "install": "# git clone --depth 1 https://github.com/sivanlm-commits/mcp-workspace-server\n# See source for mcpServers config block"
+}

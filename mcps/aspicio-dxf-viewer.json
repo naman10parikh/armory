@@ -1,0 +1,7 @@
+{
+  "name": "aspicio-dxf-viewer",
+  "description": "Opens, inspects, and renders DXF/CAD drawings for AI agents: describe_dxf returns structured facts (layers with actual drawn colors, units, bounds, text content) and render_dxf returns PNG images. On MCP Apps hosts like ChatGPT and Claude, view_dxf opens an interactive in-chat viewer with pan, zoom,",
+  "source_repo": "frontsail-ai/aspicio",
+  "source_url": "https://github.com/frontsail-ai/aspicio",
+  "install": "# git clone --depth 1 https://github.com/frontsail-ai/aspicio\n# See source for mcpServers config block"
+}

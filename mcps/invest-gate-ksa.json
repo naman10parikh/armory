@@ -1,0 +1,7 @@
+{
+  "name": "invest-gate-ksa",
+  "description": "Enables conversational querying of structured, source-linked datasets about investing in Saudi Arabia, including fees, sectors, and SEZs, through 8 MCP tools.",
+  "source_repo": "Samix2026/invest-gate-ksa",
+  "source_url": "https://github.com/Samix2026/invest-gate-ksa",
+  "install": "# git clone --depth 1 https://github.com/Samix2026/invest-gate-ksa\n# See source for mcpServers config block"
+}

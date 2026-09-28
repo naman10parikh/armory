@@ -1,0 +1,7 @@
+{
+  "name": "codeabien-nest-mcp-postgresql",
+  "description": "Enables interaction with a PostgreSQL database via MCP, using Docker and NestJS for AI-powered database operations.",
+  "source_repo": "CodeaBien/codeabien-nest-mcp-postgresdb",
+  "source_url": "https://github.com/CodeaBien/codeabien-nest-mcp-postgresdb",
+  "install": "# git clone --depth 1 https://github.com/CodeaBien/codeabien-nest-mcp-postgresdb\n# See source for mcpServers config block"
+}

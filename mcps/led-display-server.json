@@ -1,0 +1,7 @@
+{
+  "name": "led-display-server",
+  "description": "MCP server for controlling LED displays via MQTT. It enables AI agents to list devices and send text, images, colors, or clear commands with authentication and permission checks.",
+  "source_repo": "fabienhamot/mcp_mqtt_server",
+  "source_url": "https://github.com/fabienhamot/mcp_mqtt_server",
+  "install": "# git clone --depth 1 https://github.com/fabienhamot/mcp_mqtt_server\n# See source for mcpServers config block"
+}

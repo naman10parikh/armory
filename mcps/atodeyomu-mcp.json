@@ -1,0 +1,7 @@
+{
+  "name": "atodeyomu-mcp",
+  "description": "A read-only MCP server that detects quote retweets on X/Twitter for 'read later' purposes, enabling fetching quote posts with their quoted content and cursor-based progress tracking.",
+  "source_repo": "kkk2jp/atodeyomu-mcp",
+  "source_url": "https://github.com/kkk2jp/atodeyomu-mcp",
+  "install": "npx -y atodeyomu-mcp"
+}

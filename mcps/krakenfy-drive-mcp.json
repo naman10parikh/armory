@@ -1,0 +1,7 @@
+{
+  "name": "krakenfy-drive-mcp",
+  "description": "Enables AI agents to automate Google Drive tasks such as provisioning workspaces, reusing templates, inspecting folder structures, updating reports, and sharing files through user-controlled OAuth.",
+  "source_repo": "KrakenfyLLC/krakenfy-drive-mcp",
+  "source_url": "https://github.com/KrakenfyLLC/krakenfy-drive-mcp",
+  "install": "npx -y krakenfy-drive-mcp"
+}

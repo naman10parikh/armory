@@ -1,0 +1,7 @@
+{
+  "name": "simliverse-mcp",
+  "description": "Provides a unified MCP server for the SimLiverse Physical AI Platform, enabling LLM copilots to access Isaac Sim knowledge via NVIDIA NIM and execute/control simulation through a TCP socket.",
+  "source_repo": "SimLiverse/simliverse-mcp",
+  "source_url": "https://github.com/SimLiverse/simliverse-mcp",
+  "install": "npx -y simliverse-mcp"
+}

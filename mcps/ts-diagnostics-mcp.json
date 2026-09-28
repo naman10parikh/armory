@@ -1,0 +1,7 @@
+{
+  "name": "ts-diagnostics-mcp",
+  "description": "Provides real-time TypeScript diagnostics with intelligent caching for AI agents, enabling instant queries instead of running tsc repeatedly.",
+  "source_repo": "GNARC0TICS/ts-diagnostics-mcp",
+  "source_url": "https://github.com/GNARC0TICS/ts-diagnostics-mcp",
+  "install": "npx -y ts-diagnostics-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "first-node-mcp-server",
+  "description": "A simple Model Context Protocol server that provides an addition tool for adding two numbers.",
+  "source_repo": "syashwanth3110/first-node-mcp-server",
+  "source_url": "https://github.com/syashwanth3110/first-node-mcp-server",
+  "install": "npx -y first-node-mcp-server"
+}

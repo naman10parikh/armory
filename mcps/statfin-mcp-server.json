@@ -1,0 +1,7 @@
+{
+  "name": "statfin-mcp-server",
+  "description": "Search Statistics Finland's StatFin database (3,000+ tables), inspect table variables, and query clean flattened statistics on population, economy, labour and regions.",
+  "source_repo": "NectiaAutomation/statfin-mcp-server",
+  "source_url": "https://github.com/NectiaAutomation/statfin-mcp-server",
+  "install": "npx -y statfin-mcp-server"
+}

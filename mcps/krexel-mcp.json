@@ -1,0 +1,7 @@
+{
+  "name": "krexel-mcp",
+  "description": "Enables AI assistants to deploy, manage, and rollback websites via the Krexel API, supporting site uploads, deploys, logs, rollbacks, environment variables, and status checks.",
+  "source_repo": "Syfer-web/krexel-mcp",
+  "source_url": "https://github.com/Syfer-web/krexel-mcp",
+  "install": "npx -y krexel-mcp"
+}

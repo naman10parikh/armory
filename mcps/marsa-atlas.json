@@ -1,0 +1,7 @@
+{
+  "name": "marsa-atlas",
+  "description": "MCP server providing source-grounded migration services and evidence for Egypt, with tools for search, service discovery, eligibility checks, and research briefs.",
+  "source_repo": "marsaplatform/marsa-atlas",
+  "source_url": "https://github.com/marsaplatform/marsa-atlas",
+  "install": "# git clone --depth 1 https://github.com/marsaplatform/marsa-atlas\n# See source for mcpServers config block"
+}

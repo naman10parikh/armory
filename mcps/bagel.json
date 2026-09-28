@@ -1,0 +1,7 @@
+{
+  "name": "bagel",
+  "description": "MCP server for chatting with physical-world data from robotics, drones, automotive, and IoT sources using natural language. It generates auditable SQL queries over Apache Arrow/DuckDB to let you analyze, summarize, and build data pipelines.",
+  "source_repo": "Extelligence-ai/bagel",
+  "source_url": "https://github.com/Extelligence-ai/bagel",
+  "install": "# git clone --depth 1 https://github.com/Extelligence-ai/bagel\n# See source for mcpServers config block"
+}

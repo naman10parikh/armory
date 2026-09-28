@@ -1,0 +1,7 @@
+{
+  "name": "machship-mcp",
+  "description": "Integrates the Machship freight management platform with MCP-compatible LLMs, enabling shipment creation, quotes, labels, and carrier management via natural language.",
+  "source_repo": "devkindhq/machship-mcp",
+  "source_url": "https://github.com/devkindhq/machship-mcp",
+  "install": "npx -y machship-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fast-browser-mcp",
+  "description": "Adds persistent QA state to browser automation, enabling AI agents to maintain session-scoped artifacts and generate reports across multiple steps.",
+  "source_repo": "donleqt/fast-browser-mcp",
+  "source_url": "https://github.com/donleqt/fast-browser-mcp",
+  "install": "npx -y fast-browser-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ecc",
+  "description": "A comprehensive MCP server that aggregates email, calendar, and contacts across Google, Microsoft, Zoho, and IMAP/SMTP services, designed for headless environments with OAuth device flow support.",
+  "source_repo": "karljsamuel/mcp-ecc",
+  "source_url": "https://github.com/karljsamuel/mcp-ecc",
+  "install": "# git clone --depth 1 https://github.com/karljsamuel/mcp-ecc\n# See source for mcpServers config block"
+}

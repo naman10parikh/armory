@@ -1,0 +1,7 @@
+{
+  "name": "shiply",
+  "description": "Instant web hosting for AI agents. Publish a live site in one call, no account needed.",
+  "source_repo": "stevejford/shiply-mcp",
+  "source_url": "https://github.com/stevejford/shiply-mcp",
+  "install": "npx -y shiply-mcp"
+}

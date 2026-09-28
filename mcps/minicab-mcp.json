@@ -1,0 +1,7 @@
+{
+  "name": "minicab-mcp",
+  "description": "A Model Context Protocol server for a cab dispatch system that enables users to search available cabs, get fare estimates, book rides, and cancel bookings in supported cities.",
+  "source_repo": "tabrezsyed1998/minicab-mcp",
+  "source_url": "https://github.com/tabrezsyed1998/minicab-mcp",
+  "install": "npx -y minicab-mcp"
+}

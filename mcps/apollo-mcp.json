@@ -1,0 +1,7 @@
+{
+  "name": "apollo-mcp",
+  "description": "Provides 45 MCP tools to search, enrich, and manage Apollo.io B2B data (people, companies, CRM, deals, tasks, sequences, etc.) via stdio or HTTP transport.",
+  "source_repo": "dyngai/apollo-mcp",
+  "source_url": "https://github.com/dyngai/apollo-mcp",
+  "install": "npx -y apollo-mcp"
+}

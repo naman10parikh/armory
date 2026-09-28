@@ -1,0 +1,7 @@
+{
+  "name": "qacito",
+  "description": "Autonomous QA platform powered by Claude + Playwright that allows AI to write, run, and fix tests for any project.",
+  "source_repo": "dpaul20/qacito",
+  "source_url": "https://github.com/dpaul20/qacito",
+  "install": "# git clone --depth 1 https://github.com/dpaul20/qacito\n# See source for mcpServers config block"
+}

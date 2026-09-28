@@ -1,0 +1,7 @@
+{
+  "name": "math-mcp-server",
+  "description": "A Python-based MCP server providing mathematical computation tools and plotting utilities for a wide range of math topics including calculus, matrix operations, statistics, and more.",
+  "source_repo": "111-test-111/math-mcp-server",
+  "source_url": "https://github.com/111-test-111/math-mcp-server",
+  "install": "npx -y math-mcp-server"
+}

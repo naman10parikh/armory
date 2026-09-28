@@ -1,0 +1,7 @@
+{
+  "name": "hasan-orchestrator",
+  "description": "An MCP server that orchestrates multiple devices (mobile, desktop, laptop) via REST API, allowing a local voice assistant (Hermes) to execute actions across devices through dynamic capability routing.",
+  "source_repo": "Poulouloup/hasan_orchestrator",
+  "source_url": "https://github.com/Poulouloup/hasan_orchestrator",
+  "install": "# git clone --depth 1 https://github.com/Poulouloup/hasan_orchestrator\n# See source for mcpServers config block"
+}

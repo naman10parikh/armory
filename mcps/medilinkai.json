@@ -1,0 +1,7 @@
+{
+  "name": "medilinkai",
+  "description": "Clinical decision-support MCP server that lets AI agents reason over live FHIR patient data for medication review, appointment scheduling, and care gap identification.",
+  "source_repo": "MiChaelinzo/MediLinkAI",
+  "source_url": "https://github.com/MiChaelinzo/MediLinkAI",
+  "install": "# git clone --depth 1 https://github.com/MiChaelinzo/MediLinkAI\n# See source for mcpServers config block"
+}

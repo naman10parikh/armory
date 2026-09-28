@@ -1,0 +1,7 @@
+{
+  "name": "repo-atlas-mcp",
+  "description": "Provides a graph-based code analysis to coding agents, enabling tools to trace call dependencies, assess change impact, and identify hotspots using tree-sitter and Neo4j.",
+  "source_repo": "Aditya31398/repo-atlas-mcp",
+  "source_url": "https://github.com/Aditya31398/repo-atlas-mcp",
+  "install": "npx -y repo-atlas-mcp"
+}

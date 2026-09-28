@@ -1,0 +1,7 @@
+{
+  "name": "simple-mcp-weather-tool",
+  "description": "Fetches live weather data from Open-Meteo without an API key and returns structured JSON with location disambiguation, enabling weather queries in LM Studio chat.",
+  "source_repo": "pi0tr010/Simple-MCP-Weather-Tool",
+  "source_url": "https://github.com/pi0tr010/Simple-MCP-Weather-Tool",
+  "install": "# git clone --depth 1 https://github.com/pi0tr010/Simple-MCP-Weather-Tool\n# See source for mcpServers config block"
+}

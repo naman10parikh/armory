@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-mcp-server-5",
+  "description": "Allows AI agents to authenticate with LinkedIn and share posts or links via the Model Context Protocol.",
+  "source_repo": "sandeepramdas/Linked-In-MCP",
+  "source_url": "https://github.com/sandeepramdas/Linked-In-MCP",
+  "install": "npx -y Linked-In-MCP"
+}

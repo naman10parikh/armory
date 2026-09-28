@@ -1,0 +1,7 @@
+{
+  "name": "muninn-local-mcp",
+  "description": "A local-first MCP server providing persistent, project-scoped and global memory for AI agents using ChromaDB and Ollama embeddings, fully offline.",
+  "source_repo": "wolfcao/muninn-local-mcp",
+  "source_url": "https://github.com/wolfcao/muninn-local-mcp",
+  "install": "npx -y muninn-local-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mumu",
+  "description": "MCP server to control MuMu Player 12 Android emulator, providing 59 tools for emulator lifecycle, app management, UI automation, screenshots, and more.",
+  "source_repo": "nnaridz/mcp-mumu",
+  "source_url": "https://github.com/nnaridz/mcp-mumu",
+  "install": "# git clone --depth 1 https://github.com/nnaridz/mcp-mumu\n# See source for mcpServers config block"
+}

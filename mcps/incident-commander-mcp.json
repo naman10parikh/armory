@@ -1,0 +1,7 @@
+{
+  "name": "incident-commander-mcp",
+  "description": "AI-powered incident management MCP server that enables investigation, root cause analysis, and response actions for production incidents using mocked data for demo purposes.",
+  "source_repo": "hashirR786/incident-commander-mcp",
+  "source_url": "https://github.com/hashirR786/incident-commander-mcp",
+  "install": "npx -y incident-commander-mcp"
+}

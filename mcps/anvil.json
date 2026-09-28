@@ -1,0 +1,7 @@
+{
+  "name": "anvil",
+  "description": "A throwaway Docker sandbox for agents to run code and shell commands safely.",
+  "source_repo": "tools-for-agents/anvil",
+  "source_url": "https://github.com/tools-for-agents/anvil",
+  "install": "# git clone --depth 1 https://github.com/tools-for-agents/anvil\n# See source for mcpServers config block"
+}

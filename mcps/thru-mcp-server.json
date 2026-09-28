@@ -1,0 +1,7 @@
+{
+  "name": "thru-mcp-server",
+  "description": "A read-only Model Context Protocol server for the Thru blockchain alphanet, enabling account queries, transaction status, program events, name service resolution, faucet status, and network health via the official @thru/sdk.",
+  "source_repo": "erhnysr/thru-mcp-server",
+  "source_url": "https://github.com/erhnysr/thru-mcp-server",
+  "install": "npx -y thru-mcp-server"
+}

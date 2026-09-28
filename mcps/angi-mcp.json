@@ -1,0 +1,7 @@
+{
+  "name": "angi-mcp",
+  "description": "MCP server for Angi (Angie's List) that lets you search for home-service pros by trade and city, read ratings, profiles, and reviews, and manage your Angi projects using an existing browser session via fetchproxy.",
+  "source_repo": "chrischall/angi-mcp",
+  "source_url": "https://github.com/chrischall/angi-mcp",
+  "install": "npx -y angi-mcp"
+}

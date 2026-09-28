@@ -1,0 +1,7 @@
+{
+  "name": "yarg-tay-mcp",
+  "description": "Enables searching and retrieving full text of Yargıtay (Turkish Supreme Court) decisions as Markdown, via the official karararama.yargitay.gov.tr system.",
+  "source_repo": "iturkguler/yargitay-mcp",
+  "source_url": "https://github.com/iturkguler/yargitay-mcp",
+  "install": "npx -y yargitay-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ukr-vitalinguist-mcp",
+  "description": "Provides Ukrainian language grammar checking, surzhyk detection, authentic phrasing, and English-to-Ukrainian rendering through curated linguistic data.",
+  "source_repo": "vitalinguist/ukr-vitalinguist-mcp",
+  "source_url": "https://github.com/vitalinguist/ukr-vitalinguist-mcp",
+  "install": "npx -y ukr-vitalinguist-mcp"
+}

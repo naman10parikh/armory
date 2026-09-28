@@ -1,0 +1,7 @@
+{
+  "name": "agenttakt",
+  "description": "Review & approve AI agent task plans in a ComfyUI-style node editor, right in your terminal (MCP server + TUI)",
+  "source_repo": "ryoohshima/AgentTakt",
+  "source_url": "https://github.com/ryoohshima/AgentTakt",
+  "install": "# git clone --depth 1 https://github.com/ryoohshima/AgentTakt\n# See source for mcpServers config block"
+}

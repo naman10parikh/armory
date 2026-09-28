@@ -1,0 +1,7 @@
+{
+  "name": "ibmz-mcp-server",
+  "description": "MCP server for IBM Z mainframe integration. Provides HSM-backed key management via IBM Key Protect (FIPS 140-2 Level 3) and REST API access to mainframe programs (CICS, IMS, batch) via z/OS Connect.",
+  "source_repo": "ExpertVagabond/ibmz-mcp-server",
+  "source_url": "https://github.com/ExpertVagabond/ibmz-mcp-server",
+  "install": "npx -y ibmz-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ssid-mcp",
+  "description": "MAC-address (OUI) vendor lookup and router default-login directory for AI agents, backed by ssid.ai. Identify a device manufacturer from its MAC address, detect randomized/private addresses instead of reporting unknown, or fetch a router's default login IP and admin credentials — every field cited t",
+  "source_repo": "Drumworks/ssid-mcp",
+  "source_url": "https://github.com/Drumworks/ssid-mcp",
+  "install": "npx -y ssid-mcp"
+}

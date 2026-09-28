@@ -1,0 +1,7 @@
+{
+  "name": "git-quick-stats-mcp-server",
+  "description": "Exposes git-quick-stats commands as MCP tools to analyze git repositories via natural language.",
+  "source_repo": "git-quick-stats/mcp-server",
+  "source_url": "https://github.com/git-quick-stats/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/git-quick-stats/mcp-server\n# See source for mcpServers config block"
+}

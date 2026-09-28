@@ -1,0 +1,7 @@
+{
+  "name": "openai-ads-mcp-2",
+  "description": "An MCP server for the OpenAI Ads (ChatGPT Ads) Advertiser API, providing tools for agent-led performance marketing such as finding dead ads, auditing near-duplicate copy, and auditing ad-group context hints.",
+  "source_repo": "shinypebble/openai-ads-mcp",
+  "source_url": "https://github.com/shinypebble/openai-ads-mcp",
+  "install": "npx -y openai-ads-mcp"
+}

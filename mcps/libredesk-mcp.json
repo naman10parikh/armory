@@ -1,0 +1,7 @@
+{
+  "name": "libredesk-mcp",
+  "description": "MCP server that exposes the complete Libredesk REST API (54 endpoints) as tools, enabling natural language management of conversations, contacts, agents, teams, and more for the open-source customer support desk.",
+  "source_repo": "metanmai/libredesk-mcp",
+  "source_url": "https://github.com/metanmai/libredesk-mcp",
+  "install": "npx -y libredesk-mcp"
+}

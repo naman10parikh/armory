@@ -1,0 +1,7 @@
+{
+  "name": "abb-robotstudio-mcp-server",
+  "description": "MCP server for ABB RobotStudio and robot controllers, exposing 55 tools via SDK and RWS transports for simulation, programming, and monitoring.",
+  "source_repo": "LiskinLabs/abb-robotstudio-mcp",
+  "source_url": "https://github.com/LiskinLabs/abb-robotstudio-mcp",
+  "install": "npx -y abb-robotstudio-mcp"
+}

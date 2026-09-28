@@ -1,0 +1,7 @@
+{
+  "name": "infotecnica-mcp",
+  "description": "Provides access to as-built technical data of Chile's National Electric System (SEN) equipment, enabling query of installation types, companies, and detailed technical sheets with certification status via public API.",
+  "source_repo": "bawzenit-glitch/infotecnica-mcp",
+  "source_url": "https://github.com/bawzenit-glitch/infotecnica-mcp",
+  "install": "npx -y infotecnica-mcp"
+}

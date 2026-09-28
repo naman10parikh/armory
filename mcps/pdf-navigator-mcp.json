@@ -1,0 +1,7 @@
+{
+  "name": "pdf-navigator-mcp",
+  "description": "Provides PDF reading, text search, navigation, and form filling capabilities through MCP, with cross-platform PDF viewer integration for seamless document interaction.",
+  "source_repo": "matsengrp/pdf-navigator-mcp",
+  "source_url": "https://github.com/matsengrp/pdf-navigator-mcp",
+  "install": "npx -y pdf-navigator-mcp"
+}

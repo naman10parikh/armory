@@ -1,0 +1,7 @@
+{
+  "name": "resemble-ai-mcp-server",
+  "description": "Enables coding assistants to query Resemble AI documentation, search pages, and access OpenAPI schemas for code generation.",
+  "source_repo": "resemble-ai/resemble-mcp",
+  "source_url": "https://github.com/resemble-ai/resemble-mcp",
+  "install": "npx -y resemble-mcp"
+}

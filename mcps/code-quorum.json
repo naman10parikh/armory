@@ -1,0 +1,7 @@
+{
+  "name": "code-quorum",
+  "description": "Enables multi-agent council workflows for coding assistants, providing parallel independent reviews, plans, brainstorms, validation, and research with strict read-only boundaries.",
+  "source_repo": "sdewell/code-quorum",
+  "source_url": "https://github.com/sdewell/code-quorum",
+  "install": "# git clone --depth 1 https://github.com/sdewell/code-quorum\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mapspring-mcp-server",
+  "description": "Enables enterprise database schema exploration and Spring Boot code generation (MyBatis, JPA) through MCP, supporting both online DB connections and offline DDL parsing.",
+  "source_repo": "ghdquddnr/map-spring-MCP",
+  "source_url": "https://github.com/ghdquddnr/map-spring-MCP",
+  "install": "npx -y map-spring-MCP"
+}

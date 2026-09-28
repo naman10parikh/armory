@@ -1,0 +1,7 @@
+{
+  "name": "fd-open-data-mcp",
+  "description": "Provides a semantic concept layer over financial/economic data from multiple sources, enabling users to query data by concept and entity with automatic source selection and failover.",
+  "source_repo": "FindDataTechnology/fd-open-data-mcp",
+  "source_url": "https://github.com/FindDataTechnology/fd-open-data-mcp",
+  "install": "npx -y fd-open-data-mcp"
+}

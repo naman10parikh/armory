@@ -1,0 +1,7 @@
+{
+  "name": "postgres-mcp-server-4",
+  "description": "MCP server for PostgreSQL that enables safe read-only database queries, table schema inspection, and query execution planning.",
+  "source_repo": "rajath002/postgres-mcp-server",
+  "source_url": "https://github.com/rajath002/postgres-mcp-server",
+  "install": "npx -y postgres-mcp-server"
+}

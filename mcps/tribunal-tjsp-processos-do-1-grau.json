@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-tjsp-processos-do-1-grau",
+  "description": "Enables querying official first-degree court case information from the São Paulo Court of Justice (TJSP). It provides a read-only MCP tool, accessible via HTTP, with pay-per-use pricing and no platform credentials required.",
+  "source_repo": "mcp-dir/tribunal_tjsp_primeiro_grau-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_tjsp_primeiro_grau-mcp",
+  "install": "npx -y tribunal_tjsp_primeiro_grau-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tutorclaw-mcp",
+  "description": "An MCP server that transforms OpenClaw into a programming tutor using PRIMM-Lite pedagogy, with tools for learner management, content delivery, code execution, and Stripe-based tier upgrades.",
+  "source_repo": "mohsinsheikhani/tutorclaw-mcp",
+  "source_url": "https://github.com/mohsinsheikhani/tutorclaw-mcp",
+  "install": "npx -y tutorclaw-mcp"
+}

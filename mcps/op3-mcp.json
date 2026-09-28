@@ -1,0 +1,7 @@
+{
+  "name": "op3-mcp",
+  "description": "MCP server for OP3 podcast analytics: downloads, geography, app share. Read-only.",
+  "source_repo": "conorbronsdon/op3-mcp",
+  "source_url": "https://github.com/conorbronsdon/op3-mcp",
+  "install": "npx -y op3-mcp"
+}

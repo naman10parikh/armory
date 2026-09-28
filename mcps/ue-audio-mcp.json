@@ -1,0 +1,7 @@
+{
+  "name": "ue-audio-mcp",
+  "description": "Enables AI-powered game audio creation for Unreal Engine 5.7, integrating Wwise, MetaSounds, and Blueprint through MCP tools to generate DSP graphs, sound systems, and trigger logic.",
+  "source_repo": "koshimazaki/UE-AUDIO-MCP",
+  "source_url": "https://github.com/koshimazaki/UE-AUDIO-MCP",
+  "install": "npx -y UE-AUDIO-MCP"
+}

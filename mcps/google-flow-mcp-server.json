@@ -1,0 +1,7 @@
+{
+  "name": "google-flow-mcp-server",
+  "description": "Automates sports editorial graphic poster creation using Google Flow through a Playwright-based pipeline, exposing a FastMCP server for integration with MCP clients.",
+  "source_repo": "rafin0906/google-flow-mcp-server",
+  "source_url": "https://github.com/rafin0906/google-flow-mcp-server",
+  "install": "npx -y google-flow-mcp-server"
+}

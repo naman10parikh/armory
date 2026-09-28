@@ -1,0 +1,7 @@
+{
+  "name": "xmind-mcp",
+  "description": "Enables AI assistants to read and write XMind mind map files, allowing generation, editing, and analysis of mind maps directly in XMind.",
+  "source_repo": "Erlichooo/xmind-mcp",
+  "source_url": "https://github.com/Erlichooo/xmind-mcp",
+  "install": "npx -y xmind-mcp"
+}

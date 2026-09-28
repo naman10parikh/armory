@@ -1,0 +1,7 @@
+{
+  "name": "ui-architect-mcp",
+  "description": "Enables AI assistants to generate production-ready, professional UI design systems and components from simple descriptions, with real images, animated components, and automated quality checks.",
+  "source_repo": "foduucom/UI-Architect-MCP",
+  "source_url": "https://github.com/foduucom/UI-Architect-MCP",
+  "install": "npx -y UI-Architect-MCP"
+}

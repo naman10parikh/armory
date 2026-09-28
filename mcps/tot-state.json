@@ -1,0 +1,7 @@
+{
+  "name": "tot-state",
+  "description": "Enables persistent storage and retrieval of Tree of Thought search states in PostgreSQL, allowing the travel agent to maintain reasoning context across multi-turn itinerary optimization.",
+  "source_repo": "anthonywang-sg/Personal-Travel-Agent",
+  "source_url": "https://github.com/anthonywang-sg/Personal-Travel-Agent",
+  "install": "# git clone --depth 1 https://github.com/anthonywang-sg/Personal-Travel-Agent\n# See source for mcpServers config block"
+}

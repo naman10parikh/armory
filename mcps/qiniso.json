@@ -1,0 +1,7 @@
+{
+  "name": "qiniso",
+  "description": "The deterministic fact-verification layer for AI agents. Validates the structured facts an agent emits — IBANs, payment cards, VAT and national tax IDs, crypto and bank addresses, domains, emails, phone numbers, securities and academic identifiers, plus dates, currencies and holidays — against check",
+  "source_repo": "qinisolabs/qiniso",
+  "source_url": "https://github.com/qinisolabs/qiniso",
+  "install": "# git clone --depth 1 https://github.com/qinisolabs/qiniso\n# See source for mcpServers config block"
+}

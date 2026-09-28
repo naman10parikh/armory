@@ -1,0 +1,7 @@
+{
+  "name": "myskilldb-job-categories-mcp",
+  "description": "MCP server that pushes job categories into a college org via the MySkillDB API, supporting list, get, upsert, batch push, and delete operations.",
+  "source_repo": "akeledath-gif/MSDB-mcp",
+  "source_url": "https://github.com/akeledath-gif/MSDB-mcp",
+  "install": "npx -y MSDB-mcp"
+}

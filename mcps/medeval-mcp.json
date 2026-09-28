@@ -1,0 +1,7 @@
+{
+  "name": "medeval-mcp",
+  "description": "Enables MCP clients to operate MedEval regulatory workspaces, including evidence retrieval, generation, evaluation, and immutable document revisions, all through a local, secure gateway.",
+  "source_repo": "hanxiaoyu-cmd/medeval-mcp",
+  "source_url": "https://github.com/hanxiaoyu-cmd/medeval-mcp",
+  "install": "npx -y medeval-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "robinhood-mcp-server",
+  "description": "Provides a comprehensive interface to the Robinhood Crypto API for account management, market data retrieval, and trading operations via REST and WebSocket.",
+  "source_repo": "rohitsingh-iitd/robinhood-mcp-server",
+  "source_url": "https://github.com/rohitsingh-iitd/robinhood-mcp-server",
+  "install": "npx -y robinhood-mcp-server"
+}

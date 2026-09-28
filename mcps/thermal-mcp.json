@@ -1,0 +1,7 @@
+{
+  "name": "thermal-mcp",
+  "description": "Print beautiful HTML & Markdown on a $30 thermal receipt printer, straight from your AI agent.",
+  "source_repo": "EthanPany/thermal-mcp",
+  "source_url": "https://github.com/EthanPany/thermal-mcp",
+  "install": "npx -y thermal-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-saxo-openapi",
+  "description": "Provides offline lookup of Saxo Bank OpenAPI endpoint parameters and JSON samples via CLI or MCP tools, enabling token-efficient discovery of endpoint specs without API credentials.",
+  "source_repo": "nohikomiso/mcp-server-saxo-openapi",
+  "source_url": "https://github.com/nohikomiso/mcp-server-saxo-openapi",
+  "install": "# git clone --depth 1 https://github.com/nohikomiso/mcp-server-saxo-openapi\n# See source for mcpServers config block"
+}

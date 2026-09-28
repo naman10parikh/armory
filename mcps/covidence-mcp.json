@@ -1,0 +1,7 @@
+{
+  "name": "covidence-mcp",
+  "description": "Enables Claude to screen studies in Covidence by reading the live page and casting votes based on stored criteria, with all browser navigation handled by Claude itself.",
+  "source_repo": "samrathp29/covidence-mcp",
+  "source_url": "https://github.com/samrathp29/covidence-mcp",
+  "install": "npx -y covidence-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hermitagent",
+  "description": "MCP executor lane for Claude Code, Codex, and Hermes Agent that offloads mechanical repo tasks like edits, tests, and commits to a cheaper or local model.",
+  "source_repo": "cafitac/hermit-agent",
+  "source_url": "https://github.com/cafitac/hermit-agent",
+  "install": "# git clone --depth 1 https://github.com/cafitac/hermit-agent\n# See source for mcpServers config block"
+}

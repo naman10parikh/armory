@@ -1,0 +1,7 @@
+{
+  "name": "vymcp",
+  "description": "MCP server for VyOS routers via VyManager, enabling AI agents to read and manage router configurations with RBAC, audit, and commit-confirm safety.",
+  "source_repo": "Community-VyProjects/VyMCP",
+  "source_url": "https://github.com/Community-VyProjects/VyMCP",
+  "install": "# git clone --depth 1 https://github.com/Community-VyProjects/VyMCP\n# See source for mcpServers config block"
+}

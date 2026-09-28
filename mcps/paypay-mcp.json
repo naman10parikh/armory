@@ -1,0 +1,7 @@
+{
+  "name": "paypay-mcp",
+  "description": "MCP server for the PayPay Open Payment API, enabling QR code creation, payment tracking, refunds, and cancellations with sandbox and production support.",
+  "source_repo": "mrslbt/paypay-mcp",
+  "source_url": "https://github.com/mrslbt/paypay-mcp",
+  "install": "npx -y paypay-mcp"
+}

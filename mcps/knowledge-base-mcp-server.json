@@ -1,0 +1,7 @@
+{
+  "name": "knowledge-base-mcp-server",
+  "description": "Manages projects, requirements, and knowledge entries with full-text search via SQLite FTS5. Provides 19 MCP tools for AI assistants to create, update, search, and delete project data.",
+  "source_repo": "aisho-alex/knowledge_base_mcp",
+  "source_url": "https://github.com/aisho-alex/knowledge_base_mcp",
+  "install": "npx -y knowledge_base_mcp"
+}

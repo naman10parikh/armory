@@ -1,0 +1,7 @@
+{
+  "name": "mcp-newton",
+  "description": "Wraps the Newton math solver API enabling mathematical computations via natural language through the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-newton",
+  "source_url": "https://github.com/pipeworx-io/mcp-newton",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-newton\n# See source for mcpServers config block"
+}

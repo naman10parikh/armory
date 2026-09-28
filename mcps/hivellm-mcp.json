@@ -1,0 +1,7 @@
+{
+  "name": "hivellm-mcp",
+  "description": "Brings a real human expert into Codex or OpenCode by creating a hiveLLM room for message exchange, without using user's API quota or credentials.",
+  "source_repo": "bhuman-ai/hivellm-mcp",
+  "source_url": "https://github.com/bhuman-ai/hivellm-mcp",
+  "install": "npx -y hivellm-mcp"
+}

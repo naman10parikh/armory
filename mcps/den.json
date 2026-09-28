@@ -1,0 +1,7 @@
+{
+  "name": "den",
+  "description": "A remote MCP server for Korean AEC standards (KDS, KCS, KS, building law) that answers with exact clause numbers and confidence scores, and refuses to guess when no grounds are found. It also preserves privacy by never storing query text on disk.",
+  "source_repo": "odd-Innocent/den_archi_mcp",
+  "source_url": "https://github.com/odd-Innocent/den_archi_mcp",
+  "install": "npx -y den_archi_mcp"
+}

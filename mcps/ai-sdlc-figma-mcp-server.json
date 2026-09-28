@@ -1,0 +1,7 @@
+{
+  "name": "ai-sdlc-figma-mcp-server",
+  "description": "Read-only MCP server that wraps the Figma REST API, providing tools like get file metadata, list frames, and export node image URLs for AI SDLC agents.",
+  "source_repo": "vjackk/ai-sdlc-figma-mcp-server",
+  "source_url": "https://github.com/vjackk/ai-sdlc-figma-mcp-server",
+  "install": "npx -y ai-sdlc-figma-mcp-server"
+}

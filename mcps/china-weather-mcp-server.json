@@ -1,6 +1,6 @@
 {
   "name": "china-weather-mcp-server",
-  "description": "China Weather Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "DLYZZT/china-weather-mcp-server",
   "source_url": "https://mcp.so/server/china-weather-mcp-server/DLYZZT",
   "install": "npx -y china-weather-mcp-server"

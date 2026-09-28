@@ -1,0 +1,7 @@
+{
+  "name": "merit-aktiva-mcp",
+  "description": "Exposes ~60 tools for the Merit Aktiva accounting API, covering sales/purchase invoices, payments, customers, vendors, items, general ledger, offers, reference data, and reports with both read and write operations.",
+  "source_repo": "roosa-dev/merit-aktiva-mcp",
+  "source_url": "https://github.com/roosa-dev/merit-aktiva-mcp",
+  "install": "npx -y merit-aktiva-mcp"
+}

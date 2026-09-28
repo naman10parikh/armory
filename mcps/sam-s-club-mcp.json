@@ -1,0 +1,7 @@
+{
+  "name": "sam-s-club-mcp",
+  "description": "Enables AI assistants to read balances, statements, credit card bills, and investments from Sam's Club accounts via Open Finance Brasil, with read-only access.",
+  "source_repo": "mcp-dir/samsclub-mcp",
+  "source_url": "https://github.com/mcp-dir/samsclub-mcp",
+  "install": "npx -y samsclub-mcp"
+}

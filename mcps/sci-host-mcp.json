@@ -1,0 +1,7 @@
+{
+  "name": "sci-host-mcp",
+  "description": "A materials science literature research service that extracts structured knowledge, generates traceable research hypotheses, and validates them through reproducible trials via the Model Context Protocol.",
+  "source_repo": "aceris-sola/sci-host-mcp",
+  "source_url": "https://github.com/aceris-sola/sci-host-mcp",
+  "install": "npx -y sci-host-mcp"
+}

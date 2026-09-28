@@ -1,0 +1,7 @@
+{
+  "name": "dme-mcp-server",
+  "description": "Exposes DME storage O&M actions as MCP V1 tools, enabling management of storage modules such as SAN, NAS, and storage via natural language. It provides per-module MCP endpoints and a root server to enumerate available tools.",
+  "source_repo": "agentic-data-ops/dme-mcp-server",
+  "source_url": "https://github.com/agentic-data-ops/dme-mcp-server",
+  "install": "npx -y dme-mcp-server"
+}

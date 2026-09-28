@@ -1,0 +1,7 @@
+{
+  "name": "metasearchmcp",
+  "description": "Aggregates search results from multiple providers (web, academic, code, finance) with a unified JSON schema, providing both an HTTP API and an MCP server for AI agent tooling.",
+  "source_repo": "gefsikatsinelou/MetaSearchMCP",
+  "source_url": "https://github.com/gefsikatsinelou/MetaSearchMCP",
+  "install": "# git clone --depth 1 https://github.com/gefsikatsinelou/MetaSearchMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openai-api-agent-mcp-server",
+  "description": "Provides tools and integration for building OpenAI API agents, including function calling and fine-tuning data management.",
+  "source_repo": "cc25a/openai-api-agent-project",
+  "source_url": "https://github.com/cc25a/openai-api-agent-project",
+  "install": "# git clone --depth 1 https://github.com/cc25a/openai-api-agent-project\n# See source for mcpServers config block"
+}

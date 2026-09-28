@@ -1,0 +1,7 @@
+{
+  "name": "posebusters-mcp-server",
+  "description": "Validates the physical and chemical plausibility of ligand–protein docking poses using the PoseBusters tool.",
+  "source_repo": "PabloPauling/posebusters-mcp-server",
+  "source_url": "https://github.com/PabloPauling/posebusters-mcp-server",
+  "install": "npx -y posebusters-mcp-server"
+}

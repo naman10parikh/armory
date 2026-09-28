@@ -1,0 +1,7 @@
+{
+  "name": "screenshot-feedback-hook-mcp",
+  "description": "A cross-platform screenshot tool that lets coding agents capture and view their output, enabling self-correction through visual feedback.",
+  "source_repo": "lkh081231/screenshot-feedback-hook-mcp",
+  "source_url": "https://github.com/lkh081231/screenshot-feedback-hook-mcp",
+  "install": "npx -y screenshot-feedback-hook-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arxiv-personalized",
+  "description": "Transforms Chinese queries into ranked arXiv paper recommendations, with translation and semantic reranking, exposed as an MCP endpoint for AI agent integration.",
+  "source_repo": "returnSGD/arxiv_MCP",
+  "source_url": "https://github.com/returnSGD/arxiv_MCP",
+  "install": "npx -y arxiv_MCP"
+}

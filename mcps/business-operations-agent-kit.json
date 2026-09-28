@@ -1,0 +1,7 @@
+{
+  "name": "business-operations-agent-kit",
+  "description": "MCP server that provides read-only business operations tools: list businesses, get status, identify missing inputs, and prepare email drafts/attachment manifests from synthetic evidence, with strict no-send/no-write safeguards.",
+  "source_repo": "mkhragudo/business-operations-agent-kit",
+  "source_url": "https://github.com/mkhragudo/business-operations-agent-kit",
+  "install": "# git clone --depth 1 https://github.com/mkhragudo/business-operations-agent-kit\n# See source for mcpServers config block"
+}

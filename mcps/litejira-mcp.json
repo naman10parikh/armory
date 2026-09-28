@@ -1,0 +1,7 @@
+{
+  "name": "litejira-mcp",
+  "description": "A client-side MCP server that enables AI assistants to interact with the LiteJira issue tracking system for creating, searching, and managing issues via natural language.",
+  "source_repo": "UNTAG-LAB/litejira-mcp",
+  "source_url": "https://github.com/UNTAG-LAB/litejira-mcp",
+  "install": "npx -y litejira-mcp"
+}

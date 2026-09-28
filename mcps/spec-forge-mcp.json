@@ -1,0 +1,7 @@
+{
+  "name": "spec-forge-mcp",
+  "description": "A NestJS MCP server that extracts tables from documents (PDF, etc.) into a single JSON file using OpenRouter's Claude Haiku model.",
+  "source_repo": "faisalkcmvp/spec-forge-mcp",
+  "source_url": "https://github.com/faisalkcmvp/spec-forge-mcp",
+  "install": "npx -y spec-forge-mcp"
+}

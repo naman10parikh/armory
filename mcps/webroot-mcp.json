@@ -1,0 +1,7 @@
+{
+  "name": "webroot-mcp",
+  "description": "MCP server for Webroot (OpenText) endpoint security that exposes GSM console APIs for managing sites, endpoints, groups, policies, threats, and DNS protection via the Unity API.",
+  "source_repo": "MSPbotsAI/webroot-mcp",
+  "source_url": "https://github.com/MSPbotsAI/webroot-mcp",
+  "install": "npx -y webroot-mcp"
+}

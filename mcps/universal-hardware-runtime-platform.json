@@ -1,0 +1,7 @@
+{
+  "name": "universal-hardware-runtime-platform",
+  "description": "Enables AI agents and humans to control various hardware boards (ESP32, Arduino, Raspberry Pi, etc.) through a unified API via MCP, with real-time dashboard support.",
+  "source_repo": "saidul202414006/Universal-Hardware-Runtime-Platform",
+  "source_url": "https://github.com/saidul202414006/Universal-Hardware-Runtime-Platform",
+  "install": "# git clone --depth 1 https://github.com/saidul202414006/Universal-Hardware-Runtime-Platform\n# See source for mcpServers config block"
+}

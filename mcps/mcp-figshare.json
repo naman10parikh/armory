@@ -1,0 +1,7 @@
+{
+  "name": "mcp-figshare",
+  "description": "Enables searching Figshare research articles, datasets, papers, and posters through the MCP protocol.",
+  "source_repo": "pipeworx-io/mcp-figshare",
+  "source_url": "https://github.com/pipeworx-io/mcp-figshare",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-figshare\n# See source for mcpServers config block"
+}

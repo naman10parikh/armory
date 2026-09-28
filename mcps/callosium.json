@@ -1,0 +1,7 @@
+{
+  "name": "callosium",
+  "description": "One shared memory for every AI you use, in plain Markdown files you own. Teach one AI something and the rest know it, with per-AI folder permissions so each assistant only sees what you allow.",
+  "source_repo": "callosium/callosium",
+  "source_url": "https://github.com/callosium/callosium",
+  "install": "# git clone --depth 1 https://github.com/callosium/callosium\n# See source for mcpServers config block"
+}

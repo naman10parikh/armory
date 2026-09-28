@@ -1,0 +1,7 @@
+{
+  "name": "infinitepay-mcp",
+  "description": "Connects InfinitePay accounts via Open Finance Brasil to query balances, statements, credit card bills, investments, and loans using natural language through any MCP client. Read-only and LGPD compliant.",
+  "source_repo": "mcp-dir/infinitepay-mcp",
+  "source_url": "https://github.com/mcp-dir/infinitepay-mcp",
+  "install": "npx -y infinitepay-mcp"
+}

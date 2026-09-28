@@ -1,0 +1,7 @@
+{
+  "name": "agent-audit-trail",
+  "description": "MCP server providing immutable audit logging, policy enforcement, and compliance reporting for AI agent workflows, enabling regulatory compliance and chain integrity verification.",
+  "source_repo": "dtjohnson83/agent-audit-trail",
+  "source_url": "https://github.com/dtjohnson83/agent-audit-trail",
+  "install": "# git clone --depth 1 https://github.com/dtjohnson83/agent-audit-trail\n# See source for mcpServers config block"
+}

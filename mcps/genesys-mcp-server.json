@@ -1,0 +1,7 @@
+{
+  "name": "genesys-mcp-server",
+  "description": "A read-only MCP server that exposes Genesys Cloud queue lookup, analytics aggregates, and conversation search tools, enabling natural language queries for contact center metrics.",
+  "source_repo": "goodellcurtisPFG/genesys-mcp-server",
+  "source_url": "https://github.com/goodellcurtisPFG/genesys-mcp-server",
+  "install": "npx -y genesys-mcp-server"
+}

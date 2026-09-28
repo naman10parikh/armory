@@ -1,0 +1,7 @@
+{
+  "name": "insurance-wiki-mcp-server",
+  "description": "A read-only MCP server providing tools to search and retrieve insurance product information, coverage details, and compare policies from a pre-built knowledge graph of Belgian insurance products, with verbatim citations from source PDFs.",
+  "source_repo": "sluyasu/OpenInsurance",
+  "source_url": "https://github.com/sluyasu/OpenInsurance",
+  "install": "# git clone --depth 1 https://github.com/sluyasu/OpenInsurance\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sofascore-mcp",
+  "description": "An MCP server that answers football questions with interactive widgets, centered on the 2026 FIFA World Cup using SofaScore API data.",
+  "source_repo": "TejasQ/sofascore-mcp",
+  "source_url": "https://github.com/TejasQ/sofascore-mcp",
+  "install": "npx -y sofascore-mcp"
+}

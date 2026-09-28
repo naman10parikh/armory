@@ -1,0 +1,7 @@
+{
+  "name": "crux-mcp-server",
+  "description": "Federates UI component registries, enabling AI agents to fetch exact component code, dependencies, and setup prerequisites directly into the workspace. Includes sandboxed previews, anti-slop layout auditing, and offline-to-cloud telemetry sync.",
+  "source_repo": "JustineDevs/CRUX",
+  "source_url": "https://github.com/JustineDevs/CRUX",
+  "install": "# git clone --depth 1 https://github.com/JustineDevs/CRUX\n# See source for mcpServers config block"
+}

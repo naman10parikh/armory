@@ -1,0 +1,7 @@
+{
+  "name": "sonic-boom",
+  "description": "Encodes a TypeScript/JavaScript codebase into a deterministic PNG heatmap that vision-capable AI models can read to bypass token limits for codebase-scale audits.",
+  "source_repo": "FDiskas/sonic-boom",
+  "source_url": "https://github.com/FDiskas/sonic-boom",
+  "install": "# git clone --depth 1 https://github.com/FDiskas/sonic-boom\n# See source for mcpServers config block"
+}

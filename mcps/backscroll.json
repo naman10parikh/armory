@@ -1,0 +1,7 @@
+{
+  "name": "backscroll",
+  "description": "Records your terminal sessions per command (PTY + OSC 133) into local SQLite, so AI agents can search, retrieve, and diff what commands actually printed. Secret redaction is applied by default to everything served over MCP.",
+  "source_repo": "soren-achebe/backscroll",
+  "source_url": "https://github.com/soren-achebe/backscroll",
+  "install": "# git clone --depth 1 https://github.com/soren-achebe/backscroll\n# See source for mcpServers config block"
+}

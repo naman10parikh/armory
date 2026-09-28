@@ -1,0 +1,7 @@
+{
+  "name": "cryo-mcp",
+  "description": "Enables natural language querying of blockchain data, including blocks, transactions, logs, and more, powered by Cryo and Reth, with optional micropayment integration via Payflow.",
+  "source_repo": "chainbound/cryo-mcp",
+  "source_url": "https://github.com/chainbound/cryo-mcp",
+  "install": "npx -y cryo-mcp"
+}

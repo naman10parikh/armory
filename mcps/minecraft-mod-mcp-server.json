@@ -1,0 +1,7 @@
+{
+  "name": "minecraft-mod-mcp-server",
+  "description": "Enables Minecraft modpack development by generating FTB Quests chapters and tasks, KubeJS scripts (weapons, armor, recipes), validating SNBT/config files, and providing diagnostic checks.",
+  "source_repo": "dcd887/minecraft-mcp-server",
+  "source_url": "https://github.com/dcd887/minecraft-mcp-server",
+  "install": "npx -y minecraft-mcp-server"
+}

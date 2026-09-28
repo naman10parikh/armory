@@ -1,0 +1,7 @@
+{
+  "name": "buymeapie-mcp",
+  "description": "MCP server for Buy Me A Pie that allows managing shopping lists and items through natural language.",
+  "source_repo": "glitchcrab/buy-me-a-pie-mcp",
+  "source_url": "https://github.com/glitchcrab/buy-me-a-pie-mcp",
+  "install": "npx -y buy-me-a-pie-mcp"
+}

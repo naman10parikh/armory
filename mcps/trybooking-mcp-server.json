@@ -1,0 +1,7 @@
+{
+  "name": "trybooking-mcp-server",
+  "description": "An MCP server that wraps the TryBooking Reporting API, enabling AI assistants like Claude to query bookings, events, sales reports, and attendance scans.",
+  "source_repo": "marek-knappe/TryBookingMCP",
+  "source_url": "https://github.com/marek-knappe/TryBookingMCP",
+  "install": "# git clone --depth 1 https://github.com/marek-knappe/TryBookingMCP\n# See source for mcpServers config block"
+}

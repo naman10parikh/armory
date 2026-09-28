@@ -1,0 +1,7 @@
+{
+  "name": "harness-mcp",
+  "description": "An MCP server that owns the harness: your project's constitution, structure, design rules, requirements and phased tasks. The agent reads it, writes code from it, and may only propose changes to it.",
+  "source_repo": "mykolariabokon/harness-mcp",
+  "source_url": "https://github.com/mykolariabokon/harness-mcp",
+  "install": "npx -y harness-mcp"
+}

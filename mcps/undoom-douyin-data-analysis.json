@@ -1,0 +1,7 @@
+{
+  "name": "undoom-douyin-data-analysis",
+  "description": "Enables to search, analyze, and export Douyin (TikTok China) video and user data, including interaction metrics, content length, and keyword trends.",
+  "source_repo": "kk520879/undoom-douyin-data-analysis",
+  "source_url": "https://github.com/kk520879/undoom-douyin-data-analysis",
+  "install": "# git clone --depth 1 https://github.com/kk520879/undoom-douyin-data-analysis\n# See source for mcpServers config block"
+}

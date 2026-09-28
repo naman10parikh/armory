@@ -1,0 +1,7 @@
+{
+  "name": "youtube-whisper-mcp",
+  "description": "MCP server for YouTube video summarization via Whisper transcription, enabling summarization and transcript retrieval without relying on subtitles.",
+  "source_repo": "rickycm/youtube-whisper-mcp",
+  "source_url": "https://github.com/rickycm/youtube-whisper-mcp",
+  "install": "npx -y youtube-whisper-mcp"
+}

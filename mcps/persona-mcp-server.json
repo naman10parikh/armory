@@ -1,0 +1,7 @@
+{
+  "name": "persona-mcp-server",
+  "description": "Enables AI assistants to control a desktop virtual character (VRM) by playing animations, showing/hiding the character, and checking runtime status through the MCP protocol.",
+  "source_repo": "staro1314/codex-persona",
+  "source_url": "https://github.com/staro1314/codex-persona",
+  "install": "# git clone --depth 1 https://github.com/staro1314/codex-persona\n# See source for mcpServers config block"
+}

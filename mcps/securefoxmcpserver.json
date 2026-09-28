@@ -1,0 +1,7 @@
+{
+  "name": "securefoxmcpserver",
+  "description": "Enables secure browser control and automation through MCP, adding domain validation to tab-specific operations while preserving navigation, content, window, history, bookmark, and request-monitoring tools.",
+  "source_repo": "prog76/mcp_secure-fox",
+  "source_url": "https://github.com/prog76/mcp_secure-fox",
+  "install": "# git clone --depth 1 https://github.com/prog76/mcp_secure-fox\n# See source for mcpServers config block"
+}

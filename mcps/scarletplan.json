@@ -1,0 +1,7 @@
+{
+  "name": "scarletplan",
+  "description": "Local-first Rutgers course planning assistant that answers 'what should I take and when?' using a CP-SAT solver, real transcript data, and live SOC data, connected to Claude via MCP.",
+  "source_repo": "heetshah15/scarletplan",
+  "source_url": "https://github.com/heetshah15/scarletplan",
+  "install": "# git clone --depth 1 https://github.com/heetshah15/scarletplan\n# See source for mcpServers config block"
+}

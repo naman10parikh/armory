@@ -1,0 +1,7 @@
+{
+  "name": "airsstool",
+  "description": "Enables AI agents to discover, fetch, and manage RSS feeds from 1500+ websites via RSSHub, with subscription groups and content filtering.",
+  "source_repo": "heqi201255/airsstool",
+  "source_url": "https://github.com/heqi201255/airsstool",
+  "install": "# git clone --depth 1 https://github.com/heqi201255/airsstool\n# See source for mcpServers config block"
+}

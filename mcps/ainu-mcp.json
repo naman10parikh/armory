@@ -1,0 +1,7 @@
+{
+  "name": "ainu-mcp",
+  "description": "A hosted Model Context Protocol server for the Ainu-language toolchain, enabling LLMs to edit the Itak-uoeroskip glossary, search corpora, dictionaries, and grammar resources, and perform script conversion.",
+  "source_repo": "aynumosir/ainu-mcp",
+  "source_url": "https://github.com/aynumosir/ainu-mcp",
+  "install": "npx -y ainu-mcp"
+}

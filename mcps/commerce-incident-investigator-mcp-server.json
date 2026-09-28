@@ -1,0 +1,7 @@
+{
+  "name": "commerce-incident-investigator-mcp-server",
+  "description": "Enables AI agents to investigate commerce incidents where a payment was captured but no order was created, by checking payment/order status and creating or updating incident escalations for human review. It also provides tools to list open escalations and check escalation status, without ever taking",
+  "source_repo": "Kalpesh1Sharma/Diligence_mcp",
+  "source_url": "https://github.com/Kalpesh1Sharma/Diligence_mcp",
+  "install": "npx -y Diligence_mcp"
+}

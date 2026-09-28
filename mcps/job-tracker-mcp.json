@@ -1,0 +1,7 @@
+{
+  "name": "job-tracker-mcp",
+  "description": "Enables users to manage job applications (add, list, update status) through natural language conversations, using Notion as the backend.",
+  "source_repo": "edwardyun12/job-tracker-mcp",
+  "source_url": "https://github.com/edwardyun12/job-tracker-mcp",
+  "install": "npx -y job-tracker-mcp"
+}

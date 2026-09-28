@@ -1,0 +1,7 @@
+{
+  "name": "4everland-hosting-mcp",
+  "description": "Enables AI-driven deployment of code to decentralized storage networks like Greenfield, IPFS, and Arweave, providing instantly accessible webpage domains.",
+  "source_repo": "4everland/4everland-hosting-mcp",
+  "source_url": "https://github.com/4everland/4everland-hosting-mcp",
+  "install": "npx -y 4everland-hosting-mcp"
+}

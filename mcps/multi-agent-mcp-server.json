@@ -1,0 +1,7 @@
+{
+  "name": "multi-agent-mcp-server",
+  "description": "Provides 7 tools for weather (geocoding, current conditions) and country data (capital, currency, population, dial code, flag) via Open-Meteo and CountriesNow APIs, designed for multi-agent AI systems.",
+  "source_repo": "jamalla/multi-agent-mcp",
+  "source_url": "https://github.com/jamalla/multi-agent-mcp",
+  "install": "npx -y multi-agent-mcp"
+}

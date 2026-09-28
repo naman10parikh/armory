@@ -1,0 +1,7 @@
+{
+  "name": "dev-tool-config-sync-mcp-server",
+  "description": "Syncs and manages configurations for dev tools like Claude Code and Gemini CLI across workspaces with snapshot history and rollback capabilities.",
+  "source_repo": "akurinnoy/config-sync-mcp",
+  "source_url": "https://github.com/akurinnoy/config-sync-mcp",
+  "install": "npx -y config-sync-mcp"
+}

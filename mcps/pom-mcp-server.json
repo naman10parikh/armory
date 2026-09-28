@@ -1,0 +1,7 @@
+{
+  "name": "pom-mcp-server",
+  "description": "Generates PowerPoint presentations from POM format JSON, enabling AI agents to create .pptx files directly from natural language instructions.",
+  "source_repo": "OuchiniKaeru/mcp-pom-pptx",
+  "source_url": "https://github.com/OuchiniKaeru/mcp-pom-pptx",
+  "install": "# git clone --depth 1 https://github.com/OuchiniKaeru/mcp-pom-pptx\n# See source for mcpServers config block"
+}

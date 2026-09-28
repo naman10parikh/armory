@@ -1,0 +1,7 @@
+{
+  "name": "7pace-timetracker-mcp-server",
+  "description": "Enables natural language time tracking through AI assistants, integrating with Azure DevOps to log, view, and report work hours without context switching.",
+  "source_repo": "NickHeupermanBlinqx/7pace-mcp-server",
+  "source_url": "https://github.com/NickHeupermanBlinqx/7pace-mcp-server",
+  "install": "npx -y 7pace-mcp-server"
+}

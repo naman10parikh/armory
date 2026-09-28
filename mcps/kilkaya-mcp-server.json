@@ -1,0 +1,7 @@
+{
+  "name": "kilkaya-mcp-server",
+  "description": "MCP server for the Kilkaya analytics API, enabling querying analytics data, listing schemas, and retrieving metadata via MCP tools.",
+  "source_repo": "mxfksta/mcp_server_kilkaya",
+  "source_url": "https://github.com/mxfksta/mcp_server_kilkaya",
+  "install": "# git clone --depth 1 https://github.com/mxfksta/mcp_server_kilkaya\n# See source for mcpServers config block"
+}

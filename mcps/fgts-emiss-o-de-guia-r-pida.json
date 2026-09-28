@@ -1,0 +1,7 @@
+{
+  "name": "fgts-emiss-o-de-guia-r-pida",
+  "description": "MCP server for querying FGTS quick guide issuance from official sources. Provides read-only access to FGTS guide data with pay-per-use pricing and works with any MCP-compatible client.",
+  "source_repo": "mcp-dir/fgts_guia_rapida-mcp",
+  "source_url": "https://github.com/mcp-dir/fgts_guia_rapida-mcp",
+  "install": "npx -y fgts_guia_rapida-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "github-issue-relationships-mcp-server",
+  "description": "An MCP server that provides tools for managing GitHub issue relationships, including tracking dependencies, blockers, and sub-issues.",
+  "source_repo": "chuks-qua/github-issues-mcp-server",
+  "source_url": "https://github.com/chuks-qua/github-issues-mcp-server",
+  "install": "npx -y github-issues-mcp-server"
+}

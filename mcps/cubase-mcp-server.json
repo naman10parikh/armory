@@ -1,0 +1,7 @@
+{
+  "name": "cubase-mcp-server",
+  "description": "Enables headless control of Cubase via MIDI Remote API and virtual MIDI ports, supporting transport, track, and plugin parameter operations through 238 registered MCP tools.",
+  "source_repo": "PIXELHIZE/CubaseMCP",
+  "source_url": "https://github.com/PIXELHIZE/CubaseMCP",
+  "install": "# git clone --depth 1 https://github.com/PIXELHIZE/CubaseMCP\n# See source for mcpServers config block"
+}

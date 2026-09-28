@@ -1,0 +1,7 @@
+{
+  "name": "pg-python-mcp",
+  "description": "A PostgreSQL MCP server with AST-based security for safe database operations. Enables AI assistants to query and manage PostgreSQL databases securely.",
+  "source_repo": "hexonal/pg-python-mcp",
+  "source_url": "https://github.com/hexonal/pg-python-mcp",
+  "install": "npx -y pg-python-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gbrain-for-bos",
+  "description": "This MCP server provides a cost-optimized personal-knowledge brain, enabling AI agents to query imported documents via hybrid search and synthesis at minimal monthly spend.",
+  "source_repo": "cynthiajones34/GBrain",
+  "source_url": "https://github.com/cynthiajones34/GBrain",
+  "install": "# git clone --depth 1 https://github.com/cynthiajones34/GBrain\n# See source for mcpServers config block"
+}

@@ -1,6 +1,6 @@
 {
   "name": "mcp-servers-collection",
-  "description": "Mcp Servers Collection MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "fpardon-upeo/mcp-servers-collection",
   "source_url": "https://mcp.so/server/mcp-servers-collection/fpardon-upeo",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-servers-collection/fpardon-upeo\n# See source for mcpServers config block"

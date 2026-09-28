@@ -1,0 +1,7 @@
+{
+  "name": "matter-mcp-server",
+  "description": "Enables AI assistants to directly interact with Matter devices and protocol operations, including device commissioning, attribute read/write, commands, and event monitoring, through natural language.",
+  "source_repo": "MatterCoder/matter-mcp-server",
+  "source_url": "https://github.com/MatterCoder/matter-mcp-server",
+  "install": "npx -y matter-mcp-server"
+}

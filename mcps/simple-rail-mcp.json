@@ -1,0 +1,7 @@
+{
+  "name": "simple-rail-mcp",
+  "description": "Enables controlling linear rails via natural language commands through Claude AI in Cursor, supporting HTTP, serial, and G-code controllers with configurable positions.",
+  "source_repo": "global-mysterysnailrevolution/simple-rail-mcp",
+  "source_url": "https://github.com/global-mysterysnailrevolution/simple-rail-mcp",
+  "install": "npx -y simple-rail-mcp"
+}

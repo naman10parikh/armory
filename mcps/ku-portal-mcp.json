@@ -1,0 +1,7 @@
+{
+  "name": "ku-portal-mcp",
+  "description": "Enables Korea University students to query their KUPID portal and Canvas LMS using natural language for notices, library seats, timetable, grades, courses, and assignments.",
+  "source_repo": "SonAIengine/ku-portal-mcp",
+  "source_url": "https://github.com/SonAIengine/ku-portal-mcp",
+  "install": "npx -y ku-portal-mcp"
+}

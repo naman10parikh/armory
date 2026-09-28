@@ -1,0 +1,7 @@
+{
+  "name": "sd-neo-mcp",
+  "description": "MCP server and CLI tool connecting to SD WebUI Forge NEO, enabling image generation, model management, and more via natural language.",
+  "source_repo": "wuytg/sd-neo-mcp",
+  "source_url": "https://github.com/wuytg/sd-neo-mcp",
+  "install": "npx -y sd-neo-mcp"
+}

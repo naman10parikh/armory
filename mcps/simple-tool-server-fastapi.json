@@ -1,0 +1,7 @@
+{
+  "name": "simple-tool-server-fastapi",
+  "description": "MCP server exposing basic utility functions like addition, current time, and word counting via FastAPI endpoints, designed for learning and extending toward MCP architecture.",
+  "source_repo": "sejalpatole/Simple-Tool-Server-Fastapi",
+  "source_url": "https://github.com/sejalpatole/Simple-Tool-Server-Fastapi",
+  "install": "# git clone --depth 1 https://github.com/sejalpatole/Simple-Tool-Server-Fastapi\n# See source for mcpServers config block"
+}

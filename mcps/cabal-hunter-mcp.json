@@ -1,0 +1,7 @@
+{
+  "name": "cabal-hunter-mcp",
+  "description": "On-chain Solana cabal & rug detection as an MCP server. Scans any Solana token mint before your agent buys and returns an Exit-Liquidity Risk verdict.",
+  "source_repo": "paulf280-ui/cabal-hunter-mcp",
+  "source_url": "https://github.com/paulf280-ui/cabal-hunter-mcp",
+  "install": "npx -y cabal-hunter-mcp"
+}

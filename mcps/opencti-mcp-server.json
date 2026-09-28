@@ -1,0 +1,7 @@
+{
+  "name": "opencti-mcp-server",
+  "description": "Enables AI assistants to query and manage OpenCTI threat intelligence data, including indicators, observables, reports, malware, and more, with read-only and optional write operations.",
+  "source_repo": "Space-C0wboy/OpenCTI-MCP-Server",
+  "source_url": "https://github.com/Space-C0wboy/OpenCTI-MCP-Server",
+  "install": "npx -y OpenCTI-MCP-Server"
+}

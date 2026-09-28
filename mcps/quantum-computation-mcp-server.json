@@ -1,0 +1,7 @@
+{
+  "name": "quantum-computation-mcp-server",
+  "description": "Enables natural language quantum computing by converting English queries to quantum circuits via OpenAI and executing them on IBM Quantum backends or simulators.",
+  "source_repo": "armaasinghn/quantumcompute_mcp",
+  "source_url": "https://github.com/armaasinghn/quantumcompute_mcp",
+  "install": "npx -y quantumcompute_mcp"
+}

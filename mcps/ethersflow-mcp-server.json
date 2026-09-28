@@ -1,0 +1,7 @@
+{
+  "name": "ethersflow-mcp-server",
+  "description": "Enables AI agents to verify proposed actions through federated adversarial consensus among multiple LLMs, providing Ed25519-signed attestations to prevent hallucinations, unverified counterparties, and compliance risks before execution.",
+  "source_repo": "Ethersflow/EthersFlow",
+  "source_url": "https://github.com/Ethersflow/EthersFlow",
+  "install": "# git clone --depth 1 https://github.com/Ethersflow/EthersFlow\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jinike-ai-mcp-server",
+  "description": "Connects Claude to email, calendar, and tasks via Jinike AI, enabling inbox reading, email sending, event creation, task management, and daily briefings through Gmail, Outlook, and Google Calendar integration.",
+  "source_repo": "jinikeai/jinike-mcp-server",
+  "source_url": "https://github.com/jinikeai/jinike-mcp-server",
+  "install": "npx -y jinike-mcp-server"
+}

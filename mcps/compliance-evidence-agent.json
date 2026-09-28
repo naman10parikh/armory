@@ -1,0 +1,7 @@
+{
+  "name": "compliance-evidence-agent",
+  "description": "An MCP server that automates the collection and verification of SOC 2 compliance evidence across multiple systems, detecting gaps and ensuring evidence is current, complete, and properly attested.",
+  "source_repo": "harsha-moparthy/compliance-evidence-agent",
+  "source_url": "https://github.com/harsha-moparthy/compliance-evidence-agent",
+  "install": "# git clone --depth 1 https://github.com/harsha-moparthy/compliance-evidence-agent\n# See source for mcpServers config block"
+}

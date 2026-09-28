@@ -1,0 +1,7 @@
+{
+  "name": "braude-mcp",
+  "description": "A serverless MCP server for Ort Braude College that enables AI assistants to query academic calendar dates, search for courses, and retrieve course schedules and classroom assignments.",
+  "source_repo": "oshriagronov/braude-mcp",
+  "source_url": "https://github.com/oshriagronov/braude-mcp",
+  "install": "npx -y braude-mcp"
+}

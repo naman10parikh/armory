@@ -1,0 +1,7 @@
+{
+  "name": "desktop-ship",
+  "description": "MCP server for controlling a transparent sci-fi cockpit overlay on your desktop, allowing AI agents to spawn, move, configure, and close holographic widgets (clock, system stats, map, etc.) via MCP.",
+  "source_repo": "louisperner/desktop-ship",
+  "source_url": "https://github.com/louisperner/desktop-ship",
+  "install": "# git clone --depth 1 https://github.com/louisperner/desktop-ship\n# See source for mcpServers config block"
+}

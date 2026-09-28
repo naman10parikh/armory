@@ -1,0 +1,7 @@
+{
+  "name": "quartz-sharepoint-mcp",
+  "description": "Mirrors a SharePoint document library to disk and enables AI assistants to search it via natural language queries using opencode.",
+  "source_repo": "husnainsr/quartz-mcp-sharepoint",
+  "source_url": "https://github.com/husnainsr/quartz-mcp-sharepoint",
+  "install": "# git clone --depth 1 https://github.com/husnainsr/quartz-mcp-sharepoint\n# See source for mcpServers config block"
+}

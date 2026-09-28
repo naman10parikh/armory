@@ -1,0 +1,7 @@
+{
+  "name": "powerplatform-mcp-server",
+  "description": "Provides intelligent access to PowerPlatform/Dataverse entities and records, enabling entity metadata exploration, OData querying, relationship mapping, and AI-assisted query building through MCP.",
+  "source_repo": "dayour/powerplatform-mcp",
+  "source_url": "https://github.com/dayour/powerplatform-mcp",
+  "install": "npx -y powerplatform-mcp"
+}

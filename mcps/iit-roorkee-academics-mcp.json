@@ -1,0 +1,7 @@
+{
+  "name": "iit-roorkee-academics-mcp",
+  "description": "Enables interaction with the IIT Roorkee Academics portal through MCP tools for authentication, academic data retrieval (fee, grades, transcripts), and safe API calls.",
+  "source_repo": "goyalayus/iitr-academics-mcp",
+  "source_url": "https://github.com/goyalayus/iitr-academics-mcp",
+  "install": "npx -y iitr-academics-mcp"
+}

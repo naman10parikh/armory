@@ -1,0 +1,7 @@
+{
+  "name": "zendesk-mcp-server",
+  "description": "Enables AI-powered ticket analysis and comprehensive Zendesk API integration via the Model Context Protocol, supporting both API token (CLI) and OAuth 2.1 (web) authentication modes.",
+  "source_repo": "SShadowS/zendesk-mcp-server",
+  "source_url": "https://github.com/SShadowS/zendesk-mcp-server",
+  "install": "npx -y zendesk-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ctxpeek",
+  "description": "MCP server that fetches documentation from public git repositories at specific versions, enabling AI coding assistants to access up-to-date, ref-pinned docs from source repos.",
+  "source_repo": "tamimbinhakim/ctxpeek",
+  "source_url": "https://github.com/tamimbinhakim/ctxpeek",
+  "install": "# git clone --depth 1 https://github.com/tamimbinhakim/ctxpeek\n# See source for mcpServers config block"
+}

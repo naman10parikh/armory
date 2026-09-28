@@ -1,0 +1,7 @@
+{
+  "name": "google-threat-intelligence-mcp-server",
+  "description": "Enables LLM agents to access Google Threat Intelligence data, including IOC search, file/domain/IP/URL analysis, and threat hunting rulesets, for security investigations.",
+  "source_repo": "jmaciasc-google/gti-mcp-server",
+  "source_url": "https://github.com/jmaciasc-google/gti-mcp-server",
+  "install": "npx -y gti-mcp-server"
+}

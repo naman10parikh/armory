@@ -1,0 +1,7 @@
+{
+  "name": "lichess-mcp",
+  "description": "MCP server that exposes the Lichess public API through tools for querying player profiles, games, analysis, openings, puzzles, and tournaments, allowing natural-language chess questions without an API key.",
+  "source_repo": "Anay704/lichess-mcp",
+  "source_url": "https://github.com/Anay704/lichess-mcp",
+  "install": "npx -y lichess-mcp"
+}

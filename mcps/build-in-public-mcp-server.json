@@ -1,0 +1,7 @@
+{
+  "name": "build-in-public-mcp-server",
+  "description": "Enables sharing coding progress on Twitter by analyzing sessions and generating tweet suggestions, with tools for posting tweets, threads, and OAuth authentication.",
+  "source_repo": "lucianfialho/build-in-public-mcp",
+  "source_url": "https://github.com/lucianfialho/build-in-public-mcp",
+  "install": "npx -y build-in-public-mcp"
+}

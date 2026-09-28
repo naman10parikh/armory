@@ -1,0 +1,7 @@
+{
+  "name": "retroweb-mcp",
+  "description": "Enables discovery of 1990s-early 2000s Japanese personal websites from web archives by replaying old discovery routes like directories and web rings, with tools for fetching archived pages and extracting links.",
+  "source_repo": "1llum1n4t1s/Retroweb-MCP",
+  "source_url": "https://github.com/1llum1n4t1s/Retroweb-MCP",
+  "install": "npx -y Retroweb-MCP"
+}

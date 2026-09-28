@@ -1,0 +1,7 @@
+{
+  "name": "watchtowr-platform-mcp-server",
+  "description": "Connects AI assistants to the watchTowr Platform for real-time access to external attack surface data, findings, and threat intelligence. Provides 113 tools for querying and managing assets, findings, hunts, and more.",
+  "source_repo": "watchtowr/watchtowr-mcp",
+  "source_url": "https://github.com/watchtowr/watchtowr-mcp",
+  "install": "npx -y watchtowr-mcp"
+}

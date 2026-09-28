@@ -1,0 +1,7 @@
+{
+  "name": "optimist-mcp-server",
+  "description": "An intelligent code optimization MCP server that analyzes and improves codebases across multiple dimensions including performance, memory, code smells, and complexity.",
+  "source_repo": "Atomic-Germ/mcp-optimist",
+  "source_url": "https://github.com/Atomic-Germ/mcp-optimist",
+  "install": "# git clone --depth 1 https://github.com/Atomic-Germ/mcp-optimist\n# See source for mcpServers config block"
+}

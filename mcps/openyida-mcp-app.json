@@ -1,0 +1,7 @@
+{
+  "name": "openyida-mcp-app",
+  "description": "MCP server that brings interactive UIs for Yida low-code platform into AI chat conversations, enabling app management, form schema preview, and report chart visualization.",
+  "source_repo": "openyida/openyida-mcp-app",
+  "source_url": "https://github.com/openyida/openyida-mcp-app",
+  "install": "# git clone --depth 1 https://github.com/openyida/openyida-mcp-app\n# See source for mcpServers config block"
+}

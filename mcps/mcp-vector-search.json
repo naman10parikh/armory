@@ -1,0 +1,7 @@
+{
+  "name": "mcp-vector-search",
+  "description": "A CLI-first semantic code search tool with MCP integration for AI assistants, enabling semantic search, AST-aware parsing, and code analysis across 13 languages.",
+  "source_repo": "bobmatnyc/mcp-vector-search",
+  "source_url": "https://github.com/bobmatnyc/mcp-vector-search",
+  "install": "# git clone --depth 1 https://github.com/bobmatnyc/mcp-vector-search\n# See source for mcpServers config block"
+}

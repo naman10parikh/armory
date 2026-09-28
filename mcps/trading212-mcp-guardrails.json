@@ -1,0 +1,7 @@
+{
+  "name": "trading212-mcp-guardrails",
+  "description": "An MCP server that exposes the Trading 212 API with a hard-enforced safety layer—including idempotency ledger, circuit breaker, and position limits—to enable safe live and paper trading through natural language.",
+  "source_repo": "sandeepanmukherjee/trading212-mcp-guardrails",
+  "source_url": "https://github.com/sandeepanmukherjee/trading212-mcp-guardrails",
+  "install": "# git clone --depth 1 https://github.com/sandeepanmukherjee/trading212-mcp-guardrails\n# See source for mcpServers config block"
+}

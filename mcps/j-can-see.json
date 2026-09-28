@@ -1,0 +1,7 @@
+{
+  "name": "j-can-see",
+  "description": "MCP server that adds vision capabilities to text-only AI models by sending images (local files, URLs, clipboard, screenshots) to a vision model and returning text descriptions.",
+  "source_repo": "PichurChill/j-can-see",
+  "source_url": "https://github.com/PichurChill/j-can-see",
+  "install": "# git clone --depth 1 https://github.com/PichurChill/j-can-see\n# See source for mcpServers config block"
+}

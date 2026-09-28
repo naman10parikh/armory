@@ -1,0 +1,7 @@
+{
+  "name": "stepfunmcp",
+  "description": "Integrates StepFun API to enable calling text, vision, image generation, and speech models through MCP.",
+  "source_repo": "weidafeng/StepFunMCP",
+  "source_url": "https://github.com/weidafeng/StepFunMCP",
+  "install": "# git clone --depth 1 https://github.com/weidafeng/StepFunMCP\n# See source for mcpServers config block"
+}

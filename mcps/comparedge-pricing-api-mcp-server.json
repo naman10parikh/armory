@@ -1,0 +1,7 @@
+{
+  "name": "comparedge-pricing-api-mcp-server",
+  "description": "Provides verified pricing data for SaaS, AI tools, and LLMs across 490+ tools. No API key required, returns sourced records with attribution links.",
+  "source_repo": "comparedge/pricing-api",
+  "source_url": "https://github.com/comparedge/pricing-api",
+  "install": "# git clone --depth 1 https://github.com/comparedge/pricing-api\n# See source for mcpServers config block"
+}

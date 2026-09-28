@@ -1,0 +1,7 @@
+{
+  "name": "convex-backend",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/convex-backend",
+  "install": "# git clone --depth 1 https://mcp.so/server/convex-backend\n# See source for mcpServers config block"
+}

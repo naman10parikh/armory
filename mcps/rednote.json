@@ -1,6 +1,6 @@
 {
   "name": "rednote",
-  "description": "Rednote MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "kojima/rednote",
   "source_url": "https://mcp.so/server/rednote/kojima",
   "install": "# git clone --depth 1 https://mcp.so/server/rednote/kojima\n# See source for mcpServers config block"

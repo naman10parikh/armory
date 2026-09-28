@@ -1,0 +1,7 @@
+{
+  "name": "mycelium",
+  "description": "An on-call agent for data incidents, built on a bio-inspired context protocol. It triages data quality and freshness issues using DataHub, computing severity, blast radius, and ownership from the catalogue before generating prose.",
+  "source_repo": "dihannahdi/mycelium",
+  "source_url": "https://github.com/dihannahdi/mycelium",
+  "install": "# git clone --depth 1 https://github.com/dihannahdi/mycelium\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ros2-mcp-server",
+  "description": "Connects AI agents like Claude to live ROS2 robots, enabling natural language interaction for diagnostics, parameter tuning, and control with safety sandboxing.",
+  "source_repo": "EngineerAbdullahBinZafar/ros2-mcp-server",
+  "source_url": "https://github.com/EngineerAbdullahBinZafar/ros2-mcp-server",
+  "install": "npx -y ros2-mcp-server"
+}

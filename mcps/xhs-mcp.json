@@ -1,0 +1,7 @@
+{
+  "name": "xhs-mcp",
+  "description": "A MCP server for Xiaohongshu that enables account login, copywriting generation, and automatic publishing with AI-generated images via conversation.",
+  "source_repo": "SoftEgLi/xhs-mcp",
+  "source_url": "https://github.com/SoftEgLi/xhs-mcp",
+  "install": "npx -y xhs-mcp"
+}

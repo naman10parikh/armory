@@ -1,0 +1,7 @@
+{
+  "name": "nuberea-mcp",
+  "description": "Enables AI assistants to perform scholarly biblical research, including cross-references, Greek/Hebrew word studies, exegesis, and manuscript analysis, using NuBerea's theological tools.",
+  "source_repo": "streamsapps/nuberea-mcp",
+  "source_url": "https://github.com/streamsapps/nuberea-mcp",
+  "install": "npx -y nuberea-mcp"
+}

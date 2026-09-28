@@ -1,0 +1,7 @@
+{
+  "name": "hiking-mcp-server",
+  "description": "Allows you to search for hiking routes on Wikiloc using geographic and textual queries.",
+  "source_repo": "Adriapt/hiking-mcp",
+  "source_url": "https://github.com/Adriapt/hiking-mcp",
+  "install": "npx -y hiking-mcp"
+}

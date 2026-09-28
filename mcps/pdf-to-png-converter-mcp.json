@@ -1,0 +1,7 @@
+{
+  "name": "pdf-to-png-converter-mcp",
+  "description": "Enables Claude Code to convert PDF files to high-quality PNG images, download academic papers, and batch process PDFs with automatic folder organization.",
+  "source_repo": "LostSunset/pdf_to_png_converter_mcp",
+  "source_url": "https://github.com/LostSunset/pdf_to_png_converter_mcp",
+  "install": "npx -y pdf_to_png_converter_mcp"
+}

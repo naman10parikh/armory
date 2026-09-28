@@ -1,0 +1,7 @@
+{
+  "name": "log-pruner-mcp-server",
+  "description": "A Python MCP server that reduces token usage by ~98% when working with log files by auto-detecting format and stripping noise to return only actionable signal.",
+  "source_repo": "nrapendra-singh/mcp-log-pruner",
+  "source_url": "https://github.com/nrapendra-singh/mcp-log-pruner",
+  "install": "# git clone --depth 1 https://github.com/nrapendra-singh/mcp-log-pruner\n# See source for mcpServers config block"
+}

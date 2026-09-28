@@ -1,0 +1,7 @@
+{
+  "name": "rustunnel-mcp",
+  "description": "MCP (Model Context Protocol) server for rustunnel. Lets AI agents (Claude Code, Cursor, Windsurf) create and manage public tunnels to local services from inside an agent session.",
+  "source_repo": "joaoh82/rustunnel",
+  "source_url": "https://github.com/joaoh82/rustunnel",
+  "install": "# git clone --depth 1 https://github.com/joaoh82/rustunnel\n# See source for mcpServers config block"
+}

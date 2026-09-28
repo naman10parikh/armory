@@ -1,0 +1,7 @@
+{
+  "name": "tapedeck",
+  "description": "Enables market-data analysis and quantitative research over a local Parquet lake with tools for bars, indicators, scans, backtests, and safe SQL queries.",
+  "source_repo": "AyanBhardwaj1/tape-deck-mcp",
+  "source_url": "https://github.com/AyanBhardwaj1/tape-deck-mcp",
+  "install": "npx -y tape-deck-mcp"
+}

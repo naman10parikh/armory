@@ -1,0 +1,7 @@
+{
+  "name": "townbrief",
+  "description": "Ask about any of Massachusetts' 351 municipal governments — meetings, transcripts, bylaws, news, calendars, and archives.",
+  "source_repo": "davevwatkins/townbrief-mcp",
+  "source_url": "https://github.com/davevwatkins/townbrief-mcp",
+  "install": "npx -y townbrief-mcp"
+}

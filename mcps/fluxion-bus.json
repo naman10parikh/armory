@@ -1,0 +1,7 @@
+{
+  "name": "fluxion-bus",
+  "description": "Enables AI agents to delegate scoped tasks across multiple providers like Codex, Claude Code, and Antigravity through a single local MCP server, with quota monitoring, notifications, and remote control via messaging apps.",
+  "source_repo": "superposed-labs/fluxion-bus",
+  "source_url": "https://github.com/superposed-labs/fluxion-bus",
+  "install": "# git clone --depth 1 https://github.com/superposed-labs/fluxion-bus\n# See source for mcpServers config block"
+}

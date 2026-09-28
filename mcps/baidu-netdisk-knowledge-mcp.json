@@ -1,0 +1,7 @@
+{
+  "name": "baidu-netdisk-knowledge-mcp",
+  "description": "Connects Baidu Netdisk to MCP-compatible AI clients, enabling AI to safely read selected files and generate summaries, key points, to-dos, tags, and organization suggestions.",
+  "source_repo": "capwitf/baidu-netdisk-knowledge-mcp",
+  "source_url": "https://github.com/capwitf/baidu-netdisk-knowledge-mcp",
+  "install": "npx -y baidu-netdisk-knowledge-mcp"
+}

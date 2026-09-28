@@ -1,0 +1,7 @@
+{
+  "name": "io-github-cunicopia-dev-knowledge-graph-rdbms",
+  "description": "An embedded knowledge graph in one SQLite file, exposing a MCP server for agents to read and write entities and relationships with full audit trail and time travel.",
+  "source_repo": "cunicopia-dev/knowledge-graph-rdbms",
+  "source_url": "https://github.com/cunicopia-dev/knowledge-graph-rdbms",
+  "install": "# git clone --depth 1 https://github.com/cunicopia-dev/knowledge-graph-rdbms\n# See source for mcpServers config block"
+}

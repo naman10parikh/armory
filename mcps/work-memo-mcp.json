@@ -1,0 +1,7 @@
+{
+  "name": "work-memo-mcp",
+  "description": "Enables natural language search over business knowledge notes (Markdown files) via the Model Context Protocol, using Cloudflare AI Search for retrieval.",
+  "source_repo": "Koutaro-Hanabusa/work-memo-mcp",
+  "source_url": "https://github.com/Koutaro-Hanabusa/work-memo-mcp",
+  "install": "npx -y work-memo-mcp"
+}

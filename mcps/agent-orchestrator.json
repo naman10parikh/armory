@@ -1,0 +1,7 @@
+{
+  "name": "agent-orchestrator",
+  "description": "Enables multi-model leader-worker agent orchestration, workflow execution, and deterministic validation via structured MCP tools.",
+  "source_repo": "vndmea/agent-orchestrator",
+  "source_url": "https://github.com/vndmea/agent-orchestrator",
+  "install": "# git clone --depth 1 https://github.com/vndmea/agent-orchestrator\n# See source for mcpServers config block"
+}

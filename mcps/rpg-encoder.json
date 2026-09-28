@@ -1,0 +1,7 @@
+{
+  "name": "rpg-encoder",
+  "description": "Provides semantic codebase understanding via a graph, enabling AI agents to search, explore, and plan changes with whole-repo context in a single tool call.",
+  "source_repo": "userFRM/rpg-encoder",
+  "source_url": "https://github.com/userFRM/rpg-encoder",
+  "install": "# git clone --depth 1 https://github.com/userFRM/rpg-encoder\n# See source for mcpServers config block"
+}

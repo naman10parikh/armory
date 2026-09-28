@@ -1,0 +1,7 @@
+{
+  "name": "dialpad-universal-mcp-server",
+  "description": "Enables interaction with Dialpad's tools and services through a unified API, allowing users to manage communications via natural language.",
+  "source_repo": "universal-mcp/dialpad",
+  "source_url": "https://github.com/universal-mcp/dialpad",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/dialpad\n# See source for mcpServers config block"
+}

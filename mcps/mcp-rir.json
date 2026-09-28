@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rir",
+  "description": "Generates room impulse responses as WAV files from natural language descriptions, enabling agents to create realistic or arbitrary reverb for audio production.",
+  "source_repo": "tbimbato/MCP_RiR",
+  "source_url": "https://github.com/tbimbato/MCP_RiR",
+  "install": "# git clone --depth 1 https://github.com/tbimbato/MCP_RiR\n# See source for mcpServers config block"
+}

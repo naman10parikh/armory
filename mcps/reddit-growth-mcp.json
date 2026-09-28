@@ -1,0 +1,7 @@
+{
+  "name": "reddit-growth-mcp",
+  "description": "A toolkit for analyzing subreddits and post patterns to help choose communities and shape posts using real data, running as an MCP server and command-line tool.",
+  "source_repo": "latent-9/reddit-growth-mcp",
+  "source_url": "https://github.com/latent-9/reddit-growth-mcp",
+  "install": "npx -y reddit-growth-mcp"
+}

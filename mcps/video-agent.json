@@ -1,0 +1,7 @@
+{
+  "name": "video-agent",
+  "description": "Enables probing, ingesting, transcribing, and searching Bilibili videos with timestamped evidence and frame extraction, without reading browser cookies.",
+  "source_repo": "Zoean-z/video-mcp",
+  "source_url": "https://github.com/Zoean-z/video-mcp",
+  "install": "npx -y video-mcp"
+}

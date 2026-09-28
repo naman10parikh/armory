@@ -1,0 +1,7 @@
+{
+  "name": "google-chat-mcp",
+  "description": "An MCP server that connects Claude to your Google Chat workspace, enabling search of messages, spaces, and DMs with automatic resolution of real display names.",
+  "source_repo": "yashasawarokt/google-chat-mcp",
+  "source_url": "https://github.com/yashasawarokt/google-chat-mcp",
+  "install": "npx -y google-chat-mcp"
+}

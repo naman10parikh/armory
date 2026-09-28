@@ -1,0 +1,7 @@
+{
+  "name": "minimal-mcp-web-search",
+  "description": "Provides local LLMs with web search and page fetching capabilities via MCP, with a focus on OWASP security best practices.",
+  "source_repo": "akuttruff/minimal-mcp-web-search",
+  "source_url": "https://github.com/akuttruff/minimal-mcp-web-search",
+  "install": "# git clone --depth 1 https://github.com/akuttruff/minimal-mcp-web-search\n# See source for mcpServers config block"
+}

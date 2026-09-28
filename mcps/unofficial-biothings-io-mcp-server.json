@@ -1,0 +1,7 @@
+{
+  "name": "unofficial-biothings-io-mcp-server",
+  "description": "Provides access to BioThings.io APIs for comprehensive gene and variant annotations, enabling seamless integration of biological data into workflows.",
+  "source_repo": "Augmented-Nature/BioThings-MCP-Server",
+  "source_url": "https://github.com/Augmented-Nature/BioThings-MCP-Server",
+  "install": "npx -y BioThings-MCP-Server"
+}

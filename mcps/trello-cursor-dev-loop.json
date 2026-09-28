@@ -1,0 +1,7 @@
+{
+  "name": "trello-cursor-dev-loop",
+  "description": "Enables human-in-the-loop AI development where Trello tickets drive analysis, implementation, commits, and board sync in Cursor.",
+  "source_repo": "Mih-Nig-Afe/MCP-Dev-Loop-Trello-Cursor-GitHub",
+  "source_url": "https://github.com/Mih-Nig-Afe/MCP-Dev-Loop-Trello-Cursor-GitHub",
+  "install": "# git clone --depth 1 https://github.com/Mih-Nig-Afe/MCP-Dev-Loop-Trello-Cursor-GitHub\n# See source for mcpServers config block"
+}

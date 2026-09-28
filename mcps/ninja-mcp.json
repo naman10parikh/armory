@@ -1,0 +1,7 @@
+{
+  "name": "ninja-mcp",
+  "description": "MCP server for AI agents to interact with the Ninja/AnaNinja mobile API, enabling mobile-compatible auth, address management, retail/grocery product search, draft order validation, and checkout/payment flows.",
+  "source_repo": "Khaled-Harthi/Ninja-MCP",
+  "source_url": "https://github.com/Khaled-Harthi/Ninja-MCP",
+  "install": "npx -y Ninja-MCP"
+}

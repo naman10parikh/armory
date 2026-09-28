@@ -1,0 +1,7 @@
+{
+  "name": "lrdisco2-rag-mcp",
+  "description": "Provides a single tool to query a knowledge base of the Land Rover Discovery II maintenance manual, using RAG with LLAMA 3 and ChromaDB.",
+  "source_repo": "TommiA/LRDISCO2_RAG_MCP",
+  "source_url": "https://github.com/TommiA/LRDISCO2_RAG_MCP",
+  "install": "npx -y LRDISCO2_RAG_MCP"
+}

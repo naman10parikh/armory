@@ -1,0 +1,7 @@
+{
+  "name": "world-bank-indicators-mcp-server",
+  "description": "Provides access to World Bank economic and country data without an API key, allowing users to search countries, fetch indicator time series, and compare latest values.",
+  "source_repo": "ryanngit/world-bank-indicators-mcp",
+  "source_url": "https://github.com/ryanngit/world-bank-indicators-mcp",
+  "install": "npx -y world-bank-indicators-mcp"
+}

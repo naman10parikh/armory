@@ -1,0 +1,7 @@
+{
+  "name": "selibiks-bubble-mcp",
+  "description": "MCP server for Bubble.io that provides 28 tools for querying data, auditing schemas, seeding test records, and more, with three security layers and configurable modes.",
+  "source_repo": "sELIBIKS/bubble-mcp",
+  "source_url": "https://github.com/sELIBIKS/bubble-mcp",
+  "install": "npx -y bubble-mcp"
+}

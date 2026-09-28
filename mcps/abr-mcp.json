@@ -1,0 +1,7 @@
+{
+  "name": "abr-mcp",
+  "description": "Enables querying and searching the Japanese Address Base Registry (ABR) data definitions and official documentation, including field definitions, datasets, and policy documents through tools like list_datasets, get_dataset, search_field, and search_docs.",
+  "source_repo": "zero3kw/abr-mcp",
+  "source_url": "https://github.com/zero3kw/abr-mcp",
+  "install": "npx -y abr-mcp"
+}

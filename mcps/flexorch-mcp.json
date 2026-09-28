@@ -1,0 +1,7 @@
+{
+  "name": "flexorch-mcp",
+  "description": "Enables Claude and other MCP-compatible agents to process documents, extract structured data, detect PII, and export LLM-ready datasets through natural language tool calls.",
+  "source_repo": "flexorch/flexorch-mcp",
+  "source_url": "https://github.com/flexorch/flexorch-mcp",
+  "install": "npx -y flexorch-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "canlii-mcp",
+  "description": "Provides access to the CanLII API for searching and retrieving Canadian legal information, including court decisions, legislation, and citations.",
+  "source_repo": "Alhwyn/canlii-mcp",
+  "source_url": "https://github.com/Alhwyn/canlii-mcp",
+  "install": "npx -y canlii-mcp"
+}

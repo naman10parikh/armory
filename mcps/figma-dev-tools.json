@@ -1,0 +1,7 @@
+{
+  "name": "figma-dev-tools",
+  "description": "Enables conversion of Figma designs into frontend code (React, Vue, HTML, etc.) with high fidelity, including design tokens, assets, and responsive layout. Integrates with AI editors via MCP for a seamless design-to-code workflow.",
+  "source_repo": "qq1006492122/figma-dev-tools",
+  "source_url": "https://github.com/qq1006492122/figma-dev-tools",
+  "install": "# git clone --depth 1 https://github.com/qq1006492122/figma-dev-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "outline-rbac-mcp",
+  "description": "MCP server that provides role-based access control for Outline workspaces, allowing users to interact with docs, users, and admin tools according to their assigned role.",
+  "source_repo": "pritesh-knowai/outline-rbac-mcp",
+  "source_url": "https://github.com/pritesh-knowai/outline-rbac-mcp",
+  "install": "npx -y outline-rbac-mcp"
+}

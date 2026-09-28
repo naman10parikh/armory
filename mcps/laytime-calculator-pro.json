@@ -1,0 +1,7 @@
+{
+  "name": "laytime-calculator-pro",
+  "description": "AI-powered laytime, demurrage and despatch calculation for ship chartering. Send a Charter Party, Fixture Recap, NOR or Statement of Facts as text or files (PDF, image, Excel) and get a full, auditable laytime statement. Available as a REST API and an MCP server.",
+  "source_repo": "shipping-ship-it/laytime-calculator-pro",
+  "source_url": "https://github.com/shipping-ship-it/laytime-calculator-pro",
+  "install": "# git clone --depth 1 https://github.com/shipping-ship-it/laytime-calculator-pro\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ezd-puw-mcp",
+  "description": "MCP server for the EZD PUW electronic document management system of Polish public administration, providing 91 tools covering the full API for documents, cases, correspondence, ePUAP, eDelivery, blockchain, and more.",
+  "source_repo": "gacabartosz/ezd-puw-mcp",
+  "source_url": "https://github.com/gacabartosz/ezd-puw-mcp",
+  "install": "npx -y ezd-puw-mcp"
+}

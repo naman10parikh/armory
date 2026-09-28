@@ -1,0 +1,7 @@
+{
+  "name": "adios-mcp",
+  "description": "Enables interacting with Adios workspaces, previews, builds, logs, and deployments from MCP clients. Hosted service at Adios, no local deployment needed.",
+  "source_repo": "adiosdotdev/mcp",
+  "source_url": "https://github.com/adiosdotdev/mcp",
+  "install": "# git clone --depth 1 https://github.com/adiosdotdev/mcp\n# See source for mcpServers config block"
+}

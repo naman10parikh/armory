@@ -1,0 +1,7 @@
+{
+  "name": "scopus-mcp-server-2",
+  "description": "Scopus MCP Server enables researchers to interact with the Scopus database through natural language. It provides tools for searching documents, fetching abstracts, finding author profiles, and viewing citation overviews.",
+  "source_repo": "diplococcus94/scopus-mcp-server",
+  "source_url": "https://github.com/diplococcus94/scopus-mcp-server",
+  "install": "npx -y scopus-mcp-server"
+}

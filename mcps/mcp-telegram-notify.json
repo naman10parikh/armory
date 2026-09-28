@@ -1,0 +1,7 @@
+{
+  "name": "mcp-telegram-notify",
+  "description": "MCP server for sending Telegram messages and scheduling reminders, supporting multiple transports and Docker deployment.",
+  "source_repo": "rizzee/mcp-telegram-notify",
+  "source_url": "https://github.com/rizzee/mcp-telegram-notify",
+  "install": "# git clone --depth 1 https://github.com/rizzee/mcp-telegram-notify\n# See source for mcpServers config block"
+}

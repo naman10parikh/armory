@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arcgis-orovalley",
+  "description": "Enables querying and exploring ArcGIS geospatial data from Town of Oro Valley, Arizona, including parcels, zoning, and city services.",
+  "source_repo": "pipeworx-io/mcp-arcgis-orovalley",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-orovalley",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-orovalley\n# See source for mcpServers config block"
+}

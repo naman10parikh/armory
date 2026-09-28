@@ -1,0 +1,7 @@
+{
+  "name": "react-patterns-mcp-server",
+  "description": "Provides React design and rendering patterns from patterns.dev as MCP tools and resources for Claude Code.",
+  "source_repo": "1beyza/react-patterns-mcp",
+  "source_url": "https://github.com/1beyza/react-patterns-mcp",
+  "install": "npx -y react-patterns-mcp"
+}

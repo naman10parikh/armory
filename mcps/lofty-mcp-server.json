@@ -1,0 +1,7 @@
+{
+  "name": "lofty-mcp-server",
+  "description": "Enables AI agents to interact with Lofty CRM via natural language, providing 120 tools across 22 modules for full API coverage.",
+  "source_repo": "NerdSnipe-Inc/lofty-mcp",
+  "source_url": "https://github.com/NerdSnipe-Inc/lofty-mcp",
+  "install": "npx -y lofty-mcp"
+}

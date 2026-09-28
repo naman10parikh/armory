@@ -1,0 +1,7 @@
+{
+  "name": "windows-gui-mcp",
+  "description": "Enables AI coding agents to automate Windows desktop applications through semantic UI Automation instead of brittle coordinate clicks, with tools for discovering windows, finding controls by stable identifiers, and verifying actions.",
+  "source_repo": "dcl632/windows-gui-mcp",
+  "source_url": "https://github.com/dcl632/windows-gui-mcp",
+  "install": "npx -y windows-gui-mcp"
+}

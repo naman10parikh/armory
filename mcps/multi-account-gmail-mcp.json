@@ -1,0 +1,7 @@
+{
+  "name": "multi-account-gmail-mcp",
+  "description": "A local-first MCP server for managing multiple Gmail accounts with separate OAuth grants, supporting search, retrieval, labels, drafts, and attachments while deferring direct send and destructive actions for safety.",
+  "source_repo": "zack-bolich/multi-account-gmail-mcp",
+  "source_url": "https://github.com/zack-bolich/multi-account-gmail-mcp",
+  "install": "npx -y multi-account-gmail-mcp"
+}

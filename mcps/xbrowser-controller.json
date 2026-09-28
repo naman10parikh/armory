@@ -1,0 +1,7 @@
+{
+  "name": "xbrowser-controller",
+  "description": "MCP server for controlling X Browser (com.mmbox.xbrowser) via HTTP, exposing 439 tools for navigation, JavaScript execution, page content retrieval, and deep browser control.",
+  "source_repo": "xiaozhe7772222/xbrowser_controller",
+  "source_url": "https://github.com/xiaozhe7772222/xbrowser_controller",
+  "install": "# git clone --depth 1 https://github.com/xiaozhe7772222/xbrowser_controller\n# See source for mcpServers config block"
+}

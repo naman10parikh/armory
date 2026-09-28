@@ -1,0 +1,7 @@
+{
+  "name": "lo-eyes",
+  "description": "Visual frontend accessibility inspector MCP server. WCAG contrast checking, touch target validation, heading hierarchy audits, responsive screenshots, and S+ grading across mobile and desktop viewports.",
+  "source_repo": "sophiacave/lo-eyes",
+  "source_url": "https://github.com/sophiacave/lo-eyes",
+  "install": "# git clone --depth 1 https://github.com/sophiacave/lo-eyes\n# See source for mcpServers config block"
+}

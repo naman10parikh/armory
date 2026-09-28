@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-bfl",
+  "description": "An MCP server that enables AI assistants to generate images using Black Forest Labs API and FLUX models, with automatic polling and image URL retrieval.",
+  "source_repo": "fernforestgames/mcp-server-bfl",
+  "source_url": "https://github.com/fernforestgames/mcp-server-bfl",
+  "install": "# git clone --depth 1 https://github.com/fernforestgames/mcp-server-bfl\n# See source for mcpServers config block"
+}

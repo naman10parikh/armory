@@ -1,0 +1,7 @@
+{
+  "name": "broker-mcp",
+  "description": "Read-only MCP server that connects a Broker trading account to AI clients, providing account data, positions, orders, and market data via 21 tools, with a mock sandbox mode for evaluation.",
+  "source_repo": "diofthecr3ed/Broker-MCP",
+  "source_url": "https://github.com/diofthecr3ed/Broker-MCP",
+  "install": "npx -y Broker-MCP"
+}

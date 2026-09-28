@@ -1,0 +1,7 @@
+{
+  "name": "fairchem-mcp",
+  "description": "An interactive MCP server for FAIRChem and ASE simulations that allows LLM agents to load a model once and steer relaxations, MD, NEB, phonons, and minima searches mid-flight, with live monitoring and code introspection.",
+  "source_repo": "jkitchin/fairchem-mcp",
+  "source_url": "https://github.com/jkitchin/fairchem-mcp",
+  "install": "npx -y fairchem-mcp"
+}

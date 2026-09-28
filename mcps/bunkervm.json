@@ -1,0 +1,7 @@
+{
+  "name": "bunkervm",
+  "description": "Enables time-travel debugging for AI agent sandboxes using Firecracker microVMs, with tools for code execution, file operations, and VM snapshot/restore via MCP.",
+  "source_repo": "ashishgituser/bunkervm",
+  "source_url": "https://github.com/ashishgituser/bunkervm",
+  "install": "# git clone --depth 1 https://github.com/ashishgituser/bunkervm\n# See source for mcpServers config block"
+}

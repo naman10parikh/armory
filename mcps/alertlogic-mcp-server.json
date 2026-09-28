@@ -1,0 +1,7 @@
+{
+  "name": "alertlogic-mcp-server",
+  "description": "Brings the full AlertLogic MDR platform into AI assistants, exposing 473+ tools for incident response, log search, SOAR automation, and multi-account security operations at MSSP scale.",
+  "source_repo": "rijul170/alertlogic-mcp",
+  "source_url": "https://github.com/rijul170/alertlogic-mcp",
+  "install": "npx -y alertlogic-mcp"
+}

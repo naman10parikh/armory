@@ -1,6 +1,6 @@
 {
   "name": "mcp-learning",
-  "description": "Mcp_learning MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "JuanLadeira/mcp_learning",
   "source_url": "https://mcp.so/server/mcp_learning/JuanLadeira",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp_learning/JuanLadeira\n# See source for mcpServers config block"

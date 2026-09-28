@@ -1,0 +1,7 @@
+{
+  "name": "etix-mcp",
+  "description": "Etix event discovery as an MCP server for Claude — search events, venues, and performers and pull full event/venue details via natural language. Routes requests through your own signed-in etix.com tab via the fetchproxy extension to bypass DataDome.",
+  "source_repo": "chrischall/etix-mcp",
+  "source_url": "https://github.com/chrischall/etix-mcp",
+  "install": "npx -y etix-mcp"
+}

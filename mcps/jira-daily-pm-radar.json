@@ -1,0 +1,7 @@
+{
+  "name": "jira-daily-pm-radar",
+  "description": "Enables PM radar analysis of Jira projects, providing daily, sprint, and backlog reports with issue context and search.",
+  "source_repo": "letya999/jira-daily-pm-radar",
+  "source_url": "https://github.com/letya999/jira-daily-pm-radar",
+  "install": "# git clone --depth 1 https://github.com/letya999/jira-daily-pm-radar\n# See source for mcpServers config block"
+}

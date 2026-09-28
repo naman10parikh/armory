@@ -1,0 +1,7 @@
+{
+  "name": "euthynos",
+  "description": "A local, read-only MCP server that provides AI coding agents with structural evidence about a repository, including dependency analysis and impact assessment, while naming the boundary of every answer without any LLM calls.",
+  "source_repo": "euthynos-org/euthynos",
+  "source_url": "https://github.com/euthynos-org/euthynos",
+  "install": "# git clone --depth 1 https://github.com/euthynos-org/euthynos\n# See source for mcpServers config block"
+}

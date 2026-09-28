@@ -1,0 +1,7 @@
+{
+  "name": "browser-ai-debate-mcp",
+  "description": "An MCP server that orchestrates structured multi-round debates between ChatGPT Web and Gemini Web in the same Chrome browser via CDP, requiring no API keys.",
+  "source_repo": "kaenozu/browser-ai-debate-mcp",
+  "source_url": "https://github.com/kaenozu/browser-ai-debate-mcp",
+  "install": "npx -y browser-ai-debate-mcp"
+}

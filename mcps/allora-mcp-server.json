@@ -1,0 +1,7 @@
+{
+  "name": "allora-mcp-server",
+  "description": "Enables AI systems to fetch machine learning inferences and prediction market data from the Allora Network through the Model Context Protocol.",
+  "source_repo": "allora-network/allora-mcp-server",
+  "source_url": "https://github.com/allora-network/allora-mcp-server",
+  "install": "npx -y allora-mcp-server"
+}

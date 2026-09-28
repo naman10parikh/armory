@@ -1,0 +1,7 @@
+{
+  "name": "aware-connector",
+  "description": "MCP server for Autodesk's Aware employee directory, enabling search for people by name, email, or title, fetching individual records, viewing org reporting lines, and reading your own profile. It uses your own logged-in session to access the same data as the web app, read-only.",
+  "source_repo": "camilopiedra92/aware-connector",
+  "source_url": "https://github.com/camilopiedra92/aware-connector",
+  "install": "# git clone --depth 1 https://github.com/camilopiedra92/aware-connector\n# See source for mcpServers config block"
+}

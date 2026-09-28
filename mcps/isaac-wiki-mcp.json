@@ -1,0 +1,7 @@
+{
+  "name": "isaac-wiki-mcp",
+  "description": "Provides full class documentation for the Binding of Isaac modding API, enabling AI assistants to access complete class pages with methods, enums, and tutorials to avoid hallucination.",
+  "source_repo": "3113y/isaac-wiki-mcp",
+  "source_url": "https://github.com/3113y/isaac-wiki-mcp",
+  "install": "npx -y isaac-wiki-mcp"
+}

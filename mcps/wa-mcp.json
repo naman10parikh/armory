@@ -1,0 +1,7 @@
+{
+  "name": "wa-mcp",
+  "description": "WhatsApp MCP server that exposes messaging, groups, contacts, and profile management as tools and resources for AI agents, supporting Baileys and Meta Cloud API.",
+  "source_repo": "delltrak/wamcp",
+  "source_url": "https://github.com/delltrak/wamcp",
+  "install": "# git clone --depth 1 https://github.com/delltrak/wamcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xahau-mcp",
+  "description": "Offline MCP server for the Xahau network that simulates Hooks smart contracts by running their real WebAssembly bytecode, performs static analysis, and provides read-only ledger access and unsigned transaction builders.",
+  "source_repo": "Hugegreencandle/xahau-mcp",
+  "source_url": "https://github.com/Hugegreencandle/xahau-mcp",
+  "install": "npx -y xahau-mcp"
+}

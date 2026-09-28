@@ -1,0 +1,7 @@
+{
+  "name": "jira-mcp-server-4",
+  "description": "Enables Claude AI and other MCP clients to interact with Jira Server/Data Center through tools like listing issues, logging work, and updating issues, requiring user confirmation for write operations.",
+  "source_repo": "hieutv-dng/jira-mcp-server",
+  "source_url": "https://github.com/hieutv-dng/jira-mcp-server",
+  "install": "npx -y jira-mcp-server"
+}

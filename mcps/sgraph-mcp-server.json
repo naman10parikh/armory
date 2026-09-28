@@ -1,0 +1,7 @@
+{
+  "name": "sgraph-mcp-server",
+  "description": "Gives AI agents instant access to software architecture, dependencies, and impact analysis through pre-computed sgraph models, replacing dozens of grep/read cycles with a single tool call.",
+  "source_repo": "softagram/sgraph-mcp-server",
+  "source_url": "https://github.com/softagram/sgraph-mcp-server",
+  "install": "npx -y sgraph-mcp-server"
+}

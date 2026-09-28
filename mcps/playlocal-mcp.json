@@ -1,0 +1,7 @@
+{
+  "name": "playlocal-mcp",
+  "description": "Enables to generate day trip itineraries in Korea using real-time public data from Korea Tourism Organization, weather, and congestion APIs.",
+  "source_repo": "maker240305/playLocal_mcp",
+  "source_url": "https://github.com/maker240305/playLocal_mcp",
+  "install": "npx -y playLocal_mcp"
+}

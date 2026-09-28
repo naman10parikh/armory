@@ -1,0 +1,7 @@
+{
+  "name": "jerrycan-mcp",
+  "description": "The AI-native Rust backend framework + generation platform. Help agents design, generate, verify and package complete backends.",
+  "source_repo": "backant-io/jerrycan",
+  "source_url": "https://github.com/backant-io/jerrycan",
+  "install": "# git clone --depth 1 https://github.com/backant-io/jerrycan\n# See source for mcpServers config block"
+}

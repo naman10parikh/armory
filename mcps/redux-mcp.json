@@ -1,0 +1,7 @@
+{
+  "name": "redux-mcp",
+  "description": "Connects AI tools to Redux state, enabling reading state, listing/dispatching actions, resetting history, and receiving live WebSocket updates.",
+  "source_repo": "n1snt/redux-mcp",
+  "source_url": "https://github.com/n1snt/redux-mcp",
+  "install": "npx -y redux-mcp"
+}

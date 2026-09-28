@@ -1,0 +1,7 @@
+{
+  "name": "yt-analytics-mcp",
+  "description": "MCP server for YouTube channel deep analytics, extracting transcripts and computing quantitative metrics like WPM, profanity, and humor taxonomy, with multi-creator comparison dashboards.",
+  "source_repo": "KewkLW/yt-analytics-mcp",
+  "source_url": "https://github.com/KewkLW/yt-analytics-mcp",
+  "install": "npx -y yt-analytics-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "blinkit-mcp",
+  "description": "Enables Claude to automate grocery shopping on Blinkit, including product search, cart management, location setup, and payment via UPI.",
+  "source_repo": "hereisSwapnil/blinkit-mcp",
+  "source_url": "https://github.com/hereisSwapnil/blinkit-mcp",
+  "install": "npx -y blinkit-mcp"
+}

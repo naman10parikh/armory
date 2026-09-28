@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ecotaxa",
+  "description": "Enables querying a local cache of EcoTaxa data via SQL, with tools for table inspection, SQL queries, TSV export, and enrichment from EcoPart and Amundsen CTD, all without requiring an EcoTaxa account.",
+  "source_repo": "TidianeCisse777/mcp-ecotaxa",
+  "source_url": "https://github.com/TidianeCisse777/mcp-ecotaxa",
+  "install": "# git clone --depth 1 https://github.com/TidianeCisse777/mcp-ecotaxa\n# See source for mcpServers config block"
+}

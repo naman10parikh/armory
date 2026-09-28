@@ -1,0 +1,7 @@
+{
+  "name": "fortnox-mcp-server",
+  "description": "Enables AI agents to manage invoices, customers, suppliers, accounting entries, orders, and more through Fortnox's cloud accounting platform via natural language.",
+  "source_repo": "Proviscale/fortnox-mcp-server",
+  "source_url": "https://github.com/Proviscale/fortnox-mcp-server",
+  "install": "npx -y fortnox-mcp-server"
+}

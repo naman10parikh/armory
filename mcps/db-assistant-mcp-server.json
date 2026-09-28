@@ -1,0 +1,7 @@
+{
+  "name": "db-assistant-mcp-server",
+  "description": "Enables natural language performance analysis and optimization of AWS Aurora MySQL databases, using AI (Bedrock, Claude) and RAG to generate HTML reports and recommendations.",
+  "source_repo": "heungh/db_assistant_mcp",
+  "source_url": "https://github.com/heungh/db_assistant_mcp",
+  "install": "npx -y db_assistant_mcp"
+}

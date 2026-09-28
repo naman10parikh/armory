@@ -1,0 +1,7 @@
+{
+  "name": "io-github-elwsls-verifiable-claim-seed",
+  "description": "Enables validating and verifying verifiable claims through structural checks, hash anchoring, and optional script execution, exposing self-test, validate, and verify tools over stdio.",
+  "source_repo": "elwsls/verifiable-claim-seed",
+  "source_url": "https://github.com/elwsls/verifiable-claim-seed",
+  "install": "# git clone --depth 1 https://github.com/elwsls/verifiable-claim-seed\n# See source for mcpServers config block"
+}

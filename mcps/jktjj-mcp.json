@@ -1,0 +1,7 @@
+{
+  "name": "jktjj-mcp",
+  "description": "MCP server for AI agent access to JKTJJ's structured BJJ data — gyms, coaches, events, and cities worldwide.",
+  "source_repo": "jktjj/jktjj-mcp",
+  "source_url": "https://github.com/jktjj/jktjj-mcp",
+  "install": "npx -y jktjj-mcp"
+}

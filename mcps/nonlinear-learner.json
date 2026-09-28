@@ -1,0 +1,7 @@
+{
+  "name": "nonlinear-learner",
+  "description": "An MCP server that enables AI tools to generate and navigate knowledge graphs with nonlinear learning modes, including backward learning, jumping, and dynamic path adjustment.",
+  "source_repo": "Jlu45/nonlinear-learner",
+  "source_url": "https://github.com/Jlu45/nonlinear-learner",
+  "install": "# git clone --depth 1 https://github.com/Jlu45/nonlinear-learner\n# See source for mcpServers config block"
+}

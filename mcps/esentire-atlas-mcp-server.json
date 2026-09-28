@@ -1,0 +1,7 @@
+{
+  "name": "esentire-atlas-mcp-server",
+  "description": "Exposes eSentire Atlas API (Findings, Ticketing, MVS) and Threat Intelligence feeds (IP Watch, Advanced/STIX) as MCP tools, enabling security operations and threat intelligence queries through natural language.",
+  "source_repo": "omichelbraga/esentire-atlas-mcp",
+  "source_url": "https://github.com/omichelbraga/esentire-atlas-mcp",
+  "install": "npx -y esentire-atlas-mcp"
+}

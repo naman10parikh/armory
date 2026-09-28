@@ -1,0 +1,7 @@
+{
+  "name": "maxaeo-ai-visibility-mcp",
+  "description": "Enables AI agents to check whether a public website is crawlable, understandable, and ready for AI search workflows through local-only audits of robots.txt, sitemaps, metadata, and llms.txt.",
+  "source_repo": "maxaeo/maxaeo-ai-visibility-mcp",
+  "source_url": "https://github.com/maxaeo/maxaeo-ai-visibility-mcp",
+  "install": "npx -y maxaeo-ai-visibility-mcp"
+}

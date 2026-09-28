@@ -1,0 +1,7 @@
+{
+  "name": "airplanes-live-mcp",
+  "description": "Enables real-time aircraft tracking from Claude Desktop using the airplanes.live API, supporting searches by callsign, registration, hex ID, and position.",
+  "source_repo": "Bellaposa/airplanes-live-mcp",
+  "source_url": "https://github.com/Bellaposa/airplanes-live-mcp",
+  "install": "npx -y airplanes-live-mcp"
+}

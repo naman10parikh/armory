@@ -1,0 +1,7 @@
+{
+  "name": "broke2built-skills-mcp",
+  "description": "Provides 29 live data skills for AI agents, including email/DNS/domain intelligence, SEO & security audits, content extraction, and EVM on-chain reads, with a free tier that works out of the box.",
+  "source_repo": "lordbasilaiassistant-sudo/broke2built-skills-mcp",
+  "source_url": "https://github.com/lordbasilaiassistant-sudo/broke2built-skills-mcp",
+  "install": "npx -y broke2built-skills-mcp"
+}

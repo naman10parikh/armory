@@ -1,0 +1,7 @@
+{
+  "name": "pw-mcp",
+  "description": "It enables each agent session to have its own isolated Chrome browser with a persistent profile, avoiding profile-lock conflicts and shared tab spaces, while resumed sessions reattach to the same browser and tabs. It can also seed new sessions with a saved login template so they start signed in.",
+  "source_repo": "ckarnell/pw-pool",
+  "source_url": "https://github.com/ckarnell/pw-pool",
+  "install": "# git clone --depth 1 https://github.com/ckarnell/pw-pool\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chat-on-steroids",
+  "description": "Enables ChatGPT to access approved local Windows folders, run commands, control the desktop, and manage session history through a permission-bounded MCP server.",
+  "source_repo": "totec448-spec/chat-on-steroids",
+  "source_url": "https://github.com/totec448-spec/chat-on-steroids",
+  "install": "# git clone --depth 1 https://github.com/totec448-spec/chat-on-steroids\n# See source for mcpServers config block"
+}

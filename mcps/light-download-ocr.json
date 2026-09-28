@@ -1,0 +1,7 @@
+{
+  "name": "light-download-ocr",
+  "description": "Provides read-only access to download and OCR 'Light' utility bills from the official source, enabling document retrieval and text extraction via natural language. It is a hosted MCP server with prepaid credits and works with any MCP client.",
+  "source_repo": "mcp-dir/contas_light_download_ocr-mcp",
+  "source_url": "https://github.com/mcp-dir/contas_light_download_ocr-mcp",
+  "install": "npx -y contas_light_download_ocr-mcp"
+}

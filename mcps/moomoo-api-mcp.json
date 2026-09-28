@@ -1,0 +1,7 @@
+{
+  "name": "moomoo-api-mcp",
+  "description": "Enables AI agents to access real-time market data, manage Moomoo trading accounts, and execute trades via the Moomoo platform.",
+  "source_repo": "Litash/moomoo-api-mcp",
+  "source_url": "https://github.com/Litash/moomoo-api-mcp",
+  "install": "npx -y moomoo-api-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "miniprogram-automator-mcp",
+  "description": "Enables AI agents to automate WeChat mini-programs via launch or connect modes, providing a stable interaction tree for observation and operation.",
+  "source_repo": "liqiha0/miniprogram-automator-mcp",
+  "source_url": "https://github.com/liqiha0/miniprogram-automator-mcp",
+  "install": "npx -y miniprogram-automator-mcp"
+}

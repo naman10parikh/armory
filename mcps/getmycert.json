@@ -1,0 +1,7 @@
+{
+  "name": "getmycert",
+  "description": "13,000+ IT certification practice questions for AI agents (AWS, Azure, GCP, CompTIA, CISSP, PMP, Kubernetes, Terraform, Cisco, Salesforce). Pay-per-call via x402 USDC on Base, or a prepaid API key. Tools: get_cert_questions, list_certifications.",
+  "source_repo": "fischperson0000000/getmycert-mcp",
+  "source_url": "https://github.com/fischperson0000000/getmycert-mcp",
+  "install": "npx -y getmycert-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arch-ai-tools",
+  "description": "Provides 63 production-ready API tools for AI agents, including web scraping, AI generation, crypto data, OCR, image generation, audio transcription, text-to-speech, email, and domain lookup.",
+  "source_repo": "Deesmo/Arch-AI-Tools",
+  "source_url": "https://github.com/Deesmo/Arch-AI-Tools",
+  "install": "# git clone --depth 1 https://github.com/Deesmo/Arch-AI-Tools\n# See source for mcpServers config block"
+}

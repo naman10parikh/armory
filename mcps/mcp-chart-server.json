@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chart-server",
+  "description": "A Model Context Protocol server offering over 15 chart types with Zod schema validation, enabling type-safe chart generation for applications like Claude AI.",
+  "source_repo": "KamranBiglari/mcp-server-chart",
+  "source_url": "https://github.com/KamranBiglari/mcp-server-chart",
+  "install": "# git clone --depth 1 https://github.com/KamranBiglari/mcp-server-chart\n# See source for mcpServers config block"
+}

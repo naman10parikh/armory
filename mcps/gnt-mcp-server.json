@@ -1,0 +1,7 @@
+{
+  "name": "gnt-mcp-server",
+  "description": "Enables AI agents to query live, human-approved rules before taking actions, ensuring compliance and reducing errors.",
+  "source_repo": "gnt-ai/gnt",
+  "source_url": "https://github.com/gnt-ai/gnt",
+  "install": "# git clone --depth 1 https://github.com/gnt-ai/gnt\n# See source for mcpServers config block"
+}

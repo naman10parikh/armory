@@ -1,0 +1,7 @@
+{
+  "name": "arxiv-reader-mcp",
+  "description": "Search and read arXiv papers directly from Claude. Supports keyword, author, category, and date filtering plus full PDF text extraction so Claude can read, summarise, and reason over entire papers, not just abstracts.",
+  "source_repo": "YounesBensafia/arxiv-reader-mcp",
+  "source_url": "https://github.com/YounesBensafia/arxiv-reader-mcp",
+  "install": "npx -y arxiv-reader-mcp"
+}

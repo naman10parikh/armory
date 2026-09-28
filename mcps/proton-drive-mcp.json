@@ -1,0 +1,7 @@
+{
+  "name": "proton-drive-mcp",
+  "description": "MCP server that provides full access to Proton Drive via Claude Desktop or CLI, enabling file operations, sharing, and trash management with end-to-end encryption.",
+  "source_repo": "googlarz/proton-drive-mcp",
+  "source_url": "https://github.com/googlarz/proton-drive-mcp",
+  "install": "npx -y proton-drive-mcp"
+}

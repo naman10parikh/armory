@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agent-reliability-scorer",
+  "description": "Scores AI agent trajectories and detects silent failures, loops, and reliability issues with zero external API cost.",
+  "source_repo": "princeruhulofficial/mcp-agent-reliability-scorer",
+  "source_url": "https://github.com/princeruhulofficial/mcp-agent-reliability-scorer",
+  "install": "# git clone --depth 1 https://github.com/princeruhulofficial/mcp-agent-reliability-scorer\n# See source for mcpServers config block"
+}

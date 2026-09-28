@@ -1,0 +1,7 @@
+{
+  "name": "multi-db-mcp-server",
+  "description": "A multi-database MCP server supporting PostgreSQL, ClickHouse, and MySQL that enables database exploration and SQL execution through MCP stdio or HTTP API.",
+  "source_repo": "1249zts/db-mcp-service",
+  "source_url": "https://github.com/1249zts/db-mcp-service",
+  "install": "# git clone --depth 1 https://github.com/1249zts/db-mcp-service\n# See source for mcpServers config block"
+}

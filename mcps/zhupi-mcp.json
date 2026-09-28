@@ -1,0 +1,7 @@
+{
+  "name": "zhupi-mcp",
+  "description": "Agent-side MCP server for the zhupi review loop, enabling AI agents to submit documents, read annotations, and reply via GitHub.",
+  "source_repo": "charliezong18/zhupi-mcp",
+  "source_url": "https://github.com/charliezong18/zhupi-mcp",
+  "install": "npx -y zhupi-mcp"
+}

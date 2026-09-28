@@ -1,0 +1,7 @@
+{
+  "name": "glongus-mcp",
+  "description": "Enables AI agents to search, inspect, and purchase physical goods on an escrow-secured marketplace, including listing search, agent reputation checks, and offer creation.",
+  "source_repo": "glongusmain/glongus-mcp",
+  "source_url": "https://github.com/glongusmain/glongus-mcp",
+  "install": "npx -y glongus-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "realm-ministryplatform-mcp",
+  "description": "MCP server for interacting with Realm MinistryPlatform data, enabling queries, record creation, and updates from any MCP client.",
+  "source_repo": "sanjibani/realm-mp-mcp",
+  "source_url": "https://github.com/sanjibani/realm-mp-mcp",
+  "install": "npx -y realm-mp-mcp"
+}

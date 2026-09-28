@@ -1,0 +1,7 @@
+{
+  "name": "sdw-search",
+  "description": "A provider-neutral Web Search MCP server and CLI that combines live search, scholarly discovery, verified PDF downloads, URL normalization, multi-provider ranking, secure page fetching, caching, and citation-ready research evidence.",
+  "source_repo": "DRSFM/SDW_Search-MCP-server",
+  "source_url": "https://github.com/DRSFM/SDW_Search-MCP-server",
+  "install": "npx -y SDW_Search-MCP-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "robinhood-chain-evm-mcp",
+  "description": "A zero-dependency MCP server that bridges AI agents to Robinhood Chain and Arbitrum Orbit L2 networks, enabling querying balances, simulating transactions, and signing/broadcasting EVM transactions via JSON-RPC tools.",
+  "source_repo": "aashu91/robinhood-evm-mcp",
+  "source_url": "https://github.com/aashu91/robinhood-evm-mcp",
+  "install": "npx -y robinhood-evm-mcp"
+}

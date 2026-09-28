@@ -1,0 +1,7 @@
+{
+  "name": "mela-mcp",
+  "description": "A read-only MCP server for searching and reading recipes stored in the Mela macOS app, offering tools to search recipes, retrieve full details with photos, and list tags.",
+  "source_repo": "krumme/mela-mcp",
+  "source_url": "https://github.com/krumme/mela-mcp",
+  "install": "npx -y mela-mcp"
+}

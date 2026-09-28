@@ -1,0 +1,7 @@
+{
+  "name": "voris-mcp",
+  "description": "A thin stdio-to-HTTPS proxy that connects local MCP clients to the hosted Voris MCP server, forwarding JSON-RPC messages verbatim.",
+  "source_repo": "Rocket-Venture-Labs/voris-mcp",
+  "source_url": "https://github.com/Rocket-Venture-Labs/voris-mcp",
+  "install": "npx -y voris-mcp"
+}

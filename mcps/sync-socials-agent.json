@@ -1,0 +1,7 @@
+{
+  "name": "sync-socials-agent",
+  "description": "A hosted MCP server that lets AI agents generate content, upload media, create drafts, schedule posts, and publish to TikTok, Instagram, Facebook, and YouTube.",
+  "source_repo": "DamianoTobasco/sync-socials-agent",
+  "source_url": "https://github.com/DamianoTobasco/sync-socials-agent",
+  "install": "# git clone --depth 1 https://github.com/DamianoTobasco/sync-socials-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "opencode-browser-mcp",
+  "description": "Enables AI agents to browse the web, interact with pages, fill forms, and extract data using Playwright, with 30 tools across 7 categories.",
+  "source_repo": "HoganDong486/opencode-browser-mcp",
+  "source_url": "https://github.com/HoganDong486/opencode-browser-mcp",
+  "install": "npx -y opencode-browser-mcp"
+}

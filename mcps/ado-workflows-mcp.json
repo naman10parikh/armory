@@ -1,0 +1,7 @@
+{
+  "name": "ado-workflows-mcp",
+  "description": "Enables AI agents to discover Azure DevOps repositories, manage pull requests, and interact with PR comments and reviews via the Model Context Protocol.",
+  "source_repo": "grimlor/ado-workflows-mcp",
+  "source_url": "https://github.com/grimlor/ado-workflows-mcp",
+  "install": "npx -y ado-workflows-mcp"
+}

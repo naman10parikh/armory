@@ -1,0 +1,7 @@
+{
+  "name": "brreg-mcp",
+  "description": "Enables direct access to Norwegian company data — lookup, search, roles, subunits, and live updates — through the free Brønnøysund Open Data API.",
+  "source_repo": "hellosverre/brreg-mcp",
+  "source_url": "https://github.com/hellosverre/brreg-mcp",
+  "install": "npx -y brreg-mcp"
+}

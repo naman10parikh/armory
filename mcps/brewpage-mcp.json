@@ -1,0 +1,7 @@
+{
+  "name": "brewpage-mcp",
+  "description": "MCP server for BrewPage, a free no-signup hosting service. Lets AI agents publish HTML, Markdown, JSON, files, or a full multi-file static site and get a public URL instantly via a REST API.",
+  "source_repo": "kochetkov-ma/brewpage-openapi",
+  "source_url": "https://github.com/kochetkov-ma/brewpage-openapi",
+  "install": "# git clone --depth 1 https://github.com/kochetkov-ma/brewpage-openapi\n# See source for mcpServers config block"
+}

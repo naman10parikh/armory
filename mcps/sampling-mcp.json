@@ -1,0 +1,7 @@
+{
+  "name": "sampling-mcp",
+  "description": "A minimal FastMCP server demonstrating the sampling mechanism, where the server requests a client-side LLM completion to summarize documents.",
+  "source_repo": "srod0010/sampling-mcp",
+  "source_url": "https://github.com/srod0010/sampling-mcp",
+  "install": "npx -y sampling-mcp"
+}

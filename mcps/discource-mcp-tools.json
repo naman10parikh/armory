@@ -1,0 +1,7 @@
+{
+  "name": "discource-mcp-tools",
+  "description": "Manage and explore forum communities by searching topics, reading posts, and viewing user profiles. Facilitate communication through chat channels, draft management, and categorized content discovery. Streamline interactions with tools for filtering topics and generating post summaries or replies.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/king-of-the-grackles/discourse-forum-mcp",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/king-of-the-grackles/discourse-forum-mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ekigraph",
+  "description": "Enables AI assistants to answer questions about Japan's railway network with accurate track-connection data, including station neighbors and local subgraphs for all 9,043 stations nationwide.",
+  "source_repo": "yataro-fujinaga/ekigraph",
+  "source_url": "https://github.com/yataro-fujinaga/ekigraph",
+  "install": "# git clone --depth 1 https://github.com/yataro-fujinaga/ekigraph\n# See source for mcpServers config block"
+}

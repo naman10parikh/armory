@@ -1,0 +1,7 @@
+{
+  "name": "sn-community-mcp",
+  "description": "MCP server for searching the ServiceNow Community forums with relevance-ranked results. Supports fetching posts as Markdown and configurable result counts.",
+  "source_repo": "wiz0floyd/sn-community-mcp",
+  "source_url": "https://github.com/wiz0floyd/sn-community-mcp",
+  "install": "npx -y sn-community-mcp"
+}

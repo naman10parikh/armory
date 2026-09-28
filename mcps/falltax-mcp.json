@@ -1,0 +1,7 @@
+{
+  "name": "falltax-mcp",
+  "description": "A sovereign, MIT-licensed MCP server wrapping the falltax SDK for tax-related workflows, enabling offline-capable, signed, and discoverable operations.",
+  "source_repo": "sjgant80-hub/falltax-mcp",
+  "source_url": "https://github.com/sjgant80-hub/falltax-mcp",
+  "install": "npx -y falltax-mcp"
+}

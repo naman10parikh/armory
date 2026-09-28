@@ -1,0 +1,7 @@
+{
+  "name": "refract",
+  "description": "MCP proxy that compresses tool schemas on the fly. Up to 98% token reduction, 100% signal preserved verified after every compression. Zero LLM calls, fully deterministic.",
+  "source_repo": "LoudiliMed/Refract",
+  "source_url": "https://github.com/LoudiliMed/Refract",
+  "install": "# git clone --depth 1 https://github.com/LoudiliMed/Refract\n# See source for mcpServers config block"
+}

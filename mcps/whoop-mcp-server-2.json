@@ -1,0 +1,7 @@
+{
+  "name": "whoop-mcp-server-2",
+  "description": "Exposes Whoop fitness data (recovery, sleep, strain, workouts) to Claude for use as a daily training coach, enabling natural language queries about your health metrics and training readiness.",
+  "source_repo": "cbellbell-spin/whoop-mcp",
+  "source_url": "https://github.com/cbellbell-spin/whoop-mcp",
+  "install": "npx -y whoop-mcp"
+}

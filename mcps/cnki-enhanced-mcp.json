@@ -1,0 +1,7 @@
+{
+  "name": "cnki-enhanced-mcp",
+  "description": "Enables AI to search, filter, and process CNKI academic literature through natural language, including structured search, metadata retrieval, full-text reading, citation export, and PDF/CAJ download.",
+  "source_repo": "ChengDSYJ-Studio/CNKI-Enhanced-MCP",
+  "source_url": "https://github.com/ChengDSYJ-Studio/CNKI-Enhanced-MCP",
+  "install": "npx -y CNKI-Enhanced-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "atlassian-bitbucket-mcp-server",
+  "description": "Enables AI systems to interact with Atlassian Bitbucket Server/Data Center for accessing projects, repositories, branches, files, and managing pull requests.",
+  "source_repo": "guenichone/atlassian-bitbucket-server-mcp",
+  "source_url": "https://github.com/guenichone/atlassian-bitbucket-server-mcp",
+  "install": "npx -y atlassian-bitbucket-server-mcp"
+}

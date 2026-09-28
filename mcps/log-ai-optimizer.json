@@ -1,0 +1,7 @@
+{
+  "name": "log-ai-optimizer",
+  "description": "Compresses log files into templates and statistics using Drain3, and exposes them to AI assistants via an MCP server for efficient log monitoring and anomaly detection.",
+  "source_repo": "JustinHabashi/log-ai-optimizer",
+  "source_url": "https://github.com/JustinHabashi/log-ai-optimizer",
+  "install": "# git clone --depth 1 https://github.com/JustinHabashi/log-ai-optimizer\n# See source for mcpServers config block"
+}

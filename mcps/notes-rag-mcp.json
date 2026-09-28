@@ -1,0 +1,7 @@
+{
+  "name": "notes-rag-mcp",
+  "description": "A Python MCP server for note management with RAG capabilities, enabling adding, searching, asking questions, summarizing, and deleting notes, using PostgreSQL and ChromaDB with Google Gemini for embeddings and generation.",
+  "source_repo": "konradxmalinowski/notes-rag-mcp",
+  "source_url": "https://github.com/konradxmalinowski/notes-rag-mcp",
+  "install": "npx -y notes-rag-mcp"
+}

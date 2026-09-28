@@ -1,0 +1,7 @@
+{
+  "name": "vestel-jira-mcp-server",
+  "description": "Connects AI assistants to Jira, enabling retrieval, search, creation, and update of issues with schema validation.",
+  "source_repo": "thehavays/vestel-mcp-server",
+  "source_url": "https://github.com/thehavays/vestel-mcp-server",
+  "install": "npx -y vestel-mcp-server"
+}

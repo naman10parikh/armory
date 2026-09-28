@@ -1,0 +1,7 @@
+{
+  "name": "rugsense",
+  "description": "Agent-native scored launch intelligence for Base blockchain, providing opportunity/risk scores and AVOID/WATCH/HOT decisions per fresh launch via x402 pay-per-call API. Enables trading/research agents to act directly on structured launch data.",
+  "source_repo": "0xcnr0/rugsense",
+  "source_url": "https://github.com/0xcnr0/rugsense",
+  "install": "# git clone --depth 1 https://github.com/0xcnr0/rugsense\n# See source for mcpServers config block"
+}

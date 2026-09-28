@@ -1,6 +1,6 @@
 {
   "name": "ultimate-team-mcp-server",
-  "description": "Ultimate Team Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "msaelices/ultimate-team-mcp-server",
   "source_url": "https://mcp.so/server/ultimate-team-mcp-server/msaelices",
   "install": "npx -y ultimate-team-mcp-server"

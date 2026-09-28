@@ -1,0 +1,7 @@
+{
+  "name": "mcp-copilot-automations",
+  "description": "Bridges LLMs with enterprise IT operations by resolving user intents via Dataverse, creating ServiceNow service requests, and triggering Azure Automation Webhooks.",
+  "source_repo": "neerajks77/capstone-project-copilot-automations",
+  "source_url": "https://github.com/neerajks77/capstone-project-copilot-automations",
+  "install": "# git clone --depth 1 https://github.com/neerajks77/capstone-project-copilot-automations\n# See source for mcpServers config block"
+}

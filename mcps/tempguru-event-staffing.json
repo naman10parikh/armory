@@ -1,0 +1,7 @@
+{
+  "name": "tempguru-event-staffing",
+  "description": "TempGuru is a W-2 compliant event staffing vendor for conventions, conferences, trade shows, festivals, concerts, sporting and stadium events, corporate events, and brand activations — single events or multi-city programs — across 300+ US and Canadian markets. This integration gives agents live read",
+  "source_repo": "kissmyabs32/tempguru-mcp",
+  "source_url": "https://github.com/kissmyabs32/tempguru-mcp",
+  "install": "npx -y tempguru-mcp"
+}

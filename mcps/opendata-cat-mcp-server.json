@@ -1,0 +1,7 @@
+{
+  "name": "opendata-cat-mcp-server",
+  "description": "Connects LLMs to over 2,850 datasets from 13 Catalan and Spanish open data portals, enabling natural language search and real-time queries of public data.",
+  "source_repo": "xaviviro/Opendata.cat-MCP-Server",
+  "source_url": "https://github.com/xaviviro/Opendata.cat-MCP-Server",
+  "install": "npx -y Opendata.cat-MCP-Server"
+}

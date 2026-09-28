@@ -1,0 +1,7 @@
+{
+  "name": "explain-image-mcp-server",
+  "description": "Enables AI agents to analyze images via Gemini vision models, supporting local paths, URLs, and data URLs with custom prompts.",
+  "source_repo": "hsain9357/explain-image-mcp-server",
+  "source_url": "https://github.com/hsain9357/explain-image-mcp-server",
+  "install": "npx -y explain-image-mcp-server"
+}

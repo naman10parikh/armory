@@ -1,0 +1,7 @@
+{
+  "name": "svs-mcp",
+  "description": "An MCP server for Synthesizer V Studio 2 Pro on macOS that enables AI-driven composition and lyric input, including melody creation, lyric flowing, and phoneme tuning.",
+  "source_repo": "tatat/svs-mcp",
+  "source_url": "https://github.com/tatat/svs-mcp",
+  "install": "npx -y svs-mcp"
+}

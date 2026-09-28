@@ -1,0 +1,7 @@
+{
+  "name": "fdmnes-mcp",
+  "description": "Enables running FDMNES X-ray spectroscopy simulations via natural language, supporting input file creation, job execution, output analysis, and keyword lookup through MCP-aware clients.",
+  "source_repo": "Joint-Photon-Sciences-Institute/fdmnes-mcp",
+  "source_url": "https://github.com/Joint-Photon-Sciences-Institute/fdmnes-mcp",
+  "install": "npx -y fdmnes-mcp"
+}

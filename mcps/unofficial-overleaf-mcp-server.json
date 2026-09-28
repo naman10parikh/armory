@@ -1,0 +1,7 @@
+{
+  "name": "unofficial-overleaf-mcp-server",
+  "description": "Enables AI agents to interact with Overleaf projects directly, including creating projects, managing files, and editing documents in real-time using Overleaf's native Operational Transformation protocol.",
+  "source_repo": "n-qber/unofficial-overleaf-mcp-server",
+  "source_url": "https://github.com/n-qber/unofficial-overleaf-mcp-server",
+  "install": "npx -y unofficial-overleaf-mcp-server"
+}

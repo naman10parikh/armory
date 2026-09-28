@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-file-mcp",
+  "description": "Enables local ChatGPT/OpenAI MCP clients to read files and search within explicitly authorized directories using read-only, policy-constrained tools.",
+  "source_repo": "limars874/chatgpt-file-mcp",
+  "source_url": "https://github.com/limars874/chatgpt-file-mcp",
+  "install": "npx -y chatgpt-file-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "proofhub-mcp",
+  "description": "A zero-dependency MCP server for ProofHub that provides tools to manage tasks, projects, and comments, and includes BMAD sharding to turn tickets into self-contained stories.",
+  "source_repo": "yashmody/proofhub-mcp",
+  "source_url": "https://github.com/yashmody/proofhub-mcp",
+  "install": "npx -y proofhub-mcp"
+}

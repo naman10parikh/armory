@@ -1,0 +1,7 @@
+{
+  "name": "devitway-rag-starter",
+  "description": "Minimal local RAG stack with an MCP server that provides document search for any agent.",
+  "source_repo": "devitway/devitway-rag-starter",
+  "source_url": "https://github.com/devitway/devitway-rag-starter",
+  "install": "# git clone --depth 1 https://github.com/devitway/devitway-rag-starter\n# See source for mcpServers config block"
+}

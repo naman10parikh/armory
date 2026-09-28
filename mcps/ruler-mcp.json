@@ -1,0 +1,7 @@
+{
+  "name": "ruler-mcp",
+  "description": "MCP server for reading, aggregating, suggesting, and applying price rules (floors) from ActiveView with a confirmation flow, designed for AI agents to analyze and adjust monetization.",
+  "source_repo": "Dollymzn/ruler-mcp",
+  "source_url": "https://github.com/Dollymzn/ruler-mcp",
+  "install": "npx -y ruler-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fantasy-football-mcp-server",
+  "description": "AI-powered Yahoo Fantasy Football assistant for lineup optimization, draft strategy, and league management with player enhancement and multi-league support.",
+  "source_repo": "derekrbreese/fantasy-football-mcp-public",
+  "source_url": "https://github.com/derekrbreese/fantasy-football-mcp-public",
+  "install": "# git clone --depth 1 https://github.com/derekrbreese/fantasy-football-mcp-public\n# See source for mcpServers config block"
+}

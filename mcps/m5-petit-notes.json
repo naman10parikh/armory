@@ -1,0 +1,7 @@
+{
+  "name": "m5-petit-notes",
+  "description": "A note-taking MCP server for Claude-based agents that provides persistent markdown files for easily referable notes, supporting create, read, update, append, and delete operations.",
+  "source_repo": "PetitOnes/m5-petit-notes",
+  "source_url": "https://github.com/PetitOnes/m5-petit-notes",
+  "install": "# git clone --depth 1 https://github.com/PetitOnes/m5-petit-notes\n# See source for mcpServers config block"
+}

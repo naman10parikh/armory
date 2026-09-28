@@ -1,0 +1,7 @@
+{
+  "name": "library-mcp-2",
+  "description": "MCP server for college library management, enabling book issuance, returns, inventory management, and availability checks via MySQL.",
+  "source_repo": "ajr543/library_mcp",
+  "source_url": "https://github.com/ajr543/library_mcp",
+  "install": "npx -y library_mcp"
+}

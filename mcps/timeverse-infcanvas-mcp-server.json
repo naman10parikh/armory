@@ -1,0 +1,7 @@
+{
+  "name": "timeverse-infcanvas-mcp-server",
+  "description": "Enables AI clients to read and write local infinite canvas data via MCP protocol, with support for image generation and web visualization.",
+  "source_repo": "elimyliu/timeverse-infcanvas-mcp",
+  "source_url": "https://github.com/elimyliu/timeverse-infcanvas-mcp",
+  "install": "npx -y timeverse-infcanvas-mcp"
+}

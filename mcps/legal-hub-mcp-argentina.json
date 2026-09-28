@@ -1,0 +1,7 @@
+{
+  "name": "legal-hub-mcp-argentina",
+  "description": "Unified MCP server for Argentine legal sources, enabling access to 11 databases including jurisprudence, legislation, official bulletins, and court records through a single connector for Claude Desktop.",
+  "source_repo": "cristianaboitiz-eng/legal-hub-mcp",
+  "source_url": "https://github.com/cristianaboitiz-eng/legal-hub-mcp",
+  "install": "npx -y legal-hub-mcp"
+}

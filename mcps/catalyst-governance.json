@@ -1,0 +1,7 @@
+{
+  "name": "catalyst-governance",
+  "description": "Catalyst puts a governance layer between AI agents and consequential actions. Before your agent writes files, sends messages, deploys code, or calls external APIs, it checks in with Catalyst. Depending on your policy, actions are allowed immediately, routed to a human for approval, or denied. Includ",
+  "source_repo": "Stratogenic-AI/catalyst-mcp",
+  "source_url": "https://github.com/Stratogenic-AI/catalyst-mcp",
+  "install": "npx -y catalyst-mcp"
+}

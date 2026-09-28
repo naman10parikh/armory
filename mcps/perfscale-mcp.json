@@ -1,0 +1,7 @@
+{
+  "name": "perfscale-mcp",
+  "description": "Enables local load testing with k6/locust/native tools and cloud-based test management through the perfscale platform.",
+  "source_repo": "Perfscale/mcp",
+  "source_url": "https://github.com/Perfscale/mcp",
+  "install": "# git clone --depth 1 https://github.com/Perfscale/mcp\n# See source for mcpServers config block"
+}

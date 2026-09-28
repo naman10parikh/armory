@@ -1,0 +1,7 @@
+{
+  "name": "mindmap-mcp",
+  "description": "A local MCP server that combines a browser mind map UI with a Streamable HTTP MCP endpoint, letting AI agents create, edit, and manage mind maps in real time through tools like mindmap_apply_op.",
+  "source_repo": "EwigMidori/mindmap-mcp",
+  "source_url": "https://github.com/EwigMidori/mindmap-mcp",
+  "install": "npx -y mindmap-mcp"
+}

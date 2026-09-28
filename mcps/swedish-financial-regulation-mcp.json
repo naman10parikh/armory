@@ -1,0 +1,7 @@
+{
+  "name": "swedish-financial-regulation-mcp",
+  "description": "Query Swedish financial regulation data — regulations, decisions, and requirements from Finansinspektionen — directly from Claude, Cursor, or any MCP-compatible client.",
+  "source_repo": "Ansvar-Systems/swedish-financial-regulation-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/swedish-financial-regulation-mcp",
+  "install": "npx -y swedish-financial-regulation-mcp"
+}

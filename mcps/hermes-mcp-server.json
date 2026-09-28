@@ -1,0 +1,7 @@
+{
+  "name": "hermes-mcp-server",
+  "description": "Bridges MCP-compatible AI clients to over 100 Hermes Agent skills for web browsing, file management, code execution, GitHub operations, and more.",
+  "source_repo": "pangtongya/hermes-mcp-server",
+  "source_url": "https://github.com/pangtongya/hermes-mcp-server",
+  "install": "npx -y hermes-mcp-server"
+}

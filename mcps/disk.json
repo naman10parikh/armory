@@ -1,0 +1,7 @@
+{
+  "name": "disk",
+  "description": "Disk is a personal cloud storage on Cloudflare with an MCP server enabling agents to perform file operations, sharing, and key management via natural language.",
+  "source_repo": "ZaynJarvis/disk",
+  "source_url": "https://github.com/ZaynJarvis/disk",
+  "install": "# git clone --depth 1 https://github.com/ZaynJarvis/disk\n# See source for mcpServers config block"
+}

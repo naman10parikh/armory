@@ -1,0 +1,7 @@
+{
+  "name": "code-tutor-narrator",
+  "description": "MCP server that lets AI agents drive VS Code as a coding tutor, highlighting ranges of code, narrating explanations aloud via TTS, and running scripted walkthroughs.",
+  "source_repo": "SimonSchick/code-tutor-narrator",
+  "source_url": "https://github.com/SimonSchick/code-tutor-narrator",
+  "install": "# git clone --depth 1 https://github.com/SimonSchick/code-tutor-narrator\n# See source for mcpServers config block"
+}

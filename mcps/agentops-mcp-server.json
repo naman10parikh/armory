@@ -1,0 +1,7 @@
+{
+  "name": "agentops-mcp-server",
+  "description": "Enables an edit-verify-commit workflow inside Zed with a local MCP server and project template for resumable agent work.",
+  "source_repo": "rioriost/agentops_mcp_server",
+  "source_url": "https://github.com/rioriost/agentops_mcp_server",
+  "install": "npx -y agentops_mcp_server"
+}

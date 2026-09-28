@@ -1,0 +1,7 @@
+{
+  "name": "convergence-gambit-mcp",
+  "description": "Connects Claude to the campaign's LegendKeeper wiki, allowing interaction with campaign resources, charter, and planned tools for NPCs and locations.",
+  "source_repo": "Kishotta/convergence-gambit-mcp",
+  "source_url": "https://github.com/Kishotta/convergence-gambit-mcp",
+  "install": "npx -y convergence-gambit-mcp"
+}

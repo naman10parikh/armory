@@ -1,0 +1,7 @@
+{
+  "name": "openemis-mcp-pro",
+  "description": "A read/write MCP server that connects AI assistants to the OpenEMIS school management system, allowing natural-language queries and write operations across 678 resources and 3361 endpoints.",
+  "source_repo": "tixuz/openemis-mcp-pro",
+  "source_url": "https://github.com/tixuz/openemis-mcp-pro",
+  "install": "# git clone --depth 1 https://github.com/tixuz/openemis-mcp-pro\n# See source for mcpServers config block"
+}

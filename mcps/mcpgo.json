@@ -1,6 +1,6 @@
 {
   "name": "mcpgo",
-  "description": "Mcpgo MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Southclaws/mcpgo",
   "source_url": "https://mcp.so/server/mcpgo/Southclaws",
   "install": "# git clone --depth 1 https://mcp.so/server/mcpgo/Southclaws\n# See source for mcpServers config block"

@@ -1,0 +1,7 @@
+{
+  "name": "dialpad-mcp-server",
+  "description": "Enables Eesa AI agents to interact with Dialpad cloud phone system via MCP tools, including user management, call logs, transcripts, and SMS sending, with multi-tenant support.",
+  "source_repo": "ZANYANBU/eesa-plugin-dialpad",
+  "source_url": "https://github.com/ZANYANBU/eesa-plugin-dialpad",
+  "install": "# git clone --depth 1 https://github.com/ZANYANBU/eesa-plugin-dialpad\n# See source for mcpServers config block"
+}

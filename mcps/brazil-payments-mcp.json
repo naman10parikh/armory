@@ -1,0 +1,7 @@
+{
+  "name": "brazil-payments-mcp",
+  "description": "A remote MCP server enabling AI agents to accept Pix, credit/debit cards, and boleto payments in Brazil via Mercado Pago, with payment status polling and no webhooks needed.",
+  "source_repo": "junter1989k-ai/brazil-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/brazil-payments-mcp",
+  "install": "npx -y brazil-payments-mcp"
+}

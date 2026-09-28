@@ -1,0 +1,7 @@
+{
+  "name": "mcp-harrypotter",
+  "description": "Enables querying Harry Potter data including students, staff, and spells from the Harry Potter API via direct tools or natural language through Pipeworx.",
+  "source_repo": "pipeworx-io/mcp-harrypotter",
+  "source_url": "https://github.com/pipeworx-io/mcp-harrypotter",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-harrypotter\n# See source for mcpServers config block"
+}

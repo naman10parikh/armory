@@ -1,0 +1,7 @@
+{
+  "name": "dryrun",
+  "description": "Gives AI coding assistants, IDEs, and CI full PostgreSQL schema intelligence from an offline snapshot, enabling linting, query validation, migration safety analysis, and foreign key graph exploration without ever exposing database credentials.",
+  "source_repo": "boringSQL/dryrun",
+  "source_url": "https://github.com/boringSQL/dryrun",
+  "install": "# git clone --depth 1 https://github.com/boringSQL/dryrun\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "memory-mcp-2",
+  "description": "A persistent, conflict-aware memory MCP server for AI coding assistants (Cursor, Claude Code).",
+  "source_repo": "vinnyho/memory-mcp",
+  "source_url": "https://github.com/vinnyho/memory-mcp",
+  "install": "npx -y memory-mcp"
+}

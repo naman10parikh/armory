@@ -1,0 +1,7 @@
+{
+  "name": "zenodo-mcp",
+  "description": "An MCP server for discovering, retrieving, citing, and evaluating scientific records from the Zenodo repository.",
+  "source_repo": "Agostynah/Zenodo-mcp",
+  "source_url": "https://github.com/Agostynah/Zenodo-mcp",
+  "install": "npx -y Zenodo-mcp"
+}

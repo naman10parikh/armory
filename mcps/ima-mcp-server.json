@@ -1,0 +1,7 @@
+{
+  "name": "ima-mcp-server",
+  "description": "Wraps IMA knowledge base OpenAPI into a standard MCP server, enabling search, browse, read, and add web pages to knowledge bases from any MCP-compatible agent.",
+  "source_repo": "xuewolai/ima-mcp-server",
+  "source_url": "https://github.com/xuewolai/ima-mcp-server",
+  "install": "npx -y ima-mcp-server"
+}

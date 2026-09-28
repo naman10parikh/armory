@@ -1,0 +1,7 @@
+{
+  "name": "gigachat-mcp-server",
+  "description": "Enables interaction with Sber's GigaChat API through the Model Context Protocol, allowing natural language processing and conversation in applications like opencode on Windows.",
+  "source_repo": "GavrSU/Gigachat_MCP_server",
+  "source_url": "https://github.com/GavrSU/Gigachat_MCP_server",
+  "install": "npx -y Gigachat_MCP_server"
+}

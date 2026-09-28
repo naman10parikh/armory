@@ -1,0 +1,7 @@
+{
+  "name": "rephrasy",
+  "description": "Enables humanizing AI-generated text and checking AI-detection scores directly from MCP-compatible clients like Claude and Cursor using the Rephrasy API.",
+  "source_repo": "rephrasyai/rephrasy-mcp",
+  "source_url": "https://github.com/rephrasyai/rephrasy-mcp",
+  "install": "npx -y rephrasy-mcp"
+}

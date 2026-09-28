@@ -1,0 +1,7 @@
+{
+  "name": "seo-mcp-tools",
+  "description": "Provides tools to extract the first or all sitemap URLs from a website's robots.txt file.",
+  "source_repo": "dalebertrand/seo-mcp-tools",
+  "source_url": "https://github.com/dalebertrand/seo-mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/dalebertrand/seo-mcp-tools\n# See source for mcpServers config block"
+}

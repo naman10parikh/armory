@@ -1,0 +1,7 @@
+{
+  "name": "striderlabs-mcp-poshmark",
+  "description": "MCP server for automating Poshmark fashion resale marketplace using Playwright and Browserbase.",
+  "source_repo": "markswendsen-code/mcp-poshmark",
+  "source_url": "https://github.com/markswendsen-code/mcp-poshmark",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-poshmark\n# See source for mcpServers config block"
+}

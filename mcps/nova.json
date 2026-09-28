@@ -1,0 +1,7 @@
+{
+  "name": "nova",
+  "description": "Gives an LLM agent control of the macOS desktop from a single self-contained Rust binary: Set-of-Mark numbered screenshots, Accessibility-tree clicks with browser-JS fallback for web content, Apple Vision OCR, mouse, keyboard, and clipboard.",
+  "source_repo": "bigduu/Nova",
+  "source_url": "https://github.com/bigduu/Nova",
+  "install": "# git clone --depth 1 https://github.com/bigduu/Nova\n# See source for mcpServers config block"
+}

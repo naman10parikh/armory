@@ -1,0 +1,7 @@
+{
+  "name": "tidy-mcp",
+  "description": "MCP server for Tidy, a backup and sync app. Enables AI agents to manage folder backups, schedules, and git sync operations via natural language.",
+  "source_repo": "Twarga/Tidy",
+  "source_url": "https://github.com/Twarga/Tidy",
+  "install": "# git clone --depth 1 https://github.com/Twarga/Tidy\n# See source for mcpServers config block"
+}

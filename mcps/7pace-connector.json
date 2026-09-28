@@ -1,0 +1,7 @@
+{
+  "name": "7pace-connector",
+  "description": "Enables Claude to interact with 7pace Timetracker for Jira, supporting time logging, worklog queries, and summaries.",
+  "source_repo": "Tzachi-Shahak/TimeReporting",
+  "source_url": "https://github.com/Tzachi-Shahak/TimeReporting",
+  "install": "# git clone --depth 1 https://github.com/Tzachi-Shahak/TimeReporting\n# See source for mcpServers config block"
+}

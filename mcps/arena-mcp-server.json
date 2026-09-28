@@ -1,0 +1,7 @@
+{
+  "name": "arena-mcp-server",
+  "description": "Enables running position-driven adversarial debates and code reviews between AI agents via MCP tools, supporting custom positions, multiple rounds, and local CLI models like Claude, Codex, and Gemini.",
+  "source_repo": "tim101010101/arena",
+  "source_url": "https://github.com/tim101010101/arena",
+  "install": "# git clone --depth 1 https://github.com/tim101010101/arena\n# See source for mcpServers config block"
+}

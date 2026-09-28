@@ -1,6 +1,6 @@
 {
   "name": "spike-symbol-mcp-server",
-  "description": "Spike Symbol Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "husqvaluna/spike-symbol-mcp-server",
   "source_url": "https://mcp.so/server/spike-symbol-mcp-server/husqvaluna",
   "install": "npx -y spike-symbol-mcp-server"

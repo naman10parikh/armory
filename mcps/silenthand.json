@@ -1,0 +1,7 @@
+{
+  "name": "silenthand",
+  "description": "Enables local macOS computer use by letting agents click, type, and inspect accessibility trees without stealing focus, through an unofficial host for OpenAI Computer Use.",
+  "source_repo": "edosulai/silenthand-cua",
+  "source_url": "https://github.com/edosulai/silenthand-cua",
+  "install": "# git clone --depth 1 https://github.com/edosulai/silenthand-cua\n# See source for mcpServers config block"
+}

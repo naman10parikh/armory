@@ -1,0 +1,7 @@
+{
+  "name": "tm-finder-mcp",
+  "description": "MCP server that enables trademark searches through the TM Finder Public API, with support for API key authentication and idempotency for retries.",
+  "source_repo": "b2tm/tm-finder-mcp",
+  "source_url": "https://github.com/b2tm/tm-finder-mcp",
+  "install": "npx -y tm-finder-mcp"
+}

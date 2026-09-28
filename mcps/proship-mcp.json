@@ -1,0 +1,7 @@
+{
+  "name": "proship-mcp",
+  "description": "Stateless MCP server that enables AI agents to create Thailand Post shipments, print labels, and track parcels through the ProShip API.",
+  "source_repo": "proship1/proship-mcp",
+  "source_url": "https://github.com/proship1/proship-mcp",
+  "install": "npx -y proship-mcp"
+}

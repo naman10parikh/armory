@@ -1,0 +1,7 @@
+{
+  "name": "pro-se-engine",
+  "description": "Pro Se Engine is an MCP server that provides 39 legal research tools across 6 government APIs, enabling AI agents to access case law, SEC filings, federal legislation, regulations, government contracts, and document processing workflows.",
+  "source_repo": "projectcues/pro-se-engine",
+  "source_url": "https://github.com/projectcues/pro-se-engine",
+  "install": "# git clone --depth 1 https://github.com/projectcues/pro-se-engine\n# See source for mcpServers config block"
+}

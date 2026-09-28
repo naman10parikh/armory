@@ -1,0 +1,7 @@
+{
+  "name": "enmask-mcp-server",
+  "description": "Enables AI assistants to interact with Enmask data masking tool via MCP tools for health checks, connection management, schema inspection, and job monitoring.",
+  "source_repo": "Gino019/MCP",
+  "source_url": "https://github.com/Gino019/MCP",
+  "install": "# git clone --depth 1 https://github.com/Gino019/MCP\n# See source for mcpServers config block"
+}

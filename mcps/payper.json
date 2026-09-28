@@ -1,0 +1,7 @@
+{
+  "name": "payper",
+  "description": "MCP server — AI agents rent GPUs & pay in USDG over x402 on Robinhood Chain.",
+  "source_repo": "payperlabs/payper-mcp",
+  "source_url": "https://github.com/payperlabs/payper-mcp",
+  "install": "npx -y payper-mcp"
+}

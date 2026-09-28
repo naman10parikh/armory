@@ -1,0 +1,7 @@
+{
+  "name": "sp-mcp-server",
+  "description": "Enables publishing images with captions to connected Instagram accounts and listing those accounts, allowing Claude to manage Instagram posts for Sp platform users.",
+  "source_repo": "yahya759/sp-mcp",
+  "source_url": "https://github.com/yahya759/sp-mcp",
+  "install": "npx -y sp-mcp"
+}

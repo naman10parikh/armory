@@ -1,0 +1,7 @@
+{
+  "name": "rtk-motion-intelligence-mcp-server",
+  "description": "Provides agent-to-agent paid access to motion capture, rehabilitation biomechanics, location threat intelligence, and commercial truck-sighting data via 21 MCP tools with USDC payments.",
+  "source_repo": "RTKMotion/motion-intelligence",
+  "source_url": "https://github.com/RTKMotion/motion-intelligence",
+  "install": "# git clone --depth 1 https://github.com/RTKMotion/motion-intelligence\n# See source for mcpServers config block"
+}

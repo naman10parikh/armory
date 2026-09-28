@@ -1,0 +1,7 @@
+{
+  "name": "freecase-mcp",
+  "description": "An MCP connector that lets AI agents search and read U.S. case law and statutes from Freecase, providing tools for full-text search and retrieval of legal documents.",
+  "source_repo": "jimdawdy-hub/freecase-mcp",
+  "source_url": "https://github.com/jimdawdy-hub/freecase-mcp",
+  "install": "npx -y freecase-mcp"
+}

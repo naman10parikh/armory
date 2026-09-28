@@ -1,0 +1,7 @@
+{
+  "name": "kvant-binance-mcp",
+  "description": "Custom MCP server for Binance Futures, providing market data, trading, and quant tools.",
+  "source_repo": "karakushan/kvant-binance-mc",
+  "source_url": "https://github.com/karakushan/kvant-binance-mc",
+  "install": "# git clone --depth 1 https://github.com/karakushan/kvant-binance-mc\n# See source for mcpServers config block"
+}

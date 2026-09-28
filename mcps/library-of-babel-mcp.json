@@ -1,0 +1,7 @@
+{
+  "name": "library-of-babel-mcp",
+  "description": "An MCP server that provides access to the Library of Babel, allowing users to retrieve exact page contents by address, search for text to find its location, and generate random pages.",
+  "source_repo": "slaufer/library-of-babel-mcp",
+  "source_url": "https://github.com/slaufer/library-of-babel-mcp",
+  "install": "npx -y library-of-babel-mcp"
+}

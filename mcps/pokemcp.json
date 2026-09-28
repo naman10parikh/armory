@@ -1,0 +1,7 @@
+{
+  "name": "pokemcp",
+  "description": "An MCP server that exposes the PokéAPI as tools and resources, allowing AI assistants to look up Pokémon data in real time without configuration.",
+  "source_repo": "Ragde54/pokemcp",
+  "source_url": "https://github.com/Ragde54/pokemcp",
+  "install": "# git clone --depth 1 https://github.com/Ragde54/pokemcp\n# See source for mcpServers config block"
+}

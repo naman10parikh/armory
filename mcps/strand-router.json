@@ -1,0 +1,7 @@
+{
+  "name": "strand-router",
+  "description": "Enables AI agents to branch, score, prune, and merge conversation strands with provenance and timeline export. Provides MCP tools and resources for managing parallel exploratory strands.",
+  "source_repo": "SanjoyDat1/strand-router",
+  "source_url": "https://github.com/SanjoyDat1/strand-router",
+  "install": "# git clone --depth 1 https://github.com/SanjoyDat1/strand-router\n# See source for mcpServers config block"
+}

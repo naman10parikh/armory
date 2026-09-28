@@ -1,0 +1,7 @@
+{
+  "name": "motley-mcp-server",
+  "description": "Enables AI assistants to query structured NYC family data, including neighborhoods, schools, admissions, safety, health, family resources, kids' activities, and neighborhood comparisons.",
+  "source_repo": "HypnoLabs-io/motley-mcp",
+  "source_url": "https://github.com/HypnoLabs-io/motley-mcp",
+  "install": "npx -y motley-mcp"
+}

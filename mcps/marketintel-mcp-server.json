@@ -1,0 +1,7 @@
+{
+  "name": "marketintel-mcp-server",
+  "description": "Enables AI assistants to perform real-time market research including competitor analysis, pricing intelligence, and company overviews via live web search through Tavily API.",
+  "source_repo": "akumar1903/AI-Powered-Market-Research-MCP-Server",
+  "source_url": "https://github.com/akumar1903/AI-Powered-Market-Research-MCP-Server",
+  "install": "npx -y AI-Powered-Market-Research-MCP-Server"
+}

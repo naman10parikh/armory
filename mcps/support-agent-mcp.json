@@ -1,0 +1,7 @@
+{
+  "name": "support-agent-mcp",
+  "description": "Provides order lookup, customer lookup, and refund issuance tools with categorized errors to ensure accurate routing and distinguish access failures from valid empty results.",
+  "source_repo": "malston/support-agent-mcp",
+  "source_url": "https://github.com/malston/support-agent-mcp",
+  "install": "npx -y support-agent-mcp"
+}

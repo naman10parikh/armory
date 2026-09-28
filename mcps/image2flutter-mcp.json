@@ -1,0 +1,7 @@
+{
+  "name": "image2flutter-mcp",
+  "description": "Converts UI screenshots into validated, editable Flutter widgets, with visual diff comparison and preview.",
+  "source_repo": "ezBuilder/image2flutter-mcp",
+  "source_url": "https://github.com/ezBuilder/image2flutter-mcp",
+  "install": "npx -y image2flutter-mcp"
+}

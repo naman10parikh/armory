@@ -1,0 +1,7 @@
+{
+  "name": "mcp-memory-service",
+  "description": "Provides intelligent, persistent memory for AI assistants with semantic search, natural language queries, and OAuth-based team collaboration, enabling context-aware conversations across multiple clients.",
+  "source_repo": "alphaplapplap/mcp-memory-service",
+  "source_url": "https://github.com/alphaplapplap/mcp-memory-service",
+  "install": "# git clone --depth 1 https://github.com/alphaplapplap/mcp-memory-service\n# See source for mcpServers config block"
+}

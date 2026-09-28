@@ -1,0 +1,7 @@
+{
+  "name": "m365-assistant-mcp-server",
+  "description": "Connects Claude with Microsoft 365 services including Outlook, OneDrive, and Power Automate, enabling email, calendar, files, and flow management through natural language.",
+  "source_repo": "ryaker/outlook-mcp",
+  "source_url": "https://github.com/ryaker/outlook-mcp",
+  "install": "npx -y outlook-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ms-graph-mcp",
+  "description": "Exposes Azure Entra ID user and license management as MCP tools over HTTP-SSE, enabling operations such as user creation, group assignment, and license management via Microsoft Graph API.",
+  "source_repo": "MSPbotsAI/ms-graph-mcp",
+  "source_url": "https://github.com/MSPbotsAI/ms-graph-mcp",
+  "install": "npx -y ms-graph-mcp"
+}

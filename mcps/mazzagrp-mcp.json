@@ -1,0 +1,7 @@
+{
+  "name": "mazzagrp-mcp",
+  "description": "Enables AI agents to access 21 mazzagrp.com AI endpoints with x402 USDC micropayments on Base, paying per call without API keys.",
+  "source_repo": "itsmeadamdamroma/mazzagrp-mcp",
+  "source_url": "https://github.com/itsmeadamdamroma/mazzagrp-mcp",
+  "install": "npx -y mazzagrp-mcp"
+}

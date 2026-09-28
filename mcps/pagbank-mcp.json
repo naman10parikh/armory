@@ -1,0 +1,7 @@
+{
+  "name": "pagbank-mcp",
+  "description": "Connects PagBank accounts to AI assistants via Open Finance Brasil, enabling natural language queries about balances, statements, credit card bills, and investments. Read-only and regulated by the Central Bank.",
+  "source_repo": "mcp-dir/pagbank-mcp",
+  "source_url": "https://github.com/mcp-dir/pagbank-mcp",
+  "install": "npx -y pagbank-mcp"
+}

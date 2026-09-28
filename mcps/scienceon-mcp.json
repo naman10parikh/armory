@@ -1,0 +1,7 @@
+{
+  "name": "scienceon-mcp",
+  "description": "MCP server for searching Korean scientific literature, patents, reports, and more via the KISTI ScienceON API.",
+  "source_repo": "ansua79/scienceon-mcp",
+  "source_url": "https://github.com/ansua79/scienceon-mcp",
+  "install": "npx -y scienceon-mcp"
+}

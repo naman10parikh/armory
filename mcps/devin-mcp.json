@@ -1,0 +1,7 @@
+{
+  "name": "devin-mcp",
+  "description": "MCP server for creating, monitoring, and managing Devin AI sessions.",
+  "source_repo": "desertaxle/devin-mcp",
+  "source_url": "https://github.com/desertaxle/devin-mcp",
+  "install": "npx -y devin-mcp"
+}

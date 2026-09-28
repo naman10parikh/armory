@@ -1,0 +1,7 @@
+{
+  "name": "thrift",
+  "description": "Cost-first memory layer for MCP-capable agents that stores memories cheaply and recalls relevant slices under a hard token budget, logging receipts for every recall.",
+  "source_repo": "YohadH/thirft",
+  "source_url": "https://github.com/YohadH/thirft",
+  "install": "# git clone --depth 1 https://github.com/YohadH/thirft\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "email-verification",
+  "description": "Real-time email verification API with syntax, MX, disposable detection, role-based flags, quality score 0-100. Built for agent outreach pipelines with pay-per-call via x402 (USDC on Base L2) -- no API key, no signup, no rate-limit wall.",
+  "source_repo": "Br0ski777/email-verification-x402",
+  "source_url": "https://github.com/Br0ski777/email-verification-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/email-verification-x402\n# See source for mcpServers config block"
+}

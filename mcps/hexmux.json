@@ -1,0 +1,7 @@
+{
+  "name": "hexmux",
+  "description": "MCP server that enables AI agents to control IDA Pro instances via Unix-socket supervisor, providing tools for decompilation, disassembly, and Python scripting.",
+  "source_repo": "ChiChou/hexmux",
+  "source_url": "https://github.com/ChiChou/hexmux",
+  "install": "# git clone --depth 1 https://github.com/ChiChou/hexmux\n# See source for mcpServers config block"
+}

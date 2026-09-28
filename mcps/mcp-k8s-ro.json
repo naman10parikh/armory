@@ -1,0 +1,7 @@
+{
+  "name": "mcp-k8s-ro",
+  "description": "A read-only MCP server that gives Claude safe access to Kubernetes clusters, enabling listing, describing, and monitoring resources without mutation risks and with secret masking.",
+  "source_repo": "your-ko/mcp-k8s-ro",
+  "source_url": "https://github.com/your-ko/mcp-k8s-ro",
+  "install": "# git clone --depth 1 https://github.com/your-ko/mcp-k8s-ro\n# See source for mcpServers config block"
+}

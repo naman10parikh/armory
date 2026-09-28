@@ -1,0 +1,7 @@
+{
+  "name": "seosiri-dns-security-audit-mcp",
+  "description": "MCP server for Technical SEO DNS record auditing, SOA expiry health checks, SSL/TLS inspection, and HTTP security header analysis. Enables comprehensive security audits and scoring via 10 tools.",
+  "source_repo": "SEOSiri-Official/dns-sec-audit-mcp",
+  "source_url": "https://github.com/SEOSiri-Official/dns-sec-audit-mcp",
+  "install": "npx -y dns-sec-audit-mcp"
+}

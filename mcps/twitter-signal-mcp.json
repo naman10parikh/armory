@@ -1,0 +1,7 @@
+{
+  "name": "twitter-signal-mcp",
+  "description": "Live X/Twitter search and AI trend digests without an API key, charging per call in USDC via x402. Enables real-time tweet search and AI summaries inside MCP clients.",
+  "source_repo": "ciinkwia/twitter-signal-mcp",
+  "source_url": "https://github.com/ciinkwia/twitter-signal-mcp",
+  "install": "npx -y twitter-signal-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tool-box-mcp-server",
+  "description": "Central registry for AI tools with vector search and knowledge graph, enabling intelligent tool discovery, chaining, and execution via MCP.",
+  "source_repo": "Adriftnote/tool-box-mcp",
+  "source_url": "https://github.com/Adriftnote/tool-box-mcp",
+  "install": "npx -y tool-box-mcp"
+}

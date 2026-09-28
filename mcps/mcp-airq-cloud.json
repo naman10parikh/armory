@@ -1,0 +1,7 @@
+{
+  "name": "mcp-airq-cloud",
+  "description": "MCP server for the air-Q Cloud API, enabling remote retrieval of air quality sensor data and historical analysis through read-only tools like listing devices, fetching readings, and exporting charts or data.",
+  "source_repo": "CorantGmbH/mcp-airq-cloud",
+  "source_url": "https://github.com/CorantGmbH/mcp-airq-cloud",
+  "install": "# git clone --depth 1 https://github.com/CorantGmbH/mcp-airq-cloud\n# See source for mcpServers config block"
+}

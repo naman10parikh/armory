@@ -1,0 +1,7 @@
+{
+  "name": "meok-abci-bridge-mcp",
+  "description": "Read-only Tendermint/Cosmos blockchain query for agents, with 10 pre-configured mainnets and custom RPC support.",
+  "source_repo": "CSOAI-ORG/meok-abci-bridge-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/meok-abci-bridge-mcp",
+  "install": "npx -y meok-abci-bridge-mcp"
+}

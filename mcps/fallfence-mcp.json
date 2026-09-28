@@ -1,0 +1,7 @@
+{
+  "name": "fallfence-mcp",
+  "description": "Exposes the 7-prime spine, 7 κ-bands, and 6 fold operations as native tools and resources in any MCP client for foldkit interactions.",
+  "source_repo": "sjgant80-hub/fallfence-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallfence-mcp",
+  "install": "npx -y fallfence-mcp"
+}

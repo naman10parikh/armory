@@ -1,0 +1,7 @@
+{
+  "name": "comfyui-mcp-server-node",
+  "description": "A lightweight MCP server that bridges AI agents with a local ComfyUI instance to generate and iteratively refine images, audio, and video through conversational tool calls.",
+  "source_repo": "yar3333/comfyui-mcp-server-node",
+  "source_url": "https://github.com/yar3333/comfyui-mcp-server-node",
+  "install": "# git clone --depth 1 https://github.com/yar3333/comfyui-mcp-server-node\n# See source for mcpServers config block"
+}

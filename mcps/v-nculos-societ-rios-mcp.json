@@ -1,0 +1,7 @@
+{
+  "name": "v-nculos-societ-rios-mcp",
+  "description": "Maps corporate relationships from CPF/CNPJ, revealing participations and related partners for people and companies via a read-only, hosted MCP server.",
+  "source_repo": "mcp-dir/vinculos_societarios-mcp",
+  "source_url": "https://github.com/mcp-dir/vinculos_societarios-mcp",
+  "install": "npx -y vinculos_societarios-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "headstarter-mcp-server",
+  "description": "Enables creating Notion pages from natural language prompts via the Notion API, with features like title/content extraction and real-time JSON responses.",
+  "source_repo": "Krushali1511/MCP-server",
+  "source_url": "https://github.com/Krushali1511/MCP-server",
+  "install": "# git clone --depth 1 https://github.com/Krushali1511/MCP-server\n# See source for mcpServers config block"
+}

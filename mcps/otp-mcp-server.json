@@ -1,0 +1,7 @@
+{
+  "name": "otp-mcp-server",
+  "description": "Enables AI assistants to query cross-organizational best practices, learnings, publishers, and patterns from the OTP network.",
+  "source_repo": "david-steel/otp-mcp-server",
+  "source_url": "https://github.com/david-steel/otp-mcp-server",
+  "install": "npx -y otp-mcp-server"
+}

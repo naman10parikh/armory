@@ -1,0 +1,7 @@
+{
+  "name": "corpuskit",
+  "description": "Enables AI coding agents to search documentation and query constraints via MCP tools kr_search and kr_constraints.",
+  "source_repo": "SupaKang/corpuskit",
+  "source_url": "https://github.com/SupaKang/corpuskit",
+  "install": "# git clone --depth 1 https://github.com/SupaKang/corpuskit\n# See source for mcpServers config block"
+}

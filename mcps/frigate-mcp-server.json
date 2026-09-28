@@ -1,0 +1,7 @@
+{
+  "name": "frigate-mcp-server",
+  "description": "A Model Context Protocol server that enables AI assistants to control and query Frigate NVR via natural language, providing 59 tools for system management, events, cameras, recordings, review, exports, labels, and classification.",
+  "source_repo": "jakekeeys/frigate-mcp",
+  "source_url": "https://github.com/jakekeeys/frigate-mcp",
+  "install": "npx -y frigate-mcp"
+}

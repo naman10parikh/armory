@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-subreg",
+  "description": "MCP server that exposes the Subreg.cz domain registrar SOAP API as tools for LLM agents, enabling domain, DNS, contact, and billing management. Read-only by default, with optional mutating operations.",
+  "source_repo": "VitexSoftware/mcp-server-subreg",
+  "source_url": "https://github.com/VitexSoftware/mcp-server-subreg",
+  "install": "# git clone --depth 1 https://github.com/VitexSoftware/mcp-server-subreg\n# See source for mcpServers config block"
+}

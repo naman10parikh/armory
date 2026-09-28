@@ -1,0 +1,7 @@
+{
+  "name": "incidentrelay-mcp",
+  "description": "MCP server for IncidentRelay, exposing its entire REST API (279 operations) through gateway and curated tools for on-call scheduling, alert routing, and incident management.",
+  "source_repo": "NikGariel/IncidentRelay-mcp",
+  "source_url": "https://github.com/NikGariel/IncidentRelay-mcp",
+  "install": "npx -y IncidentRelay-mcp"
+}

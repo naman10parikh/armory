@@ -1,0 +1,7 @@
+{
+  "name": "x-bookmarks-mcp",
+  "description": "Fully local, privacy-first MCP server that turns exported X/Twitter bookmarks into a searchable, enriched knowledge base for Claude Desktop and Claude Code.",
+  "source_repo": "p0ki/x-bookmarks-mcp",
+  "source_url": "https://github.com/p0ki/x-bookmarks-mcp",
+  "install": "npx -y x-bookmarks-mcp"
+}

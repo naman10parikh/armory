@@ -1,0 +1,7 @@
+{
+  "name": "remove-paywall-mcp",
+  "description": "MCP server that removes article paywalls by searching internet archives (Wayback Machine, archive.is, Memento) and returns clean article text. It also learns from success rates per domain to optimize archive searches.",
+  "source_repo": "jasval/remove-paywall-mcp",
+  "source_url": "https://github.com/jasval/remove-paywall-mcp",
+  "install": "npx -y remove-paywall-mcp"
+}

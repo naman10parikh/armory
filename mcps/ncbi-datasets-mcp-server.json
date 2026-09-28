@@ -1,0 +1,7 @@
+{
+  "name": "ncbi-datasets-mcp-server",
+  "description": "Provides comprehensive access to the NCBI Datasets API, enabling genomic, taxonomic, and biological data operations through 31 specialized tools.",
+  "source_repo": "Augmented-Nature/NCBI-Datasets-MCP-Server",
+  "source_url": "https://github.com/Augmented-Nature/NCBI-Datasets-MCP-Server",
+  "install": "npx -y NCBI-Datasets-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dynamics-mcp-server",
+  "description": "MCP server to query Microsoft Dynamics 365 CRM records and support workflows using streamable HTTP transport.",
+  "source_repo": "kavingas/dynamics-mcp",
+  "source_url": "https://github.com/kavingas/dynamics-mcp",
+  "install": "npx -y dynamics-mcp"
+}

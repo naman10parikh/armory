@@ -1,0 +1,7 @@
+{
+  "name": "onthecheap-mcp",
+  "description": "MCP server for the On the Cheap network — local guides to free and cheap things to do across 14 US cities. Provides daily event listings with times, prices and venues, plus a searchable archive of deals and guides.",
+  "source_repo": "chrischall/onthecheap-mcp",
+  "source_url": "https://github.com/chrischall/onthecheap-mcp",
+  "install": "npx -y onthecheap-mcp"
+}

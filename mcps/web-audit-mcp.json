@@ -1,0 +1,7 @@
+{
+  "name": "web-audit-mcp",
+  "description": "Enables auditing of websites for performance, SEO, accessibility, security, and mobile readiness, with tools to validate URLs, run page audits, save results, and retrieve reports.",
+  "source_repo": "sayuru-akash/web-audit-mcp",
+  "source_url": "https://github.com/sayuru-akash/web-audit-mcp",
+  "install": "npx -y web-audit-mcp"
+}

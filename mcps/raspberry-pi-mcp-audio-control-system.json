@@ -1,0 +1,7 @@
+{
+  "name": "raspberry-pi-mcp-audio-control-system",
+  "description": "Enables remote control of audio playback and system volume on a Raspberry Pi via the Model Context Protocol (MCP).",
+  "source_repo": "ChilindrinoBot/raspberry-pi-mcp",
+  "source_url": "https://github.com/ChilindrinoBot/raspberry-pi-mcp",
+  "install": "npx -y raspberry-pi-mcp"
+}

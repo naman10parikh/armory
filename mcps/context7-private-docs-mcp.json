@@ -1,0 +1,7 @@
+{
+  "name": "context7-private-docs-mcp",
+  "description": "Enables querying private documentation with tools for version resolution, stale reference checking, and receipt export.",
+  "source_repo": "clauxel/context7-private-docs-mcp-mcp",
+  "source_url": "https://github.com/clauxel/context7-private-docs-mcp-mcp",
+  "install": "npx -y context7-private-docs-mcp-mcp"
+}

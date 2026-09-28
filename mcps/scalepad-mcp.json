@@ -1,0 +1,7 @@
+{
+  "name": "scalepad-mcp",
+  "description": "MCP server for the ScalePad platform, enabling access to Core, Lifecycle Manager, ControlMap, Backup Radar, and Quoter tools with dual-era protocol support.",
+  "source_repo": "wyre-technology/scalepad-mcp",
+  "source_url": "https://github.com/wyre-technology/scalepad-mcp",
+  "install": "npx -y scalepad-mcp"
+}

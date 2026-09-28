@@ -1,0 +1,7 @@
+{
+  "name": "paddling-pl-mcp-server",
+  "description": "MCP server for paddling.pl, a Polish kayaking-trip marketplace, enabling users to search trips, check availability, and access equipment resources through natural language.",
+  "source_repo": "sultan-programistow/paddling-pl-mcp-server",
+  "source_url": "https://github.com/sultan-programistow/paddling-pl-mcp-server",
+  "install": "npx -y paddling-pl-mcp-server"
+}

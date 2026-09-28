@@ -1,0 +1,7 @@
+{
+  "name": "media-editor-mcp",
+  "description": "Provides MCP servers for AI-driven video editing. Enables offline editing of CapCut drafts and remote control of Adobe Premiere Pro via UXP plugin, with shared media analysis for beat detection and transcription.",
+  "source_repo": "nguyenph88/Media-Editor-MCP",
+  "source_url": "https://github.com/nguyenph88/Media-Editor-MCP",
+  "install": "npx -y Media-Editor-MCP"
+}

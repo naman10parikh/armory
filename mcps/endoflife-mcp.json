@@ -1,0 +1,7 @@
+{
+  "name": "endoflife-mcp",
+  "description": "Software end-of-life intelligence for AI agents: EOL dates, support timelines and 0-100 upgrade risk scores for 480+ products. Check whether a version is still supported, score its risk, or audit an entire stack.",
+  "source_repo": "endoflife-ai/endoflife-mcp",
+  "source_url": "https://github.com/endoflife-ai/endoflife-mcp",
+  "install": "npx -y endoflife-mcp"
+}

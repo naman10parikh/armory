@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-pi-solicitar-certid-o-negativa-da-d-vida-ativa-cnda",
+  "description": "MCP server to request negative certificate of active debt (CNDA) from SEFAZ PI, using official sources.",
+  "source_repo": "mcp-dir/sefaz_pi_cnda-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_pi_cnda-mcp",
+  "install": "npx -y sefaz_pi_cnda-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "telemost-mcp-server",
+  "description": "Enables Telegram analytics (channel stats, search, sentiment) via MCP tools with pay-per-call in USDC, no API keys needed.",
+  "source_repo": "slava01011910-ops/telemost-mcp-server",
+  "source_url": "https://github.com/slava01011910-ops/telemost-mcp-server",
+  "install": "npx -y telemost-mcp-server"
+}

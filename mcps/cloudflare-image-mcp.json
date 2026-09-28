@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-image-mcp",
+  "description": "An MCP server that allows AI models to generate images from text prompts and describe images using Cloudflare Workers AI models.",
+  "source_repo": "kashifamin72/Image-MCP",
+  "source_url": "https://github.com/kashifamin72/Image-MCP",
+  "install": "npx -y Image-MCP"
+}

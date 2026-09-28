@@ -1,0 +1,7 @@
+{
+  "name": "examintel-mcp",
+  "description": "An MCP server that indexes exam PDFs and HTML documents for semantic search, topic frequency analysis, and study plan generation, fully local and private.",
+  "source_repo": "bhattjaydev007-ai/examintel-mcp",
+  "source_url": "https://github.com/bhattjaydev007-ai/examintel-mcp",
+  "install": "npx -y examintel-mcp"
+}

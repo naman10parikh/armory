@@ -1,0 +1,7 @@
+{
+  "name": "skills-mcp-hudu",
+  "description": "Connects AI assistants to Hudu IT documentation platform with 43 tools, Markdown output, and multi-tenant support for MSPs.",
+  "source_repo": "DevSkillsIT/Skills-MCP-Hudu",
+  "source_url": "https://github.com/DevSkillsIT/Skills-MCP-Hudu",
+  "install": "# git clone --depth 1 https://github.com/DevSkillsIT/Skills-MCP-Hudu\n# See source for mcpServers config block"
+}

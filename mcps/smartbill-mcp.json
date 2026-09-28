@@ -1,0 +1,7 @@
+{
+  "name": "smartbill-mcp",
+  "description": "An MCP server for the SmartBill Cloud API. It lets an MCP client issue and manage Romanian invoices, proformas and payments, download document PDFs, and read VAT rates, series and stock levels.",
+  "source_repo": "bogdanripa/smartbill-mcp",
+  "source_url": "https://github.com/bogdanripa/smartbill-mcp",
+  "install": "npx -y smartbill-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "atiendo24-mcp-server",
+  "description": "MCP server that connects Claude Desktop to Atiendo24 platform, enabling management of appointments, customers, conversations, leads, analytics, and WhatsApp messaging through natural language.",
+  "source_repo": "edgarconejo/atiendo24-mcp-server",
+  "source_url": "https://github.com/edgarconejo/atiendo24-mcp-server",
+  "install": "npx -y atiendo24-mcp-server"
+}

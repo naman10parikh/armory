@@ -1,0 +1,7 @@
+{
+  "name": "szlcsc-mcp",
+  "description": "MCP server for LCSC China (szlcsc.com) enabling component search, parametric filtering, price/stock lookup, datasheet downloads, and EDA asset conversion to Altium formats with local library management.",
+  "source_repo": "zhr1008/szlcsc-mcp",
+  "source_url": "https://github.com/zhr1008/szlcsc-mcp",
+  "install": "npx -y szlcsc-mcp"
+}

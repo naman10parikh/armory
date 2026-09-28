@@ -1,0 +1,7 @@
+{
+  "name": "geocodage-mcp",
+  "description": "MCP server for geocoding French addresses, POIs, and cadastral parcels using the Géoplateforme API. Supports direct geocoding, reverse geocoding, and capability queries.",
+  "source_repo": "cvagner/geocodage-mcp",
+  "source_url": "https://github.com/cvagner/geocodage-mcp",
+  "install": "npx -y geocodage-mcp"
+}

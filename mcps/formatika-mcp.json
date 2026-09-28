@@ -1,0 +1,7 @@
+{
+  "name": "formatika-mcp",
+  "description": "Provides tools to convert, resize, compress, crop, and rotate files (images, audio, video, PDF, archives, and more) through formatika.app, processing files locally and preserving existing files.",
+  "source_repo": "formatika-app/mcp",
+  "source_url": "https://github.com/formatika-app/mcp",
+  "install": "# git clone --depth 1 https://github.com/formatika-app/mcp\n# See source for mcpServers config block"
+}

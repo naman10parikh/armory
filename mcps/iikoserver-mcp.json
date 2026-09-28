@@ -1,0 +1,7 @@
+{
+  "name": "iikoserver-mcp",
+  "description": "Exposes iiko restaurant management system REST API as 42+ LLM-callable tools over stdio, enabling natural language interaction with products, employees, orders, payments, OLAP reports, and assembly charts.",
+  "source_repo": "simba87/iiko-server-mcp",
+  "source_url": "https://github.com/simba87/iiko-server-mcp",
+  "install": "npx -y iiko-server-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "datacron",
+  "description": "Local MCP server for querying and maintaining a Markdown vault. Provides full-text search, backlinks, note retrieval, and optional confined write tools, without sending the whole vault to the client context.",
+  "source_repo": "VBlackJack/Datacron",
+  "source_url": "https://github.com/VBlackJack/Datacron",
+  "install": "# git clone --depth 1 https://github.com/VBlackJack/Datacron\n# See source for mcpServers config block"
+}

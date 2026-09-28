@@ -1,0 +1,7 @@
+{
+  "name": "hacknplan-mcp",
+  "description": "Enables Claude to interact with HacknPlan project management via the MCP protocol. Provides tools for managing projects, work items, boards, milestones, time logs, design models, and cross-project portfolio views.",
+  "source_repo": "mtuska/hacknplan-mcp",
+  "source_url": "https://github.com/mtuska/hacknplan-mcp",
+  "install": "npx -y hacknplan-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "beacon-mcp-2",
+  "description": "x402 agent MCP server (beacon-mcp) exposing tools via Docker + glama.json for introspection.",
+  "source_repo": "enrichgateagent-png/x402-agents",
+  "source_url": "https://github.com/enrichgateagent-png/x402-agents",
+  "install": "# git clone --depth 1 https://github.com/enrichgateagent-png/x402-agents\n# See source for mcpServers config block"
+}

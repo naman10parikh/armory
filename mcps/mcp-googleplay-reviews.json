@@ -1,0 +1,7 @@
+{
+  "name": "mcp-googleplay-reviews",
+  "description": "Enables reading and replying to Google Play Store reviews using the Android Publisher API, with no extra functionality to limit security risk.",
+  "source_repo": "ForgeHQ-Agents/mcp-googleplay-reviews",
+  "source_url": "https://github.com/ForgeHQ-Agents/mcp-googleplay-reviews",
+  "install": "# git clone --depth 1 https://github.com/ForgeHQ-Agents/mcp-googleplay-reviews\n# See source for mcpServers config block"
+}

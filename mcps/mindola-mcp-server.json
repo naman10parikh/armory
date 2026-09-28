@@ -1,0 +1,7 @@
+{
+  "name": "mindola-mcp-server",
+  "description": "MCP server for creating and managing Mindola lenses, which are grounded AI pages that answer questions from your own material with citations. Enables AI assistants to create lenses, add knowledge, and monitor status through natural language.",
+  "source_repo": "Mindola-ai/mcp-server",
+  "source_url": "https://github.com/Mindola-ai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Mindola-ai/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "meal-planner-mcp",
+  "description": "Plans a week of meals from a local recipe library, optimizing for shared ingredients and avoiding repeats, then generates a consolidated shopping list and Markdown plan.",
+  "source_repo": "illinigirl/meal-planner-mcp",
+  "source_url": "https://github.com/illinigirl/meal-planner-mcp",
+  "install": "npx -y meal-planner-mcp"
+}

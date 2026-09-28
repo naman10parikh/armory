@@ -1,0 +1,7 @@
+{
+  "name": "dmc-mcp-server",
+  "description": "An MCP server that executes SQL queries on TDSQL-C and TDSQL database instances via Tencent Cloud DMC (Data Management Console), leveraging browser cookies for authentication.",
+  "source_repo": "yangfeng20/dmc-mcp-server",
+  "source_url": "https://github.com/yangfeng20/dmc-mcp-server",
+  "install": "npx -y dmc-mcp-server"
+}

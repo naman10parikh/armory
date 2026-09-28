@@ -1,0 +1,7 @@
+{
+  "name": "miniframe-tools-mcp",
+  "description": "MCP server for Brazilian data lookups (Pix codes, CEP, CNPJ) and web rendering tasks (Markdown, screenshots, PDFs) via a paid HTTP API with x402 billing.",
+  "source_repo": "edsonvmendes/miniframe-tools-mcp",
+  "source_url": "https://github.com/edsonvmendes/miniframe-tools-mcp",
+  "install": "npx -y miniframe-tools-mcp"
+}

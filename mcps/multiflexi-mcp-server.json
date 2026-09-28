@@ -1,0 +1,7 @@
+{
+  "name": "multiflexi-mcp-server",
+  "description": "MCP server for MultiFlexi API integration, providing tools and resources to manage applications, jobs, companies, users, and run templates.",
+  "source_repo": "VitexSoftware/multiflexi-mcp-server",
+  "source_url": "https://github.com/VitexSoftware/multiflexi-mcp-server",
+  "install": "npx -y multiflexi-mcp-server"
+}

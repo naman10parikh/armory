@@ -1,0 +1,7 @@
+{
+  "name": "glass",
+  "description": "Build -> See -> Interact -> Debug over native GUI apps.",
+  "source_repo": "fixed-width/glass",
+  "source_url": "https://github.com/fixed-width/glass",
+  "install": "# git clone --depth 1 https://github.com/fixed-width/glass\n# See source for mcpServers config block"
+}

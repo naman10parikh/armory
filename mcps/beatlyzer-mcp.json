@@ -1,0 +1,7 @@
+{
+  "name": "beatlyzer-mcp",
+  "description": "Enables AI agents to analyze audio files, extracting tempo, key, beat drops, volume surges, high tones, loudness, brightness, and structure, and returning structured JSON and visualizations.",
+  "source_repo": "Profazia/beatlyzer",
+  "source_url": "https://github.com/Profazia/beatlyzer",
+  "install": "# git clone --depth 1 https://github.com/Profazia/beatlyzer\n# See source for mcpServers config block"
+}

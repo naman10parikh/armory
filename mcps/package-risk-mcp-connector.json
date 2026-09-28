@@ -1,0 +1,7 @@
+{
+  "name": "package-risk-mcp-connector",
+  "description": "Provides MCP tools to check a package's maintenance status, licence, and security advisories before you depend on it, with per-call payment in USDC on Base mainnet via x402.",
+  "source_repo": "makosdDavid/package-risk-mcp",
+  "source_url": "https://github.com/makosdDavid/package-risk-mcp",
+  "install": "npx -y package-risk-mcp"
+}

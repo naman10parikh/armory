@@ -1,0 +1,7 @@
+{
+  "name": "learn-mcp",
+  "description": "A learning MCP server with tools, resources, prompts, and sampling for AI clients like Cursor, using local JSON storage.",
+  "source_repo": "eik-1/local-mcp-server",
+  "source_url": "https://github.com/eik-1/local-mcp-server",
+  "install": "npx -y local-mcp-server"
+}

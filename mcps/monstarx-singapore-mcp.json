@@ -1,0 +1,7 @@
+{
+  "name": "monstarx-singapore-mcp",
+  "description": "Provides AI agents with live, structured access to Singapore government open data including weather, transport, property, and company registry via 35 well-described tools.",
+  "source_repo": "saadkamal/sg-mcp-playground",
+  "source_url": "https://github.com/saadkamal/sg-mcp-playground",
+  "install": "# git clone --depth 1 https://github.com/saadkamal/sg-mcp-playground\n# See source for mcpServers config block"
+}

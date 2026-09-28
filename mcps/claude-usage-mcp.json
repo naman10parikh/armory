@@ -1,0 +1,7 @@
+{
+  "name": "claude-usage-mcp",
+  "description": "Reports your Claude subscription usage (5-hour and weekly limits) with a forecast and velocity recommendation, using Claude Code's existing OAuth session without requiring an API key.",
+  "source_repo": "NG-Bullseye/claude-usage-mcp",
+  "source_url": "https://github.com/NG-Bullseye/claude-usage-mcp",
+  "install": "npx -y claude-usage-mcp"
+}

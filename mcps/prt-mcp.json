@@ -1,0 +1,7 @@
+{
+  "name": "prt-mcp",
+  "description": "MCP server exposing Pittsburgh Regional Transit (PRT) TrueTime operations as typed tools for agent clients.",
+  "source_repo": "aaronbiscotti/prt-mcp",
+  "source_url": "https://github.com/aaronbiscotti/prt-mcp",
+  "install": "npx -y prt-mcp"
+}

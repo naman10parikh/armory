@@ -1,0 +1,7 @@
+{
+  "name": "saft-mcp",
+  "description": "An MCP server that enables AI assistants to parse, validate, and analyze Portuguese SAF-T tax files, providing tools for querying invoices, customers, products, VAT breakdowns, and anomaly detection.",
+  "source_repo": "Bloomidea/saft-mcp",
+  "source_url": "https://github.com/Bloomidea/saft-mcp",
+  "install": "npx -y saft-mcp"
+}

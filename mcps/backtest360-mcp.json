@@ -1,0 +1,7 @@
+{
+  "name": "backtest360-mcp",
+  "description": "MCP server that exposes the Backtest360 backtesting engine API as tools, enabling AI agents to conversationally discover indicators, build and validate strategies, run backtests, and read results.",
+  "source_repo": "Backtest360/backtest360-mcp",
+  "source_url": "https://github.com/Backtest360/backtest360-mcp",
+  "install": "npx -y backtest360-mcp"
+}

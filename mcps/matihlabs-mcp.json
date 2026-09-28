@@ -1,0 +1,7 @@
+{
+  "name": "matihlabs-mcp",
+  "description": "Connects AI clients to the Matih data platform, enabling SQL queries, table profiling, analytics, chart creation, and file uploads through MCP tools with OAuth/PKCE authentication.",
+  "source_repo": "matih-labs/matih-mcp",
+  "source_url": "https://github.com/matih-labs/matih-mcp",
+  "install": "npx -y matih-mcp"
+}

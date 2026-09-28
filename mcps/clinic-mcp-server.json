@@ -1,0 +1,7 @@
+{
+  "name": "clinic-mcp-server",
+  "description": "Exposes a clinic's knowledge base and structured records to Claude Desktop as callable tools, with read tools grounded with citations and write tools gated behind approval.",
+  "source_repo": "leomengineer/clinic-mcp-server",
+  "source_url": "https://github.com/leomengineer/clinic-mcp-server",
+  "install": "npx -y clinic-mcp-server"
+}

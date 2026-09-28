@@ -1,0 +1,7 @@
+{
+  "name": "pokeapi-mcp-server",
+  "description": "Empowers AI assistants to fetch and explore comprehensive Pokémon data from PokeAPI via 47 tools covering Pokémon, moves, items, game mechanics, and more.",
+  "source_repo": "Asthanaji05/MCP_Pokemon",
+  "source_url": "https://github.com/Asthanaji05/MCP_Pokemon",
+  "install": "# git clone --depth 1 https://github.com/Asthanaji05/MCP_Pokemon\n# See source for mcpServers config block"
+}

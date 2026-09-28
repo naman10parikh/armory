@@ -1,0 +1,7 @@
+{
+  "name": "perception-re-mcp-server",
+  "description": "Bridges Claude Code to Perception.cx reverse engineering tools via AngelScript WebSocket, providing 35+ tools for process manipulation, memory operations, disassembly, scanning, and more.",
+  "source_repo": "verifizieren/perception-mcp",
+  "source_url": "https://github.com/verifizieren/perception-mcp",
+  "install": "npx -y perception-mcp"
+}

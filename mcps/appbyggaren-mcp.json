@@ -1,0 +1,7 @@
+{
+  "name": "appbyggaren-mcp",
+  "description": "An MCP server for publishing static web apps via Gitea and Coolify, with scoped permissions and safety guards.",
+  "source_repo": "kanylbullen/appbyggaren-mcp",
+  "source_url": "https://github.com/kanylbullen/appbyggaren-mcp",
+  "install": "npx -y appbyggaren-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "auth0-whoami-mcp-template",
+  "description": "An MCP server that exposes an authenticated Streamable HTTP endpoint with a whoami tool returning safe claims for the current Auth0 user.",
+  "source_repo": "mustafadeel/auth0-whoami-mcp-template",
+  "source_url": "https://github.com/mustafadeel/auth0-whoami-mcp-template",
+  "install": "# git clone --depth 1 https://github.com/mustafadeel/auth0-whoami-mcp-template\n# See source for mcpServers config block"
+}

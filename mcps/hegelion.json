@@ -1,0 +1,7 @@
+{
+  "name": "hegelion",
+  "description": "An MCP server that improves LLM reasoning through dialectical argumentation and generates verified code via a player-coach loop.",
+  "source_repo": "Hmbown/Hegelion",
+  "source_url": "https://github.com/Hmbown/Hegelion",
+  "install": "# git clone --depth 1 https://github.com/Hmbown/Hegelion\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "enriquecimento-de-lead",
+  "description": "Enriches a contact from phone and email, returning associated registration data. Read-only MCP server with prepaid credits and no credentials.",
+  "source_repo": "mcp-dir/enriquecimento_lead-mcp",
+  "source_url": "https://github.com/mcp-dir/enriquecimento_lead-mcp",
+  "install": "npx -y enriquecimento_lead-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tilda-mcp",
+  "description": "MCP server that provides bounded, reversible control over Tilda visual editor operations, enabling coding agents to read, edit, publish, and rollback page changes with explicit identity and human approval.",
+  "source_repo": "Salatik98/tilda-mcp",
+  "source_url": "https://github.com/Salatik98/tilda-mcp",
+  "install": "npx -y tilda-mcp"
+}

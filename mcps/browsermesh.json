@@ -1,0 +1,7 @@
+{
+  "name": "browsermesh",
+  "description": "A local, open-source MCP server that enables AI clients to control multiple isolated Chromium browser sessions concurrently, with explicit session and page addressing and independent state.",
+  "source_repo": "scrollDynasty/multi-agent-browser-mcp",
+  "source_url": "https://github.com/scrollDynasty/multi-agent-browser-mcp",
+  "install": "npx -y multi-agent-browser-mcp"
+}

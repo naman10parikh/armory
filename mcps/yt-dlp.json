@@ -1,0 +1,7 @@
+{
+  "name": "yt-dlp",
+  "description": "Enables video metadata extraction and downloading from platforms like TikTok and YouTube via yt-dlp, including direct MP4 links and local downloads with MP3 conversion.",
+  "source_repo": "agaldemas/yt-dlp-mcp",
+  "source_url": "https://github.com/agaldemas/yt-dlp-mcp",
+  "install": "npx -y yt-dlp-mcp"
+}

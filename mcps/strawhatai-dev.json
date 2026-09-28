@@ -1,6 +1,6 @@
 {
   "name": "strawhatai-dev",
-  "description": "Strawhatai Dev MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "StrawHatAI/strawhatai-dev",
   "source_url": "https://mcp.so/server/strawhatai-dev/StrawHatAI",
   "install": "# git clone --depth 1 https://mcp.so/server/strawhatai-dev/StrawHatAI\n# See source for mcpServers config block"

@@ -1,0 +1,7 @@
+{
+  "name": "gestsup-mcp",
+  "description": "MCP server to manage GestSup tickets via an LLM, with tools for creating, reading, commenting, and searching tickets.",
+  "source_repo": "matmatmat763/Gestsup-mcp",
+  "source_url": "https://github.com/matmatmat763/Gestsup-mcp",
+  "install": "npx -y Gestsup-mcp"
+}

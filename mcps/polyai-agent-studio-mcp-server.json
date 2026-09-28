@@ -1,0 +1,7 @@
+{
+  "name": "polyai-agent-studio-mcp-server",
+  "description": "Enables access to PolyAI Agent Studio Cursor rules via MCP tools for listing, retrieving, and searching rules, making them usable by any MCP-compatible client.",
+  "source_repo": "shawnwun/polyai-agent-studio-mcp",
+  "source_url": "https://github.com/shawnwun/polyai-agent-studio-mcp",
+  "install": "npx -y polyai-agent-studio-mcp"
+}

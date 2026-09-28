@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gsc-ai-agent-carrier-class-fleet",
+  "description": "Enables discovery of carrier fleets, jurisdictions, and carrier cards across multiple sovereign regions using read tools and broadcast JSON.",
+  "source_repo": "greencore-solutions/gsc-fleet-mcp",
+  "source_url": "https://github.com/greencore-solutions/gsc-fleet-mcp",
+  "install": "npx -y gsc-fleet-mcp"
+}

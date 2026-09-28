@@ -1,0 +1,7 @@
+{
+  "name": "roiq-os-mcp",
+  "description": "Lightweight connector to operate ROIQ OS from Claude Code, enabling management of spaces, pages, boards, tables, cards, scripts, and more within token-based permissions.",
+  "source_repo": "crisglezz/roiq-mcp",
+  "source_url": "https://github.com/crisglezz/roiq-mcp",
+  "install": "npx -y roiq-mcp"
+}

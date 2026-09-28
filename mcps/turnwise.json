@@ -1,0 +1,7 @@
+{
+  "name": "turnwise",
+  "description": "MCP server that scores dialogue transcripts for bridging quality, offering per-speaker indicator scores with evidence and tools for parsing, comparing, and analyzing conversations.",
+  "source_repo": "paiksca/turnwise",
+  "source_url": "https://github.com/paiksca/turnwise",
+  "install": "# git clone --depth 1 https://github.com/paiksca/turnwise\n# See source for mcpServers config block"
+}

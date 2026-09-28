@@ -1,0 +1,7 @@
+{
+  "name": "app-screenshot-mcp",
+  "description": "MCP server for capturing real UI screenshots using Playwright. Provides tools to capture a URL or capture with login and selectors.",
+  "source_repo": "0PValencia/app-screenshot-mcp",
+  "source_url": "https://github.com/0PValencia/app-screenshot-mcp",
+  "install": "npx -y app-screenshot-mcp"
+}

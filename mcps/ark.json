@@ -1,0 +1,7 @@
+{
+  "name": "ark",
+  "description": "Self-hosted research vault on Cloudflare Workers with a native MCP server, enabling AI agents to search and (soon) maintain their knowledge base from anywhere.",
+  "source_repo": "ruizrica/arkenstone",
+  "source_url": "https://github.com/ruizrica/arkenstone",
+  "install": "# git clone --depth 1 https://github.com/ruizrica/arkenstone\n# See source for mcpServers config block"
+}

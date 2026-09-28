@@ -1,0 +1,7 @@
+{
+  "name": "nba-stats-mcp",
+  "description": "Provides comprehensive NBA statistics via Model Context Protocol, enabling queries for player stats, game scores, team info, and advanced analytics through natural language.",
+  "source_repo": "labeveryday/nba-stats-mcp",
+  "source_url": "https://github.com/labeveryday/nba-stats-mcp",
+  "install": "npx -y nba-stats-mcp"
+}

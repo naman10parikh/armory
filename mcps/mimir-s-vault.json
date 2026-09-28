@@ -1,0 +1,7 @@
+{
+  "name": "mimir-s-vault",
+  "description": "An Obsidian-compatible memory graph and context management MCP server that lets AI agents navigate project architecture and relationships via wikilinks before scanning raw code, reducing token waste.",
+  "source_repo": "GopikChenth/Mimir-s_Vault",
+  "source_url": "https://github.com/GopikChenth/Mimir-s_Vault",
+  "install": "# git clone --depth 1 https://github.com/GopikChenth/Mimir-s_Vault\n# See source for mcpServers config block"
+}

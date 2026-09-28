@@ -1,0 +1,7 @@
+{
+  "name": "weather-chat-mcp",
+  "description": "Enables LLMs to fetch Israeli weather forecasts by controlling a real browser via Playwright, simulating human interactions like typing and clicking on a weather website.",
+  "source_repo": "bati3702/weather-chat-mcp",
+  "source_url": "https://github.com/bati3702/weather-chat-mcp",
+  "install": "npx -y weather-chat-mcp"
+}

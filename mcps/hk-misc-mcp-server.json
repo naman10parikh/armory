@@ -1,0 +1,7 @@
+{
+  "name": "hk-misc-mcp-server",
+  "description": "Provides access to Hong Kong government auction data for confiscated, used/surplus, and unclaimed items via a FastMCP interface.",
+  "source_repo": "hkopenai/hk-misc-mcp-server",
+  "source_url": "https://github.com/hkopenai/hk-misc-mcp-server",
+  "install": "npx -y hk-misc-mcp-server"
+}

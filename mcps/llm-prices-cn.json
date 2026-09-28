@@ -1,0 +1,7 @@
+{
+  "name": "llm-prices-cn",
+  "description": "Daily-verified LLM API pricing dataset (44+ models, CN & global) with a hosted MCP server for live price queries and token cost estimation.",
+  "source_repo": "szp2005/llm-prices-cn",
+  "source_url": "https://github.com/szp2005/llm-prices-cn",
+  "install": "# git clone --depth 1 https://github.com/szp2005/llm-prices-cn\n# See source for mcpServers config block"
+}

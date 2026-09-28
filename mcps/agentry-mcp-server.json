@@ -1,0 +1,7 @@
+{
+  "name": "agentry-mcp-server",
+  "description": "Provides a trust layer for AI agents with identity, reputation, payments, and discovery via 92 API endpoints as MCP tools, leveraging Nostr-native infrastructure.",
+  "source_repo": "cthulhutoo/agentry-mcp",
+  "source_url": "https://github.com/cthulhutoo/agentry-mcp",
+  "install": "npx -y agentry-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sanity-check",
+  "description": "Scans repositories for owner identifiers and secrets, blocking pushes or CI merges if any are found.",
+  "source_repo": "nidamen/mcp-sanity-check",
+  "source_url": "https://github.com/nidamen/mcp-sanity-check",
+  "install": "# git clone --depth 1 https://github.com/nidamen/mcp-sanity-check\n# See source for mcpServers config block"
+}

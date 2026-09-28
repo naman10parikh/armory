@@ -1,0 +1,7 @@
+{
+  "name": "screen-vision-mcp-server",
+  "description": "Enables Claude to capture screenshots, watch your screen in real-time, read text via OCR, and analyze video files, all running locally as an MCP server.",
+  "source_repo": "avicuna/screen-vision",
+  "source_url": "https://github.com/avicuna/screen-vision",
+  "install": "# git clone --depth 1 https://github.com/avicuna/screen-vision\n# See source for mcpServers config block"
+}

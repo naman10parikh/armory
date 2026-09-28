@@ -1,0 +1,7 @@
+{
+  "name": "fortianalyzer-mcp-server",
+  "description": "Enables AI assistants to interact with FortiAnalyzer for log analysis, reporting, security monitoring, and SOC operations via the JSON-RPC API.",
+  "source_repo": "rstierli/fortianalyzer-mcp",
+  "source_url": "https://github.com/rstierli/fortianalyzer-mcp",
+  "install": "npx -y fortianalyzer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "emm",
+  "description": "EMM is an MCP-native server that gives AI agents persistent, local, model-independent memory with context-efficient retrieval and project scoping.",
+  "source_repo": "tkraljevic/EMM",
+  "source_url": "https://github.com/tkraljevic/EMM",
+  "install": "# git clone --depth 1 https://github.com/tkraljevic/EMM\n# See source for mcpServers config block"
+}

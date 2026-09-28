@@ -1,0 +1,7 @@
+{
+  "name": "escrit-rio",
+  "description": "Enables peer-to-peer messaging and coordination between Claude Code sessions via a shared mail server, with tools for roster, ask, dm, inbox, board, and claim.",
+  "source_repo": "icaromelo1/escritorio",
+  "source_url": "https://github.com/icaromelo1/escritorio",
+  "install": "# git clone --depth 1 https://github.com/icaromelo1/escritorio\n# See source for mcpServers config block"
+}

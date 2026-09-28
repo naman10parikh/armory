@@ -1,0 +1,7 @@
+{
+  "name": "world-bank-procurement-mcp-server",
+  "description": "Enables searching and fetching World Bank procurement notices using the public API. Supports filtering by country, sector, and notice type, and retrieving full details by ID.",
+  "source_repo": "ynmty/World-bank-mcp",
+  "source_url": "https://github.com/ynmty/World-bank-mcp",
+  "install": "npx -y World-bank-mcp"
+}

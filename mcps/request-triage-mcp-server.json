@@ -1,0 +1,7 @@
+{
+  "name": "request-triage-mcp-server",
+  "description": "Provides tools to list pending requests, save priority scores, and retrieve ranked backlog, enabling AI-driven triage of automation requests from a Notion database.",
+  "source_repo": "AgnesMuita/AI-operations-triage-agent",
+  "source_url": "https://github.com/AgnesMuita/AI-operations-triage-agent",
+  "install": "# git clone --depth 1 https://github.com/AgnesMuita/AI-operations-triage-agent\n# See source for mcpServers config block"
+}

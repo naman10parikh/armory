@@ -1,0 +1,7 @@
+{
+  "name": "stableops-agent-payments-mcp-server",
+  "description": "Enables configuring and running StableOps Agent Payments while keeping secrets user-controlled, with wallet-pairing via user signatures and runtime payments through a user-operated signer sidecar.",
+  "source_repo": "StableOps/stableops-agent-payments-mcp-server",
+  "source_url": "https://github.com/StableOps/stableops-agent-payments-mcp-server",
+  "install": "npx -y stableops-agent-payments-mcp-server"
+}

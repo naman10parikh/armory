@@ -1,0 +1,7 @@
+{
+  "name": "shopify-forecast-mcp",
+  "description": "Enables AI assistants to forecast revenue and demand for Shopify stores using Google's TimesFM model. Provides tools for revenue forecasting, demand analysis, promotion analysis, and anomaly detection.",
+  "source_repo": "mcostigliola321/shopify-forecast-mcp",
+  "source_url": "https://github.com/mcostigliola321/shopify-forecast-mcp",
+  "install": "npx -y shopify-forecast-mcp"
+}

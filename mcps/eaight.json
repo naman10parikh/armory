@@ -1,0 +1,7 @@
+{
+  "name": "eaight",
+  "description": "An AI-native web browser that exposes a full MCP server, letting Claude Code, Codex CLI, and Gemini CLI see and control the browser in real time.",
+  "source_repo": "monteiro-consulting/eaight",
+  "source_url": "https://github.com/monteiro-consulting/eaight",
+  "install": "# git clone --depth 1 https://github.com/monteiro-consulting/eaight\n# See source for mcpServers config block"
+}

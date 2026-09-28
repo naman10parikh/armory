@@ -1,0 +1,7 @@
+{
+  "name": "segnals-mcp",
+  "description": "Enables AI agents to manage Segnals trading bots, strategies, PnL, and the strategy marketplace through natural language.",
+  "source_repo": "eidostein/segnals-mcp",
+  "source_url": "https://github.com/eidostein/segnals-mcp",
+  "install": "npx -y segnals-mcp"
+}

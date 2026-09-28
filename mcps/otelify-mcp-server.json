@@ -1,0 +1,7 @@
+{
+  "name": "otelify-mcp-server",
+  "description": "Guides users through instrumenting applications with OpenTelemetry and streaming telemetry data (logs, metrics, traces) to Edge Delta.",
+  "source_repo": "edgedelta/otelify-mcp-server",
+  "source_url": "https://github.com/edgedelta/otelify-mcp-server",
+  "install": "npx -y otelify-mcp-server"
+}

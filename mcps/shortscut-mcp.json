@@ -1,0 +1,7 @@
+{
+  "name": "shortscut-mcp",
+  "description": "An MCP server for vibe coders. Validate your idea, analyze competitors, and get tech stack recommendations — all inside your AI coding tool.",
+  "source_repo": "hyeoxxx/shortscut-mcp",
+  "source_url": "https://github.com/hyeoxxx/shortscut-mcp",
+  "install": "npx -y shortscut-mcp"
+}

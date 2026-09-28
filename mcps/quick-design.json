@@ -1,0 +1,7 @@
+{
+  "name": "quick-design",
+  "description": "An MCP server that generates professional design artifacts (HTML, PDF, PPTX) in seconds, powered by 150 design systems and 270+ skills.",
+  "source_repo": "rishapgandhi/quick_design",
+  "source_url": "https://github.com/rishapgandhi/quick_design",
+  "install": "# git clone --depth 1 https://github.com/rishapgandhi/quick_design\n# See source for mcpServers config block"
+}

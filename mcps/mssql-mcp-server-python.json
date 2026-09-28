@@ -1,0 +1,7 @@
+{
+  "name": "mssql-mcp-server-python",
+  "description": "A read-only MCP server for MS SQL Server, written in Python. Lets AI agents query your database safely — no writes, no stored procedures, no shell access.",
+  "source_repo": "GarfieldHuang/mssql-mcp-server-python",
+  "source_url": "https://github.com/GarfieldHuang/mssql-mcp-server-python",
+  "install": "# git clone --depth 1 https://github.com/GarfieldHuang/mssql-mcp-server-python\n# See source for mcpServers config block"
+}

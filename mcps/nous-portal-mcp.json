@@ -1,0 +1,7 @@
+{
+  "name": "nous-portal-mcp",
+  "description": "Portable, read-only MCP server for Nous Portal capabilities, providing configuration status, route derivation, and OAuth device code authentication without invoking paid tools.",
+  "source_repo": "callisto-syn/nous-portal-mcp",
+  "source_url": "https://github.com/callisto-syn/nous-portal-mcp",
+  "install": "npx -y nous-portal-mcp"
+}

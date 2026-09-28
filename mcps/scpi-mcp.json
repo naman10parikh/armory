@@ -1,0 +1,7 @@
+{
+  "name": "scpi-mcp",
+  "description": "An MCP server that enables AI agents to operate an oscilloscope through high-level tools like signal capture and measurement, abstracting vendor-specific SCPI commands.",
+  "source_repo": "armchairdeity/mcp-server-scpi",
+  "source_url": "https://github.com/armchairdeity/mcp-server-scpi",
+  "install": "# git clone --depth 1 https://github.com/armchairdeity/mcp-server-scpi\n# See source for mcpServers config block"
+}

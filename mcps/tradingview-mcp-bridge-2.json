@@ -1,0 +1,7 @@
+{
+  "name": "tradingview-mcp-bridge-2",
+  "description": "Connects Claude Code to your locally running TradingView app via Chrome DevTools Protocol for AI-assisted chart analysis, Pine Script development, and workflow automation.",
+  "source_repo": "windvivu/tradingview-mcp",
+  "source_url": "https://github.com/windvivu/tradingview-mcp",
+  "install": "npx -y tradingview-mcp"
+}

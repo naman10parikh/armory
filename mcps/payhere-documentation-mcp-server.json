@@ -1,0 +1,7 @@
+{
+  "name": "payhere-documentation-mcp-server",
+  "description": "Provides AI-ready documentation for the PayHere payment gateway, enabling access to API references, SDK guides, and documentation search through MCP tools.",
+  "source_repo": "theepankaja/payhere-agent-docs",
+  "source_url": "https://github.com/theepankaja/payhere-agent-docs",
+  "install": "# git clone --depth 1 https://github.com/theepankaja/payhere-agent-docs\n# See source for mcpServers config block"
+}

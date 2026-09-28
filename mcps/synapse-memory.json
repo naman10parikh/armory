@@ -1,0 +1,7 @@
+{
+  "name": "synapse-memory",
+  "description": "A lightweight MCP server that provides long-term memory for LLMs by storing and retrieving important facts, decisions, and preferences through smart semantic search and automatic organization.",
+  "source_repo": "RaffaelFerro/synapse",
+  "source_url": "https://github.com/RaffaelFerro/synapse",
+  "install": "# git clone --depth 1 https://github.com/RaffaelFerro/synapse\n# See source for mcpServers config block"
+}

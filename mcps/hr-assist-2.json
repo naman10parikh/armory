@@ -1,0 +1,7 @@
+{
+  "name": "hr-assist-2",
+  "description": "Agentic AI system that automates HR workflows like employee onboarding, enabling HR teams to streamline tasks through natural language interactions with Claude Desktop.",
+  "source_repo": "dhanush-ts/HRMS-MCP",
+  "source_url": "https://github.com/dhanush-ts/HRMS-MCP",
+  "install": "npx -y HRMS-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "projectbrain",
+  "description": "Local MCP server providing project cognition capabilities for AI coding agents, including context packs, impact analysis, and git diff review through stdio communication.",
+  "source_repo": "yinshaojun001/projectbrain",
+  "source_url": "https://github.com/yinshaojun001/projectbrain",
+  "install": "# git clone --depth 1 https://github.com/yinshaojun001/projectbrain\n# See source for mcpServers config block"
+}

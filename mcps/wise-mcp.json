@@ -1,0 +1,7 @@
+{
+  "name": "wise-mcp",
+  "description": "Enables AI assistants to query Wise account balances, exchange rates, transfers, and recipients via the Wise API.",
+  "source_repo": "Szotasz/wise-mcp",
+  "source_url": "https://github.com/Szotasz/wise-mcp",
+  "install": "npx -y wise-mcp"
+}

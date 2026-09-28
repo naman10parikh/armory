@@ -1,0 +1,7 @@
+{
+  "name": "peru-gob-mcp",
+  "description": "MCP server for Peruvian government data, enabling search and anomaly detection in public procurement (OSCE) and legislative tracking (Congress), plus semantic search over both domains.",
+  "source_repo": "AnderMC66/dataperu-MCP",
+  "source_url": "https://github.com/AnderMC66/dataperu-MCP",
+  "install": "npx -y dataperu-MCP"
+}

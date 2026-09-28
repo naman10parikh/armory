@@ -1,0 +1,7 @@
+{
+  "name": "thinking-agent-mcp",
+  "description": "Enables thinking models to extend their reasoning by outsourcing parts of the chain of thought to a non-thinking model via the chat_agent tool, with configurable parameters.",
+  "source_repo": "ScarletLilith/meditatorMCP",
+  "source_url": "https://github.com/ScarletLilith/meditatorMCP",
+  "install": "# git clone --depth 1 https://github.com/ScarletLilith/meditatorMCP\n# See source for mcpServers config block"
+}

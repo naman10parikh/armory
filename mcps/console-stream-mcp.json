@@ -1,0 +1,7 @@
+{
+  "name": "console-stream-mcp",
+  "description": "Enables AI coding agents to access live console logs, errors, and network requests from web applications via a local WebSocket connection, without copying data to chat.",
+  "source_repo": "Topman-14/console-stream-mcp",
+  "source_url": "https://github.com/Topman-14/console-stream-mcp",
+  "install": "npx -y console-stream-mcp"
+}

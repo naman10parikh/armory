@@ -1,0 +1,7 @@
+{
+  "name": "lorai-mcp",
+  "description": "An MCP server that enables AI agents to play Library of Ruina by reading game state, navigating UI, fighting battles, and selecting emotion cards.",
+  "source_repo": "hongyue0721/lorAI-mcp",
+  "source_url": "https://github.com/hongyue0721/lorAI-mcp",
+  "install": "npx -y lorAI-mcp"
+}

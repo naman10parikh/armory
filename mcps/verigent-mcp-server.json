@@ -1,0 +1,7 @@
+{
+  "name": "verigent-mcp-server",
+  "description": "MCP server for Verigent's AI agent verification, enabling agents to verify themselves, check other agents' status, and browse the leaderboard.",
+  "source_repo": "verigentai/mcp-server",
+  "source_url": "https://github.com/verigentai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/verigentai/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cardano-node-mcp",
+  "description": "MCP server enabling LLMs to interact with a Cardano node by wrapping cardano-cli/torsten-cli, supporting queries, transactions, staking, and governance operations.",
+  "source_repo": "michaeljfazio/cardano-node-mcp",
+  "source_url": "https://github.com/michaeljfazio/cardano-node-mcp",
+  "install": "npx -y cardano-node-mcp"
+}

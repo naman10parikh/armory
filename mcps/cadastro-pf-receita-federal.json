@@ -1,0 +1,7 @@
+{
+  "name": "cadastro-pf-receita-federal",
+  "description": "Consulta dados cadastrais e situação de CPF na Receita Federal a partir de um número de CPF. Serve como ferramenta somente leitura, paga por uso, para clientes MCP.",
+  "source_repo": "mcp-dir/cpf_receita-mcp",
+  "source_url": "https://github.com/mcp-dir/cpf_receita-mcp",
+  "install": "npx -y cpf_receita-mcp"
+}

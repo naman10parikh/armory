@@ -1,0 +1,7 @@
+{
+  "name": "amazon-flipkart-mcp-server",
+  "description": "Lightweight MCP server for interacting with Amazon and Flipkart search and authentication components.",
+  "source_repo": "nikhil2005verma/Amazon_Flipkart_mcp_server",
+  "source_url": "https://github.com/nikhil2005verma/Amazon_Flipkart_mcp_server",
+  "install": "npx -y Amazon_Flipkart_mcp_server"
+}

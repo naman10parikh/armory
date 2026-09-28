@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ltm-server",
+  "description": "A networked long-term memory server that enables AI agents to maintain persistent context across sessions via Server-Sent Events (SSE), with secure multi-tenancy and autonomous memory lifecycle management.",
+  "source_repo": "kavierim/MCP_LTM_Server",
+  "source_url": "https://github.com/kavierim/MCP_LTM_Server",
+  "install": "# git clone --depth 1 https://github.com/kavierim/MCP_LTM_Server\n# See source for mcpServers config block"
+}

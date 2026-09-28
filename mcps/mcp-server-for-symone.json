@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-for-symone",
+  "description": "MCP server for SYMONE — search motorcycle transport routes in France. Paris↔Marseille from 299€. No auth required.",
+  "source_repo": "silen4-zg/symone-mcp",
+  "source_url": "https://github.com/silen4-zg/symone-mcp",
+  "install": "npx -y symone-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wolfram-language-mcp",
+  "description": "Enables mathematical computation via Wolfram Language/Mathematica integration, supporting calculations, equation solving, calculus, matrix operations, and symbolic mathematics.",
+  "source_repo": "paraporoco/Wolfram-MCP",
+  "source_url": "https://github.com/paraporoco/Wolfram-MCP",
+  "install": "npx -y Wolfram-MCP"
+}

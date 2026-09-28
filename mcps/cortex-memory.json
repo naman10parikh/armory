@@ -1,0 +1,7 @@
+{
+  "name": "cortex-memory",
+  "description": "Captures project memory automatically across AI coding sessions, injecting relevant context into CLAUDE.md for zero-context-loss sessions.",
+  "source_repo": "SKULLFIRE07/cortex-memory",
+  "source_url": "https://github.com/SKULLFIRE07/cortex-memory",
+  "install": "# git clone --depth 1 https://github.com/SKULLFIRE07/cortex-memory\n# See source for mcpServers config block"
+}

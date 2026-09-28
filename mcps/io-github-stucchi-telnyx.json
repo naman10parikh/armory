@@ -1,0 +1,7 @@
+{
+  "name": "io-github-stucchi-telnyx",
+  "description": "Enables interaction with the Telnyx API for billing, phone numbers, and messaging.",
+  "source_repo": "stucchi/telnyx-mcp",
+  "source_url": "https://github.com/stucchi/telnyx-mcp",
+  "install": "npx -y telnyx-mcp"
+}

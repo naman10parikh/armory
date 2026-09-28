@@ -1,0 +1,7 @@
+{
+  "name": "slay-the-spire-copilot",
+  "description": "Enables AI-assisted gameplay for Slay the Spire by reading game state and providing strategy advice or automated actions via Claude Code.",
+  "source_repo": "Colitify/slay-the-spire-copilot",
+  "source_url": "https://github.com/Colitify/slay-the-spire-copilot",
+  "install": "# git clone --depth 1 https://github.com/Colitify/slay-the-spire-copilot\n# See source for mcpServers config block"
+}

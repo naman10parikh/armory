@@ -1,6 +1,6 @@
 {
   "name": "openshift-mcp",
-  "description": "Openshift Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "24sama/openshift-mcp",
   "source_url": "https://mcp.so/server/openshift-mcp/24sama",
   "install": "npx -y openshift-mcp"

@@ -1,0 +1,7 @@
+{
+  "name": "twitter-api-safe-relay-mcp",
+  "description": "Forwards HTTP requests to a Twitter API safe relay, enabling interaction with Twitter's API through a catalog of request templates.",
+  "source_repo": "nakasyou/twitter_api_safe_relay_mcp",
+  "source_url": "https://github.com/nakasyou/twitter_api_safe_relay_mcp",
+  "install": "npx -y twitter_api_safe_relay_mcp"
+}

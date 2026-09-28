@@ -1,0 +1,7 @@
+{
+  "name": "priceminder-mcp-server",
+  "description": "Real-time Shopee competitor price monitoring, powered by AI agents through the Model Context Protocol (MCP). Enables AI agents to track, analyze, and alert on price movements across Shopee Southeast Asia.",
+  "source_repo": "haidrau/sentinel-mcp-server",
+  "source_url": "https://github.com/haidrau/sentinel-mcp-server",
+  "install": "npx -y sentinel-mcp-server"
+}

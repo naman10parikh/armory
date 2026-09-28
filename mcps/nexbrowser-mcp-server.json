@@ -1,0 +1,7 @@
+{
+  "name": "nexbrowser-mcp-server",
+  "description": "Connects MCP clients to a local NexBrowser desktop app for browser automation, environment management, and session-isolated page inspection via the Model Context Protocol.",
+  "source_repo": "nex-browser/nexbrowser-mcp",
+  "source_url": "https://github.com/nex-browser/nexbrowser-mcp",
+  "install": "npx -y nexbrowser-mcp"
+}

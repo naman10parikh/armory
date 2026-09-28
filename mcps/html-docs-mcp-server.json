@@ -1,0 +1,7 @@
+{
+  "name": "html-docs-mcp-server",
+  "description": "Create, edit, inspect, and publish collaborative HTML documents from AI agents through the HTML Docs MCP server.",
+  "source_repo": "raunaqbn/html-docs-skill",
+  "source_url": "https://github.com/raunaqbn/html-docs-skill",
+  "install": "# git clone --depth 1 https://github.com/raunaqbn/html-docs-skill\n# See source for mcpServers config block"
+}

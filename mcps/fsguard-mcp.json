@@ -1,0 +1,7 @@
+{
+  "name": "fsguard-mcp",
+  "description": "Enables safe filesystem and git operations confined within a single allowed directory tree, using symlink-resolved path containment to protect against path traversal. Users can read, write, list, and search files, as well as initialize repos and run status, stage, commit, diff, and log operations th",
+  "source_repo": "BerkantACUN/fsguard-mcp",
+  "source_url": "https://github.com/BerkantACUN/fsguard-mcp",
+  "install": "npx -y fsguard-mcp"
+}

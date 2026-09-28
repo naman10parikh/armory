@@ -1,0 +1,7 @@
+{
+  "name": "math-mcp-lab",
+  "description": "MCP server exposing pure mathematical operations (sum, subtraction, multiplication, division) as tools, with a clean layered architecture and optional OpenAI Agents SDK integration.",
+  "source_repo": "matiasn2008/math-mcp-lab",
+  "source_url": "https://github.com/matiasn2008/math-mcp-lab",
+  "install": "# git clone --depth 1 https://github.com/matiasn2008/math-mcp-lab\n# See source for mcpServers config block"
+}

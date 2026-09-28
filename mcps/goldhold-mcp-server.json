@@ -1,0 +1,7 @@
+{
+  "name": "goldhold-mcp-server",
+  "description": "Persistent memory for AI agents with 29 MCP tools for search, storage, plans, context, messaging, tasks, agent network, and memory management.",
+  "source_repo": "jerrysrodz/goldhold-mcp-server",
+  "source_url": "https://github.com/jerrysrodz/goldhold-mcp-server",
+  "install": "npx -y goldhold-mcp-server"
+}

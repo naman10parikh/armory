@@ -1,0 +1,7 @@
+{
+  "name": "atmosphere777",
+  "description": "MCP server for a self-hosted indoor/outdoor weather station, providing real-time weather, forecasts, alerts, and indoor temperature/humidity data through five MCP tools.",
+  "source_repo": "hanabiovo/Atmosphere777",
+  "source_url": "https://github.com/hanabiovo/Atmosphere777",
+  "install": "# git clone --depth 1 https://github.com/hanabiovo/Atmosphere777\n# See source for mcpServers config block"
+}

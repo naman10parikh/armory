@@ -1,0 +1,7 @@
+{
+  "name": "needle-mcp-server",
+  "description": "Enables local structured extraction, classification, and summarization of text with automatic context management and caching, keeping data on your machine.",
+  "source_repo": "yugaaank/needle-mcp",
+  "source_url": "https://github.com/yugaaank/needle-mcp",
+  "install": "npx -y needle-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wiki-skills",
+  "description": "MCP connector for the ok-wiki knowledge base, enabling search, read, create, edit, history, tags, and asset management via natural language.",
+  "source_repo": "Moontower-AI/wiki-skills",
+  "source_url": "https://github.com/Moontower-AI/wiki-skills",
+  "install": "# git clone --depth 1 https://github.com/Moontower-AI/wiki-skills\n# See source for mcpServers config block"
+}

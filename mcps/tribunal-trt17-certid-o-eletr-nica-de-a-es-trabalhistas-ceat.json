@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trt17-certid-o-eletr-nica-de-a-es-trabalhistas-ceat",
+  "description": "Enables querying of electronic certificates of labor lawsuits (CEAT) from TRT17, providing read-only access to official data.",
+  "source_repo": "mcp-dir/tribunal_trt17_ceat-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trt17_ceat-mcp",
+  "install": "npx -y tribunal_trt17_ceat-mcp"
+}

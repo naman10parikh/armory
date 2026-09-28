@@ -1,0 +1,7 @@
+{
+  "name": "context-db-mcp",
+  "description": "Stores and retrieves project context using OpenAI vector stores, enabling AI editors to remember and recall project knowledge across sessions.",
+  "source_repo": "OkraGrey/context-db-mcp",
+  "source_url": "https://github.com/OkraGrey/context-db-mcp",
+  "install": "npx -y context-db-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bumi-digital-mcp",
+  "description": "MCP server for Bumi Digital that enables AI image, video, and audio generation and upscaling directly from MCP-compatible assistants like Claude Desktop and Cursor.",
+  "source_repo": "ezmakeai/bumi-digital-mcp",
+  "source_url": "https://github.com/ezmakeai/bumi-digital-mcp",
+  "install": "npx -y bumi-digital-mcp"
+}

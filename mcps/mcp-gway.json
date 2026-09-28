@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gway",
+  "description": "Enables aggregating multiple MCP servers behind a single HTTP/SSE endpoint, with Code Mode to reduce token usage and support for OAuth and sandboxed execution.",
+  "source_repo": "deuriib/mcp-gateway",
+  "source_url": "https://github.com/deuriib/mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/deuriib/mcp-gateway\n# See source for mcpServers config block"
+}

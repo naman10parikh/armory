@@ -1,0 +1,7 @@
+{
+  "name": "sagemaker-ai-mcp-server",
+  "description": "Enables AI assistants to manage Amazon SageMaker AI resources including endpoints, jobs, pipelines, MLflow tracking servers, domains, models, model cards, and apps.",
+  "source_repo": "dgallitelli/sagemaker-ai-mcp-server",
+  "source_url": "https://github.com/dgallitelli/sagemaker-ai-mcp-server",
+  "install": "npx -y sagemaker-ai-mcp-server"
+}

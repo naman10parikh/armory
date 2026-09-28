@@ -1,0 +1,7 @@
+{
+  "name": "brainiall-tts-mcp",
+  "description": "Hosted text-to-speech MCP server for AI agents with 54 neural voices in 9 languages, including Brazilian Portuguese. Pay-per-use API, no GPU or subscriptions needed.",
+  "source_repo": "fasuizu-br/brainiall-tts-mcp",
+  "source_url": "https://github.com/fasuizu-br/brainiall-tts-mcp",
+  "install": "npx -y brainiall-tts-mcp"
+}

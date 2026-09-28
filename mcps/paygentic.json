@@ -1,0 +1,7 @@
+{
+  "name": "paygentic",
+  "description": "Enables AI agents to manage financial operations including balance checks, money transfers, invoicing, spending policies, and audit logs through the PayGent API.",
+  "source_repo": "FoxRick/paygentic-sdk",
+  "source_url": "https://github.com/FoxRick/paygentic-sdk",
+  "install": "# git clone --depth 1 https://github.com/FoxRick/paygentic-sdk\n# See source for mcpServers config block"
+}

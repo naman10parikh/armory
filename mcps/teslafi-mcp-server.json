@@ -1,0 +1,7 @@
+{
+  "name": "teslafi-mcp-server",
+  "description": "A Model Context Protocol server for the TeslaFi API that lets MCP clients query live vehicle data, drive and charge history, commute patterns, and optionally send commands.",
+  "source_repo": "Zenotech-bv/teslafi-mcp",
+  "source_url": "https://github.com/Zenotech-bv/teslafi-mcp",
+  "install": "npx -y teslafi-mcp"
+}

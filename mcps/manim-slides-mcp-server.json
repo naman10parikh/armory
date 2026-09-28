@@ -1,0 +1,7 @@
+{
+  "name": "manim-slides-mcp-server",
+  "description": "Enables AI agents to generate, execute, and compile interactive Manim slide presentations through MCP tools.",
+  "source_repo": "antoniomachuca/MCP-Manim-Slides",
+  "source_url": "https://github.com/antoniomachuca/MCP-Manim-Slides",
+  "install": "# git clone --depth 1 https://github.com/antoniomachuca/MCP-Manim-Slides\n# See source for mcpServers config block"
+}

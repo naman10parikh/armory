@@ -1,0 +1,7 @@
+{
+  "name": "catalyst-edge-mcp-server",
+  "description": "Enables AI agents to access audited SEC intelligence, including scored catalyst picks and track record data, via the Model Context Protocol.",
+  "source_repo": "catalystedgepro-wq/catalyst-edge-mcp",
+  "source_url": "https://github.com/catalystedgepro-wq/catalyst-edge-mcp",
+  "install": "npx -y catalyst-edge-mcp"
+}

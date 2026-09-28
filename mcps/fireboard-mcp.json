@@ -1,0 +1,7 @@
+{
+  "name": "fireboard-mcp",
+  "description": "MCP server for interacting with Fireboard BBQ temperature monitoring. Enables querying devices, live probe temperatures, Drive fan controller status, and historical cook sessions.",
+  "source_repo": "benhodgson87/fireboard-mcp",
+  "source_url": "https://github.com/benhodgson87/fireboard-mcp",
+  "install": "npx -y fireboard-mcp"
+}

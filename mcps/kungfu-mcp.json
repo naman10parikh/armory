@@ -1,0 +1,7 @@
+{
+  "name": "kungfu-mcp",
+  "description": "A humorous MCP server that catalogs martial-arts factions and narrates sparring matches between them.",
+  "source_repo": "davidcai/kungfu-mcp",
+  "source_url": "https://github.com/davidcai/kungfu-mcp",
+  "install": "npx -y kungfu-mcp"
+}

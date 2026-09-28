@@ -1,0 +1,7 @@
+{
+  "name": "anytype-grpc",
+  "description": "Enables AI assistants to control Anytype objects, blocks, and views via its internal gRPC API.",
+  "source_repo": "cengizozel/anytype-grpc",
+  "source_url": "https://github.com/cengizozel/anytype-grpc",
+  "install": "# git clone --depth 1 https://github.com/cengizozel/anytype-grpc\n# See source for mcpServers config block"
+}

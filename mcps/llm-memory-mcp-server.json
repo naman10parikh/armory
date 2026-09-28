@@ -1,0 +1,7 @@
+{
+  "name": "llm-memory-mcp-server",
+  "description": "A local-first, team-ready MCP server providing durable memory for LLM-based coding workflows with multiple storage backends and fast search.",
+  "source_repo": "andreahaku/llm_memory_mcp",
+  "source_url": "https://github.com/andreahaku/llm_memory_mcp",
+  "install": "npx -y llm_memory_mcp"
+}

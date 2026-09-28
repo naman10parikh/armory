@@ -1,0 +1,7 @@
+{
+  "name": "chiasmus",
+  "description": "MCP server that gives LLMs access to formal verification via Z3 and SWI-Prolog, plus tree-sitter-based source code analysis. Translates natural language problems into formal logic using a template-based pipeline, verifies results with mathematical certainty, and analyzes call graphs for reachability",
+  "source_repo": "yogthos/chiasmus",
+  "source_url": "https://github.com/yogthos/chiasmus",
+  "install": "# git clone --depth 1 https://github.com/yogthos/chiasmus\n# See source for mcpServers config block"
+}

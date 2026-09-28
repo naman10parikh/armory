@@ -1,0 +1,7 @@
+{
+  "name": "barkme-mcp-server",
+  "description": "Enables sending iOS push notifications through the Bark service directly from Claude conversations. Supports device aliases, all Bark API parameters, and async delivery.",
+  "source_repo": "thevibeworks/barkme-mcp-server",
+  "source_url": "https://github.com/thevibeworks/barkme-mcp-server",
+  "install": "npx -y barkme-mcp-server"
+}

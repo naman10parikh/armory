@@ -1,0 +1,7 @@
+{
+  "name": "exomem",
+  "description": "Durable memory with sources, proof, history, and review for MCP-capable agents. It turns a Markdown/Obsidian vault into a local knowledge substrate, enabling agents to store, search, and retrieve governed knowledge.",
+  "source_repo": "Artexis10/exomem",
+  "source_url": "https://github.com/Artexis10/exomem",
+  "install": "# git clone --depth 1 https://github.com/Artexis10/exomem\n# See source for mcpServers config block"
+}

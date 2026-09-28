@@ -1,0 +1,7 @@
+{
+  "name": "land-intelligence",
+  "description": "Enables governed analytics and research on land development optionality, infrastructure proximity, and stewardship via MCP tools that provide transparent screening heuristics and reproducible evidence.",
+  "source_repo": "maevelynz/land-intelligence-research-mcp",
+  "source_url": "https://github.com/maevelynz/land-intelligence-research-mcp",
+  "install": "npx -y land-intelligence-research-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "laravel-artisan-mcp",
+  "description": "Enables secure execution of Laravel Artisan commands through AI assistants, allowing controlled management of Laravel projects via natural language.",
+  "source_repo": "entanglr/laravel-artisan-mcp",
+  "source_url": "https://github.com/entanglr/laravel-artisan-mcp",
+  "install": "npx -y laravel-artisan-mcp"
+}

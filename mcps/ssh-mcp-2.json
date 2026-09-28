@@ -1,0 +1,7 @@
+{
+  "name": "ssh-mcp-2",
+  "description": "Enables SSH interactive session management through MCP, supporting commands, menus, and session lifecycle operations.",
+  "source_repo": "SC-ML-cmd/ssh-mcp",
+  "source_url": "https://github.com/SC-ML-cmd/ssh-mcp",
+  "install": "npx -y ssh-mcp"
+}

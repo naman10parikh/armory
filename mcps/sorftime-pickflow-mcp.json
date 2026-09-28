@@ -1,0 +1,7 @@
+{
+  "name": "sorftime-pickflow-mcp",
+  "description": "An MCP server for Amazon product discovery, offering 15 tools for keyword research, ASIN scoring, and market screening via the Sorftime API.",
+  "source_repo": "zhan-1002/sorftime-pickflow-mcp",
+  "source_url": "https://github.com/zhan-1002/sorftime-pickflow-mcp",
+  "install": "npx -y sorftime-pickflow-mcp"
+}

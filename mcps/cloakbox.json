@@ -1,0 +1,7 @@
+{
+  "name": "cloakbox",
+  "description": "Let LLMs analyze sensitive data safely by querying a tokenized, join-preserving copy of the database, with fail-closed PII scanning and provable numeric equivalence.",
+  "source_repo": "mbufkin/cloakbox",
+  "source_url": "https://github.com/mbufkin/cloakbox",
+  "install": "# git clone --depth 1 https://github.com/mbufkin/cloakbox\n# See source for mcpServers config block"
+}

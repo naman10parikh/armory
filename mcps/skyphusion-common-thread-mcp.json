@@ -1,0 +1,7 @@
+{
+  "name": "skyphusion-common-thread-mcp",
+  "description": "MCP server for Common Thread that enables agents to drive the full investigation API, including creating investigations, managing seeds, ingesting data, attribution, and generating evidence packets.",
+  "source_repo": "skyphusion-labs/common-thread-mcp",
+  "source_url": "https://github.com/skyphusion-labs/common-thread-mcp",
+  "install": "npx -y common-thread-mcp"
+}

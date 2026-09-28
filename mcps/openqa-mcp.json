@@ -1,0 +1,7 @@
+{
+  "name": "openqa-mcp",
+  "description": "Enables interaction with openQA instances through the REST API, offering read tools for jobs, machines, and test suites, as well as mutating tools like restart and cancel with optional authentication.",
+  "source_repo": "mimi1vx/openqa-mcp",
+  "source_url": "https://github.com/mimi1vx/openqa-mcp",
+  "install": "npx -y openqa-mcp"
+}

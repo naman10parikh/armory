@@ -1,0 +1,7 @@
+{
+  "name": "pmos",
+  "description": "An MCP server that gives an agent product data, feedback, metrics, sandbox analysis, and gated Jira tickets — so it can investigate drops, write PRDs, and file work with evidence.",
+  "source_repo": "TaranpalSingh18/pmos-mcp",
+  "source_url": "https://github.com/TaranpalSingh18/pmos-mcp",
+  "install": "npx -y pmos-mcp"
+}

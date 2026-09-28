@@ -1,0 +1,7 @@
+{
+  "name": "browser-mcp-2",
+  "description": "Unified MCP server for browser automation (Playwright + CDP + CLI) and bookmark management across Chrome, Firefox, Edge, and Brave, including cross-browser sync, deduplication, and a React dashboard.",
+  "source_repo": "The-Syntax-Slayer/browser-mcp",
+  "source_url": "https://github.com/The-Syntax-Slayer/browser-mcp",
+  "install": "npx -y browser-mcp"
+}

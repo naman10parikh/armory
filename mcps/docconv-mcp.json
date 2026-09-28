@@ -1,0 +1,7 @@
+{
+  "name": "docconv-mcp",
+  "description": "Converts PDF, Word, Excel, and PowerPoint documents to Markdown using a pay-per-conversion model with USDC on Base via the x402 protocol.",
+  "source_repo": "nicklee002e/docconv-mcp",
+  "source_url": "https://github.com/nicklee002e/docconv-mcp",
+  "install": "npx -y docconv-mcp"
+}

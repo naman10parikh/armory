@@ -1,0 +1,7 @@
+{
+  "name": "quant-desk-tradingview-mcp",
+  "description": "Analyzes the instrument currently open on your TradingView chart using 311 published quantitative models and free market data, returning a confidence-scored verdict with position sizing. Supports universe scanning and verified Pine Script export.",
+  "source_repo": "ankitjha67/TradingView-MCP",
+  "source_url": "https://github.com/ankitjha67/TradingView-MCP",
+  "install": "npx -y TradingView-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "petfinder-mcp-server",
+  "description": "Single-file HTTP MCP server for Petfinder's API to find adoptable pets and animal welfare organizations, with automatic OAuth token management.",
+  "source_repo": "mattlgroff/petfinder-mcp-server",
+  "source_url": "https://github.com/mattlgroff/petfinder-mcp-server",
+  "install": "npx -y petfinder-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "us-macro-mcp",
+  "description": "Provides AI assistants with clean access to 58 US macroeconomic indicators from the FRED database, with pre-computed changes and no need to know series IDs.",
+  "source_repo": "hgus107/US-Macro-MCP",
+  "source_url": "https://github.com/hgus107/US-Macro-MCP",
+  "install": "npx -y US-Macro-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "deepanime-mcp",
+  "description": "Read-only MCP server exposing Deep Anime AI's image generation knowledge, including styles, pricing, and official links, to MCP-compatible AI clients.",
+  "source_repo": "rocnubie/deepanime-mcp",
+  "source_url": "https://github.com/rocnubie/deepanime-mcp",
+  "install": "npx -y deepanime-mcp"
+}

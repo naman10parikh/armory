@@ -1,0 +1,7 @@
+{
+  "name": "cyberark-privilege-cloud-mcp-server",
+  "description": "Enables privileged access management for CyberArk Privilege Cloud through 53 tools for account management, safe management, platform management, and session monitoring.",
+  "source_repo": "aaearon/mcp-privilege-cloud",
+  "source_url": "https://github.com/aaearon/mcp-privilege-cloud",
+  "install": "# git clone --depth 1 https://github.com/aaearon/mcp-privilege-cloud\n# See source for mcpServers config block"
+}

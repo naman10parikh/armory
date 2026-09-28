@@ -1,0 +1,7 @@
+{
+  "name": "linux-harness-mcp",
+  "description": "Exposes a Linux host with shell, Python, and filesystem tools as MCP tools over HTTPS, enabling AI agents to execute commands and manage files remotely.",
+  "source_repo": "EasonTechno/linux-harness-mcp",
+  "source_url": "https://github.com/EasonTechno/linux-harness-mcp",
+  "install": "npx -y linux-harness-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "psx-mcp-server",
+  "description": "Provides 12 tools to scrape and access Pakistan Stock Exchange market data, including current prices, historical data, intraday, sector search, and volume analysis.",
+  "source_repo": "ahad-raza24/PSX-MCP-Server",
+  "source_url": "https://github.com/ahad-raza24/PSX-MCP-Server",
+  "install": "npx -y PSX-MCP-Server"
+}

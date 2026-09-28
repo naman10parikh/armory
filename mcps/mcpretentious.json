@@ -1,0 +1,7 @@
+{
+  "name": "mcpretentious",
+  "description": "MCP server for terminal control enabling AI to manage terminal sessions via iTerm2 or tmux, with features like screen reading, keyboard/mouse input, and background execution.",
+  "source_repo": "oetiker/MCPretentious",
+  "source_url": "https://github.com/oetiker/MCPretentious",
+  "install": "# git clone --depth 1 https://github.com/oetiker/MCPretentious\n# See source for mcpServers config block"
+}

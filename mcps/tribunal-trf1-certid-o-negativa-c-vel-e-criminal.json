@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trf1-certid-o-negativa-c-vel-e-criminal",
+  "description": "Consulta certidões negativas cíveis e criminais do TRF1 em fonte oficial, por meio de uma ferramenta de leitura.",
+  "source_repo": "mcp-dir/tribunal_trf1_certidao-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trf1_certidao-mcp",
+  "install": "npx -y tribunal_trf1_certidao-mcp"
+}

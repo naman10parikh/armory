@@ -1,0 +1,7 @@
+{
+  "name": "nhplug-mcp",
+  "description": "Enables Claude to call NH Investment & Securities Open API for Korean stock market data, quotes, and order execution through natural language.",
+  "source_repo": "plug-support/nhplug-mcp",
+  "source_url": "https://github.com/plug-support/nhplug-mcp",
+  "install": "npx -y nhplug-mcp"
+}

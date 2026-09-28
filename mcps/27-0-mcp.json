@@ -1,0 +1,7 @@
+{
+  "name": "27-0-mcp",
+  "description": "Provides read-only access to the 27-0 NRL game knowledge including rules, roster constraints, and official links for MCP-compatible AI clients.",
+  "source_repo": "Rocniubi/27-0-mcp",
+  "source_url": "https://github.com/Rocniubi/27-0-mcp",
+  "install": "npx -y 27-0-mcp"
+}

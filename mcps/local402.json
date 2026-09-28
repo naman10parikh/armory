@@ -1,0 +1,7 @@
+{
+  "name": "local402",
+  "description": "A one-command paywall for local servers that enables testing AI agents' payment flows by simulating HTTP 402 Payment Required responses. It proxies requests with valid payment headers to the actual server, making it easy to develop and test x402 client logic without real blockchain transactions.",
+  "source_repo": "wushu75/local402",
+  "source_url": "https://github.com/wushu75/local402",
+  "install": "# git clone --depth 1 https://github.com/wushu75/local402\n# See source for mcpServers config block"
+}

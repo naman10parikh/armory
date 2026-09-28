@@ -1,0 +1,7 @@
+{
+  "name": "whooshly-mcp",
+  "description": "Enables creation of short links, dynamic QR codes, UTM templates, and hosted vCards with click/scan analytics through natural language conversations.",
+  "source_repo": "ankurmans/whooshly-mcp",
+  "source_url": "https://github.com/ankurmans/whooshly-mcp",
+  "install": "npx -y whooshly-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "upstox-mcp-server",
+  "description": "Enables users to interact with the Upstox trading API via natural language to retrieve account information such as profile, funds, holdings, positions, and orders.",
+  "source_repo": "Finance-LLMs/Upstox-MCP-Server",
+  "source_url": "https://github.com/Finance-LLMs/Upstox-MCP-Server",
+  "install": "npx -y Upstox-MCP-Server"
+}

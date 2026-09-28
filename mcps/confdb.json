@@ -1,0 +1,7 @@
+{
+  "name": "confdb",
+  "description": "MCP server that provides read-only access to 1C:Enterprise configuration metadata extracted into SQLite, enabling LLMs to inspect objects, modules, and validate 1C queries.",
+  "source_repo": "Zom31C/1c-conf-db-extractor",
+  "source_url": "https://github.com/Zom31C/1c-conf-db-extractor",
+  "install": "# git clone --depth 1 https://github.com/Zom31C/1c-conf-db-extractor\n# See source for mcpServers config block"
+}

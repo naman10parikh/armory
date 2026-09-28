@@ -1,0 +1,7 @@
+{
+  "name": "foresight",
+  "description": "An MCP server that discovers suppliers, screens compliance and live hazards, calculates exposure, ranks alternatives, and drafts purchasing decisions for supply chain risk management.",
+  "source_repo": "KKSurendran06/Foresight-MCP",
+  "source_url": "https://github.com/KKSurendran06/Foresight-MCP",
+  "install": "npx -y Foresight-MCP"
+}

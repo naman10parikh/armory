@@ -1,0 +1,7 @@
+{
+  "name": "comfyui-mcp-server",
+  "description": "Generate and refine AI images/audio/video through natural conversation.",
+  "source_repo": "joenorton/comfyui-mcp-server",
+  "source_url": "https://github.com/joenorton/comfyui-mcp-server",
+  "install": "npx -y comfyui-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openglad",
+  "description": "openGlad is an MCP server that provides AI agents with tools for loss-prevention, market intelligence, and startup diagnostics using data from Reddit, Hacker News, GitHub, and Polymarket.",
+  "source_repo": "Tuguberk/openGlad",
+  "source_url": "https://github.com/Tuguberk/openGlad",
+  "install": "# git clone --depth 1 https://github.com/Tuguberk/openGlad\n# See source for mcpServers config block"
+}

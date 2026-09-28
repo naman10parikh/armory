@@ -1,0 +1,7 @@
+{
+  "name": "elkassabgidata",
+  "description": "Provides AI assistants with direct access to economic statistics, high-frequency US equity bars, and patent/innovation measures, enabling search, metadata retrieval, and data download through MCP tools.",
+  "source_repo": "elkassabgi/elkassabgidata-mcp",
+  "source_url": "https://github.com/elkassabgi/elkassabgidata-mcp",
+  "install": "npx -y elkassabgidata-mcp"
+}

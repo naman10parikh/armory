@@ -1,0 +1,7 @@
+{
+  "name": "lanhu-mcp-codex",
+  "description": "Read-only MCP server that converts Lanhu project/design links into design context consumable by Codex or other AI agents.",
+  "source_repo": "Kforward/lanhu-mcp-codex",
+  "source_url": "https://github.com/Kforward/lanhu-mcp-codex",
+  "install": "# git clone --depth 1 https://github.com/Kforward/lanhu-mcp-codex\n# See source for mcpServers config block"
+}

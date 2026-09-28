@@ -1,0 +1,7 @@
+{
+  "name": "open-kioku",
+  "description": "Open Kioku is the local-first code intelligence and evidence layer for AI coding agents (Claude, Cursor, Codex, Zed, and other MCP clients). Instead of letting agents blindly crawl files, guess blast radius, or read the entire repository repeatedly, Open Kioku gives them a precise, pre-indexed code",
+  "source_repo": "shivyadavus/open-kioku",
+  "source_url": "https://github.com/shivyadavus/open-kioku",
+  "install": "# git clone --depth 1 https://github.com/shivyadavus/open-kioku\n# See source for mcpServers config block"
+}

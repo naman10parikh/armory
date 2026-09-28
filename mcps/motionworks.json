@@ -1,0 +1,7 @@
+{
+  "name": "motionworks",
+  "description": "Enables designers to refine motion effects by direct manipulation in a running app, sending precise changesets to AI coding agents via MCP for source updates.",
+  "source_repo": "jhn-kim/motionworks",
+  "source_url": "https://github.com/jhn-kim/motionworks",
+  "install": "# git clone --depth 1 https://github.com/jhn-kim/motionworks\n# See source for mcpServers config block"
+}

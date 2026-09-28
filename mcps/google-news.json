@@ -1,0 +1,7 @@
+{
+  "name": "google-news",
+  "description": "Search Google News for current and recent articles. No API key required. Data via SerpAPI; Smithery is not affiliated with Google.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/server/google/news",
+  "install": "# git clone --depth 1 https://smithery.ai/server/google/news\n# See source for mcpServers config block"
+}

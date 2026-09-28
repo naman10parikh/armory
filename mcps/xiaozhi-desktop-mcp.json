@@ -1,0 +1,7 @@
+{
+  "name": "xiaozhi-desktop-mcp",
+  "description": "A desktop MCP service that integrates voice assistants into Mac workflows, enabling Obsidian memory, app control, Claude Code sessions, pending actions, and multi-language HTTP access.",
+  "source_repo": "jijiutong/xiaozhi-desktop-mcp",
+  "source_url": "https://github.com/jijiutong/xiaozhi-desktop-mcp",
+  "install": "npx -y xiaozhi-desktop-mcp"
+}

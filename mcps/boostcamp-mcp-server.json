@@ -1,0 +1,7 @@
+{
+  "name": "boostcamp-mcp-server",
+  "description": "Integrates with the Boostcamp fitness platform to provide access to training history, workout programs, custom exercises, and analytics through Claude.",
+  "source_repo": "Alex-Keyes/boostcamp-mcp",
+  "source_url": "https://github.com/Alex-Keyes/boostcamp-mcp",
+  "install": "npx -y boostcamp-mcp"
+}

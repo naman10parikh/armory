@@ -1,0 +1,7 @@
+{
+  "name": "loadbench-mcp",
+  "description": "An MCP server that provides structural load and stability math (tipping, support reactions, beam checks) that language models often get wrong, enabling AI assistants to compute accurate engineering estimates.",
+  "source_repo": "jeongho54/loadbench-mcp",
+  "source_url": "https://github.com/jeongho54/loadbench-mcp",
+  "install": "npx -y loadbench-mcp"
+}

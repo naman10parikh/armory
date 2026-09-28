@@ -1,0 +1,7 @@
+{
+  "name": "remotion-mcp-server",
+  "description": "Enables AI agents to analyze audio beats, synthesize voices with Google Gemini TTS, and programmatically construct and render professional videos using Remotion and React.",
+  "source_repo": "ivalenzuela/remotion-mcp-server",
+  "source_url": "https://github.com/ivalenzuela/remotion-mcp-server",
+  "install": "npx -y remotion-mcp-server"
+}

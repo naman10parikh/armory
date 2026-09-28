@@ -1,0 +1,7 @@
+{
+  "name": "email-send",
+  "description": "Enables sending transactional emails with text or HTML body, delivery status, and message ID via Resend. Pay-per-call using x402 micropayments (USDC on Base L2), no API key or signup required.",
+  "source_repo": "Br0ski777/email-send-x402",
+  "source_url": "https://github.com/Br0ski777/email-send-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/email-send-x402\n# See source for mcpServers config block"
+}

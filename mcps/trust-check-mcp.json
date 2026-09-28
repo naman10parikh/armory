@@ -1,0 +1,7 @@
+{
+  "name": "trust-check-mcp",
+  "description": "Free wallet-OFAC SDN screening and trust-check preview for AI agents on Base. Single MCP tool call returns allow/block verdict against US Treasury OFAC SDN list.",
+  "source_repo": "paladinfi/trust-check-mcp",
+  "source_url": "https://github.com/paladinfi/trust-check-mcp",
+  "install": "npx -y trust-check-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "desktop-mate-mcp",
+  "description": "Read-only MCP server exposing Desktop Mate directory listings, official links, and FAQ to AI clients like Claude Desktop.",
+  "source_repo": "rocnubie/desktop-mate-mcp",
+  "source_url": "https://github.com/rocnubie/desktop-mate-mcp",
+  "install": "npx -y desktop-mate-mcp"
+}

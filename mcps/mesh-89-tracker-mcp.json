@@ -1,0 +1,7 @@
+{
+  "name": "mesh-89-tracker-mcp",
+  "description": "Exposes the 7-prime spine, 7 kappa-bands, and 6 fold operations as native tools and resources for MCP clients, enabling fold state manipulation and analysis through natural language.",
+  "source_repo": "sjgant80-hub/mesh-89-tracker-mcp",
+  "source_url": "https://github.com/sjgant80-hub/mesh-89-tracker-mcp",
+  "install": "npx -y mesh-89-tracker-mcp"
+}

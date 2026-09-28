@@ -1,6 +1,6 @@
 {
   "name": "express-mcp-sse-server",
-  "description": "Express Mcp Sse Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "yunusemredilber/express-mcp-sse-server",
   "source_url": "https://mcp.so/server/express-mcp-sse-server/yunusemredilber",
   "install": "# git clone --depth 1 https://mcp.so/server/express-mcp-sse-server/yunusemredilber\n# See source for mcpServers config block"

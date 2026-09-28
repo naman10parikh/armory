@@ -1,0 +1,7 @@
+{
+  "name": "pywebview-mcp",
+  "description": "Playwright-style MCP server for pywebview apps that lets AI assistants see, control, and debug Python desktop web UIs without modifying source code.",
+  "source_repo": "com55/pywebview-mcp",
+  "source_url": "https://github.com/com55/pywebview-mcp",
+  "install": "npx -y pywebview-mcp"
+}

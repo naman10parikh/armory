@@ -1,0 +1,7 @@
+{
+  "name": "opengathyr",
+  "description": "An MCP server that enables managing and searching RSS feeds using tools like list, add, remove, get-feed, and search-feeds.",
+  "source_repo": "risadams/OpenGathyr",
+  "source_url": "https://github.com/risadams/OpenGathyr",
+  "install": "# git clone --depth 1 https://github.com/risadams/OpenGathyr\n# See source for mcpServers config block"
+}

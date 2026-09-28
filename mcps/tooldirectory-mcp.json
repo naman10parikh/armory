@@ -1,0 +1,7 @@
+{
+  "name": "tooldirectory-mcp",
+  "description": "Search the AI Tool Directory catalog of 2,000+ AI tools — compare tools, find curated alternatives, and check whether a tool is still active, defunct, or acquired (backed by the AI Graveyard dataset).",
+  "source_repo": "AI-Directory-Partners/tooldirectory-mcp",
+  "source_url": "https://github.com/AI-Directory-Partners/tooldirectory-mcp",
+  "install": "npx -y tooldirectory-mcp"
+}

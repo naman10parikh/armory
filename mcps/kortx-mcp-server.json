@@ -1,0 +1,7 @@
+{
+  "name": "kortx-mcp-server",
+  "description": "A lightweight MCP server that provides coding copilots with access to GPT-5, Perplexity Sonar, and GPT Image models, offering tools for planning, debugging, research, and image generation.",
+  "source_repo": "effatico/kortx-mcp",
+  "source_url": "https://github.com/effatico/kortx-mcp",
+  "install": "npx -y kortx-mcp"
+}

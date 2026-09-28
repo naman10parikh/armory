@@ -1,0 +1,7 @@
+{
+  "name": "fiatdock-mcp",
+  "description": "Non-custodial USDC <-> bank for AI agents. Free quotes; $0.05 USDC per session via x402; 1% commission itemised in every quote. Own funds only. PT + EU/EEA (not UK). 18+.",
+  "source_repo": "fiatdock/fiatdock",
+  "source_url": "https://github.com/fiatdock/fiatdock",
+  "install": "# git clone --depth 1 https://github.com/fiatdock/fiatdock\n# See source for mcpServers config block"
+}

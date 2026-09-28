@@ -1,0 +1,7 @@
+{
+  "name": "audit-event-mcp",
+  "description": "Hash-chained audit log for AI agents — MCP-native, Cloudflare Durable Objects + SQLite",
+  "source_repo": "mightbesaad/audit-event-mcp",
+  "source_url": "https://github.com/mightbesaad/audit-event-mcp",
+  "install": "npx -y audit-event-mcp"
+}

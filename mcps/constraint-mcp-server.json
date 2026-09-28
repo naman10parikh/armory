@@ -1,0 +1,7 @@
+{
+  "name": "constraint-mcp-server",
+  "description": "Enables AI tools to interact with constraint theory tools for pitch snapping, music generation, diagnostic analysis, and audio rendering through the Model Context Protocol.",
+  "source_repo": "SuperInstance/constraint-mcp-server",
+  "source_url": "https://github.com/SuperInstance/constraint-mcp-server",
+  "install": "npx -y constraint-mcp-server"
+}

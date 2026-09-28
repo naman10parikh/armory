@@ -1,0 +1,7 @@
+{
+  "name": "smc-mcp",
+  "description": "Enables AI agents to analyze price action using Smart Money Concepts (market structure, order blocks, fair value gaps, liquidity sweeps) for stocks, forex, gold, indices, and crypto without an API key.",
+  "source_repo": "AkhileshSelvan/smc-mcp",
+  "source_url": "https://github.com/AkhileshSelvan/smc-mcp",
+  "install": "npx -y smc-mcp"
+}

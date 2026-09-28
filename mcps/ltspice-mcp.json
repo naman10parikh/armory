@@ -1,0 +1,7 @@
+{
+  "name": "ltspice-mcp",
+  "description": "MCP server for automating LTspice on macOS, enabling simulation, schematic generation, data extraction, verification, and rendering via natural language or agents.",
+  "source_repo": "xuio/ltspice-mcp",
+  "source_url": "https://github.com/xuio/ltspice-mcp",
+  "install": "npx -y ltspice-mcp"
+}

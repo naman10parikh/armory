@@ -1,0 +1,7 @@
+{
+  "name": "kuzu-knowledge-graph-mcp-server",
+  "description": "Connects to an embedded Kuzu graph database and provides read-only MCP tools for AI clients to query a knowledge graph.",
+  "source_repo": "SankarPatnaik/kuzu-knowledge-graph-mcp",
+  "source_url": "https://github.com/SankarPatnaik/kuzu-knowledge-graph-mcp",
+  "install": "npx -y kuzu-knowledge-graph-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "forensic-rag-mcp",
+  "description": "MCP server providing semantic search over incident response knowledge from 23 authoritative security sources.",
+  "source_repo": "scriptedstatement/forensic-rag-mcp",
+  "source_url": "https://github.com/scriptedstatement/forensic-rag-mcp",
+  "install": "npx -y forensic-rag-mcp"
+}

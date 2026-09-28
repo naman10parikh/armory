@@ -1,0 +1,7 @@
+{
+  "name": "cfm-estabelecimento",
+  "description": "Enables querying health establishment data from the Brazilian Federal Council of Medicine (CFM), providing read-only access to official information.",
+  "source_repo": "mcp-dir/cfm_estabelecimento-mcp",
+  "source_url": "https://github.com/mcp-dir/cfm_estabelecimento-mcp",
+  "install": "npx -y cfm_estabelecimento-mcp"
+}

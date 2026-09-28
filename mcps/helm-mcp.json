@@ -1,0 +1,7 @@
+{
+  "name": "helm-mcp",
+  "description": "MCP server exposing the HELM dashboard REST API as tools for managing services, scripts, and system operations.",
+  "source_repo": "dagamon/HELM-MCP",
+  "source_url": "https://github.com/dagamon/HELM-MCP",
+  "install": "npx -y HELM-MCP"
+}

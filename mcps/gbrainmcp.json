@@ -1,0 +1,7 @@
+{
+  "name": "gbrainmcp",
+  "description": "A privacy-cleaned MCP server with hybrid retrieval, multimodal support, and code intelligence, enabling natural language interaction with knowledge bases and tools.",
+  "source_repo": "cyberbird2048/gbrainmcp-clean",
+  "source_url": "https://github.com/cyberbird2048/gbrainmcp-clean",
+  "install": "# git clone --depth 1 https://github.com/cyberbird2048/gbrainmcp-clean\n# See source for mcpServers config block"
+}

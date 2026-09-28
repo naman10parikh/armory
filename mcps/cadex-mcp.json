@@ -1,0 +1,7 @@
+{
+  "name": "cadex-mcp",
+  "description": "MCP server for CAD Exchanger SDK that enables loading, inspecting, and exporting CAD models via a path-based cache.",
+  "source_repo": "Ibukhvalov/cadex-mcp",
+  "source_url": "https://github.com/Ibukhvalov/cadex-mcp",
+  "install": "npx -y cadex-mcp"
+}

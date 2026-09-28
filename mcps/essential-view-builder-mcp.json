@@ -1,0 +1,7 @@
+{
+  "name": "essential-view-builder-mcp",
+  "description": "Provides tools and resources for building Essential Viewer XSL views using validated v2.0 patterns, including scaffold generation, API guidance, and bundled documentation.",
+  "source_repo": "essentialproject/essential-view-builder-mcp",
+  "source_url": "https://github.com/essentialproject/essential-view-builder-mcp",
+  "install": "npx -y essential-view-builder-mcp"
+}

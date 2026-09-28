@@ -1,0 +1,7 @@
+{
+  "name": "lava-mcp",
+  "description": "An MCP server that exposes a LAVA instance to agents, enabling querying the board farm, submitting and managing test jobs, and opening interactive board sessions.",
+  "source_repo": "mattface/lava-mcp",
+  "source_url": "https://github.com/mattface/lava-mcp",
+  "install": "npx -y lava-mcp"
+}

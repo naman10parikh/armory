@@ -1,0 +1,7 @@
+{
+  "name": "paycoredb",
+  "description": "Custom MCP server connected to a read-only SQLite database, exposing a schema resource and a query tool for safe data retrieval.",
+  "source_repo": "MaxenceBdu/paycore-mcp-agent-tp",
+  "source_url": "https://github.com/MaxenceBdu/paycore-mcp-agent-tp",
+  "install": "# git clone --depth 1 https://github.com/MaxenceBdu/paycore-mcp-agent-tp\n# See source for mcpServers config block"
+}

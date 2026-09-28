@@ -1,0 +1,7 @@
+{
+  "name": "all-in-one-crypto-trading-mcp-server",
+  "description": "Enables AI-powered cryptocurrency trading and analytics across multiple exchanges and blockchains, with integrated Telegram bot and live trading capabilities.",
+  "source_repo": "cryptomcp/allinone-crypto-trading-mcp-server",
+  "source_url": "https://github.com/cryptomcp/allinone-crypto-trading-mcp-server",
+  "install": "npx -y allinone-crypto-trading-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ori-mnemos",
+  "description": "Open-source persistent memory infrastructure for AI agents.",
+  "source_repo": "aayoawoyemi/Ori-Mnemos",
+  "source_url": "https://github.com/aayoawoyemi/Ori-Mnemos",
+  "install": "# git clone --depth 1 https://github.com/aayoawoyemi/Ori-Mnemos\n# See source for mcpServers config block"
+}

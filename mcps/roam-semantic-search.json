@@ -1,0 +1,7 @@
+{
+  "name": "roam-semantic-search",
+  "description": "Enables fully local semantic search over a Roam Research graph via MCP, providing tools for hybrid retrieval, index refresh, and stats while keeping all content on-machine.",
+  "source_repo": "jpanico/roam-semantic-search",
+  "source_url": "https://github.com/jpanico/roam-semantic-search",
+  "install": "# git clone --depth 1 https://github.com/jpanico/roam-semantic-search\n# See source for mcpServers config block"
+}

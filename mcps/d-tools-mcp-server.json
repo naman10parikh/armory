@@ -1,0 +1,7 @@
+{
+  "name": "d-tools-mcp-server",
+  "description": "A production-ready MCP server that connects AI assistants to the D-Tools System Integrator platform, enabling natural language management of AV projects, clients, catalogs, tasks, service orders, and purchase orders.",
+  "source_repo": "Saml1211/D-Tools-MCP-Server",
+  "source_url": "https://github.com/Saml1211/D-Tools-MCP-Server",
+  "install": "npx -y D-Tools-MCP-Server"
+}

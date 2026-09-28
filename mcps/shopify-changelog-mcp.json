@@ -1,0 +1,7 @@
+{
+  "name": "shopify-changelog-mcp",
+  "description": "Provides access to Shopify Developer and Platform changelogs via RSS feeds, enabling search, category filtering, and retrieval of recent updates.",
+  "source_repo": "damionrashford/shopify-changelog-mcp",
+  "source_url": "https://github.com/damionrashford/shopify-changelog-mcp",
+  "install": "npx -y shopify-changelog-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "secondbrain-mcp-server",
+  "description": "Enables external AI clients to query and interact with a personal knowledge assistant using retrieval-augmented generation and long-term memory.",
+  "source_repo": "MandarGavali/SecondBrain",
+  "source_url": "https://github.com/MandarGavali/SecondBrain",
+  "install": "# git clone --depth 1 https://github.com/MandarGavali/SecondBrain\n# See source for mcpServers config block"
+}

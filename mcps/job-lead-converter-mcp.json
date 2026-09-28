@@ -1,0 +1,7 @@
+{
+  "name": "job-lead-converter-mcp",
+  "description": "Transforms job postings into qualified sales leads by searching for active jobs, enriching company data, and identifying decision-maker contact information.",
+  "source_repo": "adeeljames/job-lead-converter-mcp",
+  "source_url": "https://github.com/adeeljames/job-lead-converter-mcp",
+  "install": "npx -y job-lead-converter-mcp"
+}

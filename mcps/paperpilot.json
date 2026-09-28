@@ -1,0 +1,7 @@
+{
+  "name": "paperpilot",
+  "description": "Enables to turn a research folder into a submission-ready academic paper, with stages for screening, venue selection, drafting, humanization, and final QA. Runs locally without uploading any data.",
+  "source_repo": "sjgod1427/PaperPilot",
+  "source_url": "https://github.com/sjgod1427/PaperPilot",
+  "install": "# git clone --depth 1 https://github.com/sjgod1427/PaperPilot\n# See source for mcpServers config block"
+}

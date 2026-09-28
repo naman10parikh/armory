@@ -1,0 +1,7 @@
+{
+  "name": "mcp-git-assistant",
+  "description": "Enables AI-powered git assistance including commit message generation, branch naming, and branch analysis using conventional commits and git status/diff/log.",
+  "source_repo": "jing0105/mcp-git-assistant",
+  "source_url": "https://github.com/jing0105/mcp-git-assistant",
+  "install": "# git clone --depth 1 https://github.com/jing0105/mcp-git-assistant\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "deliverect-commerce-mcp-server",
+  "description": "MCP server exposing the Deliverect Commerce API for voice/AI assistant integration. Features seamless cross-service integration with Spoonity for applying loyalty rewards during checkout.",
+  "source_repo": "maxvbailey/deliverect-mcp-server",
+  "source_url": "https://github.com/maxvbailey/deliverect-mcp-server",
+  "install": "npx -y deliverect-mcp-server"
+}

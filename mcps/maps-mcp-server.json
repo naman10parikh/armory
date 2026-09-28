@@ -1,0 +1,7 @@
+{
+  "name": "maps-mcp-server",
+  "description": "An MCP server providing geocoding, routing, isochrones, and POI-by-proximity search through self-hosted OpenStreetMap backends.",
+  "source_repo": "jquad-group/maps-mcp-server",
+  "source_url": "https://github.com/jquad-group/maps-mcp-server",
+  "install": "npx -y maps-mcp-server"
+}

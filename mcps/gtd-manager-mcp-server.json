@@ -1,0 +1,7 @@
+{
+  "name": "gtd-manager-mcp-server",
+  "description": "Implements the Getting Things Done methodology with custom meeting SOPs, enabling capture, processing, and context-based management of tasks and projects, integrated with AI assistants via MCP.",
+  "source_repo": "peerjakobsen/mcp-gtd",
+  "source_url": "https://github.com/peerjakobsen/mcp-gtd",
+  "install": "# git clone --depth 1 https://github.com/peerjakobsen/mcp-gtd\n# See source for mcpServers config block"
+}

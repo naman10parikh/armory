@@ -1,0 +1,7 @@
+{
+  "name": "sentryfrogg-mcp-server",
+  "description": "Provides a governed command plane for MCP agents to manage PostgreSQL databases, SSH sessions, and HTTP APIs with encrypted credential storage and prescriptive workflows.",
+  "source_repo": "iflow-mcp/SentryFrogg-MCP",
+  "source_url": "https://github.com/iflow-mcp/SentryFrogg-MCP",
+  "install": "npx -y SentryFrogg-MCP"
+}

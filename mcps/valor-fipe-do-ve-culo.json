@@ -1,0 +1,7 @@
+{
+  "name": "valor-fipe-do-ve-culo",
+  "description": "Consulta o valor de mercado de veículos brasileiros na tabela FIPE a partir da placa ou chassi, com ferramenta somente leitura. Funciona via MCP over HTTP em qualquer cliente compatível.",
+  "source_repo": "mcp-dir/veiculo_fipe-mcp",
+  "source_url": "https://github.com/mcp-dir/veiculo_fipe-mcp",
+  "install": "npx -y veiculo_fipe-mcp"
+}

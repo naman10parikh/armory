@@ -1,0 +1,7 @@
+{
+  "name": "askais-ai-receipt-generator-mcp",
+  "description": "Lets MCP clients create professional receipt PDFs, return structured receipt data, and check prepaid API credit through a remote endpoint.",
+  "source_repo": "MiniCodeTeam/askais-mcp",
+  "source_url": "https://github.com/MiniCodeTeam/askais-mcp",
+  "install": "npx -y askais-mcp"
+}

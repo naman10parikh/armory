@@ -1,0 +1,7 @@
+{
+  "name": "bunq-partner-mcp",
+  "description": "An MCP server that connects AI assistants to the bunq Partner API, enabling natural language management of partner onboarding, including provisioning users, KYC, accounts, payments, cards, and compliance.",
+  "source_repo": "bunq/partner-mcp",
+  "source_url": "https://github.com/bunq/partner-mcp",
+  "install": "npx -y partner-mcp"
+}

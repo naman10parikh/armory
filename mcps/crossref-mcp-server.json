@@ -1,0 +1,7 @@
+{
+  "name": "crossref-mcp-server",
+  "description": "Searches and retrieves scholarly metadata from the CrossRef REST API, covering over 150 million records across all disciplines, without requiring an API key.",
+  "source_repo": "SMABoundless/crossref-mcp-server",
+  "source_url": "https://github.com/SMABoundless/crossref-mcp-server",
+  "install": "npx -y crossref-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hl-read",
+  "description": "A read-only MCP server for Hyperliquid that provides public market data (prices, order books, funding) and any wallet's positions, orders, and fills via MCP tools, without requiring a private key.",
+  "source_repo": "akagifreeez/hl-read",
+  "source_url": "https://github.com/akagifreeez/hl-read",
+  "install": "# git clone --depth 1 https://github.com/akagifreeez/hl-read\n# See source for mcpServers config block"
+}

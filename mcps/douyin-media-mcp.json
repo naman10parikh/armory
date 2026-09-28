@@ -1,0 +1,7 @@
+{
+  "name": "douyin-media-mcp",
+  "description": "Parses Douyin share links to download video and audio streams, remuxes them with FFmpeg, and validates the output locally.",
+  "source_repo": "ddbbiii/douyin-media-mcp",
+  "source_url": "https://github.com/ddbbiii/douyin-media-mcp",
+  "install": "npx -y douyin-media-mcp"
+}

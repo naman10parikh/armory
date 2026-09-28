@@ -1,0 +1,7 @@
+{
+  "name": "dsh-streaming-mcp-bridge",
+  "description": "Bridges DeepSeek Harness streaming events to external clients via MCP and ACP, enabling real-time progress notifications for tool calls and status updates.",
+  "source_repo": "yabolee-kkk/dsh-streaming-mcp-bridge",
+  "source_url": "https://github.com/yabolee-kkk/dsh-streaming-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/yabolee-kkk/dsh-streaming-mcp-bridge\n# See source for mcpServers config block"
+}

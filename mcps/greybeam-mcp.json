@@ -1,0 +1,7 @@
+{
+  "name": "greybeam-mcp",
+  "description": "A single MCP server that lets agents query data through the Greybeam routing layer with Snowflake-compatible tooling.",
+  "source_repo": "greybeam/mcp",
+  "source_url": "https://github.com/greybeam/mcp",
+  "install": "# git clone --depth 1 https://github.com/greybeam/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ira-researcher",
+  "description": "A powerful browser automation MCP server with 40 tools, stealth mode, ghost effects, and full DevTools access, enabling natural language control of browsers without any API keys.",
+  "source_repo": "neuralnexustech/IRA-RESEARCHER",
+  "source_url": "https://github.com/neuralnexustech/IRA-RESEARCHER",
+  "install": "# git clone --depth 1 https://github.com/neuralnexustech/IRA-RESEARCHER\n# See source for mcpServers config block"
+}

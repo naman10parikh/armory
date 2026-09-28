@@ -1,0 +1,7 @@
+{
+  "name": "cpt-analysis-mcp-server",
+  "description": "Connects Claude Desktop to a healthcare claims database for natural-language analysis of CPT codes, reimbursement rates, payer performance, and denial patterns.",
+  "source_repo": "Ishaan24687/cpt-analysis-mcp-server",
+  "source_url": "https://github.com/Ishaan24687/cpt-analysis-mcp-server",
+  "install": "npx -y cpt-analysis-mcp-server"
+}

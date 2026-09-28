@@ -1,0 +1,7 @@
+{
+  "name": "viralvadoo-mcp-server",
+  "description": "Exposes Vadoo AI APIs (video generation, captions, clips, podcasts, etc.) as MCP tools for use with Claude, Cursor, and ChatGPT.",
+  "source_repo": "SamurAIGPT/vadooai-mcp-server",
+  "source_url": "https://github.com/SamurAIGPT/vadooai-mcp-server",
+  "install": "npx -y vadooai-mcp-server"
+}

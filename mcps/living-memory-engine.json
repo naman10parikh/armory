@@ -1,0 +1,7 @@
+{
+  "name": "living-memory-engine",
+  "description": "A persistent world your agents share across sessions and models. MCP memory server with semantic memory retrieval, cross-agent handoff, a hosted remote endpoint with OAuth, a free 24-hour room, and an open-source local stdio server.",
+  "source_repo": "v1b3x0r/living-memory-engine",
+  "source_url": "https://github.com/v1b3x0r/living-memory-engine",
+  "install": "# git clone --depth 1 https://github.com/v1b3x0r/living-memory-engine\n# See source for mcpServers config block"
+}

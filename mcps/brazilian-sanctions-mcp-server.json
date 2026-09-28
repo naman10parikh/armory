@@ -1,0 +1,7 @@
+{
+  "name": "brazilian-sanctions-mcp-server",
+  "description": "Enables searching and analyzing Brazilian sanctions across multiple registers (CNEP, CEIS, CEPIM, CEAF, Leniency Agreements) via CNPJ/CPF or name for leniency agreements, with tools for status checks, sanctioning authorities, location info, and comprehensive reports.",
+  "source_repo": "williamoliv/BrazilianSanctionsMCPserver",
+  "source_url": "https://github.com/williamoliv/BrazilianSanctionsMCPserver",
+  "install": "# git clone --depth 1 https://github.com/williamoliv/BrazilianSanctionsMCPserver\n# See source for mcpServers config block"
+}

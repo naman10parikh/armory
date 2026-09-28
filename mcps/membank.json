@@ -1,0 +1,7 @@
+{
+  "name": "membank",
+  "description": "LLM memory management system that stores corrections, preferences, decisions, and learnings in a local SQLite database with semantic search, exposed as an MCP server for automatic memory read/write by any MCP-compatible LLM harness.",
+  "source_repo": "draekien-industries/membank",
+  "source_url": "https://github.com/draekien-industries/membank",
+  "install": "# git clone --depth 1 https://github.com/draekien-industries/membank\n# See source for mcpServers config block"
+}

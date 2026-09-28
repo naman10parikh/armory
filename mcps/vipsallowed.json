@@ -1,0 +1,7 @@
+{
+  "name": "vipsallowed",
+  "description": "Enables agents to manage a creator business on the vips platform, including posting content, managing subscriptions, handling payments, and going live. Provides tools for earnings, analytics, and subscriber management via MCP tools.",
+  "source_repo": "jyswee/vipsallowed",
+  "source_url": "https://github.com/jyswee/vipsallowed",
+  "install": "# git clone --depth 1 https://github.com/jyswee/vipsallowed\n# See source for mcpServers config block"
+}

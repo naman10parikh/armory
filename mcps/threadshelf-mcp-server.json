@@ -1,0 +1,7 @@
+{
+  "name": "threadshelf-mcp-server",
+  "description": "Enables semantic search and retrieval of archived AI conversations from multiple providers via the MCP protocol, allowing thread continuation and integration with MCP-capable tools.",
+  "source_repo": "ChrystianSchutz/ThreadShelf",
+  "source_url": "https://github.com/ChrystianSchutz/ThreadShelf",
+  "install": "# git clone --depth 1 https://github.com/ChrystianSchutz/ThreadShelf\n# See source for mcpServers config block"
+}

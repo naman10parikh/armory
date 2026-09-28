@@ -1,0 +1,7 @@
+{
+  "name": "basethread",
+  "description": "Enables AI tools to share a company-structured context graph for consistent project knowledge across the team.",
+  "source_repo": "navbuildz/basethread-mcp",
+  "source_url": "https://github.com/navbuildz/basethread-mcp",
+  "install": "npx -y basethread-mcp"
+}

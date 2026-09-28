@@ -1,0 +1,7 @@
+{
+  "name": "haypile",
+  "description": "Hybrid search over your local documents, with file and page citations. One binary, fully local.",
+  "source_repo": "BenyD/haypile",
+  "source_url": "https://github.com/BenyD/haypile",
+  "install": "# git clone --depth 1 https://github.com/BenyD/haypile\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "verychic-mcp",
+  "description": "Search VeryChic hotel deals from any MCP client; browse flash-sale offers, filter by destination or price, and read availability and prices by date. Read-only, anonymous, no account needed.",
+  "source_repo": "jordantete/verychic-mcp",
+  "source_url": "https://github.com/jordantete/verychic-mcp",
+  "install": "npx -y verychic-mcp"
+}

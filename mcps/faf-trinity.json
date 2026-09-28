@@ -1,0 +1,7 @@
+{
+  "name": "faf-trinity",
+  "description": "MCP server that exposes project context, persistent memory, and agent identity via FAF formats, providing tools like context-aware callTool, remember/recall, and whoami through file-backed storage.",
+  "source_repo": "Wolfe-Jam/faf-trinity",
+  "source_url": "https://github.com/Wolfe-Jam/faf-trinity",
+  "install": "# git clone --depth 1 https://github.com/Wolfe-Jam/faf-trinity\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "storybloq-lenses",
+  "description": "Enables multi-lens code review by running 8 specialized reviewers in parallel, deduplicating findings, and producing a single verdict.",
+  "source_repo": "Storybloq/lenses",
+  "source_url": "https://github.com/Storybloq/lenses",
+  "install": "# git clone --depth 1 https://github.com/Storybloq/lenses\n# See source for mcpServers config block"
+}

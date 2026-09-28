@@ -1,0 +1,7 @@
+{
+  "name": "harbor-mcp",
+  "description": "Provides MCP tools to manage a local-first Kanban board, including projects, issues, dependencies, and labels. Enables AI clients to interact with the board via a stdio MCP server connected to a NestJS API.",
+  "source_repo": "Eidantz/Harbor",
+  "source_url": "https://github.com/Eidantz/Harbor",
+  "install": "# git clone --depth 1 https://github.com/Eidantz/Harbor\n# See source for mcpServers config block"
+}

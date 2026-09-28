@@ -1,0 +1,7 @@
+{
+  "name": "jfrog-artifactory-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides seamless integration with JFrog Artifactory, enabling AI assistants to manage artifacts, repositories, and perform cleanup operations through natural language interactions.",
+  "source_repo": "karthik-philips-ta/jfrog-mcp",
+  "source_url": "https://github.com/karthik-philips-ta/jfrog-mcp",
+  "install": "npx -y jfrog-mcp"
+}

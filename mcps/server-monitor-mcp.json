@@ -1,0 +1,7 @@
+{
+  "name": "server-monitor-mcp",
+  "description": "Server Monitor MCP is a Linux server inspection service with web backend and MCP interface. It allows you to manage SSH hosts and query server metrics via natural language.",
+  "source_repo": "Call123X/server-monitor-mcp",
+  "source_url": "https://github.com/Call123X/server-monitor-mcp",
+  "install": "npx -y server-monitor-mcp"
+}

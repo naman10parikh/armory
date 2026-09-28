@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mssql-secure",
+  "description": "A Model Context Protocol server for Microsoft SQL Server and Azure SQL Database with permission-based access modes (read-only, DML, full) and security features like SQL classification and connection locking.",
+  "source_repo": "pugltd/mcp-mssql-secure",
+  "source_url": "https://github.com/pugltd/mcp-mssql-secure",
+  "install": "# git clone --depth 1 https://github.com/pugltd/mcp-mssql-secure\n# See source for mcpServers config block"
+}

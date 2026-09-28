@@ -1,0 +1,7 @@
+{
+  "name": "appwrite-mcp-template",
+  "description": "Enables deploying stateless MCP servers on Appwrite Functions, supporting custom tools with JSON-RPC over HTTPS.",
+  "source_repo": "ChiragAgg5k/appwrite-mcp-template",
+  "source_url": "https://github.com/ChiragAgg5k/appwrite-mcp-template",
+  "install": "# git clone --depth 1 https://github.com/ChiragAgg5k/appwrite-mcp-template\n# See source for mcpServers config block"
+}

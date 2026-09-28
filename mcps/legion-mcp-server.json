@@ -1,0 +1,7 @@
+{
+  "name": "legion-mcp-server",
+  "description": "Exposes multiple LLMs as individual tools via the OpenAI Responses API wire format, enabling the calling AI to get second opinions and orchestrate multi-model discussions with a quorum tool.",
+  "source_repo": "faulkj/legion-mcp",
+  "source_url": "https://github.com/faulkj/legion-mcp",
+  "install": "npx -y legion-mcp"
+}

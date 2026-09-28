@@ -1,0 +1,7 @@
+{
+  "name": "excel-webview2-mcp",
+  "description": "Connects Claude Code to Microsoft Excel add-ins via the Chrome DevTools Protocol, enabling inspection, automation, and lifecycle management of add-ins running in WebView2.",
+  "source_repo": "dsbissett/excel-webview2-mcp",
+  "source_url": "https://github.com/dsbissett/excel-webview2-mcp",
+  "install": "npx -y excel-webview2-mcp"
+}

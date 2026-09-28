@@ -1,0 +1,7 @@
+{
+  "name": "jarvis-mcp-server",
+  "description": "Provides Claude with tools to read/write an Obsidian vault, query a local SQLite database, and manage files, accessible from any device via OAuth over Tailscale.",
+  "source_repo": "Gallucky/jarvis-mcp-server",
+  "source_url": "https://github.com/Gallucky/jarvis-mcp-server",
+  "install": "npx -y jarvis-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tor-mcp",
+  "description": "Routes web requests from AI tools through Tor for anonymized fetching, with selective per-URL routing to bypass Tor-blocking sites.",
+  "source_repo": "rushikeshmore/tor-mcp",
+  "source_url": "https://github.com/rushikeshmore/tor-mcp",
+  "install": "npx -y tor-mcp"
+}

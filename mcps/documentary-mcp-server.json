@@ -1,0 +1,7 @@
+{
+  "name": "documentary-mcp-server",
+  "description": "Enables creating, listing, and searching project-based documentation with Markdown content, table of contents, full-text search, and multi-client support via Streamable HTTP transport.",
+  "source_repo": "CaptainSP/documentary-mcp-server",
+  "source_url": "https://github.com/CaptainSP/documentary-mcp-server",
+  "install": "npx -y documentary-mcp-server"
+}

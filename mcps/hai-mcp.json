@@ -1,0 +1,7 @@
+{
+  "name": "hai-mcp",
+  "description": "Provides a human-agent interface control plane for managing agent state, focus, and next steps across any MCP-compatible client, without calling an LLM itself.",
+  "source_repo": "smlfg/hai-mcp",
+  "source_url": "https://github.com/smlfg/hai-mcp",
+  "install": "npx -y hai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "portuguese-law-mcp-server",
+  "description": "Enables querying Portuguese legislation, including statutes, provisions, and EU law implementations, with tools for search, citation validation, and currency checks.",
+  "source_repo": "Ansvar-Systems/portuguese-law-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/portuguese-law-mcp",
+  "install": "npx -y portuguese-law-mcp"
+}

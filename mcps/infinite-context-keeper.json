@@ -1,0 +1,7 @@
+{
+  "name": "infinite-context-keeper",
+  "description": "MCP server providing context usage estimation, conversation compaction, and durable semantic memory via local embeddings and SQLite.",
+  "source_repo": "sujkh85/infinite-context-keeper-node",
+  "source_url": "https://github.com/sujkh85/infinite-context-keeper-node",
+  "install": "# git clone --depth 1 https://github.com/sujkh85/infinite-context-keeper-node\n# See source for mcpServers config block"
+}

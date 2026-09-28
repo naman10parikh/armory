@@ -1,0 +1,7 @@
+{
+  "name": "project-advisors-mcp",
+  "description": "MCP server providing diagnostic tools to analyze software architecture, security, REST API compliance, and dependencies for multiple programming languages. Enables AI agents to run scans and audits on codebases.",
+  "source_repo": "ragubaran/project-advisors-mcp",
+  "source_url": "https://github.com/ragubaran/project-advisors-mcp",
+  "install": "npx -y project-advisors-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-for-stock-market-analysis",
+  "description": "A production-grade MCP server that provides tools to fetch historical stock data, company information, and technical indicators (SMA, EMA, RSI, MACD, Bollinger Bands) via yfinance, and includes a Flask web dashboard for visual analysis.",
+  "source_repo": "nbx0021/MCP-for-Stock-Market-Analysis",
+  "source_url": "https://github.com/nbx0021/MCP-for-Stock-Market-Analysis",
+  "install": "# git clone --depth 1 https://github.com/nbx0021/MCP-for-Stock-Market-Analysis\n# See source for mcpServers config block"
+}

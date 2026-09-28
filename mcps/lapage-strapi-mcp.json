@@ -1,0 +1,7 @@
+{
+  "name": "lapage-strapi-mcp",
+  "description": "MCP server for Strapi CMS content and media management.",
+  "source_repo": "zhuylanz/lapage-strapi-mcp",
+  "source_url": "https://github.com/zhuylanz/lapage-strapi-mcp",
+  "install": "npx -y lapage-strapi-mcp"
+}

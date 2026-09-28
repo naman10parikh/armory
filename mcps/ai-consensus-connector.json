@@ -1,0 +1,7 @@
+{
+  "name": "ai-consensus-connector",
+  "description": "Integrates AI Consensus into coding agents, routing decisions through three frontier AI models for independent analysis and cross-examination, returning a recommendation and strongest dissent.",
+  "source_repo": "TheStevenJohnstone/ai-consensus-connector",
+  "source_url": "https://github.com/TheStevenJohnstone/ai-consensus-connector",
+  "install": "# git clone --depth 1 https://github.com/TheStevenJohnstone/ai-consensus-connector\n# See source for mcpServers config block"
+}

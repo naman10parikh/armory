@@ -1,0 +1,7 @@
+{
+  "name": "claude-desktop-claude-code-mcp-bridge",
+  "description": "A bidirectional MCP bridge that lets Claude Desktop and Claude Code collaborate on a build with no human in the execution loop.",
+  "source_repo": "Gowindude/claude-desktop-code-bridge",
+  "source_url": "https://github.com/Gowindude/claude-desktop-code-bridge",
+  "install": "# git clone --depth 1 https://github.com/Gowindude/claude-desktop-code-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "deckhand",
+  "description": "Enables Claude to build and preview mobile apps on multiple iOS and Android devices simultaneously, with live streaming and touch control, all via MCP.",
+  "source_repo": "Okam-AS/deckhand",
+  "source_url": "https://github.com/Okam-AS/deckhand",
+  "install": "# git clone --depth 1 https://github.com/Okam-AS/deckhand\n# See source for mcpServers config block"
+}

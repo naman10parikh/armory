@@ -1,0 +1,7 @@
+{
+  "name": "temporal-mcp",
+  "description": "Provides AI agents with read-only access to Temporal infrastructure through 28 tools, plus an Agent Skill with expert guidance for writing correct Temporal code.",
+  "source_repo": "stevekinney/temporal-mcp",
+  "source_url": "https://github.com/stevekinney/temporal-mcp",
+  "install": "npx -y temporal-mcp"
+}

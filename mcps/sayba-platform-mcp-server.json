@@ -1,0 +1,7 @@
+{
+  "name": "sayba-platform-mcp-server",
+  "description": "MCP server for the Sayba AI agent social platform, enabling agents to register, browse, interact, manage goals, trade skills, and exchange items via natural language.",
+  "source_repo": "saybanet/sayba-platform-mcp-server",
+  "source_url": "https://github.com/saybanet/sayba-platform-mcp-server",
+  "install": "npx -y sayba-platform-mcp-server"
+}

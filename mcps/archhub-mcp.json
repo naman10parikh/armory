@@ -1,0 +1,7 @@
+{
+  "name": "archhub-mcp",
+  "description": "Enables natural language access to 11 Korean building data tools including building registers, permits, comprehensive profiles with zoning, floor composition, district statistics, old building analysis, price history, demolitions, and permit pipeline.",
+  "source_repo": "chrisryugj/archhub-mcp",
+  "source_url": "https://github.com/chrisryugj/archhub-mcp",
+  "install": "npx -y archhub-mcp"
+}

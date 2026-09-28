@@ -1,0 +1,7 @@
+{
+  "name": "fieldcure-mcp-outbox-server",
+  "description": "A multi-channel messaging MCP server that sends messages through Slack, Telegram, Email (Gmail, Naver, Microsoft Graph API), KakaoTalk, and Discord.",
+  "source_repo": "fieldcure/fieldcure-mcp-outbox",
+  "source_url": "https://github.com/fieldcure/fieldcure-mcp-outbox",
+  "install": "# git clone --depth 1 https://github.com/fieldcure/fieldcure-mcp-outbox\n# See source for mcpServers config block"
+}

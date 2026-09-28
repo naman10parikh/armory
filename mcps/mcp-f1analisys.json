@@ -1,0 +1,7 @@
+{
+  "name": "mcp-f1analisys",
+  "description": "Enables Formula 1 data analysis through natural language, providing tools like track dominance, lap time analysis, and team performance comparisons.",
+  "source_repo": "Maxbleu/MCP-F1analisys",
+  "source_url": "https://github.com/Maxbleu/MCP-F1analisys",
+  "install": "# git clone --depth 1 https://github.com/Maxbleu/MCP-F1analisys\n# See source for mcpServers config block"
+}

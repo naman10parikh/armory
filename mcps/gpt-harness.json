@@ -1,0 +1,7 @@
+{
+  "name": "gpt-harness",
+  "description": "A self-hosted MCP gateway that gives ChatGPT Web real command execution, file patching, and workspace management on a VPS you control.",
+  "source_repo": "salman-frs/gpt-harness",
+  "source_url": "https://github.com/salman-frs/gpt-harness",
+  "install": "# git clone --depth 1 https://github.com/salman-frs/gpt-harness\n# See source for mcpServers config block"
+}

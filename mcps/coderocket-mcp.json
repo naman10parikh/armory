@@ -1,0 +1,7 @@
+{
+  "name": "coderocket-mcp",
+  "description": "MCP server for CodeRocket Deploy providing AI-generated CI/CD workflows and AI code review as tools inside Claude Code.",
+  "source_repo": "mlgraham/coderocket-mcp",
+  "source_url": "https://github.com/mlgraham/coderocket-mcp",
+  "install": "npx -y coderocket-mcp"
+}

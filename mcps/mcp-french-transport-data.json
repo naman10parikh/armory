@@ -1,0 +1,7 @@
+{
+  "name": "mcp-french-transport-data",
+  "description": "Enables discovery and summarization of public French transport data, including datasets, GTFS resources, regions, networks, and data-quality information, via transport.data.gouv.fr.",
+  "source_repo": "Hug0x0/mcp-french-transport-data",
+  "source_url": "https://github.com/Hug0x0/mcp-french-transport-data",
+  "install": "# git clone --depth 1 https://github.com/Hug0x0/mcp-french-transport-data\n# See source for mcpServers config block"
+}

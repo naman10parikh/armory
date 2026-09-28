@@ -1,0 +1,7 @@
+{
+  "name": "local-agent",
+  "description": "Routes code generation tasks between local models and Claude Cloud, optimizing cost by handling simple tasks locally and reserving cloud thinking for complex tasks.",
+  "source_repo": "MrFalach/local-agent",
+  "source_url": "https://github.com/MrFalach/local-agent",
+  "install": "# git clone --depth 1 https://github.com/MrFalach/local-agent\n# See source for mcpServers config block"
+}

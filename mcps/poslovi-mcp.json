@@ -1,0 +1,7 @@
+{
+  "name": "poslovi-mcp",
+  "description": "Searches Serbian job boards (poslovi.infostud.com and helloworld.rs) from Claude or any MCP client, no API keys required.",
+  "source_repo": "umilutinovic25-hash/poslovi-mcp",
+  "source_url": "https://github.com/umilutinovic25-hash/poslovi-mcp",
+  "install": "npx -y poslovi-mcp"
+}

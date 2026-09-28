@@ -1,0 +1,7 @@
+{
+  "name": "sap-btp-abap-adt-mcp-server",
+  "description": "Enables SAP ABAP development workflows including ADT login, object search, read, create, update, activate, delete, and OData service publishing.",
+  "source_repo": "Dante-tx/SAP-BTP-Trial-ABAP-ADT-MCP",
+  "source_url": "https://github.com/Dante-tx/SAP-BTP-Trial-ABAP-ADT-MCP",
+  "install": "npx -y SAP-BTP-Trial-ABAP-ADT-MCP"
+}

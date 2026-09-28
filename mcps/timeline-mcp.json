@@ -1,0 +1,7 @@
+{
+  "name": "timeline-mcp",
+  "description": "A deterministic MCP server that gives AI assistants a temporal memory layer by extracting events from conversation, normalizing time expressions, and maintaining structured timeline state to enable consistent multi-session conversations.",
+  "source_repo": "bmit20/timeline-mcp",
+  "source_url": "https://github.com/bmit20/timeline-mcp",
+  "install": "npx -y timeline-mcp"
+}

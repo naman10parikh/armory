@@ -1,0 +1,7 @@
+{
+  "name": "drp-compliance",
+  "description": "Automated SOX/DRP-2026 financial document verification for AI coding assistants.",
+  "source_repo": "TommyP949/drp-compliance-sdk",
+  "source_url": "https://github.com/TommyP949/drp-compliance-sdk",
+  "install": "# git clone --depth 1 https://github.com/TommyP949/drp-compliance-sdk\n# See source for mcpServers config block"
+}

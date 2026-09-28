@@ -1,0 +1,7 @@
+{
+  "name": "washing-machine-mcp",
+  "description": "MCP server for tiered, injection-resistant natural-language access to a washing-machine Turso database, supporting stdio and HTTP transports with security guarantees like silent downgrades and audit logging.",
+  "source_repo": "JoshuaSkootsky/api-secure-nlp-mcp",
+  "source_url": "https://github.com/JoshuaSkootsky/api-secure-nlp-mcp",
+  "install": "npx -y api-secure-nlp-mcp"
+}

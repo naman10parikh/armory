@@ -1,0 +1,7 @@
+{
+  "name": "relational-db-seeder-mcp-server",
+  "description": "Enables LLMs to inspect database schemas and seed relational databases with custom data while automatically resolving foreign key relationships.",
+  "source_repo": "NamanT98/DB-Seeder",
+  "source_url": "https://github.com/NamanT98/DB-Seeder",
+  "install": "# git clone --depth 1 https://github.com/NamanT98/DB-Seeder\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "volatility-mcp-server",
+  "description": "Enables automated memory forensics analysis using Volatility 3, supporting Windows, Linux, and macOS memory dumps through a modular plugin interface.",
+  "source_repo": "OMGhozlan/Volatility-MCP-Server",
+  "source_url": "https://github.com/OMGhozlan/Volatility-MCP-Server",
+  "install": "npx -y Volatility-MCP-Server"
+}

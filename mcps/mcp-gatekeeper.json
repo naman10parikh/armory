@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gatekeeper",
+  "description": "Runtime security gateway and FastMCP server that protects MCP clients from tool poisoning, prompt injection, and unauthorized tool schema changes through policy enforcement, fail-closed scanning, and human approval gates.",
+  "source_repo": "sudo-hrmn/MCP-Gatekeeper",
+  "source_url": "https://github.com/sudo-hrmn/MCP-Gatekeeper",
+  "install": "# git clone --depth 1 https://github.com/sudo-hrmn/MCP-Gatekeeper\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "emin-mcp-server",
+  "description": "Provides portable working rules and tooling instructions as MCP resources, ensuring consistent agent behavior across clients.",
+  "source_repo": "eminogrande/emin",
+  "source_url": "https://github.com/eminogrande/emin",
+  "install": "# git clone --depth 1 https://github.com/eminogrande/emin\n# See source for mcpServers config block"
+}

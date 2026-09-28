@@ -1,0 +1,7 @@
+{
+  "name": "slugline-mcp",
+  "description": "Enables screenwriters to search for similar scenes, fetch scene details, list indexed movies, find mood reference scenes, and get analysis style guidance, all grounded in real produced scripts.",
+  "source_repo": "NalluriTanavreddy/slugline-mcp",
+  "source_url": "https://github.com/NalluriTanavreddy/slugline-mcp",
+  "install": "npx -y slugline-mcp"
+}

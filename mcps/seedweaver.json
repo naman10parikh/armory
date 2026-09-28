@@ -1,0 +1,7 @@
+{
+  "name": "seedweaver",
+  "description": "Generates realistic, referentially-coherent test data (SQL INSERTs, JSON, or CSV) from your database schema, resolving foreign keys and respecting constraints. Paste CREATE TABLE DDL or a JSON schema and get ready-to-run seed data with valid relationships.",
+  "source_repo": "FixtureForge/seedweaver-mcp",
+  "source_url": "https://github.com/FixtureForge/seedweaver-mcp",
+  "install": "npx -y seedweaver-mcp"
+}

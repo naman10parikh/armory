@@ -1,0 +1,7 @@
+{
+  "name": "jackai-stt-mcp",
+  "description": "Transcribes audio files by referencing them in chat, using OpenAI's speech-to-text models locally without uploading audio, and supports speaker diarization.",
+  "source_repo": "jack-ai-net/stt-mcp",
+  "source_url": "https://github.com/jack-ai-net/stt-mcp",
+  "install": "npx -y stt-mcp"
+}

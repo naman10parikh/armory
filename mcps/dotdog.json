@@ -1,0 +1,7 @@
+{
+  "name": "dotdog",
+  "description": "Enables AI agents to query and traverse spec genomes via MCP tools, providing structured access to entities, relationships, and graph data.",
+  "source_repo": "specdog/dotdog",
+  "source_url": "https://github.com/specdog/dotdog",
+  "install": "# git clone --depth 1 https://github.com/specdog/dotdog\n# See source for mcpServers config block"
+}

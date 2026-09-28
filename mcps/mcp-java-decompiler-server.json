@@ -1,0 +1,7 @@
+{
+  "name": "mcp-java-decompiler-server",
+  "description": "Decompiles Java .class files, packages, and JARs into readable source code, enabling AI assistants to inspect Java bytecode.",
+  "source_repo": "idachev/mcp-javadc",
+  "source_url": "https://github.com/idachev/mcp-javadc",
+  "install": "# git clone --depth 1 https://github.com/idachev/mcp-javadc\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "postmancer",
+  "description": "A standalone MCP server for API testing and management, allowing AI assistants to interact with RESTful APIs through natural language.",
+  "source_repo": "hijaz/postmancer",
+  "source_url": "https://github.com/hijaz/postmancer",
+  "install": "# git clone --depth 1 https://github.com/hijaz/postmancer\n# See source for mcpServers config block"
+}

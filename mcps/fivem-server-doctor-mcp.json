@@ -1,0 +1,7 @@
+{
+  "name": "fivem-server-doctor-mcp",
+  "description": "Diagnoses why a FiveM server or resource is broken by scanning local configs, manifests, and logs, returning ranked findings with evidence. It can also propose and apply low-risk text fixes when enabled.",
+  "source_repo": "mkcrw/fivem-server-doctor-mcp",
+  "source_url": "https://github.com/mkcrw/fivem-server-doctor-mcp",
+  "install": "npx -y fivem-server-doctor-mcp"
+}

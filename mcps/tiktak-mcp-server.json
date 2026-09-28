@@ -1,0 +1,7 @@
+{
+  "name": "tiktak-mcp-server",
+  "description": "MCP server for TikTak time tracking and invoicing API, enabling AI assistants to manage customers, track time, and create invoices.",
+  "source_repo": "ideaCompany/tiktak-mcp-server",
+  "source_url": "https://github.com/ideaCompany/tiktak-mcp-server",
+  "install": "npx -y tiktak-mcp-server"
+}

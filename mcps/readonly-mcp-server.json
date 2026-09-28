@@ -1,0 +1,7 @@
+{
+  "name": "readonly-mcp-server",
+  "description": "A read-only MCP server with configurable transport (stdio or HTTP+SSE), API key authentication, and scope-based authorization for read and search operations on documents.",
+  "source_repo": "Varun4b1/mcp-server-py",
+  "source_url": "https://github.com/Varun4b1/mcp-server-py",
+  "install": "# git clone --depth 1 https://github.com/Varun4b1/mcp-server-py\n# See source for mcpServers config block"
+}

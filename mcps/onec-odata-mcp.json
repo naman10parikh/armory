@@ -1,0 +1,7 @@
+{
+  "name": "onec-odata-mcp",
+  "description": "Bridges AI agents to 1C:Enterprise via OData, enabling natural language queries of business entities like counterparties and invoices with read-only access.",
+  "source_repo": "pyrfor/onec-odata-mcp",
+  "source_url": "https://github.com/pyrfor/onec-odata-mcp",
+  "install": "npx -y onec-odata-mcp"
+}

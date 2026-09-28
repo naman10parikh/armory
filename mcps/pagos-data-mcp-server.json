@@ -1,0 +1,7 @@
+{
+  "name": "pagos-data-mcp-server",
+  "description": "Enables users to retrieve BIN data for a given BIN number, with optional enhanced attributes for richer insights.",
+  "source_repo": "pagos-ai/pagos-mcp",
+  "source_url": "https://github.com/pagos-ai/pagos-mcp",
+  "install": "npx -y pagos-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "casper-network-mcp-server",
+  "description": "Enables interaction with the Casper Network blockchain via MCP, providing tools for wallet creation, CSPR transfers, staking/delegation, and account queries.",
+  "source_repo": "Tairon-ai/casper-network-mcp",
+  "source_url": "https://github.com/Tairon-ai/casper-network-mcp",
+  "install": "npx -y casper-network-mcp"
+}

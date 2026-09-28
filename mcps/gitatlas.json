@@ -1,0 +1,7 @@
+{
+  "name": "gitatlas",
+  "description": "Enables coding agents to explore a repository map via MCP, with tools for briefs, scoping, symbol lookup, module details, and freshness checks.",
+  "source_repo": "adityaarakeri/gitatlas",
+  "source_url": "https://github.com/adityaarakeri/gitatlas",
+  "install": "# git clone --depth 1 https://github.com/adityaarakeri/gitatlas\n# See source for mcpServers config block"
+}

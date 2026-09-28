@@ -1,0 +1,7 @@
+{
+  "name": "siglent-sds-mcp",
+  "description": "Enables AI tools to remotely control a SIGLENT SDS800X HD series oscilloscope, configure acquisition, capture waveforms, and analyze signal quality safely through high-level SCPI tools.",
+  "source_repo": "wolog1/siglent-sds-mcp",
+  "source_url": "https://github.com/wolog1/siglent-sds-mcp",
+  "install": "npx -y siglent-sds-mcp"
+}

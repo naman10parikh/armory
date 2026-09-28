@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-mcp-agent",
+  "description": "A custom MCP server that cleans up raw notes into properly formatted, cross-linked notes in an Obsidian vault using Claude Desktop.",
+  "source_repo": "FBlake28/obsidian-mcp-agent",
+  "source_url": "https://github.com/FBlake28/obsidian-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/FBlake28/obsidian-mcp-agent\n# See source for mcpServers config block"
+}

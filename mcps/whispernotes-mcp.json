@@ -1,0 +1,7 @@
+{
+  "name": "whispernotes-mcp",
+  "description": "Search, read, and create speech-to-text transcripts on-device with the Whisper Notes Mac app. The MCP server is built into the app (macOS, Apple Silicon) and serves over a local Unix socket — 100% offline, no open ports.",
+  "source_repo": "mazzzystar/whispernotes-mcp",
+  "source_url": "https://github.com/mazzzystar/whispernotes-mcp",
+  "install": "npx -y whispernotes-mcp"
+}

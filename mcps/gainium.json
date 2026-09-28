@@ -1,0 +1,7 @@
+{
+  "name": "gainium",
+  "description": "Read and manage Gainium DCA/Combo/Grid bots, deals, balances, backtests, the crypto screener, and curated strategy presets via MCP.",
+  "source_repo": "Gainium/gainium-mcp",
+  "source_url": "https://github.com/Gainium/gainium-mcp",
+  "install": "npx -y gainium-mcp"
+}

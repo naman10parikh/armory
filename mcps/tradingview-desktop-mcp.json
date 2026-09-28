@@ -1,0 +1,7 @@
+{
+  "name": "tradingview-desktop-mcp",
+  "description": "Controls the TradingView Desktop app via MCP, allowing AI agents to manage charts, indicators, Pine Script strategies, and optionally mirrors signals to MetaTrader 5 for automated trading.",
+  "source_repo": "Unjoselo/tradingview-desktop-mcp",
+  "source_url": "https://github.com/Unjoselo/tradingview-desktop-mcp",
+  "install": "npx -y tradingview-desktop-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "code-audit-mcp-server",
+  "description": "An AI-native code security audit MCP server that supports multi-language AST analysis, call graph analysis, vulnerability detection, and AI deep audit.",
+  "source_repo": "czx1111/Code-audit-MCP",
+  "source_url": "https://github.com/czx1111/Code-audit-MCP",
+  "install": "npx -y Code-audit-MCP"
+}

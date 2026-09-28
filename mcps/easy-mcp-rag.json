@@ -1,0 +1,7 @@
+{
+  "name": "easy-mcp-rag",
+  "description": "An MCP server for RAG using Qdrant that automatically indexes documents from directories and generates search tools for each collection.",
+  "source_repo": "justinlime/easy_mcp_rag",
+  "source_url": "https://github.com/justinlime/easy_mcp_rag",
+  "install": "# git clone --depth 1 https://github.com/justinlime/easy_mcp_rag\n# See source for mcpServers config block"
+}

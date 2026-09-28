@@ -1,0 +1,7 @@
+{
+  "name": "rei-meta-mcp",
+  "description": "A meta-layer MCP server that treats connectors as objects and access paths as morphisms, enabling automated coherence checks across multiple data sources to detect inconsistencies. It provides tools to list sources, compare fingerprints for coherence, and identify divergent or unreachable sources.",
+  "source_repo": "fc0web/rei-meta-mcp",
+  "source_url": "https://github.com/fc0web/rei-meta-mcp",
+  "install": "npx -y rei-meta-mcp"
+}

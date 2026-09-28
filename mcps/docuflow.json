@@ -1,0 +1,7 @@
+{
+  "name": "docuflow",
+  "description": "Provides a unified interface for AI agents and scripts to read, create, and edit office documents (.docx, .xlsx, .pdf) via MCP tools, using Markdown as the intermediary format. Supports in-place patching with stable IDs, Jinja2 templating, and formatting preservation.",
+  "source_repo": "deja111vu/docuflow",
+  "source_url": "https://github.com/deja111vu/docuflow",
+  "install": "# git clone --depth 1 https://github.com/deja111vu/docuflow\n# See source for mcpServers config block"
+}

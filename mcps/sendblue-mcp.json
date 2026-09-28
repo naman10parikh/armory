@@ -1,0 +1,7 @@
+{
+  "name": "sendblue-mcp",
+  "description": "Enables AI agents to send SMS/iMessage and check replies via Sendblue API using secure polling (no webhooks).",
+  "source_repo": "jackccrawford/sendblue-mcp",
+  "source_url": "https://github.com/jackccrawford/sendblue-mcp",
+  "install": "npx -y sendblue-mcp"
+}

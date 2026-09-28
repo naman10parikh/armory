@@ -1,0 +1,7 @@
+{
+  "name": "cortex-xsiam-mcp-gateway",
+  "description": "Enables governed agent access to Cortex XSIAM security operations APIs, including XQL log search, issues, cases, endpoints, and assets, with dataset authorization and optional identity-based access control.",
+  "source_repo": "ciaran-finnegan/cortex-xsiam-mcp-gateway",
+  "source_url": "https://github.com/ciaran-finnegan/cortex-xsiam-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/ciaran-finnegan/cortex-xsiam-mcp-gateway\n# See source for mcpServers config block"
+}

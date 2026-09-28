@@ -1,0 +1,7 @@
+{
+  "name": "owler-company-intelligence-mcp-server",
+  "description": "Provides competitor intelligence and private company data, including named competitors, revenue estimates, employee counts, funding totals, and firmographics from company URLs.",
+  "source_repo": "johnisanerd/Apify-Owler-Company-API",
+  "source_url": "https://github.com/johnisanerd/Apify-Owler-Company-API",
+  "install": "# git clone --depth 1 https://github.com/johnisanerd/Apify-Owler-Company-API\n# See source for mcpServers config block"
+}

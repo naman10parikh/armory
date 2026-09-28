@@ -1,0 +1,7 @@
+{
+  "name": "github-repo-finder",
+  "description": "A production-grade GitHub repository finder that helps LLMs discover best repositories with advanced search, ranking, and token optimization.",
+  "source_repo": "Ehsas317/github-repo-finder",
+  "source_url": "https://github.com/Ehsas317/github-repo-finder",
+  "install": "# git clone --depth 1 https://github.com/Ehsas317/github-repo-finder\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "minipainter",
+  "description": "Local-first miniature-paint inventory and cross-brand color matching for AI agents. Search 1,607 paints (Citadel, Army Painter, Vallejo, AK), match by hex or description, and track what you own — 7 tools over stdio.",
+  "source_repo": "ArturSkowronski/minipainter",
+  "source_url": "https://github.com/ArturSkowronski/minipainter",
+  "install": "# git clone --depth 1 https://github.com/ArturSkowronski/minipainter\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mouser-search-mcp",
+  "description": "Provides tools to search the Mouser Electronics parts catalog via keyword, part number, and manufacturer queries using the Mouser Search API.",
+  "source_repo": "cmaurer/mouser-search-mcp",
+  "source_url": "https://github.com/cmaurer/mouser-search-mcp",
+  "install": "npx -y mouser-search-mcp"
+}

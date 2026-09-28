@@ -1,0 +1,7 @@
+{
+  "name": "datanorge",
+  "description": "An MCP server to find and fetch Norwegian open government data from data.norge.no. Enables search, metadata retrieval, and data download.",
+  "source_repo": "tenki-labs/datanorge-mcp",
+  "source_url": "https://github.com/tenki-labs/datanorge-mcp",
+  "install": "npx -y datanorge-mcp"
+}

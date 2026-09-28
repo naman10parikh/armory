@@ -1,0 +1,7 @@
+{
+  "name": "classroom-suite-mcp",
+  "description": "Unified MCP server for Google Classroom, Drive, and Docs, enabling AI assistants to manage courses, assignments, files, and documents.",
+  "source_repo": "anasdevai/classroom-suite-mcp",
+  "source_url": "https://github.com/anasdevai/classroom-suite-mcp",
+  "install": "npx -y classroom-suite-mcp"
+}

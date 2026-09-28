@@ -1,0 +1,7 @@
+{
+  "name": "coolplugz",
+  "description": "Enables autonomous Jira-to-PR workflows in Claude Code by fetching context from Jira, GitHub, Notion, and Slack, building structured prompts, and handling branch pushes, PR creation, CI polling, and task completion.",
+  "source_repo": "adaOctopus/coreflows-mcp",
+  "source_url": "https://github.com/adaOctopus/coreflows-mcp",
+  "install": "npx -y coreflows-mcp"
+}

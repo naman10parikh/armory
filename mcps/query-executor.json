@@ -1,0 +1,7 @@
+{
+  "name": "query-executor",
+  "description": "Enables AI agents to read and optionally write to PostgreSQL databases through a multi-project setup with schema inspection, query execution, and performance analysis tools.",
+  "source_repo": "Nitesh-Nandan/query-executor",
+  "source_url": "https://github.com/Nitesh-Nandan/query-executor",
+  "install": "# git clone --depth 1 https://github.com/Nitesh-Nandan/query-executor\n# See source for mcpServers config block"
+}

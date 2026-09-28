@@ -1,0 +1,7 @@
+{
+  "name": "automatizaci-n-mcp-navisworks-manage-2025",
+  "description": "MCP server to control Autodesk Navisworks Manage 2025 from Claude via natural language, enabling model inspection, property search, selection sets, and clash detection.",
+  "source_repo": "Joseadobbato13/automatizacion-mcp-navisworks",
+  "source_url": "https://github.com/Joseadobbato13/automatizacion-mcp-navisworks",
+  "install": "# git clone --depth 1 https://github.com/Joseadobbato13/automatizacion-mcp-navisworks\n# See source for mcpServers config block"
+}

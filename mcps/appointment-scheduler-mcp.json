@@ -1,0 +1,7 @@
+{
+  "name": "appointment-scheduler-mcp",
+  "description": "Exposes the Appointment Scheduler API to AI agents as an MCP server, enabling them to list users and services, check availability, book, list, and cancel appointments via natural language.",
+  "source_repo": "ProductDock/appointment-scheduler-api",
+  "source_url": "https://github.com/ProductDock/appointment-scheduler-api",
+  "install": "# git clone --depth 1 https://github.com/ProductDock/appointment-scheduler-api\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vnstock-agent",
+  "description": "MCP server providing Vietnamese stock market data including historical prices, financial statements, company info, trading data, forex, crypto, world indices, and mutual funds through 21 MCP tools and 22 CLI commands with support for stdio, SSE, and Streamable HTTP transports.",
+  "source_repo": "anhnd2102/vnstock-mcp",
+  "source_url": "https://github.com/anhnd2102/vnstock-mcp",
+  "install": "npx -y vnstock-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rag-nfl-analyst",
+  "description": "MCP server for NFL fantasy football retrieval, providing access to NFL stats and Sleeper league data through retrieval-oriented tools.",
+  "source_repo": "JustinUbes/rag-nfl-analyst",
+  "source_url": "https://github.com/JustinUbes/rag-nfl-analyst",
+  "install": "# git clone --depth 1 https://github.com/JustinUbes/rag-nfl-analyst\n# See source for mcpServers config block"
+}

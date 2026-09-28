@@ -1,0 +1,7 @@
+{
+  "name": "newsletter-growth-mcp",
+  "description": "Provides tools for newsletter growth loops, welcome sequences, subject line audits, list metric interpretation, and monetization readiness based on engagement.",
+  "source_repo": "closermethod/newsletter-growth-mcp",
+  "source_url": "https://github.com/closermethod/newsletter-growth-mcp",
+  "install": "npx -y newsletter-growth-mcp"
+}

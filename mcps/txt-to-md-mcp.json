@@ -1,0 +1,7 @@
+{
+  "name": "txt-to-md-mcp",
+  "description": "Enables writing text content to Markdown files with folder organization and overwrite control, and listing recent Markdown files.",
+  "source_repo": "ASTLY123/txt-to-md-mcp",
+  "source_url": "https://github.com/ASTLY123/txt-to-md-mcp",
+  "install": "npx -y txt-to-md-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "youtube-music-mcp-server",
+  "description": "Enables AI assistants to search YouTube Music, manage playlists, and create smart recommendations using natural language.",
+  "source_repo": "CaullenOmdahl/youtube-music-mcp-server",
+  "source_url": "https://github.com/CaullenOmdahl/youtube-music-mcp-server",
+  "install": "npx -y youtube-music-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "la-caja-mcp",
+  "description": "Enables structured debates with agent-agent-human interaction and access to persistent contextual memory (La Caja) through MCP tools.",
+  "source_repo": "deviceargent/la-caja-mcp",
+  "source_url": "https://github.com/deviceargent/la-caja-mcp",
+  "install": "npx -y la-caja-mcp"
+}

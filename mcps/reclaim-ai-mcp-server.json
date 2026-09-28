@@ -1,0 +1,7 @@
+{
+  "name": "reclaim-ai-mcp-server",
+  "description": "Enables MCP-compatible clients to manage Reclaim.ai tasks, including listing, creating, updating, completing, deleting, and timer operations through natural language.",
+  "source_repo": "johnjhughes/reclaim-mcp-server",
+  "source_url": "https://github.com/johnjhughes/reclaim-mcp-server",
+  "install": "npx -y reclaim-mcp-server"
+}

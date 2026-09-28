@@ -1,0 +1,7 @@
+{
+  "name": "estimaite-mcp-server",
+  "description": "Enables AI agents to perform construction takeoff and estimating from drawing PDFs, including upload, scale calibration, trade-based takeoff, pricing, and proposal export.",
+  "source_repo": "nickpanagios/estimaite-mcp",
+  "source_url": "https://github.com/nickpanagios/estimaite-mcp",
+  "install": "npx -y estimaite-mcp"
+}

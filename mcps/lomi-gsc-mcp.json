@@ -1,0 +1,7 @@
+{
+  "name": "lomi-gsc-mcp",
+  "description": "Enables Google Search Console data queries via MCP, including search analytics, performance comparisons, URL inspection, and sitemap management.",
+  "source_repo": "lomiafrica/gsc-mcp",
+  "source_url": "https://github.com/lomiafrica/gsc-mcp",
+  "install": "npx -y gsc-mcp"
+}

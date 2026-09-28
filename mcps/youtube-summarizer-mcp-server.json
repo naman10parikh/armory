@@ -1,0 +1,7 @@
+{
+  "name": "youtube-summarizer-mcp-server",
+  "description": "Enables AI agents to fetch, search, and summarize YouTube video transcripts via tools, resources, and prompts.",
+  "source_repo": "Vinaykumarreddy467/yt-summarizer",
+  "source_url": "https://github.com/Vinaykumarreddy467/yt-summarizer",
+  "install": "# git clone --depth 1 https://github.com/Vinaykumarreddy467/yt-summarizer\n# See source for mcpServers config block"
+}

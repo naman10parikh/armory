@@ -1,0 +1,7 @@
+{
+  "name": "mcp-relay-kit",
+  "description": "A unified MCP gateway that reduces context token usage by exposing all services through just two tools (search and execute), supporting built-in services like Asana and Sentry as well as proxied external MCP servers.",
+  "source_repo": "SGudbrandsson/mcp-relay-kit",
+  "source_url": "https://github.com/SGudbrandsson/mcp-relay-kit",
+  "install": "# git clone --depth 1 https://github.com/SGudbrandsson/mcp-relay-kit\n# See source for mcpServers config block"
+}

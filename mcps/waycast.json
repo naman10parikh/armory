@@ -1,0 +1,7 @@
+{
+  "name": "waycast",
+  "description": "Enables turning any company URL into a vertical brand film with script, voiceover, city backgrounds, and MP4 output via 7 MCP tools.",
+  "source_repo": "xcodethink/openwaycast",
+  "source_url": "https://github.com/xcodethink/openwaycast",
+  "install": "# git clone --depth 1 https://github.com/xcodethink/openwaycast\n# See source for mcpServers config block"
+}

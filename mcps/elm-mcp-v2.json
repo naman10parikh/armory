@@ -1,0 +1,7 @@
+{
+  "name": "elm-mcp-v2",
+  "description": "A federated MCP server that combines IBM's engineering-ai-hub tools with its own authoring and orchestration tools for IBM ELM, enabling AI hosts to manage requirements, models, and compliance through a single interface.",
+  "source_repo": "brettscharm/elm-mcp-v2",
+  "source_url": "https://github.com/brettscharm/elm-mcp-v2",
+  "install": "# git clone --depth 1 https://github.com/brettscharm/elm-mcp-v2\n# See source for mcpServers config block"
+}

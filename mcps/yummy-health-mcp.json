@@ -1,0 +1,7 @@
+{
+  "name": "yummy-health-mcp",
+  "description": "Private, read-only health data bridge that reads from Android Health Connect and exposes heart rate, steps, sleep, and other health metrics to ChatGPT via MCP tools.",
+  "source_repo": "yummy520730/health-connect-mcp",
+  "source_url": "https://github.com/yummy520730/health-connect-mcp",
+  "install": "npx -y health-connect-mcp"
+}

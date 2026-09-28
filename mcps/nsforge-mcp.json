@@ -1,0 +1,7 @@
+{
+  "name": "nsforge-mcp",
+  "description": "Enables creation of new mathematical formulas through symbolic derivation, verification, and step-by-step control, leveraging SymPy for computation and storing results with provenance.",
+  "source_repo": "u9401066/nsforge-mcp",
+  "source_url": "https://github.com/u9401066/nsforge-mcp",
+  "install": "npx -y nsforge-mcp"
+}

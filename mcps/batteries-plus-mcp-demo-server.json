@@ -1,0 +1,7 @@
+{
+  "name": "batteries-plus-mcp-demo-server",
+  "description": "Enables Salesforce Agentforce agents to find compatible replacement batteries, check store inventory, and create store visit summaries for battery service handoffs.",
+  "source_repo": "sinisterace/batteries-plus-mcp",
+  "source_url": "https://github.com/sinisterace/batteries-plus-mcp",
+  "install": "npx -y batteries-plus-mcp"
+}

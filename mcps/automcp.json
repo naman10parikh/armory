@@ -1,6 +1,6 @@
 {
   "name": "automcp",
-  "description": "Automcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "beaukuhn/automcp",
   "source_url": "https://mcp.so/server/automcp/beaukuhn",
   "install": "# git clone --depth 1 https://mcp.so/server/automcp/beaukuhn\n# See source for mcpServers config block"

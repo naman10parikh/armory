@@ -1,0 +1,7 @@
+{
+  "name": "rag-mcp-server-with-streamable-http",
+  "description": "Enables hybrid search (BM25 + semantic with RRF) over documentation, with Thai language support. It exposes MCP tools for adding documents and searching via Qdrant and Ollama/OpenAI, using a stateless Streamable HTTP transport.",
+  "source_repo": "aekanun2020/fixed-2026-rag-mcp-server-streamablehttp",
+  "source_url": "https://github.com/aekanun2020/fixed-2026-rag-mcp-server-streamablehttp",
+  "install": "# git clone --depth 1 https://github.com/aekanun2020/fixed-2026-rag-mcp-server-streamablehttp\n# See source for mcpServers config block"
+}

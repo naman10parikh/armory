@@ -1,0 +1,7 @@
+{
+  "name": "mcmod",
+  "description": "Enables querying game skill data and combat rules for the MCMod game mod, including listing classes, skills, and searching by crowd control effects.",
+  "source_repo": "kankrittapon/MCP-BRPG",
+  "source_url": "https://github.com/kankrittapon/MCP-BRPG",
+  "install": "# git clone --depth 1 https://github.com/kankrittapon/MCP-BRPG\n# See source for mcpServers config block"
+}

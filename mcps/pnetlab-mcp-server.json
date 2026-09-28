@@ -1,0 +1,7 @@
+{
+  "name": "pnetlab-mcp-server",
+  "description": "Enables programmatic control of a PNETLab network-emulation lab via natural language, allowing users to build topologies, wire links, push device configs, and boot the lab through an LLM agent.",
+  "source_repo": "omichelbraga/pnetlab-mcp-server",
+  "source_url": "https://github.com/omichelbraga/pnetlab-mcp-server",
+  "install": "npx -y pnetlab-mcp-server"
+}

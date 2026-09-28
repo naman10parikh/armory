@@ -1,0 +1,7 @@
+{
+  "name": "quickerspot-mcp",
+  "description": "Official Model Context Protocol (MCP) Server for QuickerSpot — AI-powered commercial radio and retail sound automation. Connect your AI Assistants (Cursor IDE, Claude Desktop, Antigravity, Hermes Agent, OpenClaw) directly to QuickerSpot's ElevenLabs V3 voice engine, AI script generator, and indoor r",
+  "source_repo": "raphaelInacio/quickerspot-mcp",
+  "source_url": "https://github.com/raphaelInacio/quickerspot-mcp",
+  "install": "npx -y quickerspot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-enterprise-connector",
+  "description": "MCP server exposing ServiceNow, Jira, and PagerDuty as unified tools for AI agents, enabling incident management, issue tracking, and on-call operations.",
+  "source_repo": "shubhamwagdarkar/mcp-enterprise-connector",
+  "source_url": "https://github.com/shubhamwagdarkar/mcp-enterprise-connector",
+  "install": "# git clone --depth 1 https://github.com/shubhamwagdarkar/mcp-enterprise-connector\n# See source for mcpServers config block"
+}

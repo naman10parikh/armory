@@ -1,0 +1,7 @@
+{
+  "name": "blog-mcp",
+  "description": "Enables creating draft posts and listing published posts on abelcastro.dev directly from Claude.",
+  "source_repo": "abel-castro/blog_mcp",
+  "source_url": "https://github.com/abel-castro/blog_mcp",
+  "install": "npx -y blog_mcp"
+}

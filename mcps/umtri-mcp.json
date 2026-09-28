@@ -1,0 +1,7 @@
+{
+  "name": "umtri-mcp",
+  "description": "MCP server for Umtri — give your AI coding agent a persistent map of your project's structure, dependencies, and bugs.",
+  "source_repo": "bepuljang/umtri-mcp",
+  "source_url": "https://github.com/bepuljang/umtri-mcp",
+  "install": "npx -y umtri-mcp"
+}

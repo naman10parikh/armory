@@ -1,0 +1,7 @@
+{
+  "name": "google-cloud-run-mcp-server-sse",
+  "description": "Enables deployment of a Model Context Protocol server with SSE transport on Google Cloud Run for integration with Antigravity.",
+  "source_repo": "dinosbakerype/google-cloud-mcp-server",
+  "source_url": "https://github.com/dinosbakerype/google-cloud-mcp-server",
+  "install": "npx -y google-cloud-mcp-server"
+}

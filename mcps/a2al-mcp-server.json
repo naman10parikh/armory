@@ -1,0 +1,7 @@
+{
+  "name": "a2al-mcp-server",
+  "description": "Enables AI agents to publish themselves, discover each other, and establish authenticated encrypted connections without central infrastructure, using a decentralized agent-to-agent networking protocol.",
+  "source_repo": "a2al/A2AL",
+  "source_url": "https://github.com/a2al/A2AL",
+  "install": "# git clone --depth 1 https://github.com/a2al/A2AL\n# See source for mcpServers config block"
+}

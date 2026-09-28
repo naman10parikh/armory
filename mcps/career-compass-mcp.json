@@ -1,0 +1,7 @@
+{
+  "name": "career-compass-mcp",
+  "description": "Turns Claude into a career co-pilot that manages resumes, cover letters, job applications, and interview prep using local YAML files.",
+  "source_repo": "benskamps/career-compass-mcp",
+  "source_url": "https://github.com/benskamps/career-compass-mcp",
+  "install": "npx -y career-compass-mcp"
+}

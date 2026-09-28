@@ -1,6 +1,6 @@
 {
   "name": "zbd-mcp-server",
-  "description": "Zbd Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "zebedeeio/zbd-mcp-server",
   "source_url": "https://mcp.so/server/zbd-mcp-server/zebedeeio",
   "install": "npx -y zbd-mcp-server"

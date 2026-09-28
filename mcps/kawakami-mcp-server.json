@@ -1,0 +1,7 @@
+{
+  "name": "kawakami-mcp-server",
+  "description": "Exposes the catalog of Supermercados Kawakami (Paraguaçu Paulista/SP) as tools for MCP clients, enabling product search, offers, cart and list management.",
+  "source_repo": "daviiferrer/kawakami-mcp-server",
+  "source_url": "https://github.com/daviiferrer/kawakami-mcp-server",
+  "install": "npx -y kawakami-mcp-server"
+}

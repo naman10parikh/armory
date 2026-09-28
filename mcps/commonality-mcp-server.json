@@ -1,0 +1,7 @@
+{
+  "name": "commonality-mcp-server",
+  "description": "MCP-native sales intelligence server enabling prospect enrichment, LinkedIn scraping, and CRM push to HubSpot/Salesforce via natural language.",
+  "source_repo": "The-Endurance-Group/commonality-mcp",
+  "source_url": "https://github.com/The-Endurance-Group/commonality-mcp",
+  "install": "npx -y commonality-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xule-mcp",
+  "description": "Provides reference and pre-flight linting for XBRL Query and Rules Language (XULE), helping LLMs write syntactically sound rules with tools for object model lookup, function catalog, filter syntax, and boilerplate snippets.",
+  "source_repo": "davidtauriello/xule-mcp",
+  "source_url": "https://github.com/davidtauriello/xule-mcp",
+  "install": "npx -y xule-mcp"
+}

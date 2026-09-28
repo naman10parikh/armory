@@ -1,0 +1,7 @@
+{
+  "name": "python-openstackmcp-server",
+  "description": "Enables AI assistants to manage OpenStack cloud resources including compute, images, identity, network, and block storage via the Model Context Protocol.",
+  "source_repo": "openstack-kr/python-openstackmcp-server",
+  "source_url": "https://github.com/openstack-kr/python-openstackmcp-server",
+  "install": "npx -y python-openstackmcp-server"
+}

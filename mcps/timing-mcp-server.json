@@ -1,0 +1,7 @@
+{
+  "name": "timing-mcp-server",
+  "description": "This MCP server enables AI assistants to interact with the Timing application for managing time tracking and tasks, including project and time entry operations.",
+  "source_repo": "tomoyanakano/timing-mcp-server",
+  "source_url": "https://github.com/tomoyanakano/timing-mcp-server",
+  "install": "npx -y timing-mcp-server"
+}

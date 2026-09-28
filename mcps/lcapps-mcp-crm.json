@@ -1,0 +1,7 @@
+{
+  "name": "lcapps-mcp-crm",
+  "description": "Connects your LCApps CRM with AI assistants like Claude, enabling querying and creation of CRM data such as clients, invoices, and expenses. Optionally allows saving PDF documents locally when used as a package.",
+  "source_repo": "lcapps-es/mcp-crm",
+  "source_url": "https://github.com/lcapps-es/mcp-crm",
+  "install": "# git clone --depth 1 https://github.com/lcapps-es/mcp-crm\n# See source for mcpServers config block"
+}

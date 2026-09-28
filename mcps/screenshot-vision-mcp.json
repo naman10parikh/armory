@@ -1,0 +1,7 @@
+{
+  "name": "screenshot-vision-mcp",
+  "description": "An MCP server that captures screenshots of URLs or local app windows and analyzes them with a local Ollama vision model, enabling Claude to visually inspect web pages and desktop applications without sending image data externally.",
+  "source_repo": "AVS845/screenshot-vision-mcp",
+  "source_url": "https://github.com/AVS845/screenshot-vision-mcp",
+  "install": "npx -y screenshot-vision-mcp"
+}

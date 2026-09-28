@@ -1,0 +1,7 @@
+{
+  "name": "pref-sc-balneario-cnd",
+  "description": "MCP server that enables querying negative debt certificates (Certidão Negativa de Débitos) from the Balneário Camboriú city government in Brazil, providing read-only access to official records through a single tool.",
+  "source_repo": "mcp-dir/pref_sc_balneario_cnd-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_sc_balneario_cnd-mcp",
+  "install": "npx -y pref_sc_balneario_cnd-mcp"
+}

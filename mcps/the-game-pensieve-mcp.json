@@ -1,0 +1,7 @@
+{
+  "name": "the-game-pensieve-mcp",
+  "description": "Read-only MCP server that proxies The Game Pensieve API over Streamable HTTP, letting AI assistants query a personal game collection via tools like search, filters, and summaries. Supports OAuth 2.1 enforcement and owner-scoped access.",
+  "source_repo": "sethhaskellcondie/the-game-pensieve-mcp",
+  "source_url": "https://github.com/sethhaskellcondie/the-game-pensieve-mcp",
+  "install": "npx -y the-game-pensieve-mcp"
+}

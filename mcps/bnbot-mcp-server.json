@@ -1,0 +1,7 @@
+{
+  "name": "bnbot-mcp-server",
+  "description": "MCP server for BNBOT Chrome Extension to control Twitter/X via AI assistants like OpenClaw or Claude Desktop.",
+  "source_repo": "jackleeio/bnbot-mcp-server",
+  "source_url": "https://github.com/jackleeio/bnbot-mcp-server",
+  "install": "npx -y bnbot-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codex-microsoft-todo-mcp",
+  "description": "A local MCP server that lets Codex and other MCP clients manage Microsoft To Do tasks through Microsoft Graph, supporting listing, creating, updating, and completing tasks.",
+  "source_repo": "CyanRange/codex-microsoft-todo-mcp",
+  "source_url": "https://github.com/CyanRange/codex-microsoft-todo-mcp",
+  "install": "npx -y codex-microsoft-todo-mcp"
+}

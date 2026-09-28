@@ -1,0 +1,7 @@
+{
+  "name": "browserpilot-mcp",
+  "description": "A local browser automation bridge that connects AI agents like Claude to Chromium-based browsers, enabling web navigation, clicking, input, screenshots, and tab management.",
+  "source_repo": "Sept-7-Qi/BrowserPilot-MCP",
+  "source_url": "https://github.com/Sept-7-Qi/BrowserPilot-MCP",
+  "install": "npx -y BrowserPilot-MCP"
+}

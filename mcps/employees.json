@@ -1,0 +1,7 @@
+{
+  "name": "employees",
+  "description": "A sample employee database exposed as an MCP server, enabling AI agents to search employees and query organizational structure.",
+  "source_repo": "si30rowj2/mcp-server-employees",
+  "source_url": "https://github.com/si30rowj2/mcp-server-employees",
+  "install": "# git clone --depth 1 https://github.com/si30rowj2/mcp-server-employees\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "my-portfolio-mcp",
+  "description": "A FastMCP server packaged for easy installation into Dataiku code environments, enabling the addition and execution of MCP tools.",
+  "source_repo": "doug-harrison/my-portfolio-mcp",
+  "source_url": "https://github.com/doug-harrison/my-portfolio-mcp",
+  "install": "npx -y my-portfolio-mcp"
+}

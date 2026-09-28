@@ -1,0 +1,7 @@
+{
+  "name": "simple-index-mcp",
+  "description": "A Python MCP server for indexing projects using embeddings, providing semantic search to help AI agents navigate codebases.",
+  "source_repo": "asyncDefi/simple-index-mcp",
+  "source_url": "https://github.com/asyncDefi/simple-index-mcp",
+  "install": "npx -y simple-index-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "glean-chatbot",
+  "description": "Enables querying internal documents indexed in Glean through a natural-language chat interface, returning answers with cited sources.",
+  "source_repo": "tonyromero-ai/glean-chatbot",
+  "source_url": "https://github.com/tonyromero-ai/glean-chatbot",
+  "install": "# git clone --depth 1 https://github.com/tonyromero-ai/glean-chatbot\n# See source for mcpServers config block"
+}

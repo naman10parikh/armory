@@ -1,0 +1,7 @@
+{
+  "name": "advocu-mcp-server",
+  "description": "Enables Google Developer Experts, Docker Captains, and Microsoft MVPs to submit professional activity reports via conversational AI, with support for multiple programs and rate-limited API access.",
+  "source_repo": "falconcr/advocu-mcp-server",
+  "source_url": "https://github.com/falconcr/advocu-mcp-server",
+  "install": "npx -y advocu-mcp-server"
+}

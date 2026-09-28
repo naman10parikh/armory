@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-playground-2",
+  "description": "An MCP server that demonstrates the Model Context Protocol using a mock SQLite database of an online store, offering tools for product search, sales analysis, and reviews, along with resources and prompts for learning MCP integration.",
+  "source_repo": "etak64n/mcp-server-playground",
+  "source_url": "https://github.com/etak64n/mcp-server-playground",
+  "install": "# git clone --depth 1 https://github.com/etak64n/mcp-server-playground\n# See source for mcpServers config block"
+}

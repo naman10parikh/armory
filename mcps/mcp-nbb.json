@@ -1,0 +1,7 @@
+{
+  "name": "mcp-nbb",
+  "description": "Enables discovery and retrieval of National Bank of Belgium statistical data across 221 SDMX dataflows, with search, descriptions, custom queries, and comparisons of economic indicators.",
+  "source_repo": "lacausecrypto/mcp-nbb",
+  "source_url": "https://github.com/lacausecrypto/mcp-nbb",
+  "install": "# git clone --depth 1 https://github.com/lacausecrypto/mcp-nbb\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-sharepoint",
+  "description": "MCP server that enables AI agents to read, edit, and manage SharePoint documents with proper checkout, check-in, version history, and audit trails.",
+  "source_repo": "XMV-Solutions-GmbH/sharepoint-mcp",
+  "source_url": "https://github.com/XMV-Solutions-GmbH/sharepoint-mcp",
+  "install": "npx -y sharepoint-mcp"
+}

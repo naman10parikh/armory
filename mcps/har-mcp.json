@@ -1,0 +1,7 @@
+{
+  "name": "har-mcp",
+  "description": "Captures website HAR data via headless Chromium and provides 20 tools for performance/security auditing, API reverse engineering, and code generation.",
+  "source_repo": "ankurkumar3012/har-mcp",
+  "source_url": "https://github.com/ankurkumar3012/har-mcp",
+  "install": "npx -y har-mcp"
+}

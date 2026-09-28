@@ -1,0 +1,7 @@
+{
+  "name": "secureagentserver",
+  "description": "Enables secure support-ticket and customer-account operations with signed JWT authentication, prompt-injection and tool-poisoning guardrails, and human-in-the-loop confirmation for destructive actions.",
+  "source_repo": "bhargavlukka/secure-mcp-agent",
+  "source_url": "https://github.com/bhargavlukka/secure-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/bhargavlukka/secure-mcp-agent\n# See source for mcpServers config block"
+}

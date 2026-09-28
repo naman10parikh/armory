@@ -1,0 +1,7 @@
+{
+  "name": "learnflow-ai",
+  "description": "AI-powered MCP server that transforms learning by finding best YouTube tutorials, generating personalized learning paths, and tracking progress for any tech skill.",
+  "source_repo": "Shalin-Shah-2002/Yt-MCP",
+  "source_url": "https://github.com/Shalin-Shah-2002/Yt-MCP",
+  "install": "npx -y Yt-MCP"
+}

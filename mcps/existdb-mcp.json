@@ -1,0 +1,7 @@
+{
+  "name": "existdb-mcp",
+  "description": "MCP server that connects Claude to eXist-db, enabling XQuery execution, offline documentation lookup, and collection management for digital humanities projects using TEI/XML.",
+  "source_repo": "orazionelson/existdb-mcp",
+  "source_url": "https://github.com/orazionelson/existdb-mcp",
+  "install": "npx -y existdb-mcp"
+}

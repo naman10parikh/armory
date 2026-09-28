@@ -1,0 +1,7 @@
+{
+  "name": "forcekit-mcp-server",
+  "description": "Exposes Salesforce development tools (scan, lint, test, deploy, verify) to AI assistants via the Model Context Protocol, enabling programmatic interaction with Salesforce projects.",
+  "source_repo": "rvaghela20/Forcekit",
+  "source_url": "https://github.com/rvaghela20/Forcekit",
+  "install": "# git clone --depth 1 https://github.com/rvaghela20/Forcekit\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "google-search-mcp-server-2",
+  "description": "Provides real-time Google search capabilities to AI assistants like Claude, bypassing anti-scraping mechanisms.",
+  "source_repo": "web-agent-master/google-search",
+  "source_url": "https://github.com/web-agent-master/google-search",
+  "install": "# git clone --depth 1 https://github.com/web-agent-master/google-search\n# See source for mcpServers config block"
+}

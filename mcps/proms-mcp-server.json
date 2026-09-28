@@ -1,0 +1,7 @@
+{
+  "name": "proms-mcp-server",
+  "description": "A lean MCP server that provides LLM agents with transparent access to multiple Prometheus instances for metrics analysis and SRE operations.",
+  "source_repo": "app-sre/proms-mcp",
+  "source_url": "https://github.com/app-sre/proms-mcp",
+  "install": "npx -y proms-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "escape-room-hub",
+  "description": "This MCP server enables querying normalized escape room information and reservation availability via stdio or Streamable HTTP transports. It is a policy-driven scaffold that currently uses synthetic data only and does not perform real web crawling.",
+  "source_repo": "y00nZZang/escape-room-hub",
+  "source_url": "https://github.com/y00nZZang/escape-room-hub",
+  "install": "# git clone --depth 1 https://github.com/y00nZZang/escape-room-hub\n# See source for mcpServers config block"
+}

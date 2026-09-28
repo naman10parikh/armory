@@ -1,0 +1,7 @@
+{
+  "name": "content-validity-index-mcp",
+  "description": "Enables AI clients to browse instruments, items, dimensions, expert assignments, and calculate Content Validity Index (CVI) via a standard MCP interface.",
+  "source_repo": "cakrawala-tumbuh/content-validity-index-mcp",
+  "source_url": "https://github.com/cakrawala-tumbuh/content-validity-index-mcp",
+  "install": "npx -y content-validity-index-mcp"
+}

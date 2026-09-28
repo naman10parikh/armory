@@ -1,0 +1,7 @@
+{
+  "name": "preflight-mcp",
+  "description": "Enables pilots to assemble a preflight briefing per 14 CFR §91.103 by fetching weather, airport info, aircraft performance, fuel estimates, alternates, and NOTAMs.",
+  "source_repo": "eddiehale3/preflight-mcp",
+  "source_url": "https://github.com/eddiehale3/preflight-mcp",
+  "install": "npx -y preflight-mcp"
+}

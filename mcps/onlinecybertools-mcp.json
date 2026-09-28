@@ -1,0 +1,7 @@
+{
+  "name": "onlinecybertools-mcp",
+  "description": "MCP server that lets AI agents use the Online Cyber Tools catalogue as a set of native MCP tools.",
+  "source_repo": "Jambozx/onlinecybertools-mcp-server",
+  "source_url": "https://github.com/Jambozx/onlinecybertools-mcp-server",
+  "install": "npx -y onlinecybertools-mcp-server"
+}

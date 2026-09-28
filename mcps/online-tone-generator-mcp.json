@@ -1,0 +1,7 @@
+{
+  "name": "online-tone-generator-mcp",
+  "description": "An official MCP server for Online Tone Generator. Discover audio frequencies for instrument tuning, acoustic testing, meditation, and generate direct listening links.",
+  "source_repo": "double2dev/online-tone-generator-mcp",
+  "source_url": "https://github.com/double2dev/online-tone-generator-mcp",
+  "install": "npx -y online-tone-generator-mcp"
+}

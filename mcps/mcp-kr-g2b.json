@@ -1,0 +1,7 @@
+{
+  "name": "mcp-kr-g2b",
+  "description": "Enables AI assistants to query and analyze Korean public procurement data from the Korea Public Procurement Service (G2B/Nuri) via 14 services and 156 operations, including bid announcements, contracts, prices, and statistics.",
+  "source_repo": "ChangooLee/mcp-kr-g2b",
+  "source_url": "https://github.com/ChangooLee/mcp-kr-g2b",
+  "install": "# git clone --depth 1 https://github.com/ChangooLee/mcp-kr-g2b\n# See source for mcpServers config block"
+}

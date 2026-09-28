@@ -1,0 +1,7 @@
+{
+  "name": "quickbooks-online-mcp",
+  "description": "Enables reading and creating invoices, and looking up customers and items in QuickBooks Online via natural language.",
+  "source_repo": "AshciR/quickbooks-online-mcp",
+  "source_url": "https://github.com/AshciR/quickbooks-online-mcp",
+  "install": "npx -y quickbooks-online-mcp"
+}

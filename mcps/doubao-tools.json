@@ -1,0 +1,7 @@
+{
+  "name": "doubao-tools",
+  "description": "一个MCP视觉分析工具，将本地图片交给豆包视觉模型分析，帮助Claude Code和DeepSeek理解截图内容。",
+  "source_repo": "amazing1102/doubao-tools-MCP",
+  "source_url": "https://github.com/amazing1102/doubao-tools-MCP",
+  "install": "npx -y doubao-tools-MCP"
+}

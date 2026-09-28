@@ -1,0 +1,7 @@
+{
+  "name": "german-law-mcp",
+  "description": "Provides LLM-friendly access to German federal legislation via the NeuRIS API, enabling tool-based retrieval of laws, norms, and statutory text.",
+  "source_repo": "JustiziusAI/german-law-mcp",
+  "source_url": "https://github.com/JustiziusAI/german-law-mcp",
+  "install": "npx -y german-law-mcp"
+}

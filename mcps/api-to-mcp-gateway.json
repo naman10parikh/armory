@@ -1,0 +1,7 @@
+{
+  "name": "api-to-mcp-gateway",
+  "description": "Acts as a bridge between standard REST/OpenAPI web APIs and the Model Context Protocol, dynamically converting REST endpoints into MCP tools for LLM clients like Cursor, Claude Desktop, and n8n.",
+  "source_repo": "volkan-m/api-to-mcp-gateway",
+  "source_url": "https://github.com/volkan-m/api-to-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/volkan-m/api-to-mcp-gateway\n# See source for mcpServers config block"
+}

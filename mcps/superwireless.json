@@ -1,0 +1,7 @@
+{
+  "name": "superwireless",
+  "description": "Enables AI agents to validate wireless communication ideas by providing standardized channel instances and physical measurements through MCP, eliminating the need to write simulations from scratch.",
+  "source_repo": "TianLin0509/superwireless",
+  "source_url": "https://github.com/TianLin0509/superwireless",
+  "install": "# git clone --depth 1 https://github.com/TianLin0509/superwireless\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nahuali",
+  "description": "Local-first memory for AI agents with evidence-backed recall, deterministic trust verdicts, self-inspection, and a tamper-evident audit history.",
+  "source_repo": "Arakiss/nahuali",
+  "source_url": "https://github.com/Arakiss/nahuali",
+  "install": "# git clone --depth 1 https://github.com/Arakiss/nahuali\n# See source for mcpServers config block"
+}

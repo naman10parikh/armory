@@ -1,0 +1,7 @@
+{
+  "name": "gitequity-mcp",
+  "description": "MCP server that exposes your GitEquity portfolio to AI clients, enabling balance queries, stock prices, and trade proposals confirmed via GitHub comments.",
+  "source_repo": "gitequityorg/gitequity-mcp",
+  "source_url": "https://github.com/gitequityorg/gitequity-mcp",
+  "install": "npx -y gitequity-mcp"
+}

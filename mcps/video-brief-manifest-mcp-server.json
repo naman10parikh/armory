@@ -1,0 +1,7 @@
+{
+  "name": "video-brief-manifest-mcp-server",
+  "description": "Validates structured AI video briefs for subject, motion, camera, visual-detail, and audio-direction signals, then builds a portable preflight manifest. Runs locally over stdio and does not call any generation backend.",
+  "source_repo": "FosterMartyn735/video-brief-manifest-mcp",
+  "source_url": "https://github.com/FosterMartyn735/video-brief-manifest-mcp",
+  "install": "npx -y video-brief-manifest-mcp"
+}

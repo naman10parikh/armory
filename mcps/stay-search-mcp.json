@@ -1,0 +1,7 @@
+{
+  "name": "stay-search-mcp",
+  "description": "Enables searching and comparing Airbnb (Korea) and Yanolja accommodation prices, with tools for price distribution, historical trends, and snapshot management, storing collected data in SQLite.",
+  "source_repo": "gaebalai/stay-search-mcp",
+  "source_url": "https://github.com/gaebalai/stay-search-mcp",
+  "install": "npx -y stay-search-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "herdr-mcp",
+  "description": "Enables AI assistants to orchestrate Herdr coding agents by wrapping its Unix-socket JSON-RPC API, providing tools for agent management, layout editing, and terminal interaction.",
+  "source_repo": "islam3zzat/herdr-mcp",
+  "source_url": "https://github.com/islam3zzat/herdr-mcp",
+  "install": "npx -y herdr-mcp"
+}

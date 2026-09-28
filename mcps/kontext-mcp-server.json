@@ -1,0 +1,7 @@
+{
+  "name": "kontext-mcp-server",
+  "description": "Portable, provider-agnostic memory for AI agents using Azure Data Explorer (Kusto) with temporal and semantic scoring.",
+  "source_repo": "danield137/kontext-mcp",
+  "source_url": "https://github.com/danield137/kontext-mcp",
+  "install": "npx -y kontext-mcp"
+}

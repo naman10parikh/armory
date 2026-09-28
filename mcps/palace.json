@@ -1,0 +1,7 @@
+{
+  "name": "palace",
+  "description": "A local-first memory retrieval engine for coding agents that stores project and conversation memory and retrieves source-grounded context through MCP.",
+  "source_repo": "AncientiCe/palace-rs",
+  "source_url": "https://github.com/AncientiCe/palace-rs",
+  "install": "# git clone --depth 1 https://github.com/AncientiCe/palace-rs\n# See source for mcpServers config block"
+}

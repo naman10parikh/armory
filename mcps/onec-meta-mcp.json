@@ -1,0 +1,7 @@
+{
+  "name": "onec-meta-mcp",
+  "description": "MCP server for searching and analyzing 1C enterprise metadata and BSL code using a SQLite backend. Enables querying configuration structure, code routines, and performing compliance checks via natural language.",
+  "source_repo": "gsbelarus/1c-meta-mcp",
+  "source_url": "https://github.com/gsbelarus/1c-meta-mcp",
+  "install": "npx -y 1c-meta-mcp"
+}

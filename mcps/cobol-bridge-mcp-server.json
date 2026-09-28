@@ -1,0 +1,7 @@
+{
+  "name": "cobol-bridge-mcp-server",
+  "description": "Connects legacy COBOL mainframe systems to modern AI governance via MCP, with tools for parsing copybooks, assessing CICS, scanning JCL, mapping VSAM, and translating EBCDIC.",
+  "source_repo": "CSOAI-ORG/cobol-bridge-substrate",
+  "source_url": "https://github.com/CSOAI-ORG/cobol-bridge-substrate",
+  "install": "# git clone --depth 1 https://github.com/CSOAI-ORG/cobol-bridge-substrate\n# See source for mcpServers config block"
+}

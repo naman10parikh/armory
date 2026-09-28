@@ -1,0 +1,7 @@
+{
+  "name": "mapmyindia-mappls-mcp-server",
+  "description": "Enables AI assistants to query geographic data, perform geocoding, get directions, calculate distance matrices, discover POIs, and look up place details across India using MapmyIndia (Mappls) REST APIs.",
+  "source_repo": "Bhupendrajee07/MMI-MCP",
+  "source_url": "https://github.com/Bhupendrajee07/MMI-MCP",
+  "install": "npx -y MMI-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zme-mcp",
+  "description": "Provides access to Zeug's memory engine with hybrid search, knowledge graph queries, and note-taking. Enables MCP clients like Claude and ChatGPT to search, retrieve, and store knowledge from research notes and transcripts.",
+  "source_repo": "Sidarau/zme-mcp",
+  "source_url": "https://github.com/Sidarau/zme-mcp",
+  "install": "npx -y zme-mcp"
+}

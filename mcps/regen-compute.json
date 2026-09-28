@@ -1,0 +1,7 @@
+{
+  "name": "regen-compute",
+  "description": "Enables AI coding assistants to estimate session energy footprint and retire verified ecocredits on Regen Network, providing on-chain proof of regenerative contribution.",
+  "source_repo": "regen-network/regen-compute",
+  "source_url": "https://github.com/regen-network/regen-compute",
+  "install": "# git clone --depth 1 https://github.com/regen-network/regen-compute\n# See source for mcpServers config block"
+}

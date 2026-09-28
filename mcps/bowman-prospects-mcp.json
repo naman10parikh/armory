@@ -1,0 +1,7 @@
+{
+  "name": "bowman-prospects-mcp",
+  "description": "Classifies Bowman Prospects baseball cards using image recognition, provides player statistics and market pricing data to determine card value.",
+  "source_repo": "kayoMichael/bowman-prospects-mcp",
+  "source_url": "https://github.com/kayoMichael/bowman-prospects-mcp",
+  "install": "npx -y bowman-prospects-mcp"
+}

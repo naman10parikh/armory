@@ -1,0 +1,7 @@
+{
+  "name": "liquidation-oracle",
+  "description": "Enables AI agents to check DeFi liquidation risk levels for lending protocols like Aave, Compound, and Morpho, including at-risk positions, liquidation prices, current prices, and aggregate exposure. Access is pay-per-call via x402 micropayments with USDC on Base, requiring no API key or signup.",
+  "source_repo": "Br0ski777/liquidation-oracle-x402",
+  "source_url": "https://github.com/Br0ski777/liquidation-oracle-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/liquidation-oracle-x402\n# See source for mcpServers config block"
+}

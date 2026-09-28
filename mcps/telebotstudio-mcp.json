@@ -1,0 +1,7 @@
+{
+  "name": "telebotstudio-mcp",
+  "description": "Enables AI assistants to search and retrieve official TeleBot Studio documentation via BM25, eliminating hallucinations by grounding responses in verified markdown files.",
+  "source_repo": "harshi79/telebotstudio-mcp",
+  "source_url": "https://github.com/harshi79/telebotstudio-mcp",
+  "install": "npx -y telebotstudio-mcp"
+}

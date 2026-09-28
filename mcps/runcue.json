@@ -1,0 +1,7 @@
+{
+  "name": "runcue",
+  "description": "RunCue MCP enables coding agents to navigate, inspect, and verify iOS app UI using natural language tasks via WebDriverAgent. It provides tools for running UI flows, checking UI state, listing devices, and diagnosing WDA setup.",
+  "source_repo": "lihei12345/RunCue",
+  "source_url": "https://github.com/lihei12345/RunCue",
+  "install": "# git clone --depth 1 https://github.com/lihei12345/RunCue\n# See source for mcpServers config block"
+}

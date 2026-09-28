@@ -1,0 +1,7 @@
+{
+  "name": "docker-forge-mcp",
+  "description": "Generates, audits, and tunes Docker Compose stacks inside Claude Code.",
+  "source_repo": "fredericsuretat/docker-forge-mcp",
+  "source_url": "https://github.com/fredericsuretat/docker-forge-mcp",
+  "install": "npx -y docker-forge-mcp"
+}

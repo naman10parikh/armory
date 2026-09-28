@@ -1,0 +1,7 @@
+{
+  "name": "kali-tools-mcp",
+  "description": "Exposes a hardened Docker container with Kali Linux security tools (nmap, sqlmap, dig, whois, etc.) as MCP tools, enabling network reconnaissance, web analysis, and vulnerability scanning through natural language commands.",
+  "source_repo": "M-Samuel/kali-local-agent",
+  "source_url": "https://github.com/M-Samuel/kali-local-agent",
+  "install": "# git clone --depth 1 https://github.com/M-Samuel/kali-local-agent\n# See source for mcpServers config block"
+}

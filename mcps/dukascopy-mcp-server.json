@@ -1,0 +1,7 @@
+{
+  "name": "dukascopy-mcp-server",
+  "description": "Provides access to Dukascopy's free historical tick and 1-minute OHLC data for FX and CFD, with a calibration pipeline to simulate broker-specific tick characteristics.",
+  "source_repo": "katunet/Dukascopy_mcp_server",
+  "source_url": "https://github.com/katunet/Dukascopy_mcp_server",
+  "install": "npx -y Dukascopy_mcp_server"
+}

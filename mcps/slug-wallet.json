@@ -1,0 +1,7 @@
+{
+  "name": "slug-wallet",
+  "description": "MCP server that gives terminal AI agents a guarded USDC wallet with firewall, automatic 402 payment handling, and budget limits.",
+  "source_repo": "tyrion777-stack/slug-wallet",
+  "source_url": "https://github.com/tyrion777-stack/slug-wallet",
+  "install": "# git clone --depth 1 https://github.com/tyrion777-stack/slug-wallet\n# See source for mcpServers config block"
+}

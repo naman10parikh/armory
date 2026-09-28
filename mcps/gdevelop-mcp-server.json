@@ -1,0 +1,7 @@
+{
+  "name": "gdevelop-mcp-server",
+  "description": "Provides a local control plane for GDevelop game projects, enabling Codex to open projects, build previews, and serve them over HTTP for debugging.",
+  "source_repo": "982945902/gdevelop-mcp-server",
+  "source_url": "https://github.com/982945902/gdevelop-mcp-server",
+  "install": "npx -y gdevelop-mcp-server"
+}

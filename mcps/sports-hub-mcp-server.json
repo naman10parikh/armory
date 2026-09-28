@@ -1,0 +1,7 @@
+{
+  "name": "sports-hub-mcp-server",
+  "description": "A unified MCP server that aggregates 32 sports API providers into a single service, providing 336 tools for scores, stats, odds, esports, and more across 70+ sports.",
+  "source_repo": "lacausecrypto/mcp-sports-hub",
+  "source_url": "https://github.com/lacausecrypto/mcp-sports-hub",
+  "install": "# git clone --depth 1 https://github.com/lacausecrypto/mcp-sports-hub\n# See source for mcpServers config block"
+}

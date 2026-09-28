@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-jobs-mcp-server",
+  "description": "Enables AI agents to search and analyze LinkedIn jobs with advanced filters, salary requirements, and market insights through natural language.",
+  "source_repo": "shahidirfan100/LinkedIn-Jobs-MCP-Server",
+  "source_url": "https://github.com/shahidirfan100/LinkedIn-Jobs-MCP-Server",
+  "install": "npx -y LinkedIn-Jobs-MCP-Server"
+}

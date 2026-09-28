@@ -1,0 +1,7 @@
+{
+  "name": "mcptest",
+  "description": "An MCP server that provides AI agents with database tools for querying customer profiles and financial audit data, featuring semantic caching and automatic cache invalidation via webhooks to optimize performance and token usage.",
+  "source_repo": "ndodth/MCPTest",
+  "source_url": "https://github.com/ndodth/MCPTest",
+  "install": "# git clone --depth 1 https://github.com/ndodth/MCPTest\n# See source for mcpServers config block"
+}

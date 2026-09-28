@@ -1,0 +1,7 @@
+{
+  "name": "a11y-toolkit",
+  "description": "Enables AI agents to perform WCAG 2.2 accessibility audits, including contrast ratio checks for color pairs and text-over-image, generate EU legal accessibility declarations, and produce aria-live monitoring snippets, all through local, multilingual tools.",
+  "source_repo": "kinti/a11y-toolkit",
+  "source_url": "https://github.com/kinti/a11y-toolkit",
+  "install": "# git clone --depth 1 https://github.com/kinti/a11y-toolkit\n# See source for mcpServers config block"
+}

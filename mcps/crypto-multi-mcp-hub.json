@@ -1,0 +1,7 @@
+{
+  "name": "crypto-multi-mcp-hub",
+  "description": "AI-driven command center for local crypto operations, integrating over a dozen MCPs for real-time market data, technical analysis, on-chain data, and autonomous trading agent execution.",
+  "source_repo": "PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB",
+  "source_url": "https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB",
+  "install": "# git clone --depth 1 https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB\n# See source for mcpServers config block"
+}

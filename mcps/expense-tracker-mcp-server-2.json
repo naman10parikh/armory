@@ -1,0 +1,7 @@
+{
+  "name": "expense-tracker-mcp-server-2",
+  "description": "Enables users to add, list, and summarize expenses, and exposes expense categories as a resource.",
+  "source_repo": "NeelContractor/expense-tracker-mcp-server",
+  "source_url": "https://github.com/NeelContractor/expense-tracker-mcp-server",
+  "install": "npx -y expense-tracker-mcp-server"
+}

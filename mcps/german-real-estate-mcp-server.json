@@ -1,0 +1,7 @@
+{
+  "name": "german-real-estate-mcp-server",
+  "description": "Enables AI agents to search for German property listings (rent/buy) on immowelt.de with structured JSON output, no API key required.",
+  "source_repo": "benthepythondev00/german-realestate-mcp",
+  "source_url": "https://github.com/benthepythondev00/german-realestate-mcp",
+  "install": "npx -y german-realestate-mcp"
+}

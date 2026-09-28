@@ -1,0 +1,7 @@
+{
+  "name": "hetzner-mcp-connection",
+  "description": "Enables AI agents like Mistral Work to manage Hetzner Cloud VPS services in natural Spanish, including creating, modifying, and deleting servers, networks, firewalls, and storage, as well as automating complex tasks.",
+  "source_repo": "AI-Foundry-Col/hetzner-mcp-connection",
+  "source_url": "https://github.com/AI-Foundry-Col/hetzner-mcp-connection",
+  "install": "# git clone --depth 1 https://github.com/AI-Foundry-Col/hetzner-mcp-connection\n# See source for mcpServers config block"
+}

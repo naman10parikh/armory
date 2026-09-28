@@ -1,0 +1,7 @@
+{
+  "name": "setu-sarvam-mcp-server",
+  "description": "Exposes Sarvam AI's speech, translation, chat, and document APIs as typed MCP tools for any MCP-capable agent.",
+  "source_repo": "manasasb2000/setu-mcp",
+  "source_url": "https://github.com/manasasb2000/setu-mcp",
+  "install": "npx -y setu-mcp"
+}

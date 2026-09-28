@@ -1,0 +1,7 @@
+{
+  "name": "minia2a-mcp",
+  "description": "Enables AI agents to discover, call, and pay for 170+ x402 micropayment services via the minia2a marketplace, with automatic USDC payments and no API keys or subscriptions.",
+  "source_repo": "minia2a/minia2a-mcp",
+  "source_url": "https://github.com/minia2a/minia2a-mcp",
+  "install": "npx -y minia2a-mcp"
+}

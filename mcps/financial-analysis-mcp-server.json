@@ -1,0 +1,7 @@
+{
+  "name": "financial-analysis-mcp-server",
+  "description": "An MCP server for financial analysis that provides real-time and historical stock prices via Alpha Vantage and company fundamentals via Financial Modeling Prep.",
+  "source_repo": "kablewy/financial-analysis-mcp-server",
+  "source_url": "https://github.com/kablewy/financial-analysis-mcp-server",
+  "install": "npx -y financial-analysis-mcp-server"
+}

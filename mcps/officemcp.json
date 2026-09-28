@@ -1,0 +1,7 @@
+{
+  "name": "officemcp",
+  "description": "Remote MCP server for Microsoft Graph with delegated OAuth support, enabling interaction with Microsoft 365 services like mail, calendar, OneDrive, SharePoint, Teams, and more via natural language.",
+  "source_repo": "aKardasz/OfficeMCP",
+  "source_url": "https://github.com/aKardasz/OfficeMCP",
+  "install": "# git clone --depth 1 https://github.com/aKardasz/OfficeMCP\n# See source for mcpServers config block"
+}

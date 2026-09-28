@@ -1,0 +1,7 @@
+{
+  "name": "sparxiv-mcp-server",
+  "description": "Enables management of local arXiv paper collections through MCP, supporting listing collections, reading them, searching saved papers, and saving new papers from arXiv by ID.",
+  "source_repo": "jacksoswag/SparXiv",
+  "source_url": "https://github.com/jacksoswag/SparXiv",
+  "install": "# git clone --depth 1 https://github.com/jacksoswag/SparXiv\n# See source for mcpServers config block"
+}

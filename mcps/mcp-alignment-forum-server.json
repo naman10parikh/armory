@@ -1,0 +1,7 @@
+{
+  "name": "mcp-alignment-forum-server",
+  "description": "Enables semantic search and retrieval of AI alignment articles from Alignment Forum and LessWrong, allowing users to explore research and discover unknown unknowns through natural language queries.",
+  "source_repo": "rapturt9/mcp-alignmentforum",
+  "source_url": "https://github.com/rapturt9/mcp-alignmentforum",
+  "install": "# git clone --depth 1 https://github.com/rapturt9/mcp-alignmentforum\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-compressor",
+  "description": "A proxy that intercepts MCP responses to reduce token consumption by compressing them via a pipeline and exposing only two meta-tools to the LLM.",
+  "source_repo": "zakkii-k/mcp-compressor",
+  "source_url": "https://github.com/zakkii-k/mcp-compressor",
+  "install": "# git clone --depth 1 https://github.com/zakkii-k/mcp-compressor\n# See source for mcpServers config block"
+}

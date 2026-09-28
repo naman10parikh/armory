@@ -1,0 +1,7 @@
+{
+  "name": "ollama-websearch-mcp",
+  "description": "Enables performing web searches and fetching web page content via Ollama's hosted APIs, providing search results and raw page data.",
+  "source_repo": "akopper/ollama-websearch-mcp",
+  "source_url": "https://github.com/akopper/ollama-websearch-mcp",
+  "install": "npx -y ollama-websearch-mcp"
+}

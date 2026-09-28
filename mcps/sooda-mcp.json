@@ -1,0 +1,7 @@
+{
+  "name": "sooda-mcp",
+  "description": "Enables AI agents to communicate with business agents across company boundaries using Google's A2A protocol, with tools for discovery, messaging, and connection management.",
+  "source_repo": "sooda-ai/sooda-mcp",
+  "source_url": "https://github.com/sooda-ai/sooda-mcp",
+  "install": "npx -y sooda-mcp"
+}

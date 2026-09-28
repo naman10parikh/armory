@@ -1,0 +1,7 @@
+{
+  "name": "odoo-osi-mcp",
+  "description": "Enables coding agents to search, inspect, and recommend open-source Odoo/OCA modules before writing custom code, with source-backed evidence and version/migration guidance.",
+  "source_repo": "krishnakantjoshi/odoo-osi-mcp",
+  "source_url": "https://github.com/krishnakantjoshi/odoo-osi-mcp",
+  "install": "npx -y odoo-osi-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "racehooks-mcp",
+  "description": "MCP server that gives AI assistants direct access to RaceHooks motorsport analytics and data, enabling management of webhooks, live sessions, simulations, and account usage.",
+  "source_repo": "racehooks/racehooks-mcp",
+  "source_url": "https://github.com/racehooks/racehooks-mcp",
+  "install": "npx -y racehooks-mcp"
+}

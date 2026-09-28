@@ -1,0 +1,7 @@
+{
+  "name": "fletcher-agent",
+  "description": "Connects AI clients to a live autonomous Solana trading agent on Pump.fun, providing live signals, agent status, and trade history.",
+  "source_repo": "FletcherAgent/Fletcher-MCP",
+  "source_url": "https://github.com/FletcherAgent/Fletcher-MCP",
+  "install": "npx -y Fletcher-MCP"
+}

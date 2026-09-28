@@ -1,0 +1,7 @@
+{
+  "name": "recallmcp",
+  "description": "Provides persistent semantic memory for AI agents via MCP, enabling them to remember, recall, list, update, and forget memories with vector-based similarity search.",
+  "source_repo": "omniologynow-rgb/recall-mcp",
+  "source_url": "https://github.com/omniologynow-rgb/recall-mcp",
+  "install": "npx -y recall-mcp"
+}

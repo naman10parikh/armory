@@ -1,0 +1,7 @@
+{
+  "name": "matrixscroll",
+  "description": "A trust-first repository copilot to audit signed commit provenance, preview editor configuration safety, and manage Git hook rollouts.",
+  "source_repo": "SSX360/matrixscroll",
+  "source_url": "https://github.com/SSX360/matrixscroll",
+  "install": "# git clone --depth 1 https://github.com/SSX360/matrixscroll\n# See source for mcpServers config block"
+}

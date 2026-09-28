@@ -1,0 +1,7 @@
+{
+  "name": "azure-updates-mcp-server",
+  "description": "Enables AI assistants to search and retrieve Azure service updates, retirements, and feature announcements using natural language queries with fast local caching.",
+  "source_repo": "juyamagu/azure-updates-mcp-server",
+  "source_url": "https://github.com/juyamagu/azure-updates-mcp-server",
+  "install": "npx -y azure-updates-mcp-server"
+}

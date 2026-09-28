@@ -1,0 +1,7 @@
+{
+  "name": "francolabs-mcp-server",
+  "description": "Connect AI assistants to the FrancoLabs UX research platform to create and manage studies, browse templates, read participant responses and analytics, and turn insights into product opportunities.",
+  "source_repo": "glauberfrancodesign/francolabs-mcp",
+  "source_url": "https://github.com/glauberfrancodesign/francolabs-mcp",
+  "install": "npx -y francolabs-mcp"
+}

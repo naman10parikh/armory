@@ -1,0 +1,7 @@
+{
+  "name": "gcal-fast-mcp",
+  "description": "A Google Calendar MCP server built with FastMCP, providing tools for event CRUD, calendar management, and availability queries via the Google Calendar API.",
+  "source_repo": "jeffmm/gcal-fast-mcp",
+  "source_url": "https://github.com/jeffmm/gcal-fast-mcp",
+  "install": "npx -y gcal-fast-mcp"
+}

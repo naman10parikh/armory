@@ -1,0 +1,7 @@
+{
+  "name": "ariba-mcp",
+  "description": "A metadata-driven MCP server that exposes selected SAP Ariba OpenAPI operations as configurable tools, enabling secure interaction with Ariba APIs through natural language.",
+  "source_repo": "shafquat-quadar/ariba-mcp",
+  "source_url": "https://github.com/shafquat-quadar/ariba-mcp",
+  "install": "npx -y ariba-mcp"
+}

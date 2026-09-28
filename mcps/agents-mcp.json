@@ -1,0 +1,7 @@
+{
+  "name": "agents-mcp",
+  "description": "Enables running AI agents via OpenAI-compatible APIs with custom system prompts, models, and queries. Supports persistent memory, preset agents, and multi-step workflows like pipelines and swarms.",
+  "source_repo": "DedInc/agents-mcp",
+  "source_url": "https://github.com/DedInc/agents-mcp",
+  "install": "npx -y agents-mcp"
+}

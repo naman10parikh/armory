@@ -1,0 +1,7 @@
+{
+  "name": "flix-mcp-server",
+  "description": "AI model call interface for Flix LAN file transfer app, enabling device discovery, messaging, file transfer, clipboard sync, and integration with AI clients like Claude Desktop.",
+  "source_repo": "flix-pro/flix-mcp",
+  "source_url": "https://github.com/flix-pro/flix-mcp",
+  "install": "npx -y flix-mcp"
+}

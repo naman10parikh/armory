@@ -1,0 +1,7 @@
+{
+  "name": "crypto-tools-mcp-server",
+  "description": "Defense-grade cryptographic compliance and analysis tools for MCP, including FIPS 140-3 validation, CNSA 2.0 analysis, post-quantum readiness assessment, and classical cipher utilities.",
+  "source_repo": "marc-shade/crypto-tools-mcp",
+  "source_url": "https://github.com/marc-shade/crypto-tools-mcp",
+  "install": "npx -y crypto-tools-mcp"
+}

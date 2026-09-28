@@ -1,0 +1,7 @@
+{
+  "name": "ttsstt-mcp-server",
+  "description": "Enables speech-to-text and text-to-speech conversion using OpenAI-compatible APIs. Supports customizable models, voices, and output directories.",
+  "source_repo": "ptbsare/ttsstt-mcp-server",
+  "source_url": "https://github.com/ptbsare/ttsstt-mcp-server",
+  "install": "npx -y ttsstt-mcp-server"
+}

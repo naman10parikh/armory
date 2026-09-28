@@ -1,0 +1,7 @@
+{
+  "name": "polymath-mcp",
+  "description": "Aggregates 17 free, keyless research sources into a single MCP server, enabling unified search for papers, code, models, trends, standards, and electronic components with deduplicated results.",
+  "source_repo": "Moreti2002/polymath-mcp",
+  "source_url": "https://github.com/Moreti2002/polymath-mcp",
+  "install": "npx -y polymath-mcp"
+}

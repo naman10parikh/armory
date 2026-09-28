@@ -1,0 +1,7 @@
+{
+  "name": "zentao",
+  "description": "Enables full CRUD operations on Zentao entities like requirements, bugs, tasks, test cases, projects, and products through natural language.",
+  "source_repo": "HouEngineer/sdw-zentao-mcp-server",
+  "source_url": "https://github.com/HouEngineer/sdw-zentao-mcp-server",
+  "install": "npx -y sdw-zentao-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "simplepractice-mcp",
+  "description": "Enables read-only access to SimplePractice Client Portal data — appointments, billing, documents, and announcements — via the portal's JSON:API, using passwordless portal sign-in.",
+  "source_repo": "chrischall/simplepractice-mcp",
+  "source_url": "https://github.com/chrischall/simplepractice-mcp",
+  "install": "npx -y simplepractice-mcp"
+}

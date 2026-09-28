@@ -1,0 +1,7 @@
+{
+  "name": "mcp-enuygun-fs",
+  "description": "Enables searching for places and tourist activities using Foursquare and Amadeus APIs, integrated with Claude Desktop and OpenAI Agent SDK.",
+  "source_repo": "emirrcodes/mcp-enuygun-fs",
+  "source_url": "https://github.com/emirrcodes/mcp-enuygun-fs",
+  "install": "# git clone --depth 1 https://github.com/emirrcodes/mcp-enuygun-fs\n# See source for mcpServers config block"
+}

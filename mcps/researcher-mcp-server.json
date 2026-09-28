@@ -1,0 +1,7 @@
+{
+  "name": "researcher-mcp-server",
+  "description": "Enables LLMs to research answers using DuckDuckGo web and news search plus Wikipedia, providing up-to-date information and current events.",
+  "source_repo": "newcoast27-hub/researcher-mcp-server",
+  "source_url": "https://github.com/newcoast27-hub/researcher-mcp-server",
+  "install": "npx -y researcher-mcp-server"
+}

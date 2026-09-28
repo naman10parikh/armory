@@ -1,0 +1,7 @@
+{
+  "name": "inbody-api-mcp",
+  "description": "Enables retrieval of InBody body composition data including profile, scan history, and full metrics via MCP tools.",
+  "source_repo": "rwestergren/inbody-api-mcp",
+  "source_url": "https://github.com/rwestergren/inbody-api-mcp",
+  "install": "npx -y inbody-api-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "db-mcp",
+  "description": "A secure MCP server for connecting AI assistants to MySQL, Redis, and MongoDB with preconfigured connections, runtime protections, and graded security modes.",
+  "source_repo": "wannanbigpig/db-mcp",
+  "source_url": "https://github.com/wannanbigpig/db-mcp",
+  "install": "npx -y db-mcp"
+}

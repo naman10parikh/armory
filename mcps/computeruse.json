@@ -1,0 +1,7 @@
+{
+  "name": "computeruse",
+  "description": "A stdio MCP server that provides safe local screen observation and one-step execution for desktop automation using Ollama vision models.",
+  "source_repo": "Konohamaru04/Computer-Use-Agent",
+  "source_url": "https://github.com/Konohamaru04/Computer-Use-Agent",
+  "install": "# git clone --depth 1 https://github.com/Konohamaru04/Computer-Use-Agent\n# See source for mcpServers config block"
+}

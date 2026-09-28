@@ -1,0 +1,7 @@
+{
+  "name": "autorev-mcp-server",
+  "description": "Enables AI clients to manage field service operations through natural language, including call handling, job dispatch, estimates, invoicing, and reporting via the AutoRev platform.",
+  "source_repo": "autorevai/autorev-mcp",
+  "source_url": "https://github.com/autorevai/autorev-mcp",
+  "install": "npx -y autorev-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "journey-log",
+  "description": "This MCP server integrates with Journey Log to automatically document development journeys, enabling AI assistants to create, update, and retrieve documents, capture conversations, and manage code snippets.",
+  "source_repo": "ALPHAbilal/journey-log-mcp-server",
+  "source_url": "https://github.com/ALPHAbilal/journey-log-mcp-server",
+  "install": "npx -y journey-log-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "trading-212-mcp-server",
+  "description": "Exposes Trading 212 trading account, instruments, orders, history, and pies as MCP tools. Allows placing and canceling real orders (defaults to demo/paper environment).",
+  "source_repo": "NigelVanHattum/Trading212-MCP",
+  "source_url": "https://github.com/NigelVanHattum/Trading212-MCP",
+  "install": "npx -y Trading212-MCP"
+}

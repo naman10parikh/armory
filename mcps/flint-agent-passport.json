@@ -1,0 +1,7 @@
+{
+  "name": "flint-agent-passport",
+  "description": "Enables verification of AI agent identity, authority, and integrity at transaction time, returning signed verdicts for allow, step-up, review, or block.",
+  "source_repo": "thefraudfather/flint-plugin",
+  "source_url": "https://github.com/thefraudfather/flint-plugin",
+  "install": "# git clone --depth 1 https://github.com/thefraudfather/flint-plugin\n# See source for mcpServers config block"
+}

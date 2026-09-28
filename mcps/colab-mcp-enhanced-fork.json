@@ -1,0 +1,7 @@
+{
+  "name": "colab-mcp-enhanced-fork",
+  "description": "Enhanced fork of Google's Colab MCP, pre-registers all 7 notebook tools at startup (get_cells, add/run/update/delete/move_cell, add_text_cell), adds programmatic GPU control (T4/L4/A100) via OAuth, and fixes the \"Disconnected from local server\" issue with IPv4-only bind, PNA CORS headers, and stale-",
+  "source_repo": "SebastianGilPinzon/colab-mcp",
+  "source_url": "https://github.com/SebastianGilPinzon/colab-mcp",
+  "install": "npx -y colab-mcp"
+}

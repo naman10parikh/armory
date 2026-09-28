@@ -1,0 +1,7 @@
+{
+  "name": "common-crawl-mcp",
+  "description": "MCP server and CLI for querying Common Crawl via AWS Athena, enabling users to check a domain's presence in crawls, analyze dynamics, compare domains, and inspect page text.",
+  "source_repo": "nikolaymokh-dev/common-crawl-mcp",
+  "source_url": "https://github.com/nikolaymokh-dev/common-crawl-mcp",
+  "install": "npx -y common-crawl-mcp"
+}

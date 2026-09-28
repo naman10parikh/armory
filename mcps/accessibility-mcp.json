@@ -1,0 +1,7 @@
+{
+  "name": "accessibility-mcp",
+  "description": "Audits web pages for WCAG 2.2 AA accessibility aligned with the GOV.UK standard using axe-core and headless Chromium, returning structured JSON, markdown reports, and GDS compliance summaries.",
+  "source_repo": "ksmuvva/MCp-accessibility-Muvva",
+  "source_url": "https://github.com/ksmuvva/MCp-accessibility-Muvva",
+  "install": "# git clone --depth 1 https://github.com/ksmuvva/MCp-accessibility-Muvva\n# See source for mcpServers config block"
+}

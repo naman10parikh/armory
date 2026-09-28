@@ -1,0 +1,7 @@
+{
+  "name": "devspace",
+  "description": "A self-hosted MCP server that gives ChatGPT a secure connection to your local machine, enabling it to read, edit, search, and run code in your projects.",
+  "source_repo": "chenchihcu/DevSpace-MCP",
+  "source_url": "https://github.com/chenchihcu/DevSpace-MCP",
+  "install": "npx -y DevSpace-MCP"
+}

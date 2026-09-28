@@ -1,0 +1,7 @@
+{
+  "name": "code-me-brand",
+  "description": "Injects the Code-Me brand identity, tone, and visual guidelines into LLMs with zero latency using built-in context files.",
+  "source_repo": "Code-MeMX/mcp-brand",
+  "source_url": "https://github.com/Code-MeMX/mcp-brand",
+  "install": "# git clone --depth 1 https://github.com/Code-MeMX/mcp-brand\n# See source for mcpServers config block"
+}

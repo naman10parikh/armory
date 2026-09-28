@@ -1,0 +1,7 @@
+{
+  "name": "rasdaman-mcp-server",
+  "description": "Enables natural language interaction with rasdaman databases, allowing users to list coverages, describe datacubes, and execute WCPS queries.",
+  "source_repo": "fastmcp-me/rasdaman-mcp",
+  "source_url": "https://github.com/fastmcp-me/rasdaman-mcp",
+  "install": "npx -y rasdaman-mcp"
+}

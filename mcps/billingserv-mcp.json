@@ -1,0 +1,7 @@
+{
+  "name": "billingserv-mcp",
+  "description": "This is an MCP server for the BillingServ API. Once it's set up, your AI assistant can look up customers, invoices, orders, packages, and reports straight from your BillingServ installation",
+  "source_repo": "BillingServ/MCP",
+  "source_url": "https://github.com/BillingServ/MCP",
+  "install": "# git clone --depth 1 https://github.com/BillingServ/MCP\n# See source for mcpServers config block"
+}

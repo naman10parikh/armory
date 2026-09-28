@@ -1,0 +1,7 @@
+{
+  "name": "horizon-mcp",
+  "description": "Enables natural language querying of Snowflake-managed Iceberg tables via Horizon IRC and DuckDB, without using a Snowflake warehouse.",
+  "source_repo": "kshash919/snowflake-horizon-irc-mcp",
+  "source_url": "https://github.com/kshash919/snowflake-horizon-irc-mcp",
+  "install": "npx -y snowflake-horizon-irc-mcp"
+}

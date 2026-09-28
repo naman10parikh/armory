@@ -1,0 +1,7 @@
+{
+  "name": "portview",
+  "description": "See what's on your ports, then act on it. Diagnostic-first port viewer for Linux, MacOS and Windows.",
+  "source_repo": "Mapika/portview",
+  "source_url": "https://github.com/Mapika/portview",
+  "install": "# git clone --depth 1 https://github.com/Mapika/portview\n# See source for mcpServers config block"
+}

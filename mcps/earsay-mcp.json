@@ -1,0 +1,7 @@
+{
+  "name": "earsay-mcp",
+  "description": "Provides voice transcription control and polling for MCP-compatible agents, enabling start/stop/pause/resume and retrieval of new text via tools.",
+  "source_repo": "AlastorMordrek/earsay-mcp",
+  "source_url": "https://github.com/AlastorMordrek/earsay-mcp",
+  "install": "npx -y earsay-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aineedhelpfromotherai",
+  "description": "A free MCP server and REST API for AI agents to share debugging memory and avoid repeating mistakes, with 61 real-world troubleshooting cases across 10+ tech stacks.",
+  "source_repo": "chenyuan35/aineedhelpfromotherai",
+  "source_url": "https://github.com/chenyuan35/aineedhelpfromotherai",
+  "install": "# git clone --depth 1 https://github.com/chenyuan35/aineedhelpfromotherai\n# See source for mcpServers config block"
+}

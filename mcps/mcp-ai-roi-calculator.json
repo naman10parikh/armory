@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ai-roi-calculator",
+  "description": "Calculates ROI, break-even, and cost projections for AI agents and automation projects, providing instant answers without external APIs.",
+  "source_repo": "princeruhulofficial/mcp-ai-roi-calculator",
+  "source_url": "https://github.com/princeruhulofficial/mcp-ai-roi-calculator",
+  "install": "# git clone --depth 1 https://github.com/princeruhulofficial/mcp-ai-roi-calculator\n# See source for mcpServers config block"
+}

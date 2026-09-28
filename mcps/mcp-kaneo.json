@@ -1,0 +1,7 @@
+{
+  "name": "mcp-kaneo",
+  "description": "MCP server for Kaneo task management API. Lets your AI coding assistant manage tasks, projects, labels, and comments in Kaneo.",
+  "source_repo": "fastman/mcp-kaneo",
+  "source_url": "https://github.com/fastman/mcp-kaneo",
+  "install": "# git clone --depth 1 https://github.com/fastman/mcp-kaneo\n# See source for mcpServers config block"
+}

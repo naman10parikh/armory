@@ -1,0 +1,7 @@
+{
+  "name": "m3mgine",
+  "description": "MCP server enabling AI agents to enforce corrected rules as durable pre-output checks, manage processed memory, and query a temporal knowledge graph.",
+  "source_repo": "13auth/M3Mgine",
+  "source_url": "https://github.com/13auth/M3Mgine",
+  "install": "# git clone --depth 1 https://github.com/13auth/M3Mgine\n# See source for mcpServers config block"
+}

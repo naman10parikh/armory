@@ -1,0 +1,7 @@
+{
+  "name": "better-discord-mcp",
+  "description": "Lets AI clients read and control Discord through a BetterDiscord plugin, enabling channel reading, messaging, and moderation actions.",
+  "source_repo": "Sys0xdbg/better-discord-mcp",
+  "source_url": "https://github.com/Sys0xdbg/better-discord-mcp",
+  "install": "npx -y better-discord-mcp"
+}

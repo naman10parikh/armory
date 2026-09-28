@@ -1,0 +1,7 @@
+{
+  "name": "focuszoo-mcp-server",
+  "description": "Exposes the FocusZoo External API as an MCP server over Streamable HTTP, enabling clients to invoke FocusZoo tools with an API key. Runs on Cloudflare Workers and Node.js.",
+  "source_repo": "Watanabebashi/FocusZoo-SuperMCP",
+  "source_url": "https://github.com/Watanabebashi/FocusZoo-SuperMCP",
+  "install": "# git clone --depth 1 https://github.com/Watanabebashi/FocusZoo-SuperMCP\n# See source for mcpServers config block"
+}

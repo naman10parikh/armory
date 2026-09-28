@@ -1,0 +1,7 @@
+{
+  "name": "opencode-cc-tool",
+  "description": "Enables Claude Code to dispatch opencode CLI tasks as background processes with immediate task handle return, status polling, and result retrieval, avoiding tmux and log parsing issues.",
+  "source_repo": "jeremysball/opencode-cc-tool",
+  "source_url": "https://github.com/jeremysball/opencode-cc-tool",
+  "install": "# git clone --depth 1 https://github.com/jeremysball/opencode-cc-tool\n# See source for mcpServers config block"
+}

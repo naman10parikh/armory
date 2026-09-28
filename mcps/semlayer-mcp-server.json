@@ -1,0 +1,7 @@
+{
+  "name": "semlayer-mcp-server",
+  "description": "Serves an automatically inferred semantic layer from your warehouse over MCP, enabling AI agents to query with correct business context, joins, and filters.",
+  "source_repo": "neocatalystlabs/semlayer",
+  "source_url": "https://github.com/neocatalystlabs/semlayer",
+  "install": "# git clone --depth 1 https://github.com/neocatalystlabs/semlayer\n# See source for mcpServers config block"
+}

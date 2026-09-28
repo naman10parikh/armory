@@ -1,0 +1,7 @@
+{
+  "name": "warrant-mcp",
+  "description": "An MCP server that enforces plain-English rules on AI agent tool calls, deterministically blocking forbidden actions before execution via a Claude Code hook and a check_action tool.",
+  "source_repo": "rmanish2000-del/warrant-mcp",
+  "source_url": "https://github.com/rmanish2000-del/warrant-mcp",
+  "install": "npx -y warrant-mcp"
+}

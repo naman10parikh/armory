@@ -1,0 +1,7 @@
+{
+  "name": "wardenpoint-mcp-server",
+  "description": "Enables agents to configure WardenPoint accounts—recipients, contacts, groups, notification rules, escalation policies, on-call schedules, alert-source integrations, routing, and telephony—via dynamic tools generated from the installation's own OpenAPI spec, with no bundled API definitions.",
+  "source_repo": "WardenPoint/wardenpoint-mcp",
+  "source_url": "https://github.com/WardenPoint/wardenpoint-mcp",
+  "install": "npx -y wardenpoint-mcp"
+}

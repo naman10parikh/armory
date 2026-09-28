@@ -1,0 +1,7 @@
+{
+  "name": "perfsage-jmeter-mcp",
+  "description": "Enables LLM agents to run self-healing JMeter performance tests via natural language, from environment setup to capacity discovery and SLO verdict reporting.",
+  "source_repo": "perfsage/perfsage-jmeter-mcp",
+  "source_url": "https://github.com/perfsage/perfsage-jmeter-mcp",
+  "install": "npx -y perfsage-jmeter-mcp"
+}

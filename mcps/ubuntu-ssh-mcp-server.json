@@ -1,0 +1,7 @@
+{
+  "name": "ubuntu-ssh-mcp-server",
+  "description": "Connects to Ubuntu servers over SSH to manage, maintain, and secure them through natural language conversation.",
+  "source_repo": "smccauley-dev/ubuntu-ssh-mcp",
+  "source_url": "https://github.com/smccauley-dev/ubuntu-ssh-mcp",
+  "install": "npx -y ubuntu-ssh-mcp"
+}

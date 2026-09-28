@@ -1,0 +1,7 @@
+{
+  "name": "agent-memory-2",
+  "description": "MCP server providing persistent memory management for AI agents using SQLite and FTS5, enabling storage, full-text search, and recall of memories with namespace isolation.",
+  "source_repo": "khaled1174/agent-memory",
+  "source_url": "https://github.com/khaled1174/agent-memory",
+  "install": "# git clone --depth 1 https://github.com/khaled1174/agent-memory\n# See source for mcpServers config block"
+}

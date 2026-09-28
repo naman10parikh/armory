@@ -1,0 +1,7 @@
+{
+  "name": "mcp-unity-editor",
+  "description": "Enables AI assistants to interact with Unity Editor, managing scenes, game objects, animations, materials, scripts, and more via natural language commands.",
+  "source_repo": "geuneda/geuneda-mcp-unity",
+  "source_url": "https://github.com/geuneda/geuneda-mcp-unity",
+  "install": "# git clone --depth 1 https://github.com/geuneda/geuneda-mcp-unity\n# See source for mcpServers config block"
+}

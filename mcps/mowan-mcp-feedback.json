@@ -1,0 +1,7 @@
+{
+  "name": "mowan-mcp-feedback",
+  "description": "An interactive feedback MCP server with a web UI, enabling AI-driven development workflows where AI can prompt users for feedback before taking actions, supporting platforms like Cursor, Cline, and Windsurf.",
+  "source_repo": "limowan/mowan-mcp-feedback",
+  "source_url": "https://github.com/limowan/mowan-mcp-feedback",
+  "install": "# git clone --depth 1 https://github.com/limowan/mowan-mcp-feedback\n# See source for mcpServers config block"
+}

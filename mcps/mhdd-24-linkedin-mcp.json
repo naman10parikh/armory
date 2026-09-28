@@ -1,0 +1,7 @@
+{
+  "name": "mhdd-24-linkedin-mcp",
+  "description": "MCP server that posts to LinkedIn through the LinkedIn API. Enables creating text posts on your LinkedIn profile using natural language from any MCP-compatible client.",
+  "source_repo": "Mhdd-24/Linkedin-MCP",
+  "source_url": "https://github.com/Mhdd-24/Linkedin-MCP",
+  "install": "npx -y Linkedin-MCP"
+}

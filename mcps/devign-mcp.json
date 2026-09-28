@@ -1,0 +1,7 @@
+{
+  "name": "devign-mcp",
+  "description": "Enables any AI model to create, read, and edit Figma designs in real time through the Model Context Protocol.",
+  "source_repo": "SodiqOgundairo/devign-figma-mcp",
+  "source_url": "https://github.com/SodiqOgundairo/devign-figma-mcp",
+  "install": "npx -y devign-figma-mcp"
+}

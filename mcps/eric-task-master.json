@@ -1,0 +1,7 @@
+{
+  "name": "eric-task-master",
+  "description": "Enables AI agents to run durable, isolated, and observable browser automation tasks via Playwright, with persistent profiles, recovery, evidence capture, and unattended execution for long-running web workflows.",
+  "source_repo": "npcworkspace-cmyk/eric-task-master",
+  "source_url": "https://github.com/npcworkspace-cmyk/eric-task-master",
+  "install": "# git clone --depth 1 https://github.com/npcworkspace-cmyk/eric-task-master\n# See source for mcpServers config block"
+}

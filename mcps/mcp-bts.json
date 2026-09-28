@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bts",
+  "description": "Provides access to U.S. Bureau of Transportation Statistics data via the Socrata open-data portal. Enables querying transportation datasets using natural language through Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-bts",
+  "source_url": "https://github.com/pipeworx-io/mcp-bts",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-bts\n# See source for mcpServers config block"
+}

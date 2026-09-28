@@ -1,0 +1,7 @@
+{
+  "name": "affinitymcp",
+  "description": "Enables natural language control of Affinity Photo/Designer/Publisher and Canva workflows through MCP tools, supporting file operations, filters, and batch processing up to 16 files simultaneously.",
+  "source_repo": "tacyan/AffinityMCP",
+  "source_url": "https://github.com/tacyan/AffinityMCP",
+  "install": "# git clone --depth 1 https://github.com/tacyan/AffinityMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-telegram-mcp",
+  "description": "Enables AI agents to send and receive messages, media, and files on Telegram, and manage chats via a bot token.",
+  "source_repo": "tharindumendis/Agent_telegeam_mcp",
+  "source_url": "https://github.com/tharindumendis/Agent_telegeam_mcp",
+  "install": "npx -y Agent_telegeam_mcp"
+}

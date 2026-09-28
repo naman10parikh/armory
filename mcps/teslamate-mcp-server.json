@@ -1,0 +1,7 @@
+{
+  "name": "teslamate-mcp-server",
+  "description": "Exposes TeslaMate HTTP APIs (health, logging, drive GPX) and a generic API request tool for interacting with a TeslaMate instance via MCP.",
+  "source_repo": "LesterAJohn/TeslaMate-mcp",
+  "source_url": "https://github.com/LesterAJohn/TeslaMate-mcp",
+  "install": "npx -y TeslaMate-mcp"
+}

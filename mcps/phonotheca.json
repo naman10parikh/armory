@@ -1,0 +1,7 @@
+{
+  "name": "phonotheca",
+  "description": "Search and read your interview transcripts from Claude or any MCP client. Full-text search across every project, speaker-labelled transcripts with timestamps, cited passages. Read-only.",
+  "source_repo": "AdesiaHQ/phonotheca-mcp",
+  "source_url": "https://github.com/AdesiaHQ/phonotheca-mcp",
+  "install": "npx -y phonotheca-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vector-mcp-2",
+  "description": "Integrates RAG into AI agents via MCP Server, supporting multiple vector database technologies for collection management and search operations.",
+  "source_repo": "techexpert0119/vector-mcp",
+  "source_url": "https://github.com/techexpert0119/vector-mcp",
+  "install": "npx -y vector-mcp"
+}

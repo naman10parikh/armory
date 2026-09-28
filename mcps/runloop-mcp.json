@@ -1,0 +1,7 @@
+{
+  "name": "runloop-mcp",
+  "description": "An MCP server that exposes Runloop Devbox operations as tools, enabling AI agents to create and manage Linux sandboxes, execute commands, edit files, snapshot disks, and drive interactive PTY sessions.",
+  "source_repo": "contributory/runloop-mcp",
+  "source_url": "https://github.com/contributory/runloop-mcp",
+  "install": "npx -y runloop-mcp"
+}

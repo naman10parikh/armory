@@ -1,0 +1,7 @@
+{
+  "name": "us-eli-mcp",
+  "description": "MCP server for the Congress.gov API that tracks US federal legislative process, providing tools to search bills and get bill details.",
+  "source_repo": "matematicsolutions/us-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/us-eli-mcp",
+  "install": "npx -y us-eli-mcp"
+}

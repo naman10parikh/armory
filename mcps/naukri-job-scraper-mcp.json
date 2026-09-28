@@ -1,0 +1,7 @@
+{
+  "name": "naukri-job-scraper-mcp",
+  "description": "Enables automated scraping of Naukri.com job listings, extracting structured data such as job titles, companies, salaries, locations, skills, and descriptions for use in AI-driven workflows.",
+  "source_repo": "roshtarg-cpu/naukri-job-scraper-mcp",
+  "source_url": "https://github.com/roshtarg-cpu/naukri-job-scraper-mcp",
+  "install": "npx -y naukri-job-scraper-mcp"
+}

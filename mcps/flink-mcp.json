@@ -1,0 +1,7 @@
+{
+  "name": "flink-mcp",
+  "description": "Enables interaction with Apache Flink clusters via the SQL Gateway, allowing query execution, session management, and job control through MCP tools.",
+  "source_repo": "Cledar/flink-mcp",
+  "source_url": "https://github.com/Cledar/flink-mcp",
+  "install": "npx -y flink-mcp"
+}

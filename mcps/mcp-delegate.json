@@ -1,0 +1,7 @@
+{
+  "name": "mcp-delegate",
+  "description": "Enables delegating tasks to a separate, full agentic loop running on a different model, with its own tool access, returning only the final result.",
+  "source_repo": "hessenpepper/mcp-delegate",
+  "source_url": "https://github.com/hessenpepper/mcp-delegate",
+  "install": "# git clone --depth 1 https://github.com/hessenpepper/mcp-delegate\n# See source for mcpServers config block"
+}

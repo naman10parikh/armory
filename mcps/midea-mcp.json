@@ -1,0 +1,7 @@
+{
+  "name": "midea-mcp",
+  "description": "Local MCP server for controlling Midea air conditioners via LAN or cloud, providing tools for device management and state control.",
+  "source_repo": "caroliny1031/midea-mcp",
+  "source_url": "https://github.com/caroliny1031/midea-mcp",
+  "install": "npx -y midea-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "devcontext",
+  "description": "Workspace-aware MCP server that provides AI clients with structural code understanding via AST parsing, hybrid retrieval, and git history, enabling accurate code search, definition lookup, and blame analysis.",
+  "source_repo": "Swastik-Gupta30/DevContext",
+  "source_url": "https://github.com/Swastik-Gupta30/DevContext",
+  "install": "# git clone --depth 1 https://github.com/Swastik-Gupta30/DevContext\n# See source for mcpServers config block"
+}

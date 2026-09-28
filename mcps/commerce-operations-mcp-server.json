@@ -1,0 +1,7 @@
+{
+  "name": "commerce-operations-mcp-server",
+  "description": "Enables AI agents to independently investigate and resolve e-commerce order issues, particularly refund processing, with tools for order search, refund eligibility checks, and safe refund execution.",
+  "source_repo": "maheshsingh20/Commerce-Operations-MCP-Server",
+  "source_url": "https://github.com/maheshsingh20/Commerce-Operations-MCP-Server",
+  "install": "npx -y Commerce-Operations-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shodan-mcp-server",
+  "description": "Enables AI agents to perform passive reconnaissance, vulnerability intelligence, DNS analysis, and device search using Shodan's database of internet-connected devices, all from within your IDE.",
+  "source_repo": "Vorota-ai/shodan-mcp",
+  "source_url": "https://github.com/Vorota-ai/shodan-mcp",
+  "install": "npx -y shodan-mcp"
+}

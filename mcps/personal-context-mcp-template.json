@@ -1,0 +1,7 @@
+{
+  "name": "personal-context-mcp-template",
+  "description": "Serve your personal work-style manual as an MCP server so AI surfaces load the same single source of truth about your identity and preferences.",
+  "source_repo": "ellovangelderen/lo-mcp-template",
+  "source_url": "https://github.com/ellovangelderen/lo-mcp-template",
+  "install": "# git clone --depth 1 https://github.com/ellovangelderen/lo-mcp-template\n# See source for mcpServers config block"
+}

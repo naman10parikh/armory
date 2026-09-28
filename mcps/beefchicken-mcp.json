@@ -1,0 +1,7 @@
+{
+  "name": "beefchicken-mcp",
+  "description": "A lightweight OpenAPI proxy MCP server that turns any openapi.yaml into MCP tools with zero code, including a built-in OAuth 2.1 server for Claude.ai Web connection.",
+  "source_repo": "Watanabebashi/BeefChicken-MCP",
+  "source_url": "https://github.com/Watanabebashi/BeefChicken-MCP",
+  "install": "npx -y BeefChicken-MCP"
+}

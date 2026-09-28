@@ -1,0 +1,7 @@
+{
+  "name": "umami-analytics-mcp",
+  "description": "A security-first MCP server for Umami analytics (Cloud and self-hosted v3) enabling analytics, reporting, and administration with least privilege and credential-safe design.",
+  "source_repo": "matious89pl/umami-analytics-mcp",
+  "source_url": "https://github.com/matious89pl/umami-analytics-mcp",
+  "install": "npx -y umami-analytics-mcp"
+}

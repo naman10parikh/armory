@@ -1,0 +1,7 @@
+{
+  "name": "titan-store",
+  "description": "TitanStore provides AI agents with programmatic access to compute credits, API keys, cloud storage, and GPU capacity. Search products, manage cart, and complete purchases in a single agentic workflow. No authentication required.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/mdenius/titan-store",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/mdenius/titan-store\n# See source for mcpServers config block"
+}

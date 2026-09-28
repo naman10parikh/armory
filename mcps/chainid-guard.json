@@ -1,0 +1,7 @@
+{
+  "name": "chainid-guard",
+  "description": "MCP server that gates premium features behind a combined x402 (USDC per call) and Stripe API key paywall, ensuring only paying users access deep functionality while free tier runs locally.",
+  "source_repo": "Baneado98/chainid-guard",
+  "source_url": "https://github.com/Baneado98/chainid-guard",
+  "install": "# git clone --depth 1 https://github.com/Baneado98/chainid-guard\n# See source for mcpServers config block"
+}

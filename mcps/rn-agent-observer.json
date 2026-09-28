@@ -1,0 +1,7 @@
+{
+  "name": "rn-agent-observer",
+  "description": "Provides structured MCP tools for local runtime observability and debugging of React Native/Expo apps on Android, enabling evidence-first diagnostics such as screenshots, UI trees, per-request network capture, performance metrics, and CDP-based console/heap/profiling exports.",
+  "source_repo": "GinzaTech/rn-agent-observer",
+  "source_url": "https://github.com/GinzaTech/rn-agent-observer",
+  "install": "# git clone --depth 1 https://github.com/GinzaTech/rn-agent-observer\n# See source for mcpServers config block"
+}

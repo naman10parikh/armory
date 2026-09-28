@@ -1,0 +1,7 @@
+{
+  "name": "mcp-session-insight",
+  "description": "Enables AI assistants to query and analyze past Claude Code sessions, providing structured insights like file changes, decisions, errors, and git history across projects.",
+  "source_repo": "ArtLjn/mcp-session-insight",
+  "source_url": "https://github.com/ArtLjn/mcp-session-insight",
+  "install": "# git clone --depth 1 https://github.com/ArtLjn/mcp-session-insight\n# See source for mcpServers config block"
+}

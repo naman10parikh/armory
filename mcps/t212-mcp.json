@@ -1,0 +1,7 @@
+{
+  "name": "t212-mcp",
+  "description": "A read-only MCP server for Trading 212 accounts, enabling AI assistants to query balances, positions, orders, dividends, pies, and instruments without trading capabilities.",
+  "source_repo": "guilyx/t212-mcp",
+  "source_url": "https://github.com/guilyx/t212-mcp",
+  "install": "npx -y t212-mcp"
+}

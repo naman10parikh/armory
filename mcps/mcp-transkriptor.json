@@ -1,0 +1,7 @@
+{
+  "name": "mcp-transkriptor",
+  "description": "Wraps the Transkriptor developer API to transcribe audio, video, public URLs, and live meetings, with support for fetching transcriptions, summaries, exports, file management, custom vocabulary, webhooks, text-to-speech, and AI chat knowledgebases.",
+  "source_repo": "mickaelxd/mcp-transkriptor",
+  "source_url": "https://github.com/mickaelxd/mcp-transkriptor",
+  "install": "# git clone --depth 1 https://github.com/mickaelxd/mcp-transkriptor\n# See source for mcpServers config block"
+}

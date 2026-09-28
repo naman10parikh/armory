@@ -1,0 +1,7 @@
+{
+  "name": "mcp-contractor",
+  "description": "A contract linter for AI agents that uses structured YAML contracts to define dependencies, business rules, and exports, enabling agents to work without breaking project conventions.",
+  "source_repo": "adaniki-dev/contract-mcp",
+  "source_url": "https://github.com/adaniki-dev/contract-mcp",
+  "install": "npx -y contract-mcp"
+}

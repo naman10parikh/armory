@@ -1,0 +1,7 @@
+{
+  "name": "svg-mcp",
+  "description": "A FastMCP server providing structured SVG authoring tools for LLMs, enabling create, edit, and render SVG graphics through hierarchical primitives, gradients, paths, and reusable resources.",
+  "source_repo": "georgeharker/svg-mcp",
+  "source_url": "https://github.com/georgeharker/svg-mcp",
+  "install": "npx -y svg-mcp"
+}

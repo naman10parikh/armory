@@ -1,0 +1,7 @@
+{
+  "name": "lms-mcp",
+  "description": "MCP server that provides LLM tools to interact with Lyrion Music Server (LMS), enabling player control, playback management, playlist operations, and music library search.",
+  "source_repo": "shermozle/lms-mcp",
+  "source_url": "https://github.com/shermozle/lms-mcp",
+  "install": "npx -y lms-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "metalsmarket-bot",
+  "description": "Enables LLM clients to query live and historical metal and commodity prices from metalsmarket.net through an MCP server.",
+  "source_repo": "Beratemek/metalsmarket-bot",
+  "source_url": "https://github.com/Beratemek/metalsmarket-bot",
+  "install": "# git clone --depth 1 https://github.com/Beratemek/metalsmarket-bot\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "isuite-operations-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that exposes 48 tools covering the full spectrum of iSuite enterprise administration — user management, role verification, job monitoring, scheduler control, batch execution, audit trail lookup, and configuration validation.",
+  "source_repo": "navin2031992/mcpisuite",
+  "source_url": "https://github.com/navin2031992/mcpisuite",
+  "install": "# git clone --depth 1 https://github.com/navin2031992/mcpisuite\n# See source for mcpServers config block"
+}

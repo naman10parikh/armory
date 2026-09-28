@@ -1,0 +1,7 @@
+{
+  "name": "drawarch-mcp",
+  "description": "Generates editable .drawio architecture diagrams from descriptions or reference images, with secure asset resolution, validation, and revision-based approvals.",
+  "source_repo": "Ajey95/drawarch-mcp",
+  "source_url": "https://github.com/Ajey95/drawarch-mcp",
+  "install": "npx -y drawarch-mcp"
+}

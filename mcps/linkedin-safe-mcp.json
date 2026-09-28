@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-safe-mcp",
+  "description": "MCP server for safe LinkedIn automation: official-API posting, comments, and likes plus guest-endpoint job search and a local application tracker.",
+  "source_repo": "AmmYoo7/linkedin-safe-mcp",
+  "source_url": "https://github.com/AmmYoo7/linkedin-safe-mcp",
+  "install": "npx -y linkedin-safe-mcp"
+}

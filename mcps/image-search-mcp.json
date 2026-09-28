@@ -1,0 +1,7 @@
+{
+  "name": "image-search-mcp",
+  "description": "MCP server for searching and retrieving stock images from Unsplash, Pexels, and Pixabay, with support for concurrent searches, normalized metadata, and image downloads.",
+  "source_repo": "Serbyte-Development/image-search-mcp",
+  "source_url": "https://github.com/Serbyte-Development/image-search-mcp",
+  "install": "npx -y image-search-mcp"
+}

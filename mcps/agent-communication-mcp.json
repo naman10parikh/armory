@@ -1,0 +1,7 @@
+{
+  "name": "agent-communication-mcp",
+  "description": "Facilitates autonomous AI agent collaboration on software projects through file-based task management and inter-agent communication via the Model Context Protocol.",
+  "source_repo": "mattes337/AgentCommunicationMcp",
+  "source_url": "https://github.com/mattes337/AgentCommunicationMcp",
+  "install": "# git clone --depth 1 https://github.com/mattes337/AgentCommunicationMcp\n# See source for mcpServers config block"
+}

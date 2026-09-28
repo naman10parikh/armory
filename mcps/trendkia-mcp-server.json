@@ -1,0 +1,7 @@
+{
+  "name": "trendkia-mcp-server",
+  "description": "Enables AI assistants to access and search TrendKia articles, retrieving clean markdown content without HTML scraping.",
+  "source_repo": "blockmandev/trendkia-mcp",
+  "source_url": "https://github.com/blockmandev/trendkia-mcp",
+  "install": "npx -y trendkia-mcp"
+}

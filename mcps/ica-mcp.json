@@ -1,0 +1,7 @@
+{
+  "name": "ica-mcp",
+  "description": "Enables AI agents to read and edit ICA shopping lists in natural language, using an unofficial interface to ICA's private API.",
+  "source_repo": "kanylbullen/ica-mcp",
+  "source_url": "https://github.com/kanylbullen/ica-mcp",
+  "install": "npx -y ica-mcp"
+}

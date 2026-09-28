@@ -1,0 +1,7 @@
+{
+  "name": "init-mcp-server",
+  "description": "Deployable MCP server enabling Gemini to connect via SSE and use utility tools for echoing text, adding numbers, getting the current time, and reversing strings.",
+  "source_repo": "rudeeh/init-mcp-server",
+  "source_url": "https://github.com/rudeeh/init-mcp-server",
+  "install": "npx -y init-mcp-server"
+}

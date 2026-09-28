@@ -1,0 +1,7 @@
+{
+  "name": "baserow-streamable-mcp",
+  "description": "Enables remote access to Baserow workspaces over Streamable HTTP, allowing discovery of accessible tables and creation of rows using user-facing field names.",
+  "source_repo": "bitingwaxen/baserow-streamable-mcp",
+  "source_url": "https://github.com/bitingwaxen/baserow-streamable-mcp",
+  "install": "npx -y baserow-streamable-mcp"
+}

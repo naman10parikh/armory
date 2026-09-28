@@ -1,0 +1,7 @@
+{
+  "name": "grazer-mcp",
+  "description": "Multi-platform content discovery for AI agents over MCP — graze worthy content across BoTTube and an extensible set of sources.",
+  "source_repo": "Scottcjn/grazer-mcp",
+  "source_url": "https://github.com/Scottcjn/grazer-mcp",
+  "install": "npx -y grazer-mcp"
+}

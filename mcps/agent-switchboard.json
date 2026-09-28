@@ -1,0 +1,7 @@
+{
+  "name": "agent-switchboard",
+  "description": "A local MCP server that connects AI coding agents like Claude, Codex, and Gemini, enabling task routing, cross-model debates, and token-efficient context sharing without external APIs.",
+  "source_repo": "FutureisinPast/mcp-agent-switchboard",
+  "source_url": "https://github.com/FutureisinPast/mcp-agent-switchboard",
+  "install": "# git clone --depth 1 https://github.com/FutureisinPast/mcp-agent-switchboard\n# See source for mcpServers config block"
+}

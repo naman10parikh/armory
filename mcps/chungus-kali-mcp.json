@@ -1,0 +1,7 @@
+{
+  "name": "chungus-kali-mcp",
+  "description": "MCP server that gives AI agents direct access to a Kali Linux penetration testing toolkit, with 155 tools for network scanning, exploitation, forensics, and more.",
+  "source_repo": "cryptopepy/chungus-kali-mcp",
+  "source_url": "https://github.com/cryptopepy/chungus-kali-mcp",
+  "install": "npx -y chungus-kali-mcp"
+}

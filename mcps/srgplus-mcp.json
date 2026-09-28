@@ -1,0 +1,7 @@
+{
+  "name": "srgplus-mcp",
+  "description": "MCP server for SRG+ — lets Claude (and any MCP-aware agent) manage hubs, channels, content, assets, users, and workspaces through the SRG+ API.",
+  "source_repo": "srgplus/srgplus-mcp",
+  "source_url": "https://github.com/srgplus/srgplus-mcp",
+  "install": "npx -y srgplus-mcp"
+}

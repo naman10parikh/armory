@@ -1,0 +1,7 @@
+{
+  "name": "io-github-mauricioperera-kite-lite",
+  "description": "MCP server for lightweight web browsing: fetch and parse pages, extract structured content, run isolated JavaScript, and render to SVG/PNG/PDF with a minimal CDP interface.",
+  "source_repo": "MauricioPerera/kite-lite",
+  "source_url": "https://github.com/MauricioPerera/kite-lite",
+  "install": "# git clone --depth 1 https://github.com/MauricioPerera/kite-lite\n# See source for mcpServers config block"
+}

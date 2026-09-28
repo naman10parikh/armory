@@ -1,0 +1,7 @@
+{
+  "name": "cuba-exec",
+  "description": "Advanced shell command execution for AI agents — a Model Context Protocol (MCP) server with security policy engine, process lifecycle management, bounded output capture, POSIX signals, and token-efficient responses.",
+  "source_repo": "LeandroPG19/cuba-exec",
+  "source_url": "https://github.com/LeandroPG19/cuba-exec",
+  "install": "# git clone --depth 1 https://github.com/LeandroPG19/cuba-exec\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-dameng",
+  "description": "MCP server enabling AI assistants to connect and query Dameng DM8 databases via JDBC. Supports SQL queries, listing tables, and describing schemas.",
+  "source_repo": "SpringDamon/mcp-server-dameng",
+  "source_url": "https://github.com/SpringDamon/mcp-server-dameng",
+  "install": "# git clone --depth 1 https://github.com/SpringDamon/mcp-server-dameng\n# See source for mcpServers config block"
+}

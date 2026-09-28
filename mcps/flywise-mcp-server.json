@@ -1,0 +1,7 @@
+{
+  "name": "flywise-mcp-server",
+  "description": "Enables searching for equivalent replacement flights ranked by practical equivalence to the original ticket, comparing fare conditions, and generating airline agent requests.",
+  "source_repo": "wuisabel-gif/Flywise",
+  "source_url": "https://github.com/wuisabel-gif/Flywise",
+  "install": "# git clone --depth 1 https://github.com/wuisabel-gif/Flywise\n# See source for mcpServers config block"
+}

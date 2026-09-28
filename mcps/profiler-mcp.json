@@ -1,0 +1,7 @@
+{
+  "name": "profiler-mcp",
+  "description": "Two MCP servers that expose Intel VTune and AMD uProf profiling tools to coding agents, with realistic mock backends for development and testing on any platform.",
+  "source_repo": "Stankye/profiler-mcp",
+  "source_url": "https://github.com/Stankye/profiler-mcp",
+  "install": "npx -y profiler-mcp"
+}

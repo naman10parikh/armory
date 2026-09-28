@@ -1,0 +1,7 @@
+{
+  "name": "crystal-suppliers-mcp",
+  "description": "Read-only procurement server for KT Crystals that searches a verified catalog of 104 crystal bracelet SKUs and provides traceable sourcing checklists for loose beads, accessories, and raw materials.",
+  "source_repo": "ziyuant222/crystal-suppliers-mcp",
+  "source_url": "https://github.com/ziyuant222/crystal-suppliers-mcp",
+  "install": "npx -y crystal-suppliers-mcp"
+}

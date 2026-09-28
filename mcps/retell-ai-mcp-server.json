@@ -1,0 +1,7 @@
+{
+  "name": "retell-ai-mcp-server",
+  "description": "Provides complete programmatic access to the Retell AI platform, enabling autonomous management of voice and text agents, telephony, and monitoring.",
+  "source_repo": "sunnysingh100/retell-mcp-server",
+  "source_url": "https://github.com/sunnysingh100/retell-mcp-server",
+  "install": "npx -y retell-mcp-server"
+}

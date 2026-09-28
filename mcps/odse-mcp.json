@@ -1,0 +1,7 @@
+{
+  "name": "odse-mcp",
+  "description": "MCP server for converting OEM energy telemetry payloads into ODS-E records and validating them via the odse Python package.",
+  "source_repo": "AsobaCloud/odse-mcp",
+  "source_url": "https://github.com/AsobaCloud/odse-mcp",
+  "install": "npx -y odse-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "llama-memory",
+  "description": "Provides persistent history and semantic memory for llama-server, enabling cross-session recall and memory management through MCP tools.",
+  "source_repo": "noualit/llama-memory-local",
+  "source_url": "https://github.com/noualit/llama-memory-local",
+  "install": "# git clone --depth 1 https://github.com/noualit/llama-memory-local\n# See source for mcpServers config block"
+}

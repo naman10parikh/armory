@@ -1,0 +1,7 @@
+{
+  "name": "expert-mcp-server",
+  "description": "Enables MCP-compatible agents to query beliefs, search documents, and explore reasoning chains from expert-service knowledge bases.",
+  "source_repo": "benthomasson/expert-mcp-server",
+  "source_url": "https://github.com/benthomasson/expert-mcp-server",
+  "install": "npx -y expert-mcp-server"
+}

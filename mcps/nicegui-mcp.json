@@ -1,0 +1,7 @@
+{
+  "name": "nicegui-mcp",
+  "description": "NiceGUI MCP is a docs-first Model Context Protocol server for local NiceGUI development, providing guidance lookup, code analysis, safe fixes, and starter pattern generation.",
+  "source_repo": "start-trek/nicegui-mcp",
+  "source_url": "https://github.com/start-trek/nicegui-mcp",
+  "install": "npx -y nicegui-mcp"
+}

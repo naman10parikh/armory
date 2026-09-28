@@ -1,0 +1,7 @@
+{
+  "name": "mcp-worldbank",
+  "description": "Enables AI agents to access and query World Bank data (free, no auth) through natural language or direct tools, wrapping the World Bank Data API v2.",
+  "source_repo": "pipeworx-io/mcp-worldbank",
+  "source_url": "https://github.com/pipeworx-io/mcp-worldbank",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-worldbank\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "esignatures-mcp-server",
+  "description": "Enables managing electronic signatures and contracts through the eSignatures API, including creating, sending, and withdrawing contracts, as well as managing templates and collaborators.",
+  "source_repo": "mikeysrecipes/mcp-server-esignatures",
+  "source_url": "https://github.com/mikeysrecipes/mcp-server-esignatures",
+  "install": "# git clone --depth 1 https://github.com/mikeysrecipes/mcp-server-esignatures\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "slack-message-mcp",
+  "description": "Enables posting messages to a Slack channel using a bot token, with support for stdio and HTTP modes.",
+  "source_repo": "andygruening/slack-mcp",
+  "source_url": "https://github.com/andygruening/slack-mcp",
+  "install": "npx -y slack-mcp"
+}

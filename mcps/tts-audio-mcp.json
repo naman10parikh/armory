@@ -1,0 +1,7 @@
+{
+  "name": "tts-audio-mcp",
+  "description": "MCP server that analyzes TTS audio recordings, providing transcription, quality scoring, pacing analysis, and mispronunciation detection to debug voice call center audio.",
+  "source_repo": "reactiongears/tts-audio-mcp",
+  "source_url": "https://github.com/reactiongears/tts-audio-mcp",
+  "install": "npx -y tts-audio-mcp"
+}

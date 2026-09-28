@@ -1,0 +1,7 @@
+{
+  "name": "natural-docs-mcp",
+  "description": "Provides read-only tools to search, read, and look up Natural API documentation from an AI agent, enabling documentation lookup without credentials.",
+  "source_repo": "jsharma103/natural-docs-mcp",
+  "source_url": "https://github.com/jsharma103/natural-docs-mcp",
+  "install": "npx -y natural-docs-mcp"
+}

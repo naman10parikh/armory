@@ -1,0 +1,7 @@
+{
+  "name": "peer-relay",
+  "description": "A message relay MCP server enabling two separate Claude Code instances to exchange direct questions and answers asynchronously without sharing context.",
+  "source_repo": "jmgomezl/peer-relay",
+  "source_url": "https://github.com/jmgomezl/peer-relay",
+  "install": "# git clone --depth 1 https://github.com/jmgomezl/peer-relay\n# See source for mcpServers config block"
+}

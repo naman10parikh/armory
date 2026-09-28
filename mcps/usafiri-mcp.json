@@ -1,0 +1,7 @@
+{
+  "name": "usafiri-mcp",
+  "description": "MCP server for Kenya transport — matatu route finder, NTSA services, boda licensing, freight logistics, passenger rights.",
+  "source_repo": "gabrielmahia/usafiri-mcp",
+  "source_url": "https://github.com/gabrielmahia/usafiri-mcp",
+  "install": "npx -y usafiri-mcp"
+}

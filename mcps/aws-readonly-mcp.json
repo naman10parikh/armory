@@ -1,0 +1,7 @@
+{
+  "name": "aws-readonly-mcp",
+  "description": "A read-only MCP server that lets an LLM inspect an AWS account — list EC2 instances, S3 buckets, IAM users, and cost — with a structural guarantee against any mutations.",
+  "source_repo": "ziyuyu23/aws-readonly-mcp",
+  "source_url": "https://github.com/ziyuyu23/aws-readonly-mcp",
+  "install": "npx -y aws-readonly-mcp"
+}

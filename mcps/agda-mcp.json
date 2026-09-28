@@ -1,0 +1,7 @@
+{
+  "name": "agda-mcp",
+  "description": "Provides an MCP interface for Agda's JSON interaction protocol, enabling type checking and interactive editing of Agda modules with support for workspace management and non-blocking operations.",
+  "source_repo": "peterthiemann/agda-mcp",
+  "source_url": "https://github.com/peterthiemann/agda-mcp",
+  "install": "npx -y agda-mcp"
+}

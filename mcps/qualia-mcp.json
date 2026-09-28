@@ -1,0 +1,7 @@
+{
+  "name": "qualia-mcp",
+  "description": "MCP server for the Qualia title and escrow platform, enabling you to talk to your orders, messages, and documents from Claude, Cursor, or any MCP client.",
+  "source_repo": "sanjibani/qualia-mcp",
+  "source_url": "https://github.com/sanjibani/qualia-mcp",
+  "install": "npx -y qualia-mcp"
+}

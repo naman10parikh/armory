@@ -1,0 +1,7 @@
+{
+  "name": "domain-monitor-mcp",
+  "description": "Enables AI assistants to query domain expiration data from domain-monitor.io, with tools for listing domains, checking expiry, and adding new domains.",
+  "source_repo": "jasoncbraatz/domain-monitor-mcp",
+  "source_url": "https://github.com/jasoncbraatz/domain-monitor-mcp",
+  "install": "npx -y domain-monitor-mcp"
+}

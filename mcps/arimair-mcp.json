@@ -1,0 +1,7 @@
+{
+  "name": "arimair-mcp",
+  "description": "This MCP server provides read-only access to Arimair monitoring data, enabling users to query measurements, statistics, corrections, reports, and site information directly through Claude.",
+  "source_repo": "arim-science/arimair-mcp",
+  "source_url": "https://github.com/arim-science/arimair-mcp",
+  "install": "npx -y arimair-mcp"
+}

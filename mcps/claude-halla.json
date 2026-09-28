@@ -1,0 +1,7 @@
+{
+  "name": "claude-halla",
+  "description": "Provides shared awareness for Claude Code sessions, allowing them to broadcast work-in-progress signals and register repos to avoid duplication across an organization.",
+  "source_repo": "TravisAdsitt/ClaudeHalla",
+  "source_url": "https://github.com/TravisAdsitt/ClaudeHalla",
+  "install": "# git clone --depth 1 https://github.com/TravisAdsitt/ClaudeHalla\n# See source for mcpServers config block"
+}

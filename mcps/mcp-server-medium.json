@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-medium",
+  "description": "MCP server for interacting with the Medium API. Allows AI agents to publish posts, manage publications, upload images, and parse RSS feeds to JSON.",
+  "source_repo": "afikrim/medium-mcp-server",
+  "source_url": "https://github.com/afikrim/medium-mcp-server",
+  "install": "npx -y medium-mcp-server"
+}

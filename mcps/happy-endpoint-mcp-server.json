@@ -1,0 +1,7 @@
+{
+  "name": "happy-endpoint-mcp-server",
+  "description": "MCP server that provides direct access to real-time UAE property data, retail products, and travel pricing through task-shaped tools, normalizing inconsistent API responses and resolving location IDs.",
+  "source_repo": "happyendpointhq/happyendpoint-mcp",
+  "source_url": "https://github.com/happyendpointhq/happyendpoint-mcp",
+  "install": "npx -y happyendpoint-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gstreamer-logs-mcp",
+  "description": "Enables agents to efficiently explore and query GStreamer debug logs by loading files, applying filters (path, category, time range, level, object name), and retrieving counts before fetching lines to keep context small.",
+  "source_repo": "Orkules/gst_logs_mcp",
+  "source_url": "https://github.com/Orkules/gst_logs_mcp",
+  "install": "npx -y gst_logs_mcp"
+}

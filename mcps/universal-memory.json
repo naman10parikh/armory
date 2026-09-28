@@ -1,0 +1,7 @@
+{
+  "name": "universal-memory",
+  "description": "A vendor-agnostic cognitive persistence layer for AI agents. Eliminate the \"repetition tax\" by transporting your context, preferences, and history across sessions. Features an auto-adaptation engine that syncs global instructions to ensure operational cohesion and optimize token usage across any LLM",
+  "source_repo": "YanAmorelli/universal-memory",
+  "source_url": "https://github.com/YanAmorelli/universal-memory",
+  "install": "# git clone --depth 1 https://github.com/YanAmorelli/universal-memory\n# See source for mcpServers config block"
+}

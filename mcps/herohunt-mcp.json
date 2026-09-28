@@ -1,0 +1,7 @@
+{
+  "name": "herohunt-mcp",
+  "description": "Enables AI agents to search for talent across LinkedIn, GitHub, and StackOverflow using the HeroHunt People Search API.",
+  "source_repo": "herohunt-ai/herohunt-mcp",
+  "source_url": "https://github.com/herohunt-ai/herohunt-mcp",
+  "install": "npx -y herohunt-mcp"
+}

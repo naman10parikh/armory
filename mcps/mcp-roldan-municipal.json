@@ -1,0 +1,7 @@
+{
+  "name": "mcp-roldan-municipal",
+  "description": "Read-only MCP server for citizen inquiries about the Municipality of Roldán, with document search, HTTP API, and messaging webhook support.",
+  "source_repo": "ruizechesortubenjamin/mcp-roldan-municipal",
+  "source_url": "https://github.com/ruizechesortubenjamin/mcp-roldan-municipal",
+  "install": "# git clone --depth 1 https://github.com/ruizechesortubenjamin/mcp-roldan-municipal\n# See source for mcpServers config block"
+}

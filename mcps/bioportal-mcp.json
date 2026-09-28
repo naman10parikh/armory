@@ -1,0 +1,7 @@
+{
+  "name": "bioportal-mcp",
+  "description": "A Model Context Protocol (MCP) server for interacting with the BioPortal API to search and retrieve ontology terms.",
+  "source_repo": "ncbo/bioportal-mcp",
+  "source_url": "https://github.com/ncbo/bioportal-mcp",
+  "install": "npx -y bioportal-mcp"
+}

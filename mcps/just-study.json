@@ -1,0 +1,7 @@
+{
+  "name": "just-study",
+  "description": "Enables AI agents to create and manage personalized 30-day study courses, including web research with source validation, daily lessons, quizzes, and progress tracking through 12 MCP tools.",
+  "source_repo": "jcmaker/just-study",
+  "source_url": "https://github.com/jcmaker/just-study",
+  "install": "# git clone --depth 1 https://github.com/jcmaker/just-study\n# See source for mcpServers config block"
+}

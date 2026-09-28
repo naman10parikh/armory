@@ -1,0 +1,7 @@
+{
+  "name": "spec-assistant",
+  "description": "Enables natural language queries on technical specifications and automated code compliance checks using local RAG with vector search, integrated via MCP.",
+  "source_repo": "beastkp/SPEC-MCP",
+  "source_url": "https://github.com/beastkp/SPEC-MCP",
+  "install": "npx -y SPEC-MCP"
+}

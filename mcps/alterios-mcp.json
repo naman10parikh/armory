@@ -1,0 +1,7 @@
+{
+  "name": "alterios-mcp",
+  "description": "A production-ready MCP server for inventory and interaction with Alterios/LIMS instances, enabling project listing, readonly data queries via REST and script-services, and controlled write operations.",
+  "source_repo": "SayAMSTASI/alterios-mcp",
+  "source_url": "https://github.com/SayAMSTASI/alterios-mcp",
+  "install": "npx -y alterios-mcp"
+}

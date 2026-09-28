@@ -1,0 +1,7 @@
+{
+  "name": "plate-mcp",
+  "description": "Lightweight project management for teams and AI agents.",
+  "source_repo": "plate-to/plate-mcp",
+  "source_url": "https://github.com/plate-to/plate-mcp",
+  "install": "npx -y plate-mcp"
+}

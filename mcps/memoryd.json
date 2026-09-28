@@ -1,0 +1,7 @@
+{
+  "name": "memoryd",
+  "description": "User-owned AI memory layer exposing persistent memory, task graph, and semantic search via MCP server, with data stored on DWN under user control.",
+  "source_repo": "enboxorg/memoryd",
+  "source_url": "https://github.com/enboxorg/memoryd",
+  "install": "# git clone --depth 1 https://github.com/enboxorg/memoryd\n# See source for mcpServers config block"
+}

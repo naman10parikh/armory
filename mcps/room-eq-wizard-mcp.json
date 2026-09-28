@@ -1,0 +1,7 @@
+{
+  "name": "room-eq-wizard-mcp",
+  "description": "Enables natural language control of Room EQ Wizard for acoustic measurements, analysis, and EQ optimization, with peak/null detection and room-mode analysis.",
+  "source_repo": "brandon-fryslie/room-eq-wizard-mcp",
+  "source_url": "https://github.com/brandon-fryslie/room-eq-wizard-mcp",
+  "install": "npx -y room-eq-wizard-mcp"
+}

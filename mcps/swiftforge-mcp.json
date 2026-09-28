@@ -1,0 +1,7 @@
+{
+  "name": "swiftforge-mcp",
+  "description": "A curated SwiftUI component library served to AI coding agents via MCP, enabling agents to fetch modern, compile-ready SwiftUI components instead of hallucinating deprecated or incorrect code.",
+  "source_repo": "jrlingyin888/SwiftNewModules",
+  "source_url": "https://github.com/jrlingyin888/SwiftNewModules",
+  "install": "# git clone --depth 1 https://github.com/jrlingyin888/SwiftNewModules\n# See source for mcpServers config block"
+}

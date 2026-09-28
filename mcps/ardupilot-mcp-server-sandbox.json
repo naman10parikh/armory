@@ -1,0 +1,7 @@
+{
+  "name": "ardupilot-mcp-server-sandbox",
+  "description": "Enables natural language control of ArduPilot drones via MAVLink, supporting arm, takeoff, mode changes, and mission uploads.",
+  "source_repo": "hfujikawa77/ardupilot-mcp-server",
+  "source_url": "https://github.com/hfujikawa77/ardupilot-mcp-server",
+  "install": "npx -y ardupilot-mcp-server"
+}

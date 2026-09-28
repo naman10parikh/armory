@@ -1,0 +1,7 @@
+{
+  "name": "image-foundry",
+  "description": "MCP server for generating and editing images via PackyAPI's gpt-image-2 model, enabling Codex to create and modify images based on prompts.",
+  "source_repo": "Huaixu129/create_img",
+  "source_url": "https://github.com/Huaixu129/create_img",
+  "install": "# git clone --depth 1 https://github.com/Huaixu129/create_img\n# See source for mcpServers config block"
+}

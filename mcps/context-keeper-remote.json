@@ -1,0 +1,7 @@
+{
+  "name": "context-keeper-remote",
+  "description": "Remote MCP server that exposes context-keeper's rationale store (decisions, pipelines, constraints) over Streamable HTTP, deployable on Cloudflare Workers and usable as a claude.ai custom connector.",
+  "source_repo": "jarmstrong158/context-keeper-remote",
+  "source_url": "https://github.com/jarmstrong158/context-keeper-remote",
+  "install": "# git clone --depth 1 https://github.com/jarmstrong158/context-keeper-remote\n# See source for mcpServers config block"
+}

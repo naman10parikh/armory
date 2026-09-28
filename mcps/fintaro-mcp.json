@@ -1,0 +1,7 @@
+{
+  "name": "fintaro-mcp",
+  "description": "Enables MCP-capable agents to read Fintaro invoices and transactions, and upload receipts, via a scoped API key with PII-safe projections.",
+  "source_repo": "fintaro-ai/fintaro-mcp",
+  "source_url": "https://github.com/fintaro-ai/fintaro-mcp",
+  "install": "npx -y fintaro-mcp"
+}

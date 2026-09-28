@@ -1,0 +1,7 @@
+{
+  "name": "commercial-registry",
+  "description": "Enables searching and retrieving Korean commercial registration precedents (617 cases) from the Supreme Court's portal for legal practice.",
+  "source_repo": "musasister/mcp-commercial-registry",
+  "source_url": "https://github.com/musasister/mcp-commercial-registry",
+  "install": "# git clone --depth 1 https://github.com/musasister/mcp-commercial-registry\n# See source for mcpServers config block"
+}

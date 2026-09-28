@@ -1,0 +1,7 @@
+{
+  "name": "youth-policy-navigator",
+  "description": "MCP server that searches and matches youth policies and subsidies, checks eligibility conditions against user profiles, and returns detailed reasons (eligible/ineligible/needs_more_info) to drive an agentic question-answer loop.",
+  "source_repo": "todayoneul/youth-policy-mcp",
+  "source_url": "https://github.com/todayoneul/youth-policy-mcp",
+  "install": "npx -y youth-policy-mcp"
+}

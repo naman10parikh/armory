@@ -1,0 +1,7 @@
+{
+  "name": "code-context-storage-mcp",
+  "description": "Provides a local SQLite-backed code context knowledge base with MCP tools for storing and querying code facts, call graphs, semantic info, evidence, and business mappings, plus versioned snapshot publishing and incremental sync.",
+  "source_repo": "Jrains-ux/code-context-storage-mcp",
+  "source_url": "https://github.com/Jrains-ux/code-context-storage-mcp",
+  "install": "npx -y code-context-storage-mcp"
+}

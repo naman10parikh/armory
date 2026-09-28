@@ -1,0 +1,7 @@
+{
+  "name": "nolane-habitat",
+  "description": "Provides coding agents with a durable, revision-aware project workspace for semantic context, governed source changes, verification, task checkpoints, and observability through an MCP interface.",
+  "source_repo": "Nolane-x/Nolane-habitat",
+  "source_url": "https://github.com/Nolane-x/Nolane-habitat",
+  "install": "# git clone --depth 1 https://github.com/Nolane-x/Nolane-habitat\n# See source for mcpServers config block"
+}

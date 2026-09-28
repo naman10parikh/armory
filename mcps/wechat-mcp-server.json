@@ -1,0 +1,7 @@
+{
+  "name": "wechat-mcp-server",
+  "description": "Enables Claude Code to read encrypted WeChat chat history from local database, search messages, view sessions and contacts.",
+  "source_repo": "SsssssSynqa/WeChat-ClaudeCode-MCP",
+  "source_url": "https://github.com/SsssssSynqa/WeChat-ClaudeCode-MCP",
+  "install": "npx -y WeChat-ClaudeCode-MCP"
+}

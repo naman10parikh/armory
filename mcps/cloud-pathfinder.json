@@ -1,0 +1,7 @@
+{
+  "name": "cloud-pathfinder",
+  "description": "MCP server for auditing infrastructure-as-code attack paths, finding multi-hop chains from public internet to sensitive resources.",
+  "source_repo": "Baneado98/cloud-pathfinder",
+  "source_url": "https://github.com/Baneado98/cloud-pathfinder",
+  "install": "# git clone --depth 1 https://github.com/Baneado98/cloud-pathfinder\n# See source for mcpServers config block"
+}

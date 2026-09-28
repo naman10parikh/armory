@@ -1,0 +1,7 @@
+{
+  "name": "tehprof-booking-mcp-server",
+  "description": "MCP server that connects AI assistants to the TehProf Booking platform for checking real-time availability and managing reservations.",
+  "source_repo": "tehprof/booking-mcp",
+  "source_url": "https://github.com/tehprof/booking-mcp",
+  "install": "npx -y booking-mcp"
+}

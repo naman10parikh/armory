@@ -1,0 +1,7 @@
+{
+  "name": "agentfetch",
+  "description": "An open-source web retrieval MCP server that fetches, crawls, and searches the web, returning clean markdown for AI agents. It integrates with Claude MCP, LangChain, and other frameworks for agentic web access.",
+  "source_repo": "SID1ART/agentfetch",
+  "source_url": "https://github.com/SID1ART/agentfetch",
+  "install": "# git clone --depth 1 https://github.com/SID1ART/agentfetch\n# See source for mcpServers config block"
+}

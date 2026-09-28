@@ -1,0 +1,7 @@
+{
+  "name": "mcp-evidence-ledger",
+  "description": "An MCP server providing an append-only, hash-chained evidence ledger for agent actions, where every record is a tamper-evident receipt cryptographically bound to all prior records and persisted as human-readable JSONL local state. It exposes tools to append records, verify chain integrity (pinpointi",
+  "source_repo": "brianpelow/mcp-evidence-ledger",
+  "source_url": "https://github.com/brianpelow/mcp-evidence-ledger",
+  "install": "# git clone --depth 1 https://github.com/brianpelow/mcp-evidence-ledger\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "domain-checker-mcp",
+  "description": "Enables fast domain availability checking via hybrid DNS and RDAP/WHOIS verification, with support for bulk queries and automatic name expansion across popular TLDs.",
+  "source_repo": "WeAreBraveLabs/domain-checker-mcp",
+  "source_url": "https://github.com/WeAreBraveLabs/domain-checker-mcp",
+  "install": "npx -y domain-checker-mcp"
+}

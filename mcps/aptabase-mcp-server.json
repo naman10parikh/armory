@@ -1,0 +1,7 @@
+{
+  "name": "aptabase-mcp-server",
+  "description": "Enables AI agents to query Aptabase analytics through MCP, including metrics, top events, countries, sessions, and more. Uses the dashboard's cookie-authenticated endpoints, so it requires an Aptabase auth session cookie.",
+  "source_repo": "aptabase/aptabase-mcp",
+  "source_url": "https://github.com/aptabase/aptabase-mcp",
+  "install": "npx -y aptabase-mcp"
+}

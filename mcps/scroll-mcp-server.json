@@ -1,0 +1,7 @@
+{
+  "name": "scroll-mcp-server",
+  "description": "MCP server for automated quality audit and corpus navigation of the Herculaneum scrolls, exposing scroll metadata, transcriptions, CT volumes, ML models, and documentation.",
+  "source_repo": "zengdard/scroll-mcp-server",
+  "source_url": "https://github.com/zengdard/scroll-mcp-server",
+  "install": "npx -y scroll-mcp-server"
+}

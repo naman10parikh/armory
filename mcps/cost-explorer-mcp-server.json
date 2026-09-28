@@ -1,0 +1,7 @@
+{
+  "name": "cost-explorer-mcp-server",
+  "description": "Enables analysis of AWS costs and usage through the AWS Cost Explorer API, supporting multi-account architectures with role assumption and cost comparison, forecasting, and anomaly detection.",
+  "source_repo": "EmmaChillonB/cost-optimizer",
+  "source_url": "https://github.com/EmmaChillonB/cost-optimizer",
+  "install": "# git clone --depth 1 https://github.com/EmmaChillonB/cost-optimizer\n# See source for mcpServers config block"
+}

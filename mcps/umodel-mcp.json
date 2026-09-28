@@ -1,0 +1,7 @@
+{
+  "name": "umodel-mcp",
+  "description": "MCP server that enables natural language listing, unpacking, and exporting of Unreal Engine game resources via umodel, including AES-encrypted pak support.",
+  "source_repo": "CHA1007/Umodel-MCP",
+  "source_url": "https://github.com/CHA1007/Umodel-MCP",
+  "install": "npx -y Umodel-MCP"
+}

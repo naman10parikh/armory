@@ -1,0 +1,7 @@
+{
+  "name": "duckdb-analytics-mcp",
+  "description": "Provides read-only SQL analytics on local CSV, Parquet, and JSON datasets using DuckDB, with pagination, security guardrails, and health monitoring.",
+  "source_repo": "pypi-ahmad/duckdb-analytics-mcp",
+  "source_url": "https://github.com/pypi-ahmad/duckdb-analytics-mcp",
+  "install": "npx -y duckdb-analytics-mcp"
+}

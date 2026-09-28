@@ -1,0 +1,7 @@
+{
+  "name": "imageapi-ai-mcp-server",
+  "description": "MCP server for ImageAPI AI that lets AI assistants generate high-resolution images, refine prompts for free, and inspect account credits directly in development workflows and chat sessions.",
+  "source_repo": "ImageAPIAI/imageapiai-mcp",
+  "source_url": "https://github.com/ImageAPIAI/imageapiai-mcp",
+  "install": "npx -y imageapiai-mcp"
+}

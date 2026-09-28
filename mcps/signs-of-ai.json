@@ -1,0 +1,7 @@
+{
+  "name": "signs-of-ai",
+  "description": "Bilingual (EN/ES) AI-writing detection that shows the evidence instead of a percentage: named tells with line and column, hidden-character inspection, and citation cross-checking against a document's own bibliography. Seven of its nine tools run entirely locally and never touch the network.",
+  "source_repo": "peopleworks/SignsofAI",
+  "source_url": "https://github.com/peopleworks/SignsofAI",
+  "install": "# git clone --depth 1 https://github.com/peopleworks/SignsofAI\n# See source for mcpServers config block"
+}

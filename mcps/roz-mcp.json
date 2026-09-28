@@ -1,0 +1,7 @@
+{
+  "name": "roz-mcp",
+  "description": "Provides C# coding agents with compiler-accurate symbol analysis, including references, renames, and impact analysis for .NET solutions.",
+  "source_repo": "andypgray/roz-mcp",
+  "source_url": "https://github.com/andypgray/roz-mcp",
+  "install": "npx -y roz-mcp"
+}

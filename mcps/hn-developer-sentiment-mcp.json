@@ -1,0 +1,7 @@
+{
+  "name": "hn-developer-sentiment-mcp",
+  "description": "A deterministic read on Hacker News developer sentiment for any brand, tool, or library, exposing four MCP tools for sentiment summary, mention search, feature requests, and trending discussions.",
+  "source_repo": "digitalgremlin/hn-developer-sentiment-mcp",
+  "source_url": "https://github.com/digitalgremlin/hn-developer-sentiment-mcp",
+  "install": "npx -y hn-developer-sentiment-mcp"
+}

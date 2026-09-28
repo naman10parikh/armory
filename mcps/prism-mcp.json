@@ -1,0 +1,7 @@
+{
+  "name": "prism-mcp",
+  "description": "MCP server providing full HTTP parity with the Prism API, enabling agents to chat, generate images/video/music/TTS, manage RAG documents and projects, and poll long jobs without a browser.",
+  "source_repo": "skyphusion-labs/prism-mcp",
+  "source_url": "https://github.com/skyphusion-labs/prism-mcp",
+  "install": "npx -y prism-mcp"
+}

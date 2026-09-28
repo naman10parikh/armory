@@ -1,0 +1,7 @@
+{
+  "name": "indonesian-stock-analysis-mcp-server",
+  "description": "Provides Indonesian stock (IDX) analysis tools for Claude Code, enabling real-time stock data, technical and fundamental analysis, and buy/sell recommendations.",
+  "source_repo": "giantrksa/stock_mcp",
+  "source_url": "https://github.com/giantrksa/stock_mcp",
+  "install": "npx -y stock_mcp"
+}

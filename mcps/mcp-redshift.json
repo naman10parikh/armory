@@ -1,0 +1,7 @@
+{
+  "name": "mcp-redshift",
+  "description": "MCP server that integrates Microsoft Copilot with Amazon Redshift, enabling catalog search, query template retrieval, and query execution with end-to-end user identity propagation.",
+  "source_repo": "RodolfoMCarneiro/mcp-redshift",
+  "source_url": "https://github.com/RodolfoMCarneiro/mcp-redshift",
+  "install": "# git clone --depth 1 https://github.com/RodolfoMCarneiro/mcp-redshift\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "roc-cwa-mcp",
+  "description": "Enables to access Taiwan Central Weather Administration data, including 3-day and 1-week weather forecasts for counties/cities and historical rainfall data.",
+  "source_repo": "lwsinclair/roc-cwa-mcp",
+  "source_url": "https://github.com/lwsinclair/roc-cwa-mcp",
+  "install": "npx -y roc-cwa-mcp"
+}

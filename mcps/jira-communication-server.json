@@ -1,0 +1,7 @@
+{
+  "name": "jira-communication-server",
+  "description": "Provides tools to interact with Jira, including JQL queries, ticket creation, editing, deletion, attachment, and project listing.",
+  "source_repo": "Yogeshknaik/jira-mcp-server",
+  "source_url": "https://github.com/Yogeshknaik/jira-mcp-server",
+  "install": "npx -y jira-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arena-mcp-extractor",
+  "description": "Read-only MCP server that exposes Rockwell Automation Arena simulation models to LLM clients via COM, without modifying them.",
+  "source_repo": "jofongang/arena-mcp",
+  "source_url": "https://github.com/jofongang/arena-mcp",
+  "install": "npx -y arena-mcp"
+}

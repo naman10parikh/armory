@@ -1,0 +1,7 @@
+{
+  "name": "context-coder-mcp",
+  "description": "Loads entire codebase into LLM context for AI-assisted code understanding and editing.",
+  "source_repo": "khromov/context-coder",
+  "source_url": "https://github.com/khromov/context-coder",
+  "install": "# git clone --depth 1 https://github.com/khromov/context-coder\n# See source for mcpServers config block"
+}

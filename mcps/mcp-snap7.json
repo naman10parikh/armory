@@ -1,0 +1,7 @@
+{
+  "name": "mcp-snap7",
+  "description": "Enables MCP clients to connect to and interact with Siemens PLCs via python-snap7, supporting read/write operations on data blocks, memory, timers, counters, and CPU management.",
+  "source_repo": "daedalus/mcp-snap7",
+  "source_url": "https://github.com/daedalus/mcp-snap7",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-snap7\n# See source for mcpServers config block"
+}

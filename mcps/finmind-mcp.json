@@ -1,0 +1,7 @@
+{
+  "name": "finmind-mcp",
+  "description": "Provides Taiwan stock market data through FinMind v4 API, including daily OHLCV, monthly revenue, institutional investors, margin trading, dividends, and financial statements. Enables MCP clients like ChatGPT or Codex to query Taiwan financial datasets via simple tools.",
+  "source_repo": "mikeleeattaiwan/finmind-mcp",
+  "source_url": "https://github.com/mikeleeattaiwan/finmind-mcp",
+  "install": "npx -y finmind-mcp"
+}

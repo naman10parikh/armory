@@ -1,0 +1,7 @@
+{
+  "name": "random-agent",
+  "description": "Enables multi-worker autonomous agent orchestration: decompose complex tasks, run parallel workers, auto-review, and generate follow-up tasks via the Model Context Protocol.",
+  "source_repo": "randomchips/random_agent",
+  "source_url": "https://github.com/randomchips/random_agent",
+  "install": "# git clone --depth 1 https://github.com/randomchips/random_agent\n# See source for mcpServers config block"
+}

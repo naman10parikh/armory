@@ -1,0 +1,7 @@
+{
+  "name": "doomscroll-mcp",
+  "description": "Enables AI agents to browse Instagram Reels by automating login, scrolling, and extracting structured metadata such as URL, creator, caption, likes, comments, and audio.",
+  "source_repo": "Sho0pi/doomscroll-mcp",
+  "source_url": "https://github.com/Sho0pi/doomscroll-mcp",
+  "install": "npx -y doomscroll-mcp"
+}

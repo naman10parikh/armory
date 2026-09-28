@@ -1,0 +1,7 @@
+{
+  "name": "auravms-mcp",
+  "description": "MCP server for AuraVMS that enables agents to manage RFQs, supplier quotes, and purchase orders with safety defaults like draft RFQs and confirmations.",
+  "source_repo": "dann26parr69/auravms-mcp",
+  "source_url": "https://github.com/dann26parr69/auravms-mcp",
+  "install": "npx -y auravms-mcp"
+}

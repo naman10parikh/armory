@@ -1,0 +1,7 @@
+{
+  "name": "commerce-ops-mcp-2",
+  "description": "Enables AI assistants to resolve carrier-exception refunds, auto-executing a bounded refund when a strict policy passes or creating a manager-approval escalation otherwise, with idempotent and concurrency-safe operations.",
+  "source_repo": "KunalPatil-24/commerce-ops-mcp",
+  "source_url": "https://github.com/KunalPatil-24/commerce-ops-mcp",
+  "install": "npx -y commerce-ops-mcp"
+}

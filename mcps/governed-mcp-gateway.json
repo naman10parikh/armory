@@ -1,0 +1,7 @@
+{
+  "name": "governed-mcp-gateway",
+  "description": "This MCP server preserves a Bearer principal on every tool call and SSE frame, rotates vaulted credentials in place, and enforces per-tool allowlists for agents.",
+  "source_repo": "Cubiczan/governed-mcp-gateway",
+  "source_url": "https://github.com/Cubiczan/governed-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/Cubiczan/governed-mcp-gateway\n# See source for mcpServers config block"
+}

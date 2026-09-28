@@ -1,0 +1,7 @@
+{
+  "name": "framefetch",
+  "description": "Agent-first video-data API + MCP across 6 platforms (YouTube/Shorts, TikTok, Reddit, Instagram, Pinterest): metadata, insights, Whisper transcript, and parametric frames. Pay-per-call via x402 (USDC) or Stripe.",
+  "source_repo": "MarvinRey7879/framefetch-client",
+  "source_url": "https://github.com/MarvinRey7879/framefetch-client",
+  "install": "# git clone --depth 1 https://github.com/MarvinRey7879/framefetch-client\n# See source for mcpServers config block"
+}

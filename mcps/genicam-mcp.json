@@ -1,0 +1,7 @@
+{
+  "name": "genicam-mcp",
+  "description": "Enumerates, connects, configures, and captures from industrial cameras via the GenICam GenTL standard, exposing the full feature tree without vendor SDK dependency.",
+  "source_repo": "finnhyun12/genicam-mcp",
+  "source_url": "https://github.com/finnhyun12/genicam-mcp",
+  "install": "npx -y genicam-mcp"
+}

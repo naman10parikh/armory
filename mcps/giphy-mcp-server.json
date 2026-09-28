@@ -1,0 +1,7 @@
+{
+  "name": "giphy-mcp-server",
+  "description": "Provides tools to search, get trending, random, and translate GIFs using the Giphy API.",
+  "source_repo": "npow/giphy-mcp-server",
+  "source_url": "https://github.com/npow/giphy-mcp-server",
+  "install": "npx -y giphy-mcp-server"
+}

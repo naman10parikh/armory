@@ -1,0 +1,7 @@
+{
+  "name": "unegui-mn-mcp-server",
+  "description": "MCP server for Mongolia's largest online classifieds platform unegui.mn, enabling AI assistants to search and retrieve listings for cars, real estate, electronics, jobs, and more with detailed information, primarily in Mongolian while supporting English queries.",
+  "source_repo": "enkhbold470/unegui.mn-mcp",
+  "source_url": "https://github.com/enkhbold470/unegui.mn-mcp",
+  "install": "npx -y unegui.mn-mcp"
+}

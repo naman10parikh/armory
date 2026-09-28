@@ -1,0 +1,7 @@
+{
+  "name": "competitor-tracker",
+  "description": "Competitor Tracker & Co. watches your competitors' websites and reports what changed: pricing, product, messaging and corporate moves, crawled weekly and filed as a tagged, ranked report. This server gives your agent the same intelligence: subscribe to competitors, read the change feed, and pull pag",
+  "source_repo": "CofounderGPT/competitor-tracker-mcp",
+  "source_url": "https://github.com/CofounderGPT/competitor-tracker-mcp",
+  "install": "npx -y competitor-tracker-mcp"
+}

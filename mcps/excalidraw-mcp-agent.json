@@ -1,0 +1,7 @@
+{
+  "name": "excalidraw-mcp-agent",
+  "description": "Generates hand-drawn Excalidraw diagrams from natural language prompts or structured descriptions, with tools for creating, listing, and opening diagrams directly in the browser.",
+  "source_repo": "Anuraj4/Excalidraw-MCP-Agent",
+  "source_url": "https://github.com/Anuraj4/Excalidraw-MCP-Agent",
+  "install": "# git clone --depth 1 https://github.com/Anuraj4/Excalidraw-MCP-Agent\n# See source for mcpServers config block"
+}

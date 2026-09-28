@@ -1,0 +1,7 @@
+{
+  "name": "unofficial-solaredge-mcp",
+  "description": "A lean Model Context Protocol (MCP) server that gives AI assistants like Claude structured access to a SolarEdge PV installation via the official SolarEdge Monitoring API.",
+  "source_repo": "holger1411/unofficial-solaredge-mcp",
+  "source_url": "https://github.com/holger1411/unofficial-solaredge-mcp",
+  "install": "npx -y unofficial-solaredge-mcp"
+}

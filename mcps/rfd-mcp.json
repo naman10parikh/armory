@@ -1,0 +1,7 @@
+{
+  "name": "rfd-mcp",
+  "description": "MCP server for searching and monitoring RedFlagDeals deals. Provides tools to search deals, get deal details, and set up monitors for new deals.",
+  "source_repo": "carteakey/rfd-mcp",
+  "source_url": "https://github.com/carteakey/rfd-mcp",
+  "install": "npx -y rfd-mcp"
+}

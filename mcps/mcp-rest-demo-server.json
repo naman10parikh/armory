@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rest-demo-server",
+  "description": "A minimal demo MCP server exposing user management tools (list, get, create, update, delete users) over both stdio and HTTP/SSE transports, wrapping an Express REST API to illustrate local vs remote MCP connectivity.",
+  "source_repo": "waqaszafar10p/mcp_rest_demo",
+  "source_url": "https://github.com/waqaszafar10p/mcp_rest_demo",
+  "install": "# git clone --depth 1 https://github.com/waqaszafar10p/mcp_rest_demo\n# See source for mcpServers config block"
+}

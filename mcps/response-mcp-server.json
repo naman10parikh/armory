@@ -1,0 +1,7 @@
+{
+  "name": "response-mcp-server",
+  "description": "Enables agentic SecOps by executing Microsoft Defender XDR response actions (device isolation, antivirus scans, forensic collection, incident management) through natural language with orchestrators like GitHub Copilot.",
+  "source_repo": "markolauren/ResponseMCP",
+  "source_url": "https://github.com/markolauren/ResponseMCP",
+  "install": "# git clone --depth 1 https://github.com/markolauren/ResponseMCP\n# See source for mcpServers config block"
+}

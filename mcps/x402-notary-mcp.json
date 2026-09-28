@@ -1,0 +1,7 @@
+{
+  "name": "x402-notary-mcp",
+  "description": "Cryptographic receipts for AI outputs — signed, chain-anchored, $0.001/call",
+  "source_repo": "forgemeshlabs/x402-notary-mcp",
+  "source_url": "https://github.com/forgemeshlabs/x402-notary-mcp",
+  "install": "npx -y x402-notary-mcp"
+}

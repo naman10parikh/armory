@@ -1,0 +1,7 @@
+{
+  "name": "chagang-mcp",
+  "description": "Enables checking recently opened apps and their usage duration on a target iPhone, and sending push notifications via ntfy.",
+  "source_repo": "zuohang20100323/chagang-mcp",
+  "source_url": "https://github.com/zuohang20100323/chagang-mcp",
+  "install": "npx -y chagang-mcp"
+}

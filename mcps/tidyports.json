@@ -1,0 +1,7 @@
+{
+  "name": "tidyports",
+  "description": "See and control the local dev servers your coding agents leave running. Lists listeners with provenance — which agent, terminal and git worktree started each — kills strays, and allocates collision-free ports so parallel agents stop fighting over :3000.",
+  "source_repo": "dan-fetch-studio/tidyports-integrations",
+  "source_url": "https://github.com/dan-fetch-studio/tidyports-integrations",
+  "install": "# git clone --depth 1 https://github.com/dan-fetch-studio/tidyports-integrations\n# See source for mcpServers config block"
+}

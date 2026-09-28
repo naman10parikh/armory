@@ -1,0 +1,7 @@
+{
+  "name": "open-payments-mcp",
+  "description": "Enables Open Payments operations such as creating incoming payments, quotes, and outgoing payments via the Interledger protocol. Supports wallet address retrieval, grant management, and payment flow automation.",
+  "source_repo": "devcer/open-payments-mcp",
+  "source_url": "https://github.com/devcer/open-payments-mcp",
+  "install": "npx -y open-payments-mcp"
+}

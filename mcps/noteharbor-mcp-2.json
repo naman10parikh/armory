@@ -1,0 +1,7 @@
+{
+  "name": "noteharbor-mcp-2",
+  "description": "Connects Obsidian Markdown notes as searchable knowledge chunks via MCP tools, enabling semantic vector search and CRUD operations through a layered service architecture.",
+  "source_repo": "kris-atelier/noteharbor-mcp",
+  "source_url": "https://github.com/kris-atelier/noteharbor-mcp",
+  "install": "npx -y noteharbor-mcp"
+}

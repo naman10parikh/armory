@@ -1,0 +1,7 @@
+{
+  "name": "lucidmem",
+  "description": "Provides a memory engine for AI agents with per-project isolation, enabling secure retrieval, saving, and management of memories with explainable ranking and access control.",
+  "source_repo": "libr3andr3/lucidmem",
+  "source_url": "https://github.com/libr3andr3/lucidmem",
+  "install": "# git clone --depth 1 https://github.com/libr3andr3/lucidmem\n# See source for mcpServers config block"
+}

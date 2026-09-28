@@ -1,0 +1,7 @@
+{
+  "name": "voice-edge",
+  "description": "Local voice and AI platform for macOS offering speech recognition, speech synthesis, MLX-based inference, OpenAI-compatible APIs, and MCP tools for use as an assistant or integration gateway.",
+  "source_repo": "woniuzfb/voice-edge",
+  "source_url": "https://github.com/woniuzfb/voice-edge",
+  "install": "# git clone --depth 1 https://github.com/woniuzfb/voice-edge\n# See source for mcpServers config block"
+}

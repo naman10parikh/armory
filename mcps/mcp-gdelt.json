@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gdelt",
+  "description": "Enables querying the GDELT database for global events, language, and tone data through natural language.",
+  "source_repo": "pipeworx-io/mcp-gdelt",
+  "source_url": "https://github.com/pipeworx-io/mcp-gdelt",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-gdelt\n# See source for mcpServers config block"
+}

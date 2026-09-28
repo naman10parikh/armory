@@ -1,0 +1,7 @@
+{
+  "name": "datafood",
+  "description": "DataFood is a remote MCP server that gives AI agents one-call access to 16 cross-niche data sources — crypto, DeFi, security, weather, news, finance, web3 — through a single Streamable-HTTP endpoint.",
+  "source_repo": "atmflow55/datafood-mcp",
+  "source_url": "https://github.com/atmflow55/datafood-mcp",
+  "install": "npx -y datafood-mcp"
+}

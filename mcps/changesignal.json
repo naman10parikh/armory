@@ -1,0 +1,7 @@
+{
+  "name": "changesignal",
+  "description": "Enables querying and analyzing changes in technology company documentation through MCP tools, including change feeds, company info, and evidence-based messaging.",
+  "source_repo": "timkeeeeeen/change-signal",
+  "source_url": "https://github.com/timkeeeeeen/change-signal",
+  "install": "# git clone --depth 1 https://github.com/timkeeeeeen/change-signal\n# See source for mcpServers config block"
+}

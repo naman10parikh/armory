@@ -1,0 +1,7 @@
+{
+  "name": "fusion360-mcp-server",
+  "description": "Enables AI assistants to generate Autodesk Fusion 360 Python scripts through natural language commands, using the Model Context Protocol (MCP) for tool calls and script generation.",
+  "source_repo": "mycelia1/fusion360-mcp-server",
+  "source_url": "https://github.com/mycelia1/fusion360-mcp-server",
+  "install": "npx -y fusion360-mcp-server"
+}

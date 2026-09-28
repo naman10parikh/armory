@@ -1,0 +1,7 @@
+{
+  "name": "qseow-mcp",
+  "description": "An MCP server for Qlik Sense Enterprise on Windows (client-managed) that exposes the on-prem Qlik API surface as MCP tools, enabling agents to query, govern, and build against the site.",
+  "source_repo": "rmterenzi/qseow-mcp",
+  "source_url": "https://github.com/rmterenzi/qseow-mcp",
+  "install": "npx -y qseow-mcp"
+}

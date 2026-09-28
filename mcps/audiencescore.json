@@ -1,0 +1,7 @@
+{
+  "name": "audiencescore",
+  "description": "Reference MCP server for the AudienceScore protocol: query a vendor's audience score (percent of verified thumbs-up over receipt-gated reviews) and get back a signed, recomputable score manifest an agent can verify without trusting the server.",
+  "source_repo": "audiencescore/audiencescore",
+  "source_url": "https://github.com/audiencescore/audiencescore",
+  "install": "# git clone --depth 1 https://github.com/audiencescore/audiencescore\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vdiff",
+  "description": "Breaking-change diffs for npm packages, served over REST and MCP, so coding agents stop writing code against outdated API knowledge.",
+  "source_repo": "mcurmi05/vdiff",
+  "source_url": "https://github.com/mcurmi05/vdiff",
+  "install": "# git clone --depth 1 https://github.com/mcurmi05/vdiff\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "psamvault-mcp",
+  "description": "MCP server for psamvault — lets AI agents use your stored credentials without ever seeing their plaintext values.",
+  "source_repo": "psam-717/psamvault-mcp",
+  "source_url": "https://github.com/psam-717/psamvault-mcp",
+  "install": "npx -y psamvault-mcp"
+}

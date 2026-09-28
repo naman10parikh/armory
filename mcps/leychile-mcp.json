@@ -1,0 +1,7 @@
+{
+  "name": "leychile-mcp",
+  "description": "MCP server that connects AI to the Chilean legislation system (Ley Chile) for retrieving legal norms, citations, and intertemporal analysis.",
+  "source_repo": "IanGuiloff/LeyChile-mcp",
+  "source_url": "https://github.com/IanGuiloff/LeyChile-mcp",
+  "install": "npx -y LeyChile-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agyenvoy",
+  "description": "A Claude Code MCP server and skill that enables delegation of prompts to agy (Antigravity/Gemini) CLI for model queries, conversation management, authentication, and image generation.",
+  "source_repo": "yinjs/agyenvoy",
+  "source_url": "https://github.com/yinjs/agyenvoy",
+  "install": "# git clone --depth 1 https://github.com/yinjs/agyenvoy\n# See source for mcpServers config block"
+}

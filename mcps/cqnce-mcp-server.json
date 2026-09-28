@@ -1,0 +1,7 @@
+{
+  "name": "cqnce-mcp-server",
+  "description": "Exposes cQnce human-in-the-loop authorization as MCP tools, letting AI agents request and await human approval for risky actions. Includes request submission, monitoring, and project/team management capabilities.",
+  "source_repo": "cqnce-app/cqnce-mcp",
+  "source_url": "https://github.com/cqnce-app/cqnce-mcp",
+  "install": "npx -y cqnce-mcp"
+}

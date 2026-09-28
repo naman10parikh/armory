@@ -1,0 +1,7 @@
+{
+  "name": "aria-mcp-news-dr",
+  "description": "Fetches Danish news from DR's RSS feeds, including national, topical, and regional news, without any API key.",
+  "source_repo": "kimhjort/aria-mcp-news-dr",
+  "source_url": "https://github.com/kimhjort/aria-mcp-news-dr",
+  "install": "# git clone --depth 1 https://github.com/kimhjort/aria-mcp-news-dr\n# See source for mcpServers config block"
+}

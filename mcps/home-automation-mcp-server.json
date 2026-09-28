@@ -1,0 +1,7 @@
+{
+  "name": "home-automation-mcp-server",
+  "description": "A comprehensive smart home automation system that allows AI assistants to control and monitor smart home devices through natural language using the Model Context Protocol (MCP).",
+  "source_repo": "balupeddireddy08/home_automation_mcp_server",
+  "source_url": "https://github.com/balupeddireddy08/home_automation_mcp_server",
+  "install": "npx -y home_automation_mcp_server"
+}

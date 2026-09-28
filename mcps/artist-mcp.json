@@ -1,0 +1,7 @@
+{
+  "name": "artist-mcp",
+  "description": "An MCP server that reads a user's OneNote notes by connecting their Microsoft account, complete with a multi-tenant web app and install CLI.",
+  "source_repo": "ManudotaORG/artist-mcp",
+  "source_url": "https://github.com/ManudotaORG/artist-mcp",
+  "install": "npx -y artist-mcp"
+}

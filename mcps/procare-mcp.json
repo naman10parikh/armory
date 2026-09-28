@@ -1,0 +1,7 @@
+{
+  "name": "procare-mcp",
+  "description": "First MCP server for the Procare Connect API, enabling querying child care center data (attendance, enrollments, family balances, etc.) via natural language from Claude, Cursor, or any MCP client.",
+  "source_repo": "sanjibani/procare-mcp",
+  "source_url": "https://github.com/sanjibani/procare-mcp",
+  "install": "npx -y procare-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "powerbi-plus",
+  "description": "MCP server for building and inspecting Power BI report visuals by editing PBIR files on disk, enabling page, chart, slicer, and layout management.",
+  "source_repo": "rajivdatta/mcp-powerbi-plus",
+  "source_url": "https://github.com/rajivdatta/mcp-powerbi-plus",
+  "install": "# git clone --depth 1 https://github.com/rajivdatta/mcp-powerbi-plus\n# See source for mcpServers config block"
+}

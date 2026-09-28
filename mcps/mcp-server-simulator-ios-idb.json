@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-simulator-ios-idb",
-  "description": "Mcp Server Simulator Ios Idb MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "arturonaredo/mcp-server-simulator-ios-idb",
   "source_url": "https://mcp.so/server/mcp-server-simulator-ios-idb/arturonaredo",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-simulator-ios-idb/arturonaredo\n# See source for mcpServers config block"

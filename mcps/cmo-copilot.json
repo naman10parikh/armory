@@ -1,0 +1,7 @@
+{
+  "name": "cmo-copilot",
+  "description": "An AI copilot for marketing budgets that uses a 6-agent society with learned memory to manage ad accounts, built as a Model Context Protocol server for Qwen Cloud.",
+  "source_repo": "vidiyala84/cmo-copilot",
+  "source_url": "https://github.com/vidiyala84/cmo-copilot",
+  "install": "# git clone --depth 1 https://github.com/vidiyala84/cmo-copilot\n# See source for mcpServers config block"
+}

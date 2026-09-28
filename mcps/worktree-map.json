@@ -1,0 +1,7 @@
+{
+  "name": "worktree-map",
+  "description": "MCP server that visualizes git branch genealogy and worktree locations within a repository, marking the current session position. Supports creating branches/worktrees, safe deletion/cleanup, and session navigation with fallback guidance.",
+  "source_repo": "520wheat/worktree-map",
+  "source_url": "https://github.com/520wheat/worktree-map",
+  "install": "# git clone --depth 1 https://github.com/520wheat/worktree-map\n# See source for mcpServers config block"
+}

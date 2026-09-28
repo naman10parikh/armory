@@ -1,0 +1,7 @@
+{
+  "name": "ai-software-engineering-team-mcp-multi-agent-system",
+  "description": "Enables users to generate complete, production-ready software projects from simple ideas by coordinating 8 specialized AI agents through the Model Context Protocol.",
+  "source_repo": "elhaweet/AI-Software-Engineering-Team-MCP-Multi-Agent-System",
+  "source_url": "https://github.com/elhaweet/AI-Software-Engineering-Team-MCP-Multi-Agent-System",
+  "install": "# git clone --depth 1 https://github.com/elhaweet/AI-Software-Engineering-Team-MCP-Multi-Agent-System\n# See source for mcpServers config block"
+}

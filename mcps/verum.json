@@ -1,0 +1,7 @@
+{
+  "name": "verum",
+  "description": "Verum's MCP server turns any codebase into a deterministic, queryable fact layer — an agent can ask who calls a function, what a change impacts, where the dead code and duplicates are, which client calls hit which routes, and run a full security/quality audit. It returns byte-identical answers in a",
+  "source_repo": "IBMark/verum",
+  "source_url": "https://github.com/IBMark/verum",
+  "install": "# git clone --depth 1 https://github.com/IBMark/verum\n# See source for mcpServers config block"
+}

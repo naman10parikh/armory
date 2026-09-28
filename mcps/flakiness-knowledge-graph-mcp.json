@@ -1,0 +1,7 @@
+{
+  "name": "flakiness-knowledge-graph-mcp",
+  "description": "This MCP server builds a local flakiness knowledge graph from Playwright test run history and enables AI agents to query flaky tests, failure patterns, trends, and correlated git commits, helping diagnose test reliability without manual analysis.",
+  "source_repo": "vola-trebla/flakiness-knowledge-graph-mcp",
+  "source_url": "https://github.com/vola-trebla/flakiness-knowledge-graph-mcp",
+  "install": "npx -y flakiness-knowledge-graph-mcp"
+}

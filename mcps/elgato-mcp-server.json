@@ -1,0 +1,7 @@
+{
+  "name": "elgato-mcp-server",
+  "description": "Bridges AI assistants with Elgato apps via IPC, enabling dynamic tool discovery and notification forwarding.",
+  "source_repo": "elgatosf/elgato-mcp-server",
+  "source_url": "https://github.com/elgatosf/elgato-mcp-server",
+  "install": "npx -y elgato-mcp-server"
+}

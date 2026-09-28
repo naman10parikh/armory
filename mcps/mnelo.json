@@ -1,0 +1,7 @@
+{
+  "name": "mnelo",
+  "description": "Local-first, single-file, knowledge-graph memory layer for AI agents.",
+  "source_repo": "chinesewebman/mnelo",
+  "source_url": "https://github.com/chinesewebman/mnelo",
+  "install": "# git clone --depth 1 https://github.com/chinesewebman/mnelo\n# See source for mcpServers config block"
+}

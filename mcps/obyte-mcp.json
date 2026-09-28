@@ -1,0 +1,7 @@
+{
+  "name": "obyte-mcp",
+  "description": "A local MCP server that enables AI tools to query Obyte blockchain data including balances, units, autonomous agent state and dry runs, and token symbols, supporting both mainnet and testnet.",
+  "source_repo": "Taump/obyte-mcp",
+  "source_url": "https://github.com/Taump/obyte-mcp",
+  "install": "npx -y obyte-mcp"
+}

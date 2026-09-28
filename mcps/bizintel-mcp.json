@@ -1,0 +1,7 @@
+{
+  "name": "bizintel-mcp",
+  "description": "Provides real-time website audits, lead scoring, tech-stack detection, and local-business search for AI agents doing sales outreach and competitor research.",
+  "source_repo": "bch1212/mcp-bizintel",
+  "source_url": "https://github.com/bch1212/mcp-bizintel",
+  "install": "# git clone --depth 1 https://github.com/bch1212/mcp-bizintel\n# See source for mcpServers config block"
+}

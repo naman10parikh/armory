@@ -1,0 +1,7 @@
+{
+  "name": "1acre-mcp",
+  "description": "Official MCP server for 1acre.in, enabling lookup of survey numbers, browsing cadastral data, and generating land-intelligence reports for India's verified land marketplace through MCP-compatible clients.",
+  "source_repo": "1acre-in/1acre-mcp",
+  "source_url": "https://github.com/1acre-in/1acre-mcp",
+  "install": "npx -y 1acre-mcp"
+}

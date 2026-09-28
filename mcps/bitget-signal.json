@@ -1,0 +1,7 @@
+{
+  "name": "bitget-signal",
+  "description": "5 crypto market analysis skills for Claude Code, Codex & OpenClaw — macro, on-chain, sentiment, technical & news. Installer deploys skills and registers the public MCP data server.",
+  "source_repo": "Bitget-AI/bitget-signal",
+  "source_url": "https://github.com/Bitget-AI/bitget-signal",
+  "install": "# git clone --depth 1 https://github.com/Bitget-AI/bitget-signal\n# See source for mcpServers config block"
+}

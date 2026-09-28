@@ -1,0 +1,7 @@
+{
+  "name": "douyin-engagement-mcp",
+  "description": "A local MCP server that enables Douyin keyword search and comment campaigns through the user's own logged-in Chrome, with human approval, cross-campaign deduplication, and resume after manual verification.",
+  "source_repo": "77rickliu/Douyin-Engagement-MCP",
+  "source_url": "https://github.com/77rickliu/Douyin-Engagement-MCP",
+  "install": "npx -y Douyin-Engagement-MCP"
+}

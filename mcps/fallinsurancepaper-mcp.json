@@ -1,0 +1,7 @@
+{
+  "name": "fallinsurancepaper-mcp",
+  "description": "MCP server for Foldkit that exposes 7-prime spine, 7 κ-bands, and 6 fold operations as tools and resources for AI-assisted origami state analysis.",
+  "source_repo": "sjgant80-hub/fallinsurancepaper-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallinsurancepaper-mcp",
+  "install": "npx -y fallinsurancepaper-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-git-mcp",
+  "description": "This MCP server enables AI collaborators to read and write to a git-backed Obsidian vault with transactional integrity, ensuring every write is a validated, attributed commit pushed to the remote.",
+  "source_repo": "CTristan/obsidian-git-mcp",
+  "source_url": "https://github.com/CTristan/obsidian-git-mcp",
+  "install": "npx -y obsidian-git-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "happy-medbox-mcp-server",
+  "description": "An MCP server for managing a home medicine box, enabling AI assistants to query medicines, recognize images, compute expiry dates, and get medication advice via stdio JSON-RPC.",
+  "source_repo": "tomwugdgz/happy-medbox",
+  "source_url": "https://github.com/tomwugdgz/happy-medbox",
+  "install": "# git clone --depth 1 https://github.com/tomwugdgz/happy-medbox\n# See source for mcpServers config block"
+}

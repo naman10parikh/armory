@@ -1,0 +1,7 @@
+{
+  "name": "shyn",
+  "description": "Enables AI assistants to search and retrieve memories from your Mac, including screen captures, meeting transcripts, and browsing history, all locally and privately.",
+  "source_repo": "shyn-labs/shyn",
+  "source_url": "https://github.com/shyn-labs/shyn",
+  "install": "# git clone --depth 1 https://github.com/shyn-labs/shyn\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "geometry-engine-mcp-server",
+  "description": "Provides geometry utilities like hypotenuse calculation and shape registration, allowing users to perform geometry operations through natural language in VS Code.",
+  "source_repo": "prasannafree/my_mcp",
+  "source_url": "https://github.com/prasannafree/my_mcp",
+  "install": "npx -y my_mcp"
+}

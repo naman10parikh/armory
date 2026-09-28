@@ -1,0 +1,7 @@
+{
+  "name": "fugaku-mcp",
+  "description": "MCP server for the Fugaku supercomputer that enables natural language job submission, monitoring, file transfer, and command execution via AI agents like Claude Code.",
+  "source_repo": "fumiyoshi-shoji/fugaku-mcp",
+  "source_url": "https://github.com/fumiyoshi-shoji/fugaku-mcp",
+  "install": "npx -y fugaku-mcp"
+}

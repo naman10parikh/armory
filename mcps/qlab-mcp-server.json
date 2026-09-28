@@ -1,0 +1,7 @@
+{
+  "name": "qlab-mcp-server",
+  "description": "Enables LLMs to control QLab live over OSC, including querying workspaces, managing cues, and sending raw OSC or AppleScript commands.",
+  "source_repo": "magichao326/qlab-mcp",
+  "source_url": "https://github.com/magichao326/qlab-mcp",
+  "install": "npx -y qlab-mcp"
+}

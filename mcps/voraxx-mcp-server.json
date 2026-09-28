@@ -1,0 +1,7 @@
+{
+  "name": "voraxx-mcp-server",
+  "description": "A minimal, dependency-free MCP server that gives AI agents three real, read-only security-orchestration tools: cve_lookup, shodan_host_lookup, and nuclei_scan.",
+  "source_repo": "bharat3645/voraxx-mcp-server",
+  "source_url": "https://github.com/bharat3645/voraxx-mcp-server",
+  "install": "npx -y voraxx-mcp-server"
+}

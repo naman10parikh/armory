@@ -1,0 +1,7 @@
+{
+  "name": "agentsbestfriend",
+  "description": "Give your AI coding agents superpowers — a local MCP server for fast, token-efficient code navigation, search & analysis.",
+  "source_repo": "TheRealFloatDev/AgentsBestFriend",
+  "source_url": "https://github.com/TheRealFloatDev/AgentsBestFriend",
+  "install": "# git clone --depth 1 https://github.com/TheRealFloatDev/AgentsBestFriend\n# See source for mcpServers config block"
+}

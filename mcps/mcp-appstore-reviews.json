@@ -1,0 +1,7 @@
+{
+  "name": "mcp-appstore-reviews",
+  "description": "Enables reading Apple App Store customer reviews, publishing developer responses, and deleting them via the App Store Connect API with a narrow Customer Support role.",
+  "source_repo": "ForgeHQ-Agents/mcp-appstore-reviews",
+  "source_url": "https://github.com/ForgeHQ-Agents/mcp-appstore-reviews",
+  "install": "# git clone --depth 1 https://github.com/ForgeHQ-Agents/mcp-appstore-reviews\n# See source for mcpServers config block"
+}

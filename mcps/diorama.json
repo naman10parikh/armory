@@ -1,0 +1,7 @@
+{
+  "name": "diorama",
+  "description": "MCP server for recording and validating Chrome extension demo videos from YAML beat sheets, enabling agents to script and generate pixel-perfect videos.",
+  "source_repo": "daniel-ddtech/diorama",
+  "source_url": "https://github.com/daniel-ddtech/diorama",
+  "install": "# git clone --depth 1 https://github.com/daniel-ddtech/diorama\n# See source for mcpServers config block"
+}

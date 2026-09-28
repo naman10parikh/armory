@@ -1,0 +1,7 @@
+{
+  "name": "reflens",
+  "description": "An MCP server that indexes reference repositories and provides tools for AI coding agents to retrieve lossless code context, enabling reasoning over codebases larger than the agent's context window.",
+  "source_repo": "cybertronayush/reflens",
+  "source_url": "https://github.com/cybertronayush/reflens",
+  "install": "# git clone --depth 1 https://github.com/cybertronayush/reflens\n# See source for mcpServers config block"
+}

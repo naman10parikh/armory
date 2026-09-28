@@ -1,0 +1,7 @@
+{
+  "name": "fabric-model-reader-mcp",
+  "description": "MCP server for reading and analyzing Fabric semantic models. Supports getting model definitions and executing DAX queries against Power BI datasets.",
+  "source_repo": "data-goblin/fabric-model-reader-mcp",
+  "source_url": "https://github.com/data-goblin/fabric-model-reader-mcp",
+  "install": "npx -y fabric-model-reader-mcp"
+}

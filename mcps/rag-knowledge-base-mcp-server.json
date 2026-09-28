@@ -1,0 +1,7 @@
+{
+  "name": "rag-knowledge-base-mcp-server",
+  "description": "Enables searching a knowledge base and asking grounded questions with hybrid retrieval, reranking, and cited answers.",
+  "source_repo": "RaulSaavedraDeLaRiera/Rag-Knowledge-Documentation",
+  "source_url": "https://github.com/RaulSaavedraDeLaRiera/Rag-Knowledge-Documentation",
+  "install": "# git clone --depth 1 https://github.com/RaulSaavedraDeLaRiera/Rag-Knowledge-Documentation\n# See source for mcpServers config block"
+}

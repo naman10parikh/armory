@@ -1,0 +1,7 @@
+{
+  "name": "arcleap-mcp",
+  "description": "MCP server that lets AI agents bridge native USDC between networks (Ethereum, Base, Arbitrum, OP Mainnet, Polygon, Avalanche, and testnets) via Circle CCTP V2, featuring idempotent transfers, disk-persisted state, balance/gas checks, and configurable limits.",
+  "source_repo": "danilaverbena/arcleap-mcp",
+  "source_url": "https://github.com/danilaverbena/arcleap-mcp",
+  "install": "npx -y arcleap-mcp"
+}

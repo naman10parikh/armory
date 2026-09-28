@@ -1,0 +1,7 @@
+{
+  "name": "mcp-typescript",
+  "description": "A TypeScript backend server providing REST API tools for word counting, UUID generation, and AI prompts via Claude.",
+  "source_repo": "paolaalim/mcp_typescript",
+  "source_url": "https://github.com/paolaalim/mcp_typescript",
+  "install": "# git clone --depth 1 https://github.com/paolaalim/mcp_typescript\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-mg-uberl-ndia-certid-o-negativa-de-d-bitos",
+  "description": "MCP server for querying official negative debt certificates from Uberlândia, MG, Brazil via a single read-only tool, pay-per-use with prepaid credits.",
+  "source_repo": "mcp-dir/pref_mg_uberlandia_cnd-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_mg_uberlandia_cnd-mcp",
+  "install": "npx -y pref_mg_uberlandia_cnd-mcp"
+}

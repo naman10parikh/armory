@@ -1,0 +1,7 @@
+{
+  "name": "grace-hello-mcp",
+  "description": "A simple remote MCP server that exposes a greeting tool (say_hello) and demonstrates custom icon advertising per MCP spec, ready to deploy on Render.",
+  "source_repo": "rajitharul/grace-hello-mcp",
+  "source_url": "https://github.com/rajitharul/grace-hello-mcp",
+  "install": "npx -y grace-hello-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ragify-docs-mcp",
+  "description": "Scrapes documentation sites, chunks and embeds content locally, then retrieves relevant passages for queries. Enables agents to ask questions grounded in documentation.",
+  "source_repo": "codewithyasho/ragify_docs_mcp",
+  "source_url": "https://github.com/codewithyasho/ragify_docs_mcp",
+  "install": "npx -y ragify_docs_mcp"
+}

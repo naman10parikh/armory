@@ -1,0 +1,7 @@
+{
+  "name": "forgein",
+  "description": "Persistent context layer for AI coding assistants. Sync memory files from Claude Code to ChatGPT, Gemini, Cursor, Windsurf, and Copilot via a native MCP endpoint. Bearer token auth, JSON-RPC 2.0 over stateless HTTP. Free tier available.",
+  "source_repo": "forgeinai/forgein",
+  "source_url": "https://github.com/forgeinai/forgein",
+  "install": "# git clone --depth 1 https://github.com/forgeinai/forgein\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pgops-mcp",
+  "description": "Enables AI agents to safely and audibly operate PostgreSQL databases and their Docker environments, offering schema inspection, guarded queries, migrations, performance diagnosis, and container management tools.",
+  "source_repo": "arzharch/pgops-mcp",
+  "source_url": "https://github.com/arzharch/pgops-mcp",
+  "install": "npx -y pgops-mcp"
+}

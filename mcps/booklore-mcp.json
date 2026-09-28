@@ -1,0 +1,7 @@
+{
+  "name": "booklore-mcp",
+  "description": "Enables AI assistants to interact with BookLore self-hosted libraries, allowing natural language queries to search books, manage reading status, ratings, series, authors, and highlights.",
+  "source_repo": "cyberglitchlabs/booklore-mcp",
+  "source_url": "https://github.com/cyberglitchlabs/booklore-mcp",
+  "install": "npx -y booklore-mcp"
+}

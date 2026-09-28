@@ -1,0 +1,7 @@
+{
+  "name": "chord-synth",
+  "description": "Generates chord progression WAV files with 28 presets, 22 arpeggio patterns, 7 instruments, and drum tracks via MCP tools like generate_wav and list_options.",
+  "source_repo": "Misfits-Rebels-Outcasts/chord-synth",
+  "source_url": "https://github.com/Misfits-Rebels-Outcasts/chord-synth",
+  "install": "# git clone --depth 1 https://github.com/Misfits-Rebels-Outcasts/chord-synth\n# See source for mcpServers config block"
+}

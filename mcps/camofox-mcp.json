@@ -1,0 +1,7 @@
+{
+  "name": "camofox-mcp",
+  "description": "A stdio MCP server that bridges the camofox-browser anti-detection browser automation API as MCP tools, with built-in SSRF and prompt injection protections.",
+  "source_repo": "tonjun/camofox-mcp",
+  "source_url": "https://github.com/tonjun/camofox-mcp",
+  "install": "npx -y camofox-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ppap-review-workbench",
+  "description": "An MCP server that enables deterministic supplier quality engineer review of PPAP cases through structured state management, tools, and an interactive workbench UI within Langdock, with human approval authority.",
+  "source_repo": "AdarshRajDS/ppap-review-mcp",
+  "source_url": "https://github.com/AdarshRajDS/ppap-review-mcp",
+  "install": "npx -y ppap-review-mcp"
+}

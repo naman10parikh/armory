@@ -1,0 +1,7 @@
+{
+  "name": "ios-emoji-mcp",
+  "description": "A Model Context Protocol (MCP) server that provides access to iOS emoji images with URLs for both 160x160px and 320x320px versions.",
+  "source_repo": "Medard-prog/ios-emoji-mcp",
+  "source_url": "https://github.com/Medard-prog/ios-emoji-mcp",
+  "install": "npx -y ios-emoji-mcp"
+}

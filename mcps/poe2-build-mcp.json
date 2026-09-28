@@ -1,0 +1,7 @@
+{
+  "name": "poe2-build-mcp",
+  "description": "An MCP server for Path of Exile 2: a queryable game corpus plus Path-of-Building-faithful calculations, so an LLM can import your build, answer questions, and theorycraft against real numbers (not invented ones).",
+  "source_repo": "MaxWilk/poe2-build-mcp",
+  "source_url": "https://github.com/MaxWilk/poe2-build-mcp",
+  "install": "npx -y poe2-build-mcp"
+}

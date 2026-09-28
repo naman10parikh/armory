@@ -1,0 +1,7 @@
+{
+  "name": "al-go-mcp-server",
+  "description": "Enables intelligent access to AL-Go documentation, workflows, and domain expertise for Business Central development automation through specialized personas and cross-source semantic search.",
+  "source_repo": "louagej/al-go-mcp-server",
+  "source_url": "https://github.com/louagej/al-go-mcp-server",
+  "install": "npx -y al-go-mcp-server"
+}

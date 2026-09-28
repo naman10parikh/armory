@@ -1,0 +1,7 @@
+{
+  "name": "metis",
+  "description": "Metis — an open-source (AGPL-3.0), local-first MCP server / research companion. It answers from the user's own indexed PDF library with page-level citations (and flags what it can't find rather than inventing), keeps all data on the user's machine, and routes requests to 34 specialist agents.",
+  "source_repo": "SVerITG/Metis_PH",
+  "source_url": "https://github.com/SVerITG/Metis_PH",
+  "install": "# git clone --depth 1 https://github.com/SVerITG/Metis_PH\n# See source for mcpServers config block"
+}

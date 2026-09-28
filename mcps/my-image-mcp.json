@@ -1,0 +1,7 @@
+{
+  "name": "my-image-mcp",
+  "description": "Enables image generation, editing, and composition using any OpenAI-compatible Images API within MCP clients, Dify, and n8n, delivering results as image blocks, structured fields, or resource links.",
+  "source_repo": "less55093-collab/my-image-mcp",
+  "source_url": "https://github.com/less55093-collab/my-image-mcp",
+  "install": "npx -y my-image-mcp"
+}

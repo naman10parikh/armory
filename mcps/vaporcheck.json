@@ -1,0 +1,7 @@
+{
+  "name": "vaporcheck",
+  "description": "Blocks AI coding assistants from installing non-existent packages and accessing non-existent files.",
+  "source_repo": "cdmx-in/vaporcheck",
+  "source_url": "https://github.com/cdmx-in/vaporcheck",
+  "install": "# git clone --depth 1 https://github.com/cdmx-in/vaporcheck\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "eff-mcp",
+  "description": "EFF MCP server enables ethical analysis and refinement of user stories using the Ethics Filter Framework, providing scoring, harm clauses, and acceptance criteria across five ethical dimensions, for integration with MCP-compatible agent platforms.",
+  "source_repo": "vs3kulic/eff-mcp",
+  "source_url": "https://github.com/vs3kulic/eff-mcp",
+  "install": "npx -y eff-mcp"
+}

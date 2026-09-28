@@ -1,0 +1,7 @@
+{
+  "name": "s3-mcp",
+  "description": "MCP server for AWS S3 and compatible object stores, enabling LLM clients to browse buckets and fetch objects.",
+  "source_repo": "EpykLab/s3-mcp",
+  "source_url": "https://github.com/EpykLab/s3-mcp",
+  "install": "npx -y s3-mcp"
+}

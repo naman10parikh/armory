@@ -1,0 +1,7 @@
+{
+  "name": "civitai-mcp",
+  "description": "A model context protocol server for Civitai that enables searching models by various filters, viewing previews, downloading model files, reading image generation parameters from local or Civitai images, and generating images via the Civitai Orchestration API.",
+  "source_repo": "PaulKuzmin/civitai-mcp",
+  "source_url": "https://github.com/PaulKuzmin/civitai-mcp",
+  "install": "npx -y civitai-mcp"
+}

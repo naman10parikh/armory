@@ -1,0 +1,7 @@
+{
+  "name": "cafeteria-mcp",
+  "description": "Configurable MCP server for cafeteria menu lookup.",
+  "source_repo": "skax-joonho-park/cafeteria-mcp",
+  "source_url": "https://github.com/skax-joonho-park/cafeteria-mcp",
+  "install": "npx -y cafeteria-mcp"
+}

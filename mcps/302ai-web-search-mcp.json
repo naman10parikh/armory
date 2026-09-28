@@ -1,0 +1,7 @@
+{
+  "name": "302ai-web-search-mcp",
+  "description": "Enables web search functionality via the 302AI API.",
+  "source_repo": "302ai/302_web_search_mcp",
+  "source_url": "https://github.com/302ai/302_web_search_mcp",
+  "install": "npx -y 302_web_search_mcp"
+}

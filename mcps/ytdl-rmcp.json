@@ -1,0 +1,7 @@
+{
+  "name": "ytdl-rmcp",
+  "description": "MCP server and CLI for yt-dlp to search and download media, embed metadata and cover art, and deliver to local, SSH, rclone, or Plex targets.",
+  "source_repo": "dinglebear-ai/rytdl",
+  "source_url": "https://github.com/dinglebear-ai/rytdl",
+  "install": "# git clone --depth 1 https://github.com/dinglebear-ai/rytdl\n# See source for mcpServers config block"
+}

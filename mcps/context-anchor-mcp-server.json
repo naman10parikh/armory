@@ -1,0 +1,7 @@
+{
+  "name": "context-anchor-mcp-server",
+  "description": "Git-native MCP server for managing AI context across sessions. Enables LLMs to access project and feature context via markdown files, preserving decisions and constraints.",
+  "source_repo": "DevDario/context-anchor",
+  "source_url": "https://github.com/DevDario/context-anchor",
+  "install": "# git clone --depth 1 https://github.com/DevDario/context-anchor\n# See source for mcpServers config block"
+}

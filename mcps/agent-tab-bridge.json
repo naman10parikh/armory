@@ -1,0 +1,7 @@
+{
+  "name": "agent-tab-bridge",
+  "description": "Enables local AI agents to control Chrome in parallel with isolated tab groups, supporting operations like navigation, clicks, and form filling without interference.",
+  "source_repo": "shibanyu333/agent-tab-bridge",
+  "source_url": "https://github.com/shibanyu333/agent-tab-bridge",
+  "install": "# git clone --depth 1 https://github.com/shibanyu333/agent-tab-bridge\n# See source for mcpServers config block"
+}

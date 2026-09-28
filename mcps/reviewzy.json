@@ -1,0 +1,7 @@
+{
+  "name": "reviewzy",
+  "description": "MCP server for human-in-the-loop copy review. Enables coding agents to file draft strings for user-facing text, humans to approve or reject them on a dashboard, and later agent sessions to fetch approved copy and apply it in place.",
+  "source_repo": "uwuclxdy/reviewzy",
+  "source_url": "https://github.com/uwuclxdy/reviewzy",
+  "install": "# git clone --depth 1 https://github.com/uwuclxdy/reviewzy\n# See source for mcpServers config block"
+}

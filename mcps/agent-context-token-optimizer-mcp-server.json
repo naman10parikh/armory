@@ -1,0 +1,7 @@
+{
+  "name": "agent-context-token-optimizer-mcp-server",
+  "description": "Provides owner-bound secure storage and retrieval of tool outputs via MCP tools, enabling trusted persistence for agents like Claude Code, Codex CLI, and OpenCode.",
+  "source_repo": "DeathOVOGod/agent-context-token-optimizer",
+  "source_url": "https://github.com/DeathOVOGod/agent-context-token-optimizer",
+  "install": "# git clone --depth 1 https://github.com/DeathOVOGod/agent-context-token-optimizer\n# See source for mcpServers config block"
+}

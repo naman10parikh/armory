@@ -1,0 +1,7 @@
+{
+  "name": "tls-radar",
+  "description": "Free SSL/TLS scanning and Let's Encrypt certificate issuance (private key stays local), plus certificate-expiry monitoring via one MCP server. Public scan and cert tools need no account.",
+  "source_repo": "TLS-Radar/tlsradar-claude-plugin",
+  "source_url": "https://github.com/TLS-Radar/tlsradar-claude-plugin",
+  "install": "# git clone --depth 1 https://github.com/TLS-Radar/tlsradar-claude-plugin\n# See source for mcpServers config block"
+}

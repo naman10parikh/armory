@@ -1,0 +1,7 @@
+{
+  "name": "trello-mcp-server-optimized",
+  "description": "A high-performance MCP server for Trello integration with 97% token reduction through intelligent response optimization, enabling efficient board, card, and list management.",
+  "source_repo": "Deepankar1993/trello-mcp-server-optimize",
+  "source_url": "https://github.com/Deepankar1993/trello-mcp-server-optimize",
+  "install": "# git clone --depth 1 https://github.com/Deepankar1993/trello-mcp-server-optimize\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fcpc-lms-mcp-server",
+  "description": "Enables AI assistants to query and manage Moodle LMS data, including assignment deadlines, unread messages, unfinished quizzes, and enrolled courses, using natural language via OpenAI or local LLMs.",
+  "source_repo": "Ogaaawa/FCPC-lms-mcp-server",
+  "source_url": "https://github.com/Ogaaawa/FCPC-lms-mcp-server",
+  "install": "npx -y FCPC-lms-mcp-server"
+}

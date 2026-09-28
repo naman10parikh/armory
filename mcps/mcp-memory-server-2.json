@@ -1,0 +1,7 @@
+{
+  "name": "mcp-memory-server-2",
+  "description": "MCP server for memory management with process inspection and cleanup tools.",
+  "source_repo": "paolino/mcp-memory-server",
+  "source_url": "https://github.com/paolino/mcp-memory-server",
+  "install": "# git clone --depth 1 https://github.com/paolino/mcp-memory-server\n# See source for mcpServers config block"
+}

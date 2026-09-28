@@ -1,0 +1,7 @@
+{
+  "name": "browser-trace",
+  "description": "MCP server that lets agents drive a browser and record every action into a replayable trace, then replay it deterministically with network request assertions. It exposes tools for navigating, clicking, filling, and verifying requests.",
+  "source_repo": "Wadehl/browser-trace",
+  "source_url": "https://github.com/Wadehl/browser-trace",
+  "install": "# git clone --depth 1 https://github.com/Wadehl/browser-trace\n# See source for mcpServers config block"
+}

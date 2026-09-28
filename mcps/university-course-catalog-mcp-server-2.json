@@ -1,0 +1,7 @@
+{
+  "name": "university-course-catalog-mcp-server-2",
+  "description": "MCP server exposing a university course catalog with tools for searching courses, looking up prerequisites and instructors, and generating prerequisite graphs, plus resources and a prompt template for AI academic advisors.",
+  "source_repo": "Rushikesh-5706/MCP-Server-for-a-University-Course-Catalog",
+  "source_url": "https://github.com/Rushikesh-5706/MCP-Server-for-a-University-Course-Catalog",
+  "install": "# git clone --depth 1 https://github.com/Rushikesh-5706/MCP-Server-for-a-University-Course-Catalog\n# See source for mcpServers config block"
+}

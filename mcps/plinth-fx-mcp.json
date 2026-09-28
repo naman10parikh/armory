@@ -1,0 +1,7 @@
+{
+  "name": "plinth-fx-mcp",
+  "description": "MCP server that provides real exchange-rate data from the European Central Bank, including latest rates, currency conversion, historical rates, and time series.",
+  "source_repo": "plinthkit/plinth-fx-mcp",
+  "source_url": "https://github.com/plinthkit/plinth-fx-mcp",
+  "install": "npx -y plinth-fx-mcp"
+}

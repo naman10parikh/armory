@@ -1,0 +1,7 @@
+{
+  "name": "ecl-mcp",
+  "description": "Provides AI agents with access to the European Commission's Component Library documentation and code examples, enabling full-text search and recipe retrieval.",
+  "source_repo": "gkastanis/ecl_mcp",
+  "source_url": "https://github.com/gkastanis/ecl_mcp",
+  "install": "npx -y ecl_mcp"
+}

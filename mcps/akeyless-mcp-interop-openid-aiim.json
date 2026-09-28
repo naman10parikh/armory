@@ -1,0 +1,7 @@
+{
+  "name": "akeyless-mcp-interop-openid-aiim",
+  "description": "Implements an MCP server with OAuth 2.1 Protected Resource Metadata, enabling token-based authentication for MCP tools like ping.",
+  "source_repo": "akeyless-community/mcp-interop",
+  "source_url": "https://github.com/akeyless-community/mcp-interop",
+  "install": "# git clone --depth 1 https://github.com/akeyless-community/mcp-interop\n# See source for mcpServers config block"
+}

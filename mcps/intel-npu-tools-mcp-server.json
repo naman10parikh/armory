@@ -1,0 +1,7 @@
+{
+  "name": "intel-npu-tools-mcp-server",
+  "description": "Enables MCP clients to leverage the Intel Arrow Lake NPU for local speech transcription, screenshot OCR, private semantic search, and hardware diagnostics, all processed locally.",
+  "source_repo": "etreby/intel-arrow-lake-npu-tools",
+  "source_url": "https://github.com/etreby/intel-arrow-lake-npu-tools",
+  "install": "# git clone --depth 1 https://github.com/etreby/intel-arrow-lake-npu-tools\n# See source for mcpServers config block"
+}

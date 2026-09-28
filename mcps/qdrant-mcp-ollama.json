@@ -1,0 +1,7 @@
+{
+  "name": "qdrant-mcp-ollama",
+  "description": "Enables AI assistants to perform semantic search and retrieval across codebases stored in Qdrant, using Ollama models for GPU-accelerated embeddings.",
+  "source_repo": "michal7kw/qdrant-mcp-ollama",
+  "source_url": "https://github.com/michal7kw/qdrant-mcp-ollama",
+  "install": "# git clone --depth 1 https://github.com/michal7kw/qdrant-mcp-ollama\n# See source for mcpServers config block"
+}

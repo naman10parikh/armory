@@ -1,0 +1,7 @@
+{
+  "name": "codedoc-mcp-server",
+  "description": "Enforces code quality, security, and architectural integrity by auditing, refactoring, and documenting codebases within Cursor and Claude.",
+  "source_repo": "Akshay1018/mcp-codedoc",
+  "source_url": "https://github.com/Akshay1018/mcp-codedoc",
+  "install": "# git clone --depth 1 https://github.com/Akshay1018/mcp-codedoc\n# See source for mcpServers config block"
+}

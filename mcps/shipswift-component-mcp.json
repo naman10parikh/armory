@@ -1,0 +1,7 @@
+{
+  "name": "shipswift-component-mcp",
+  "description": "Paid remote MCP server for ShipSwift providing tools to search SwiftUI components, generate patches, validate dependency policies, and export component receipts.",
+  "source_repo": "clauxel/shipswift-component-mcp-mcp",
+  "source_url": "https://github.com/clauxel/shipswift-component-mcp-mcp",
+  "install": "npx -y shipswift-component-mcp-mcp"
+}

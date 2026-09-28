@@ -1,0 +1,7 @@
+{
+  "name": "japan-transit-mcp",
+  "description": "Enables route planning and transit information retrieval for Japan using the public Transit API. Supports searching stations, planning routes, and checking departures.",
+  "source_repo": "Anchovy-s3/japan-transit-mcp",
+  "source_url": "https://github.com/Anchovy-s3/japan-transit-mcp",
+  "install": "npx -y japan-transit-mcp"
+}

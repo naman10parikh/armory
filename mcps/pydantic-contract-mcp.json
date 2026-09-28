@@ -1,0 +1,7 @@
+{
+  "name": "pydantic-contract-mcp",
+  "description": "Paid remote MCP server for Pydantic AI structured output providing contract validation, schema diff, repair hints, and audit-ready receipts.",
+  "source_repo": "clauxel/pydantic-contract-mcp",
+  "source_url": "https://github.com/clauxel/pydantic-contract-mcp",
+  "install": "npx -y pydantic-contract-mcp"
+}

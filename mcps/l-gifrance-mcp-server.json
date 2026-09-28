@@ -1,0 +1,7 @@
+{
+  "name": "l-gifrance-mcp-server",
+  "description": "Enables querying French legal codes (e.g., Code civil) to retrieve specific articles via the Légifrance API.",
+  "source_repo": "System09192/legifrance-mcp-server",
+  "source_url": "https://github.com/System09192/legifrance-mcp-server",
+  "install": "npx -y legifrance-mcp-server"
+}

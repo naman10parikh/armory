@@ -1,0 +1,7 @@
+{
+  "name": "mcp-permission-guard",
+  "description": "Intent-based permission system with risk scoring, rule engine, and audit trail for AI agents.",
+  "source_repo": "aaameobius-crypto/mcp-permission-guard",
+  "source_url": "https://github.com/aaameobius-crypto/mcp-permission-guard",
+  "install": "# git clone --depth 1 https://github.com/aaameobius-crypto/mcp-permission-guard\n# See source for mcpServers config block"
+}

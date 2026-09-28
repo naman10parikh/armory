@@ -1,0 +1,7 @@
+{
+  "name": "cortex-mcp",
+  "description": "Persistent brain, memory, loop controller, and reminder engine for AI coding agents.",
+  "source_repo": "neuralnexustech/cortex-mcp",
+  "source_url": "https://github.com/neuralnexustech/cortex-mcp",
+  "install": "npx -y cortex-mcp"
+}

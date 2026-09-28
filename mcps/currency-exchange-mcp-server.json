@@ -1,0 +1,7 @@
+{
+  "name": "currency-exchange-mcp-server",
+  "description": "Enables real-time currency exchange rate retrieval and conversion for over 200 currencies. Supports operations like getting rates, converting amounts, and comparing currencies through natural language.",
+  "source_repo": "adem1409/Currency-Exchange-MCP-Server",
+  "source_url": "https://github.com/adem1409/Currency-Exchange-MCP-Server",
+  "install": "npx -y Currency-Exchange-MCP-Server"
+}

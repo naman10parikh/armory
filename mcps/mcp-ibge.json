@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ibge",
+  "description": "Exposes official IBGE data as MCP tools, including Brazilian localities, SIDRA statistical aggregates, and population indicators.",
+  "source_repo": "FilipePessoa30/mcp-ibge",
+  "source_url": "https://github.com/FilipePessoa30/mcp-ibge",
+  "install": "# git clone --depth 1 https://github.com/FilipePessoa30/mcp-ibge\n# See source for mcpServers config block"
+}

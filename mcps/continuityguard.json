@@ -1,0 +1,7 @@
+{
+  "name": "continuityguard",
+  "description": "MCP server wrapping the ContinuityGuard CLI as a single generic run tool for video-clip continuity scans.",
+  "source_repo": "RudrenduPaul/ContinuityGuard",
+  "source_url": "https://github.com/RudrenduPaul/ContinuityGuard",
+  "install": "# git clone --depth 1 https://github.com/RudrenduPaul/ContinuityGuard\n# See source for mcpServers config block"
+}

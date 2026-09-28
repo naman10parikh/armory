@@ -1,0 +1,7 @@
+{
+  "name": "vidin",
+  "description": "MCP server that converts videos into annotated keyframes and timeline reports for coding agents, with tools to analyze, inspect frames, and zoom into clips.",
+  "source_repo": "teunlao/vidin",
+  "source_url": "https://github.com/teunlao/vidin",
+  "install": "# git clone --depth 1 https://github.com/teunlao/vidin\n# See source for mcpServers config block"
+}

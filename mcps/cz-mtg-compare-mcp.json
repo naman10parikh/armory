@@ -1,0 +1,7 @@
+{
+  "name": "cz-mtg-compare-mcp",
+  "description": "Lets Claude compare Magic: The Gathering single-card prices across six Czech online card shops, with optional Cardmarket fallback. Queries all shops in parallel and returns a normalized, price-sorted list.",
+  "source_repo": "xvyslo05/czech-mtg-price-comparator-mcp",
+  "source_url": "https://github.com/xvyslo05/czech-mtg-price-comparator-mcp",
+  "install": "npx -y czech-mtg-price-comparator-mcp"
+}

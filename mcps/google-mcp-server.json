@@ -1,0 +1,7 @@
+{
+  "name": "google-mcp-server",
+  "description": "An MCP server that enables AI assistants to read, search, and act on Google Workspace services including Gmail, Drive, Docs, YouTube, and Calendar.",
+  "source_repo": "psckeithw/mcp-google",
+  "source_url": "https://github.com/psckeithw/mcp-google",
+  "install": "# git clone --depth 1 https://github.com/psckeithw/mcp-google\n# See source for mcpServers config block"
+}

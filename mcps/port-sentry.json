@@ -1,0 +1,7 @@
+{
+  "name": "port-sentry",
+  "description": "An MCP server that gives AI coding agents structured port intelligence — finding free ports, identifying port hogs, and killing zombie processes without leaving the chat.",
+  "source_repo": "yulinlina/port-sentry",
+  "source_url": "https://github.com/yulinlina/port-sentry",
+  "install": "# git clone --depth 1 https://github.com/yulinlina/port-sentry\n# See source for mcpServers config block"
+}

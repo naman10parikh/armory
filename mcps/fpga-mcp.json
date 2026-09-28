@@ -1,0 +1,7 @@
+{
+  "name": "fpga-mcp",
+  "description": "Enables AI assistants to drive Xilinx Vivado, Intel Quartus, and Anlogic TangDynasty for FPGA development, including project creation, synthesis, implementation, timing closure, and hardware programming through natural language.",
+  "source_repo": "wmm246/fpga-mcp",
+  "source_url": "https://github.com/wmm246/fpga-mcp",
+  "install": "npx -y fpga-mcp"
+}

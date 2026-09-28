@@ -1,0 +1,7 @@
+{
+  "name": "agentic-vision",
+  "description": "Enables LLMs to autonomously analyze camera images for occupational safety violations, generate risk reports per ISG regulations, and log violations to a database.",
+  "source_repo": "fatihberkanteren/agentic-vision-server",
+  "source_url": "https://github.com/fatihberkanteren/agentic-vision-server",
+  "install": "# git clone --depth 1 https://github.com/fatihberkanteren/agentic-vision-server\n# See source for mcpServers config block"
+}

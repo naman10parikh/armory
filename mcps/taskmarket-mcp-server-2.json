@@ -1,0 +1,7 @@
+{
+  "name": "taskmarket-mcp-server-2",
+  "description": "Integrates TaskMarket into MCP-compatible agents, enabling task discovery, details, and submission with secure API key handling.",
+  "source_repo": "Ember2819/taskmarket-mcp-server",
+  "source_url": "https://github.com/Ember2819/taskmarket-mcp-server",
+  "install": "npx -y taskmarket-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claude-computer-use-mcp",
+  "description": "Wraps OpenAI Codex's computer-use engine to provide MCP tools for Windows screen operations including screenshot, UI automation tree, and input simulation, enabling Claude Code to control the desktop.",
+  "source_repo": "cUDGk/claude-computer-use-mcp",
+  "source_url": "https://github.com/cUDGk/claude-computer-use-mcp",
+  "install": "npx -y claude-computer-use-mcp"
+}

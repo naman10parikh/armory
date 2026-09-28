@@ -1,0 +1,7 @@
+{
+  "name": "connectwise-live-mcp-server",
+  "description": "Enables interaction with ConnectWise Manage through 45 tools across Service, Operations, and Finance domains, with tier-based access control for finance tools.",
+  "source_repo": "Mfrostbutter/connectwise-mcp",
+  "source_url": "https://github.com/Mfrostbutter/connectwise-mcp",
+  "install": "npx -y connectwise-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-fxmacrodata",
+  "description": "Provides access to macroeconomic indicators, FX rates, COT data, commodities, and release calendars through the FXMacroData API for AI agents.",
+  "source_repo": "fxmacrodata/mcp-server-fxmacrodata",
+  "source_url": "https://github.com/fxmacrodata/mcp-server-fxmacrodata",
+  "install": "# git clone --depth 1 https://github.com/fxmacrodata/mcp-server-fxmacrodata\n# See source for mcpServers config block"
+}

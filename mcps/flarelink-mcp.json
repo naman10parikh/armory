@@ -1,0 +1,7 @@
+{
+  "name": "flarelink-mcp",
+  "description": "Build on the Flarelink stack — Cloudflare auth (better-auth + KV sessions), D1, and R2 — from AI coding tools. Provides copy-paste code patterns and scaffolding that need no account, plus project-management tools (list/query your projects, D1 databases, and R2 buckets) gated by a Flarelink API key.",
+  "source_repo": "flarelink-dev/mcp",
+  "source_url": "https://github.com/flarelink-dev/mcp",
+  "install": "# git clone --depth 1 https://github.com/flarelink-dev/mcp\n# See source for mcpServers config block"
+}

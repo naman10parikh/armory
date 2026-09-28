@@ -1,0 +1,7 @@
+{
+  "name": "mcp-context-receipts",
+  "description": "Privacy-first, tamper-evident receipts for MCP tool calls. It hashes and signs arguments/results so you can verify what ran, when, without storing raw payloads.",
+  "source_repo": "DARREN-2000/mcp-context-receipts",
+  "source_url": "https://github.com/DARREN-2000/mcp-context-receipts",
+  "install": "# git clone --depth 1 https://github.com/DARREN-2000/mcp-context-receipts\n# See source for mcpServers config block"
+}

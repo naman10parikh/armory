@@ -1,0 +1,7 @@
+{
+  "name": "magic-api-mcp",
+  "description": "Enables AI to manage and interact with a running magic-api instance, including CRUD operations on APIs, groups, functions, and datasources, with built-in magic-script knowledge.",
+  "source_repo": "LynxBay/magic-api-mcp",
+  "source_url": "https://github.com/LynxBay/magic-api-mcp",
+  "install": "npx -y magic-api-mcp"
+}

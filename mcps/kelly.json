@@ -1,0 +1,7 @@
+{
+  "name": "kelly",
+  "description": "A local MCP server for CalDAV that gives Claude read access to your calendar, enabling planning, conflict checking, and schedule summaries.",
+  "source_repo": "theorange7/kelly-kalendar",
+  "source_url": "https://github.com/theorange7/kelly-kalendar",
+  "install": "# git clone --depth 1 https://github.com/theorange7/kelly-kalendar\n# See source for mcpServers config block"
+}

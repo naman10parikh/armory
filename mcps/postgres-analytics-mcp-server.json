@@ -1,0 +1,7 @@
+{
+  "name": "postgres-analytics-mcp-server",
+  "description": "Enables AI assistants to safely inspect and query PostgreSQL databases with read-only enforcement, row/timeout limits, and audit logging, providing tools for schema/table listing, read-only queries, query explanations, and table statistics.",
+  "source_repo": "krishamehta09/pg-mcp-server",
+  "source_url": "https://github.com/krishamehta09/pg-mcp-server",
+  "install": "npx -y pg-mcp-server"
+}

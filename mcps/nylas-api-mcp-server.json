@@ -1,0 +1,7 @@
+{
+  "name": "nylas-api-mcp-server",
+  "description": "Enables to interact with Nylas API for email, calendar, and contacts via MCP, providing documentation, code samples, and code generation tools.",
+  "source_repo": "mcpflow/nylas-api-mcp",
+  "source_url": "https://github.com/mcpflow/nylas-api-mcp",
+  "install": "npx -y nylas-api-mcp"
+}

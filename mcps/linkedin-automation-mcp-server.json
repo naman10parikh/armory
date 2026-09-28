@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-automation-mcp-server",
+  "description": "Enables automated LinkedIn growth by posting, commenting, and managing connections through Claude Code, with daily scheduled tasks for inbox replies and connection requests.",
+  "source_repo": "dzigi00/linkedin-claude-automation",
+  "source_url": "https://github.com/dzigi00/linkedin-claude-automation",
+  "install": "# git clone --depth 1 https://github.com/dzigi00/linkedin-claude-automation\n# See source for mcpServers config block"
+}

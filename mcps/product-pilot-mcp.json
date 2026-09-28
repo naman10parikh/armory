@@ -1,0 +1,7 @@
+{
+  "name": "product-pilot-mcp",
+  "description": "Provides secure PDF template analysis and layout extraction for AI assistants, enabling generation of styled HTML with automatic image generation.",
+  "source_repo": "yangshuai990529/product-pilot-mcp",
+  "source_url": "https://github.com/yangshuai990529/product-pilot-mcp",
+  "install": "npx -y product-pilot-mcp"
+}

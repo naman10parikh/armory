@@ -1,0 +1,7 @@
+{
+  "name": "document-search-mcp-server",
+  "description": "A local MCP server providing read-only access to documents like Word, PDF, Excel, and images, with file listing, reading, and metadata extraction.",
+  "source_repo": "bpweatherill/Document-Search-MCP-server",
+  "source_url": "https://github.com/bpweatherill/Document-Search-MCP-server",
+  "install": "npx -y Document-Search-MCP-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-workflow-mcp",
+  "description": "A production-grade multi-agent workflow orchestrator built on the Model Context Protocol, featuring planner/executor/critic agents, durable run state, and replayable traces.",
+  "source_repo": "tainguyen07/agent-workflow-mcp",
+  "source_url": "https://github.com/tainguyen07/agent-workflow-mcp",
+  "install": "npx -y agent-workflow-mcp"
+}

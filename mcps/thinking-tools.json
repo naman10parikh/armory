@@ -1,0 +1,7 @@
+{
+  "name": "thinking-tools",
+  "description": "Provides five rigorous reasoning protocols (debate, red team, audit_argument, threat_model, check_study) that run on the AI you're already using, requiring no extra API keys or costs.",
+  "source_repo": "PranayMahendrakar/thinking-tools",
+  "source_url": "https://github.com/PranayMahendrakar/thinking-tools",
+  "install": "# git clone --depth 1 https://github.com/PranayMahendrakar/thinking-tools\n# See source for mcpServers config block"
+}

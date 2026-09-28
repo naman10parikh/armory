@@ -1,0 +1,7 @@
+{
+  "name": "payvoice-collections-mcp-server",
+  "description": "Exposes a save_collection tool to store collection data in Supabase, enabling payment commitment and callback tracking.",
+  "source_repo": "DIVYAN2211/mcp_server",
+  "source_url": "https://github.com/DIVYAN2211/mcp_server",
+  "install": "# git clone --depth 1 https://github.com/DIVYAN2211/mcp_server\n# See source for mcpServers config block"
+}

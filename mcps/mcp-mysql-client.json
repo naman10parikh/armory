@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mysql-client",
+  "description": "Provides AI agents a secure MCP interface to a single MySQL or MariaDB database, enabling schema inspection, read-only queries, query planning, and guarded write operations with strict safety controls.",
+  "source_repo": "gistrec/mcp-mysql-client",
+  "source_url": "https://github.com/gistrec/mcp-mysql-client",
+  "install": "# git clone --depth 1 https://github.com/gistrec/mcp-mysql-client\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-mcp-thoughtflow",
+  "description": "Unifies structured reasoning (Tree of Thoughts) with reliable task execution, enabling LLM agents to think, commit, execute, and trace cognitive provenance through a single MCP server.",
+  "source_repo": "HefnySco/agent_mcp_thoughtflow",
+  "source_url": "https://github.com/HefnySco/agent_mcp_thoughtflow",
+  "install": "# git clone --depth 1 https://github.com/HefnySco/agent_mcp_thoughtflow\n# See source for mcpServers config block"
+}

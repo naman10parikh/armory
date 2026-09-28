@@ -1,0 +1,7 @@
+{
+  "name": "memecoin-spotter",
+  "description": "Enables read-only on-chain analysis to spot trending and new memecoin pools, evaluate rug risk, and surface early buyer wallets across Solana, Base, and Ethereum.",
+  "source_repo": "sjohnewa/memecoin-mcp",
+  "source_url": "https://github.com/sjohnewa/memecoin-mcp",
+  "install": "npx -y memecoin-mcp"
+}

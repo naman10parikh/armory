@@ -1,0 +1,7 @@
+{
+  "name": "everlog-memory-mcp",
+  "description": "MCP server for structured reflection and self-modeling over Everlog diary exports, enabling agents to query local diary evidence and maintain versioned artifacts of threads, moments, beliefs, and decisions.",
+  "source_repo": "visionary-5/everlog-memory-mcp",
+  "source_url": "https://github.com/visionary-5/everlog-memory-mcp",
+  "install": "npx -y everlog-memory-mcp"
+}

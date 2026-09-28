@@ -1,0 +1,7 @@
+{
+  "name": "hk-housing-mcp-server",
+  "description": "Enables querying Hong Kong private storage statistics such as completions, stock, and vacancy data via a FastMCP interface, sourced from the Rating and Valuation Department.",
+  "source_repo": "hkopenai/hk-housing-mcp-server",
+  "source_url": "https://github.com/hkopenai/hk-housing-mcp-server",
+  "install": "npx -y hk-housing-mcp-server"
+}

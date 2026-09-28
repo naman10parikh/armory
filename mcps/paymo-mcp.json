@@ -1,0 +1,7 @@
+{
+  "name": "paymo-mcp",
+  "description": "An MCP server for the Paymo time-tracking API, enabling AI clients to read and write tasks, time entries, projects, and more via natural language.",
+  "source_repo": "Gestazion2023/paymo-mcp",
+  "source_url": "https://github.com/Gestazion2023/paymo-mcp",
+  "install": "npx -y paymo-mcp"
+}

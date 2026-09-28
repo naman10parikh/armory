@@ -1,0 +1,7 @@
+{
+  "name": "zefix-mcp",
+  "description": "Enables AI assistants to search the Swiss Central Business Name Index (Zefix) for companies by name or UID, with optional filters, and retrieve full company details including address, legal form, history, and representatives.",
+  "source_repo": "zahhar/zefix-mcp",
+  "source_url": "https://github.com/zahhar/zefix-mcp",
+  "install": "npx -y zefix-mcp"
+}

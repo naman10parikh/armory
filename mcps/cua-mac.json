@@ -1,0 +1,7 @@
+{
+  "name": "cua-mac",
+  "description": "macOS MCP server that enables AI agents to directly control the host OS, including mouse, keyboard, windows, files, and accessibility automation for computer-use workflows.",
+  "source_repo": "ashish200729/personal-ai-computer-mcp",
+  "source_url": "https://github.com/ashish200729/personal-ai-computer-mcp",
+  "install": "npx -y personal-ai-computer-mcp"
+}

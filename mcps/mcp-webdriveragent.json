@@ -1,0 +1,7 @@
+{
+  "name": "mcp-webdriveragent",
+  "description": "Provides tools to build, package, and sign WebDriverAgent for iOS, enabling natural language automation of Appium WebDriverAgent preparation via MCP.",
+  "source_repo": "AppiumTestDistribution/mcp-webdriveragent",
+  "source_url": "https://github.com/AppiumTestDistribution/mcp-webdriveragent",
+  "install": "# git clone --depth 1 https://github.com/AppiumTestDistribution/mcp-webdriveragent\n# See source for mcpServers config block"
+}

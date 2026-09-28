@@ -1,0 +1,7 @@
+{
+  "name": "htmlweb-ru-mcp-server",
+  "description": "Provides access to Russian directories and validation services (e.g., phone, MNP, geo) through a REST API. Enables registration, API calls, payment management, and catalog browsing via MCP tools.",
+  "source_repo": "kdg22/mcp-htmlweb",
+  "source_url": "https://github.com/kdg22/mcp-htmlweb",
+  "install": "# git clone --depth 1 https://github.com/kdg22/mcp-htmlweb\n# See source for mcpServers config block"
+}

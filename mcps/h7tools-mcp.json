@@ -1,0 +1,7 @@
+{
+  "name": "h7tools-mcp",
+  "description": "Read-only MCP server for diagnosing H7-TOOL hardware via Modbus, USB HID, and Lua diagnostics, exposing only safe read operations.",
+  "source_repo": "zhe0523/h7tools-mcp",
+  "source_url": "https://github.com/zhe0523/h7tools-mcp",
+  "install": "npx -y h7tools-mcp"
+}

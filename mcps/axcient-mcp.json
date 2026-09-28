@@ -1,0 +1,7 @@
+{
+  "name": "axcient-mcp",
+  "description": "MCP server for Axcient x360Recover enabling management of BCDR clients, devices, backup jobs, vaults, and appliances via natural language.",
+  "source_repo": "wyre-technology/axcient-mcp",
+  "source_url": "https://github.com/wyre-technology/axcient-mcp",
+  "install": "npx -y axcient-mcp"
+}

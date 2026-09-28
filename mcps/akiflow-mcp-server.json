@@ -1,0 +1,7 @@
+{
+  "name": "akiflow-mcp-server",
+  "description": "MCP server for Akiflow task management with Meeting Assistant support. Enables creating, updating, scheduling tasks, managing calendars, and accessing meeting recordings, summaries, and action items.",
+  "source_repo": "shrimpwtf/akiflow-mcp",
+  "source_url": "https://github.com/shrimpwtf/akiflow-mcp",
+  "install": "npx -y akiflow-mcp"
+}

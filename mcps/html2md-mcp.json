@@ -1,0 +1,7 @@
+{
+  "name": "html2md-mcp",
+  "description": "Converts HTML webpages to clean Markdown format, reducing size by ~90-95% while preserving tables, images, and important content. Supports both simple HTTP fetch and Playwright browser mode for JavaScript-heavy or authenticated pages.",
+  "source_repo": "sunshad0w/html2md-mcp",
+  "source_url": "https://github.com/sunshad0w/html2md-mcp",
+  "install": "npx -y html2md-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "paint-mcp",
+  "description": "Controls Windows Paint from Claude via GUI automation, enabling drawing of lines, rectangles, and freehand strokes on the canvas.",
+  "source_repo": "miguel-alvarez-utn2020/MCP-PAINT",
+  "source_url": "https://github.com/miguel-alvarez-utn2020/MCP-PAINT",
+  "install": "# git clone --depth 1 https://github.com/miguel-alvarez-utn2020/MCP-PAINT\n# See source for mcpServers config block"
+}

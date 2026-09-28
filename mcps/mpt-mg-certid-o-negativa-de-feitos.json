@@ -1,0 +1,7 @@
+{
+  "name": "mpt-mg-certid-o-negativa-de-feitos",
+  "description": "Enables querying official labor court negative certificates for MPT MG, providing read-only access to pending case information via a single tool.",
+  "source_repo": "mcp-dir/mpt_mg_cnf-mcp",
+  "source_url": "https://github.com/mcp-dir/mpt_mg_cnf-mcp",
+  "install": "npx -y mpt_mg_cnf-mcp"
+}

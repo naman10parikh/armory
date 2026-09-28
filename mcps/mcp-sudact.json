@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sudact",
+  "description": "MCP server for Russian court practice (Sudact): full-text case search by law article, court, instance and dates, with access to full decision texts.",
+  "source_repo": "atomno-labs/mcp-sudact",
+  "source_url": "https://github.com/atomno-labs/mcp-sudact",
+  "install": "# git clone --depth 1 https://github.com/atomno-labs/mcp-sudact\n# See source for mcpServers config block"
+}

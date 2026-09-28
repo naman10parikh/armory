@@ -1,0 +1,7 @@
+{
+  "name": "windows-local-mcp",
+  "description": "Enables ChatGPT to securely operate a single Windows development workspace via a local MCP server, offering file editing, Git status, static analysis, approved test/build, and limited ADB operations with audit logging.",
+  "source_repo": "likefack/windows-local-mcp-python",
+  "source_url": "https://github.com/likefack/windows-local-mcp-python",
+  "install": "# git clone --depth 1 https://github.com/likefack/windows-local-mcp-python\n# See source for mcpServers config block"
+}

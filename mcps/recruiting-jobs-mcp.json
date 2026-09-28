@@ -1,0 +1,7 @@
+{
+  "name": "recruiting-jobs-mcp",
+  "description": "Enables AI agents to pull live job listings from major ATS platforms (Greenhouse, Lever, Ashby, Workable), Hacker News hiring threads, and detect hiring signals on company career pages.",
+  "source_repo": "emily397/recruiting-jobs-mcp",
+  "source_url": "https://github.com/emily397/recruiting-jobs-mcp",
+  "install": "npx -y recruiting-jobs-mcp"
+}

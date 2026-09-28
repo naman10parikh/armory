@@ -1,0 +1,7 @@
+{
+  "name": "mcp-error-handler",
+  "description": "Turns application errors into reviewed pull requests by automating root-cause analysis, Jira ticket creation, local and CI test gates, and GitHub PRs, with a human as the final merge gate.",
+  "source_repo": "4-life/mcp-error-handler",
+  "source_url": "https://github.com/4-life/mcp-error-handler",
+  "install": "# git clone --depth 1 https://github.com/4-life/mcp-error-handler\n# See source for mcpServers config block"
+}

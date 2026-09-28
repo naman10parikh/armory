@@ -1,0 +1,7 @@
+{
+  "name": "terragrunt-mcp-server",
+  "description": "Provides comprehensive Terragrunt documentation, configuration generation, and tooling integration for AI assistants, enabling intelligent assistance with Terragrunt configurations, CLI commands, and HCL syntax.",
+  "source_repo": "omattsson/terragrunt-mcp-server",
+  "source_url": "https://github.com/omattsson/terragrunt-mcp-server",
+  "install": "npx -y terragrunt-mcp-server"
+}

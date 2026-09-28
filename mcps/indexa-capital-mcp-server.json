@@ -1,0 +1,7 @@
+{
+  "name": "indexa-capital-mcp-server",
+  "description": "A read-only MCP server that enables Claude to monitor Indexa Capital investments, providing tools to query portfolio summary, account details, performance, transactions, and fees.",
+  "source_repo": "dacmail/indexa-capital-mcp-server",
+  "source_url": "https://github.com/dacmail/indexa-capital-mcp-server",
+  "install": "npx -y indexa-capital-mcp-server"
+}

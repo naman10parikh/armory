@@ -1,0 +1,7 @@
+{
+  "name": "check-point-management-mcp-server",
+  "description": "Enables AI agents to perform compensating-control lifecycle operations on Check Point firewalls, including adding access rules, publishing sessions, and installing policies.",
+  "source_repo": "tarhou/checkpoint-mcp-server",
+  "source_url": "https://github.com/tarhou/checkpoint-mcp-server",
+  "install": "npx -y checkpoint-mcp-server"
+}

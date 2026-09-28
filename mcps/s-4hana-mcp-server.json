@@ -1,0 +1,7 @@
+{
+  "name": "s-4hana-mcp-server",
+  "description": "Enables interaction with SAP S/4HANA systems, providing 38 tools to search and manage business partners, products, pricing, purchase orders, supplier invoices, service entry sheets, journal entries, and cost centers via OData V2/V4 and SOAP.",
+  "source_repo": "ilia-inovaflow/s4hana-mcp-server",
+  "source_url": "https://github.com/ilia-inovaflow/s4hana-mcp-server",
+  "install": "npx -y s4hana-mcp-server"
+}

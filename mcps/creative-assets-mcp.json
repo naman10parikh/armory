@@ -1,0 +1,7 @@
+{
+  "name": "creative-assets-mcp",
+  "description": "Enforces consistent, governed asset selection for Claude by providing tools for search, retrieval, transformation, and governance of icons and brand assets.",
+  "source_repo": "ibrahimalabri89/creative-assets-mcp",
+  "source_url": "https://github.com/ibrahimalabri89/creative-assets-mcp",
+  "install": "npx -y creative-assets-mcp"
+}

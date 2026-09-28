@@ -1,0 +1,7 @@
+{
+  "name": "berserk-mcp",
+  "description": "Enables LLMs to answer Berserk observability questions by calling verified KQL tools instead of hand-authoring queries, with role-based tool filtering and automated query discovery.",
+  "source_repo": "ssimonsen0202/berserk_mcp",
+  "source_url": "https://github.com/ssimonsen0202/berserk_mcp",
+  "install": "npx -y berserk_mcp"
+}

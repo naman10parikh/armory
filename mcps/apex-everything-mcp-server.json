@@ -1,0 +1,7 @@
+{
+  "name": "apex-everything-mcp-server",
+  "description": "A comprehensive MCP server with over 50 tools across 7 categories including memory, AI/LLM, development, database, project management, cloud/deploy, and search/research.",
+  "source_repo": "GlacierEQ/everything-mcp-server",
+  "source_url": "https://github.com/GlacierEQ/everything-mcp-server",
+  "install": "npx -y everything-mcp-server"
+}

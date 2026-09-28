@@ -1,0 +1,7 @@
+{
+  "name": "rugcheck-ai",
+  "description": "On-chain Solana token safety for AI trading agents — screens any token for rugs, honeypots and mint/freeze authority traps by reading the chain directly, then executes the buy through a safety-verified, MEV-protected route.",
+  "source_repo": "MrWizardlyLoaf/rugcheck-ai",
+  "source_url": "https://github.com/MrWizardlyLoaf/rugcheck-ai",
+  "install": "# git clone --depth 1 https://github.com/MrWizardlyLoaf/rugcheck-ai\n# See source for mcpServers config block"
+}

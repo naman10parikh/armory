@@ -1,0 +1,7 @@
+{
+  "name": "workiq-mcp-bridge",
+  "description": "Bridges any local agent or LLM to Microsoft Work IQ's remote MCP server for enterprise context grounding, tools, and chat via CLI or local MCP proxy.",
+  "source_repo": "jrubiosainz/workiq-mcp-bridge",
+  "source_url": "https://github.com/jrubiosainz/workiq-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/jrubiosainz/workiq-mcp-bridge\n# See source for mcpServers config block"
+}

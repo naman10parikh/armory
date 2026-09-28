@@ -1,0 +1,7 @@
+{
+  "name": "azure-openai-gpt-image-1-mcp-server",
+  "description": "Enables AI assistants to generate and edit images using Azure OpenAI's gpt-image-1 model through the Model Context Protocol.",
+  "source_repo": "WW-AI-Lab/azure-gpt-image",
+  "source_url": "https://github.com/WW-AI-Lab/azure-gpt-image",
+  "install": "# git clone --depth 1 https://github.com/WW-AI-Lab/azure-gpt-image\n# See source for mcpServers config block"
+}

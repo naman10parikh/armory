@@ -1,0 +1,7 @@
+{
+  "name": "radarled",
+  "description": "MCP server for RadarLED, providing read-only competitive intelligence from Instagram and TikTok public data, including audience comparison, creative detection, and strategy classification.",
+  "source_repo": "AKILMAXX/radarled",
+  "source_url": "https://github.com/AKILMAXX/radarled",
+  "install": "# git clone --depth 1 https://github.com/AKILMAXX/radarled\n# See source for mcpServers config block"
+}

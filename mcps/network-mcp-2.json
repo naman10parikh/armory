@@ -1,0 +1,7 @@
+{
+  "name": "network-mcp-2",
+  "description": "MCP server for managing a home network via a UniFi Dream Machine, enabling device lookup, tagging, and blocking/unblocking of clients through natural language.",
+  "source_repo": "zapplebee/network-mcp",
+  "source_url": "https://github.com/zapplebee/network-mcp",
+  "install": "npx -y network-mcp"
+}

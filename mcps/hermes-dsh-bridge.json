@@ -1,0 +1,7 @@
+{
+  "name": "hermes-dsh-bridge",
+  "description": "Enables external MCP clients to drive DeepSeek Harness agents for real coding tasks, providing tools for task execution and queueing, session management, sandboxed file access, preset switching, and usage statistics.",
+  "source_repo": "Emilia-awa/hermes-dsh-bridge",
+  "source_url": "https://github.com/Emilia-awa/hermes-dsh-bridge",
+  "install": "# git clone --depth 1 https://github.com/Emilia-awa/hermes-dsh-bridge\n# See source for mcpServers config block"
+}

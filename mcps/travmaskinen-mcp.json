@@ -1,0 +1,7 @@
+{
+  "name": "travmaskinen-mcp",
+  "description": "MCP server providing Nordic harness racing data (Swedish, Norwegian, Danish, Finnish) with upcoming races, startlists, betting pool percentages, and model-derived win probabilities for AI agents.",
+  "source_repo": "kennyolofsson23-netizen/travmaskinen-mcp",
+  "source_url": "https://github.com/kennyolofsson23-netizen/travmaskinen-mcp",
+  "install": "npx -y travmaskinen-mcp"
+}

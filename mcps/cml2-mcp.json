@@ -1,0 +1,7 @@
+{
+  "name": "cml2-mcp",
+  "description": "Thin MCP server for Cisco CML2 that exposes the live OpenAPI specification and a generic API call tool, enabling models to interact with CML2 by reading the spec first.",
+  "source_repo": "higebu/cml2-mcp",
+  "source_url": "https://github.com/higebu/cml2-mcp",
+  "install": "npx -y cml2-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tinci-mcp",
+  "description": "MCP server for Cantonese lyric writing, offering Jyutping romanization, tonal pattern analysis, and rhyming character lookup.",
+  "source_repo": "liyb-gz/tinci-mcp",
+  "source_url": "https://github.com/liyb-gz/tinci-mcp",
+  "install": "npx -y tinci-mcp"
+}

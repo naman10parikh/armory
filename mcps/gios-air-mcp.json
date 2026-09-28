@@ -1,0 +1,7 @@
+{
+  "name": "gios-air-mcp",
+  "description": "Enables querying Polish air-quality data from GIOŚ stations by providing tools to list stations, get sensor readings, and retrieve the composite air-quality index.",
+  "source_repo": "bartosz-kuc/gios-air-mcp",
+  "source_url": "https://github.com/bartosz-kuc/gios-air-mcp",
+  "install": "npx -y gios-air-mcp"
+}

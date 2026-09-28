@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tastytrade-server",
+  "description": "Enables trading and account management on TastyTrade via natural language commands.",
+  "source_repo": "morsingnet/tasty-mcp",
+  "source_url": "https://github.com/morsingnet/tasty-mcp",
+  "install": "npx -y tasty-mcp"
+}

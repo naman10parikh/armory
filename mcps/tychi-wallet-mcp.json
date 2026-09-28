@@ -1,0 +1,7 @@
+{
+  "name": "tychi-wallet-mcp",
+  "description": "Self-custody wallet MCP server for Arbitrum, enabling local key signing and wallet management via tools; supports chat for balances, sends, and policy.",
+  "source_repo": "TychiWallet/tyi-mcp",
+  "source_url": "https://github.com/TychiWallet/tyi-mcp",
+  "install": "npx -y tyi-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dld-mcp",
+  "description": "Enables querying 1.6M+ Dubai Land Department sales transactions and 9.5M+ Ejari rental contracts with flexible filters by area, property type, bedrooms, and date range.",
+  "source_repo": "level09/dld-mcp",
+  "source_url": "https://github.com/level09/dld-mcp",
+  "install": "npx -y dld-mcp"
+}

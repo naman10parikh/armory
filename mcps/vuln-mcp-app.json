@@ -1,0 +1,7 @@
+{
+  "name": "vuln-mcp-app",
+  "description": "An intentionally vulnerable, locally-runnable MCP security laboratory (a 'DVWA for MCP') used to evaluate a separate FYP security scanner.",
+  "source_repo": "arrugit/vuln_mcp_app",
+  "source_url": "https://github.com/arrugit/vuln_mcp_app",
+  "install": "# git clone --depth 1 https://github.com/arrugit/vuln_mcp_app\n# See source for mcpServers config block"
+}

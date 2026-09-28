@@ -1,0 +1,7 @@
+{
+  "name": "nextbillion-mcp",
+  "description": "Exposes NextBillion.ai location APIs as MCP tools for AI agents, including geocoding, place search, routing, distance matrices, isochrones, and static maps.",
+  "source_repo": "nextbillion-ai/nextbillion-mcp",
+  "source_url": "https://github.com/nextbillion-ai/nextbillion-mcp",
+  "install": "npx -y nextbillion-mcp"
+}

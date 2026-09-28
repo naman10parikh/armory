@@ -1,0 +1,7 @@
+{
+  "name": "workspace-ai",
+  "description": "Enables AI assistants to interact with Gmail accounts via MCP, providing tools for listing labels, searching, reading, drafting, and sending emails with OAuth2 authentication.",
+  "source_repo": "faizansid3/mcp-integration-platform",
+  "source_url": "https://github.com/faizansid3/mcp-integration-platform",
+  "install": "# git clone --depth 1 https://github.com/faizansid3/mcp-integration-platform\n# See source for mcpServers config block"
+}

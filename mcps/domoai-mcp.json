@@ -1,0 +1,7 @@
+{
+  "name": "domoai-mcp",
+  "description": "Provides a unified MCP interface for smart home automation, enabling device discovery, state management, energy optimization, and policy-aware plan validation across multiple home automation protocols.",
+  "source_repo": "FernanMoreno/DomoAI",
+  "source_url": "https://github.com/FernanMoreno/DomoAI",
+  "install": "# git clone --depth 1 https://github.com/FernanMoreno/DomoAI\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "seosiri-db-infra-mcp",
+  "description": "Provides secure live database querying, schema inspection, AWS S3 security audits, and Cloudflare infrastructure control through MCP tools.",
+  "source_repo": "SEOSiri-Official/seosiri-db-infra-mcp",
+  "source_url": "https://github.com/SEOSiri-Official/seosiri-db-infra-mcp",
+  "install": "npx -y seosiri-db-infra-mcp"
+}

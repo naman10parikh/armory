@@ -1,0 +1,7 @@
+{
+  "name": "ae-meta-mcp",
+  "description": "Lightweight MCP server for After Effects that enables Cursor Agent to execute ExtendScript code inside AE via a single tool, similar to Blender MCP.",
+  "source_repo": "shinjiyu/ae_meta_mcp",
+  "source_url": "https://github.com/shinjiyu/ae_meta_mcp",
+  "install": "npx -y ae_meta_mcp"
+}

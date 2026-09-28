@@ -1,0 +1,7 @@
+{
+  "name": "dpvat-emiss-o-de-guia",
+  "description": "Read-only MCP server for querying DPVAT (Brazilian insurance) guide issuance information from an official source. It provides a single tool that allows users to consult DPVAT guide data via natural language in any MCP-compatible client.",
+  "source_repo": "mcp-dir/dpvat_guia-mcp",
+  "source_url": "https://github.com/mcp-dir/dpvat_guia-mcp",
+  "install": "npx -y dpvat_guia-mcp"
+}

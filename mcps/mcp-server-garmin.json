@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-garmin",
+  "description": "MCP server for Garmin Connect that enables users to access and manage their personal health and fitness data, including daily summaries, heart rate, sleep, HRV, stress, body composition, activities, and training readiness, with secure per-user authentication.",
+  "source_repo": "borgels/mcp-server-garmin",
+  "source_url": "https://github.com/borgels/mcp-server-garmin",
+  "install": "# git clone --depth 1 https://github.com/borgels/mcp-server-garmin\n# See source for mcpServers config block"
+}

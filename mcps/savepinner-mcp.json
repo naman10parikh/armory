@@ -1,0 +1,7 @@
+{
+  "name": "savepinner-mcp",
+  "description": "MCP server for parsing, validating, classifying, and normalizing Pinterest URLs locally, supporting pins, profiles, boards, and ideas URLs across Pinterest country domains without network requests.",
+  "source_repo": "jiankn/savepinner-mcp",
+  "source_url": "https://github.com/jiankn/savepinner-mcp",
+  "install": "npx -y savepinner-mcp"
+}

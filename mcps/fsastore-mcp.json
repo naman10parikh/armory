@@ -1,0 +1,7 @@
+{
+  "name": "fsastore-mcp",
+  "description": "Enables AI agents to search FSA-eligible products on fsastore.com, add them to cart, and place orders only after user confirmation.",
+  "source_repo": "darrengruber/fsastore-mcp",
+  "source_url": "https://github.com/darrengruber/fsastore-mcp",
+  "install": "npx -y fsastore-mcp"
+}

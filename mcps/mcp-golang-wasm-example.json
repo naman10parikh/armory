@@ -1,0 +1,7 @@
+{
+  "name": "mcp-golang-wasm-example",
+  "description": "An MCP server running in the browser via WebAssembly, providing tools like getCurrentTime and add for streamable HTTP communication.",
+  "source_repo": "carljmosca/mcp-golang-wasm-example",
+  "source_url": "https://github.com/carljmosca/mcp-golang-wasm-example",
+  "install": "# git clone --depth 1 https://github.com/carljmosca/mcp-golang-wasm-example\n# See source for mcpServers config block"
+}

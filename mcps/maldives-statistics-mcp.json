@@ -1,0 +1,7 @@
+{
+  "name": "maldives-statistics-mcp",
+  "description": "A read-only MCP server that provides access to public statistics and publications from the Maldives Bureau of Statistics, enabling search, listing, and retrieval of reports, yearbook tables, census releases, and PDF attachments.",
+  "source_repo": "Rayyan011/maldives-statistics-mcp",
+  "source_url": "https://github.com/Rayyan011/maldives-statistics-mcp",
+  "install": "npx -y maldives-statistics-mcp"
+}

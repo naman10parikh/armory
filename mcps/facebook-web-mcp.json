@@ -1,0 +1,7 @@
+{
+  "name": "facebook-web-mcp",
+  "description": "A local MCP server that lets Claude use your Facebook account through the normal website in a real Chrome window, with read-only tools and staged, confirmable write actions.",
+  "source_repo": "Mrshahidali420/facebook-web-mcp",
+  "source_url": "https://github.com/Mrshahidali420/facebook-web-mcp",
+  "install": "npx -y facebook-web-mcp"
+}

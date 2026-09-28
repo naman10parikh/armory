@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-taiwan-weather",
+  "description": "取得臺灣各縣市今明36小時天氣預報資料的MCP伺服器。",
+  "source_repo": "GoneTone/mcp-server-taiwan-weather",
+  "source_url": "https://github.com/GoneTone/mcp-server-taiwan-weather",
+  "install": "# git clone --depth 1 https://github.com/GoneTone/mcp-server-taiwan-weather\n# See source for mcpServers config block"
+}

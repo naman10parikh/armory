@@ -1,0 +1,7 @@
+{
+  "name": "okta-calculator-mcp-server",
+  "description": "Exposes basic calculator tools (add, subtract, multiply, divide) and validates Okta access tokens on tool calls for secure access.",
+  "source_repo": "naman-monga-tf/mcp-passhtrough",
+  "source_url": "https://github.com/naman-monga-tf/mcp-passhtrough",
+  "install": "# git clone --depth 1 https://github.com/naman-monga-tf/mcp-passhtrough\n# See source for mcpServers config block"
+}

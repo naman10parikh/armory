@@ -1,0 +1,7 @@
+{
+  "name": "baseql-mcp-server",
+  "description": "Provides GraphQL access to Airtable and Google Sheets data, enabling natural language queries for data exploration, schema introspection, and record management.",
+  "source_repo": "xFoundry/baseql-mcp",
+  "source_url": "https://github.com/xFoundry/baseql-mcp",
+  "install": "npx -y baseql-mcp"
+}

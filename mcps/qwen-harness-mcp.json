@@ -1,0 +1,7 @@
+{
+  "name": "qwen-harness-mcp",
+  "description": "Exposes Qwen AI Token Plan's harness tools (web search, web extraction, code interpreter, text-to-image, and image-to-image search) as MCP tools. It enables agents to perform real-time web searches, extract webpage content, execute code in a sandbox, and search images by text or image queries.",
+  "source_repo": "gonshell/qwen-harness-mcp",
+  "source_url": "https://github.com/gonshell/qwen-harness-mcp",
+  "install": "npx -y qwen-harness-mcp"
+}

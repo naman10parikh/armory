@@ -1,0 +1,7 @@
+{
+  "name": "home-assistant-mcp",
+  "description": "Integrates Claude AI with Home Assistant to control smart home devices via natural language.",
+  "source_repo": "aniketbhondave/Home-Assistant-MCP",
+  "source_url": "https://github.com/aniketbhondave/Home-Assistant-MCP",
+  "install": "npx -y Home-Assistant-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sharecut-mcp",
+  "description": "Enables generating QR codes from URLs or text without an API key, and creating trackable short links whose printed QR codes can be re-pointed after printing.",
+  "source_repo": "LucaRSdeCo/sharecut-mcp",
+  "source_url": "https://github.com/LucaRSdeCo/sharecut-mcp",
+  "install": "npx -y sharecut-mcp"
+}

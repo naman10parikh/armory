@@ -1,0 +1,7 @@
+{
+  "name": "gitequity-mcp-server",
+  "description": "MCP server that lets AI assistants read portfolios and propose trades on GitEquity, with all writes requiring a GitHub-authorized confirmation code for safety.",
+  "source_repo": "gitequityorg/GitEquity",
+  "source_url": "https://github.com/gitequityorg/GitEquity",
+  "install": "# git clone --depth 1 https://github.com/gitequityorg/GitEquity\n# See source for mcpServers config block"
+}

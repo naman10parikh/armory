@@ -1,0 +1,7 @@
+{
+  "name": "sec-intelligence-mcp",
+  "description": "MCP server for SEC EDGAR filing intelligence, providing tools for fetching, chunking/embedding, retrieval, and evaluation of filings.",
+  "source_repo": "jahanv01/sec-intelligence-mcp",
+  "source_url": "https://github.com/jahanv01/sec-intelligence-mcp",
+  "install": "npx -y sec-intelligence-mcp"
+}

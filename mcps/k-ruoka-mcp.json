@@ -1,0 +1,7 @@
+{
+  "name": "k-ruoka-mcp",
+  "description": "MCP server that manages a K-Ruoka (Finnish grocery) shopping cart: read cart, add/update/remove items, clear cart, search products and stores. It uses a real Chrome browser to authenticate via cookies, enabling cart management through natural language.",
+  "source_repo": "nikosavola/k-ruoka-mcp",
+  "source_url": "https://github.com/nikosavola/k-ruoka-mcp",
+  "install": "npx -y k-ruoka-mcp"
+}

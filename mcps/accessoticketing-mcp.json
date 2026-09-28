@@ -1,0 +1,7 @@
+{
+  "name": "accessoticketing-mcp",
+  "description": "An MCP server for accesso Passport mobile ticket links that reads orders, admissions, barcodes, and Google Wallet passes without login. It provides read-only tools to fetch ticket details, save barcode images, and resolve email tracking links.",
+  "source_repo": "chrischall/accessoticketing-mcp",
+  "source_url": "https://github.com/chrischall/accessoticketing-mcp",
+  "install": "npx -y accessoticketing-mcp"
+}

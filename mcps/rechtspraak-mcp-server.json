@@ -1,0 +1,7 @@
+{
+  "name": "rechtspraak-mcp-server",
+  "description": "MCP server for searching and analyzing Dutch case law with advanced search, faceted filtering, and citation analysis.",
+  "source_repo": "axyr/rechtspraak-solr-mcp-server",
+  "source_url": "https://github.com/axyr/rechtspraak-solr-mcp-server",
+  "install": "npx -y rechtspraak-solr-mcp-server"
+}

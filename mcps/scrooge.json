@@ -1,0 +1,7 @@
+{
+  "name": "scrooge",
+  "description": "Provides AI coding agents with pre-edit situational awareness by combining structural call graphs and co-change history to prevent incomplete edits. It surfaces files that historically change together, reducing missed coupled modules.",
+  "source_repo": "De-Cri/Scrooge",
+  "source_url": "https://github.com/De-Cri/Scrooge",
+  "install": "# git clone --depth 1 https://github.com/De-Cri/Scrooge\n# See source for mcpServers config block"
+}

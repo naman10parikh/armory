@@ -1,0 +1,7 @@
+{
+  "name": "linux-mcp-server",
+  "description": "Exposes full Linux system control to AI clients via MCP tools for bash execution, file operations, and search, with configurable permissions and audit logging.",
+  "source_repo": "algony-tony/mymcp",
+  "source_url": "https://github.com/algony-tony/mymcp",
+  "install": "# git clone --depth 1 https://github.com/algony-tony/mymcp\n# See source for mcpServers config block"
+}

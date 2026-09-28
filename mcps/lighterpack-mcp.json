@@ -1,0 +1,7 @@
+{
+  "name": "lighterpack-mcp",
+  "description": "An MCP server that lets AI agents create and manage LighterPack packing lists — add gear, track weights, organize categories, and share lists, all through natural conversation.",
+  "source_repo": "paladini/lighterpack-mcp",
+  "source_url": "https://github.com/paladini/lighterpack-mcp",
+  "install": "npx -y lighterpack-mcp"
+}

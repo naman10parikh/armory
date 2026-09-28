@@ -1,0 +1,7 @@
+{
+  "name": "fermah-mcp-community",
+  "description": "A public, read-only MCP server for researching Fermah products and documentation, with tools for searching docs, reading pages, listing products and proof systems, and generating non-binding project outlines.",
+  "source_repo": "Alicepoltora/fermah-mcp",
+  "source_url": "https://github.com/Alicepoltora/fermah-mcp",
+  "install": "npx -y fermah-mcp"
+}

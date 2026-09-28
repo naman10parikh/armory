@@ -1,0 +1,7 @@
+{
+  "name": "docscanner-mcp",
+  "description": "Provides lightweight documentation review tools including issue detection, readability scoring, style checking, and document summarization for integration with MCP-compatible clients.",
+  "source_repo": "Tharun135/docscanner-mcp",
+  "source_url": "https://github.com/Tharun135/docscanner-mcp",
+  "install": "npx -y docscanner-mcp"
+}

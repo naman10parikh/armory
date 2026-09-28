@@ -1,0 +1,7 @@
+{
+  "name": "vcv-rack-mcp",
+  "description": "Enables LLMs to compose VCV Rack modular synth patches by generating plain JSON, with tools for patch creation, catalog search, and live OSC control.",
+  "source_repo": "sandraschi/vcv-rack-mcp",
+  "source_url": "https://github.com/sandraschi/vcv-rack-mcp",
+  "install": "npx -y vcv-rack-mcp"
+}

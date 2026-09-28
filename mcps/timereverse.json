@@ -1,0 +1,7 @@
+{
+  "name": "timereverse",
+  "description": "Provides verifiable, append-only context handoffs for Codex and MCP clients, enabling memory persistence and resume across chat sessions.",
+  "source_repo": "964nbtrkhb-eng/TimeReverse",
+  "source_url": "https://github.com/964nbtrkhb-eng/TimeReverse",
+  "install": "# git clone --depth 1 https://github.com/964nbtrkhb-eng/TimeReverse\n# See source for mcpServers config block"
+}

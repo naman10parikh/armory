@@ -1,0 +1,7 @@
+{
+  "name": "waxseal",
+  "description": "WaxSeal MCP gives AI agents cryptographic identity — verify any WaxSeal fingerprint, check Ed25519 signatures, and gate irreversible actions with human-signed approval tokens before execution. It connects Claude Desktop, Cursor, and Windsurf to the WaxSeal trust network so agents can prove who autho",
+  "source_repo": "degenlegion-com/waxseal-sdk",
+  "source_url": "https://github.com/degenlegion-com/waxseal-sdk",
+  "install": "# git clone --depth 1 https://github.com/degenlegion-com/waxseal-sdk\n# See source for mcpServers config block"
+}

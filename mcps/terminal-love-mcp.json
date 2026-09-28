@@ -1,0 +1,7 @@
+{
+  "name": "terminal-love-mcp",
+  "description": "MCP server that scrapes Terminal Trove to search CLI/TUI tools and retrieve design references like screenshots and install commands for agentic UI research.",
+  "source_repo": "jpoindexter/terminal-love-mcp",
+  "source_url": "https://github.com/jpoindexter/terminal-love-mcp",
+  "install": "npx -y terminal-love-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uniswap-mcp-server",
+  "description": "Exposes Uniswap V2 and V3 on-chain data and swap execution as MCP tools, resources, and prompts, enabling AI agents to query prices, inspect pools, get quotes, and execute trades.",
+  "source_repo": "rakibhossain72/uniswap-mcp-server",
+  "source_url": "https://github.com/rakibhossain72/uniswap-mcp-server",
+  "install": "npx -y uniswap-mcp-server"
+}

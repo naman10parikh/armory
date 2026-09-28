@@ -1,0 +1,7 @@
+{
+  "name": "web-fetch-mcp-server",
+  "description": "Provides tools to fetch web content in HTML, JSON, text, or Markdown formats via MCP. Supports custom headers, length limits, and start index.",
+  "source_repo": "CormickKneey/web-fetch-mcp",
+  "source_url": "https://github.com/CormickKneey/web-fetch-mcp",
+  "install": "npx -y web-fetch-mcp"
+}

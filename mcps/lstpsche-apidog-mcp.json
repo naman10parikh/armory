@@ -1,0 +1,7 @@
+{
+  "name": "lstpsche-apidog-mcp",
+  "description": "MCP server that provides 22 tools to manage Apidog API documentation, including importing OpenAPI specs, exporting, diffing, analyzing, and bulk-editing endpoints.",
+  "source_repo": "lstpsche/apidog-mcp",
+  "source_url": "https://github.com/lstpsche/apidog-mcp",
+  "install": "npx -y apidog-mcp"
+}

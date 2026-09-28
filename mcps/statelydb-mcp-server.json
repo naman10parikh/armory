@@ -1,0 +1,7 @@
+{
+  "name": "statelydb-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that integrates with the StatelyDB CLI to enable AI assistants to validate and manage StatelyDB schemas.",
+  "source_repo": "StatelyCloud/statelydb-mcp-server",
+  "source_url": "https://github.com/StatelyCloud/statelydb-mcp-server",
+  "install": "npx -y statelydb-mcp-server"
+}

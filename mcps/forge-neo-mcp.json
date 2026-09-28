@@ -1,0 +1,7 @@
+{
+  "name": "forge-neo-mcp",
+  "description": "Enables AI agents to generate images on a local Stable Diffusion Forge Neo instance, automatically inferring prompt style and sampling parameters from the user's setup and past generations, and providing tools for LoRA search, model management, and module checks.",
+  "source_repo": "eduardoabreu81/forgeneo-mcp",
+  "source_url": "https://github.com/eduardoabreu81/forgeneo-mcp",
+  "install": "npx -y forgeneo-mcp"
+}

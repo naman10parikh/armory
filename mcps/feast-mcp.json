@@ -1,0 +1,7 @@
+{
+  "name": "feast-mcp",
+  "description": "MCP server that proxies to a Feast feature server, exposing tools for online feature retrieval, vector search, push, and materialization while forwarding bearer tokens for authentication.",
+  "source_repo": "patelchaitany/feast-mcp",
+  "source_url": "https://github.com/patelchaitany/feast-mcp",
+  "install": "npx -y feast-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-job-application-agent-mcp-server",
+  "description": "Exposes the agent's tools over the Model Context Protocol, enabling LLMs to track applications, generate cover letters, and process emails.",
+  "source_repo": "DrSchmerz/ai-job-application-agent",
+  "source_url": "https://github.com/DrSchmerz/ai-job-application-agent",
+  "install": "# git clone --depth 1 https://github.com/DrSchmerz/ai-job-application-agent\n# See source for mcpServers config block"
+}

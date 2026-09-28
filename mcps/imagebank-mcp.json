@@ -1,0 +1,7 @@
+{
+  "name": "imagebank-mcp",
+  "description": "MCP server that allows AI coding agents to search, download, and convert stock photos from Pexels, Unsplash, and Pixabay into WebP format for direct use in web development projects.",
+  "source_repo": "romulorasec/imagebank-mcp",
+  "source_url": "https://github.com/romulorasec/imagebank-mcp",
+  "install": "npx -y imagebank-mcp"
+}

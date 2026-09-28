@@ -1,0 +1,7 @@
+{
+  "name": "qucs-mcp",
+  "description": "Enables MCP-compatible agents to generate Qucs circuit schematics, run simulations, and parse results programmatically.",
+  "source_repo": "leonardoAB1/qucs-mcp",
+  "source_url": "https://github.com/leonardoAB1/qucs-mcp",
+  "install": "npx -y qucs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wg-easy-mcp",
+  "description": "MCP server for administering wg-easy (WireGuard Easy) instances, enabling listing, creating, updating, enabling/disabling, and deleting WireGuard clients, fetching configs and QR codes, and inspecting server status via the wg-easy REST API.",
+  "source_repo": "ni-c/wg-easy-mcp",
+  "source_url": "https://github.com/ni-c/wg-easy-mcp",
+  "install": "npx -y wg-easy-mcp"
+}

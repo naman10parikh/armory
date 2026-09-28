@@ -1,0 +1,7 @@
+{
+  "name": "freshsales-mcp-server",
+  "description": "Connects AI assistants to Freshsales CRM, enabling natural language queries and CRUD operations on contacts, deals, accounts, and more.",
+  "source_repo": "marimuthu003/Freshsales-MCP-server",
+  "source_url": "https://github.com/marimuthu003/Freshsales-MCP-server",
+  "install": "npx -y Freshsales-MCP-server"
+}

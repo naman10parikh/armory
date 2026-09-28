@@ -1,0 +1,7 @@
+{
+  "name": "kbbi-mcp",
+  "description": "An MCP server for querying KBBI (Kamus Besar Bahasa Indonesia / KBBI Daring).",
+  "source_repo": "gaato/kbbi-mcp",
+  "source_url": "https://github.com/gaato/kbbi-mcp",
+  "install": "npx -y kbbi-mcp"
+}

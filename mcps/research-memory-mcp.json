@@ -1,0 +1,7 @@
+{
+  "name": "research-memory-mcp",
+  "description": "An MCP server that provides controlled read/write tools for managing local-first research memory in an Obsidian vault, enabling AI agents to maintain project context across sessions.",
+  "source_repo": "wuwususu/research-memory-protocol-template",
+  "source_url": "https://github.com/wuwususu/research-memory-protocol-template",
+  "install": "# git clone --depth 1 https://github.com/wuwususu/research-memory-protocol-template\n# See source for mcpServers config block"
+}

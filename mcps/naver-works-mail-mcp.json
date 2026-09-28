@@ -1,0 +1,7 @@
+{
+  "name": "naver-works-mail-mcp",
+  "description": "Enables reading and sending Naver Works emails (Korean business email service) through Claude Desktop using IMAP/SMTP with app passwords.",
+  "source_repo": "jaykim81/naver-works-mail-mcp",
+  "source_url": "https://github.com/jaykim81/naver-works-mail-mcp",
+  "install": "npx -y naver-works-mail-mcp"
+}

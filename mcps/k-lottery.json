@@ -1,0 +1,7 @@
+{
+  "name": "k-lottery",
+  "description": "Enables checking lottery status, results, and purchasing tickets for the Korean Lotto 6/45 through natural language. Includes safety features like approval gates for financial transactions.",
+  "source_repo": "rajephon/k-lottery",
+  "source_url": "https://github.com/rajephon/k-lottery",
+  "install": "# git clone --depth 1 https://github.com/rajephon/k-lottery\n# See source for mcpServers config block"
+}

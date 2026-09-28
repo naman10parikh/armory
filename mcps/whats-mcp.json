@@ -1,0 +1,7 @@
+{
+  "name": "whats-mcp",
+  "description": "MCP server that turns WhatsApp into agent-callable tools, enabling search contacts, send/receive messages, read chats, handle media, and monitor calls via the WhatsApp Web multi-device protocol.",
+  "source_repo": "SaptodeepSarkar/whats-mcp",
+  "source_url": "https://github.com/SaptodeepSarkar/whats-mcp",
+  "install": "npx -y whats-mcp"
+}

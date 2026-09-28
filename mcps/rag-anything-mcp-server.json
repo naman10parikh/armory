@@ -1,0 +1,7 @@
+{
+  "name": "rag-anything-mcp-server",
+  "description": "Enables advanced RAG with knowledge graphs, supporting document ingestion, multimodal extraction, and multiple query modes (naive, local, global, hybrid) via the Model Context Protocol.",
+  "source_repo": "serkanyasr/rag-anythink-mcp",
+  "source_url": "https://github.com/serkanyasr/rag-anythink-mcp",
+  "install": "npx -y rag-anythink-mcp"
+}

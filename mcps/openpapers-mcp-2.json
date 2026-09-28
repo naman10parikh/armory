@@ -1,0 +1,7 @@
+{
+  "name": "openpapers-mcp-2",
+  "description": "A local MCP server for searching scientific papers, retrieving metadata and abstracts, and legally downloading Open Access PDFs via OpenAlex, CrossRef, and Unpaywall APIs.",
+  "source_repo": "Kaago/openpapers-mcp",
+  "source_url": "https://github.com/Kaago/openpapers-mcp",
+  "install": "npx -y openpapers-mcp"
+}

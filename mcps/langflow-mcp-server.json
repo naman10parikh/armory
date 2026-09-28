@@ -1,0 +1,7 @@
+{
+  "name": "langflow-mcp-server",
+  "description": "MCP Server for interacting with the Langflow API via a natural language interface. It exposes Langflow functionalities as tools for LLMs.",
+  "source_repo": "MdNazishArmanShorthillsAI/langflow_mcp",
+  "source_url": "https://github.com/MdNazishArmanShorthillsAI/langflow_mcp",
+  "install": "npx -y langflow_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "clawifi-mcp",
+  "description": "MCP server for Clawifi, enabling AI agents to fetch and interact with web pages through the Clawifi internet gateway.",
+  "source_repo": "atakanelik34/clawifi-mcp",
+  "source_url": "https://github.com/atakanelik34/clawifi-mcp",
+  "install": "npx -y clawifi-mcp"
+}

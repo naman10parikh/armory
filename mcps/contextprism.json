@@ -1,0 +1,7 @@
+{
+  "name": "contextprism",
+  "description": "Enables AI coding agents to efficiently analyze codebases by extracting AST skeletons, reducing token usage while preserving type contracts and interfaces.",
+  "source_repo": "mewsyy/context-prism",
+  "source_url": "https://github.com/mewsyy/context-prism",
+  "install": "# git clone --depth 1 https://github.com/mewsyy/context-prism\n# See source for mcpServers config block"
+}

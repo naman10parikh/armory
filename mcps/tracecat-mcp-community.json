@@ -1,0 +1,7 @@
+{
+  "name": "tracecat-mcp-community",
+  "description": "Enables AI assistants to fully control a Tracecat SOAR platform instance through natural language, managing workflows, actions, cases, secrets, tables, schedules, graphs, and more.",
+  "source_repo": "adrojis/tracecat-mcp-community",
+  "source_url": "https://github.com/adrojis/tracecat-mcp-community",
+  "install": "# git clone --depth 1 https://github.com/adrojis/tracecat-mcp-community\n# See source for mcpServers config block"
+}

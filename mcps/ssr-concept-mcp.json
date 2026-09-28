@@ -1,0 +1,7 @@
+{
+  "name": "ssr-concept-mcp",
+  "description": "Concept-test your product with synthetic consumers, straight from Claude Code. It turns free-text reactions from roleplayed personas into purchase-intent reports using Semantic Similarity Rating.",
+  "source_repo": "0xksure/ssr-concept-mcp",
+  "source_url": "https://github.com/0xksure/ssr-concept-mcp",
+  "install": "npx -y ssr-concept-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-coord-mcp",
+  "description": "A shared coordination layer for multiple AI coding assistants, exposing a persistent task queue, per-task message threads, and progress tracking via JSON files on disk.",
+  "source_repo": "quochuy/ai-coord-mcp",
+  "source_url": "https://github.com/quochuy/ai-coord-mcp",
+  "install": "npx -y ai-coord-mcp"
+}

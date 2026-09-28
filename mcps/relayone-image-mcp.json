@@ -1,0 +1,7 @@
+{
+  "name": "relayone-image-mcp",
+  "description": "Enables image generation and editing through RelayOne API, supporting both Image2 and Gemini Banana providers with configurable models and reference images.",
+  "source_repo": "linshiqiyyds/relayone-image-mcp",
+  "source_url": "https://github.com/linshiqiyyds/relayone-image-mcp",
+  "install": "npx -y relayone-image-mcp"
+}

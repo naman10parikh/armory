@@ -1,0 +1,7 @@
+{
+  "name": "atest-mcp-server",
+  "description": "MCP server for atest (api-testing), enabling natural language interaction with API testing workflows.",
+  "source_repo": "LinuxSuRen/atest-mcp-server",
+  "source_url": "https://github.com/LinuxSuRen/atest-mcp-server",
+  "install": "npx -y atest-mcp-server"
+}

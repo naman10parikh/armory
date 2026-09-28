@@ -1,0 +1,7 @@
+{
+  "name": "aliyun-rds-supabase-mcp-server",
+  "description": "MCP server for Supabase instances running on Aliyun RDS, enabling AI assistants to interact with your Supabase instance hosted on Aliyun cloud infrastructure.",
+  "source_repo": "aliyun/rds-supabase-mcp",
+  "source_url": "https://github.com/aliyun/rds-supabase-mcp",
+  "install": "npx -y rds-supabase-mcp"
+}

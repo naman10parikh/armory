@@ -1,0 +1,7 @@
+{
+  "name": "android-dev-mcp",
+  "description": "Unified MCP server for Android mobile development — combines project knowledge, Android CLI execution, live dependency versions, and agentic workflow tools for Claude Code.",
+  "source_repo": "maheshmishra271090-design/android-dev-mcp",
+  "source_url": "https://github.com/maheshmishra271090-design/android-dev-mcp",
+  "install": "npx -y android-dev-mcp"
+}

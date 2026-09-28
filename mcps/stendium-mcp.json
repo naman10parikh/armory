@@ -1,0 +1,7 @@
+{
+  "name": "stendium-mcp",
+  "description": "Enables any MCP-compatible agent to publish tool cards to Stendium, a portfolio showcase, after user confirmation.",
+  "source_repo": "stendium/stendium-mcp",
+  "source_url": "https://github.com/stendium/stendium-mcp",
+  "install": "npx -y stendium-mcp"
+}

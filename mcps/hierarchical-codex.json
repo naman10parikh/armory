@@ -1,0 +1,7 @@
+{
+  "name": "hierarchical-codex",
+  "description": "Deterministic MCP control plane for native Codex subagents, providing durable state, policy gates, budgets, artifacts, evidence workflow, and recovery for Sol/Terra/Luna hierarchical agent threads.",
+  "source_repo": "IrisRainbowNeko/codex-on-rails",
+  "source_url": "https://github.com/IrisRainbowNeko/codex-on-rails",
+  "install": "# git clone --depth 1 https://github.com/IrisRainbowNeko/codex-on-rails\n# See source for mcpServers config block"
+}

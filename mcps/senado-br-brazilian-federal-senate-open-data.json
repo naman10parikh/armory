@@ -1,0 +1,7 @@
+{
+  "name": "senado-br-brazilian-federal-senate-open-data",
+  "description": "MCP server for Brazilian Federal Senate open data — 90 tools covering the legislative process, Senate administration, and citizen participation. Hosted on Cloudflare Workers (Streamable HTTP), no authentication required. Tool names and responses are in Portuguese (pt-BR), matching the official Senat",
+  "source_repo": "SidneyBissoli/senado-br-mcp-cloudflare",
+  "source_url": "https://github.com/SidneyBissoli/senado-br-mcp-cloudflare",
+  "install": "# git clone --depth 1 https://github.com/SidneyBissoli/senado-br-mcp-cloudflare\n# See source for mcpServers config block"
+}

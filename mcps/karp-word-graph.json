@@ -1,0 +1,7 @@
+{
+  "name": "karp-word-graph",
+  "description": "Enables semantic search of the KJV Bible and personal knowledge graph for scripture study, notes, prayers, and memory verses, all running locally with no cloud dependencies.",
+  "source_repo": "souldriver007/karp-word-graph",
+  "source_url": "https://github.com/souldriver007/karp-word-graph",
+  "install": "# git clone --depth 1 https://github.com/souldriver007/karp-word-graph\n# See source for mcpServers config block"
+}

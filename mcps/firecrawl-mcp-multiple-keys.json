@@ -1,0 +1,7 @@
+{
+  "name": "firecrawl-mcp-multiple-keys",
+  "description": "A Firecrawl MCP server with built-in support for multiple API key rotation, enabling web search, scraping, crawling, extraction, and more via MCP clients.",
+  "source_repo": "AdvaitR7/firecrawl-mcp-multiple-keys",
+  "source_url": "https://github.com/AdvaitR7/firecrawl-mcp-multiple-keys",
+  "install": "# git clone --depth 1 https://github.com/AdvaitR7/firecrawl-mcp-multiple-keys\n# See source for mcpServers config block"
+}

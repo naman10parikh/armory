@@ -1,0 +1,7 @@
+{
+  "name": "planchette",
+  "description": "Enables coding agents to control other application windows by providing primitives for clicking, typing, capturing screenshots, and window management. Supports macOS, Windows, and Linux.",
+  "source_repo": "shahriarshm/planchette",
+  "source_url": "https://github.com/shahriarshm/planchette",
+  "install": "# git clone --depth 1 https://github.com/shahriarshm/planchette\n# See source for mcpServers config block"
+}

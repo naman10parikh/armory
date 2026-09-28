@@ -1,0 +1,7 @@
+{
+  "name": "flow-codeblock",
+  "description": "Enables safe, remote execution and management of user JavaScript scripts through a Rust-based backend, with change preview and confirmation before applying updates.",
+  "source_repo": "renoelis/flow-codeblock-mcp",
+  "source_url": "https://github.com/renoelis/flow-codeblock-mcp",
+  "install": "npx -y flow-codeblock-mcp"
+}

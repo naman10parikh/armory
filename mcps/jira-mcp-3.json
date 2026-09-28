@@ -1,0 +1,7 @@
+{
+  "name": "jira-mcp-3",
+  "description": "Multi-client MCP server for Jira, enabling project and issue management for multiple simultaneous users with efficient resource usage.",
+  "source_repo": "StefPanchana/Jira-Mcp",
+  "source_url": "https://github.com/StefPanchana/Jira-Mcp",
+  "install": "npx -y Jira-Mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "msp-tools-mcp",
+  "description": "Provides MSP support tools (ticket search, draft response, KB search, update) with a deterministic security guardrail that refuses to draft responses for security tickets based on content scanning, even if mislabeled.",
+  "source_repo": "Jackson-DM/msp-tools-mcp",
+  "source_url": "https://github.com/Jackson-DM/msp-tools-mcp",
+  "install": "npx -y msp-tools-mcp"
+}

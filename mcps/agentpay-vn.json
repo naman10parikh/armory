@@ -1,0 +1,7 @@
+{
+  "name": "agentpay-vn",
+  "description": "AgentPay VN — an MCP server that lets your AI agent collect real (fiat) payments over VietQR",
+  "source_repo": "phuocdu/agentpay-vn",
+  "source_url": "https://github.com/phuocdu/agentpay-vn",
+  "install": "# git clone --depth 1 https://github.com/phuocdu/agentpay-vn\n# See source for mcpServers config block"
+}

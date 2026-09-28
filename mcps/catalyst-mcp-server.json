@@ -1,0 +1,7 @@
+{
+  "name": "catalyst-mcp-server",
+  "description": "An MCP server that loads and serves Knowledge Packs to connect AI assistants with business systems like databases, DevOps tools, and APIs.",
+  "source_repo": "billebel/catalyst_mcp",
+  "source_url": "https://github.com/billebel/catalyst_mcp",
+  "install": "npx -y catalyst_mcp"
+}

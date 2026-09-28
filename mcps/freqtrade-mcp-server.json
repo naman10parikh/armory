@@ -1,0 +1,7 @@
+{
+  "name": "freqtrade-mcp-server",
+  "description": "An MCP server for cryptocurrency trading via Freqtrade, enabling trade management, balance checks, strategy configuration, backtesting, and bot lifecycle control from any MCP-compatible AI agent.",
+  "source_repo": "ceeyang-ai/freqtrade-mcp-server",
+  "source_url": "https://github.com/ceeyang-ai/freqtrade-mcp-server",
+  "install": "npx -y freqtrade-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "energy-grid-mcp-server",
+  "description": "Provides real-time electricity grid data including CO2 intensity, power mix, and wholesale prices, plus optimal green time windows for energy-intensive AI tasks. Supports UK, Germany, and global regions with optional API keys.",
+  "source_repo": "AiAgentKarl/energy-grid-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/energy-grid-mcp-server",
+  "install": "npx -y energy-grid-mcp-server"
+}

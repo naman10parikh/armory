@@ -1,0 +1,7 @@
+{
+  "name": "docverity",
+  "description": "MCP server that enables coding agents to check documentation claims against source code, detecting drift and suggesting fixes.",
+  "source_repo": "deveshagarwal/docverity",
+  "source_url": "https://github.com/deveshagarwal/docverity",
+  "install": "# git clone --depth 1 https://github.com/deveshagarwal/docverity\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jk-mcp-ecnl",
+  "description": "An MCP server for ECNL and ECRL youth soccer, providing schedules, standings, and RPI for both boys and girls.",
+  "source_repo": "jedi-knights/jk-mcp-ecnl",
+  "source_url": "https://github.com/jedi-knights/jk-mcp-ecnl",
+  "install": "# git clone --depth 1 https://github.com/jedi-knights/jk-mcp-ecnl\n# See source for mcpServers config block"
+}

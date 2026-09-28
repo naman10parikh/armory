@@ -1,0 +1,7 @@
+{
+  "name": "easy-jupyter-editor-mcp",
+  "description": "Enables AI agents to safely and structurally edit Jupyter Notebook (.ipynb) files by providing tools to read, edit, add, and delete cells without corrupting the JSON structure.",
+  "source_repo": "cshara1/easy-jupyter-editor-mcp",
+  "source_url": "https://github.com/cshara1/easy-jupyter-editor-mcp",
+  "install": "npx -y easy-jupyter-editor-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "azure-infrastructure-mcp-server",
+  "description": "An MCP server for managing Azure infrastructure from AI assistants, supporting subscriptions, VMs, storage, networking, identity, and more through natural language commands.",
+  "source_repo": "artemkozlenkov/azops-mcp",
+  "source_url": "https://github.com/artemkozlenkov/azops-mcp",
+  "install": "npx -y azops-mcp"
+}

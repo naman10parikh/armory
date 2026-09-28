@@ -1,0 +1,7 @@
+{
+  "name": "lowlevel-computer-use-mcp",
+  "description": "A low-level computer-use MCP server that exposes raw desktop control (mouse, keyboard, shell, windows, processes, screenshots, etc.) to MCP clients like Claude Code and Codex.",
+  "source_repo": "codingmachineedge/lowlevel-computer-use-mcp",
+  "source_url": "https://github.com/codingmachineedge/lowlevel-computer-use-mcp",
+  "install": "npx -y lowlevel-computer-use-mcp"
+}

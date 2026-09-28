@@ -1,0 +1,7 @@
+{
+  "name": "issuehub",
+  "description": "MCP server that provides issue tracking tools for Jira, Redmine, GitHub, and GitLab via the Model Context Protocol, enabling agents to search, fetch, sync, and manage issues through natural language.",
+  "source_repo": "tya5/issuehub.cli",
+  "source_url": "https://github.com/tya5/issuehub.cli",
+  "install": "# git clone --depth 1 https://github.com/tya5/issuehub.cli\n# See source for mcpServers config block"
+}

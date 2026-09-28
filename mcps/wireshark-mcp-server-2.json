@@ -1,0 +1,7 @@
+{
+  "name": "wireshark-mcp-server-2",
+  "description": "A comprehensive MCP server that provides AI assistants with professional-grade network analysis capabilities, combining Wireshark packet analysis, nmap scanning, and threat intelligence for enhanced network troubleshooting and security analysis.",
+  "source_repo": "iflow-mcp/mixelpixx-wireshark-mcp",
+  "source_url": "https://github.com/iflow-mcp/mixelpixx-wireshark-mcp",
+  "install": "npx -y mixelpixx-wireshark-mcp"
+}

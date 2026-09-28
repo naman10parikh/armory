@@ -1,0 +1,7 @@
+{
+  "name": "pz-mcp-server",
+  "description": "MCP server for Project Zomboid mod development, offering tools to search the game's Java API, access vanilla game files, and scaffold/validate mod projects.",
+  "source_repo": "Svi-ra/pz-mcp-server",
+  "source_url": "https://github.com/Svi-ra/pz-mcp-server",
+  "install": "npx -y pz-mcp-server"
+}

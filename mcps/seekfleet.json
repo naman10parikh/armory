@@ -1,0 +1,7 @@
+{
+  "name": "seekfleet",
+  "description": "Cross-platform control plane for DeepSeek Harness agent fleets with MCP, durable sessions, adaptive routing, policy gates, token budgets, and a phone-friendly LAN dashboard.",
+  "source_repo": "cndoin/seekfleet",
+  "source_url": "https://github.com/cndoin/seekfleet",
+  "install": "# git clone --depth 1 https://github.com/cndoin/seekfleet\n# See source for mcpServers config block"
+}

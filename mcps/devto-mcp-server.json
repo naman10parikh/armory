@@ -1,0 +1,7 @@
+{
+  "name": "devto-mcp-server",
+  "description": "Provides tools to search and retrieve articles from the dev.to API, including search by query, tag, or technology, and fetching full articles by ID or slug.",
+  "source_repo": "HappyMonkeyAI/devto-mcp-server",
+  "source_url": "https://github.com/HappyMonkeyAI/devto-mcp-server",
+  "install": "npx -y devto-mcp-server"
+}

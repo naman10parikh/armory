@@ -1,0 +1,7 @@
+{
+  "name": "infralens-mcp",
+  "description": "Read-only MCP server for investigating AWS ECS deployment and runtime issues, focusing on ECS Fargate services behind an Application Load Balancer.",
+  "source_repo": "bharisagar/infralens-mcp",
+  "source_url": "https://github.com/bharisagar/infralens-mcp",
+  "install": "npx -y infralens-mcp"
+}

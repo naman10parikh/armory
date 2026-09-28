@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-go-produtor-rural",
+  "description": "Enables querying official SEFAZ GO rural producer data via a single read-only tool, with pay-per-query credit based access.",
+  "source_repo": "mcp-dir/sefaz_go_produtor_rural-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_go_produtor_rural-mcp",
+  "install": "npx -y sefaz_go_produtor_rural-mcp"
+}

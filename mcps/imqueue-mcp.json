@@ -1,0 +1,7 @@
+{
+  "name": "imqueue-mcp",
+  "description": "Model Context Protocol (MCP) server for @imqueue — lets AI coding agents (Claude Code, Cursor and others) search the docs, scaffold typed services & clients and use @imqueue/cli live.",
+  "source_repo": "imqueue/mcp",
+  "source_url": "https://github.com/imqueue/mcp",
+  "install": "# git clone --depth 1 https://github.com/imqueue/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "raveneye",
+  "description": "Enables AI intelligence gathering by scanning RSS feeds and GitHub for high-value opportunities, then generating actionable Markdown reports through an MCP-integrated multi-agent platform.",
+  "source_repo": "harsh313-B/RavenEye",
+  "source_url": "https://github.com/harsh313-B/RavenEye",
+  "install": "# git clone --depth 1 https://github.com/harsh313-B/RavenEye\n# See source for mcpServers config block"
+}

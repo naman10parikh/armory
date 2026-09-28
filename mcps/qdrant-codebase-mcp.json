@@ -1,0 +1,7 @@
+{
+  "name": "qdrant-codebase-mcp",
+  "description": "Indexes codebases into Qdrant for semantic search, enabling AI assistants to find relevant code by meaning without re-exploring the repo.",
+  "source_repo": "theepicsaxguy/qdrant-codebase-mcp",
+  "source_url": "https://github.com/theepicsaxguy/qdrant-codebase-mcp",
+  "install": "npx -y qdrant-codebase-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "com-aleeth-authority-mcp",
+  "description": "A governed MCP server exposing 37 risk-checked tools with signed Ed25519 receipts on a Bitcoin-anchored ledger, failing closed if governance or receipt writing fails.",
+  "source_repo": "TheSchreckMethod/aleeth-authority-mcp-interface",
+  "source_url": "https://github.com/TheSchreckMethod/aleeth-authority-mcp-interface",
+  "install": "# git clone --depth 1 https://github.com/TheSchreckMethod/aleeth-authority-mcp-interface\n# See source for mcpServers config block"
+}

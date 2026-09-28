@@ -1,0 +1,7 @@
+{
+  "name": "pvc-mcp-server",
+  "description": "A Git-like version control system for AI agent decision tracking, enabling plan commits, diffs, branches, and history.",
+  "source_repo": "096v/pvc-mcp-server",
+  "source_url": "https://github.com/096v/pvc-mcp-server",
+  "install": "npx -y pvc-mcp-server"
+}

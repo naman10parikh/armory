@@ -1,0 +1,7 @@
+{
+  "name": "football-api-mcp",
+  "description": "MCP server for football-data.org API providing access to football data like standings, matches, teams, and scorers.",
+  "source_repo": "ice1x/football-api-mcp",
+  "source_url": "https://github.com/ice1x/football-api-mcp",
+  "install": "npx -y football-api-mcp"
+}

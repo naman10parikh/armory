@@ -1,0 +1,7 @@
+{
+  "name": "claude-power-bi-mcp",
+  "description": "Enables Claude Code to read and modify Power BI data models locally, including searching DAX formulas and editing measures through a direct SSAS connection.",
+  "source_repo": "WenfengGu/Claude-PowerBI-MCP",
+  "source_url": "https://github.com/WenfengGu/Claude-PowerBI-MCP",
+  "install": "npx -y Claude-PowerBI-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "comprabtc-mcp",
+  "description": "Non-custodial Bitcoin DCA for agent treasuries on Celo: approve USDT once and an on-chain agent buys WBTC on schedule, straight back to your wallet. Budget capped by allowance, fees hard-capped on-chain.",
+  "source_repo": "csacanam/comprabtc",
+  "source_url": "https://github.com/csacanam/comprabtc",
+  "install": "# git clone --depth 1 https://github.com/csacanam/comprabtc\n# See source for mcpServers config block"
+}

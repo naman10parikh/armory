@@ -1,0 +1,7 @@
+{
+  "name": "tech-watch-mcp",
+  "description": "An MCP server providing real-time access to tech news from Hacker News, GitHub trending repositories, ArXiv papers, and dev.to articles, with capabilities for deep dives and cross-source comparisons.",
+  "source_repo": "LePhyX/tech-watch-mcp",
+  "source_url": "https://github.com/LePhyX/tech-watch-mcp",
+  "install": "npx -y tech-watch-mcp"
+}

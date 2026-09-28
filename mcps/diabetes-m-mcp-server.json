@@ -1,0 +1,7 @@
+{
+  "name": "diabetes-m-mcp-server",
+  "description": "Integrates Diabetes:M data with Claude Desktop to access glucose readings, insulin data, food diary, and health metrics through natural language conversations.",
+  "source_repo": "sedoglia/diabetes-m-mcp",
+  "source_url": "https://github.com/sedoglia/diabetes-m-mcp",
+  "install": "npx -y diabetes-m-mcp"
+}

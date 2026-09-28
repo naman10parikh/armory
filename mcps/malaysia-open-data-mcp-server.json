@@ -1,0 +1,7 @@
+{
+  "name": "malaysia-open-data-mcp-server",
+  "description": "This MCP server provides seamless access to Malaysia's government open data, including datasets, weather forecasts, and public transportation information. Enable efficient querying and retrieval of real-time and historical data with built-in rate limiting and error handling. Empower applications to",
+  "source_repo": "",
+  "source_url": "https://techmavie.digital/mcp-datagovmy",
+  "install": "# git clone --depth 1 https://techmavie.digital/mcp-datagovmy\n# See source for mcpServers config block"
+}

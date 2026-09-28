@@ -1,0 +1,7 @@
+{
+  "name": "drevo-mcp",
+  "description": "A self-contained FastMCP server that exposes a running drevo graph database to AI clients as Model Context Protocol tools, enabling graph queries and traversal via natural language.",
+  "source_repo": "ice1x/drevo-mcp",
+  "source_url": "https://github.com/ice1x/drevo-mcp",
+  "install": "npx -y drevo-mcp"
+}

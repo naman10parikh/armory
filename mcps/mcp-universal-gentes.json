@@ -1,0 +1,7 @@
+{
+  "name": "mcp-universal-gentes",
+  "description": "Enables agents to connect and disconnect OpenAPI services, then list, describe, and invoke newly discovered capabilities through a stable six-tool MCP interface without changing the published tool catalog.",
+  "source_repo": "dajarony/mcp-universal-gentes",
+  "source_url": "https://github.com/dajarony/mcp-universal-gentes",
+  "install": "# git clone --depth 1 https://github.com/dajarony/mcp-universal-gentes\n# See source for mcpServers config block"
+}

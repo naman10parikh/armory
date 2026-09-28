@@ -1,0 +1,7 @@
+{
+  "name": "stocker",
+  "description": "Enables NSE stock market research with screening, quotes, peer comparison, watchlists, alerts, and strategies using natural language.",
+  "source_repo": "AnkitSurana/stocker",
+  "source_url": "https://github.com/AnkitSurana/stocker",
+  "install": "# git clone --depth 1 https://github.com/AnkitSurana/stocker\n# See source for mcpServers config block"
+}

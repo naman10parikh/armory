@@ -1,0 +1,7 @@
+{
+  "name": "moneybags",
+  "description": "Lets you query your personal finances in plain language, log expenses, and correct transaction categories through a secure MCP endpoint.",
+  "source_repo": "aroesec/moneybags",
+  "source_url": "https://github.com/aroesec/moneybags",
+  "install": "# git clone --depth 1 https://github.com/aroesec/moneybags\n# See source for mcpServers config block"
+}

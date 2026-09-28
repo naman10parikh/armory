@@ -1,0 +1,7 @@
+{
+  "name": "unified-school-mcp",
+  "description": "Unifies school information, real estate transaction data, and school zone lookup into a single MCP server, allowing users to query school details, property prices, and attendance boundaries.",
+  "source_repo": "kimju1416/unified-school-mcp",
+  "source_url": "https://github.com/kimju1416/unified-school-mcp",
+  "install": "npx -y unified-school-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nhcx-payer-mcp",
+  "description": "MCP server to simulate NHCX payer-side actions for testing provider integrations, enabling approval, rejection, querying, and forwarding of cases. It automates the payer workflow through tools like process case and get user role.",
+  "source_repo": "umeshramya/nhcx-payer-mcp",
+  "source_url": "https://github.com/umeshramya/nhcx-payer-mcp",
+  "install": "npx -y nhcx-payer-mcp"
+}

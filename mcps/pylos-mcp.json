@@ -1,0 +1,7 @@
+{
+  "name": "pylos-mcp",
+  "description": "An email MCP server that lets Claude or any MCP client search, read and draft mail via IMAP, treating every message as untrusted input. It prioritizes safety with plain-text-only bodies, disabled sending until an allowlist is set, and no bcc support.",
+  "source_repo": "adamVass/pylos-mcp",
+  "source_url": "https://github.com/adamVass/pylos-mcp",
+  "install": "npx -y pylos-mcp"
+}

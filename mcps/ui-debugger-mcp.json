@@ -1,0 +1,7 @@
+{
+  "name": "ui-debugger-mcp",
+  "description": "Enables AI agents to autonomously debug UIs by delegating high-level stories to a small agent that drives browsers or desktop apps and reports structured pass/fail findings with evidence.",
+  "source_repo": "developerz-ai/ui-debugger-mcp",
+  "source_url": "https://github.com/developerz-ai/ui-debugger-mcp",
+  "install": "npx -y ui-debugger-mcp"
+}

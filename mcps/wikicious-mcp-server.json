@@ -1,0 +1,7 @@
+{
+  "name": "wikicious-mcp-server",
+  "description": "Connects MCP-compatible AI assistants to the Wikicious V6 protocol on Arbitrum One, enabling queries on perp markets, positions, staking, and revenue, as well as executing trades, deposits, withdrawals, and staking actions via natural language.",
+  "source_repo": "wikicious/Wikicious-MCP-Server",
+  "source_url": "https://github.com/wikicious/Wikicious-MCP-Server",
+  "install": "npx -y Wikicious-MCP-Server"
+}

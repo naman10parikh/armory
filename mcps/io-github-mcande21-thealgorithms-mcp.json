@@ -1,0 +1,7 @@
+{
+  "name": "io-github-mcande21-thealgorithms-mcp",
+  "description": "An MCP server for querying the TheAlgorithms organization across all language repos, enabling search and retrieval of algorithm implementations with in-file examples.",
+  "source_repo": "mcande21/thealgorithms-mcp",
+  "source_url": "https://github.com/mcande21/thealgorithms-mcp",
+  "install": "npx -y thealgorithms-mcp"
+}

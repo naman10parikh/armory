@@ -1,0 +1,7 @@
+{
+  "name": "otie-mcp",
+  "description": "MCP server for controlling Opentrons robots (OT-2/Flex) via HTTP API v2 and Python Protocol API, enabling protocol validation, upload and execution, status monitoring, run control, and documentation search.",
+  "source_repo": "koji/otie-mcp",
+  "source_url": "https://github.com/koji/otie-mcp",
+  "install": "npx -y otie-mcp"
+}

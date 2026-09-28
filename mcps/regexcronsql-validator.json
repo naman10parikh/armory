@@ -1,0 +1,7 @@
+{
+  "name": "regexcronsql-validator",
+  "description": "Validates regex, cron, and SQL expressions by executing them in real runtimes, with payments via x402 USDC on Base.",
+  "source_repo": "encodi/regexcronsql-validator",
+  "source_url": "https://github.com/encodi/regexcronsql-validator",
+  "install": "# git clone --depth 1 https://github.com/encodi/regexcronsql-validator\n# See source for mcpServers config block"
+}

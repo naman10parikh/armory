@@ -1,0 +1,7 @@
+{
+  "name": "vision-mcp-3",
+  "description": "An MCP server for image recognition and OCR via OpenAI-compatible vision APIs, supporting local files, URLs, and data URLs. Enables natural language image description and text extraction.",
+  "source_repo": "sulghu/vision-mcp",
+  "source_url": "https://github.com/sulghu/vision-mcp",
+  "install": "npx -y vision-mcp"
+}

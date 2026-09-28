@@ -1,0 +1,7 @@
+{
+  "name": "dangerous-skills-mcp",
+  "description": "A TypeScript MCP server delivering a vendored 'dangerous skills' corpus and adversarial fixtures over MCP for security-research testing, supporting SEP-2640 skill delivery with archive-safety hardening.",
+  "source_repo": "olaservo/dangerous-skills-mcp",
+  "source_url": "https://github.com/olaservo/dangerous-skills-mcp",
+  "install": "npx -y dangerous-skills-mcp"
+}

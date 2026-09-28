@@ -1,0 +1,7 @@
+{
+  "name": "mimo-image-recognition-mcp",
+  "description": "A Node.js MCP server that enables image understanding by calling the MIMO multimodal model, supporting local file paths and URLs.",
+  "source_repo": "rayner-luo/mimo-image-mcp",
+  "source_url": "https://github.com/rayner-luo/mimo-image-mcp",
+  "install": "npx -y mimo-image-mcp"
+}

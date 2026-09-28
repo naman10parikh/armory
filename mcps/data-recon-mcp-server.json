@@ -1,0 +1,7 @@
+{
+  "name": "data-recon-mcp-server",
+  "description": "An MCP server for data reconciliation between MySQL and Snowflake, enabling LLM agents to validate data integrity during migrations and ETL processes.",
+  "source_repo": "hindocharaj1997/data-recon-mcp",
+  "source_url": "https://github.com/hindocharaj1997/data-recon-mcp",
+  "install": "npx -y data-recon-mcp"
+}

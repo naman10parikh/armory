@@ -1,0 +1,7 @@
+{
+  "name": "harness-mcp-server",
+  "description": "An MCP server that gives AI agents full access to the Harness.io platform through 11 consolidated tools and 207 resource types.",
+  "source_repo": "harness/mcp-server",
+  "source_url": "https://github.com/harness/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/harness/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "anvisa-processo",
+  "description": "This MCP server enables querying official ANVISA (Brazilian health regulatory agency) process information through a hosted, read-only, pay-per-use tool that works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/anvisa_processo-mcp",
+  "source_url": "https://github.com/mcp-dir/anvisa_processo-mcp",
+  "install": "npx -y anvisa_processo-mcp"
+}

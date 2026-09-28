@@ -1,0 +1,7 @@
+{
+  "name": "elentra-local-connector",
+  "description": "A read-only MCP server that lets Claude Desktop search your private uOttawa Elentra data via an authenticated Chrome session, with polling-based staleness awareness.",
+  "source_repo": "noorabdalla04/elentra-local-connector",
+  "source_url": "https://github.com/noorabdalla04/elentra-local-connector",
+  "install": "# git clone --depth 1 https://github.com/noorabdalla04/elentra-local-connector\n# See source for mcpServers config block"
+}

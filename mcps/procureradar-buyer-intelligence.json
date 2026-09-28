@@ -1,0 +1,7 @@
+{
+  "name": "procureradar-buyer-intelligence",
+  "description": "MCP server for global B2B buyer intelligence. Find verified importers & distributors by product category & country. Free anonymous discovery via find_buyers. Contact unlock & company intelligence require a zk_ API key. SGX-listed data provider, PDPA compliant, bilingual EN/ZH.",
+  "source_repo": "tonyback0101-cmyk/procureradar-mcp-server",
+  "source_url": "https://github.com/tonyback0101-cmyk/procureradar-mcp-server",
+  "install": "npx -y procureradar-mcp-server"
+}

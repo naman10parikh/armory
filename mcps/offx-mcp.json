@@ -1,0 +1,7 @@
+{
+  "name": "offx-mcp",
+  "description": "Bridges AI agents to a Docker-isolated Kali Linux environment over SSH, exposing 29 security tools as MCP tools with OPSEC enforcement and multi-agent coordination.",
+  "source_repo": "PrinceOfPwn/OFFX-MCP",
+  "source_url": "https://github.com/PrinceOfPwn/OFFX-MCP",
+  "install": "npx -y OFFX-MCP"
+}

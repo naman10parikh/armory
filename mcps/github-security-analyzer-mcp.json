@@ -1,0 +1,7 @@
+{
+  "name": "github-security-analyzer-mcp",
+  "description": "This MCP server enables users to sign in with GitHub and use AI agents to scan entire repositories for leaked secrets such as API keys, passwords, and tokens, delivering a report with the exact file and line plus remediation guidance.",
+  "source_repo": "jmass-ggg/Github-Security-analyze-MCP",
+  "source_url": "https://github.com/jmass-ggg/Github-Security-analyze-MCP",
+  "install": "npx -y Github-Security-analyze-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prospectmcp",
+  "description": "A server that enables searching and prospecting businesses from Google Maps, filtering by website presence, extracting reviews, detecting social media links, and generating prompts for Claude Code to build landing pages.",
+  "source_repo": "snowydevd/ProspectMCP",
+  "source_url": "https://github.com/snowydevd/ProspectMCP",
+  "install": "# git clone --depth 1 https://github.com/snowydevd/ProspectMCP\n# See source for mcpServers config block"
+}

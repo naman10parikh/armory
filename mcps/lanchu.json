@@ -1,0 +1,7 @@
+{
+  "name": "lanchu",
+  "description": "A control panel and coordination system for AI agents, enabling scope control, real-time monitoring, and audit trails without requiring programming skills.",
+  "source_repo": "lanchuske/lanchu",
+  "source_url": "https://github.com/lanchuske/lanchu",
+  "install": "# git clone --depth 1 https://github.com/lanchuske/lanchu\n# See source for mcpServers config block"
+}

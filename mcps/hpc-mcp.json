@@ -1,0 +1,7 @@
+{
+  "name": "hpc-mcp",
+  "description": "Provides MCP tools for high-performance computing (HPC) and converged computing, enabling agentic interactions with HPC resources and workflows.",
+  "source_repo": "converged-computing/hpc-mcp",
+  "source_url": "https://github.com/converged-computing/hpc-mcp",
+  "install": "npx -y hpc-mcp"
+}

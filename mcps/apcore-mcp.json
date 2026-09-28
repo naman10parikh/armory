@@ -1,0 +1,7 @@
+{
+  "name": "apcore-mcp",
+  "description": "Automatically converts any apcore-based project into an MCP server and OpenAI tool provider with zero code changes.",
+  "source_repo": "aiperceivable/apcore-mcp-python",
+  "source_url": "https://github.com/aiperceivable/apcore-mcp-python",
+  "install": "# git clone --depth 1 https://github.com/aiperceivable/apcore-mcp-python\n# See source for mcpServers config block"
+}

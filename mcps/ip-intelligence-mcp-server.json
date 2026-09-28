@@ -1,0 +1,7 @@
+{
+  "name": "ip-intelligence-mcp-server",
+  "description": "Provides MCP tools for IP threat intelligence lookup and enrichment, including single IP lookup, bulk hunting, ASN expansion, and feed status queries.",
+  "source_repo": "ard1102/ip-intelligence",
+  "source_url": "https://github.com/ard1102/ip-intelligence",
+  "install": "# git clone --depth 1 https://github.com/ard1102/ip-intelligence\n# See source for mcpServers config block"
+}

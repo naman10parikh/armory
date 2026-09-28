@@ -1,0 +1,7 @@
+{
+  "name": "meok-mcp-test-mcp",
+  "description": "A test harness for MCP servers that validates server JSON, tool schemas, performs golden file diffing and schema drift detection, and generates signed test reports with Shields.io badges.",
+  "source_repo": "CSOAI-ORG/meok-mcp-test-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/meok-mcp-test-mcp",
+  "install": "npx -y meok-mcp-test-mcp"
+}

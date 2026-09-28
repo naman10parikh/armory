@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-config",
-  "description": "Mcp Server Config MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "rvjwhite/mcp-server-config",
   "source_url": "https://mcp.so/server/mcp-server-config/rvjwhite",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-config/rvjwhite\n# See source for mcpServers config block"

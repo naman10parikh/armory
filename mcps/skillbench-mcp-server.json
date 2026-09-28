@@ -1,0 +1,7 @@
+{
+  "name": "skillbench-mcp-server",
+  "description": "Runs coding tasks with and without a skill file, reports behavior deltas and variance, and generates JSON or Markdown readiness reports.",
+  "source_repo": "redkoai/skillbench-mcp-server",
+  "source_url": "https://github.com/redkoai/skillbench-mcp-server",
+  "install": "npx -y skillbench-mcp-server"
+}

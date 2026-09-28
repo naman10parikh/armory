@@ -1,0 +1,7 @@
+{
+  "name": "finops-copilot",
+  "description": "MCP server for Kubernetes FinOps that finds over-provisioned workloads, proposes right-sizing, and enforces safety guardrails with dry-run by default and audit logging.",
+  "source_repo": "hanumanthvendra/mcp-finops-copilot",
+  "source_url": "https://github.com/hanumanthvendra/mcp-finops-copilot",
+  "install": "# git clone --depth 1 https://github.com/hanumanthvendra/mcp-finops-copilot\n# See source for mcpServers config block"
+}

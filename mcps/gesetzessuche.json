@@ -1,0 +1,7 @@
+{
+  "name": "gesetzessuche",
+  "description": "MCP server for accessing and searching German federal law documents from gesetze-im-internet.de. Provides tools to retrieve specific paragraphs, perform full-text searches, and list available laws.",
+  "source_repo": "Steffen-W/gesetzessuche",
+  "source_url": "https://github.com/Steffen-W/gesetzessuche",
+  "install": "# git clone --depth 1 https://github.com/Steffen-W/gesetzessuche\n# See source for mcpServers config block"
+}

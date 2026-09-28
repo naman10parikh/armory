@@ -1,0 +1,7 @@
+{
+  "name": "handshake-mcp-server",
+  "description": "Enables AI assistants to connect to Handshake to search jobs, browse employers, explore events, and pull student or employer profiles.",
+  "source_repo": "sudhxnva/handshake-mcp-server",
+  "source_url": "https://github.com/sudhxnva/handshake-mcp-server",
+  "install": "npx -y handshake-mcp-server"
+}

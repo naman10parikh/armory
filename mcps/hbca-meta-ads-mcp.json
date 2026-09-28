@@ -1,0 +1,7 @@
+{
+  "name": "hbca-meta-ads-mcp",
+  "description": "A read-only MCP server for querying Meta Ads accounts through Meta's Marketing API. It provides tools to retrieve ad accounts, campaigns, ad sets, ads, and performance insights.",
+  "source_repo": "jmbrader/hbca-meta-ads-mcp",
+  "source_url": "https://github.com/jmbrader/hbca-meta-ads-mcp",
+  "install": "npx -y hbca-meta-ads-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "satismeter-mcp",
+  "description": "Read-only MCP server for exposing SatisMeter survey data to Claude custom connectors, enabling NPS response analysis and reading project, survey, response, and statistics.",
+  "source_repo": "petrocasek/satismeter-mcp",
+  "source_url": "https://github.com/petrocasek/satismeter-mcp",
+  "install": "npx -y satismeter-mcp"
+}

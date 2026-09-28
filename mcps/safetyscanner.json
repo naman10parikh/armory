@@ -1,0 +1,7 @@
+{
+  "name": "safetyscanner",
+  "description": "A read-only MCP server that detects scam indicators in transaction and part-time job postings, returning a risk score and evidence.",
+  "source_repo": "sammkong/safetyscanner-mcp",
+  "source_url": "https://github.com/sammkong/safetyscanner-mcp",
+  "install": "npx -y safetyscanner-mcp"
+}

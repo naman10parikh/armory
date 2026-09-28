@@ -1,0 +1,7 @@
+{
+  "name": "goprofiles-mcp-server",
+  "description": "Exposes GoProfiles as tools for AI assistants, allowing users to interact with GoProfiles via natural language.",
+  "source_repo": "GoLinks/goprofiles-mcp",
+  "source_url": "https://github.com/GoLinks/goprofiles-mcp",
+  "install": "npx -y goprofiles-mcp"
+}

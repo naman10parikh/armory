@@ -1,0 +1,7 @@
+{
+  "name": "datadis-mcp-server",
+  "description": "Enables AI agents to access and analyze Spanish electricity consumption data via the Datadis API, providing tools for supply management, consumption analysis, anomaly detection, and executive reporting.",
+  "source_repo": "Jaimegruiz/datadis-mcp",
+  "source_url": "https://github.com/Jaimegruiz/datadis-mcp",
+  "install": "npx -y datadis-mcp"
+}

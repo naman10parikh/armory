@@ -1,0 +1,7 @@
+{
+  "name": "mercadolibre-mcp-server",
+  "description": "Connects Claude to your MercadoLibre seller account, enabling natural language management of listings, orders, and shipments.",
+  "source_repo": "eme-ce/mcp-mercadolibre",
+  "source_url": "https://github.com/eme-ce/mcp-mercadolibre",
+  "install": "# git clone --depth 1 https://github.com/eme-ce/mcp-mercadolibre\n# See source for mcpServers config block"
+}

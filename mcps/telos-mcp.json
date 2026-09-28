@@ -1,0 +1,7 @@
+{
+  "name": "telos-mcp",
+  "description": "Exposes TELOS governance primitives—action scoring, receipt verification, Purpose Anchor inspection, audit-chain queries, and CCRS counterfactual replay—as MCP tools, resources, and prompts for any MCP-compatible client.",
+  "source_repo": "TELOS-Labs-AI/telos-mcp",
+  "source_url": "https://github.com/TELOS-Labs-AI/telos-mcp",
+  "install": "npx -y telos-mcp"
+}

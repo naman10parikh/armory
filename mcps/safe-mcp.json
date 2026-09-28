@@ -1,0 +1,7 @@
+{
+  "name": "safe-mcp",
+  "description": "A deterministic guard layer that blocks unauthorized tool calls and validates arguments before execution, preventing tool poisoning and jailbreak attacks on MCP servers.",
+  "source_repo": "androidanit/demo-safe-mcp",
+  "source_url": "https://github.com/androidanit/demo-safe-mcp",
+  "install": "npx -y demo-safe-mcp"
+}

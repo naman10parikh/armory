@@ -1,0 +1,7 @@
+{
+  "name": "careops-mcp",
+  "description": "Enables Claude to query and manage home-care operations including clients, visits, and compliance, with schema-validated write tools and a tamper-evident audit log.",
+  "source_repo": "ZGhey/careops-mcp",
+  "source_url": "https://github.com/ZGhey/careops-mcp",
+  "install": "npx -y careops-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "groundtruth",
+  "description": "A crisis verification agent that fact-checks actionable instructions against official advisories using retrieval-augmented verification, exposed as an MCP server with verify_claim and corpus_info tools.",
+  "source_repo": "ravigohel142996/groundtruth",
+  "source_url": "https://github.com/ravigohel142996/groundtruth",
+  "install": "# git clone --depth 1 https://github.com/ravigohel142996/groundtruth\n# See source for mcpServers config block"
+}

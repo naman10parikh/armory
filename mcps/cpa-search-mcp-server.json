@@ -1,0 +1,7 @@
+{
+  "name": "cpa-search-mcp-server",
+  "description": "Enables real-time web search and clean webpage content extraction for AI coding agents, using local CPA with multiple search engines including Gemini, Grok, GLM, and DuckDuckGo.",
+  "source_repo": "ffffhx/cpa-search-mcp",
+  "source_url": "https://github.com/ffffhx/cpa-search-mcp",
+  "install": "npx -y cpa-search-mcp"
+}

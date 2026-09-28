@@ -1,0 +1,7 @@
+{
+  "name": "talentbridge-lebanon",
+  "description": "MCP server for the TalentBridge Lebanon career-matching platform, offering job search, job retrieval, skill gap assessment, and job index statistics.",
+  "source_repo": "ak8x6/talent-bridge-lebanon",
+  "source_url": "https://github.com/ak8x6/talent-bridge-lebanon",
+  "install": "# git clone --depth 1 https://github.com/ak8x6/talent-bridge-lebanon\n# See source for mcpServers config block"
+}

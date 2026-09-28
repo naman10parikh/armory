@@ -1,0 +1,7 @@
+{
+  "name": "pan-mcp-relay",
+  "description": "Security-enhanced MCP Relay/Proxy server providing real-time AI threat protection for MCP Clients, scanning tool descriptions, call parameters, and responses for threats like prompt injections and malicious URLs.",
+  "source_repo": "PaloAltoNetworks/pan-mcp-relay",
+  "source_url": "https://github.com/PaloAltoNetworks/pan-mcp-relay",
+  "install": "# git clone --depth 1 https://github.com/PaloAltoNetworks/pan-mcp-relay\n# See source for mcpServers config block"
+}

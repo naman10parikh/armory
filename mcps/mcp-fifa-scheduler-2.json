@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fifa-scheduler-2",
+  "description": "An MCP server that creates calendar events for FIFA World Cup matches and sends email reminders with match details.",
+  "source_repo": "jacobtony/mcp-fifa-scheduler",
+  "source_url": "https://github.com/jacobtony/mcp-fifa-scheduler",
+  "install": "# git clone --depth 1 https://github.com/jacobtony/mcp-fifa-scheduler\n# See source for mcpServers config block"
+}

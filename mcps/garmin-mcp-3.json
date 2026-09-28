@@ -1,0 +1,7 @@
+{
+  "name": "garmin-mcp-3",
+  "description": "Exposes Garmin Connect health and activity data (steps, sleep, heart rate, etc.) via MCP tools, with built-in login and MFA support.",
+  "source_repo": "zwisler-a/garmin-mcp",
+  "source_url": "https://github.com/zwisler-a/garmin-mcp",
+  "install": "npx -y garmin-mcp"
+}

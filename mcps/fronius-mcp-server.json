@@ -1,0 +1,7 @@
+{
+  "name": "fronius-mcp-server",
+  "description": "Enables access to Fronius solar inverter data via the MCP protocol, allowing real-time monitoring of energy production, consumption, and battery storage through natural language.",
+  "source_repo": "huber/fronius-mcp-server",
+  "source_url": "https://github.com/huber/fronius-mcp-server",
+  "install": "npx -y fronius-mcp-server"
+}

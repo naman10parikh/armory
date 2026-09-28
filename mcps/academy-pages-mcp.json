@@ -1,0 +1,7 @@
+{
+  "name": "academy-pages-mcp",
+  "description": "Enables creating, updating, and publishing concept pages on SharePoint Academy via Microsoft Graph API, with tools for page management and menu configuration.",
+  "source_repo": "Het-Team-Juridische-Zaken/academy-pages-mcp",
+  "source_url": "https://github.com/Het-Team-Juridische-Zaken/academy-pages-mcp",
+  "install": "npx -y academy-pages-mcp"
+}

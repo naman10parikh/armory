@@ -1,0 +1,7 @@
+{
+  "name": "mcp-database-performance-analyzer",
+  "description": "An MCP server that analyzes SQL schemas, generates realistic test data, benchmarks queries, and provides optimization recommendations to improve database performance.",
+  "source_repo": "prateeik/mcp-db-analyser",
+  "source_url": "https://github.com/prateeik/mcp-db-analyser",
+  "install": "# git clone --depth 1 https://github.com/prateeik/mcp-db-analyser\n# See source for mcpServers config block"
+}

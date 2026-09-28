@@ -1,0 +1,7 @@
+{
+  "name": "mcp-books",
+  "description": "An MCP server that searches across the Internet Archive and Library of Congress at once, merging results while keeping each archive's differences. Provides tools to search inside texts, search catalogues, and retrieve item records, all read-only and without an API key.",
+  "source_repo": "smeet666/mcp-books",
+  "source_url": "https://github.com/smeet666/mcp-books",
+  "install": "# git clone --depth 1 https://github.com/smeet666/mcp-books\n# See source for mcpServers config block"
+}

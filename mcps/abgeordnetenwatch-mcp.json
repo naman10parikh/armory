@@ -1,0 +1,7 @@
+{
+  "name": "abgeordnetenwatch-mcp",
+  "description": "Provides live, source-linked transparency data on German MPs, including roll-call voting, side jobs, committee memberships, and election programs, via the Abgeordnetenwatch API. No API key required.",
+  "source_repo": "Movm/abgeordnetenwatch-mcp",
+  "source_url": "https://github.com/Movm/abgeordnetenwatch-mcp",
+  "install": "npx -y abgeordnetenwatch-mcp"
+}

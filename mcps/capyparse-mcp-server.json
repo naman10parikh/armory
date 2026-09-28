@@ -1,0 +1,7 @@
+{
+  "name": "capyparse-mcp-server",
+  "description": "Converts PDF bank statements into structured data (Markdown, JSON, CSV, JSONL) with verified transactions and balance checks, enabling agents to audit numbers.",
+  "source_repo": "remotenodelabs/capyparse-mcp",
+  "source_url": "https://github.com/remotenodelabs/capyparse-mcp",
+  "install": "npx -y capyparse-mcp"
+}

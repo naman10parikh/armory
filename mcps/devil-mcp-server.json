@@ -1,0 +1,7 @@
+{
+  "name": "devil-mcp-server",
+  "description": "An MCP server that provides programmatic access to devil hosting platform management tools, enabling AI assistants to manage websites, databases, DNS, SSL, email, and more via a secure REST API.",
+  "source_repo": "devil-imps/devil-mcp",
+  "source_url": "https://github.com/devil-imps/devil-mcp",
+  "install": "npx -y devil-mcp"
+}

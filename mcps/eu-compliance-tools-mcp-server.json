@@ -1,0 +1,7 @@
+{
+  "name": "eu-compliance-tools-mcp-server",
+  "description": "MCP server providing EU compliance APIs for VAT validation, sanctions screening, counterparty checks, and invoice extraction. Enables AI agents to make pay-per-call requests settled in USDC on Base via x402, with no account or API key required.",
+  "source_repo": "PatrickPi1312/eucompliance-tools",
+  "source_url": "https://github.com/PatrickPi1312/eucompliance-tools",
+  "install": "# git clone --depth 1 https://github.com/PatrickPi1312/eucompliance-tools\n# See source for mcpServers config block"
+}

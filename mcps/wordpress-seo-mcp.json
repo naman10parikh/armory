@@ -1,0 +1,7 @@
+{
+  "name": "wordpress-seo-mcp",
+  "description": "Connects AI assistants to WordPress sites, enabling automated SEO analysis and fixes for meta tags, schema, content, images, and technical SEO via MCP tools.",
+  "source_repo": "abnormal-yi/wordpress-seo-mcp",
+  "source_url": "https://github.com/abnormal-yi/wordpress-seo-mcp",
+  "install": "npx -y wordpress-seo-mcp"
+}

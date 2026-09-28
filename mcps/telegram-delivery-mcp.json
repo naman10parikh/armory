@@ -1,0 +1,7 @@
+{
+  "name": "telegram-delivery-mcp",
+  "description": "MCP server for delivering Yandex Tracker artifacts to Telegram via a bot service. It works in conjunction with YandexTrackerMCP to send summarized reports and verify delivery.",
+  "source_repo": "elicad-keyns/YandexTrackerTelegramMCP",
+  "source_url": "https://github.com/elicad-keyns/YandexTrackerTelegramMCP",
+  "install": "# git clone --depth 1 https://github.com/elicad-keyns/YandexTrackerTelegramMCP\n# See source for mcpServers config block"
+}

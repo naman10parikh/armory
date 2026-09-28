@@ -1,0 +1,7 @@
+{
+  "name": "nuvemshop",
+  "description": "MCP server for Nuvemshop e-commerce platform, enabling AI agents to manage products, orders, customers, categories, and coupons via official API with OAuth authentication.",
+  "source_repo": "mcp-dir/nuvemshop-mcp",
+  "source_url": "https://github.com/mcp-dir/nuvemshop-mcp",
+  "install": "npx -y nuvemshop-mcp"
+}

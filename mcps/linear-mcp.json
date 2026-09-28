@@ -1,0 +1,7 @@
+{
+  "name": "linear-mcp",
+  "description": "Enables AI agents to manage Linear issues, projects, teams, and more via the Model Context Protocol.",
+  "source_repo": "gerbal/linear-mcp",
+  "source_url": "https://github.com/gerbal/linear-mcp",
+  "install": "npx -y linear-mcp"
+}

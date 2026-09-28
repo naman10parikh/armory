@@ -1,0 +1,7 @@
+{
+  "name": "ui-toolkit-mcp",
+  "description": "Local, free MCP server for brand logo search and shadcn/ui component search & source lookup, requiring no API keys or login.",
+  "source_repo": "anomal3/ui-toolkit-mcp",
+  "source_url": "https://github.com/anomal3/ui-toolkit-mcp",
+  "install": "npx -y ui-toolkit-mcp"
+}

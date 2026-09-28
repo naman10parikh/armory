@@ -1,0 +1,7 @@
+{
+  "name": "pinion",
+  "description": "AI-powered characterization test generator that reads Python functions or class methods, synthesizes inputs, captures behavior in a sandbox, and emits pytest files to lock legacy code behavior for safe refactoring.",
+  "source_repo": "namojo/pinion",
+  "source_url": "https://github.com/namojo/pinion",
+  "install": "# git clone --depth 1 https://github.com/namojo/pinion\n# See source for mcpServers config block"
+}

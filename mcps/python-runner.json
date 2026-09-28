@@ -1,0 +1,7 @@
+{
+  "name": "python-runner",
+  "description": "Execute Python code via subprocess with timeout and error handling, returning stdout, stderr, and exit code.",
+  "source_repo": "Drahoxx/python-mcp",
+  "source_url": "https://github.com/Drahoxx/python-mcp",
+  "install": "npx -y python-mcp"
+}

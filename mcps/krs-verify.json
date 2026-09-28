@@ -1,0 +1,7 @@
+{
+  "name": "krs-verify",
+  "description": "MCP server for verifying Polish business entities from the National Court Register (KRS) and VAT White List. Allows querying by KRS, NIP, or REGON to retrieve official company data including name, address, board, and capital.",
+  "source_repo": "apiotrowski-afk/krs-verify",
+  "source_url": "https://github.com/apiotrowski-afk/krs-verify",
+  "install": "# git clone --depth 1 https://github.com/apiotrowski-afk/krs-verify\n# See source for mcpServers config block"
+}

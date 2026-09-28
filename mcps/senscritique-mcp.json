@@ -1,0 +1,7 @@
+{
+  "name": "senscritique-mcp",
+  "description": "MCP server for SensCritique that enables AI assistants to search works, access public data, and manage account actions like ratings and recommendations through a local HTTP API and MCP tools.",
+  "source_repo": "kabylesystem/senscritique-mcp",
+  "source_url": "https://github.com/kabylesystem/senscritique-mcp",
+  "install": "npx -y senscritique-mcp"
+}

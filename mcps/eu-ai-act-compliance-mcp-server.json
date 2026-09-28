@@ -1,0 +1,7 @@
+{
+  "name": "eu-ai-act-compliance-mcp-server",
+  "description": "Provides automated EU AI Act compliance tools, including risk classification, role determination, transparency disclosures, content watermarking, deepfake labeling, and security threat detection.",
+  "source_repo": "SonnyLabs/EU_AI_ACT_MCP",
+  "source_url": "https://github.com/SonnyLabs/EU_AI_ACT_MCP",
+  "install": "npx -y EU_AI_ACT_MCP"
+}

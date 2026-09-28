@@ -1,0 +1,7 @@
+{
+  "name": "entra-id-mcp-server-session-demo",
+  "description": "Minimal demo of Entra ID authentication with MCP and HTTP+SSE transport, using session mapping with JWT-like tokens.",
+  "source_repo": "dend/entra-id-mcp-server-session-demo",
+  "source_url": "https://github.com/dend/entra-id-mcp-server-session-demo",
+  "install": "# git clone --depth 1 https://github.com/dend/entra-id-mcp-server-session-demo\n# See source for mcpServers config block"
+}

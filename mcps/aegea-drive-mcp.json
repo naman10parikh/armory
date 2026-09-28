@@ -1,0 +1,7 @@
+{
+  "name": "aegea-drive-mcp",
+  "description": "Enables management of Google Drive files, Docs, Sheets, and Slides through natural language using MCP, with support for file operations, search, and shared drives.",
+  "source_repo": "camerhann/aegea-drive-mcp",
+  "source_url": "https://github.com/camerhann/aegea-drive-mcp",
+  "install": "npx -y aegea-drive-mcp"
+}

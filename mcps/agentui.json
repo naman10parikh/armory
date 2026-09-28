@@ -1,0 +1,7 @@
+{
+  "name": "agentui",
+  "description": "An MCP server that lets coding agents ask their human via interactive UIs like sliders, forms, diffs, and live previews.",
+  "source_repo": "skulitom/AgentUI",
+  "source_url": "https://github.com/skulitom/AgentUI",
+  "install": "# git clone --depth 1 https://github.com/skulitom/AgentUI\n# See source for mcpServers config block"
+}

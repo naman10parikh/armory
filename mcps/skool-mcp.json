@@ -1,0 +1,7 @@
+{
+  "name": "skool-mcp",
+  "description": "MCP server for Skool.com communities. Enables listing/approving members, posting, commenting, and managing courses.",
+  "source_repo": "nhayes263/skool-mcp",
+  "source_url": "https://github.com/nhayes263/skool-mcp",
+  "install": "npx -y skool-mcp"
+}

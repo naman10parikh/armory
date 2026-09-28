@@ -1,0 +1,7 @@
+{
+  "name": "clarity-mcp",
+  "description": "MCP server for Microsoft Clarity Data Export API, providing tools to retrieve traffic, popular pages, engagement metrics, and user behavior insights such as dead clicks, rage clicks, and script errors. Supports multiple projects with daily quota management and shared caching.",
+  "source_repo": "Raffaele86/clarity-mcp",
+  "source_url": "https://github.com/Raffaele86/clarity-mcp",
+  "install": "npx -y clarity-mcp"
+}

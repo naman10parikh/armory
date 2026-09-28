@@ -1,0 +1,7 @@
+{
+  "name": "bim-electrical-mcp",
+  "description": "MCP server for processing electrical BIM data from DXF and JSON files, sanitizing and storing it in Supabase, and enabling AI-powered querying through a conversational assistant.",
+  "source_repo": "althafdamara/bim-electrical-mcp",
+  "source_url": "https://github.com/althafdamara/bim-electrical-mcp",
+  "install": "npx -y bim-electrical-mcp"
+}

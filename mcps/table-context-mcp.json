@@ -1,0 +1,7 @@
+{
+  "name": "table-context-mcp",
+  "description": "Converts Excel table definitions to structured JSON and exposes them to LLMs via MCP tools like list_tables and get_table_schema, enabling accurate SQL generation and data modeling assistance.",
+  "source_repo": "windboyk0/table-context-mcp",
+  "source_url": "https://github.com/windboyk0/table-context-mcp",
+  "install": "npx -y table-context-mcp"
+}

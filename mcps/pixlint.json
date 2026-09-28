@@ -1,0 +1,7 @@
+{
+  "name": "pixlint",
+  "description": "Provides AI assistants with a comprehensive computer-vision dataset toolkit for analyzing, curating, augmenting, and exporting datasets, including label error detection and automatic publishing.",
+  "source_repo": "amitsingh-24/PixLint",
+  "source_url": "https://github.com/amitsingh-24/PixLint",
+  "install": "# git clone --depth 1 https://github.com/amitsingh-24/PixLint\n# See source for mcpServers config block"
+}

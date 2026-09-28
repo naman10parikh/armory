@@ -1,0 +1,7 @@
+{
+  "name": "unlocalhost",
+  "description": "Enables coding agents to deploy applications to private, authenticated URLs with a guest list, so only specified users can access them without writing auth code.",
+  "source_repo": "info-arnav/unlocalhost",
+  "source_url": "https://github.com/info-arnav/unlocalhost",
+  "install": "# git clone --depth 1 https://github.com/info-arnav/unlocalhost\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xiaozhi-music-mcp",
+  "description": "Provides music search, playback control, volume adjustment, and playlist management for Xiaozhi AI speakers via MCP.",
+  "source_repo": "bangjiong925-commits/xiaozhi-music-mcp",
+  "source_url": "https://github.com/bangjiong925-commits/xiaozhi-music-mcp",
+  "install": "npx -y xiaozhi-music-mcp"
+}

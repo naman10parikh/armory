@@ -1,0 +1,7 @@
+{
+  "name": "smartlife-tuya-mcp-server",
+  "description": "Local MCP server for reading temperature/humidity sensors from Tuya/SmartLife devices, exposing tools to list devices, get capabilities, and read sensor data.",
+  "source_repo": "bennythecoder/smartlife_mcp",
+  "source_url": "https://github.com/bennythecoder/smartlife_mcp",
+  "install": "npx -y smartlife_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-obsidian-local",
+  "description": "Local MCP server to access Obsidian vault via the obsidian-local-rest-api, with semantic search and project memory using Ollama embeddings.",
+  "source_repo": "rodrigoss384/mcp-obisidian-local",
+  "source_url": "https://github.com/rodrigoss384/mcp-obisidian-local",
+  "install": "# git clone --depth 1 https://github.com/rodrigoss384/mcp-obisidian-local\n# See source for mcpServers config block"
+}

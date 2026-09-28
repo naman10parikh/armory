@@ -1,0 +1,7 @@
+{
+  "name": "apk-docforge",
+  "description": "Enables local-first static and optional controlled dynamic analysis of Android APK artifacts, with provenance-aware downloads, Markdown reports, and structured security findings via MCP stdio tools.",
+  "source_repo": "alejandrojlamas/apk-docforge",
+  "source_url": "https://github.com/alejandrojlamas/apk-docforge",
+  "install": "# git clone --depth 1 https://github.com/alejandrojlamas/apk-docforge\n# See source for mcpServers config block"
+}

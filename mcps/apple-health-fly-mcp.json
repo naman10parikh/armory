@@ -1,0 +1,7 @@
+{
+  "name": "apple-health-fly-mcp",
+  "description": "MCP server that enables LLMs to query Apple Health data such as steps, heart rate, sleep, and workouts via natural language, with secure cloud access through OAuth.",
+  "source_repo": "fjcabello/apple-health-fly-mcp",
+  "source_url": "https://github.com/fjcabello/apple-health-fly-mcp",
+  "install": "npx -y apple-health-fly-mcp"
+}

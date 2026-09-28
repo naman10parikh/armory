@@ -1,0 +1,7 @@
+{
+  "name": "mikrotik-cli-mcp",
+  "description": "MCP server that sends CLI commands to MikroTik RouterOS via SSH. It allows executing any RouterOS CLI command and getting text output back.",
+  "source_repo": "Kamilake/mikrotik-cli-mcp",
+  "source_url": "https://github.com/Kamilake/mikrotik-cli-mcp",
+  "install": "npx -y mikrotik-cli-mcp"
+}

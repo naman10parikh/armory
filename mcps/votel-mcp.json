@@ -1,0 +1,7 @@
+{
+  "name": "votel-mcp",
+  "description": "An MCP server that lets AI assistants manage and publish websites via Votel, including creating sites, adding domains, purging cache, and retrieving analytics.",
+  "source_repo": "votelai/votel-mcp",
+  "source_url": "https://github.com/votelai/votel-mcp",
+  "install": "npx -y votel-mcp"
+}

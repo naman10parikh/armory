@@ -1,0 +1,7 @@
+{
+  "name": "base-converter-mcp",
+  "description": "An MCP server providing deterministic base conversions (binary, hex, octal, decimal, base64) for AI agents, eliminating hallucination risks in low-level data processing.",
+  "source_repo": "vinkius-labs/base-converter-mcp",
+  "source_url": "https://github.com/vinkius-labs/base-converter-mcp",
+  "install": "npx -y base-converter-mcp"
+}

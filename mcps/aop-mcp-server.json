@@ -1,0 +1,7 @@
+{
+  "name": "aop-mcp-server",
+  "description": "Public MCP endpoint for Adverse Outcome Pathway (AOP) discovery, scientific review, and draft-to-publication workflows.",
+  "source_repo": "ToxMCP/aop-mcp",
+  "source_url": "https://github.com/ToxMCP/aop-mcp",
+  "install": "npx -y aop-mcp"
+}

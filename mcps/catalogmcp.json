@@ -1,0 +1,7 @@
+{
+  "name": "catalogmcp",
+  "description": "Enables natural-language setup and management of a governed digital product catalog, including schema, products, and rules, with dry-run previews, audit logging, and two-phase confirmations for destructive actions.",
+  "source_repo": "Surferdude-AF/CatalogMCP",
+  "source_url": "https://github.com/Surferdude-AF/CatalogMCP",
+  "install": "# git clone --depth 1 https://github.com/Surferdude-AF/CatalogMCP\n# See source for mcpServers config block"
+}

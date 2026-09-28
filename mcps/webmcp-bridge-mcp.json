@@ -1,0 +1,7 @@
+{
+  "name": "webmcp-bridge-mcp",
+  "description": "Bridges MCP clients to Chrome pages with WebMCP support, enabling tool discovery and execution on web pages via a Chrome extension.",
+  "source_repo": "tanahiro2010/webmcp-bridge-mcp",
+  "source_url": "https://github.com/tanahiro2010/webmcp-bridge-mcp",
+  "install": "npx -y webmcp-bridge-mcp"
+}

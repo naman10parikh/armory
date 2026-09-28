@@ -1,0 +1,7 @@
+{
+  "name": "moltawards-mcp",
+  "description": "MCP server for MoltAwards that enables AI agents to search, filter, and engage with federal and state government contract opportunities, including teaming and commenting.",
+  "source_repo": "bbriggs1990/moltawards-mcp",
+  "source_url": "https://github.com/bbriggs1990/moltawards-mcp",
+  "install": "npx -y moltawards-mcp"
+}

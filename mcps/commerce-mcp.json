@@ -1,0 +1,7 @@
+{
+  "name": "commerce-mcp",
+  "description": "An MCP control plane for SAP Commerce Cloud that exposes safe, read-only tools to LLM agents for inspecting types, running FlexibleSearch, and validating ImpEx.",
+  "source_repo": "AlexTsvetkov/commerce-mcp",
+  "source_url": "https://github.com/AlexTsvetkov/commerce-mcp",
+  "install": "npx -y commerce-mcp"
+}

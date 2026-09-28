@@ -1,0 +1,7 @@
+{
+  "name": "innp",
+  "description": "AI-native security testing platform with native MCP support, enabling automated penetration testing, vulnerability discovery, and attack-chain analysis through conversational commands.",
+  "source_repo": "liuxinye23/CyberStrikeAI",
+  "source_url": "https://github.com/liuxinye23/CyberStrikeAI",
+  "install": "# git clone --depth 1 https://github.com/liuxinye23/CyberStrikeAI\n# See source for mcpServers config block"
+}

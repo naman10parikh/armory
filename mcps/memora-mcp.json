@@ -1,0 +1,7 @@
+{
+  "name": "memora-mcp",
+  "description": "An interactive flashcard MCP App for Claude Desktop. Claude generates flashcards from your request or the conversation and renders them as an inline, gradeable flip-card review with spaced repetition.",
+  "source_repo": "Servation/memora-mcp",
+  "source_url": "https://github.com/Servation/memora-mcp",
+  "install": "npx -y memora-mcp"
+}

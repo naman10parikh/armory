@@ -1,0 +1,7 @@
+{
+  "name": "visual-understanding",
+  "description": "MCP server for multimodal understanding and object grounding (bounding boxes) across images, videos, and documents, with support for multiple AI providers (Zhipu GLM-V, OpenAI GPT-4o, Anthropic Claude, or any OpenAI-compatible endpoint).",
+  "source_repo": "JayceVane/visual-understanding",
+  "source_url": "https://github.com/JayceVane/visual-understanding",
+  "install": "# git clone --depth 1 https://github.com/JayceVane/visual-understanding\n# See source for mcpServers config block"
+}

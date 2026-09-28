@@ -1,0 +1,7 @@
+{
+  "name": "fast-mcp-ssh",
+  "description": "Enables AI agents to securely execute commands on remote hosts via SSH and SFTP, with persistent shells, file transfers, screenshots, and an audit log.",
+  "source_repo": "klNuno/fast-mcp-ssh",
+  "source_url": "https://github.com/klNuno/fast-mcp-ssh",
+  "install": "# git clone --depth 1 https://github.com/klNuno/fast-mcp-ssh\n# See source for mcpServers config block"
+}

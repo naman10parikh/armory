@@ -1,0 +1,7 @@
+{
+  "name": "appflowy-mcp-server",
+  "description": "Provides AI assistants with full read/write access to AppFlowy Cloud, enabling management of workspaces, pages, databases, trash, and favorites, plus conversion of Markdown into formatted AppFlowy document blocks.",
+  "source_repo": "ChaosChild/appflowy-mcp",
+  "source_url": "https://github.com/ChaosChild/appflowy-mcp",
+  "install": "npx -y appflowy-mcp"
+}

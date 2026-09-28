@@ -1,0 +1,7 @@
+{
+  "name": "poke-mcp",
+  "description": "Enables users to turn their LLM client into a Pokédex by looking up Pokémon by name, including partial or misspelled names, and predicting battle outcomes between two Pokémon.",
+  "source_repo": "aquibm/poke-mcp",
+  "source_url": "https://github.com/aquibm/poke-mcp",
+  "install": "npx -y poke-mcp"
+}

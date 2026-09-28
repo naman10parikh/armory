@@ -1,0 +1,7 @@
+{
+  "name": "champollion-sulcal-mcp",
+  "description": "Exposes each stage of the Champollion sulcal embedding pipeline as MCP tools, enabling agents to run, monitor, and debug the pipeline without manual shell commands.",
+  "source_repo": "Barthelemy-Drabczuk/champollion_sulcal_mcp",
+  "source_url": "https://github.com/Barthelemy-Drabczuk/champollion_sulcal_mcp",
+  "install": "npx -y champollion_sulcal_mcp"
+}

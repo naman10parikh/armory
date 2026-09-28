@@ -1,0 +1,7 @@
+{
+  "name": "xcodebazelmcp",
+  "description": "A comprehensive MCP server and CLI for Bazel-based Apple platform development, providing 112 tools across 19 workflow categories for building, testing, debugging, and managing iOS, macOS, tvOS, watchOS, visionOS, and Swift Package Manager projects.",
+  "source_repo": "XcodeBazelMCP/XcodeBazelMCP",
+  "source_url": "https://github.com/XcodeBazelMCP/XcodeBazelMCP",
+  "install": "# git clone --depth 1 https://github.com/XcodeBazelMCP/XcodeBazelMCP\n# See source for mcpServers config block"
+}

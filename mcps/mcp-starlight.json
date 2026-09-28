@@ -1,0 +1,7 @@
+{
+  "name": "mcp-starlight",
+  "description": "Enables MCP clients to search and retrieve documentation from an Astro Starlight docs site by reading a pre-built catalog. Supports locale and version filtering, as well as structured data collections.",
+  "source_repo": "stellayazilim/mcp-starlight",
+  "source_url": "https://github.com/stellayazilim/mcp-starlight",
+  "install": "# git clone --depth 1 https://github.com/stellayazilim/mcp-starlight\n# See source for mcpServers config block"
+}

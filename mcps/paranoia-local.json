@@ -1,0 +1,7 @@
+{
+  "name": "paranoia-local",
+  "description": "A local MCP server that provides adversarial code review by having one frontier agent (Claude Code or Codex) critique code changes using the other agent (Codex or Claude Code) with full repository access, enabling a genuine second opinion on code and plans.",
+  "source_repo": "subvertnormality/paranoia-local",
+  "source_url": "https://github.com/subvertnormality/paranoia-local",
+  "install": "# git clone --depth 1 https://github.com/subvertnormality/paranoia-local\n# See source for mcpServers config block"
+}

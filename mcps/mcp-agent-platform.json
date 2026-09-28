@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agent-platform",
+  "description": "A modular platform that enables LLM agents to discover, register, and execute both local tools and tools from external MCP servers, with REST APIs for server management and Streamable HTTP support.",
+  "source_repo": "sabeekaahmad-43/Mcp_Project",
+  "source_url": "https://github.com/sabeekaahmad-43/Mcp_Project",
+  "install": "# git clone --depth 1 https://github.com/sabeekaahmad-43/Mcp_Project\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "repo-map-mcp",
+  "description": "Maintains a self-updating JSON index of repository files, functions, and descriptions so agents can query relevant files instead of grepping the tree.",
+  "source_repo": "Kevin-CNC/better-scout",
+  "source_url": "https://github.com/Kevin-CNC/better-scout",
+  "install": "# git clone --depth 1 https://github.com/Kevin-CNC/better-scout\n# See source for mcpServers config block"
+}

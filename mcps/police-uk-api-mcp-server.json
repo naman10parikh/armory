@@ -1,6 +1,6 @@
 {
   "name": "police-uk-api-mcp-server",
-  "description": "Police Uk Api Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "dwain-barnes/police-uk-api-mcp-server",
   "source_url": "https://mcp.so/server/police-uk-api-mcp-server/dwain-barnes",
   "install": "npx -y police-uk-api-mcp-server"

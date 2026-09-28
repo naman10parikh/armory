@@ -1,0 +1,7 @@
+{
+  "name": "agent-lab-mcp-server",
+  "description": "Exposes read-only PostgreSQL-backed HR data through seven structured tools, including employee directory lookups, late arrival and absence reporting, and delay summarization, all validated with Zod and returning queryable structured content.",
+  "source_repo": "TatooCollado/agent-lab",
+  "source_url": "https://github.com/TatooCollado/agent-lab",
+  "install": "# git clone --depth 1 https://github.com/TatooCollado/agent-lab\n# See source for mcpServers config block"
+}

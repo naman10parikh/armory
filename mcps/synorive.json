@@ -1,0 +1,7 @@
+{
+  "name": "synorive",
+  "description": "Provides Claude Code with local-first multimodal semantic search across documents, code, images, and video, plus multi-engine web research with active counter-evidence hunting and source-verified, extract-only briefings.",
+  "source_repo": "Aevorine/Synorive",
+  "source_url": "https://github.com/Aevorine/Synorive",
+  "install": "# git clone --depth 1 https://github.com/Aevorine/Synorive\n# See source for mcpServers config block"
+}

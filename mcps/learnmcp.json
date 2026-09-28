@@ -1,0 +1,7 @@
+{
+  "name": "learnmcp",
+  "description": "An MCP server that runs The Fortuneteller's Hand, a solo journaling tabletop RPG where Claude runs the table, casting Omens and reading the cards.",
+  "source_repo": "PistachioPony/learnMCP",
+  "source_url": "https://github.com/PistachioPony/learnMCP",
+  "install": "# git clone --depth 1 https://github.com/PistachioPony/learnMCP\n# See source for mcpServers config block"
+}

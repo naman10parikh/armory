@@ -1,0 +1,7 @@
+{
+  "name": "fallswarm-mcp",
+  "description": "A sovereign, MIT-licensed MCP server providing cryptographically signed, offline-capable tools for autonomous agents and developers.",
+  "source_repo": "sjgant80-hub/fallswarm-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallswarm-mcp",
+  "install": "npx -y fallswarm-mcp"
+}

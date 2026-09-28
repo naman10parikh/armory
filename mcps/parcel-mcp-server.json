@@ -1,0 +1,7 @@
+{
+  "name": "parcel-mcp-server",
+  "description": "Enables delivery tracking through the Parcel API, including listing and fetching deliveries, searching carriers, and adding new deliveries with optional write protection and multiple credential methods.",
+  "source_repo": "oliverames/parcel-mcp-server",
+  "source_url": "https://github.com/oliverames/parcel-mcp-server",
+  "install": "npx -y parcel-mcp-server"
+}

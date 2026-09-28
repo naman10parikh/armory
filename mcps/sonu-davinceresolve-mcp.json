@@ -1,0 +1,7 @@
+{
+  "name": "sonu-davinceresolve-mcp",
+  "description": "An MCP server that connects LLMs (Ollama, OpenAI, Anthropic) with desktop automation (mouse, keyboard, screenshots) using PyAutoGUI, with exclusive task locking to prevent concurrent execution.",
+  "source_repo": "S-onu112/sonu-davinceResolve-mcp",
+  "source_url": "https://github.com/S-onu112/sonu-davinceResolve-mcp",
+  "install": "npx -y sonu-davinceResolve-mcp"
+}

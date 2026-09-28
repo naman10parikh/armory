@@ -1,0 +1,7 @@
+{
+  "name": "google-analytics-mcp-server-on-cloudflare-workers",
+  "description": "Enables MCP clients to read Google Analytics 4 data, deployed as a Cloudflare Worker with service account authentication.",
+  "source_repo": "cchesebro-prog/GA_MCP_CF",
+  "source_url": "https://github.com/cchesebro-prog/GA_MCP_CF",
+  "install": "# git clone --depth 1 https://github.com/cchesebro-prog/GA_MCP_CF\n# See source for mcpServers config block"
+}

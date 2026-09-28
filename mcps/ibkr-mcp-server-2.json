@@ -1,0 +1,7 @@
+{
+  "name": "ibkr-mcp-server-2",
+  "description": "Enables interaction with Interactive Brokers through the TWS API for account management, market data, contract resolution, and order placement, with paper trading by default.",
+  "source_repo": "selvakumarEsra/ibkr-mcp-server",
+  "source_url": "https://github.com/selvakumarEsra/ibkr-mcp-server",
+  "install": "npx -y ibkr-mcp-server"
+}

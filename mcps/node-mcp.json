@@ -1,0 +1,7 @@
+{
+  "name": "node-mcp",
+  "description": "An MCP server that offers arithmetic operations (addition and division) and current weather data from OpenWeatherMap. It serves as a learning project for building MCP servers with Node.js and TypeScript, supporting both stdio and Streamable HTTP transports.",
+  "source_repo": "styles102/node-mcp",
+  "source_url": "https://github.com/styles102/node-mcp",
+  "install": "npx -y node-mcp"
+}

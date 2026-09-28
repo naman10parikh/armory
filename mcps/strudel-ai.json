@@ -1,0 +1,7 @@
+{
+  "name": "strudel-ai",
+  "description": "Enables AI agents to create and edit Strudel music code, render offline WAV audio, and obtain structured hearing reports with waveform, spectrogram, BPM, and onset analysis.",
+  "source_repo": "bowmana/strudel-ai",
+  "source_url": "https://github.com/bowmana/strudel-ai",
+  "install": "# git clone --depth 1 https://github.com/bowmana/strudel-ai\n# See source for mcpServers config block"
+}

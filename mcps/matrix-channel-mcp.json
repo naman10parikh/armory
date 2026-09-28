@@ -1,0 +1,7 @@
+{
+  "name": "matrix-channel-mcp",
+  "description": "Bridges a Matrix room with Claude Code's claude/channel feature, enabling chat from Matrix to interact with a running Claude Code session.",
+  "source_repo": "jouve/matrix-channel-mcp",
+  "source_url": "https://github.com/jouve/matrix-channel-mcp",
+  "install": "npx -y matrix-channel-mcp"
+}

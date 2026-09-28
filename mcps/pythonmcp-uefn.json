@@ -1,0 +1,7 @@
+{
+  "name": "pythonmcp-uefn",
+  "description": "Exposes the Unreal Editor for Fortnite to AI assistants via MCP, enabling actor manipulation, device property editing, Verse building, and more through a Python bridge.",
+  "source_repo": "yAstrosss/PythonMCP-UEFN",
+  "source_url": "https://github.com/yAstrosss/PythonMCP-UEFN",
+  "install": "# git clone --depth 1 https://github.com/yAstrosss/PythonMCP-UEFN\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "terradeed-mcp-server",
+  "description": "Enables web scraping and structured data extraction via x402-powered USDC payments on Base mainnet, with tools for scraping URLs into markdown, extracting schema-defined JSON, and checking wallet balances.",
+  "source_repo": "terradeed/terradeed-mcp-server",
+  "source_url": "https://github.com/terradeed/terradeed-mcp-server",
+  "install": "npx -y terradeed-mcp-server"
+}

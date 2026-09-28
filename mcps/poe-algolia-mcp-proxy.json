@@ -1,0 +1,7 @@
+{
+  "name": "poe-algolia-mcp-proxy",
+  "description": "An OpenAI-compatible proxy that forwards chat completions to Poe API and transparently executes Algolia MCP tool calls on the server side.",
+  "source_repo": "peteryang1756/poe-algolia-proxy",
+  "source_url": "https://github.com/peteryang1756/poe-algolia-proxy",
+  "install": "# git clone --depth 1 https://github.com/peteryang1756/poe-algolia-proxy\n# See source for mcpServers config block"
+}

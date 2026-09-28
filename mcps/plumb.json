@@ -1,0 +1,7 @@
+{
+  "name": "plumb",
+  "description": "Plumb is an MCP server that provides coding agents with IDE-level intelligence (LSP, tree-sitter index) and safe, atomic file writes with transactional rollback and crash resilience.",
+  "source_repo": "plumbkit/plumb",
+  "source_url": "https://github.com/plumbkit/plumb",
+  "install": "# git clone --depth 1 https://github.com/plumbkit/plumb\n# See source for mcpServers config block"
+}

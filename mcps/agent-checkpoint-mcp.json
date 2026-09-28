@@ -1,0 +1,7 @@
+{
+  "name": "agent-checkpoint-mcp",
+  "description": "A local MCP server that saves work-in-progress checkpoints to SQLite, enabling AI agents to resume interrupted sessions without redoing work.",
+  "source_repo": "DiegoWare/agent-checkpoint-mcp",
+  "source_url": "https://github.com/DiegoWare/agent-checkpoint-mcp",
+  "install": "npx -y agent-checkpoint-mcp"
+}

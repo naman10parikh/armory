@@ -1,0 +1,7 @@
+{
+  "name": "team-protocol",
+  "description": "Enables structured role-to-role handoffs and merge gating for multi-agent collaboration. It persists evidence and computes approval gates without invoking LLMs.",
+  "source_repo": "marshawcoco/gitmono-agent-team",
+  "source_url": "https://github.com/marshawcoco/gitmono-agent-team",
+  "install": "# git clone --depth 1 https://github.com/marshawcoco/gitmono-agent-team\n# See source for mcpServers config block"
+}

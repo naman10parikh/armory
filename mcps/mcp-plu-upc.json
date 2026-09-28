@@ -1,0 +1,7 @@
+{
+  "name": "mcp-plu-upc",
+  "description": "MCP server for looking up product information by UPC, EAN, GTIN barcodes and PLU produce codes.",
+  "source_repo": "indigokarasu/mcp-plu-upc",
+  "source_url": "https://github.com/indigokarasu/mcp-plu-upc",
+  "install": "# git clone --depth 1 https://github.com/indigokarasu/mcp-plu-upc\n# See source for mcpServers config block"
+}

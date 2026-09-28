@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-railway-starter",
+  "description": "A starter template for deploying a remote MCP server with OAuth 2.1 authorization, dynamic client registration, and a PostgreSQL database. Includes example tools for notes and whoami.",
+  "source_repo": "ak40u/mcp-server-railway-starter",
+  "source_url": "https://github.com/ak40u/mcp-server-railway-starter",
+  "install": "# git clone --depth 1 https://github.com/ak40u/mcp-server-railway-starter\n# See source for mcpServers config block"
+}

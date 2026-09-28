@@ -1,0 +1,7 @@
+{
+  "name": "mcp-task-server",
+  "description": "A security-focused Model Context Protocol server for task management over stdio, backed by SQLite. It exposes tools to create, list, complete, delete, and search tasks with strict validation, parameterized SQL, confirmation for deletes, and full audit logging.",
+  "source_repo": "antropovanikolitf/mcp-task-server",
+  "source_url": "https://github.com/antropovanikolitf/mcp-task-server",
+  "install": "# git clone --depth 1 https://github.com/antropovanikolitf/mcp-task-server\n# See source for mcpServers config block"
+}

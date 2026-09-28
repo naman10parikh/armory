@@ -1,0 +1,7 @@
+{
+  "name": "hh-mcp-comfyui",
+  "description": "通过Model Context Protocol调用本地ComfyUI实例生成图片，支持动态替换工作流中的提示词和尺寸等参数。",
+  "source_repo": "zjf2671/hh-mcp-comfyui",
+  "source_url": "https://github.com/zjf2671/hh-mcp-comfyui",
+  "install": "# git clone --depth 1 https://github.com/zjf2671/hh-mcp-comfyui\n# See source for mcpServers config block"
+}

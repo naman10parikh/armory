@@ -1,0 +1,7 @@
+{
+  "name": "aibrief-mcp",
+  "description": "Read-only MCP server that serves curated daily Korean AI briefings (papers, releases, community, video, deepdive) via 7 tools, with no LLM calls per request.",
+  "source_repo": "parkjongmin-ddam/aibrief-mcp",
+  "source_url": "https://github.com/parkjongmin-ddam/aibrief-mcp",
+  "install": "npx -y aibrief-mcp"
+}

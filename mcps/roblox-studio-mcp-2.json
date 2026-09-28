@@ -1,0 +1,7 @@
+{
+  "name": "roblox-studio-mcp-2",
+  "description": "A production MCP integration that lets AI agents control Roblox Studio to autonomously build, test, and debug Roblox games. Provides 39 tools for explorer control, script management, terrain generation, and autonomous testing.",
+  "source_repo": "Meganugger/roblox-studio-mcp",
+  "source_url": "https://github.com/Meganugger/roblox-studio-mcp",
+  "install": "npx -y roblox-studio-mcp"
+}

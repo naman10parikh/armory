@@ -1,0 +1,7 @@
+{
+  "name": "fortinac-mcp",
+  "description": "MCP server for diagnosing rogue hosts on FortiNAC 7.6 by querying the REST API, cross-referencing devices against profiling rules, and running nmap scans to identify classification blockers.",
+  "source_repo": "benbelo/fortinac-mcp",
+  "source_url": "https://github.com/benbelo/fortinac-mcp",
+  "install": "npx -y fortinac-mcp"
+}

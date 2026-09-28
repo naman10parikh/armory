@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-orcid-mcp-server",
+  "description": "Enables searching and retrieving researcher profiles, works, affiliations, funding, and peer review records from the ORCID registry via MCP, supporting STDIO or Streamable HTTP.",
+  "source_repo": "cyanheads/orcid-mcp-server",
+  "source_url": "https://github.com/cyanheads/orcid-mcp-server",
+  "install": "npx -y orcid-mcp-server"
+}

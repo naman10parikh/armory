@@ -1,0 +1,7 @@
+{
+  "name": "general-purpose-snowflake-mcp-server",
+  "description": "Enables AI assistants to securely access Snowflake data warehouses through natural language, executing SQL queries and retrieving insights with support for multiple authentication methods.",
+  "source_repo": "uniquejtx/snowflake-generic-mcp",
+  "source_url": "https://github.com/uniquejtx/snowflake-generic-mcp",
+  "install": "npx -y snowflake-generic-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mysqlmcp",
+  "description": "A high-performance MySQL database MCP server providing 29 professional tools for data operations, schema management, bulk operations, backup, monitoring, and security, with intelligent caching and enterprise-grade safety features.",
+  "source_repo": "liyq0307/MySQLMCP",
+  "source_url": "https://github.com/liyq0307/MySQLMCP",
+  "install": "# git clone --depth 1 https://github.com/liyq0307/MySQLMCP\n# See source for mcpServers config block"
+}

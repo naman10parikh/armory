@@ -1,0 +1,7 @@
+{
+  "name": "activity-log-mcp-server",
+  "description": "A persistent activity log server that allows MCP-compatible AI assistants to log events, decisions, and system logs over HTTP, with a built-in web dashboard for monitoring and searching logs.",
+  "source_repo": "AbhitekSingh-stfox/save-mcp",
+  "source_url": "https://github.com/AbhitekSingh-stfox/save-mcp",
+  "install": "npx -y save-mcp"
+}

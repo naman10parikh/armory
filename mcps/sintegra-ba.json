@@ -1,0 +1,7 @@
+{
+  "name": "sintegra-ba",
+  "description": "MCP server for querying official SINTEGRA BA tax data in Brazil, offering a single read-only tool via hosted HTTP endpoint with prepaid credits.",
+  "source_repo": "mcp-dir/sintegra_ba-mcp",
+  "source_url": "https://github.com/mcp-dir/sintegra_ba-mcp",
+  "install": "npx -y sintegra_ba-mcp"
+}

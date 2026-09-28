@@ -1,0 +1,7 @@
+{
+  "name": "nyt-cooking-mcp",
+  "description": "Enables AI assistants to search New York Times Cooking recipes, fetch full recipes with ingredients and steps without login, and browse personal saved recipe box with optional authentication.",
+  "source_repo": "bramboe/nyt-cooking-mcp",
+  "source_url": "https://github.com/bramboe/nyt-cooking-mcp",
+  "install": "npx -y nyt-cooking-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wan-mcp",
+  "description": "MCP server for the Wan model line enabling AI-driven animation, video editing, and image/video generation tasks via RunAPI with status polling and pricing.",
+  "source_repo": "runapi-ai/wan-mcp",
+  "source_url": "https://github.com/runapi-ai/wan-mcp",
+  "install": "npx -y wan-mcp"
+}

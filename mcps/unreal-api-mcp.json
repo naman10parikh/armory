@@ -1,0 +1,7 @@
+{
+  "name": "unreal-api-mcp",
+  "description": "Provides accurate Unreal Engine C++ API documentation to AI agents, preventing hallucinated signatures and incorrect includes.",
+  "source_repo": "Codeturion/unreal-api-mcp",
+  "source_url": "https://github.com/Codeturion/unreal-api-mcp",
+  "install": "npx -y unreal-api-mcp"
+}

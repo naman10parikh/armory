@@ -1,0 +1,7 @@
+{
+  "name": "pancake-api-mcp",
+  "description": "Serves the Pancake API documentation to AI assistants, enabling them to search endpoints, retrieve full API contracts, webhook payloads, and guides without live API access.",
+  "source_repo": "netfull95/pancake-api-mcp",
+  "source_url": "https://github.com/netfull95/pancake-api-mcp",
+  "install": "npx -y pancake-api-mcp"
+}

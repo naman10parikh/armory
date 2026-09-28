@@ -1,0 +1,7 @@
+{
+  "name": "fifa-world-cup-2026-mcp-server",
+  "description": "Enables conversational AI to fetch live World Cup matches, standings, results, and generate journalist-style match summaries using MCP tools and prompts.",
+  "source_repo": "sanketjoshi2012/worldcup-mcp",
+  "source_url": "https://github.com/sanketjoshi2012/worldcup-mcp",
+  "install": "npx -y worldcup-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cctx",
+  "description": "Enables Claude Code to reduce token usage by 70-90% using a local LLM for codebase indexing, tool output compression, and turn summarization.",
+  "source_repo": "anil7948/cctx",
+  "source_url": "https://github.com/anil7948/cctx",
+  "install": "# git clone --depth 1 https://github.com/anil7948/cctx\n# See source for mcpServers config block"
+}

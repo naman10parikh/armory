@@ -1,0 +1,7 @@
+{
+  "name": "garmin-mcp-server-2",
+  "description": "A local, read-only MCP server that allows Claude Desktop to access Garmin Connect data such as activities and recovery metrics, enabling AI-assisted running plan creation and adjustment.",
+  "source_repo": "arohiabhilasha/garmin-mcp-server",
+  "source_url": "https://github.com/arohiabhilasha/garmin-mcp-server",
+  "install": "npx -y garmin-mcp-server"
+}

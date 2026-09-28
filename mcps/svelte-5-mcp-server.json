@@ -1,0 +1,7 @@
+{
+  "name": "svelte-5-mcp-server",
+  "description": "A specialized MCP server for Svelte 5 development, providing searchable knowledge, code examples, and tools for generating and auditing components using modern Svelte 5 patterns.",
+  "source_repo": "StudentOfJS/svelte5-mcp",
+  "source_url": "https://github.com/StudentOfJS/svelte5-mcp",
+  "install": "npx -y svelte5-mcp"
+}

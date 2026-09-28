@@ -1,0 +1,7 @@
+{
+  "name": "depot-mcp",
+  "description": "Gives LLMs structured access to Warhammer 40,000 (10th edition) game data: faction lists, unit datasheets, stratagems, detachments and enhancements.",
+  "source_repo": "RKingsfield/depot-mcp",
+  "source_url": "https://github.com/RKingsfield/depot-mcp",
+  "install": "npx -y depot-mcp"
+}

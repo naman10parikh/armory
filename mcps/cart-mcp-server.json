@@ -1,0 +1,7 @@
+{
+  "name": "cart-mcp-server",
+  "description": "MCP server for the Cart e-commerce intelligence API, enabling AI agents to search stores, products, ads, and suppliers, and analyze market trends.",
+  "source_repo": "FlatNineOrg/cart-mcp",
+  "source_url": "https://github.com/FlatNineOrg/cart-mcp",
+  "install": "npx -y cart-mcp"
+}

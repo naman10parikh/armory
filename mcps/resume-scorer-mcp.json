@@ -1,0 +1,7 @@
+{
+  "name": "resume-scorer-mcp",
+  "description": "MCP server that scores a structured resume against a deterministic 4-category engineering rubric, providing numeric scores, evidence, bonus points, deductions, and improvement areas without an LLM call.",
+  "source_repo": "KhushalB25/resume-scorer-mcp",
+  "source_url": "https://github.com/KhushalB25/resume-scorer-mcp",
+  "install": "npx -y resume-scorer-mcp"
+}

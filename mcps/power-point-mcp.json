@@ -1,0 +1,7 @@
+{
+  "name": "power-point-mcp",
+  "description": "Enables Claude to read, create, and edit a single pre-bound PowerPoint file via MCP tools, with security bound to one specific .pptx file.",
+  "source_repo": "timon-strauss/power-point-mcp",
+  "source_url": "https://github.com/timon-strauss/power-point-mcp",
+  "install": "npx -y power-point-mcp"
+}

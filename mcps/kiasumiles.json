@@ -1,0 +1,7 @@
+{
+  "name": "kiasumiles",
+  "description": "MCP server that recommends the best credit card for miles based on your card stack and the merchant, helping you maximize miles at checkout.",
+  "source_repo": "hosanxiv/kiasumiles",
+  "source_url": "https://github.com/hosanxiv/kiasumiles",
+  "install": "# git clone --depth 1 https://github.com/hosanxiv/kiasumiles\n# See source for mcpServers config block"
+}

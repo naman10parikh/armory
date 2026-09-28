@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-history-mcp",
+  "description": "Search and reference your Claude Code conversation history directly from Claude, with full-text search, conversation viewing, and project browsing.",
+  "source_repo": "tim0120/claude-code-history-mcp",
+  "source_url": "https://github.com/tim0120/claude-code-history-mcp",
+  "install": "npx -y claude-code-history-mcp"
+}

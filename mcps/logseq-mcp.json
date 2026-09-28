@@ -1,0 +1,7 @@
+{
+  "name": "logseq-mcp",
+  "description": "An MCP server for interacting with Logseq graphs, enabling AI assistants to read, create, and manipulate Logseq content.",
+  "source_repo": "alvinteh-git/logseq-mcp",
+  "source_url": "https://github.com/alvinteh-git/logseq-mcp",
+  "install": "npx -y logseq-mcp"
+}

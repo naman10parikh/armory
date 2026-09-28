@@ -1,0 +1,7 @@
+{
+  "name": "digitalocean-mcp",
+  "description": "Enables interaction with DigitalOcean services and tools through a unified API via the Model Context Protocol.",
+  "source_repo": "universal-mcp/digitalocean",
+  "source_url": "https://github.com/universal-mcp/digitalocean",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/digitalocean\n# See source for mcpServers config block"
+}

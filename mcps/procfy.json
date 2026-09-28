@@ -1,0 +1,7 @@
+{
+  "name": "procfy",
+  "description": "Enables financial management through the Procfy API, allowing AI agents to manage transactions, bank accounts, contacts, and more via natural language.",
+  "source_repo": "mcp-dir/procfy-mcp",
+  "source_url": "https://github.com/mcp-dir/procfy-mcp",
+  "install": "npx -y procfy-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "echo-vault",
+  "description": "Enables agents to securely use credentials for GitHub, Cloudflare, OpenAI, Stripe, and xAI without ever reading the secret values, including credential health, rotation, and audit features.",
+  "source_repo": "echoomegaprime/echo-credential-broker",
+  "source_url": "https://github.com/echoomegaprime/echo-credential-broker",
+  "install": "# git clone --depth 1 https://github.com/echoomegaprime/echo-credential-broker\n# See source for mcpServers config block"
+}

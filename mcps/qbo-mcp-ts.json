@@ -1,0 +1,7 @@
+{
+  "name": "qbo-mcp-ts",
+  "description": "Enables QuickBooks Online integration for financial management with CRUD operations, reporting, real-time updates, and automation.",
+  "source_repo": "vespo92/QBO-MCP-TS",
+  "source_url": "https://github.com/vespo92/QBO-MCP-TS",
+  "install": "# git clone --depth 1 https://github.com/vespo92/QBO-MCP-TS\n# See source for mcpServers config block"
+}

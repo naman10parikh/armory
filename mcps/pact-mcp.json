@@ -1,0 +1,7 @@
+{
+  "name": "pact-mcp",
+  "description": "Enables MCP-capable agents to create, fund, and settle pacts with escrow, using an LLM evaluator for dispute resolution.",
+  "source_repo": "learners-superpumped/pact-mcp",
+  "source_url": "https://github.com/learners-superpumped/pact-mcp",
+  "install": "npx -y pact-mcp"
+}

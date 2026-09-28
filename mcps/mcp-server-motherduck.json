@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-motherduck",
+  "description": "An MCP server that enables SQL analytics on DuckDB and MotherDuck databases, allowing AI assistants and IDEs to query and analyze data.",
+  "source_repo": "cienco/mcp-motherduck-undercontrol-light",
+  "source_url": "https://github.com/cienco/mcp-motherduck-undercontrol-light",
+  "install": "# git clone --depth 1 https://github.com/cienco/mcp-motherduck-undercontrol-light\n# See source for mcpServers config block"
+}

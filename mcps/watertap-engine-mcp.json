@@ -1,0 +1,7 @@
+{
+  "name": "watertap-engine-mcp",
+  "description": "A water treatment process simulation engine that exposes WaterTAP capabilities through MCP and CLI adapters, enabling AI agents to build, solve, and optimize flowsheets using natural language.",
+  "source_repo": "puran-water/watertap-engine-mcp",
+  "source_url": "https://github.com/puran-water/watertap-engine-mcp",
+  "install": "npx -y watertap-engine-mcp"
+}

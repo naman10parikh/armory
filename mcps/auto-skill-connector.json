@@ -1,0 +1,7 @@
+{
+  "name": "auto-skill-connector",
+  "description": "Enables Claude to search and install skills from a database of ~200k scraped Claude skills, MCP servers, and plugins.",
+  "source_repo": "neelavalareddy/auto-skill-connector",
+  "source_url": "https://github.com/neelavalareddy/auto-skill-connector",
+  "install": "# git clone --depth 1 https://github.com/neelavalareddy/auto-skill-connector\n# See source for mcpServers config block"
+}

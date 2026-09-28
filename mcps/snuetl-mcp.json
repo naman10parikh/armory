@@ -1,0 +1,7 @@
+{
+  "name": "snuetl-mcp",
+  "description": "MCP server that provides tools to interact with SNU eTL (Canvas LMS), including viewing courses, assignments, announcements, grades, downloading and organizing course files, with persistent local storage and automatic sync.",
+  "source_repo": "kdy565/snuETL-mcp",
+  "source_url": "https://github.com/kdy565/snuETL-mcp",
+  "install": "npx -y snuETL-mcp"
+}

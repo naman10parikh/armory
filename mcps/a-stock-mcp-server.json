@@ -1,0 +1,7 @@
+{
+  "name": "a-stock-mcp-server",
+  "description": "Provides free Chinese A-share stock data including real-time quotes, historical K-lines, market scanning, and multi-factor stock screening via BaoStock and Sina Finance APIs.",
+  "source_repo": "jiangyj545/astock-mcp-server",
+  "source_url": "https://github.com/jiangyj545/astock-mcp-server",
+  "install": "npx -y astock-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "heddle",
+  "description": "Enables users to define and run MCP tools using declarative YAML configs with built-in trust enforcement, credential brokering, and tamper-evident audit logging.",
+  "source_repo": "goweft/heddle",
+  "source_url": "https://github.com/goweft/heddle",
+  "install": "# git clone --depth 1 https://github.com/goweft/heddle\n# See source for mcpServers config block"
+}

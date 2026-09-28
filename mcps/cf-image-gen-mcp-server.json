@@ -1,0 +1,7 @@
+{
+  "name": "cf-image-gen-mcp-server",
+  "description": "Generates images and videos from text prompts using Cloudflare Workers AI and Google Gemini models.",
+  "source_repo": "nolandpham/cf-gen-img-mcp",
+  "source_url": "https://github.com/nolandpham/cf-gen-img-mcp",
+  "install": "npx -y cf-gen-img-mcp"
+}

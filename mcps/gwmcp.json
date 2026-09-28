@@ -1,0 +1,7 @@
+{
+  "name": "gwmcp",
+  "description": "Google Workspace MCP Server with guided setup and seamless auth. Enables using 114 Google Workspace tools with Claude Code, Cursor, or any MCP client through natural language.",
+  "source_repo": "Gambinoo3005/gwmcp",
+  "source_url": "https://github.com/Gambinoo3005/gwmcp",
+  "install": "# git clone --depth 1 https://github.com/Gambinoo3005/gwmcp\n# See source for mcpServers config block"
+}

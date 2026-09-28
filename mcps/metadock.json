@@ -1,0 +1,7 @@
+{
+  "name": "metadock",
+  "description": "Control the MetaDock desktop workspace over MCP: browsers, layouts, bookmarks, downloads, and more.",
+  "source_repo": "metadockapp/metadock-mcp",
+  "source_url": "https://github.com/metadockapp/metadock-mcp",
+  "install": "npx -y metadock-mcp"
+}

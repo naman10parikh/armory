@@ -1,0 +1,7 @@
+{
+  "name": "mcp-curl-downloader",
+  "description": "Enables AI assistants to download files from HTTP/HTTPS URLs to local directories or file paths with options like custom filename, headers, and overwrite control.",
+  "source_repo": "mutoukenji/mcp-curl-downloader",
+  "source_url": "https://github.com/mutoukenji/mcp-curl-downloader",
+  "install": "# git clone --depth 1 https://github.com/mutoukenji/mcp-curl-downloader\n# See source for mcpServers config block"
+}

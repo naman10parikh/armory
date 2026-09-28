@@ -1,0 +1,7 @@
+{
+  "name": "paddock",
+  "description": "A local filesystem MCP server providing constrained file operations (read/write, directory management, search, metadata) within configurable directories, with read-only mode and zero runtime dependencies.",
+  "source_repo": "JohnXu22786/fs-mcp",
+  "source_url": "https://github.com/JohnXu22786/fs-mcp",
+  "install": "npx -y fs-mcp"
+}

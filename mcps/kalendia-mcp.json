@@ -1,0 +1,7 @@
+{
+  "name": "kalendia-mcp",
+  "description": "An MCP server for Kalendia that enables AI assistants to manage calendar connections, sync rules, scheduling pages, and agenda directly from chat.",
+  "source_repo": "bradbogdan/kalendia-mcp",
+  "source_url": "https://github.com/bradbogdan/kalendia-mcp",
+  "install": "npx -y kalendia-mcp"
+}

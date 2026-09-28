@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-server-authless-8",
+  "description": "Enables deploying a remote MCP server on Cloudflare Workers without authentication, supporting custom tools and integration with MCP clients like Claude Desktop.",
+  "source_repo": "kevinlupera/remote-mcp-server-authless",
+  "source_url": "https://github.com/kevinlupera/remote-mcp-server-authless",
+  "install": "# git clone --depth 1 https://github.com/kevinlupera/remote-mcp-server-authless\n# See source for mcpServers config block"
+}

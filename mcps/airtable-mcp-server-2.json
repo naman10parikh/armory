@@ -1,0 +1,7 @@
+{
+  "name": "airtable-mcp-server-2",
+  "description": "Enables AI-powered interaction with Airtable bases, supporting CRUD operations, schema management, webhooks, and natural language queries through the MCP protocol.",
+  "source_repo": "desarrollo032/airtable-mcp",
+  "source_url": "https://github.com/desarrollo032/airtable-mcp",
+  "install": "npx -y airtable-mcp"
+}

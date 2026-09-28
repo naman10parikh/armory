@@ -1,0 +1,7 @@
+{
+  "name": "notestoreport",
+  "description": "Converts rough notes into a citation-grounded report, verifying each claim against source notes and handing off to SuperDocs with a faithfulness circuit breaker.",
+  "source_repo": "SufyTech/notes-to-report",
+  "source_url": "https://github.com/SufyTech/notes-to-report",
+  "install": "# git clone --depth 1 https://github.com/SufyTech/notes-to-report\n# See source for mcpServers config block"
+}

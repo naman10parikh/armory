@@ -1,0 +1,7 @@
+{
+  "name": "lumiastream-mcp",
+  "description": "An MCP server for Lumia Stream that lets AI assistants trigger commands, set light colors, fire alerts, run text-to-speech, and read/write variables via the local REST API.",
+  "source_repo": "lumiastream/MCP",
+  "source_url": "https://github.com/lumiastream/MCP",
+  "install": "# git clone --depth 1 https://github.com/lumiastream/MCP\n# See source for mcpServers config block"
+}

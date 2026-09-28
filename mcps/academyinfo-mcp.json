@@ -1,0 +1,7 @@
+{
+  "name": "academyinfo-mcp",
+  "description": "Read-only MCP server for factual queries and side-by-side comparisons of Korean university disclosure indicators using a bundled local snapshot, with no API key or network required.",
+  "source_repo": "yousunjung84-edu/academyinfo-mcp",
+  "source_url": "https://github.com/yousunjung84-edu/academyinfo-mcp",
+  "install": "npx -y academyinfo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "seiza",
+  "description": "A native TypeScript AI orchestration engine and MCP server that coordinates autonomous sub-agents for complex coding tasks using DAG-based parallel execution and multi-agent consensus validation, with a real-time web dashboard.",
+  "source_repo": "SabilMurti/Seiza",
+  "source_url": "https://github.com/SabilMurti/Seiza",
+  "install": "# git clone --depth 1 https://github.com/SabilMurti/Seiza\n# See source for mcpServers config block"
+}

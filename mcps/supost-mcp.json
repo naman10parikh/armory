@@ -1,0 +1,7 @@
+{
+  "name": "supost-mcp",
+  "description": "Remote MCP server for SUpost, the Stanford student marketplace. Lets AI agents search active listings, fetch listing details, and read verified market statistics.",
+  "source_repo": "Capmus-Team/supost-mcp",
+  "source_url": "https://github.com/Capmus-Team/supost-mcp",
+  "install": "npx -y supost-mcp"
+}

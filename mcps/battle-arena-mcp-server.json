@@ -1,0 +1,7 @@
+{
+  "name": "battle-arena-mcp-server",
+  "description": "A multiplayer top-down action game where agents are controlled through MCP tools. Enables MCP clients to join and play by moving, attacking, and retreating.",
+  "source_repo": "mcp-gtw/demo-game",
+  "source_url": "https://github.com/mcp-gtw/demo-game",
+  "install": "# git clone --depth 1 https://github.com/mcp-gtw/demo-game\n# See source for mcpServers config block"
+}

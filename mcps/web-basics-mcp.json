@@ -1,0 +1,7 @@
+{
+  "name": "web-basics-mcp",
+  "description": "A self-hosted MCP server providing web search and URL fetching tools, running locally without external API keys or accounts.",
+  "source_repo": "yoloyash/web-basics-mcp",
+  "source_url": "https://github.com/yoloyash/web-basics-mcp",
+  "install": "npx -y web-basics-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "academic-search-mcp",
+  "description": "MCP server for academic research using the OpenAlex API, enabling article search, details retrieval, and author profile lookup.",
+  "source_repo": "r0x0d/academic-search-mcp",
+  "source_url": "https://github.com/r0x0d/academic-search-mcp",
+  "install": "npx -y academic-search-mcp"
+}

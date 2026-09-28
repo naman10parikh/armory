@@ -1,0 +1,7 @@
+{
+  "name": "agenticforge-mcp-server",
+  "description": "Monetizable AI agent tools - document parsing, text analysis, code generation, security scanning, format conversion, and more. 8 tools with HTTP API and MCP protocol support.",
+  "source_repo": "lolitaluxe/agenticforge-mcp",
+  "source_url": "https://github.com/lolitaluxe/agenticforge-mcp",
+  "install": "npx -y agenticforge-mcp"
+}

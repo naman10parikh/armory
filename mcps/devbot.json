@@ -1,0 +1,7 @@
+{
+  "name": "devbot",
+  "description": "A Flask-based chatbot using Gemini 2.5 Flash and MCP tools to manage GitHub repositories and LinkedIn profiles via natural language.",
+  "source_repo": "Sriram-murugesan/MCP_test",
+  "source_url": "https://github.com/Sriram-murugesan/MCP_test",
+  "install": "# git clone --depth 1 https://github.com/Sriram-murugesan/MCP_test\n# See source for mcpServers config block"
+}

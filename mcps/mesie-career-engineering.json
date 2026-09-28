@@ -1,0 +1,7 @@
+{
+  "name": "mesie-career-engineering",
+  "description": "MCP server providing 200 compressed engineering careers across software, systems, mechanical, civil, and DevOps, with tools for listing, searching, and retrieving career profiles.",
+  "source_repo": "ItsNotAILABS/mesie-career-engineering",
+  "source_url": "https://github.com/ItsNotAILABS/mesie-career-engineering",
+  "install": "# git clone --depth 1 https://github.com/ItsNotAILABS/mesie-career-engineering\n# See source for mcpServers config block"
+}

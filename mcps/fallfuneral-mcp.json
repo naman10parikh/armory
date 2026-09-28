@@ -1,0 +1,7 @@
+{
+  "name": "fallfuneral-mcp",
+  "description": "Sovereign, MIT-licensed MCP server for professional-service workflows with Ed25519-signed manifests and offline capability.",
+  "source_repo": "sjgant80-hub/fallfuneral-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallfuneral-mcp",
+  "install": "npx -y fallfuneral-mcp"
+}

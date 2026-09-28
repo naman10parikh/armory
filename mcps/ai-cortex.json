@@ -1,0 +1,7 @@
+{
+  "name": "ai-cortex",
+  "description": "Provides durable project context for coding agents, including project maps, session history, and explicit memories, all stored locally.",
+  "source_repo": "ai-creed/ai-cortex",
+  "source_url": "https://github.com/ai-creed/ai-cortex",
+  "install": "# git clone --depth 1 https://github.com/ai-creed/ai-cortex\n# See source for mcpServers config block"
+}

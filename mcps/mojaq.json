@@ -1,0 +1,7 @@
+{
+  "name": "mojaq",
+  "description": "Read-only MCP server for MOJAQ: give any AI assistant natural-language access to your EU-hosted app's deploys, errors, logs, uptime and incidents.",
+  "source_repo": "mojaqhq/mcp-server-mojaq",
+  "source_url": "https://github.com/mojaqhq/mcp-server-mojaq",
+  "install": "# git clone --depth 1 https://github.com/mojaqhq/mcp-server-mojaq\n# See source for mcpServers config block"
+}

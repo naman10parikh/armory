@@ -1,0 +1,7 @@
+{
+  "name": "mcp-terraform-assistant",
+  "description": "MCP server for managing Terraform infrastructure as code, enabling initialization, planning, applying, destroying, validating, and showing state of Terraform configurations.",
+  "source_repo": "guilhermeyoshida/mcp-terraform-assistant",
+  "source_url": "https://github.com/guilhermeyoshida/mcp-terraform-assistant",
+  "install": "# git clone --depth 1 https://github.com/guilhermeyoshida/mcp-terraform-assistant\n# See source for mcpServers config block"
+}

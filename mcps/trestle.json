@@ -1,0 +1,7 @@
+{
+  "name": "trestle",
+  "description": "Enables AI assistants to scan source code for secrets like API keys and passwords locally without network requests.",
+  "source_repo": "toro-guapo/trestle",
+  "source_url": "https://github.com/toro-guapo/trestle",
+  "install": "# git clone --depth 1 https://github.com/toro-guapo/trestle\n# See source for mcpServers config block"
+}

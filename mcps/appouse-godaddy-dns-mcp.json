@@ -1,0 +1,7 @@
+{
+  "name": "appouse-godaddy-dns-mcp",
+  "description": "MCP server for managing GoDaddy DNS records. Enables listing, adding, replacing, and deleting DNS records, and checking domain availability via natural language.",
+  "source_repo": "appouse/godaddy-dns-mcp",
+  "source_url": "https://github.com/appouse/godaddy-dns-mcp",
+  "install": "npx -y godaddy-dns-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "striderlabs-mcp-cashapp",
+  "description": "An MCP server that enables AI assistants to automate Cash App payments, balance checks, and transaction management via browser automation.",
+  "source_repo": "markswendsen-code/mcp-cashapp",
+  "source_url": "https://github.com/markswendsen-code/mcp-cashapp",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-cashapp\n# See source for mcpServers config block"
+}

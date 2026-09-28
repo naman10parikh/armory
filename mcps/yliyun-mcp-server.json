@@ -1,0 +1,7 @@
+{
+  "name": "yliyun-mcp-server",
+  "description": "Exposes cloud drive file search, read/write, sharing, tagging, and more via the standardized MCP protocol, enabling AI clients like Claude Desktop and Cursor to interact with 一粒云 storage.",
+  "source_repo": "qjloong/yliyun-mcp-server",
+  "source_url": "https://github.com/qjloong/yliyun-mcp-server",
+  "install": "npx -y yliyun-mcp-server"
+}

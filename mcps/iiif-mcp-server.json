@@ -1,0 +1,7 @@
+{
+  "name": "iiif-mcp-server",
+  "description": "MCP server for IIIF integration, enabling image fetching, manifest exploration, annotation search, and authentication support for cultural heritage resources.",
+  "source_repo": "code4history/IIIF_MCP",
+  "source_url": "https://github.com/code4history/IIIF_MCP",
+  "install": "npx -y IIIF_MCP"
+}

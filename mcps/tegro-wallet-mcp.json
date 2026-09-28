@@ -1,0 +1,7 @@
+{
+  "name": "tegro-wallet-mcp",
+  "description": "Provides read-only, real-time access to TON blockchain data including wallet balances, token holdings, transactions, prices, NFTs, DNS resolution, and address validation, without requiring private keys.",
+  "source_repo": "TegroTON/wallet-mcp",
+  "source_url": "https://github.com/TegroTON/wallet-mcp",
+  "install": "npx -y wallet-mcp"
+}

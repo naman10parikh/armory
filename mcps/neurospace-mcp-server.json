@@ -1,0 +1,7 @@
+{
+  "name": "neurospace-mcp-server",
+  "description": "Exposes a Neo4j knowledge graph to AI assistants via MCP, enabling entity search, neighbor traversal, and read-only Cypher queries.",
+  "source_repo": "Diluksha-Upeka/neurospace-mcp-server",
+  "source_url": "https://github.com/Diluksha-Upeka/neurospace-mcp-server",
+  "install": "npx -y neurospace-mcp-server"
+}

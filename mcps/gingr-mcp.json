@@ -1,0 +1,7 @@
+{
+  "name": "gingr-mcp",
+  "description": "Read-only MCP server for Gingr pet-care facility data, enabling queries about owners, animals, reservations, appointments, services, and staff via natural language.",
+  "source_repo": "shashicandev/gingr-mcp",
+  "source_url": "https://github.com/shashicandev/gingr-mcp",
+  "install": "npx -y gingr-mcp"
+}

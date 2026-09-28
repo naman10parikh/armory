@@ -1,0 +1,7 @@
+{
+  "name": "grounded-motion-mcp",
+  "description": "A standalone motion tracking MCP server that runs MMPose whole-body inference to produce normalized landmarks and trajectories, with tools for tracking, validation, inspection, comparison, and artifact export.",
+  "source_repo": "Valar05/grounded-motion-mcp",
+  "source_url": "https://github.com/Valar05/grounded-motion-mcp",
+  "install": "npx -y grounded-motion-mcp"
+}

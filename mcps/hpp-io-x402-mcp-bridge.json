@@ -1,0 +1,7 @@
+{
+  "name": "hpp-io-x402-mcp-bridge",
+  "description": "Enables AI agents to autonomously pay for and discover services using HPP USDC.e over the x402 protocol, without API keys or manual signing.",
+  "source_repo": "hpp-io/x402-mcp-bridge",
+  "source_url": "https://github.com/hpp-io/x402-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/hpp-io/x402-mcp-bridge\n# See source for mcpServers config block"
+}

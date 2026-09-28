@@ -1,6 +1,6 @@
 {
   "name": "empe-mcp-server",
-  "description": "Empe Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "empe-io/empe-mcp-server",
   "source_url": "https://mcp.so/server/empe-mcp-server/empe-io",
   "install": "npx -y empe-mcp-server"

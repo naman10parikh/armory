@@ -1,0 +1,7 @@
+{
+  "name": "kopeng",
+  "description": "Persistent, self-curating memory for coding agents. It enables local, zero-cost context recall through MCP tools with hybrid retrieval and autonomous consolidation.",
+  "source_repo": "djy89/kopeng",
+  "source_url": "https://github.com/djy89/kopeng",
+  "install": "# git clone --depth 1 https://github.com/djy89/kopeng\n# See source for mcpServers config block"
+}

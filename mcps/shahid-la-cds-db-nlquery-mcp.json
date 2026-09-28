@@ -1,0 +1,7 @@
+{
+  "name": "shahid-la-cds-db-nlquery-mcp",
+  "description": "MCP server for natural language queries against CDS db-layer entities; automatically discovers schema, generates SQL JOINs, and returns rows.",
+  "source_repo": "shahidla/cds-db-nlquery-mcp",
+  "source_url": "https://github.com/shahidla/cds-db-nlquery-mcp",
+  "install": "npx -y cds-db-nlquery-mcp"
+}

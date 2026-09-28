@@ -1,0 +1,7 @@
+{
+  "name": "almega-mcp",
+  "description": "A wallet and guardrail for AI agents, enabling spending limits, payment approvals, and real-time ledger tracking via memory or Stripe backends.",
+  "source_repo": "almega-ai/almega-mcp",
+  "source_url": "https://github.com/almega-ai/almega-mcp",
+  "install": "npx -y almega-mcp"
+}

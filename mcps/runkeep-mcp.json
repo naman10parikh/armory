@@ -1,0 +1,7 @@
+{
+  "name": "runkeep-mcp",
+  "description": "Enables management of long-running development processes (such as dev servers, compilers, and watchers) from MCP hosts. Provides tools to start, stop, restart, check status, view logs, and send input to managed processes.",
+  "source_repo": "3xjn/runkeep",
+  "source_url": "https://github.com/3xjn/runkeep",
+  "install": "# git clone --depth 1 https://github.com/3xjn/runkeep\n# See source for mcpServers config block"
+}

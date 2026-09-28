@@ -1,0 +1,7 @@
+{
+  "name": "biblemcp",
+  "description": "Production-ready MCP server that lets LLMs explore, analyze, and reason over the Bible using local ChromaDB stores and Mistral embeddings.",
+  "source_repo": "felixLandlord/BibleMCP",
+  "source_url": "https://github.com/felixLandlord/BibleMCP",
+  "install": "# git clone --depth 1 https://github.com/felixLandlord/BibleMCP\n# See source for mcpServers config block"
+}

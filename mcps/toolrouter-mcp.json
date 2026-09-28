@@ -1,0 +1,7 @@
+{
+  "name": "toolrouter-mcp",
+  "description": "Provides access to over 226 tools and 1,208 skills across web search, image/video generation, SEO, scraping, and more, allowing any MCP-compatible agent to discover, search, and call AI tools via a hosted gateway.",
+  "source_repo": "Humanleap/toolrouter-mcp",
+  "source_url": "https://github.com/Humanleap/toolrouter-mcp",
+  "install": "npx -y toolrouter-mcp"
+}

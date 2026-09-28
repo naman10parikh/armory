@@ -1,0 +1,7 @@
+{
+  "name": "gaggiuino-mcp-server",
+  "description": "A remote MCP server for integrating Gaggiuino espresso machines with AI tools. It enables checking machine status, analyzing shot data, managing profiles, and receiving dial-in guidance.",
+  "source_repo": "ljcl/gaggiuino-mcp",
+  "source_url": "https://github.com/ljcl/gaggiuino-mcp",
+  "install": "npx -y gaggiuino-mcp"
+}

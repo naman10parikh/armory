@@ -1,0 +1,7 @@
+{
+  "name": "kintone-mcp-server",
+  "description": "Official MCP server for kintone, enabling AI assistants to manage kintone apps, records, and settings through natural language.",
+  "source_repo": "kintone/mcp-server",
+  "source_url": "https://github.com/kintone/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/kintone/mcp-server\n# See source for mcpServers config block"
+}

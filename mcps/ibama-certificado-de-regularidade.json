@@ -1,0 +1,7 @@
+{
+  "name": "ibama-certificado-de-regularidade",
+  "description": "Enables querying IBAMA Certificado de Regularidade (environmental compliance certificate) from official sources through a read-only MCP tool. Works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/ibama_certificado_regularidade-mcp",
+  "source_url": "https://github.com/mcp-dir/ibama_certificado_regularidade-mcp",
+  "install": "npx -y ibama_certificado_regularidade-mcp"
+}

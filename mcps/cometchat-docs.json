@@ -1,0 +1,7 @@
+{
+  "name": "cometchat-docs",
+  "description": "CometChat docs search + implementation bundles: add chat, voice, video & moderation to your app through your AI coding agent.",
+  "source_repo": "cometchat/docs-mcp",
+  "source_url": "https://github.com/cometchat/docs-mcp",
+  "install": "npx -y docs-mcp"
+}

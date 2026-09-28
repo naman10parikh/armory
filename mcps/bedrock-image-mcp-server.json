@@ -1,0 +1,7 @@
+{
+  "name": "bedrock-image-mcp-server",
+  "description": "MCP server for generating and editing images using Amazon Nova Canvas, Stable Diffusion 3.5 Large, and Stability AI services through Amazon Bedrock.",
+  "source_repo": "kalleeh/bedrock-image-mcp-server",
+  "source_url": "https://github.com/kalleeh/bedrock-image-mcp-server",
+  "install": "npx -y bedrock-image-mcp-server"
+}

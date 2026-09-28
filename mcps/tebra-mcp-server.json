@@ -1,0 +1,7 @@
+{
+  "name": "tebra-mcp-server",
+  "description": "MCP server for Tebra practice management that gives AI agents access to 45 tools for patients, appointments, billing, documents, and clinical data via SOAP and FHIR APIs.",
+  "source_repo": "jamesrosing/tebra-mcp-server",
+  "source_url": "https://github.com/jamesrosing/tebra-mcp-server",
+  "install": "npx -y tebra-mcp-server"
+}

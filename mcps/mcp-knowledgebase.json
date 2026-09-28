@@ -1,0 +1,7 @@
+{
+  "name": "mcp-knowledgebase",
+  "description": "Enables AI agents to explore MySQL database schemas and execute read-only queries through a safe, MCP interface.",
+  "source_repo": "jommar/mcp-knowledgebase",
+  "source_url": "https://github.com/jommar/mcp-knowledgebase",
+  "install": "# git clone --depth 1 https://github.com/jommar/mcp-knowledgebase\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ranger-rag-mcp",
+  "description": "MCP server that integrates Apache Ranger authorization with RAG, enforcing Ranger policies to control access to knowledge bases before forwarding queries to RAG Studio.",
+  "source_repo": "WarinChi/ranger-rag-mcp",
+  "source_url": "https://github.com/WarinChi/ranger-rag-mcp",
+  "install": "npx -y ranger-rag-mcp"
+}

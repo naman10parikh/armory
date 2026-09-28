@@ -1,0 +1,7 @@
+{
+  "name": "razorpay-mcp-guard",
+  "description": "Enforces spend policies on Razorpay MCP tool calls by applying per-agent spend caps, category allowlists, and approval thresholds, with a tamper-evident audit ledger.",
+  "source_repo": "alfred-HQbot/razorpay-mcp-guard",
+  "source_url": "https://github.com/alfred-HQbot/razorpay-mcp-guard",
+  "install": "# git clone --depth 1 https://github.com/alfred-HQbot/razorpay-mcp-guard\n# See source for mcpServers config block"
+}

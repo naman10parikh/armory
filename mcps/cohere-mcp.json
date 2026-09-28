@@ -1,0 +1,7 @@
+{
+  "name": "cohere-mcp",
+  "description": "A Type 3 DAuth MCP server for Cohere AI API, enabling chat, embeddings, reranking, classification, and summarization using Cohere's AI models.",
+  "source_repo": "madaoQ/cohere-mcp",
+  "source_url": "https://github.com/madaoQ/cohere-mcp",
+  "install": "npx -y cohere-mcp"
+}

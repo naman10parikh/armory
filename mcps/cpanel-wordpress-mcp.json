@@ -1,0 +1,7 @@
+{
+  "name": "cpanel-wordpress-mcp",
+  "description": "Enables managing cPanel accounts including subdomains, files, and WordPress installations via Softaculous from Claude Code using natural language.",
+  "source_repo": "chris-bangmedia/cpanel-mcp",
+  "source_url": "https://github.com/chris-bangmedia/cpanel-mcp",
+  "install": "npx -y cpanel-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "youtube-watchlater-mcp",
+  "description": "Fetches your YouTube Watch Later playlist using yt-dlp with browser cookies, bypassing YouTube API limitations. Also supports downloading video subtitles.",
+  "source_repo": "tulaman/youtube-watchlater-mcp",
+  "source_url": "https://github.com/tulaman/youtube-watchlater-mcp",
+  "install": "npx -y youtube-watchlater-mcp"
+}

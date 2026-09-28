@@ -1,0 +1,7 @@
+{
+  "name": "skills-manager-mcp",
+  "description": "Acts as a personal AI development environment manager, enabling workspace bootstrapping, headless skill and bundle installation, global caching, and health diagnostics.",
+  "source_repo": "AbdulqaderAhmed/skills-manager-mcp",
+  "source_url": "https://github.com/AbdulqaderAhmed/skills-manager-mcp",
+  "install": "npx -y skills-manager-mcp"
+}

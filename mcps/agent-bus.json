@@ -1,0 +1,7 @@
+{
+  "name": "agent-bus",
+  "description": "Enables multiple coding agents (Claude Code, Codex, Cursor) to discover each other's sessions, search transcripts, ask questions, and handoff tasks through a shared MCP server.",
+  "source_repo": "rishabhjava/agent-bus",
+  "source_url": "https://github.com/rishabhjava/agent-bus",
+  "install": "# git clone --depth 1 https://github.com/rishabhjava/agent-bus\n# See source for mcpServers config block"
+}

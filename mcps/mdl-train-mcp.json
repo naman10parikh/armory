@@ -1,0 +1,7 @@
+{
+  "name": "mdl-train-mcp",
+  "description": "An MCP server for monitoring and managing training jobs on Modal. Built for LLMs that need to check on long-running GPU training without drowning in log output.",
+  "source_repo": "JoshuaSP/mdl-train-mcp",
+  "source_url": "https://github.com/JoshuaSP/mdl-train-mcp",
+  "install": "npx -y mdl-train-mcp"
+}

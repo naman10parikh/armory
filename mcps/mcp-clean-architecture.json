@@ -1,0 +1,7 @@
+{
+  "name": "mcp-clean-architecture",
+  "description": "Enables building maintainable MCP servers and apps in Python using FastMCP and Clean Architecture, providing e-commerce operations like product search and cart management via MCP.",
+  "source_repo": "renaisanci/mcp-clean-architecture",
+  "source_url": "https://github.com/renaisanci/mcp-clean-architecture",
+  "install": "# git clone --depth 1 https://github.com/renaisanci/mcp-clean-architecture\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-database-assistant",
+  "description": "Connects a local LLM (Ollama) to a SQLite database via the Model Context Protocol, enabling natural language queries and controlled read/write database operations through MCP tools.",
+  "source_repo": "SreeHarsha72/MCP-Database-Assistant",
+  "source_url": "https://github.com/SreeHarsha72/MCP-Database-Assistant",
+  "install": "# git clone --depth 1 https://github.com/SreeHarsha72/MCP-Database-Assistant\n# See source for mcpServers config block"
+}

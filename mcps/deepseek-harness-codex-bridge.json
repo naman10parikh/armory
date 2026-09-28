@@ -1,0 +1,7 @@
+{
+  "name": "deepseek-harness-codex-bridge",
+  "description": "This MCP server enables Codex to delegate bounded subtasks to DeepSeek Harness through MCP, with persistent JSON mailbox messaging and proactive task initiation via Codex app-server. It provides tools for delegation, message exchange, and task status tracking.",
+  "source_repo": "Aloneswork/deepseek-harness-codex-bridge",
+  "source_url": "https://github.com/Aloneswork/deepseek-harness-codex-bridge",
+  "install": "# git clone --depth 1 https://github.com/Aloneswork/deepseek-harness-codex-bridge\n# See source for mcpServers config block"
+}

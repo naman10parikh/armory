@@ -1,0 +1,7 @@
+{
+  "name": "customer-mcp-server",
+  "description": "MCP server for securely connecting LLMs to customer data, providing customer profile retrieval, semantic search of interaction history, and exact financial summaries via SQL aggregation, with audit logging and prompt injection protection.",
+  "source_repo": "Sukkamit/Customer-MCP-Server",
+  "source_url": "https://github.com/Sukkamit/Customer-MCP-Server",
+  "install": "npx -y Customer-MCP-Server"
+}

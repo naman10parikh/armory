@@ -1,0 +1,7 @@
+{
+  "name": "opnsense-mcp-server",
+  "description": "Enables natural language management of OPNsense firewalls through AI clients, providing tools for firewall rules, system health, VPN monitoring, and more.",
+  "source_repo": "fakebizprez/opnsense-mcp-server",
+  "source_url": "https://github.com/fakebizprez/opnsense-mcp-server",
+  "install": "npx -y opnsense-mcp-server"
+}

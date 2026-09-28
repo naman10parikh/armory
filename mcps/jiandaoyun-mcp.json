@@ -1,0 +1,7 @@
+{
+  "name": "jiandaoyun-mcp",
+  "description": "MCP server that wraps Jiandaoyun (简道云) form operations, providing 9 tools for app discovery, form exploration, and data CRUD via SSE transport.",
+  "source_repo": "conred-lin/jiandaoyun-mcp",
+  "source_url": "https://github.com/conred-lin/jiandaoyun-mcp",
+  "install": "npx -y jiandaoyun-mcp"
+}

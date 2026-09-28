@@ -1,0 +1,7 @@
+{
+  "name": "shade-browser-security-mcp",
+  "description": "Standalone MCP server exposing only the security-classified tools from Shade Browser, enabling Brave CDP browser automation across 20 isolated profile slots. Built on FastMCP and Playwright Python.",
+  "source_repo": "Atlas-X-AI/shade-browser-security",
+  "source_url": "https://github.com/Atlas-X-AI/shade-browser-security",
+  "install": "# git clone --depth 1 https://github.com/Atlas-X-AI/shade-browser-security\n# See source for mcpServers config block"
+}

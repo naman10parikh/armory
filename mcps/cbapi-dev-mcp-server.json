@@ -1,0 +1,7 @@
+{
+  "name": "cbapi-dev-mcp-server",
+  "description": "Enables AI agents to search products across affiliate networks, compare commissions, find arbitrage opportunities, and get auto-injected affiliate links via MCP.",
+  "source_repo": "dbansana/Cbapi-mcp",
+  "source_url": "https://github.com/dbansana/Cbapi-mcp",
+  "install": "npx -y Cbapi-mcp"
+}

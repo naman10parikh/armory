@@ -1,0 +1,7 @@
+{
+  "name": "automata-mcp-server",
+  "description": "A plugin-based MCP server built on FastAPI that supports dynamic tool loading, hot reloading, and API key authentication for extensible AI tool integrations.",
+  "source_repo": "Fridemn/Automata-mcp-server",
+  "source_url": "https://github.com/Fridemn/Automata-mcp-server",
+  "install": "npx -y Automata-mcp-server"
+}

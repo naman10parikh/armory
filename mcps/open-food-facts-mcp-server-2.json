@@ -1,0 +1,7 @@
+{
+  "name": "open-food-facts-mcp-server-2",
+  "description": "Enables AI assistants to access food product information, providing nutritional analysis, product comparisons, and recipe suggestions using the Open Food Facts database.",
+  "source_repo": "Jatin-IITB/openbeautyfacts-mcp",
+  "source_url": "https://github.com/Jatin-IITB/openbeautyfacts-mcp",
+  "install": "npx -y openbeautyfacts-mcp"
+}

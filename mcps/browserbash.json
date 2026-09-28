@@ -1,0 +1,7 @@
+{
+  "name": "browserbash",
+  "description": "Enables plain-English browser automation via an MCP server, allowing agents to run objectives or test suites in a real browser without selectors or scripts.",
+  "source_repo": "PramodDutta/browserbash",
+  "source_url": "https://github.com/PramodDutta/browserbash",
+  "install": "# git clone --depth 1 https://github.com/PramodDutta/browserbash\n# See source for mcpServers config block"
+}

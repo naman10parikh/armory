@@ -1,0 +1,7 @@
+{
+  "name": "conformi-search",
+  "description": "Installable MCP server for EU legal research with verifiable CELEX citations from the EUR-Lex corpus (DE/EN/FR).",
+  "source_repo": "conformi-eu/conformi-search-mcp",
+  "source_url": "https://github.com/conformi-eu/conformi-search-mcp",
+  "install": "npx -y conformi-search-mcp"
+}

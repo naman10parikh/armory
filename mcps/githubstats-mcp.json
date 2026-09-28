@@ -1,0 +1,7 @@
+{
+  "name": "githubstats-mcp",
+  "description": "A lightweight MCP server that enables fetching public GitHub user profiles, repository stats, recent events, and pull request insights through simple tool calls.",
+  "source_repo": "Maheshkumarjena/GithubStats_MCP",
+  "source_url": "https://github.com/Maheshkumarjena/GithubStats_MCP",
+  "install": "npx -y GithubStats_MCP"
+}

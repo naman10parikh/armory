@@ -1,0 +1,7 @@
+{
+  "name": "global-context-mcp-gateway",
+  "description": "Enterprise-grade intent routing gateway implementing the Model Context Protocol (MCP) spec, optimizing context by routing queries to specialized sub-nodes to reduce token overhead by 85% with negligible latency overhead.",
+  "source_repo": "jaiswalwrites/Global-Context-MCP-Gateway-Model-COntext-Protocol-Router-",
+  "source_url": "https://github.com/jaiswalwrites/Global-Context-MCP-Gateway-Model-COntext-Protocol-Router-",
+  "install": "# git clone --depth 1 https://github.com/jaiswalwrites/Global-Context-MCP-Gateway-Model-COntext-Protocol-Router-\n# See source for mcpServers config block"
+}

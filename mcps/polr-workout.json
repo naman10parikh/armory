@@ -1,0 +1,7 @@
+{
+  "name": "polr-workout",
+  "description": "An MCP server that enables logging and reviewing workouts from Claude, featuring live session cards with rest timers and an editable workout history.",
+  "source_repo": "pathofleastresistor/polr-mcp-workout",
+  "source_url": "https://github.com/pathofleastresistor/polr-mcp-workout",
+  "install": "# git clone --depth 1 https://github.com/pathofleastresistor/polr-mcp-workout\n# See source for mcpServers config block"
+}

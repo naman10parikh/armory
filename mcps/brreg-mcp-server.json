@@ -1,0 +1,7 @@
+{
+  "name": "brreg-mcp-server",
+  "description": "Enables AI agents to search and retrieve Norwegian company data from the Brønnøysund Register Centre's open API, including company details, roles, and subunits.",
+  "source_repo": "andyarntsen-alt/brreg-mcp-server",
+  "source_url": "https://github.com/andyarntsen-alt/brreg-mcp-server",
+  "install": "npx -y brreg-mcp-server"
+}

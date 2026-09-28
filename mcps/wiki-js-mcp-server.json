@@ -1,0 +1,7 @@
+{
+  "name": "wiki-js-mcp-server",
+  "description": "An MCP server that provides a unified interface to manage Wiki.js pages, users, and groups via GraphQL API, enabling AI agents to create, read, update, and delete content and perform administrative tasks.",
+  "source_repo": "heAdz0r/wikijs-mcp-server",
+  "source_url": "https://github.com/heAdz0r/wikijs-mcp-server",
+  "install": "npx -y wikijs-mcp-server"
+}

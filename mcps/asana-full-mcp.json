@@ -1,0 +1,7 @@
+{
+  "name": "asana-full-mcp",
+  "description": "Exposes the full Asana REST API via an MCP server, enabling operations like task management and workspace queries, with configurable safety guardrails.",
+  "source_repo": "AlexDay3000/asana-full-mcp",
+  "source_url": "https://github.com/AlexDay3000/asana-full-mcp",
+  "install": "npx -y asana-full-mcp"
+}

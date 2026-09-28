@@ -1,0 +1,7 @@
+{
+  "name": "github-mcp-tool",
+  "description": "Enables managing GitHub repositories, files, and user information through MCP, with support for creating, updating, and deleting repository contents, as well as fetching user profiles.",
+  "source_repo": "jalaj-pandey/github-mcp-tool",
+  "source_url": "https://github.com/jalaj-pandey/github-mcp-tool",
+  "install": "# git clone --depth 1 https://github.com/jalaj-pandey/github-mcp-tool\n# See source for mcpServers config block"
+}

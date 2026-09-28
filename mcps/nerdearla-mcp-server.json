@@ -1,0 +1,7 @@
+{
+  "name": "nerdearla-mcp-server",
+  "description": "Provides information about Nerdearla events, speakers, and sessions, enabling natural language queries about event data.",
+  "source_repo": "sysarmy/nerdearla-mcp",
+  "source_url": "https://github.com/sysarmy/nerdearla-mcp",
+  "install": "npx -y nerdearla-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "paywall-mcp",
+  "description": "Generic Lightning-paywall sidecar that wraps any stdio MCP server and requires a paid Lightning invoice (via NWC) before forwarding priced tool calls. Per-tool prices are set via env; includes payment verification, replay protection, and an audit log — the upstream server stays untouched.",
+  "source_repo": "llmops-pro/paywall-mcp",
+  "source_url": "https://github.com/llmops-pro/paywall-mcp",
+  "install": "npx -y paywall-mcp"
+}

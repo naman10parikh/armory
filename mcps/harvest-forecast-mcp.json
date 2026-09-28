@@ -1,0 +1,7 @@
+{
+  "name": "harvest-forecast-mcp",
+  "description": "An MCP server that integrates Harvest time tracking and Forecast resource scheduling APIs, enabling AI agents to track time, manage projects, and handle assignments and scheduling.",
+  "source_repo": "AZX-PBC-OSS/harvest-forecast-mcp",
+  "source_url": "https://github.com/AZX-PBC-OSS/harvest-forecast-mcp",
+  "install": "npx -y harvest-forecast-mcp"
+}

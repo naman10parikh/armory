@@ -1,0 +1,7 @@
+{
+  "name": "postcept-mcp",
+  "description": "MCP server for Postcept",
+  "source_repo": "Postcept/mcp",
+  "source_url": "https://github.com/Postcept/mcp",
+  "install": "# git clone --depth 1 https://github.com/Postcept/mcp\n# See source for mcpServers config block"
+}

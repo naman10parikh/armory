@@ -1,0 +1,7 @@
+{
+  "name": "lilith-gmail",
+  "description": "Enables semantic search, retrieval, and summarization of Gmail emails with privacy-aware classification and PII sanitization.",
+  "source_repo": "Agent-Lilith/lilith-emails",
+  "source_url": "https://github.com/Agent-Lilith/lilith-emails",
+  "install": "# git clone --depth 1 https://github.com/Agent-Lilith/lilith-emails\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "llm-cost",
+  "description": "Token cost math for LLM API calls: current per-million-token rates for 69 models across 17 providers, with local arithmetic for estimates, comparisons and monthly budgets. Rates are verified and date-stamped.",
+  "source_repo": "comparedge/llm-cost-mcp",
+  "source_url": "https://github.com/comparedge/llm-cost-mcp",
+  "install": "npx -y llm-cost-mcp"
+}

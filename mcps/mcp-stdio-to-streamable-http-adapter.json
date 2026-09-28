@@ -1,0 +1,7 @@
+{
+  "name": "mcp-stdio-to-streamable-http-adapter",
+  "description": "Bridges STDIO MCP clients to Streamable HTTP MCP servers, allowing any STDIO-supported client to use Streamable HTTP servers immediately.",
+  "source_repo": "pyroprompts/mcp-stdio-to-streamable-http-adapter",
+  "source_url": "https://github.com/pyroprompts/mcp-stdio-to-streamable-http-adapter",
+  "install": "# git clone --depth 1 https://github.com/pyroprompts/mcp-stdio-to-streamable-http-adapter\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nextcloud-developer-documentation-mcp",
+  "description": "Provides MCP tools for searching, retrieving, and answering questions about indexed Nextcloud developer documentation from multiple sources.",
+  "source_repo": "Rello/nextcloud-developer-documentation-mcp",
+  "source_url": "https://github.com/Rello/nextcloud-developer-documentation-mcp",
+  "install": "npx -y nextcloud-developer-documentation-mcp"
+}

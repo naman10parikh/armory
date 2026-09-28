@@ -1,0 +1,7 @@
+{
+  "name": "plori",
+  "description": "Give your AI agent its own cloud computer: create and drive hosted plori agents over MCP (invoke agents, read replies, human-in-the-loop, scheduled runs). This repo is the integration front door and ships the npx plori-mcp stdio bridge to the hosted endpoint.",
+  "source_repo": "plori-ai/plori",
+  "source_url": "https://github.com/plori-ai/plori",
+  "install": "# git clone --depth 1 https://github.com/plori-ai/plori\n# See source for mcpServers config block"
+}

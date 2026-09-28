@@ -1,0 +1,7 @@
+{
+  "name": "codex-master-mcp",
+  "description": "A local MCP server that controls two Codex CLI agent instances via tmux, enabling parallel agent operations with lifecycle management, status classification, and secure path handling.",
+  "source_repo": "H234598/codex-master",
+  "source_url": "https://github.com/H234598/codex-master",
+  "install": "# git clone --depth 1 https://github.com/H234598/codex-master\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mail-mcp-suite",
+  "description": "A self-hosted mail bridge for MCP clients that provides read-only IMAP access and approval-gated sending, scheduling, and mailbox management.",
+  "source_repo": "Federicokalik/mail-mcp-suite",
+  "source_url": "https://github.com/Federicokalik/mail-mcp-suite",
+  "install": "# git clone --depth 1 https://github.com/Federicokalik/mail-mcp-suite\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "todo-mcp-demo",
+  "description": "A demo MCP server exposing an in-memory todo list via tools (add_task, list_tasks, complete_task), a resource, and a prompt, over both stdio and HTTP transports.",
+  "source_repo": "thienbanho/todo-mcp-demo",
+  "source_url": "https://github.com/thienbanho/todo-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/thienbanho/todo-mcp-demo\n# See source for mcpServers config block"
+}

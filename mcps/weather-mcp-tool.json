@@ -1,0 +1,7 @@
+{
+  "name": "weather-mcp-tool",
+  "description": "Provides real-time weather information for cities worldwide using the OpenWeatherMap API, accessible through natural language queries via the MCP protocol.",
+  "source_repo": "thuong204/mcp-weather",
+  "source_url": "https://github.com/thuong204/mcp-weather",
+  "install": "# git clone --depth 1 https://github.com/thuong204/mcp-weather\n# See source for mcpServers config block"
+}

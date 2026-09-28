@@ -1,0 +1,7 @@
+{
+  "name": "paperless-mcp",
+  "description": "Enables searching, tagging, uploading, and reading documents in Paperless-NGX, with management of tags, correspondents, document types, and custom fields via MCP tools and resources.",
+  "source_repo": "pvliesdonk/paperless-mcp",
+  "source_url": "https://github.com/pvliesdonk/paperless-mcp",
+  "install": "npx -y paperless-mcp"
+}

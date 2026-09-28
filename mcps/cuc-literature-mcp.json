@@ -1,0 +1,7 @@
+{
+  "name": "cuc-literature-mcp",
+  "description": "Enables searching Web of Science for CUC SCI papers, downloading PDFs, and syncing results to Tencent Docs through persistent browser automation. Supports advanced queries, deduplication, CAS journal classification mapping, and incremental sync while preserving manual notes.",
+  "source_repo": "SHENAO1/cuc-literature-mcp",
+  "source_url": "https://github.com/SHENAO1/cuc-literature-mcp",
+  "install": "npx -y cuc-literature-mcp"
+}

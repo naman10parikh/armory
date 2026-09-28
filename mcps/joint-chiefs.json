@@ -1,0 +1,7 @@
+{
+  "name": "joint-chiefs",
+  "description": "Multi-model AI code review with structured debate. OpenAI, Gemini, Grok, and Claude review your code in parallel, then an anonymized arbitration produces a single consensus summary.",
+  "source_repo": "djfunboy/joint-chiefs",
+  "source_url": "https://github.com/djfunboy/joint-chiefs",
+  "install": "# git clone --depth 1 https://github.com/djfunboy/joint-chiefs\n# See source for mcpServers config block"
+}

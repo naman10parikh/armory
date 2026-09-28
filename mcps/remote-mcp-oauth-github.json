@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-oauth-github",
+  "description": "Enables Claude to authenticate with GitHub OAuth and access tools for user information, calculations, and GitHub repositories.",
+  "source_repo": "tubone24/remote-mcp-oauth-github",
+  "source_url": "https://github.com/tubone24/remote-mcp-oauth-github",
+  "install": "# git clone --depth 1 https://github.com/tubone24/remote-mcp-oauth-github\n# See source for mcpServers config block"
+}

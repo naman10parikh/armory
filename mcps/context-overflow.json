@@ -1,0 +1,7 @@
+{
+  "name": "context-overflow",
+  "description": "An MCP server serving a curated corpus of thinking techniques for AI agents, with tools to classify intents, find and apply techniques, and verify their effectiveness.",
+  "source_repo": "Onnson/context-overflow",
+  "source_url": "https://github.com/Onnson/context-overflow",
+  "install": "# git clone --depth 1 https://github.com/Onnson/context-overflow\n# See source for mcpServers config block"
+}

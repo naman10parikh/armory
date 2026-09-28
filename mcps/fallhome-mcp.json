@@ -1,0 +1,7 @@
+{
+  "name": "fallhome-mcp",
+  "description": "MCP stdio server wrapping the fallhome SDK to enable sovereign, offline-capable, and cryptographically signed management of professional service workflows for autonomous agents and human developers.",
+  "source_repo": "sjgant80-hub/fallhome-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallhome-mcp",
+  "install": "npx -y fallhome-mcp"
+}

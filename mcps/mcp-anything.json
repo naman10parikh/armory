@@ -1,0 +1,7 @@
+{
+  "name": "mcp-anything",
+  "description": "Enables models to discover, inspect, and call tools from thousands of MCP servers on the fly through a single gateway, without pre-configuring each server.",
+  "source_repo": "Dror-Bengal/mcp-anything",
+  "source_url": "https://github.com/Dror-Bengal/mcp-anything",
+  "install": "# git clone --depth 1 https://github.com/Dror-Bengal/mcp-anything\n# See source for mcpServers config block"
+}

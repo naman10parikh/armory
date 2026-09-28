@@ -1,0 +1,7 @@
+{
+  "name": "mcp-photon",
+  "description": "A geocoding MCP server that converts place names to coordinates and coordinates to place names using OpenStreetMap data.",
+  "source_repo": "pipeworx-io/mcp-photon",
+  "source_url": "https://github.com/pipeworx-io/mcp-photon",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-photon\n# See source for mcpServers config block"
+}

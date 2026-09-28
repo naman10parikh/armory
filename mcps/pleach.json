@@ -1,0 +1,7 @@
+{
+  "name": "pleach",
+  "description": "Provides Claude with the session graph, enabling it to log, show, grep, export, summarize, branch, name, and merge Claude Code sessions.",
+  "source_repo": "foudrayelias-ALPHA/pleach",
+  "source_url": "https://github.com/foudrayelias-ALPHA/pleach",
+  "install": "# git clone --depth 1 https://github.com/foudrayelias-ALPHA/pleach\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "testlink-mcp",
+  "description": "An AI-friendly, safety-first Model Context Protocol server for TestLink 1.9.20, exposing normalized discovery and analysis tools with bounded pagination, structured output, and preview-before-apply writes over stdio.",
+  "source_repo": "Eason0in/testlink-mcp",
+  "source_url": "https://github.com/Eason0in/testlink-mcp",
+  "install": "npx -y testlink-mcp"
+}

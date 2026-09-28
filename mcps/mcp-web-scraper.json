@@ -1,0 +1,7 @@
+{
+  "name": "mcp-web-scraper",
+  "description": "A Model Context Protocol server that scrapes static HTML with BeautifulSoup for analysis by MCP clients.",
+  "source_repo": "ReclaimerGold/mcp-web-scraper",
+  "source_url": "https://github.com/ReclaimerGold/mcp-web-scraper",
+  "install": "# git clone --depth 1 https://github.com/ReclaimerGold/mcp-web-scraper\n# See source for mcpServers config block"
+}

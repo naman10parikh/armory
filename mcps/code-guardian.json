@@ -1,0 +1,7 @@
+{
+  "name": "code-guardian",
+  "description": "An MCP server that provides code quality checks for AI coding assistants, including file size limits, ESLint, architecture compliance, anti-pattern scanning, and comment compliance.",
+  "source_repo": "xueca/code-guardian",
+  "source_url": "https://github.com/xueca/code-guardian",
+  "install": "# git clone --depth 1 https://github.com/xueca/code-guardian\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fivetran-mcp",
+  "description": "An MCP server for controlling Fivetran data pipelines. Enables AI assistants to manage syncs, monitor connection status, and control pipelines through natural language.",
+  "source_repo": "YimingYAN/fivetran-mcp",
+  "source_url": "https://github.com/YimingYAN/fivetran-mcp",
+  "install": "npx -y fivetran-mcp"
+}

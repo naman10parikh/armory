@@ -1,0 +1,7 @@
+{
+  "name": "antren-r-mcp",
+  "description": "Enables interaction with simulated fitness data (activity history, wellness, pain logging, coaching rules) via MCP protocol, allowing Claude Desktop to query and log data through natural language.",
+  "source_repo": "seselcuk/antrenor-mcp",
+  "source_url": "https://github.com/seselcuk/antrenor-mcp",
+  "install": "npx -y antrenor-mcp"
+}

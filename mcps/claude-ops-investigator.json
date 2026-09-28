@@ -1,0 +1,7 @@
+{
+  "name": "claude-ops-investigator",
+  "description": "Enables read-only Kubernetes incident investigation through MCP tools for listing pods, describing resources, fetching logs, and searching runbooks.",
+  "source_repo": "Randhir123/claude-ops-investigator",
+  "source_url": "https://github.com/Randhir123/claude-ops-investigator",
+  "install": "# git clone --depth 1 https://github.com/Randhir123/claude-ops-investigator\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "thoth-mem",
+  "description": "Persistent memory for AI coding agents, storing learned architecture decisions, patterns, and bug fixes in a local SQLite database with full-text search, enabling agents to recall information across sessions.",
+  "source_repo": "EremesNG/thoth-mem",
+  "source_url": "https://github.com/EremesNG/thoth-mem",
+  "install": "# git clone --depth 1 https://github.com/EremesNG/thoth-mem\n# See source for mcpServers config block"
+}

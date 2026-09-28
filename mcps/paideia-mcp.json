@@ -1,0 +1,7 @@
+{
+  "name": "paideia-mcp",
+  "description": "Enables using PAIDEIA's local course management and action tools with Alt's local model, providing deterministic tools for course initialization, PDF ingestion, exam radar import, and artifact management.",
+  "source_repo": "OPTIMETA/PAIDEIA-mcp",
+  "source_url": "https://github.com/OPTIMETA/PAIDEIA-mcp",
+  "install": "npx -y PAIDEIA-mcp"
+}

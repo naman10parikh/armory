@@ -1,0 +1,7 @@
+{
+  "name": "thetacog-mcp",
+  "description": "This server enables decidable, hardware-attested semantic verification of AI outputs using on-chip ballistic walks, providing reproducible receipts that can be recomputed byte-for-byte.",
+  "source_repo": "wiber/thetacog-mcp",
+  "source_url": "https://github.com/wiber/thetacog-mcp",
+  "install": "npx -y thetacog-mcp"
+}

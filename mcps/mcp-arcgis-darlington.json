@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arcgis-darlington",
+  "description": "Provides access to Darlington County, South Carolina open geospatial data via ArcGIS, enabling search, query, and schema inspection of datasets.",
+  "source_repo": "pipeworx-io/mcp-arcgis-darlington",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-darlington",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-darlington\n# See source for mcpServers config block"
+}

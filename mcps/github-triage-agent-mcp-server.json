@@ -1,0 +1,7 @@
+{
+  "name": "github-triage-agent-mcp-server",
+  "description": "Enables autonomous triage of GitHub issues and pull requests through MCP, with classification, deduplication, prioritization, and safe human-in-the-loop actions.",
+  "source_repo": "umeshmynampati3-cmd/github-triage-agent",
+  "source_url": "https://github.com/umeshmynampati3-cmd/github-triage-agent",
+  "install": "# git clone --depth 1 https://github.com/umeshmynampati3-cmd/github-triage-agent\n# See source for mcpServers config block"
+}

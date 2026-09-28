@@ -1,0 +1,7 @@
+{
+  "name": "rendobar-mcp-server",
+  "description": "Official MCP server for Rendobar. Lets AI agents run serverless media processing and upload local files.",
+  "source_repo": "rendobar/mcp",
+  "source_url": "https://github.com/rendobar/mcp",
+  "install": "# git clone --depth 1 https://github.com/rendobar/mcp\n# See source for mcpServers config block"
+}

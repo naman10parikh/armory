@@ -1,0 +1,7 @@
+{
+  "name": "m59-harness",
+  "description": "MCP server that lets AI agents play Meridian 59 as real characters, with tools for movement, combat, trading, chatting, and fleet management.",
+  "source_repo": "tpeppers/m59-harness",
+  "source_url": "https://github.com/tpeppers/m59-harness",
+  "install": "# git clone --depth 1 https://github.com/tpeppers/m59-harness\n# See source for mcpServers config block"
+}

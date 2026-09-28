@@ -1,0 +1,7 @@
+{
+  "name": "swsd-mcp",
+  "description": "MCP server for SolarWinds Service Desk (SWSD/Samanage) enabling reading and modifying tickets, comments, knowledge-base articles, and more via each user's own API token.",
+  "source_repo": "mikimatsub/swsd-mcp",
+  "source_url": "https://github.com/mikimatsub/swsd-mcp",
+  "install": "npx -y swsd-mcp"
+}

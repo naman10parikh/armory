@@ -1,0 +1,7 @@
+{
+  "name": "lucide-svg-mcp",
+  "description": "An MCP server that provides Lucide icons as SVG, allowing clients to list, search, and retrieve icons by name.",
+  "source_repo": "oli799/lucide-svg-mcp",
+  "source_url": "https://github.com/oli799/lucide-svg-mcp",
+  "install": "npx -y lucide-svg-mcp"
+}

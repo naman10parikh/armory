@@ -1,0 +1,7 @@
+{
+  "name": "tsheets-mcp",
+  "description": "Exposes the full public TSheets REST API v1 as MCP tools, enabling time tracking, scheduling, and PTO management operations via natural language.",
+  "source_repo": "MSPbotsAI/tsheets-mcp",
+  "source_url": "https://github.com/MSPbotsAI/tsheets-mcp",
+  "install": "npx -y tsheets-mcp"
+}

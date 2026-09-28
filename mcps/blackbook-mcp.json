@@ -1,0 +1,7 @@
+{
+  "name": "blackbook-mcp",
+  "description": "A source-grounded cybersecurity knowledge & research MCP server that provides read-only search, exact citations, and a knowledge graph, designed to run alongside execution MCPs.",
+  "source_repo": "Daniel-wambua/BlackBook",
+  "source_url": "https://github.com/Daniel-wambua/BlackBook",
+  "install": "# git clone --depth 1 https://github.com/Daniel-wambua/BlackBook\n# See source for mcpServers config block"
+}

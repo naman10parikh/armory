@@ -1,0 +1,7 @@
+{
+  "name": "prijsprofeet-mcp",
+  "description": "Unofficial MCP server that exposes the PrijsProfeet API as validated tools for product search, price history, forecasts, deals, and matching. It can run via stdio or as an authenticated Streamable HTTP server.",
+  "source_repo": "thijserven/prijsprofeet-mcp",
+  "source_url": "https://github.com/thijserven/prijsprofeet-mcp",
+  "install": "npx -y prijsprofeet-mcp"
+}

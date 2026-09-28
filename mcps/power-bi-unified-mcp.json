@@ -1,0 +1,7 @@
+{
+  "name": "power-bi-unified-mcp",
+  "description": "One MCP interface for AI-driven Power BI semantic-model engineering and PBIR/PBIP report authoring.",
+  "source_repo": "amritauji/powerbi-unified-mcp",
+  "source_url": "https://github.com/amritauji/powerbi-unified-mcp",
+  "install": "npx -y powerbi-unified-mcp"
+}

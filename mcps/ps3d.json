@@ -1,0 +1,7 @@
+{
+  "name": "ps3d",
+  "description": "Enables AI hosts to interact with a browser CAD workbench through model-neutral local stdio or authenticated remote MCP tools, supporting command discovery, design-health analysis, and scoped previews while never reading local files or taking over open sessions.",
+  "source_repo": "sagar25-Code-it/ps3d-cad-studio",
+  "source_url": "https://github.com/sagar25-Code-it/ps3d-cad-studio",
+  "install": "# git clone --depth 1 https://github.com/sagar25-Code-it/ps3d-cad-studio\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aml-ai-mcp",
+  "description": "Enables AML/6AMLD compliance for AI systems, including obliged entity classification, KYC/CDD audits, and sanctions screening.",
+  "source_repo": "CSOAI-ORG/aml-ai-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/aml-ai-mcp",
+  "install": "npx -y aml-ai-mcp"
+}

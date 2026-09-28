@@ -1,0 +1,7 @@
+{
+  "name": "github-changelog-mcp",
+  "description": "Turns raw GitHub commit history into a categorized, human-readable changelog directly inside Claude or any MCP-compatible client.",
+  "source_repo": "SiwarKhalfaoui/github-changelog-mcp",
+  "source_url": "https://github.com/SiwarKhalfaoui/github-changelog-mcp",
+  "install": "npx -y github-changelog-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "scrapingbee-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides web scraping capabilities using the ScrapingBee API, allowing users to extract structured data from web pages using CSS/XPath selectors and other features.",
+  "source_repo": "igormidev/scrapping_bee_mcp",
+  "source_url": "https://github.com/igormidev/scrapping_bee_mcp",
+  "install": "npx -y scrapping_bee_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fastmcp-template-server",
+  "description": "A FastMCP server template with a greet tool, deployable locally, via Docker, or on Railway. It demonstrates HTTP transport and easy environment configuration.",
+  "source_repo": "rishi-mittal-web/FastMCP_template",
+  "source_url": "https://github.com/rishi-mittal-web/FastMCP_template",
+  "install": "# git clone --depth 1 https://github.com/rishi-mittal-web/FastMCP_template\n# See source for mcpServers config block"
+}

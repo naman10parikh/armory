@@ -1,0 +1,7 @@
+{
+  "name": "satellite-mcp",
+  "description": "Full-spectrum GEOINT server with 171 tools covering satellite imagery, aircraft tracking, maritime surveillance, military intelligence, conflict monitoring, environmental analysis, critical infrastructure, sanctions compliance, and cyber-geo intelligence from open-source data.",
+  "source_repo": "badchars/satellite-mcp",
+  "source_url": "https://github.com/badchars/satellite-mcp",
+  "install": "npx -y satellite-mcp"
+}

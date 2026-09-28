@@ -1,0 +1,7 @@
+{
+  "name": "solodot-mcp",
+  "description": "MCP server for solo business founders to route painpoints, generate execution assets, and maintain control through approval workflow.",
+  "source_repo": "ozgureyilmaz/solodot-mcp",
+  "source_url": "https://github.com/ozgureyilmaz/solodot-mcp",
+  "install": "npx -y solodot-mcp"
+}

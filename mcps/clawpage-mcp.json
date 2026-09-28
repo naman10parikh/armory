@@ -1,0 +1,7 @@
+{
+  "name": "clawpage-mcp",
+  "description": "Extract and structure any web page into clean JSON using the ClawPage API. Provides tools for registration, extraction, account management, and wallet integration.",
+  "source_repo": "skypher/clawpage-mcp",
+  "source_url": "https://github.com/skypher/clawpage-mcp",
+  "install": "npx -y clawpage-mcp"
+}

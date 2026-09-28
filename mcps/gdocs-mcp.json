@@ -1,0 +1,7 @@
+{
+  "name": "gdocs-mcp",
+  "description": "MCP server for Google Docs and Sheets that enables AI assistants to read, create, edit, style, export, and collaborate on documents using local OAuth authentication.",
+  "source_repo": "apurwa/gdocs-mcp",
+  "source_url": "https://github.com/apurwa/gdocs-mcp",
+  "install": "npx -y gdocs-mcp"
+}

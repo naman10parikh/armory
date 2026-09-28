@@ -1,0 +1,7 @@
+{
+  "name": "revel-digital-mcp-server",
+  "description": "Enables AI assistants to manage digital signage infrastructure through the Revel Digital REST API, allowing natural language control of devices, content, playlists, and system monitoring.",
+  "source_repo": "RevelDigital/reveldigital-mcp-server",
+  "source_url": "https://github.com/RevelDigital/reveldigital-mcp-server",
+  "install": "npx -y reveldigital-mcp-server"
+}

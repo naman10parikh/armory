@@ -1,0 +1,7 @@
+{
+  "name": "odoo-crm-mcp-server",
+  "description": "Enables AI agents to query and interact with Odoo CRM data via MCP, supporting sales pipeline analysis, customer risk assessment, meeting preparation, and executive reporting, with human approval for write actions.",
+  "source_repo": "KhalidAbdelrahman/agentic-odoo-mcp",
+  "source_url": "https://github.com/KhalidAbdelrahman/agentic-odoo-mcp",
+  "install": "npx -y agentic-odoo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-walkthrough",
+  "description": "Enables AI agents to present interactive code walkthroughs with voice narration, opening files, highlighting code, and showing inline explanations with synchronized text-to-speech.",
+  "source_repo": "Stefan-Nitu/mcp-walkthrough",
+  "source_url": "https://github.com/Stefan-Nitu/mcp-walkthrough",
+  "install": "# git clone --depth 1 https://github.com/Stefan-Nitu/mcp-walkthrough\n# See source for mcpServers config block"
+}

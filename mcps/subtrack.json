@@ -1,0 +1,7 @@
+{
+  "name": "subtrack",
+  "description": "Tracks subscriptions and recurring bills with flexible billing cycles, and provides upcoming renewals and spending summaries.",
+  "source_repo": "4hmad69/subtrack-mcp",
+  "source_url": "https://github.com/4hmad69/subtrack-mcp",
+  "install": "npx -y subtrack-mcp"
+}

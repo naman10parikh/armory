@@ -1,0 +1,7 @@
+{
+  "name": "web-tools-mcp-server",
+  "description": "Drop-in replacement for Claude's native web_search and web_fetch tools, resolving IP blocks and user-agent detection by using your own API keys and proxy.",
+  "source_repo": "georgittanchev/mcp-search",
+  "source_url": "https://github.com/georgittanchev/mcp-search",
+  "install": "# git clone --depth 1 https://github.com/georgittanchev/mcp-search\n# See source for mcpServers config block"
+}

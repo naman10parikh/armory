@@ -1,0 +1,7 @@
+{
+  "name": "featureboard-mcp-server",
+  "description": "A local, file-backed feature/bug board for projects, enabling Claude to read and write markdown boards (featurelist.md / buglist.md) directly in chat for task planning, bug logging, and velocity tracking.",
+  "source_repo": "valentil/featureboard-mcp",
+  "source_url": "https://github.com/valentil/featureboard-mcp",
+  "install": "npx -y featureboard-mcp"
+}

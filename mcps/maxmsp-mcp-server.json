@@ -1,0 +1,7 @@
+{
+  "name": "maxmsp-mcp-server",
+  "description": "Enables LLMs to directly understand and generate Max patches via the Model Context Protocol.",
+  "source_repo": "tiianhk/MaxMSP-MCP-Server",
+  "source_url": "https://github.com/tiianhk/MaxMSP-MCP-Server",
+  "install": "npx -y MaxMSP-MCP-Server"
+}

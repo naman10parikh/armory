@@ -1,0 +1,7 @@
+{
+  "name": "gandr-tts",
+  "description": "Text to speech for MCP clients. Reads numbers, dates and order IDs correctly. 23 languages, six voices, every render watermarked. Free key with 100,000 characters, no card.",
+  "source_repo": "Gandr-AI/gandr-mcp",
+  "source_url": "https://github.com/Gandr-AI/gandr-mcp",
+  "install": "npx -y gandr-mcp"
+}

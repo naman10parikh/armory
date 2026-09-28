@@ -1,0 +1,7 @@
+{
+  "name": "lending-mcp",
+  "description": "An MCP server that allows starting an iwoca business finance application from within a ChatGPT conversation, supporting drafting, submitting, and checking status of applications.",
+  "source_repo": "felix-hemsley1/lending-MCP",
+  "source_url": "https://github.com/felix-hemsley1/lending-MCP",
+  "install": "npx -y lending-MCP"
+}

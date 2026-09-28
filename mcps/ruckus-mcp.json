@@ -1,0 +1,7 @@
+{
+  "name": "ruckus-mcp",
+  "description": "Enables monitoring and management of Ruckus Unleashed WiFi controllers, including APs, clients, WLANs, and system events.",
+  "source_repo": "nickcheban/ruckus-mcp",
+  "source_url": "https://github.com/nickcheban/ruckus-mcp",
+  "install": "npx -y ruckus-mcp"
+}

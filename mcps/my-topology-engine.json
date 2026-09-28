@@ -1,0 +1,7 @@
+{
+  "name": "my-topology-engine",
+  "description": "A deterministic MCP server that executes 10-step topology pipelines on Cloudflare Workers, providing structured progress snapshots and adaptive JSON templates for AI agents.",
+  "source_repo": "AGICoffe/my-topology-engine",
+  "source_url": "https://github.com/AGICoffe/my-topology-engine",
+  "install": "# git clone --depth 1 https://github.com/AGICoffe/my-topology-engine\n# See source for mcpServers config block"
+}

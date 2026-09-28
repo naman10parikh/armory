@@ -1,0 +1,7 @@
+{
+  "name": "re-yara",
+  "description": "MCP server wrapping the YARA pattern-matching engine for binary triage, enabling users to compile and scan files against analyst-defined YARA rules.",
+  "source_repo": "Heretek-RE/re-yara",
+  "source_url": "https://github.com/Heretek-RE/re-yara",
+  "install": "# git clone --depth 1 https://github.com/Heretek-RE/re-yara\n# See source for mcpServers config block"
+}

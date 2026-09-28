@@ -1,0 +1,7 @@
+{
+  "name": "powergridiq",
+  "description": "The PGIQ Rating as agent tools: where to site or schedule a large electricity load across 67 global power markets. Wraps a read-only REST API returning reasoned, cited ratings across access, availability, cost, momentum, and carbon, plus live grid snapshots and cheapest-window scheduling.",
+  "source_repo": "powergridiq/pgiq-mcp",
+  "source_url": "https://github.com/powergridiq/pgiq-mcp",
+  "install": "npx -y pgiq-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "synapps",
+  "description": "MCP server that builds a queryable graph of codebases using Language Server Protocol analysis, enabling AI agents to understand code relationships, call chains, and impact across multiple languages.",
+  "source_repo": "SynappsCodeComprehension/synapps",
+  "source_url": "https://github.com/SynappsCodeComprehension/synapps",
+  "install": "# git clone --depth 1 https://github.com/SynappsCodeComprehension/synapps\n# See source for mcpServers config block"
+}

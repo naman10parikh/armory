@@ -1,0 +1,7 @@
+{
+  "name": "der-ba-nada-consta",
+  "description": "MCP server for querying DER BA's official 'Nada Consta' records, read-only and pay-per-use, compatible with any MCP client.",
+  "source_repo": "mcp-dir/der_ba_nada_consta-mcp",
+  "source_url": "https://github.com/mcp-dir/der_ba_nada_consta-mcp",
+  "install": "npx -y der_ba_nada_consta-mcp"
+}

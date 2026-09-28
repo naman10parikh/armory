@@ -1,0 +1,7 @@
+{
+  "name": "devspace-local-artifacts",
+  "description": "MCP server that lets AI assistants securely operate on local workspaces, including guarded binary and image artifact downloads/uploads on Windows and Linux.",
+  "source_repo": "cooky-dance/devspace-local-artifacts",
+  "source_url": "https://github.com/cooky-dance/devspace-local-artifacts",
+  "install": "# git clone --depth 1 https://github.com/cooky-dance/devspace-local-artifacts\n# See source for mcpServers config block"
+}

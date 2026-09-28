@@ -1,0 +1,7 @@
+{
+  "name": "clipboard-history-mcp",
+  "description": "Enables Claude to browse, search, and restore clipboard history with type classification, secret detection, and Touch ID-gated decryption.",
+  "source_repo": "d-khomenko/clipboard-history-mcp",
+  "source_url": "https://github.com/d-khomenko/clipboard-history-mcp",
+  "install": "npx -y clipboard-history-mcp"
+}

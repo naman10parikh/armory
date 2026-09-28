@@ -1,0 +1,7 @@
+{
+  "name": "poco-mcp-service",
+  "description": "Independent MCP service module for Poco, providing analytics and management tools such as daily usage analysis and service introspection.",
+  "source_repo": "RipperTs/poco-service-mcp",
+  "source_url": "https://github.com/RipperTs/poco-service-mcp",
+  "install": "npx -y poco-service-mcp"
+}

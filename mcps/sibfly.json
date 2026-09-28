@@ -1,0 +1,7 @@
+{
+  "name": "sibfly",
+  "description": "Provides measured vertical ground motion (subsidence and uplift) for US addresses using NASA OPERA Sentinel-1 InSAR data.",
+  "source_repo": "james-sib/sibfly-api",
+  "source_url": "https://github.com/james-sib/sibfly-api",
+  "install": "# git clone --depth 1 https://github.com/james-sib/sibfly-api\n# See source for mcpServers config block"
+}

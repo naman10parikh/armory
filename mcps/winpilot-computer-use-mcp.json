@@ -1,0 +1,7 @@
+{
+  "name": "winpilot-computer-use-mcp",
+  "description": "Enables AI agents to control Windows GUI applications like a human using screen capture, OCR, mouse and keyboard input, and window management, with safety levels and memory.",
+  "source_repo": "omidmanoochehri/win-pilot-mcp",
+  "source_url": "https://github.com/omidmanoochehri/win-pilot-mcp",
+  "install": "npx -y win-pilot-mcp"
+}

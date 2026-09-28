@@ -1,0 +1,7 @@
+{
+  "name": "discourse-mcp-extended",
+  "description": "A Model Context Protocol server for Discourse forums, extended with review queue tools to list and act on pending or flagged items, enabling AI agents to moderate content.",
+  "source_repo": "devzspy/discourse-mcp-extended",
+  "source_url": "https://github.com/devzspy/discourse-mcp-extended",
+  "install": "# git clone --depth 1 https://github.com/devzspy/discourse-mcp-extended\n# See source for mcpServers config block"
+}

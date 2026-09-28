@@ -1,0 +1,7 @@
+{
+  "name": "mcp-enterprise-architecture-project",
+  "description": "Provides a set of MCP tools (file, database, GitHub, Slack, browser, calendar, email, vector search, Python execution) with safety constraints and OpenAI integration for enterprise architecture automation.",
+  "source_repo": "1jelly7/MCP_enterprise_architecture_project",
+  "source_url": "https://github.com/1jelly7/MCP_enterprise_architecture_project",
+  "install": "# git clone --depth 1 https://github.com/1jelly7/MCP_enterprise_architecture_project\n# See source for mcpServers config block"
+}

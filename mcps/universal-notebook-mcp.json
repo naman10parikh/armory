@@ -1,0 +1,7 @@
+{
+  "name": "universal-notebook-mcp",
+  "description": "Enables AI assistants to read, edit, and execute Jupyter notebook files (.ipynb) with live kernel output, without requiring JupyterLab.",
+  "source_repo": "am-3/jupyter-mcp",
+  "source_url": "https://github.com/am-3/jupyter-mcp",
+  "install": "npx -y jupyter-mcp"
+}

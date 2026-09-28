@@ -1,0 +1,7 @@
+{
+  "name": "trust-gate-mcp",
+  "description": "Post-quantum, tamper-evident receipts for consequential agent actions. Provides tools for auditing, gating decisions, and egress classification with quantum-hardened security.",
+  "source_repo": "CWNApps/trust-gate-mcp",
+  "source_url": "https://github.com/CWNApps/trust-gate-mcp",
+  "install": "npx -y trust-gate-mcp"
+}

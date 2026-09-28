@@ -1,0 +1,7 @@
+{
+  "name": "github-repository-analyzer",
+  "description": "Enables natural-language analysis of GitHub repositories by exposing repository metadata, source code retrieval, search, and file reading as MCP tools, with answers grounded in the actual repository content.",
+  "source_repo": "01Aniket/github-repository-analyzer",
+  "source_url": "https://github.com/01Aniket/github-repository-analyzer",
+  "install": "# git clone --depth 1 https://github.com/01Aniket/github-repository-analyzer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yinxiang-mcp",
+  "description": "MCP server for Yinxiang (Evernote China) that enables notebook listing, note search, creation, and retrieval with automatic Markdown to ENML conversion.",
+  "source_repo": "HouiLei/yinxiang-mcp",
+  "source_url": "https://github.com/HouiLei/yinxiang-mcp",
+  "install": "npx -y yinxiang-mcp"
+}

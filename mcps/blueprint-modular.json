@@ -1,0 +1,7 @@
+{
+  "name": "blueprint-modular",
+  "description": "Read-only catalog of the @blueprint-modular/core design system (104 components). Four tools — list/search/get components and suggest compositions. Public, no auth, Streamable HTTP.",
+  "source_repo": "Blueprint-Master/blueprint-modular",
+  "source_url": "https://github.com/Blueprint-Master/blueprint-modular",
+  "install": "# git clone --depth 1 https://github.com/Blueprint-Master/blueprint-modular\n# See source for mcpServers config block"
+}

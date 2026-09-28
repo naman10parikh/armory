@@ -1,0 +1,7 @@
+{
+  "name": "equipment-health-mcp-server",
+  "description": "An AI agent system that monitors manufacturing equipment health using the Model Context Protocol (MCP). Enables answering natural language questions about equipment status, maintenance, and anomalies through MCP tools.",
+  "source_repo": "AankitPaudel/Equipment-Health-MCP",
+  "source_url": "https://github.com/AankitPaudel/Equipment-Health-MCP",
+  "install": "npx -y Equipment-Health-MCP"
+}

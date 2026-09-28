@@ -1,0 +1,7 @@
+{
+  "name": "zatca-mcp",
+  "description": "An AI-native MCP server for Saudi e-invoicing that generates ZATCA-compliant invoices, QR codes, and XML from natural language, with validation and Phase 2 signing capabilities.",
+  "source_repo": "DoubleH10/zatca-mcp",
+  "source_url": "https://github.com/DoubleH10/zatca-mcp",
+  "install": "npx -y zatca-mcp"
+}

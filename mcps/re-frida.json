@@ -1,0 +1,7 @@
+{
+  "name": "re-frida",
+  "description": "MCP server that wraps the Frida dynamic instrumentation toolkit, allowing users to attach to processes, hook functions, enumerate modules and exports, and manage scripts through natural language.",
+  "source_repo": "Heretek-RE/re-frida",
+  "source_url": "https://github.com/Heretek-RE/re-frida",
+  "install": "# git clone --depth 1 https://github.com/Heretek-RE/re-frida\n# See source for mcpServers config block"
+}

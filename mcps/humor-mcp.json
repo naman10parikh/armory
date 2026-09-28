@@ -1,0 +1,7 @@
+{
+  "name": "humor-mcp",
+  "description": "Enables querying a local humor corpus with attribution and license restrictions, providing tools for search, ratings, and structural analysis.",
+  "source_repo": "zoombulous/humor-mcp",
+  "source_url": "https://github.com/zoombulous/humor-mcp",
+  "install": "npx -y humor-mcp"
+}

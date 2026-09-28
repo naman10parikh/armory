@@ -1,0 +1,7 @@
+{
+  "name": "agentbrain",
+  "description": "Local-first long-term memory for AI agents via a Markdown vault, offering MCP tools to query, ingest, lint, distill, and manage agent lessons and profile suggestions.",
+  "source_repo": "2672243194/agentbrain",
+  "source_url": "https://github.com/2672243194/agentbrain",
+  "install": "# git clone --depth 1 https://github.com/2672243194/agentbrain\n# See source for mcpServers config block"
+}

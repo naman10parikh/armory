@@ -1,0 +1,7 @@
+{
+  "name": "data-quality-cde-mcp-server",
+  "description": "Generates and deploys Cloudera Data Engineering (CDE) Airflow jobs from ODCS data contracts, validating live table data in CDW against schema and data-quality rules without WAP staging.",
+  "source_repo": "frothkoetter/data-quality-cde-mcp-server",
+  "source_url": "https://github.com/frothkoetter/data-quality-cde-mcp-server",
+  "install": "npx -y data-quality-cde-mcp-server"
+}

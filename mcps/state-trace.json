@@ -1,0 +1,7 @@
+{
+  "name": "state-trace",
+  "description": "Graph-native working memory for coding agents, providing typed memories, causal retrieval, and bounded capacity for artifact-first retrieval and compact briefs.",
+  "source_repo": "Agent-Pattern-Labs/state-trace",
+  "source_url": "https://github.com/Agent-Pattern-Labs/state-trace",
+  "install": "# git clone --depth 1 https://github.com/Agent-Pattern-Labs/state-trace\n# See source for mcpServers config block"
+}

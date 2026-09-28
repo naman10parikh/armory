@@ -1,0 +1,7 @@
+{
+  "name": "phishark-playwright-mcp",
+  "description": "A fork of Playwright MCP that adds PhiShark preflight and browser-deep security checks to block or warn on phishing and high-risk pages.",
+  "source_repo": "phishark-git/phishark-playwright-mcp",
+  "source_url": "https://github.com/phishark-git/phishark-playwright-mcp",
+  "install": "npx -y phishark-playwright-mcp"
+}

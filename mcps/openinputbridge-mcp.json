@@ -1,0 +1,7 @@
+{
+  "name": "openinputbridge-mcp",
+  "description": "An MCP server that exposes OpenInputBridge's kernel-level keyboard/mouse driver as tools, enabling AI agents to send synthetic key and mouse input for GUI/native app test automation. It includes safety gates, rate limiting, and an exclusive input mode for CI/test machines.",
+  "source_repo": "Applet-LLC/OpenInputBridge-MCP",
+  "source_url": "https://github.com/Applet-LLC/OpenInputBridge-MCP",
+  "install": "npx -y OpenInputBridge-MCP"
+}

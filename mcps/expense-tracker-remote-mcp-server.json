@@ -1,0 +1,7 @@
+{
+  "name": "expense-tracker-remote-mcp-server",
+  "description": "A remote MCP server for expense tracking, providing tools to add, list, update, delete expenses, and generate summaries, budget status, and monthly trends.",
+  "source_repo": "MuazamAbbas/expense-tracker-remote-mcp-server",
+  "source_url": "https://github.com/MuazamAbbas/expense-tracker-remote-mcp-server",
+  "install": "npx -y expense-tracker-remote-mcp-server"
+}

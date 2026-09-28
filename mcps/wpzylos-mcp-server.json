@@ -1,0 +1,7 @@
+{
+  "name": "wpzylos-mcp-server",
+  "description": "Intelligent framework-aware context layer for AI-powered WordPress plugin development with WPZylos + WooCommerce support, offering 55 tools, 12 resources, and 9 prompts.",
+  "source_repo": "WPDiggerStudio/wpzylos-mcp",
+  "source_url": "https://github.com/WPDiggerStudio/wpzylos-mcp",
+  "install": "npx -y wpzylos-mcp"
+}

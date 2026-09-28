@@ -1,0 +1,7 @@
+{
+  "name": "fathom-mcp",
+  "description": "A Model Context Protocol server that provides AI assistants with direct access to local document collections through full-text search, supporting multiple formats and hierarchical collections.",
+  "source_repo": "RomanShnurov/fathom-mcp",
+  "source_url": "https://github.com/RomanShnurov/fathom-mcp",
+  "install": "npx -y fathom-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "krutrim-cloud-mcp-server",
+  "description": "Enables AI assistants like Cursor, Claude, and Codex to interact with Krutrim Cloud, providing discovery and controlled operations for VPCs, compute, storage, networking, Kubernetes, KPods, and IAM, with safety controls such as confirmation and read-only mode.",
+  "source_repo": "ola-krutrim/Krutrim-MCP",
+  "source_url": "https://github.com/ola-krutrim/Krutrim-MCP",
+  "install": "npx -y Krutrim-MCP"
+}

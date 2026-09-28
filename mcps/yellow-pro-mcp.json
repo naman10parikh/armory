@@ -1,0 +1,7 @@
+{
+  "name": "yellow-pro-mcp",
+  "description": "MCP server exposing the yellow_pro exchange to AI agents, providing market data, account state, and optional trading with read-only by default and rate limiting.",
+  "source_repo": "layer-3/yellow-pro-mcp",
+  "source_url": "https://github.com/layer-3/yellow-pro-mcp",
+  "install": "npx -y yellow-pro-mcp"
+}

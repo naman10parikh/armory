@@ -1,0 +1,7 @@
+{
+  "name": "pdf-inspector-mcp-server",
+  "description": "Inspects local PDF files, extracting text, counting pages, and performing OCR on scanned PDFs using standard libraries.",
+  "source_repo": "scrapinfo/pdf-inspector-mcp",
+  "source_url": "https://github.com/scrapinfo/pdf-inspector-mcp",
+  "install": "npx -y pdf-inspector-mcp"
+}

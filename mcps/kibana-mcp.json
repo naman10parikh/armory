@@ -1,0 +1,7 @@
+{
+  "name": "kibana-mcp",
+  "description": "Enables AI assistants to manage Kibana security alerts, rules, and exception lists via the Model Context Protocol.",
+  "source_repo": "ggilligan12/kibana-mcp",
+  "source_url": "https://github.com/ggilligan12/kibana-mcp",
+  "install": "npx -y kibana-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dailybot-mcp",
+  "description": "Enables Littlebird to read and submit DailyBot check-ins through the DailyBot CLI.",
+  "source_repo": "allen-n/dailybot-mcp",
+  "source_url": "https://github.com/allen-n/dailybot-mcp",
+  "install": "npx -y dailybot-mcp"
+}

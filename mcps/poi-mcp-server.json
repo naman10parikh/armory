@@ -1,0 +1,7 @@
+{
+  "name": "poi-mcp-server",
+  "description": "Exposes Poi's external APIs (file upload/download, commenting, license key issuance) as MCP tools for use with LLM clients like Claude.",
+  "source_repo": "nishota/mcp",
+  "source_url": "https://github.com/nishota/mcp",
+  "install": "# git clone --depth 1 https://github.com/nishota/mcp\n# See source for mcpServers config block"
+}

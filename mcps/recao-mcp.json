@@ -1,0 +1,7 @@
+{
+  "name": "recao-mcp",
+  "description": "Enables querying competitor App Store ads from Apple's EU DSA repository, including creative copy, placements, and ad longevity, through tools like search_app_advertiser and get_competitor_ads.",
+  "source_repo": "fernando-menendez/recao-mcp",
+  "source_url": "https://github.com/fernando-menendez/recao-mcp",
+  "install": "npx -y recao-mcp"
+}

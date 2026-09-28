@@ -1,0 +1,7 @@
+{
+  "name": "sift-mcp",
+  "description": "Read-only MCP server that exposes deterministic NTFS timestomp detection tools for autonomous forensic triage, with architectural guarantees against evidence modification.",
+  "source_repo": "javierdejesusda/logflip-sift-agent",
+  "source_url": "https://github.com/javierdejesusda/logflip-sift-agent",
+  "install": "# git clone --depth 1 https://github.com/javierdejesusda/logflip-sift-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "neo4j-mcp-server",
+  "description": "Enables interaction with Neo4j databases from the Cursor IDE by executing Cypher queries, managing connections, and retrieving database information.",
+  "source_repo": "ezedinff/neo4j-mcp",
+  "source_url": "https://github.com/ezedinff/neo4j-mcp",
+  "install": "npx -y neo4j-mcp"
+}

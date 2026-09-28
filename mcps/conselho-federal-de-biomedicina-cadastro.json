@@ -1,0 +1,7 @@
+{
+  "name": "conselho-federal-de-biomedicina-cadastro",
+  "description": "Consulta em fonte oficial do Conselho Federal de Biomedicina.",
+  "source_repo": "mcp-dir/cfbm_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cfbm_cadastro-mcp",
+  "install": "npx -y cfbm_cadastro-mcp"
+}

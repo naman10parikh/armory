@@ -1,0 +1,7 @@
+{
+  "name": "wlst-mcp-server",
+  "description": "Enables management of Oracle WebLogic Server domains using WLST, including server lifecycle, application deployment, monitoring, and diagnostics.",
+  "source_repo": "rcarrascosps/weblogic-wlst-mcp-server",
+  "source_url": "https://github.com/rcarrascosps/weblogic-wlst-mcp-server",
+  "install": "npx -y weblogic-wlst-mcp-server"
+}

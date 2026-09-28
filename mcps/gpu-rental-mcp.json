@@ -1,0 +1,7 @@
+{
+  "name": "gpu-rental-mcp",
+  "description": "Enables comparing and renting vGPUs from 30+ cloud providers via Shadeform API, with tools to list, filter, rent, and manage GPU instances.",
+  "source_repo": "TestStudent156/gpu-rental-mcp",
+  "source_url": "https://github.com/TestStudent156/gpu-rental-mcp",
+  "install": "npx -y gpu-rental-mcp"
+}

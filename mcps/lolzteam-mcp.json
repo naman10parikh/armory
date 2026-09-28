@@ -1,0 +1,7 @@
+{
+  "name": "lolzteam-mcp",
+  "description": "MCP server providing access to Lolzteam Market and Forum APIs with 271 tools for account trading, forum interactions, and more.",
+  "source_repo": "skallekss/lolzteam-mcp",
+  "source_url": "https://github.com/skallekss/lolzteam-mcp",
+  "install": "npx -y lolzteam-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aituber-mcp-server",
+  "description": "Create AI-powered videos from any MCP-compatible client. Generate videos with AI narration, visuals, and synced captions for short-form and long-form content.",
+  "source_repo": "aituberapp/aituber-mcp",
+  "source_url": "https://github.com/aituberapp/aituber-mcp",
+  "install": "npx -y aituber-mcp"
+}

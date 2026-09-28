@@ -1,0 +1,7 @@
+{
+  "name": "pramana-mcp",
+  "description": "Enables citation-audited deep research with tools for web-grounded answers, source conflict detection, and per-claim citation auditing.",
+  "source_repo": "evenindividual04/pramana",
+  "source_url": "https://github.com/evenindividual04/pramana",
+  "install": "# git clone --depth 1 https://github.com/evenindividual04/pramana\n# See source for mcpServers config block"
+}

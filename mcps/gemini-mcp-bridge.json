@@ -1,0 +1,7 @@
+{
+  "name": "gemini-mcp-bridge",
+  "description": "MCP server that wraps Gemini CLI as a subprocess, exposing its capabilities as Model Context Protocol tools.",
+  "source_repo": "hampsterx/gemini-mcp-bridge",
+  "source_url": "https://github.com/hampsterx/gemini-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/hampsterx/gemini-mcp-bridge\n# See source for mcpServers config block"
+}

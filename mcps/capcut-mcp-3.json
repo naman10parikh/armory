@@ -1,0 +1,7 @@
+{
+  "name": "capcut-mcp-3",
+  "description": "An MCP server that assembles CapCut International projects by reading and writing local project files, adding captions, subtitles, overlays, and more so editors start with a mostly-done timeline. It includes tools for inspecting projects, restyling captions, importing subtitles, and rendering alpha-",
+  "source_repo": "yabdulaziz2009-dev/capcut-mcp",
+  "source_url": "https://github.com/yabdulaziz2009-dev/capcut-mcp",
+  "install": "npx -y capcut-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uber-eats-mcp-server",
+  "description": "Enables interaction with Uber Eats for food ordering and delivery management through natural language, acting as a proof-of-concept MCP integration.",
+  "source_repo": "iflow-mcp/uber-eats-mcp-server",
+  "source_url": "https://github.com/iflow-mcp/uber-eats-mcp-server",
+  "install": "npx -y uber-eats-mcp-server"
+}

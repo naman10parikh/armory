@@ -1,0 +1,7 @@
+{
+  "name": "mailpit-mcp-server",
+  "description": "Enables AI assistants to read, search, and manage emails from Mailpit, an email and SMTP testing tool, during development and testing.",
+  "source_repo": "CeDJeY/mailpit-mcp-server",
+  "source_url": "https://github.com/CeDJeY/mailpit-mcp-server",
+  "install": "npx -y mailpit-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "viqueue",
+  "description": "Enables agents and humans to manage a central ticket dispatcher via MCP, with tools to create, claim, renew, takeover, and submit tickets through a local HTTP server.",
+  "source_repo": "makscee/viqueue",
+  "source_url": "https://github.com/makscee/viqueue",
+  "install": "# git clone --depth 1 https://github.com/makscee/viqueue\n# See source for mcpServers config block"
+}

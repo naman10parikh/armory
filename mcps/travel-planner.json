@@ -1,0 +1,7 @@
+{
+  "name": "travel-planner",
+  "description": "Enables travel planning through natural language, providing weather forecasts, attraction search, itinerary generation, and distance calculations using free APIs.",
+  "source_repo": "BajpaiH22/travel-planner-mcp",
+  "source_url": "https://github.com/BajpaiH22/travel-planner-mcp",
+  "install": "npx -y travel-planner-mcp"
+}

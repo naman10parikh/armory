@@ -1,0 +1,7 @@
+{
+  "name": "medplum-mcp-server",
+  "description": "Enables interaction with Medplum's FHIR data through the Model Context Protocol, allowing LLMs to access and manage healthcare data.",
+  "source_repo": "medplum/medplum-mcp-server",
+  "source_url": "https://github.com/medplum/medplum-mcp-server",
+  "install": "npx -y medplum-mcp-server"
+}

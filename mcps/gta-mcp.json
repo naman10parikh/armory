@@ -1,0 +1,7 @@
+{
+  "name": "gta-mcp",
+  "description": "Enables GTA Online money making with live tools for weekly bonuses, business tracking, map locations, and a session planner.",
+  "source_repo": "Zfinix/gta_mcp",
+  "source_url": "https://github.com/Zfinix/gta_mcp",
+  "install": "npx -y gta_mcp"
+}

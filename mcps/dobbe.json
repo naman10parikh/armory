@@ -1,0 +1,7 @@
+{
+  "name": "dobbe",
+  "description": "Automates DevOps workflows like vulnerability resolution, code review, test generation, and DORA metrics through Claude Code slash commands, using a state machine for reliable execution.",
+  "source_repo": "nareshnavinash/dobbe-mcp",
+  "source_url": "https://github.com/nareshnavinash/dobbe-mcp",
+  "install": "npx -y dobbe-mcp"
+}

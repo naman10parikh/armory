@@ -1,0 +1,7 @@
+{
+  "name": "vidmcp",
+  "description": "MCP server for video editing with text-prompt subject segmentation and compositing effects behind subjects. Enables agent-driven video creation and education animations.",
+  "source_repo": "dhirajlochib/VidMcp",
+  "source_url": "https://github.com/dhirajlochib/VidMcp",
+  "install": "# git clone --depth 1 https://github.com/dhirajlochib/VidMcp\n# See source for mcpServers config block"
+}

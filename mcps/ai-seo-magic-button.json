@@ -1,0 +1,7 @@
+{
+  "name": "ai-seo-magic-button",
+  "description": "Point it at your site, get a whole-site AEO/GEO audit plus a ready-to-run plan your agent can execute. Orchestrates the ai-seo and citation-intelligence MCPs. Ships as a Claude skill, Claude plugin, and MCP server. No API keys required.",
+  "source_repo": "AutomateLab-tech/ai-seo-magic-button",
+  "source_url": "https://github.com/AutomateLab-tech/ai-seo-magic-button",
+  "install": "# git clone --depth 1 https://github.com/AutomateLab-tech/ai-seo-magic-button\n# See source for mcpServers config block"
+}

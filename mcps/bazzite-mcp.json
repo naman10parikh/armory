@@ -1,0 +1,7 @@
+{
+  "name": "bazzite-mcp",
+  "description": "MCP server for managing Bazzite Linux hosts, enabling system administration, desktop control, and gaming tasks through natural language.",
+  "source_repo": "rolandreads/bazzite-mcp",
+  "source_url": "https://github.com/rolandreads/bazzite-mcp",
+  "install": "npx -y bazzite-mcp"
+}

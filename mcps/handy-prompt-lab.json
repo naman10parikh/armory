@@ -1,0 +1,7 @@
+{
+  "name": "handy-prompt-lab",
+  "description": "MCP server for building a user-approved transcript corpus from Handy, optimizing post-processing prompts against LM Studio, and promoting winning inference settings.",
+  "source_repo": "glitchassassin/handy-prompt-optimizer",
+  "source_url": "https://github.com/glitchassassin/handy-prompt-optimizer",
+  "install": "# git clone --depth 1 https://github.com/glitchassassin/handy-prompt-optimizer\n# See source for mcpServers config block"
+}

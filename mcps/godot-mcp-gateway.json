@@ -1,0 +1,7 @@
+{
+  "name": "godot-mcp-gateway",
+  "description": "A local control plane that lets multiple AI coding agents share one Godot editor through independent MCP sessions, with ordered writes, playtest access, and LSP routing.",
+  "source_repo": "di404/godot-mcp-gateway",
+  "source_url": "https://github.com/di404/godot-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/di404/godot-mcp-gateway\n# See source for mcpServers config block"
+}

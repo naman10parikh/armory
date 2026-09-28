@@ -1,0 +1,7 @@
+{
+  "name": "eurostat-mcp-server",
+  "description": "Search and query the Eurostat catalogue — EU economy, demography, trade, health, and NUTS regional data via MCP with 5 tools and 1 resource.",
+  "source_repo": "cyanheads/eurostat-mcp-server",
+  "source_url": "https://github.com/cyanheads/eurostat-mcp-server",
+  "install": "npx -y eurostat-mcp-server"
+}

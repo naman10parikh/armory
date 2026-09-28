@@ -1,0 +1,7 @@
+{
+  "name": "qch-hermes",
+  "description": "Self-hosted Gmail gateway MCP server that enables searching and fetching emails from multiple authorized Gmail mailboxes via a single backend authorization boundary.",
+  "source_repo": "seenark/qch-hermes-gmail-gateway",
+  "source_url": "https://github.com/seenark/qch-hermes-gmail-gateway",
+  "install": "# git clone --depth 1 https://github.com/seenark/qch-hermes-gmail-gateway\n# See source for mcpServers config block"
+}

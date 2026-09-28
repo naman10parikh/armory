@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-deployment-guard",
+  "description": "Enables analyzing Salesforce deployment logs, validating metadata manifests, assessing permission risks, and generating remediation plans through deterministic, local-only rules.",
+  "source_repo": "qpulce-dev/salesforce-deployment-guard-mcp",
+  "source_url": "https://github.com/qpulce-dev/salesforce-deployment-guard-mcp",
+  "install": "npx -y salesforce-deployment-guard-mcp"
+}

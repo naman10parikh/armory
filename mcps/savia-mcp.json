@@ -1,0 +1,7 @@
+{
+  "name": "savia-mcp",
+  "description": "MCP server that exposes SAVIA, a legacy travel-industry ERP with no public API, as tools an AI assistant can use. It uses Playwright to operate the browser, enabling read-only extraction of information like screenshots, text, and tables.",
+  "source_repo": "puchocapo95-svg/savia-mcp",
+  "source_url": "https://github.com/puchocapo95-svg/savia-mcp",
+  "install": "npx -y savia-mcp"
+}

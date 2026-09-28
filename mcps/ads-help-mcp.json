@@ -1,0 +1,7 @@
+{
+  "name": "ads-help-mcp",
+  "description": "Local multi-version RAG MCP server for Keysight ADS help documentation, enabling search, AEL function lookup, and version comparison via natural language.",
+  "source_repo": "why250/ads-help-mcp",
+  "source_url": "https://github.com/why250/ads-help-mcp",
+  "install": "npx -y ads-help-mcp"
+}

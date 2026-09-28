@@ -1,0 +1,7 @@
+{
+  "name": "liteparse-mcp",
+  "description": "Fast, local PDF parsing as an MCP server with text extraction, bounding boxes, OCR, and visual citations. No cloud or API key required.",
+  "source_repo": "lisabrennan1996/liteparse-mcp",
+  "source_url": "https://github.com/lisabrennan1996/liteparse-mcp",
+  "install": "npx -y liteparse-mcp"
+}

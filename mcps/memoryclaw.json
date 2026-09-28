@@ -1,0 +1,7 @@
+{
+  "name": "memoryclaw",
+  "description": "Enables AI agents to store and retrieve persistent memories using BM25 search, allowing them to remember past conversations and context across sessions.",
+  "source_repo": "tostechbr/memoryClaw",
+  "source_url": "https://github.com/tostechbr/memoryClaw",
+  "install": "# git clone --depth 1 https://github.com/tostechbr/memoryClaw\n# See source for mcpServers config block"
+}

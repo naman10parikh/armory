@@ -1,0 +1,7 @@
+{
+  "name": "gem-mcp",
+  "description": "An autonomous MCP server for AI-powered software generation using Gemini and Groq, with features like dual-engine strategy, visual inspection, and QA sentinel.",
+  "source_repo": "riccardosecchi/gem-mcp",
+  "source_url": "https://github.com/riccardosecchi/gem-mcp",
+  "install": "npx -y gem-mcp"
+}

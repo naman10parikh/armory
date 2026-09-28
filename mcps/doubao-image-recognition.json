@@ -1,0 +1,7 @@
+{
+  "name": "doubao-image-recognition",
+  "description": "Provides image understanding via Volcano Ark's doubao-seed-2.1-turbo multimodal model, offering tools to describe images and extract text (OCR) from image URLs or local paths.",
+  "source_repo": "xuhs8832/doubao-seed-image-recognition-mcp",
+  "source_url": "https://github.com/xuhs8832/doubao-seed-image-recognition-mcp",
+  "install": "npx -y doubao-seed-image-recognition-mcp"
+}

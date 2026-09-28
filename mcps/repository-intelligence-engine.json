@@ -1,0 +1,7 @@
+{
+  "name": "repository-intelligence-engine",
+  "description": "Enables querying a TypeScript repository's structure (symbols, imports/exports, references) through direct queries, avoiding repetitive grep operations.",
+  "source_repo": "Arjade25/repo-intelligence-engine",
+  "source_url": "https://github.com/Arjade25/repo-intelligence-engine",
+  "install": "# git clone --depth 1 https://github.com/Arjade25/repo-intelligence-engine\n# See source for mcpServers config block"
+}

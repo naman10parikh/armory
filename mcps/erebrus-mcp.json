@@ -1,0 +1,7 @@
+{
+  "name": "erebrus-mcp",
+  "description": "MCP server for deploying and managing Erebrus decentralized VPN nodes, API keys, and file uploads.",
+  "source_repo": "NetSepio/erebrus-mcp",
+  "source_url": "https://github.com/NetSepio/erebrus-mcp",
+  "install": "npx -y erebrus-mcp"
+}

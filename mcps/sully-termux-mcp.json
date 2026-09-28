@@ -1,0 +1,7 @@
+{
+  "name": "sully-termux-mcp",
+  "description": "A secure MCP gateway for Termux that exposes filesystem, shell, and Termux:API tools over a local HTTP endpoint with admin controls, job management, and upstream support.",
+  "source_repo": "chushiyu111-design/sully-termux-mcp",
+  "source_url": "https://github.com/chushiyu111-design/sully-termux-mcp",
+  "install": "npx -y sully-termux-mcp"
+}

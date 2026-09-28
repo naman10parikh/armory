@@ -1,0 +1,7 @@
+{
+  "name": "workspacealberta",
+  "description": "MCP server for Canadian procurement intelligence, enabling unified search of federal and Alberta tender opportunities, deadline tracking, profile-based matching, daily briefs, and AI-assisted bid analysis.",
+  "source_repo": "HarleyCoops/WorkspaceAlberta",
+  "source_url": "https://github.com/HarleyCoops/WorkspaceAlberta",
+  "install": "# git clone --depth 1 https://github.com/HarleyCoops/WorkspaceAlberta\n# See source for mcpServers config block"
+}

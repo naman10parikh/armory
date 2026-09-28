@@ -1,0 +1,7 @@
+{
+  "name": "thalovant-mcp",
+  "description": "MCP server for Thalovant control-plane and hub runtime APIs, supporting local stdio and remote Streamable HTTP with authentication and per-principal credentials.",
+  "source_repo": "thalovant/thalovant-mcp",
+  "source_url": "https://github.com/thalovant/thalovant-mcp",
+  "install": "npx -y thalovant-mcp"
+}

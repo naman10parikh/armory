@@ -1,0 +1,7 @@
+{
+  "name": "campaign-monitor-mcp-server",
+  "description": "Exposes the full Campaign Monitor v3.3 API as 117 tools for managing campaigns, lists, subscribers, and more, with OAuth authentication.",
+  "source_repo": "kanopi/campaign-monitor-mcp",
+  "source_url": "https://github.com/kanopi/campaign-monitor-mcp",
+  "install": "npx -y campaign-monitor-mcp"
+}

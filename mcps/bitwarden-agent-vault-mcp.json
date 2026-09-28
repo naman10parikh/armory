@@ -1,0 +1,7 @@
+{
+  "name": "bitwarden-agent-vault-mcp",
+  "description": "An MCP server for using Bitwarden Secrets Manager as durable credential storage for agent workflows, enabling secure secret storage, retrieval, and injection into trusted executables.",
+  "source_repo": "ceweldy/bitwarden-agent-vault-mcp",
+  "source_url": "https://github.com/ceweldy/bitwarden-agent-vault-mcp",
+  "install": "npx -y bitwarden-agent-vault-mcp"
+}

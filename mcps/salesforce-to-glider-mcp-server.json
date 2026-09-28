@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-to-glider-mcp-server",
+  "description": "Provides governed MCP tools for a controlled, AI-assisted asset-change pipeline, featuring natural-language requests, mandatory approvals, execution-time revalidation, and complete audit.",
+  "source_repo": "nicol-777/Salesforce-to-Glider-via-MCP",
+  "source_url": "https://github.com/nicol-777/Salesforce-to-Glider-via-MCP",
+  "install": "npx -y Salesforce-to-Glider-via-MCP"
+}

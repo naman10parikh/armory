@@ -1,0 +1,7 @@
+{
+  "name": "readysms-mcp-server",
+  "description": "Enables sending SMS messages, managing contacts, campaigns, and inbox from AI assistants like Claude and ClickUp.",
+  "source_repo": "ReadySMS/readysms-mcp",
+  "source_url": "https://github.com/ReadySMS/readysms-mcp",
+  "install": "npx -y readysms-mcp"
+}

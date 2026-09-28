@@ -1,0 +1,7 @@
+{
+  "name": "pixio-mcp",
+  "description": "An MCP server providing access to 554+ generative AI models with spend safety guardrails, enabling text-to-image, image-to-video, and more through a simple 4-call workflow.",
+  "source_repo": "RealDealCPA-VR/Pixio-MCP",
+  "source_url": "https://github.com/RealDealCPA-VR/Pixio-MCP",
+  "install": "npx -y Pixio-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "quotewise-quote-mcp",
+  "description": "Discover, verify, and explore 600K curated quotes from a massive database of authors, books, and speeches. Find the perfect words using semantic search, identify authentic attributions to avoid common misquotes, and discover similar thinkers. Organize and manage personal collections of wisdom to sav",
+  "source_repo": "",
+  "source_url": "https://quotewise.io/developers/mcp/",
+  "install": "# git clone --depth 1 https://quotewise.io/developers/mcp/\n# See source for mcpServers config block"
+}

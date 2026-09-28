@@ -1,0 +1,7 @@
+{
+  "name": "internet-bs-mcp",
+  "description": "A Model Context Protocol server for Internet.bs domain registrar API. Enables checking availability, registering, renewing, and managing domains and DNS from Claude or any MCP client.",
+  "source_repo": "WannaBeGeekster/internet-bs-mcp",
+  "source_url": "https://github.com/WannaBeGeekster/internet-bs-mcp",
+  "install": "npx -y internet-bs-mcp"
+}

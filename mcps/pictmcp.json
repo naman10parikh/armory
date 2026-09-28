@@ -1,0 +1,7 @@
+{
+  "name": "pictmcp",
+  "description": "Provides pairwise test generation for AI assistants using the PICT algorithm, running locally via WebAssembly.",
+  "source_repo": "takeyaqa/PictMCP",
+  "source_url": "https://github.com/takeyaqa/PictMCP",
+  "install": "# git clone --depth 1 https://github.com/takeyaqa/PictMCP\n# See source for mcpServers config block"
+}

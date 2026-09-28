@@ -1,0 +1,7 @@
+{
+  "name": "groupdocs-conversion-mcp-server",
+  "description": "Enables local document conversion between 70+ formats (PDF, Word, Excel, etc.) via MCP, keeping files private.",
+  "source_repo": "groupdocs-conversion/GroupDocs.Conversion.Mcp",
+  "source_url": "https://github.com/groupdocs-conversion/GroupDocs.Conversion.Mcp",
+  "install": "# git clone --depth 1 https://github.com/groupdocs-conversion/GroupDocs.Conversion.Mcp\n# See source for mcpServers config block"
+}

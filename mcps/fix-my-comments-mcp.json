@@ -1,0 +1,7 @@
+{
+  "name": "fix-my-comments-mcp",
+  "description": "MCP server that exposes code review tasks from the Fix My Comments VS Code extension to AI agents, enabling them to list, retrieve, reply to, and update task statuses.",
+  "source_repo": "duraisamy-gokul/fix-my-comments-mcp",
+  "source_url": "https://github.com/duraisamy-gokul/fix-my-comments-mcp",
+  "install": "npx -y fix-my-comments-mcp"
+}

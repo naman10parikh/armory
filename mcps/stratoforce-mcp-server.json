@@ -1,0 +1,7 @@
+{
+  "name": "stratoforce-mcp-server",
+  "description": "Enables AI assistants to query and analyze Salesforce pipeline data, including pipeline health, deal details, and risk alerts, through natural language.",
+  "source_repo": "Stratoforce-AI-LLC/stratoforce-mcp-server",
+  "source_url": "https://github.com/Stratoforce-AI-LLC/stratoforce-mcp-server",
+  "install": "npx -y stratoforce-mcp-server"
+}

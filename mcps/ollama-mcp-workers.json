@@ -1,0 +1,7 @@
+{
+  "name": "ollama-mcp-workers",
+  "description": "Enables local image analysis and document processing through MCP workers (Vision and Document) using Ollama models, with cloud orchestration for mixed hierarchical tasks. Supports tools for image understanding, requirement extraction, test case generation, and GPU memory lifecycle management.",
+  "source_repo": "Crino-999/ollama-mcp-workers",
+  "source_url": "https://github.com/Crino-999/ollama-mcp-workers",
+  "install": "# git clone --depth 1 https://github.com/Crino-999/ollama-mcp-workers\n# See source for mcpServers config block"
+}

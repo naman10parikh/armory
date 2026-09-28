@@ -1,0 +1,7 @@
+{
+  "name": "faker-server",
+  "description": "Provides tools for generating fake data using Faker.js, including person, lorem, internet, and more, with support for multiple locales and customizable options.",
+  "source_repo": "data-mindset/faker-mcp-server-docker",
+  "source_url": "https://github.com/data-mindset/faker-mcp-server-docker",
+  "install": "# git clone --depth 1 https://github.com/data-mindset/faker-mcp-server-docker\n# See source for mcpServers config block"
+}

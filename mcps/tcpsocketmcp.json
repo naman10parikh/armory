@@ -1,0 +1,7 @@
+{
+  "name": "tcpsocketmcp",
+  "description": "Enables AI models to interact directly with network services via raw TCP sockets, supporting multiple concurrent connections, buffering, and automated responses.",
+  "source_repo": "SpaceyKasey/TcpSocketMCP",
+  "source_url": "https://github.com/SpaceyKasey/TcpSocketMCP",
+  "install": "# git clone --depth 1 https://github.com/SpaceyKasey/TcpSocketMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "statcite",
+  "description": "Official economic statistics with full citations — World Bank, IMF WEO, ECB — plus verify_stat to check a claimed figure against the official series. Free, remote, no auth.",
+  "source_repo": "asokore/statcite",
+  "source_url": "https://github.com/asokore/statcite",
+  "install": "# git clone --depth 1 https://github.com/asokore/statcite\n# See source for mcpServers config block"
+}

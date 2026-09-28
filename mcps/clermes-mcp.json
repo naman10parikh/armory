@@ -1,0 +1,7 @@
+{
+  "name": "clermes-mcp",
+  "description": "Exposes a Clermes worker fleet as typed tools over HTTP and stdio, enabling a coordinator to drive the fleet with structured tool calls.",
+  "source_repo": "canopy-workshop/clermes-mcp",
+  "source_url": "https://github.com/canopy-workshop/clermes-mcp",
+  "install": "npx -y clermes-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "echobt-figma-mcp",
+  "description": "Enables offline reading and rendering of Figma .fig files, allowing AI agents to extract design specs, export assets, and generate code without needing the Figma API or network access.",
+  "source_repo": "echobt/figma-mcp",
+  "source_url": "https://github.com/echobt/figma-mcp",
+  "install": "npx -y figma-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cloudwatch-mcp",
+  "description": "Provides AI assistants with read-only access to AWS CloudWatch Logs for production debugging and log analysis, enabling error searching and bug report generation.",
+  "source_repo": "shivam-singh-au17/cloudwatch-mcp",
+  "source_url": "https://github.com/shivam-singh-au17/cloudwatch-mcp",
+  "install": "npx -y cloudwatch-mcp"
+}

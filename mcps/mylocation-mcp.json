@@ -1,0 +1,7 @@
+{
+  "name": "mylocation-mcp",
+  "description": "Provides location information from coordinates or IP addresses using IPInfo.io, with a health check endpoint.",
+  "source_repo": "yhwancha/mylocation-mcp",
+  "source_url": "https://github.com/yhwancha/mylocation-mcp",
+  "install": "npx -y mylocation-mcp"
+}

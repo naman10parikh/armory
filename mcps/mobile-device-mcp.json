@@ -1,0 +1,7 @@
+{
+  "name": "mobile-device-mcp",
+  "description": "An MCP server that lets AI agents control iOS and Android devices (tap, scroll, type, take screenshots, read UI trees, and run code). Works with multiple devices at the same time.",
+  "source_repo": "srmorete/mobile-device-mcp",
+  "source_url": "https://github.com/srmorete/mobile-device-mcp",
+  "install": "npx -y mobile-device-mcp"
+}

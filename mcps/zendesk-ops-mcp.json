@@ -1,0 +1,7 @@
+{
+  "name": "zendesk-ops-mcp",
+  "description": "An MCP server that provides operational tooling over the Zendesk Support API — ticket triage, SLA monitoring, agent workload analysis, and system health audits.",
+  "source_repo": "avg-ape/zendesk-ops-mcp",
+  "source_url": "https://github.com/avg-ape/zendesk-ops-mcp",
+  "install": "npx -y zendesk-ops-mcp"
+}

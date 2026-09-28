@@ -1,0 +1,7 @@
+{
+  "name": "gnaws-mcp",
+  "description": "Enables AI agents to scan AWS accounts, build resource relationship graphs, detect unused resources, and export data via MCP tools.",
+  "source_repo": "FabioDominio/gnaws-mcp",
+  "source_url": "https://github.com/FabioDominio/gnaws-mcp",
+  "install": "npx -y gnaws-mcp"
+}

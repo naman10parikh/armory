@@ -1,0 +1,7 @@
+{
+  "name": "dap-pronaf-pj",
+  "description": "Enables querying the Pronaf Aptitude Declaration (DAP) for a legal entity by CNPJ, allowing users to check if a CNPJ has a Pronaf DAP through natural language.",
+  "source_repo": "mcp-dir/dap_pronaf_pj-mcp",
+  "source_url": "https://github.com/mcp-dir/dap_pronaf_pj-mcp",
+  "install": "npx -y dap_pronaf_pj-mcp"
+}

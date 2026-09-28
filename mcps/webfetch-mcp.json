@@ -1,0 +1,7 @@
+{
+  "name": "webfetch-mcp",
+  "description": "Enables local LLMs to search the web and fetch clean content from URLs without API keys, using SearxNG and Mozilla Readability.",
+  "source_repo": "manooll/webfetch-mcp",
+  "source_url": "https://github.com/manooll/webfetch-mcp",
+  "install": "npx -y webfetch-mcp"
+}

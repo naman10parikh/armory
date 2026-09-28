@@ -1,0 +1,7 @@
+{
+  "name": "receipts-api-mcp",
+  "description": "Enables querying and analyzing receipt data with SQL-style grouped statistics, filtering, and receipt lookup through natural language via MCP-compatible clients.",
+  "source_repo": "chf3198/receipts-api-mcp",
+  "source_url": "https://github.com/chf3198/receipts-api-mcp",
+  "install": "npx -y receipts-api-mcp"
+}

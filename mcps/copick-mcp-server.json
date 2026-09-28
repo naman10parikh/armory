@@ -1,0 +1,7 @@
+{
+  "name": "copick-mcp-server",
+  "description": "Enables read-only exploration of Copick cryo-ET projects and discovery/validation of copick CLI commands for building processing pipelines.",
+  "source_repo": "copick/copick-mcp",
+  "source_url": "https://github.com/copick/copick-mcp",
+  "install": "npx -y copick-mcp"
+}

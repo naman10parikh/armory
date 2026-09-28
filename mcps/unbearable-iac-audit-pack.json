@@ -1,0 +1,7 @@
+{
+  "name": "unbearable-iac-audit-pack",
+  "description": "Provides IaC auditing across Docker Compose, Dockerfile, and GitHub Actions with 64 checks, plus HU postcode validation, via a single MCP endpoint with pay-per-event billing.",
+  "source_repo": "UnbearableDev/iac-audit-pack",
+  "source_url": "https://github.com/UnbearableDev/iac-audit-pack",
+  "install": "# git clone --depth 1 https://github.com/UnbearableDev/iac-audit-pack\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-discuss",
+  "description": "Enables a host AI agent to trigger a multi-agent debate, running N-rounds where agents critique each other's answers, then synthesizes a consensus recommendation with ranked options.",
+  "source_repo": "ponthepmk/Ai-discuss-mcp",
+  "source_url": "https://github.com/ponthepmk/Ai-discuss-mcp",
+  "install": "npx -y Ai-discuss-mcp"
+}

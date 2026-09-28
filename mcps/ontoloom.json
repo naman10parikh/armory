@@ -1,0 +1,7 @@
+{
+  "name": "ontoloom",
+  "description": "MCP server for building and exploring OWL 2 ontologies using AI agents, with tools for axiom management, structural pattern matching, and persistent selections.",
+  "source_repo": "ExtensityAI/ontoloom",
+  "source_url": "https://github.com/ExtensityAI/ontoloom",
+  "install": "# git clone --depth 1 https://github.com/ExtensityAI/ontoloom\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jw-mcp",
+  "description": "Enables Claude to access JW.org public materials including Bible verses, Watchtower articles, meeting workbooks, video captions, and lesson books through natural language conversation.",
+  "source_repo": "teenfo/JW-MCP",
+  "source_url": "https://github.com/teenfo/JW-MCP",
+  "install": "npx -y JW-MCP"
+}

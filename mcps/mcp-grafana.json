@@ -1,0 +1,7 @@
+{
+  "name": "mcp-grafana",
+  "description": "In-cluster MCP server for read-only diagnostics of Grafana, Prometheus, Alertmanager, and Loki, enabling metric queries, alert listings, and log queries through Grafana datasource proxies with Kubernetes RBAC authentication.",
+  "source_repo": "romaine-life/mcp-grafana",
+  "source_url": "https://github.com/romaine-life/mcp-grafana",
+  "install": "# git clone --depth 1 https://github.com/romaine-life/mcp-grafana\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-reddit-ads",
+  "description": "Enables reading and writing Reddit Ads campaigns, ad groups, ads, and performance reports with tiered safety controls, using the Reddit Ads API v3.",
+  "source_repo": "camlowe/mcp-server-reddit-ads",
+  "source_url": "https://github.com/camlowe/mcp-server-reddit-ads",
+  "install": "# git clone --depth 1 https://github.com/camlowe/mcp-server-reddit-ads\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "preflight-api",
+  "description": "Provides pre-fetch routing intelligence for AI agents by recommending the cheapest reliable route (HTTP, browser, machine endpoint, or avoid) before visiting a URL.",
+  "source_repo": "GSterlingPress/preflight-api",
+  "source_url": "https://github.com/GSterlingPress/preflight-api",
+  "install": "# git clone --depth 1 https://github.com/GSterlingPress/preflight-api\n# See source for mcpServers config block"
+}

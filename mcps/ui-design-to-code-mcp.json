@@ -1,0 +1,7 @@
+{
+  "name": "ui-design-to-code-mcp",
+  "description": "MCP server for ingesting UI screenshots, Figma MCP node JSON, or hybrid Figma-plus-screenshot sources into a cross-platform design-to-code artifact pipeline.",
+  "source_repo": "Kinglions/ui-design-to-code-mcp",
+  "source_url": "https://github.com/Kinglions/ui-design-to-code-mcp",
+  "install": "npx -y ui-design-to-code-mcp"
+}

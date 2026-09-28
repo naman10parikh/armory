@@ -1,0 +1,7 @@
+{
+  "name": "topalternativesto",
+  "description": "Enables AI assistants to search and retrieve verified software comparisons, including current pricing with source and date, and ranked alternatives for software switching decisions.",
+  "source_repo": "AgenticAdvertising/topalternativesto-mcp",
+  "source_url": "https://github.com/AgenticAdvertising/topalternativesto-mcp",
+  "install": "npx -y topalternativesto-mcp"
+}

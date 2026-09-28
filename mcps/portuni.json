@@ -1,0 +1,7 @@
+{
+  "name": "portuni",
+  "description": "An MCP server that provides a shared graph of an organization's projects, processes, areas, and principles, enabling consistent context for tools and AI agents.",
+  "source_repo": "honzapav/portuni",
+  "source_url": "https://github.com/honzapav/portuni",
+  "install": "# git clone --depth 1 https://github.com/honzapav/portuni\n# See source for mcpServers config block"
+}

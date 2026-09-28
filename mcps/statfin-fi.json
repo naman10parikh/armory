@@ -1,0 +1,7 @@
+{
+  "name": "statfin-fi",
+  "description": "Enables querying Statistics Finland's public statistical database using PxWeb API. Supports retrieving table metadata and pulling data with PxWeb query objects.",
+  "source_repo": "pipeworx-io/mcp-statfin-fi",
+  "source_url": "https://github.com/pipeworx-io/mcp-statfin-fi",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-statfin-fi\n# See source for mcpServers config block"
+}

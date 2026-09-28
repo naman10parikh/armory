@@ -1,0 +1,7 @@
+{
+  "name": "mcp-linkedin-post-engager-capture",
+  "description": "Enables capturing recent posts from LinkedIn profiles and company pages, including real reaction and comment counts and publicly visible commenters, without requiring a LinkedIn account, cookies, or credentials.",
+  "source_repo": "mambalabsdev/mcp-linkedin-post-engager-capture",
+  "source_url": "https://github.com/mambalabsdev/mcp-linkedin-post-engager-capture",
+  "install": "# git clone --depth 1 https://github.com/mambalabsdev/mcp-linkedin-post-engager-capture\n# See source for mcpServers config block"
+}

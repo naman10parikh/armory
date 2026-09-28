@@ -1,0 +1,7 @@
+{
+  "name": "grafmcp",
+  "description": "A local MCP server that gives code agents a shared, persistent graph memory backed by Kuzu, plus a live web dashboard for visualizing the graph and activity log.",
+  "source_repo": "SecCodeSmith/GrafMCP",
+  "source_url": "https://github.com/SecCodeSmith/GrafMCP",
+  "install": "# git clone --depth 1 https://github.com/SecCodeSmith/GrafMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "io-github-taylorwilsdon-workspace-mcp",
+  "description": "Provides natural language control over Google Workspace services including Gmail, Drive, Calendar, Docs, Sheets, Slides, Forms, Tasks, Contacts, and Chat through all MCP clients.",
+  "source_repo": "sherman94062/google-workspace-mcp-cursor",
+  "source_url": "https://github.com/sherman94062/google-workspace-mcp-cursor",
+  "install": "# git clone --depth 1 https://github.com/sherman94062/google-workspace-mcp-cursor\n# See source for mcpServers config block"
+}

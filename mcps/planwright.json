@@ -1,0 +1,7 @@
+{
+  "name": "planwright",
+  "description": "Enables orchestration of autonomous coding agents (Claude Code, Cursor, etc.) through an objective-native planning board with hash-chained audit trail. Humans define outcomes, agents claim and execute tasks via MCP.",
+  "source_repo": "Planwright/planwright",
+  "source_url": "https://github.com/Planwright/planwright",
+  "install": "# git clone --depth 1 https://github.com/Planwright/planwright\n# See source for mcpServers config block"
+}

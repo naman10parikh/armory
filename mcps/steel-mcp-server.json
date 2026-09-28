@@ -1,0 +1,7 @@
+{
+  "name": "steel-mcp-server",
+  "description": "Exposes Steel Browser automation over HTTP, providing MCP clients with tools for browser control, page interaction, screenshots, and session management.",
+  "source_repo": "rickicode/steel-browser-mcp",
+  "source_url": "https://github.com/rickicode/steel-browser-mcp",
+  "install": "npx -y steel-browser-mcp"
+}

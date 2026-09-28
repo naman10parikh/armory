@@ -1,0 +1,7 @@
+{
+  "name": "pbu-fsbu-mcp",
+  "description": "MCP-сервер для доступа к текстам российских стандартов бухгалтерского учёта (ПБУ и ФСБУ): поиск и получение пунктов с учётом дат, а также проекция на объекты 1С:Бухгалтерии 3.0 и ссылки на ИТС.",
+  "source_repo": "MihasikPro/pbu-fsbu-mcp",
+  "source_url": "https://github.com/MihasikPro/pbu-fsbu-mcp",
+  "install": "npx -y pbu-fsbu-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "marketmind-mcp",
+  "description": "Provides real-time Indian stock market intelligence including NSE market status, company ticker lookup, and market hours for AI assistants.",
+  "source_repo": "NarriGoud/marketmind_mcp",
+  "source_url": "https://github.com/NarriGoud/marketmind_mcp",
+  "install": "npx -y marketmind_mcp"
+}

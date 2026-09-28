@@ -1,0 +1,7 @@
+{
+  "name": "arcpro-mcp",
+  "description": "Enables natural language control of live ArcGIS Pro sessions through the Model Context Protocol, allowing inspection of projects, layers, and attributes, and execution of geoprocessing tasks.",
+  "source_repo": "qiobn/arcpro-mcp",
+  "source_url": "https://github.com/qiobn/arcpro-mcp",
+  "install": "npx -y arcpro-mcp"
+}

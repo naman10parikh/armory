@@ -1,0 +1,7 @@
+{
+  "name": "highchart-mcp-server",
+  "description": "Enables AI assistants and clients to generate Highcharts-based charts with schema validation, export to PNG/SVG/PDF, and natural language to chart conversion.",
+  "source_repo": "hasnaintypes/highchart-mcp-server",
+  "source_url": "https://github.com/hasnaintypes/highchart-mcp-server",
+  "install": "npx -y highchart-mcp-server"
+}

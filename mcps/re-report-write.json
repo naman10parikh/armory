@@ -1,0 +1,7 @@
+{
+  "name": "re-report-write",
+  "description": "MCP server for writing Markdown report fragments to files with path safety and SHA-256 verification.",
+  "source_repo": "Heretek-RE/re-report-write",
+  "source_url": "https://github.com/Heretek-RE/re-report-write",
+  "install": "# git clone --depth 1 https://github.com/Heretek-RE/re-report-write\n# See source for mcpServers config block"
+}

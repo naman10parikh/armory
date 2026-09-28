@@ -1,0 +1,7 @@
+{
+  "name": "fitbit-googlehealth-mcp",
+  "description": "This MCP server enables Claude to access and log Fitbit health data, including activity, sleep, heart rate, and nutrition, with the ability to log meals by analyzing photos through Claude's vision capabilities.",
+  "source_repo": "tachibanayu24/fitbit-googlehealth-mcp",
+  "source_url": "https://github.com/tachibanayu24/fitbit-googlehealth-mcp",
+  "install": "npx -y fitbit-googlehealth-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cypher-mcp",
+  "description": "Monetized graph answers over Bitcoin Lightning. Sells priced answers from a graph via operator-authored, parameterized, named Cypher query templates.",
+  "source_repo": "lonniev/cypher-mcp",
+  "source_url": "https://github.com/lonniev/cypher-mcp",
+  "install": "npx -y cypher-mcp"
+}

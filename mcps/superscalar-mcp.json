@@ -1,0 +1,7 @@
+{
+  "name": "superscalar-mcp",
+  "description": "Enables interaction with SuperScalar Bitcoin Lightning channel factories, providing protocol overviews, savings estimations, and deep dives into components like invalidation trees and MuSig2.",
+  "source_repo": "8144225309/superscalar-mcp",
+  "source_url": "https://github.com/8144225309/superscalar-mcp",
+  "install": "npx -y superscalar-mcp"
+}

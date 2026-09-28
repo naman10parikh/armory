@@ -1,0 +1,7 @@
+{
+  "name": "apple-health-shortcuts-mcp",
+  "description": "A Cloudflare Workers MCP server that allows AI to read-only access Apple Health data (current status, sleep details, trends) via shortcuts without modifying or deleting data.",
+  "source_repo": "zzzzaichihuoguo/apple-health-shortcuts-mcp",
+  "source_url": "https://github.com/zzzzaichihuoguo/apple-health-shortcuts-mcp",
+  "install": "npx -y apple-health-shortcuts-mcp"
+}

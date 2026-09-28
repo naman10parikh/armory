@@ -1,0 +1,7 @@
+{
+  "name": "mcp-amazon",
+  "description": "A read-only MCP server for accessing Amazon wishlist data via HTML snapshot parsing or optional live browser-backed reads.",
+  "source_repo": "kogecoo/mcp-amazon",
+  "source_url": "https://github.com/kogecoo/mcp-amazon",
+  "install": "# git clone --depth 1 https://github.com/kogecoo/mcp-amazon\n# See source for mcpServers config block"
+}

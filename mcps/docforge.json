@@ -1,0 +1,7 @@
+{
+  "name": "docforge",
+  "description": "Agent-grade document production powered by Typst: templates with JSON schemas, deterministic compile/lint/repair, PNG previews and visual QA",
+  "source_repo": "PrecisionUtilityGuild/docforge",
+  "source_url": "https://github.com/PrecisionUtilityGuild/docforge",
+  "install": "# git clone --depth 1 https://github.com/PrecisionUtilityGuild/docforge\n# See source for mcpServers config block"
+}

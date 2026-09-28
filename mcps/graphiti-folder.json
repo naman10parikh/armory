@@ -1,0 +1,7 @@
+{
+  "name": "graphiti-folder",
+  "description": "A read-only MCP server that lets you search current and historical facts from a time-indexed knowledge graph derived from a folder of Markdown/text documents, with verification against original sources. It exposes tools for status, fact search, history search, and revision lookup while keeping docum",
+  "source_repo": "notx2wice/graphiti-folder",
+  "source_url": "https://github.com/notx2wice/graphiti-folder",
+  "install": "# git clone --depth 1 https://github.com/notx2wice/graphiti-folder\n# See source for mcpServers config block"
+}

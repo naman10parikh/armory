@@ -1,0 +1,7 @@
+{
+  "name": "voice-ai-website-analyzer-mcp-server",
+  "description": "Fetches and analyzes website content to provide business context to AI agents, designed for Voice AI in GoHighLevel.",
+  "source_repo": "aleehamza25/voice-ai-mcp",
+  "source_url": "https://github.com/aleehamza25/voice-ai-mcp",
+  "install": "npx -y voice-ai-mcp"
+}

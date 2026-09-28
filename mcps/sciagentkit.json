@@ -1,0 +1,7 @@
+{
+  "name": "sciagentkit",
+  "description": "MCP-native scientific skills for reproducible computational biology and AI-driven drug-discovery workflows. It combines deterministic scientific tools with an MCP server to give AI agents real computational capabilities.",
+  "source_repo": "ehsansyh/Sciagentkit",
+  "source_url": "https://github.com/ehsansyh/Sciagentkit",
+  "install": "# git clone --depth 1 https://github.com/ehsansyh/Sciagentkit\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mtga-mcp",
+  "description": "Enables natural language querying of your Magic: The Gathering Arena collection, including owned cards, missing cards, deck building, and collection analysis via MCP.",
+  "source_repo": "fkadriver/mtga-mcp",
+  "source_url": "https://github.com/fkadriver/mtga-mcp",
+  "install": "npx -y mtga-mcp"
+}

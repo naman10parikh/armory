@@ -1,0 +1,7 @@
+{
+  "name": "knowledge-mcp",
+  "description": "语义搜索知识库，支持文档获取和索引刷新，使AI Agent能够检索团队知识。",
+  "source_repo": "caitao-ct/knowledge-base",
+  "source_url": "https://github.com/caitao-ct/knowledge-base",
+  "install": "# git clone --depth 1 https://github.com/caitao-ct/knowledge-base\n# See source for mcpServers config block"
+}

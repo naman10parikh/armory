@@ -1,0 +1,7 @@
+{
+  "name": "netforensicmcp",
+  "description": "An MCP server for offline network forensic analysis and threat intelligence, enabling LLMs to analyze PCAP files, extract streams, detect threats, and identify credentials using tshark.",
+  "source_repo": "kylecui/NetForensicMCP",
+  "source_url": "https://github.com/kylecui/NetForensicMCP",
+  "install": "# git clone --depth 1 https://github.com/kylecui/NetForensicMCP\n# See source for mcpServers config block"
+}

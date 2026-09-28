@@ -1,0 +1,7 @@
+{
+  "name": "delta-mcp-prototype",
+  "description": "MCP server that wraps the UMT media monitoring API, enabling search and retrieval of media mentions with filters such as date range, language, sentiment, and tags.",
+  "source_repo": "rilexus/delta-mcp-prototype",
+  "source_url": "https://github.com/rilexus/delta-mcp-prototype",
+  "install": "# git clone --depth 1 https://github.com/rilexus/delta-mcp-prototype\n# See source for mcpServers config block"
+}

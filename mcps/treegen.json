@@ -1,0 +1,7 @@
+{
+  "name": "treegen",
+  "description": "MCP server for generating deterministic, stylized low-poly 3D trees. It supports multiple presets and can export GLB or OBJ assets.",
+  "source_repo": "andreglegg/treegen",
+  "source_url": "https://github.com/andreglegg/treegen",
+  "install": "# git clone --depth 1 https://github.com/andreglegg/treegen\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "healthclawguardrails",
+  "description": "Open-source guardrails between AI agents and FHIR clinical data — PHI redaction, immutable audit, step-up auth, tenant isolation. MCP server + OpenAI/Gemini adapters. A healthclaw.io project.",
+  "source_repo": "aks129/HealthClawGuardrails",
+  "source_url": "https://github.com/aks129/HealthClawGuardrails",
+  "install": "# git clone --depth 1 https://github.com/aks129/HealthClawGuardrails\n# See source for mcpServers config block"
+}

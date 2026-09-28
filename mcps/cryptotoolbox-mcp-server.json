@@ -1,0 +1,7 @@
+{
+  "name": "cryptotoolbox-mcp-server",
+  "description": "A free, zero-dependency Model Context Protocol (MCP) server for AI agents providing Web3/crypto toolkit (balances, ENS, token info, tx decode, Chainlink price feed, payment verification) plus encoding, hashing, and data transformation utilities.",
+  "source_repo": "irun2themoney/crypto-toolbox-mcp",
+  "source_url": "https://github.com/irun2themoney/crypto-toolbox-mcp",
+  "install": "npx -y crypto-toolbox-mcp"
+}

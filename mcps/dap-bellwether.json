@@ -1,0 +1,7 @@
+{
+  "name": "dap-bellwether",
+  "description": "MCP server that aggregates and serves regulatory changes from Canadian, US, UK, and EU financial regulators via read-only tools for search, recent changes, and coverage monitoring.",
+  "source_repo": "bsibeth234/dap-bellwether",
+  "source_url": "https://github.com/bsibeth234/dap-bellwether",
+  "install": "# git clone --depth 1 https://github.com/bsibeth234/dap-bellwether\n# See source for mcpServers config block"
+}

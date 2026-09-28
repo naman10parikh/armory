@@ -1,0 +1,7 @@
+{
+  "name": "novelist",
+  "description": "MCP server for the Novelist runtime, enabling narrative creation with storyboard, cast, and 3D materialization from the Zeus corpus.",
+  "source_repo": "alephscriptorium-eng/N_SDK",
+  "source_url": "https://github.com/alephscriptorium-eng/N_SDK",
+  "install": "# git clone --depth 1 https://github.com/alephscriptorium-eng/N_SDK\n# See source for mcpServers config block"
+}

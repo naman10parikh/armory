@@ -1,0 +1,7 @@
+{
+  "name": "cookidoo-mcp-server",
+  "description": "Lets Claude read recipes from your Cookidoo account and create TM7-optimized custom recipes with guided-cooking annotations, quality scoring, and automatic rollback on upload failure.",
+  "source_repo": "danielkliem/mcp-cookidoo",
+  "source_url": "https://github.com/danielkliem/mcp-cookidoo",
+  "install": "# git clone --depth 1 https://github.com/danielkliem/mcp-cookidoo\n# See source for mcpServers config block"
+}

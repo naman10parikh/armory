@@ -1,0 +1,7 @@
+{
+  "name": "energy-mcp",
+  "description": "An MCP server for US electricity demand and weather data that provides tools, resources, and prompts to query hourly demand, daily demand, peak demand, and demand vs temperature across regions, all running locally with a bundled SQLite database.",
+  "source_repo": "visethchapman/energy-mcp",
+  "source_url": "https://github.com/visethchapman/energy-mcp",
+  "install": "npx -y energy-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "territory-news-mcp-server",
+  "description": "Provides real-time account intelligence, deal signals, and strategic openers to AI agents and MCP-compatible orchestrators, enabling automated sales workflows such as pre-call battlecards, deal reactivation, and territory monitoring.",
+  "source_repo": "junoonx/tnews-mcp",
+  "source_url": "https://github.com/junoonx/tnews-mcp",
+  "install": "npx -y tnews-mcp"
+}

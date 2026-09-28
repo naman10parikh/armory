@@ -1,0 +1,7 @@
+{
+  "name": "mcpcloud",
+  "description": "A self-hosted MCP gateway that lets you write Python functions and register them as skills to be used as tools by any MCP-compatible client like Claude Desktop or Claude API.",
+  "source_repo": "carsor007/mcpcloud",
+  "source_url": "https://github.com/carsor007/mcpcloud",
+  "install": "# git clone --depth 1 https://github.com/carsor007/mcpcloud\n# See source for mcpServers config block"
+}

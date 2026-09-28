@@ -1,0 +1,7 @@
+{
+  "name": "crypto-market-data-mcp-server",
+  "description": "Provides live cryptocurrency market data from over 100 exchanges, enabling AI agents to fetch prices, order books, funding rates, and more for trading analysis and arbitrage opportunities.",
+  "source_repo": "eliasfire617/crypto-market-data-mcp",
+  "source_url": "https://github.com/eliasfire617/crypto-market-data-mcp",
+  "install": "npx -y crypto-market-data-mcp"
+}

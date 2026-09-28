@@ -1,0 +1,7 @@
+{
+  "name": "ews-outlook-mcp",
+  "description": "MCP server for Claude to access on-premises Outlook/Exchange mailboxes via EWS with NTLM authentication, providing tools for email, calendar, and contact management without relying on Microsoft 365 or Graph API.",
+  "source_repo": "devsergioherrera/Outlook-Exchange-MCP-Server",
+  "source_url": "https://github.com/devsergioherrera/Outlook-Exchange-MCP-Server",
+  "install": "npx -y Outlook-Exchange-MCP-Server"
+}

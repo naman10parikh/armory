@@ -1,0 +1,7 @@
+{
+  "name": "groq-mcp-server",
+  "description": "Enables lightning-fast inference using Groq models through MCP clients, supporting vision, speech, batch processing, and agentic tasks.",
+  "source_repo": "liewcc/groq-agentic-mcp",
+  "source_url": "https://github.com/liewcc/groq-agentic-mcp",
+  "install": "npx -y groq-agentic-mcp"
+}

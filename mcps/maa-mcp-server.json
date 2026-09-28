@@ -1,0 +1,7 @@
+{
+  "name": "maa-mcp-server",
+  "description": "Enables control of mobile games via MaaFramework, supporting screenshot, click, swipe, and task execution through MCP protocol.",
+  "source_repo": "FleurDeLysFDl/MAAplusAgent",
+  "source_url": "https://github.com/FleurDeLysFDl/MAAplusAgent",
+  "install": "# git clone --depth 1 https://github.com/FleurDeLysFDl/MAAplusAgent\n# See source for mcpServers config block"
+}

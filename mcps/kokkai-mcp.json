@@ -1,0 +1,7 @@
+{
+  "name": "kokkai-mcp",
+  "description": "Enables search, retrieval, and summarization of Japanese National Diet meeting minutes via MCP tools.",
+  "source_repo": "harutomo51/kokkai-mcp",
+  "source_url": "https://github.com/harutomo51/kokkai-mcp",
+  "install": "npx -y kokkai-mcp"
+}

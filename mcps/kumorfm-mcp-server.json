@@ -1,0 +1,7 @@
+{
+  "name": "kumorfm-mcp-server",
+  "description": "Enables AI assistants to query KumoRFM for predictive analytics on relational data, including graph management, natural language to PQL conversion, and training-free predictions.",
+  "source_repo": "kumo-ai/kumo-rfm-mcp",
+  "source_url": "https://github.com/kumo-ai/kumo-rfm-mcp",
+  "install": "npx -y kumo-rfm-mcp"
+}

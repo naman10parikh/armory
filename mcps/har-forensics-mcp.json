@@ -1,0 +1,7 @@
+{
+  "name": "har-forensics-mcp",
+  "description": "Audits HAR captures locally with MCP tools for triage, findings, vendor blast radius, CSP generation, and sanitization—no network calls, redacted by default.",
+  "source_repo": "aryanspv/har-forensics-mcp",
+  "source_url": "https://github.com/aryanspv/har-forensics-mcp",
+  "install": "npx -y har-forensics-mcp"
+}

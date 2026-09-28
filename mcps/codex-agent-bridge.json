@@ -1,0 +1,7 @@
+{
+  "name": "codex-agent-bridge",
+  "description": "MCP server that lets Codex supervise Claude Code or DeepSeek Harness as workers in isolated Git worktrees, with a bridge_run/bridge_respond/bridge_apply workflow for task delegation and safe cherry-pick integration.",
+  "source_repo": "JaylanJerry/codex-agent-bridge",
+  "source_url": "https://github.com/JaylanJerry/codex-agent-bridge",
+  "install": "# git clone --depth 1 https://github.com/JaylanJerry/codex-agent-bridge\n# See source for mcpServers config block"
+}

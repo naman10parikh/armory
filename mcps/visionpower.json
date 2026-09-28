@@ -1,0 +1,7 @@
+{
+  "name": "visionpower",
+  "description": "A portable image-understanding MCP server that lets agents analyze local images, URLs, or base64 images via an OpenAI-compatible vision model.",
+  "source_repo": "RunhuaHuang/VisionPower",
+  "source_url": "https://github.com/RunhuaHuang/VisionPower",
+  "install": "# git clone --depth 1 https://github.com/RunhuaHuang/VisionPower\n# See source for mcpServers config block"
+}

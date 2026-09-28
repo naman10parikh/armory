@@ -1,0 +1,7 @@
+{
+  "name": "kusto-mcp",
+  "description": "Enables AI assistants to query Azure Data Explorer using natural language, eliminating the need to write KQL.",
+  "source_repo": "johnib/kusto-mcp",
+  "source_url": "https://github.com/johnib/kusto-mcp",
+  "install": "npx -y kusto-mcp"
+}

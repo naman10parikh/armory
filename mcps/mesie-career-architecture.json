@@ -1,0 +1,7 @@
+{
+  "name": "mesie-career-architecture",
+  "description": "Provides access to 200 compressed architecture careers (solution, enterprise, cloud, data, security) as an MCP stdio server, enabling career listing, search, and federated envelope invocation.",
+  "source_repo": "ItsNotAILABS/mesie-career-architecture",
+  "source_url": "https://github.com/ItsNotAILABS/mesie-career-architecture",
+  "install": "# git clone --depth 1 https://github.com/ItsNotAILABS/mesie-career-architecture\n# See source for mcpServers config block"
+}

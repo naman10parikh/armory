@@ -1,0 +1,7 @@
+{
+  "name": "mcp-shared-services",
+  "description": "Modular monolithic FastAPI shared AI service platform providing config center, prompt registry, LLM gateway, RAG service, secret manager, tool registry, and MCP server wrapper.",
+  "source_repo": "jasionchen-coder/MCP_Cluster",
+  "source_url": "https://github.com/jasionchen-coder/MCP_Cluster",
+  "install": "# git clone --depth 1 https://github.com/jasionchen-coder/MCP_Cluster\n# See source for mcpServers config block"
+}

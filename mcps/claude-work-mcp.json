@@ -1,0 +1,7 @@
+{
+  "name": "claude-work-mcp",
+  "description": "A local MCP server that connects Claude Code to your work environment through auditable tools for file operations, API calls, and command execution, with safety gates and configuration.",
+  "source_repo": "blaspinto5/claude-work-mcp",
+  "source_url": "https://github.com/blaspinto5/claude-work-mcp",
+  "install": "npx -y claude-work-mcp"
+}

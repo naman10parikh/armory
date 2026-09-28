@@ -1,0 +1,7 @@
+{
+  "name": "aws-cost-explorer",
+  "description": "Enables AI assistants to query and analyze AWS costs and usage via the Cost Explorer API.",
+  "source_repo": "shawnj/aws_mcp",
+  "source_url": "https://github.com/shawnj/aws_mcp",
+  "install": "npx -y aws_mcp"
+}

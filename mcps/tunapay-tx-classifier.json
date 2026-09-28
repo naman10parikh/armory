@@ -1,0 +1,7 @@
+{
+  "name": "tunapay-tx-classifier",
+  "description": "Classifies Solana on-chain transactions into tax categories (e.g., swap, stake, NFT) and exports CSV reports compatible with TurboTax and CoinTracker.",
+  "source_repo": "metaversemm/tunapay-tx-classifier",
+  "source_url": "https://github.com/metaversemm/tunapay-tx-classifier",
+  "install": "# git clone --depth 1 https://github.com/metaversemm/tunapay-tx-classifier\n# See source for mcpServers config block"
+}

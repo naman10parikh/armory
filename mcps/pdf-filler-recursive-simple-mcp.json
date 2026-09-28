@@ -1,0 +1,7 @@
+{
+  "name": "pdf-filler-recursive-simple-mcp",
+  "description": "Provides PDF analysis, data extraction, form filling, and comparison capabilities for Claude and Cursor, supporting both text and scanned documents with OCR.",
+  "source_repo": "songminkyu/pdf-filler-recursive-simple-mcp",
+  "source_url": "https://github.com/songminkyu/pdf-filler-recursive-simple-mcp",
+  "install": "npx -y pdf-filler-recursive-simple-mcp"
+}

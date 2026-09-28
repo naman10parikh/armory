@@ -1,0 +1,7 @@
+{
+  "name": "mcp-officecli-bridge",
+  "description": "Streamable HTTP bridge that exposes OfficeCLI MCP tools (create, view, query, etc.) to Gemini Spark via a hosted server, deployable on Coolify.",
+  "source_repo": "bapakstack/mcp-officecli-bridge",
+  "source_url": "https://github.com/bapakstack/mcp-officecli-bridge",
+  "install": "# git clone --depth 1 https://github.com/bapakstack/mcp-officecli-bridge\n# See source for mcpServers config block"
+}

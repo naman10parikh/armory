@@ -1,0 +1,7 @@
+{
+  "name": "tradingview-alerts-mcp-server",
+  "description": "Enables programmatic management of TradingView alerts via MCP, including creating, listing, pausing, resuming, and deleting alerts with optional webhooks and bulk operations. Authenticates using session cookies and works with strategy alerts.",
+  "source_repo": "daviddme/tradingview-alerts-mcp-server",
+  "source_url": "https://github.com/daviddme/tradingview-alerts-mcp-server",
+  "install": "npx -y tradingview-alerts-mcp-server"
+}

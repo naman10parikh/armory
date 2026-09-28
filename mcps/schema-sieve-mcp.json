@@ -1,0 +1,7 @@
+{
+  "name": "schema-sieve-mcp",
+  "description": "Local MCP tool for understanding JSON Schema files while planning tests, summarizing types, required fields, constraints, and generating placeholder paths without copying data.",
+  "source_repo": "mrfentmen/schema-sieve-mcp",
+  "source_url": "https://github.com/mrfentmen/schema-sieve-mcp",
+  "install": "npx -y schema-sieve-mcp"
+}

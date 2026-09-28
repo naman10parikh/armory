@@ -1,0 +1,7 @@
+{
+  "name": "sts2-modding-mcp",
+  "description": "Provides 151 tools for reverse-engineering, code generation, building, deploying, live scene inspection, and automated playtesting for Slay the Spire 2 modding.",
+  "source_repo": "elliotttate/sts2-modding-mcp",
+  "source_url": "https://github.com/elliotttate/sts2-modding-mcp",
+  "install": "npx -y sts2-modding-mcp"
+}

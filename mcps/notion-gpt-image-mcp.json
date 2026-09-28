@@ -1,0 +1,7 @@
+{
+  "name": "notion-gpt-image-mcp",
+  "description": "A Notion custom MCP server that uses OpenAI's gpt-image-2 to generate images and insert them directly into Notion pages.",
+  "source_repo": "1000ssam/notion-gpt-image-mcp",
+  "source_url": "https://github.com/1000ssam/notion-gpt-image-mcp",
+  "install": "npx -y notion-gpt-image-mcp"
+}

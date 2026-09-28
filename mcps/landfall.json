@@ -1,0 +1,7 @@
+{
+  "name": "landfall",
+  "description": "Enables MCP-capable agents to join Landfall incident war rooms as live investigators, contributing findings and widgets to the incident timeline in realtime while pulling other investigators' discoveries, with single-use share links or authenticated sessions.",
+  "source_repo": "landfalls-ai/landfall-cli",
+  "source_url": "https://github.com/landfalls-ai/landfall-cli",
+  "install": "# git clone --depth 1 https://github.com/landfalls-ai/landfall-cli\n# See source for mcpServers config block"
+}

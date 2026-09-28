@@ -1,0 +1,7 @@
+{
+  "name": "support-ticket-triage-mcp",
+  "description": "A local MCP server for governed support-ticket triage that reads synthetic tickets and knowledge articles, prepares evidence-backed recommendations, and records local audit events.",
+  "source_repo": "MatiasLaukka/Support-Ticket-Triage-MCP",
+  "source_url": "https://github.com/MatiasLaukka/Support-Ticket-Triage-MCP",
+  "install": "npx -y Support-Ticket-Triage-MCP"
+}

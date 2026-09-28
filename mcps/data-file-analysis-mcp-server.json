@@ -1,0 +1,7 @@
+{
+  "name": "data-file-analysis-mcp-server",
+  "description": "Enables analysis of CSV and Parquet files by providing summaries of row and column counts. Includes sample data and tools for easy integration.",
+  "source_repo": "llm-guy/mcp_server_public",
+  "source_url": "https://github.com/llm-guy/mcp_server_public",
+  "install": "# git clone --depth 1 https://github.com/llm-guy/mcp_server_public\n# See source for mcpServers config block"
+}

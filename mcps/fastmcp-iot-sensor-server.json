@@ -1,0 +1,7 @@
+{
+  "name": "fastmcp-iot-sensor-server",
+  "description": "Simulates a network of IoT environmental sensors and exposes their data and controls as MCP tools that any MCP client can query and act on.",
+  "source_repo": "csaad-ai-engineer/fastmcp_iot_sensors",
+  "source_url": "https://github.com/csaad-ai-engineer/fastmcp_iot_sensors",
+  "install": "# git clone --depth 1 https://github.com/csaad-ai-engineer/fastmcp_iot_sensors\n# See source for mcpServers config block"
+}

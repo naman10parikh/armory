@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-uruguay-payments-mcp",
+  "description": "Lets AI agents accept payments in Uruguay via Mercado Pago hosted checkout, supporting cards, cash, and wallet payments.",
+  "source_repo": "junter1989k-ai/uruguay-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/uruguay-payments-mcp",
+  "install": "npx -y uruguay-payments-mcp"
+}

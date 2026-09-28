@@ -1,0 +1,7 @@
+{
+  "name": "imessage-mcp-2",
+  "description": "Local MCP server for reading macOS Messages history and sending iMessages, with security features like opt-in send tools and recipient allowlists.",
+  "source_repo": "tarun101/imessage-mcp",
+  "source_url": "https://github.com/tarun101/imessage-mcp",
+  "install": "npx -y imessage-mcp"
+}

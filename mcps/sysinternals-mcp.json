@@ -1,0 +1,7 @@
+{
+  "name": "sysinternals-mcp",
+  "description": "FastMCP wrapper for Sysinternals CLI tools, enabling system diagnostics like process listing, handle inspection, and memory analysis through natural language.",
+  "source_repo": "sandraschi/sysinternals-mcp",
+  "source_url": "https://github.com/sandraschi/sysinternals-mcp",
+  "install": "npx -y sysinternals-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "beamscope-mcp",
+  "description": "BeamScope gives AI coding agents access to your running BEAM application through a resilient TCP architecture that survives app restarts.",
+  "source_repo": "JediLuke/BeamScope-MCP",
+  "source_url": "https://github.com/JediLuke/BeamScope-MCP",
+  "install": "npx -y BeamScope-MCP"
+}

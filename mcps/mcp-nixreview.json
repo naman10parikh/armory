@@ -1,0 +1,7 @@
+{
+  "name": "mcp-nixreview",
+  "description": "A safety gate for agent-proposed NixOS configuration changes, grading security-relevant option deltas, attesting closures for vulnerabilities, and requiring human approval with a tamper-evident audit ledger.",
+  "source_repo": "pete-builds/mcp-nixreview",
+  "source_url": "https://github.com/pete-builds/mcp-nixreview",
+  "install": "# git clone --depth 1 https://github.com/pete-builds/mcp-nixreview\n# See source for mcpServers config block"
+}

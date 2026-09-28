@@ -1,0 +1,7 @@
+{
+  "name": "glama-status-mcp",
+  "description": "Daily-refreshed Glama TDQS score tracker for any MCP fleet. Scrapes per-tool grades from glama.ai, stores in SQLite with snapshot history and delta tracking, surfaces via MCP tools, Prefab cards, a 6-page web dashboard, and an LLM-powered chat interface.",
+  "source_repo": "sandraschi/glama-status-mcp",
+  "source_url": "https://github.com/sandraschi/glama-status-mcp",
+  "install": "npx -y glama-status-mcp"
+}

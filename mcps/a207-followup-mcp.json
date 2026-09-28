@@ -1,0 +1,7 @@
+{
+  "name": "a207-followup-mcp",
+  "description": "MCP server for pediatric CKD follow-up management, providing tools to schedule follow-ups based on KDIGO 2024 guidelines, retrieve follow-up records, compute adherence scores, and access PEW history.",
+  "source_repo": "ayeyouok/a207-followup-mcp",
+  "source_url": "https://github.com/ayeyouok/a207-followup-mcp",
+  "install": "npx -y a207-followup-mcp"
+}

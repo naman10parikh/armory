@@ -1,0 +1,7 @@
+{
+  "name": "required-fields-validator",
+  "description": "Validates submitted fields against required field names and returns structured validation results. It is a read-only, deterministic tool that does not call external APIs or modify data.",
+  "source_repo": "YanKe1816/required-fields-validator-mcp",
+  "source_url": "https://github.com/YanKe1816/required-fields-validator-mcp",
+  "install": "npx -y required-fields-validator-mcp"
+}

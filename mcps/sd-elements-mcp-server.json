@@ -1,0 +1,7 @@
+{
+  "name": "sd-elements-mcp-server",
+  "description": "A Model Context Protocol server that provides SD Elements API integration. This server enables LLMs to interact with SD Elements security development lifecycle platform.",
+  "source_repo": "iflow-mcp/sde-mcp",
+  "source_url": "https://github.com/iflow-mcp/sde-mcp",
+  "install": "npx -y sde-mcp"
+}

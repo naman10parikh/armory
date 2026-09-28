@@ -1,0 +1,7 @@
+{
+  "name": "winpc-mcp",
+  "description": "Enables remote control of a Windows PC from an iPad via MCP, providing tools for executing commands, managing files, taking screenshots, controlling input, and managing processes.",
+  "source_repo": "MrColder666/winpc-mcp",
+  "source_url": "https://github.com/MrColder666/winpc-mcp",
+  "install": "npx -y winpc-mcp"
+}

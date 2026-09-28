@@ -1,0 +1,7 @@
+{
+  "name": "joshua421",
+  "description": "Enables users to reflect on their day with an LLM and write structured notes into their calendar, creating a memorial of God's faithfulness.",
+  "source_repo": "Kennie12345/joshua421",
+  "source_url": "https://github.com/Kennie12345/joshua421",
+  "install": "# git clone --depth 1 https://github.com/Kennie12345/joshua421\n# See source for mcpServers config block"
+}

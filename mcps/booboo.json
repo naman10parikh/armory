@@ -1,0 +1,7 @@
+{
+  "name": "booboo",
+  "description": "Open-source operational brain that fuses an AI system's agents, memory, knowledge and automations into one rooted, privacy-walled graph, served over MCP with stats, search, node dossiers, neighbors and pathfinding. The same snapshot also renders up to a million nodes in a 3D browser view.",
+  "source_repo": "jessedu29260-netizen/booboo",
+  "source_url": "https://github.com/jessedu29260-netizen/booboo",
+  "install": "# git clone --depth 1 https://github.com/jessedu29260-netizen/booboo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "skippymcp",
+  "description": "An MCP server for controlling Rigol oscilloscopes from an AI assistant. It translates MCP tool calls into SCPI commands over PyVISA.",
+  "source_repo": "krystalmonolith/skippy-mcp",
+  "source_url": "https://github.com/krystalmonolith/skippy-mcp",
+  "install": "npx -y skippy-mcp"
+}

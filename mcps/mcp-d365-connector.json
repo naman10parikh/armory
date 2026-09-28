@@ -1,0 +1,7 @@
+{
+  "name": "mcp-d365-connector",
+  "description": "Enables natural language querying of Dynamics 365 Finance & Operations by using Azure OpenAI to generate OData queries, fetch data, and refine responses.",
+  "source_repo": "UmarSardarMS/mcp-d365-connector",
+  "source_url": "https://github.com/UmarSardarMS/mcp-d365-connector",
+  "install": "# git clone --depth 1 https://github.com/UmarSardarMS/mcp-d365-connector\n# See source for mcpServers config block"
+}

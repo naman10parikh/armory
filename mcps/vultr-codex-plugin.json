@@ -1,0 +1,7 @@
+{
+  "name": "vultr-codex-plugin",
+  "description": "MCP server for managing Vultr VPS instances with safety guards, including preview creation, restricted plans/regions, and exact confirmation strings for mutations.",
+  "source_repo": "wzyonline-1999/vultr-codex-plugin",
+  "source_url": "https://github.com/wzyonline-1999/vultr-codex-plugin",
+  "install": "# git clone --depth 1 https://github.com/wzyonline-1999/vultr-codex-plugin\n# See source for mcpServers config block"
+}

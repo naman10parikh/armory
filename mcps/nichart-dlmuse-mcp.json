@@ -1,0 +1,7 @@
+{
+  "name": "nichart-dlmuse-mcp",
+  "description": "Hosts T1 MRI skull-strip and MUSE ROI segmentation as an MCP server, enabling Claude Code to run segmentations on a remote GPU instance via SSH tunnel with async job processing.",
+  "source_repo": "euroso97/DLMUSE_MCP",
+  "source_url": "https://github.com/euroso97/DLMUSE_MCP",
+  "install": "npx -y DLMUSE_MCP"
+}

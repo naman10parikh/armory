@@ -1,0 +1,7 @@
+{
+  "name": "woody-mcp",
+  "description": "MCP server for Woody, an AI firearms expert that answers questions with verified citations, checks state-specific laws, and routes to specialist agents.",
+  "source_repo": "Gunsmith-Academy/woody-mcp",
+  "source_url": "https://github.com/Gunsmith-Academy/woody-mcp",
+  "install": "npx -y woody-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kryos-mcp",
+  "description": "Governed code execution for AI agents that type-checks, runs, and capability-verifies Kryos code, ensuring agents only run code with declared and allowed capabilities.",
+  "source_repo": "NORTHTEKDevs/kryos-mcp",
+  "source_url": "https://github.com/NORTHTEKDevs/kryos-mcp",
+  "install": "npx -y kryos-mcp"
+}

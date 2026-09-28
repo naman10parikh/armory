@@ -1,0 +1,7 @@
+{
+  "name": "tesla-mcp-server",
+  "description": "Connects Claude with the Tesla Owner API, enabling authentication and data retrieval for Tesla vehicles and solar systems.",
+  "source_repo": "robcerda/tesla-mcp-server",
+  "source_url": "https://github.com/robcerda/tesla-mcp-server",
+  "install": "npx -y tesla-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yt-subs",
+  "description": "Extracts clean text transcripts from YouTube videos using their subtitles and returns them as plain text.",
+  "source_repo": "jvsteiner/yt-subs-mcp",
+  "source_url": "https://github.com/jvsteiner/yt-subs-mcp",
+  "install": "npx -y yt-subs-mcp"
+}

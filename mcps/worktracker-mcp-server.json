@@ -1,0 +1,7 @@
+{
+  "name": "worktracker-mcp-server",
+  "description": "Enables natural language time tracking and booking for WorkTracker via MCP tools, allowing users to assign time, list projects, and manage daily schedules through conversational commands.",
+  "source_repo": "SkyTechNerds/worktracker-mcp",
+  "source_url": "https://github.com/SkyTechNerds/worktracker-mcp",
+  "install": "npx -y worktracker-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "remote-auth-mcp-apim-py",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/remote-auth-mcp-apim-py",
+  "install": "# git clone --depth 1 https://mcp.so/server/remote-auth-mcp-apim-py\n# See source for mcpServers config block"
+}

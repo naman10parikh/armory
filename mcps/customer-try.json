@@ -1,0 +1,7 @@
+{
+  "name": "customer-try",
+  "description": "MCP server for intelligent car sales customer service, providing inventory search, stock checking, and price quoting tools.",
+  "source_repo": "cheng180/MCP-Customer-Agent",
+  "source_url": "https://github.com/cheng180/MCP-Customer-Agent",
+  "install": "# git clone --depth 1 https://github.com/cheng180/MCP-Customer-Agent\n# See source for mcpServers config block"
+}

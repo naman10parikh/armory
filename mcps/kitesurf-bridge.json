@@ -1,0 +1,7 @@
+{
+  "name": "kitesurf-bridge",
+  "description": "MCP server that drives Cloudflare Kitesurf, an agent-first browser on Workers, enabling web page navigation, content extraction, screenshots, PDFs, accessibility trees, and JS evaluation from any MCP client without a local browser or API token.",
+  "source_repo": "TrueNix/kitesurf-bridge",
+  "source_url": "https://github.com/TrueNix/kitesurf-bridge",
+  "install": "# git clone --depth 1 https://github.com/TrueNix/kitesurf-bridge\n# See source for mcpServers config block"
+}

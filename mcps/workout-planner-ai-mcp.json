@@ -1,0 +1,7 @@
+{
+  "name": "workout-planner-ai-mcp",
+  "description": "Enables creating workout plans, tracking progress, suggesting exercises, and calculating training volume through natural language, compliant with MCP protocol.",
+  "source_repo": "CSOAI-ORG/workout-planner-ai-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/workout-planner-ai-mcp",
+  "install": "npx -y workout-planner-ai-mcp"
+}

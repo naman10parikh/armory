@@ -1,0 +1,7 @@
+{
+  "name": "stock-trends-mcp-server",
+  "description": "Local MCP adapter for public Stock Trends API resources, enabling credential-free access to public resources and a workflow cost estimation tool. It does not generate investment advice; it only translates published API responses for MCP clients.",
+  "source_repo": "skotlander/stocktrends-mcp-server",
+  "source_url": "https://github.com/skotlander/stocktrends-mcp-server",
+  "install": "npx -y stocktrends-mcp-server"
+}

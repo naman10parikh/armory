@@ -1,0 +1,7 @@
+{
+  "name": "naukri-mcp",
+  "description": "Enables automation of your own Naukri.com account for job search, job details, applications, saved jobs, profile viewing, and recruiter messaging through MCP-compatible clients.",
+  "source_repo": "556HarishAgarwal/naukri-mcp",
+  "source_url": "https://github.com/556HarishAgarwal/naukri-mcp",
+  "install": "npx -y naukri-mcp"
+}

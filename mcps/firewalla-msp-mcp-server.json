@@ -1,0 +1,7 @@
+{
+  "name": "firewalla-msp-mcp-server",
+  "description": "Provides AI assistants and MCP clients with API access to manage Firewalla MSP resources including boxes, devices, alarms, rules, flows, and target lists.",
+  "source_repo": "unknown-sh/firewalla-msp-mcp-server",
+  "source_url": "https://github.com/unknown-sh/firewalla-msp-mcp-server",
+  "install": "npx -y firewalla-msp-mcp-server"
+}

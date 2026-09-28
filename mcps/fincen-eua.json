@@ -1,0 +1,7 @@
+{
+  "name": "fincen-eua",
+  "description": "Checks names against US FinCEN financial crime lists for compliance and AML due diligence, with a single read-only tool.",
+  "source_repo": "mcp-dir/fincen-mcp",
+  "source_url": "https://github.com/mcp-dir/fincen-mcp",
+  "install": "npx -y fincen-mcp"
+}

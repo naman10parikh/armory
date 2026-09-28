@@ -1,0 +1,7 @@
+{
+  "name": "mcpsentry",
+  "description": "Security scanner and runtime proxy for MCP servers. Catches tool poisoning, prompt injection, and rug-pull attacks (silent tool description changes) before they reach your AI agent. Includes a static scanner and a runtime stdio proxy.",
+  "source_repo": "Roshan6335/mcpsentry",
+  "source_url": "https://github.com/Roshan6335/mcpsentry",
+  "install": "# git clone --depth 1 https://github.com/Roshan6335/mcpsentry\n# See source for mcpServers config block"
+}

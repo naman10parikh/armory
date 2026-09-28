@@ -1,0 +1,7 @@
+{
+  "name": "deutsche-bahn-mcp-server",
+  "description": "Provides unified access to Deutsche Bahn APIs for real-time railway data, station information, timetables, disruptions, parking, and accessibility services.",
+  "source_repo": "PaulvonBerg/db-mcp-server",
+  "source_url": "https://github.com/PaulvonBerg/db-mcp-server",
+  "install": "npx -y db-mcp-server"
+}

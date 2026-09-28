@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fish-server",
+  "description": "Enables text-to-speech generation via Fish Audio models, including voice library browsing and task management.",
+  "source_repo": "AceDataCloud/FishMCP",
+  "source_url": "https://github.com/AceDataCloud/FishMCP",
+  "install": "# git clone --depth 1 https://github.com/AceDataCloud/FishMCP\n# See source for mcpServers config block"
+}

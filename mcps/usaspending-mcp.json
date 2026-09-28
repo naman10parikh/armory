@@ -1,0 +1,7 @@
+{
+  "name": "usaspending-mcp",
+  "description": "A free, key-less MCP server for querying U.S. federal spending data from USAspending.gov, including contracts, grants, loans, recipients, agencies, and geographic breakdowns.",
+  "source_repo": "jsconiers/usaspending-mcp",
+  "source_url": "https://github.com/jsconiers/usaspending-mcp",
+  "install": "npx -y usaspending-mcp"
+}

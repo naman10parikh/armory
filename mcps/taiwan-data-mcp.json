@@ -1,0 +1,7 @@
+{
+  "name": "taiwan-data-mcp",
+  "description": "讓AI助理直接查詢台灣公開資料，包括公司登記、詐騙查核與實價登錄，資料即時且附來源連結。",
+  "source_repo": "kewelin/taiwan-data-mcp",
+  "source_url": "https://github.com/kewelin/taiwan-data-mcp",
+  "install": "npx -y taiwan-data-mcp"
+}

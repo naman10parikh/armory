@@ -1,0 +1,7 @@
+{
+  "name": "paperpilot-ai",
+  "description": "MCP server for semantic research: search arXiv, fetch papers, and answer questions grounded in the actual paper text via RAG tools, resources, and prompts.",
+  "source_repo": "ayushisingh51/PaperPilot-AI",
+  "source_url": "https://github.com/ayushisingh51/PaperPilot-AI",
+  "install": "# git clone --depth 1 https://github.com/ayushisingh51/PaperPilot-AI\n# See source for mcpServers config block"
+}

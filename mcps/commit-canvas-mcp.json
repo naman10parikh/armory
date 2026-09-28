@@ -1,0 +1,7 @@
+{
+  "name": "commit-canvas-mcp",
+  "description": "Analyzes a GitHub repository and user to filter meaningful commits and generate a Cursor Canvas (.canvas.tsx) inclusion tree.",
+  "source_repo": "Cocomong98/commit-canvas-mcp",
+  "source_url": "https://github.com/Cocomong98/commit-canvas-mcp",
+  "install": "npx -y commit-canvas-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "django-firebase-mcp",
+  "description": "Enables AI agents to interact with Firebase services including Authentication, Firestore Database, and Cloud Storage through a standardized MCP protocol.",
+  "source_repo": "raghavdasila/django-firebase-mcp",
+  "source_url": "https://github.com/raghavdasila/django-firebase-mcp",
+  "install": "npx -y django-firebase-mcp"
+}

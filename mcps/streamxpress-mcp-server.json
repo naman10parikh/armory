@@ -1,0 +1,7 @@
+{
+  "name": "streamxpress-mcp-server",
+  "description": "Enables AI to control DekTec StreamXpress for TS stream playback, including file loading, rate adjustment, and TS-over-IP/RF output configuration through remote control.",
+  "source_repo": "FasenChen/StreamXpress_MCP",
+  "source_url": "https://github.com/FasenChen/StreamXpress_MCP",
+  "install": "npx -y StreamXpress_MCP"
+}

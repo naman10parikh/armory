@@ -1,0 +1,7 @@
+{
+  "name": "nucleo-mcp",
+  "description": "Enables AI assistants to search, retrieve, and save Nucleo icons from the user's local library directly into projects.",
+  "source_repo": "AkashRajpurohit/nucleo-mcp",
+  "source_url": "https://github.com/AkashRajpurohit/nucleo-mcp",
+  "install": "npx -y nucleo-mcp"
+}

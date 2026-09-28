@@ -1,0 +1,7 @@
+{
+  "name": "basic-mcp-tools",
+  "description": "A self-hosted MCP server providing private web search, web page fetching, and current date/time tools, powered by a bundled SearXNG instance for API-key-free local search.",
+  "source_repo": "Tyguy047/Basic-MCP-Tools",
+  "source_url": "https://github.com/Tyguy047/Basic-MCP-Tools",
+  "install": "# git clone --depth 1 https://github.com/Tyguy047/Basic-MCP-Tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lido-mcp-server",
+  "description": "Enables AI agents to perform Lido staking operations (stake, unstake, wrap, unwrap, check balances/rewards) via natural language.",
+  "source_repo": "GeObts/lido-mcp",
+  "source_url": "https://github.com/GeObts/lido-mcp",
+  "install": "npx -y lido-mcp"
+}

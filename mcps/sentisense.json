@@ -1,0 +1,7 @@
+{
+  "name": "sentisense",
+  "description": "Hosted, read-only MCP server for US market intelligence: US market mood, per-stock sentiment and the SentiSense Score, sentiment-tagged market-moving news, analyst ratings, and institutional 13F flows.",
+  "source_repo": "SentiSenseApp/sentisense-mcp",
+  "source_url": "https://github.com/SentiSenseApp/sentisense-mcp",
+  "install": "npx -y sentisense-mcp"
+}

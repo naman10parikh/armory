@@ -1,0 +1,7 @@
+{
+  "name": "pythermocalcdb-nasa-mcp",
+  "description": "Enables thermodynamic property calculations (H, S, G, Cp, reaction equilibrium) using NASA-9 polynomial data through natural language or MCP-compatible clients.",
+  "source_repo": "sinagilassi/PyThermoCalcDB-NASA-MCP",
+  "source_url": "https://github.com/sinagilassi/PyThermoCalcDB-NASA-MCP",
+  "install": "npx -y PyThermoCalcDB-NASA-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "influencers-club-mcp-server",
+  "description": "MCP server for the Influencers Club API — creator enrichment, discovery, audience analysis, content data, batch operations, and account management.",
+  "source_repo": "Influencers-Club/influencers-club-mcp",
+  "source_url": "https://github.com/Influencers-Club/influencers-club-mcp",
+  "install": "npx -y influencers-club-mcp"
+}

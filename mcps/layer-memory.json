@@ -1,0 +1,7 @@
+{
+  "name": "layer-memory",
+  "description": "A local-first, Markdown-native AI agent layered memory system that provides MCP tools for storing, recalling, exporting, and importing memories with types like working, persona, and fact.",
+  "source_repo": "Dante926/layer-memory",
+  "source_url": "https://github.com/Dante926/layer-memory",
+  "install": "# git clone --depth 1 https://github.com/Dante926/layer-memory\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "datasaudi-mcp",
+  "description": "Ask about the Saudi economy in plain English or Arabic. No API key or database required.",
+  "source_repo": "mohsinmshabbir/datasaudi-mcp",
+  "source_url": "https://github.com/mohsinmshabbir/datasaudi-mcp",
+  "install": "npx -y datasaudi-mcp"
+}

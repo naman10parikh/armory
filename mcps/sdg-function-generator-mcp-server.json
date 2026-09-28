@@ -1,0 +1,7 @@
+{
+  "name": "sdg-function-generator-mcp-server",
+  "description": "Enables remote control of Siglent SDG series function/arbitrary waveform generators via SCPI over TCP/IP. Provides tools for configuring waveforms, modulation, sweep, burst, and other instrument functions.",
+  "source_repo": "lxkang00/sdg-mcp",
+  "source_url": "https://github.com/lxkang00/sdg-mcp",
+  "install": "npx -y sdg-mcp"
+}

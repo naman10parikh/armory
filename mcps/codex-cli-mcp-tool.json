@@ -1,0 +1,7 @@
+{
+  "name": "codex-cli-mcp-tool",
+  "description": "An MCP server that allows Claude Code to interact with the OpenAI Codex CLI.",
+  "source_repo": "Mr-Tomahawk/codex-cli-mcp-tool",
+  "source_url": "https://github.com/Mr-Tomahawk/codex-cli-mcp-tool",
+  "install": "# git clone --depth 1 https://github.com/Mr-Tomahawk/codex-cli-mcp-tool\n# See source for mcpServers config block"
+}

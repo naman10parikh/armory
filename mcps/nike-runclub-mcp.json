@@ -1,0 +1,7 @@
+{
+  "name": "nike-runclub-mcp",
+  "description": "Provides read-only access to your Nike Run Club running activities, including listing runs and retrieving detailed metrics like distance, pace, and heart rate.",
+  "source_repo": "tsutsutaku/nike-runclub-mcp",
+  "source_url": "https://github.com/tsutsutaku/nike-runclub-mcp",
+  "install": "npx -y nike-runclub-mcp"
+}

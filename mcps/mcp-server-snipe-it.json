@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-snipe-it",
+  "description": "MCP server for the Snipe-IT asset management REST API, enabling read and write operations on assets, licenses, accessories, and more.",
+  "source_repo": "borgels/mcp-server-snipe-it",
+  "source_url": "https://github.com/borgels/mcp-server-snipe-it",
+  "install": "# git clone --depth 1 https://github.com/borgels/mcp-server-snipe-it\n# See source for mcpServers config block"
+}

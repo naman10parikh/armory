@@ -1,0 +1,7 @@
+{
+  "name": "mcp-camptocamp",
+  "description": "Exposes the Camptocamp.org API to LLMs, enabling querying of alpine routes, summit altitudes, and course descriptions with reliable data to avoid hallucinations.",
+  "source_repo": "olaurendeau/mcp-camptocamp",
+  "source_url": "https://github.com/olaurendeau/mcp-camptocamp",
+  "install": "# git clone --depth 1 https://github.com/olaurendeau/mcp-camptocamp\n# See source for mcpServers config block"
+}

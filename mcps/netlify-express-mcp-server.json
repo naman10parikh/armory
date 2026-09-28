@@ -1,0 +1,7 @@
+{
+  "name": "netlify-express-mcp-server",
+  "description": "A serverless MCP server example built with Express and deployed on Netlify Functions, demonstrating how to expose MCP endpoints via a custom URL with proper redirects.",
+  "source_repo": "ballen333/Netlify---MCP",
+  "source_url": "https://github.com/ballen333/Netlify---MCP",
+  "install": "npx -y Netlify---MCP"
+}

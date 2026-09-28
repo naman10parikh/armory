@@ -1,0 +1,7 @@
+{
+  "name": "worker-mcp",
+  "description": "A high-performance MCP server for Cloudflare Workers/Pages with a web dashboard and built-in tools including web search, URL reading, and structured problem-solving.",
+  "source_repo": "NuerSir/mcp-server-worker",
+  "source_url": "https://github.com/NuerSir/mcp-server-worker",
+  "install": "# git clone --depth 1 https://github.com/NuerSir/mcp-server-worker\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wrike-mcp-server",
+  "description": "Complete MCP server for Wrike project management with 70+ tools and 20 interactive React apps, enabling task, project, and workflow management via natural language.",
+  "source_repo": "BusyBee3333/wrike-mcp-2026-complete",
+  "source_url": "https://github.com/BusyBee3333/wrike-mcp-2026-complete",
+  "install": "# git clone --depth 1 https://github.com/BusyBee3333/wrike-mcp-2026-complete\n# See source for mcpServers config block"
+}

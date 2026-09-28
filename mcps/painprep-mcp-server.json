@@ -1,0 +1,7 @@
+{
+  "name": "painprep-mcp-server",
+  "description": "An MCP server for interventional pain medicine that provides Medicare documentation checklists, CPT/ICD-10 coding, ASRA anticoagulation guidance, prior-authorization letters, denial appeals, and research evidence for 85+ procedures.",
+  "source_repo": "Goingparabolic/painprep-mcp-server",
+  "source_url": "https://github.com/Goingparabolic/painprep-mcp-server",
+  "install": "npx -y painprep-mcp-server"
+}

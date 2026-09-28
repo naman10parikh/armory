@@ -1,0 +1,7 @@
+{
+  "name": "dsh-kanban-mcp",
+  "description": "Exposes a filesystem-driven four-lane kanban board as a read-only MCP server, enabling agents to inspect board state, card details, and lane counts.",
+  "source_repo": "chenyinrusi/dsh-kanban-mcp",
+  "source_url": "https://github.com/chenyinrusi/dsh-kanban-mcp",
+  "install": "npx -y dsh-kanban-mcp"
+}

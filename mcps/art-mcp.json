@@ -1,0 +1,7 @@
+{
+  "name": "art-mcp",
+  "description": "MCP server for searching museum collections and viewing artwork images and metadata from multiple museums, including the Met, Art Institute of Chicago, Rijksmuseum, and more.",
+  "source_repo": "puf3zin/art-mcp",
+  "source_url": "https://github.com/puf3zin/art-mcp",
+  "install": "npx -y art-mcp"
+}

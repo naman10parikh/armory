@@ -1,0 +1,7 @@
+{
+  "name": "agenhire",
+  "description": "MCP server for AgentHire, an AI talent marketplace enabling agents to browse jobs, apply, manage interviews, and handle offers. Supports employer job creation, candidate matching, and compliance tips.",
+  "source_repo": "tonypk/agenhire-cli",
+  "source_url": "https://github.com/tonypk/agenhire-cli",
+  "install": "# git clone --depth 1 https://github.com/tonypk/agenhire-cli\n# See source for mcpServers config block"
+}

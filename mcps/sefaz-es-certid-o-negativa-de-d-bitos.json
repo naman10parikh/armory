@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-es-certid-o-negativa-de-d-bitos",
+  "description": "Consulta certidões negativas de débitos da SEFAZ ES em fonte oficial, com uma ferramenta de leitura, paga por uso e hospedada na plataforma.",
+  "source_repo": "mcp-dir/sefaz_es_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_es_certidao_debitos-mcp",
+  "install": "npx -y sefaz_es_certidao_debitos-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "eveoy-mcp",
+  "description": "Enables AI agents to drive real customer visits to physical stores for $24.99 per verified visitor, with tools for pricing, industry listings, and knowledge base queries.",
+  "source_repo": "Eveoy/eveoy-mcp",
+  "source_url": "https://github.com/Eveoy/eveoy-mcp",
+  "install": "npx -y eveoy-mcp"
+}

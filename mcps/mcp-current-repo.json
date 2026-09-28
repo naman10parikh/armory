@@ -1,0 +1,7 @@
+{
+  "name": "mcp-current-repo",
+  "description": "A proof-of-concept MCP server that scopes GitHub tools to the current repository without filesystem access, using MCP roots to carry the repo identity.",
+  "source_repo": "Wolfe-Jam/mcp-current-repo",
+  "source_url": "https://github.com/Wolfe-Jam/mcp-current-repo",
+  "install": "# git clone --depth 1 https://github.com/Wolfe-Jam/mcp-current-repo\n# See source for mcpServers config block"
+}

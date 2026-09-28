@@ -1,0 +1,7 @@
+{
+  "name": "penpot-mcp-server",
+  "description": "Enables AI assistants to create, modify, and manage Penpot designs programmatically, providing full manipulation capabilities for the open-source design tool.",
+  "source_repo": "zcube/penpot-mcp-server",
+  "source_url": "https://github.com/zcube/penpot-mcp-server",
+  "install": "npx -y penpot-mcp-server"
+}

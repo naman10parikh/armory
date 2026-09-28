@@ -1,0 +1,7 @@
+{
+  "name": "promptready-mcp",
+  "description": "Converts PDF and CSV files to Markdown from AI agents via cloud API, with browser-based Google login and saved convert defaults.",
+  "source_repo": "hydrojwh/promptready-mcp",
+  "source_url": "https://github.com/hydrojwh/promptready-mcp",
+  "install": "npx -y promptready-mcp"
+}

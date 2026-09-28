@@ -1,0 +1,7 @@
+{
+  "name": "basic-react",
+  "description": "Provides a get-time tool with a linked React UI for displaying the current time.",
+  "source_repo": "artemreva-hub/Otus.dev-ai-agents.Webinar7.MCP",
+  "source_url": "https://github.com/artemreva-hub/Otus.dev-ai-agents.Webinar7.MCP",
+  "install": "# git clone --depth 1 https://github.com/artemreva-hub/Otus.dev-ai-agents.Webinar7.MCP\n# See source for mcpServers config block"
+}

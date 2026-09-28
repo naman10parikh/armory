@@ -1,0 +1,7 @@
+{
+  "name": "sportsquant-mcp-server",
+  "description": "Provides AI agents with professional-grade tools for expected value calculation, Monte Carlo predictions, historical backtesting, and portfolio risk management in sports betting.",
+  "source_repo": "Veedubin/sportsquant-mcp",
+  "source_url": "https://github.com/Veedubin/sportsquant-mcp",
+  "install": "npx -y sportsquant-mcp"
+}

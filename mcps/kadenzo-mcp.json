@@ -1,0 +1,7 @@
+{
+  "name": "kadenzo-mcp",
+  "description": "Schedule, manage, generate, and analyze social posts across 11 networks (Instagram, TikTok, X, LinkedIn, YouTube, Facebook, Pinterest, Threads, Bluesky, Mastodon, Telegram) from any AI agent — 13 tools covering scheduling, media upload, AI caption generation, best-times, analytics, listening, and co",
+  "source_repo": "jors7/kadenzo-mcp",
+  "source_url": "https://github.com/jors7/kadenzo-mcp",
+  "install": "npx -y kadenzo-mcp"
+}

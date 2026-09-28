@@ -1,0 +1,7 @@
+{
+  "name": "blender-ai-mcp",
+  "description": "Enables AI assistants to control Blender 3D modeling software through a stable, goal-oriented tool API for safer and more reliable 3D scene manipulation.",
+  "source_repo": "PatrykIti/blender-ai-mcp",
+  "source_url": "https://github.com/PatrykIti/blender-ai-mcp",
+  "install": "npx -y blender-ai-mcp"
+}

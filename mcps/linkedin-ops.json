@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-ops",
+  "description": "MCP server that enables AI assistants to search LinkedIn for job posts, save them locally, and manage them via a React dashboard.",
+  "source_repo": "yasir-ali9/linkedin-ops",
+  "source_url": "https://github.com/yasir-ali9/linkedin-ops",
+  "install": "# git clone --depth 1 https://github.com/yasir-ali9/linkedin-ops\n# See source for mcpServers config block"
+}

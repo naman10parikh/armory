@@ -1,0 +1,7 @@
+{
+  "name": "grace-orchestrator-mcp",
+  "description": "MCP server orchestrating local multi-agent workflows with gated lifecycle, handoff events, and host-level continuation.",
+  "source_repo": "Artemyx-DataScientist/GRACE_MCP",
+  "source_url": "https://github.com/Artemyx-DataScientist/GRACE_MCP",
+  "install": "npx -y GRACE_MCP"
+}

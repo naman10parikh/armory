@@ -1,0 +1,7 @@
+{
+  "name": "canopy-mcp",
+  "description": "MCP server for the Get Canopy WordPress site, giving AI agents context over ACF blocks, content, Yoast SEO, menus, HubSpot tooling, and the running change journal.",
+  "source_repo": "falmiron-strsdev/canopy-mcp",
+  "source_url": "https://github.com/falmiron-strsdev/canopy-mcp",
+  "install": "npx -y canopy-mcp"
+}

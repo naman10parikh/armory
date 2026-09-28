@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-silverbullet",
+  "description": "An MCP server that connects a SilverBullet space over its HTTP filesystem API, exposing a scoped prefix of notes to AI agents with read/write/delete capabilities.",
+  "source_repo": "bong-u/mcp-server-silverbullet",
+  "source_url": "https://github.com/bong-u/mcp-server-silverbullet",
+  "install": "# git clone --depth 1 https://github.com/bong-u/mcp-server-silverbullet\n# See source for mcpServers config block"
+}

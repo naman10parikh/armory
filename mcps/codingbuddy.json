@@ -1,0 +1,7 @@
+{
+  "name": "codingbuddy",
+  "description": "A multi-AI MCP server that orchestrates 37 specialist agents across 9 AI tools to measure and improve code quality with session impact reports and quality gates.",
+  "source_repo": "JeremyDev87/codingbuddy",
+  "source_url": "https://github.com/JeremyDev87/codingbuddy",
+  "install": "# git clone --depth 1 https://github.com/JeremyDev87/codingbuddy\n# See source for mcpServers config block"
+}

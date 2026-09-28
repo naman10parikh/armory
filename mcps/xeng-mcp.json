@@ -1,0 +1,7 @@
+{
+  "name": "xeng-mcp",
+  "description": "Enables searching and filtering X/Twitter tweets stored in x-engine, along with a health check tool.",
+  "source_repo": "hinha/xeng-mcp",
+  "source_url": "https://github.com/hinha/xeng-mcp",
+  "install": "npx -y xeng-mcp"
+}

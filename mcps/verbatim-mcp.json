@@ -1,0 +1,7 @@
+{
+  "name": "verbatim-mcp",
+  "description": "Search academic papers and ask research questions with verbatim, cited answers from document collections like the ACL Anthology.",
+  "source_repo": "KRLabsOrg/verbatim-mcp",
+  "source_url": "https://github.com/KRLabsOrg/verbatim-mcp",
+  "install": "npx -y verbatim-mcp"
+}

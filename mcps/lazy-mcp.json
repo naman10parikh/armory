@@ -1,0 +1,7 @@
+{
+  "name": "lazy-mcp",
+  "description": "A proxy MCP server that lazy-loads tools from configured servers on demand, reducing token usage and enabling mid-session server switching.",
+  "source_repo": "Parth3930/lazy-mcp",
+  "source_url": "https://github.com/Parth3930/lazy-mcp",
+  "install": "npx -y lazy-mcp"
+}

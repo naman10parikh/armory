@@ -1,0 +1,7 @@
+{
+  "name": "minutemail-mcp",
+  "description": "Ephemeral mailboxes and a mock OAuth IdP for testing email and auth flows — 39 API-driven tools covering mailboxes, mails, attachments, domains, teams, and mock identities.",
+  "source_repo": "minutemailco/mcp-server",
+  "source_url": "https://github.com/minutemailco/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/minutemailco/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chrome-dom-mcp",
+  "description": "Enables real-time browser control and DOM interaction through a Chrome extension bridge, supporting navigation, snapshots, clicks, screenshots, and JavaScript execution.",
+  "source_repo": "imfaisii/chrome-dom-mcp",
+  "source_url": "https://github.com/imfaisii/chrome-dom-mcp",
+  "install": "npx -y chrome-dom-mcp"
+}

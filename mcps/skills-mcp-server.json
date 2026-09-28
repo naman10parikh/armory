@@ -1,0 +1,7 @@
+{
+  "name": "skills-mcp-server",
+  "description": "Centralized, sandboxed MCP server to manage, execute, and expose advanced Agent Skills to any MCP-capable framework or low-code platform.",
+  "source_repo": "chameleonbr/skills_mcp_server",
+  "source_url": "https://github.com/chameleonbr/skills_mcp_server",
+  "install": "npx -y skills_mcp_server"
+}

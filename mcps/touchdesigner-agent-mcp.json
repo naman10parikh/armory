@@ -1,0 +1,7 @@
+{
+  "name": "touchdesigner-agent-mcp",
+  "description": "Enables LLMs to directly control, introspect, and build TouchDesigner networks in real-time through a Model Context Protocol server.",
+  "source_repo": "axysar/touchdesigner-agent-mcp",
+  "source_url": "https://github.com/axysar/touchdesigner-agent-mcp",
+  "install": "npx -y touchdesigner-agent-mcp"
+}

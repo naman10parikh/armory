@@ -1,0 +1,7 @@
+{
+  "name": "youricp-mcp-server",
+  "description": "Enables AI assistants to enrich contacts and build audiences via the YourICP API. Provides tools to set an API token, submit contact lookups by email or LinkedIn URL, and poll for enrichment results.",
+  "source_repo": "YourICP/mcp-server",
+  "source_url": "https://github.com/YourICP/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/YourICP/mcp-server\n# See source for mcpServers config block"
+}

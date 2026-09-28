@@ -1,0 +1,7 @@
+{
+  "name": "document-buddy",
+  "description": "A no-server MCP toolkit that organizes project wikis from Feishu documents, messages, and more, enabling AI clients to answer questions with cited evidence to prevent hallucinations.",
+  "source_repo": "Hanzhi0807/document-buddy",
+  "source_url": "https://github.com/Hanzhi0807/document-buddy",
+  "install": "# git clone --depth 1 https://github.com/Hanzhi0807/document-buddy\n# See source for mcpServers config block"
+}

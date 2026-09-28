@@ -1,0 +1,7 @@
+{
+  "name": "haltproof",
+  "description": "MCP server for HaltProof's emergency-shutdown orchestration and cryptographic audit-proof layer, enabling AI agents to dry-run or execute cluster halt operations across Slurm, Kubernetes, and IPMI, and verify signed, hash-chained attestation logs.",
+  "source_repo": "RudrenduPaul/HaltProof",
+  "source_url": "https://github.com/RudrenduPaul/HaltProof",
+  "install": "# git clone --depth 1 https://github.com/RudrenduPaul/HaltProof\n# See source for mcpServers config block"
+}

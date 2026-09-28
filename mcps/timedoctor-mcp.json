@@ -1,0 +1,7 @@
+{
+  "name": "timedoctor-mcp",
+  "description": "MCP Server for extracting Time Doctor time tracking data via AI assistants.",
+  "source_repo": "frifster/timedoctor-mcp",
+  "source_url": "https://github.com/frifster/timedoctor-mcp",
+  "install": "npx -y timedoctor-mcp"
+}

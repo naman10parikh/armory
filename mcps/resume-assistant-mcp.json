@@ -1,0 +1,7 @@
+{
+  "name": "resume-assistant-mcp",
+  "description": "An intelligent, zero-cost MCP server that securely parses local resumes and compares them against live job postings for ATS scoring, skill gap analysis, and interview prep.",
+  "source_repo": "rajesh-kayal-dev/resume-assistant-mcp",
+  "source_url": "https://github.com/rajesh-kayal-dev/resume-assistant-mcp",
+  "install": "npx -y resume-assistant-mcp"
+}

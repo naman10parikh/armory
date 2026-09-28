@@ -1,0 +1,7 @@
+{
+  "name": "bugforge-mcp-server",
+  "description": "Enables transforming raw bug notes into structured defect reports (Summary, Steps, Expected vs Actual, Priority) via a prompt template.",
+  "source_repo": "proGabby/bugforge-mcp-server",
+  "source_url": "https://github.com/proGabby/bugforge-mcp-server",
+  "install": "npx -y bugforge-mcp-server"
+}

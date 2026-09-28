@@ -1,0 +1,7 @@
+{
+  "name": "podcast-summarizer-mcp",
+  "description": "Search and discover YouTube channels via natural language, track them, and summarize videos without transcripts using Gemini API.",
+  "source_repo": "kaiding-ucb/podcast-summarizer-mcp",
+  "source_url": "https://github.com/kaiding-ucb/podcast-summarizer-mcp",
+  "install": "npx -y podcast-summarizer-mcp"
+}

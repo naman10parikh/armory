@@ -1,0 +1,7 @@
+{
+  "name": "wisdom-mcp",
+  "description": "MCP server enabling AI agents to participate in the Wisdom Network. Provides tools for knowledge management, trust relationships, and content transformation.",
+  "source_repo": "SandraK82/wisdom-mcp",
+  "source_url": "https://github.com/SandraK82/wisdom-mcp",
+  "install": "npx -y wisdom-mcp"
+}

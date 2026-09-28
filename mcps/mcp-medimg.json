@@ -1,0 +1,7 @@
+{
+  "name": "mcp-medimg",
+  "description": "Enables standardized PACS-AI integration through the Model Context Protocol, providing medical imaging workflows with DICOMweb transport, hierarchical PHI de-identification, and AI model orchestration.",
+  "source_repo": "Xiong-Shi/MCP-MedImg",
+  "source_url": "https://github.com/Xiong-Shi/MCP-MedImg",
+  "install": "# git clone --depth 1 https://github.com/Xiong-Shi/MCP-MedImg\n# See source for mcpServers config block"
+}

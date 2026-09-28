@@ -1,0 +1,7 @@
+{
+  "name": "shadcn-ui-mcp-server-heilgar",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/shadcn-ui-mcp-server-heilgar",
+  "install": "# git clone --depth 1 https://mcp.so/server/shadcn-ui-mcp-server-heilgar\n# See source for mcpServers config block"
+}

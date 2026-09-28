@@ -1,0 +1,7 @@
+{
+  "name": "fema-mcp-server",
+  "description": "Query FEMA disaster declarations, public assistance grants, housing aid, and NFIP flood insurance claims via MCP. Supports STDIO and Streamable HTTP.",
+  "source_repo": "cyanheads/fema-mcp-server",
+  "source_url": "https://github.com/cyanheads/fema-mcp-server",
+  "install": "npx -y fema-mcp-server"
+}

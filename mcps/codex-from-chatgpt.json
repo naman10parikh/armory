@@ -1,0 +1,7 @@
+{
+  "name": "codex-from-chatgpt",
+  "description": "A personal MCP bridge that lets ChatGPT drive a local Codex CLI, translating instructions into Codex app-server threads and returning compact summaries of what Codex did.",
+  "source_repo": "joseanu/codex-from-chatgpt",
+  "source_url": "https://github.com/joseanu/codex-from-chatgpt",
+  "install": "# git clone --depth 1 https://github.com/joseanu/codex-from-chatgpt\n# See source for mcpServers config block"
+}

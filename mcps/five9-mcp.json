@@ -1,0 +1,7 @@
+{
+  "name": "five9-mcp",
+  "description": "MCP server that connects AI assistants to Five9 contact center, allowing management of campaigns, agents, lists, and statistics via natural language commands.",
+  "source_repo": "ryanshatz/five9-mcp",
+  "source_url": "https://github.com/ryanshatz/five9-mcp",
+  "install": "npx -y five9-mcp"
+}

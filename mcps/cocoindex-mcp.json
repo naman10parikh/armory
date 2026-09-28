@@ -1,0 +1,7 @@
+{
+  "name": "cocoindex-mcp",
+  "description": "An MCP server that incrementally indexes repositories and documents into a Postgres + pgvector store using CocoIndex, and exposes semantic search over them.",
+  "source_repo": "datarian/mcp-coco",
+  "source_url": "https://github.com/datarian/mcp-coco",
+  "install": "# git clone --depth 1 https://github.com/datarian/mcp-coco\n# See source for mcpServers config block"
+}

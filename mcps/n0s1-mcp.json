@@ -1,0 +1,7 @@
+{
+  "name": "n0s1-mcp",
+  "description": "Enables AI assistants to scan multiple services and local filesystems for leaked secrets using n0s1 secret-scanning capabilities.",
+  "source_repo": "spark1security/n0s1-mcp",
+  "source_url": "https://github.com/spark1security/n0s1-mcp",
+  "install": "npx -y n0s1-mcp"
+}

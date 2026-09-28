@@ -1,0 +1,7 @@
+{
+  "name": "userology-mcp-server",
+  "description": "Enables AI assistants to interact with the Userology UX research platform for creating and managing studies, interview guides, analytics, and more.",
+  "source_repo": "Userology-Inc/userology-mcp-server",
+  "source_url": "https://github.com/Userology-Inc/userology-mcp-server",
+  "install": "npx -y userology-mcp-server"
+}

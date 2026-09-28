@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arcgis-kinston",
+  "description": "Provides access to City of Kinston, North Carolina's open geospatial data (ArcGIS) through tools for searching datasets, querying layers, and retrieving layer schemas.",
+  "source_repo": "pipeworx-io/mcp-arcgis-kinston",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-kinston",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-kinston\n# See source for mcpServers config block"
+}

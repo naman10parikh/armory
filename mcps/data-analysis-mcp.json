@@ -1,0 +1,7 @@
+{
+  "name": "data-analysis-mcp",
+  "description": "Enables data analysis and visualization operations such as loading CSV/Excel/JSON files, computing summary statistics, generating charts, and exploring datasets via SSE/HTTP.",
+  "source_repo": "BACH-AI-Tools/data-analysis-mcp",
+  "source_url": "https://github.com/BACH-AI-Tools/data-analysis-mcp",
+  "install": "npx -y data-analysis-mcp"
+}

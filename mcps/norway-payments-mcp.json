@@ -1,0 +1,7 @@
+{
+  "name": "norway-payments-mcp",
+  "description": "Allows AI agents to accept payments in Norway via Stripe hosted checkout, supporting cards, Klarna, and digital wallets.",
+  "source_repo": "junter1989k-ai/norway-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/norway-payments-mcp",
+  "install": "npx -y norway-payments-mcp"
+}

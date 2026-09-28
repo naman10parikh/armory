@@ -1,0 +1,7 @@
+{
+  "name": "demo-st",
+  "description": "Enables deploying static websites to a subdomain on demo.st, with tools for subdomain reservation, zip upload, and content management.",
+  "source_repo": "demo-stage/demo.st",
+  "source_url": "https://github.com/demo-stage/demo.st",
+  "install": "# git clone --depth 1 https://github.com/demo-stage/demo.st\n# See source for mcpServers config block"
+}

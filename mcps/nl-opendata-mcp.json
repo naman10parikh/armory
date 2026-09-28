@@ -1,0 +1,7 @@
+{
+  "name": "nl-opendata-mcp",
+  "description": "Enables accessing and querying Dutch government open datasets from CBS and data.overheid.nl, with tools for searching, filtering, downloading, and analyzing data using CSV, Parquet, DuckDB, or Pandas.",
+  "source_repo": "soulnai/nl-opendata-mcp",
+  "source_url": "https://github.com/soulnai/nl-opendata-mcp",
+  "install": "npx -y nl-opendata-mcp"
+}

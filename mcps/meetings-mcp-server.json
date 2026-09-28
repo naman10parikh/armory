@@ -1,0 +1,7 @@
+{
+  "name": "meetings-mcp-server",
+  "description": "Provides read-only access to Google Drive meeting transcripts and Google Calendar events, enabling AI assistants to search, analyze, and retrieve meeting insights.",
+  "source_repo": "ethereumfollowprotocol/google-services-mcp",
+  "source_url": "https://github.com/ethereumfollowprotocol/google-services-mcp",
+  "install": "npx -y google-services-mcp"
+}

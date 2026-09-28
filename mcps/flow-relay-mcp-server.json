@@ -1,0 +1,7 @@
+{
+  "name": "flow-relay-mcp-server",
+  "description": "Enables AI assistants to manage Flow Relay projects, generate handoffs and insights, and interact with integrations like Discord through natural language.",
+  "source_repo": "atrisorb/flowrelay-mcp-server",
+  "source_url": "https://github.com/atrisorb/flowrelay-mcp-server",
+  "install": "npx -y flowrelay-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "scraper-health-mcp",
+  "description": "Enables autonomous self-healing scraper fleet management for Bright Data Scraper Studio, with health checking, anomaly detection, and automated AI-driven scraper repair and approval.",
+  "source_repo": "0xConsole/scraper-health-mcp",
+  "source_url": "https://github.com/0xConsole/scraper-health-mcp",
+  "install": "npx -y scraper-health-mcp"
+}

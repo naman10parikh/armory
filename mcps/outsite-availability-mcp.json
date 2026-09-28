@@ -1,0 +1,7 @@
+{
+  "name": "outsite-availability-mcp",
+  "description": "Enables read-only research of public Outsite locations, quoted stay rates, and individual room calendars.",
+  "source_repo": "kristianeboe/outsite-mcp",
+  "source_url": "https://github.com/kristianeboe/outsite-mcp",
+  "install": "npx -y outsite-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "engineering-operations-mcp",
+  "description": "A safe, read-only MCP server that gives Codex structured access to engineering operations evidence, with validated queries, secret redaction, and audit logging. Provides a search_logs tool for filtering logs by service, environment, severity, and time range.",
+  "source_repo": "chinhong-chua/OpsMCP",
+  "source_url": "https://github.com/chinhong-chua/OpsMCP",
+  "install": "# git clone --depth 1 https://github.com/chinhong-chua/OpsMCP\n# See source for mcpServers config block"
+}

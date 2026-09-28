@@ -1,0 +1,7 @@
+{
+  "name": "swagger-json-mcp",
+  "description": "A powerful MCP server for querying and processing large Swagger/OpenAPI JSON documents, enabling LLMs to efficiently access API documentation without loading entire files.",
+  "source_repo": "LLM-MCP-Servers/swagger-json-mcp",
+  "source_url": "https://github.com/LLM-MCP-Servers/swagger-json-mcp",
+  "install": "npx -y swagger-json-mcp"
+}

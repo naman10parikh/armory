@@ -1,0 +1,7 @@
+{
+  "name": "resume-analyzer-mcp",
+  "description": "MCP server for analyzing resumes, calculating ATS match scores, and suggesting job-tailored improvements.",
+  "source_repo": "M-Sohaib-Siddiqui/resume-analyzer-mcp",
+  "source_url": "https://github.com/M-Sohaib-Siddiqui/resume-analyzer-mcp",
+  "install": "npx -y resume-analyzer-mcp"
+}

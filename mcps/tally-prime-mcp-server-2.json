@@ -1,0 +1,7 @@
+{
+  "name": "tally-prime-mcp-server-2",
+  "description": "Connects Tally Prime ERP data to AI assistants via MCP, enabling natural language queries for financial reports, stock summaries, and ledger balances.",
+  "source_repo": "QalaLabs/tally-mcp-server",
+  "source_url": "https://github.com/QalaLabs/tally-mcp-server",
+  "install": "npx -y tally-mcp-server"
+}

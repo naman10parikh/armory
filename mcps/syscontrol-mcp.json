@@ -1,0 +1,7 @@
+{
+  "name": "syscontrol-mcp",
+  "description": "Enables Claude Desktop to monitor and control your computer system with 90+ real-time tools covering CPU, RAM, GPU, disk, network, processes, and more, plus extensions for file management, code editing, and web research.",
+  "source_repo": "ks6573/SysControl",
+  "source_url": "https://github.com/ks6573/SysControl",
+  "install": "# git clone --depth 1 https://github.com/ks6573/SysControl\n# See source for mcpServers config block"
+}

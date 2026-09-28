@@ -1,0 +1,7 @@
+{
+  "name": "gravity-agent-mcp",
+  "description": "An Omni-Agent MCP server that provides Khmer cultural context and Web3 blockchain query tools, with security and routing built in.",
+  "source_repo": "menmengleap/gravity-agent-mcp",
+  "source_url": "https://github.com/menmengleap/gravity-agent-mcp",
+  "install": "npx -y gravity-agent-mcp"
+}

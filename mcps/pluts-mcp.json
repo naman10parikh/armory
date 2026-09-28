@@ -1,0 +1,7 @@
+{
+  "name": "pluts-mcp",
+  "description": "An OAuth-protected MCP server for Pluts on Cloudflare Workers that provides secure access to ledger data using short keys and Cloudflare Access authentication.",
+  "source_repo": "adamburmister/pluts-mcp",
+  "source_url": "https://github.com/adamburmister/pluts-mcp",
+  "install": "npx -y pluts-mcp"
+}

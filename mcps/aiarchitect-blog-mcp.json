@@ -1,0 +1,7 @@
+{
+  "name": "aiarchitect-blog-mcp",
+  "description": "Provides read-only MCP tools to search and retrieve articles from the AI Architect Korean tech blog, covering topics like MCP, AI agents, and enterprise architecture.",
+  "source_repo": "aiarchitecturedev/aiarchitect-blog-mcp",
+  "source_url": "https://github.com/aiarchitecturedev/aiarchitect-blog-mcp",
+  "install": "npx -y aiarchitect-blog-mcp"
+}

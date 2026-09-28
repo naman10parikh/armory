@@ -1,0 +1,7 @@
+{
+  "name": "io-github-bcllcc-modulor",
+  "description": "Agent-native 2D drafting and 3D modeling kernel with a JSON op protocol, enabling parametric design, BIM semantics, and MCP server access for geometry generation and verification.",
+  "source_repo": "bcllcc/modulor",
+  "source_url": "https://github.com/bcllcc/modulor",
+  "install": "# git clone --depth 1 https://github.com/bcllcc/modulor\n# See source for mcpServers config block"
+}

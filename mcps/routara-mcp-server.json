@@ -1,0 +1,7 @@
+{
+  "name": "routara-mcp-server",
+  "description": "Enables calling 48+ LLMs, image, and video models through Routara's API from Cursor, Claude Desktop, Windsurf, and other MCP clients. Supports chat completions, image generation, and video generation with a single API key.",
+  "source_repo": "36412749-collab/routara-mcp",
+  "source_url": "https://github.com/36412749-collab/routara-mcp",
+  "install": "npx -y routara-mcp"
+}

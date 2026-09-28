@@ -1,0 +1,7 @@
+{
+  "name": "pypen-mcp",
+  "description": "Enables LLM-powered browser automation and security testing with features like browser management, network monitoring, DOM manipulation, and captcha handling.",
+  "source_repo": "D4D25A/PyPen",
+  "source_url": "https://github.com/D4D25A/PyPen",
+  "install": "# git clone --depth 1 https://github.com/D4D25A/PyPen\n# See source for mcpServers config block"
+}

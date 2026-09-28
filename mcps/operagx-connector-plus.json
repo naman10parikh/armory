@@ -1,0 +1,7 @@
+{
+  "name": "operagx-connector-plus",
+  "description": "Adds real browser interaction (click, type, form fill, drag, scroll) to Opera GX via CDP, complementing the read-only OperaGX connector.",
+  "source_repo": "Zindaar/operagx-connector-plus",
+  "source_url": "https://github.com/Zindaar/operagx-connector-plus",
+  "install": "# git clone --depth 1 https://github.com/Zindaar/operagx-connector-plus\n# See source for mcpServers config block"
+}

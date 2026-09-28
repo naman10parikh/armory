@@ -1,0 +1,7 @@
+{
+  "name": "media-gen-mcp",
+  "description": "MCP server for generating and editing images using OpenAI, and creating videos using OpenAI Sora and Google Veo. Enables fetching media from URLs or disk with smart output placement.",
+  "source_repo": "strato-space/media-gen-mcp",
+  "source_url": "https://github.com/strato-space/media-gen-mcp",
+  "install": "npx -y media-gen-mcp"
+}

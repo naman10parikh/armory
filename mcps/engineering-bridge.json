@@ -1,0 +1,7 @@
+{
+  "name": "engineering-bridge",
+  "description": "A local STDIO MCP server that bridges MCP clients to the Codex CLI by sending instructions to a configured workspace, exposing task run, status, and result tools with a read-only sandbox and no remote transport.",
+  "source_repo": "wudy29/engineering-bridge",
+  "source_url": "https://github.com/wudy29/engineering-bridge",
+  "install": "# git clone --depth 1 https://github.com/wudy29/engineering-bridge\n# See source for mcpServers config block"
+}

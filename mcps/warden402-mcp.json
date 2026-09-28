@@ -1,0 +1,7 @@
+{
+  "name": "warden402-mcp",
+  "description": "A stdio MCP server that exposes guard_token, guard_tx, and guard_address endpoints for pre-execution security and trust evaluation of tokens, transactions, and addresses on Base.",
+  "source_repo": "sukrutkrdg/warden402.xyz",
+  "source_url": "https://github.com/sukrutkrdg/warden402.xyz",
+  "install": "# git clone --depth 1 https://github.com/sukrutkrdg/warden402.xyz\n# See source for mcpServers config block"
+}

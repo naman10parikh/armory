@@ -1,0 +1,7 @@
+{
+  "name": "bioe234-mcp-starter",
+  "description": "Framework for building bioengineering automation tools that AI assistants can call via the Model Context Protocol, handling server registration and tool discovery automatically.",
+  "source_repo": "UCB-BioE-Genetic-Design-Automation/ucb-bioe-genetic-design-automation-2026_bioe234-final_project-mcp-gemini-minimal",
+  "source_url": "https://github.com/UCB-BioE-Genetic-Design-Automation/ucb-bioe-genetic-design-automation-2026_bioe234-final_project-mcp-gemini-minimal",
+  "install": "# git clone --depth 1 https://github.com/UCB-BioE-Genetic-Design-Automation/ucb-bioe-genetic-design-automation-2026_bioe234-final_project-mcp-gemini-minimal\n# See source for mcpServers config block"
+}

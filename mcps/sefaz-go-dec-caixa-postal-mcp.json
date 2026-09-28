@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-go-dec-caixa-postal-mcp",
+  "description": "MCP server for consulting SEFAZ GO DEC Caixa Postal from official sources, enabling tax mailbox queries through natural language in MCP-compatible clients.",
+  "source_repo": "mcp-dir/sefaz_go_dec_caixa_postal-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_go_dec_caixa_postal-mcp",
+  "install": "npx -y sefaz_go_dec_caixa_postal-mcp"
+}

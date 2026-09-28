@@ -1,0 +1,7 @@
+{
+  "name": "sideshift-mcp-for-cursor",
+  "description": "Official Cursor plugin enabling natural-language management of your SideShift company—discovering creators, managing campaigns and contracts, communicating with your network, and inspecting analytics through a secure OAuth-linked MCP server.",
+  "source_repo": "SideShiftApp/sideshift-mcp-server",
+  "source_url": "https://github.com/SideShiftApp/sideshift-mcp-server",
+  "install": "npx -y sideshift-mcp-server"
+}

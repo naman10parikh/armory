@@ -1,0 +1,7 @@
+{
+  "name": "zoho-crm-books-mcp-server",
+  "description": "A unified MCP server that integrates Zoho CRM and Zoho Books, enabling AI assistants to manage CRM records, Books customers/invoices, synchronize data, and search across both systems.",
+  "source_repo": "Mgabr90/zoho-mcp-server",
+  "source_url": "https://github.com/Mgabr90/zoho-mcp-server",
+  "install": "npx -y zoho-mcp-server"
+}

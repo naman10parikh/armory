@@ -1,0 +1,7 @@
+{
+  "name": "perplexity-control-mcp",
+  "description": "Comprehensive MCP server providing full programmatic control over the Perplexity API, including agent, sonar, search, embeddings, key management, and cost estimation tools.",
+  "source_repo": "itsablabla/perplexity-control-mcp",
+  "source_url": "https://github.com/itsablabla/perplexity-control-mcp",
+  "install": "npx -y perplexity-control-mcp"
+}

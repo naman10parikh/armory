@@ -1,0 +1,7 @@
+{
+  "name": "pir2-academy-instagram-publisher-mcp",
+  "description": "Local MCP server for preparing previews and publishing single image posts to Instagram after explicit user confirmation, with OAuth and safety safeguards.",
+  "source_repo": "zierocode/pir2-academy-instagram-publisher-mcp",
+  "source_url": "https://github.com/zierocode/pir2-academy-instagram-publisher-mcp",
+  "install": "npx -y pir2-academy-instagram-publisher-mcp"
+}

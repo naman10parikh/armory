@@ -1,0 +1,7 @@
+{
+  "name": "gmail-drive-mcp",
+  "description": "Enables users to access and manage their Gmail and Google Drive data via a Streamlit UI or Claude Desktop, supporting email counts, searches, file listings, and storage queries using OAuth authentication.",
+  "source_repo": "gvbigdata/mcp_gmail_gdrive",
+  "source_url": "https://github.com/gvbigdata/mcp_gmail_gdrive",
+  "install": "# git clone --depth 1 https://github.com/gvbigdata/mcp_gmail_gdrive\n# See source for mcpServers config block"
+}

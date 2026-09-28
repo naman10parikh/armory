@@ -1,0 +1,7 @@
+{
+  "name": "tcs-mcp",
+  "description": "MCP server to operate Fujitsu Technical Computing Suite (TCS/PJM) on Kyushu University's supercomputer 'Genkai' from MCP clients like Codex, supporting direct and SSH modes for job submission, monitoring, and file operations.",
+  "source_repo": "exthnet/tcs_mcp_codex",
+  "source_url": "https://github.com/exthnet/tcs_mcp_codex",
+  "install": "# git clone --depth 1 https://github.com/exthnet/tcs_mcp_codex\n# See source for mcpServers config block"
+}

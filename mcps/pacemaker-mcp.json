@@ -1,0 +1,7 @@
+{
+  "name": "pacemaker-mcp",
+  "description": "MCP server that enables safe, SSH-based interaction with a Pacemaker cluster, offering guarded pcs commands for status queries and controlled operations via MCP clients.",
+  "source_repo": "RishabhKodes/pacemaker-mcp",
+  "source_url": "https://github.com/RishabhKodes/pacemaker-mcp",
+  "install": "npx -y pacemaker-mcp"
+}

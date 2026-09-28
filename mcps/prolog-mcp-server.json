@@ -1,0 +1,7 @@
+{
+  "name": "prolog-mcp-server",
+  "description": "Enables LLMs to define Prolog facts and rules and execute queries via SWI-Prolog for logical reasoning.",
+  "source_repo": "wendelinism/prolog-mcp-server",
+  "source_url": "https://github.com/wendelinism/prolog-mcp-server",
+  "install": "npx -y prolog-mcp-server"
+}

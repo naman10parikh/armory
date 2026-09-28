@@ -1,0 +1,7 @@
+{
+  "name": "semantica-search-mcp",
+  "description": "Semantic code search for Claude Code, enabling natural language codebase indexing and search using AI embeddings.",
+  "source_repo": "minhhua-EH/semantica-search-mcp",
+  "source_url": "https://github.com/minhhua-EH/semantica-search-mcp",
+  "install": "npx -y semantica-search-mcp"
+}

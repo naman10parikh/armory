@@ -1,0 +1,7 @@
+{
+  "name": "vtune-mcp-server",
+  "description": "Wraps Intel VTune Profiler CLI as MCP tools, enabling Claude Code to analyze performance data such as hotspots, summaries, and comparisons via natural language.",
+  "source_repo": "wanggan768q/vtune-mcp-server",
+  "source_url": "https://github.com/wanggan768q/vtune-mcp-server",
+  "install": "npx -y vtune-mcp-server"
+}

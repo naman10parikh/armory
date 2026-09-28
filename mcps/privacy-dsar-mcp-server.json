@@ -1,0 +1,7 @@
+{
+  "name": "privacy-dsar-mcp-server",
+  "description": "Enables GDPR privacy compliance and DSAR management, including creating, tracking, and updating Data Subject Access Requests, checking GDPR compliance, and maintaining a data processing inventory through MCP tools.",
+  "source_repo": "AiAgentKarl/privacy-dsar-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/privacy-dsar-mcp-server",
+  "install": "npx -y privacy-dsar-mcp-server"
+}

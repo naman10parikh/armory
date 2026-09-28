@@ -1,0 +1,7 @@
+{
+  "name": "exponential-mcp",
+  "description": "Connect Claude to your Exponential workspace to manage projects, actions, and OKRs directly from Claude.",
+  "source_repo": "positonic/exponential-mcp",
+  "source_url": "https://github.com/positonic/exponential-mcp",
+  "install": "npx -y exponential-mcp"
+}

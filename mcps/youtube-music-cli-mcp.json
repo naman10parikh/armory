@@ -1,0 +1,7 @@
+{
+  "name": "youtube-music-cli-mcp",
+  "description": "Provides a local stdio MCP server for controlling YouTube Music through the CLI, enabling playback, search, queue management, and library access via MCP-compatible clients.",
+  "source_repo": "Builderstar/youtube-music-cli-mcp-fork",
+  "source_url": "https://github.com/Builderstar/youtube-music-cli-mcp-fork",
+  "install": "# git clone --depth 1 https://github.com/Builderstar/youtube-music-cli-mcp-fork\n# See source for mcpServers config block"
+}

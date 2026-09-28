@@ -1,0 +1,7 @@
+{
+  "name": "ttctl",
+  "description": "MCP server for programmatically accessing your own Toptal Talent profile, including profile management, applications, jobs, timesheets, and more.",
+  "source_repo": "alexey-pelykh/ttctl",
+  "source_url": "https://github.com/alexey-pelykh/ttctl",
+  "install": "# git clone --depth 1 https://github.com/alexey-pelykh/ttctl\n# See source for mcpServers config block"
+}

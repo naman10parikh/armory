@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gui-server",
+  "description": "A modern MCP server that provides interactive graphical user interface, terminal command execution, and AI-powered prompt enhancement for MCP-compatible clients.",
+  "source_repo": "oqwn/mcp-gui-server",
+  "source_url": "https://github.com/oqwn/mcp-gui-server",
+  "install": "# git clone --depth 1 https://github.com/oqwn/mcp-gui-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "readeck-mcp",
+  "description": "Enables AI agents to push generated HTML into a Readeck library with automatic LLM-based auto-labeling and to retrieve and read documents back, turning the library into a read/write knowledge base.",
+  "source_repo": "alozur/readeck-mcp",
+  "source_url": "https://github.com/alozur/readeck-mcp",
+  "install": "npx -y readeck-mcp"
+}

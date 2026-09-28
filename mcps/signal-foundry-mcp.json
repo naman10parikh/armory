@@ -1,0 +1,7 @@
+{
+  "name": "signal-foundry-mcp",
+  "description": "MCP server for monitoring competitor pricing pages, scraping pricing data into SQLite, and answering plain-language questions about pricing plans via Claude.",
+  "source_repo": "JhaNishant/signal_foundry_mcp",
+  "source_url": "https://github.com/JhaNishant/signal_foundry_mcp",
+  "install": "npx -y signal_foundry_mcp"
+}

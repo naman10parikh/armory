@@ -1,0 +1,7 @@
+{
+  "name": "gurufocus-mcp",
+  "description": "MCP server that exposes GuruFocus financial data to AI assistants via 50+ tools for stocks, gurus, insiders, politicians, and economic data with token-efficient TOON format support.",
+  "source_repo": "u-daveblack/gurufocus-mcp",
+  "source_url": "https://github.com/u-daveblack/gurufocus-mcp",
+  "install": "npx -y gurufocus-mcp"
+}

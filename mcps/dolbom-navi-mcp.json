@@ -1,0 +1,7 @@
+{
+  "name": "dolbom-navi-mcp",
+  "description": "A remote MCP server for navigating Korean senior-care support, routing questions across welfare, medical, and administrative services using official sources.",
+  "source_repo": "hjongc/dolbom-navi-mcp",
+  "source_url": "https://github.com/hjongc/dolbom-navi-mcp",
+  "install": "npx -y dolbom-navi-mcp"
+}

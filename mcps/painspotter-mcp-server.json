@@ -1,0 +1,7 @@
+{
+  "name": "painspotter-mcp-server",
+  "description": "Query PainSpotter to discover validated business opportunities and trending pain points mined from Reddit, Hacker News, and Product Hunt.",
+  "source_repo": "archoor/painspotter-mcp",
+  "source_url": "https://github.com/archoor/painspotter-mcp",
+  "install": "npx -y painspotter-mcp"
+}

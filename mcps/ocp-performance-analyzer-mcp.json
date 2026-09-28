@@ -1,0 +1,7 @@
+{
+  "name": "ocp-performance-analyzer-mcp",
+  "description": "A comprehensive, AI-powered performance analysis and monitoring platform for OpenShift/Kubernetes clusters. This project provides Model Context Protocol (MCP) servers for analyzing etcd, network, and OVN-Kubernetes components with deep performance insights, automated root cause analysis, and actiona",
+  "source_repo": "openshift-eng/ocp-performance-analyzer-mcp",
+  "source_url": "https://github.com/openshift-eng/ocp-performance-analyzer-mcp",
+  "install": "npx -y ocp-performance-analyzer-mcp"
+}

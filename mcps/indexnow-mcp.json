@@ -1,0 +1,7 @@
+{
+  "name": "indexnow-mcp",
+  "description": "An MCP server for the IndexNow protocol that lets AI agents instantly submit URLs to Bing, Yandex, Seznam and Naver for fast indexing.",
+  "source_repo": "cyber-kani/indexnow-mcp",
+  "source_url": "https://github.com/cyber-kani/indexnow-mcp",
+  "install": "npx -y indexnow-mcp"
+}

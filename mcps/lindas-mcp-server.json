@@ -1,0 +1,7 @@
+{
+  "name": "lindas-mcp-server",
+  "description": "Enables LLMs to query structured statistical data from the Swiss Federal Archives' Linked Data platform (LINDAS) by translating natural language questions into SPARQL queries against RDF data cubes.",
+  "source_repo": "BFH-JTF/lindas-mcp",
+  "source_url": "https://github.com/BFH-JTF/lindas-mcp",
+  "install": "npx -y lindas-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sqlite-ro-mcp",
+  "description": "Enables read-only access to SQLite databases via MCP, with tools for browsing tables, schemas, and executing SELECT queries securely.",
+  "source_repo": "Pinggu17/sqlite-ro-mcp",
+  "source_url": "https://github.com/Pinggu17/sqlite-ro-mcp",
+  "install": "npx -y sqlite-ro-mcp"
+}

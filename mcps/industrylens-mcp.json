@@ -1,0 +1,7 @@
+{
+  "name": "industrylens-mcp",
+  "description": "Browse IndustryLens's published competitive-intelligence reports and head-to-head competitor comparisons from any AI agent — real, source-backed data.",
+  "source_repo": "IndustryLensOp/industrylens-mcp-docs",
+  "source_url": "https://github.com/IndustryLensOp/industrylens-mcp-docs",
+  "install": "# git clone --depth 1 https://github.com/IndustryLensOp/industrylens-mcp-docs\n# See source for mcpServers config block"
+}

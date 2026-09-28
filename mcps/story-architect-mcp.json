@@ -1,0 +1,7 @@
+{
+  "name": "story-architect-mcp",
+  "description": "An MCP server for AI-assisted novel writing that manages project structure, tracks plot holes and foreshadowing, audits timeline continuity, and provides writing analytics and prompt generation.",
+  "source_repo": "PTCuong-1102/story-architect-mcp",
+  "source_url": "https://github.com/PTCuong-1102/story-architect-mcp",
+  "install": "npx -y story-architect-mcp"
+}

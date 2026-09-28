@@ -1,0 +1,7 @@
+{
+  "name": "re-binary-diff",
+  "description": "Enables read-only binary diff and fingerprinting of files without writing to disk, providing structured diffs and per-section SHA-256 hashes.",
+  "source_repo": "Heretek-RE/re-binary-diff",
+  "source_url": "https://github.com/Heretek-RE/re-binary-diff",
+  "install": "# git clone --depth 1 https://github.com/Heretek-RE/re-binary-diff\n# See source for mcpServers config block"
+}

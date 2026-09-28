@@ -1,0 +1,7 @@
+{
+  "name": "cig-chat-mcp",
+  "description": "MCP server for the cig.chat API that lets you connect Claude, Cursor, or any MCP client to your cig.chat bot to manage subscribers, tags, flows, WhatsApp templates, broadcasts, and shop operations in plain language.",
+  "source_repo": "eyalbarash/cig-chat-mcp",
+  "source_url": "https://github.com/eyalbarash/cig-chat-mcp",
+  "install": "npx -y cig-chat-mcp"
+}

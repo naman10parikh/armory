@@ -1,0 +1,7 @@
+{
+  "name": "ncp-mcp-server",
+  "description": "Enables natural language management of Naver Cloud Platform infrastructure (servers, VPCs, subnets, load balancers, databases) via Claude Desktop.",
+  "source_repo": "pang-ec/ncp-mcp-server",
+  "source_url": "https://github.com/pang-ec/ncp-mcp-server",
+  "install": "npx -y ncp-mcp-server"
+}

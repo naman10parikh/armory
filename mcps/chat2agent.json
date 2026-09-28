@@ -1,0 +1,7 @@
+{
+  "name": "chat2agent",
+  "description": "A bridge that enables the ChatGPT web interface to use local file and shell tools through the official MCP protocol, turning the workspace into an agentic coding environment.",
+  "source_repo": "xiaoxiao341/Chat2Agent",
+  "source_url": "https://github.com/xiaoxiao341/Chat2Agent",
+  "install": "# git clone --depth 1 https://github.com/xiaoxiao341/Chat2Agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "msf-mcp",
+  "description": "A minimal MCP server that exposes Metasploit Framework tools to LLMs via msfrpcd, enabling automated penetration testing and exploitation.",
+  "source_repo": "IMApurbo/msf-mcp",
+  "source_url": "https://github.com/IMApurbo/msf-mcp",
+  "install": "npx -y msf-mcp"
+}

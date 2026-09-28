@@ -1,0 +1,7 @@
+{
+  "name": "smartpro-mcp-server",
+  "description": "A basic skeleton for building MCP servers with Supabase-based authentication, RBAC, and audit logging. It provides tool and resource implementations for hub and contracts platforms, enabling secure, tenant-isolated operations.",
+  "source_repo": "AbuAli85/smartpro-mcp-server",
+  "source_url": "https://github.com/AbuAli85/smartpro-mcp-server",
+  "install": "npx -y smartpro-mcp-server"
+}

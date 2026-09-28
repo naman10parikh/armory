@@ -1,0 +1,7 @@
+{
+  "name": "turath-mcp",
+  "description": "Access over 8,500 classical Arabic and Islamic books with full-text search, page-level reading, and author biographies through the turath.io API.",
+  "source_repo": "opin22/turath-mcp",
+  "source_url": "https://github.com/opin22/turath-mcp",
+  "install": "npx -y turath-mcp"
+}

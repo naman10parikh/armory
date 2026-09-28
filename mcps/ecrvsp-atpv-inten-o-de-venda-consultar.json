@@ -1,0 +1,7 @@
+{
+  "name": "ecrvsp-atpv-inten-o-de-venda-consultar",
+  "description": "Consulta em fonte oficial ECRVSP ATPV (Intenção de Venda) via um servidor MCP somente leitura, hospedado e pago por uso com créditos pré-pagos. Funciona com qualquer cliente MCP compatível com HTTP, como Claude, Cursor e VS Code.",
+  "source_repo": "mcp-dir/ecrvsp_atpv_consultar-mcp",
+  "source_url": "https://github.com/mcp-dir/ecrvsp_atpv_consultar-mcp",
+  "install": "npx -y ecrvsp_atpv_consultar-mcp"
+}

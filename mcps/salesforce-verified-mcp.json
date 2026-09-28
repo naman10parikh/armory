@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-verified-mcp",
+  "description": "A read-only MCP server for Salesforce that returns verified answers or says it cannot, with an evaluation suite that measures its correctness.",
+  "source_repo": "angeljd25-ctrl/salesforce-verified-mcp",
+  "source_url": "https://github.com/angeljd25-ctrl/salesforce-verified-mcp",
+  "install": "npx -y salesforce-verified-mcp"
+}

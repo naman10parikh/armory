@@ -1,0 +1,7 @@
+{
+  "name": "provenance-aware-retrieval-mcp-server",
+  "description": "Exposes a provenance-aware knowledge graph to AI agents over MCP, providing tools like get_fact and search_documents that return precise answers with source citations.",
+  "source_repo": "Raveena01/enterprise-context-retrieval",
+  "source_url": "https://github.com/Raveena01/enterprise-context-retrieval",
+  "install": "# git clone --depth 1 https://github.com/Raveena01/enterprise-context-retrieval\n# See source for mcpServers config block"
+}

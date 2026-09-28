@@ -1,0 +1,7 @@
+{
+  "name": "wsc-writing-style-checker",
+  "description": "Flag AI tells, weasel words, passive voice, duplicate words, long sentences, nominalizations, hedging, and filler adverbs",
+  "source_repo": "theserverlessdev/wsc",
+  "source_url": "https://github.com/theserverlessdev/wsc",
+  "install": "# git clone --depth 1 https://github.com/theserverlessdev/wsc\n# See source for mcpServers config block"
+}

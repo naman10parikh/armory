@@ -1,0 +1,7 @@
+{
+  "name": "mcp-todo-server",
+  "description": "A CRUD todo list server that exposes tools to create, list, and conclude tasks, compatible with any MCP host.",
+  "source_repo": "costaadiego1989/mcp-todo-server",
+  "source_url": "https://github.com/costaadiego1989/mcp-todo-server",
+  "install": "# git clone --depth 1 https://github.com/costaadiego1989/mcp-todo-server\n# See source for mcpServers config block"
+}

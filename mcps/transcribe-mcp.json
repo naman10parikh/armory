@@ -1,0 +1,7 @@
+{
+  "name": "transcribe-mcp",
+  "description": "Transcribe audio/video URLs and detect silence for cutting, with pay-per-call billing in USDC via x402, no account or API key required.",
+  "source_repo": "Soboljem/transcribe-mcp",
+  "source_url": "https://github.com/Soboljem/transcribe-mcp",
+  "install": "npx -y transcribe-mcp"
+}

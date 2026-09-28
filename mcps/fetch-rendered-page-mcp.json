@@ -1,0 +1,7 @@
+{
+  "name": "fetch-rendered-page-mcp",
+  "description": "MCP server that fetches and renders dynamic web pages (SPA) using Chromium, returning content as Markdown or text. It uses lightweight HTTP first with automatic fallback to a browser for JS-heavy sites, and includes SSRF protection, login session support, and batch fetching.",
+  "source_repo": "blono/fetch-rendered-page-mcp",
+  "source_url": "https://github.com/blono/fetch-rendered-page-mcp",
+  "install": "npx -y fetch-rendered-page-mcp"
+}

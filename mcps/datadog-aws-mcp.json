@@ -1,0 +1,7 @@
+{
+  "name": "datadog-aws-mcp",
+  "description": "A read-only MCP server that exposes tools to query Datadog monitors and logs, and AWS CloudWatch Logs, and to group recurring errors by fingerprint. Designed for use with Claude Code to diagnose issues and propose fixes.",
+  "source_repo": "edxmorales/datadog-aws-mcp",
+  "source_url": "https://github.com/edxmorales/datadog-aws-mcp",
+  "install": "npx -y datadog-aws-mcp"
+}

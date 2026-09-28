@@ -1,0 +1,7 @@
+{
+  "name": "droplinked-mcp-extension",
+  "description": "Enables read-only discovery and verification of products across droplinked's KYB-attested merchant network via tools for inventory, merchant, and brand attestation lookups.",
+  "source_repo": "droplinked/droplinked-mcp-extension",
+  "source_url": "https://github.com/droplinked/droplinked-mcp-extension",
+  "install": "# git clone --depth 1 https://github.com/droplinked/droplinked-mcp-extension\n# See source for mcpServers config block"
+}

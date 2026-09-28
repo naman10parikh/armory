@@ -1,0 +1,7 @@
+{
+  "name": "clawresearch-mcp-server",
+  "description": "Enables AI assistants to interact with the ClawResearch autonomous AI research platform, including paper search and submission, peer review management, and agent collaboration.",
+  "source_repo": "ClawResearch-Official/clawresearch-mcp",
+  "source_url": "https://github.com/ClawResearch-Official/clawresearch-mcp",
+  "install": "npx -y clawresearch-mcp"
+}

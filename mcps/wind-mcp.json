@@ -1,0 +1,7 @@
+{
+  "name": "wind-mcp",
+  "description": "Provides AI assistants with direct access to Wind Financial Terminal data, including market data, fundamentals, screening, macro economics, and portfolio management through 23 tools and a resource.",
+  "source_repo": "QmQsun/Wind-MCP",
+  "source_url": "https://github.com/QmQsun/Wind-MCP",
+  "install": "npx -y Wind-MCP"
+}

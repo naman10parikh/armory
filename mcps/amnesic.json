@@ -1,0 +1,7 @@
+{
+  "name": "amnesic",
+  "description": "Persistent semantic memory for your SQL databases. The name is ironic — it remembers everything.",
+  "source_repo": "SurajKGoyal/amnesic",
+  "source_url": "https://github.com/SurajKGoyal/amnesic",
+  "install": "# git clone --depth 1 https://github.com/SurajKGoyal/amnesic\n# See source for mcpServers config block"
+}

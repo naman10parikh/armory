@@ -1,0 +1,7 @@
+{
+  "name": "korean-stat-mcp",
+  "description": "Enables MCP clients like Claude Desktop to search, retrieve, and analyze Korean statistical data from KOSIS OpenAPI.",
+  "source_repo": "seolcoding/korean-stat-mcp",
+  "source_url": "https://github.com/seolcoding/korean-stat-mcp",
+  "install": "npx -y korean-stat-mcp"
+}

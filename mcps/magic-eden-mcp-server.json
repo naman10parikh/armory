@@ -1,0 +1,7 @@
+{
+  "name": "magic-eden-mcp-server",
+  "description": "Enables interaction with the Magic Eden NFT marketplace across multiple blockchains, providing tools for browsing collections, managing NFTs, analyzing portfolios, and detecting arbitrage opportunities through natural language.",
+  "source_repo": "Tairon-ai/magiceden-mcp",
+  "source_url": "https://github.com/Tairon-ai/magiceden-mcp",
+  "install": "npx -y magiceden-mcp"
+}

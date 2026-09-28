@@ -1,0 +1,7 @@
+{
+  "name": "operational-data-mcp",
+  "description": "MCP server that unifies real-time telemetry from industrial systems into a single queryable interface, enabling production visibility, anomaly detection, and operational insights.",
+  "source_repo": "leemarcum/operational-data-mcp",
+  "source_url": "https://github.com/leemarcum/operational-data-mcp",
+  "install": "npx -y operational-data-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "webfetch-mcp-server",
+  "description": "Fetches web pages, converts HTML to markdown, and uses Claude to answer questions about the content.",
+  "source_repo": "NimbleBrainInc/mcp-webfetch",
+  "source_url": "https://github.com/NimbleBrainInc/mcp-webfetch",
+  "install": "# git clone --depth 1 https://github.com/NimbleBrainInc/mcp-webfetch\n# See source for mcpServers config block"
+}

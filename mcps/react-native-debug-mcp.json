@@ -1,0 +1,7 @@
+{
+  "name": "react-native-debug-mcp",
+  "description": "Enables AI agents to inspect, log, and control React Native apps on Android emulators or iOS simulators, including UI tree, tap, scroll, and hot reload.",
+  "source_repo": "zersys/rn-debug-mcp",
+  "source_url": "https://github.com/zersys/rn-debug-mcp",
+  "install": "npx -y rn-debug-mcp"
+}

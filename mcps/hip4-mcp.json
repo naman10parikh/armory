@@ -1,0 +1,7 @@
+{
+  "name": "hip4-mcp",
+  "description": "Provides read-only tools for discovering, analyzing, and monitoring Hyperliquid HIP-4 prediction markets (outcome trading) on testnet.",
+  "source_repo": "yashhsm/hip4-mcp",
+  "source_url": "https://github.com/yashhsm/hip4-mcp",
+  "install": "npx -y hip4-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "houjin-bangou-api-mcp",
+  "description": "MCP server for the Japan National Tax Agency Corporate Number API, enabling corporate number lookup and search via local AI clients.",
+  "source_repo": "yamayued/houjin-bangou-api-mcp",
+  "source_url": "https://github.com/yamayued/houjin-bangou-api-mcp",
+  "install": "npx -y houjin-bangou-api-mcp"
+}

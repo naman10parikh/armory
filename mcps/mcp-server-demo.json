@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-demo",
-  "description": "Mcp Server Demo MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "schwannden/mcp-server-demo",
   "source_url": "https://mcp.so/server/mcp-server-demo/schwannden",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-demo/schwannden\n# See source for mcpServers config block"

@@ -1,0 +1,7 @@
+{
+  "name": "hazmat-cfr-mcp",
+  "description": "Enables AI agents to look up and validate hazardous materials shipping descriptions using public 49 CFR citations, providing structured JSON with proper shipping names, hazard classes, labels, and regulatory references.",
+  "source_repo": "andretaki/hazmat-cfr-mcp",
+  "source_url": "https://github.com/andretaki/hazmat-cfr-mcp",
+  "install": "npx -y hazmat-cfr-mcp"
+}

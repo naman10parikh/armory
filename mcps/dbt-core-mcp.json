@@ -1,0 +1,7 @@
+{
+  "name": "dbt-core-mcp",
+  "description": "Enables interaction with dbt projects via the Model Context Protocol for data analysis and insights.",
+  "source_repo": "iamsocool24/dbt-core-mcp",
+  "source_url": "https://github.com/iamsocool24/dbt-core-mcp",
+  "install": "npx -y dbt-core-mcp"
+}

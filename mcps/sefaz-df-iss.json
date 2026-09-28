@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-df-iss",
+  "description": "Enables querying ISS (tax) information from the official SEFAZ DF source using a single read-only tool.",
+  "source_repo": "mcp-dir/sefaz_df_iss-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_df_iss-mcp",
+  "install": "npx -y sefaz_df_iss-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "strands-hub-mcp",
+  "description": "MCP server to manage agents, prompts, sessions, and metrics using strands-hub data stored in S3. Provides tools for listing agents, creating prompt versions, and querying run metrics.",
+  "source_repo": "labeveryday/strands-hub-mcp",
+  "source_url": "https://github.com/labeveryday/strands-hub-mcp",
+  "install": "npx -y strands-hub-mcp"
+}

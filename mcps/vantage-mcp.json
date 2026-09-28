@@ -1,0 +1,7 @@
+{
+  "name": "vantage-mcp",
+  "description": "Checks whether ChatGPT, Perplexity, and Gemini cite your brand for a given keyword, and who's winning the citation battle for it instead.",
+  "source_repo": "vantagemcp/vantage-mcp",
+  "source_url": "https://github.com/vantagemcp/vantage-mcp",
+  "install": "npx -y vantage-mcp"
+}

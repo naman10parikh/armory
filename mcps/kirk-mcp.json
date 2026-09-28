@@ -1,0 +1,7 @@
+{
+  "name": "kirk-mcp",
+  "description": "MCP server exposing Kirk, an algorithm for real-time unsupervised pairwise structural anomaly detection, as a set of validation and discovery tools. It enables scoring of L2 order-book data, model enumeration, and secure attestation of engine identity.",
+  "source_repo": "Kavara-AI/kirk-mcp",
+  "source_url": "https://github.com/Kavara-AI/kirk-mcp",
+  "install": "npx -y kirk-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cbetamcp-workers",
+  "description": "Cloudflare Workers 版 MCP 服务器，提供 CBETA 佛经数据库的搜索与查询工具，支持关键词、典籍、作者等检索功能。",
+  "source_repo": "hiing/CbetaMCP",
+  "source_url": "https://github.com/hiing/CbetaMCP",
+  "install": "# git clone --depth 1 https://github.com/hiing/CbetaMCP\n# See source for mcpServers config block"
+}

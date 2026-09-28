@@ -1,0 +1,7 @@
+{
+  "name": "naver-search-mcp-server",
+  "description": "Provides tools to search Naver services (web, news, blog, etc.) and analyze search trends using Naver DataLab, with all required MCP protocol methods implemented for compatibility with Cursor and Claude Desktop.",
+  "source_repo": "floatingcloud/naver-search-mcp-fixed",
+  "source_url": "https://github.com/floatingcloud/naver-search-mcp-fixed",
+  "install": "# git clone --depth 1 https://github.com/floatingcloud/naver-search-mcp-fixed\n# See source for mcpServers config block"
+}

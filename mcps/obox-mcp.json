@@ -1,0 +1,7 @@
+{
+  "name": "obox-mcp",
+  "description": "Obox MCP is a development toolkit that enables AI agents to autonomously execute system commands, manage files, and navigate projects within the IDE.",
+  "source_repo": "vinhgiga/obox-mcp",
+  "source_url": "https://github.com/vinhgiga/obox-mcp",
+  "install": "npx -y obox-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nan-mcp-server",
+  "description": "MCP server exposing NaN API media tools (image generation/editing, text-to-speech, speech-to-text, embeddings, reranking) for any MCP-compatible client.",
+  "source_repo": "luciferfran/nan-mcp-server",
+  "source_url": "https://github.com/luciferfran/nan-mcp-server",
+  "install": "npx -y nan-mcp-server"
+}

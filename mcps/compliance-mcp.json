@@ -1,0 +1,7 @@
+{
+  "name": "compliance-mcp",
+  "description": "Provides regulatory and compliance intelligence from free government sources, including rules, recalls, enforcement actions, and comment deadlines, classified by industry and severity.",
+  "source_repo": "FoundryNet/compliance-mcp",
+  "source_url": "https://github.com/FoundryNet/compliance-mcp",
+  "install": "npx -y compliance-mcp"
+}

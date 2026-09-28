@@ -1,0 +1,7 @@
+{
+  "name": "procuradoria-geral-do-estado-mt-d-vida-ativa",
+  "description": "Enables querying of active debt information from the official source of the Attorney General of the State of Mato Grosso. Provides a read-only MCP tool to consult debt status via a hosted HTTP API with prepaid credits.",
+  "source_repo": "mcp-dir/pge_mt_divida_ativa-mcp",
+  "source_url": "https://github.com/mcp-dir/pge_mt_divida_ativa-mcp",
+  "install": "npx -y pge_mt_divida_ativa-mcp"
+}

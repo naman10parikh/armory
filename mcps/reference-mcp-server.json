@@ -1,0 +1,7 @@
+{
+  "name": "reference-mcp-server",
+  "description": "A demo MCP server for validating security scanning capabilities, featuring intentional security anti-patterns such as email exfiltration, SSRF, and hardcoded fake secrets.",
+  "source_repo": "derwarre/mcp-reference-server",
+  "source_url": "https://github.com/derwarre/mcp-reference-server",
+  "install": "# git clone --depth 1 https://github.com/derwarre/mcp-reference-server\n# See source for mcpServers config block"
+}

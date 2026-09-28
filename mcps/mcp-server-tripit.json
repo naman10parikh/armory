@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-tripit",
+  "description": "Enables interaction with TripIt travel planning service, allowing users to manage trips, hotel reservations, flights, transport, activities, and documents via natural language.",
+  "source_repo": "dvcrn/mcp-server-tripit",
+  "source_url": "https://github.com/dvcrn/mcp-server-tripit",
+  "install": "# git clone --depth 1 https://github.com/dvcrn/mcp-server-tripit\n# See source for mcpServers config block"
+}

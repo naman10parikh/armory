@@ -1,0 +1,7 @@
+{
+  "name": "spider-mcp",
+  "description": "An MCP server that enables agents to automate Douyin and Xiaohongshu, including login, search, scraping, publishing, and commenting.",
+  "source_repo": "spiriteZeek/spider-mcp",
+  "source_url": "https://github.com/spiriteZeek/spider-mcp",
+  "install": "npx -y spider-mcp"
+}

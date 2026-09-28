@@ -1,0 +1,7 @@
+{
+  "name": "insight-mcp",
+  "description": "Enables hybrid document search (BM25 and dense) over a configurable corpus via MCP tools, returning passages and sources for AI agents to cite in answers.",
+  "source_repo": "Airohh/insight-mcp",
+  "source_url": "https://github.com/Airohh/insight-mcp",
+  "install": "npx -y insight-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lorcana-mcp-playtest-platform",
+  "description": "Enables AI agents to play Disney Lorcana TCG matches over MCP, with tools for card search, deck validation, match creation, state observation, legal actions, and moves. Supports AI-vs-AI play and a live spectator board.",
+  "source_repo": "kschltz/lorcana-mcp-platform",
+  "source_url": "https://github.com/kschltz/lorcana-mcp-platform",
+  "install": "# git clone --depth 1 https://github.com/kschltz/lorcana-mcp-platform\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "data-world-mcp",
+  "description": "Exposes data.world's catalog, glossary, lineage, and SQL/SPARQL query APIs to LLM agents, enabling natural language interaction with enterprise data assets.",
+  "source_repo": "srikar-pasumarthy/data_world_mcp",
+  "source_url": "https://github.com/srikar-pasumarthy/data_world_mcp",
+  "install": "npx -y data_world_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "planwire-mcp",
+  "description": "UK planning application data for AI agents. Search, look up, and geo-query every UK planning application from Claude, Cursor, or any MCP client — conversationally.",
+  "source_repo": "beshogun/planwire-mcp",
+  "source_url": "https://github.com/beshogun/planwire-mcp",
+  "install": "npx -y planwire-mcp"
+}

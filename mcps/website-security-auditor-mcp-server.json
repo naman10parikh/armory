@@ -1,0 +1,7 @@
+{
+  "name": "website-security-auditor-mcp-server",
+  "description": "Provides a 'scan_website' tool to analyze target websites for security vulnerabilities by consuming the Website Security Auditor REST API.",
+  "source_repo": "deepanshuverma022/mcp",
+  "source_url": "https://github.com/deepanshuverma022/mcp",
+  "install": "# git clone --depth 1 https://github.com/deepanshuverma022/mcp\n# See source for mcpServers config block"
+}

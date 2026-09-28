@@ -1,0 +1,7 @@
+{
+  "name": "owm-mcp-server",
+  "description": "MCP server providing Google Workspace tools (e.g., Drive browsing/search) and a peer channel for presence and messaging. Enables natural-language interaction with these tools via MCP-compatible clients like Claude.",
+  "source_repo": "capnkeith/one-world-montessori",
+  "source_url": "https://github.com/capnkeith/one-world-montessori",
+  "install": "# git clone --depth 1 https://github.com/capnkeith/one-world-montessori\n# See source for mcpServers config block"
+}

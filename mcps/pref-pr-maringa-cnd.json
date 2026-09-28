@@ -1,0 +1,7 @@
+{
+  "name": "pref-pr-maringa-cnd",
+  "description": "MCP server that provides a single read-only tool to query official debt certificates (Certidão Negativa de Débitos) for taxpayers in Maringá, PR, Brazil, enabling AI assistants to access this data through natural language.",
+  "source_repo": "mcp-dir/pref_pr_maringa_cnd-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_pr_maringa_cnd-mcp",
+  "install": "npx -y pref_pr_maringa_cnd-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "contract-sentinel",
+  "description": "Enables LLMs to ingest and analyze legal agreements, compute risk scores, and monitor non-compliant clauses through MCP tools like ingest, fetch_contracts, and run_analysis.",
+  "source_repo": "sachin0610-srm/contract-sentinel",
+  "source_url": "https://github.com/sachin0610-srm/contract-sentinel",
+  "install": "# git clone --depth 1 https://github.com/sachin0610-srm/contract-sentinel\n# See source for mcpServers config block"
+}

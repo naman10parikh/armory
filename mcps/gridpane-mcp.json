@@ -1,0 +1,7 @@
+{
+  "name": "gridpane-mcp",
+  "description": "Manage GridPane WordPress servers and sites through MCP clients like Claude or Cursor, enabling server and site operations via natural language.",
+  "source_repo": "fenil0020/gridpane-mcp",
+  "source_url": "https://github.com/fenil0020/gridpane-mcp",
+  "install": "npx -y gridpane-mcp"
+}

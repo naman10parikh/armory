@@ -1,0 +1,7 @@
+{
+  "name": "web-data-mcp",
+  "description": "An MCP server that runs Apify scraping actors with quality-gated validation, scoring, and retries, returning embedding-ready chunks for AI agents.",
+  "source_repo": "fctpe/web-data-mcp",
+  "source_url": "https://github.com/fctpe/web-data-mcp",
+  "install": "npx -y web-data-mcp"
+}

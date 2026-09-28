@@ -1,0 +1,7 @@
+{
+  "name": "jlpt-study-mcp-server",
+  "description": "Connects Claude Desktop to personal Japanese study data, including Anki due cards and a study session log, enabling card retrieval, session logging, streak tracking, and interactive quizzes.",
+  "source_repo": "NeuralDarsh/jlpt-mcp-server",
+  "source_url": "https://github.com/NeuralDarsh/jlpt-mcp-server",
+  "install": "npx -y jlpt-mcp-server"
+}

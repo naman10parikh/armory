@@ -1,0 +1,7 @@
+{
+  "name": "roblox-3d-generator-mcp",
+  "description": "Generates JSON for Roblox Studio 3D models from natural language prompts using the Anthropic API, allowing creation and modification of objects.",
+  "source_repo": "rubbish03/Roblox-3D-MCP",
+  "source_url": "https://github.com/rubbish03/Roblox-3D-MCP",
+  "install": "npx -y Roblox-3D-MCP"
+}

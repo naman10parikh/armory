@@ -1,0 +1,7 @@
+{
+  "name": "twincat-mcp",
+  "description": "MCP server for TwinCAT 3 PLC development enabling AI coding agents to build, configure, deploy, and debug TwinCAT PLC projects through a standard tool interface.",
+  "source_repo": "qubernetic/TwinCat-MCP-Docs",
+  "source_url": "https://github.com/qubernetic/TwinCat-MCP-Docs",
+  "install": "# git clone --depth 1 https://github.com/qubernetic/TwinCat-MCP-Docs\n# See source for mcpServers config block"
+}

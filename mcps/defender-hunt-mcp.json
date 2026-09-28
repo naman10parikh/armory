@@ -1,0 +1,7 @@
+{
+  "name": "defender-hunt-mcp",
+  "description": "Enables security investigation and threat hunting through Microsoft Defender and Entra ID, with 31 tools for KQL queries, alerts, threat intelligence, identity investigation, and advanced threat hunting.",
+  "source_repo": "Soucheff/DefenderHuntMCP",
+  "source_url": "https://github.com/Soucheff/DefenderHuntMCP",
+  "install": "# git clone --depth 1 https://github.com/Soucheff/DefenderHuntMCP\n# See source for mcpServers config block"
+}

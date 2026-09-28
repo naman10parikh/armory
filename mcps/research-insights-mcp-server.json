@@ -1,0 +1,7 @@
+{
+  "name": "research-insights-mcp-server",
+  "description": "Supercharge Claude Desktop with bulk analysis of 1500+ user research calls, validation workflows, and Signal export capabilities.",
+  "source_repo": "ecidk/mcp-research-insights",
+  "source_url": "https://github.com/ecidk/mcp-research-insights",
+  "install": "# git clone --depth 1 https://github.com/ecidk/mcp-research-insights\n# See source for mcpServers config block"
+}

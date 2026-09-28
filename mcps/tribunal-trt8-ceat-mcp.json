@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trt8-ceat-mcp",
+  "description": "MCP server for consulting the Electronic Certificate of Labor Actions (CEAT) from TRT8, providing read-only access to labor lawsuit certificates.",
+  "source_repo": "mcp-dir/tribunal_trt8_ceat-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trt8_ceat-mcp",
+  "install": "npx -y tribunal_trt8_ceat-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nfl-data-mcp",
+  "description": "A factual NFL data server that provides player search, profiles, statistics, schedules, rosters, and more via MCP tools, with automatic on-demand retrieval and transparent caching from nflverse.",
+  "source_repo": "malav-majmudar/nfl-data-mcp",
+  "source_url": "https://github.com/malav-majmudar/nfl-data-mcp",
+  "install": "npx -y nfl-data-mcp"
+}

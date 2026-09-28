@@ -1,0 +1,7 @@
+{
+  "name": "telegram-ads",
+  "description": "Provides typed tools for ads.telegram.org, enabling login via Playwright and a read-only watcher through a local stdio MCP server.",
+  "source_repo": "sh0tn1k/telegram-ads",
+  "source_url": "https://github.com/sh0tn1k/telegram-ads",
+  "install": "# git clone --depth 1 https://github.com/sh0tn1k/telegram-ads\n# See source for mcpServers config block"
+}

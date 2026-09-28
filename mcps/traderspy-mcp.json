@@ -1,0 +1,7 @@
+{
+  "name": "traderspy-mcp",
+  "description": "Connect AI assistants to TraderSpy's live crypto futures data, including AI trading signals, smart money/whale tracking, market data, and read-only access to your own account.",
+  "source_repo": "target1m/traderspy-mcp",
+  "source_url": "https://github.com/target1m/traderspy-mcp",
+  "install": "npx -y traderspy-mcp"
+}

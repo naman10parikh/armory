@@ -1,0 +1,7 @@
+{
+  "name": "repo-context-forge",
+  "description": "MCP server that inspects local codebases and generates source-grounded context packs for coding agents, with tools for repository search, symbols, dependencies, Git analysis, and context generation.",
+  "source_repo": "negativexq/repo-context-forge",
+  "source_url": "https://github.com/negativexq/repo-context-forge",
+  "install": "# git clone --depth 1 https://github.com/negativexq/repo-context-forge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ai-assistant-iris",
+  "description": "Provides web search and code execution capabilities using OpenAI models, with optional code interpreter and conversation continuity via response IDs.",
+  "source_repo": "mokemokechicken/mcp-ai-assistant-iris",
+  "source_url": "https://github.com/mokemokechicken/mcp-ai-assistant-iris",
+  "install": "# git clone --depth 1 https://github.com/mokemokechicken/mcp-ai-assistant-iris\n# See source for mcpServers config block"
+}

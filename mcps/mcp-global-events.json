@@ -1,0 +1,7 @@
+{
+  "name": "mcp-global-events",
+  "description": "An MCP server that dynamically sources global technology events, communities, and niche networking mixers from Luma, Eventbrite, Meetup, and fallback search sources, enabling event discovery and community finding via natural language.",
+  "source_repo": "Nickfx9/event-manager-mcp",
+  "source_url": "https://github.com/Nickfx9/event-manager-mcp",
+  "install": "npx -y event-manager-mcp"
+}

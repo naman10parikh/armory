@@ -1,0 +1,7 @@
+{
+  "name": "doorprofit-crime-neighborhood-data",
+  "description": "US crime safety scores, recent incidents, neighborhood demographics, rent data, and registered-offender search by address. Free tier available.",
+  "source_repo": "shawndoor/doorprofit-mcp",
+  "source_url": "https://github.com/shawndoor/doorprofit-mcp",
+  "install": "npx -y doorprofit-mcp"
+}

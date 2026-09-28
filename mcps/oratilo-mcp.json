@@ -1,0 +1,7 @@
+{
+  "name": "oratilo-mcp",
+  "description": "Enables agents to check and retrieve concept-structured YouTube video summaries from the oratilo library via lookup and full-text search tools, avoiding redundant summarization work.",
+  "source_repo": "oratilo/oratilo-mcp",
+  "source_url": "https://github.com/oratilo/oratilo-mcp",
+  "install": "npx -y oratilo-mcp"
+}

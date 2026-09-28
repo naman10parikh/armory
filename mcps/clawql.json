@@ -1,0 +1,7 @@
+{
+  "name": "clawql",
+  "description": "An MCP server for API discovery and execution with a token-efficient search -> execute workflow over OpenAPI, Google Discovery, and optional native GraphQL and gRPC sources.",
+  "source_repo": "danielsmithdevelopment/ClawQL",
+  "source_url": "https://github.com/danielsmithdevelopment/ClawQL",
+  "install": "# git clone --depth 1 https://github.com/danielsmithdevelopment/ClawQL\n# See source for mcpServers config block"
+}

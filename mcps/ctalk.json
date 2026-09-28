@@ -1,0 +1,7 @@
+{
+  "name": "ctalk",
+  "description": "Enables coworkers to register profiles, ask questions, check inboxes, propose draft responses, and send approved replies through Claude Code.",
+  "source_repo": "RadonUmar/ctalk",
+  "source_url": "https://github.com/RadonUmar/ctalk",
+  "install": "# git clone --depth 1 https://github.com/RadonUmar/ctalk\n# See source for mcpServers config block"
+}

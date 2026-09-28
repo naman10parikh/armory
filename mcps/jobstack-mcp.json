@@ -1,0 +1,7 @@
+{
+  "name": "jobstack-mcp",
+  "description": "Enables searching and retrieving job postings from multiple job boards (USAJOBS, Adzuna, Jooble, The Muse, Reed, and ATS) through the JobStack API, exposing search_jobs and get_job as MCP tools.",
+  "source_repo": "IsaiahDupree/jobstack-mcp",
+  "source_url": "https://github.com/IsaiahDupree/jobstack-mcp",
+  "install": "npx -y jobstack-mcp"
+}

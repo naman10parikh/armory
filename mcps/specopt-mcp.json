@@ -1,0 +1,7 @@
+{
+  "name": "specopt-mcp",
+  "description": "Enables prompt and code optimization using DSPy and MCP, with tools for optimizing agent files, specifications, and skills.",
+  "source_repo": "nafwa03/specopt-mcp",
+  "source_url": "https://github.com/nafwa03/specopt-mcp",
+  "install": "npx -y specopt-mcp"
+}

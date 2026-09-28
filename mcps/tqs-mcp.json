@@ -1,0 +1,7 @@
+{
+  "name": "tqs-mcp",
+  "description": "MCP server for TQS structural engineering CAD/analysis software, enabling Claude to read building models, extract drawing data, run structural processing, and script against the TQS API.",
+  "source_repo": "carlostavares-manager-MNGT/tqs-mcp",
+  "source_url": "https://github.com/carlostavares-manager-MNGT/tqs-mcp",
+  "install": "npx -y tqs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "inventor-mcp",
+  "description": "MCP server for parametric 3D modeling in Autodesk Inventor, enabling natural language control of sketching, extrusion, hole features, and sheet metal operations.",
+  "source_repo": "NeonGlay/inventor-mcp",
+  "source_url": "https://github.com/NeonGlay/inventor-mcp",
+  "install": "npx -y inventor-mcp"
+}

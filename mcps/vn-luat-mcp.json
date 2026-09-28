@@ -1,0 +1,7 @@
+{
+  "name": "vn-luat-mcp",
+  "description": "MCP server to query Vietnamese law (legal code and case law) with full-text search supporting diacriticless input, enabling retrieval of articles, chapters, subjects, and precedents via Claude.",
+  "source_repo": "phuocnguyen1308-creator/vn-luat-mcp",
+  "source_url": "https://github.com/phuocnguyen1308-creator/vn-luat-mcp",
+  "install": "npx -y vn-luat-mcp"
+}

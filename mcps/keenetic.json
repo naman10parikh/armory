@@ -1,0 +1,7 @@
+{
+  "name": "keenetic",
+  "description": "Enables AI agents to manage Keenetic routers through the same RCI API used by the router's web interface, working directly over the local network without cloud involvement. It supports reading device statuses and executing configuration changes, with confirm, dry-run, and destructive-action safeguar",
+  "source_repo": "Kykyryky23/Keenetic-router-plugin",
+  "source_url": "https://github.com/Kykyryky23/Keenetic-router-plugin",
+  "install": "# git clone --depth 1 https://github.com/Kykyryky23/Keenetic-router-plugin\n# See source for mcpServers config block"
+}

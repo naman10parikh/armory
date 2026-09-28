@@ -1,0 +1,7 @@
+{
+  "name": "devops-deploy-guard-mcp-server",
+  "description": "Production-ready, zero-knowledge AI DevOps deployment, infrastructure provisioning, self-healing execution, and persistent documentation engine for VPS servers.",
+  "source_repo": "awais2o/devops-deploy-guard-mcp-server",
+  "source_url": "https://github.com/awais2o/devops-deploy-guard-mcp-server",
+  "install": "npx -y devops-deploy-guard-mcp-server"
+}

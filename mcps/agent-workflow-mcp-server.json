@@ -1,0 +1,7 @@
+{
+  "name": "agent-workflow-mcp-server",
+  "description": "Enables AI agents to create, share, discover, and execute reusable multi-step workflow templates.",
+  "source_repo": "AiAgentKarl/agent-workflow-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/agent-workflow-mcp-server",
+  "install": "npx -y agent-workflow-mcp-server"
+}

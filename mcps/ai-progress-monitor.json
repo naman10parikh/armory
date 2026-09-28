@@ -1,0 +1,7 @@
+{
+  "name": "ai-progress-monitor",
+  "description": "MCP server that lets AI coding agents report task progress and milestones, providing a real-time web dashboard and macOS notifications for monitoring multiple AI workbenches.",
+  "source_repo": "mxppxm/ai-progress-monitor",
+  "source_url": "https://github.com/mxppxm/ai-progress-monitor",
+  "install": "# git clone --depth 1 https://github.com/mxppxm/ai-progress-monitor\n# See source for mcpServers config block"
+}

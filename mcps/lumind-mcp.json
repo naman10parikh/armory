@@ -1,0 +1,7 @@
+{
+  "name": "lumind-mcp",
+  "description": "Enables AI agents to browse the Lumind service catalogue, check budgets, launch GEO/SEO scans, and retrieve reports with autonomous but capped spending.",
+  "source_repo": "earniverse/lumind-mcp",
+  "source_url": "https://github.com/earniverse/lumind-mcp",
+  "install": "npx -y lumind-mcp"
+}

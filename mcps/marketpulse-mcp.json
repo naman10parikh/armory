@@ -1,0 +1,7 @@
+{
+  "name": "marketpulse-mcp",
+  "description": "95 free financial intelligence tools for AI agents covering Indian and global markets, options analytics, AI-driven stock debates, portfolio analysis, and more.",
+  "source_repo": "tanmaymish/MarketPulse-MCP",
+  "source_url": "https://github.com/tanmaymish/MarketPulse-MCP",
+  "install": "npx -y MarketPulse-MCP"
+}

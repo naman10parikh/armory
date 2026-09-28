@@ -1,0 +1,7 @@
+{
+  "name": "mcp-indesign",
+  "description": "Enables AI assistants to control Adobe InDesign on Windows via the Model Context Protocol, allowing document inspection, text and style editing, and exports to formats like PDF, images, and EPUB.",
+  "source_repo": "SanNw/Indesign-MCP",
+  "source_url": "https://github.com/SanNw/Indesign-MCP",
+  "install": "npx -y Indesign-MCP"
+}

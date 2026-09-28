@@ -1,0 +1,7 @@
+{
+  "name": "unicred-mcp",
+  "description": "Connects Unicred bank accounts via Open Finance Brasil to AI assistants, enabling natural language queries for balances, statements, credit card bills, and investments.",
+  "source_repo": "mcp-dir/unicred-mcp",
+  "source_url": "https://github.com/mcp-dir/unicred-mcp",
+  "install": "npx -y unicred-mcp"
+}

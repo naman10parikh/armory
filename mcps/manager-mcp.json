@@ -1,0 +1,7 @@
+{
+  "name": "manager-mcp",
+  "description": "Read-only MCP server for self-hosted Manager.io bookkeeping, providing curated GET tools to access accounting data like invoices, balances, and reports.",
+  "source_repo": "flumpiey/manager-mcp",
+  "source_url": "https://github.com/flumpiey/manager-mcp",
+  "install": "npx -y manager-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ribbonsmith",
+  "description": "Enables AI coding agents to declaratively customize Dynamics 365 command bars with safe, validated, and revertible ribbon customizations.",
+  "source_repo": "Longman006/ribbonsmith",
+  "source_url": "https://github.com/Longman006/ribbonsmith",
+  "install": "# git clone --depth 1 https://github.com/Longman006/ribbonsmith\n# See source for mcpServers config block"
+}

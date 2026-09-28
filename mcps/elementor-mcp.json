@@ -1,0 +1,7 @@
+{
+  "name": "elementor-mcp",
+  "description": "An MCP server that lets AI agents design complete websites and generate import-ready Elementor v4 JSON, allowing for automated website building with structural validity.",
+  "source_repo": "Smecha10/elementor-mcp",
+  "source_url": "https://github.com/Smecha10/elementor-mcp",
+  "install": "npx -y elementor-mcp"
+}

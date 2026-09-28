@@ -1,0 +1,7 @@
+{
+  "name": "ai-google-analytics-mcp",
+  "description": "Provisions Google Analytics 4 for local AI/web projects by creating properties and web data streams, injecting gtag snippets, and saving configuration.",
+  "source_repo": "HappyMonkeyAI/ai-google-analytics-mcp",
+  "source_url": "https://github.com/HappyMonkeyAI/ai-google-analytics-mcp",
+  "install": "npx -y ai-google-analytics-mcp"
+}

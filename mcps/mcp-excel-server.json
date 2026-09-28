@@ -1,0 +1,7 @@
+{
+  "name": "mcp-excel-server",
+  "description": "Enables AI agents to read, write, analyze, and transform Excel spreadsheets (.xlsx) through the Model Context Protocol.",
+  "source_repo": "mrgorrin40-TP/mcp-excel-server",
+  "source_url": "https://github.com/mrgorrin40-TP/mcp-excel-server",
+  "install": "# git clone --depth 1 https://github.com/mrgorrin40-TP/mcp-excel-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uspto-patents-mcp",
+  "description": "US patent search, full-text retrieval, claim extraction, citation graph, and weekly grant alerts for R\\&D, biotech, and IP-law audiences.",
+  "source_repo": "guptaprakhariitr/uspto-patents-mcp",
+  "source_url": "https://github.com/guptaprakhariitr/uspto-patents-mcp",
+  "install": "npx -y uspto-patents-mcp"
+}

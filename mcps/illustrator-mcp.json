@@ -1,0 +1,7 @@
+{
+  "name": "illustrator-mcp",
+  "description": "Enables AI agents to generate vector graphics in Adobe Illustrator using natural language prompts, by sending ExtendScript commands via a local MCP server.",
+  "source_repo": "krVatsal/illustrator-mcp",
+  "source_url": "https://github.com/krVatsal/illustrator-mcp",
+  "install": "npx -y illustrator-mcp"
+}

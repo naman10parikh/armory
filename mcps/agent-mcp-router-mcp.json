@@ -1,0 +1,7 @@
+{
+  "name": "agent-mcp-router-mcp",
+  "description": "A router MCP server that provides access to 62 MCPs behind a single connection, with load balancing, health checking, and EU AI Act compliance.",
+  "source_repo": "CSOAI-ORG/agent-mcp-router-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/agent-mcp-router-mcp",
+  "install": "npx -y agent-mcp-router-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "atcmarket-mcp",
+  "description": "Remote MCP server (Streamable HTTP) that reads and parses the public catalog website atcmarket.cz (AT Computers) to enable product search, category-filtered search, supported filter listing, product detail lookup, and cross-product comparison — without login or state.",
+  "source_repo": "pokys/mcp-atcmarket",
+  "source_url": "https://github.com/pokys/mcp-atcmarket",
+  "install": "# git clone --depth 1 https://github.com/pokys/mcp-atcmarket\n# See source for mcpServers config block"
+}

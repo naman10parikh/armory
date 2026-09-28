@@ -1,0 +1,7 @@
+{
+  "name": "omnigraffle-bindcraft",
+  "description": "Enables AI agents to create publication-quality scientific diagrams, flowcharts, and architecture diagrams in OmniGraffle via natural language commands.",
+  "source_repo": "Youn-17/omnigraffle-bindcraft",
+  "source_url": "https://github.com/Youn-17/omnigraffle-bindcraft",
+  "install": "# git clone --depth 1 https://github.com/Youn-17/omnigraffle-bindcraft\n# See source for mcpServers config block"
+}

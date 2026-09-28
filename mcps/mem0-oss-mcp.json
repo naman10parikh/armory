@@ -1,0 +1,7 @@
+{
+  "name": "mem0-oss-mcp",
+  "description": "Bridges MCP to a self-hosted Mem0 OSS server, enabling memory management operations like adding, searching, updating, and deleting memories.",
+  "source_repo": "SteinX/mem0-oss-mcp",
+  "source_url": "https://github.com/SteinX/mem0-oss-mcp",
+  "install": "npx -y mem0-oss-mcp"
+}

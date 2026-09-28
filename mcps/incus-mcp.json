@@ -1,0 +1,7 @@
+{
+  "name": "incus-mcp",
+  "description": "MCP server for managing Incus containers and VMs via the incus CLI. Supports operations on remotes, instances, images, networks, storage, profiles, projects, and snapshots.",
+  "source_repo": "nikkomiu/incus-mcp",
+  "source_url": "https://github.com/nikkomiu/incus-mcp",
+  "install": "npx -y incus-mcp"
+}

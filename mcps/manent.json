@@ -1,0 +1,7 @@
+{
+  "name": "manent",
+  "description": "MCP server that turns a git-versioned Markdown vault into a queryable memory for AI agents, providing tools like brain_search, brain_read, and brain_neighbors.",
+  "source_repo": "colopisalvatore/manent",
+  "source_url": "https://github.com/colopisalvatore/manent",
+  "install": "# git clone --depth 1 https://github.com/colopisalvatore/manent\n# See source for mcpServers config block"
+}

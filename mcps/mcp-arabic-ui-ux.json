@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arabic-ui-ux",
+  "description": "An MCP server for Arabic UI/UX design, offering tools to generate design tokens, build RTL components, stitch layouts, and audit RTL compliance using Material 3 Expressive and Google Stitch.",
+  "source_repo": "MarwanDevSpace/mcp-arabic-ui-ux",
+  "source_url": "https://github.com/MarwanDevSpace/mcp-arabic-ui-ux",
+  "install": "# git clone --depth 1 https://github.com/MarwanDevSpace/mcp-arabic-ui-ux\n# See source for mcpServers config block"
+}

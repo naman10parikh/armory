@@ -1,0 +1,7 @@
+{
+  "name": "infobroker",
+  "description": "Enables unified research through a single MCP interface, combining multi-provider web search, content extraction, fact-checking via corroboration across independent sources, and a personal knowledge base—with zero-config providers and optional API-keyed backends.",
+  "source_repo": "flukeatzerocool/infobroker",
+  "source_url": "https://github.com/flukeatzerocool/infobroker",
+  "install": "# git clone --depth 1 https://github.com/flukeatzerocool/infobroker\n# See source for mcpServers config block"
+}

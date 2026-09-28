@@ -1,0 +1,7 @@
+{
+  "name": "doc-extract",
+  "description": "Enables reading entire PDF documents into validated structured JSON, including tables, key-values, and markdown, with read-only extraction tools and layout reconstruction.",
+  "source_repo": "AlanAAG/invoice-extraction-mcp",
+  "source_url": "https://github.com/AlanAAG/invoice-extraction-mcp",
+  "install": "npx -y invoice-extraction-mcp"
+}

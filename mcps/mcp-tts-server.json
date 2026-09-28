@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tts-server",
+  "description": "Enables text-to-speech generation using the Groq API, supporting multiple audio formats and optional local playback.",
+  "source_repo": "kaichen/mcp-tts-server",
+  "source_url": "https://github.com/kaichen/mcp-tts-server",
+  "install": "# git clone --depth 1 https://github.com/kaichen/mcp-tts-server\n# See source for mcpServers config block"
+}

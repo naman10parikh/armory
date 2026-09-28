@@ -1,0 +1,7 @@
+{
+  "name": "openfic-mcp",
+  "description": "MCP server for OpenFic, enabling AI assistants to manage writing projects, volumes, chapters, characters, notes, and worldbooks through OpenFic's public HTTP API. Supports read-only mode by default and opt-in write operations with safety confirmations for deletions.",
+  "source_repo": "handsomer89/Openfic-MCP",
+  "source_url": "https://github.com/handsomer89/Openfic-MCP",
+  "install": "npx -y Openfic-MCP"
+}

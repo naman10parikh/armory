@@ -1,0 +1,7 @@
+{
+  "name": "arm-code-mcp",
+  "description": "Helps AI assistants optimize Linux workloads on Arm64 by parsing perf report output, recommending NEON SIMD intrinsics for hot loops, and auditing Python dependency manifests for arm64 wheel availability — all offline and structured.",
+  "source_repo": "jean-johnson-zwix/arm-code-mcp",
+  "source_url": "https://github.com/jean-johnson-zwix/arm-code-mcp",
+  "install": "npx -y arm-code-mcp"
+}

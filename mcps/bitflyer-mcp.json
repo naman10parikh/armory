@@ -1,0 +1,7 @@
+{
+  "name": "bitflyer-mcp",
+  "description": "A read-only MCP server that retrieves public market data from bitFlyer, allowing natural language querying of ticker, order book, executions, exchange health, and tradable products.",
+  "source_repo": "TakuroidX/bitflyer-mcp",
+  "source_url": "https://github.com/TakuroidX/bitflyer-mcp",
+  "install": "npx -y bitflyer-mcp"
+}

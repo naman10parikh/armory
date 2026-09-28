@@ -1,0 +1,7 @@
+{
+  "name": "forevertools-mcp-server",
+  "description": "Gives Claude 8 real-world tools via a single free API key: SSL certificate inspection, WHOIS lookup, email validation (syntax + MX + disposable detection), webpage screenshots, IP geolocation, currency conversion, schema markup generation, and UK business-day calculations. Python, pip install foreve",
+  "source_repo": "ForeverTools/forevertools-mcp",
+  "source_url": "https://github.com/ForeverTools/forevertools-mcp",
+  "install": "npx -y forevertools-mcp"
+}

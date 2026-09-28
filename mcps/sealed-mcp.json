@@ -1,0 +1,7 @@
+{
+  "name": "sealed-mcp",
+  "description": "A thin MCP stdio client that connects agents to the Sealed skill marketplace, enabling listing and running sealed skills server-side.",
+  "source_repo": "edwardyen724-g/sealed-mcp",
+  "source_url": "https://github.com/edwardyen724-g/sealed-mcp",
+  "install": "npx -y sealed-mcp"
+}

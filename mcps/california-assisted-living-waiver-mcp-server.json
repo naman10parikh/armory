@@ -1,0 +1,7 @@
+{
+  "name": "california-assisted-living-waiver-mcp-server",
+  "description": "A read-only MCP server that enables AI assistants to query 1,224 public DHCS participating-provider records for California's Medi-Cal Assisted Living Waiver, compare counties, and retrieve statewide enrollment and waitlist figures while preserving source limitations.",
+  "source_repo": "asafichaki/california-alw-mcp",
+  "source_url": "https://github.com/asafichaki/california-alw-mcp",
+  "install": "npx -y california-alw-mcp"
+}

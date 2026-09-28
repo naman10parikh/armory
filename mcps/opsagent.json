@@ -1,0 +1,7 @@
+{
+  "name": "opsagent",
+  "description": "A read-only MCP server that exposes Kubernetes cluster telemetry tools (pods, events, logs, metrics, ArgoCD syncs) with automatic redaction for incident triage and hypothesis ranking.",
+  "source_repo": "batpepe/ai-automation-lab",
+  "source_url": "https://github.com/batpepe/ai-automation-lab",
+  "install": "# git clone --depth 1 https://github.com/batpepe/ai-automation-lab\n# See source for mcpServers config block"
+}

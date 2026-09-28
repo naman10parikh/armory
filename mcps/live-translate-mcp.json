@@ -1,0 +1,7 @@
+{
+  "name": "live-translate-mcp",
+  "description": "Real-time English ↔ Mandarin Chinese speech translation for Claude. Transcribes audio locally with Whisper, translates via Claude API, and synthesises speech locally with Piper TTS. Pass a WAV file path. Claude handles the rest.",
+  "source_repo": "waxberry-dev/live-translate-mcp",
+  "source_url": "https://github.com/waxberry-dev/live-translate-mcp",
+  "install": "npx -y live-translate-mcp"
+}

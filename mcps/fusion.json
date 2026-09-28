@@ -1,0 +1,7 @@
+{
+  "name": "fusion",
+  "description": "Enables LLMs to perform analytical SQL queries on PostgreSQL/MySQL databases via DuckDB, with tools for querying, aggregation, and materialized views.",
+  "source_repo": "yasinyaman/fusion",
+  "source_url": "https://github.com/yasinyaman/fusion",
+  "install": "# git clone --depth 1 https://github.com/yasinyaman/fusion\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "skill-context-manager",
+  "description": "Provides context-aware skill selection for AI agents, reducing token usage by 85-98% and improving accuracy through semantic retrieval, session memory, and feedback learning.",
+  "source_repo": "Mavis2103/skill-context-manager",
+  "source_url": "https://github.com/Mavis2103/skill-context-manager",
+  "install": "# git clone --depth 1 https://github.com/Mavis2103/skill-context-manager\n# See source for mcpServers config block"
+}

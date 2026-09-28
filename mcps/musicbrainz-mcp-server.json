@@ -1,0 +1,7 @@
+{
+  "name": "musicbrainz-mcp-server",
+  "description": "A comprehensive MCP server for querying the MusicBrainz database, providing tools to search for artists, releases, recordings, and browse music metadata.",
+  "source_repo": "usercourses63/musicbrainz-mcp-server",
+  "source_url": "https://github.com/usercourses63/musicbrainz-mcp-server",
+  "install": "npx -y musicbrainz-mcp-server"
+}

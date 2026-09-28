@@ -1,0 +1,7 @@
+{
+  "name": "http-security-headers-mcp",
+  "description": "Analyze and score HTTP security headers (CSP, HSTS, CORS, cookies) with actionable fix recommendations for web applications.",
+  "source_repo": "shakiltousif/http-security-headers-mcp",
+  "source_url": "https://github.com/shakiltousif/http-security-headers-mcp",
+  "install": "npx -y http-security-headers-mcp"
+}

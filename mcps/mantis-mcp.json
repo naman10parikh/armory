@@ -1,0 +1,7 @@
+{
+  "name": "mantis-mcp",
+  "description": "Enables natural language interaction with MantisBT issues and notes via CRUD operations and semantic search.",
+  "source_repo": "f-liva/mantis-mcp",
+  "source_url": "https://github.com/f-liva/mantis-mcp",
+  "install": "npx -y mantis-mcp"
+}

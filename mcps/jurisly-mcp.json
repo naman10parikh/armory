@@ -1,0 +1,7 @@
+{
+  "name": "jurisly-mcp",
+  "description": "Enables AI assistants to interact with Jurisly workspaces for tasks like drafting invoices, finding hearing dates, and editing documents through natural language.",
+  "source_repo": "omnimorphpvtltd/jurisly-mcp",
+  "source_url": "https://github.com/omnimorphpvtltd/jurisly-mcp",
+  "install": "npx -y jurisly-mcp"
+}

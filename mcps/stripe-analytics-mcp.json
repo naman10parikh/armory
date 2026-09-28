@@ -1,0 +1,7 @@
+{
+  "name": "stripe-analytics-mcp",
+  "description": "Provides real-time Stripe subscription analytics including MRR, churn, failed payments, and expiring trials. Enables AI assistants to answer business health questions like 'How's my business doing?'",
+  "source_repo": "npow/stripe-analytics-mcp",
+  "source_url": "https://github.com/npow/stripe-analytics-mcp",
+  "install": "npx -y stripe-analytics-mcp"
+}

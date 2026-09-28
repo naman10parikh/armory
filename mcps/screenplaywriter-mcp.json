@@ -1,0 +1,7 @@
+{
+  "name": "screenplaywriter-mcp",
+  "description": "An MCP server for reading, writing, and analyzing screenplays in Fountain format. It parses screenplays into structured data, edits scenes, generates character reports and production breakdowns, and writes proper Fountain syntax.",
+  "source_repo": "mrfentmen/screenplaywriter-mcp",
+  "source_url": "https://github.com/mrfentmen/screenplaywriter-mcp",
+  "install": "npx -y screenplaywriter-mcp"
+}

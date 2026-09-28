@@ -1,0 +1,7 @@
+{
+  "name": "datawarehouse-dbd-mcp",
+  "description": "Enables searching and retrieving detailed information about Thai juristic persons, foreign entities, financial statements, directors, shareholders, and statistics from the Department of Business Development data warehouse.",
+  "source_repo": "sanookjung/datawarehouse-dbd-mcp",
+  "source_url": "https://github.com/sanookjung/datawarehouse-dbd-mcp",
+  "install": "npx -y datawarehouse-dbd-mcp"
+}

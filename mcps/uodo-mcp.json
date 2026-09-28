@@ -1,0 +1,7 @@
+{
+  "name": "uodo-mcp",
+  "description": "Enables searching and analyzing decisions from the Polish Data Protection Authority (UODO) directly within AI clients, allowing full-text search, filtering, and retrieval of GDPR enforcement decisions.",
+  "source_repo": "pawelojdowski/uodo-mcp",
+  "source_url": "https://github.com/pawelojdowski/uodo-mcp",
+  "install": "npx -y uodo-mcp"
+}

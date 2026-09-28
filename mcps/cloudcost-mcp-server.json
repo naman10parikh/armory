@@ -1,0 +1,7 @@
+{
+  "name": "cloudcost-mcp-server",
+  "description": "Enables AI agents to parse multi-cloud infrastructure-as-code files, query real-time pricing from AWS, Azure, and GCP, and generate cost estimates and comparison reports.",
+  "source_repo": "JadenRazo/CloudCostMCP",
+  "source_url": "https://github.com/JadenRazo/CloudCostMCP",
+  "install": "# git clone --depth 1 https://github.com/JadenRazo/CloudCostMCP\n# See source for mcpServers config block"
+}

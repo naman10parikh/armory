@@ -1,0 +1,7 @@
+{
+  "name": "specdown-mcp-server",
+  "description": "Gives AI assistants direct read/write access to SpecDown Markdown spec documents, enabling spec-driven development without copy-pasting.",
+  "source_repo": "specdown-app/mcp-server",
+  "source_url": "https://github.com/specdown-app/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/specdown-app/mcp-server\n# See source for mcpServers config block"
+}

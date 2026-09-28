@@ -1,0 +1,7 @@
+{
+  "name": "cccmemory-mcp",
+  "description": "Provides Claude with long-term memory by indexing conversation history, enabling semantic search, decision tracking, and cross-project search.",
+  "source_repo": "xiaolai/cccmemory",
+  "source_url": "https://github.com/xiaolai/cccmemory",
+  "install": "# git clone --depth 1 https://github.com/xiaolai/cccmemory\n# See source for mcpServers config block"
+}

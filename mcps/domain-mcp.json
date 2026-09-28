@@ -1,0 +1,7 @@
+{
+  "name": "domain-mcp",
+  "description": "MCP server for checking domain name availability via RDAP and WHOIS fallback, supporting single and bulk domain lookups.",
+  "source_repo": "danielgtmn/domain-mcp",
+  "source_url": "https://github.com/danielgtmn/domain-mcp",
+  "install": "npx -y domain-mcp"
+}

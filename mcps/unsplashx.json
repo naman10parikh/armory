@@ -1,0 +1,7 @@
+{
+  "name": "unsplashx",
+  "description": "An MCP server for the Unsplash API that enables searching, downloading, and inserting high-quality images with automatic photographer attribution into local projects.",
+  "source_repo": "danywalls/unsplashx",
+  "source_url": "https://github.com/danywalls/unsplashx",
+  "install": "# git clone --depth 1 https://github.com/danywalls/unsplashx\n# See source for mcpServers config block"
+}

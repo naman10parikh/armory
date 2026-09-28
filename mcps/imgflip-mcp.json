@@ -1,0 +1,7 @@
+{
+  "name": "imgflip-mcp",
+  "description": "MCP server for generating memes via the Imgflip API. It allows AI assistants to browse meme templates, caption them, and return the resulting image directly in the conversation.",
+  "source_repo": "mariokernich/imgflip-mcp",
+  "source_url": "https://github.com/mariokernich/imgflip-mcp",
+  "install": "npx -y imgflip-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-prh-fi",
+  "description": "Enables AI agents to query Finnish Patent and Registration Office (PRH) open data via YTJ, using natural language through the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-prh-fi",
+  "source_url": "https://github.com/pipeworx-io/mcp-prh-fi",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-prh-fi\n# See source for mcpServers config block"
+}

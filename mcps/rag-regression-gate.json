@@ -1,0 +1,7 @@
+{
+  "name": "rag-regression-gate",
+  "description": "MCP server that diagnoses RAG pipeline regression by detecting which failure modes (e.g., retrieval miss, hallucination) significantly regressed, not just score drops, using statistical methods to avoid false alarms.",
+  "source_repo": "db-inlee/rag-regression-gate-mcp",
+  "source_url": "https://github.com/db-inlee/rag-regression-gate-mcp",
+  "install": "npx -y rag-regression-gate-mcp"
+}

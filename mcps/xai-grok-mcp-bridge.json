@@ -1,0 +1,7 @@
+{
+  "name": "xai-grok-mcp-bridge",
+  "description": "Enables using the xAI Grok CLI as an MCP sub-agent for code review, asking questions, and continuing conversations within MCP hosts like Claude Code.",
+  "source_repo": "segalz/XAIMsp",
+  "source_url": "https://github.com/segalz/XAIMsp",
+  "install": "# git clone --depth 1 https://github.com/segalz/XAIMsp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "epo-register-mcp",
+  "description": "MCP server that retrieves document metadata from the European Patent Register using the get_ep_register_documents tool.",
+  "source_repo": "stwstw93/epo-register-mcp",
+  "source_url": "https://github.com/stwstw93/epo-register-mcp",
+  "install": "npx -y epo-register-mcp"
+}

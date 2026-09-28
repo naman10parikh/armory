@@ -1,0 +1,7 @@
+{
+  "name": "namecheap-domains-mcp",
+  "description": "Integrates Namecheap's domain API with Cursor AI to check domain availability, get pricing, and register domains directly through the AI interface.",
+  "source_repo": "Primeta-AI/mcp-namecheap-registrar",
+  "source_url": "https://github.com/Primeta-AI/mcp-namecheap-registrar",
+  "install": "# git clone --depth 1 https://github.com/Primeta-AI/mcp-namecheap-registrar\n# See source for mcpServers config block"
+}

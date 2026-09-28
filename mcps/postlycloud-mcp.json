@@ -1,0 +1,7 @@
+{
+  "name": "postlycloud-mcp",
+  "description": "MCP connector for Postly Cloud email service, allowing AI tools to send emails, read inbox, and generate embed code for mailboxes.",
+  "source_repo": "undefphoenixdev/postlycloud-mcp",
+  "source_url": "https://github.com/undefphoenixdev/postlycloud-mcp",
+  "install": "npx -y postlycloud-mcp"
+}

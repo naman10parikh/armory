@@ -1,0 +1,7 @@
+{
+  "name": "bonsai-mcp",
+  "description": "Connects MCP clients to a local Blender + Bonsai (BlenderBIM) session for scene inspection, IFC project querying, viewport screenshots, and executing Python code in Blender.",
+  "source_repo": "Show2Instruct/bonsai-mcp",
+  "source_url": "https://github.com/Show2Instruct/bonsai-mcp",
+  "install": "npx -y bonsai-mcp"
+}

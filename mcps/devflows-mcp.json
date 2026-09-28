@@ -1,0 +1,7 @@
+{
+  "name": "devflows-mcp",
+  "description": "Enables AI coding agents to drive developer workflows as BPMN processes on a local CIB seven engine, including starting releases, inspecting runs, and approving human-decision gates via MCP tools.",
+  "source_repo": "0langa/cibseven-devflows",
+  "source_url": "https://github.com/0langa/cibseven-devflows",
+  "install": "# git clone --depth 1 https://github.com/0langa/cibseven-devflows\n# See source for mcpServers config block"
+}

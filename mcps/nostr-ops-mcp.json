@@ -1,0 +1,7 @@
+{
+  "name": "nostr-ops-mcp",
+  "description": "A MCP server that provides NOSTR protocol tools for LLM agents, enabling signing, publishing, querying, and encrypted DMs with a defense-in-depth safety stack.",
+  "source_repo": "llmops-pro/nostr-ops-mcp",
+  "source_url": "https://github.com/llmops-pro/nostr-ops-mcp",
+  "install": "npx -y nostr-ops-mcp"
+}

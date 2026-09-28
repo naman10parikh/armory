@@ -1,0 +1,7 @@
+{
+  "name": "another-bloated-obsidian-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides AI assistants with secure access to Obsidian vaults. Enables reading, writing, searching, and managing notes without requiring Obsidian to be running.",
+  "source_repo": "diegorv/another-bloated-obsidian-mcp-server",
+  "source_url": "https://github.com/diegorv/another-bloated-obsidian-mcp-server",
+  "install": "npx -y another-bloated-obsidian-mcp-server"
+}

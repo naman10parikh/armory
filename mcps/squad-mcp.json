@@ -1,0 +1,7 @@
+{
+  "name": "squad-mcp",
+  "description": "Exposes the squad-dev workflow as deterministic MCP tools, enabling task classification, risk scoring, specialist reviewer selection, and advisory verdict consolidation for code changes.",
+  "source_repo": "ggemba/squad-mcp",
+  "source_url": "https://github.com/ggemba/squad-mcp",
+  "install": "npx -y squad-mcp"
+}

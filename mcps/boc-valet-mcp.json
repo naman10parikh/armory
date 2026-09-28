@@ -1,0 +1,7 @@
+{
+  "name": "boc-valet-mcp",
+  "description": "Provides LLM agents with live access to Canadian economic and financial data (exchange rates, interest rates, inflation, etc.) through the Bank of Canada Valet API, with no API key required.",
+  "source_repo": "Chatusvi-Karnati/boc-valet-mcp",
+  "source_url": "https://github.com/Chatusvi-Karnati/boc-valet-mcp",
+  "install": "npx -y boc-valet-mcp"
+}

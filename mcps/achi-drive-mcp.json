@@ -1,0 +1,7 @@
+{
+  "name": "achi-drive-mcp",
+  "description": "MCP server that lets AI agents access the user's Achi workspace (Drive files, Properties, Mail, Agent notes) with one token, enabling file operations, search, property management, and more.",
+  "source_repo": "EBIElimited/drive-mcp",
+  "source_url": "https://github.com/EBIElimited/drive-mcp",
+  "install": "npx -y drive-mcp"
+}

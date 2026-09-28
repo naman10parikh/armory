@@ -1,0 +1,7 @@
+{
+  "name": "agentic-devops-assistant",
+  "description": "Enables AI-driven DevOps project analysis and automation through dynamic tool selection for file inspection, Dockerfile analysis, health checks, and test execution.",
+  "source_repo": "namanagrahari/agentic-devops-assistant",
+  "source_url": "https://github.com/namanagrahari/agentic-devops-assistant",
+  "install": "# git clone --depth 1 https://github.com/namanagrahari/agentic-devops-assistant\n# See source for mcpServers config block"
+}

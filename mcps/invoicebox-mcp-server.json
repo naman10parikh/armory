@@ -1,0 +1,7 @@
+{
+  "name": "invoicebox-mcp-server",
+  "description": "MCP server for Invoicebox that enables assistants to issue invoices, check payments, confirm shipments, and process refunds, with read-only defaults and two-phase confirmations for safety.",
+  "source_repo": "InvoiceBox/invoicebox-mcp-server",
+  "source_url": "https://github.com/InvoiceBox/invoicebox-mcp-server",
+  "install": "npx -y invoicebox-mcp-server"
+}

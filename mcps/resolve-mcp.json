@@ -1,0 +1,7 @@
+{
+  "name": "resolve-mcp",
+  "description": "Comprehensive MCP server for DaVinci Resolve with 295+ tools to control projects, timelines, editing, color grading, rendering, and more via natural language.",
+  "source_repo": "jenkinsm13/resolve-mcp",
+  "source_url": "https://github.com/jenkinsm13/resolve-mcp",
+  "install": "npx -y resolve-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kicad-copilot",
+  "description": "AI-powered MCP server for KiCad that enables creating and modifying schematics, searching components, managing hierarchical projects, generating PCB placement, routing boards locally, and creating copper pours through natural language.",
+  "source_repo": "biosshot/kicad-copilot",
+  "source_url": "https://github.com/biosshot/kicad-copilot",
+  "install": "# git clone --depth 1 https://github.com/biosshot/kicad-copilot\n# See source for mcpServers config block"
+}

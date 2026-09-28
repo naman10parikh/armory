@@ -1,0 +1,7 @@
+{
+  "name": "elden-ring-mcp",
+  "description": "MCP server exposing Elden Ring game data (weapons, spells, talismans, armour) with optional corpus ingestion for lore, tier rankings, and community notes.",
+  "source_repo": "ianbaistowdavies-spec/elden-ring-mcp",
+  "source_url": "https://github.com/ianbaistowdavies-spec/elden-ring-mcp",
+  "install": "npx -y elden-ring-mcp"
+}

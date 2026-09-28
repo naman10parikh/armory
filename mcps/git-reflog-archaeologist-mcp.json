@@ -1,0 +1,7 @@
+{
+  "name": "git-reflog-archaeologist-mcp",
+  "description": "This MCP server analyzes Git reflog and object data to provide recovery signals after accidental resets or deletions, helping assess whether lost commits or branches may still be recoverable without exposing sensitive details.",
+  "source_repo": "mrfentmen/git-reflog-archaeologist-mcp",
+  "source_url": "https://github.com/mrfentmen/git-reflog-archaeologist-mcp",
+  "install": "npx -y git-reflog-archaeologist-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fallvet-us-mcp",
+  "description": "Sovereign, MIT-licensed MCP server wrapping the fallvet-us SDK for offline-capable professional workflow tools.",
+  "source_repo": "sjgant80-hub/fallvet-us-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallvet-us-mcp",
+  "install": "npx -y fallvet-us-mcp"
+}

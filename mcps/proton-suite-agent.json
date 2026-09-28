@@ -1,0 +1,7 @@
+{
+  "name": "proton-suite-agent",
+  "description": "An MCP server for managing Proton Mail, Pass, Drive, and Calendar through local IMAP/SMTP, pass-cli, and Proton Drive CLI, enabling AI agents to operate the mailbox, manage passwords, sync files, and classify emails.",
+  "source_repo": "Iniciativas-Alexendros/agent-protonsuite",
+  "source_url": "https://github.com/Iniciativas-Alexendros/agent-protonsuite",
+  "install": "# git clone --depth 1 https://github.com/Iniciativas-Alexendros/agent-protonsuite\n# See source for mcpServers config block"
+}

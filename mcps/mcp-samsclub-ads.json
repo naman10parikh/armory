@@ -1,0 +1,7 @@
+{
+  "name": "mcp-samsclub-ads",
+  "description": "Enables interaction with Sam's Club Sponsored Ads APIs through spec-driven endpoint discovery and an authenticated proxy with automatic RSA-SHA256 request signing.",
+  "source_repo": "alyiox/mcp-samsclub-ads",
+  "source_url": "https://github.com/alyiox/mcp-samsclub-ads",
+  "install": "# git clone --depth 1 https://github.com/alyiox/mcp-samsclub-ads\n# See source for mcpServers config block"
+}

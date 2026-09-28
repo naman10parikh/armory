@@ -1,0 +1,7 @@
+{
+  "name": "stock-data-mcp",
+  "description": "MCP server exposing 43 financial data tools for A-share, HK, US stocks, crypto, and market news via open-stock-data.",
+  "source_repo": "openstockdata/stock-data-mcp",
+  "source_url": "https://github.com/openstockdata/stock-data-mcp",
+  "install": "npx -y stock-data-mcp"
+}

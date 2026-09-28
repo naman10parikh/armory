@@ -1,0 +1,7 @@
+{
+  "name": "weline-mcp",
+  "description": "A local project intelligence, batch coding, and self-learning engine for Codex that enables task-level batch coding, reduces token usage, and automatically learns skills.",
+  "source_repo": "Aiweline/Weline-Codex-Mcp",
+  "source_url": "https://github.com/Aiweline/Weline-Codex-Mcp",
+  "install": "npx -y Weline-Codex-Mcp"
+}

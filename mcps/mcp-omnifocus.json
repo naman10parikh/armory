@@ -1,0 +1,7 @@
+{
+  "name": "mcp-omnifocus",
+  "description": "Enables task management in OmniFocus, including reading, creating, updating, and completing tasks, with automatic detection of Pro or Standard version.",
+  "source_repo": "avlihachev/mcp-omnifocus",
+  "source_url": "https://github.com/avlihachev/mcp-omnifocus",
+  "install": "# git clone --depth 1 https://github.com/avlihachev/mcp-omnifocus\n# See source for mcpServers config block"
+}

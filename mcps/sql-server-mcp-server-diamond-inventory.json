@@ -1,0 +1,7 @@
+{
+  "name": "sql-server-mcp-server-diamond-inventory",
+  "description": "Enables safe, read-only querying and schema exploration for Microsoft SQL Server databases with preconfigured Diamond Inventory support, multiple database management, and optional HTTP API.",
+  "source_repo": "DhruviPatel712/mcp_server",
+  "source_url": "https://github.com/DhruviPatel712/mcp_server",
+  "install": "# git clone --depth 1 https://github.com/DhruviPatel712/mcp_server\n# See source for mcpServers config block"
+}

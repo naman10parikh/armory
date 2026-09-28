@@ -1,0 +1,7 @@
+{
+  "name": "truepath-office",
+  "description": "A local MCP server that lets Claude, Cursor, Codex, or any MCP client work with Office documents on your Mac: evaluate spreadsheet formulas, read/write XLSX and PPTX, extract structured DOCX content, and merge/split/protect PDFs. 100% local, no network calls, no account. 14 tools.",
+  "source_repo": "JoyTruepath/truepath-office-mcp",
+  "source_url": "https://github.com/JoyTruepath/truepath-office-mcp",
+  "install": "npx -y truepath-office-mcp"
+}

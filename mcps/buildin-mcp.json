@@ -1,0 +1,7 @@
+{
+  "name": "buildin-mcp",
+  "description": "Enables LLMs to interact with Buildin.ai workspaces, providing tools to manage pages, databases, blocks, search, users, and convert Markdown content.",
+  "source_repo": "ekho/buildin-mcp",
+  "source_url": "https://github.com/ekho/buildin-mcp",
+  "install": "npx -y buildin-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "unlinked",
+  "description": "Connects your LinkedIn professional profile to AI assistants (Claude, GitHub Copilot) via LinkedIn's official Member Data Portability API, enabling read-only access to résumé data, activity, and recent changes.",
+  "source_repo": "larsbaunwall/Unlinked",
+  "source_url": "https://github.com/larsbaunwall/Unlinked",
+  "install": "# git clone --depth 1 https://github.com/larsbaunwall/Unlinked\n# See source for mcpServers config block"
+}

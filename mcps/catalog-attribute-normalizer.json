@@ -1,0 +1,7 @@
+{
+  "name": "catalog-attribute-normalizer",
+  "description": "Normalizes messy product catalog attributes and maps products to taxonomies like Google and Shopify, with retrieval-grounded category classification.",
+  "source_repo": "ACJLabs/catalog-normalizer",
+  "source_url": "https://github.com/ACJLabs/catalog-normalizer",
+  "install": "# git clone --depth 1 https://github.com/ACJLabs/catalog-normalizer\n# See source for mcpServers config block"
+}

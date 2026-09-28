@@ -1,0 +1,7 @@
+{
+  "name": "shadow-tg",
+  "description": "Read public Telegram channels from AI agents — channel metadata, posts, comments, and search. No MTProto, no Telethon, no api_id.",
+  "source_repo": "ulinycoin/shadow-tg",
+  "source_url": "https://github.com/ulinycoin/shadow-tg",
+  "install": "# git clone --depth 1 https://github.com/ulinycoin/shadow-tg\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "certificado-anbima",
+  "description": "MCP server to query Anbima professional certifications by Brazilian CPF. It is read-only, hosted, and works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/anbima_certificado-mcp",
+  "source_url": "https://github.com/mcp-dir/anbima_certificado-mcp",
+  "install": "npx -y anbima_certificado-mcp"
+}

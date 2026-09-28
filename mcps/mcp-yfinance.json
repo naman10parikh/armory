@@ -1,6 +1,6 @@
 {
   "name": "mcp-yfinance",
-  "description": "Mcp Yfinance MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "nicholasf/mcp-yfinance",
   "source_url": "https://mcp.so/server/mcp-yfinance/nicholasf",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-yfinance/nicholasf\n# See source for mcpServers config block"

@@ -1,0 +1,7 @@
+{
+  "name": "cartola-mcp",
+  "description": "Connects Claude to Cartola FC, enabling queries about matches, player scores, and market information through natural language.",
+  "source_repo": "antoniovuono/cartola-mcp",
+  "source_url": "https://github.com/antoniovuono/cartola-mcp",
+  "install": "npx -y cartola-mcp"
+}

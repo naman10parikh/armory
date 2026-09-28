@@ -1,0 +1,7 @@
+{
+  "name": "runninghub-image-gen-mcp-plugin",
+  "description": "Enables text-to-image generation via RunningHub's seedream-v5-lite model, with support for submitting tasks and polling for results.",
+  "source_repo": "ysbzc2022/runninghub-image-gen",
+  "source_url": "https://github.com/ysbzc2022/runninghub-image-gen",
+  "install": "# git clone --depth 1 https://github.com/ysbzc2022/runninghub-image-gen\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wpgoldmine-mcp",
+  "description": "Enables AI agents to discover WordPress plugin opportunities by querying the WordPress.org directory for abandoned, low-rated, or unsupported plugins that can be replaced or out-built.",
+  "source_repo": "Bishop81/wpgoldmine-mcp",
+  "source_url": "https://github.com/Bishop81/wpgoldmine-mcp",
+  "install": "npx -y wpgoldmine-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "genflowai-codex-plugin",
+  "description": "GenflowAI for Codex helps creators, ecommerce teams, and marketing teams find reusable AI creative workflow templates, list their own saved workflows, inspect required inputs, upload creative assets, start template/workflow runs, and check async generation results without leaving Codex.",
+  "source_repo": "cwjgege/genflowai-codex-plugin",
+  "source_url": "https://github.com/cwjgege/genflowai-codex-plugin",
+  "install": "# git clone --depth 1 https://github.com/cwjgege/genflowai-codex-plugin\n# See source for mcpServers config block"
+}

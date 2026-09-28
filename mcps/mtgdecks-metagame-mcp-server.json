@@ -1,0 +1,7 @@
+{
+  "name": "mtgdecks-metagame-mcp-server",
+  "description": "Provides Magic: The Gathering deck metagame data from MTGDecks.net via MCP tools, including deck lists, archetypes, and performance metrics.",
+  "source_repo": "mingun-kim/MTG-Metagame-MCP",
+  "source_url": "https://github.com/mingun-kim/MTG-Metagame-MCP",
+  "install": "npx -y MTG-Metagame-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kanbanx-mcp-server",
+  "description": "Enables users to manage a personal Kanban board with tasks, subtasks, notes, and code clips using natural language via the Model Context Protocol.",
+  "source_repo": "DonDmGeR/MCP-KanbanX",
+  "source_url": "https://github.com/DonDmGeR/MCP-KanbanX",
+  "install": "# git clone --depth 1 https://github.com/DonDmGeR/MCP-KanbanX\n# See source for mcpServers config block"
+}

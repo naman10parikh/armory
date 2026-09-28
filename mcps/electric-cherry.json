@@ -1,0 +1,7 @@
+{
+  "name": "electric-cherry",
+  "description": "Electron debugging MCP server for both renderer (via Chrome DevTools Protocol) and main process (via V8 Inspector Protocol), enabling automation, debugging, and network capture.",
+  "source_repo": "brandon-fryslie/electric-cherry",
+  "source_url": "https://github.com/brandon-fryslie/electric-cherry",
+  "install": "# git clone --depth 1 https://github.com/brandon-fryslie/electric-cherry\n# See source for mcpServers config block"
+}

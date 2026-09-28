@@ -1,0 +1,7 @@
+{
+  "name": "aiconductor",
+  "description": "Orchestrates multi-stakeholder feature refinement and development execution workflows for AI-assisted software teams.",
+  "source_repo": "MohanTn/AIConductor",
+  "source_url": "https://github.com/MohanTn/AIConductor",
+  "install": "# git clone --depth 1 https://github.com/MohanTn/AIConductor\n# See source for mcpServers config block"
+}

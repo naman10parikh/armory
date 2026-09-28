@@ -1,0 +1,7 @@
+{
+  "name": "utilia-agent-media-and-solana-tools",
+  "description": "Wallet-funded MCP client for six paid Utilia tools: Solana priority fees, transaction diagnosis and simulation, token-risk checks, PDF-to-Markdown, and audio normalization over x402. MIT-licensed and installable from npm.",
+  "source_repo": "mohamedkuch/utilia-solana-agent",
+  "source_url": "https://github.com/mohamedkuch/utilia-solana-agent",
+  "install": "# git clone --depth 1 https://github.com/mohamedkuch/utilia-solana-agent\n# See source for mcpServers config block"
+}

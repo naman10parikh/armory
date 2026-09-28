@@ -1,0 +1,7 @@
+{
+  "name": "amalgix-document-intelligence",
+  "description": "Cross-model evidence pipeline for financial filing and contract intelligence. Two core paid workflows — analyze_public_filing (SEC 10-K/10-Q/20-F, ticker/CIK lookup, metrics, risk changes, contradictions) and review_contract_risks (MSA/NDA/SaaS/procurement, obligations, deadlines, liability, unusual",
+  "source_repo": "",
+  "source_url": "https://amalgix.io",
+  "install": "# git clone --depth 1 https://amalgix.io\n# See source for mcpServers config block"
+}

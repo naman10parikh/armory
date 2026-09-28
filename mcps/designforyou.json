@@ -1,0 +1,7 @@
+{
+  "name": "designforyou",
+  "description": "Generates logos, social media posts, app-store screenshots, comic panels, and visual-novel assets from natural-language prompts using 119 templates.",
+  "source_repo": "swapp1990/designforyou-mcp",
+  "source_url": "https://github.com/swapp1990/designforyou-mcp",
+  "install": "npx -y designforyou-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rpgmakerultimate-mcp",
+  "description": "Model Context Protocol server for RPG Maker MV project management. Provides 102 tools for actors, classes, skills, items, weapons, armors, enemies, states, troops, common events, maps, events, tilesets, animations, system settings, project management, AI vision analysis, offline ASCII map rendering,",
+  "source_repo": "DiegoLopez0208/RpgMakerMVUltimate-MCP",
+  "source_url": "https://github.com/DiegoLopez0208/RpgMakerMVUltimate-MCP",
+  "install": "npx -y RpgMakerMVUltimate-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "put-io-mcp",
+  "description": "Enables conversational management of authorized content in a single put.io account via MCP tools.",
+  "source_repo": "ronburnley/put_io_mcp",
+  "source_url": "https://github.com/ronburnley/put_io_mcp",
+  "install": "npx -y put_io_mcp"
+}

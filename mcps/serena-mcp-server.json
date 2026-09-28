@@ -1,0 +1,7 @@
+{
+  "name": "serena-mcp-server",
+  "description": "Provides IDE-like semantic code retrieval and editing tools for LLMs, enabling precise code understanding and manipulation in large codebases via the Model Context Protocol.",
+  "source_repo": "Raheem-19/serena-optimized",
+  "source_url": "https://github.com/Raheem-19/serena-optimized",
+  "install": "# git clone --depth 1 https://github.com/Raheem-19/serena-optimized\n# See source for mcpServers config block"
+}

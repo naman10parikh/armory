@@ -1,0 +1,7 @@
+{
+  "name": "campusintel-mcp",
+  "description": "Enables AI assistants to discover and explore university research, researchers, academic programs, and institutional data from OpenAlex and the U.S. College Scorecard, returning source-linked results without fabricating facts.",
+  "source_repo": "acestein13/campusintel-mcp",
+  "source_url": "https://github.com/acestein13/campusintel-mcp",
+  "install": "npx -y campusintel-mcp"
+}

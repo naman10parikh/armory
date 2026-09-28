@@ -1,0 +1,7 @@
+{
+  "name": "gjq-runtime-mcp-server",
+  "description": "An MCP server that enables AI assistants to interact with the CETC-ICQ quantum cloud platform via the gjq-client Qiskit 2.0 SDK, supporting account management, device listing, circuit submission, and task management.",
+  "source_repo": "guoji-quantum/gjq-runtime-mcp-server",
+  "source_url": "https://github.com/guoji-quantum/gjq-runtime-mcp-server",
+  "install": "npx -y gjq-runtime-mcp-server"
+}

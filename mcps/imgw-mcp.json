@@ -1,0 +1,7 @@
+{
+  "name": "imgw-mcp",
+  "description": "Provides real-time access to Polish meteorological and hydrological data from IMGW-PIB, including weather observations, river levels, and weather warnings, without requiring an API key.",
+  "source_repo": "bartosz-kuc/imgw-mcp",
+  "source_url": "https://github.com/bartosz-kuc/imgw-mcp",
+  "install": "npx -y imgw-mcp"
+}

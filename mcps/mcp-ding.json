@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ding",
+  "description": "MCP server for macOS native notifications with 67 AI brand icons and system sound support, enabling AI agents to send desktop notifications via one-line tool calls.",
+  "source_repo": "zhuqingyv/mcp-notify",
+  "source_url": "https://github.com/zhuqingyv/mcp-notify",
+  "install": "# git clone --depth 1 https://github.com/zhuqingyv/mcp-notify\n# See source for mcpServers config block"
+}

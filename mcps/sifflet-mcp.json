@@ -1,0 +1,7 @@
+{
+  "name": "sifflet-mcp",
+  "description": "Enables data observability operations with the Sifflet platform. Supports exploring assets, monitors, incidents, generating monitor-as-code YAML from descriptions, and performing impact analysis.",
+  "source_repo": "siffletdata/sifflet-mcp",
+  "source_url": "https://github.com/siffletdata/sifflet-mcp",
+  "install": "npx -y sifflet-mcp"
+}

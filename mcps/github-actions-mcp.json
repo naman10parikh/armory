@@ -1,0 +1,7 @@
+{
+  "name": "github-actions-mcp",
+  "description": "Analyzes GitHub Actions workflows and performance, helping identify bottlenecks, failures, and optimization opportunities in CI/CD pipelines.",
+  "source_repo": "lailo/github-actions-mcp",
+  "source_url": "https://github.com/lailo/github-actions-mcp",
+  "install": "npx -y github-actions-mcp"
+}

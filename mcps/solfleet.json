@@ -1,0 +1,7 @@
+{
+  "name": "solfleet",
+  "description": "Agent-safe management of independent Solana validators and RPC nodes over MCP and CLI: Solana-aware status, in-place upgrades, and DNS failover. Every change is dry-run by default, policy-gated, and audited, and it never touches keypairs.",
+  "source_repo": "sanjeevkkansal/solfleet",
+  "source_url": "https://github.com/sanjeevkkansal/solfleet",
+  "install": "# git clone --depth 1 https://github.com/sanjeevkkansal/solfleet\n# See source for mcpServers config block"
+}

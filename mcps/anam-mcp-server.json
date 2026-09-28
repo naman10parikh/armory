@@ -1,0 +1,7 @@
+{
+  "name": "anam-mcp-server",
+  "description": "Enables managing AI personas, avatars, voices, and sessions from any MCP client, for integration with Anam AI.",
+  "source_repo": "anam-org/anam-mcp",
+  "source_url": "https://github.com/anam-org/anam-mcp",
+  "install": "npx -y anam-mcp"
+}

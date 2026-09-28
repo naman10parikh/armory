@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-searxng",
+  "description": "A privacy-friendly web search MCP server using SearXNG, enabling searches across multiple engines and categories.",
+  "source_repo": "panxingfeng/mcp_server_searXNG",
+  "source_url": "https://github.com/panxingfeng/mcp_server_searXNG",
+  "install": "# git clone --depth 1 https://github.com/panxingfeng/mcp_server_searXNG\n# See source for mcpServers config block"
+}

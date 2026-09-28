@@ -1,0 +1,7 @@
+{
+  "name": "remote-observer-mcp",
+  "description": "A read-only MCP server for observing registered local and SSH hosts, providing system, service, container, Git, and GPU status/log inspection through a closed-world registry without arbitrary shell access.",
+  "source_repo": "marutyan/remote-observer-mcp",
+  "source_url": "https://github.com/marutyan/remote-observer-mcp",
+  "install": "npx -y remote-observer-mcp"
+}

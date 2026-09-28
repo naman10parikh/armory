@@ -1,0 +1,7 @@
+{
+  "name": "suitest-docs",
+  "description": "Enables searching and retrieving pages from the Suitest documentation via full-text search without live network calls.",
+  "source_repo": "MartinCeska/docs-mcp",
+  "source_url": "https://github.com/MartinCeska/docs-mcp",
+  "install": "npx -y docs-mcp"
+}

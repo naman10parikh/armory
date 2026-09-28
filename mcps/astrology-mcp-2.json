@@ -1,0 +1,7 @@
+{
+  "name": "astrology-mcp-2",
+  "description": "Calculates astrological natal charts with high precision using Swiss Ephemeris, supporting multiple house systems and location inputs.",
+  "source_repo": "intellecat/astrology-mcp",
+  "source_url": "https://github.com/intellecat/astrology-mcp",
+  "install": "npx -y astrology-mcp"
+}

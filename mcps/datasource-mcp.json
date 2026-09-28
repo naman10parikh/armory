@@ -1,0 +1,7 @@
+{
+  "name": "datasource-mcp",
+  "description": "MySQL datasource MCP server for AI clients like Cursor and Claude Desktop, enabling SQL query execution via natural language.",
+  "source_repo": "wangguoxi0814/datasource-mcp",
+  "source_url": "https://github.com/wangguoxi0814/datasource-mcp",
+  "install": "npx -y datasource-mcp"
+}

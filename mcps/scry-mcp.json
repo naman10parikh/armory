@@ -1,0 +1,7 @@
+{
+  "name": "scry-mcp",
+  "description": "Enables checking IP addresses against the Scry threat intelligence corpus through a single free tool, with future plans for watch, actor, and campaign tools requiring attestation.",
+  "source_repo": "TunnelMind/scry-mcp",
+  "source_url": "https://github.com/TunnelMind/scry-mcp",
+  "install": "npx -y scry-mcp"
+}

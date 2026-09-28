@@ -1,0 +1,7 @@
+{
+  "name": "entyrix-mcp",
+  "description": "MCP server for the Entyrix European business-registry (KYB) API, exposing 10 stdio tools for searching, looking up, and analyzing companies across multiple jurisdictions. Enables LLM clients to perform company registry searches, financial lookups, compliance checks, and more.",
+  "source_repo": "juliusgerman/entyrix-mcp",
+  "source_url": "https://github.com/juliusgerman/entyrix-mcp",
+  "install": "npx -y entyrix-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "plugin-health-auditor-mcp-server",
+  "description": "Provides audit_plugin_health and prepare_semantic_review tools for deterministic inspection of Codex plugins and Agent Skills, generating evidence-backed reports without executing or transmitting target code.",
+  "source_repo": "AMATSUGI-120/plugin-health-auditor",
+  "source_url": "https://github.com/AMATSUGI-120/plugin-health-auditor",
+  "install": "# git clone --depth 1 https://github.com/AMATSUGI-120/plugin-health-auditor\n# See source for mcpServers config block"
+}

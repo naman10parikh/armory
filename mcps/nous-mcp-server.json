@@ -1,0 +1,7 @@
+{
+  "name": "nous-mcp-server",
+  "description": "Provides a context graph for GTM teams, centralizing data from multiple tools into unified person and company records, and offers MCP tools to retrieve account context, full entity details, and filtered queries.",
+  "source_repo": "NousC/opennous",
+  "source_url": "https://github.com/NousC/opennous",
+  "install": "# git clone --depth 1 https://github.com/NousC/opennous\n# See source for mcpServers config block"
+}

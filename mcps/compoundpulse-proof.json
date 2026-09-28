@@ -1,0 +1,7 @@
+{
+  "name": "compoundpulse-proof",
+  "description": "A second opinion on any ticker, before you act. The case for it, the case against it, and the price that proves it wrong.",
+  "source_repo": "CompoundPulse/proof-mcp",
+  "source_url": "https://github.com/CompoundPulse/proof-mcp",
+  "install": "npx -y proof-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aeterna-mcp",
+  "description": "Enables AI agents, including Claude, to interact with the AETERNA persistent world, leaving traces, sharing knowledge, and accessing world state and token economy.",
+  "source_repo": "SirRellik/aeterna-mcp",
+  "source_url": "https://github.com/SirRellik/aeterna-mcp",
+  "install": "npx -y aeterna-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-cost-allocator-mcp",
+  "description": "Multi-tenant LLM cost attribution for chargeback billing.",
+  "source_repo": "CSOAI-ORG/agent-cost-allocator-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/agent-cost-allocator-mcp",
+  "install": "npx -y agent-cost-allocator-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-boe-uk",
+  "description": "Enables querying Bank of England statistical data including Bank Rate, SONIA, and exchange rates via the IADB.",
+  "source_repo": "pipeworx-io/mcp-boe-uk",
+  "source_url": "https://github.com/pipeworx-io/mcp-boe-uk",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-boe-uk\n# See source for mcpServers config block"
+}

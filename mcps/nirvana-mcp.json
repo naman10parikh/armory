@@ -1,0 +1,7 @@
+{
+  "name": "nirvana-mcp",
+  "description": "MCP server that exposes NirvanaHQ (GTD task manager) to Claude Code, enabling task management and project tracking through natural language.",
+  "source_repo": "Sgoettschkes/nirvana_mcp",
+  "source_url": "https://github.com/Sgoettschkes/nirvana_mcp",
+  "install": "npx -y nirvana_mcp"
+}

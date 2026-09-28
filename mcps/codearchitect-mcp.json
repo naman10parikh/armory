@@ -1,0 +1,7 @@
+{
+  "name": "codearchitect-mcp",
+  "description": "Automatically saves and retrieves AI conversation sessions to maintain context continuity, preventing re-explaining architecture decisions.",
+  "source_repo": "tairqaldy/codearchitect-mcp",
+  "source_url": "https://github.com/tairqaldy/codearchitect-mcp",
+  "install": "npx -y codearchitect-mcp"
+}

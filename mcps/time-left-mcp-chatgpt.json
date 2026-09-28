@@ -1,0 +1,7 @@
+{
+  "name": "time-left-mcp-chatgpt",
+  "description": "Provides a single tool to display visual progress bars for time remaining in the current day, week, month, and year, enabling ChatGPT to answer 'how much time is left?' queries with elegant visualizations.",
+  "source_repo": "Areeburrehman-26/time-left-mcp-chatgpt",
+  "source_url": "https://github.com/Areeburrehman-26/time-left-mcp-chatgpt",
+  "install": "# git clone --depth 1 https://github.com/Areeburrehman-26/time-left-mcp-chatgpt\n# See source for mcpServers config block"
+}

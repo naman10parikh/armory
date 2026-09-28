@@ -1,0 +1,7 @@
+{
+  "name": "canaryusers-mcp-server",
+  "description": "Enables AI assistants to scan deployed web apps by sending a flock of AI users that identify UX issues, mobile breakage, and conversion path problems, returning prioritized, fix-ready findings.",
+  "source_repo": "CanaryUsers-ai/canaryusers-mcp",
+  "source_url": "https://github.com/CanaryUsers-ai/canaryusers-mcp",
+  "install": "npx -y canaryusers-mcp"
+}

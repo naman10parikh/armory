@@ -1,0 +1,7 @@
+{
+  "name": "cory-mem",
+  "description": "Provides persistent memory for AI assistants, enabling context retention across sessions through hybrid search and memory management tools.",
+  "source_repo": "darland6/cory-mem",
+  "source_url": "https://github.com/darland6/cory-mem",
+  "install": "# git clone --depth 1 https://github.com/darland6/cory-mem\n# See source for mcpServers config block"
+}

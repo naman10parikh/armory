@@ -1,6 +1,6 @@
 {
   "name": "glean-mcp-server",
-  "description": "Glean Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "rahul-roy-glean/glean-mcp-server",
   "source_url": "https://mcp.so/server/glean-mcp-server/rahul-roy-glean",
   "install": "npx -y glean-mcp-server"

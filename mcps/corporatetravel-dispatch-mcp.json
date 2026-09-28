@@ -1,0 +1,7 @@
+{
+  "name": "corporatetravel-dispatch-mcp",
+  "description": "MCP server exposing CS Executive Services dispatch platform and airplanes.live flight tracking as portable, agent-agnostic tools.",
+  "source_repo": "CorporateTravelDC/corporatetravel-dispatch-mcp",
+  "source_url": "https://github.com/CorporateTravelDC/corporatetravel-dispatch-mcp",
+  "install": "npx -y corporatetravel-dispatch-mcp"
+}

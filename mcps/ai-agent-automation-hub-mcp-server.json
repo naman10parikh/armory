@@ -1,0 +1,7 @@
+{
+  "name": "ai-agent-automation-hub-mcp-server",
+  "description": "Enables AI agents to manage personal expenses via natural language through add, query, summarize, and delete expense tools.",
+  "source_repo": "kalavakuntabharathkumar/AI-Agent-Automation-Hub-MCP-Based-Multi-Tool-Backend-Platform",
+  "source_url": "https://github.com/kalavakuntabharathkumar/AI-Agent-Automation-Hub-MCP-Based-Multi-Tool-Backend-Platform",
+  "install": "# git clone --depth 1 https://github.com/kalavakuntabharathkumar/AI-Agent-Automation-Hub-MCP-Based-Multi-Tool-Backend-Platform\n# See source for mcpServers config block"
+}

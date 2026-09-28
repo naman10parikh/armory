@@ -1,0 +1,7 @@
+{
+  "name": "jupyter-rmcp",
+  "description": "A self-hosted MCP server providing Claude with an interactive Jupyter environment, including real kernels, persistent notebooks, and optional GPU offload to Google Colab.",
+  "source_repo": "tmlksu/jupyter-rmcp",
+  "source_url": "https://github.com/tmlksu/jupyter-rmcp",
+  "install": "# git clone --depth 1 https://github.com/tmlksu/jupyter-rmcp\n# See source for mcpServers config block"
+}

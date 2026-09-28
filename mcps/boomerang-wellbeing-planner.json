@@ -1,0 +1,7 @@
+{
+  "name": "boomerang-wellbeing-planner",
+  "description": "Generates personalised 12-week wellbeing planners for Australian near-retirees, integrating ABS statistics and providing an interactive journey visualization.",
+  "source_repo": "gayatrimuthina-beep/boomerang-wellbeing-planner",
+  "source_url": "https://github.com/gayatrimuthina-beep/boomerang-wellbeing-planner",
+  "install": "# git clone --depth 1 https://github.com/gayatrimuthina-beep/boomerang-wellbeing-planner\n# See source for mcpServers config block"
+}

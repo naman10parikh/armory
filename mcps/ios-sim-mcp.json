@@ -1,0 +1,7 @@
+{
+  "name": "ios-sim-mcp",
+  "description": "MCP server that drives the iOS Simulator via accessibility-tree snapshots with stable element refs, enabling LLMs to interactively find, tap, type, and inspect UI elements at sub-200ms latency.",
+  "source_repo": "rmathew1973/ios-sim-mcp",
+  "source_url": "https://github.com/rmathew1973/ios-sim-mcp",
+  "install": "npx -y ios-sim-mcp"
+}

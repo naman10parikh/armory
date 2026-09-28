@@ -1,0 +1,7 @@
+{
+  "name": "vault-mcp-server",
+  "description": "Built on Obsidian Vault, this MCP server integrates with Claude Code to provide personal knowledge management including note saving, full-text search, code graph extraction, and context resumption.",
+  "source_repo": "gzlance/vault-mcp-server",
+  "source_url": "https://github.com/gzlance/vault-mcp-server",
+  "install": "npx -y vault-mcp-server"
+}

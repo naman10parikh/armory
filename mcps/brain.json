@@ -1,0 +1,7 @@
+{
+  "name": "brain",
+  "description": "A personal memory engine and MCP server that stores durable facts in markdown files managed via git, enabling hybrid search (lexical + semantic) through an MCP interface for persistent context across LLM sessions.",
+  "source_repo": "sysangel/brain-mcp",
+  "source_url": "https://github.com/sysangel/brain-mcp",
+  "install": "npx -y brain-mcp"
+}

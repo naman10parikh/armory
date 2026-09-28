@@ -1,0 +1,7 @@
+{
+  "name": "n8n-pro-mcp",
+  "description": "Full-instance management for self-hosted n8n — including queue mode — through the Model Context Protocol. 51 tools covering workflows, executions, tags, credentials, variables, projects, users, security audit, source control and health monitoring. n8n-pro-mcp connects Claude Code, Claude Desktop, Cu",
+  "source_repo": "helbertparanhos/n8n-pro-mcp",
+  "source_url": "https://github.com/helbertparanhos/n8n-pro-mcp",
+  "install": "npx -y n8n-pro-mcp"
+}

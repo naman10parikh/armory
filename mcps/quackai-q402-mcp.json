@@ -1,0 +1,7 @@
+{
+  "name": "quackai-q402-mcp",
+  "description": "MCP server for gasless USDC, USDT, RLUSD, and USDG payments across 12 EVM chains via EIP-7702, enabling quote, route, and settle stablecoin payments from any MCP client.",
+  "source_repo": "quackai-org/q402-mcp",
+  "source_url": "https://github.com/quackai-org/q402-mcp",
+  "install": "npx -y q402-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "canforge-mcp",
+  "description": "Local, read-only MCP server for inspecting DBC files and decoding CAN capture logs, with bounded and composable tools.",
+  "source_repo": "canforge/canforge-mcp",
+  "source_url": "https://github.com/canforge/canforge-mcp",
+  "install": "npx -y canforge-mcp"
+}

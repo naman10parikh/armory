@@ -1,0 +1,7 @@
+{
+  "name": "chef-s-brain",
+  "description": "A smart pantry MCP server that gives Claude live access to your pantry ingredients, enabling ingredient tracking, recipe suggestions, and expiry management through natural language.",
+  "source_repo": "ggracelu/chefs-brain",
+  "source_url": "https://github.com/ggracelu/chefs-brain",
+  "install": "# git clone --depth 1 https://github.com/ggracelu/chefs-brain\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "assemblyline-mcp",
+  "description": "Enables AI clients to submit files, hashes, and URLs for malware analysis, retrieve results, search across AssemblyLine indices, and triage alerts, all through the Model Context Protocol.",
+  "source_repo": "SauceTaster/assemblyline-mcp",
+  "source_url": "https://github.com/SauceTaster/assemblyline-mcp",
+  "install": "npx -y assemblyline-mcp"
+}

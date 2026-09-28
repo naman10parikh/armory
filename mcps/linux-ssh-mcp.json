@@ -1,0 +1,7 @@
+{
+  "name": "linux-ssh-mcp",
+  "description": "A powerful Python-based Model Context Protocol (MCP) server that enables AI assistants to manage remote Linux machines over SSH directly from your chat interface.",
+  "source_repo": "Pawangunjkar/linux-ssh-mcp",
+  "source_url": "https://github.com/Pawangunjkar/linux-ssh-mcp",
+  "install": "npx -y linux-ssh-mcp"
+}

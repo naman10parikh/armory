@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arcgis-tigard",
+  "description": "Enables AI agents to search and query City of Tigard GIS open geospatial datasets (parcels, zoning, parks, etc.) via ArcGIS Feature Services.",
+  "source_repo": "pipeworx-io/mcp-arcgis-tigard",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-tigard",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-tigard\n# See source for mcpServers config block"
+}

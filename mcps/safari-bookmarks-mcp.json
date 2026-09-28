@@ -1,0 +1,7 @@
+{
+  "name": "safari-bookmarks-mcp",
+  "description": "Manage Safari bookmarks through an MCP server, providing tools to list, search, add, remove, and organize bookmarks and folders.",
+  "source_repo": "chikingsley/safari-bookmarks-mcp",
+  "source_url": "https://github.com/chikingsley/safari-bookmarks-mcp",
+  "install": "npx -y safari-bookmarks-mcp"
+}

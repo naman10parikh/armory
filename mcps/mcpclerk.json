@@ -1,0 +1,7 @@
+{
+  "name": "mcpclerk",
+  "description": "Provides a governance proxy layer for MCP servers, enforcing per-tool allowlists, human approval for write operations, quotas, secret redaction, and a hash-chained audit log of all calls.",
+  "source_repo": "hishamalward/mcpclerk",
+  "source_url": "https://github.com/hishamalward/mcpclerk",
+  "install": "# git clone --depth 1 https://github.com/hishamalward/mcpclerk\n# See source for mcpServers config block"
+}

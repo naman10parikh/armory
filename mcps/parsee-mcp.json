@@ -1,0 +1,7 @@
+{
+  "name": "parsee-mcp",
+  "description": "MCP server that enables AI assistants to interact with the PARSE app for collecting and monitoring products on Ozon and Wildberries, with tools for search, parsing, group management, analytics, and scheduling.",
+  "source_repo": "parsee-ru/MCP",
+  "source_url": "https://github.com/parsee-ru/MCP",
+  "install": "# git clone --depth 1 https://github.com/parsee-ru/MCP\n# See source for mcpServers config block"
+}

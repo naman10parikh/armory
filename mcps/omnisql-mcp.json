@@ -1,0 +1,7 @@
+{
+  "name": "omnisql-mcp",
+  "description": "Enables AI assistants to interact with multiple SQL databases (PostgreSQL, MySQL, SQL Server, SQLite, Trino) through MCP, reusing existing DBeaver connections for queries, schema management, and transactions, with SSH tunneling and read-only mode support.",
+  "source_repo": "sangamkotalwar/omnisql-mcp",
+  "source_url": "https://github.com/sangamkotalwar/omnisql-mcp",
+  "install": "npx -y omnisql-mcp"
+}

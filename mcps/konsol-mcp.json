@@ -1,0 +1,7 @@
+{
+  "name": "konsol-mcp",
+  "description": "MCP server for configuring the konsol Frappe app via the CLI. Enables AI clients to manage dimensions, measures, fact tables, connectors, and schemas using natural language.",
+  "source_repo": "grynn-in/konsol-cli",
+  "source_url": "https://github.com/grynn-in/konsol-cli",
+  "install": "# git clone --depth 1 https://github.com/grynn-in/konsol-cli\n# See source for mcpServers config block"
+}

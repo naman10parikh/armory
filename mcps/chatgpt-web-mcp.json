@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-web-mcp",
+  "description": "An unofficial MCP server that lets MCP clients like Codex operate the ChatGPT web interface through a persistent browser, enabling prompt writing, file uploads, message sending, and reading complete responses without using the ChatGPT API.",
+  "source_repo": "Goudu666/chatgpt-web-mcp",
+  "source_url": "https://github.com/Goudu666/chatgpt-web-mcp",
+  "install": "npx -y chatgpt-web-mcp"
+}

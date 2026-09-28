@@ -1,0 +1,7 @@
+{
+  "name": "alt-festival-mcp",
+  "description": "An MCP server that lets Claude read live transcripts and notes from Alt, a real-time lecture/meeting transcription app, while a recording is in progress, pulling only new lines each time.",
+  "source_repo": "dkfmaekdnjfk/alt-festival-mcp",
+  "source_url": "https://github.com/dkfmaekdnjfk/alt-festival-mcp",
+  "install": "npx -y alt-festival-mcp"
+}

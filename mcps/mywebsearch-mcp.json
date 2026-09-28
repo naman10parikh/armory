@@ -1,0 +1,7 @@
+{
+  "name": "mywebsearch-mcp",
+  "description": "Enables AI agents to perform unified web research through a single MCP server, including search, page fetching, recursive crawling, document parsing, YouTube transcript extraction, and deep multi-query research.",
+  "source_repo": "iuiu-py/websearch-forge-mcp",
+  "source_url": "https://github.com/iuiu-py/websearch-forge-mcp",
+  "install": "npx -y websearch-forge-mcp"
+}

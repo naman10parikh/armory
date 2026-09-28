@@ -1,0 +1,7 @@
+{
+  "name": "octopus-blackboard",
+  "description": "A shared memory and coordination layer for AI coding agents that provides a tamper-evident timeline, conflict awareness, and attribution for multi-agent coding workflows.",
+  "source_repo": "octoryn/octopus-blackboard",
+  "source_url": "https://github.com/octoryn/octopus-blackboard",
+  "install": "# git clone --depth 1 https://github.com/octoryn/octopus-blackboard\n# See source for mcpServers config block"
+}

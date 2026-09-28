@@ -1,0 +1,7 @@
+{
+  "name": "lmstudio-mcp",
+  "description": "A Model Control Protocol (MCP) server that allows Claude to communicate with locally running LLM models via LM Studio.",
+  "source_repo": "samscarrow/LMStudio-MCP",
+  "source_url": "https://github.com/samscarrow/LMStudio-MCP",
+  "install": "npx -y LMStudio-MCP"
+}

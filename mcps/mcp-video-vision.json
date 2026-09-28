@@ -1,0 +1,7 @@
+{
+  "name": "mcp-video-vision",
+  "description": "MCP server that enables video analysis capabilities to Claude, including frame extraction, scene detection, and video metadata retrieval.",
+  "source_repo": "danusiojr/mcp-video-vision",
+  "source_url": "https://github.com/danusiojr/mcp-video-vision",
+  "install": "# git clone --depth 1 https://github.com/danusiojr/mcp-video-vision\n# See source for mcpServers config block"
+}

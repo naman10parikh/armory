@@ -1,0 +1,7 @@
+{
+  "name": "file-manager-mcp",
+  "description": "Enables AI agents and LLMs to perform comprehensive file system operations including CRUD, search, archive, hashing, and duplicate detection via the Model Context Protocol.",
+  "source_repo": "parthRana26/file-manager-mcp",
+  "source_url": "https://github.com/parthRana26/file-manager-mcp",
+  "install": "npx -y file-manager-mcp"
+}

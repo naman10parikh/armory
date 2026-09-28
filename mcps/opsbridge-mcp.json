@@ -1,0 +1,7 @@
+{
+  "name": "opsbridge-mcp",
+  "description": "Enables AI clients to search and retrieve customer and support-ticket data from a SQLite database, and to create support tickets only when an explicit approval flag is supplied, with all actions validated and audit-logged.",
+  "source_repo": "ivantagesam/opsbridge-mcp",
+  "source_url": "https://github.com/ivantagesam/opsbridge-mcp",
+  "install": "npx -y opsbridge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pr-recommender",
+  "description": "Intelligent PR boundary detection and recommendation system that analyzes git changes to generate atomic, logically-grouped pull request suggestions with titles, descriptions, and rationale.",
+  "source_repo": "manavgup/mcp_pr_recommender",
+  "source_url": "https://github.com/manavgup/mcp_pr_recommender",
+  "install": "# git clone --depth 1 https://github.com/manavgup/mcp_pr_recommender\n# See source for mcpServers config block"
+}

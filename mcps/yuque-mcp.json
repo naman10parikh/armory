@@ -1,0 +1,7 @@
+{
+  "name": "yuque-mcp",
+  "description": "A Model Context Protocol service that enables AI agents to securely access and operate Yuque knowledge bases via the Yuque OpenAPI.",
+  "source_repo": "Lorwy/yuque-mcp",
+  "source_url": "https://github.com/Lorwy/yuque-mcp",
+  "install": "npx -y yuque-mcp"
+}

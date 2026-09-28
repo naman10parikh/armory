@@ -1,0 +1,7 @@
+{
+  "name": "victoriametrics-mcp",
+  "description": "MCP server for querying VictoriaMetrics (PromQL/MetricsQL) and VictoriaLogs (LogsQL), also compatible with Prometheus, returning compact text summaries for LLM agents.",
+  "source_repo": "Plawn/victoriametrics-mcp",
+  "source_url": "https://github.com/Plawn/victoriametrics-mcp",
+  "install": "npx -y victoriametrics-mcp"
+}

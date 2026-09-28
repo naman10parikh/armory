@@ -1,0 +1,7 @@
+{
+  "name": "whykiki-anything-world-mcp",
+  "description": "An MCP server that enables Claude and other clients to generate, animate, and search 3D models using the Anything World API.",
+  "source_repo": "TheWhykiki/whykiki-anything-world-mcp",
+  "source_url": "https://github.com/TheWhykiki/whykiki-anything-world-mcp",
+  "install": "npx -y whykiki-anything-world-mcp"
+}

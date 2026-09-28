@@ -1,0 +1,7 @@
+{
+  "name": "opencode-native-tools",
+  "description": "An MCP server that provides OpenCode's native tools (file read/write/edit, search, shell, web fetch/search, and more) to compatible Code CLIs like Codex and Claude Code.",
+  "source_repo": "ShiYioo/opencode_native_tools",
+  "source_url": "https://github.com/ShiYioo/opencode_native_tools",
+  "install": "# git clone --depth 1 https://github.com/ShiYioo/opencode_native_tools\n# See source for mcpServers config block"
+}

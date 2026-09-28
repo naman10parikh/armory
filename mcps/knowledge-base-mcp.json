@@ -1,0 +1,7 @@
+{
+  "name": "knowledge-base-mcp",
+  "description": "Exposes a knowledge base to LLM clients through tools, resources, and prompts.",
+  "source_repo": "gabor-trainer/knowledge-base-mcp",
+  "source_url": "https://github.com/gabor-trainer/knowledge-base-mcp",
+  "install": "npx -y knowledge-base-mcp"
+}

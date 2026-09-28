@@ -1,0 +1,7 @@
+{
+  "name": "dutch-law-mcp",
+  "description": "Enables querying over 3,200 Dutch statutes (AVG, Wetboek van Strafrecht, Burgerlijk Wetboek, etc.) with verbatim, citation-grounded text from official sources, directly from MCP-compatible AI assistants.",
+  "source_repo": "Ansvar-Systems/Dutch-law-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/Dutch-law-mcp",
+  "install": "npx -y Dutch-law-mcp"
+}

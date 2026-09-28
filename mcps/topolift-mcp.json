@@ -1,0 +1,7 @@
+{
+  "name": "topolift-mcp",
+  "description": "Exposes TopoLift's atom-grounded negotiation reasoning to MCP-capable agents, providing tools to fetch a negotiation vocabulary and perform structured negotiation with traceable citations.",
+  "source_repo": "TopoLift/topolift-mcp",
+  "source_url": "https://github.com/TopoLift/topolift-mcp",
+  "install": "npx -y topolift-mcp"
+}

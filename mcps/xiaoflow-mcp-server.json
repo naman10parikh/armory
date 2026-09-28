@@ -1,0 +1,7 @@
+{
+  "name": "xiaoflow-mcp-server",
+  "description": "Free keyword research with live search volume, CPC, competition and 12-month trends.",
+  "source_repo": "xiaoq-in/xiaoflow-mcp",
+  "source_url": "https://github.com/xiaoq-in/xiaoflow-mcp",
+  "install": "npx -y xiaoflow-mcp"
+}

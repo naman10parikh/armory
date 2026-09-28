@@ -1,0 +1,7 @@
+{
+  "name": "shopify-store-builder-mcp",
+  "description": "MCP server for building Shopify stores with AI, letting Claude Code and other clients edit themes, pages, and navigation via the Admin GraphQL API. Credentials stay on your machine as the server runs locally.",
+  "source_repo": "nazariinalyvaikobs/shopify-store-builder-mcp",
+  "source_url": "https://github.com/nazariinalyvaikobs/shopify-store-builder-mcp",
+  "install": "npx -y shopify-store-builder-mcp"
+}

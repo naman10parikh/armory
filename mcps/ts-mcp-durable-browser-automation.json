@@ -1,0 +1,7 @@
+{
+  "name": "ts-mcp-durable-browser-automation",
+  "description": "MCP server for robust browser automation of legacy web portals, featuring exactly-once execution via an SQLite-backed idempotency lock and resilient Playwright locators.",
+  "source_repo": "irgiaryanda/ts-mcp-durable-browser-automation",
+  "source_url": "https://github.com/irgiaryanda/ts-mcp-durable-browser-automation",
+  "install": "# git clone --depth 1 https://github.com/irgiaryanda/ts-mcp-durable-browser-automation\n# See source for mcpServers config block"
+}

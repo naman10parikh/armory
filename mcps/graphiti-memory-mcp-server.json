@@ -1,0 +1,7 @@
+{
+  "name": "graphiti-memory-mcp-server",
+  "description": "Enables AI agents to manage and query a temporally-aware knowledge graph memory, supporting episode tracking, entity relationships, and semantic search via MCP tools.",
+  "source_repo": "mjunaidca/graphiti_memory_mcp_server",
+  "source_url": "https://github.com/mjunaidca/graphiti_memory_mcp_server",
+  "install": "npx -y graphiti_memory_mcp_server"
+}

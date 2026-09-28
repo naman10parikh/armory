@@ -1,0 +1,7 @@
+{
+  "name": "kenpom-mcp",
+  "description": "Provides access to KenPom basketball analytics through MCP tools. Enables querying ratings, efficiency, player stats, and more using natural language.",
+  "source_repo": "dburge86/kenpom-mcp",
+  "source_url": "https://github.com/dburge86/kenpom-mcp",
+  "install": "npx -y kenpom-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kong-admin-api-mcp-server",
+  "description": "Exposes the full Kong Gateway Admin API as MCP tools, enabling AI assistants to manage services, routes, consumers, plugins, upstreams, and more.",
+  "source_repo": "Monohitoxx/kongapigateway-mcp-server",
+  "source_url": "https://github.com/Monohitoxx/kongapigateway-mcp-server",
+  "install": "npx -y kongapigateway-mcp-server"
+}

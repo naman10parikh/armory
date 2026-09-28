@@ -1,0 +1,7 @@
+{
+  "name": "agentic-automl-data-scientist-mcp",
+  "description": "An AI platform that automates the complete machine learning workflow using LangGraph agents and integrates with MCP servers for file, compute, and database operations.",
+  "source_repo": "Harishrajan77/Agentic-AutoML-MCP",
+  "source_url": "https://github.com/Harishrajan77/Agentic-AutoML-MCP",
+  "install": "npx -y Agentic-AutoML-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mailpal-mcp",
+  "description": "Free email for AI agents with hardware attestation, real SMTP/IMAP/JMAP, and real-time notifications.",
+  "source_repo": "mailpal-com/mcp-python",
+  "source_url": "https://github.com/mailpal-com/mcp-python",
+  "install": "# git clone --depth 1 https://github.com/mailpal-com/mcp-python\n# See source for mcpServers config block"
+}

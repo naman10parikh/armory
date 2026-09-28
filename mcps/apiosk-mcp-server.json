@@ -1,0 +1,7 @@
+{
+  "name": "apiosk-mcp-server",
+  "description": "Discover, pay for, execute, and publish monetized APIs directly from your agent, settled per call in USDC over x402, through the Model Context Protocol.",
+  "source_repo": "obcraft/apiosk-mcp",
+  "source_url": "https://github.com/obcraft/apiosk-mcp",
+  "install": "npx -y apiosk-mcp"
+}

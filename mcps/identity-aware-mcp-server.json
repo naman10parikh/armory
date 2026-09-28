@@ -1,0 +1,7 @@
+{
+  "name": "identity-aware-mcp-server",
+  "description": "A production-ready MCP server that authenticates agents via OAuth 2.1 Bearer tokens, validates JWTs with JWKS, enforces tool-level scopes and roles, and logs the full delegation chain.",
+  "source_repo": "pravin-khandke/identity-aware-mcp-server",
+  "source_url": "https://github.com/pravin-khandke/identity-aware-mcp-server",
+  "install": "npx -y identity-aware-mcp-server"
+}

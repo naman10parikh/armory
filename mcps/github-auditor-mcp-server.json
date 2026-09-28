@@ -1,0 +1,7 @@
+{
+  "name": "github-auditor-mcp-server",
+  "description": "Transforms messy commit histories into clean, secure repositories by scanning for secrets, sanitizing history, and generating professional reports.",
+  "source_repo": "westkevin12/repo-mcp",
+  "source_url": "https://github.com/westkevin12/repo-mcp",
+  "install": "npx -y repo-mcp"
+}

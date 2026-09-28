@@ -1,0 +1,7 @@
+{
+  "name": "hwca-mcp-server",
+  "description": "Enables AI assistants to automate context-management tasks for the Horizon Worlds editor by executing system commands, reading/writing files, and managing processes.",
+  "source_repo": "AndyLiner13/hwca-mcp",
+  "source_url": "https://github.com/AndyLiner13/hwca-mcp",
+  "install": "npx -y hwca-mcp"
+}

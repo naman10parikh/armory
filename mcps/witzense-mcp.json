@@ -1,0 +1,7 @@
+{
+  "name": "witzense-mcp",
+  "description": "Enables interaction with the Witzense/JIMI device tracking Open API, providing tools for device tracking, locations, alarms, reports, OBD data, and geofences.",
+  "source_repo": "MightyCMEMBRENO/WITZENSE-MCP",
+  "source_url": "https://github.com/MightyCMEMBRENO/WITZENSE-MCP",
+  "install": "npx -y WITZENSE-MCP"
+}

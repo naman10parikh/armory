@@ -1,0 +1,7 @@
+{
+  "name": "sitefinitymcp",
+  "description": "Enables AI clients to read and query content from a Progress Sitefinity CMS instance via its OData API. Tools are dynamically generated from the live service metadata, supporting filtering, searching, and navigation across content types.",
+  "source_repo": "jaysanderson/SitefinityMCP",
+  "source_url": "https://github.com/jaysanderson/SitefinityMCP",
+  "install": "# git clone --depth 1 https://github.com/jaysanderson/SitefinityMCP\n# See source for mcpServers config block"
+}

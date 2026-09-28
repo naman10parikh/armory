@@ -1,0 +1,7 @@
+{
+  "name": "mcp-cloudflare-dns",
+  "description": "Cloudflare DNS MCP server. Manage zones, DNS records, cache, and page rules from Claude, Cursor, Codex, or any MCP-compatible AI assistant.",
+  "source_repo": "apexradius/mcp-cloudflare-dns",
+  "source_url": "https://github.com/apexradius/mcp-cloudflare-dns",
+  "install": "# git clone --depth 1 https://github.com/apexradius/mcp-cloudflare-dns\n# See source for mcpServers config block"
+}

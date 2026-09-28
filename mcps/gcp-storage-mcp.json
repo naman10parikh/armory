@@ -1,0 +1,7 @@
+{
+  "name": "gcp-storage-mcp",
+  "description": "Enables interaction with Google Cloud Storage buckets and blobs through an MCP server, supporting operations like listing, uploading, searching, batch operations, and generating signed URLs.",
+  "source_repo": "uysalserkan/gcp-storage-mcp",
+  "source_url": "https://github.com/uysalserkan/gcp-storage-mcp",
+  "install": "npx -y gcp-storage-mcp"
+}

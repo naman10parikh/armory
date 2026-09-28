@@ -1,0 +1,7 @@
+{
+  "name": "sensei",
+  "description": "Enables Japanese language gap analysis and remediation through adaptive probes, evidence tracking, and prerequisite-aware study queues.",
+  "source_repo": "jethac/hermes-sensei",
+  "source_url": "https://github.com/jethac/hermes-sensei",
+  "install": "# git clone --depth 1 https://github.com/jethac/hermes-sensei\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-registry",
+  "description": "Centralized registry for MCP tools, resources, and prompt templates with JSON schema validation and role-based access control filtering.",
+  "source_repo": "Devopstrio/mcp-registry",
+  "source_url": "https://github.com/Devopstrio/mcp-registry",
+  "install": "# git clone --depth 1 https://github.com/Devopstrio/mcp-registry\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "moxfield-mcp",
+  "description": "Enables searching public decklists, fetching deck card lists and prices from Moxfield's deckbuilding platform through Claude.",
+  "source_repo": "Raunak1571/moxfield-mcp",
+  "source_url": "https://github.com/Raunak1571/moxfield-mcp",
+  "install": "npx -y moxfield-mcp"
+}

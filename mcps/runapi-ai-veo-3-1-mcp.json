@@ -1,0 +1,7 @@
+{
+  "name": "runapi-ai-veo-3-1-mcp",
+  "description": "MCP server for Veo 3.1 video generation models, enabling task creation (extend, text-to-video, upscale), status polling, and pricing checks via RunAPI.",
+  "source_repo": "runapi-ai/veo-3-1-mcp",
+  "source_url": "https://github.com/runapi-ai/veo-3-1-mcp",
+  "install": "npx -y veo-3-1-mcp"
+}

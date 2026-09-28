@@ -1,0 +1,7 @@
+{
+  "name": "pet-grooming-analytics-mcp",
+  "description": "A read-only MCP server that connects to a pet-grooming database, exposing secure analytics tools for customers, pets, appointments, services, and payments.",
+  "source_repo": "Bert305/pet_grooming_mcp",
+  "source_url": "https://github.com/Bert305/pet_grooming_mcp",
+  "install": "npx -y pet_grooming_mcp"
+}

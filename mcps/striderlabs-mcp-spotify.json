@@ -1,0 +1,7 @@
+{
+  "name": "striderlabs-mcp-spotify",
+  "description": "MCP server for Spotify that lets AI agents search music, control playback, and manage playlists via the Spotify Web API.",
+  "source_repo": "markswendsen-code/mcp-spotify",
+  "source_url": "https://github.com/markswendsen-code/mcp-spotify",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-spotify\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tilda-mcp-cdp",
+  "description": "MCP server for Tilda with mass editing capabilities, combining read-only official API tools and write actions via Chrome CDP for tasks like setting Metrika, replacing code and links, publishing pages, and verifying live content.",
+  "source_repo": "skiddgoddamn/tilda-mcp-cdp",
+  "source_url": "https://github.com/skiddgoddamn/tilda-mcp-cdp",
+  "install": "# git clone --depth 1 https://github.com/skiddgoddamn/tilda-mcp-cdp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openwrt-mcp",
+  "description": "Provides full administrative control of OpenWRT routers via SSH, with a preview-confirm safety model for mutating operations.",
+  "source_repo": "sina-haseli/openwrt-mcp",
+  "source_url": "https://github.com/sina-haseli/openwrt-mcp",
+  "install": "npx -y openwrt-mcp"
+}

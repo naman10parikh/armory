@@ -1,0 +1,7 @@
+{
+  "name": "mcp-typebot",
+  "description": "Enables natural language management of Typebot bots: create, update, publish, list results, and start chat sessions via Claude Desktop.",
+  "source_repo": "carlosventurar/mcp-typebot-startchat-fix",
+  "source_url": "https://github.com/carlosventurar/mcp-typebot-startchat-fix",
+  "install": "# git clone --depth 1 https://github.com/carlosventurar/mcp-typebot-startchat-fix\n# See source for mcpServers config block"
+}

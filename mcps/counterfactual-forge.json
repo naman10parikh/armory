@@ -1,0 +1,7 @@
+{
+  "name": "counterfactual-forge",
+  "description": "Enables AI agents to fork plans into counterfactual worlds, score them with rubrics and simulations, detect contradictions, measure regret, and merge a winner with a full audit trail.",
+  "source_repo": "SanjoyDat1/counterfactual-forge",
+  "source_url": "https://github.com/SanjoyDat1/counterfactual-forge",
+  "install": "# git clone --depth 1 https://github.com/SanjoyDat1/counterfactual-forge\n# See source for mcpServers config block"
+}

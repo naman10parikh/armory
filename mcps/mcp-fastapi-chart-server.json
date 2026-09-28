@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fastapi-chart-server",
+  "description": "Generates matplotlib charts via a FastAPI service, supporting line, bar, scatter, and pie charts with customizable labels and data.",
+  "source_repo": "rvibek/mcp-unhcrtheme",
+  "source_url": "https://github.com/rvibek/mcp-unhcrtheme",
+  "install": "# git clone --depth 1 https://github.com/rvibek/mcp-unhcrtheme\n# See source for mcpServers config block"
+}

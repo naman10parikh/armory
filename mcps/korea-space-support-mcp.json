@@ -1,0 +1,7 @@
+{
+  "name": "korea-space-support-mcp",
+  "description": "AI agents can search and match Korean space, aerospace, and defense R\\&D support program announcements. It provides MCP tools to filter by applicant type, deadline, and source family.",
+  "source_repo": "AgentBridge-Lab/korea-space-support-mcp",
+  "source_url": "https://github.com/AgentBridge-Lab/korea-space-support-mcp",
+  "install": "npx -y korea-space-support-mcp"
+}

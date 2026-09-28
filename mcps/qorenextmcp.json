@@ -1,0 +1,7 @@
+{
+  "name": "qorenextmcp",
+  "description": "Enables company hierarchy analysis and address verification through MCP, allowing submission of entities for screening, duplicate detection, and status polling.",
+  "source_repo": "QoreNext-IT/QoreNextMCP",
+  "source_url": "https://github.com/QoreNext-IT/QoreNextMCP",
+  "install": "# git clone --depth 1 https://github.com/QoreNext-IT/QoreNextMCP\n# See source for mcpServers config block"
+}

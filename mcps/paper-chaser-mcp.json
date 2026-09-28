@@ -1,0 +1,7 @@
+{
+  "name": "paper-chaser-mcp",
+  "description": "Enables AI assistants to conduct academic research workflows such as paper discovery, literature mapping, citation chasing, author pivots, citation repair, and regulatory or species document retrieval.",
+  "source_repo": "joshuasundance-swca/paper-chaser-mcp",
+  "source_url": "https://github.com/joshuasundance-swca/paper-chaser-mcp",
+  "install": "npx -y paper-chaser-mcp"
+}

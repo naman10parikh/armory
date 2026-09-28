@@ -1,0 +1,7 @@
+{
+  "name": "cn-financial-mcp",
+  "description": "Provides access to Chinese mainland financial data including A-stock quotes, financial statements, industry analysis, and macroeconomics through 42 MCP tools, with automatic data source fallback and no API key required.",
+  "source_repo": "ccq1/cn-financial-mcp",
+  "source_url": "https://github.com/ccq1/cn-financial-mcp",
+  "install": "npx -y cn-financial-mcp"
+}

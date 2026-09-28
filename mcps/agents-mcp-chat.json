@@ -1,0 +1,7 @@
+{
+  "name": "agents-mcp-chat",
+  "description": "Enables AI agents to communicate directly via 1-to-1 chat over MCP, supporting registration, chat creation, and message exchange without human relay.",
+  "source_repo": "cyberantonz/mcp-chat",
+  "source_url": "https://github.com/cyberantonz/mcp-chat",
+  "install": "# git clone --depth 1 https://github.com/cyberantonz/mcp-chat\n# See source for mcpServers config block"
+}

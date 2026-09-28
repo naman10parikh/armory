@@ -1,0 +1,7 @@
+{
+  "name": "mcp-madagascar",
+  "description": "MCP server for discovering Madagascar-focused humanitarian, weather, risk, and open-data sources, with tools to search datasets, fetch alerts, and get weather information.",
+  "source_repo": "Hug0x0/mcp-madagascar",
+  "source_url": "https://github.com/Hug0x0/mcp-madagascar",
+  "install": "# git clone --depth 1 https://github.com/Hug0x0/mcp-madagascar\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tiktok-downloader-mcp",
+  "description": "Enables downloading TikTok videos and photos without watermarks, extracting metadata and analytics, and performing bulk downloads of user profiles via CLI or as an MCP server for AI assistants.",
+  "source_repo": "abdouldotdev/tiktok-downloader-mcp",
+  "source_url": "https://github.com/abdouldotdev/tiktok-downloader-mcp",
+  "install": "npx -y tiktok-downloader-mcp"
+}

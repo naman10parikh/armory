@@ -1,0 +1,7 @@
+{
+  "name": "acmezone-data-mcp",
+  "description": "Read-only MCP server for internal Amazon business data, exposing 19 tools to query sales, inventory, and financial metrics.",
+  "source_repo": "chensy115/mcp",
+  "source_url": "https://github.com/chensy115/mcp",
+  "install": "# git clone --depth 1 https://github.com/chensy115/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "oh-my-cassette",
+  "description": "Chat raw clips into a finished cut. Ingest local media, then drive a persistent multi-turn editing thread on the Cassette agent.",
+  "source_repo": "Cassette-Editor/oh-my-cassette",
+  "source_url": "https://github.com/Cassette-Editor/oh-my-cassette",
+  "install": "# git clone --depth 1 https://github.com/Cassette-Editor/oh-my-cassette\n# See source for mcpServers config block"
+}

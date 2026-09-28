@@ -1,0 +1,7 @@
+{
+  "name": "bastion",
+  "description": "A local-first control plane for AI agent tools, providing policy enforcement, spend caps, rate limiting, and audit trails for MCP servers.",
+  "source_repo": "SoumilBhandari/Bastion",
+  "source_url": "https://github.com/SoumilBhandari/Bastion",
+  "install": "# git clone --depth 1 https://github.com/SoumilBhandari/Bastion\n# See source for mcpServers config block"
+}

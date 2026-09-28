@@ -1,0 +1,7 @@
+{
+  "name": "google-forms-mcp-extended",
+  "description": "Enables creating, editing, publishing, and inspecting Google Forms from Codex, with 22 tools for question authoring, quizzes, media, item management, and response retrieval.",
+  "source_repo": "xari-ya/google-forms-mcp-extended",
+  "source_url": "https://github.com/xari-ya/google-forms-mcp-extended",
+  "install": "# git clone --depth 1 https://github.com/xari-ya/google-forms-mcp-extended\n# See source for mcpServers config block"
+}

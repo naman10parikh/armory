@@ -1,0 +1,7 @@
+{
+  "name": "openrouter-model-selector-mcp",
+  "description": "MCP server that helps AI assistants automatically find, filter, and rank the best AI models for a specific task using the OpenRouter API.",
+  "source_repo": "rifatsaltoglu/OpenRouter-Model-Selector-MCP",
+  "source_url": "https://github.com/rifatsaltoglu/OpenRouter-Model-Selector-MCP",
+  "install": "npx -y OpenRouter-Model-Selector-MCP"
+}

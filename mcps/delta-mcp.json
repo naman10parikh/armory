@@ -1,0 +1,7 @@
+{
+  "name": "delta-mcp",
+  "description": "Token-efficient MCP reimplementation with progressive tool discovery, result handling, and compact wire encoding, reducing token usage by up to 89% on tool definitions.",
+  "source_repo": "norhther/delta-mcp",
+  "source_url": "https://github.com/norhther/delta-mcp",
+  "install": "npx -y delta-mcp"
+}

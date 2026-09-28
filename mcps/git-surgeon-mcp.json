@@ -1,0 +1,7 @@
+{
+  "name": "git-surgeon-mcp",
+  "description": "An MCP server that gives AI agents safe, non-interactive Git history editing — squashing, rewording, and reflog rescue — without ever hanging on a Vim buffer.",
+  "source_repo": "mustafatekiinn/git-surgeon-mcp",
+  "source_url": "https://github.com/mustafatekiinn/git-surgeon-mcp",
+  "install": "npx -y git-surgeon-mcp"
+}

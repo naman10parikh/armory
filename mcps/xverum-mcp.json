@@ -1,0 +1,7 @@
+{
+  "name": "xverum-mcp",
+  "description": "Find and enrich the right people from 750M professional profiles. Search by role, seniority, skills, industry, and location in plain English. Pull profiles with work history, education, and seniority, then see who's likely to change jobs next with Next Move Signal. Built for AI products and agents:",
+  "source_repo": "Xverum-LLC/xverum-mcp",
+  "source_url": "https://github.com/Xverum-LLC/xverum-mcp",
+  "install": "npx -y xverum-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cuad-audit",
+  "description": "An MCP server that audits a contract liability clause against a derived company standard, producing a verdict only when grounded in retrieved evidence and passing a faithfulness check. It abstains with 'insufficient-grounding' when evidence is too weak.",
+  "source_repo": "master997/luminance",
+  "source_url": "https://github.com/master997/luminance",
+  "install": "# git clone --depth 1 https://github.com/master997/luminance\n# See source for mcpServers config block"
+}

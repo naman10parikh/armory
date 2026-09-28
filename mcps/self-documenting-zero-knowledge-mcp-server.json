@@ -1,0 +1,7 @@
+{
+  "name": "self-documenting-zero-knowledge-mcp-server",
+  "description": "This MCP server autonomously introspects SQLite databases to auto-generate CRUD tools and join prompts, while enforcing zero-knowledge security through pre-validated SQL templates.",
+  "source_repo": "lavishshakya/Self-Documenting-Zero-Knowledge-MCP-Server",
+  "source_url": "https://github.com/lavishshakya/Self-Documenting-Zero-Knowledge-MCP-Server",
+  "install": "npx -y Self-Documenting-Zero-Knowledge-MCP-Server"
+}

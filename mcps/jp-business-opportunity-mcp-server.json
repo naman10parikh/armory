@@ -1,0 +1,7 @@
+{
+  "name": "jp-business-opportunity-mcp-server",
+  "description": "Exposes deadline-driven Japanese public-sector business opportunity data (tenders, subsidies, sanctions) to AI agents, with per-call payment via the x402 protocol.",
+  "source_repo": "kodandy/jp-biz-opportunity-mcp",
+  "source_url": "https://github.com/kodandy/jp-biz-opportunity-mcp",
+  "install": "npx -y jp-biz-opportunity-mcp"
+}

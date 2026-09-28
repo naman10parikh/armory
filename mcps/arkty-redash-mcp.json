@@ -1,0 +1,7 @@
+{
+  "name": "arkty-redash-mcp",
+  "description": "Enables executing SQL queries, exploring database schemas, and exporting results from Redash via MCP, with ad-hoc queries and write protection.",
+  "source_repo": "arkty/redash-mcp",
+  "source_url": "https://github.com/arkty/redash-mcp",
+  "install": "npx -y redash-mcp"
+}

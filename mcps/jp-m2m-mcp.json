@@ -1,0 +1,7 @@
+{
+  "name": "jp-m2m-mcp",
+  "description": "MCP server providing raw Japanese regulatory corporate data, including pension headcount logs, statutory financial disclosures, and government procurement records, metered via x402 micro-payments.",
+  "source_repo": "kodandy/jp-m2m-mcp",
+  "source_url": "https://github.com/kodandy/jp-m2m-mcp",
+  "install": "npx -y jp-m2m-mcp"
+}

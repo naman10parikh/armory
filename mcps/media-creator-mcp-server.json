@@ -1,0 +1,7 @@
+{
+  "name": "media-creator-mcp-server",
+  "description": "Provides tools to generate images using Amazon Nova Canvas and videos using Amazon Nova Reel models via Amazon Bedrock and S3.",
+  "source_repo": "mcp-research/dvejsada__mcp_media_generator",
+  "source_url": "https://github.com/mcp-research/dvejsada__mcp_media_generator",
+  "install": "# git clone --depth 1 https://github.com/mcp-research/dvejsada__mcp_media_generator\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "browser-runtime-mcp",
+  "description": "Enables AI agents to monitor and debug browser runtime errors, console logs, and page diagnostics in real time via a Chrome extension and local MCP server.",
+  "source_repo": "MakiDevelop/browser-runtime-mcp",
+  "source_url": "https://github.com/MakiDevelop/browser-runtime-mcp",
+  "install": "npx -y browser-runtime-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "crewone-mcp-server",
+  "description": "MCP server for CrewOne that enables AI agents to query Taiwan film equipment rates, studio rentals, and photographer/director style references, and optionally generate full pre-production packages with an API key.",
+  "source_repo": "tzipway-dotcom/crewone-mcp-server",
+  "source_url": "https://github.com/tzipway-dotcom/crewone-mcp-server",
+  "install": "npx -y crewone-mcp-server"
+}

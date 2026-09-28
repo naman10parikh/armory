@@ -1,0 +1,7 @@
+{
+  "name": "software-planning-tool",
+  "description": "An MCP server that facilitates interactive software development planning by breaking down projects into manageable tasks, tracking progress, and saving implementation plans.",
+  "source_repo": "SolonaBot/Software-planning-mcp",
+  "source_url": "https://github.com/SolonaBot/Software-planning-mcp",
+  "install": "npx -y Software-planning-mcp"
+}

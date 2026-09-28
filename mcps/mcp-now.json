@@ -1,0 +1,7 @@
+{
+  "name": "mcp-now",
+  "description": "Provides tools to get the current date and time, with optional timezone support, designed for testing MCP compatibility.",
+  "source_repo": "jeromeetienne/mcp-now",
+  "source_url": "https://github.com/jeromeetienne/mcp-now",
+  "install": "# git clone --depth 1 https://github.com/jeromeetienne/mcp-now\n# See source for mcpServers config block"
+}

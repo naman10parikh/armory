@@ -1,0 +1,7 @@
+{
+  "name": "firstreply-mcp-server",
+  "description": "Exposes FirstReply customer support operations as MCP tools, enabling AI assistants to browse conversations, draft replies, manage API keys, and access support statistics.",
+  "source_repo": "FirstReply/firstreply-mcp",
+  "source_url": "https://github.com/FirstReply/firstreply-mcp",
+  "install": "npx -y firstreply-mcp"
+}

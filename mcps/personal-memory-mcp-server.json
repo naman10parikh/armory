@@ -1,0 +1,7 @@
+{
+  "name": "personal-memory-mcp-server",
+  "description": "Gives AI assistants persistent read/write access to your personal memory (books, games, projects, notes, facts) via Cloudflare Workers.",
+  "source_repo": "tonyRaafat/persistent-memory-custom-mcp",
+  "source_url": "https://github.com/tonyRaafat/persistent-memory-custom-mcp",
+  "install": "npx -y persistent-memory-custom-mcp"
+}

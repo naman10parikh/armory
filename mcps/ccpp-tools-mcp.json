@@ -1,0 +1,7 @@
+{
+  "name": "ccpp-tools-mcp",
+  "description": "MCP server providing deterministic, standards-traceable engineering calculations for combined-cycle power plant balance-of-plant design, such as fluid properties, pipe sizing, pump NPSH, and valve sizing, with every result including method, assumptions, and warnings.",
+  "source_repo": "jinhyunan/ccpp-tools-mcp",
+  "source_url": "https://github.com/jinhyunan/ccpp-tools-mcp",
+  "install": "npx -y ccpp-tools-mcp"
+}

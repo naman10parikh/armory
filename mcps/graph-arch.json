@@ -1,0 +1,7 @@
+{
+  "name": "graph-arch",
+  "description": "Neo4j-backed MCP server managing code architecture dependency graphs, enabling AI agents to query impact, submit change intents, and coordinate reactive multi-agent workflows.",
+  "source_repo": "3486038424/neo4j_mcp_controller",
+  "source_url": "https://github.com/3486038424/neo4j_mcp_controller",
+  "install": "# git clone --depth 1 https://github.com/3486038424/neo4j_mcp_controller\n# See source for mcpServers config block"
+}

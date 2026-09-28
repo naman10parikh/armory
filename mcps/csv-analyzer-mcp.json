@@ -1,0 +1,7 @@
+{
+  "name": "csv-analyzer-mcp",
+  "description": "Enables AI assistants to analyze CSV files by providing statistical analysis and structural summaries via MCP tools.",
+  "source_repo": "Gakuji3/csv-analyzer-mcp",
+  "source_url": "https://github.com/Gakuji3/csv-analyzer-mcp",
+  "install": "npx -y csv-analyzer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "profitelligence-mcp-server",
+  "description": "Financial intelligence for AI agents. Give Claude access to insider trading data, SEC filings, economic indicators, and multi-signal analysis — all through a single MCP server.",
+  "source_repo": "profitelligence/profitelligence-mcp-server",
+  "source_url": "https://github.com/profitelligence/profitelligence-mcp-server",
+  "install": "npx -y profitelligence-mcp-server"
+}

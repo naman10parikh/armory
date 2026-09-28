@@ -1,0 +1,7 @@
+{
+  "name": "x402-receipt-verifier",
+  "description": "Enables auditing x402 payment logs against delivery logs to issue signed proof-of-delivery receipts and verify payer spend health.",
+  "source_repo": "nexus-mcp-infra/x402-receipt-verifier",
+  "source_url": "https://github.com/nexus-mcp-infra/x402-receipt-verifier",
+  "install": "# git clone --depth 1 https://github.com/nexus-mcp-infra/x402-receipt-verifier\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "exd-accelerator-mcp-server",
+  "description": "AI-native Experience Decisioning lifecycle automation for Adobe Journey Optimizer, enabling end-to-end ExD setup from CSV to placements via 21 MCP tools.",
+  "source_repo": "Vikas-O7/exd-accelerator-mcp",
+  "source_url": "https://github.com/Vikas-O7/exd-accelerator-mcp",
+  "install": "npx -y exd-accelerator-mcp"
+}

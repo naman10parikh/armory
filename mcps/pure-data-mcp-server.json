@@ -1,0 +1,7 @@
+{
+  "name": "pure-data-mcp-server",
+  "description": "Enables natural language control of Pure Data patches through Claude AI, allowing dynamic creation, modification, and DSP control via the Model Context Protocol.",
+  "source_repo": "nikmaniatis/Pd-MCP-Server",
+  "source_url": "https://github.com/nikmaniatis/Pd-MCP-Server",
+  "install": "npx -y Pd-MCP-Server"
+}

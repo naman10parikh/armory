@@ -1,0 +1,7 @@
+{
+  "name": "ghost-mcp",
+  "description": "An MCP server for interacting with Ghost CMS blogs through AI assistants, supporting both read-only content and full admin operations.",
+  "source_repo": "workspace/ghost-mcp",
+  "source_url": "https://github.com/workspace/ghost-mcp",
+  "install": "npx -y ghost-mcp"
+}

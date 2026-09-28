@@ -1,0 +1,7 @@
+{
+  "name": "mac-use",
+  "description": "Provides an MCP server for macOS that allows agents to control a managed browser with accessibility-first actions, visible cursor, and screenshot return.",
+  "source_repo": "CarlvinceTan/mac-use",
+  "source_url": "https://github.com/CarlvinceTan/mac-use",
+  "install": "# git clone --depth 1 https://github.com/CarlvinceTan/mac-use\n# See source for mcpServers config block"
+}

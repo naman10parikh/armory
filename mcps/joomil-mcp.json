@@ -1,0 +1,7 @@
+{
+  "name": "joomil-mcp",
+  "description": "Enables searching and browsing 45,000+ classified ads on Joomil.ch, including filtering by category, canton, price, and location, retrieving listing details, and exploring categories.",
+  "source_repo": "Valmo-Sarl/joomil-mcp",
+  "source_url": "https://github.com/Valmo-Sarl/joomil-mcp",
+  "install": "npx -y joomil-mcp"
+}

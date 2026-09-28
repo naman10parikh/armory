@@ -1,0 +1,7 @@
+{
+  "name": "local-model-workers-mcp",
+  "description": "A local MCP server that lets Claude Code and Codex delegate repository exploration and test proposals to a remote LM Studio model, while enforcing security boundaries by keeping all repository access read-only and never applying patches or running commands remotely.",
+  "source_repo": "gaabrielrd/local-model-workers-mcp",
+  "source_url": "https://github.com/gaabrielrd/local-model-workers-mcp",
+  "install": "npx -y local-model-workers-mcp"
+}

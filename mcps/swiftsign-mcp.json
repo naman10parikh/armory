@@ -1,0 +1,7 @@
+{
+  "name": "swiftsign-mcp",
+  "description": "E-signature for AI agents. One unauthenticated call returns a sandbox API key (no account, no browser), then the agent can send documents for signature, check status, and download the sealed PDF plus Certificate of Completion.",
+  "source_repo": "shahdadk/swiftsign",
+  "source_url": "https://github.com/shahdadk/swiftsign",
+  "install": "# git clone --depth 1 https://github.com/shahdadk/swiftsign\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "marketscore-seo-mcp",
+  "description": "Connects AI assistants to SEO data from Yandex Webmaster, Google Search Console, Yandex Metrica, and Topvisor, enabling natural language analysis of search performance, indexation, positions, and audits.",
+  "source_repo": "marketscore/marketscore-seo-mcp",
+  "source_url": "https://github.com/marketscore/marketscore-seo-mcp",
+  "install": "npx -y marketscore-seo-mcp"
+}

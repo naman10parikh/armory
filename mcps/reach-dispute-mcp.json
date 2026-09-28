@@ -1,0 +1,7 @@
+{
+  "name": "reach-dispute-mcp",
+  "description": "Provides read-only MCP tools to diagnose customer billing disputes by analyzing billing records, identifying contradictions, citing evidence, and scoring confidence to auto-resolve or escalate.",
+  "source_repo": "hritiksahu/reach-dispute-mcp",
+  "source_url": "https://github.com/hritiksahu/reach-dispute-mcp",
+  "install": "npx -y reach-dispute-mcp"
+}

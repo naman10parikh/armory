@@ -1,0 +1,7 @@
+{
+  "name": "claude-for-hermes",
+  "description": "A local MCP server that lets Hermes supervise Claude Code, delegating focused coding, research, or review tasks to the Claude Code CLI and managing worker sessions, background jobs, cancellations, and read-only reviews.",
+  "source_repo": "7D-codes/claude-for-hermes",
+  "source_url": "https://github.com/7D-codes/claude-for-hermes",
+  "install": "# git clone --depth 1 https://github.com/7D-codes/claude-for-hermes\n# See source for mcpServers config block"
+}

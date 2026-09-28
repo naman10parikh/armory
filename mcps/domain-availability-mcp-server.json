@@ -1,0 +1,7 @@
+{
+  "name": "domain-availability-mcp-server",
+  "description": "Enables checking domain name availability for .com, .ai, and .net TLDs using WHOIS, DNS, and RDAP lookups.",
+  "source_repo": "1shanra1/Domain-Checker-MCP",
+  "source_url": "https://github.com/1shanra1/Domain-Checker-MCP",
+  "install": "npx -y Domain-Checker-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-sp-s-o-paulo-certid-o-tribut-ria-de-iptu",
+  "description": "Enables consultation of São Paulo city property tax (IPTU) certificates from official sources. Read-only tool for querying tax certificate data through natural language in any MCP client.",
+  "source_repo": "mcp-dir/pref_sp_sao_paulo_iptu-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_sp_sao_paulo_iptu-mcp",
+  "install": "npx -y pref_sp_sao_paulo_iptu-mcp"
+}

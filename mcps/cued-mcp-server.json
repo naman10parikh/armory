@@ -1,0 +1,7 @@
+{
+  "name": "cued-mcp-server",
+  "description": "Enables Claude to access and search local messages and contacts across multiple platforms (iMessage, Discord, Gmail, Slack) via a local-first datastore, ensuring data never leaves the Mac.",
+  "source_repo": "mallick-prat/Cued",
+  "source_url": "https://github.com/mallick-prat/Cued",
+  "install": "# git clone --depth 1 https://github.com/mallick-prat/Cued\n# See source for mcpServers config block"
+}

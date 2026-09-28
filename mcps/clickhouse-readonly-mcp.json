@@ -1,0 +1,7 @@
+{
+  "name": "clickhouse-readonly-mcp",
+  "description": "Minimal MCP server for read-only access to ClickHouse, enabling AI agents to explore schemas and execute SELECT queries safely.",
+  "source_repo": "MP-Trade/clickhouse-readonly-mcp",
+  "source_url": "https://github.com/MP-Trade/clickhouse-readonly-mcp",
+  "install": "npx -y clickhouse-readonly-mcp"
+}

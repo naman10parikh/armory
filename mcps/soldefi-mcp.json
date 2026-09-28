@@ -1,0 +1,7 @@
+{
+  "name": "soldefi-mcp",
+  "description": "Paid access to Solana DeFi risk intelligence — rug/honeypot scans, liquidity-pool analysis, and wash-trade-filtered pool rankings. Automatically settles micropayments in USDC via x402.",
+  "source_repo": "thomenz/soldefi-mcp",
+  "source_url": "https://github.com/thomenz/soldefi-mcp",
+  "install": "npx -y soldefi-mcp"
+}

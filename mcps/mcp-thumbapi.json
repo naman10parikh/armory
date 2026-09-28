@@ -1,0 +1,7 @@
+{
+  "name": "mcp-thumbapi",
+  "description": "It generates blogpost images, thumbnails, social post images just from the title.",
+  "source_repo": "dinalllll/thumbapi-mcp-server",
+  "source_url": "https://github.com/dinalllll/thumbapi-mcp-server",
+  "install": "npx -y thumbapi-mcp-server"
+}

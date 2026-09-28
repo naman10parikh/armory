@@ -1,0 +1,7 @@
+{
+  "name": "research-automation-mcp-server",
+  "description": "Enables autonomous research by integrating multiple free sources including web search, Wikipedia, arXiv, and Crossref, with no API keys required.",
+  "source_repo": "AiAgentKarl/research-automation-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/research-automation-mcp-server",
+  "install": "npx -y research-automation-mcp-server"
+}

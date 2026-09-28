@@ -1,0 +1,7 @@
+{
+  "name": "ratary-memory",
+  "description": "Ratary is an AI Brain Platform — infrastructure that gives AI: Persistent memory — durable, owner-scoped, versioned Structured knowledge — metadata, relations, graph traversal Intelligent retrieval — hybrid search + bounded context assembly Protocol access — Ratary MCP, REST, optional gRPC It sits b",
+  "source_repo": "ontorata/ratary",
+  "source_url": "https://github.com/ontorata/ratary",
+  "install": "# git clone --depth 1 https://github.com/ontorata/ratary\n# See source for mcpServers config block"
+}

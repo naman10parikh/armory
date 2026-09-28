@@ -1,0 +1,7 @@
+{
+  "name": "masterytrace",
+  "description": "MCP server wrapping the MasteryTrace CLI as a single generic run tool for skill-mastery tracking.",
+  "source_repo": "RudrenduPaul/MasteryTrace",
+  "source_url": "https://github.com/RudrenduPaul/MasteryTrace",
+  "install": "# git clone --depth 1 https://github.com/RudrenduPaul/MasteryTrace\n# See source for mcpServers config block"
+}

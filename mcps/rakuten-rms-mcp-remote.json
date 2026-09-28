@@ -1,0 +1,7 @@
+{
+  "name": "rakuten-rms-mcp-remote",
+  "description": "Remote MCP host for Rakuten RMS, providing Streamable HTTP endpoint with OAuth 2.1/PKCE and Bearer auth. It enables MCP clients like ChatGPT and Claude to access Rakuten RMS tools via natural language.",
+  "source_repo": "moneyan9/rakuten-rms-mcp-remote",
+  "source_url": "https://github.com/moneyan9/rakuten-rms-mcp-remote",
+  "install": "# git clone --depth 1 https://github.com/moneyan9/rakuten-rms-mcp-remote\n# See source for mcpServers config block"
+}

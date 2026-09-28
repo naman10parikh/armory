@@ -1,0 +1,7 @@
+{
+  "name": "partglyph-mcp-gateway",
+  "description": "Deterministic industrial parts replacement engine with official catalogs and expert accuracy checks",
+  "source_repo": "akramyaslam/partglyph-mcp",
+  "source_url": "https://github.com/akramyaslam/partglyph-mcp",
+  "install": "npx -y partglyph-mcp"
+}

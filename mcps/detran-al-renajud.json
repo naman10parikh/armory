@@ -1,0 +1,7 @@
+{
+  "name": "detran-al-renajud",
+  "description": "Read-only MCP server for querying official DETRAN AL Renajud data, hosted with pay-per-use credits and no platform credentials required.",
+  "source_repo": "mcp-dir/detran_al_renajud-mcp",
+  "source_url": "https://github.com/mcp-dir/detran_al_renajud-mcp",
+  "install": "npx -y detran_al_renajud-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ccxt-mcp",
+  "description": "Provides cryptocurrency market data, account management, and trading on Binance USDT-M perpetual contracts via MCP, with a local audit system for transaction recording.",
+  "source_repo": "lucyfox199818-collab/codex-binance-agent",
+  "source_url": "https://github.com/lucyfox199818-collab/codex-binance-agent",
+  "install": "# git clone --depth 1 https://github.com/lucyfox199818-collab/codex-binance-agent\n# See source for mcpServers config block"
+}

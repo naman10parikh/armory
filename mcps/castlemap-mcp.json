@@ -1,0 +1,7 @@
+{
+  "name": "castlemap-mcp",
+  "description": "Searchable atlas of 2,400 castles, fortresses and palaces worldwide, with facts from Wikidata (CC0). Tools for name search, nearby lookup by coordinates, fame ranking, per-country listings and aggregate statistics — read-only, no API key.",
+  "source_repo": "Flightmussy/castlemap-mcp",
+  "source_url": "https://github.com/Flightmussy/castlemap-mcp",
+  "install": "npx -y castlemap-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "banco-do-nordeste-do-brasil-mcp",
+  "description": "Connects your Banco do Nordeste do Brasil account to AI assistants via Open Finance Brasil, enabling natural language queries for balances, statements, credit card bills, and investments. It is read-only and regulated by the Brazilian Central Bank.",
+  "source_repo": "mcp-dir/bnb-mcp",
+  "source_url": "https://github.com/mcp-dir/bnb-mcp",
+  "install": "npx -y bnb-mcp"
+}

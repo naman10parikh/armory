@@ -1,0 +1,7 @@
+{
+  "name": "docmost-mcp",
+  "description": "Gives AI agents read/write access to a self-hosted Docmost wiki through its REST API.",
+  "source_repo": "NeerdOnerT/docmost-mcp",
+  "source_url": "https://github.com/NeerdOnerT/docmost-mcp",
+  "install": "npx -y docmost-mcp"
+}

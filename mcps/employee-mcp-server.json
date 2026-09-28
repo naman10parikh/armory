@@ -1,0 +1,7 @@
+{
+  "name": "employee-mcp-server",
+  "description": "MCP server that connects Claude to a MySQL employees database, enabling listing, searching, adding, and analyzing employee records through natural language.",
+  "source_repo": "maheshkhatal27/employee-mcp-server",
+  "source_url": "https://github.com/maheshkhatal27/employee-mcp-server",
+  "install": "npx -y employee-mcp-server"
+}

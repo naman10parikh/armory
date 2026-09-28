@@ -1,0 +1,7 @@
+{
+  "name": "stillos",
+  "description": "MCP server providing calibrated prediction signals for Kalshi CPI/GDP markets and tamper-evident claim notarization with Ed25519 receipts.",
+  "source_repo": "stillmarcus24/stillos",
+  "source_url": "https://github.com/stillmarcus24/stillos",
+  "install": "# git clone --depth 1 https://github.com/stillmarcus24/stillos\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "slack-mcp-2",
+  "description": "Enables AI assistants to interact with Slack workspaces, providing tools for reading messages, posting content, managing channels, and more.",
+  "source_repo": "redhat-community-ai-tools/slack-mcp",
+  "source_url": "https://github.com/redhat-community-ai-tools/slack-mcp",
+  "install": "npx -y slack-mcp"
+}

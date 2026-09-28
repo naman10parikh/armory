@@ -1,0 +1,7 @@
+{
+  "name": "creatomate-mcp-server",
+  "description": "An MCP server that interfaces with the Creatomate API, turning LLMs into autonomous motion designers that can generate social media videos, ads, and shorts programmatically.",
+  "source_repo": "WAR10CK222/creatomate-mcp-server",
+  "source_url": "https://github.com/WAR10CK222/creatomate-mcp-server",
+  "install": "npx -y creatomate-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "colab-mcp",
+  "description": "Bridges a local agent to a Colab session in the browser, enabling seamless interaction with Colab from local clients.",
+  "source_repo": "googlecolab/colab-mcp",
+  "source_url": "https://github.com/googlecolab/colab-mcp",
+  "install": "npx -y colab-mcp"
+}

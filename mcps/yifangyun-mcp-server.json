@@ -1,0 +1,7 @@
+{
+  "name": "yifangyun-mcp-server",
+  "description": "Enables AI agents to access Yifangyun cloud drive via MCP, supporting queries of enterprise organization, department folders, file details, and download links.",
+  "source_repo": "mrhegit/yifangyun-mcp",
+  "source_url": "https://github.com/mrhegit/yifangyun-mcp",
+  "install": "npx -y yifangyun-mcp"
+}

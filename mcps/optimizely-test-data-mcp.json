@@ -1,0 +1,7 @@
+{
+  "name": "optimizely-test-data-mcp",
+  "description": "Generates importable Optimizely CMS 12 .episerverdata packages from content plans by reading a content-type export and writing the file, without interacting with a CMS instance.",
+  "source_repo": "precise-alloy/optimizely-test-data-mcp",
+  "source_url": "https://github.com/precise-alloy/optimizely-test-data-mcp",
+  "install": "npx -y optimizely-test-data-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "godrix-argocd-mcp",
+  "description": "MCP server for Argo CD that provides multi-environment profiles, SSO or API key authentication, application search with cache, and REST API tools from the bundled OpenAPI catalog.",
+  "source_repo": "godrix/mcp-argocd",
+  "source_url": "https://github.com/godrix/mcp-argocd",
+  "install": "# git clone --depth 1 https://github.com/godrix/mcp-argocd\n# See source for mcpServers config block"
+}

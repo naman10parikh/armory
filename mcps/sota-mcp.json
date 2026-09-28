@@ -1,0 +1,7 @@
+{
+  "name": "sota-mcp",
+  "description": "MCP server for Summits on the Air (SOTA) — live spots, activation alerts, summit info, and nearby summits through any MCP-compatible AI assistant.",
+  "source_repo": "qso-graph/sota-mcp",
+  "source_url": "https://github.com/qso-graph/sota-mcp",
+  "install": "npx -y sota-mcp"
+}

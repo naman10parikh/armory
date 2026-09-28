@@ -1,0 +1,7 @@
+{
+  "name": "element-plus-docs-mcp",
+  "description": "A local MCP server that provides tools to query Element Plus component documentation, enabling listing, retrieval, and search of component docs.",
+  "source_repo": "yinxianwei/element-plus-mcp",
+  "source_url": "https://github.com/yinxianwei/element-plus-mcp",
+  "install": "npx -y element-plus-mcp"
+}

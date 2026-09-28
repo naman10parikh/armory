@@ -1,0 +1,7 @@
+{
+  "name": "apifreaks-mcp",
+  "description": "Enables AI to query live weather, domains, IPs, DNS, SSL, currency rates, and more via the APIFreaks API.",
+  "source_repo": "api-freaks/apifreaks-mcp",
+  "source_url": "https://github.com/api-freaks/apifreaks-mcp",
+  "install": "npx -y apifreaks-mcp"
+}

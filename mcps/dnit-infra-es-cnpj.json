@@ -1,0 +1,7 @@
+{
+  "name": "dnit-infra-es-cnpj",
+  "description": "Consult DNIT traffic fines for companies by CNPJ from official source. Provides a read-only tool to query vehicle infractions registered against a CNPJ.",
+  "source_repo": "mcp-dir/dnit_infracoes_cnpj-mcp",
+  "source_url": "https://github.com/mcp-dir/dnit_infracoes_cnpj-mcp",
+  "install": "npx -y dnit_infracoes_cnpj-mcp"
+}

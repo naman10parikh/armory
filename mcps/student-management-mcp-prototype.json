@@ -1,0 +1,7 @@
+{
+  "name": "student-management-mcp-prototype",
+  "description": "Provides simulated tools for querying student profiles, filtering attention lists, writing follow-up records, and generating class dashboards, enabling data-driven student management.",
+  "source_repo": "Felixlyf0913/student-growth-support-mcp",
+  "source_url": "https://github.com/Felixlyf0913/student-growth-support-mcp",
+  "install": "npx -y student-growth-support-mcp"
+}

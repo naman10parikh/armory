@@ -1,0 +1,7 @@
+{
+  "name": "fable-mcp-server",
+  "description": "Enables Claude to search, recall, and remember its own past conversations by indexing them into a local SQLite vault, providing direct access to the full context of previous sessions.",
+  "source_repo": "grooverLab/fable",
+  "source_url": "https://github.com/grooverLab/fable",
+  "install": "# git clone --depth 1 https://github.com/grooverLab/fable\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-queue-doctor",
+  "description": "Diagnoses Postgres job queues (pg-boss, graphile-worker) to identify retry storms, stuck jobs, missed schedules, and other issues, providing evidence-based recovery steps.",
+  "source_repo": "ethanasm/mcp-queue-doctor",
+  "source_url": "https://github.com/ethanasm/mcp-queue-doctor",
+  "install": "# git clone --depth 1 https://github.com/ethanasm/mcp-queue-doctor\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "visualizebetter",
+  "description": "An MCP-native workspace where AI pushes discoveries into a live GPU-rendered graph, preserving project structure and findings across sessions.",
+  "source_repo": "chldbwnstm/VisualizeBetter",
+  "source_url": "https://github.com/chldbwnstm/VisualizeBetter",
+  "install": "# git clone --depth 1 https://github.com/chldbwnstm/VisualizeBetter\n# See source for mcpServers config block"
+}

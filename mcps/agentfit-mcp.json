@@ -1,0 +1,7 @@
+{
+  "name": "agentfit-mcp",
+  "description": "Lets Claude Desktop, Cursor, Cline, Windsurf, Zed, or any other MCP client estimate token counts and fit a chat history into a model's context budget on demand.",
+  "source_repo": "MukundaKatta/agentfit-mcp",
+  "source_url": "https://github.com/MukundaKatta/agentfit-mcp",
+  "install": "npx -y agentfit-mcp"
+}

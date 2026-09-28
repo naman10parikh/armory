@@ -1,0 +1,7 @@
+{
+  "name": "instant-mcp-studio",
+  "description": "Turns any OpenAPI/Swagger spec (JSON, YAML, or URL) into a production-ready, type-safe FastMCP Python server with visual endpoint selection and 1-click Claude Desktop or Cursor IDE integration.",
+  "source_repo": "MojoRohjo/instant-mcp-generator",
+  "source_url": "https://github.com/MojoRohjo/instant-mcp-generator",
+  "install": "# git clone --depth 1 https://github.com/MojoRohjo/instant-mcp-generator\n# See source for mcpServers config block"
+}

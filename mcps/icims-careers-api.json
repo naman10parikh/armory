@@ -1,0 +1,7 @@
+{
+  "name": "icims-careers-api",
+  "description": "Enables users to retrieve live job postings from any iCIMS career site, providing structured data including title, requisition ID, employer, locations, employment type, dates, salary, and apply links.",
+  "source_repo": "johnisanerd/Apify-iCIMS-Careers-API",
+  "source_url": "https://github.com/johnisanerd/Apify-iCIMS-Careers-API",
+  "install": "# git clone --depth 1 https://github.com/johnisanerd/Apify-iCIMS-Careers-API\n# See source for mcpServers config block"
+}

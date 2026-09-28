@@ -1,0 +1,7 @@
+{
+  "name": "agentic-cal",
+  "description": "Unified email and calendar management with AI agent, supporting email operations, calendar availability, and time blocking via MCP tools.",
+  "source_repo": "talalakkari/agentic-cal",
+  "source_url": "https://github.com/talalakkari/agentic-cal",
+  "install": "# git clone --depth 1 https://github.com/talalakkari/agentic-cal\n# See source for mcpServers config block"
+}

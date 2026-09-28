@@ -1,0 +1,7 @@
+{
+  "name": "doc-breach-mcp",
+  "description": "A local MCP server that extracts clean Markdown from any developer portal using military-grade heuristics, bypassing WAFs, SPAs, and PDFs with zero SaaS dependencies or API keys.",
+  "source_repo": "vinkius-labs/doc-breach-mcp",
+  "source_url": "https://github.com/vinkius-labs/doc-breach-mcp",
+  "install": "npx -y doc-breach-mcp"
+}

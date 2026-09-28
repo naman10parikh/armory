@@ -1,0 +1,7 @@
+{
+  "name": "ca-scene-mcp",
+  "description": "Enables prompt-driven scene generation for computer animation using a JSON-serializable scene model and physics simulation backend.",
+  "source_repo": "wkzMagician/newton-mcp",
+  "source_url": "https://github.com/wkzMagician/newton-mcp",
+  "install": "npx -y newton-mcp"
+}

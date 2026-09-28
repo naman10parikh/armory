@@ -1,0 +1,7 @@
+{
+  "name": "discord-developer-mcp",
+  "description": "Enables AI agents to interact with a Discord test bot to verify bot behavior by sending messages, managing channels and roles, and observing gateway events.",
+  "source_repo": "secchanu/discord-developer-mcp",
+  "source_url": "https://github.com/secchanu/discord-developer-mcp",
+  "install": "npx -y discord-developer-mcp"
+}

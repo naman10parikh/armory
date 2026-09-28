@@ -1,0 +1,7 @@
+{
+  "name": "c6-bank-mcp",
+  "description": "Enables reading C6 Bank account balances, statements, credit card bills, and investments via Open Finance Brasil. It is read-only and regulated by the Central Bank of Brazil.",
+  "source_repo": "mcp-dir/c6-mcp",
+  "source_url": "https://github.com/mcp-dir/c6-mcp",
+  "install": "npx -y c6-mcp"
+}

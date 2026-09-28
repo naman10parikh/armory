@@ -1,0 +1,7 @@
+{
+  "name": "jambonz-mcp-schema-server",
+  "description": "This server exposes jambonz verb schemas and developer documentation as MCP tools, enabling AI agents to query verb definitions, component types, callback payloads, and the full developer guide without needing local access to the schema files.",
+  "source_repo": "jambonz/mcp-server",
+  "source_url": "https://github.com/jambonz/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/jambonz/mcp-server\n# See source for mcpServers config block"
+}

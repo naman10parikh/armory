@@ -1,0 +1,7 @@
+{
+  "name": "yahoo-fantasy-baseball-mcp-server",
+  "description": "Enables interaction with Yahoo Fantasy Sports API for fantasy baseball, providing tools to manage rosters and player stats via Claude.",
+  "source_repo": "jimbrig/yahoo-fantasy-baseball-mcp",
+  "source_url": "https://github.com/jimbrig/yahoo-fantasy-baseball-mcp",
+  "install": "npx -y yahoo-fantasy-baseball-mcp"
+}

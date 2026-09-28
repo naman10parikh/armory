@@ -1,0 +1,7 @@
+{
+  "name": "ccx",
+  "description": "A typed, append-only event log and resume system for Claude Code, enabling agents to record schema-validated events like plans, decisions, questions, and human feedback via an MCP server for consistent session resumption.",
+  "source_repo": "garyld1962/ccx",
+  "source_url": "https://github.com/garyld1962/ccx",
+  "install": "# git clone --depth 1 https://github.com/garyld1962/ccx\n# See source for mcpServers config block"
+}

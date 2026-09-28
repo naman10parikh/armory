@@ -1,0 +1,7 @@
+{
+  "name": "autowiki-agent",
+  "description": "An MCP server that compiles any text into a verifiable, graph-based knowledge base using deterministic chunking and parallel extraction of epistemology primitives.",
+  "source_repo": "time-scout/autowiki-agent",
+  "source_url": "https://github.com/time-scout/autowiki-agent",
+  "install": "# git clone --depth 1 https://github.com/time-scout/autowiki-agent\n# See source for mcpServers config block"
+}

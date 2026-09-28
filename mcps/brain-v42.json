@@ -1,0 +1,7 @@
+{
+  "name": "brain-v42",
+  "description": "Provides persistent memory and knowledge management for coding agents via MCP, including typed decision/snippet/runbook storage, semantic search, explicit session lifecycle, and nightly consolidation.",
+  "source_repo": "hawkixs/brain-v42",
+  "source_url": "https://github.com/hawkixs/brain-v42",
+  "install": "# git clone --depth 1 https://github.com/hawkixs/brain-v42\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "taibu",
+  "description": "Enables traditional Chinese metaphysics tools like Bazi, Ziwei, and Qimen via MCP, integrating AI analysis for divination and fortune-telling.",
+  "source_repo": "hhszzzz/taibu",
+  "source_url": "https://github.com/hhszzzz/taibu",
+  "install": "# git clone --depth 1 https://github.com/hhszzzz/taibu\n# See source for mcpServers config block"
+}

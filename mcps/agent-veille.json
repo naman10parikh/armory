@@ -1,0 +1,7 @@
+{
+  "name": "agent-veille",
+  "description": "MCP server that scans daily AI innovation sources (arXiv, Hacker News, GitHub) and normalizes discoveries into actionable Skill Sheets for domains like code, design, HR, agents.",
+  "source_repo": "CodeNoLimits/agent-veille",
+  "source_url": "https://github.com/CodeNoLimits/agent-veille",
+  "install": "# git clone --depth 1 https://github.com/CodeNoLimits/agent-veille\n# See source for mcpServers config block"
+}

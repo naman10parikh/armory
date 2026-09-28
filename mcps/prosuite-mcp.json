@@ -1,0 +1,7 @@
+{
+  "name": "prosuite-mcp",
+  "description": "MCP server that exposes Dira ProSuite quality verification to AI assistants, enabling data quality checks on geospatial datasets through natural language.",
+  "source_repo": "ProSuite/prosuite-mcp",
+  "source_url": "https://github.com/ProSuite/prosuite-mcp",
+  "install": "npx -y prosuite-mcp"
+}

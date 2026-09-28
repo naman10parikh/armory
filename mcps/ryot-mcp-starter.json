@@ -1,0 +1,7 @@
+{
+  "name": "ryot-mcp-starter",
+  "description": "A local MCP server for interacting with a self-hosted Ryot instance, enabling management of workouts, body measurements, media (movies, shows, games), and collections through natural language.",
+  "source_repo": "shivanshBTW/ryot-mcp",
+  "source_url": "https://github.com/shivanshBTW/ryot-mcp",
+  "install": "npx -y ryot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "workloadtruth-mcp-server",
+  "description": "Enables classification of GPU workloads as training, inference, or idle from telemetry data, with tools for one-shot classification, benchmarking, and audit log verification.",
+  "source_repo": "RudrenduPaul/WorkloadTruth",
+  "source_url": "https://github.com/RudrenduPaul/WorkloadTruth",
+  "install": "# git clone --depth 1 https://github.com/RudrenduPaul/WorkloadTruth\n# See source for mcpServers config block"
+}

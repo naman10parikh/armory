@@ -1,0 +1,7 @@
+{
+  "name": "agentos-knowledge-mcp-server",
+  "description": "Provides document search, context retrieval, and indexing tools for AgentOS agents to query pharma documents with grounded citations.",
+  "source_repo": "suriya-prakash-murugan/AgentOS-Knowledge",
+  "source_url": "https://github.com/suriya-prakash-murugan/AgentOS-Knowledge",
+  "install": "# git clone --depth 1 https://github.com/suriya-prakash-murugan/AgentOS-Knowledge\n# See source for mcpServers config block"
+}

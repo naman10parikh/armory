@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-wslc",
+  "description": "Enables AI agents to manage WSL containers and images via the wslc CLI, supporting container lifecycle, network, volume, and registry operations through natural language.",
+  "source_repo": "aihuali213/mcp-server-wslc",
+  "source_url": "https://github.com/aihuali213/mcp-server-wslc",
+  "install": "# git clone --depth 1 https://github.com/aihuali213/mcp-server-wslc\n# See source for mcpServers config block"
+}

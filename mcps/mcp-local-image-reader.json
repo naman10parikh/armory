@@ -1,0 +1,7 @@
+{
+  "name": "mcp-local-image-reader",
+  "description": "A simple MCP server that reads local images and returns them as ImageContent for LLM vision analysis.",
+  "source_repo": "masachika-kamada/mcp-local-image-reader",
+  "source_url": "https://github.com/masachika-kamada/mcp-local-image-reader",
+  "install": "# git clone --depth 1 https://github.com/masachika-kamada/mcp-local-image-reader\n# See source for mcpServers config block"
+}

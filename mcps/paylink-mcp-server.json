@@ -1,0 +1,7 @@
+{
+  "name": "paylink-mcp-server",
+  "description": "Open-source MCP server that streamlines payment integration for AI agents and financial apps in Africa, providing unified tools for providers like M-Pesa.",
+  "source_repo": "paylink-ai/paylink_mcp_server",
+  "source_url": "https://github.com/paylink-ai/paylink_mcp_server",
+  "install": "npx -y paylink_mcp_server"
+}

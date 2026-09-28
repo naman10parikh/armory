@@ -1,0 +1,7 @@
+{
+  "name": "aps-mcp-auth-examples",
+  "description": "Reference MCP servers that integrate with Autodesk Platform Services, demonstrating various authentication combinations and exposing tools to list projects and folder contents via the Data Management API.",
+  "source_repo": "autodesk-platform-services/aps-mcp-auth-examples",
+  "source_url": "https://github.com/autodesk-platform-services/aps-mcp-auth-examples",
+  "install": "# git clone --depth 1 https://github.com/autodesk-platform-services/aps-mcp-auth-examples\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "political-finance-mcp-server",
+  "description": "MCP server giving AI agents access to US political finance data: campaign contributions, PAC spending, lobbying records, and voting behavior.",
+  "source_repo": "AiAgentKarl/political-finance-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/political-finance-mcp-server",
+  "install": "npx -y political-finance-mcp-server"
+}

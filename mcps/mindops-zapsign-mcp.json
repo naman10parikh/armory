@@ -1,0 +1,7 @@
+{
+  "name": "mindops-zapsign-mcp",
+  "description": "Exposes the ZapSign REST API as MCP tools, enabling LLM-driven document workflows such as creating documents, managing signers, filling templates, running background checks, and handling webhooks.",
+  "source_repo": "vertexdevs-hq/zapsign-mcp",
+  "source_url": "https://github.com/vertexdevs-hq/zapsign-mcp",
+  "install": "npx -y zapsign-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ollama-code-mcp",
+  "description": "An MCP server that lets Claude Code delegate coding tasks such as code generation, review, refactoring, and test writing to a local Ollama instance running a Qwen3 model.",
+  "source_repo": "darthzen/ollama-code-mcp",
+  "source_url": "https://github.com/darthzen/ollama-code-mcp",
+  "install": "npx -y ollama-code-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "noit-mcp-server",
+  "description": "An MCP server that enables AI agents to manage STAR-pattern architecture diagrams, creating, updating, listing, and building interactive viewers via tool calls.",
+  "source_repo": "Yuki-az-23/noit-VP-MCP",
+  "source_url": "https://github.com/Yuki-az-23/noit-VP-MCP",
+  "install": "npx -y noit-VP-MCP"
+}

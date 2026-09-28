@@ -1,0 +1,7 @@
+{
+  "name": "amtsblatt-mcp",
+  "description": "MCP server for amtsblattportal.ch — the Swiss official gazette portal (SHAB + 27 cantonal gazettes). Public procurement and official notices, person-data rubrics excluded by design.",
+  "source_repo": "malkreide/amtsblatt-mcp",
+  "source_url": "https://github.com/malkreide/amtsblatt-mcp",
+  "install": "npx -y amtsblatt-mcp"
+}

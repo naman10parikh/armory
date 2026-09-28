@@ -1,0 +1,7 @@
+{
+  "name": "canteen-menu-mcp-app-server",
+  "description": "Displays daily canteen menus with images, ordering, and reaction features, integrating with host theme.",
+  "source_repo": "simon-k/canteen-menu-mcp-app",
+  "source_url": "https://github.com/simon-k/canteen-menu-mcp-app",
+  "install": "# git clone --depth 1 https://github.com/simon-k/canteen-menu-mcp-app\n# See source for mcpServers config block"
+}

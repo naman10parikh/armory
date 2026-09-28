@@ -1,0 +1,7 @@
+{
+  "name": "liminate-authoring-mcp",
+  "description": "Helps AI agents author, validate, explain, draft, and test Liminate Agreements locally, with an optional API for translating compliance documents into Agreement drafts.",
+  "source_repo": "rmichaelthomas/liminate-mcp",
+  "source_url": "https://github.com/rmichaelthomas/liminate-mcp",
+  "install": "npx -y liminate-mcp"
+}

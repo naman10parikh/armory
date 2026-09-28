@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-senegal-payments-mcp",
+  "description": "Enables AI agents to accept payments in Senegal via Flutterwave hosted checkout.",
+  "source_repo": "junter1989k-ai/senegal-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/senegal-payments-mcp",
+  "install": "npx -y senegal-payments-mcp"
+}

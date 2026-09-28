@@ -1,0 +1,7 @@
+{
+  "name": "meridian59-llm-bot",
+  "description": "Provides MCP supervision and knowledge tools for controlling an LLM-driven Meridian 59 character, enabling durable goal management, persona configuration, and audited gameplay.",
+  "source_repo": "cpappas213/meridian59-llm-bot",
+  "source_url": "https://github.com/cpappas213/meridian59-llm-bot",
+  "install": "# git clone --depth 1 https://github.com/cpappas213/meridian59-llm-bot\n# See source for mcpServers config block"
+}

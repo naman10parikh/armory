@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-anydoc",
+  "description": "Local MCP server that converts PDF, Word, PowerPoint, Excel and more to Markdown on your machine, enabling coding agents like Claude Code and Cursor to read office files in the repo.",
+  "source_repo": "ofershap/mcp-server-anydoc",
+  "source_url": "https://github.com/ofershap/mcp-server-anydoc",
+  "install": "# git clone --depth 1 https://github.com/ofershap/mcp-server-anydoc\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "trendradar-mcp",
+  "description": "Provides AI assistants with access to TrendRadar's aggregated news feeds, enabling intelligent analysis, personalized filtering, and multi-channel notifications for real-time hot topics.",
+  "source_repo": "qqluohao1234/TrendRadar",
+  "source_url": "https://github.com/qqluohao1234/TrendRadar",
+  "install": "# git clone --depth 1 https://github.com/qqluohao1234/TrendRadar\n# See source for mcpServers config block"
+}

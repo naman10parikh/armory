@@ -1,0 +1,7 @@
+{
+  "name": "meteo-swiss-mcp",
+  "description": "Exposes Swiss weather forecast data as MCP tools, including rainfall, sunshine, temperature, wind, and more, with local caching.",
+  "source_repo": "cuolm/meteo-swiss-mcp",
+  "source_url": "https://github.com/cuolm/meteo-swiss-mcp",
+  "install": "npx -y meteo-swiss-mcp"
+}

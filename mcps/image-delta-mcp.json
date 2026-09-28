@@ -1,0 +1,7 @@
+{
+  "name": "image-delta-mcp",
+  "description": "Enables comparing container image versions to see package and CVE changes, including shedding/introductions, and comparing Chainguard images to upstream.",
+  "source_repo": "joepangallo/image-delta-mcp",
+  "source_url": "https://github.com/joepangallo/image-delta-mcp",
+  "install": "npx -y image-delta-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-imagetovideoai-server",
+  "description": "A lightweight Model Context Protocol server for planning image-to-video shots, building production-ready motion prompts, and preparing reliable generation workflows.",
+  "source_repo": "waeckerlinfederowicz66-sketch/mcp-imagetovideoai-server",
+  "source_url": "https://github.com/waeckerlinfederowicz66-sketch/mcp-imagetovideoai-server",
+  "install": "# git clone --depth 1 https://github.com/waeckerlinfederowicz66-sketch/mcp-imagetovideoai-server\n# See source for mcpServers config block"
+}

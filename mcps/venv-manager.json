@@ -1,0 +1,7 @@
+{
+  "name": "venv-manager",
+  "description": "Python venv runtime for AI agents. MCP server exposing list/create/describe/install/run/exec/snapshot/rollback/scan as typed tools",
+  "source_repo": "jacopobonomi/venv_manager",
+  "source_url": "https://github.com/jacopobonomi/venv_manager",
+  "install": "# git clone --depth 1 https://github.com/jacopobonomi/venv_manager\n# See source for mcpServers config block"
+}

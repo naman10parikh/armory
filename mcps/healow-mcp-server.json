@@ -1,0 +1,7 @@
+{
+  "name": "healow-mcp-server",
+  "description": "An MCP server that wraps the eClinicalWorks / healow FHIR R4 API so an MCP client (e.g. Claude Desktop) can read patient clinical data from one or more practices.",
+  "source_repo": "Voysi-IA/healow-mcp-server",
+  "source_url": "https://github.com/Voysi-IA/healow-mcp-server",
+  "install": "npx -y healow-mcp-server"
+}

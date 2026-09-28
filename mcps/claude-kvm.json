@@ -1,0 +1,7 @@
+{
+  "name": "claude-kvm",
+  "description": "MCP server that controls remote desktop environments over VNC, using a JS proxy layer and a native Swift VNC daemon.",
+  "source_repo": "ARAS-Workspace/claude-kvm",
+  "source_url": "https://github.com/ARAS-Workspace/claude-kvm",
+  "install": "# git clone --depth 1 https://github.com/ARAS-Workspace/claude-kvm\n# See source for mcpServers config block"
+}

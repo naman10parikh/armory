@@ -1,0 +1,7 @@
+{
+  "name": "overseer-nvim-mcp",
+  "description": "MCP server for overseer.nvim — gives any MCP-capable coding agent running inside Neovim (Claude Code, Codex, Gemini CLI, opencode) the same visibility and control over tasks the user has: list, run, tail, restart, stop. Agent-started dev servers land in the user's own task list instead of becoming i",
+  "source_repo": "impossiblecode/overseer-nvim-mcp",
+  "source_url": "https://github.com/impossiblecode/overseer-nvim-mcp",
+  "install": "npx -y overseer-nvim-mcp"
+}

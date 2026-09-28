@@ -1,0 +1,7 @@
+{
+  "name": "vaultwarden-mcp",
+  "description": "MCP server for accessing Vaultwarden servers with multi-account support.",
+  "source_repo": "jr2804/vaultwarden-mcp",
+  "source_url": "https://github.com/jr2804/vaultwarden-mcp",
+  "install": "npx -y vaultwarden-mcp"
+}

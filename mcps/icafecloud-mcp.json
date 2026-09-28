@@ -1,0 +1,7 @@
+{
+  "name": "icafecloud-mcp",
+  "description": "Enables managing an internet cafe through natural language by wrapping the iCafeCloud API, allowing actions like listing PCs, checking status, sending commands, and viewing revenue reports.",
+  "source_repo": "yuldashboev/icafecloud-mcp",
+  "source_url": "https://github.com/yuldashboev/icafecloud-mcp",
+  "install": "npx -y icafecloud-mcp"
+}

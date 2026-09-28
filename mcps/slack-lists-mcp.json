@@ -1,0 +1,7 @@
+{
+  "name": "slack-lists-mcp",
+  "description": "Enables AI assistants to create, read, update, delete, and manage Slack List items, providing full task management within Slack through natural language.",
+  "source_repo": "justadityaraj/slack-lists-mcp",
+  "source_url": "https://github.com/justadityaraj/slack-lists-mcp",
+  "install": "npx -y slack-lists-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "postcondition",
+  "description": "An MCP server that checks whether the world changed after a tool call by declaring observable outcomes, verifying them with read-only verifiers, and keeping hash-chained receipts.",
+  "source_repo": "christian140903-sudo/postcondition-mcp",
+  "source_url": "https://github.com/christian140903-sudo/postcondition-mcp",
+  "install": "npx -y postcondition-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fitness-ai-connector",
+  "description": "Garmin health and fitness data in Claude and ChatGPT via the official Garmin Health API. Hosted remote server with OAuth sign-in — no password sharing.",
+  "source_repo": "fmp-projects/fitness-ai-connector",
+  "source_url": "https://github.com/fmp-projects/fitness-ai-connector",
+  "install": "# git clone --depth 1 https://github.com/fmp-projects/fitness-ai-connector\n# See source for mcpServers config block"
+}

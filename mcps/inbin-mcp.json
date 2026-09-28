@@ -1,0 +1,7 @@
+{
+  "name": "inbin-mcp",
+  "description": "Proxies stdio MCP clients to Inbin's remote MCP endpoint, exposing tools to list inboxes, search and retrieve events, and inspect schemas.",
+  "source_repo": "yaotsakpo/inbin-mcp",
+  "source_url": "https://github.com/yaotsakpo/inbin-mcp",
+  "install": "npx -y inbin-mcp"
+}

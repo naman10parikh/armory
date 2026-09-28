@@ -1,0 +1,7 @@
+{
+  "name": "mega-mcp",
+  "description": "Turn any public MEGA folder into a knowledge source for Claude & other LLMs",
+  "source_repo": "Anicodeth/mega-mcp",
+  "source_url": "https://github.com/Anicodeth/mega-mcp",
+  "install": "npx -y mega-mcp"
+}

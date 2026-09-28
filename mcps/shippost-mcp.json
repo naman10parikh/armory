@@ -1,0 +1,7 @@
+{
+  "name": "shippost-mcp",
+  "description": "Enables AI agents to read, post, search, and engage with Twitter/X content, including AI-powered reply drafting and analytics.",
+  "source_repo": "RyanKramer/shippost-mcp",
+  "source_url": "https://github.com/RyanKramer/shippost-mcp",
+  "install": "npx -y shippost-mcp"
+}

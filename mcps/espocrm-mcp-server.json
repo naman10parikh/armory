@@ -1,0 +1,7 @@
+{
+  "name": "espocrm-mcp-server",
+  "description": "A local, read-only MCP server for Claude Desktop that provides 16 tools to search and read EspoCRM accounts, contacts, opportunities, and related emails via a strict allowlist.",
+  "source_repo": "cknebel/espocrm-mcp-server",
+  "source_url": "https://github.com/cknebel/espocrm-mcp-server",
+  "install": "npx -y espocrm-mcp-server"
+}

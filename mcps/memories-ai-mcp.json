@@ -1,0 +1,7 @@
+{
+  "name": "memories-ai-mcp",
+  "description": "Enables Claude Desktop to upload, transcribe, search, summarize, and chat with video content from TikTok, YouTube, and Instagram using the Memories.ai API.",
+  "source_repo": "tw3kirk/memories.ai-mcp",
+  "source_url": "https://github.com/tw3kirk/memories.ai-mcp",
+  "install": "npx -y memories.ai-mcp"
+}

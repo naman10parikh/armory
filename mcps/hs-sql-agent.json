@@ -1,0 +1,7 @@
+{
+  "name": "hs-sql-agent",
+  "description": "C# SQL Agent MCP server featuring raw SQL input, strict AST validation, and an embedded Admin UI. Eliminates LLM hallucinations and security risks across 6 major databases.",
+  "source_repo": "tse-wei-chen/hs-sql-agent",
+  "source_url": "https://github.com/tse-wei-chen/hs-sql-agent",
+  "install": "# git clone --depth 1 https://github.com/tse-wei-chen/hs-sql-agent\n# See source for mcpServers config block"
+}

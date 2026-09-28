@@ -1,0 +1,7 @@
+{
+  "name": "tsetmc-history-mcp",
+  "description": "Provides access to Iranian stock market historical data (price/trade and retail/institutional) via BrsApi, with tools, prompts, and resources for analysis.",
+  "source_repo": "mohammad-k13/TESTMC-HISTORY-MCP",
+  "source_url": "https://github.com/mohammad-k13/TESTMC-HISTORY-MCP",
+  "install": "npx -y TESTMC-HISTORY-MCP"
+}

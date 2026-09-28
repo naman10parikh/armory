@@ -1,0 +1,7 @@
+{
+  "name": "reposit-bot-reposit-mcp",
+  "description": "Enables AI agents to search, share, and vote on community knowledge solutions via the Reposit platform.",
+  "source_repo": "reposit-bot/reposit-mcp",
+  "source_url": "https://github.com/reposit-bot/reposit-mcp",
+  "install": "npx -y reposit-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "taskmesh-mcp-server",
+  "description": "Enables AI IDEs to interact with TaskMesh task management and time tracking APIs through secure, scoped access tokens.",
+  "source_repo": "Blueneon-Tech-Pvt-Ltd/task-mesh-mcp",
+  "source_url": "https://github.com/Blueneon-Tech-Pvt-Ltd/task-mesh-mcp",
+  "install": "npx -y task-mesh-mcp"
+}

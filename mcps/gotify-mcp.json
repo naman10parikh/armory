@@ -1,0 +1,7 @@
+{
+  "name": "gotify-mcp",
+  "description": "MCP server for self-hosted Gotify that enables sending notifications and managing messages, applications, clients, and account metadata through natural language.",
+  "source_repo": "jmagar/gotify-mcp",
+  "source_url": "https://github.com/jmagar/gotify-mcp",
+  "install": "npx -y gotify-mcp"
+}

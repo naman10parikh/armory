@@ -1,0 +1,7 @@
+{
+  "name": "mycourseville-mcp",
+  "description": "Enables AI to read MyCourseVille data locally, including assignments, deadlines, grades, announcements, and course materials.",
+  "source_repo": "Helpmepeet/MCV_MCP",
+  "source_url": "https://github.com/Helpmepeet/MCV_MCP",
+  "install": "npx -y MCV_MCP"
+}

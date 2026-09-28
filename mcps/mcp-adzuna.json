@@ -1,0 +1,7 @@
+{
+  "name": "mcp-adzuna",
+  "description": "Provides access to Adzuna's global job-board aggregation, enabling job search, salary analysis, and regional stats via natural language queries.",
+  "source_repo": "pipeworx-io/mcp-adzuna",
+  "source_url": "https://github.com/pipeworx-io/mcp-adzuna",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-adzuna\n# See source for mcpServers config block"
+}

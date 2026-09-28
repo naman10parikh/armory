@@ -1,0 +1,7 @@
+{
+  "name": "belgium-invoice-mcp",
+  "description": "Enables AI agents to send Belgium B2B electronic invoices over the Peppol network in Peppol BIS 3.0 format via Storecove, with recipient discovery, invoice creation, and delivery evidence retrieval.",
+  "source_repo": "junter1989k-ai/belgium-invoice-mcp",
+  "source_url": "https://github.com/junter1989k-ai/belgium-invoice-mcp",
+  "install": "npx -y belgium-invoice-mcp"
+}

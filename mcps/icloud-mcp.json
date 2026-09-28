@@ -1,0 +1,7 @@
+{
+  "name": "icloud-mcp",
+  "description": "Enables calendar management with iCloud through CalDAV, allowing users to list, create, update, and delete events via a standardized API.",
+  "source_repo": "thefredlab/icloud-mcp",
+  "source_url": "https://github.com/thefredlab/icloud-mcp",
+  "install": "npx -y icloud-mcp"
+}

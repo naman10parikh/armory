@@ -1,0 +1,7 @@
+{
+  "name": "overpass-mcp",
+  "description": "MCP server providing structured access to OpenStreetMap data through Overpass and Nominatim APIs, enabling geocoding, nearby place searches, element queries, and tag counting without API keys.",
+  "source_repo": "Rusty0508/overpass-mcp",
+  "source_url": "https://github.com/Rusty0508/overpass-mcp",
+  "install": "npx -y overpass-mcp"
+}

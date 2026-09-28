@@ -1,0 +1,7 @@
+{
+  "name": "claude-teams",
+  "description": "MCP server that enables multi-agent collaboration with task lists, inter-agent messaging, and tmux-based spawning, making Claude Code's agent teams protocol available to any MCP client.",
+  "source_repo": "cs50victor/claude-code-teams-mcp",
+  "source_url": "https://github.com/cs50victor/claude-code-teams-mcp",
+  "install": "npx -y claude-code-teams-mcp"
+}

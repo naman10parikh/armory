@@ -1,0 +1,7 @@
+{
+  "name": "mcp-abuseipdb",
+  "description": "Enables AI agents to check IP reputation and abuse reports via AbuseIPDB, including abuse confidence scores, report details, and bulk IP triage.",
+  "source_repo": "nickjlucker/mcp-abuseipdb",
+  "source_url": "https://github.com/nickjlucker/mcp-abuseipdb",
+  "install": "# git clone --depth 1 https://github.com/nickjlucker/mcp-abuseipdb\n# See source for mcpServers config block"
+}

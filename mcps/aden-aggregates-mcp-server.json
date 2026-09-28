@@ -1,0 +1,7 @@
+{
+  "name": "aden-aggregates-mcp-server",
+  "description": "Exposes Aden Aggregates submittal data as tools callable by Claude, enabling retrieval of location, material, pricing, and lab report information to build submittal packages.",
+  "source_repo": "jredondo-aden/aden-mcp",
+  "source_url": "https://github.com/jredondo-aden/aden-mcp",
+  "install": "npx -y aden-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "injaan-dev-ms365-email-cli-mcp",
+  "description": "Deprecated MCP server wrapper for ms365-email-cli that exposes Microsoft 365 email operations (list, read, send, reply, search, etc.) as MCP tools. Use the main ms365-email-cli package instead, which now includes built-in MCP server support.",
+  "source_repo": "injaan/ms365-email-cli-mcp",
+  "source_url": "https://github.com/injaan/ms365-email-cli-mcp",
+  "install": "npx -y ms365-email-cli-mcp"
+}

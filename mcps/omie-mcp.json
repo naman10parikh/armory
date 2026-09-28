@@ -1,0 +1,7 @@
+{
+  "name": "omie-mcp",
+  "description": "Enables natural language control of OMIE ERP finances, including accounts payable/receivable, bank transactions, cash flow, and supplier management through 27 MCP tools.",
+  "source_repo": "lucassampsouza/omie-mcp",
+  "source_url": "https://github.com/lucassampsouza/omie-mcp",
+  "install": "npx -y omie-mcp"
+}

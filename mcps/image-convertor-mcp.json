@@ -1,0 +1,7 @@
+{
+  "name": "image-convertor-mcp",
+  "description": "An MCP server that provides comprehensive image conversion and processing tools, including format conversion, batch processing, GIF creation, and PDF generation.",
+  "source_repo": "Beta0415/image-convertor-mcp",
+  "source_url": "https://github.com/Beta0415/image-convertor-mcp",
+  "install": "npx -y image-convertor-mcp"
+}

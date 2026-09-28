@@ -1,0 +1,7 @@
+{
+  "name": "showtime-mcp",
+  "description": "Enables browsing movie and TV show data from TMDB and OMDB through 24 MCP tools.",
+  "source_repo": "danielv14/showtime",
+  "source_url": "https://github.com/danielv14/showtime",
+  "install": "# git clone --depth 1 https://github.com/danielv14/showtime\n# See source for mcpServers config block"
+}

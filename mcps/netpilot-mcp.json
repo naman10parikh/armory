@@ -1,0 +1,7 @@
+{
+  "name": "netpilot-mcp",
+  "description": "Enables large language models to manage network devices (Cisco, Huawei, H3C, Ruijie) via Telnet/SSH, supporting command execution, configuration, and diagnostics.",
+  "source_repo": "czgreg/netpilot-mcp",
+  "source_url": "https://github.com/czgreg/netpilot-mcp",
+  "install": "npx -y netpilot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vrc-mcp-proxy",
+  "description": "A proxy MCP server that wraps MCP-for-Unity, correcting transport inaccuracies and restricting tool usage for reliable Unity integration.",
+  "source_repo": "Ryan6-VRC/vrc-mcp-proxy",
+  "source_url": "https://github.com/Ryan6-VRC/vrc-mcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/Ryan6-VRC/vrc-mcp-proxy\n# See source for mcpServers config block"
+}

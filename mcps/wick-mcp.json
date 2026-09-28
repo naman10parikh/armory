@@ -1,0 +1,7 @@
+{
+  "name": "wick-mcp",
+  "description": "A local MCP server that tracks token usage and costs for Claude Desktop and Claude Code, providing a live dashboard at localhost:6789.",
+  "source_repo": "pranshuguptaa/wick-mcp",
+  "source_url": "https://github.com/pranshuguptaa/wick-mcp",
+  "install": "npx -y wick-mcp"
+}

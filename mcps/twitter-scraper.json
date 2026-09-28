@@ -1,0 +1,7 @@
+{
+  "name": "twitter-scraper",
+  "description": "Enables AI agents to scrape Twitter/X profiles, tweets, and search results without an API key, returning structured JSON with bios, stats, and engagement metrics via x402 micropayments.",
+  "source_repo": "Br0ski777/twitter-scraper-x402",
+  "source_url": "https://github.com/Br0ski777/twitter-scraper-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/twitter-scraper-x402\n# See source for mcpServers config block"
+}

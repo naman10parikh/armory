@@ -1,0 +1,7 @@
+{
+  "name": "mcp-open-library-file-search-server",
+  "description": "MCP server that enables searching books by author via Open Library API and searching keywords inside local text files.",
+  "source_repo": "maniranjan2023/MCP-Server",
+  "source_url": "https://github.com/maniranjan2023/MCP-Server",
+  "install": "# git clone --depth 1 https://github.com/maniranjan2023/MCP-Server\n# See source for mcpServers config block"
+}

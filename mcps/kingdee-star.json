@@ -1,0 +1,7 @@
+{
+  "name": "kingdee-star",
+  "description": "Enables read-only access to Kingdee Cloud Star financial data, invoice tax calculation, and generation of reimbursement draft payloads through MCP tools.",
+  "source_repo": "adambbhe/kingdee-star-mcp",
+  "source_url": "https://github.com/adambbhe/kingdee-star-mcp",
+  "install": "npx -y kingdee-star-mcp"
+}

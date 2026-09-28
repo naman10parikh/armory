@@ -1,0 +1,7 @@
+{
+  "name": "mi25-tuning-mcp",
+  "description": "Manages multi_llm-client operations for MI25/gfx900 GPUs, enabling configuration updates, inference execution, benchmarking, and performance log analysis via MCP tools.",
+  "source_repo": "AETS-MAGI/MI25-tuning-MCP",
+  "source_url": "https://github.com/AETS-MAGI/MI25-tuning-MCP",
+  "install": "npx -y MI25-tuning-MCP"
+}

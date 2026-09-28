@@ -1,0 +1,7 @@
+{
+  "name": "infura-mcp-server",
+  "description": "Enables AI assistants to query blockchain data across 30+ networks via Infura, using natural language for blocks, transactions, contracts, and more.",
+  "source_repo": "Qbandev/infura-mcp-server",
+  "source_url": "https://github.com/Qbandev/infura-mcp-server",
+  "install": "npx -y infura-mcp-server"
+}

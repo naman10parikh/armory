@@ -1,0 +1,7 @@
+{
+  "name": "tokenlab-model-explorer",
+  "description": "Enables browsing TokenLab models, comparing pricing, and generating cURL examples for various AI endpoints.",
+  "source_repo": "hedging8563/tokenlab-openai-apps-model-explorer",
+  "source_url": "https://github.com/hedging8563/tokenlab-openai-apps-model-explorer",
+  "install": "# git clone --depth 1 https://github.com/hedging8563/tokenlab-openai-apps-model-explorer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "proxybase-mcp",
+  "description": "Give AI Agents Residential SOCKS5 Passports to Bypass Bot Defenses.",
+  "source_repo": "proxybasehq/proxybase-mcp",
+  "source_url": "https://github.com/proxybasehq/proxybase-mcp",
+  "install": "npx -y proxybase-mcp"
+}

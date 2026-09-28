@@ -1,0 +1,7 @@
+{
+  "name": "bow-products-mcp",
+  "description": "MCP server and CLI for Bow Beauty admins to populate, enrich, and validate the products catalog without leaving the editor, exposing admin-only endpoints for AI ingestion, recommendation testing, and full CRUD operations.",
+  "source_repo": "SpunBeat/bow-products-mcp",
+  "source_url": "https://github.com/SpunBeat/bow-products-mcp",
+  "install": "npx -y bow-products-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vfb3-mcp",
+  "description": "Enables AI assistants to query VirtualFlyBrain data, run queries, and search for terms related to Drosophila neurobiology.",
+  "source_repo": "Robbie1977/VFB3-MCP",
+  "source_url": "https://github.com/Robbie1977/VFB3-MCP",
+  "install": "npx -y VFB3-MCP"
+}

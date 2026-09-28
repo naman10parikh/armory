@@ -1,0 +1,7 @@
+{
+  "name": "revise-mcp",
+  "description": "Provides tools to revise and refactor code via MCP, including moving code, indenting/dedenting, outlining file structure, and optional symbol renaming.",
+  "source_repo": "davidfstr/revise-mcp",
+  "source_url": "https://github.com/davidfstr/revise-mcp",
+  "install": "npx -y revise-mcp"
+}

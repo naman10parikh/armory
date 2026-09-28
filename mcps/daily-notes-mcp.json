@@ -1,0 +1,7 @@
+{
+  "name": "daily-notes-mcp",
+  "description": "A basic MCP server for daily notes, currently exposing a hello world prompt and tool, deployable to Vercel and installable as a plugin for Claude Code and Codex.",
+  "source_repo": "MinhTuan2405/dailyobsidian",
+  "source_url": "https://github.com/MinhTuan2405/dailyobsidian",
+  "install": "# git clone --depth 1 https://github.com/MinhTuan2405/dailyobsidian\n# See source for mcpServers config block"
+}

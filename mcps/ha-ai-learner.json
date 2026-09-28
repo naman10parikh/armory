@@ -1,0 +1,7 @@
+{
+  "name": "ha-ai-learner",
+  "description": "A self-learning discovery tool + MCP server that turns your Home Assistant into knowledge an AI assistant can actually use.",
+  "source_repo": "buppy333/ha-ai-learner",
+  "source_url": "https://github.com/buppy333/ha-ai-learner",
+  "install": "# git clone --depth 1 https://github.com/buppy333/ha-ai-learner\n# See source for mcpServers config block"
+}

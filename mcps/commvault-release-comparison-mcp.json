@@ -1,0 +1,7 @@
+{
+  "name": "commvault-release-comparison-mcp",
+  "description": "MCP server for comparing Commvault release versions, retrieving categorized changes, and generating release summaries to support upgrade planning.",
+  "source_repo": "csawantgit/commvault-release-comparison-mcp",
+  "source_url": "https://github.com/csawantgit/commvault-release-comparison-mcp",
+  "install": "npx -y commvault-release-comparison-mcp"
+}

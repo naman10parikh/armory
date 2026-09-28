@@ -1,0 +1,7 @@
+{
+  "name": "adminagent",
+  "description": "AI-powered Shopify Admin via Claude + MCP, enabling full store management through conversation including products, collections, analytics, and bulk operations.",
+  "source_repo": "rushikeshmore/admin-agent",
+  "source_url": "https://github.com/rushikeshmore/admin-agent",
+  "install": "# git clone --depth 1 https://github.com/rushikeshmore/admin-agent\n# See source for mcpServers config block"
+}

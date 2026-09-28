@@ -1,0 +1,7 @@
+{
+  "name": "zen-agent",
+  "description": "A considerate, space-aware CLI and MCP server for background browser automation in Zen Browser, allowing terminal agents to control the browser without interrupting the user's active session.",
+  "source_repo": "fschrhunt/zen-agent",
+  "source_url": "https://github.com/fschrhunt/zen-agent",
+  "install": "# git clone --depth 1 https://github.com/fschrhunt/zen-agent\n# See source for mcpServers config block"
+}

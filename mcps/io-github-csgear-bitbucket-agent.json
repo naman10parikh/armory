@@ -1,0 +1,7 @@
+{
+  "name": "io-github-csgear-bitbucket-agent",
+  "description": "This MCP server enables AI agents to create Pull Requests in a self-hosted Bitbucket Server instance.",
+  "source_repo": "csgear/bitbucket-agent",
+  "source_url": "https://github.com/csgear/bitbucket-agent",
+  "install": "# git clone --depth 1 https://github.com/csgear/bitbucket-agent\n# See source for mcpServers config block"
+}

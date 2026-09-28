@@ -7,7 +7,7 @@ license: MIT
 ---
 # agentgrid
 
-Use to run many agents in parallel as a visible grid of terminal panes — create an NxM layout, name and monitor panes, broadcast or target prompts, and save/restore whole company configurations.
+Use to run many agents in parallel as a visible grid of terminal panes: create an NxM layout, name and monitor panes, broadcast or target prompts, and save/restore whole company configurations.
 
 **Source:** https://github.com/naman10parikh/agentgrid
 

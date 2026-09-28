@@ -1,0 +1,7 @@
+{
+  "name": "weather-mcp-pro",
+  "description": "MCP server that exposes real-time weather, forecasts, air quality, and multi-city comparison tools via the OpenWeather API for LLM agents.",
+  "source_repo": "AsifMarwat/weather-mcp-pro",
+  "source_url": "https://github.com/AsifMarwat/weather-mcp-pro",
+  "install": "# git clone --depth 1 https://github.com/AsifMarwat/weather-mcp-pro\n# See source for mcpServers config block"
+}

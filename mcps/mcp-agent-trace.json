@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agent-trace",
+  "description": "Enables recording and analyzing AI agent execution traces, including event logging, metric computation, loop detection, and JSON export for debugging agent behavior.",
+  "source_repo": "AMEOBIUS-space/mcp-agent-trace",
+  "source_url": "https://github.com/AMEOBIUS-space/mcp-agent-trace",
+  "install": "# git clone --depth 1 https://github.com/AMEOBIUS-space/mcp-agent-trace\n# See source for mcpServers config block"
+}

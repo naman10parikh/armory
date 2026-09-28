@@ -1,0 +1,7 @@
+{
+  "name": "waveapps-mcp",
+  "description": "This MCP server enables AI assistants like Claude to perform Wave Accounting bookkeeping tasks—such as drafting invoices, managing customers, recording payments, and looking up financial data—through natural language commands.",
+  "source_repo": "LunaParker/waveapps-mcp",
+  "source_url": "https://github.com/LunaParker/waveapps-mcp",
+  "install": "npx -y waveapps-mcp"
+}

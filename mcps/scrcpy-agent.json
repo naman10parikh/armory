@@ -1,0 +1,7 @@
+{
+  "name": "scrcpy-agent",
+  "description": "Local MCP server for observing and controlling an authorized Android device over USB using ADB and scrcpy, providing screen capture, UI automation, app inspection, logcat, and evidence recording.",
+  "source_repo": "EF-Code/scrcpy-mcp",
+  "source_url": "https://github.com/EF-Code/scrcpy-mcp",
+  "install": "npx -y scrcpy-mcp"
+}

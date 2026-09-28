@@ -1,0 +1,7 @@
+{
+  "name": "docctx",
+  "description": "Local-first context retrieval engine that serves precise documentation chunks to coding agents via MCP, ensuring high-confidence context for code generation.",
+  "source_repo": "999aryaDharma/local-mcp",
+  "source_url": "https://github.com/999aryaDharma/local-mcp",
+  "install": "npx -y local-mcp"
+}

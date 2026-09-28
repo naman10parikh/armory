@@ -1,0 +1,7 @@
+{
+  "name": "lumena-mcp-server",
+  "description": "Enables AI agents to store, search, assemble, and manage local-first memories through seven MCP tools, including conversation turns, feedback, status, and dashboard access without cloud dependencies.",
+  "source_repo": "QuantmindSSI/lummenna",
+  "source_url": "https://github.com/QuantmindSSI/lummenna",
+  "install": "# git clone --depth 1 https://github.com/QuantmindSSI/lummenna\n# See source for mcpServers config block"
+}

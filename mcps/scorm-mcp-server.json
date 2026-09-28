@@ -1,0 +1,7 @@
+{
+  "name": "scorm-mcp-server",
+  "description": "Packages self-contained HTML or Claude Design bundles into SCORM 2004 courses any LMS can import, with offline asset inlining, milestone-based completion/progress and score tracking. Fully local, no telemetry; validated end-to-end on SCORM Cloud.",
+  "source_repo": "giacomomaria81/scorm-mcp-server",
+  "source_url": "https://github.com/giacomomaria81/scorm-mcp-server",
+  "install": "npx -y scorm-mcp-server"
+}

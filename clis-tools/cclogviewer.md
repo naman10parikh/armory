@@ -7,7 +7,7 @@ license: MIT
 ---
 # cclogviewer
 
-A humble but handy utility for viewing Claude Code `.jsonl` conversation files in a pretty HTML UI.
+A utility for reading Claude Code .jsonl conversation files in an HTML page.
 
 **Source:** https://github.com/Brads3290/cclogviewer
 

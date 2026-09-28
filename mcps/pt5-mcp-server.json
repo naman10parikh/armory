@@ -1,0 +1,7 @@
+{
+  "name": "pt5-mcp-server",
+  "description": "Enables parsing, analysis, and export of power measurement data from Monsoon Power Monitor PT5 files, including summary statistics, sample retrieval, trend analysis, and CSV export.",
+  "source_repo": "doudoufu/pt5-mcp-server",
+  "source_url": "https://github.com/doudoufu/pt5-mcp-server",
+  "install": "npx -y pt5-mcp-server"
+}

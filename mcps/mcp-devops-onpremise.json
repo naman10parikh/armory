@@ -1,0 +1,7 @@
+{
+  "name": "mcp-devops-onpremise",
+  "description": "MCP server for on-premises Azure DevOps that lets AI assistants browse repositories, review pull requests, manage work items, and interact with wikis, with NTLM authentication support.",
+  "source_repo": "zwitbaum/mcp-devops-on-prem",
+  "source_url": "https://github.com/zwitbaum/mcp-devops-on-prem",
+  "install": "# git clone --depth 1 https://github.com/zwitbaum/mcp-devops-on-prem\n# See source for mcpServers config block"
+}

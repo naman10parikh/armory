@@ -1,0 +1,7 @@
+{
+  "name": "drupal-scout-mcp",
+  "description": "A Model Context Protocol server for local Drupal development that combines file indexing with drush-powered database queries to provide AI assistants with knowledge of your site's structure, content, and the drupal.org ecosystem.",
+  "source_repo": "davo20019/drupal-scout-mcp",
+  "source_url": "https://github.com/davo20019/drupal-scout-mcp",
+  "install": "npx -y drupal-scout-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-mg-nova-serrana-certid-o-negativa-de-d-bitos",
+  "description": "Enables users to query negative debt certificates (Certidão Negativa de Débitos) from the Nova Serrana, MG city hall through a read-only MCP server. Works with Claude, ChatGPT, Cursor, and other AI clients via MCP over HTTP.",
+  "source_repo": "mcp-dir/pref_mg_nova_serrana_cnd-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_mg_nova_serrana_cnd-mcp",
+  "install": "npx -y pref_mg_nova_serrana_cnd-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tracking-requests-mcp",
+  "description": "An MCP server for the tracking-requests shipping-label app, providing a broad read-only database surface and a staged write path for FedEx label creation.",
+  "source_repo": "aarondotdev/fedex-label-mcp",
+  "source_url": "https://github.com/aarondotdev/fedex-label-mcp",
+  "install": "npx -y fedex-label-mcp"
+}

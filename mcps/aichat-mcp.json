@@ -1,0 +1,7 @@
+{
+  "name": "aichat-mcp",
+  "description": "MCP server for inter-agent communication. Gives multiple Claude Code sessions a shared message board, agent registry, and orchestration layer — backed by a cloud relay so agents can coordinate across machines, repos, and teams.",
+  "source_repo": "Wayy-Research/aichat-mcp",
+  "source_url": "https://github.com/Wayy-Research/aichat-mcp",
+  "install": "npx -y aichat-mcp"
+}

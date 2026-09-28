@@ -1,0 +1,7 @@
+{
+  "name": "fancy-api",
+  "description": "MCP server that enables AI agents to read and write records in a live REST API generated from pasted data, with tools for listing, querying, inserting, updating, and deleting records.",
+  "source_repo": "carmelosantana/fancy-api",
+  "source_url": "https://github.com/carmelosantana/fancy-api",
+  "install": "# git clone --depth 1 https://github.com/carmelosantana/fancy-api\n# See source for mcpServers config block"
+}

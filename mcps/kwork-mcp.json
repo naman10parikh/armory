@@ -1,0 +1,7 @@
+{
+  "name": "kwork-mcp",
+  "description": "MCP server that exposes 25 tools for the Kwork freelance marketplace — browse projects, submit offers, manage orders, send messages, and more.",
+  "source_repo": "simonether/kwork-mcp",
+  "source_url": "https://github.com/simonether/kwork-mcp",
+  "install": "npx -y kwork-mcp"
+}

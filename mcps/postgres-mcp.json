@@ -1,0 +1,7 @@
+{
+  "name": "postgres-mcp",
+  "description": "Enables Claude to interact with a local PostgreSQL database through SQL queries, schema inspection, and CRUD operations.",
+  "source_repo": "chenz4027/postgres-mcp",
+  "source_url": "https://github.com/chenz4027/postgres-mcp",
+  "install": "npx -y postgres-mcp"
+}

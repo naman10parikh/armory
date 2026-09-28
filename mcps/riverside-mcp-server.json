@@ -1,0 +1,7 @@
+{
+  "name": "riverside-mcp-server",
+  "description": "MCP server for the Riverside Business API v3, enabling management of recordings, exports, webinars, timeline exports, and more through natural language in MCP clients.",
+  "source_repo": "edpreble/riverside-mcp-server",
+  "source_url": "https://github.com/edpreble/riverside-mcp-server",
+  "install": "npx -y riverside-mcp-server"
+}

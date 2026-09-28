@@ -1,0 +1,7 @@
+{
+  "name": "mpds-mcp",
+  "description": "A multi-project design system MCP server that manages design tokens, component specs, and validation with parent-child inheritance, accessible via REST API and JSON-RPC.",
+  "source_repo": "nouhouari/mods-mcp",
+  "source_url": "https://github.com/nouhouari/mods-mcp",
+  "install": "npx -y mods-mcp"
+}

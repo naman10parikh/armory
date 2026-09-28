@@ -1,0 +1,7 @@
+{
+  "name": "brick-bacnet-mcp",
+  "description": "A read-only BACnet/IP gateway that exposes building automation point databases to LLM agents via MCP, with Brick + Project Haystack semantic tagging at ingest time.",
+  "source_repo": "Yveshby27/brick-bacnet-mcp",
+  "source_url": "https://github.com/Yveshby27/brick-bacnet-mcp",
+  "install": "npx -y brick-bacnet-mcp"
+}

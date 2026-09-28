@@ -1,0 +1,7 @@
+{
+  "name": "unity-uitoolkit-mcp-server",
+  "description": "Provides LLM agents with access to Unity UIToolkit documentation, code examples, and HTML/CSS to UXML/USS conversion tools.",
+  "source_repo": "MarzLars/UIToolkitMCP",
+  "source_url": "https://github.com/MarzLars/UIToolkitMCP",
+  "install": "# git clone --depth 1 https://github.com/MarzLars/UIToolkitMCP\n# See source for mcpServers config block"
+}

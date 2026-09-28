@@ -1,0 +1,7 @@
+{
+  "name": "capsule-crm-mcp-server",
+  "description": "Enables AI assistants to access and query Capsule CRM data (contacts, opportunities, support cases, tasks, projects, products) through natural language, with read-only security.",
+  "source_repo": "fuzzylabs/capsule-mcp",
+  "source_url": "https://github.com/fuzzylabs/capsule-mcp",
+  "install": "npx -y capsule-mcp"
+}

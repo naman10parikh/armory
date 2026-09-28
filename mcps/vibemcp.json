@@ -1,0 +1,7 @@
+{
+  "name": "vibemcp",
+  "description": "Token-optimized unified MCP server for Gmail and Microsoft 365, enabling email, calendar, and contact management with up to 70% token savings via TOON format.",
+  "source_repo": "VibeTensor/vibemcp",
+  "source_url": "https://github.com/VibeTensor/vibemcp",
+  "install": "# git clone --depth 1 https://github.com/VibeTensor/vibemcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "e2a-mcp",
+  "description": "Authenticated email service MCP for AI agents.",
+  "source_repo": "tokencanopy/e2a",
+  "source_url": "https://github.com/tokencanopy/e2a",
+  "install": "# git clone --depth 1 https://github.com/tokencanopy/e2a\n# See source for mcpServers config block"
+}

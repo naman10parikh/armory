@@ -1,0 +1,7 @@
+{
+  "name": "402-coffee",
+  "description": "Non-custodial x402 tip jars for the agentic web, enabling USDC tips via a hosted MCP tool for agents.",
+  "source_repo": "0xSector/402coffee",
+  "source_url": "https://github.com/0xSector/402coffee",
+  "install": "# git clone --depth 1 https://github.com/0xSector/402coffee\n# See source for mcpServers config block"
+}

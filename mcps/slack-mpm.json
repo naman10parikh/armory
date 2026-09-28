@@ -1,0 +1,7 @@
+{
+  "name": "slack-mpm",
+  "description": "MCP server for Slack workspace integration, exposing 40+ Slack operations as tools for Claude Desktop and providing a clean async Python API.",
+  "source_repo": "bobmatnyc/slack-mpm",
+  "source_url": "https://github.com/bobmatnyc/slack-mpm",
+  "install": "# git clone --depth 1 https://github.com/bobmatnyc/slack-mpm\n# See source for mcpServers config block"
+}

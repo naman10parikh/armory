@@ -1,0 +1,7 @@
+{
+  "name": "local-dfw-mcp",
+  "description": "Enables AI assistants to answer DFW civic and property questions using official data sources without API keys.",
+  "source_repo": "LizzleChen/local-dfw-mcp",
+  "source_url": "https://github.com/LizzleChen/local-dfw-mcp",
+  "install": "npx -y local-dfw-mcp"
+}

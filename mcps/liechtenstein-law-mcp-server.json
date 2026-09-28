@@ -1,0 +1,7 @@
+{
+  "name": "liechtenstein-law-mcp-server",
+  "description": "Enables natural language search and retrieval of Liechtenstein statutes and provisions, with citation validation, cross-referencing, and EU/EEA law implementation tracing.",
+  "source_repo": "Ansvar-Systems/Liechtenstein-law-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/Liechtenstein-law-mcp",
+  "install": "npx -y Liechtenstein-law-mcp"
+}

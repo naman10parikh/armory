@@ -1,0 +1,7 @@
+{
+  "name": "shd-music",
+  "description": "Enables searching and ripping high-quality audio from Deezer using an ARL cookie, with automatic decryption, tagging, and local library publication.",
+  "source_repo": "yvesdeniz/rip-mcp",
+  "source_url": "https://github.com/yvesdeniz/rip-mcp",
+  "install": "npx -y rip-mcp"
+}

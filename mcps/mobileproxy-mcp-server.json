@@ -1,0 +1,7 @@
+{
+  "name": "mobileproxy-mcp-server",
+  "description": "MCP server that gives Claude and other agents direct control over mobile proxies, enabling proxy management and rotation tasks.",
+  "source_repo": "mobileproxy/mcp-server",
+  "source_url": "https://github.com/mobileproxy/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/mobileproxy/mcp-server\n# See source for mcpServers config block"
+}

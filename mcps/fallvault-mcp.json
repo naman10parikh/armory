@@ -1,0 +1,7 @@
+{
+  "name": "fallvault-mcp",
+  "description": "MCP server for sovereign AES-256-GCM backup encryption and decryption. Enables encrypting, decrypting, verifying, and scoring passphrases with zero network calls.",
+  "source_repo": "sjgant80-hub/fallvault-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallvault-mcp",
+  "install": "npx -y fallvault-mcp"
+}

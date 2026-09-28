@@ -1,0 +1,7 @@
+{
+  "name": "nexus-intelligence-api",
+  "description": "58-endpoint utility hub - DNS lookup, web scraping, CVE scanning, AI translation, PII detection, domain health audit, company intelligence. Pay per call via x402 on Base.",
+  "source_repo": "",
+  "source_url": "https://nexus-agent-xa12.onrender.com",
+  "install": "# git clone --depth 1 https://nexus-agent-xa12.onrender.com\n# See source for mcpServers config block"
+}

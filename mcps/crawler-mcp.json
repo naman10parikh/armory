@@ -1,0 +1,7 @@
+{
+  "name": "crawler-mcp",
+  "description": "Web-crawler MCP server that fetches web pages with static parsing or headless browser fallback, enabling Claude to fetch, extract links, crawl sites, and select content via CSS selectors.",
+  "source_repo": "shadab15github/crawler-mcp",
+  "source_url": "https://github.com/shadab15github/crawler-mcp",
+  "install": "npx -y crawler-mcp"
+}

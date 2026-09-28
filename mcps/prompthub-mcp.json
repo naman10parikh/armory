@@ -1,0 +1,7 @@
+{
+  "name": "prompthub-mcp",
+  "description": "MCP server for PromptHub. Enables publishing, fetching, listing, updating, and searching prompt repositories from Claude Code or Codex.",
+  "source_repo": "LionelHao/prompthub-mcp",
+  "source_url": "https://github.com/LionelHao/prompthub-mcp",
+  "install": "npx -y prompthub-mcp"
+}

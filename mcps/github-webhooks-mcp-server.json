@@ -1,0 +1,7 @@
+{
+  "name": "github-webhooks-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for managing GitHub webhooks at both organization and repository levels.",
+  "source_repo": "ajaychinthapalli/github-webhooks-mcp-server",
+  "source_url": "https://github.com/ajaychinthapalli/github-webhooks-mcp-server",
+  "install": "npx -y github-webhooks-mcp-server"
+}

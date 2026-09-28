@@ -1,0 +1,7 @@
+{
+  "name": "webcake-mcp",
+  "description": "Receives Webcake webhooks to store orders/leads in SQLite and exposes MCP tools for Claude to list, search, and retrieve order details.",
+  "source_repo": "TuMazzi/webcake-mcp",
+  "source_url": "https://github.com/TuMazzi/webcake-mcp",
+  "install": "npx -y webcake-mcp"
+}

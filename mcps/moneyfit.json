@@ -1,0 +1,7 @@
+{
+  "name": "moneyfit",
+  "description": "Analyzes government support program announcements and business profiles to determine eligibility, identify missing information, detect risks, and generate application plans for small business owners.",
+  "source_repo": "wjd0ha/moneyfit-mcp",
+  "source_url": "https://github.com/wjd0ha/moneyfit-mcp",
+  "install": "npx -y moneyfit-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-exports",
+  "description": "Enables MCP servers to share large exports as short-lived, single-use capability URLs that customers can download without authentication, avoiding huge inline token responses.",
+  "source_repo": "JohnGilligan2/mcp-exports",
+  "source_url": "https://github.com/JohnGilligan2/mcp-exports",
+  "install": "# git clone --depth 1 https://github.com/JohnGilligan2/mcp-exports\n# See source for mcpServers config block"
+}

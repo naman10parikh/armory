@@ -1,0 +1,7 @@
+{
+  "name": "opengrants-os",
+  "description": "An MCP server for discovering, matching, drafting, and managing grants and public goods funding for open-source AI projects. It integrates Grants.gov, NSF Awards, GitHub Sponsors, Open Collective, Gitcoin, and other sources to provide grounded proposals and autonomous funding lifecycle management.",
+  "source_repo": "ANAMIZED/opengrants-os",
+  "source_url": "https://github.com/ANAMIZED/opengrants-os",
+  "install": "# git clone --depth 1 https://github.com/ANAMIZED/opengrants-os\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "qrp-mcp",
+  "description": "An MCP server that scans local codebases for quantum-vulnerable cryptography (secp256k1, Ed25519, RSA, etc.) and CI signing commands, classifying each finding as quantum-broken, post-quantum, or neither. It runs entirely locally with no network calls, providing a deterministic inventory for AI agent",
+  "source_repo": "StanimirTenev/qrp-mcp",
+  "source_url": "https://github.com/StanimirTenev/qrp-mcp",
+  "install": "npx -y qrp-mcp"
+}

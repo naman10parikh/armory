@@ -1,0 +1,7 @@
+{
+  "name": "datadog-cost-mcp-server",
+  "description": "Lets you inspect a Datadog organization's usage and answer cost questions in plain English, helping identify savings opportunities.",
+  "source_repo": "antoniopablo/datadog-mcp-server",
+  "source_url": "https://github.com/antoniopablo/datadog-mcp-server",
+  "install": "npx -y datadog-mcp-server"
+}

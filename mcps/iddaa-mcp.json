@@ -1,0 +1,7 @@
+{
+  "name": "iddaa-mcp",
+  "description": "MCP server that provides structured access to real-time sportsbook data from iddaa, including live events, competitions, and league fixtures with strategy analysis. Designed for AI agents and automation workflows.",
+  "source_repo": "borakilicoglu/iddaa-mcp",
+  "source_url": "https://github.com/borakilicoglu/iddaa-mcp",
+  "install": "npx -y iddaa-mcp"
+}

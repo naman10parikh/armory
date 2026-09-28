@@ -1,0 +1,7 @@
+{
+  "name": "nix-agent",
+  "description": "A local MCP server for trusted NixOS automation that enables inspecting files, applying patch sets, and validating/switching NixOS or Home Manager configurations.",
+  "source_repo": "JEFF7712/nix-agent",
+  "source_url": "https://github.com/JEFF7712/nix-agent",
+  "install": "# git clone --depth 1 https://github.com/JEFF7712/nix-agent\n# See source for mcpServers config block"
+}

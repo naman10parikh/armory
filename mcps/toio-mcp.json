@@ -1,0 +1,7 @@
+{
+  "name": "toio-mcp",
+  "description": "Controls toio robot cubes via natural language through BLE, enabling movement, LED control, and sound playback from MCP-compatible clients like Claude Desktop.",
+  "source_repo": "u-akira/toio-mcp",
+  "source_url": "https://github.com/u-akira/toio-mcp",
+  "install": "npx -y toio-mcp"
+}

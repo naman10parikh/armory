@@ -1,0 +1,7 @@
+{
+  "name": "tr-eli-mcp",
+  "description": "An MCP server for accessing Turkish legislation (laws, regulations, decrees) via the Adalet Bakanligi API, providing search, full-text retrieval, and structured citations.",
+  "source_repo": "matematicsolutions/tr-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/tr-eli-mcp",
+  "install": "npx -y tr-eli-mcp"
+}

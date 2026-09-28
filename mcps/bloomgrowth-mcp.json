@@ -1,0 +1,7 @@
+{
+  "name": "bloomgrowth-mcp",
+  "description": "Exposes the Bloom Growth REST API (EOS/Traction-style meetings, rocks, scorecards, to-dos, and org-chart management) as MCP tools.",
+  "source_repo": "MSPbotsAI/bloomgrowth-mcp",
+  "source_url": "https://github.com/MSPbotsAI/bloomgrowth-mcp",
+  "install": "npx -y bloomgrowth-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "brainhub",
+  "description": "A unified FastAPI web panel and single MCP gateway that aggregates knowledge base, cloud drive, kanban, memory, and ops agent capabilities for the Brain product family.",
+  "source_repo": "bxy3045134656/brainhub",
+  "source_url": "https://github.com/bxy3045134656/brainhub",
+  "install": "# git clone --depth 1 https://github.com/bxy3045134656/brainhub\n# See source for mcpServers config block"
+}

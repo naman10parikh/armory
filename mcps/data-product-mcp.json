@@ -1,0 +1,7 @@
+{
+  "name": "data-product-mcp",
+  "description": "Enables AI agents to discover, request access to, and query data products in Data Mesh Manager, enforcing governance policies while retrieving business data from platforms like Snowflake and Databricks.",
+  "source_repo": "entropy-data/dataproduct-mcp",
+  "source_url": "https://github.com/entropy-data/dataproduct-mcp",
+  "install": "npx -y dataproduct-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tubescribe-mcp",
+  "description": "MCP server for fetching YouTube video transcripts without an API key.",
+  "source_repo": "retospect/tubescribe-mcp",
+  "source_url": "https://github.com/retospect/tubescribe-mcp",
+  "install": "npx -y tubescribe-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "garmin-read-only-mcp",
+  "description": "A read-only MCP server that synchronizes Garmin Connect summaries into a local SQLite cache and provides tools to query daily activity, recent activities, and recovery data.",
+  "source_repo": "alexpomsft/garmin-readonly-mcp",
+  "source_url": "https://github.com/alexpomsft/garmin-readonly-mcp",
+  "install": "npx -y garmin-readonly-mcp"
+}

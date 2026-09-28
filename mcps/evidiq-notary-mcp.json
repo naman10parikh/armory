@@ -1,0 +1,7 @@
+{
+  "name": "evidiq-notary-mcp",
+  "description": "Cryptographic receipt layer for AI inferences. Enables notarization and verification of AI outputs with on-chain proofs via x402 payment.",
+  "source_repo": "evidiq/evidiq-notary-mcp",
+  "source_url": "https://github.com/evidiq/evidiq-notary-mcp",
+  "install": "npx -y evidiq-notary-mcp"
+}

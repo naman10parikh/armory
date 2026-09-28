@@ -1,0 +1,7 @@
+{
+  "name": "korea-housing-mcp",
+  "description": "This MCP server integrates South Korea's national law information, building registers from MOLIT, and KOSIS statistics for housing development research. It enables searching laws, retrieving building details, and accessing statistical data through natural language.",
+  "source_repo": "doorijaehyuk/korea-housing-mcp",
+  "source_url": "https://github.com/doorijaehyuk/korea-housing-mcp",
+  "install": "npx -y korea-housing-mcp"
+}

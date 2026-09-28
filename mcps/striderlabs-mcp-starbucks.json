@@ -1,0 +1,7 @@
+{
+  "name": "striderlabs-mcp-starbucks",
+  "description": "MCP server for Starbucks — let AI agents search the menu, customize drinks, find stores, place mobile pickup orders, and manage Starbucks Rewards.",
+  "source_repo": "markswendsen-code/mcp-starbucks",
+  "source_url": "https://github.com/markswendsen-code/mcp-starbucks",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-starbucks\n# See source for mcpServers config block"
+}

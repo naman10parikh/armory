@@ -1,0 +1,7 @@
+{
+  "name": "telegram-channel-mcp-server",
+  "description": "Enables sending messages to Telegram channels via MCP protocol, integrating with AI assistants for automated messaging.",
+  "source_repo": "wenyuanw/telegram-channel-mcp",
+  "source_url": "https://github.com/wenyuanw/telegram-channel-mcp",
+  "install": "npx -y telegram-channel-mcp"
+}

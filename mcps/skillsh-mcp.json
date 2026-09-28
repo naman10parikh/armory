@@ -1,0 +1,7 @@
+{
+  "name": "skillsh-mcp",
+  "description": "MCP server for searching and managing AI agent skills from skills.sh, including search, popular skills, details, and install commands.",
+  "source_repo": "brandonqr/skillsh-mcp",
+  "source_url": "https://github.com/brandonqr/skillsh-mcp",
+  "install": "npx -y skillsh-mcp"
+}

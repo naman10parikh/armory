@@ -1,0 +1,7 @@
+{
+  "name": "pricetrack-mcp",
+  "description": "MCP server for PriceTrack that enables AI assistants to search live SaaS pricing, view verified price changes, and compare products side-by-side across 33,000+ vendors.",
+  "source_repo": "PriceTrack-dev/pricetrack-mcp",
+  "source_url": "https://github.com/PriceTrack-dev/pricetrack-mcp",
+  "install": "npx -y pricetrack-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "opensafari",
+  "description": "An MCP server for headless mobile QA automation that controls real Safari, Flutter, and native iOS apps on Xcode Simulators via WebKit Remote Debugging Protocol, enabling parallel multi-device testing and persistent login sessions.",
+  "source_repo": "shaun0927/opensafari",
+  "source_url": "https://github.com/shaun0927/opensafari",
+  "install": "# git clone --depth 1 https://github.com/shaun0927/opensafari\n# See source for mcpServers config block"
+}

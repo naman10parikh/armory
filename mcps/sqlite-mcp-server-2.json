@@ -1,0 +1,7 @@
+{
+  "name": "sqlite-mcp-server-2",
+  "description": "Enables AI models to execute SQL queries against a SQLite database and receive results as JSON.",
+  "source_repo": "PedroUrday/sqlite-mcp-server",
+  "source_url": "https://github.com/PedroUrday/sqlite-mcp-server",
+  "install": "npx -y sqlite-mcp-server"
+}

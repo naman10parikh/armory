@@ -1,0 +1,7 @@
+{
+  "name": "soma-nexus-mcp",
+  "description": "MCP server that fetches Figma data (file trees, nodes, images, components, styles, variables) and serves as a foundation for Flutter code generation.",
+  "source_repo": "pablostefan/soma_nexus",
+  "source_url": "https://github.com/pablostefan/soma_nexus",
+  "install": "# git clone --depth 1 https://github.com/pablostefan/soma_nexus\n# See source for mcpServers config block"
+}

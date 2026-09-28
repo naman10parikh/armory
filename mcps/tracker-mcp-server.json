@@ -1,0 +1,7 @@
+{
+  "name": "tracker-mcp-server",
+  "description": "Enables AI agents to manage Kanban boards, cards, sessions, and automations through a unified MCP interface with real-time updates, supporting delegation, agent sessions, and human-in-the-loop interactions.",
+  "source_repo": "0-to-1-Labs/tracker",
+  "source_url": "https://github.com/0-to-1-Labs/tracker",
+  "install": "# git clone --depth 1 https://github.com/0-to-1-Labs/tracker\n# See source for mcpServers config block"
+}

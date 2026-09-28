@@ -1,0 +1,7 @@
+{
+  "name": "mcp-iso8859-writer",
+  "description": "Enables writing and editing files in ISO-8859-1 encoding, automatically converting UTF-8 content to ISO-8859-1 for legacy codebases.",
+  "source_repo": "lmendezz/mcp-iso8859-writer",
+  "source_url": "https://github.com/lmendezz/mcp-iso8859-writer",
+  "install": "# git clone --depth 1 https://github.com/lmendezz/mcp-iso8859-writer\n# See source for mcpServers config block"
+}

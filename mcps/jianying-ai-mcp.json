@@ -1,0 +1,7 @@
+{
+  "name": "jianying-ai-mcp",
+  "description": "MCP server for Jianying (CapCut) AI-assisted editing, enabling natural language-driven draft generation, reference reuse, and batch template creation with safety checks.",
+  "source_repo": "Xanthus-Sanslab/jianying-ai-mcp",
+  "source_url": "https://github.com/Xanthus-Sanslab/jianying-ai-mcp",
+  "install": "npx -y jianying-ai-mcp"
+}

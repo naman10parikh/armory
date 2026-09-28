@@ -1,0 +1,7 @@
+{
+  "name": "io-github-rijul170-qualys-mcp",
+  "description": "A Model Context Protocol server for full Qualys portal management — expose VMDR, Policy Compliance, WAS, Cloud Agent, Container Security, TotalCloud, Patch Management, CSAM/GAV, EASM and administration to any MCP‑capable client.",
+  "source_repo": "rijul170/qualys-mcp",
+  "source_url": "https://github.com/rijul170/qualys-mcp",
+  "install": "npx -y qualys-mcp"
+}

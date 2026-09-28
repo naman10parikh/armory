@@ -1,0 +1,7 @@
+{
+  "name": "indonesia-financial-data-mcp",
+  "description": "Citation-first MCP server for official Indonesian financial data from IDX, BPS, and KSEI, providing tools to access company profiles, financial reports, statistical tables, and investor demographics.",
+  "source_repo": "agentpixelated/indonesia-financial-data-mcp",
+  "source_url": "https://github.com/agentpixelated/indonesia-financial-data-mcp",
+  "install": "npx -y indonesia-financial-data-mcp"
+}

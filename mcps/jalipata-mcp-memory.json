@@ -1,0 +1,7 @@
+{
+  "name": "jalipata-mcp-memory",
+  "description": "Provides persistent, multi-tenant knowledge graph memory for MCP-capable AI tools, allowing them to recall and store entities, observations, and relations across sessions with keyword search.",
+  "source_repo": "alfianyusufabdullah/jalipata",
+  "source_url": "https://github.com/alfianyusufabdullah/jalipata",
+  "install": "# git clone --depth 1 https://github.com/alfianyusufabdullah/jalipata\n# See source for mcpServers config block"
+}

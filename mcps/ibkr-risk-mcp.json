@@ -1,0 +1,7 @@
+{
+  "name": "ibkr-risk-mcp",
+  "description": "MCP server exposing Interactive Brokers' portfolio risk analysis, including model greeks, implied volatility surface, what-if margin, and a local stress engine for P&L curve analysis.",
+  "source_repo": "simoneb/ibkr-risk-mcp",
+  "source_url": "https://github.com/simoneb/ibkr-risk-mcp",
+  "install": "npx -y ibkr-risk-mcp"
+}

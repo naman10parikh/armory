@@ -1,0 +1,7 @@
+{
+  "name": "basque-country-hyperlocal-mobility",
+  "description": "Servidor MCP (roadmap L5) sobre los endpoints públicos de emap. No existe otro MCP de movilidad hiperlocal: búsqueda semántica local ES/EU, contexto de lugar, rutas multimodales con infraestructura propia (OSRM/OTP) y \"el monte en transporte público\".",
+  "source_repo": "r3tr0eth/emap-labs",
+  "source_url": "https://github.com/r3tr0eth/emap-labs",
+  "install": "# git clone --depth 1 https://github.com/r3tr0eth/emap-labs\n# See source for mcpServers config block"
+}

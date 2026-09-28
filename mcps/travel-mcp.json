@@ -1,0 +1,7 @@
+{
+  "name": "travel-mcp",
+  "description": "Provides mock travel planning tools including flight and hotel search, recommendations, and multi-turn trip drafting. Supports stdio and HTTP transports and is intended for testing/demo purposes only.",
+  "source_repo": "RagnarLothbrok20/Travel-MCP",
+  "source_url": "https://github.com/RagnarLothbrok20/Travel-MCP",
+  "install": "npx -y Travel-MCP"
+}

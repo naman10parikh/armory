@@ -1,0 +1,7 @@
+{
+  "name": "n8n-workflows-mcp",
+  "description": "An MCP server that turns deployed n8n workflows into callable tools for AI agents, enabling discovery and execution of tagged workflows via a standard interface without rewriting integrations.",
+  "source_repo": "NestorPVsf/n8n-workflows-mcp",
+  "source_url": "https://github.com/NestorPVsf/n8n-workflows-mcp",
+  "install": "npx -y n8n-workflows-mcp"
+}

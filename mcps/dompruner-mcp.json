@@ -1,0 +1,7 @@
+{
+  "name": "dompruner-mcp",
+  "description": "MCP server that fetches URLs and returns token-efficient Markdown by pruning DOM noise, reducing LLM context costs by up to 99% without API keys or vector databases.",
+  "source_repo": "dong7812/dompruner-mcp",
+  "source_url": "https://github.com/dong7812/dompruner-mcp",
+  "install": "npx -y dompruner-mcp"
+}

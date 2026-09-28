@@ -1,0 +1,7 @@
+{
+  "name": "dws-cli-mcp",
+  "description": "MCP server that enables AI agents to control all DingTalk features (messaging, calendar, tasks, approvals, etc.) via natural language using the DingTalk Workspace CLI.",
+  "source_repo": "yingcaihuang/dws-cli-mcp",
+  "source_url": "https://github.com/yingcaihuang/dws-cli-mcp",
+  "install": "npx -y dws-cli-mcp"
+}

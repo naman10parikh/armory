@@ -1,0 +1,7 @@
+{
+  "name": "hardline-mcp",
+  "description": "Enables local AI coding agents to message each other on one machine using a durable SQLite mailbox and live-ask tools.",
+  "source_repo": "sushiHex/hardline-mcp",
+  "source_url": "https://github.com/sushiHex/hardline-mcp",
+  "install": "npx -y hardline-mcp"
+}

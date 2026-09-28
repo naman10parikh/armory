@@ -1,0 +1,7 @@
+{
+  "name": "personality-mcp",
+  "description": "Multi-type personality test MCP server supporting 11 tests like MBTI, Enneagram, Big Five, DISC, and more.",
+  "source_repo": "yaoxiaolinglong/personality-mcp",
+  "source_url": "https://github.com/yaoxiaolinglong/personality-mcp",
+  "install": "npx -y personality-mcp"
+}

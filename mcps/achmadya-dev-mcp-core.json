@@ -1,0 +1,7 @@
+{
+  "name": "achmadya-dev-mcp-core",
+  "description": "Provides a shared MCP SDK wrapper for building MCP servers with stdio transport, tool registration, JSON-safe responses, and environment helpers.",
+  "source_repo": "achmadya-dev/mcp-core",
+  "source_url": "https://github.com/achmadya-dev/mcp-core",
+  "install": "# git clone --depth 1 https://github.com/achmadya-dev/mcp-core\n# See source for mcpServers config block"
+}

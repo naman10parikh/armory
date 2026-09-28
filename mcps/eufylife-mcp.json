@@ -1,0 +1,7 @@
+{
+  "name": "eufylife-mcp",
+  "description": "An MCP server for EufyLife smart scale body composition data, exposing weight, BMI, body fat, muscle mass, and 20+ other measurements as tools for AI assistants.",
+  "source_repo": "MatthewHallCom/eufylife-mcp",
+  "source_url": "https://github.com/MatthewHallCom/eufylife-mcp",
+  "install": "npx -y eufylife-mcp"
+}

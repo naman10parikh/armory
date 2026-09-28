@@ -1,0 +1,7 @@
+{
+  "name": "mcp-eto-travel",
+  "description": "Enables searching tours on eto.travel using browser automation via Playwright. Supports finding a single tour or a categorized selection (budget, optimal, premium) based on filters like destination, departure city, nights, and month.",
+  "source_repo": "nyxandro/mcp-eto-travel",
+  "source_url": "https://github.com/nyxandro/mcp-eto-travel",
+  "install": "# git clone --depth 1 https://github.com/nyxandro/mcp-eto-travel\n# See source for mcpServers config block"
+}

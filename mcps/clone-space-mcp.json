@@ -1,0 +1,7 @@
+{
+  "name": "clone-space-mcp",
+  "description": "Archives live web pages for offline replay with full interactivity, enabling AI agents to analyze page structure and behavior.",
+  "source_repo": "xenodeve/clone-space-mcp",
+  "source_url": "https://github.com/xenodeve/clone-space-mcp",
+  "install": "npx -y clone-space-mcp"
+}

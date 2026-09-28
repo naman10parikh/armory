@@ -1,0 +1,7 @@
+{
+  "name": "repo-sdk-mcp",
+  "description": "Exposes functions to get the current working directory and review git diffs before commit as MCP tools, leveraging Claude Code CLI for diff review.",
+  "source_repo": "mreedr/claude-cli-MCP",
+  "source_url": "https://github.com/mreedr/claude-cli-MCP",
+  "install": "npx -y claude-cli-MCP"
+}

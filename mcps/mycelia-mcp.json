@@ -1,0 +1,7 @@
+{
+  "name": "mycelia-mcp",
+  "description": "MCP server that wraps the Mycelia mutual-aid protocol, allowing AI agents in any MCP host (Claude Code, Maestro, Codex) to browse, claim, respond to, and rate requests without leaving the conversation context.",
+  "source_repo": "NorthwoodsSentinel/mycelia-mcp",
+  "source_url": "https://github.com/NorthwoodsSentinel/mycelia-mcp",
+  "install": "npx -y mycelia-mcp"
+}

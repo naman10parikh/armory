@@ -1,0 +1,7 @@
+{
+  "name": "data-studio-mcp-server",
+  "description": "Enables AI coding agents to securely access 70+ SQL and NoSQL databases via dockit and sqlkit, using plain language queries. It provides a three-tier permission model and never exposes credentials to the LLM.",
+  "source_repo": "geek-fun/data-studio-agent",
+  "source_url": "https://github.com/geek-fun/data-studio-agent",
+  "install": "# git clone --depth 1 https://github.com/geek-fun/data-studio-agent\n# See source for mcpServers config block"
+}

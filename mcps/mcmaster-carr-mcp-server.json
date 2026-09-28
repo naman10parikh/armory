@@ -1,0 +1,7 @@
+{
+  "name": "mcmaster-carr-mcp-server",
+  "description": "Enables searching and retrieving detailed product specifications from McMaster-Carr using part numbers or search queries.",
+  "source_repo": "mjbraun/mcmaster-agent",
+  "source_url": "https://github.com/mjbraun/mcmaster-agent",
+  "install": "# git clone --depth 1 https://github.com/mjbraun/mcmaster-agent\n# See source for mcpServers config block"
+}

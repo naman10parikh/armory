@@ -1,0 +1,7 @@
+{
+  "name": "robonine-mcp-server",
+  "description": "A local MCP server that connects Claude Code or any MCP-compatible AI assistant to a Robonine robot arm.",
+  "source_repo": "roboninecom/robonine-mcp",
+  "source_url": "https://github.com/roboninecom/robonine-mcp",
+  "install": "npx -y robonine-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cherrytree-mcp-server",
+  "description": "An MCP server for reading and writing CherryTree .ctd files, enabling node management, rich text editing, codeboxes, tables, and bookmarks with automatic byte-level audit for safe writes.",
+  "source_repo": "lucaszarzur/cherrytree-mcp",
+  "source_url": "https://github.com/lucaszarzur/cherrytree-mcp",
+  "install": "npx -y cherrytree-mcp"
+}

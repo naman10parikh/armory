@@ -1,0 +1,7 @@
+{
+  "name": "mcp-doorman",
+  "description": "A drop-in proxy that guards MCP servers with policy enforcement, secret redaction, prompt-injection screening, rug-pull detection, rate limiting, and audit logging.",
+  "source_repo": "Sushank05/mcp-doorman",
+  "source_url": "https://github.com/Sushank05/mcp-doorman",
+  "install": "# git clone --depth 1 https://github.com/Sushank05/mcp-doorman\n# See source for mcpServers config block"
+}

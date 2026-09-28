@@ -1,0 +1,7 @@
+{
+  "name": "edi-mcp",
+  "description": "Enables AI clients to interact with EDA projects via natural language by wrapping EDI's gRPC interface, CLI tools, and ANSYS HFSS as MCP tools supporting SSE and stdio transports.",
+  "source_repo": "Zhang2070466526/mcp-grpc",
+  "source_url": "https://github.com/Zhang2070466526/mcp-grpc",
+  "install": "# git clone --depth 1 https://github.com/Zhang2070466526/mcp-grpc\n# See source for mcpServers config block"
+}

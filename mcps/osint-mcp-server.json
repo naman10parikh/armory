@@ -1,0 +1,7 @@
+{
+  "name": "osint-mcp-server",
+  "description": "MCP server for the OSINT Intelligence Platform, enabling AI assistants to interact with Telegram intelligence archives via 65 tools for search, entity analysis, event tracking, social graph, and platform monitoring.",
+  "source_repo": "osintukraine/osint-mcp-server",
+  "source_url": "https://github.com/osintukraine/osint-mcp-server",
+  "install": "npx -y osint-mcp-server"
+}

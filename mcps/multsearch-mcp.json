@@ -1,0 +1,7 @@
+{
+  "name": "multsearch-mcp",
+  "description": "A dual-path web search MCP server for Claude Code that cross-validates results via Tavily/Firecrawl and Google, explicitly returning sources to reduce hallucinations.",
+  "source_repo": "liujp2015/multsearch-mcp",
+  "source_url": "https://github.com/liujp2015/multsearch-mcp",
+  "install": "npx -y multsearch-mcp"
+}

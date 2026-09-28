@@ -1,0 +1,7 @@
+{
+  "name": "pedalpalooza-mcp-server",
+  "description": "Fetches bike ride events from the Pedalpalooza calendar and allows LLMs to query rides by date, pace, difficulty, and family-friendliness.",
+  "source_repo": "nickcosmo/pedalpalooza-mcp-server",
+  "source_url": "https://github.com/nickcosmo/pedalpalooza-mcp-server",
+  "install": "npx -y pedalpalooza-mcp-server"
+}

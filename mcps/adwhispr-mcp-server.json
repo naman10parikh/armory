@@ -1,0 +1,7 @@
+{
+  "name": "adwhispr-mcp-server",
+  "description": "Chat with any brand's Meta (Facebook/Instagram) ads inside Claude — research a competitor's ad library, find their longest-running winners, extract hooks and formats, and clone winning ads for your own brand.",
+  "source_repo": "adwhispr/mcp-server",
+  "source_url": "https://github.com/adwhispr/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/adwhispr/mcp-server\n# See source for mcpServers config block"
+}

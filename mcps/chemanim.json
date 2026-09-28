@@ -1,0 +1,7 @@
+{
+  "name": "chemanim",
+  "description": "Converts chemistry animation requests into Manim scenes using DeepSeek for structure generation and RDKit for validation, with PubChem lookup and optional 3D rendering.",
+  "source_repo": "imashen/chemanim-mcp",
+  "source_url": "https://github.com/imashen/chemanim-mcp",
+  "install": "npx -y chemanim-mcp"
+}

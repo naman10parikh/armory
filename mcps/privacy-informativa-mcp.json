@@ -1,0 +1,7 @@
+{
+  "name": "privacy-informativa-mcp",
+  "description": "Helps individuals analyze privacy policies and verify if a website's technical behavior matches its stated privacy practices.",
+  "source_repo": "diegts/privacy-informativa-mcp",
+  "source_url": "https://github.com/diegts/privacy-informativa-mcp",
+  "install": "npx -y privacy-informativa-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "braintube-mcp",
+  "description": "Persistent knowledge-base MCP server. Semantic search with source citations over saved YouTube videos, podcasts, articles and PDFs — one endpoint for every MCP-capable AI client.",
+  "source_repo": "lildaddyo/braintube-mcp",
+  "source_url": "https://github.com/lildaddyo/braintube-mcp",
+  "install": "npx -y braintube-mcp"
+}

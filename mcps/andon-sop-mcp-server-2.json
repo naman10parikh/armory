@@ -1,0 +1,7 @@
+{
+  "name": "andon-sop-mcp-server-2",
+  "description": "A local MCP server that connects WorkBuddy to MES systems, enabling SOP upload and abnormal report query via stdio protocol.",
+  "source_repo": "guansuian/sop-mcp-server",
+  "source_url": "https://github.com/guansuian/sop-mcp-server",
+  "install": "npx -y sop-mcp-server"
+}

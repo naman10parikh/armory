@@ -1,0 +1,7 @@
+{
+  "name": "ai-directory-mcp-server",
+  "description": "Enables AI assistants to query the Voxie AI Phone Number Directory, list AI services, and obtain webchat URLs to interact with Voxie AI personas.",
+  "source_repo": "sonnyflylock/voxie-ai-directory-mcp",
+  "source_url": "https://github.com/sonnyflylock/voxie-ai-directory-mcp",
+  "install": "npx -y voxie-ai-directory-mcp"
+}

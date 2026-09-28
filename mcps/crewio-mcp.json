@@ -1,0 +1,7 @@
+{
+  "name": "crewio-mcp",
+  "description": "Hosted HTTP MCP server that exposes Crewio CRM as tools for AI assistants, enabling CRUD operations on deals, contacts, companies, comments, and full-text search.",
+  "source_repo": "cherry-it/crewio-mcp",
+  "source_url": "https://github.com/cherry-it/crewio-mcp",
+  "install": "npx -y crewio-mcp"
+}

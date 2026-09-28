@@ -1,0 +1,7 @@
+{
+  "name": "bg-tasks-mcp",
+  "description": "MCP server that enables AI agents to start, monitor, and stop background processes like dev servers, builds, and tests, with a web dashboard.",
+  "source_repo": "rookie136/bg-tasks-mcp",
+  "source_url": "https://github.com/rookie136/bg-tasks-mcp",
+  "install": "npx -y bg-tasks-mcp"
+}

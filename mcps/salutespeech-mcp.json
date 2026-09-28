@@ -1,0 +1,7 @@
+{
+  "name": "salutespeech-mcp",
+  "description": "Provides speech recognition (STT) and synthesis (TTS) tools via the Sber SaluteSpeech API, enabling audio transcription and voice generation through natural language.",
+  "source_repo": "theYahia/salutespeech-mcp",
+  "source_url": "https://github.com/theYahia/salutespeech-mcp",
+  "install": "npx -y salutespeech-mcp"
+}

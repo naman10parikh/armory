@@ -1,0 +1,7 @@
+{
+  "name": "simple-mcp-server-star-wars-api",
+  "description": "Enables searching characters, planets, and films from the Star Wars universe via the SWAPI API.",
+  "source_repo": "RamosJSouza/simple_mcp_server",
+  "source_url": "https://github.com/RamosJSouza/simple_mcp_server",
+  "install": "npx -y simple_mcp_server"
+}

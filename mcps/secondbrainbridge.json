@@ -1,0 +1,7 @@
+{
+  "name": "secondbrainbridge",
+  "description": "Lets ChatGPT search and reason over your local Obsidian Markdown vault through natural language, with tools for search, Q&A, note retrieval, backlinks, and note creation.",
+  "source_repo": "IsaiahDupree/second-brain-bridge",
+  "source_url": "https://github.com/IsaiahDupree/second-brain-bridge",
+  "install": "# git clone --depth 1 https://github.com/IsaiahDupree/second-brain-bridge\n# See source for mcpServers config block"
+}

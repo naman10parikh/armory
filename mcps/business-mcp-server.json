@@ -1,0 +1,7 @@
+{
+  "name": "business-mcp-server",
+  "description": "Enables AI to query a business database for customers, orders, and revenue using natural language through safe, well-defined tools.",
+  "source_repo": "bke1302/business-mcp-server",
+  "source_url": "https://github.com/bke1302/business-mcp-server",
+  "install": "npx -y business-mcp-server"
+}

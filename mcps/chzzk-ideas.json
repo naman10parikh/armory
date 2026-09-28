@@ -1,0 +1,7 @@
+{
+  "name": "chzzk-ideas",
+  "description": "Enables streamers to receive viewer-submitted ideas from Chzzk live chat and send them to Claude Code for execution, with viewer voting support.",
+  "source_repo": "kaeba0616/chzzkDevChat",
+  "source_url": "https://github.com/kaeba0616/chzzkDevChat",
+  "install": "# git clone --depth 1 https://github.com/kaeba0616/chzzkDevChat\n# See source for mcpServers config block"
+}

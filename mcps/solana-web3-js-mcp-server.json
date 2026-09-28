@@ -1,0 +1,7 @@
+{
+  "name": "solana-web3-js-mcp-server",
+  "description": "Enables AI assistants to interact with the Solana blockchain, manage accounts and tokens, and develop and deploy smart contracts end-to-end.",
+  "source_repo": "FrankGenGo/solana-web3js-mcp-server",
+  "source_url": "https://github.com/FrankGenGo/solana-web3js-mcp-server",
+  "install": "npx -y solana-web3js-mcp-server"
+}

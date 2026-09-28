@@ -1,0 +1,7 @@
+{
+  "name": "worldlabs-mcp",
+  "description": "MCP gateway to World Labs Marble + Spark 2.0 for generating navigable 3D worlds from text, images, panoramas, multi-view sets, or video, and grounding a voice agent in scene coordinates.",
+  "source_repo": "sandraschi/worldlabs-mcp",
+  "source_url": "https://github.com/sandraschi/worldlabs-mcp",
+  "install": "npx -y worldlabs-mcp"
+}

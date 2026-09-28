@@ -1,0 +1,7 @@
+{
+  "name": "low-hallucination-vision",
+  "description": "A low-hallucination vision MCP server that uses OpenAI-compatible multimodal models with structured prompts, confidence gating, and forced JSON to reduce false claims in image analysis.",
+  "source_repo": "ZRZRING/vision-mcp",
+  "source_url": "https://github.com/ZRZRING/vision-mcp",
+  "install": "npx -y vision-mcp"
+}

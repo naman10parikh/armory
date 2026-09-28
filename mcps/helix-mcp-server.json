@@ -1,0 +1,7 @@
+{
+  "name": "helix-mcp-server",
+  "description": "A local-first MCP server providing secure workspace file operations, offline full-text search, and web search/fetch capabilities without requiring API keys.",
+  "source_repo": "b1krams/helix-mcp",
+  "source_url": "https://github.com/b1krams/helix-mcp",
+  "install": "npx -y helix-mcp"
+}

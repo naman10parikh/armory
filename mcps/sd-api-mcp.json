@@ -1,0 +1,7 @@
+{
+  "name": "sd-api-mcp",
+  "description": "Enables AI agents to interact with a Stable Diffusion REST API for image generation, inpainting, model management, and merging.",
+  "source_repo": "mcaimi/sd-api-mcp",
+  "source_url": "https://github.com/mcaimi/sd-api-mcp",
+  "install": "npx -y sd-api-mcp"
+}

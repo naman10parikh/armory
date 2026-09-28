@@ -1,0 +1,7 @@
+{
+  "name": "token-of-esteem",
+  "description": "Write and mail personalized funny booklets via an AI agent. Allows agents to commission custom 16-page print gifts for users.",
+  "source_repo": "tokenofesteem/mcp",
+  "source_url": "https://github.com/tokenofesteem/mcp",
+  "install": "# git clone --depth 1 https://github.com/tokenofesteem/mcp\n# See source for mcpServers config block"
+}

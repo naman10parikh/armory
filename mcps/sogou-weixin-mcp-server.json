@@ -1,0 +1,7 @@
+{
+  "name": "sogou-weixin-mcp-server",
+  "description": "Enables searching for WeChat official account articles through the Sogou WeChat platform, returning structured article information.",
+  "source_repo": "ptbsare/sogou-weixin-mcp-server",
+  "source_url": "https://github.com/ptbsare/sogou-weixin-mcp-server",
+  "install": "npx -y sogou-weixin-mcp-server"
+}

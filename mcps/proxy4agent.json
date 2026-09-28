@@ -1,0 +1,7 @@
+{
+  "name": "proxy4agent",
+  "description": "Routes AI agent HTTP requests through residential proxies to bypass anti-bot systems, geo-target by country/city, and maintain sticky sessions across multi-step workflows.",
+  "source_repo": "Goldentrii/proxy4agent",
+  "source_url": "https://github.com/Goldentrii/proxy4agent",
+  "install": "# git clone --depth 1 https://github.com/Goldentrii/proxy4agent\n# See source for mcpServers config block"
+}

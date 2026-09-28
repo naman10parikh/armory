@@ -1,0 +1,7 @@
+{
+  "name": "thrixel-mcp-server",
+  "description": "Enables AI agents to create, edit, detail, and download game-ready 3D models through natural conversation, with visual feedback on each result.",
+  "source_repo": "thrixel/thrixel_mcp",
+  "source_url": "https://github.com/thrixel/thrixel_mcp",
+  "install": "npx -y thrixel_mcp"
+}

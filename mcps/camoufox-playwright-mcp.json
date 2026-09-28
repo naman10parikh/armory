@@ -1,0 +1,7 @@
+{
+  "name": "camoufox-playwright-mcp",
+  "description": "An MCP server that provides a stealth-enhanced Playwright browser automation engine with anti-detection features, enabling AI agents to navigate websites, interact with elements, and bypass anti-bot systems.",
+  "source_repo": "chandu-cpz/camoufox-playwright-mcp",
+  "source_url": "https://github.com/chandu-cpz/camoufox-playwright-mcp",
+  "install": "npx -y camoufox-playwright-mcp"
+}

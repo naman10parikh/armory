@@ -1,0 +1,7 @@
+{
+  "name": "creatio-case-toolkit-mcp-server",
+  "description": "Read-only MCP server for querying Creatio support cases and related entities via OData API, with entity allowlist and row limits for safe access.",
+  "source_repo": "mikko-bautista-113580/CreatioCaseLookup",
+  "source_url": "https://github.com/mikko-bautista-113580/CreatioCaseLookup",
+  "install": "# git clone --depth 1 https://github.com/mikko-bautista-113580/CreatioCaseLookup\n# See source for mcpServers config block"
+}

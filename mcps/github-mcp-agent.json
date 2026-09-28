@@ -1,0 +1,7 @@
+{
+  "name": "github-mcp-agent",
+  "description": "A server that enables natural-language queries about GitHub repositories and returns answers backed by live GitHub data.",
+  "source_repo": "MadanMohan0537/github-mcp-agent",
+  "source_url": "https://github.com/MadanMohan0537/github-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/MadanMohan0537/github-mcp-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "obfus-link",
+  "description": "Offers 31 deterministic developer tools (obfuscators, encoders, converters, validators) on a lean, machine-payable MCP endpoint.",
+  "source_repo": "subether-labs/obfus-link-mcp",
+  "source_url": "https://github.com/subether-labs/obfus-link-mcp",
+  "install": "npx -y obfus-link-mcp"
+}

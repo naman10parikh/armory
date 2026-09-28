@@ -1,0 +1,7 @@
+{
+  "name": "serve-mcp",
+  "description": "A local MCP-controlled artifact shelf for agents to publish generated content with stable preview URLs. Provides a shared SQLite registry and HTTP gallery for human browsing.",
+  "source_repo": "saidmukhamad/serve-mcp",
+  "source_url": "https://github.com/saidmukhamad/serve-mcp",
+  "install": "npx -y serve-mcp"
+}

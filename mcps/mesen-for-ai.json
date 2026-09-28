@@ -1,0 +1,7 @@
+{
+  "name": "mesen-for-ai",
+  "description": "MCP server that launches Mesen/MesenCE headlessly and exposes the emulator's debugger-face Lua API over MCP JSON-RPC, enabling AI agents to load ROMs, step frames, inspect memory/registers, manage breakpoints/watches, trace execution, and export Code/Data Logger maps for SNES, NES, PC Engine, and Ga",
+  "source_repo": "paulomanrique/mesen-for-ai",
+  "source_url": "https://github.com/paulomanrique/mesen-for-ai",
+  "install": "# git clone --depth 1 https://github.com/paulomanrique/mesen-for-ai\n# See source for mcpServers config block"
+}

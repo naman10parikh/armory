@@ -1,0 +1,7 @@
+{
+  "name": "victoriatraces-mcp-server",
+  "description": "Provides access to your VictoriaTraces instance and seamless integration with VictoriaTraces APIs and documentation for querying traces, services, and operations.",
+  "source_repo": "VictoriaMetrics/mcp-victoriatraces",
+  "source_url": "https://github.com/VictoriaMetrics/mcp-victoriatraces",
+  "install": "# git clone --depth 1 https://github.com/VictoriaMetrics/mcp-victoriatraces\n# See source for mcpServers config block"
+}

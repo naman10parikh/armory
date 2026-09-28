@@ -1,0 +1,7 @@
+{
+  "name": "binassistmcp",
+  "description": "A bridge between Binary Ninja and LLMs for AI-powered reverse engineering, exposing binary analysis tools through the Model Context Protocol.",
+  "source_repo": "symgraph/BinAssistMCP",
+  "source_url": "https://github.com/symgraph/BinAssistMCP",
+  "install": "# git clone --depth 1 https://github.com/symgraph/BinAssistMCP\n# See source for mcpServers config block"
+}

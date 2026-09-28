@@ -1,0 +1,7 @@
+{
+  "name": "eddie-mcp-server",
+  "description": "Containerized MCP server with 15 geospatial data tools exposed via HTTP API for Intercom integration.",
+  "source_repo": "ishimwe5555/mcp-server",
+  "source_url": "https://github.com/ishimwe5555/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/ishimwe5555/mcp-server\n# See source for mcpServers config block"
+}

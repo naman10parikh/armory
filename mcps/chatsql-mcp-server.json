@@ -1,0 +1,7 @@
+{
+  "name": "chatsql-mcp-server",
+  "description": "Enables natural language queries to PostgreSQL by converting questions to SQL using Google Gemini and executing via FastMCP.",
+  "source_repo": "thomasjerard/ChatSQL",
+  "source_url": "https://github.com/thomasjerard/ChatSQL",
+  "install": "# git clone --depth 1 https://github.com/thomasjerard/ChatSQL\n# See source for mcpServers config block"
+}

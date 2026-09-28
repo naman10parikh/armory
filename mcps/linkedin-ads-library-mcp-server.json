@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-ads-library-mcp-server",
+  "description": "Enables searching and analyzing LinkedIn's public ad library for any company, including ad creatives, targeting, and competitive insights. Supports image and video analysis, company comparisons, and detailed ad lookups via natural language.",
+  "source_repo": "proxy-intell/linkedin-ads-library-mcp",
+  "source_url": "https://github.com/proxy-intell/linkedin-ads-library-mcp",
+  "install": "npx -y linkedin-ads-library-mcp"
+}

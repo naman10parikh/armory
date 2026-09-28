@@ -1,0 +1,7 @@
+{
+  "name": "metaculus-mcp",
+  "description": "A remote MCP server wrapping the Metaculus API that enables agents to browse forecasting questions, submit and withdraw forecasts, and post rationale comments using user-provided API tokens.",
+  "source_repo": "lithacker6458/metaculus-mcp",
+  "source_url": "https://github.com/lithacker6458/metaculus-mcp",
+  "install": "npx -y metaculus-mcp"
+}

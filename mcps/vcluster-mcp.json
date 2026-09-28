@@ -1,0 +1,7 @@
+{
+  "name": "vcluster-mcp",
+  "description": "Provides tools for managing vcluster instances, enabling AI assistants to list, describe, create, delete, pause, resume, and execute commands inside virtual clusters.",
+  "source_repo": "mmpyro/vcluster-mcp",
+  "source_url": "https://github.com/mmpyro/vcluster-mcp",
+  "install": "npx -y vcluster-mcp"
+}

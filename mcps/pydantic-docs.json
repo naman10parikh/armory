@@ -1,0 +1,7 @@
+{
+  "name": "pydantic-docs",
+  "description": "A Model Context Protocol (MCP) server providing local-first access to Pydantic and Pydantic AI documentation with BM25-powered full-text search.",
+  "source_repo": "Magic-Man-us/mcp_pydantic_docs",
+  "source_url": "https://github.com/Magic-Man-us/mcp_pydantic_docs",
+  "install": "# git clone --depth 1 https://github.com/Magic-Man-us/mcp_pydantic_docs\n# See source for mcpServers config block"
+}

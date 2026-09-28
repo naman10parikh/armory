@@ -1,0 +1,7 @@
+{
+  "name": "cas-parser-node-mcp",
+  "description": "Enables AI assistants to interact with the Cas Parser REST API for parsing CAS statements and managing credits.",
+  "source_repo": "CASParser/cas-parser-node",
+  "source_url": "https://github.com/CASParser/cas-parser-node",
+  "install": "# git clone --depth 1 https://github.com/CASParser/cas-parser-node\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ontario-data-mcp",
+  "description": "An MCP server for discovering, downloading, querying, and analyzing datasets from Ontario's open data portals, allowing natural language questions and high-performance analytics via DuckDB.",
+  "source_repo": "sprine/ontario-data-mcp",
+  "source_url": "https://github.com/sprine/ontario-data-mcp",
+  "install": "npx -y ontario-data-mcp"
+}

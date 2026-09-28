@@ -1,0 +1,7 @@
+{
+  "name": "erc-8004-mcp-server",
+  "description": "Enables querying ERC-8004 AI agent identities from on-chain and IPFS metadata. Supports search, listing, details, feedback, stats, and full metadata retrieval.",
+  "source_repo": "wpank/erc-8004-mcp-server",
+  "source_url": "https://github.com/wpank/erc-8004-mcp-server",
+  "install": "npx -y erc-8004-mcp-server"
+}

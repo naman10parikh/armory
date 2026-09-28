@@ -1,0 +1,7 @@
+{
+  "name": "easyeda-mcp",
+  "description": "MCP server for AI-assisted PCB design with EasyEDA Pro, enabling inspection, review, and automation of schematics, PCBs, and manufacturing export.",
+  "source_repo": "Spectoda/easyeda-mcp",
+  "source_url": "https://github.com/Spectoda/easyeda-mcp",
+  "install": "npx -y easyeda-mcp"
+}

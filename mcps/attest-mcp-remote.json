@@ -1,0 +1,7 @@
+{
+  "name": "attest-mcp-remote",
+  "description": "MCP server for verifying and attesting SHA-256 fingerprints of digital works via Streamable HTTP, with zero-install and privacy-preserving design.",
+  "source_repo": "SPAZIO-GENESI/attest-mcp-remote",
+  "source_url": "https://github.com/SPAZIO-GENESI/attest-mcp-remote",
+  "install": "# git clone --depth 1 https://github.com/SPAZIO-GENESI/attest-mcp-remote\n# See source for mcpServers config block"
+}

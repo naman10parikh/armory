@@ -1,0 +1,7 @@
+{
+  "name": "frida-mcp",
+  "description": "An MCP server that enables AI models to perform Android dynamic analysis using Frida, including spawning and attaching to applications, listing apps, and injecting scripts.",
+  "source_repo": "zhizhuodemao/frida-mcp",
+  "source_url": "https://github.com/zhizhuodemao/frida-mcp",
+  "install": "npx -y frida-mcp"
+}

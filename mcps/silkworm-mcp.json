@@ -1,0 +1,7 @@
+{
+  "name": "silkworm-mcp",
+  "description": "A full-featured MCP server for building scrapers, with tools for page fetching, HTML parsing, CSS/XPath querying, and spider generation using silkworm-rs and scraper-rs.",
+  "source_repo": "BitingSnakes/silkworm-mcp",
+  "source_url": "https://github.com/BitingSnakes/silkworm-mcp",
+  "install": "npx -y silkworm-mcp"
+}

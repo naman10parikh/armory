@@ -1,0 +1,7 @@
+{
+  "name": "azure-terraform-mcp-server",
+  "description": "Provides intelligent assistance for Azure Terraform development, including documentation retrieval, code validation, security scanning, and best practices guidance.",
+  "source_repo": "liuwuliuyun/tf-mcp-server",
+  "source_url": "https://github.com/liuwuliuyun/tf-mcp-server",
+  "install": "npx -y tf-mcp-server"
+}

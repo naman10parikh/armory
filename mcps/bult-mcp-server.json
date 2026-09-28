@@ -1,0 +1,7 @@
+{
+  "name": "bult-mcp-server",
+  "description": "Deploy and manage Bult.ai cloud hosting projects from MCP clients like Cursor, Claude Desktop, and Claude Code. Create projects and services, deploy GitHub repositories or Docker images, manage routes and volumes, inspect logs, and troubleshoot deployments from your AI assistant.",
+  "source_repo": "bultcloud/mcp-server",
+  "source_url": "https://github.com/bultcloud/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/bultcloud/mcp-server\n# See source for mcpServers config block"
+}

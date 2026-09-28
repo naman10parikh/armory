@@ -1,0 +1,7 @@
+{
+  "name": "bridgemcp-server-weather",
+  "description": "Provides weather data including current conditions, forecasts, and summaries via Open-Meteo with no API key required, enabling natural language queries through an MCP interface.",
+  "source_repo": "Arsie-codes/bridgemcp-server-weather",
+  "source_url": "https://github.com/Arsie-codes/bridgemcp-server-weather",
+  "install": "# git clone --depth 1 https://github.com/Arsie-codes/bridgemcp-server-weather\n# See source for mcpServers config block"
+}

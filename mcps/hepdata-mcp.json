@@ -1,0 +1,7 @@
+{
+  "name": "hepdata-mcp",
+  "description": "Enables discovery of HEPData records, tables, and data access with read-only operations and export links.",
+  "source_repo": "HEPData/hepdata-mcp",
+  "source_url": "https://github.com/HEPData/hepdata-mcp",
+  "install": "npx -y hepdata-mcp"
+}

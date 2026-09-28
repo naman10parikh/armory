@@ -1,0 +1,7 @@
+{
+  "name": "whop-mcp-server",
+  "description": "Official hosted MCP server for Whop, enabling AI clients to manage Whop businesses and resources via OAuth with prepare-and-confirm safeguards.",
+  "source_repo": "whopio/whop-mcp-server",
+  "source_url": "https://github.com/whopio/whop-mcp-server",
+  "install": "npx -y whop-mcp-server"
+}

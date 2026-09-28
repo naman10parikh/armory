@@ -1,0 +1,7 @@
+{
+  "name": "sentou",
+  "description": "Enables publishing and updating Claude artifacts or HTML to private, access-controlled links directly from Claude.",
+  "source_repo": "TrueLineCollective/sentou",
+  "source_url": "https://github.com/TrueLineCollective/sentou",
+  "install": "# git clone --depth 1 https://github.com/TrueLineCollective/sentou\n# See source for mcpServers config block"
+}

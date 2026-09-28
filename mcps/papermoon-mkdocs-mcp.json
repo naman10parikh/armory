@@ -1,0 +1,7 @@
+{
+  "name": "papermoon-mkdocs-mcp",
+  "description": "Enables searching, reading, and navigating MkDocs documentation sites through MCP tools for keyword, semantic, or hybrid search, document browsing, and project metadata.",
+  "source_repo": "papermoonio/mkdocs-mcp",
+  "source_url": "https://github.com/papermoonio/mkdocs-mcp",
+  "install": "npx -y mkdocs-mcp"
+}

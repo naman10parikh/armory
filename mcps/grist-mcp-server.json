@@ -1,0 +1,7 @@
+{
+  "name": "grist-mcp-server",
+  "description": "Enables reading and writing to Grist documents via natural language through MCP tools, allowing users to manage data, schemas, documents, and more using AI assistants like Perplexity.",
+  "source_repo": "runconnect/grist-mcp-server",
+  "source_url": "https://github.com/runconnect/grist-mcp-server",
+  "install": "npx -y grist-mcp-server"
+}

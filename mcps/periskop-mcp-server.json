@@ -1,0 +1,7 @@
+{
+  "name": "periskop-mcp-server",
+  "description": "Enables AI agents to perform product discovery from natural language shopping intents, returning ranked products with merchant links without completing checkout.",
+  "source_repo": "Periskop-ai/periskop-mcp",
+  "source_url": "https://github.com/Periskop-ai/periskop-mcp",
+  "install": "npx -y periskop-mcp"
+}

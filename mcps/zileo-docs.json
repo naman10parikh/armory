@@ -1,0 +1,7 @@
+{
+  "name": "zileo-docs",
+  "description": "MCP server for indexing, semantic search, and generation of multi-format documents. Exposes 13 tools over JSON-RPC 2.0 so an LLM can search your local PDF, Excel, and Word files, and create or edit Excel and Word documents.",
+  "source_repo": "assistance-micro-design/zileo-docs",
+  "source_url": "https://github.com/assistance-micro-design/zileo-docs",
+  "install": "# git clone --depth 1 https://github.com/assistance-micro-design/zileo-docs\n# See source for mcpServers config block"
+}

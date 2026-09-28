@@ -1,0 +1,7 @@
+{
+  "name": "terraform-tools-mcp-server",
+  "description": "Exposes Terraform/Terragrunt tooling as Claude Code tools for generating variables.tf and mock outputs automatically from input files.",
+  "source_repo": "iqnupe/terraform-tools-mcp-server",
+  "source_url": "https://github.com/iqnupe/terraform-tools-mcp-server",
+  "install": "npx -y terraform-tools-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "personal-intelligence-system",
+  "description": "Captures AI-assisted work into a searchable ledger and exposes it via MCP for querying past conversations and decisions.",
+  "source_repo": "abekek/personal-intelligence-system",
+  "source_url": "https://github.com/abekek/personal-intelligence-system",
+  "install": "# git clone --depth 1 https://github.com/abekek/personal-intelligence-system\n# See source for mcpServers config block"
+}

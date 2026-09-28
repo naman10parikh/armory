@@ -1,0 +1,7 @@
+{
+  "name": "ofac-san-es-eua",
+  "description": "Verifies names against US OFAC sanctions lists, including SDN and Non-SDN, for compliance and AML. It provides a read-only MCP tool that works with any MCP client via HTTP.",
+  "source_repo": "mcp-dir/ofac-mcp",
+  "source_url": "https://github.com/mcp-dir/ofac-mcp",
+  "install": "npx -y ofac-mcp"
+}

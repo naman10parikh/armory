@@ -1,0 +1,7 @@
+{
+  "name": "acceleronix-openapi-swagger-mcp-server",
+  "description": "Provides seamless access to 32 Acceleronix PaaS OpenAPIs for device management, data storage, and more, with intelligent tool management and Bearer token authentication.",
+  "source_repo": "Acceleronix/swagger-mcp-server",
+  "source_url": "https://github.com/Acceleronix/swagger-mcp-server",
+  "install": "npx -y swagger-mcp-server"
+}

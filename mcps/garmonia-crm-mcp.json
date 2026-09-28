@@ -1,0 +1,7 @@
+{
+  "name": "garmonia-crm-mcp",
+  "description": "Enables testing and interacting with the Garmonia hotel CRM through its internal API, including orders, clients, brands, calendar, and general CRUD operations via an authenticated session.",
+  "source_repo": "AlekseiKastsiuk/garmonia-crm-mcp",
+  "source_url": "https://github.com/AlekseiKastsiuk/garmonia-crm-mcp",
+  "install": "npx -y garmonia-crm-mcp"
+}

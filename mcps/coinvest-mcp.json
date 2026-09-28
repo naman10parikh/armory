@@ -1,0 +1,7 @@
+{
+  "name": "coinvest-mcp",
+  "description": "Local MCP server that exposes Liquid Co-Invest's trading data and order tools to a local LLM via a thin proxy.",
+  "source_repo": "liquid-public/coinvest-mcp",
+  "source_url": "https://github.com/liquid-public/coinvest-mcp",
+  "install": "npx -y coinvest-mcp"
+}

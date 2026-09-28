@@ -1,0 +1,7 @@
+{
+  "name": "java-jar-mcp-server",
+  "description": "Enables AI assistants to look up Java class definitions and list dependencies from Maven projects by analyzing local JAR files via the Model Context Protocol.",
+  "source_repo": "biggerball/java-jar-mcp",
+  "source_url": "https://github.com/biggerball/java-jar-mcp",
+  "install": "npx -y java-jar-mcp"
+}

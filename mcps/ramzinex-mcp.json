@@ -1,0 +1,7 @@
+{
+  "name": "ramzinex-mcp",
+  "description": "Self-hostable MCP server for the Ramzinex cryptocurrency exchange, providing tools for market data, account management, and trading with safety flags.",
+  "source_repo": "dwin-gharibi/ramzinex-mcp",
+  "source_url": "https://github.com/dwin-gharibi/ramzinex-mcp",
+  "install": "npx -y ramzinex-mcp"
+}

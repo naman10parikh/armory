@@ -1,0 +1,7 @@
+{
+  "name": "prompt-gui-mcp",
+  "description": "Enables AI coding agents to request user input through customizable desktop forms, returning structured data.",
+  "source_repo": "royhcj/prompt-gui-mcp",
+  "source_url": "https://github.com/royhcj/prompt-gui-mcp",
+  "install": "npx -y prompt-gui-mcp"
+}

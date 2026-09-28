@@ -1,0 +1,7 @@
+{
+  "name": "elevenlabs-audio-mcp-for-chatgpt",
+  "description": "Enables ChatGPT to generate ElevenLabs speech from text, returning playable MP3 audio, with voice listing and preference management.",
+  "source_repo": "alandyallworwor-cmd/MCP_Eleven",
+  "source_url": "https://github.com/alandyallworwor-cmd/MCP_Eleven",
+  "install": "# git clone --depth 1 https://github.com/alandyallworwor-cmd/MCP_Eleven\n# See source for mcpServers config block"
+}

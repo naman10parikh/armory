@@ -1,0 +1,7 @@
+{
+  "name": "deepseek-pi-mcp",
+  "description": "Enables local AI agents to access DeepSeek V4 models and perform coding tasks via Pi's agent SDK.",
+  "source_repo": "lebobo88/deepseek-pi-mcp",
+  "source_url": "https://github.com/lebobo88/deepseek-pi-mcp",
+  "install": "npx -y deepseek-pi-mcp"
+}

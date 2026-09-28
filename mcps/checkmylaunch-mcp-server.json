@@ -1,0 +1,7 @@
+{
+  "name": "checkmylaunch-mcp-server",
+  "description": "Enables AI coding tools to run CheckMyLaunch scans on GitHub repos or live URLs and retrieve findings and repair prompts directly within the chat.",
+  "source_repo": "matdtools-code/checkmylaunch-mcp",
+  "source_url": "https://github.com/matdtools-code/checkmylaunch-mcp",
+  "install": "npx -y checkmylaunch-mcp"
+}

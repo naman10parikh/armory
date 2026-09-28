@@ -1,0 +1,7 @@
+{
+  "name": "deep-search-mcp",
+  "description": "A deep web search MCP server using LinkUp API that provides a deep_search tool for performing deep web searches with optional max results.",
+  "source_repo": "joaomj/deep-search-mcp",
+  "source_url": "https://github.com/joaomj/deep-search-mcp",
+  "install": "npx -y deep-search-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "noteboxd-mcp",
+  "description": "MCP server that lets AI assistants query the Noteboxd fragrance encyclopedia for fragrances, notes, accords, brands, perfumers, reviews, and charts. Enables natural-language queries like comparisons, recommendations, and review digests.",
+  "source_repo": "Noteboxd/mcp",
+  "source_url": "https://github.com/Noteboxd/mcp",
+  "install": "# git clone --depth 1 https://github.com/Noteboxd/mcp\n# See source for mcpServers config block"
+}

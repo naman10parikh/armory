@@ -1,0 +1,7 @@
+{
+  "name": "mcp-notes-server",
+  "description": "A server for managing notes with full CRUD operations, tagging, and search, compatible with Claude Desktop.",
+  "source_repo": "AndriiOzemko/MCP-Server-Test",
+  "source_url": "https://github.com/AndriiOzemko/MCP-Server-Test",
+  "install": "# git clone --depth 1 https://github.com/AndriiOzemko/MCP-Server-Test\n# See source for mcpServers config block"
+}

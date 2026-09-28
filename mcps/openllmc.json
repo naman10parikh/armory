@@ -1,0 +1,7 @@
+{
+  "name": "openllmc",
+  "description": "Unified MCP server exposing the full OpenLLM gateway API (one tool per operation), semantic code/docs search, and cross-session memory.",
+  "source_repo": "quantidexyz/openllmc",
+  "source_url": "https://github.com/quantidexyz/openllmc",
+  "install": "# git clone --depth 1 https://github.com/quantidexyz/openllmc\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "blogger-agent-mcp",
+  "description": "Enables automated multi-agent content generation, trend analysis, and travel route planning with live web search, Google Maps integration, and publishing to Google Docs and Gmail.",
+  "source_repo": "googyaipro/blogger_agent",
+  "source_url": "https://github.com/googyaipro/blogger_agent",
+  "install": "# git clone --depth 1 https://github.com/googyaipro/blogger_agent\n# See source for mcpServers config block"
+}

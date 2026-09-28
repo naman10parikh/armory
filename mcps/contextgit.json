@@ -1,0 +1,7 @@
+{
+  "name": "contextgit",
+  "description": "A deterministic, local-first memory engine for AI assistants that provides versioned context management via MCP, enabling token-budgeted context patches with provenance and explainability.",
+  "source_repo": "RT123-new/contextgit-mcp",
+  "source_url": "https://github.com/RT123-new/contextgit-mcp",
+  "install": "npx -y contextgit-mcp"
+}

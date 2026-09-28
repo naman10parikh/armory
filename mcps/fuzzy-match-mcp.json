@@ -1,0 +1,7 @@
+{
+  "name": "fuzzy-match-mcp",
+  "description": "A Python MCP server for deterministic fuzzy text matching using RapidFuzz. It enables text normalization, string comparison, best-match ranking, duplicate grouping, and match explanation via configurable profiles and strategies.",
+  "source_repo": "faiaz000/fuzzy_match_mcp",
+  "source_url": "https://github.com/faiaz000/fuzzy_match_mcp",
+  "install": "npx -y fuzzy_match_mcp"
+}

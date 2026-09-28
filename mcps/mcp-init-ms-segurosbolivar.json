@@ -1,0 +1,7 @@
+{
+  "name": "mcp-init-ms-segurosbolivar",
+  "description": "Automates the initialization of Java 21/Spring Boot microservices with Docker Compose, generating complete project archetypes for Seguros Bolivar.",
+  "source_repo": "JohanMasmelaEu/MCP_INIT_MS_SegurosBolivar",
+  "source_url": "https://github.com/JohanMasmelaEu/MCP_INIT_MS_SegurosBolivar",
+  "install": "# git clone --depth 1 https://github.com/JohanMasmelaEu/MCP_INIT_MS_SegurosBolivar\n# See source for mcpServers config block"
+}

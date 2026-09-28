@@ -1,0 +1,7 @@
+{
+  "name": "hls-mcp",
+  "description": "MCP server for the Historical Dictionary of Switzerland (HLS), enabling full-text search and retrieval of biographical, geographical, and topical articles.",
+  "source_repo": "thodel/hls_mcp",
+  "source_url": "https://github.com/thodel/hls_mcp",
+  "install": "npx -y hls_mcp"
+}

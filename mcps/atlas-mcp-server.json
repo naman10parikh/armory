@@ -1,0 +1,7 @@
+{
+  "name": "atlas-mcp-server",
+  "description": "An integrated advisory system that transforms Claude into a personal career coach, life strategist, and business consultant with persistent memory, accountability tracking, and multi-lens analysis.",
+  "source_repo": "Ak47dev-biz/ATLAS-Career-Coach-Life-Strategist-Business-Consultant-Plugin",
+  "source_url": "https://github.com/Ak47dev-biz/ATLAS-Career-Coach-Life-Strategist-Business-Consultant-Plugin",
+  "install": "# git clone --depth 1 https://github.com/Ak47dev-biz/ATLAS-Career-Coach-Life-Strategist-Business-Consultant-Plugin\n# See source for mcpServers config block"
+}

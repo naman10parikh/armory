@@ -1,0 +1,7 @@
+{
+  "name": "bifrost-mcp",
+  "description": "Bifrost MCP is a server for managing persistent interactive SSH sessions, enabling AI agents to execute commands, interact with terminals, manage sudo caches, and transfer files via SFTP.",
+  "source_repo": "kchattx/bifrost-mcp",
+  "source_url": "https://github.com/kchattx/bifrost-mcp",
+  "install": "npx -y bifrost-mcp"
+}

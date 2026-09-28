@@ -1,0 +1,7 @@
+{
+  "name": "n8n-automation-mcp-server",
+  "description": "Enables AI assistants to fully automate n8n instances via 34 MCP tools, covering workflow creation, execution debugging, credential management, environment variables, tags, and user administration through natural language.",
+  "source_repo": "SohailShabbir867/n8n_mcp",
+  "source_url": "https://github.com/SohailShabbir867/n8n_mcp",
+  "install": "npx -y n8n_mcp"
+}

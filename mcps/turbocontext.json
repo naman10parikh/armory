@@ -1,0 +1,7 @@
+{
+  "name": "turbocontext",
+  "description": "Enables AI coding agents to intelligently index and search codebases with sub-20ms retrieval, 8x memory compression, and cross-encoder reranking via MCP stdio.",
+  "source_repo": "e-x-h-i-b-i-t/turbocontext",
+  "source_url": "https://github.com/e-x-h-i-b-i-t/turbocontext",
+  "install": "# git clone --depth 1 https://github.com/e-x-h-i-b-i-t/turbocontext\n# See source for mcpServers config block"
+}

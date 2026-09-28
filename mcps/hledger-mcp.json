@@ -1,0 +1,7 @@
+{
+  "name": "hledger-mcp",
+  "description": "MCP server for hledger that provides tools for financial reports, transaction management, and account management.",
+  "source_repo": "Rigellute/hledger-mcp",
+  "source_url": "https://github.com/Rigellute/hledger-mcp",
+  "install": "npx -y hledger-mcp"
+}

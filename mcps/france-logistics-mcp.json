@@ -1,0 +1,7 @@
+{
+  "name": "france-logistics-mcp",
+  "description": "Enables AI agents to purchase France shipping labels (Mondial Relay, etc.) with automatic cheapest-rate selection, track parcels, and refund unused labels via the Shippo API, requiring no Mondial Relay contract.",
+  "source_repo": "junter1989k-ai/france-logistics-mcp",
+  "source_url": "https://github.com/junter1989k-ai/france-logistics-mcp",
+  "install": "npx -y france-logistics-mcp"
+}

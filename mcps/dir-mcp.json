@@ -1,0 +1,7 @@
+{
+  "name": "dir-mcp",
+  "description": "Enables AI assistants and IDEs to work with the AGNTCY Agent Directory, providing tools for validating, publishing, searching agent records, and navigating OASF taxonomies.",
+  "source_repo": "agntcy/dir-mcp",
+  "source_url": "https://github.com/agntcy/dir-mcp",
+  "install": "npx -y dir-mcp"
+}

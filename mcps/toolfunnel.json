@@ -1,0 +1,7 @@
+{
+  "name": "toolfunnel",
+  "description": "A zero-dependency MCP gateway: host your own tools, forward and curate tools from other MCP servers, expose them leanly to cut agent token cost, and gate every call through your own policy hooks before it runs.",
+  "source_repo": "Rendeverance/toolfunnel",
+  "source_url": "https://github.com/Rendeverance/toolfunnel",
+  "install": "# git clone --depth 1 https://github.com/Rendeverance/toolfunnel\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "react-native-devtools-mcp",
+  "description": "Bridges React Native DevTools, enabling AI assistants to debug, profile, and inspect React Native applications through a standardized protocol.",
+  "source_repo": "V3RON/react-native-devtools-mcp",
+  "source_url": "https://github.com/V3RON/react-native-devtools-mcp",
+  "install": "npx -y react-native-devtools-mcp"
+}

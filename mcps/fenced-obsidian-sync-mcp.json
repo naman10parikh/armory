@@ -1,0 +1,7 @@
+{
+  "name": "fenced-obsidian-sync-mcp",
+  "description": "A deny-by-default MCP server for Obsidian vaults where operators declare exact capabilities (list, read, create, etc.) scoped by path globs; everything not permitted is impossible by construction as disallowed tools are never registered.",
+  "source_repo": "mmsge/fenced-obsidian-sync-mcp",
+  "source_url": "https://github.com/mmsge/fenced-obsidian-sync-mcp",
+  "install": "npx -y fenced-obsidian-sync-mcp"
+}

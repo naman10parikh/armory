@@ -1,0 +1,7 @@
+{
+  "name": "semidark-mcp-litellm-searxng",
+  "description": "Enables web search through a LiteLLM proxy's SearXNG-backed search endpoint.",
+  "source_repo": "semidark/mcp-litellm-searxng",
+  "source_url": "https://github.com/semidark/mcp-litellm-searxng",
+  "install": "# git clone --depth 1 https://github.com/semidark/mcp-litellm-searxng\n# See source for mcpServers config block"
+}

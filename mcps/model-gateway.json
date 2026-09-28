@@ -1,0 +1,7 @@
+{
+  "name": "model-gateway",
+  "description": "Configurable MCP server that lets you define LLM-powered tools via JSON, enabling easy integration of multiple models (GPT, Gemini, Claude, etc.) as MCP tools without writing Python code.",
+  "source_repo": "parigihelori352-cyber/model-gateway",
+  "source_url": "https://github.com/parigihelori352-cyber/model-gateway",
+  "install": "# git clone --depth 1 https://github.com/parigihelori352-cyber/model-gateway\n# See source for mcpServers config block"
+}

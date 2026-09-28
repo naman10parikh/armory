@@ -1,0 +1,7 @@
+{
+  "name": "sql-anywhere-mcp-server",
+  "description": "Enables Claude to read and query SAP SQL Anywhere databases using natural language, with read-only access and SQL query generation.",
+  "source_repo": "TeoDreams/sqlanywhere-mcp-server",
+  "source_url": "https://github.com/TeoDreams/sqlanywhere-mcp-server",
+  "install": "npx -y sqlanywhere-mcp-server"
+}

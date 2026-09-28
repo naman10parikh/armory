@@ -1,0 +1,7 @@
+{
+  "name": "dialogflow-cx-mcp-server",
+  "description": "Enables AI assistants to integrate with Google Dialogflow CX for intent detection, session management, and conversational capabilities.",
+  "source_repo": "Yash-Kavaiya/conversation_agents_mcp",
+  "source_url": "https://github.com/Yash-Kavaiya/conversation_agents_mcp",
+  "install": "npx -y conversation_agents_mcp"
+}

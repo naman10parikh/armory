@@ -1,0 +1,7 @@
+{
+  "name": "dj-music-metadata-mcp",
+  "description": "MCP server for DJs to scan music folders, validate and suggest metadata via MusicBrainz/iTunes/Spotify, and batch write metadata to audio files with confidence scoring.",
+  "source_repo": "jpmamededs/dj-music-metadata-mcp",
+  "source_url": "https://github.com/jpmamededs/dj-music-metadata-mcp",
+  "install": "npx -y dj-music-metadata-mcp"
+}

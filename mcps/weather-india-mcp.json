@@ -1,0 +1,7 @@
+{
+  "name": "weather-india-mcp",
+  "description": "Provides real-time weather forecasts and alerts for Indian metro cities using Open-Meteo, with support for named city queries and email sharing of weather summaries.",
+  "source_repo": "vaishak10/weather-india-mcp",
+  "source_url": "https://github.com/vaishak10/weather-india-mcp",
+  "install": "npx -y weather-india-mcp"
+}

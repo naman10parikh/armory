@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-uniprot-mcp-server",
+  "description": "Search UniProtKB by protein function, fetch curated records, map IDs across databases, and pull reference proteomes, taxonomy, and sequences via MCP. Supports both STDIO and Streamable HTTP transports.",
+  "source_repo": "cyanheads/uniprot-mcp-server",
+  "source_url": "https://github.com/cyanheads/uniprot-mcp-server",
+  "install": "npx -y uniprot-mcp-server"
+}

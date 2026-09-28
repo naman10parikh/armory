@@ -1,0 +1,7 @@
+{
+  "name": "premiere-mcp-buildx-exclusive-v3",
+  "description": "Enables prompt-driven video editing in Adobe Premiere Pro, allowing Claude to transcribe footage, decide cuts, build motion graphics, and assemble timelines via natural language.",
+  "source_repo": "Tj3604/Premiere-MCP-BuildX-Exclusive-V3",
+  "source_url": "https://github.com/Tj3604/Premiere-MCP-BuildX-Exclusive-V3",
+  "install": "# git clone --depth 1 https://github.com/Tj3604/Premiere-MCP-BuildX-Exclusive-V3\n# See source for mcpServers config block"
+}

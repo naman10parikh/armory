@@ -1,0 +1,7 @@
+{
+  "name": "jlink-mcp",
+  "description": "Enables AI assistants like Claude to directly debug microcontrollers via JLink, supporting breakpoints, single-step, memory/register access, variable inspection, RTT logging, and firmware flashing.",
+  "source_repo": "xun123456/jlink-mcp",
+  "source_url": "https://github.com/xun123456/jlink-mcp",
+  "install": "npx -y jlink-mcp"
+}

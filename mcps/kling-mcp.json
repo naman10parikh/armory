@@ -1,0 +1,7 @@
+{
+  "name": "kling-mcp",
+  "description": "Enables interaction with Kling AI models for video generation and avatar tasks via RunAPI, including task creation, status polling, and pricing checks.",
+  "source_repo": "runapi-ai/kling-mcp",
+  "source_url": "https://github.com/runapi-ai/kling-mcp",
+  "install": "npx -y kling-mcp"
+}

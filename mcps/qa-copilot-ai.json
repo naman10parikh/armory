@@ -1,0 +1,7 @@
+{
+  "name": "qa-copilot-ai",
+  "description": "MCP server for AI-powered QA analysis. It enables analyzing test failures, identifying root causes, suggesting fixes, classifying defects, detecting flaky tests, and generating test cases and bug reports.",
+  "source_repo": "Sham-coder16/qa-copilot-ai",
+  "source_url": "https://github.com/Sham-coder16/qa-copilot-ai",
+  "install": "# git clone --depth 1 https://github.com/Sham-coder16/qa-copilot-ai\n# See source for mcpServers config block"
+}

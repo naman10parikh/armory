@@ -1,0 +1,7 @@
+{
+  "name": "trip-tracker-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides access to a trip tracking SQLite database. This server enables AI assistants to query and manage flight trip information including users, airports, and flight details.",
+  "source_repo": "skywall34/trip-tracker-mcp",
+  "source_url": "https://github.com/skywall34/trip-tracker-mcp",
+  "install": "npx -y trip-tracker-mcp"
+}

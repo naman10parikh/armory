@@ -1,0 +1,7 @@
+{
+  "name": "b2b-enrichment-mcp",
+  "description": "Unified MCP server combining Hunter.io email finding with Apollo company intelligence for B2B lead enrichment.",
+  "source_repo": "Aleksey-Panf/b2b-enrichment-mcp",
+  "source_url": "https://github.com/Aleksey-Panf/b2b-enrichment-mcp",
+  "install": "npx -y b2b-enrichment-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "meet-rupert-mcp-server",
+  "description": "Enables Claude to search and read documentation, ask RAG AI questions (one-shot or in a conversation), and create/edit documents in the Meet Rupert knowledgebase, including handling image attachments.",
+  "source_repo": "deanjbrown/meetrupert-mcp",
+  "source_url": "https://github.com/deanjbrown/meetrupert-mcp",
+  "install": "npx -y meetrupert-mcp"
+}

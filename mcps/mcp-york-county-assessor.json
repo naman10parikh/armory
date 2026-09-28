@@ -1,0 +1,7 @@
+{
+  "name": "mcp-york-county-assessor",
+  "description": "Enables AI agents to query York County, SC property tax assessor records including owner names, property addresses, vehicle registrations, assessed values, and tax payment information.",
+  "source_repo": "aravindtri/mcp-york-county-assessor",
+  "source_url": "https://github.com/aravindtri/mcp-york-county-assessor",
+  "install": "# git clone --depth 1 https://github.com/aravindtri/mcp-york-county-assessor\n# See source for mcpServers config block"
+}

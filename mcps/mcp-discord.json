@@ -1,0 +1,7 @@
+{
+  "name": "mcp-discord",
+  "description": "Enables Discord integration through MCP, allowing server management, messaging, channel/role management, and automatic issue capture to PostgreSQL.",
+  "source_repo": "moshadchow/mcp-discord",
+  "source_url": "https://github.com/moshadchow/mcp-discord",
+  "install": "# git clone --depth 1 https://github.com/moshadchow/mcp-discord\n# See source for mcpServers config block"
+}

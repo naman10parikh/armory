@@ -1,0 +1,7 @@
+{
+  "name": "spenzo",
+  "description": "Omni-chain financial MCP server that tracks expenses, manages Web3 portfolios, simulates DEX swaps, and generates payment links via natural language in WhatsApp and Claude Desktop.",
+  "source_repo": "Arav-Arun/Spenzo",
+  "source_url": "https://github.com/Arav-Arun/Spenzo",
+  "install": "# git clone --depth 1 https://github.com/Arav-Arun/Spenzo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hydragraph-mcp",
+  "description": "Serves graph-native code questions from a TypeScript codebase as an MCP server. It extracts structural graphs via tree-sitter and HydraDB to answer callers, impact, and context queries.",
+  "source_repo": "sayan365/hydragraph-mcp",
+  "source_url": "https://github.com/sayan365/hydragraph-mcp",
+  "install": "npx -y hydragraph-mcp"
+}

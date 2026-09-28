@@ -1,0 +1,7 @@
+{
+  "name": "knowl",
+  "description": "Persistent AI agents memory for Claude, Codex, Cursor... that is always current.",
+  "source_repo": "dat999zx/knowl",
+  "source_url": "https://github.com/dat999zx/knowl",
+  "install": "# git clone --depth 1 https://github.com/dat999zx/knowl\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shop-mcp-server",
+  "description": "Enables AI agents to analyze an SQLite e-commerce database via secure read-only SQL queries, providing tools for table inspection and analytical requests.",
+  "source_repo": "k0ry/MCPDeveloper",
+  "source_url": "https://github.com/k0ry/MCPDeveloper",
+  "install": "# git clone --depth 1 https://github.com/k0ry/MCPDeveloper\n# See source for mcpServers config block"
+}

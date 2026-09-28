@@ -1,0 +1,7 @@
+{
+  "name": "quote-mcp-server",
+  "description": "MCP server for hard decoration quoting: parses DXF floor plans, reconstructs room topology, computes material quantities, and generates deterministic itemized quotes with tiered pricing. Exposes tools parse_dxf, compute_quote, and generate_report via stdio.",
+  "source_repo": "zeqikong-ctrl/quote-mcp-server",
+  "source_url": "https://github.com/zeqikong-ctrl/quote-mcp-server",
+  "install": "npx -y quote-mcp-server"
+}

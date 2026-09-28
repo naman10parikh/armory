@@ -1,0 +1,7 @@
+{
+  "name": "railway-sandbox-mcp",
+  "description": "Enables ChatGPT to create, manage, and execute commands in ephemeral isolated Linux sandboxes on Railway, with file operations and checkpointing.",
+  "source_repo": "erwinkn/railway-sandbox-mcp",
+  "source_url": "https://github.com/erwinkn/railway-sandbox-mcp",
+  "install": "npx -y railway-sandbox-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-vision-image-fadhli",
+  "description": "MCP server for image analysis using Gemini API. It enables analyzing images from local paths or URLs, and provides usage statistics.",
+  "source_repo": "FadhliRajwaaRahmana/mcp-vision-image",
+  "source_url": "https://github.com/FadhliRajwaaRahmana/mcp-vision-image",
+  "install": "# git clone --depth 1 https://github.com/FadhliRajwaaRahmana/mcp-vision-image\n# See source for mcpServers config block"
+}

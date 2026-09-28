@@ -1,0 +1,7 @@
+{
+  "name": "paid-business-data-mcp-server",
+  "description": "MCP server for paid business data services with free previews and paid tools (enriched search and competitive analysis) using x402 payment flow via Pyrimid Protocol on Base.",
+  "source_repo": "luisruiz3012/paid-business-data-mcp",
+  "source_url": "https://github.com/luisruiz3012/paid-business-data-mcp",
+  "install": "npx -y paid-business-data-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lyrenth-mcp",
+  "description": "Read any public web page as a clean AIDocument: Markdown plus title, description, and structure, with navigation and boilerplate stripped. Reads resolve through Lyrenth's shared cache, so it is far fewer tokens than raw HTML and origin-friendly.",
+  "source_repo": "lyrenth/lyrenth-mcp",
+  "source_url": "https://github.com/lyrenth/lyrenth-mcp",
+  "install": "npx -y lyrenth-mcp"
+}

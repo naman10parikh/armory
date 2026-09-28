@@ -1,0 +1,7 @@
+{
+  "name": "chromebrowsermcp",
+  "description": "A read-only bridge that lets ChatGPT inspect open Chrome tabs, exposing tools to list, read, and search tabs without accessing sensitive data.",
+  "source_repo": "komaksym/chrome-browser-mcp",
+  "source_url": "https://github.com/komaksym/chrome-browser-mcp",
+  "install": "npx -y chrome-browser-mcp"
+}

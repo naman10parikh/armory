@@ -1,0 +1,7 @@
+{
+  "name": "huntx",
+  "description": "MCP server providing direct tool-access to security-testing primitives for bug bounty hunting, including recon, request replay, IDOR/BOLA fuzzing, vulnerability detection, secrets scanning, and persistent hunt memory with confidence-scored findings.",
+  "source_repo": "IAZENT/HuntX",
+  "source_url": "https://github.com/IAZENT/HuntX",
+  "install": "# git clone --depth 1 https://github.com/IAZENT/HuntX\n# See source for mcpServers config block"
+}

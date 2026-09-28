@@ -1,0 +1,7 @@
+{
+  "name": "sf-docs-mcp",
+  "description": "Enables LLM agents to search, read, and query Salesforce documentation across 129 domains. Uses a pre-compiled knowledge graph with 53,000 nodes and 18,000 code snippets for instant retrieval without RAG.",
+  "source_repo": "Avinava/sf-documentation-knowledge",
+  "source_url": "https://github.com/Avinava/sf-documentation-knowledge",
+  "install": "# git clone --depth 1 https://github.com/Avinava/sf-documentation-knowledge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hypernatt-terminal",
+  "description": "BTC Decision Terminal for AI Agents — live vault-backed Hyperliquid signals, on-chain proof, cross-chain swap. MCP server hosted at https://hypernatt.com/mcp/protocol. 11 tools. Verify in real time.",
+  "source_repo": "DIALLOUBE-RESEARCH/hypernatt-terminal",
+  "source_url": "https://github.com/DIALLOUBE-RESEARCH/hypernatt-terminal",
+  "install": "# git clone --depth 1 https://github.com/DIALLOUBE-RESEARCH/hypernatt-terminal\n# See source for mcpServers config block"
+}

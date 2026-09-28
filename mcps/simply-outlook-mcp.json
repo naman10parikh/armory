@@ -1,0 +1,7 @@
+{
+  "name": "simply-outlook-mcp",
+  "description": "Enables AI assistants to manage Outlook calendars and emails through the Microsoft Graph API, supporting calendar events, email operations, and selective tool control.",
+  "source_repo": "hmmroger/simply-outlook-mcp",
+  "source_url": "https://github.com/hmmroger/simply-outlook-mcp",
+  "install": "npx -y simply-outlook-mcp"
+}

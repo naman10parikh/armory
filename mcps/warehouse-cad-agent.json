@@ -1,0 +1,7 @@
+{
+  "name": "warehouse-cad-agent",
+  "description": "Enables traceable warehouse CAD round trips and bounded Agent-to-AutoCAD MCP tools for auditing, editing, and rebuilding CAD models.",
+  "source_repo": "X-isdoingreat/warehouse-cad-agent",
+  "source_url": "https://github.com/X-isdoingreat/warehouse-cad-agent",
+  "install": "# git clone --depth 1 https://github.com/X-isdoingreat/warehouse-cad-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "safe-ssh-mcp",
+  "description": "A secure SSH MCP server that enables execution of read-only diagnostic commands over SSH, preventing modifications to remote systems.",
+  "source_repo": "Areso/safe-ssh-mcp",
+  "source_url": "https://github.com/Areso/safe-ssh-mcp",
+  "install": "npx -y safe-ssh-mcp"
+}

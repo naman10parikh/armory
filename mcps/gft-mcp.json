@@ -1,0 +1,7 @@
+{
+  "name": "gft-mcp",
+  "description": "MCP server that connects GFT (Git for Thought) thought graphs to AI agents, enabling them to read your confirmed thought chains and incrementally save new insights back to the graph. Uses zero AI tokens, with all reasoning done by your agent.",
+  "source_repo": "CoralLips/gft-mcp",
+  "source_url": "https://github.com/CoralLips/gft-mcp",
+  "install": "npx -y gft-mcp"
+}

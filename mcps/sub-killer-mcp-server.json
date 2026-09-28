@@ -1,0 +1,7 @@
+{
+  "name": "sub-killer-mcp-server",
+  "description": "MCP server for Dead Subscription Killer — scan wallets, detect crypto subscriptions, manage approvals on Monad blockchain.",
+  "source_repo": "Alicepoltora/sub-killer-mcp",
+  "source_url": "https://github.com/Alicepoltora/sub-killer-mcp",
+  "install": "npx -y sub-killer-mcp"
+}

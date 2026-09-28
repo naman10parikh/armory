@@ -1,0 +1,7 @@
+{
+  "name": "photoshop-mcp-server",
+  "description": "Enables remote control of Adobe Photoshop on macOS and Windows via MCP, supporting multiple backends including AppleScript, PowerShell, and UXP plugin.",
+  "source_repo": "StarBoze/Photoshop-MCP-Server",
+  "source_url": "https://github.com/StarBoze/Photoshop-MCP-Server",
+  "install": "npx -y Photoshop-MCP-Server"
+}

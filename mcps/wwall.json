@@ -1,0 +1,7 @@
+{
+  "name": "wwall",
+  "description": "Enables AI agents to propose wallet payments while a local, human-authored policy decides whether each transaction is approved, requires human confirmation, or is refused, and records every decision in a signed, append-only ledger.",
+  "source_repo": "axdvdv/wwall-mcp",
+  "source_url": "https://github.com/axdvdv/wwall-mcp",
+  "install": "npx -y wwall-mcp"
+}

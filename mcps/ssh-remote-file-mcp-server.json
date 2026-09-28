@@ -1,0 +1,7 @@
+{
+  "name": "ssh-remote-file-mcp-server",
+  "description": "Enables reading, editing, and running commands on a remote SSH host through Claude Code, with path-scoping and command filtering for safety.",
+  "source_repo": "zhangqi-eiq/server_mcp",
+  "source_url": "https://github.com/zhangqi-eiq/server_mcp",
+  "install": "npx -y server_mcp"
+}

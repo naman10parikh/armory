@@ -1,0 +1,7 @@
+{
+  "name": "tgbot-mcp",
+  "description": "A trusted, open-source MCP server for Telegram that enables LLMs to send messages, structured notifications with buttons, and wait for user replies using only bot token authentication.",
+  "source_repo": "TGLEEEE/tgbot-mcp",
+  "source_url": "https://github.com/TGLEEEE/tgbot-mcp",
+  "install": "npx -y tgbot-mcp"
+}

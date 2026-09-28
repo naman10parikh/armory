@@ -1,0 +1,7 @@
+{
+  "name": "packforai-mcp",
+  "description": "Converts PDF, DOCX, PPTX, XLSX, CSV, and JSON into clean, compact, AI-ready Markdown, reducing tokens up to 65%.",
+  "source_repo": "zymsj8j9z9-ship-it/packforai-mcp",
+  "source_url": "https://github.com/zymsj8j9z9-ship-it/packforai-mcp",
+  "install": "npx -y packforai-mcp"
+}

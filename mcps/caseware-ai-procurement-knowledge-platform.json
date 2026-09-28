@@ -1,0 +1,7 @@
+{
+  "name": "caseware-ai-procurement-knowledge-platform",
+  "description": "Enables AI assistants to retrieve, search, and compare procurement documents using hybrid retrieval and MCP integration.",
+  "source_repo": "MrTechi-Dev/caseware-ai-procurement-knowledge-platform",
+  "source_url": "https://github.com/MrTechi-Dev/caseware-ai-procurement-knowledge-platform",
+  "install": "# git clone --depth 1 https://github.com/MrTechi-Dev/caseware-ai-procurement-knowledge-platform\n# See source for mcpServers config block"
+}

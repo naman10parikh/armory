@@ -1,0 +1,7 @@
+{
+  "name": "local-budget",
+  "description": "Enables local-first personal finance management through deterministic tools for importing, categorizing, and analyzing bank transactions.",
+  "source_repo": "natejswenson/local-budget",
+  "source_url": "https://github.com/natejswenson/local-budget",
+  "install": "# git clone --depth 1 https://github.com/natejswenson/local-budget\n# See source for mcpServers config block"
+}

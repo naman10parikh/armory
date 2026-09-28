@@ -1,0 +1,7 @@
+{
+  "name": "proofpay-mcp-server",
+  "description": "Provides Solana Pay invoice creation, payment verification, and artifact release tools for ZeroClaw agents, enabling custody-minimized paid delivery of sealed artifacts while keeping encryption keys and policy operator-owned.",
+  "source_repo": "augstentatious/proofpay-agent",
+  "source_url": "https://github.com/augstentatious/proofpay-agent",
+  "install": "# git clone --depth 1 https://github.com/augstentatious/proofpay-agent\n# See source for mcpServers config block"
+}

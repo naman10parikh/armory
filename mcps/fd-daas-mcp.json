@@ -1,0 +1,7 @@
+{
+  "name": "fd-daas-mcp",
+  "description": "Consolidated MCP server exposing 161 tools across 9 groups to manage a layered data platform (financial, economic, statistical) backed by a single SQLite file, with data fetching delegated to an upstream semantic fetcher.",
+  "source_repo": "FindDataTechnology/fd-daas-mcp",
+  "source_url": "https://github.com/FindDataTechnology/fd-daas-mcp",
+  "install": "npx -y fd-daas-mcp"
+}

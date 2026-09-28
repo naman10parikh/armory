@@ -1,0 +1,7 @@
+{
+  "name": "sintegra-ro",
+  "description": "Enables querying SINTEGRA RO (Brazilian tax registration) data from official sources via a single read-only tool, with prepaid credit usage and compatibility with any MCP client.",
+  "source_repo": "mcp-dir/sintegra_ro-mcp",
+  "source_url": "https://github.com/mcp-dir/sintegra_ro-mcp",
+  "install": "npx -y sintegra_ro-mcp"
+}

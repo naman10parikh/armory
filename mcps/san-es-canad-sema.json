@@ -1,0 +1,7 @@
+{
+  "name": "san-es-canad-sema",
+  "description": "Verifica se um nome consta na lista de sanções internacionais do Canadá (SEMA), para diligência de compliance e AML. Funciona com qualquer cliente MCP via HTTP.",
+  "source_repo": "mcp-dir/sancoes_canada-mcp",
+  "source_url": "https://github.com/mcp-dir/sancoes_canada-mcp",
+  "install": "npx -y sancoes_canada-mcp"
+}

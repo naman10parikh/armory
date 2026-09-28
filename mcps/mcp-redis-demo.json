@@ -1,0 +1,7 @@
+{
+  "name": "mcp-redis-demo",
+  "description": "Enterprise support ticket system using FastMCP server with Redis for persistent state and multiple clients.",
+  "source_repo": "Velmuruganms12/mcp-redis-demo",
+  "source_url": "https://github.com/Velmuruganms12/mcp-redis-demo",
+  "install": "# git clone --depth 1 https://github.com/Velmuruganms12/mcp-redis-demo\n# See source for mcpServers config block"
+}

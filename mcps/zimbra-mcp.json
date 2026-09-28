@@ -1,0 +1,7 @@
+{
+  "name": "zimbra-mcp",
+  "description": "MCP server for reading and sending emails via IMAP and SMTP, designed for Zimbra and any standard mail host.",
+  "source_repo": "TechGuyVN/zimbra-mcp",
+  "source_url": "https://github.com/TechGuyVN/zimbra-mcp",
+  "install": "npx -y zimbra-mcp"
+}

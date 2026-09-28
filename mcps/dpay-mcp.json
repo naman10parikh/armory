@@ -1,0 +1,7 @@
+{
+  "name": "dpay-mcp",
+  "description": "An MCP server for creating, settling, disputing, and refunding escrows on EVM chains.",
+  "source_repo": "programmaman/dpay-mcp",
+  "source_url": "https://github.com/programmaman/dpay-mcp",
+  "install": "npx -y dpay-mcp"
+}

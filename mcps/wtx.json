@@ -1,0 +1,7 @@
+{
+  "name": "wtx",
+  "description": "Enables AI coding agents to manage Git worktrees by creating, listing, removing, and cleaning isolated workspaces through MCP tools.",
+  "source_repo": "willkhinz/wtx",
+  "source_url": "https://github.com/willkhinz/wtx",
+  "install": "# git clone --depth 1 https://github.com/willkhinz/wtx\n# See source for mcpServers config block"
+}

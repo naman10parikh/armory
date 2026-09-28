@@ -1,0 +1,7 @@
+{
+  "name": "saju-mcp-server",
+  "description": "Enables MCP clients to compute and interpret Korean Four Pillars of Destiny (Saju) through natural language, including calculation, interpretation, compatibility analysis, and daily fortune.",
+  "source_repo": "ghdejr11-beep/saju-mcp",
+  "source_url": "https://github.com/ghdejr11-beep/saju-mcp",
+  "install": "npx -y saju-mcp"
+}

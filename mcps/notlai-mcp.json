@@ -1,0 +1,7 @@
+{
+  "name": "notlai-mcp",
+  "description": "Enables access to Notlai notes from Claude Desktop via the Model Context Protocol, supporting login, authentication management, and note operations.",
+  "source_repo": "lzientek/notlai-mcp",
+  "source_url": "https://github.com/lzientek/notlai-mcp",
+  "install": "npx -y notlai-mcp"
+}

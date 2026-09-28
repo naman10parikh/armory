@@ -1,0 +1,7 @@
+{
+  "name": "font-proof-mcp",
+  "description": "Enables AI tools to create and edit Font Proof documents for type designers, supporting PDF font proofs and live-reload from Glyphs.app.",
+  "source_repo": "jakefleming/font-proof-mcp",
+  "source_url": "https://github.com/jakefleming/font-proof-mcp",
+  "install": "npx -y font-proof-mcp"
+}

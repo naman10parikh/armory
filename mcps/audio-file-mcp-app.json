@@ -1,0 +1,7 @@
+{
+  "name": "audio-file-mcp-app",
+  "description": "Enables playing and inspecting local audio files in an MCP host with an in-conversation UI showing waveform, spectrogram, and loudness metrics, while exposing playback state and metadata to the model.",
+  "source_repo": "counterpoint-studio/audio-file-mcp-app",
+  "source_url": "https://github.com/counterpoint-studio/audio-file-mcp-app",
+  "install": "# git clone --depth 1 https://github.com/counterpoint-studio/audio-file-mcp-app\n# See source for mcpServers config block"
+}

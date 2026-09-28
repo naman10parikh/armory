@@ -1,0 +1,7 @@
+{
+  "name": "prism-mcp-server",
+  "description": "Enables AI assistants to interact with InterSystems IRIS databases through SQL queries, document management, ObjectScript execution, debugging, and unit testing via the Atelier REST API.",
+  "source_repo": "ERNI-Academy/Prism-tooling",
+  "source_url": "https://github.com/ERNI-Academy/Prism-tooling",
+  "install": "# git clone --depth 1 https://github.com/ERNI-Academy/Prism-tooling\n# See source for mcpServers config block"
+}

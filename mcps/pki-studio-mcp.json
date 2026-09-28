@@ -1,0 +1,7 @@
+{
+  "name": "pki-studio-mcp",
+  "description": "A local MCP server for AI-assisted PKI and ASN.1 workflows, providing tools for certificate parsing, key management, and PKCS#12 processing.",
+  "source_repo": "pkistudio/pkistudiomcp",
+  "source_url": "https://github.com/pkistudio/pkistudiomcp",
+  "install": "# git clone --depth 1 https://github.com/pkistudio/pkistudiomcp\n# See source for mcpServers config block"
+}

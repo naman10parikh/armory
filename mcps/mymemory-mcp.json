@@ -1,0 +1,7 @@
+{
+  "name": "mymemory-mcp",
+  "description": "User-owned portable memory vault as an MCP server: agents can fetch context, search entries, and propose new memories, while humans curate the vault via a web app.",
+  "source_repo": "20vision/mymemory-mcp",
+  "source_url": "https://github.com/20vision/mymemory-mcp",
+  "install": "npx -y mymemory-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "buildkite-mcp-server",
+  "description": "Enables interaction with Buildkite CI/CD to list organizations, pipelines, builds, jobs, and logs, as well as retry jobs.",
+  "source_repo": "Drew-Goddyn/buildkite-mcp",
+  "source_url": "https://github.com/Drew-Goddyn/buildkite-mcp",
+  "install": "npx -y buildkite-mcp"
+}

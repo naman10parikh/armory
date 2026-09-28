@@ -1,0 +1,7 @@
+{
+  "name": "dcc-mcp-photoshop",
+  "description": "Adobe Photoshop adapter bridging AI agents (Claude, Cursor, Copilot) to Photoshop via UXP WebSocket for document and layer management.",
+  "source_repo": "loonghao/dcc-mcp-photoshop",
+  "source_url": "https://github.com/loonghao/dcc-mcp-photoshop",
+  "install": "# git clone --depth 1 https://github.com/loonghao/dcc-mcp-photoshop\n# See source for mcpServers config block"
+}

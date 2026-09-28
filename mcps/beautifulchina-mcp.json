@@ -1,0 +1,7 @@
+{
+  "name": "beautifulchina-mcp",
+  "description": "Automates testing of the BeautifulChina Android app via adb and uiautomator2, enabling UI interaction, screenshot capture, and assertion verification through MCP tools.",
+  "source_repo": "shuaici/BeautifulChinaMCP",
+  "source_url": "https://github.com/shuaici/BeautifulChinaMCP",
+  "install": "# git clone --depth 1 https://github.com/shuaici/BeautifulChinaMCP\n# See source for mcpServers config block"
+}

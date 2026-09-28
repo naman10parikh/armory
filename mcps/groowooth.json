@@ -1,0 +1,7 @@
+{
+  "name": "groowooth",
+  "description": "MCP server that enables AI agents to assess child growth, plot growth curves, and interpret z-scores using WHO and China NHC standards.",
+  "source_repo": "xiaot945/groowooth",
+  "source_url": "https://github.com/xiaot945/groowooth",
+  "install": "# git clone --depth 1 https://github.com/xiaot945/groowooth\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "io-github-gzchenhao-openhire",
+  "description": "An MCP server that turns your AI assistant into a private radar for AI/infra, autonomous-driving, and embodied-AI jobs, sourcing directly from employer career sites and ATS APIs with no résumé upload or account required.",
+  "source_repo": "gzchenhao/openhire",
+  "source_url": "https://github.com/gzchenhao/openhire",
+  "install": "# git clone --depth 1 https://github.com/gzchenhao/openhire\n# See source for mcpServers config block"
+}

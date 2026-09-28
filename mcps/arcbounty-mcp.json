@@ -1,0 +1,7 @@
+{
+  "name": "arcbounty-mcp",
+  "description": "Browse, take, and submit USDC bounties on ArcBounty (Arc Network, ERC-8183 escrow + ERC-8004 reputation).",
+  "source_repo": "Sofiia7/ARC",
+  "source_url": "https://github.com/Sofiia7/ARC",
+  "install": "# git clone --depth 1 https://github.com/Sofiia7/ARC\n# See source for mcpServers config block"
+}

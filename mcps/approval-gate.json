@@ -1,0 +1,7 @@
+{
+  "name": "approval-gate",
+  "description": "Provides a human approval gate for AI agents, enabling interactive inline cards for approving, editing, or rejecting actions before they are executed.",
+  "source_repo": "Keldrik/mcp-approval-gate",
+  "source_url": "https://github.com/Keldrik/mcp-approval-gate",
+  "install": "# git clone --depth 1 https://github.com/Keldrik/mcp-approval-gate\n# See source for mcpServers config block"
+}

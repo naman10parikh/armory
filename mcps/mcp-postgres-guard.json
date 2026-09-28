@@ -1,0 +1,7 @@
+{
+  "name": "mcp-postgres-guard",
+  "description": "An MCP server that enables AI agents to securely interact with PostgreSQL databases with least-privilege scopes, PII masking, and human approval for writes.",
+  "source_repo": "vladshykanov/mcp-postgres-guard",
+  "source_url": "https://github.com/vladshykanov/mcp-postgres-guard",
+  "install": "# git clone --depth 1 https://github.com/vladshykanov/mcp-postgres-guard\n# See source for mcpServers config block"
+}

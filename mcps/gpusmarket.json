@@ -1,0 +1,7 @@
+{
+  "name": "gpusmarket",
+  "description": "MCP server for renting real GPUs from the terminal. Enables browsing, renting, chatting, managing, and pooling GPU instances with per-second billing, designed for AI agents.",
+  "source_repo": "jyswee/gpusmarket",
+  "source_url": "https://github.com/jyswee/gpusmarket",
+  "install": "# git clone --depth 1 https://github.com/jyswee/gpusmarket\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "whatbox-mcp",
+  "description": "A security-first MCP server for managing Whatbox slots with structured read-only inspection and approval-gated mutations, including storage, services, website deployment, and torrent control.",
+  "source_repo": "SNSEIxAUGMNTD/whatbox-mcp",
+  "source_url": "https://github.com/SNSEIxAUGMNTD/whatbox-mcp",
+  "install": "npx -y whatbox-mcp"
+}

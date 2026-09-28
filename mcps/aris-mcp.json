@@ -1,0 +1,7 @@
+{
+  "name": "aris-mcp",
+  "description": "Connects agentic AI to Software AG ARIS platforms, enabling model and object operations via MCP tools.",
+  "source_repo": "Knuckles-Team/aris-mcp",
+  "source_url": "https://github.com/Knuckles-Team/aris-mcp",
+  "install": "npx -y aris-mcp"
+}

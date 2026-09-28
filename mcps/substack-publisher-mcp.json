@@ -1,0 +1,7 @@
+{
+  "name": "substack-publisher-mcp",
+  "description": "A tool that connects to Substack's official Publisher API to access posts, newsletters, analytics, and subscribers, compatible with MCP clients like Claude and Cursor.",
+  "source_repo": "Playerbs1/substack-publisher-mcp",
+  "source_url": "https://github.com/Playerbs1/substack-publisher-mcp",
+  "install": "npx -y substack-publisher-mcp"
+}

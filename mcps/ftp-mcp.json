@@ -1,0 +1,7 @@
+{
+  "name": "ftp-mcp",
+  "description": "An enterprise-grade MCP server for FTP and SFTP operations optimized for AI coding assistants, featuring smart synchronization, connection pooling, and unified diff patching.",
+  "source_repo": "Kynlos/ftp-mcp",
+  "source_url": "https://github.com/Kynlos/ftp-mcp",
+  "install": "npx -y ftp-mcp"
+}

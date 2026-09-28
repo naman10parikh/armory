@@ -1,0 +1,7 @@
+{
+  "name": "agentmemory-mcp-gateway",
+  "description": "Enables remote MCP clients to securely access AgentMemory tools like memory_recall, memory_smart_search, and memory_save through OAuth 2.1 and Streamable HTTP, while keeping the AgentMemory backend secret private.",
+  "source_repo": "martindzejky/agentmemory-mcp-gateway",
+  "source_url": "https://github.com/martindzejky/agentmemory-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/martindzejky/agentmemory-mcp-gateway\n# See source for mcpServers config block"
+}

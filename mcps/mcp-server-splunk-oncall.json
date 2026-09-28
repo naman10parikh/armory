@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-splunk-oncall",
+  "description": "MCP server for the Splunk On-Call (VictorOps) API providing comprehensive incident management, on-call schedules, team administration, and alert reporting through natural language.",
+  "source_repo": "arnstarn/mcp-server-splunk-oncall",
+  "source_url": "https://github.com/arnstarn/mcp-server-splunk-oncall",
+  "install": "# git clone --depth 1 https://github.com/arnstarn/mcp-server-splunk-oncall\n# See source for mcpServers config block"
+}

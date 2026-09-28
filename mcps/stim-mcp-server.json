@@ -1,0 +1,7 @@
+{
+  "name": "stim-mcp-server",
+  "description": "MCP server wrapping Google's Stim stabilizer circuit simulator. Wire it up to an LLM and you can build and sample circuits through conversation.",
+  "source_repo": "DeDuckProject/stim-mcp",
+  "source_url": "https://github.com/DeDuckProject/stim-mcp",
+  "install": "npx -y stim-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "eveaegis-mcp",
+  "description": "An AI-native governance control plane for GitHub portfolios that enables inventory sync, provenance analysis, classification, and policy enforcement across multiple repositories with strong security boundaries.",
+  "source_repo": "kakon77777-commits/eveaegis-mcp",
+  "source_url": "https://github.com/kakon77777-commits/eveaegis-mcp",
+  "install": "npx -y eveaegis-mcp"
+}

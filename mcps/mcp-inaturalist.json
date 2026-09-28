@@ -1,0 +1,7 @@
+{
+  "name": "mcp-inaturalist",
+  "description": "Enables querying citizen-science species observations from iNaturalist via the Pipeworx MCP gateway. Provides read-only access to species data without authentication.",
+  "source_repo": "pipeworx-io/mcp-inaturalist",
+  "source_url": "https://github.com/pipeworx-io/mcp-inaturalist",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-inaturalist\n# See source for mcpServers config block"
+}

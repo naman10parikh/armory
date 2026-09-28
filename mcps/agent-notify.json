@@ -1,0 +1,7 @@
+{
+  "name": "agent-notify",
+  "description": "Enables AI agents and applications to send audio notifications with text-to-speech, message streaming, agent-to-agent conversations, and web push notifications through a persistent message store and MCP integration.",
+  "source_repo": "F1LT3R/agent-notify",
+  "source_url": "https://github.com/F1LT3R/agent-notify",
+  "install": "# git clone --depth 1 https://github.com/F1LT3R/agent-notify\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "live-ketcher-mcp",
+  "description": "MCP server that connects AI assistants to a live Ketcher window, the open-source web-based chemical structure editor. Draw, edit, and organize structures directly in the canvas you have open.",
+  "source_repo": "MALeitch/live-ketcher-mcp",
+  "source_url": "https://github.com/MALeitch/live-ketcher-mcp",
+  "install": "npx -y live-ketcher-mcp"
+}

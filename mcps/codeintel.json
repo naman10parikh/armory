@@ -1,0 +1,7 @@
+{
+  "name": "codeintel",
+  "description": "Local-first code intelligence for coding agents. Exposes precomputed SCIP navigation, Zoekt lexical search, cross-repo blast radius, and semantic search as MCP tools.",
+  "source_repo": "phuongddx/codeintel",
+  "source_url": "https://github.com/phuongddx/codeintel",
+  "install": "# git clone --depth 1 https://github.com/phuongddx/codeintel\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rurussian-mcp",
+  "description": "MCP server for rurussian.com that enables multi-agent learning workflows with tools for sentence parsing, lesson generation, and learner modeling.",
+  "source_repo": "shuyueW1991/rurussian-mcp",
+  "source_url": "https://github.com/shuyueW1991/rurussian-mcp",
+  "install": "npx -y rurussian-mcp"
+}

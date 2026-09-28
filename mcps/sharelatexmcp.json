@@ -1,0 +1,7 @@
+{
+  "name": "sharelatexmcp",
+  "description": "An MCP server that gives Claude access to ShareLaTeX projects over Git, enabling file management, document structure parsing, content extraction, and writing changes back.",
+  "source_repo": "vinconig/ShareLatexMCP",
+  "source_url": "https://github.com/vinconig/ShareLatexMCP",
+  "install": "# git clone --depth 1 https://github.com/vinconig/ShareLatexMCP\n# See source for mcpServers config block"
+}

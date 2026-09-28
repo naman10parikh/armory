@@ -1,0 +1,7 @@
+{
+  "name": "sparkpost-mcp",
+  "description": "Enables sending transactional emails, managing templates, suppression lists, sending domains, webhooks, subaccounts, and retrieving account metrics via the SparkPost API.",
+  "source_repo": "Pcummings/sparkpost_mcp",
+  "source_url": "https://github.com/Pcummings/sparkpost_mcp",
+  "install": "npx -y sparkpost_mcp"
+}

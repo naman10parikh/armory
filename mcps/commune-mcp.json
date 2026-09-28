@@ -1,0 +1,7 @@
+{
+  "name": "commune-mcp",
+  "description": "Give Claude (or any MCP client) a real email inbox and SMS. Your AI agent can read and send email, manage inboxes, track delivery, and handle SMS.",
+  "source_repo": "commune-dev/commune-mcp",
+  "source_url": "https://github.com/commune-dev/commune-mcp",
+  "install": "npx -y commune-mcp"
+}

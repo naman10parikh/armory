@@ -1,0 +1,7 @@
+{
+  "name": "segmenting-ai-workflow-mcp-server",
+  "description": "This MCP server provides tools for OCR and keyword extraction, enabling AI workflows to be split into discrete steps for easier testing, tuning, and cost control.",
+  "source_repo": "gnostotron/segmenting_ai_workflow_with_mcp",
+  "source_url": "https://github.com/gnostotron/segmenting_ai_workflow_with_mcp",
+  "install": "npx -y segmenting_ai_workflow_with_mcp"
+}

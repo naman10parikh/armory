@@ -1,0 +1,7 @@
+{
+  "name": "nexus",
+  "description": "Exposes Solana DeFi infrastructure — Percolator perpetuals, Sigma derivatives, Exodus yield vaults, Veil privacy swaps, Stratum orderbooks, and Sovereign identity — to AI agents via the Model Context Protocol.",
+  "source_repo": "psyto/nexus",
+  "source_url": "https://github.com/psyto/nexus",
+  "install": "# git clone --depth 1 https://github.com/psyto/nexus\n# See source for mcpServers config block"
+}

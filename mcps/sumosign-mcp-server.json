@@ -1,0 +1,7 @@
+{
+  "name": "sumosign-mcp-server",
+  "description": "Exposes the SumoSign signing API to AI agents, allowing document upload, envelope creation, and tracking, with signing always done by human recipients.",
+  "source_repo": "meteordefect/sumosign-mcp",
+  "source_url": "https://github.com/meteordefect/sumosign-mcp",
+  "install": "npx -y sumosign-mcp"
+}

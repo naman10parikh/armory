@@ -1,0 +1,7 @@
+{
+  "name": "cware-hil-mcp",
+  "description": "Human-in-the-loop MCP hub for Claude Code agents, enabling agents to ask questions, request approval, or report status to a human via an Obsidian plugin.",
+  "source_repo": "KilianSen/cware-hil-mcp",
+  "source_url": "https://github.com/KilianSen/cware-hil-mcp",
+  "install": "npx -y cware-hil-mcp"
+}

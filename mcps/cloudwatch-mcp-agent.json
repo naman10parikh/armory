@@ -1,0 +1,7 @@
+{
+  "name": "cloudwatch-mcp-agent",
+  "description": "Enables natural language queries for AWS CloudWatch logs, metrics, and alarms via an LLM agent with MCP tools.",
+  "source_repo": "kevinozsimsek1/cloudwatch-mcp-agent",
+  "source_url": "https://github.com/kevinozsimsek1/cloudwatch-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/kevinozsimsek1/cloudwatch-mcp-agent\n# See source for mcpServers config block"
+}

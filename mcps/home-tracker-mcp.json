@@ -1,0 +1,7 @@
+{
+  "name": "home-tracker-mcp",
+  "description": "A personal MCP server for tracking household expenses and shared notes, with pre-built email templates to keep you and your wife in sync.",
+  "source_repo": "luiscazares/home-tracker-mcp",
+  "source_url": "https://github.com/luiscazares/home-tracker-mcp",
+  "install": "npx -y home-tracker-mcp"
+}

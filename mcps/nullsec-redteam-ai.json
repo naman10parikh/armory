@@ -1,0 +1,7 @@
+{
+  "name": "nullsec-redteam-ai",
+  "description": "An authorization-first MCP-governed control plane for executing security-tool workflows in explicitly approved, sandboxed environments with auditable campaigns and AI collaboration boundaries.",
+  "source_repo": "Panda1847/NullSec-RedTeam-AI",
+  "source_url": "https://github.com/Panda1847/NullSec-RedTeam-AI",
+  "install": "# git clone --depth 1 https://github.com/Panda1847/NullSec-RedTeam-AI\n# See source for mcpServers config block"
+}

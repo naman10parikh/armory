@@ -1,0 +1,7 @@
+{
+  "name": "tratto-mcp-server",
+  "description": "Lets AI tools send transactional emails, check status, and manage contacts through the Model Context Protocol.",
+  "source_repo": "tratto-email/tratto-mcp",
+  "source_url": "https://github.com/tratto-email/tratto-mcp",
+  "install": "npx -y tratto-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ansys-workbench-mcp",
+  "description": "A clean MCP server and ACT extension for controlling ANSYS Workbench and ANSYS Mechanical from any MCP client, enabling launching Workbench journals, executing Mechanical Python scripts, and interacting with a running Mechanical session via file queue or socket timer bridge.",
+  "source_repo": "yezg9920-kely/ansys-workbench-mcp",
+  "source_url": "https://github.com/yezg9920-kely/ansys-workbench-mcp",
+  "install": "npx -y ansys-workbench-mcp"
+}

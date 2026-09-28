@@ -1,0 +1,7 @@
+{
+  "name": "context-overflow-mcp",
+  "description": "Integrates the Context Overflow Q\\&A platform with Claude Code, enabling question posting, answering, voting, and platform health monitoring.",
+  "source_repo": "venkateshtata/context-overflow-mcp",
+  "source_url": "https://github.com/venkateshtata/context-overflow-mcp",
+  "install": "npx -y context-overflow-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "medeval-mcp-server",
+  "description": "Provides authenticated Streamable HTTP MCP access to a MedEval medical-device regulatory workspace, enabling project selection, evidence retrieval, section context, document revision management, and generation/evaluation task control.",
+  "source_repo": "hanxiaoyu-cmd/medeval-mcp-server",
+  "source_url": "https://github.com/hanxiaoyu-cmd/medeval-mcp-server",
+  "install": "npx -y medeval-mcp-server"
+}

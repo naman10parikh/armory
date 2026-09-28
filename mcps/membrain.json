@@ -1,0 +1,7 @@
+{
+  "name": "membrain",
+  "description": "A self-hosted memory ledger for AI agents. Enables agents to store, search, and share persistent memories over MCP, with a web UI and REST API.",
+  "source_repo": "SIDDHU123M/membrain-mcp",
+  "source_url": "https://github.com/SIDDHU123M/membrain-mcp",
+  "install": "npx -y membrain-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gam-mcp",
+  "description": "A security-first MCP server that enables AI clients to read and write Google Ad Manager data through the Ad Manager API, with least-privilege defaults, gated writes, and per-user OAuth support.",
+  "source_repo": "UnopndJude/gam-mcp",
+  "source_url": "https://github.com/UnopndJude/gam-mcp",
+  "install": "npx -y gam-mcp"
+}

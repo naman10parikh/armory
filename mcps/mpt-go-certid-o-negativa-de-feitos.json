@@ -1,0 +1,7 @@
+{
+  "name": "mpt-go-certid-o-negativa-de-feitos",
+  "description": "MCP server that enables querying official Brazilian labor court records for negative certificates (Certidão Negativa de Feitos) using natural language. Provides a single read-only tool with prepaid per-query pricing.",
+  "source_repo": "mcp-dir/mpt_go_cnf-mcp",
+  "source_url": "https://github.com/mcp-dir/mpt_go_cnf-mcp",
+  "install": "npx -y mpt_go_cnf-mcp"
+}

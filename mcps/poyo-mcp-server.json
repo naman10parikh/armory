@@ -1,0 +1,7 @@
+{
+  "name": "poyo-mcp-server",
+  "description": "Local stdio bridge to the hosted PoYo MCP server, enabling discovery and execution of AI models via chat, generation tasks, and agent skills.",
+  "source_repo": "PoyoAPI/poyo-devtools",
+  "source_url": "https://github.com/PoyoAPI/poyo-devtools",
+  "install": "# git clone --depth 1 https://github.com/PoyoAPI/poyo-devtools\n# See source for mcpServers config block"
+}

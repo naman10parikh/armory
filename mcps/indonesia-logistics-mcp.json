@@ -1,0 +1,7 @@
+{
+  "name": "indonesia-logistics-mcp",
+  "description": "Enables AI agents to ship parcels across Indonesia via JNE, J&T, SiCepat, and other couriers through the Biteship API, including rate checking, order creation, tracking, and cancellation.",
+  "source_repo": "junter1989k-ai/indonesia-logistics-mcp",
+  "source_url": "https://github.com/junter1989k-ai/indonesia-logistics-mcp",
+  "install": "npx -y indonesia-logistics-mcp"
+}

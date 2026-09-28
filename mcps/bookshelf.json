@@ -1,0 +1,7 @@
+{
+  "name": "bookshelf",
+  "description": "Enables managing a personal bookshelf (CRUD, reading status, tags) and searching/importing Douban book metadata through MCP tools for AI clients like Claude and Cursor.",
+  "source_repo": "LiJF0406/bookshelf",
+  "source_url": "https://github.com/LiJF0406/bookshelf",
+  "install": "# git clone --depth 1 https://github.com/LiJF0406/bookshelf\n# See source for mcpServers config block"
+}

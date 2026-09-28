@@ -1,0 +1,7 @@
+{
+  "name": "parenting-mcp",
+  "description": "MCP server that retrieves children's school information from Wilma and sends automatic summaries via WhatsApp.",
+  "source_repo": "acidmole/parenting-mcp",
+  "source_url": "https://github.com/acidmole/parenting-mcp",
+  "install": "npx -y parenting-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vehicle-safety",
+  "description": "Connects Claude to NHTSA vehicle safety data, enabling VIN decoding, recall checks, crash-test ratings, and consumer complaints via natural language.",
+  "source_repo": "basit-khan-abdul/vehicle-safety-mcp",
+  "source_url": "https://github.com/basit-khan-abdul/vehicle-safety-mcp",
+  "install": "npx -y vehicle-safety-mcp"
+}

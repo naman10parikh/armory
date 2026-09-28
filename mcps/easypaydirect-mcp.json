@@ -1,0 +1,7 @@
+{
+  "name": "easypaydirect-mcp",
+  "description": "Read-only MCP server for Easy Pay Direct / NMI payment gateway, enabling natural language queries of transactions, subscriptions, and customer vault records.",
+  "source_repo": "praveendias1180/easypaydirect-mcp",
+  "source_url": "https://github.com/praveendias1180/easypaydirect-mcp",
+  "install": "npx -y easypaydirect-mcp"
+}

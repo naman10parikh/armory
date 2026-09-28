@@ -1,0 +1,7 @@
+{
+  "name": "atlassian-trello-mcp",
+  "description": "MCP server for Trello that enables comprehensive management of boards, cards, lists, labels, checklists, attachments, members, custom fields, and search through natural language.",
+  "source_repo": "DerLegatLabienus/Trello-Desktop-MCP",
+  "source_url": "https://github.com/DerLegatLabienus/Trello-Desktop-MCP",
+  "install": "npx -y Trello-Desktop-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stealth-browser-mcp-server",
+  "description": "Provides stealth web browsing using dual browser engines (Chromium and Firefox) with automatic bot-detection bypass, enabling AI agents to browse, interact, and extract content from websites without being blocked.",
+  "source_repo": "Axe240-commits/stealth-browser-mcp",
+  "source_url": "https://github.com/Axe240-commits/stealth-browser-mcp",
+  "install": "npx -y stealth-browser-mcp"
+}

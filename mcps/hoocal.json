@@ -1,0 +1,7 @@
+{
+  "name": "hoocal",
+  "description": "An AI-agent-managed calendar service with bidirectional Google Calendar and Apple iCloud sync, enabling calendar and event management via MCP tools.",
+  "source_repo": "openhoo/openhoo",
+  "source_url": "https://github.com/openhoo/openhoo",
+  "install": "# git clone --depth 1 https://github.com/openhoo/openhoo\n# See source for mcpServers config block"
+}

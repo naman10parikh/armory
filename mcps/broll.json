@@ -1,0 +1,7 @@
+{
+  "name": "broll",
+  "description": "A content studio MCP server for coding agents that generates media, renders videos and carousels deterministically, and publishes with a draft-first outbox.",
+  "source_repo": "luke-fairbanks/broll",
+  "source_url": "https://github.com/luke-fairbanks/broll",
+  "install": "# git clone --depth 1 https://github.com/luke-fairbanks/broll\n# See source for mcpServers config block"
+}

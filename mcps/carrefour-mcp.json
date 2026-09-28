@@ -1,0 +1,7 @@
+{
+  "name": "carrefour-mcp",
+  "description": "Conecta contas Carrefour via Open Finance Brasil a agentes de IA como Claude e ChatGPT, permitindo consultar saldos, extratos, faturas de cartão e investimentos em linguagem natural, apenas leitura.",
+  "source_repo": "mcp-dir/carrefour-mcp",
+  "source_url": "https://github.com/mcp-dir/carrefour-mcp",
+  "install": "npx -y carrefour-mcp"
+}

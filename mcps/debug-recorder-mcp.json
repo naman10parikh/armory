@@ -1,0 +1,7 @@
+{
+  "name": "debug-recorder-mcp",
+  "description": "Local-first debug memory for MCP clients. Record incidents, commands, failed attempts, successful fixes, diagnostics, and searchable debugging history in SQLite.",
+  "source_repo": "oaslananka/debug-recorder-mcp",
+  "source_url": "https://github.com/oaslananka/debug-recorder-mcp",
+  "install": "npx -y debug-recorder-mcp"
+}

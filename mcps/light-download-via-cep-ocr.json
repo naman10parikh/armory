@@ -1,0 +1,7 @@
+{
+  "name": "light-download-via-cep-ocr",
+  "description": "MCP server for consulting and downloading Light utility bills using CEP and OCR from official sources. Offers a single read-only tool with pre-paid pricing, hosted on api.mcp.ai.",
+  "source_repo": "mcp-dir/contas_light_download_cep_ocr-mcp",
+  "source_url": "https://github.com/mcp-dir/contas_light_download_cep_ocr-mcp",
+  "install": "npx -y contas_light_download_cep_ocr-mcp"
+}

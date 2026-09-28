@@ -1,0 +1,7 @@
+{
+  "name": "health-export-mcp",
+  "description": "An MCP server that enables AI agents to query Apple Health data (190+ metrics) in natural language, including trends, comparisons, and structured exports.",
+  "source_repo": "PhilipAD/health-export-mcp",
+  "source_url": "https://github.com/PhilipAD/health-export-mcp",
+  "install": "npx -y health-export-mcp"
+}

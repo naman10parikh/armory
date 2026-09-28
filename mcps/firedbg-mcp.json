@@ -1,0 +1,7 @@
+{
+  "name": "firedbg-mcp",
+  "description": "Enables discovery, execution, indexing, and querying of Rust program traces using FireDBG, scoped to a single Cargo workspace.",
+  "source_repo": "ConVonKnorrisson/firedbg-mcp",
+  "source_url": "https://github.com/ConVonKnorrisson/firedbg-mcp",
+  "install": "npx -y firedbg-mcp"
+}

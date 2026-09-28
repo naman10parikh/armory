@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-autom8",
+  "description": "Enables AI agents to remotely access and interact with Obsidian vaults via MCP, supporting note operations, tag management, graph queries, and command execution.",
+  "source_repo": "dylansumser/obsidian-autom8",
+  "source_url": "https://github.com/dylansumser/obsidian-autom8",
+  "install": "# git clone --depth 1 https://github.com/dylansumser/obsidian-autom8\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zotero-claude-bridge",
+  "description": "MCP server that enables Claude Code to control the Zotero browser connector, automatically capturing web page papers into the local Zotero library.",
+  "source_repo": "HCLEMINI/zotero-claude-bridge",
+  "source_url": "https://github.com/HCLEMINI/zotero-claude-bridge",
+  "install": "# git clone --depth 1 https://github.com/HCLEMINI/zotero-claude-bridge\n# See source for mcpServers config block"
+}

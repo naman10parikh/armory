@@ -1,0 +1,7 @@
+{
+  "name": "algo-mcp",
+  "description": "Render live algorithmic visualizations directly in your AI chats via MCP.",
+  "source_repo": "LikhinMN/algo-mcp",
+  "source_url": "https://github.com/LikhinMN/algo-mcp",
+  "install": "npx -y algo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "flashid-mcp",
+  "description": "MCP server for FlashID client that lets AI agents manage browser profiles, proxies, and folders, and control browser automation endpoints via natural language.",
+  "source_repo": "FlashID-Official/flashid-mcp",
+  "source_url": "https://github.com/FlashID-Official/flashid-mcp",
+  "install": "npx -y flashid-mcp"
+}

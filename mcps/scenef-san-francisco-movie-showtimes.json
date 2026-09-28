@@ -1,0 +1,7 @@
+{
+  "name": "scenef-san-francisco-movie-showtimes",
+  "description": "Every movie showtime in San Francisco — repertory houses, single-screen neighborhood theaters, 35mm/70mm prints, and the chains — verified against each theater's own box office, with a published accuracy record. Nine read-only tools; hosted endpoint at https://scenef.com/mcp (no key), with a bundled",
+  "source_repo": "speedwarnsf/scenef-mcp",
+  "source_url": "https://github.com/speedwarnsf/scenef-mcp",
+  "install": "npx -y scenef-mcp"
+}

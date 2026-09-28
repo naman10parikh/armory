@@ -1,0 +1,7 @@
+{
+  "name": "netflix-search-mcp",
+  "description": "Helps users find the best ranked movie for a given genre using a Netflix dataset.",
+  "source_repo": "rafaporci/netflix-search-mcp",
+  "source_url": "https://github.com/rafaporci/netflix-search-mcp",
+  "install": "npx -y netflix-search-mcp"
+}

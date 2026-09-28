@@ -1,0 +1,7 @@
+{
+  "name": "smhi-mcp-server",
+  "description": "MCP server for SMHI weather data, providing current conditions, hourly and daily forecasts, and daily summaries for northern Europe.",
+  "source_repo": "LittleAndi/smhi-mcp-server",
+  "source_url": "https://github.com/LittleAndi/smhi-mcp-server",
+  "install": "npx -y smhi-mcp-server"
+}

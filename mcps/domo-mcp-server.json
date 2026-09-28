@@ -1,0 +1,7 @@
+{
+  "name": "domo-mcp-server",
+  "description": "Connects to Domo API to run SQL queries, search datasets, retrieve metadata and schema, and manage roles.",
+  "source_repo": "dawoodali-showpass/domo-mcp-server",
+  "source_url": "https://github.com/dawoodali-showpass/domo-mcp-server",
+  "install": "npx -y domo-mcp-server"
+}

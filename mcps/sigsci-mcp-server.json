@@ -1,0 +1,7 @@
+{
+  "name": "sigsci-mcp-server",
+  "description": "MCP server for Signal Sciences (Fastly NGWAF) API, providing progressive disclosure and 40+ read-only tools for managing corporations and sites.",
+  "source_repo": "yuki777/sigsci-mcp-server",
+  "source_url": "https://github.com/yuki777/sigsci-mcp-server",
+  "install": "npx -y sigsci-mcp-server"
+}

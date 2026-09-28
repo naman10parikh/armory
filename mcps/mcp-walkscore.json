@@ -1,0 +1,7 @@
+{
+  "name": "mcp-walkscore",
+  "description": "MCP server that wraps the Walk Score API to provide walkability scores and related data for locations.",
+  "source_repo": "pipeworx-io/mcp-walkscore",
+  "source_url": "https://github.com/pipeworx-io/mcp-walkscore",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-walkscore\n# See source for mcpServers config block"
+}

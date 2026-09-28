@@ -1,0 +1,7 @@
+{
+  "name": "mcp-wibu",
+  "description": "Analyzes Java codebases using an internal Knowledge Graph stored in SQLite, enabling symbol search, endpoint tracing, and impact analysis without requiring AI APIs.",
+  "source_repo": "QuangNguyeen/mcp-wibu",
+  "source_url": "https://github.com/QuangNguyeen/mcp-wibu",
+  "install": "# git clone --depth 1 https://github.com/QuangNguyeen/mcp-wibu\n# See source for mcpServers config block"
+}

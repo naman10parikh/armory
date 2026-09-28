@@ -1,0 +1,7 @@
+{
+  "name": "riksdag-regering-mcp",
+  "description": "Enables LLMs to query and retrieve real-time open data, documents, protocols, and records from the Swedish Parliament (Riksdag) and Government Offices through 32 specialized MCP tools.",
+  "source_repo": "isakskogstad/Riksdag-Regering-MCP",
+  "source_url": "https://github.com/isakskogstad/Riksdag-Regering-MCP",
+  "install": "npx -y Riksdag-Regering-MCP"
+}

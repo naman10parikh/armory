@@ -1,0 +1,7 @@
+{
+  "name": "siglent-mcp",
+  "description": "Control a Siglent SPD1305X (or SPD1000X series) programmable DC power supply from Claude Code over Ethernet using SCPI commands, with safety limits and monitoring tools.",
+  "source_repo": "DVSProductions/siglent-mcp",
+  "source_url": "https://github.com/DVSProductions/siglent-mcp",
+  "install": "npx -y siglent-mcp"
+}

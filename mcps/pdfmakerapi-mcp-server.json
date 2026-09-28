@@ -1,0 +1,7 @@
+{
+  "name": "pdfmakerapi-mcp-server",
+  "description": "Enables creating PDF documents (invoices, certificates, reports, etc.) from natural language descriptions, returning a shareable link to preview and edit the document.",
+  "source_repo": "GerardoBarrera/pdfmakerapi-mcp",
+  "source_url": "https://github.com/GerardoBarrera/pdfmakerapi-mcp",
+  "install": "npx -y pdfmakerapi-mcp"
+}

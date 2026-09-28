@@ -1,0 +1,7 @@
+{
+  "name": "namecheap-webui-mcp",
+  "description": "Manages Namecheap domains and account settings through the web dashboard without requiring an API key or IP allowlist.",
+  "source_repo": "Microck/namecheap-webui-mcp",
+  "source_url": "https://github.com/Microck/namecheap-webui-mcp",
+  "install": "npx -y namecheap-webui-mcp"
+}

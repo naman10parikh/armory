@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bonusly",
+  "description": "Enables management of Bonusly employee recognition bonuses, including listing, creating, and retrieving bonuses with advanced filtering.",
+  "source_repo": "ajramos/mcp-bonusly",
+  "source_url": "https://github.com/ajramos/mcp-bonusly",
+  "install": "# git clone --depth 1 https://github.com/ajramos/mcp-bonusly\n# See source for mcpServers config block"
+}

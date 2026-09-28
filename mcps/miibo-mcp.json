@@ -1,0 +1,7 @@
+{
+  "name": "miibo-mcp",
+  "description": "Enables Claude Code to interact with miibo AI agents (AI employees) via MCP tools, supporting chat, employee management, admin operations, and knowledge addition through the miibo chat API.",
+  "source_repo": "inoueiris/miibo-mcp",
+  "source_url": "https://github.com/inoueiris/miibo-mcp",
+  "install": "npx -y miibo-mcp"
+}

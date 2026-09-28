@@ -1,0 +1,7 @@
+{
+  "name": "tasklogger-mcp",
+  "description": "MCP server enabling AI agents to create, update, search, assign, and complete tasks on TaskLogger.io via the TaskLogger REST API, with secure local credential management and token persistence.",
+  "source_repo": "khodorrrhajjj/TaskLogger-Mcp",
+  "source_url": "https://github.com/khodorrrhajjj/TaskLogger-Mcp",
+  "install": "npx -y TaskLogger-Mcp"
+}

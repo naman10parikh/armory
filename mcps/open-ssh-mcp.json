@@ -1,0 +1,7 @@
+{
+  "name": "open-ssh-mcp",
+  "description": "An MCP server for managing remote SSH servers, enabling AI agents to execute commands, transfer files, and perform deployment operations securely.",
+  "source_repo": "cjp1016/open-ssh-mcp",
+  "source_url": "https://github.com/cjp1016/open-ssh-mcp",
+  "install": "npx -y open-ssh-mcp"
+}

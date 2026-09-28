@@ -1,0 +1,7 @@
+{
+  "name": "cerase-media-mcp",
+  "description": "Provides multimodal understanding tools including OCR, image description, audio transcription, UI screenshot analysis, and screenshot comparison via async tools on a multimodal endpoint.",
+  "source_repo": "cerase-ai/cerase-media-mcp",
+  "source_url": "https://github.com/cerase-ai/cerase-media-mcp",
+  "install": "npx -y cerase-media-mcp"
+}

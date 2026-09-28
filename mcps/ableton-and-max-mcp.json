@@ -1,0 +1,7 @@
+{
+  "name": "ableton-and-max-mcp",
+  "description": "Enables Claude AI to control Ableton Live and Max for Live, allowing music production tasks like track management, MIDI editing, and pattern generation directly from conversation.",
+  "source_repo": "TropinAlexey/ableton-and-max-mcp",
+  "source_url": "https://github.com/TropinAlexey/ableton-and-max-mcp",
+  "install": "npx -y ableton-and-max-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "todoist-api-mcp",
+  "description": "MCP server for Todoist API integration, allowing management of tasks, projects, sections, labels, and comments through natural language.",
+  "source_repo": "denwakeup/todoist-api-mcp",
+  "source_url": "https://github.com/denwakeup/todoist-api-mcp",
+  "install": "npx -y todoist-api-mcp"
+}

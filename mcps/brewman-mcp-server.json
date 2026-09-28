@@ -1,0 +1,7 @@
+{
+  "name": "brewman-mcp-server",
+  "description": "Wraps the Brewman Web (V7) API to read and write Brewman data (orders, outlets, stock, config) via tools, with the API token stored securely as an environment variable.",
+  "source_repo": "PaddyWalsh81/flying-tumbler-brewman-mcp",
+  "source_url": "https://github.com/PaddyWalsh81/flying-tumbler-brewman-mcp",
+  "install": "npx -y flying-tumbler-brewman-mcp"
+}

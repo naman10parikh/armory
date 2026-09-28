@@ -1,0 +1,7 @@
+{
+  "name": "journal-rag",
+  "description": "Hybrid retrieval MCP server for searching team markdown journals using BM25 and local vector embeddings, with tools for search, browse, and regex lookup.",
+  "source_repo": "neryams/workspace-docs-mcp",
+  "source_url": "https://github.com/neryams/workspace-docs-mcp",
+  "install": "npx -y workspace-docs-mcp"
+}

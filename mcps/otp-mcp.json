@@ -1,0 +1,7 @@
+{
+  "name": "otp-mcp",
+  "description": "Enables querying self-hosted OpenTripPlanner for accurate transit routes via MCP, supporting both stdio and HTTP.",
+  "source_repo": "ojimpo/otp-mcp",
+  "source_url": "https://github.com/ojimpo/otp-mcp",
+  "install": "npx -y otp-mcp"
+}

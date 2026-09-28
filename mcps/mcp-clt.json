@@ -1,0 +1,7 @@
+{
+  "name": "mcp-clt",
+  "description": "MCP server for Brazilian labor law (CLT), enabling article lookup, topic search, and legal analysis through tools, resources, and prompts.",
+  "source_repo": "bonckewitz/mcp-clt",
+  "source_url": "https://github.com/bonckewitz/mcp-clt",
+  "install": "# git clone --depth 1 https://github.com/bonckewitz/mcp-clt\n# See source for mcpServers config block"
+}

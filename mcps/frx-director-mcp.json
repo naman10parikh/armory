@@ -1,0 +1,7 @@
+{
+  "name": "frx-director-mcp",
+  "description": "MCP server that lets a high-capability director model drive the firefox-reverse browser's built-in reverse-engineering Agent, with a cheap worker model executing all tooling.",
+  "source_repo": "WhiteNightShadow/frx-director-mcp",
+  "source_url": "https://github.com/WhiteNightShadow/frx-director-mcp",
+  "install": "npx -y frx-director-mcp"
+}

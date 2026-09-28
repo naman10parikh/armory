@@ -1,0 +1,7 @@
+{
+  "name": "roblox-executor-mcp",
+  "description": "Enables agents to interact with a running Roblox game client, execute Lua code, inspect scripts, spy on remotes, and more.",
+  "source_repo": "xixfaces/roblox-executor-mcp",
+  "source_url": "https://github.com/xixfaces/roblox-executor-mcp",
+  "install": "npx -y roblox-executor-mcp"
+}

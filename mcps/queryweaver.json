@@ -1,0 +1,7 @@
+{
+  "name": "queryweaver",
+  "description": "MCP server for natural language to SQL conversion, enabling listing databases, connecting, inspecting schemas, and querying databases using plain English.",
+  "source_repo": "FalkorDB/QueryWeaver",
+  "source_url": "https://github.com/FalkorDB/QueryWeaver",
+  "install": "# git clone --depth 1 https://github.com/FalkorDB/QueryWeaver\n# See source for mcpServers config block"
+}

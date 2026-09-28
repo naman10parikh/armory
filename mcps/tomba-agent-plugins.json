@@ -1,0 +1,7 @@
+{
+  "name": "tomba-agent-plugins",
+  "description": "Provides email discovery, verification, enrichment, and company research through a remote MCP server.",
+  "source_repo": "tomba-io/agent-plugins",
+  "source_url": "https://github.com/tomba-io/agent-plugins",
+  "install": "# git clone --depth 1 https://github.com/tomba-io/agent-plugins\n# See source for mcpServers config block"
+}

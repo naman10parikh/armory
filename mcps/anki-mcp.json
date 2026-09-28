@@ -1,0 +1,7 @@
+{
+  "name": "anki-mcp",
+  "description": "Enables intelligent Anki vocabulary management with automatic TTS audio generation, batch card creation, and advanced search and analysis.",
+  "source_repo": "solidSpoon/anki-mcp",
+  "source_url": "https://github.com/solidSpoon/anki-mcp",
+  "install": "npx -y anki-mcp"
+}

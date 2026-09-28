@@ -1,6 +1,6 @@
 {
   "name": "bitrefill-mcp-server",
-  "description": "Bitrefill Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "bitrefill/bitrefill-mcp-server",
   "source_url": "https://mcp.so/server/bitrefill-mcp-server/bitrefill",
   "install": "npx -y bitrefill-mcp-server"

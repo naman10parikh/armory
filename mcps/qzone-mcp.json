@@ -1,0 +1,7 @@
+{
+  "name": "qzone-mcp",
+  "description": "MCP server for QZone (QQ space) integration, enabling publishing, listing, liking, and commenting on posts through the QzoneUltra daemon and NapCat.",
+  "source_repo": "inzzou/qzone-mcp",
+  "source_url": "https://github.com/inzzou/qzone-mcp",
+  "install": "npx -y qzone-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shift-maker",
+  "description": "Generates legally-compliant weekly shift schedules for Korean workplaces through conversation, using OR-Tools CP-SAT to enforce labor laws such as the 52-hour weekly cap and minor worker protections.",
+  "source_repo": "tkddnjs-dlqslek/shift-maker-mcp",
+  "source_url": "https://github.com/tkddnjs-dlqslek/shift-maker-mcp",
+  "install": "npx -y shift-maker-mcp"
+}

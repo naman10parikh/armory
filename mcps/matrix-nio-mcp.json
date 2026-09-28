@@ -1,0 +1,7 @@
+{
+  "name": "matrix-nio-mcp",
+  "description": "A Model Context Protocol server for Matrix that gives AI assistants read/write access to Matrix rooms, semantic search over message history, and real-time message notifications.",
+  "source_repo": "james-choncholas/matrix-nio-mcp",
+  "source_url": "https://github.com/james-choncholas/matrix-nio-mcp",
+  "install": "npx -y matrix-nio-mcp"
+}

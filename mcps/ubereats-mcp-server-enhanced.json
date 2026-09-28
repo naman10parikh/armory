@@ -1,0 +1,7 @@
+{
+  "name": "ubereats-mcp-server-enhanced",
+  "description": "A production-ready MCP server for UberEats automation, featuring Redis-backed sessions, n8n integration, and enterprise-grade security, enabling login, item addition, address setting, and checkout.",
+  "source_repo": "matr1xp/ubereats_mcp_server",
+  "source_url": "https://github.com/matr1xp/ubereats_mcp_server",
+  "install": "npx -y ubereats_mcp_server"
+}

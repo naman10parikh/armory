@@ -1,0 +1,7 @@
+{
+  "name": "hunaras-mcp",
+  "description": "MCP server for Hunaras, an AI-native recruiting platform that enables candidates and employers to manage jobs, applications, assessments, and talent sourcing through natural language.",
+  "source_repo": "shaxbozaka/hunaras-mcp",
+  "source_url": "https://github.com/shaxbozaka/hunaras-mcp",
+  "install": "npx -y hunaras-mcp"
+}

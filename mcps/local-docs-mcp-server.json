@@ -1,0 +1,7 @@
+{
+  "name": "local-docs-mcp-server",
+  "description": "Exposes multiple local documentation folders to AI assistants via tools for listing, reading, and searching files across namespaces.",
+  "source_repo": "JWears/Mcp-server",
+  "source_url": "https://github.com/JWears/Mcp-server",
+  "install": "# git clone --depth 1 https://github.com/JWears/Mcp-server\n# See source for mcpServers config block"
+}

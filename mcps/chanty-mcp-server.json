@@ -1,0 +1,7 @@
+{
+  "name": "chanty-mcp-server",
+  "description": "Enables integration of Chanty team communication platform with GenAI applications through the Model Context Protocol, providing comprehensive API coverage, multiple authentication methods, and enterprise-ready features.",
+  "source_repo": "asklokesh/chanty-mcp-server",
+  "source_url": "https://github.com/asklokesh/chanty-mcp-server",
+  "install": "npx -y chanty-mcp-server"
+}

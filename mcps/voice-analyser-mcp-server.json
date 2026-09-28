@@ -1,0 +1,7 @@
+{
+  "name": "voice-analyser-mcp-server",
+  "description": "Analyses your published writing from a sitemap, extracts a corpus, and generates a Claude Skill so Claude writes in your voice.",
+  "source_repo": "houtini-ai/voice-analyser-mcp",
+  "source_url": "https://github.com/houtini-ai/voice-analyser-mcp",
+  "install": "npx -y voice-analyser-mcp"
+}

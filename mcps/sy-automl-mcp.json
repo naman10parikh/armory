@@ -1,0 +1,7 @@
+{
+  "name": "sy-automl-mcp",
+  "description": "An MCP server wrapping AutoGluon's AutoML capabilities, enabling data loading, model training, prediction, evaluation, and model management.",
+  "source_repo": "noahwang550/sy-automl-mcp",
+  "source_url": "https://github.com/noahwang550/sy-automl-mcp",
+  "install": "npx -y sy-automl-mcp"
+}

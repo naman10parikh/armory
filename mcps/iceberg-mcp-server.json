@@ -1,0 +1,7 @@
+{
+  "name": "iceberg-mcp-server",
+  "description": "MCP Server for Apache Iceberg, enabling users to read, query, and manipulate data within Iceberg catalogs.",
+  "source_repo": "dragonejt/iceberg-mcp-server",
+  "source_url": "https://github.com/dragonejt/iceberg-mcp-server",
+  "install": "npx -y iceberg-mcp-server"
+}

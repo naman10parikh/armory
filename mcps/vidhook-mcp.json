@@ -1,0 +1,7 @@
+{
+  "name": "vidhook-mcp",
+  "description": "An MCP server enabling agents to generate videos via the vidhook render API, with tools to validate movie definitions, start renders, and check status.",
+  "source_repo": "vidhook/vidhook-mcp",
+  "source_url": "https://github.com/vidhook/vidhook-mcp",
+  "install": "npx -y vidhook-mcp"
+}

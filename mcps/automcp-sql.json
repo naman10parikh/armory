@@ -1,0 +1,7 @@
+{
+  "name": "automcp-sql",
+  "description": "Automatically scans SQLite databases and generates typed CRUD tools for each table, allowing natural language database interaction without exposing raw SQL.",
+  "source_repo": "Mav977/AutoMCP-SQL",
+  "source_url": "https://github.com/Mav977/AutoMCP-SQL",
+  "install": "# git clone --depth 1 https://github.com/Mav977/AutoMCP-SQL\n# See source for mcpServers config block"
+}

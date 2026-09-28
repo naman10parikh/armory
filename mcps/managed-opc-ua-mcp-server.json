@@ -1,0 +1,7 @@
+{
+  "name": "managed-opc-ua-mcp-server",
+  "description": "A TypeScript MCP server that exposes OPC UA read access through server-side authorization and Operator-defined Semantic Controls for safe agent interaction.",
+  "source_repo": "kevin-rieck/managed-opcua-mcp",
+  "source_url": "https://github.com/kevin-rieck/managed-opcua-mcp",
+  "install": "npx -y managed-opcua-mcp"
+}

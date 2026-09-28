@@ -1,0 +1,7 @@
+{
+  "name": "shortsmonkey-mcp",
+  "description": "A read-only MCP server for discovering YouTube outliers, analyzing viral Shorts, and evaluating single-video performance using stored snapshots.",
+  "source_repo": "cuilinhao/youtube-mcp",
+  "source_url": "https://github.com/cuilinhao/youtube-mcp",
+  "install": "npx -y youtube-mcp"
+}

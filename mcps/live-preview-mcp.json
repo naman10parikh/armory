@@ -1,0 +1,7 @@
+{
+  "name": "live-preview-mcp",
+  "description": "Enables AI assistants to start, manage, and embed live application previews in iframes, with support for multiple frameworks, Docker, tunnels, and authentication.",
+  "source_repo": "copperlang2007/live-preview-mcp",
+  "source_url": "https://github.com/copperlang2007/live-preview-mcp",
+  "install": "npx -y live-preview-mcp"
+}

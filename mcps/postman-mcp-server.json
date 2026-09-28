@@ -1,6 +1,6 @@
 {
   "name": "postman-mcp-server",
-  "description": "Postman Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "freebeiro/postman-mcp-server",
   "source_url": "https://mcp.so/server/postman-mcp-server/freebeiro",
   "install": "npx -y postman-mcp-server"

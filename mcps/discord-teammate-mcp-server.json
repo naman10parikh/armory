@@ -1,0 +1,7 @@
+{
+  "name": "discord-teammate-mcp-server",
+  "description": "Enables Claude to send messages to a Discord channel and read replies, allowing for notifications and approvals via Discord.",
+  "source_repo": "rgomesnunes/discord-teammate-mcp",
+  "source_url": "https://github.com/rgomesnunes/discord-teammate-mcp",
+  "install": "npx -y discord-teammate-mcp"
+}

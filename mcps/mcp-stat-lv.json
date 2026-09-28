@@ -1,0 +1,7 @@
+{
+  "name": "mcp-stat-lv",
+  "description": "MCP server that enables querying Latvian official statistics from data.stat.gov.lv via PxWeb tables, allowing retrieval of table definitions and data through natural language or direct tool calls.",
+  "source_repo": "pipeworx-io/mcp-stat-lv",
+  "source_url": "https://github.com/pipeworx-io/mcp-stat-lv",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-stat-lv\n# See source for mcpServers config block"
+}

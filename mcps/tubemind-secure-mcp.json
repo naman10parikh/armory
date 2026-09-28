@@ -1,0 +1,7 @@
+{
+  "name": "tubemind-secure-mcp",
+  "description": "YouTube intelligence MCP server providing 18 tools for research, analytics, benchmarking, and content strategy, with OAuth2 and encrypted token storage.",
+  "source_repo": "dewtech-technologies/tubemind-secure-mcp",
+  "source_url": "https://github.com/dewtech-technologies/tubemind-secure-mcp",
+  "install": "npx -y tubemind-secure-mcp"
+}

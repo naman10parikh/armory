@@ -1,0 +1,7 @@
+{
+  "name": "whatsapp-local-mcp",
+  "description": "Enables Claude to read and search WhatsApp messages, transcribe voice notes, and analyze images locally through a read-only bridge.",
+  "source_repo": "AIBE13/whatsapp-local-mcp",
+  "source_url": "https://github.com/AIBE13/whatsapp-local-mcp",
+  "install": "npx -y whatsapp-local-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pdf-rag-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides powerful RAG (Retrieval-Augmented Generation) capabilities for PDF documents. This server uses ChromaDB for vector storage, sentence-transformers for embeddings, and semantic chunking for intelligent text segmentation.",
+  "source_repo": "abdellahiheiballa/pdf-rag",
+  "source_url": "https://github.com/abdellahiheiballa/pdf-rag",
+  "install": "# git clone --depth 1 https://github.com/abdellahiheiballa/pdf-rag\n# See source for mcpServers config block"
+}

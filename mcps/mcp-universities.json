@@ -1,0 +1,7 @@
+{
+  "name": "mcp-universities",
+  "description": "Enables querying university data from the Hipolabs Universities API without authentication.",
+  "source_repo": "pipeworx-io/mcp-universities",
+  "source_url": "https://github.com/pipeworx-io/mcp-universities",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-universities\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "precisioncalc-mcp",
+  "description": "An MCP server that provides deterministic, high-precision business, finance, and operational calculations such as SaaS metrics, currency conversion, business days, and financial formulas, returning structured JSON results.",
+  "source_repo": "inity13/precisioncalc-mcp",
+  "source_url": "https://github.com/inity13/precisioncalc-mcp",
+  "install": "npx -y precisioncalc-mcp"
+}

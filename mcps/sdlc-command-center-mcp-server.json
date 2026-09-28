@@ -1,0 +1,7 @@
+{
+  "name": "sdlc-command-center-mcp-server",
+  "description": "Provides 18 tools for repository snapshot, release readiness, secret scanning, and approval-gated file writes with backup and audit log.",
+  "source_repo": "Senpai-Sama7/autonomous-sdlc-command-center",
+  "source_url": "https://github.com/Senpai-Sama7/autonomous-sdlc-command-center",
+  "install": "# git clone --depth 1 https://github.com/Senpai-Sama7/autonomous-sdlc-command-center\n# See source for mcpServers config block"
+}

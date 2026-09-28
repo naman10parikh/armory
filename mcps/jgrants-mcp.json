@@ -1,0 +1,7 @@
+{
+  "name": "jgrants-mcp",
+  "description": "MCP server that enables LLMs to search and retrieve Japanese government subsidy and grant information via natural language, wrapping the Jグランツ public API.",
+  "source_repo": "42tahara/jgrants-mcp",
+  "source_url": "https://github.com/42tahara/jgrants-mcp",
+  "install": "npx -y jgrants-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "reflex-docs-mcp-server",
+  "description": "Enables searching and retrieving Reflex documentation, including full-text search, code examples, error analysis, changelog, migration guides, API reference, component props, and recipes.",
+  "source_repo": "itsmeadarsh2008/reflex-docs-mcp",
+  "source_url": "https://github.com/itsmeadarsh2008/reflex-docs-mcp",
+  "install": "npx -y reflex-docs-mcp"
+}

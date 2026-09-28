@@ -1,0 +1,7 @@
+{
+  "name": "briefcase",
+  "description": "Enables AI tools to retrieve codebase context, summaries, decision notes, and file details via MCP, avoiding re-explaining the project.",
+  "source_repo": "MauliAhuja/Breif-Case",
+  "source_url": "https://github.com/MauliAhuja/Breif-Case",
+  "install": "# git clone --depth 1 https://github.com/MauliAhuja/Breif-Case\n# See source for mcpServers config block"
+}

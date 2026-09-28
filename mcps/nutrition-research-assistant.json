@@ -1,0 +1,7 @@
+{
+  "name": "nutrition-research-assistant",
+  "description": "Enables natural-language nutrition research for Indian foods, combining a curated knowledge base with hybrid RAG and specialized agents. Provides MCP tools for knowledge search, safe calculations, document retrieval, and optional live web search.",
+  "source_repo": "yash-desai-naik/interview-task-mcp",
+  "source_url": "https://github.com/yash-desai-naik/interview-task-mcp",
+  "install": "npx -y interview-task-mcp"
+}

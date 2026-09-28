@@ -1,0 +1,7 @@
+{
+  "name": "s3-md-pdf-converter-mcp",
+  "description": "Converts Markdown files and content to styled PDFs with S3 integration, Mermaid diagrams, and ApexCharts support, supporting stdio, HTTP, and SSE transport modes.",
+  "source_repo": "skmprb/md-mermaid-chart-pdf-mcp",
+  "source_url": "https://github.com/skmprb/md-mermaid-chart-pdf-mcp",
+  "install": "npx -y md-mermaid-chart-pdf-mcp"
+}

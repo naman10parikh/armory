@@ -1,0 +1,7 @@
+{
+  "name": "mcp-maker",
+  "description": "Auto-generates MCP servers from any data source, enabling AI clients to query databases, spreadsheets, and APIs with zero code.",
+  "source_repo": "MrAliHasan/mcp-maker",
+  "source_url": "https://github.com/MrAliHasan/mcp-maker",
+  "install": "# git clone --depth 1 https://github.com/MrAliHasan/mcp-maker\n# See source for mcpServers config block"
+}

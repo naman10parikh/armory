@@ -1,0 +1,7 @@
+{
+  "name": "readonly-db-mcp",
+  "description": "Safe MySQL database exploration for AI agents via MCP, enabling read-only queries and schema inspection with three-layer write protection.",
+  "source_repo": "mir-shakir/readonly-db-mcp",
+  "source_url": "https://github.com/mir-shakir/readonly-db-mcp",
+  "install": "npx -y readonly-db-mcp"
+}

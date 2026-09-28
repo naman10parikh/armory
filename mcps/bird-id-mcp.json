@@ -1,0 +1,7 @@
+{
+  "name": "bird-id-mcp",
+  "description": "Identifies bird species from images using YOLO detection and ConvNeXt classification, returning top-5 species with confidence and Chinese names.",
+  "source_repo": "Hakureirm/bird-id-mcp",
+  "source_url": "https://github.com/Hakureirm/bird-id-mcp",
+  "install": "npx -y bird-id-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chatroom-mcp",
+  "description": "A coordination server for Claude Code agents that provides a shared chat room and task board with atomic ownership, enabling seamless collaboration across machines.",
+  "source_repo": "WarrenSchultz/chatroom-mcp",
+  "source_url": "https://github.com/WarrenSchultz/chatroom-mcp",
+  "install": "npx -y chatroom-mcp"
+}

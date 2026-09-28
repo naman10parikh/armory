@@ -1,0 +1,7 @@
+{
+  "name": "excel-mcp-cleyrop",
+  "description": "Generates formatted Excel (.xlsx) files from user requests and deposits them into Cleyrop project data.",
+  "source_repo": "MartinCley/Excel-MCP",
+  "source_url": "https://github.com/MartinCley/Excel-MCP",
+  "install": "npx -y Excel-MCP"
+}

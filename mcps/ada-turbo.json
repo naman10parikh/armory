@@ -1,0 +1,7 @@
+{
+  "name": "ada-turbo",
+  "description": "Provides a complete agency operating system with 20+ roles (strategy, creative, marketing, etc.) accessible via MCP and includes a Pixel Office visualizer for interactive simulation.",
+  "source_repo": "adacreativeco/ada-turbo-mcp",
+  "source_url": "https://github.com/adacreativeco/ada-turbo-mcp",
+  "install": "npx -y ada-turbo-mcp"
+}

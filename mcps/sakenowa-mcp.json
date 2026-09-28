@@ -1,0 +1,7 @@
+{
+  "name": "sakenowa-mcp",
+  "description": "Enables LLMs to search, profile, and compare Japanese sake using a flavor-space engine, including similarity recommendations and side-by-side comparisons.",
+  "source_repo": "mame0001/sakenowa-mcp",
+  "source_url": "https://github.com/mame0001/sakenowa-mcp",
+  "install": "npx -y sakenowa-mcp"
+}

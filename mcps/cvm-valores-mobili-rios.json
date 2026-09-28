@@ -1,0 +1,7 @@
+{
+  "name": "cvm-valores-mobili-rios",
+  "description": "Enables querying the Brazilian Securities Commission (CVM) registry for individuals or companies using CPF or CNPJ. Provides a single read-only MCP tool, cvm_consultar.",
+  "source_repo": "mcp-dir/cvm-mcp",
+  "source_url": "https://github.com/mcp-dir/cvm-mcp",
+  "install": "npx -y cvm-mcp"
+}

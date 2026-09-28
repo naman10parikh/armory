@@ -1,0 +1,7 @@
+{
+  "name": "sticker-mcp",
+  "description": "Enables AI to send expressive stickers based on conversation context, with a built-in UI for managing stickers.",
+  "source_repo": "asashiki/sticker-mcp",
+  "source_url": "https://github.com/asashiki/sticker-mcp",
+  "install": "npx -y sticker-mcp"
+}

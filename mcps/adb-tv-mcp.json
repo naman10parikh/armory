@@ -1,0 +1,7 @@
+{
+  "name": "adb-tv-mcp",
+  "description": "Enables AI agents to control Android TV/Android devices through ADB, including screen capture, remote control, app management, and more.",
+  "source_repo": "mosesmrima/adb-tv-mcp",
+  "source_url": "https://github.com/mosesmrima/adb-tv-mcp",
+  "install": "npx -y adb-tv-mcp"
+}

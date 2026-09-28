@@ -1,0 +1,7 @@
+{
+  "name": "dsh-peak-scheduler",
+  "description": "MCP server that defers non-urgent tasks to off-peak hours, saving ~50% on DeepSeek API costs without blocking users.",
+  "source_repo": "keyiadiannao/dsh-peak-scheduler",
+  "source_url": "https://github.com/keyiadiannao/dsh-peak-scheduler",
+  "install": "# git clone --depth 1 https://github.com/keyiadiannao/dsh-peak-scheduler\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mmxomni",
+  "description": "Model Context Protocol server exposing MiniMax's image, speech, music, and video generation APIs as MCP tools for use with any MCP-aware host.",
+  "source_repo": "stlkrdumb/mmxomni",
+  "source_url": "https://github.com/stlkrdumb/mmxomni",
+  "install": "# git clone --depth 1 https://github.com/stlkrdumb/mmxomni\n# See source for mcpServers config block"
+}

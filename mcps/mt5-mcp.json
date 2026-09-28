@@ -1,0 +1,7 @@
+{
+  "name": "mt5-mcp",
+  "description": "An MCP server that lets an AI agent read your MetaTrader 5 account and place trades over the Model Context Protocol, with a configurable human approval gate.",
+  "source_repo": "vincentwongso/mt5-trading-mcp",
+  "source_url": "https://github.com/vincentwongso/mt5-trading-mcp",
+  "install": "npx -y mt5-trading-mcp"
+}

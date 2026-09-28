@@ -1,0 +1,7 @@
+{
+  "name": "continuous-code-guardian",
+  "description": "AI-powered continuous code assistant for Cursor, VS Code, Antigravity, and Claude Code via MCP, providing tools for code review, testing, documentation, and quality analysis.",
+  "source_repo": "ijanzz5621/mcp-code-guardian",
+  "source_url": "https://github.com/ijanzz5621/mcp-code-guardian",
+  "install": "# git clone --depth 1 https://github.com/ijanzz5621/mcp-code-guardian\n# See source for mcpServers config block"
+}

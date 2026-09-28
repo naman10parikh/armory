@@ -1,0 +1,7 @@
+{
+  "name": "maven-tools-mcp-server",
+  "description": "Provides live Maven Central dependency inspection with stability filtering, version comparison, CVE checks, and POM-aware upgrade recommendations for MCP-capable clients.",
+  "source_repo": "arvindand/maven-tools-mcp",
+  "source_url": "https://github.com/arvindand/maven-tools-mcp",
+  "install": "npx -y maven-tools-mcp"
+}

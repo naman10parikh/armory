@@ -1,0 +1,7 @@
+{
+  "name": "fixzi-mcp-server",
+  "description": "Monitor AI output schemas and API contracts for breaking changes — validate LLM JSON responses against defined schemas on a schedule",
+  "source_repo": "rohitcodilya/fixzi-mcp",
+  "source_url": "https://github.com/rohitcodilya/fixzi-mcp",
+  "install": "npx -y fixzi-mcp"
+}

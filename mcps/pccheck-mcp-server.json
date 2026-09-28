@@ -1,0 +1,7 @@
+{
+  "name": "pccheck-mcp-server",
+  "description": "Provides Claude with read-only access to PC diagnostics including hardware specs, live performance metrics, disk usage, network checks, and more, enabling natural language queries about PC health and performance.",
+  "source_repo": "jjackk0k/pccheck-mcp",
+  "source_url": "https://github.com/jjackk0k/pccheck-mcp",
+  "install": "npx -y pccheck-mcp"
+}

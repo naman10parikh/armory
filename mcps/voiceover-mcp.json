@@ -1,0 +1,7 @@
+{
+  "name": "voiceover-mcp",
+  "description": "Examines web pages through screen-reader actions and speech, enabling agents to perform accessibility checks and interact with page content.",
+  "source_repo": "mikewolfd/voiceover-mcp",
+  "source_url": "https://github.com/mikewolfd/voiceover-mcp",
+  "install": "npx -y voiceover-mcp"
+}

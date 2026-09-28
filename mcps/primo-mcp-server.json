@@ -1,0 +1,7 @@
+{
+  "name": "primo-mcp-server",
+  "description": "MCP server for searching Ex Libris Primo library catalogues and subscribed databases, enabling search, record retrieval, autocomplete, citation generation, and export to BibTeX, RIS, or CSV.",
+  "source_repo": "geheharidas/primo-mcp-server",
+  "source_url": "https://github.com/geheharidas/primo-mcp-server",
+  "install": "npx -y primo-mcp-server"
+}

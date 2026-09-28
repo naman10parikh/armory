@@ -1,6 +1,6 @@
 {
   "name": "eka-mcp-server",
-  "description": "Eka_mcp_server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "eka-care/eka_mcp_server",
   "source_url": "https://mcp.so/server/eka_mcp_server/eka-care",
   "install": "npx -y eka_mcp_server"

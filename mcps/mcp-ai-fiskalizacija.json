@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ai-fiskalizacija",
+  "description": "MCP server for creating and fiscalizing invoices via solo.com.hr API. Enables AI agents to generate invoices, retrieve invoice details, list invoices, and check next invoice number.",
+  "source_repo": "Seyn-Labs/mcp-ai-fiskalizacija",
+  "source_url": "https://github.com/Seyn-Labs/mcp-ai-fiskalizacija",
+  "install": "# git clone --depth 1 https://github.com/Seyn-Labs/mcp-ai-fiskalizacija\n# See source for mcpServers config block"
+}

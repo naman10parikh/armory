@@ -1,0 +1,7 @@
+{
+  "name": "openmc-validator-mcp",
+  "description": "An MCP server that provides pre-flight validation and post-processing tools for OpenMC Monte Carlo transport simulations, catching common authoring mistakes before jobs hit the HPC queue.",
+  "source_repo": "zxkjack123/openmc-validator-mcp",
+  "source_url": "https://github.com/zxkjack123/openmc-validator-mcp",
+  "install": "npx -y openmc-validator-mcp"
+}

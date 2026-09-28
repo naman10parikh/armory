@@ -1,0 +1,7 @@
+{
+  "name": "seoul-individual-land-price-mcp",
+  "description": "MCP server providing Seoul's individual publicly announced land prices via Seoul Open Data Plaza, allowing queries by district, year, and optional land parcel filters, with Korean language support.",
+  "source_repo": "hlucent/seoul-individual-land-price-mcp",
+  "source_url": "https://github.com/hlucent/seoul-individual-land-price-mcp",
+  "install": "npx -y seoul-individual-land-price-mcp"
+}

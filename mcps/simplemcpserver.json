@@ -1,0 +1,7 @@
+{
+  "name": "simplemcpserver",
+  "description": "Enables AI agents (like Claude Code, Cursor) to directly operate Unity scenes via MCP protocol, with tools for scene hierarchy, object creation/deletion, and transform modification.",
+  "source_repo": "redcool/SimpleMCPServer",
+  "source_url": "https://github.com/redcool/SimpleMCPServer",
+  "install": "# git clone --depth 1 https://github.com/redcool/SimpleMCPServer\n# See source for mcpServers config block"
+}

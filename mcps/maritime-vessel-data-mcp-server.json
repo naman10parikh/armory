@@ -1,0 +1,7 @@
+{
+  "name": "maritime-vessel-data-mcp-server",
+  "description": "Enables querying maritime vessel data via MCP tools and resources, including vessel search, port proximity, and vessel details lookups.",
+  "source_repo": "Ariefrse/maritime-mcp-server",
+  "source_url": "https://github.com/Ariefrse/maritime-mcp-server",
+  "install": "npx -y maritime-mcp-server"
+}

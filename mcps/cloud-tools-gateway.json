@@ -1,0 +1,7 @@
+{
+  "name": "cloud-tools-gateway",
+  "description": "A remote MCP server providing web scraping and URL analysis tools (fetch webpage, extract links, check URL status, analyze text) with static bearer-token authentication and optional OAuth support.",
+  "source_repo": "jpgreen30/mcp",
+  "source_url": "https://github.com/jpgreen30/mcp",
+  "install": "# git clone --depth 1 https://github.com/jpgreen30/mcp\n# See source for mcpServers config block"
+}

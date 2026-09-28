@@ -1,0 +1,7 @@
+{
+  "name": "mcp-heartbeat",
+  "description": "Dead-man's-switch monitoring for cron jobs and AI agents: your job or agent pings a URL each run, and Kywio alerts you when the pings stop. MCP-native (create/ping/get heartbeat) plus REST — an outside observer for agents that can't detect their own death.",
+  "source_repo": "vanekyj/kywio",
+  "source_url": "https://github.com/vanekyj/kywio",
+  "install": "# git clone --depth 1 https://github.com/vanekyj/kywio\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "flutterflow-mcp-server",
+  "description": "Connects AI coding agents to FlutterFlow projects, enabling browsing, inspection, and modification of projects directly from the assistant.",
+  "source_repo": "erniecode/flutterflow-mcp",
+  "source_url": "https://github.com/erniecode/flutterflow-mcp",
+  "install": "npx -y flutterflow-mcp"
+}

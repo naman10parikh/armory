@@ -1,0 +1,7 @@
+{
+  "name": "meta-cloud-api-mcp-server",
+  "description": "Enables Claude to manage WhatsApp templates, flows, and send messages through the WhatsApp Cloud API.",
+  "source_repo": "froggy1014/meta-cloud-api-mcp",
+  "source_url": "https://github.com/froggy1014/meta-cloud-api-mcp",
+  "install": "npx -y meta-cloud-api-mcp"
+}

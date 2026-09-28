@@ -1,0 +1,7 @@
+{
+  "name": "the-agentic-seo-engine",
+  "description": "A headless, API-first MCP server that transforms unstructured creative portfolios into validated, machine-readable llms.txt manifests for the agentic web.",
+  "source_repo": "ralphtorres736-eng/agentic-seo-engine",
+  "source_url": "https://github.com/ralphtorres736-eng/agentic-seo-engine",
+  "install": "# git clone --depth 1 https://github.com/ralphtorres736-eng/agentic-seo-engine\n# See source for mcpServers config block"
+}

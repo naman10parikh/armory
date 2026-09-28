@@ -1,0 +1,7 @@
+{
+  "name": "roistat-mcp",
+  "description": "MCP server for the Roistat API, enabling marketing analytics, lead tracking, channel performance, cost data, and integrations.",
+  "source_repo": "theYahia/roistat-mcp",
+  "source_url": "https://github.com/theYahia/roistat-mcp",
+  "install": "npx -y roistat-mcp"
+}

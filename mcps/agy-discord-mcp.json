@@ -1,0 +1,7 @@
+{
+  "name": "agy-discord-mcp",
+  "description": "Bridges a Discord bot with the agy CLI, enabling inbound messages to be relayed to agy and allowing agy to interact with Discord through MCP tools, including sending messages and files.",
+  "source_repo": "Openclaw-Metis/agy-discord-mcp",
+  "source_url": "https://github.com/Openclaw-Metis/agy-discord-mcp",
+  "install": "npx -y agy-discord-mcp"
+}

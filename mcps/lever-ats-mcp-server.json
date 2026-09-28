@@ -1,0 +1,7 @@
+{
+  "name": "lever-ats-mcp-server",
+  "description": "Integrates Lever ATS with Claude Desktop to manage hiring pipelines through natural language, offering tools for candidate search, pipeline management, file and application handling, and advanced sourcing.",
+  "source_repo": "the-sid-dani/lever-mcp-integration",
+  "source_url": "https://github.com/the-sid-dani/lever-mcp-integration",
+  "install": "# git clone --depth 1 https://github.com/the-sid-dani/lever-mcp-integration\n# See source for mcpServers config block"
+}

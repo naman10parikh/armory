@@ -1,0 +1,7 @@
+{
+  "name": "mcp-nodeserver",
+  "description": "A Node.js MCP server that gives Claude Code direct access to file operations, database queries, PHP execution, SFTP deployment, and over 60 specialized tools for development and debugging.",
+  "source_repo": "Bing-Xuan-Lu/MCP_NodeServer",
+  "source_url": "https://github.com/Bing-Xuan-Lu/MCP_NodeServer",
+  "install": "# git clone --depth 1 https://github.com/Bing-Xuan-Lu/MCP_NodeServer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-todo-safe-mcp",
+  "description": "Enables safe AI-assisted cleanup of Microsoft To Do tasks with backup, preview, confirmation, and audit safeguards.",
+  "source_repo": "Saenai/microsoft-todo-safe-mcp",
+  "source_url": "https://github.com/Saenai/microsoft-todo-safe-mcp",
+  "install": "npx -y microsoft-todo-safe-mcp"
+}

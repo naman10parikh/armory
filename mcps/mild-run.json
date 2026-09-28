@@ -1,0 +1,7 @@
+{
+  "name": "mild-run",
+  "description": "Your AI agent can't touch Stripe, Gmail, Slack or more, without your tap. mild.run intercepts every sensitive action and sends you a notification to approve or block — before anything executes. Agent never holds credentials.",
+  "source_repo": "mild-run/mild-run-mcp",
+  "source_url": "https://github.com/mild-run/mild-run-mcp",
+  "install": "npx -y mild-run-mcp"
+}

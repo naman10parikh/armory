@@ -1,0 +1,7 @@
+{
+  "name": "tool-mcp-server",
+  "description": "A Model Context Protocol server exposing 58 online tools (crypto, data, image, text, etc.) and workflow execution, enabling MCP clients like Claude Desktop to invoke them via natural language.",
+  "source_repo": "maple-awa/tool-mcp",
+  "source_url": "https://github.com/maple-awa/tool-mcp",
+  "install": "npx -y tool-mcp"
+}

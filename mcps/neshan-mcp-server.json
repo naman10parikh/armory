@@ -1,0 +1,7 @@
+{
+  "name": "neshan-mcp-server",
+  "description": "Enables AI assistants to access Neshan maps services for location search, routing, traffic analysis, and more through natural language.",
+  "source_repo": "NeshanMaps/Neshan-MCP",
+  "source_url": "https://github.com/NeshanMaps/Neshan-MCP",
+  "install": "npx -y Neshan-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agh-skos-mcp",
+  "description": "MCP server for AGH University staff directory (SkOs). Enables searching and retrieving staff profiles without authentication.",
+  "source_repo": "kbzowski/agh-skos-mcp",
+  "source_url": "https://github.com/kbzowski/agh-skos-mcp",
+  "install": "npx -y agh-skos-mcp"
+}

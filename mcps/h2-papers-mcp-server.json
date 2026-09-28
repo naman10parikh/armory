@@ -1,0 +1,7 @@
+{
+  "name": "h2-papers-mcp-server",
+  "description": "Enables searching and retrieving molecular hydrogen medical literature from H2 Papers database, with per-paper safety notes always included in results.",
+  "source_repo": "h2-papers/h2-papers-mcp-server",
+  "source_url": "https://github.com/h2-papers/h2-papers-mcp-server",
+  "install": "npx -y h2-papers-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "supply-chain-mcp-server",
+  "description": "MCP server giving AI agents access to global supply chain and trade data from UN Comtrade, World Bank, and Open Supply Hub.",
+  "source_repo": "AiAgentKarl/supply-chain-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/supply-chain-mcp-server",
+  "install": "npx -y supply-chain-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dialmcp",
+  "description": "A hosted MCP server that enables AI agents to place real phone calls from a verified caller ID, with async call management and built-in safety controls.",
+  "source_repo": "SkillfulAgents/dialmcp-connector",
+  "source_url": "https://github.com/SkillfulAgents/dialmcp-connector",
+  "install": "# git clone --depth 1 https://github.com/SkillfulAgents/dialmcp-connector\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "overleaf-multi-mcp",
+  "description": "Enables Claude Code to manage Overleaf projects by auto-discovering them and reading/editing files across all projects, with a review-before-push local-workspace workflow.",
+  "source_repo": "NVCLong/Overleaf-Connector",
+  "source_url": "https://github.com/NVCLong/Overleaf-Connector",
+  "install": "# git clone --depth 1 https://github.com/NVCLong/Overleaf-Connector\n# See source for mcpServers config block"
+}

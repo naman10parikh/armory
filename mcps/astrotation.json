@@ -1,0 +1,7 @@
+{
+  "name": "astrotation",
+  "description": "Visual feedback for AI coding agents on Astro sites, providing live annotations with source file:line, CSS selector, Tailwind classes, and computed styles.",
+  "source_repo": "dpush91/astrotation",
+  "source_url": "https://github.com/dpush91/astrotation",
+  "install": "# git clone --depth 1 https://github.com/dpush91/astrotation\n# See source for mcpServers config block"
+}

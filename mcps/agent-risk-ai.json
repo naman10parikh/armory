@@ -1,0 +1,7 @@
+{
+  "name": "agent-risk-ai",
+  "description": "Enables AI agents to assess credit default risk, run what-if scenarios, and evaluate portfolios through natural language, backed by an explainable XGBoost model.",
+  "source_repo": "faanogueira/agent-risk-ai",
+  "source_url": "https://github.com/faanogueira/agent-risk-ai",
+  "install": "# git clone --depth 1 https://github.com/faanogueira/agent-risk-ai\n# See source for mcpServers config block"
+}

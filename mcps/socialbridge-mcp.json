@@ -1,0 +1,7 @@
+{
+  "name": "socialbridge-mcp",
+  "description": "Provides unified access to social media data across nine networks (Instagram, TikTok, YouTube, etc.) through a set of MCP tools for profiles, posts, search, and comments, backed by the SocialBridge API.",
+  "source_repo": "IsaiahDupree/socialbridge-mcp",
+  "source_url": "https://github.com/IsaiahDupree/socialbridge-mcp",
+  "install": "npx -y socialbridge-mcp"
+}

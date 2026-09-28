@@ -1,0 +1,7 @@
+{
+  "name": "antigravity-drawio-mcp",
+  "description": "MCP server that enables AI assistants to create, parse, render, and validate Draw.io diagrams programmatically.",
+  "source_repo": "S-SUJAN-S/antigravity-drawio-mcp",
+  "source_url": "https://github.com/S-SUJAN-S/antigravity-drawio-mcp",
+  "install": "npx -y antigravity-drawio-mcp"
+}

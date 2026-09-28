@@ -1,0 +1,7 @@
+{
+  "name": "lobu",
+  "description": "MCP server for Lobu, the open-source backend for AI teammates, providing durable memory and agent capabilities. It enables AI assistants to watch, remember, and act across company tools with sandboxed execution.",
+  "source_repo": "lobu-ai/lobu",
+  "source_url": "https://github.com/lobu-ai/lobu",
+  "install": "# git clone --depth 1 https://github.com/lobu-ai/lobu\n# See source for mcpServers config block"
+}

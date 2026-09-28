@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-return-to-dark-tower",
+  "description": "Lets AI assistants control the physical Return to Dark Tower board game tower via Bluetooth, enabling connection, calibration, sound, lights, drum rotation, seal breaking, and game sequences through natural language.",
+  "source_repo": "ChessMess/mcp-server-return-to-dark-tower",
+  "source_url": "https://github.com/ChessMess/mcp-server-return-to-dark-tower",
+  "install": "# git clone --depth 1 https://github.com/ChessMess/mcp-server-return-to-dark-tower\n# See source for mcpServers config block"
+}

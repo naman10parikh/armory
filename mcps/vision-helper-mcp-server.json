@@ -1,0 +1,7 @@
+{
+  "name": "vision-helper-mcp-server",
+  "description": "An MCP server that adds vision capability to any LLM by forwarding images to OpenRouter vision models, returning text analysis. Supports image analysis, model listing, and config diagnostics.",
+  "source_repo": "quickstraw/vision-helper-mcp-server",
+  "source_url": "https://github.com/quickstraw/vision-helper-mcp-server",
+  "install": "npx -y vision-helper-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "detleng-bigquery-mcp-server",
+  "description": "Enables AI assistants to query trusted BigQuery analytics using curated Business Intelligence tools, providing secure, accurate business metrics and KPIs through natural language.",
+  "source_repo": "Navid-Ishaq/detleng-bigquery-mcp",
+  "source_url": "https://github.com/Navid-Ishaq/detleng-bigquery-mcp",
+  "install": "npx -y detleng-bigquery-mcp"
+}

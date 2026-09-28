@@ -1,0 +1,7 @@
+{
+  "name": "dropthehassle-mcp-server",
+  "description": "Enables AI to deploy static sites, search for available domains, and point domains to sites, all without spending money.",
+  "source_repo": "bosmdavid-gif/dropthehassle-mcp",
+  "source_url": "https://github.com/bosmdavid-gif/dropthehassle-mcp",
+  "install": "npx -y dropthehassle-mcp"
+}

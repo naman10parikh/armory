@@ -1,0 +1,7 @@
+{
+  "name": "centrapay-mcp-server",
+  "description": "Enables interaction with the Centrapay payments API for testing NZ payment flows, including creating, managing, and settling payment requests through natural language.",
+  "source_repo": "CedricConday/centrapay-mcp",
+  "source_url": "https://github.com/CedricConday/centrapay-mcp",
+  "install": "npx -y centrapay-mcp"
+}

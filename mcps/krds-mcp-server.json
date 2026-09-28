@@ -1,0 +1,7 @@
+{
+  "name": "krds-mcp-server",
+  "description": "Provides Korean government design system (KRDS) guidelines to AI models via MCP, enabling AI assistants to comply with KRDS standards when developing government websites and digital services.",
+  "source_repo": "KRDS-MCP/krds-mcp",
+  "source_url": "https://github.com/KRDS-MCP/krds-mcp",
+  "install": "npx -y krds-mcp"
+}

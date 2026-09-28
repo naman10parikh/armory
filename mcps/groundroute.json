@@ -1,0 +1,7 @@
+{
+  "name": "groundroute",
+  "description": "Web search for AI agents across 6 engines (Serper, Brave, Exa, Tavily, Firecrawl, Perplexity) through one search tool. Routes each query to the cheapest engine that clears a quality bar and caches repeats. Hosted, streamable-HTTP, BYOK supported.",
+  "source_repo": "PROJECT-B-26/groundroute-mcp",
+  "source_url": "https://github.com/PROJECT-B-26/groundroute-mcp",
+  "install": "npx -y groundroute-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "topaz-mcp-server",
+  "description": "Create Topaz AI tasks through RunAPI — 2 endpoints, 2 models — then poll status and check pricing.",
+  "source_repo": "runapi-ai/topaz-mcp",
+  "source_url": "https://github.com/runapi-ai/topaz-mcp",
+  "install": "npx -y topaz-mcp"
+}

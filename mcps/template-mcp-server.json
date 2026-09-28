@@ -1,6 +1,6 @@
 {
   "name": "template-mcp-server",
-  "description": "Template Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "mcpdotdirect/template-mcp-server",
   "source_url": "https://mcp.so/server/template-mcp-server/mcpdotdirect",
   "install": "npx -y template-mcp-server"

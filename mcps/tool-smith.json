@@ -1,0 +1,7 @@
+{
+  "name": "tool-smith",
+  "description": "MCP server that routes natural language requests to structured tool calls using a LoRA-tuned small language model, with built-in validation, retry, and fallback recovery.",
+  "source_repo": "ganlin770/tool-smith",
+  "source_url": "https://github.com/ganlin770/tool-smith",
+  "install": "# git clone --depth 1 https://github.com/ganlin770/tool-smith\n# See source for mcpServers config block"
+}

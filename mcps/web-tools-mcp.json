@@ -1,0 +1,7 @@
+{
+  "name": "web-tools-mcp",
+  "description": "Multi-engine web search and content extraction MCP server with 10 sources, 4-way parallel queries, and content extraction via Jina Reader, no API keys required.",
+  "source_repo": "hellowind777/web-tools-mcp",
+  "source_url": "https://github.com/hellowind777/web-tools-mcp",
+  "install": "npx -y web-tools-mcp"
+}

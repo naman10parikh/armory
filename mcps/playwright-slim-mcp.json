@@ -1,0 +1,7 @@
+{
+  "name": "playwright-slim-mcp",
+  "description": "A proxy MCP server that summarizes Playwright accessibility snapshots using Claude Haiku, reducing context usage for efficient browser automation.",
+  "source_repo": "jsdf/playwright-slim-mcp",
+  "source_url": "https://github.com/jsdf/playwright-slim-mcp",
+  "install": "npx -y playwright-slim-mcp"
+}

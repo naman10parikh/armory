@@ -1,0 +1,7 @@
+{
+  "name": "wherewent",
+  "description": "Zero-config SQL profiler for slow Python/SQLAlchemy jobs, built for agents: returns the exact call site, query count, and fix as compact machine-readable fields instead of raw query logs~55× fewer tokens per diagnosis (≈10k → ≈180) and the matching drop in API cost.",
+  "source_repo": "habibafaisal/wherewent",
+  "source_url": "https://github.com/habibafaisal/wherewent",
+  "install": "# git clone --depth 1 https://github.com/habibafaisal/wherewent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-company-admin-mcp",
+  "description": "MCP server for LinkedIn Company Page administration. Enables reading analytics, managing posts, editing page details, growing followers, and bridging personal profile for employee advocacy workflows.",
+  "source_repo": "negrueu/linkedin-company-admin-mcp",
+  "source_url": "https://github.com/negrueu/linkedin-company-admin-mcp",
+  "install": "npx -y linkedin-company-admin-mcp"
+}

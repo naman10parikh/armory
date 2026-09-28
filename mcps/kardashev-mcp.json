@@ -1,0 +1,7 @@
+{
+  "name": "kardashev-mcp",
+  "description": "MCP server for Kardashev Labs US grid data, giving agents live LMP, carbon intensity, load, curtailment, interconnection queues, ERCOT large loads, and the public RT-DA spread forecast track record. Requires no API key.",
+  "source_repo": "kardashev-lab/kardashev-mcp",
+  "source_url": "https://github.com/kardashev-lab/kardashev-mcp",
+  "install": "npx -y kardashev-mcp"
+}

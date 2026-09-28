@@ -1,0 +1,7 @@
+{
+  "name": "pokerai-mcp",
+  "description": "MCP server for the Pokerai API providing solver-grade GTO strategy for 6-max No-Limit Hold'em, exposed as tools for LLM agents like Claude and Cursor.",
+  "source_repo": "pokerai-bet/mcp",
+  "source_url": "https://github.com/pokerai-bet/mcp",
+  "install": "# git clone --depth 1 https://github.com/pokerai-bet/mcp\n# See source for mcpServers config block"
+}

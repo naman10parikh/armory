@@ -1,0 +1,7 @@
+{
+  "name": "chatmux",
+  "description": "Local-first MCP server that puts your own LINE and Telegram chats behind one data layer — a daemon on your machine logs in with your own account, stores messages to JSONL + SQLite/FTS5, and exposes 6 MCP tools over streamable HTTP on 127.0.0.1. Not a hosted service and not an npx one-liner: you clon",
+  "source_repo": "echoedinvoker/chatmux",
+  "source_url": "https://github.com/echoedinvoker/chatmux",
+  "install": "# git clone --depth 1 https://github.com/echoedinvoker/chatmux\n# See source for mcpServers config block"
+}

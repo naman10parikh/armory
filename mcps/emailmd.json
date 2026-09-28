@@ -1,0 +1,7 @@
+{
+  "name": "emailmd",
+  "description": "Renders markdown into email-safe HTML that holds up in Outlook and Gmail, lints drafts for deliverability problems, and returns a live preview link. Also serves the emailmd syntax reference so an assistant can look up directives on demand.",
+  "source_repo": "anypost/emailmd",
+  "source_url": "https://github.com/anypost/emailmd",
+  "install": "# git clone --depth 1 https://github.com/anypost/emailmd\n# See source for mcpServers config block"
+}

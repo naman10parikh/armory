@@ -1,0 +1,7 @@
+{
+  "name": "remember-mcp",
+  "description": "Multi-tenant memory system MCP server with vector search, relationships, and trust-based access control for AI assistants.",
+  "source_repo": "prmichaelsen/remember-mcp",
+  "source_url": "https://github.com/prmichaelsen/remember-mcp",
+  "install": "npx -y remember-mcp"
+}

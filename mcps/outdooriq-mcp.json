@@ -1,0 +1,7 @@
+{
+  "name": "outdooriq-mcp",
+  "description": "Provides lake conditions, fish-stocking records, fishing-favorability scoring, and live weather for outdoor recreation AI agents, powering trip-planning and fishing apps with 72,000+ US lakes and 293,000+ stocking events.",
+  "source_repo": "bch1212/outdooriq-mcp",
+  "source_url": "https://github.com/bch1212/outdooriq-mcp",
+  "install": "npx -y outdooriq-mcp"
+}

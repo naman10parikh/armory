@@ -1,0 +1,7 @@
+{
+  "name": "computetoai",
+  "description": "A simulation engine for retirement planning, accessible via an MCP server that allows AI agents to create financial plans, manage income, expenses, loans, taxes, and portfolios, and run Monte Carlo simulations.",
+  "source_repo": "RalfHuesing/ComputeToAi",
+  "source_url": "https://github.com/RalfHuesing/ComputeToAi",
+  "install": "# git clone --depth 1 https://github.com/RalfHuesing/ComputeToAi\n# See source for mcpServers config block"
+}

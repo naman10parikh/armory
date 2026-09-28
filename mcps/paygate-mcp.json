@@ -1,0 +1,7 @@
+{
+  "name": "paygate-mcp",
+  "description": "Monetization gateway for MCP servers, enabling pay-per-call AI agent access with x402 payment challenges and USDC settlement on Base. Developers can register existing MCP servers, set tool prices, and receive payments without handling payment code.",
+  "source_repo": "geoacpfilho/paygate-mcp",
+  "source_url": "https://github.com/geoacpfilho/paygate-mcp",
+  "install": "npx -y paygate-mcp"
+}

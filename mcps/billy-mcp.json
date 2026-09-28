@@ -1,0 +1,7 @@
+{
+  "name": "billy-mcp",
+  "description": "An MCP server for Danish accounting via Billy.dk API, enabling natural-language control over invoices, bank lines, reports, and more, with a write-guard for safety.",
+  "source_repo": "Cimalys/billy-mcp",
+  "source_url": "https://github.com/Cimalys/billy-mcp",
+  "install": "npx -y billy-mcp"
+}

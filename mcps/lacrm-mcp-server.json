@@ -1,0 +1,7 @@
+{
+  "name": "lacrm-mcp-server",
+  "description": "A comprehensive MCP server for Less Annoying CRM providing 87 tools for contacts, pipelines, tasks, events, notes, emails, files, and more.",
+  "source_repo": "optimize-overseas/lacrm-mcp",
+  "source_url": "https://github.com/optimize-overseas/lacrm-mcp",
+  "install": "npx -y lacrm-mcp"
+}

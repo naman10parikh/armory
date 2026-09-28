@@ -1,0 +1,7 @@
+{
+  "name": "hyperliquid-info-mcp",
+  "description": "Provides live market and account data from Hyperliquid, including perp and spot prices, funding rates, open interest, order books, and wallet positions, without requiring an API key.",
+  "source_repo": "Glebenjoy/hyperliquid-info-mcp",
+  "source_url": "https://github.com/Glebenjoy/hyperliquid-info-mcp",
+  "install": "npx -y hyperliquid-info-mcp"
+}

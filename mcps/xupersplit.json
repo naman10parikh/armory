@@ -1,0 +1,7 @@
+{
+  "name": "xupersplit",
+  "description": "Runs an entire shared-expense split from an assistant: create one, add what each person paid (equally, by weighted shares or exact amounts), record paybacks, and read back who owes whom as the fewest transfers. Eleven tools covering the whole lifecycle, with no account and no API key — people are re",
+  "source_repo": "kanylbullen/xupersplit",
+  "source_url": "https://github.com/kanylbullen/xupersplit",
+  "install": "# git clone --depth 1 https://github.com/kanylbullen/xupersplit\n# See source for mcpServers config block"
+}

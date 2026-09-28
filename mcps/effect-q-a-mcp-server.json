@@ -1,0 +1,7 @@
+{
+  "name": "effect-q-a-mcp-server",
+  "description": "Fetches category data from a Q&A service API and returns a markdown summary grouped by category.",
+  "source_repo": "forthy/effect-qa-mcp",
+  "source_url": "https://github.com/forthy/effect-qa-mcp",
+  "install": "npx -y effect-qa-mcp"
+}

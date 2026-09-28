@@ -1,0 +1,7 @@
+{
+  "name": "deeppane-mcp-server",
+  "description": "The official stdio MCP server for creating DeepPane focus spaces and reading user-authorized focus history summaries.",
+  "source_repo": "AntMesh/deeppane-mcp-server",
+  "source_url": "https://github.com/AntMesh/deeppane-mcp-server",
+  "install": "npx -y deeppane-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "execkit-mcp",
+  "description": "Stateful, structured, safe shell sessions for AI agents, on real infrastructure.",
+  "source_repo": "blinkingbit-oss/execkit",
+  "source_url": "https://github.com/blinkingbit-oss/execkit",
+  "install": "# git clone --depth 1 https://github.com/blinkingbit-oss/execkit\n# See source for mcpServers config block"
+}

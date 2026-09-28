@@ -1,0 +1,7 @@
+{
+  "name": "sekha-mcp-server",
+  "description": "This MCP server exposes Sekha memory tools (store, search, update, etc.) to any MCP-compatible client, enabling persistent conversation memory across Claude Desktop, Claude Code, and other applications.",
+  "source_repo": "sekha-ai/sekha-mcp",
+  "source_url": "https://github.com/sekha-ai/sekha-mcp",
+  "install": "npx -y sekha-mcp"
+}

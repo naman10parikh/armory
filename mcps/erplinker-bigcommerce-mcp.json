@@ -1,0 +1,7 @@
+{
+  "name": "erplinker-bigcommerce-mcp",
+  "description": "Provides AI assistants with comprehensive, precise BigCommerce developer documentation via 12 MCP tools, including REST endpoints, GraphQL operations, webhooks, OAuth scopes, and code examples.",
+  "source_repo": "ackm04/bigcommerce-mcp",
+  "source_url": "https://github.com/ackm04/bigcommerce-mcp",
+  "install": "npx -y bigcommerce-mcp"
+}

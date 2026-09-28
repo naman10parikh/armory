@@ -1,0 +1,7 @@
+{
+  "name": "stealth-agent-browser-mcp",
+  "description": "An MCP server providing AI agents with a stealth Chromium browser that uses hybrid accessibility-object-model and set-of-mark vision for token-lean snapshots and reliable action via ref ids.",
+  "source_repo": "ykshah1309/stealth-agent-browser-mcp",
+  "source_url": "https://github.com/ykshah1309/stealth-agent-browser-mcp",
+  "install": "npx -y stealth-agent-browser-mcp"
+}

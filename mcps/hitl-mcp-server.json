@@ -1,0 +1,7 @@
+{
+  "name": "hitl-mcp-server",
+  "description": "Bridges Claude Desktop with a HITL escalation service, enabling creation, approval, modification, and management of human-in-the-loop requests directly from the chat interface.",
+  "source_repo": "AgentMP/hitl-mcp-server",
+  "source_url": "https://github.com/AgentMP/hitl-mcp-server",
+  "install": "npx -y hitl-mcp-server"
+}

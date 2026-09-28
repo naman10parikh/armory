@@ -1,0 +1,7 @@
+{
+  "name": "tai42-dynamic-postgres-mcp",
+  "description": "Generates safe, scoped PostgreSQL DML tools for FastMCP agents, enabling controlled database interactions without raw SQL.",
+  "source_repo": "tai42ai/tai-dynamic-postgres-mcp",
+  "source_url": "https://github.com/tai42ai/tai-dynamic-postgres-mcp",
+  "install": "npx -y tai-dynamic-postgres-mcp"
+}

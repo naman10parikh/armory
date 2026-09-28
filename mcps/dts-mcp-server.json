@@ -1,0 +1,7 @@
+{
+  "name": "dts-mcp-server",
+  "description": "MCP server for DTS Engine 6.1 that enables agents to create, validate, and run 3D digital-twin tile publishing pipelines from shapefiles, photogrammetry, DEM/DOM, BIM, and point clouds, with tools for pipeline introspection, error resolution, and OSGB publishing.",
+  "source_repo": "zhouning/dts-mcp-server",
+  "source_url": "https://github.com/zhouning/dts-mcp-server",
+  "install": "npx -y dts-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pabs-mcp-server",
+  "description": "Provides AI coding tools with live access to product strategy including briefs, hypotheses, competitor analysis, PRD, and strategic pulse for context-aware development.",
+  "source_repo": "pdunovits/pabs-mcp",
+  "source_url": "https://github.com/pdunovits/pabs-mcp",
+  "install": "npx -y pabs-mcp"
+}

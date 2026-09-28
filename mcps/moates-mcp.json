@@ -1,0 +1,7 @@
+{
+  "name": "moates-mcp",
+  "description": "Enables answering questions about Marcus Oates, a Sydney-based senior software engineer, by exposing structured data about his profile, projects, experience, skills, and interests via MCP tools, resources, and prompts.",
+  "source_repo": "moates695/moates_mcp",
+  "source_url": "https://github.com/moates695/moates_mcp",
+  "install": "npx -y moates_mcp"
+}

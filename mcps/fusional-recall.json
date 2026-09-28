@@ -1,0 +1,7 @@
+{
+  "name": "fusional-recall",
+  "description": "MCP server for semantic search over a solved-issues engineering knowledge base. Built on FastMCP with sqlite-vec and sentence-transformers; exposes recall, remember, list_recent, verify, and get tools so agents can retrieve and log fixes.",
+  "source_repo": "JRM-FusionAL/FusionAL-Recall",
+  "source_url": "https://github.com/JRM-FusionAL/FusionAL-Recall",
+  "install": "# git clone --depth 1 https://github.com/JRM-FusionAL/FusionAL-Recall\n# See source for mcpServers config block"
+}

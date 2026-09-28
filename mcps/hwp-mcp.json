@@ -1,0 +1,7 @@
+{
+  "name": "hwp-mcp",
+  "description": "MCP server for reading and writing HWP/HWPX (Korean Hangul word processor) files, enabling document reading, text extraction, table extraction, image extraction, template filling, text replacement, and creation of new documents.",
+  "source_repo": "ioneway72/hwp-mcp",
+  "source_url": "https://github.com/ioneway72/hwp-mcp",
+  "install": "npx -y hwp-mcp"
+}

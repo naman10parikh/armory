@@ -1,0 +1,7 @@
+{
+  "name": "agentstore",
+  "description": "Provides agent-scoped persistent storage with namespace isolation and TTL-based retention tiers. Includes a full audit trail and is backed by a single SQLite file.",
+  "source_repo": "confidantduk/agentstore",
+  "source_url": "https://github.com/confidantduk/agentstore",
+  "install": "# git clone --depth 1 https://github.com/confidantduk/agentstore\n# See source for mcpServers config block"
+}

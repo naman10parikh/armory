@@ -1,0 +1,7 @@
+{
+  "name": "token-risk-check",
+  "description": "MCP server that evaluates memecoin tokens for scam/rug-pull risk, providing a verdict and risk report using live data from RugCheck and DexScreener.",
+  "source_repo": "micole66/memecoin-signal-mcp",
+  "source_url": "https://github.com/micole66/memecoin-signal-mcp",
+  "install": "npx -y memecoin-signal-mcp"
+}

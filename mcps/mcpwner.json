@@ -1,0 +1,7 @@
+{
+  "name": "mcpwner",
+  "description": "Model Context Protocol server for security research automation, integrating multiple security testing tools into LLM-driven workflows for secret scanning, static analysis, and vulnerability discovery.",
+  "source_repo": "nedlir/MCPwner",
+  "source_url": "https://github.com/nedlir/MCPwner",
+  "install": "# git clone --depth 1 https://github.com/nedlir/MCPwner\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "heygen-mcp",
+  "description": "MCP server for the HeyGen avatar video API. Provides tools to generate talking-avatar videos, including video creation, status checking, downloading, and listing avatars/voices.",
+  "source_repo": "carlosvidal/heygen-mcp",
+  "source_url": "https://github.com/carlosvidal/heygen-mcp",
+  "install": "npx -y heygen-mcp"
+}

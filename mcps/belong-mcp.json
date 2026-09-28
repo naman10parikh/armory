@@ -1,0 +1,7 @@
+{
+  "name": "belong-mcp",
+  "description": "Exposes Belong Resident Application APIs as MCP tools for AI assistants to manage visitors, vehicles, maintenance, amenity bookings, and finances.",
+  "source_repo": "arjun1194/belong-mcp",
+  "source_url": "https://github.com/arjun1194/belong-mcp",
+  "install": "npx -y belong-mcp"
+}

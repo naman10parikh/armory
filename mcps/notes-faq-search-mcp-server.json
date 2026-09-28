@@ -1,0 +1,7 @@
+{
+  "name": "notes-faq-search-mcp-server",
+  "description": "Enables offline search of personal notes and FAQ collections through MCP tools.",
+  "source_repo": "SajaAsfour/mcp-Notes-FAQ-Search-MCP-server",
+  "source_url": "https://github.com/SajaAsfour/mcp-Notes-FAQ-Search-MCP-server",
+  "install": "npx -y mcp-Notes-FAQ-Search-MCP-server"
+}

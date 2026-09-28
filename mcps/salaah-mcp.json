@@ -1,0 +1,7 @@
+{
+  "name": "salaah-mcp",
+  "description": "A service for calculating Islamic prayer times, Qiblah direction, and moon visibility using the islamic_times library.",
+  "source_repo": "yusufk/salaah-mcp",
+  "source_url": "https://github.com/yusufk/salaah-mcp",
+  "install": "npx -y salaah-mcp"
+}

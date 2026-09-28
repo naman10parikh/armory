@@ -1,0 +1,7 @@
+{
+  "name": "nexusforest-mcp",
+  "description": "Bridges AI models with 24 years of Global Forest Watch data across 165+ countries, enabling natural language queries for deforestation and carbon emission insights.",
+  "source_repo": "danielberhane/nexusforest-mcp",
+  "source_url": "https://github.com/danielberhane/nexusforest-mcp",
+  "install": "npx -y nexusforest-mcp"
+}

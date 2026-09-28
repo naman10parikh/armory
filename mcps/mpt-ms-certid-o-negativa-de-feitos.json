@@ -1,0 +1,7 @@
+{
+  "name": "mpt-ms-certid-o-negativa-de-feitos",
+  "description": "Read-only MCP server that consults official Certidão Negativa de Feitos (negative certificate of legal proceedings) from the MPT MS, a Brazilian labor prosecutor, via a hosted API.",
+  "source_repo": "mcp-dir/mpt_ms_cnf-mcp",
+  "source_url": "https://github.com/mcp-dir/mpt_ms_cnf-mcp",
+  "install": "npx -y mpt_ms_cnf-mcp"
+}

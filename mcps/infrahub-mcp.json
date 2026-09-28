@@ -1,0 +1,7 @@
+{
+  "name": "infrahub-mcp",
+  "description": "Enables AI assistants to query, create, update, and propose changes to Infrahub infrastructure data through the Model Context Protocol, with branch isolation and human approval for changes.",
+  "source_repo": "opsmill/infrahub-mcp",
+  "source_url": "https://github.com/opsmill/infrahub-mcp",
+  "install": "npx -y infrahub-mcp"
+}

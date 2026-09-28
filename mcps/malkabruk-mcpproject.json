@@ -1,0 +1,7 @@
+{
+  "name": "malkabruk-mcpproject",
+  "description": "An MCP server that provides weather forecasts and alerts for the USA and Israel, using the National Weather Service API and Playwright-based browser automation.",
+  "source_repo": "osnat-2/MalkaBruk-MCPProject",
+  "source_url": "https://github.com/osnat-2/MalkaBruk-MCPProject",
+  "install": "# git clone --depth 1 https://github.com/osnat-2/MalkaBruk-MCPProject\n# See source for mcpServers config block"
+}

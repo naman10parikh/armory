@@ -1,0 +1,7 @@
+{
+  "name": "nano-banana-mcp-2",
+  "description": "MCP server for AI image generation and editing using Google Gemini image models.",
+  "source_repo": "DevShiftTeam/nano-banana-mcp",
+  "source_url": "https://github.com/DevShiftTeam/nano-banana-mcp",
+  "install": "npx -y nano-banana-mcp"
+}

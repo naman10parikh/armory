@@ -1,0 +1,7 @@
+{
+  "name": "kaitoi-studio-mcp-server",
+  "description": "Enables AI agents to interact with Kaitoi Studio's workflow engine for creative production, allowing them to build, run, and manage media pipelines using a graph of nodes from multiple AI providers.",
+  "source_repo": "kaitoi-labs/kaitoi-mcp",
+  "source_url": "https://github.com/kaitoi-labs/kaitoi-mcp",
+  "install": "npx -y kaitoi-mcp"
+}

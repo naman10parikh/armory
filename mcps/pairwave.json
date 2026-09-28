@@ -1,0 +1,7 @@
+{
+  "name": "pairwave",
+  "description": "Enables two Claude Code sessions to connect over an end-to-end encrypted channel for collaborative AI-assisted development, with MCP tools for messaging, code sharing, and turn-taking.",
+  "source_repo": "goofypluto999/pairwave",
+  "source_url": "https://github.com/goofypluto999/pairwave",
+  "install": "# git clone --depth 1 https://github.com/goofypluto999/pairwave\n# See source for mcpServers config block"
+}

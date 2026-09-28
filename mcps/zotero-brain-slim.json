@@ -1,0 +1,7 @@
+{
+  "name": "zotero-brain-slim",
+  "description": "Minimal Zotero MCP server that enables searching your Zotero library, discovering papers across eight sources, downloading PDFs via a multi-level cascade, and importing them into Zotero.",
+  "source_repo": "Feplus2/zotero-brain-slim",
+  "source_url": "https://github.com/Feplus2/zotero-brain-slim",
+  "install": "# git clone --depth 1 https://github.com/Feplus2/zotero-brain-slim\n# See source for mcpServers config block"
+}

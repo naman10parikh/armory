@@ -1,0 +1,7 @@
+{
+  "name": "patent-precheck",
+  "description": "Patentability pre-check for code — USPTO pillar scores, filing-readiness, and prior-art signals.",
+  "source_repo": "Patent-PreCheck/patent-precheck-mcp",
+  "source_url": "https://github.com/Patent-PreCheck/patent-precheck-mcp",
+  "install": "npx -y patent-precheck-mcp"
+}

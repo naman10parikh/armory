@@ -1,0 +1,7 @@
+{
+  "name": "adzuna-jobs-mcp-server",
+  "description": "Enables AI assistants to search jobs, analyze salary data, and research employers across 12 countries via the Adzuna API.",
+  "source_repo": "Jayesh-Kr/adzuna-mcp",
+  "source_url": "https://github.com/Jayesh-Kr/adzuna-mcp",
+  "install": "npx -y adzuna-mcp"
+}

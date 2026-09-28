@@ -1,0 +1,7 @@
+{
+  "name": "dynamic-jira-software-cloud-mcp-server",
+  "description": "Dynamically exposes over 100 Jira Software Cloud REST API operations as fully typed tools for LLMs to interact with, supporting SSE and Stdio transports.",
+  "source_repo": "ndigrazia/jira_mcp",
+  "source_url": "https://github.com/ndigrazia/jira_mcp",
+  "install": "npx -y jira_mcp"
+}

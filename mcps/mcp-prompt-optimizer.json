@@ -1,0 +1,7 @@
+{
+  "name": "mcp-prompt-optimizer",
+  "description": "MCP server for professional prompt engineering and agentic scaffolding, with cloud and local optimization.",
+  "source_repo": "nivlewd1/prompt-optimizer",
+  "source_url": "https://github.com/nivlewd1/prompt-optimizer",
+  "install": "# git clone --depth 1 https://github.com/nivlewd1/prompt-optimizer\n# See source for mcpServers config block"
+}

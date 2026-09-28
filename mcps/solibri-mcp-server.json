@@ -1,0 +1,7 @@
+{
+  "name": "solibri-mcp-server",
+  "description": "Enables remote automation of Solibri Office tasks including model checking, quantity takeoff, and model management through an MCP SSE interface.",
+  "source_repo": "EdvardGK/solibri-mcp-server",
+  "source_url": "https://github.com/EdvardGK/solibri-mcp-server",
+  "install": "npx -y solibri-mcp-server"
+}

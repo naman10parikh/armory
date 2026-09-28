@@ -1,0 +1,7 @@
+{
+  "name": "secondbrain-mcp",
+  "description": "Provides a read-only semantic layer over an Obsidian vault, enabling queries about projects, decisions, tasks, and related notes.",
+  "source_repo": "vladilenm/second-brain-mcp",
+  "source_url": "https://github.com/vladilenm/second-brain-mcp",
+  "install": "npx -y second-brain-mcp"
+}

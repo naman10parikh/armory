@@ -1,0 +1,7 @@
+{
+  "name": "little-green-light-mcp",
+  "description": "A read-only MCP server for the Little Green Light donor CRM. It lets Claude answer questions about donor data, gifts, and fundraising metrics by querying LGL directly.",
+  "source_repo": "piersonr/little-green-light-mcp",
+  "source_url": "https://github.com/piersonr/little-green-light-mcp",
+  "install": "npx -y little-green-light-mcp"
+}

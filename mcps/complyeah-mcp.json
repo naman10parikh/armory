@@ -1,0 +1,7 @@
+{
+  "name": "complyeah-mcp",
+  "description": "MCP server for complyeah that enables AI assistants to list domains and scans, read findings, and start external penetration tests through the complyeah API.",
+  "source_repo": "complyeah/complyeah-mcp",
+  "source_url": "https://github.com/complyeah/complyeah-mcp",
+  "install": "npx -y complyeah-mcp"
+}

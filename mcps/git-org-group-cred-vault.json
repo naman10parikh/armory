@@ -1,0 +1,7 @@
+{
+  "name": "git-org-group-cred-vault",
+  "description": "MCP server for securely managing GitHub & GitLab credentials in an encrypted vault, allowing AI agents to retrieve tokens by org or group name automatically.",
+  "source_repo": "wildfirebill-ai/git-org-group-cred-vault",
+  "source_url": "https://github.com/wildfirebill-ai/git-org-group-cred-vault",
+  "install": "# git clone --depth 1 https://github.com/wildfirebill-ai/git-org-group-cred-vault\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mylinedchart-chart-context-mcp-server",
+  "description": "Provides AI agents with read-only access to live chart context, candles, drawings, indicators, and provider status from the MyLinedChart desktop app, all running locally.",
+  "source_repo": "none298-dotcom/mylinedchart-mcp-chart-context",
+  "source_url": "https://github.com/none298-dotcom/mylinedchart-mcp-chart-context",
+  "install": "# git clone --depth 1 https://github.com/none298-dotcom/mylinedchart-mcp-chart-context\n# See source for mcpServers config block"
+}

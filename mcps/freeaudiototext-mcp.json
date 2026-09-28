@@ -1,0 +1,7 @@
+{
+  "name": "freeaudiototext-mcp",
+  "description": "100% Free AI audio and video transcription with speaker diarization and YouTube support.",
+  "source_repo": "double2dev/freeaudiototext-mcp",
+  "source_url": "https://github.com/double2dev/freeaudiototext-mcp",
+  "install": "npx -y freeaudiototext-mcp"
+}

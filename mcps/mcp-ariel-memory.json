@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ariel-memory",
+  "description": "Enables AI agents to maintain persistent, searchable two-layer memory with 37 tools, hybrid search, knowledge graphs, and enterprise features like authentication and backups.",
+  "source_repo": "Cipher208/mcp-ariel-memory",
+  "source_url": "https://github.com/Cipher208/mcp-ariel-memory",
+  "install": "# git clone --depth 1 https://github.com/Cipher208/mcp-ariel-memory\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mobile-security-mcp",
+  "description": "An MCP server that enables AI assistants to analyze Android APK and iOS IPA files for security issues through natural language conversation, including permission auditing, secret detection, and SDK enumeration.",
+  "source_repo": "Serhatcck/mobile-security-mcp",
+  "source_url": "https://github.com/Serhatcck/mobile-security-mcp",
+  "install": "npx -y mobile-security-mcp"
+}

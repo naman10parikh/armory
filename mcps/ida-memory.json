@@ -1,0 +1,7 @@
+{
+  "name": "ida-memory",
+  "description": "A shared knowledge graph memory MCP server that multiple AI clients can connect to simultaneously via Streamable HTTP, supporting entity-relation storage and retrieval.",
+  "source_repo": "L8teNever/Ida-Memory",
+  "source_url": "https://github.com/L8teNever/Ida-Memory",
+  "install": "# git clone --depth 1 https://github.com/L8teNever/Ida-Memory\n# See source for mcpServers config block"
+}

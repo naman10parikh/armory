@@ -1,0 +1,7 @@
+{
+  "name": "forgekit-radix-mcp",
+  "description": "Exposes Radix Primitives' parts, props, and accessibility contracts to AI coding agents, ensuring correct and accessible component usage.",
+  "source_repo": "effinrich/forgekit-radix-mcp",
+  "source_url": "https://github.com/effinrich/forgekit-radix-mcp",
+  "install": "npx -y forgekit-radix-mcp"
+}

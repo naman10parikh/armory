@@ -1,0 +1,7 @@
+{
+  "name": "unitree-go2-mcp-server",
+  "description": "Enables LLM agents to control and monitor a Unitree Go2 robot through MCP tools, including live telemetry, navigation, camera feeds, and waypoint missions.",
+  "source_repo": "sallu-786/Unitree_Go2_Web_Portal",
+  "source_url": "https://github.com/sallu-786/Unitree_Go2_Web_Portal",
+  "install": "# git clone --depth 1 https://github.com/sallu-786/Unitree_Go2_Web_Portal\n# See source for mcpServers config block"
+}

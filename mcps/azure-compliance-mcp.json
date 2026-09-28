@@ -1,0 +1,7 @@
+{
+  "name": "azure-compliance-mcp",
+  "description": "Enables natural-language queries about Azure resource compliance, including VM compliance, patch status, orphaned RBAC, and infrastructure health, through read-only MCP tools.",
+  "source_repo": "vivekanjana76/azure-compliance-mcp",
+  "source_url": "https://github.com/vivekanjana76/azure-compliance-mcp",
+  "install": "npx -y azure-compliance-mcp"
+}

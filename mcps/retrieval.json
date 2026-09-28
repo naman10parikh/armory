@@ -1,0 +1,7 @@
+{
+  "name": "retrieval",
+  "description": "Scores AI outputs for faithfulness, relevancy, and hallucination inside any MCP client, with custom metrics, golden sets, and run history with dashboards.",
+  "source_repo": "hcarrillo001/retrieval-mcp",
+  "source_url": "https://github.com/hcarrillo001/retrieval-mcp",
+  "install": "npx -y retrieval-mcp"
+}

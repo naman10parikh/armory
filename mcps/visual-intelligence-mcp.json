@@ -1,0 +1,7 @@
+{
+  "name": "visual-intelligence-mcp",
+  "description": "Provides image recognition capabilities to Codex/Claude Code by routing 'look at screen/screenshot' requests to a multimodal model via an API relay. Enables UI automation agents to analyze local screenshots and return descriptions or structured JSON coordinates.",
+  "source_repo": "KOG123/visual-intelligence-mcp",
+  "source_url": "https://github.com/KOG123/visual-intelligence-mcp",
+  "install": "npx -y visual-intelligence-mcp"
+}

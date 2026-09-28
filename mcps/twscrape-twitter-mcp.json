@@ -1,0 +1,7 @@
+{
+  "name": "twscrape-twitter-mcp",
+  "description": "MCP server to read X (Twitter) posts, threads, replies, quotes, and search using your own logged-in session, no API key required.",
+  "source_repo": "jsilets/twscrape-twitter-mcp",
+  "source_url": "https://github.com/jsilets/twscrape-twitter-mcp",
+  "install": "npx -y twscrape-twitter-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rbw-mcp",
+  "description": "MCP server that enables AI models to securely interact with a Bitwarden password manager vault via the rbw CLI.",
+  "source_repo": "dceluis/rbw-mcp",
+  "source_url": "https://github.com/dceluis/rbw-mcp",
+  "install": "npx -y rbw-mcp"
+}

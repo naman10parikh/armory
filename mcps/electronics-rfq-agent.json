@@ -1,0 +1,7 @@
+{
+  "name": "electronics-rfq-agent",
+  "description": "AI quoting agent for electronics distributors. RFQ in, quote out via MCP tools.",
+  "source_repo": "RudrenduPaul/electronics-rfq-agent",
+  "source_url": "https://github.com/RudrenduPaul/electronics-rfq-agent",
+  "install": "# git clone --depth 1 https://github.com/RudrenduPaul/electronics-rfq-agent\n# See source for mcpServers config block"
+}

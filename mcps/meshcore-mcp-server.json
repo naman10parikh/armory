@@ -1,0 +1,7 @@
+{
+  "name": "meshcore-mcp-server",
+  "description": "Enables AI assistants to control and communicate with MeshCore mesh network devices via HTTP, providing tools for sending messages, managing contacts, and syncing device clocks.",
+  "source_repo": "ipnet-mesh/meshcore-mcp",
+  "source_url": "https://github.com/ipnet-mesh/meshcore-mcp",
+  "install": "npx -y meshcore-mcp"
+}

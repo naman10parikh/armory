@@ -1,0 +1,7 @@
+{
+  "name": "mcp-flutter-senior",
+  "description": "Provides Flutter best practices, code analysis, and state management recommendations for senior developers.",
+  "source_repo": "lvmp/mcp-flutter-senior",
+  "source_url": "https://github.com/lvmp/mcp-flutter-senior",
+  "install": "# git clone --depth 1 https://github.com/lvmp/mcp-flutter-senior\n# See source for mcpServers config block"
+}

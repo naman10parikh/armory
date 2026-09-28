@@ -1,0 +1,7 @@
+{
+  "name": "byterover-team-memory",
+  "description": "A hosted remote MCP server for OpenAI Codex memory MCP, providing structured JSON tools to store, recall, and manage memory with token-based access and audit receipts.",
+  "source_repo": "clauxel/byterover-team-memory-mcp",
+  "source_url": "https://github.com/clauxel/byterover-team-memory-mcp",
+  "install": "npx -y byterover-team-memory-mcp"
+}

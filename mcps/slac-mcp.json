@@ -1,0 +1,7 @@
+{
+  "name": "slac-mcp",
+  "description": "MCP server exposing SLAC (Simple Logic & Arithmetic Compiler) as tools for LLM agents, enabling evaluation of expressions and retrieval of syntax reference.",
+  "source_repo": "DennisPrediger/SLAC-MCP",
+  "source_url": "https://github.com/DennisPrediger/SLAC-MCP",
+  "install": "npx -y SLAC-MCP"
+}

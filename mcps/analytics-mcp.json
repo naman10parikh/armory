@@ -1,0 +1,7 @@
+{
+  "name": "analytics-mcp",
+  "description": "MCP server for querying Google Analytics accounts, properties, reports, and realtime data using the Data API and Admin API.",
+  "source_repo": "adtechnacity/ga-mcp",
+  "source_url": "https://github.com/adtechnacity/ga-mcp",
+  "install": "npx -y ga-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "design-canvas-mcp",
+  "description": "Enables AI agents to manage routes on the Design Canvas infinite canvas app, including adding, removing, listing routes, and capturing screenshots of the canvas.",
+  "source_repo": "charlieellington/design-canvas-mcp",
+  "source_url": "https://github.com/charlieellington/design-canvas-mcp",
+  "install": "npx -y design-canvas-mcp"
+}

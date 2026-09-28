@@ -1,0 +1,7 @@
+{
+  "name": "cybersecurity-professor-mcp-server",
+  "description": "An MCP server that exposes Prof. Null, an uncensored cybersecurity professor, as a set of specialized tools for learning hacking, CTFs, and security concepts through Q\\&A, roadmaps, cheatsheets, labs, and more.",
+  "source_repo": "yesidleon1393/cybersec-mcp",
+  "source_url": "https://github.com/yesidleon1393/cybersec-mcp",
+  "install": "npx -y cybersec-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kafka-mcp",
+  "description": "Exposes Kafka administration operations as MCP tools, enabling AI agents to inspect Kafka clusters using natural language.",
+  "source_repo": "zakariahere/zaksway-kafka-mcp",
+  "source_url": "https://github.com/zakariahere/zaksway-kafka-mcp",
+  "install": "npx -y zaksway-kafka-mcp"
+}

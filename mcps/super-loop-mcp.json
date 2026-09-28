@@ -1,0 +1,7 @@
+{
+  "name": "super-loop-mcp",
+  "description": "A referee for self-improving AI agent loops that mines past sessions for working workflows, improves them, and never stops until you stop it.",
+  "source_repo": "alexalexalex222/super-loop-mcp",
+  "source_url": "https://github.com/alexalexalex222/super-loop-mcp",
+  "install": "npx -y super-loop-mcp"
+}

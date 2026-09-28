@@ -1,0 +1,7 @@
+{
+  "name": "openai-multi-model-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that enables Claude Code to interact with OpenAI's GPT-5 and GPT-5-mini models.",
+  "source_repo": "vladnicula/vlads-openai-mcp-server",
+  "source_url": "https://github.com/vladnicula/vlads-openai-mcp-server",
+  "install": "npx -y vlads-openai-mcp-server"
+}

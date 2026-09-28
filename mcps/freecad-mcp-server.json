@@ -1,0 +1,7 @@
+{
+  "name": "freecad-mcp-server",
+  "description": "Enables AI assistants to perform 3D modeling and CAD operations in FreeCAD, including geometry creation, boolean operations, and document management.",
+  "source_repo": "lucygoodchild/freecad-mcp-server",
+  "source_url": "https://github.com/lucygoodchild/freecad-mcp-server",
+  "install": "npx -y freecad-mcp-server"
+}

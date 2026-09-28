@@ -1,0 +1,7 @@
+{
+  "name": "cli-executor-mcp",
+  "description": "Enables LLMs to execute CLI commands and scripts for system deployment and management tasks, with support for directory listing, system info, and deployment templates.",
+  "source_repo": "CaptainJi/cli_executor",
+  "source_url": "https://github.com/CaptainJi/cli_executor",
+  "install": "# git clone --depth 1 https://github.com/CaptainJi/cli_executor\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mobile-claude-connect",
+  "description": "Enables Claude Code sessions on a PC to access iPhone data such as photos, video, location, contacts, calendar, and clipboard over Tailscale, and supports plugin-based browser automations for logged-in services.",
+  "source_repo": "riseblyp/mobile_claude_connect",
+  "source_url": "https://github.com/riseblyp/mobile_claude_connect",
+  "install": "# git clone --depth 1 https://github.com/riseblyp/mobile_claude_connect\n# See source for mcpServers config block"
+}

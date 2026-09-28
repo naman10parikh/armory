@@ -1,0 +1,7 @@
+{
+  "name": "mcp-recruitment-pipeline",
+  "description": "Turns a recruitment database into an AI-queryable pipeline, enabling natural language queries to search contractors, build shortlists, draft outreach, and book engagements.",
+  "source_repo": "hellocrossmanwild/MCP-POC",
+  "source_url": "https://github.com/hellocrossmanwild/MCP-POC",
+  "install": "# git clone --depth 1 https://github.com/hellocrossmanwild/MCP-POC\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "elastic-security-mcp",
+  "description": "A Python MCP server that provides AI agents with a controlled, read-first interface to Elasticsearch, Kibana Security, Fleet, and Elastic Defend.",
+  "source_repo": "AndreuCrespo/elastic-security-mcp",
+  "source_url": "https://github.com/AndreuCrespo/elastic-security-mcp",
+  "install": "npx -y elastic-security-mcp"
+}

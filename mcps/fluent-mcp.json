@@ -1,6 +1,6 @@
 {
   "name": "fluent-mcp",
-  "description": "Fluent_mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "FluentData/fluent_mcp",
   "source_url": "https://mcp.so/server/fluent_mcp/FluentData",
   "install": "npx -y fluent_mcp"

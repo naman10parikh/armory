@@ -1,0 +1,7 @@
+{
+  "name": "gdebenz",
+  "description": "Enables AI assistants to query real-time fuel availability (92/95/98/100/diesel) at Russian petrol stations from two crowd-sourced maps, including queue status, prices, and location-based search.",
+  "source_repo": "ivanegorenkov/gdebenz-mcp",
+  "source_url": "https://github.com/ivanegorenkov/gdebenz-mcp",
+  "install": "npx -y gdebenz-mcp"
+}

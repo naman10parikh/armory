@@ -1,0 +1,7 @@
+{
+  "name": "sap-sandbox-mcp-server",
+  "description": "Connects Claude to SAP's public S/4HANA Cloud sandbox via MCP, enabling natural-language queries against real SAP OData structures like sales and purchase orders.",
+  "source_repo": "custodioanthonya/sap-mcp-server",
+  "source_url": "https://github.com/custodioanthonya/sap-mcp-server",
+  "install": "npx -y sap-mcp-server"
+}

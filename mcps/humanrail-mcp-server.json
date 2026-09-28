@@ -1,0 +1,7 @@
+{
+  "name": "humanrail-mcp-server",
+  "description": "Enables AI agents to route tasks requiring human judgment (e.g., content moderation, refund decisions, data verification) to a vetted worker pool, with verified results returned via Lightning Network payments.",
+  "source_repo": "prime001/humanrail-mcp-server",
+  "source_url": "https://github.com/prime001/humanrail-mcp-server",
+  "install": "npx -y humanrail-mcp-server"
+}

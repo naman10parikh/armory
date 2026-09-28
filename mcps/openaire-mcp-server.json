@@ -1,0 +1,7 @@
+{
+  "name": "openaire-mcp-server",
+  "description": "Enables AI assistants to explore the OpenAIRE Research Graph and ScholExplorer citation index, discovering citation relationships and retrieving metadata for publications, datasets, and software.",
+  "source_repo": "cessda/cessda.ai.mcp.openaire",
+  "source_url": "https://github.com/cessda/cessda.ai.mcp.openaire",
+  "install": "# git clone --depth 1 https://github.com/cessda/cessda.ai.mcp.openaire\n# See source for mcpServers config block"
+}

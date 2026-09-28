@@ -1,0 +1,7 @@
+{
+  "name": "bookclaw-mcp",
+  "description": "Exposes BookClaw's author workflow to MCP clients over Streamable HTTP, providing tools for managing books, projects, pipelines, and more.",
+  "source_repo": "pshort05/bookclaw-mcp",
+  "source_url": "https://github.com/pshort05/bookclaw-mcp",
+  "install": "npx -y bookclaw-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dados-cadastrais-pf-brasil",
+  "description": "MCP server for querying Brazilian individual (CPF) registration data. Provides a single read-only tool to fetch cadastral information by CPF and name.",
+  "source_repo": "mcp-dir/registro_pf_br-mcp",
+  "source_url": "https://github.com/mcp-dir/registro_pf_br-mcp",
+  "install": "npx -y registro_pf_br-mcp"
+}

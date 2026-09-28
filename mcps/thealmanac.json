@@ -1,0 +1,7 @@
+{
+  "name": "thealmanac",
+  "description": "Enables programmers to search, download, and access up-to-date API and software documentation through MCP tools, integrating with LLMs like Claude for Desktop.",
+  "source_repo": "SaharCarmel/TheAlmanac",
+  "source_url": "https://github.com/SaharCarmel/TheAlmanac",
+  "install": "# git clone --depth 1 https://github.com/SaharCarmel/TheAlmanac\n# See source for mcpServers config block"
+}

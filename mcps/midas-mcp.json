@@ -1,0 +1,7 @@
+{
+  "name": "midas-mcp",
+  "description": "Enables AI assistants to read portfolio and place orders on BIST and US markets via Midas brokerage.",
+  "source_repo": "ahmetdenizyilmaz/midas-mcp",
+  "source_url": "https://github.com/ahmetdenizyilmaz/midas-mcp",
+  "install": "npx -y midas-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shopify-admin-mcp",
+  "description": "Production-grade MCP server for the Shopify Admin GraphQL API, exposing typed tools for AI agents to manage products, orders, customers, and more.",
+  "source_repo": "ChaseWNorton/shopify-admin-mcp",
+  "source_url": "https://github.com/ChaseWNorton/shopify-admin-mcp",
+  "install": "npx -y shopify-admin-mcp"
+}

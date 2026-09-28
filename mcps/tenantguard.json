@@ -1,0 +1,7 @@
+{
+  "name": "tenantguard",
+  "description": "Scans self-hosted, multi-tenant AI-agent platforms for tenant-isolation gaps. Native Go MCP server exposing a scan tool that wraps the CLI's audit engine.",
+  "source_repo": "RudrenduPaul/TenantGuard",
+  "source_url": "https://github.com/RudrenduPaul/TenantGuard",
+  "install": "# git clone --depth 1 https://github.com/RudrenduPaul/TenantGuard\n# See source for mcpServers config block"
+}

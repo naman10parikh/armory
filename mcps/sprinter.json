@@ -1,0 +1,7 @@
+{
+  "name": "sprinter",
+  "description": "A self-hosted backlog tracker with priority scoring and an MCP server, enabling AI agents to autonomously pull, work on, and update tasks via JSON-RPC tools.",
+  "source_repo": "danimoya/sprinter",
+  "source_url": "https://github.com/danimoya/sprinter",
+  "install": "# git clone --depth 1 https://github.com/danimoya/sprinter\n# See source for mcpServers config block"
+}

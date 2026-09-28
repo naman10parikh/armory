@@ -1,0 +1,7 @@
+{
+  "name": "kos-telnet-mcp",
+  "description": "This MCP server enables AI agents to control kOS computers in Kerbal Space Program, providing tools for scripting, telemetry, and simulation management via telnet and file system integration.",
+  "source_repo": "lietblue/mcp",
+  "source_url": "https://github.com/lietblue/mcp",
+  "install": "# git clone --depth 1 https://github.com/lietblue/mcp\n# See source for mcpServers config block"
+}

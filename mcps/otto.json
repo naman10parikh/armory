@@ -1,0 +1,7 @@
+{
+  "name": "otto",
+  "description": "Enables AI agents to operate a local financial terminal, including market data, backtesting, paper portfolio management, and news digest, through safe, gated tools over MCP.",
+  "source_repo": "0Smallcat0/otto",
+  "source_url": "https://github.com/0Smallcat0/otto",
+  "install": "# git clone --depth 1 https://github.com/0Smallcat0/otto\n# See source for mcpServers config block"
+}

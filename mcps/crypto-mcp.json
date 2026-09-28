@@ -1,0 +1,7 @@
+{
+  "name": "crypto-mcp",
+  "description": "Provides cryptocurrency market data (prices, symbols) and a gated demo trading flow via MCP tools, with safety defaults like dry-run and confirmation gates.",
+  "source_repo": "DressPD/crypto_mcp",
+  "source_url": "https://github.com/DressPD/crypto_mcp",
+  "install": "npx -y crypto_mcp"
+}

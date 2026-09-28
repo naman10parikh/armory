@@ -1,0 +1,7 @@
+{
+  "name": "xpenser",
+  "description": "xpenser.cleverbrush.com is a ln open-source, self-hostable personal expense and income tracking app supporting different currencies, categories, vendors, automated invoice parsing, AI geberated reports and more.",
+  "source_repo": "cleverbrush/xpenser",
+  "source_url": "https://github.com/cleverbrush/xpenser",
+  "install": "# git clone --depth 1 https://github.com/cleverbrush/xpenser\n# See source for mcpServers config block"
+}

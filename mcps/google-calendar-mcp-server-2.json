@@ -1,0 +1,7 @@
+{
+  "name": "google-calendar-mcp-server-2",
+  "description": "Enables AI assistants to manage Google Calendar events, check availability, and handle scheduling tasks through natural language.",
+  "source_repo": "guinacio/mcp-google-calendar",
+  "source_url": "https://github.com/guinacio/mcp-google-calendar",
+  "install": "# git clone --depth 1 https://github.com/guinacio/mcp-google-calendar\n# See source for mcpServers config block"
+}

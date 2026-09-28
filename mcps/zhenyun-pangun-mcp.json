@@ -1,0 +1,7 @@
+{
+  "name": "zhenyun-pangun-mcp",
+  "description": "Enables querying logs across Loki/SLS, querying databases via Archery, accessing Choerodon project collaboration tools, and searching local code repositories through a unified MCP interface with self-contained configuration.",
+  "source_repo": "nichuan/zhenyun-pangu-mcp",
+  "source_url": "https://github.com/nichuan/zhenyun-pangu-mcp",
+  "install": "npx -y zhenyun-pangu-mcp"
+}

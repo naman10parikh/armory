@@ -1,0 +1,7 @@
+{
+  "name": "zyta-sign-mcp",
+  "description": "Enables AI agents to manage Zyta Sign documents, signatures, and studies with secure authentication and permission-respecting operations.",
+  "source_repo": "blanck1945/zyta-sign-mcp",
+  "source_url": "https://github.com/blanck1945/zyta-sign-mcp",
+  "install": "npx -y zyta-sign-mcp"
+}

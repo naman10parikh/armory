@@ -1,0 +1,7 @@
+{
+  "name": "quaestio-mcp-server",
+  "description": "MCP server for analyzing, solving, and verifying exam questions, with tools for consensus, verification, and structured auditable results.",
+  "source_repo": "DevLucasLourenco/quaestio-MCP",
+  "source_url": "https://github.com/DevLucasLourenco/quaestio-MCP",
+  "install": "npx -y quaestio-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "overdare-studio-mcp",
+  "description": "Enables Claude to create, modify, and delete parts and scripts in OVERDARE Studio worlds via natural language, with automatic backup and rollback for safe operations.",
+  "source_repo": "AS1HK/overdare-studio-mcp",
+  "source_url": "https://github.com/AS1HK/overdare-studio-mcp",
+  "install": "npx -y overdare-studio-mcp"
+}

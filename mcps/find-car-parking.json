@@ -1,0 +1,7 @@
+{
+  "name": "find-car-parking",
+  "description": "Enables natural-language discovery of available car parking, including searching by area, location, price, and viewing parking details and reviews.",
+  "source_repo": "simplyguest/find-car-parking-mcp",
+  "source_url": "https://github.com/simplyguest/find-car-parking-mcp",
+  "install": "npx -y find-car-parking-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aethertech-mcp-server",
+  "description": "A production-ready MCP server offering text analysis tools, an in-memory key-value store, and system info resources with support for both stdio and HTTP transports.",
+  "source_repo": "nebula-technological-innovation/mcp-server",
+  "source_url": "https://github.com/nebula-technological-innovation/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/nebula-technological-innovation/mcp-server\n# See source for mcpServers config block"
+}

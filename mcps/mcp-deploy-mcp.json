@@ -1,0 +1,7 @@
+{
+  "name": "mcp-deploy-mcp",
+  "description": "An MCP server that helps Claude design, scaffold, and validate MCP servers compatible with the mcp-deploy platform, enabling seamless creation and deployment of new MCP workers.",
+  "source_repo": "upascal/mcp-deploy-mcp",
+  "source_url": "https://github.com/upascal/mcp-deploy-mcp",
+  "install": "npx -y mcp-deploy-mcp"
+}

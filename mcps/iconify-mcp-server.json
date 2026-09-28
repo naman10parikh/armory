@@ -1,0 +1,7 @@
+{
+  "name": "iconify-mcp-server",
+  "description": "Provides access to Iconify's 200,000+ open source vector icons from 200+ icon sets, enabling search, browsing, and retrieval of icon data with framework usage examples.",
+  "source_repo": "Osmansiddiquer/iconify-mcp",
+  "source_url": "https://github.com/Osmansiddiquer/iconify-mcp",
+  "install": "npx -y iconify-mcp"
+}

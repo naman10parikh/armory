@@ -1,0 +1,7 @@
+{
+  "name": "webdev-mcp",
+  "description": "Provides web development tools including taking screenshots and listing screens via MCP.",
+  "source_repo": "anh7/webdev-mcp",
+  "source_url": "https://github.com/anh7/webdev-mcp",
+  "install": "npx -y webdev-mcp"
+}

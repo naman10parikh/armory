@@ -1,0 +1,7 @@
+{
+  "name": "groupdocs-markdown-mcp",
+  "description": "Converts documents (PDF, DOCX, XLSX, EPUB, etc.) to clean, structured Markdown, and retrieves document info, for use with AI agents.",
+  "source_repo": "groupdocs-markdown/GroupDocs.Markdown.Mcp",
+  "source_url": "https://github.com/groupdocs-markdown/GroupDocs.Markdown.Mcp",
+  "install": "# git clone --depth 1 https://github.com/groupdocs-markdown/GroupDocs.Markdown.Mcp\n# See source for mcpServers config block"
+}

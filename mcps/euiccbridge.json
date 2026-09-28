@@ -1,0 +1,7 @@
+{
+  "name": "euiccbridge",
+  "description": "Enables management of eSIM profiles, SMS, and cellular modem diagnostics on Linux through a CLI and MCP server with safety defaults.",
+  "source_repo": "Cat0513/euiccbridge",
+  "source_url": "https://github.com/Cat0513/euiccbridge",
+  "install": "# git clone --depth 1 https://github.com/Cat0513/euiccbridge\n# See source for mcpServers config block"
+}

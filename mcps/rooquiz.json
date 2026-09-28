@@ -1,0 +1,7 @@
+{
+  "name": "rooquiz",
+  "description": "Create and manage quizzes, question banks, and translations; capture and manage leads, respondents, and bookings; and pull stats and funnel analytics on RooQuiz — a lightweight assessment platform for lead capture and viral sharing.",
+  "source_repo": "rooquiz/rooquiz-mcp",
+  "source_url": "https://github.com/rooquiz/rooquiz-mcp",
+  "install": "npx -y rooquiz-mcp"
+}

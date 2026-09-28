@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ds-toolkit-server",
+  "description": "A standalone MCP server that brings complete data science capabilities to AI assistants, enabling them to load data, train models, and track experiments through natural language.",
+  "source_repo": "Yasserelhaddar/MCP-DS-Toolkit-Server",
+  "source_url": "https://github.com/Yasserelhaddar/MCP-DS-Toolkit-Server",
+  "install": "# git clone --depth 1 https://github.com/Yasserelhaddar/MCP-DS-Toolkit-Server\n# See source for mcpServers config block"
+}

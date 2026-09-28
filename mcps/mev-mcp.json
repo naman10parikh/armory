@@ -1,0 +1,7 @@
+{
+  "name": "mev-mcp",
+  "description": "An MCP server for inspecting MEV-relevant activity on Polygon, providing tools to check pending swaps, confirmed swap history, and gas price percentiles, while honestly reporting coverage limitations.",
+  "source_repo": "matiosera3-ops/mev-mcp",
+  "source_url": "https://github.com/matiosera3-ops/mev-mcp",
+  "install": "npx -y mev-mcp"
+}

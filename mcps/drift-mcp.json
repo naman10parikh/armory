@@ -1,0 +1,7 @@
+{
+  "name": "drift-mcp",
+  "description": "Next.js-based MCP server using mcp-handler for Vercel deployment, supporting SSE transport and Redis integration.",
+  "source_repo": "neekmode/DRIFT-MCP",
+  "source_url": "https://github.com/neekmode/DRIFT-MCP",
+  "install": "npx -y DRIFT-MCP"
+}

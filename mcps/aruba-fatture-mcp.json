@@ -1,0 +1,7 @@
+{
+  "name": "aruba-fatture-mcp",
+  "description": "MCP server for interacting with Aruba Fatturazione Elettronica API, enabling users to manage electronic invoices with Claude, including sending invoices to SDI, searching, downloading, and retrieving invoice details and notifications.",
+  "source_repo": "MarckDev/aruba-fatture-mcp",
+  "source_url": "https://github.com/MarckDev/aruba-fatture-mcp",
+  "install": "npx -y aruba-fatture-mcp"
+}

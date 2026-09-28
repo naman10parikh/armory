@@ -1,0 +1,7 @@
+{
+  "name": "jlceda-mcp-server",
+  "description": "Enables AI coding assistants to control JLCPCB EDA for PCB automation, exposing 39 tools for component manipulation, routing, copper pour, DRC, and more. Includes a built-in PCB agent for orchestrating multi-step tasks.",
+  "source_repo": "hyl64/jlcmcp",
+  "source_url": "https://github.com/hyl64/jlcmcp",
+  "install": "# git clone --depth 1 https://github.com/hyl64/jlcmcp\n# See source for mcpServers config block"
+}

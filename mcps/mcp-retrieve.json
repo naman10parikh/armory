@@ -1,0 +1,7 @@
+{
+  "name": "mcp-retrieve",
+  "description": "An MCP server for indexing and searching local text files using late-interaction retrieval (ColBERT-style MaxSim), enabling token-level relevance matching.",
+  "source_repo": "maxbaluev/mcp-retrieve",
+  "source_url": "https://github.com/maxbaluev/mcp-retrieve",
+  "install": "# git clone --depth 1 https://github.com/maxbaluev/mcp-retrieve\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fsext-mcp-server-java",
+  "description": "A full-featured secure MCP server for local file system operations, with built-in image processing, OCR and media tools.",
+  "source_repo": "kurtzhi/fsext-mcp-server-java",
+  "source_url": "https://github.com/kurtzhi/fsext-mcp-server-java",
+  "install": "# git clone --depth 1 https://github.com/kurtzhi/fsext-mcp-server-java\n# See source for mcpServers config block"
+}

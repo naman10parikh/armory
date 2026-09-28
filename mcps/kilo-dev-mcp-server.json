@@ -1,0 +1,7 @@
+{
+  "name": "kilo-dev-mcp-server",
+  "description": "An MCP server for internationalization (i18n) tasks, providing tools to translate, move, list, and remove translation keys in JSON files for the Kilo Code extension.",
+  "source_repo": "Kilo-Org/kilo-dev-mcp-server",
+  "source_url": "https://github.com/Kilo-Org/kilo-dev-mcp-server",
+  "install": "npx -y kilo-dev-mcp-server"
+}

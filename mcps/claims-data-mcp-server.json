@@ -1,0 +1,7 @@
+{
+  "name": "claims-data-mcp-server",
+  "description": "Enables natural language querying of healthcare claims data by exposing a SQLite database with read-only SQL tools, allowing users to ask questions in plain English and get answers backed by real database queries.",
+  "source_repo": "Rutvikmerai/claims-ai-analyst",
+  "source_url": "https://github.com/Rutvikmerai/claims-ai-analyst",
+  "install": "# git clone --depth 1 https://github.com/Rutvikmerai/claims-ai-analyst\n# See source for mcpServers config block"
+}

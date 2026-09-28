@@ -1,0 +1,7 @@
+{
+  "name": "sharepoint-cleyrop-mcp",
+  "description": "Enables users to access SharePoint files via Microsoft Graph and transfer them to Cleyrop project work data, supporting multi-tenant authentication.",
+  "source_repo": "MartinCley/Sharepoint-MCP",
+  "source_url": "https://github.com/MartinCley/Sharepoint-MCP",
+  "install": "npx -y Sharepoint-MCP"
+}

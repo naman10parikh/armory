@@ -1,0 +1,7 @@
+{
+  "name": "mcp-supermercados-cl",
+  "description": "Enables searching products, comparing prices, and building optimal shopping lists across major Chilean supermarkets, using your local machine to access real-time prices and loyalty deals.",
+  "source_repo": "NLACE-COM/mcp-supermercados-cl",
+  "source_url": "https://github.com/NLACE-COM/mcp-supermercados-cl",
+  "install": "# git clone --depth 1 https://github.com/NLACE-COM/mcp-supermercados-cl\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "letters-mcp",
+  "description": "MCP server for interacting with Letters to the Future on Base mainnet, enabling posting time-locked messages, listing them, minting on-chain SVG NFTs, and checking wallet info via natural language.",
+  "source_repo": "yappermoar-boop/letters-mcp",
+  "source_url": "https://github.com/yappermoar-boop/letters-mcp",
+  "install": "npx -y letters-mcp"
+}

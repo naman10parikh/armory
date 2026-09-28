@@ -1,0 +1,7 @@
+{
+  "name": "kompas-3d-ai-bridge",
+  "description": "MCP server that connects AI agents to KOMPAS-3D CAD, enabling automated 3D document operations through deterministic COM/API7 calls.",
+  "source_repo": "quja/kompas-3d-ai-bridge",
+  "source_url": "https://github.com/quja/kompas-3d-ai-bridge",
+  "install": "# git clone --depth 1 https://github.com/quja/kompas-3d-ai-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-ssh-mcp",
+  "description": "MCP server for persistent SSH sessions with tmux integration, port forwarding, and SFTP file writes, built for AI agent workflows.",
+  "source_repo": "xcdd/Agent-SSH-MCP",
+  "source_url": "https://github.com/xcdd/Agent-SSH-MCP",
+  "install": "npx -y Agent-SSH-MCP"
+}

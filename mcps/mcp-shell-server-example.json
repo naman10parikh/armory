@@ -1,0 +1,7 @@
+{
+  "name": "mcp-shell-server-example",
+  "description": "An educational MCP server exposing shell command execution (PowerShell and sh) and a benign tool for learning about MCP tools, resources, and security risks like tool poisoning.",
+  "source_repo": "mohamedelamraoui1/mcp-shell-server-example",
+  "source_url": "https://github.com/mohamedelamraoui1/mcp-shell-server-example",
+  "install": "# git clone --depth 1 https://github.com/mohamedelamraoui1/mcp-shell-server-example\n# See source for mcpServers config block"
+}

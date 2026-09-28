@@ -1,0 +1,7 @@
+{
+  "name": "mantle-yield-mcp",
+  "description": "Universal MCP server for Mantle yield data, enabling users to fetch health status, dashboard summaries, and detailed opportunity information through natural language.",
+  "source_repo": "Urazanev/mantle-yield-mcp",
+  "source_url": "https://github.com/Urazanev/mantle-yield-mcp",
+  "install": "npx -y mantle-yield-mcp"
+}

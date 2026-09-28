@@ -1,0 +1,7 @@
+{
+  "name": "aisistent",
+  "description": "MCP server for non-intrusive RDP automation with OCR, YOLO button detection, and click injection. Automates remote desktop interactions without installing anything on the remote machine.",
+  "source_repo": "LaAlquimia/AIsistent",
+  "source_url": "https://github.com/LaAlquimia/AIsistent",
+  "install": "# git clone --depth 1 https://github.com/LaAlquimia/AIsistent\n# See source for mcpServers config block"
+}

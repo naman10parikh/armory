@@ -1,0 +1,7 @@
+{
+  "name": "nextbillion-ai-mcp-server",
+  "description": "Provides geolocation, routing, and navigation tools including geocoding, place search, distance matrix, and turn-by-turn directions via NextBillion.ai APIs.",
+  "source_repo": "nextbillion-ai/nbai-mcp",
+  "source_url": "https://github.com/nextbillion-ai/nbai-mcp",
+  "install": "npx -y nbai-mcp"
+}

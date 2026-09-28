@@ -1,0 +1,7 @@
+{
+  "name": "finnish-company-mcp-server",
+  "description": "MCP server for the Finnish Business Register (PRH/YTJ). Look up any Finnish company by Business ID (Y-tunnus) or name.",
+  "source_repo": "NectiaAutomation/finnish-company-mcp-server",
+  "source_url": "https://github.com/NectiaAutomation/finnish-company-mcp-server",
+  "install": "npx -y finnish-company-mcp-server"
+}

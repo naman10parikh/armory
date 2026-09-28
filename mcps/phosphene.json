@@ -1,0 +1,7 @@
+{
+  "name": "phosphene",
+  "description": "An MCP server for intimate human-AI relationships that enables AI to create and manage daily tasks, challenges, and surprise tasks, with user completion tracking, points, and rewards.",
+  "source_repo": "3lmglow/Phosphene",
+  "source_url": "https://github.com/3lmglow/Phosphene",
+  "install": "# git clone --depth 1 https://github.com/3lmglow/Phosphene\n# See source for mcpServers config block"
+}

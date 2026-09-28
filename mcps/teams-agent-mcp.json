@@ -1,0 +1,7 @@
+{
+  "name": "teams-agent-mcp",
+  "description": "MCP server that enables agents to interact with Microsoft Teams by listing channels and members, and asking humans questions, with replies routed back to the agent session.",
+  "source_repo": "techtdev-labs/teams-agent-mcp",
+  "source_url": "https://github.com/techtdev-labs/teams-agent-mcp",
+  "install": "npx -y teams-agent-mcp"
+}

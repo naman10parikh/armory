@@ -1,0 +1,7 @@
+{
+  "name": "pixelletter-mcp",
+  "description": "MCP server to send physical letters and faxes via PixelLetter, including registered mail, order cancellation, and account balance checks.",
+  "source_repo": "bitterdev/pixelletter-mcp",
+  "source_url": "https://github.com/bitterdev/pixelletter-mcp",
+  "install": "npx -y pixelletter-mcp"
+}

@@ -1,6 +1,6 @@
 {
   "name": "serpapi-mcp-server",
-  "description": "Serpapi Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "URDJMK/serpapi-mcp-server",
   "source_url": "https://mcp.so/server/serpapi-mcp-server/URDJMK",
   "install": "npx -y serpapi-mcp-server"

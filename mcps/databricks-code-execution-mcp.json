@@ -1,0 +1,7 @@
+{
+  "name": "databricks-code-execution-mcp",
+  "description": "Enables AI-assisted development by running and testing code directly on Databricks clusters via natural language, then deploying Databricks Asset Bundles.",
+  "source_repo": "databricks-solutions/databricks-exec-code-mcp",
+  "source_url": "https://github.com/databricks-solutions/databricks-exec-code-mcp",
+  "install": "npx -y databricks-exec-code-mcp"
+}

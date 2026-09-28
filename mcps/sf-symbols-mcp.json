@@ -1,0 +1,7 @@
+{
+  "name": "sf-symbols-mcp",
+  "description": "An MCP server that helps AI agents pick the right SF Symbol for a UI function without hallucinating symbol names, using layered retrieval and verified catalog entries.",
+  "source_repo": "bonkey/sf-symbols-mcp",
+  "source_url": "https://github.com/bonkey/sf-symbols-mcp",
+  "install": "npx -y sf-symbols-mcp"
+}

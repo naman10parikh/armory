@@ -1,0 +1,7 @@
+{
+  "name": "re-butler-mcp-server",
+  "description": "Exposes RE-Butler knowledge and validation tools for hybrid semantic search, requirement templates, user story validation, and Azure DevOps work item creation with approval gates.",
+  "source_repo": "AndritHashani/llm-wiki-mcp-server",
+  "source_url": "https://github.com/AndritHashani/llm-wiki-mcp-server",
+  "install": "npx -y llm-wiki-mcp-server"
+}

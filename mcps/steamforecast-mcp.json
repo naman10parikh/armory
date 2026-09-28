@@ -1,0 +1,7 @@
+{
+  "name": "steamforecast-mcp",
+  "description": "Model Context Protocol server for Steam Launch Forecaster, exposing calibrated revenue cones (P10–P90) and other tools to AI agents for Steam game revenue forecasting and analysis.",
+  "source_repo": "GC108/steamforecast-mcp",
+  "source_url": "https://github.com/GC108/steamforecast-mcp",
+  "install": "npx -y steamforecast-mcp"
+}

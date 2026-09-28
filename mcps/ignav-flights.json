@@ -1,0 +1,7 @@
+{
+  "name": "ignav-flights",
+  "description": "Hosted MCP server providing live flight prices, booking links, and airport lookup for AI agents and travel apps.",
+  "source_repo": "",
+  "source_url": "https://ignav.com/docs/mcp",
+  "install": "# git clone --depth 1 https://ignav.com/docs/mcp\n# See source for mcpServers config block"
+}

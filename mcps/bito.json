@@ -1,0 +1,7 @@
+{
+  "name": "bito",
+  "description": "Verifies death records for Brazilian CPF numbers against official databases via MCP, with prepaid credits and no credentials required.",
+  "source_repo": "mcp-dir/obito-mcp",
+  "source_url": "https://github.com/mcp-dir/obito-mcp",
+  "install": "npx -y obito-mcp"
+}

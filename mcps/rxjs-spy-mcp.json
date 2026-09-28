@@ -1,0 +1,7 @@
+{
+  "name": "rxjs-spy-mcp",
+  "description": "Enables AI agents to debug RxJS 7 streams in the browser through Chrome DevTools MCP by tagging observables and querying subscription graphs, live values, and buffered logs as structured JSON.",
+  "source_repo": "hansschenker/rxjs-spy-mcp-old",
+  "source_url": "https://github.com/hansschenker/rxjs-spy-mcp-old",
+  "install": "# git clone --depth 1 https://github.com/hansschenker/rxjs-spy-mcp-old\n# See source for mcpServers config block"
+}

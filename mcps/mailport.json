@@ -1,0 +1,7 @@
+{
+  "name": "mailport",
+  "description": "Connects multiple IMAP and SMTP mailboxes to MCP clients like ChatGPT without exposing credentials, enabling email search and thread retrieval via natural language.",
+  "source_repo": "eduardo-bolognini/mailport-mcp",
+  "source_url": "https://github.com/eduardo-bolognini/mailport-mcp",
+  "install": "npx -y mailport-mcp"
+}

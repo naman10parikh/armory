@@ -1,0 +1,7 @@
+{
+  "name": "oqva-marketing-mcp",
+  "description": "Connect Claude to your marketing data from Google and Meta, enabling read and write operations on Search Console, Analytics, Tag Manager, Business Profile, and Meta platforms.",
+  "source_repo": "oqva-digital/oqva-marketing-mcp",
+  "source_url": "https://github.com/oqva-digital/oqva-marketing-mcp",
+  "install": "npx -y oqva-marketing-mcp"
+}

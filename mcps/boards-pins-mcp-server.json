@@ -1,0 +1,7 @@
+{
+  "name": "boards-pins-mcp-server",
+  "description": "An MCP server that lets Claude interact with Pinterest — browsing, creating, and managing boards, pins, sections, and user profiles via the Pinterest API v5.",
+  "source_repo": "artyomredko-collab/sapyx-mcpclone",
+  "source_url": "https://github.com/artyomredko-collab/sapyx-mcpclone",
+  "install": "# git clone --depth 1 https://github.com/artyomredko-collab/sapyx-mcpclone\n# See source for mcpServers config block"
+}

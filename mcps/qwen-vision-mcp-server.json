@@ -1,0 +1,7 @@
+{
+  "name": "qwen-vision-mcp-server",
+  "description": "Enables to analyze local images or remote URLs using Alibaba Qwen3.7-plus vision model via DashScope's Anthropic-compatible endpoint.",
+  "source_repo": "kira4094/qwen-vision-mcp-server",
+  "source_url": "https://github.com/kira4094/qwen-vision-mcp-server",
+  "install": "npx -y qwen-vision-mcp-server"
+}

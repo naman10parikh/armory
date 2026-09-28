@@ -1,0 +1,7 @@
+{
+  "name": "okf-wiki",
+  "description": "A local OKF-compatible knowledge engine for AI agents. Enables capturing agent conversations, hybrid semantic+keyword search, MCP serving to agents, interactive graph visualization, and OKF bundle export.",
+  "source_repo": "heonyus/okf-wiki",
+  "source_url": "https://github.com/heonyus/okf-wiki",
+  "install": "# git clone --depth 1 https://github.com/heonyus/okf-wiki\n# See source for mcpServers config block"
+}

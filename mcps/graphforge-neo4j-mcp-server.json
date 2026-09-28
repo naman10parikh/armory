@@ -1,0 +1,7 @@
+{
+  "name": "graphforge-neo4j-mcp-server",
+  "description": "Enables querying a Neo4j knowledge graph built from Git repositories and relational database schemas via MCP, with tools for schema inspection, Cypher queries, and searching code and database entities.",
+  "source_repo": "vinothhacks/graphforge-neo4j",
+  "source_url": "https://github.com/vinothhacks/graphforge-neo4j",
+  "install": "# git clone --depth 1 https://github.com/vinothhacks/graphforge-neo4j\n# See source for mcpServers config block"
+}

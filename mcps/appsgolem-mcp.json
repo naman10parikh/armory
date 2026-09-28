@@ -1,0 +1,7 @@
+{
+  "name": "appsgolem-mcp",
+  "description": "Enables AI agents to cut YouTube clips programmatically via the AppsGolem API, supporting multiple formats, batch cuts, and direct download URLs.",
+  "source_repo": "apancyborg/appsgolem-mcp",
+  "source_url": "https://github.com/apancyborg/appsgolem-mcp",
+  "install": "npx -y appsgolem-mcp"
+}

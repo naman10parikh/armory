@@ -1,0 +1,7 @@
+{
+  "name": "huawei-lts-skill",
+  "description": "Enables interaction with Huawei Cloud Log Tank Service (LTS) through natural language, supporting log group listing, log search, and other LTS operations.",
+  "source_repo": "jkrandom-sudo/huawei-lts-skill",
+  "source_url": "https://github.com/jkrandom-sudo/huawei-lts-skill",
+  "install": "# git clone --depth 1 https://github.com/jkrandom-sudo/huawei-lts-skill\n# See source for mcpServers config block"
+}

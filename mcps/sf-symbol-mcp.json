@@ -1,0 +1,7 @@
+{
+  "name": "sf-symbol-mcp",
+  "description": "Enables coding agents to query real SF Symbol names from the local SF Symbols app on Mac, helping generate valid SwiftUI/UIKit code without guessing.",
+  "source_repo": "wishsoul/sf-symbol-mcp",
+  "source_url": "https://github.com/wishsoul/sf-symbol-mcp",
+  "install": "npx -y sf-symbol-mcp"
+}

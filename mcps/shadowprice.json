@@ -1,0 +1,7 @@
+{
+  "name": "shadowprice",
+  "description": "Inject real-time leaked B2B SaaS pricing, historical discounts, and aggressive negotiation playbooks directly into AI agents.",
+  "source_repo": "Limzen/shadowprice-mcp",
+  "source_url": "https://github.com/Limzen/shadowprice-mcp",
+  "install": "npx -y shadowprice-mcp"
+}

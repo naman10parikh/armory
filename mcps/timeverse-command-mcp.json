@@ -1,0 +1,7 @@
+{
+  "name": "timeverse-command-mcp",
+  "description": "An MCP server that enables AI clients to execute shell, Python, and Node commands on the local machine across platforms.",
+  "source_repo": "elimyliu/timeverse-command-mcp",
+  "source_url": "https://github.com/elimyliu/timeverse-command-mcp",
+  "install": "npx -y timeverse-command-mcp"
+}

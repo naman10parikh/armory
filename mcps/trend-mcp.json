@@ -1,0 +1,7 @@
+{
+  "name": "trend-mcp",
+  "description": "Enables multi-agent trend analysis for digital marketing, web design, and graphics design, routing requests through specialized agents to produce actionable recommendations and implementation plans.",
+  "source_repo": "Abdur-Rahman-Palash/trend-mcp",
+  "source_url": "https://github.com/Abdur-Rahman-Palash/trend-mcp",
+  "install": "npx -y trend-mcp"
+}

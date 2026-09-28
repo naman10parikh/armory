@@ -1,0 +1,7 @@
+{
+  "name": "mwe-mcp",
+  "description": "A Markdown wiki-based memory server for AI agents with per-fact access control, attribution, and validity enforcement, enabling multiple users and agents to share a governed knowledge base.",
+  "source_repo": "Fr4nZ82/mwe-mcp",
+  "source_url": "https://github.com/Fr4nZ82/mwe-mcp",
+  "install": "npx -y mwe-mcp"
+}

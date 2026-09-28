@@ -1,0 +1,7 @@
+{
+  "name": "p6xer-mcp-server",
+  "description": "MCP server for parsing, querying, and analyzing Primavera P6 XER files with 13 tools, 3 resources, and 2 prompts.",
+  "source_repo": "osama-ata/p6xer-mcp-server",
+  "source_url": "https://github.com/osama-ata/p6xer-mcp-server",
+  "install": "npx -y p6xer-mcp-server"
+}

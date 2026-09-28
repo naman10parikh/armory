@@ -1,0 +1,7 @@
+{
+  "name": "cite-rag-mcp",
+  "description": "A local MCP server for evidence-safe academic citation workflows, including verified-reference retrieval, Zotero duplicate detection and import, and Word export via Pandoc with zotero.lua.",
+  "source_repo": "xiaofei03/cite-rag-mcp",
+  "source_url": "https://github.com/xiaofei03/cite-rag-mcp",
+  "install": "npx -y cite-rag-mcp"
+}

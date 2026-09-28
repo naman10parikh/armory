@@ -1,0 +1,7 @@
+{
+  "name": "ragic-mcp",
+  "description": "Enables AI agents to interact with Ragic databases via MCP protocol, supporting form exploration, data CRUD, approval, and locking operations.",
+  "source_repo": "EthanH9977/ragic-mcp",
+  "source_url": "https://github.com/EthanH9977/ragic-mcp",
+  "install": "npx -y ragic-mcp"
+}

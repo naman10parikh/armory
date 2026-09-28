@@ -1,0 +1,7 @@
+{
+  "name": "wellulu-insight-2",
+  "description": "Automatically saves valuable insights, learnings, and business knowledge from Claude conversations as GitHub Issues, categorized and searchable.",
+  "source_repo": "Vortex-9191/wellulu-insight",
+  "source_url": "https://github.com/Vortex-9191/wellulu-insight",
+  "install": "# git clone --depth 1 https://github.com/Vortex-9191/wellulu-insight\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hubspot-revops-mcp-server",
+  "description": "A read-only MCP server that connects to HubSpot to audit CRM data, diagnose RevOps maturity, identify at-risk deals, and provide step-by-step guidance for fixing issues.",
+  "source_repo": "rohitchitodkar-bit/hubspot-revops-mcp",
+  "source_url": "https://github.com/rohitchitodkar-bit/hubspot-revops-mcp",
+  "install": "npx -y hubspot-revops-mcp"
+}

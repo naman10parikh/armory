@@ -1,0 +1,7 @@
+{
+  "name": "lead-agent-mcp",
+  "description": "A lightweight MCP server that lets distributed AI agent teams query a designated project lead before making design decisions, preventing divergence.",
+  "source_repo": "JiHungLin/lead-agent-mcp",
+  "source_url": "https://github.com/JiHungLin/lead-agent-mcp",
+  "install": "npx -y lead-agent-mcp"
+}

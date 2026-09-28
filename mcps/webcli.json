@@ -1,0 +1,7 @@
+{
+  "name": "webcli",
+  "description": "Secure, agent-driven web data extraction MCP server that extracts structured data from websites using APIs, RSS, and HTML without requiring a browser.",
+  "source_repo": "ashark-ai-05/webcli",
+  "source_url": "https://github.com/ashark-ai-05/webcli",
+  "install": "# git clone --depth 1 https://github.com/ashark-ai-05/webcli\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "costkits-mcp",
+  "description": "Provides live US healthcare cost data including procedure cost estimates, provider pricing, insurance coverage rules, and medical bill analysis using real hospital transparency and CMS data.",
+  "source_repo": "costkits/costkits-mcp",
+  "source_url": "https://github.com/costkits/costkits-mcp",
+  "install": "npx -y costkits-mcp"
+}

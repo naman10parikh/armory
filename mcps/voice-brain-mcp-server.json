@@ -1,0 +1,7 @@
+{
+  "name": "voice-brain-mcp-server",
+  "description": "Provides a unified context per contact across voice (NL Pearl v2) and custom WhatsApp/SMS channels, with MCP tools to resolve identity, retrieve timeline, upsert contacts, append interactions, manage signals, record call context, and suggest follow-ups.",
+  "source_repo": "jorgemovitext/voice-brain-mcp",
+  "source_url": "https://github.com/jorgemovitext/voice-brain-mcp",
+  "install": "npx -y voice-brain-mcp"
+}

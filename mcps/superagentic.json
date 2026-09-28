@@ -1,0 +1,7 @@
+{
+  "name": "superagentic",
+  "description": "An MCP server that lets agents claim, work on, and finish units of work in a coordinated fleet, with lease and heartbeat protection, plus tools for orchestrators to define work and collect results.",
+  "source_repo": "narimannemo/superagentic",
+  "source_url": "https://github.com/narimannemo/superagentic",
+  "install": "# git clone --depth 1 https://github.com/narimannemo/superagentic\n# See source for mcpServers config block"
+}

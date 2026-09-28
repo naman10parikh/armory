@@ -1,0 +1,7 @@
+{
+  "name": "french-politics-mcp",
+  "description": "Provides access to official 2022 French presidential election programs for five parties, retrieving exact passages with full references and without synthesis.",
+  "source_repo": "mael-app/french-politics-mcp",
+  "source_url": "https://github.com/mael-app/french-politics-mcp",
+  "install": "npx -y french-politics-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-chart",
+  "description": "A monorepo hosting multiple MCP servers, including a TypeScript chart server that generates AntV visualization specs, a Python chart sibling, and an AWS ECS MCP server for container management.",
+  "source_repo": "kesavP/toolmaninspector",
+  "source_url": "https://github.com/kesavP/toolmaninspector",
+  "install": "# git clone --depth 1 https://github.com/kesavP/toolmaninspector\n# See source for mcpServers config block"
+}

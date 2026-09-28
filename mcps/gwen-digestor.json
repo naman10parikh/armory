@@ -1,0 +1,7 @@
+{
+  "name": "gwen-digestor",
+  "description": "Model Context Protocol server for conversation compression that reduces token consumption using deterministic, embedding-free compression with mode-aware strategies.",
+  "source_repo": "NcrMancer/gwen-digestor",
+  "source_url": "https://github.com/NcrMancer/gwen-digestor",
+  "install": "# git clone --depth 1 https://github.com/NcrMancer/gwen-digestor\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aiterm-mcp",
+  "description": "Persistent tmux-backed MCP server that lets Claude Code control Codex CLI's interactive TUI, including slash commands and $imagegen. Run local shells, SSH, Docker, WSL, REPLs, and supported coding agents through durable PTY sessions.",
+  "source_repo": "kitepon-rgb/aiterm-mcp",
+  "source_url": "https://github.com/kitepon-rgb/aiterm-mcp",
+  "install": "npx -y aiterm-mcp"
+}

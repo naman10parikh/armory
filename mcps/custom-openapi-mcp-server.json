@@ -1,0 +1,7 @@
+{
+  "name": "custom-openapi-mcp-server",
+  "description": "Dynamically fetches and exposes OpenAPI/Swagger documentation as tools for AI assistants, enabling them to explore and interact with any REST API.",
+  "source_repo": "ujwal-patel/custom-mcp",
+  "source_url": "https://github.com/ujwal-patel/custom-mcp",
+  "install": "npx -y custom-mcp"
+}

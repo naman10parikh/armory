@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mysql-connector",
+  "description": "Enables LLM agents to interact with MySQL databases through tools for querying, schema management, user administration, and transaction control.",
+  "source_repo": "daedalus/mcp-mysql-connector",
+  "source_url": "https://github.com/daedalus/mcp-mysql-connector",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-mysql-connector\n# See source for mcpServers config block"
+}

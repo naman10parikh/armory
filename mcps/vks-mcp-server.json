@@ -1,0 +1,7 @@
+{
+  "name": "vks-mcp-server",
+  "description": "MCP server for Verilog development and debugging, providing syntax checking, compilation, simulation, and cross-validation with third-party simulators.",
+  "source_repo": "AlexMercer12138/Vks-MCP",
+  "source_url": "https://github.com/AlexMercer12138/Vks-MCP",
+  "install": "npx -y Vks-MCP"
+}

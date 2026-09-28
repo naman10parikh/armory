@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-al-dec-caixa-postal",
+  "description": "MCP server for querying SEFAZ AL DEC Caixa Postal data from the official source, enabling reading and writing via one tool in any MCP-compatible client. It is hosted with prepaid per-use credits and requires no platform credentials.",
+  "source_repo": "mcp-dir/sefaz_al_dec_caixa_postal-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_al_dec_caixa_postal-mcp",
+  "install": "npx -y sefaz_al_dec_caixa_postal-mcp"
+}

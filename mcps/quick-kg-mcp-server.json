@@ -1,0 +1,7 @@
+{
+  "name": "quick-kg-mcp-server",
+  "description": "Enables AI agents to automatically crawl online documentation, build local knowledge graphs, and semantic indexes to quickly establish a project knowledge base for Amazon Q Developer.",
+  "source_repo": "yingcaihuang/quick-kg-mcp",
+  "source_url": "https://github.com/yingcaihuang/quick-kg-mcp",
+  "install": "npx -y quick-kg-mcp"
+}

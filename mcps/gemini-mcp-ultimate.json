@@ -1,0 +1,7 @@
+{
+  "name": "gemini-mcp-ultimate",
+  "description": "Enables Claude to offload large codebase analysis to Google Gemini with 1M+ token context windows, persistent sessions, and dramatic token savings.",
+  "source_repo": "GlitterKill/gemini-mcp-ultimate",
+  "source_url": "https://github.com/GlitterKill/gemini-mcp-ultimate",
+  "install": "# git clone --depth 1 https://github.com/GlitterKill/gemini-mcp-ultimate\n# See source for mcpServers config block"
+}

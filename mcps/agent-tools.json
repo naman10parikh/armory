@@ -1,0 +1,7 @@
+{
+  "name": "agent-tools",
+  "description": "Provides 9 utility APIs for AI agents covering DNS, email, IP, QR, WHOIS, URL health, headers, text extraction, and tech detection, with x402 micropayments on Base.",
+  "source_repo": "WingedGuardian/agent-tools",
+  "source_url": "https://github.com/WingedGuardian/agent-tools",
+  "install": "# git clone --depth 1 https://github.com/WingedGuardian/agent-tools\n# See source for mcpServers config block"
+}

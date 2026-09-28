@@ -1,0 +1,7 @@
+{
+  "name": "facebook-ads-library-mcp",
+  "description": "A powerful MCP server for Facebook Ads Library that provides 15+ tools for competitive intelligence, creative analysis, and performance prediction, enabling users to search, monitor, and analyze advertising data.",
+  "source_repo": "heymramit/facebook-ads-library-mcp",
+  "source_url": "https://github.com/heymramit/facebook-ads-library-mcp",
+  "install": "npx -y facebook-ads-library-mcp"
+}

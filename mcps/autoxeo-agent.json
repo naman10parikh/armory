@@ -1,0 +1,7 @@
+{
+  "name": "autoxeo-agent",
+  "description": "Enables connecting to AutoXEO Cloud, managing accounts and project bindings, and executing evidence-led GEO workflows from within Codex.",
+  "source_repo": "stella-dust/autoxeo-agent-codex-plugin",
+  "source_url": "https://github.com/stella-dust/autoxeo-agent-codex-plugin",
+  "install": "# git clone --depth 1 https://github.com/stella-dust/autoxeo-agent-codex-plugin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-a11y-auditors",
+  "description": "Automates WCAG 2.2 accessibility audits by connecting Claude with 8 screen readers, reducing manual audit time by 62%.",
+  "source_repo": "Yoan00237/mcp-a11y-auditors",
+  "source_url": "https://github.com/Yoan00237/mcp-a11y-auditors",
+  "install": "# git clone --depth 1 https://github.com/Yoan00237/mcp-a11y-auditors\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "inpi-marcas",
+  "description": "Consulta de marcas do INPI em fonte oficial, com uma ferramenta de leitura via MCP.",
+  "source_repo": "mcp-dir/inpi_marcas-mcp",
+  "source_url": "https://github.com/mcp-dir/inpi_marcas-mcp",
+  "install": "npx -y inpi_marcas-mcp"
+}

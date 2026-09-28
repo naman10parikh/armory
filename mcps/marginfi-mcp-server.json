@@ -1,6 +1,6 @@
 {
   "name": "marginfi-mcp-server",
-  "description": "Marginfi Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "aldrin-labs/marginfi-mcp-server",
   "source_url": "https://mcp.so/server/marginfi-mcp-server/aldrin-labs",
   "install": "npx -y marginfi-mcp-server"

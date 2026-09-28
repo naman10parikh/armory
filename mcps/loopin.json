@@ -1,0 +1,7 @@
+{
+  "name": "loopin",
+  "description": "Bridges a browser extension with an AI agent via MCP, enabling the agent to capture and act on UI elements, styles, and accessibility data from web pages.",
+  "source_repo": "skip5this/LoopIn",
+  "source_url": "https://github.com/skip5this/LoopIn",
+  "install": "# git clone --depth 1 https://github.com/skip5this/LoopIn\n# See source for mcpServers config block"
+}

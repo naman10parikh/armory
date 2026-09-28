@@ -1,0 +1,7 @@
+{
+  "name": "storelink-mcp",
+  "description": "MCP server for managing store replenishment, including listing stores, raising orders, checking order status, and viewing SKU reports with observability and key rotation handling.",
+  "source_repo": "jaredalonzo/storelink-mcp",
+  "source_url": "https://github.com/jaredalonzo/storelink-mcp",
+  "install": "npx -y storelink-mcp"
+}

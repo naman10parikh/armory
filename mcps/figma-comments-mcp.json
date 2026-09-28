@@ -1,0 +1,7 @@
+{
+  "name": "figma-comments-mcp",
+  "description": "MCP server that fetches and replies to Figma file comments, with filtering and a triage skill to organize them into decisions, questions, and to-dos.",
+  "source_repo": "processedfood/figma-comments-mcp",
+  "source_url": "https://github.com/processedfood/figma-comments-mcp",
+  "install": "npx -y figma-comments-mcp"
+}

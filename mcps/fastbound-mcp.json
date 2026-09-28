@@ -1,0 +1,7 @@
+{
+  "name": "fastbound-mcp",
+  "description": "Enables natural language interaction with FastBound's firearms Acquisition & Disposition API for inventory search, acquisition/disposition recording, contact management, and report generation, with safety guards for write operations.",
+  "source_repo": "xuanji86/fastbound-mcp",
+  "source_url": "https://github.com/xuanji86/fastbound-mcp",
+  "install": "npx -y fastbound-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "evil-mcp-server",
+  "description": "Simulates malicious behaviors and attack vectors for security testing and educational demonstrations.",
+  "source_repo": "promptfoo/evil-mcp-server",
+  "source_url": "https://github.com/promptfoo/evil-mcp-server",
+  "install": "npx -y evil-mcp-server"
+}

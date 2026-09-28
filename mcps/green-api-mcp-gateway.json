@@ -1,0 +1,7 @@
+{
+  "name": "green-api-mcp-gateway",
+  "description": "MCP gateway for GREEN-API WhatsApp that lets AI agents send messages, manage instances, and receive notifications via WhatsApp using the Model Context Protocol.",
+  "source_repo": "green-api/green-api-mcp-gateway",
+  "source_url": "https://github.com/green-api/green-api-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/green-api/green-api-mcp-gateway\n# See source for mcpServers config block"
+}

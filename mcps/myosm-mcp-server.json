@@ -1,0 +1,7 @@
+{
+  "name": "myosm-mcp-server",
+  "description": "An OpenStreetMap MCP server providing geocoding, routing, points of interest, map tiles, public transport, and energy infrastructure tools to enhance LLM location-based capabilities.",
+  "source_repo": "visuelconcept/myosm-mcp-server",
+  "source_url": "https://github.com/visuelconcept/myosm-mcp-server",
+  "install": "npx -y myosm-mcp-server"
+}

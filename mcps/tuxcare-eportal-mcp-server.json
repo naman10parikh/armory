@@ -1,0 +1,7 @@
+{
+  "name": "tuxcare-eportal-mcp-server",
+  "description": "Enables management of TuxCare ePortal resources such as servers, feeds, registration keys, patchsets, and users through the ePortal API, with support for basic and API key authentication.",
+  "source_repo": "Revmagi/tuxcare-eportal-mcp",
+  "source_url": "https://github.com/Revmagi/tuxcare-eportal-mcp",
+  "install": "npx -y tuxcare-eportal-mcp"
+}

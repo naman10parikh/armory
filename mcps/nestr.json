@@ -1,7 +1,0 @@
-{
-  "name": "nestr",
-  "description": "Connect AI to Nestr for Holacracy, Sociocracy, and self-organizing team management.",
-  "source_repo": "nestr-dev/nestr-mcp",
-  "source_url": "https://github.com/nestr-dev/nestr-mcp",
-  "install": "npx -y nestr-mcp"
-}

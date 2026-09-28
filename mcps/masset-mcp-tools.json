@@ -1,0 +1,7 @@
+{
+  "name": "masset-mcp-tools",
+  "description": "Provides honest A/B test verdicts using interactive cards, with statistical calculations for conversion rates, sample sizes, and Bayesian probability-to-beat.",
+  "source_repo": "BenMasset/masset-mcp-tools",
+  "source_url": "https://github.com/BenMasset/masset-mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/BenMasset/masset-mcp-tools\n# See source for mcpServers config block"
+}

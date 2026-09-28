@@ -1,0 +1,7 @@
+{
+  "name": "barcoding-mcp",
+  "description": "Enables encoding 100+ barcode symbologies and decoding common 1D/2D formats, plus terminal QR codes.",
+  "source_repo": "cordfuse/barcoding-mcp",
+  "source_url": "https://github.com/cordfuse/barcoding-mcp",
+  "install": "npx -y barcoding-mcp"
+}

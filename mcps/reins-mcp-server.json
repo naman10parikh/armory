@@ -1,0 +1,7 @@
+{
+  "name": "reins-mcp-server",
+  "description": "Provides tools for AI coding agents to read and write shared team context, including status, pending items, and handoffs. Enables agents to query current project status and claim pending work.",
+  "source_repo": "aruntemme/reins",
+  "source_url": "https://github.com/aruntemme/reins",
+  "install": "# git clone --depth 1 https://github.com/aruntemme/reins\n# See source for mcpServers config block"
+}

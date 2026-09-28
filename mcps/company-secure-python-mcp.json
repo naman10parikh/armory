@@ -1,0 +1,7 @@
+{
+  "name": "company-secure-python-mcp",
+  "description": "Provides Copilot Studio with six tools for secure workspace file operations and one-time execution of pre-approved Python jobs in isolated, network-less Docker containers, with strict access controls and audit logging.",
+  "source_repo": "yokko001/m365-copilot-secure-python-mcp",
+  "source_url": "https://github.com/yokko001/m365-copilot-secure-python-mcp",
+  "install": "npx -y m365-copilot-secure-python-mcp"
+}

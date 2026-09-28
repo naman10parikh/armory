@@ -1,0 +1,7 @@
+{
+  "name": "ome-mcp-server",
+  "description": "Enables AI agents to manage Dell PowerEdge servers via Dell OpenManage Enterprise (OME) REST API, providing tools for device inventory, power control, firmware updates, alert management, and compliance baselines.",
+  "source_repo": "TrevorSquillario/ome-mcp",
+  "source_url": "https://github.com/TrevorSquillario/ome-mcp",
+  "install": "npx -y ome-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "github-readme-mcp",
+  "description": "An MCP server that reviews README files using transparent, deterministic rules, scoring them and suggesting improvements.",
+  "source_repo": "QinyangTan/GitHub-README-MCP",
+  "source_url": "https://github.com/QinyangTan/GitHub-README-MCP",
+  "install": "npx -y GitHub-README-MCP"
+}

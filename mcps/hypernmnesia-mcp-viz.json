@@ -1,0 +1,7 @@
+{
+  "name": "hypernmnesia-mcp-viz",
+  "description": "A read-only, cross-platform visualization layer for Cortex that renders memory, sessions, and code into six live reading angles (graph galaxy, 3D anatomical brain, execution trace, consolidation board, knowledge browser, and wiki) without ever writing a memory.",
+  "source_repo": "cdeust/cortex-viz",
+  "source_url": "https://github.com/cdeust/cortex-viz",
+  "install": "# git clone --depth 1 https://github.com/cdeust/cortex-viz\n# See source for mcpServers config block"
+}

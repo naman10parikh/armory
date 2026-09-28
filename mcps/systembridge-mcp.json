@@ -1,0 +1,7 @@
+{
+  "name": "systembridge-mcp",
+  "description": "MCP server that gives LLMs deep knowledge of design systems and tokens, enabling intelligent design evolution, token analysis, and designer-to-developer handoffs.",
+  "source_repo": "teyepe/systembridge-mcp",
+  "source_url": "https://github.com/teyepe/systembridge-mcp",
+  "install": "npx -y systembridge-mcp"
+}

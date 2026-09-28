@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trt17-consulta-processual",
+  "description": "Enables consulting legal proceedings from the TRT17 Brazilian labor court through official sources. It provides a read-only MCP tool that works with any MCP-compatible client.",
+  "source_repo": "mcp-dir/tribunal_trt17_processo-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trt17_processo-mcp",
+  "install": "npx -y tribunal_trt17_processo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "unitymcp",
+  "description": "Local Streamable HTTP MCP server exposing Unity Editor inspection, authoring, testing, profiling, play-mode, and build tools.",
+  "source_repo": "zloybest/UnityMCP",
+  "source_url": "https://github.com/zloybest/UnityMCP",
+  "install": "# git clone --depth 1 https://github.com/zloybest/UnityMCP\n# See source for mcpServers config block"
+}

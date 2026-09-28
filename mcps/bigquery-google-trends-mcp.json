@@ -1,0 +1,7 @@
+{
+  "name": "bigquery-google-trends-mcp",
+  "description": "MCP server that exposes Google Trends data via BigQuery, enabling LLMs to query top search terms, rising terms, and compare term interest over time for different countries.",
+  "source_repo": "jp-caldas/bigquery-google-trends-mcp",
+  "source_url": "https://github.com/jp-caldas/bigquery-google-trends-mcp",
+  "install": "npx -y bigquery-google-trends-mcp"
+}

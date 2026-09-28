@@ -1,0 +1,7 @@
+{
+  "name": "googlebot-simulator-mcp",
+  "description": "Simulates Googlebot crawling to verify bot detection and analytics tracking by capturing events and providing detailed reports.",
+  "source_repo": "RichardDillman/googlebot-simulator-mcp",
+  "source_url": "https://github.com/RichardDillman/googlebot-simulator-mcp",
+  "install": "npx -y googlebot-simulator-mcp"
+}

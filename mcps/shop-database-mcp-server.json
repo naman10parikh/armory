@@ -1,0 +1,7 @@
+{
+  "name": "shop-database-mcp-server",
+  "description": "This server lets AI agents discover a SQLite shop database schema, compose read-only analytical SQL, and determine which questions the database cannot answer.",
+  "source_repo": "slavamirgit/shop-mcp",
+  "source_url": "https://github.com/slavamirgit/shop-mcp",
+  "install": "npx -y shop-mcp"
+}

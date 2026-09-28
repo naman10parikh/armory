@@ -1,0 +1,7 @@
+{
+  "name": "web-automation-mcp",
+  "description": "An MCP server that enables Claude Code CLI to interact with Cloud Desktop, ChatGPT, and Gemini web interfaces through browser automation.",
+  "source_repo": "ssql2014/web-automation-mcp",
+  "source_url": "https://github.com/ssql2014/web-automation-mcp",
+  "install": "npx -y web-automation-mcp"
+}

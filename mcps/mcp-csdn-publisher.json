@@ -1,0 +1,7 @@
+{
+  "name": "mcp-csdn-publisher",
+  "description": "MCP server that enables AI assistants to automatically write and publish blog posts to CSDN with support for categories, tags, and drafts.",
+  "source_repo": "Ln129402/mcp-csdn-publisher",
+  "source_url": "https://github.com/Ln129402/mcp-csdn-publisher",
+  "install": "# git clone --depth 1 https://github.com/Ln129402/mcp-csdn-publisher\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shuck-convert",
+  "description": "An MCP server for converting between document formats (DOCX/PDF to Markdown and Markdown to DOCX) with academic styling support.",
+  "source_repo": "Shan-Zhu/shuck-convert",
+  "source_url": "https://github.com/Shan-Zhu/shuck-convert",
+  "install": "# git clone --depth 1 https://github.com/Shan-Zhu/shuck-convert\n# See source for mcpServers config block"
+}

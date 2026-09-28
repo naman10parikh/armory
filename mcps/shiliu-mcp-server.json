@@ -1,0 +1,7 @@
+{
+  "name": "shiliu-mcp-server",
+  "description": "Enables digital human (avatar) creation, voice cloning, and video generation through ShiLiu API, compatible with any MCP client.",
+  "source_repo": "shiliu-ai/ShiLiu-MCP",
+  "source_url": "https://github.com/shiliu-ai/ShiLiu-MCP",
+  "install": "npx -y ShiLiu-MCP"
+}

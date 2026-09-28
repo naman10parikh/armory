@@ -1,0 +1,7 @@
+{
+  "name": "workiz-mcp-server",
+  "description": "Provides tools to read and write Workiz CRM/Field Service data (jobs, leads, team, time off) enabling Claude to manage records via natural language.",
+  "source_repo": "hoffnerheatingandair/workiz-mcp-server",
+  "source_url": "https://github.com/hoffnerheatingandair/workiz-mcp-server",
+  "install": "npx -y workiz-mcp-server"
+}

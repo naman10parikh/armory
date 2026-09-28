@@ -1,0 +1,7 @@
+{
+  "name": "street-generator-mcp",
+  "description": "Enables designing and rendering urban street cross-sections from natural language descriptions, and importing real streets from OpenStreetMap.",
+  "source_repo": "urbanis/street-generator-mcp",
+  "source_url": "https://github.com/urbanis/street-generator-mcp",
+  "install": "npx -y street-generator-mcp"
+}

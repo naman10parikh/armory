@@ -1,0 +1,7 @@
+{
+  "name": "xiaofenshen-mcp-server",
+  "description": "Exposes Xiaofenshen's public read-only APIs as MCP tools, enabling agents to read shared content, list image prompt templates, and fetch product documentation.",
+  "source_repo": "TwinWrite/xiaofenshen-mcp-server",
+  "source_url": "https://github.com/TwinWrite/xiaofenshen-mcp-server",
+  "install": "npx -y xiaofenshen-mcp-server"
+}

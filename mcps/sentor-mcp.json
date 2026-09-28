@@ -1,0 +1,7 @@
+{
+  "name": "sentor-mcp",
+  "description": "Connects entity-based sentiment analysis, document clustering, and topic naming to MCP-compatible AI assistants.",
+  "source_repo": "NIKX-Tech/sentor-mcp",
+  "source_url": "https://github.com/NIKX-Tech/sentor-mcp",
+  "install": "npx -y sentor-mcp"
+}

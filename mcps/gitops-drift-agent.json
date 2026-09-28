@@ -1,0 +1,7 @@
+{
+  "name": "gitops-drift-agent",
+  "description": "Enables detection and remediation of Kubernetes GitOps drift via MCP tools, supporting drift detection, policy evaluation, patch application, PR generation, and audit trail retrieval.",
+  "source_repo": "felipeassis10/gitops-drift-remediation-agent",
+  "source_url": "https://github.com/felipeassis10/gitops-drift-remediation-agent",
+  "install": "# git clone --depth 1 https://github.com/felipeassis10/gitops-drift-remediation-agent\n# See source for mcpServers config block"
+}

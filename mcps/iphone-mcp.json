@@ -1,0 +1,7 @@
+{
+  "name": "iphone-mcp",
+  "description": "Enables AI agents to control real iPhones and simulators on macOS, allowing for UI interaction, testing, and automation.",
+  "source_repo": "blitzdotdev/iPhone-mcp",
+  "source_url": "https://github.com/blitzdotdev/iPhone-mcp",
+  "install": "npx -y iPhone-mcp"
+}

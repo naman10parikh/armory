@@ -1,0 +1,7 @@
+{
+  "name": "agent-logbook",
+  "description": "Enables AI assistants to maintain long-term memory by logging and retrieving facts and decisions in a SQLite database, with relevance ranking and full history tracking.",
+  "source_repo": "Rajwantmishra/agent-logbook",
+  "source_url": "https://github.com/Rajwantmishra/agent-logbook",
+  "install": "# git clone --depth 1 https://github.com/Rajwantmishra/agent-logbook\n# See source for mcpServers config block"
+}

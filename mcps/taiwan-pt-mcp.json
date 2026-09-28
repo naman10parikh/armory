@@ -1,0 +1,7 @@
+{
+  "name": "taiwan-pt-mcp",
+  "description": "Enables AI assistants to query Taiwan physical therapy evidence, clinical guidelines, and regulations, avoiding fabrication of rehabilitation advice.",
+  "source_repo": "minhsuan0/taiwan-pt-mcp",
+  "source_url": "https://github.com/minhsuan0/taiwan-pt-mcp",
+  "install": "npx -y taiwan-pt-mcp"
+}

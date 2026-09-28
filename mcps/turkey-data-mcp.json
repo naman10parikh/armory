@@ -1,0 +1,7 @@
+{
+  "name": "turkey-data-mcp",
+  "description": "MCP server for live Turkey data — gold & silver prices, official TCMB exchange rates, fuel pump prices, prayer times and the Kandilli earthquake feed.",
+  "source_repo": "bodyegypt/turkey-data-mcp",
+  "source_url": "https://github.com/bodyegypt/turkey-data-mcp",
+  "install": "npx -y turkey-data-mcp"
+}

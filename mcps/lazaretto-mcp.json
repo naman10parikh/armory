@@ -1,0 +1,7 @@
+{
+  "name": "lazaretto-mcp",
+  "description": "An MCP server that lets an agent verify a skill, tool, or package before it installs it.",
+  "source_repo": "jamesdfinance-dev/lazaretto-mcp",
+  "source_url": "https://github.com/jamesdfinance-dev/lazaretto-mcp",
+  "install": "npx -y lazaretto-mcp"
+}

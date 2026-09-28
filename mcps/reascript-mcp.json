@@ -1,0 +1,7 @@
+{
+  "name": "reascript-mcp",
+  "description": "Enables AI agents to control Reaper DAW by parsing .rpp project files and generating Lua ReaScripts for project-level tasks.",
+  "source_repo": "cclawton/reascript-mcp",
+  "source_url": "https://github.com/cclawton/reascript-mcp",
+  "install": "npx -y reascript-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "easy-slack-mcp",
+  "description": "Enables AI assistants like Cursor and Claude Desktop to interact with Slack workspaces, allowing message sending, channel reading, user management, and file operations through natural language.",
+  "source_repo": "easynet-world/7159-easy-slack-mcp",
+  "source_url": "https://github.com/easynet-world/7159-easy-slack-mcp",
+  "install": "npx -y 7159-easy-slack-mcp"
+}

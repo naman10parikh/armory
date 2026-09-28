@@ -1,0 +1,7 @@
+{
+  "name": "oracle-mcp",
+  "description": "Provides AI assistants with secure, structured access to Oracle Database through MCP, enabling SQL execution, metadata exploration, and stored procedure execution.",
+  "source_repo": "danangpriabada/bob-oracle-mcp",
+  "source_url": "https://github.com/danangpriabada/bob-oracle-mcp",
+  "install": "npx -y bob-oracle-mcp"
+}

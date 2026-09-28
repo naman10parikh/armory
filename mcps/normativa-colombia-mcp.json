@@ -1,0 +1,7 @@
+{
+  "name": "normativa-colombia-mcp",
+  "description": "Consulta normativa y jurisprudencia colombiana desde Claude, conectando con el Gestor Normativo y la Relatoría de la Corte Constitucional.",
+  "source_repo": "Angelthebestone/Normativa-colombiana-MCP",
+  "source_url": "https://github.com/Angelthebestone/Normativa-colombiana-MCP",
+  "install": "npx -y Normativa-colombiana-MCP"
+}

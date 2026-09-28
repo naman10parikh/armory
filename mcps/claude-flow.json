@@ -1,0 +1,7 @@
+{
+  "name": "claude-flow",
+  "description": "Multi-agent AI orchestration platform for Claude Code that enables deploying and coordinating specialized agents in swarms with self-learning, fault-tolerant consensus, and enterprise security.",
+  "source_repo": "EarthmanWeb/claude-flow-plugin",
+  "source_url": "https://github.com/EarthmanWeb/claude-flow-plugin",
+  "install": "# git clone --depth 1 https://github.com/EarthmanWeb/claude-flow-plugin\n# See source for mcpServers config block"
+}

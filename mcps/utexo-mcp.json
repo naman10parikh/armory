@@ -1,0 +1,7 @@
+{
+  "name": "utexo-mcp",
+  "description": "A hosted Model Context Protocol server providing secret-free, read-only Bitcoin and RGB tools for AI clients like Claude, with no API keys or installation required.",
+  "source_repo": "Alicepoltora/utexo-mcp",
+  "source_url": "https://github.com/Alicepoltora/utexo-mcp",
+  "install": "npx -y utexo-mcp"
+}

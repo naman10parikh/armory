@@ -1,0 +1,7 @@
+{
+  "name": "universal-poison-armor",
+  "description": "An MCP server that protects AI agents and RAG systems from adversarial poisoning attacks like prompt injection, steganography, and data anomalies through multi-layer sanitization, entropy-based detection, and consensus verification.",
+  "source_repo": "mzaid007/Universal-Poison-Armor",
+  "source_url": "https://github.com/mzaid007/Universal-Poison-Armor",
+  "install": "# git clone --depth 1 https://github.com/mzaid007/Universal-Poison-Armor\n# See source for mcpServers config block"
+}

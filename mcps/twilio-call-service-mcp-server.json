@@ -1,0 +1,7 @@
+{
+  "name": "twilio-call-service-mcp-server",
+  "description": "Enables AI-driven interaction with Twilio call services, including initiating outbound calls and retrieving call history via FastMCP tools.",
+  "source_repo": "caleb-overbay4/mcp-server",
+  "source_url": "https://github.com/caleb-overbay4/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/caleb-overbay4/mcp-server\n# See source for mcpServers config block"
+}

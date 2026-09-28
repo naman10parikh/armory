@@ -1,0 +1,7 @@
+{
+  "name": "mcp-lldb-server",
+  "description": "Enables AI assistants to start and manage LLDB debugging sessions, including loading programs, setting breakpoints, stepping through code, and examining memory.",
+  "source_repo": "ankur106/LLDB_MCP",
+  "source_url": "https://github.com/ankur106/LLDB_MCP",
+  "install": "npx -y LLDB_MCP"
+}

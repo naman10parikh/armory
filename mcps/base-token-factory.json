@@ -1,0 +1,7 @@
+{
+  "name": "base-token-factory",
+  "description": "Enables deploying ERC-20 tokens on Base mainnet via the SimpleTokenFactory contract. Supports token deployment, querying deployments, and factory info.",
+  "source_repo": "lordbasilaiassistant-sudo/base-token-factory-mcp",
+  "source_url": "https://github.com/lordbasilaiassistant-sudo/base-token-factory-mcp",
+  "install": "npx -y base-token-factory-mcp"
+}

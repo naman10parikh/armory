@@ -1,0 +1,7 @@
+{
+  "name": "affine-earth-math-court-remote",
+  "description": "Enables agent builders to run deterministic, integer-only mathematical operations while refusing floats, with sealed and verifiable integer-based results.",
+  "source_repo": "gaiaftcl-sudo/uum8dSolarResearch",
+  "source_url": "https://github.com/gaiaftcl-sudo/uum8dSolarResearch",
+  "install": "# git clone --depth 1 https://github.com/gaiaftcl-sudo/uum8dSolarResearch\n# See source for mcpServers config block"
+}

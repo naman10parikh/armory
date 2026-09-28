@@ -1,0 +1,7 @@
+{
+  "name": "international-jobs-mcp",
+  "description": "Enables searching and retrieving UN, NGO, and international organization job postings via the ReliefWeb API.",
+  "source_repo": "BugeshiC/international-jobs-mcp",
+  "source_url": "https://github.com/BugeshiC/international-jobs-mcp",
+  "install": "npx -y international-jobs-mcp"
+}

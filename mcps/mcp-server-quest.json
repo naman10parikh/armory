@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-quest",
+  "description": "Comprehensive quest orchestration system with KĀDI broker integration, multi-channel approval workflow, and Git-backed data storage.",
+  "source_repo": "a-g-e-n-t-s/mcp-server-quest",
+  "source_url": "https://github.com/a-g-e-n-t-s/mcp-server-quest",
+  "install": "# git clone --depth 1 https://github.com/a-g-e-n-t-s/mcp-server-quest\n# See source for mcpServers config block"
+}

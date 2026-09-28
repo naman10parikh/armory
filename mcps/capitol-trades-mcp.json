@@ -1,0 +1,7 @@
+{
+  "name": "capitol-trades-mcp",
+  "description": "Enables querying and analysis of US congressional stock-trade disclosures from capitoltrades.com, providing tools for filtering, ranking, and exporting trade data.",
+  "source_repo": "jsconiers/capitol-trades-mcp",
+  "source_url": "https://github.com/jsconiers/capitol-trades-mcp",
+  "install": "npx -y capitol-trades-mcp"
+}

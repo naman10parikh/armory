@@ -1,0 +1,7 @@
+{
+  "name": "mcp-qimen",
+  "description": "Evaluates Qimen Dunjia divination for a given date and time, returning structured text and a 9-palace PNG chart.",
+  "source_repo": "molpass/mcp-qimen",
+  "source_url": "https://github.com/molpass/mcp-qimen",
+  "install": "# git clone --depth 1 https://github.com/molpass/mcp-qimen\n# See source for mcpServers config block"
+}

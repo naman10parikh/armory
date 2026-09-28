@@ -1,0 +1,7 @@
+{
+  "name": "listbee-mcp",
+  "description": "Enables AI agents to create and manage sellable listings, handle orders, and integrate Stripe payments through natural language using ListBee's API.",
+  "source_repo": "listbee-dev/listbee-mcp",
+  "source_url": "https://github.com/listbee-dev/listbee-mcp",
+  "install": "npx -y listbee-mcp"
+}

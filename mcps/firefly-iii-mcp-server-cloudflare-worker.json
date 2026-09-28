@@ -1,0 +1,7 @@
+{
+  "name": "firefly-iii-mcp-server-cloudflare-worker",
+  "description": "Enables AI tools to interact with Firefly III personal finance manager through the MCP protocol, deployed globally on Cloudflare Workers for low latency.",
+  "source_repo": "DeathGun3344/firefly-iii-mcp",
+  "source_url": "https://github.com/DeathGun3344/firefly-iii-mcp",
+  "install": "npx -y firefly-iii-mcp"
+}

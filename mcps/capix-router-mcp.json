@@ -1,0 +1,7 @@
+{
+  "name": "capix-router-mcp",
+  "description": "Open-source routing layer that splits compute jobs and inference prompts across resources using Gemini, with MongoDB-backed route books and priced allocations.",
+  "source_repo": "Ritzky/Capix-MCP-Router",
+  "source_url": "https://github.com/Ritzky/Capix-MCP-Router",
+  "install": "# git clone --depth 1 https://github.com/Ritzky/Capix-MCP-Router\n# See source for mcpServers config block"
+}

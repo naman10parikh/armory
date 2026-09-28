@@ -1,0 +1,7 @@
+{
+  "name": "vibecoders-mcp",
+  "description": "One MCP that turns Claude Code into your whole dev stack by swallowing other MCP servers, delegating to Codex & Gemini on your CLI subscriptions, remembering projects in a searchable knowledge graph, and carrying setup across sessions — secret-free by design.",
+  "source_repo": "RaedBerjaoui/vibecoders-mcp",
+  "source_url": "https://github.com/RaedBerjaoui/vibecoders-mcp",
+  "install": "npx -y vibecoders-mcp"
+}

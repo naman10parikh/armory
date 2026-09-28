@@ -1,0 +1,7 @@
+{
+  "name": "terminal-toolkit-mcp",
+  "description": "Enables LLM clients to execute shell commands safely through the MCP protocol, with features like session management, safe mode, and process control.",
+  "source_repo": "camel-ai/terminal-toolkit-mcp",
+  "source_url": "https://github.com/camel-ai/terminal-toolkit-mcp",
+  "install": "npx -y terminal-toolkit-mcp"
+}

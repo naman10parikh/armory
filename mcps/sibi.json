@@ -1,0 +1,7 @@
+{
+  "name": "sibi",
+  "description": "MCP server that analyzes interpersonal disputes and provides a fault ratio based on facts, emotions, context, and relationship dynamics.",
+  "source_repo": "VVoodyHong/sibi-mcp",
+  "source_url": "https://github.com/VVoodyHong/sibi-mcp",
+  "install": "npx -y sibi-mcp"
+}

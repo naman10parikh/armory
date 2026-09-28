@@ -1,0 +1,7 @@
+{
+  "name": "revnuvo-mcp",
+  "description": "Revnuvo MCP server for the agent economy. Tools: verify domains, resolve DNS, assess domain trust/risk, register agents, create tasks, submit results, verify task outputs, and get agent reputation leaderboard. The canonical developer home for the Revnuvo x402 ecosystem — SDK, Gateway, and Resource A",
+  "source_repo": "",
+  "source_url": "https://mcp.revnuvo.site",
+  "install": "# git clone --depth 1 https://mcp.revnuvo.site\n# See source for mcpServers config block"
+}

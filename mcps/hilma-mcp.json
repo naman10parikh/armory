@@ -1,0 +1,7 @@
+{
+  "name": "hilma-mcp",
+  "description": "MCP server for Finnish public procurement notices (Hilma). Enables searching and retrieving procurement notices directly from Claude without a separate browser.",
+  "source_repo": "Aimiten/hilma-mcp",
+  "source_url": "https://github.com/Aimiten/hilma-mcp",
+  "install": "npx -y hilma-mcp"
+}

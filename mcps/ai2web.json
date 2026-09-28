@@ -1,0 +1,7 @@
+{
+  "name": "ai2web",
+  "description": "An MCP server for Claude and ChatGPT that discovers AI-ready websites and acts on them. It fronts the AI2Web Discovery Network with three tools: find_sites, describe_site, and call_site_action. Actions are approval-gated and SSRF-guarded, and no site needs to adopt anything, Claude and ChatGPT alrea",
+  "source_repo": "ai2web-foundation/ai2web-js",
+  "source_url": "https://github.com/ai2web-foundation/ai2web-js",
+  "install": "# git clone --depth 1 https://github.com/ai2web-foundation/ai2web-js\n# See source for mcpServers config block"
+}

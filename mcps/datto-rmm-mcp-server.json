@@ -1,0 +1,7 @@
+{
+  "name": "datto-rmm-mcp-server",
+  "description": "Comprehensive read/write access to the Datto RMM API v2, enabling management of devices, sites, alerts, audits, jobs, variables, filters, and activity logs through 46 tools.",
+  "source_repo": "am3cramirez/dattormm-mcp",
+  "source_url": "https://github.com/am3cramirez/dattormm-mcp",
+  "install": "npx -y dattormm-mcp"
+}

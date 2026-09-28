@@ -1,0 +1,7 @@
+{
+  "name": "guardpost-mcp-server",
+  "description": "Runtime agent firewall for PII redaction, rate limits, and policy enforcement, enabling autonomous agent security via MCP integration.",
+  "source_repo": "cognis-digital/guardpost",
+  "source_url": "https://github.com/cognis-digital/guardpost",
+  "install": "# git clone --depth 1 https://github.com/cognis-digital/guardpost\n# See source for mcpServers config block"
+}

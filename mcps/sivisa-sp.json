@@ -1,0 +1,7 @@
+{
+  "name": "sivisa-sp",
+  "description": "MCP server for read-only consultation of Sivisa: SP data from official sources. It provides a single tool (sivisa_sp_consultar) and works with any MCP client over HTTP, using prepaid credits.",
+  "source_repo": "mcp-dir/sivisa_sp-mcp",
+  "source_url": "https://github.com/mcp-dir/sivisa_sp-mcp",
+  "install": "npx -y sivisa_sp-mcp"
+}

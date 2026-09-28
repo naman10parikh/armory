@@ -1,0 +1,7 @@
+{
+  "name": "markmesh-mcp",
+  "description": "A trademark research and monitoring MCP server that provides access to a normalized trademark corpus across 30+ registers, with provenance on every record, watch/monitoring capabilities, conflict research via Nice class, and portfolio management tools—without returning legal verdicts, leaving availa",
+  "source_repo": "team-markmesh/mark_mesh_skill",
+  "source_url": "https://github.com/team-markmesh/mark_mesh_skill",
+  "install": "# git clone --depth 1 https://github.com/team-markmesh/mark_mesh_skill\n# See source for mcpServers config block"
+}

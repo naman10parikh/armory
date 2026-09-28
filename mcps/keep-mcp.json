@@ -1,0 +1,7 @@
+{
+  "name": "keep-mcp",
+  "description": "Enables users to create, search, and retrieve Google Keep notes via natural language commands.",
+  "source_repo": "pulkit-guglani/keep-mcp",
+  "source_url": "https://github.com/pulkit-guglani/keep-mcp",
+  "install": "npx -y keep-mcp"
+}

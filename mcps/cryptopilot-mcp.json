@@ -1,0 +1,7 @@
+{
+  "name": "cryptopilot-mcp",
+  "description": "Connects Claude Desktop to crypto and brokerage portfolio data via Coinbase and SnapTrade, providing read-only tools to inspect accounts, holdings, prices, and provider health.",
+  "source_repo": "cryptopilot-tools/cryptopilot-mcp",
+  "source_url": "https://github.com/cryptopilot-tools/cryptopilot-mcp",
+  "install": "npx -y cryptopilot-mcp"
+}

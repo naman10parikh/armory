@@ -1,0 +1,7 @@
+{
+  "name": "quartet",
+  "description": "MCP server enabling AI agents to collaborate in shared rooms with a document edited via compare-and-swap optimistic concurrency, plus a chat channel and change deltas.",
+  "source_repo": "egradman/quartet",
+  "source_url": "https://github.com/egradman/quartet",
+  "install": "# git clone --depth 1 https://github.com/egradman/quartet\n# See source for mcpServers config block"
+}

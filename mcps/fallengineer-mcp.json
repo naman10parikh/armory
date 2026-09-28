@@ -1,0 +1,7 @@
+{
+  "name": "fallengineer-mcp",
+  "description": "A sovereign, MIT-licensed MCP server that wraps the fallengineer SDK, enabling professional service workflows with offline capability and cryptographic signing.",
+  "source_repo": "sjgant80-hub/fallengineer-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallengineer-mcp",
+  "install": "npx -y fallengineer-mcp"
+}

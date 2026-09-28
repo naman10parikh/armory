@@ -1,0 +1,7 @@
+{
+  "name": "ezauto-mcp-learning-server",
+  "description": "MCP server for AI-powered roadside assistance case management, exposing SQLite-backed tools for querying case counts, statuses, and summaries through natural language via Gemini function calling.",
+  "source_repo": "iamswayam/mcp-ai-agent-demo",
+  "source_url": "https://github.com/iamswayam/mcp-ai-agent-demo",
+  "install": "# git clone --depth 1 https://github.com/iamswayam/mcp-ai-agent-demo\n# See source for mcpServers config block"
+}

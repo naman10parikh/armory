@@ -1,0 +1,7 @@
+{
+  "name": "chem-inventory-mcp",
+  "description": "MCP server for managing chemical inventory with SQLite. Enables search, detail view, stock deduction, usage history, and communication testing.",
+  "source_repo": "choizeus02/chem-inventory-mcp",
+  "source_url": "https://github.com/choizeus02/chem-inventory-mcp",
+  "install": "npx -y chem-inventory-mcp"
+}

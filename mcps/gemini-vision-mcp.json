@@ -1,0 +1,7 @@
+{
+  "name": "gemini-vision-mcp",
+  "description": "MCP server for describing video, image, audio, and text using the Gemini 3.1 Flash Live API with persistent WebSocket sessions.",
+  "source_repo": "Niruchie/gemini-vision-mcp",
+  "source_url": "https://github.com/Niruchie/gemini-vision-mcp",
+  "install": "npx -y gemini-vision-mcp"
+}

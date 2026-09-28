@@ -1,0 +1,7 @@
+{
+  "name": "rag-langgraph-mcp-server",
+  "description": "Exposes a RAG agent built with LangGraph, enabling retrieval-augmented question answering over a PostgreSQL/pgvector corpus via the MCP protocol.",
+  "source_repo": "andresjmnz92-jpg/rag-langgraph",
+  "source_url": "https://github.com/andresjmnz92-jpg/rag-langgraph",
+  "install": "# git clone --depth 1 https://github.com/andresjmnz92-jpg/rag-langgraph\n# See source for mcpServers config block"
+}

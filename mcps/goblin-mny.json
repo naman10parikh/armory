@@ -1,0 +1,7 @@
+{
+  "name": "goblin-mny",
+  "description": "A local MCP server that syncs New Zealand bank accounts from Akahu into a local SQLite cache, offering tools for transaction search, spending summaries, cashflow, recurring charges, and more for natural language money queries.",
+  "source_repo": "super-turbo-engineer/goblin-mny",
+  "source_url": "https://github.com/super-turbo-engineer/goblin-mny",
+  "install": "# git clone --depth 1 https://github.com/super-turbo-engineer/goblin-mny\n# See source for mcpServers config block"
+}

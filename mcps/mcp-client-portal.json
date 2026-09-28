@@ -1,0 +1,7 @@
+{
+  "name": "mcp-client-portal",
+  "description": "A lightweight MCP server for client relationship management, enabling client tracking, notes, and search via natural language.",
+  "source_repo": "globodai-group/mcp-client-portal",
+  "source_url": "https://github.com/globodai-group/mcp-client-portal",
+  "install": "# git clone --depth 1 https://github.com/globodai-group/mcp-client-portal\n# See source for mcpServers config block"
+}

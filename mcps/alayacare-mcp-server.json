@@ -1,0 +1,7 @@
+{
+  "name": "alayacare-mcp-server",
+  "description": "Bridges the AlayaCare home care platform with AI agents, enabling natural language queries for PSW details, client info, visit schedules, and geo-based proximity analysis.",
+  "source_repo": "deathracr/AlayaCare-MCP",
+  "source_url": "https://github.com/deathracr/AlayaCare-MCP",
+  "install": "npx -y AlayaCare-MCP"
+}

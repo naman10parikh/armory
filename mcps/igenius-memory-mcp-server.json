@@ -1,0 +1,7 @@
+{
+  "name": "igenius-memory-mcp-server",
+  "description": "Provides persistent AI memory and visual analysis tools for any MCP-compatible agent via the iGenius Memory service.",
+  "source_repo": "vehoelite/igenius-mcp",
+  "source_url": "https://github.com/vehoelite/igenius-mcp",
+  "install": "npx -y igenius-mcp"
+}

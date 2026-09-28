@@ -1,0 +1,7 @@
+{
+  "name": "this-needs-a-call",
+  "description": "Self-host a realtime voice-call companion for coding agents. Exposes an MCP endpoint that agents can poll as an alternate input stream.",
+  "source_repo": "jacobparis/this-needs-a-call",
+  "source_url": "https://github.com/jacobparis/this-needs-a-call",
+  "install": "# git clone --depth 1 https://github.com/jacobparis/this-needs-a-call\n# See source for mcpServers config block"
+}

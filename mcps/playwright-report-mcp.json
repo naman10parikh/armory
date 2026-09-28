@@ -1,0 +1,7 @@
+{
+  "name": "playwright-report-mcp",
+  "description": "An MCP server for running Playwright tests and reading structured results, failed test details, and attachment content, designed for AI agents doing test failure analysis.",
+  "source_repo": "hubertgajewski/playwright-report-mcp",
+  "source_url": "https://github.com/hubertgajewski/playwright-report-mcp",
+  "install": "npx -y playwright-report-mcp"
+}

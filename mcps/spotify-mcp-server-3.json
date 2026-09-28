@@ -1,0 +1,7 @@
+{
+  "name": "spotify-mcp-server-3",
+  "description": "An unofficial MCP server that provides access to Spotify's Web API through the Model Context Protocol, enabling AI assistants to search music, manage playlists, and control playback.",
+  "source_repo": "qchuchu/spotify-mcp-server",
+  "source_url": "https://github.com/qchuchu/spotify-mcp-server",
+  "install": "npx -y spotify-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vivado-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that enables AI assistants like Claude to directly interact with AMD/Xilinx Vivado FPGA development tools.",
+  "source_repo": "coreyhahn/vivado_mcp",
+  "source_url": "https://github.com/coreyhahn/vivado_mcp",
+  "install": "npx -y vivado_mcp"
+}

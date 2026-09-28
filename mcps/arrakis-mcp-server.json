@@ -1,6 +1,6 @@
 {
   "name": "arrakis-mcp-server",
-  "description": "Arrakis Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "abshkbh/arrakis-mcp-server",
   "source_url": "https://mcp.so/server/arrakis-mcp-server/abshkbh",
   "install": "npx -y arrakis-mcp-server"

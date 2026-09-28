@@ -1,0 +1,7 @@
+{
+  "name": "holoviz-mcp-server",
+  "description": "Let AI agents create interactive visualizations that render live inside your chat — no code required.",
+  "source_repo": "SuMayaBee/HoloViz-MCP-Server",
+  "source_url": "https://github.com/SuMayaBee/HoloViz-MCP-Server",
+  "install": "npx -y HoloViz-MCP-Server"
+}

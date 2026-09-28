@@ -1,0 +1,7 @@
+{
+  "name": "todo-full",
+  "description": "A todo list MCP server with Tools, Resources, and Prompts, demonstrating MCP features and compatible with DeepSeek and Claude Code.",
+  "source_repo": "Q11v/mcp-primer",
+  "source_url": "https://github.com/Q11v/mcp-primer",
+  "install": "# git clone --depth 1 https://github.com/Q11v/mcp-primer\n# See source for mcpServers config block"
+}

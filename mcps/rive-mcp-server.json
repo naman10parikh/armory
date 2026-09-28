@@ -1,0 +1,7 @@
+{
+  "name": "rive-mcp-server",
+  "description": "Orchestrates Rive animations by enabling discovery, integration, and composition across frameworks like React and Vue, with code generation and multi-backend storage.",
+  "source_repo": "astralisone/rive-mcp-server-core",
+  "source_url": "https://github.com/astralisone/rive-mcp-server-core",
+  "install": "# git clone --depth 1 https://github.com/astralisone/rive-mcp-server-core\n# See source for mcpServers config block"
+}

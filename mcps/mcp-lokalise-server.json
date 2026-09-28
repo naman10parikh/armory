@@ -1,0 +1,7 @@
+{
+  "name": "mcp-lokalise-server",
+  "description": "An MCP server for managing Lokalise translations, enabling creation, retrieval, and deletion of translation keys.",
+  "source_repo": "mert574/mcp-lokalise-server",
+  "source_url": "https://github.com/mert574/mcp-lokalise-server",
+  "install": "# git clone --depth 1 https://github.com/mert574/mcp-lokalise-server\n# See source for mcpServers config block"
+}

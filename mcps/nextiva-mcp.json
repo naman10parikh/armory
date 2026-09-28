@@ -1,0 +1,7 @@
+{
+  "name": "nextiva-mcp",
+  "description": "MCP server for Nextiva/Thrio contact center platform, providing tools to list users, campaigns, contacts, queues, and work item history.",
+  "source_repo": "MSPbotsAI/nextiva-mcp",
+  "source_url": "https://github.com/MSPbotsAI/nextiva-mcp",
+  "install": "npx -y nextiva-mcp"
+}

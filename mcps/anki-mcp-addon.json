@@ -1,0 +1,7 @@
+{
+  "name": "anki-mcp-addon",
+  "description": "Enables to interact with your Anki collection through natural language, allowing you to study, edit, and analyze flashcards without external dependencies.",
+  "source_repo": "luiz-santos-it/anki-mcp-addon",
+  "source_url": "https://github.com/luiz-santos-it/anki-mcp-addon",
+  "install": "# git clone --depth 1 https://github.com/luiz-santos-it/anki-mcp-addon\n# See source for mcpServers config block"
+}

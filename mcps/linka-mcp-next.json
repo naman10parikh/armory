@@ -1,0 +1,7 @@
+{
+  "name": "linka-mcp-next",
+  "description": "A lightweight, modular MCP server for the Linka ecosystem, providing read-only runtime diagnostics, teach artifact management, and controlled actions via a clear contract layer.",
+  "source_repo": "VodoooFilms/linka-mcp-next",
+  "source_url": "https://github.com/VodoooFilms/linka-mcp-next",
+  "install": "# git clone --depth 1 https://github.com/VodoooFilms/linka-mcp-next\n# See source for mcpServers config block"
+}

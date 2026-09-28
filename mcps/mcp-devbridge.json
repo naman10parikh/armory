@@ -1,0 +1,7 @@
+{
+  "name": "mcp-devbridge",
+  "description": "Exposes a local development project as a secure MCP server over a stable HTTPS URL via Cloudflare tunnel, with configurable access permissions and 33 development tools for file, command, Git, and process operations.",
+  "source_repo": "ShiningSugar35/mcp-devbridge",
+  "source_url": "https://github.com/ShiningSugar35/mcp-devbridge",
+  "install": "# git clone --depth 1 https://github.com/ShiningSugar35/mcp-devbridge\n# See source for mcpServers config block"
+}

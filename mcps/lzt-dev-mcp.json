@@ -1,0 +1,7 @@
+{
+  "name": "lzt-dev-mcp",
+  "description": "MCP server for lolzteam/lzt.market ecosystem providing 29 tools for raw API requests, flow scenario management, event subscriptions, and API introspection.",
+  "source_repo": "open-lzt/lzt-mcp",
+  "source_url": "https://github.com/open-lzt/lzt-mcp",
+  "install": "npx -y lzt-mcp"
+}

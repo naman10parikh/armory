@@ -1,0 +1,7 @@
+{
+  "name": "desire-mcp",
+  "description": "An MCP server implementing a desire-driven system for AI, managing nine drive dimensions, thought pools, and generating behavior suggestions and inner monologues. It provides tools to view status, trigger events, run heartbeats, and resolve thoughts with persistent storage.",
+  "source_repo": "ye20080520/desire-mcp",
+  "source_url": "https://github.com/ye20080520/desire-mcp",
+  "install": "npx -y desire-mcp"
+}

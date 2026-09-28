@@ -1,0 +1,7 @@
+{
+  "name": "local-events-finder",
+  "description": "Connects Claude to the Ticketmaster API to let users discover local events by city, category, keyword, or weekend through natural conversation.",
+  "source_repo": "raheeltanvir/local-events-mcp",
+  "source_url": "https://github.com/raheeltanvir/local-events-mcp",
+  "install": "npx -y local-events-mcp"
+}

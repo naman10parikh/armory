@@ -1,0 +1,7 @@
+{
+  "name": "citlyze",
+  "description": "Read-only access to your Citlyze AI search visibility workspace: visibility scores, tracked prompts, citations, competitor comparison, recommendations, and AI crawler analytics.",
+  "source_repo": "Citlyze/citlyze-mcp",
+  "source_url": "https://github.com/Citlyze/citlyze-mcp",
+  "install": "npx -y citlyze-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cellar",
+  "description": "An interactive notebook server that enables humans and AI agents to collaboratively edit and run Jupyter notebooks on a shared kernel, with real-time streaming and automatic MCP integration for agent access.",
+  "source_repo": "fbereilh/cellar",
+  "source_url": "https://github.com/fbereilh/cellar",
+  "install": "# git clone --depth 1 https://github.com/fbereilh/cellar\n# See source for mcpServers config block"
+}

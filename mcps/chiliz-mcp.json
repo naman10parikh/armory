@@ -1,0 +1,7 @@
+{
+  "name": "chiliz-mcp",
+  "description": "Advanced MCP server for the Chiliz blockchain ecosystem, providing tools for fan token management, DeFi operations, sports analytics, and social sentiment tracking.",
+  "source_repo": "BrunoPessoa22/chiliz-mcp",
+  "source_url": "https://github.com/BrunoPessoa22/chiliz-mcp",
+  "install": "npx -y chiliz-mcp"
+}

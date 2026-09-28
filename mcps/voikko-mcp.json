@@ -1,0 +1,7 @@
+{
+  "name": "voikko-mcp",
+  "description": "Finnish language verification MCP server providing spell checking, grammar checking, morphological analysis, hyphenation, and tokenization tools.",
+  "source_repo": "Markus-Pasanen/voikko-mcp",
+  "source_url": "https://github.com/Markus-Pasanen/voikko-mcp",
+  "install": "npx -y voikko-mcp"
+}

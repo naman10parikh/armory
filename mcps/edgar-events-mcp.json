@@ -1,0 +1,7 @@
+{
+  "name": "edgar-events-mcp",
+  "description": "Provides live SEC filing events including resolved activist stakes (13D) and typed 8-K, S-1, and merger filings via the EDGAR Events API.",
+  "source_repo": "reedox/edgar-events-mcp",
+  "source_url": "https://github.com/reedox/edgar-events-mcp",
+  "install": "npx -y edgar-events-mcp"
+}

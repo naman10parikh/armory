@@ -1,0 +1,7 @@
+{
+  "name": "ionos-cloud-mcp-server",
+  "description": "Inspect and manage IONOS CLOUD infrastructure via MCP",
+  "source_repo": "ionos-cloud/ionoscloud-mcp",
+  "source_url": "https://github.com/ionos-cloud/ionoscloud-mcp",
+  "install": "npx -y ionoscloud-mcp"
+}

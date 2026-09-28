@@ -1,0 +1,7 @@
+{
+  "name": "multichain-mcp-server",
+  "description": "The only MCP server that gives AI agents native access to Stacks, Celo, and Base — from a single npm package.",
+  "source_repo": "wkalidev/multichain-mcp",
+  "source_url": "https://github.com/wkalidev/multichain-mcp",
+  "install": "npx -y multichain-mcp"
+}

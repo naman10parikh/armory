@@ -1,0 +1,7 @@
+{
+  "name": "mcp-apps-demo-engine",
+  "description": "An extensible MCP server and generative UI engine for hosting interactive B2B enterprise workflows with dynamic styling and stateful simulators.",
+  "source_repo": "SwePalm/mcp-apps-demo-engine",
+  "source_url": "https://github.com/SwePalm/mcp-apps-demo-engine",
+  "install": "# git clone --depth 1 https://github.com/SwePalm/mcp-apps-demo-engine\n# See source for mcpServers config block"
+}

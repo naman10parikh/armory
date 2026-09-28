@@ -1,0 +1,7 @@
+{
+  "name": "white-hat-agent-core",
+  "description": "A model-neutral cyber capability brain for AI agents and human researchers, providing MCP tools for knowledge ingestion, composition, campaign planning, fleet management, evidence binding, and discovery replay.",
+  "source_repo": "kappa9999/white-hat-agent",
+  "source_url": "https://github.com/kappa9999/white-hat-agent",
+  "install": "# git clone --depth 1 https://github.com/kappa9999/white-hat-agent\n# See source for mcpServers config block"
+}

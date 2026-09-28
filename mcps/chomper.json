@@ -1,0 +1,7 @@
+{
+  "name": "chomper",
+  "description": "Chomps through any document, parsing 36+ file formats for AI systems like Claude.",
+  "source_repo": "IcHiGo-KuRoSaKiI/Chomper",
+  "source_url": "https://github.com/IcHiGo-KuRoSaKiI/Chomper",
+  "install": "# git clone --depth 1 https://github.com/IcHiGo-KuRoSaKiI/Chomper\n# See source for mcpServers config block"
+}

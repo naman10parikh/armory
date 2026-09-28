@@ -1,0 +1,7 @@
+{
+  "name": "lumify-sports-intelligence",
+  "description": "Schedules, scores, odds, splits & explainable AI bet confidence — 8+ sports, free instant key.",
+  "source_repo": "lumifyai/lumify",
+  "source_url": "https://github.com/lumifyai/lumify",
+  "install": "# git clone --depth 1 https://github.com/lumifyai/lumify\n# See source for mcpServers config block"
+}

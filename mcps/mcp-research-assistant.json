@@ -1,0 +1,7 @@
+{
+  "name": "mcp-research-assistant",
+  "description": "A research assistant server that enables saving, organizing, and retrieving research content with semantic search using ChromaDB and OpenAI embeddings.",
+  "source_repo": "CyprianFusi/mcp-research-assistant",
+  "source_url": "https://github.com/CyprianFusi/mcp-research-assistant",
+  "install": "# git clone --depth 1 https://github.com/CyprianFusi/mcp-research-assistant\n# See source for mcpServers config block"
+}

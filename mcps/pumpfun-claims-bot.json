@@ -1,0 +1,7 @@
+{
+  "name": "pumpfun-claims-bot",
+  "description": "Monitors Solana PumpFun on-chain activity and broadcasts rich, intelligence-enriched Telegram cards for GitHub social fee claims and token graduations, including credibility scores, dev track records, and influencer tiers.",
+  "source_repo": "nirholas/pumpfun-claims-bot",
+  "source_url": "https://github.com/nirholas/pumpfun-claims-bot",
+  "install": "# git clone --depth 1 https://github.com/nirholas/pumpfun-claims-bot\n# See source for mcpServers config block"
+}

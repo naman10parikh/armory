@@ -1,0 +1,7 @@
+{
+  "name": "kgrag-mcp-server",
+  "description": "Implements the Model Context Protocol for managing, ingesting, and querying structured and unstructured data with integration to graph databases, vector search, and LLMs.",
+  "source_repo": "gzileni/kgrag_mcp_server",
+  "source_url": "https://github.com/gzileni/kgrag_mcp_server",
+  "install": "npx -y kgrag_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "streeteasy-mcp",
+  "description": "A remote MCP server that wraps the StreetEasy GraphQL API to enable LLM agents to search and parse NYC rental listings.",
+  "source_repo": "Alec2435/streeteasy-mcp",
+  "source_url": "https://github.com/Alec2435/streeteasy-mcp",
+  "install": "npx -y streeteasy-mcp"
+}

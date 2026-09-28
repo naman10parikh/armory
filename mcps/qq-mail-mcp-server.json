@@ -1,0 +1,7 @@
+{
+  "name": "qq-mail-mcp-server",
+  "description": "Enables natural language interaction with Tencent QQ Mail through MCP, supporting sending, reading, and managing emails securely.",
+  "source_repo": "LiXia-619/qq-agent-mail-mcp",
+  "source_url": "https://github.com/LiXia-619/qq-agent-mail-mcp",
+  "install": "npx -y qq-agent-mail-mcp"
+}

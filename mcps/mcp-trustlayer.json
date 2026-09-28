@@ -1,0 +1,7 @@
+{
+  "name": "mcp-trustlayer",
+  "description": "An MCP server that lets an agent verify its own extracted data against a policy, returning per-field dispositions (post, review, or escaped) to catch confidently wrong answers.",
+  "source_repo": "neelbarm/mcp-trustlayer",
+  "source_url": "https://github.com/neelbarm/mcp-trustlayer",
+  "install": "# git clone --depth 1 https://github.com/neelbarm/mcp-trustlayer\n# See source for mcpServers config block"
+}

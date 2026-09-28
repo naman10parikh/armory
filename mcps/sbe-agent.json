@@ -1,0 +1,7 @@
+{
+  "name": "sbe-agent",
+  "description": "Enables users to chat with an LLM agent that creates and reads Word, Excel, PDF, and JSON files, and accesses databases (letters, documents, LIMS) according to user permissions.",
+  "source_repo": "Epyur/sbe-agent",
+  "source_url": "https://github.com/Epyur/sbe-agent",
+  "install": "# git clone --depth 1 https://github.com/Epyur/sbe-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xueqiu-mcp",
+  "description": "Enables querying real-time stock data for A-shares, Hong Kong, and US markets, including search, price details, and market indices via natural language.",
+  "source_repo": "solarhell/xueqiu-mcp",
+  "source_url": "https://github.com/solarhell/xueqiu-mcp",
+  "install": "npx -y xueqiu-mcp"
+}

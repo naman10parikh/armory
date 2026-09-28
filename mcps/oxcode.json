@@ -1,0 +1,7 @@
+{
+  "name": "oxcode",
+  "description": "Enables coding agents to navigate and query source code by providing context, symbols, and call graph information through a graph index.",
+  "source_repo": "oxgraph/oxcode",
+  "source_url": "https://github.com/oxgraph/oxcode",
+  "install": "# git clone --depth 1 https://github.com/oxgraph/oxcode\n# See source for mcpServers config block"
+}

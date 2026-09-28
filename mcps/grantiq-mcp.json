@@ -1,0 +1,7 @@
+{
+  "name": "grantiq-mcp",
+  "description": "A paid MCP server that gives AI agents instant, structured access to every open US federal grant and contract opportunity.",
+  "source_repo": "bch1212/mcp-grantiq",
+  "source_url": "https://github.com/bch1212/mcp-grantiq",
+  "install": "# git clone --depth 1 https://github.com/bch1212/mcp-grantiq\n# See source for mcpServers config block"
+}

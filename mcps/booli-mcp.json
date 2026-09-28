@@ -1,0 +1,7 @@
+{
+  "name": "booli-mcp",
+  "description": "Enables searching Swedish property listings, sold prices, areas, and market statistics via the Booli API using natural language.",
+  "source_repo": "chrischall/booli-mcp",
+  "source_url": "https://github.com/chrischall/booli-mcp",
+  "install": "npx -y booli-mcp"
+}

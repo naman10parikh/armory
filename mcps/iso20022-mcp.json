@@ -1,0 +1,7 @@
+{
+  "name": "iso20022-mcp",
+  "description": "Unified gateway for ISO 20022 message families, providing meta-tools to search, describe, validate, generate, and parse financial messages.",
+  "source_repo": "sebastienrousseau/iso20022-mcp",
+  "source_url": "https://github.com/sebastienrousseau/iso20022-mcp",
+  "install": "npx -y iso20022-mcp"
+}

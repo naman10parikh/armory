@@ -1,0 +1,7 @@
+{
+  "name": "paydirt-mcp",
+  "description": "Enables coding agents to install and manage Paydirt's iOS SDK for user feedback, trial cancellation, and subscription cancellation, with Slack integration and app building.",
+  "source_repo": "Paydirt-AI/paydirt-mcp",
+  "source_url": "https://github.com/Paydirt-AI/paydirt-mcp",
+  "install": "npx -y paydirt-mcp"
+}

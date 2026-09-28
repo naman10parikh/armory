@@ -1,0 +1,7 @@
+{
+  "name": "aurelius",
+  "description": "A fact-checked research MCP server that screens topics, drafts outlines, searches the web, and verifies every citation against live sources, eliminating hallucinated references.",
+  "source_repo": "vibhorxpandey/Aurelius",
+  "source_url": "https://github.com/vibhorxpandey/Aurelius",
+  "install": "# git clone --depth 1 https://github.com/vibhorxpandey/Aurelius\n# See source for mcpServers config block"
+}

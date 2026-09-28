@@ -1,0 +1,7 @@
+{
+  "name": "caesarcipher-mcp-server",
+  "description": "Provides a Caesar cipher encoding tool as a remote MCP server, enabling prompt agents to encode plaintext messages.",
+  "source_repo": "SomeNewKid/CaesarCipher",
+  "source_url": "https://github.com/SomeNewKid/CaesarCipher",
+  "install": "# git clone --depth 1 https://github.com/SomeNewKid/CaesarCipher\n# See source for mcpServers config block"
+}

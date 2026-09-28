@@ -1,0 +1,7 @@
+{
+  "name": "charm",
+  "description": "Provides AI agents with authoritative OEM automotive repair data including part numbers, torque specs, fluid capacities, and service procedures for vehicles 1982-2013 across 80+ makes, sourced from factory service manuals.",
+  "source_repo": "bitMacrocode/charm-mcp",
+  "source_url": "https://github.com/bitMacrocode/charm-mcp",
+  "install": "npx -y charm-mcp"
+}

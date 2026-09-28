@@ -1,0 +1,7 @@
+{
+  "name": "e3d-ai",
+  "description": "Blockchain analytics and AI agent platform for Ethereum. Query live token prices, on-chain stories, investment theses, and the E3D autonomous agent system — all backed by real-time indexed data. **Works anonymously** at the free tier (100 req/day). Add an API key from [e3d.ai/api](https://e3d.ai/api",
+  "source_repo": "",
+  "source_url": "https://e3d.ai",
+  "install": "# git clone --depth 1 https://e3d.ai\n# See source for mcpServers config block"
+}

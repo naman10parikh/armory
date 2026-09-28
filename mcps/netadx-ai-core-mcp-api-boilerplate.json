@@ -1,0 +1,7 @@
+{
+  "name": "netadx-ai-core-mcp-api-boilerplate",
+  "description": "A minimal, production-ready MCP server boilerplate for building AI-powered backend services with TypeScript, MongoDB, and JWT authentication.",
+  "source_repo": "netadx1ai/mcp_aicore_boilerplate",
+  "source_url": "https://github.com/netadx1ai/mcp_aicore_boilerplate",
+  "install": "# git clone --depth 1 https://github.com/netadx1ai/mcp_aicore_boilerplate\n# See source for mcpServers config block"
+}

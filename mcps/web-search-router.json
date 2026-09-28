@@ -1,0 +1,7 @@
+{
+  "name": "web-search-router",
+  "description": "A remote MCP server that routes web search queries across multiple providers (HTTP APIs, external MCP servers, LLM with grounding) with intelligent fallback and quota management.",
+  "source_repo": "msmirnyagin/wed-search-cloudflare",
+  "source_url": "https://github.com/msmirnyagin/wed-search-cloudflare",
+  "install": "# git clone --depth 1 https://github.com/msmirnyagin/wed-search-cloudflare\n# See source for mcpServers config block"
+}

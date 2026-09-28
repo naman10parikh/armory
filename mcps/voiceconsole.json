@@ -1,0 +1,7 @@
+{
+  "name": "voiceconsole",
+  "description": "A local MCP server that lets users control their computer via voice commands, executing CLI tools, searching files, and receiving spoken feedback, with safety gating and confirmation.",
+  "source_repo": "anyuer678/voiceconsole",
+  "source_url": "https://github.com/anyuer678/voiceconsole",
+  "install": "# git clone --depth 1 https://github.com/anyuer678/voiceconsole\n# See source for mcpServers config block"
+}

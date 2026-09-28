@@ -1,0 +1,7 @@
+{
+  "name": "arcrift-mcp-server",
+  "description": "Persistent memory for AI coding tools that captures conversations, builds a searchable knowledge graph, and automatically injects relevant context into new prompts.",
+  "source_repo": "Eshaan-Nair/ArcRift",
+  "source_url": "https://github.com/Eshaan-Nair/ArcRift",
+  "install": "# git clone --depth 1 https://github.com/Eshaan-Nair/ArcRift\n# See source for mcpServers config block"
+}

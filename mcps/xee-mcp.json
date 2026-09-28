@@ -1,0 +1,7 @@
+{
+  "name": "xee-mcp",
+  "description": "Enables AI assistants to search X posts and read user timelines without API costs, using cookie authentication.",
+  "source_repo": "Aiyo28/Xee-mcp",
+  "source_url": "https://github.com/Aiyo28/Xee-mcp",
+  "install": "npx -y Xee-mcp"
+}

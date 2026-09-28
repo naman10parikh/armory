@@ -1,0 +1,7 @@
+{
+  "name": "root-mcp-server",
+  "description": "Enables LLMs and MCP clients to execute Python and C++ code using ROOT's PyROOT interface, with support for graphics and error detection.",
+  "source_repo": "omazapa/root_mcp_server",
+  "source_url": "https://github.com/omazapa/root_mcp_server",
+  "install": "npx -y root_mcp_server"
+}

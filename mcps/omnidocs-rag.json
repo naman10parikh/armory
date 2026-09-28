@@ -1,0 +1,7 @@
+{
+  "name": "omnidocs-rag",
+  "description": "Enables AI agents to index and search local files, websites, GitHub repos, and packages using hybrid retrieval with reranking, all through IDE chat.",
+  "source_repo": "ElvinBayramov/OmniDocs-RAG",
+  "source_url": "https://github.com/ElvinBayramov/OmniDocs-RAG",
+  "install": "# git clone --depth 1 https://github.com/ElvinBayramov/OmniDocs-RAG\n# See source for mcpServers config block"
+}

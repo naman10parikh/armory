@@ -1,0 +1,7 @@
+{
+  "name": "sensenova-u1-mcp",
+  "description": "An MCP server that generates images using SenseNova U1 Fast API. Supports Chinese prompts, multiple resolutions, and generating up to 4 images per request.",
+  "source_repo": "Microbiosis/sensenova-u1-mcp",
+  "source_url": "https://github.com/Microbiosis/sensenova-u1-mcp",
+  "install": "npx -y sensenova-u1-mcp"
+}

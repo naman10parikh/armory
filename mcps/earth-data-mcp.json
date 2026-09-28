@@ -1,0 +1,7 @@
+{
+  "name": "earth-data-mcp",
+  "description": "An MCP server that makes live Earth data usable by AI agents. Its initial data sources cover natural hazards: earthquakes from the USGS FDSN event catalog and volcanic activity from the Smithsonian Global Volcanism Program.",
+  "source_repo": "fablackner/earth-data-mcp",
+  "source_url": "https://github.com/fablackner/earth-data-mcp",
+  "install": "npx -y earth-data-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "redmine-mcp-server-2",
+  "description": "Enables AI applications to interact with Redmine project management systems for issue tracking, time logging, and project management through natural language.",
+  "source_repo": "Wint3rmute/redmine-mcp",
+  "source_url": "https://github.com/Wint3rmute/redmine-mcp",
+  "install": "npx -y redmine-mcp"
+}

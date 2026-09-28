@@ -1,0 +1,7 @@
+{
+  "name": "pitch-queens-mcp-server",
+  "description": "Read-only MCP server exposing game rules, FAQs, and official links for the Women's World Cup 2027 simulator Pitch Queens, enabling AI clients to retrieve verified context without API keys.",
+  "source_repo": "rocnubie/pitch-queens-mcp",
+  "source_url": "https://github.com/rocnubie/pitch-queens-mcp",
+  "install": "npx -y pitch-queens-mcp"
+}

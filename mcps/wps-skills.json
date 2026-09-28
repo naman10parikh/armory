@@ -1,0 +1,7 @@
+{
+  "name": "wps-skills",
+  "description": "MCP server enabling AI assistants to control WPS Office (Excel, Word, PPT) through natural language.",
+  "source_repo": "l0s3r-Q/wps-skills",
+  "source_url": "https://github.com/l0s3r-Q/wps-skills",
+  "install": "# git clone --depth 1 https://github.com/l0s3r-Q/wps-skills\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "istat-mcp-suite",
+  "description": "Enables querying, exploring, and downloading ISTAT statistical datasets via SDMX REST API, with unified metadata, territorial code resolution, and data extraction.",
+  "source_repo": "ManoloZocco/istat-mcp-suite",
+  "source_url": "https://github.com/ManoloZocco/istat-mcp-suite",
+  "install": "# git clone --depth 1 https://github.com/ManoloZocco/istat-mcp-suite\n# See source for mcpServers config block"
+}

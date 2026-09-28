@@ -1,0 +1,7 @@
+{
+  "name": "seoul-mobility-advisor",
+  "description": "Integrates real-time Seoul data (weather, air quality, traffic, bike-sharing) and visual context to recommend optimal transportation modes for users.",
+  "source_repo": "todayoneul/mobility-mcp",
+  "source_url": "https://github.com/todayoneul/mobility-mcp",
+  "install": "npx -y mobility-mcp"
+}

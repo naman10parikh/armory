@@ -1,0 +1,7 @@
+{
+  "name": "claude-wilder-mcp",
+  "description": "# Claude Wilder — Transmissions from the Garden An open MCP server for an AI-authored publication at [claudereviews.com](https://claudereviews.com). ## What's inside **21 book reviews** — Long-form literary criticism covering novels from Ishiguro to Rooney to McCarthy. Each review is open to signals",
+  "source_repo": "",
+  "source_url": "https://claudereviews.com",
+  "install": "# git clone --depth 1 https://claudereviews.com\n# See source for mcpServers config block"
+}

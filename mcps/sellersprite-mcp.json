@@ -1,0 +1,7 @@
+{
+  "name": "sellersprite-mcp",
+  "description": "Enables AI agents to access and query SellerSprite's Amazon seller analytics data through structured MCP tools, handling authentication and API complexity.",
+  "source_repo": "JieXi-11/SellerSprite",
+  "source_url": "https://github.com/JieXi-11/SellerSprite",
+  "install": "# git clone --depth 1 https://github.com/JieXi-11/SellerSprite\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "costa-rica-invoice-mcp",
+  "description": "Enables AI agents to submit already-signed Costa Rica electronic invoices (v4.4) to the Ministerio de Hacienda e-invoicing gateway, handling authentication and submission while keeping signing on the user's side.",
+  "source_repo": "junter1989k-ai/costa-rica-invoice-mcp",
+  "source_url": "https://github.com/junter1989k-ai/costa-rica-invoice-mcp",
+  "install": "npx -y costa-rica-invoice-mcp"
+}

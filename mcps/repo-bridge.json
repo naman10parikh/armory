@@ -1,0 +1,7 @@
+{
+  "name": "repo-bridge",
+  "description": "MCP server that turns ChatGPT Web or any MCP client into a coding agent on your own repositories, enabling file editing, command execution, testing, and git workflow without an OpenAI API key.",
+  "source_repo": "zcrossoverz/repo-bridge",
+  "source_url": "https://github.com/zcrossoverz/repo-bridge",
+  "install": "# git clone --depth 1 https://github.com/zcrossoverz/repo-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "biomcp",
+  "description": "A high-performance MCP server that gives LLMs access to 25 biomedical tools federated across 50+ upstream APIs for genes, variants, drugs, diseases, literature, clinical trials, and structural biology.",
+  "source_repo": "yeyuan98/biomcp-ts",
+  "source_url": "https://github.com/yeyuan98/biomcp-ts",
+  "install": "# git clone --depth 1 https://github.com/yeyuan98/biomcp-ts\n# See source for mcpServers config block"
+}

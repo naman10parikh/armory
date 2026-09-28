@@ -1,0 +1,7 @@
+{
+  "name": "follow-up-boss-connector",
+  "description": "A self-hosted MCP server that connects a Follow Up Boss CRM account to Claude, enabling CRM operations through natural language via 25 curated tools and a raw API tool.",
+  "source_repo": "thehillisrockin/fub-claude-connector",
+  "source_url": "https://github.com/thehillisrockin/fub-claude-connector",
+  "install": "# git clone --depth 1 https://github.com/thehillisrockin/fub-claude-connector\n# See source for mcpServers config block"
+}

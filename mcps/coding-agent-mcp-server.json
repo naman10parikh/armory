@@ -1,0 +1,7 @@
+{
+  "name": "coding-agent-mcp-server",
+  "description": "Provides coding agent capabilities including file operations, terminal commands, search functionality, and utility operations.",
+  "source_repo": "Sukarth/coding-agent-mcp",
+  "source_url": "https://github.com/Sukarth/coding-agent-mcp",
+  "install": "npx -y coding-agent-mcp"
+}

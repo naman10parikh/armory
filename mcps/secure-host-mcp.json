@@ -1,0 +1,7 @@
+{
+  "name": "secure-host-mcp",
+  "description": "Exposes a Windows or Linux host terminal to remote MCP clients via Streamable HTTP, enabling command execution, tunnel management, and privileged operations with security features like OAuth and audit logging.",
+  "source_repo": "Razewang/secure-host-mcp",
+  "source_url": "https://github.com/Razewang/secure-host-mcp",
+  "install": "npx -y secure-host-mcp"
+}

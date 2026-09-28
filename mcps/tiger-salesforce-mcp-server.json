@@ -1,0 +1,7 @@
+{
+  "name": "tiger-salesforce-mcp-server",
+  "description": "Enables semantic search of Salesforce case summaries using embeddings, accessible via MCP tools and REST API.",
+  "source_repo": "timescale/tiger-salesforce-mcp-server",
+  "source_url": "https://github.com/timescale/tiger-salesforce-mcp-server",
+  "install": "npx -y tiger-salesforce-mcp-server"
+}

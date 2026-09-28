@@ -1,0 +1,7 @@
+{
+  "name": "onchain-forensics",
+  "description": "Provides on-chain forensic checks for evaluating transaction risks, including token verification, rug-pull detection, and fund tracing, using public blockchain endpoints.",
+  "source_repo": "philpof102-svg/onchain-forensics",
+  "source_url": "https://github.com/philpof102-svg/onchain-forensics",
+  "install": "# git clone --depth 1 https://github.com/philpof102-svg/onchain-forensics\n# See source for mcpServers config block"
+}

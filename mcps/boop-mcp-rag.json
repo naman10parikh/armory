@@ -1,0 +1,7 @@
+{
+  "name": "boop-mcp-rag",
+  "description": "Enables local RAG orchestration with MCP, providing context retrieval, in-memory text ingestion, explicit tool invocation, and transport-neutral tool discovery.",
+  "source_repo": "ttacleinad-boop/MCP---RAG",
+  "source_url": "https://github.com/ttacleinad-boop/MCP---RAG",
+  "install": "# git clone --depth 1 https://github.com/ttacleinad-boop/MCP---RAG\n# See source for mcpServers config block"
+}

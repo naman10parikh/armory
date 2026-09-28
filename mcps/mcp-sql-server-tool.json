@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sql-server-tool",
+  "description": "A read-only MCP server for Microsoft SQL Server that enables metadata discovery, parameterized queries, and query analysis with profile-based configuration and strict no-DML/DDL enforcement.",
+  "source_repo": "alyiox/mcp-mssql",
+  "source_url": "https://github.com/alyiox/mcp-mssql",
+  "install": "# git clone --depth 1 https://github.com/alyiox/mcp-mssql\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "voidsend-mcp",
+  "description": "MCP server for VoidSend enabling AI agents to send and receive end-to-end encrypted messages.",
+  "source_repo": "JamshedMemon/voidsend-mcp",
+  "source_url": "https://github.com/JamshedMemon/voidsend-mcp",
+  "install": "npx -y voidsend-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "psql-mcp",
+  "description": "A hardened, read-only Postgres MCP server that enables LLMs to safely query databases without write, DDL, shell, or credential exposure.",
+  "source_repo": "maxswjeon/psql-mcp",
+  "source_url": "https://github.com/maxswjeon/psql-mcp",
+  "install": "npx -y psql-mcp"
+}

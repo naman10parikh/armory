@@ -1,0 +1,7 @@
+{
+  "name": "scr-banco-central-detalhado",
+  "description": "Provides detailed credit operation records from the Brazilian Central Bank's SCR system for individuals or companies, filterable by reference month and year. Enables read-only queries through a single hosted tool.",
+  "source_repo": "mcp-dir/scr_bacen_detalhado-mcp",
+  "source_url": "https://github.com/mcp-dir/scr_bacen_detalhado-mcp",
+  "install": "npx -y scr_bacen_detalhado-mcp"
+}

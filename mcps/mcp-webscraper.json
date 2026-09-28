@@ -1,0 +1,7 @@
+{
+  "name": "mcp-webscraper",
+  "description": "Enables Claude Desktop to perform advanced web scraping and crawling operations, extracting structured data, analyzing website architectures, and discovering content relationships through natural conversation.",
+  "source_repo": "samirsaci/mcp-webscraper",
+  "source_url": "https://github.com/samirsaci/mcp-webscraper",
+  "install": "# git clone --depth 1 https://github.com/samirsaci/mcp-webscraper\n# See source for mcpServers config block"
+}

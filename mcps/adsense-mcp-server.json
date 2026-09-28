@@ -1,0 +1,7 @@
+{
+  "name": "adsense-mcp-server",
+  "description": "Connects Google AdSense to MCP clients like Claude and Cursor, enabling earnings summaries, detailed reports, site status checks, and more via natural language.",
+  "source_repo": "AppsYogi-com/adsense-mcp-server",
+  "source_url": "https://github.com/AppsYogi-com/adsense-mcp-server",
+  "install": "npx -y adsense-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "katto-mcp",
+  "description": "Enables creating and managing Katto video clipping jobs from any MCP client, turning long videos into scored, captioned 9:16 clips.",
+  "source_repo": "miracleweasel/katto-mcp",
+  "source_url": "https://github.com/miracleweasel/katto-mcp",
+  "install": "npx -y katto-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "knownfix",
+  "description": "Provides verified fixes for real developer errors to AI agents via MCP, with free sample fixes and paid per-lookup transactions on Base mainnet. Enables searching fixes, browsing the catalog, retrieving offers and fixes, and submitting new fixes.",
+  "source_repo": "b-hash88/knownfix",
+  "source_url": "https://github.com/b-hash88/knownfix",
+  "install": "# git clone --depth 1 https://github.com/b-hash88/knownfix\n# See source for mcpServers config block"
+}

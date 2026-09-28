@@ -1,0 +1,7 @@
+{
+  "name": "suparch",
+  "description": "Suparch is an open-source MCP server for searching, comparing, and calculating structured supplement facts.",
+  "source_repo": "namJeongwan/suparch",
+  "source_url": "https://github.com/namJeongwan/suparch",
+  "install": "# git clone --depth 1 https://github.com/namJeongwan/suparch\n# See source for mcpServers config block"
+}

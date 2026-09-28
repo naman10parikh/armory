@@ -1,0 +1,7 @@
+{
+  "name": "versatile-mcp",
+  "description": "A modular MCP server that provides AI agents with cognitive memory, local system access, and secure remote execution capabilities through three integrated layers (Brain, Master, Remote).",
+  "source_repo": "MSelcukAkbas/versatile-mcp",
+  "source_url": "https://github.com/MSelcukAkbas/versatile-mcp",
+  "install": "npx -y versatile-mcp"
+}

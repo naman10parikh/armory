@@ -1,0 +1,7 @@
+{
+  "name": "centerfield-visitor-mcp",
+  "description": "Automates visitor reservations for the Centerfield building by registering guests via natural language, pasted text, or Excel/CSV files, using MCP-compatible AI agents.",
+  "source_repo": "hmkim/centerfield-visitor-mcp",
+  "source_url": "https://github.com/hmkim/centerfield-visitor-mcp",
+  "install": "npx -y centerfield-visitor-mcp"
+}

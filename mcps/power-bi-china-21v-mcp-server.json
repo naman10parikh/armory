@@ -1,0 +1,7 @@
+{
+  "name": "power-bi-china-21v-mcp-server",
+  "description": "Enables read-only analysis of Power BI China reports and semantic models through the China REST API, supporting report discovery, metadata retrieval, and DAX query execution.",
+  "source_repo": "EdwinDigital/powerbi-cn-skill",
+  "source_url": "https://github.com/EdwinDigital/powerbi-cn-skill",
+  "install": "# git clone --depth 1 https://github.com/EdwinDigital/powerbi-cn-skill\n# See source for mcpServers config block"
+}

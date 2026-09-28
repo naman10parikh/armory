@@ -1,0 +1,7 @@
+{
+  "name": "aegisquery",
+  "description": "A governed analytics MCP server that provides LLM agents with safe, read-only access to data warehouses through a layered safety pipeline including AST validation, column/row governance, PII masking, cost limits, and audit.",
+  "source_repo": "siddhashutosh/aegisquery-mcp",
+  "source_url": "https://github.com/siddhashutosh/aegisquery-mcp",
+  "install": "npx -y aegisquery-mcp"
+}

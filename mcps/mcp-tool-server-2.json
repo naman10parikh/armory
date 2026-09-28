@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tool-server-2",
+  "description": "An MCP server that provides utility tools for text analysis, URL metadata fetching, and temperature conversion.",
+  "source_repo": "Kartik281204/MCP-Tool-Server",
+  "source_url": "https://github.com/Kartik281204/MCP-Tool-Server",
+  "install": "# git clone --depth 1 https://github.com/Kartik281204/MCP-Tool-Server\n# See source for mcpServers config block"
+}

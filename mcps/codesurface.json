@@ -1,0 +1,7 @@
+{
+  "name": "codesurface",
+  "description": "MCP server that indexes your codebase's public API at startup and serves it via compact tool responses, saving tokens vs reading source files.",
+  "source_repo": "Codeturion/codesurface",
+  "source_url": "https://github.com/Codeturion/codesurface",
+  "install": "# git clone --depth 1 https://github.com/Codeturion/codesurface\n# See source for mcpServers config block"
+}

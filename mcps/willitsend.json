@@ -1,0 +1,7 @@
+{
+  "name": "willitsend",
+  "description": "A deterministic preflight checker for outbound SMS/iMessage that catches silent filtering, segment blowups, and dropped iMessage features before sending.",
+  "source_repo": "abryfs/willitsend",
+  "source_url": "https://github.com/abryfs/willitsend",
+  "install": "# git clone --depth 1 https://github.com/abryfs/willitsend\n# See source for mcpServers config block"
+}

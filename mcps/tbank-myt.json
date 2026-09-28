@@ -1,0 +1,7 @@
+{
+  "name": "tbank-myt",
+  "description": "MCP server for MyT, T-Bank's internal employee app, enabling calendar management (schedule, meeting responses, cancellations) and parking space booking at the office.",
+  "source_repo": "icyberdeveloper/tbank-myt",
+  "source_url": "https://github.com/icyberdeveloper/tbank-myt",
+  "install": "# git clone --depth 1 https://github.com/icyberdeveloper/tbank-myt\n# See source for mcpServers config block"
+}

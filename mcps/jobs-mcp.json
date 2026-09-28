@@ -1,0 +1,7 @@
+{
+  "name": "jobs-mcp",
+  "description": "MCP server for live US software-engineering job search from public ATS boards, with tools to search jobs and list sources.",
+  "source_repo": "Ashishkosana/jobs-mcp",
+  "source_url": "https://github.com/Ashishkosana/jobs-mcp",
+  "install": "npx -y jobs-mcp"
+}

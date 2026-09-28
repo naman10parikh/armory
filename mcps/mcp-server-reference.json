@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-reference",
+  "description": "Enables MCP hosts to list, look up, and describe a static catalog of OpenAPI operations, and to inspect a governing contract and explicit deny-list that define what the server refuses to do.",
+  "source_repo": "brunoaquino/mcp-server-reference",
+  "source_url": "https://github.com/brunoaquino/mcp-server-reference",
+  "install": "# git clone --depth 1 https://github.com/brunoaquino/mcp-server-reference\n# See source for mcpServers config block"
+}

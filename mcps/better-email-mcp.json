@@ -1,0 +1,7 @@
+{
+  "name": "better-email-mcp",
+  "description": "IMAP/SMTP email for AI agents -- read, send, organize folders, and manage attachments across multiple accounts, with auto-discovery.",
+  "source_repo": "laschopin/better-email-mcp-worker",
+  "source_url": "https://github.com/laschopin/better-email-mcp-worker",
+  "install": "# git clone --depth 1 https://github.com/laschopin/better-email-mcp-worker\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alphafold-sovereign-mcp",
+  "description": "Integrates AlphaFold DB and eight other biomedical data sources into MCP tools for variant clinical reporting, disease-target analysis, structural intelligence, and drug repurposing, with results persisted to a local SQLite knowledge graph.",
+  "source_repo": "smaniches/alphafold-sovereign-mcp",
+  "source_url": "https://github.com/smaniches/alphafold-sovereign-mcp",
+  "install": "npx -y alphafold-sovereign-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rewynd",
+  "description": "Enables coding agents to debug backend requests by providing tools to list, view, wait for, diagnose, and clear request traces.",
+  "source_repo": "SrinjoyDev/rewynd",
+  "source_url": "https://github.com/SrinjoyDev/rewynd",
+  "install": "# git clone --depth 1 https://github.com/SrinjoyDev/rewynd\n# See source for mcpServers config block"
+}

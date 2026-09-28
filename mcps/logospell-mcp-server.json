@@ -1,0 +1,7 @@
+{
+  "name": "logospell-mcp-server",
+  "description": "AI-agent image generation: cohesive image sets and single illustrations over MCP. PNG/WebP (optional transparency) or JPEG.",
+  "source_repo": "logospell/logospell-mcp-server",
+  "source_url": "https://github.com/logospell/logospell-mcp-server",
+  "install": "npx -y logospell-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "google-contacts-mcp-server",
+  "description": "Serverless connector to access Google Contacts via MCP, enabling AI agents to securely interact with contacts without storing data.",
+  "source_repo": "f1nthelad/google-contacts-mcp-server",
+  "source_url": "https://github.com/f1nthelad/google-contacts-mcp-server",
+  "install": "npx -y google-contacts-mcp-server"
+}

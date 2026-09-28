@@ -1,0 +1,7 @@
+{
+  "name": "boxverse-ai-listenme-mcp-server",
+  "description": "MCP server for ListenME — product research task management via Boxverse AI. Provides 21 tools for managing research tasks, reviewing user feedback, and generating insights.",
+  "source_repo": "chesterkuo/boxverseai-mcp-server",
+  "source_url": "https://github.com/chesterkuo/boxverseai-mcp-server",
+  "install": "npx -y boxverseai-mcp-server"
+}

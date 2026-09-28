@@ -1,0 +1,7 @@
+{
+  "name": "fitwiki-mcp",
+  "description": "Scrapes course materials, exam variants, and notes from Fit-Wiki, converting them to Markdown and PDF for integration with LLM clients.",
+  "source_repo": "Dzendys/fitwiki-mcp",
+  "source_url": "https://github.com/Dzendys/fitwiki-mcp",
+  "install": "npx -y fitwiki-mcp"
+}

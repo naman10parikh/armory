@@ -1,6 +1,6 @@
 {
   "name": "market-fiyatlari-mcp-server",
-  "description": "Market Fiyatlari Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "EnesCinr/market-fiyatlari-mcp-server",
   "source_url": "https://mcp.so/server/market-fiyatlari-mcp-server/EnesCinr",
   "install": "npx -y market-fiyatlari-mcp-server"

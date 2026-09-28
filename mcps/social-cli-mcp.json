@@ -1,0 +1,7 @@
+{
+  "name": "social-cli-mcp",
+  "description": "MCP server for posting to Twitter/X, Reddit, LinkedIn, Instagram, and email via CLI or AI agents, with Telegram bot control and security confirmations.",
+  "source_repo": "alessio-web-dev/social-cli-mcp",
+  "source_url": "https://github.com/alessio-web-dev/social-cli-mcp",
+  "install": "npx -y social-cli-mcp"
+}

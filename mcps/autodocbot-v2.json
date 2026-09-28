@@ -1,0 +1,7 @@
+{
+  "name": "autodocbot-v2",
+  "description": "MCP server that converts natural language process descriptions into structured Confluence process articles with SVG diagrams and publishes them under the authenticated user's Atlassian identity.",
+  "source_repo": "DWProv/AutoDocBot-V2",
+  "source_url": "https://github.com/DWProv/AutoDocBot-V2",
+  "install": "# git clone --depth 1 https://github.com/DWProv/AutoDocBot-V2\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "open-reddit-mcp-server",
+  "description": "A remote MCP server with GitHub OAuth deployed on Cloudflare Workers, providing math, GitHub user info, and image generation tools.",
+  "source_repo": "ztxtxwd/open-reddit-mcp-server",
+  "source_url": "https://github.com/ztxtxwd/open-reddit-mcp-server",
+  "install": "npx -y open-reddit-mcp-server"
+}

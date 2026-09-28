@@ -1,0 +1,7 @@
+{
+  "name": "social-media-manager-mcp",
+  "description": "Enables social media account management including content calendars, posting cadence, captions, hashtags, engagement strategies, metrics interpretation, and client reporting.",
+  "source_repo": "closermethod/social-media-manager-mcp",
+  "source_url": "https://github.com/closermethod/social-media-manager-mcp",
+  "install": "npx -y social-media-manager-mcp"
+}

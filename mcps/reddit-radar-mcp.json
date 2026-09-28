@@ -1,0 +1,7 @@
+{
+  "name": "reddit-radar-mcp",
+  "description": "Find Reddit threads where your product genuinely fits, reconstruct the conversation, and gate every drafted reply against a claim boundary you define.",
+  "source_repo": "sourav2024/reddit-radar-mcp",
+  "source_url": "https://github.com/sourav2024/reddit-radar-mcp",
+  "install": "npx -y reddit-radar-mcp"
+}

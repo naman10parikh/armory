@@ -1,0 +1,7 @@
+{
+  "name": "qdrant-llamaindex-mcp-server",
+  "description": "An MCP server for querying and managing LlamaIndex documents stored in Qdrant vector databases, with automatic embedding model detection and extensive tools for search, retrieval, and collection management.",
+  "source_repo": "azhang/qdrant-llamaindex-mcp-server",
+  "source_url": "https://github.com/azhang/qdrant-llamaindex-mcp-server",
+  "install": "npx -y qdrant-llamaindex-mcp-server"
+}

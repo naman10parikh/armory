@@ -1,0 +1,7 @@
+{
+  "name": "legal-impact-mapper",
+  "description": "Enables analysis of legal document changes by constructing a dependency graph and simulating impact propagation, with risk level assessment.",
+  "source_repo": "HiroakiKatoh/legal-impact-mapper",
+  "source_url": "https://github.com/HiroakiKatoh/legal-impact-mapper",
+  "install": "# git clone --depth 1 https://github.com/HiroakiKatoh/legal-impact-mapper\n# See source for mcpServers config block"
+}

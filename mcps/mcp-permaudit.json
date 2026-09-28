@@ -1,0 +1,7 @@
+{
+  "name": "mcp-permaudit",
+  "description": "Audits Claude Code permission settings (.claude/settings.json) via an MCP tool, detecting conflicts and misconfigurations.",
+  "source_repo": "manueljacobo-nexgen/mcp-permaudit",
+  "source_url": "https://github.com/manueljacobo-nexgen/mcp-permaudit",
+  "install": "# git clone --depth 1 https://github.com/manueljacobo-nexgen/mcp-permaudit\n# See source for mcpServers config block"
+}

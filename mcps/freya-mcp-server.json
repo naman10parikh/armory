@@ -1,0 +1,7 @@
+{
+  "name": "freya-mcp-server",
+  "description": "A powerful filesystem MCP server for AI agents with extensive system access, including filesystem operations, shell execution, Windows tools, reverse engineering, code intelligence, and agent orchestration.",
+  "source_repo": "mrcodex-dev/freya-mcp-server",
+  "source_url": "https://github.com/mrcodex-dev/freya-mcp-server",
+  "install": "npx -y freya-mcp-server"
+}

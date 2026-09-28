@@ -1,0 +1,7 @@
+{
+  "name": "financial-risk-mcp-server",
+  "description": "Enables portfolio risk assessment, sentiment analysis, and investment recommendations via MCP tools.",
+  "source_repo": "mishtisethi12/multi-agent-financial-risk-intelligence-platform",
+  "source_url": "https://github.com/mishtisethi12/multi-agent-financial-risk-intelligence-platform",
+  "install": "# git clone --depth 1 https://github.com/mishtisethi12/multi-agent-financial-risk-intelligence-platform\n# See source for mcpServers config block"
+}

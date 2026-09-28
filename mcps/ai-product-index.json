@@ -1,0 +1,7 @@
+{
+  "name": "ai-product-index",
+  "description": "Machine-readable directory of AI products that register themselves, plus an agent-readability grader for any URL.",
+  "source_repo": "110kc3/seo",
+  "source_url": "https://github.com/110kc3/seo",
+  "install": "# git clone --depth 1 https://github.com/110kc3/seo\n# See source for mcpServers config block"
+}

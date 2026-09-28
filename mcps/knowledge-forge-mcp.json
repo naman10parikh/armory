@@ -1,0 +1,7 @@
+{
+  "name": "knowledge-forge-mcp",
+  "description": "Enables AI coding tools to turn a list of links into a verified, browsable knowledge base with grounded summaries via MCP tools for update, validation, and enrichment.",
+  "source_repo": "bharathgnana/knowledge-forge",
+  "source_url": "https://github.com/bharathgnana/knowledge-forge",
+  "install": "# git clone --depth 1 https://github.com/bharathgnana/knowledge-forge\n# See source for mcpServers config block"
+}

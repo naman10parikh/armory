@@ -1,0 +1,7 @@
+{
+  "name": "tool-of-truth",
+  "description": "MITM proxy MCP server that intercepts and verifies AI agent tool calls, detecting fabrication, tracking costs, verifying outcomes, and inferring user satisfaction.",
+  "source_repo": "adigoel07/tooloftruth",
+  "source_url": "https://github.com/adigoel07/tooloftruth",
+  "install": "# git clone --depth 1 https://github.com/adigoel07/tooloftruth\n# See source for mcpServers config block"
+}

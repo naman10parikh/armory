@@ -1,0 +1,7 @@
+{
+  "name": "japan-parliament-search-mcp",
+  "description": "Search Japan's National Diet records (1947-present): ministerial statements, committee Q&A, and policy debates with speaker, party, and citation URLs.",
+  "source_repo": "fujimura-ui/japan-parliament-search-mcp",
+  "source_url": "https://github.com/fujimura-ui/japan-parliament-search-mcp",
+  "install": "npx -y japan-parliament-search-mcp"
+}

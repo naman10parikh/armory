@@ -1,0 +1,7 @@
+{
+  "name": "research-dispatcher-mcp",
+  "description": "Enables AI agents to run research queries across multiple public sources (Hacker News, Reddit, GitHub, Brave Search) in parallel, returning normalized results.",
+  "source_repo": "0x67108864/research-dispatcher-mcp",
+  "source_url": "https://github.com/0x67108864/research-dispatcher-mcp",
+  "install": "npx -y research-dispatcher-mcp"
+}

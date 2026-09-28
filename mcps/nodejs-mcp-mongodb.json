@@ -1,0 +1,7 @@
+{
+  "name": "nodejs-mcp-mongodb",
+  "description": "MCP server that exposes MongoDB business data via tools for summary statistics, new users, and pending payments.",
+  "source_repo": "kawaljain/nodejs-mcp-mongodb",
+  "source_url": "https://github.com/kawaljain/nodejs-mcp-mongodb",
+  "install": "# git clone --depth 1 https://github.com/kawaljain/nodejs-mcp-mongodb\n# See source for mcpServers config block"
+}

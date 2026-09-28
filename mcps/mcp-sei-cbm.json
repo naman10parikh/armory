@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sei-cbm",
+  "description": "MCP server for integrating and automating the SEI (Sistema Eletrônico de Informações) with direct user/password authentication, enabling process management, document reading, advanced search, and unit switching.",
+  "source_repo": "hugocoliveira/mcp-sei-cbm",
+  "source_url": "https://github.com/hugocoliveira/mcp-sei-cbm",
+  "install": "# git clone --depth 1 https://github.com/hugocoliveira/mcp-sei-cbm\n# See source for mcpServers config block"
+}

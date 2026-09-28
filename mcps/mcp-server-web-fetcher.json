@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-web-fetcher",
+  "description": "A fast, dependency-light MCP server that converts web pages into clean Markdown, structured metadata, and classified links for language models.",
+  "source_repo": "vojtisprime11/mcp-server-web-fetcher",
+  "source_url": "https://github.com/vojtisprime11/mcp-server-web-fetcher",
+  "install": "# git clone --depth 1 https://github.com/vojtisprime11/mcp-server-web-fetcher\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pir2-academy-sheets-reader-mcp",
+  "description": "A read-only MCP server that lets Claude Desktop read bounded data from Google Sheets using the learner's own Google account, offering tools to check connection status, connect, and fetch spreadsheet metadata or specific ranges.",
+  "source_repo": "zierocode/pir2-academy-sheets-reader-mcp",
+  "source_url": "https://github.com/zierocode/pir2-academy-sheets-reader-mcp",
+  "install": "npx -y pir2-academy-sheets-reader-mcp"
+}

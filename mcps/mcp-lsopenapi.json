@@ -1,0 +1,7 @@
+{
+  "name": "mcp-lsopenapi",
+  "description": "Enables AI assistants to query Korean stock market data, charts, portfolio, and LS Securities account information through natural language.",
+  "source_repo": "redoxnet/mcp-lsopenapi",
+  "source_url": "https://github.com/redoxnet/mcp-lsopenapi",
+  "install": "# git clone --depth 1 https://github.com/redoxnet/mcp-lsopenapi\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ckg",
+  "description": "Turns a repository into a deterministic, local-first knowledge graph for coding agents, enabling navigation of code structure and relationships via MCP tools.",
+  "source_repo": "MohitAswani/ckg",
+  "source_url": "https://github.com/MohitAswani/ckg",
+  "install": "# git clone --depth 1 https://github.com/MohitAswani/ckg\n# See source for mcpServers config block"
+}

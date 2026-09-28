@@ -1,0 +1,7 @@
+{
+  "name": "contabilidad-mcp",
+  "description": "Double-entry accounting MCP server for Claude Desktop. Supports accounts, transactions, ledgers, profit & loss, balance sheet, IVA summary, and QIF export using SQLite.",
+  "source_repo": "Astrid3333/contabilidad-mcp",
+  "source_url": "https://github.com/Astrid3333/contabilidad-mcp",
+  "install": "npx -y contabilidad-mcp"
+}

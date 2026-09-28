@@ -1,0 +1,7 @@
+{
+  "name": "funnel-calibrator",
+  "description": "Enables agents to measure product-specific funnel rates from historical order data, recalibrate cost-per-lead bounds, and audit proposed advertising decisions against corrected figures.",
+  "source_repo": "denkor1015-debug/funnel-calibrator",
+  "source_url": "https://github.com/denkor1015-debug/funnel-calibrator",
+  "install": "# git clone --depth 1 https://github.com/denkor1015-debug/funnel-calibrator\n# See source for mcpServers config block"
+}

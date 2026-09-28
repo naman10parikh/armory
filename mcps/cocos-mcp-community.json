@@ -1,0 +1,7 @@
+{
+  "name": "cocos-mcp-community",
+  "description": "Enables AI clients to inspect and operate the Cocos Creator project currently open, including scenes, nodes, assets, animations, and editor workflows via MCP.",
+  "source_repo": "chang0022/cocos-mcp-community",
+  "source_url": "https://github.com/chang0022/cocos-mcp-community",
+  "install": "# git clone --depth 1 https://github.com/chang0022/cocos-mcp-community\n# See source for mcpServers config block"
+}

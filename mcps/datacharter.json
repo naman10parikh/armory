@@ -1,0 +1,7 @@
+{
+  "name": "datacharter",
+  "description": "Read-only, PII-masked MCP server for querying data federated through DuckDB — list sources/tables, inspect schemas, and run SQL across Postgres, MySQL, SQLite, Snowflake, BigQuery, Excel, and files, governed per source/table/column by a charter.yaml contract. Snowflake, BigQuery, Excel, and files, g",
+  "source_repo": "datacharter/datacharter",
+  "source_url": "https://github.com/datacharter/datacharter",
+  "install": "# git clone --depth 1 https://github.com/datacharter/datacharter\n# See source for mcpServers config block"
+}

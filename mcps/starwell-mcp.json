@@ -1,0 +1,7 @@
+{
+  "name": "starwell-mcp",
+  "description": "MCP server serving official statistics from major data agencies (Statistics Canada, FRED, BLS, World Bank, etc.) as tools with provenance and verification, enabling search, retrieval, analysis, and monitoring via natural language.",
+  "source_repo": "Adarsh4052/starwell-mcp",
+  "source_url": "https://github.com/Adarsh4052/starwell-mcp",
+  "install": "npx -y starwell-mcp"
+}

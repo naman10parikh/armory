@@ -1,0 +1,7 @@
+{
+  "name": "sop-mcp",
+  "description": "Enables AI agents to execute multi-step Standard Operating Procedures step by step, with enforcement of completion at each step, making LLM behavior predictable and auditable.",
+  "source_repo": "ValueArchitectsAI/sop-mcp",
+  "source_url": "https://github.com/ValueArchitectsAI/sop-mcp",
+  "install": "npx -y sop-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bvoip-mcp",
+  "description": "MCP server for Bvoip / 1Stream that exposes call-reporting, phone-status, and CRM-extension-mapping endpoints as MCP tools.",
+  "source_repo": "MSPbotsAI/bvoip-mcp",
+  "source_url": "https://github.com/MSPbotsAI/bvoip-mcp",
+  "install": "npx -y bvoip-mcp"
+}

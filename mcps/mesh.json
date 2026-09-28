@@ -1,0 +1,7 @@
+{
+  "name": "mesh",
+  "description": "A cross-agent communicator MCP server providing presence, resource locks, and durable messaging for coordinating multiple agents on the same repository.",
+  "source_repo": "yesitsfebreeze/mesh",
+  "source_url": "https://github.com/yesitsfebreeze/mesh",
+  "install": "# git clone --depth 1 https://github.com/yesitsfebreeze/mesh\n# See source for mcpServers config block"
+}

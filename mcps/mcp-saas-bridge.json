@@ -1,0 +1,7 @@
+{
+  "name": "mcp-saas-bridge",
+  "description": "A unified MCP server that connects AI agents to Jira, Notion, and GitHub, enabling search, create, and update actions across these services.",
+  "source_repo": "Lucasyao1985/mcp-saas-bridge",
+  "source_url": "https://github.com/Lucasyao1985/mcp-saas-bridge",
+  "install": "# git clone --depth 1 https://github.com/Lucasyao1985/mcp-saas-bridge\n# See source for mcpServers config block"
+}

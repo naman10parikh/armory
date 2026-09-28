@@ -1,0 +1,7 @@
+{
+  "name": "nt-mcp-server",
+  "description": "MCP server for reading, writing, and monitoring FRC NetworkTables data, enabling AI agents to interact with a robot's NetworkTables over the NetworkTables protocol.",
+  "source_repo": "Mzzj114/nt-mcp-server",
+  "source_url": "https://github.com/Mzzj114/nt-mcp-server",
+  "install": "npx -y nt-mcp-server"
+}

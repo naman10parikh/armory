@@ -1,0 +1,7 @@
+{
+  "name": "uikit-registry",
+  "description": "MCP server enabling AI agents to search, retrieve details, and compare UI components from 13 popular UI libraries.",
+  "source_repo": "captainy7/uikit-registry",
+  "source_url": "https://github.com/captainy7/uikit-registry",
+  "install": "# git clone --depth 1 https://github.com/captainy7/uikit-registry\n# See source for mcpServers config block"
+}

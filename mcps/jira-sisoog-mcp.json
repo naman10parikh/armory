@@ -1,0 +1,7 @@
+{
+  "name": "jira-sisoog-mcp",
+  "description": "MCP server for self-hosted Jira, enabling task management, searching issues, adding comments, transitioning statuses, and logging worklogs directly from Cursor.",
+  "source_repo": "mohammad-k13/jira-mcp",
+  "source_url": "https://github.com/mohammad-k13/jira-mcp",
+  "install": "npx -y jira-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sayalabs-mcp",
+  "description": "A production-ready MCP server that injects a team of subagent interns, web search, and image generation capabilities into Claude Code using the Agy engine.",
+  "source_repo": "Sayalab/agy_in_claude_mcp",
+  "source_url": "https://github.com/Sayalab/agy_in_claude_mcp",
+  "install": "npx -y agy_in_claude_mcp"
+}

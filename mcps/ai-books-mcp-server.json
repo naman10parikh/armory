@@ -1,0 +1,7 @@
+{
+  "name": "ai-books-mcp-server",
+  "description": "Extends large language model context length up to 60 times using gravitational memory, designed for Claude Code and Anthropic AI models.",
+  "source_repo": "NvmToxic/ai-books-mcp-server",
+  "source_url": "https://github.com/NvmToxic/ai-books-mcp-server",
+  "install": "npx -y ai-books-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bluepages-mcp",
+  "description": "Enables looking up Ethereum address mappings to Twitter/X and Farcaster identities, with tools for checking and retrieving identity data.",
+  "source_repo": "bluepagesdoteth/bluepages-mcp",
+  "source_url": "https://github.com/bluepagesdoteth/bluepages-mcp",
+  "install": "npx -y bluepages-mcp"
+}

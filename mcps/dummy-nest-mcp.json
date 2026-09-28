@@ -1,0 +1,7 @@
+{
+  "name": "dummy-nest-mcp",
+  "description": "A minimal MCP server built with NestJS to test PostHog MCP analytics integration, exposing mocked tools for trends and funnel analysis.",
+  "source_repo": "gesh/dummy-nest-mcp",
+  "source_url": "https://github.com/gesh/dummy-nest-mcp",
+  "install": "npx -y dummy-nest-mcp"
+}

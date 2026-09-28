@@ -1,0 +1,7 @@
+{
+  "name": "tokportal-mcp-3",
+  "description": "Official MCP server for the TokPortal API, exposing 91 tools to create bundles, upload and publish videos, configure accounts, read analytics, and manage webhooks for real TikTok, Instagram, and YouTube accounts in any MCP client.",
+  "source_repo": "tokportal/tokportal-mcp",
+  "source_url": "https://github.com/tokportal/tokportal-mcp",
+  "install": "npx -y tokportal-mcp"
+}

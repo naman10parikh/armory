@@ -1,0 +1,7 @@
+{
+  "name": "markdrop-mcp-server",
+  "description": "Connects Claude to a Markdrop knowledge base, allowing it to search and retrieve markdown documentation for context-aware development assistance.",
+  "source_repo": "james-julius/markdrop-mcp-server",
+  "source_url": "https://github.com/james-julius/markdrop-mcp-server",
+  "install": "npx -y markdrop-mcp-server"
+}

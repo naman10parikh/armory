@@ -1,0 +1,7 @@
+{
+  "name": "tehprof-support-mcp-server",
+  "description": "AI-powered helpdesk management via Model Context Protocol. Connect any MCP-compatible assistant to your support workspace.",
+  "source_repo": "tehprof/support-mcp",
+  "source_url": "https://github.com/tehprof/support-mcp",
+  "install": "npx -y support-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "portal-da-transpar-ncia-cnep-mcp",
+  "description": "MCP server for consulting the Brazilian government's National Registry of Punished Companies (CNEP) from the Transparency Portal. Enables natural language queries about company penalties.",
+  "source_repo": "mcp-dir/portal_transparencia_cnep-mcp",
+  "source_url": "https://github.com/mcp-dir/portal_transparencia_cnep-mcp",
+  "install": "npx -y portal_transparencia_cnep-mcp"
+}

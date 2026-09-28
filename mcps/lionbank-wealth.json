@@ -1,0 +1,7 @@
+{
+  "name": "lionbank-wealth",
+  "description": "MCP server that answers market and wealth-management questions using only HSBC Private Banking insights published at privatebanking.hsbc.com, via OpenAI web search restricted to that domain. It exposes a single tool, lionbank_wealth_insight, for use in ChatGPT Developer mode.",
+  "source_repo": "twinzom/lionbank-wealth-mcp",
+  "source_url": "https://github.com/twinzom/lionbank-wealth-mcp",
+  "install": "npx -y lionbank-wealth-mcp"
+}

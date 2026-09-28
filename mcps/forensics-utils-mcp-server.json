@@ -1,0 +1,7 @@
+{
+  "name": "forensics-utils-mcp-server",
+  "description": "Comprehensive forensic analysis MCP server enabling AI agents to analyze files, Chromium and Firefox browser artifacts, with VirusTotal, DIE, Binwalk integrations.",
+  "source_repo": "jus1-c/forensics-utils-mcp-server",
+  "source_url": "https://github.com/jus1-c/forensics-utils-mcp-server",
+  "install": "npx -y forensics-utils-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stillonline-mcp",
+  "description": "MCP server for StillOnline uptime monitoring, enabling management of projects, checks, incidents, and public status pages through natural language.",
+  "source_repo": "shenwell/stillonline-mcp",
+  "source_url": "https://github.com/shenwell/stillonline-mcp",
+  "install": "npx -y stillonline-mcp"
+}

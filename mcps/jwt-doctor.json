@@ -1,0 +1,7 @@
+{
+  "name": "jwt-doctor",
+  "description": "Template for creating MCP servers with a server-side paywall gate, enabling free local usage and premium hosted tier with Stripe and x402 payment lanes.",
+  "source_repo": "Baneado98/jwt-doctor",
+  "source_url": "https://github.com/Baneado98/jwt-doctor",
+  "install": "# git clone --depth 1 https://github.com/Baneado98/jwt-doctor\n# See source for mcpServers config block"
+}

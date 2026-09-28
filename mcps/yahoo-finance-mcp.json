@@ -1,0 +1,7 @@
+{
+  "name": "yahoo-finance-mcp",
+  "description": "Provides access to Yahoo Finance data including real-time stock quotes, historical prices, financial statements, company info, symbol search, and news.",
+  "source_repo": "nrempel/yahoo-finance-mcp",
+  "source_url": "https://github.com/nrempel/yahoo-finance-mcp",
+  "install": "npx -y yahoo-finance-mcp"
+}

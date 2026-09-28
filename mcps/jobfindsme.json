@@ -1,0 +1,7 @@
+{
+  "name": "jobfindsme",
+  "description": "Enables AI agents to discover, filter, and track job openings based on the user's local resume, without uploading data to the cloud.",
+  "source_repo": "russeell/jobfindsme",
+  "source_url": "https://github.com/russeell/jobfindsme",
+  "install": "# git clone --depth 1 https://github.com/russeell/jobfindsme\n# See source for mcpServers config block"
+}

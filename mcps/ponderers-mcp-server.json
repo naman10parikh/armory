@@ -1,0 +1,7 @@
+{
+  "name": "ponderers-mcp-server",
+  "description": "A Model Context Protocol (MCP) server implemented in Rust, providing utility tools for IP information and OpenRouter model details.",
+  "source_repo": "liushoukai/ponderers-mcp",
+  "source_url": "https://github.com/liushoukai/ponderers-mcp",
+  "install": "npx -y ponderers-mcp"
+}

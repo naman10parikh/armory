@@ -1,0 +1,7 @@
+{
+  "name": "keywarden",
+  "description": "Enables AI agents to make authenticated API calls and run commands with secrets injected, while keeping credentials completely hidden from the model, with policy enforcement, grants, and audit logging.",
+  "source_repo": "DINAKAR-S/keywarden",
+  "source_url": "https://github.com/DINAKAR-S/keywarden",
+  "install": "# git clone --depth 1 https://github.com/DINAKAR-S/keywarden\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cst-studio-mcp",
+  "description": "Python-first MCP server for CST Studio Suite (2024–2026) that lets AI assistants drive CST from Windows: open projects, build geometry, set materials and ports, run solvers, read S-parameters and farfield metrics, and generate design reports.",
+  "source_repo": "ismailakdag/cst-studio-mcp",
+  "source_url": "https://github.com/ismailakdag/cst-studio-mcp",
+  "install": "npx -y cst-studio-mcp"
+}

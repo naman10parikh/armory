@@ -1,0 +1,7 @@
+{
+  "name": "stacktree-mcp",
+  "description": "Enables publishing and managing HTML artifacts on stacktr.ee directly from MCP clients like Claude Desktop.",
+  "source_repo": "stevysmith/stacktree-mcp",
+  "source_url": "https://github.com/stevysmith/stacktree-mcp",
+  "install": "npx -y stacktree-mcp"
+}

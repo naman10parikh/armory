@@ -1,0 +1,7 @@
+{
+  "name": "laver",
+  "description": "Kanban boards, sprints, tickets and a team wiki on laver.app. Versioned writes so concurrent agents get a 409 instead of overwriting each other.",
+  "source_repo": "Developyn/laver-mcp",
+  "source_url": "https://github.com/Developyn/laver-mcp",
+  "install": "npx -y laver-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mnemon",
+  "description": "A self-hosted MCP server that provides a unified memory vault across MCP clients with hybrid BM25+vector search.",
+  "source_repo": "nousergon/mnemon",
+  "source_url": "https://github.com/nousergon/mnemon",
+  "install": "# git clone --depth 1 https://github.com/nousergon/mnemon\n# See source for mcpServers config block"
+}

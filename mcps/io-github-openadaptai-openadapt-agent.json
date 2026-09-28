@@ -1,0 +1,7 @@
+{
+  "name": "io-github-openadaptai-openadapt-agent",
+  "description": "Serves compiled OpenAdapt workflows to MCP clients as read-only or executable tools, and exposes a Needs Attention queue with attended actions like continue, skip, teach, and escalate.",
+  "source_repo": "OpenAdaptAI/openadapt-agent",
+  "source_url": "https://github.com/OpenAdaptAI/openadapt-agent",
+  "install": "# git clone --depth 1 https://github.com/OpenAdaptAI/openadapt-agent\n# See source for mcpServers config block"
+}

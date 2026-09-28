@@ -1,0 +1,7 @@
+{
+  "name": "finlight-mcp",
+  "description": "Connect AI agents to real-time financial news covering global markets, geopolitics, and company-level events. Search and filter articles by ticker, source, country, and language; every article includes sentiment scores and tagged company entities with tickers and ISINs. Remote server with standard O",
+  "source_repo": "callbk/finlight-mcp",
+  "source_url": "https://github.com/callbk/finlight-mcp",
+  "install": "npx -y finlight-mcp"
+}

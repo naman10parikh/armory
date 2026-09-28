@@ -1,0 +1,7 @@
+{
+  "name": "quire-mcp-server",
+  "description": "A Model Context Protocol server for the Quire project management platform, enabling AI assistants to securely interact with Quire projects, tasks, and data.",
+  "source_repo": "jacob-hartmann/quire-mcp",
+  "source_url": "https://github.com/jacob-hartmann/quire-mcp",
+  "install": "npx -y quire-mcp"
+}

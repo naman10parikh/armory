@@ -1,0 +1,7 @@
+{
+  "name": "keil5-mcp-server",
+  "description": "Enables AI coding agents to build, flash, debug, and read feedback from STM32 development projects in Keil MDK, forming a closed loop to automatically fix code.",
+  "source_repo": "ZMC1011/dsh-keil-mcp",
+  "source_url": "https://github.com/ZMC1011/dsh-keil-mcp",
+  "install": "npx -y dsh-keil-mcp"
+}

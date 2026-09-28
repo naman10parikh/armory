@@ -1,0 +1,7 @@
+{
+  "name": "espn-ff-manager",
+  "description": "Manages ESPN fantasy football teams post-draft, enabling lineup optimization, waiver/free agent recommendations, injury tracking, trade analysis, and playoff odds via read-only tools.",
+  "source_repo": "ngruixin/espn-ff-manager-mcp",
+  "source_url": "https://github.com/ngruixin/espn-ff-manager-mcp",
+  "install": "npx -y espn-ff-manager-mcp"
+}

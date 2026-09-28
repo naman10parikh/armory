@@ -1,0 +1,7 @@
+{
+  "name": "fellow-mcp-server",
+  "description": "Enables AI tools to interact with the Fellow.ai API for managing action items, notes, recordings, webhooks, and user info with full CRUD operations.",
+  "source_repo": "ccsi-sandbox/fellow-mcp-server",
+  "source_url": "https://github.com/ccsi-sandbox/fellow-mcp-server",
+  "install": "npx -y fellow-mcp-server"
+}

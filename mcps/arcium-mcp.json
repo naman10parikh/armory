@@ -1,0 +1,7 @@
+{
+  "name": "arcium-mcp",
+  "description": "Connects AI agents to the Arcium encrypted computation network on Solana, offering tools for network exploration, encryption, computation management, and app templates.",
+  "source_repo": "babakarto/arcium-mcp",
+  "source_url": "https://github.com/babakarto/arcium-mcp",
+  "install": "npx -y arcium-mcp"
+}

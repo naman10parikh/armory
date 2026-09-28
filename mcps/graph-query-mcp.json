@@ -1,0 +1,7 @@
+{
+  "name": "graph-query-mcp",
+  "description": "Enables fast, targeted queries against an Obsidian vault knowledge graph using tools like search, neighbor traversal, and pathfinding, without needing to load the full graph into LLM context.",
+  "source_repo": "adelaidasofia/graph-query-mcp",
+  "source_url": "https://github.com/adelaidasofia/graph-query-mcp",
+  "install": "npx -y graph-query-mcp"
+}

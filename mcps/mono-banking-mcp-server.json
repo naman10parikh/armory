@@ -1,0 +1,7 @@
+{
+  "name": "mono-banking-mcp-server",
+  "description": "Enables AI assistants to perform Nigerian banking operations including account management, payments, and identity verification through the Mono Open Banking API.",
+  "source_repo": "sin4ch/mono-mcp",
+  "source_url": "https://github.com/sin4ch/mono-mcp",
+  "install": "npx -y mono-mcp"
+}

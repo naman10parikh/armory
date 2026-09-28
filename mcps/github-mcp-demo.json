@@ -1,0 +1,7 @@
+{
+  "name": "github-mcp-demo",
+  "description": "MCP server that wraps GitHub REST API to allow AI agents to search repositories, get repository details, list issues, and read READMEs.",
+  "source_repo": "mirajmahmudul/github-mcp-demo",
+  "source_url": "https://github.com/mirajmahmudul/github-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/mirajmahmudul/github-mcp-demo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sqlserver",
+  "description": "A powerful MCP server for Microsoft SQL Server that connects AI assistants directly to your SQL Server databases with enterprise-grade security controls.",
+  "source_repo": "gunvertugberk/mcp-sqlserver",
+  "source_url": "https://github.com/gunvertugberk/mcp-sqlserver",
+  "install": "# git clone --depth 1 https://github.com/gunvertugberk/mcp-sqlserver\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "eu-ai-act-mcp",
+  "description": "An MCP server providing structured intelligence about the EU AI Act, including risk classification, deadline tracking, obligations, penalties, and article lookups.",
+  "source_repo": "lexbeam-software/eu-ai-act-mcp",
+  "source_url": "https://github.com/lexbeam-software/eu-ai-act-mcp",
+  "install": "npx -y eu-ai-act-mcp"
+}

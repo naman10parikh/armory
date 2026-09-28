@@ -1,0 +1,7 @@
+{
+  "name": "packet-tracer-mcp",
+  "description": "Enables control of Cisco Packet Tracer 9.0 via natural language, allowing creation of network topologies, device configuration, and simulation launches through an MCP interface.",
+  "source_repo": "Jcorderop02/packet-tracer-mcp",
+  "source_url": "https://github.com/Jcorderop02/packet-tracer-mcp",
+  "install": "npx -y packet-tracer-mcp"
+}

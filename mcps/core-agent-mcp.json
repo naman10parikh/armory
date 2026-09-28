@@ -1,0 +1,7 @@
+{
+  "name": "core-agent-mcp",
+  "description": "Remote execution layer for agentic systems exposing 64 production tools via MCP for file, network, system, text, git, crypto, and monitoring operations.",
+  "source_repo": "jefripunza/core-agent-mcp",
+  "source_url": "https://github.com/jefripunza/core-agent-mcp",
+  "install": "npx -y core-agent-mcp"
+}

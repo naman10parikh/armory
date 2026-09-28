@@ -1,0 +1,7 @@
+{
+  "name": "vsa-x-mcp",
+  "description": "MCP server that wraps the VSA X API to enable querying and managing devices, assets, organizations, and rate limits, with centralized configuration and authentication forwarding.",
+  "source_repo": "perrytrienekens/VSAX-MCP",
+  "source_url": "https://github.com/perrytrienekens/VSAX-MCP",
+  "install": "npx -y VSAX-MCP"
+}

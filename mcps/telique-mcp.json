@@ -1,0 +1,7 @@
+{
+  "name": "telique-mcp",
+  "description": "Enables querying telecom routing data (LRN, CNAM, DNO, LERG, toll-free routing) directly from AI assistants like Claude, ChatGPT.",
+  "source_repo": "Ringer/telique-mcp",
+  "source_url": "https://github.com/Ringer/telique-mcp",
+  "install": "npx -y telique-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wp-mcp-server",
+  "description": "MCP server for WordPress that integrates Telegram post parsing and SideQuest app search to create and manage WordPress post drafts.",
+  "source_repo": "prosam13-ui/wp-mcp-server",
+  "source_url": "https://github.com/prosam13-ui/wp-mcp-server",
+  "install": "npx -y wp-mcp-server"
+}

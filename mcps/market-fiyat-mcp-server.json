@@ -1,0 +1,7 @@
+{
+  "name": "market-fiyat-mcp-server",
+  "description": "A Model Context Protocol server for querying Turkish market prices, comparing products, and getting AI-powered shopping recommendations.",
+  "source_repo": "aigile-era/market-mcp-serkan",
+  "source_url": "https://github.com/aigile-era/market-mcp-serkan",
+  "install": "# git clone --depth 1 https://github.com/aigile-era/market-mcp-serkan\n# See source for mcpServers config block"
+}

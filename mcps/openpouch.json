@@ -1,0 +1,7 @@
+{
+  "name": "openpouch",
+  "description": "Agent-native hosting: your agent deploys any folder to a live URL in one command — no account, no dashboard, no CAPTCHA — and hands the human a link plus a plain-language summary. Full deploy lifecycle as MCP tools (deploy, verify, logs, inspect, rollback), production approval human-only; static sit",
+  "source_repo": "openpouch/openpouch",
+  "source_url": "https://github.com/openpouch/openpouch",
+  "install": "# git clone --depth 1 https://github.com/openpouch/openpouch\n# See source for mcpServers config block"
+}

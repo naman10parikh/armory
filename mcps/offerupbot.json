@@ -1,0 +1,7 @@
+{
+  "name": "offerupbot",
+  "description": "Acts as a local execution layer for external agents, enabling them to research OfferUp markets, manage and verify listings, send messages, run watches, handle seller-operator cases, and record handoffs through idempotent, verified tool calls.",
+  "source_repo": "yinkev/OfferUpBot",
+  "source_url": "https://github.com/yinkev/OfferUpBot",
+  "install": "# git clone --depth 1 https://github.com/yinkev/OfferUpBot\n# See source for mcpServers config block"
+}

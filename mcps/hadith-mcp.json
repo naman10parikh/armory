@@ -1,0 +1,7 @@
+{
+  "name": "hadith-mcp",
+  "description": "An MCP server for retrieving hadith text and metadata from auditable sources, providing exact references, Arabic text, English translations, and source-attributed grading.",
+  "source_repo": "Abdulrahman84/hadith-mcp",
+  "source_url": "https://github.com/Abdulrahman84/hadith-mcp",
+  "install": "npx -y hadith-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bildungly-mein-now-mcp",
+  "description": "An AI-native Weiterbildung discovery layer over Mein NOW course data, providing tools for course search, profile matching, and fit explanation via MCP.",
+  "source_repo": "sravan1305/bildungly-mcp",
+  "source_url": "https://github.com/sravan1305/bildungly-mcp",
+  "install": "npx -y bildungly-mcp"
+}

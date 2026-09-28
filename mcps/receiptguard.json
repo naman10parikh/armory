@@ -1,0 +1,7 @@
+{
+  "name": "receiptguard",
+  "description": "Prevents autonomous agents from fabricating tool results by verifying HMAC-signed receipts against epistemic claim types, forcing re-grounding or escalation before actions commit.",
+  "source_repo": "GHGuide/receiptguard",
+  "source_url": "https://github.com/GHGuide/receiptguard",
+  "install": "# git clone --depth 1 https://github.com/GHGuide/receiptguard\n# See source for mcpServers config block"
+}

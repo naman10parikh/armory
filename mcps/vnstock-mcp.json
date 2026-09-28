@@ -1,0 +1,7 @@
+{
+  "name": "vnstock-mcp",
+  "description": "Unofficial MCP server providing Vietnamese stock market financial data, enabling natural language interaction with Claude Desktop.",
+  "source_repo": "gahoccode/vnstock-mcp",
+  "source_url": "https://github.com/gahoccode/vnstock-mcp",
+  "install": "npx -y vnstock-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mmoagent-mcp",
+  "description": "Cross-game market intelligence and currency conversion across six MMOs, enabling unified searches, portfolio tracking, and farming optimization via MCP.",
+  "source_repo": "CSOAI-ORG/mmoagent-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/mmoagent-mcp",
+  "install": "npx -y mmoagent-mcp"
+}

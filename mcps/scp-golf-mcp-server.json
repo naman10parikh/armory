@@ -1,0 +1,7 @@
+{
+  "name": "scp-golf-mcp-server",
+  "description": "Enables AI agents to safely interact with golf course operations by providing real-time inventory, booking rules, pricing policies, and a self-learning memory system.",
+  "source_repo": "Dswane/Sports-Context-Protocol",
+  "source_url": "https://github.com/Dswane/Sports-Context-Protocol",
+  "install": "# git clone --depth 1 https://github.com/Dswane/Sports-Context-Protocol\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "houdini-mcp-server",
+  "description": "Enables AI assistants to control Houdini by executing Python code, querying scene information, and creating nodes via the Model Context Protocol.",
+  "source_repo": "Kif11/houdini-mcp-server",
+  "source_url": "https://github.com/Kif11/houdini-mcp-server",
+  "install": "npx -y houdini-mcp-server"
+}

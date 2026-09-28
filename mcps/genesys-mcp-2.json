@@ -1,0 +1,7 @@
+{
+  "name": "genesys-mcp-2",
+  "description": "An MCP server that puts your Genesys Cloud org under AI control, enabling natural language creation of queues, skills, users, wrap-up codes, and Architect IVR flows with Mermaid diagrams.",
+  "source_repo": "joe23byte/genesys-mcp",
+  "source_url": "https://github.com/joe23byte/genesys-mcp",
+  "install": "npx -y genesys-mcp"
+}

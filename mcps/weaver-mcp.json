@@ -1,0 +1,7 @@
+{
+  "name": "weaver-mcp",
+  "description": "MCP server for connecting to Weaver E10 OA to query program modification workflow lists and details, with support for date filtering and additional workflow operations.",
+  "source_repo": "initialdhz/weaver-mcp",
+  "source_url": "https://github.com/initialdhz/weaver-mcp",
+  "install": "npx -y weaver-mcp"
+}

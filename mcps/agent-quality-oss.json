@@ -1,0 +1,7 @@
+{
+  "name": "agent-quality-oss",
+  "description": "An MCP server that provides 46 tools for construction quality management, enabling users to generate and review documents like ITP, NCR, and test reports using a domain ontology and legal standards.",
+  "source_repo": "ratelworks/agent-quality-oss",
+  "source_url": "https://github.com/ratelworks/agent-quality-oss",
+  "install": "# git clone --depth 1 https://github.com/ratelworks/agent-quality-oss\n# See source for mcpServers config block"
+}

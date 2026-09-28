@@ -1,0 +1,7 @@
+{
+  "name": "minecraft-wiki-mcp-server",
+  "description": "Enables searching and retrieving Minecraft Wiki content in multiple formats (wikitext, HTML, markdown) through MCP tools, with batch retrieval and health monitoring.",
+  "source_repo": "rice-awa/mc-wiki-mcp-pypi",
+  "source_url": "https://github.com/rice-awa/mc-wiki-mcp-pypi",
+  "install": "# git clone --depth 1 https://github.com/rice-awa/mc-wiki-mcp-pypi\n# See source for mcpServers config block"
+}

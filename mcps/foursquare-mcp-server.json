@@ -1,0 +1,7 @@
+{
+  "name": "foursquare-mcp-server",
+  "description": "Exposes Foursquare/Swarm check-in data and user activity through 13 tools, enabling user management, check-in history, venue details, mayorships, lists, and cross-user search.",
+  "source_repo": "jbeker/foursquare_mcp",
+  "source_url": "https://github.com/jbeker/foursquare_mcp",
+  "install": "npx -y foursquare_mcp"
+}

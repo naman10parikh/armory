@@ -1,0 +1,7 @@
+{
+  "name": "lingq-progress-mcp",
+  "description": "A read-only MCP server that lets ChatGPT inspect your LingQ progress without exposing your password. It exposes tools for listing languages, checking progress capabilities, and retrieving progress summaries and charts.",
+  "source_repo": "Dapazwl2/lingq-progress-mcp",
+  "source_url": "https://github.com/Dapazwl2/lingq-progress-mcp",
+  "install": "npx -y lingq-progress-mcp"
+}

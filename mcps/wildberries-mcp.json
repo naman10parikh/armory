@@ -1,0 +1,7 @@
+{
+  "name": "wildberries-mcp",
+  "description": "MCP server that turns Wildberries marketplace into a toolkit for LLM agents, enabling product search, detailed card inspection, price history, reviews, and cross-product comparison.",
+  "source_repo": "shndo1337/wildberries-mcp",
+  "source_url": "https://github.com/shndo1337/wildberries-mcp",
+  "install": "npx -y wildberries-mcp"
+}

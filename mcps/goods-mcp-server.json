@@ -1,0 +1,7 @@
+{
+  "name": "goods-mcp-server",
+  "description": "提供商品搜索、画像、品牌、价格、渠道和销售趋势分析能力，帮助用户开展选品、竞品研究和电商经营分析。",
+  "source_repo": "handaas/goods-mcp-server",
+  "source_url": "https://github.com/handaas/goods-mcp-server",
+  "install": "npx -y goods-mcp-server"
+}

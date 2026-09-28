@@ -1,0 +1,7 @@
+{
+  "name": "mcp-knowledge-bridge",
+  "description": "MCP-compatible knowledge bridge with tools, resources, prompts, local BM25 KB, and a token-guarded HTTP companion for Cursor and custom agents.",
+  "source_repo": "Brian20040323/mcp-knowledge-bridge",
+  "source_url": "https://github.com/Brian20040323/mcp-knowledge-bridge",
+  "install": "# git clone --depth 1 https://github.com/Brian20040323/mcp-knowledge-bridge\n# See source for mcpServers config block"
+}

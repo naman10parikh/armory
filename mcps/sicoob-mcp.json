@@ -1,0 +1,7 @@
+{
+  "name": "sicoob-mcp",
+  "description": "Conecta sua conta do Sicoob ao Claude, ChatGPT e agentes de IA via Open Finance Brasil, permitindo consultar saldos, extratos, faturas de cartão e investimentos em linguagem natural.",
+  "source_repo": "mcp-dir/sicoob-mcp",
+  "source_url": "https://github.com/mcp-dir/sicoob-mcp",
+  "install": "npx -y sicoob-mcp"
+}

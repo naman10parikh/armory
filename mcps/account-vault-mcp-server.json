@@ -1,0 +1,7 @@
+{
+  "name": "account-vault-mcp-server",
+  "description": "A local MCP server that manages multiple Gmail accounts simultaneously, allowing MCP clients to switch between accounts per request without logging out or in. It securely stores OAuth tokens in the macOS Keychain.",
+  "source_repo": "joeshwoa/account-vault-mcp-server",
+  "source_url": "https://github.com/joeshwoa/account-vault-mcp-server",
+  "install": "npx -y account-vault-mcp-server"
+}

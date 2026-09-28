@@ -1,0 +1,7 @@
+{
+  "name": "mcp-web-fetch",
+  "description": "Enables token-efficient web reading and HTTP requests for MCP agents, with tools for extracting clean text from web pages and making full HTTP requests.",
+  "source_repo": "pavex/mcp-web-fetch",
+  "source_url": "https://github.com/pavex/mcp-web-fetch",
+  "install": "# git clone --depth 1 https://github.com/pavex/mcp-web-fetch\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "x402-agent-mcp",
+  "description": "MCP server that enables AI agents to search, describe, and fetch x402 endpoints on Base or Solana, with automatic USDC micropayments.",
+  "source_repo": "dchu3/x402-agent-mcp",
+  "source_url": "https://github.com/dchu3/x402-agent-mcp",
+  "install": "npx -y x402-agent-mcp"
+}

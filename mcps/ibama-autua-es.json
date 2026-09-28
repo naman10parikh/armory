@@ -1,0 +1,7 @@
+{
+  "name": "ibama-autua-es",
+  "description": "MCP server to query IBAMA environmental fines for a person or company from CPF or CNPJ.",
+  "source_repo": "mcp-dir/ibama_autuacoes-mcp",
+  "source_url": "https://github.com/mcp-dir/ibama_autuacoes-mcp",
+  "install": "npx -y ibama_autuacoes-mcp"
+}

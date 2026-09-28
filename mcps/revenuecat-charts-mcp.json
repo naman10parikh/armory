@@ -1,0 +1,7 @@
+{
+  "name": "revenuecat-charts-mcp",
+  "description": "An MCP server that enables AI agents to query RevenueCat's subscription analytics API using natural language, retrieving metrics like MRR, churn, and revenue.",
+  "source_repo": "joeyaflores/revenuecat-charts-mcp",
+  "source_url": "https://github.com/joeyaflores/revenuecat-charts-mcp",
+  "install": "npx -y revenuecat-charts-mcp"
+}

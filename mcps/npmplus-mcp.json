@@ -1,0 +1,7 @@
+{
+  "name": "npmplus-mcp",
+  "description": "Enables AI-powered JavaScript package management including search, install, update, remove, and security auditing across npm, yarn, and pnpm.",
+  "source_repo": "shacharsol/js-package-manager-mcp",
+  "source_url": "https://github.com/shacharsol/js-package-manager-mcp",
+  "install": "npx -y js-package-manager-mcp"
+}

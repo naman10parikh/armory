@@ -1,0 +1,7 @@
+{
+  "name": "call-copilot",
+  "description": "Search and read locally-recorded meeting transcripts over stdio. Read-only, no network. Exposes list_sessions, get_session, and search_transcripts to any MCP client.",
+  "source_repo": "AnisurRahmann/call-copilot",
+  "source_url": "https://github.com/AnisurRahmann/call-copilot",
+  "install": "# git clone --depth 1 https://github.com/AnisurRahmann/call-copilot\n# See source for mcpServers config block"
+}

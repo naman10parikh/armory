@@ -1,0 +1,7 @@
+{
+  "name": "mcp-trenitalia",
+  "description": "An MCP server for real-time Italian railway data, enabling natural language queries about train schedules, delays, departures, arrivals, and live tracking via the Viaggiatreno API.",
+  "source_repo": "Fanfulla/MCP_Trenitalia",
+  "source_url": "https://github.com/Fanfulla/MCP_Trenitalia",
+  "install": "# git clone --depth 1 https://github.com/Fanfulla/MCP_Trenitalia\n# See source for mcpServers config block"
+}

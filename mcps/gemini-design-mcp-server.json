@@ -1,0 +1,7 @@
+{
+  "name": "gemini-design-mcp-server",
+  "description": "Generates frontend UI code from text descriptions, screenshots, or iterative refinement using Gemini 2.5 Flash.",
+  "source_repo": "hichammoods/mcp-design-gemini",
+  "source_url": "https://github.com/hichammoods/mcp-design-gemini",
+  "install": "# git clone --depth 1 https://github.com/hichammoods/mcp-design-gemini\n# See source for mcpServers config block"
+}

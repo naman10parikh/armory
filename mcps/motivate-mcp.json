@@ -1,0 +1,7 @@
+{
+  "name": "motivate-mcp",
+  "description": "An MCP server that returns motivational quotes matched to the task you're working on, with tools to list topics and explain matches. It also includes a hook for receiving a quote on every prompt submission.",
+  "source_repo": "lazyturtle22/motivate-mcp",
+  "source_url": "https://github.com/lazyturtle22/motivate-mcp",
+  "install": "npx -y motivate-mcp"
+}

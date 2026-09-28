@@ -1,0 +1,7 @@
+{
+  "name": "drive-file-browser-mcp",
+  "description": "MCP server that lets AI assistants browse, search, and read files from a Google Drive folder, supporting local stdio and remote HTTP deployments with tools like list_files, search_files, get_file_info, and read_file.",
+  "source_repo": "ashrafur02-sys/drive-file-browser-mcp",
+  "source_url": "https://github.com/ashrafur02-sys/drive-file-browser-mcp",
+  "install": "npx -y drive-file-browser-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hermes-squad",
+  "description": "Multi-agent AI orchestrator that runs parallel coding agents in isolated sessions with self-improving intelligence, exposed via an MCP server for task execution and management.",
+  "source_repo": "BarnsL/hermes-squad",
+  "source_url": "https://github.com/BarnsL/hermes-squad",
+  "install": "# git clone --depth 1 https://github.com/BarnsL/hermes-squad\n# See source for mcpServers config block"
+}

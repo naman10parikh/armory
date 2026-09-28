@@ -1,0 +1,7 @@
+{
+  "name": "tqd-voice",
+  "description": "MCP server for Vietnamese text-to-speech with voice cloning, 10 built-in voices, text normalization, and long-form queuing, running 100% locally.",
+  "source_repo": "xaotiensinh-abm/tqd-voice",
+  "source_url": "https://github.com/xaotiensinh-abm/tqd-voice",
+  "install": "# git clone --depth 1 https://github.com/xaotiensinh-abm/tqd-voice\n# See source for mcpServers config block"
+}

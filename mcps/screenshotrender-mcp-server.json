@@ -1,0 +1,7 @@
+{
+  "name": "screenshotrender-mcp-server",
+  "description": "Enables AI assistants to capture screenshots of any public URL, returning images inline with page metadata. Supports full-page captures, custom wait times, and timeouts.",
+  "source_repo": "faridmth/screenshotrender-mcp",
+  "source_url": "https://github.com/faridmth/screenshotrender-mcp",
+  "install": "npx -y screenshotrender-mcp"
+}

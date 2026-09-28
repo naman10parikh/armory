@@ -1,0 +1,7 @@
+{
+  "name": "agent-signals-mcp",
+  "description": "One MCP server that gives AI agents nine live data tools — company hiring signals, SEC filings, academic papers, GitHub repos, Hacker News, Stack Overflow, clinical trials, Federal Register, and global news — all as flat, citation-ready JSON with pay-per-result billing.",
+  "source_repo": "hassanahashish-design/agent-signals-mcp",
+  "source_url": "https://github.com/hassanahashish-design/agent-signals-mcp",
+  "install": "npx -y agent-signals-mcp"
+}

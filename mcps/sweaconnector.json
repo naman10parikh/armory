@@ -1,0 +1,7 @@
+{
+  "name": "sweaconnector",
+  "description": "Connects Claude to a private algorithm study repository, enabling it to list problems, manage progress notes, and adjust study schedules through MCP tools.",
+  "source_repo": "rleaderjoon/sweaConnector",
+  "source_url": "https://github.com/rleaderjoon/sweaConnector",
+  "install": "# git clone --depth 1 https://github.com/rleaderjoon/sweaConnector\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lighthouse-mcp",
+  "description": "MCP server for managing Tencent Cloud Lighthouse servers, enabling natural language control of instances, firewall rules, monitoring, and more.",
+  "source_repo": "BlueBridge-E/lighthouse-mcp",
+  "source_url": "https://github.com/BlueBridge-E/lighthouse-mcp",
+  "install": "npx -y lighthouse-mcp"
+}

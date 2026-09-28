@@ -1,0 +1,7 @@
+{
+  "name": "pubmed-mcp",
+  "description": "MCP server for accessing NCBI PubMed/PMC databases, enabling search, retrieval of summaries and full records, citation export, and ID conversion through various APIs.",
+  "source_repo": "dam2452/pubmed-mcp",
+  "source_url": "https://github.com/dam2452/pubmed-mcp",
+  "install": "npx -y pubmed-mcp"
+}

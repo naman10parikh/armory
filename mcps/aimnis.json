@@ -1,0 +1,7 @@
+{
+  "name": "aimnis",
+  "description": "A collaborative search gateway for coding agents that provides instant, cited answers from a shared knowledge pool, with semantic caching and live search fallback.",
+  "source_repo": "aimnis/aimnis",
+  "source_url": "https://github.com/aimnis/aimnis",
+  "install": "# git clone --depth 1 https://github.com/aimnis/aimnis\n# See source for mcpServers config block"
+}

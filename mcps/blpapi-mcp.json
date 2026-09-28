@@ -1,0 +1,7 @@
+{
+  "name": "blpapi-mcp",
+  "description": "Enables access to Bloomberg financial data via MCP, requiring a Bloomberg Terminal.",
+  "source_repo": "djsamseng/blpapi-mcp",
+  "source_url": "https://github.com/djsamseng/blpapi-mcp",
+  "install": "npx -y blpapi-mcp"
+}

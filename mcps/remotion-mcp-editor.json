@@ -1,0 +1,7 @@
+{
+  "name": "remotion-mcp-editor",
+  "description": "An always-on, data-driven Remotion editing and rendering engine exposed through Streamable HTTP MCP. Agents edit validated timeline data; the service never exposes source-code or shell access.",
+  "source_repo": "maverick-software/remotion-mcp-editor",
+  "source_url": "https://github.com/maverick-software/remotion-mcp-editor",
+  "install": "# git clone --depth 1 https://github.com/maverick-software/remotion-mcp-editor\n# See source for mcpServers config block"
+}

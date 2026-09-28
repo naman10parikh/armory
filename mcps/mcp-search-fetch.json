@@ -1,0 +1,7 @@
+{
+  "name": "mcp-search-fetch",
+  "description": "Provides web search and page fetching capabilities using Ollama's API.",
+  "source_repo": "lkiesow/mcp-search-and-fetch",
+  "source_url": "https://github.com/lkiesow/mcp-search-and-fetch",
+  "install": "# git clone --depth 1 https://github.com/lkiesow/mcp-search-and-fetch\n# See source for mcpServers config block"
+}

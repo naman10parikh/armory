@@ -1,0 +1,7 @@
+{
+  "name": "runtime-copilot-mcp-server",
+  "description": "Provides an MCP-native operational interface for diagnostics, explainability, regression checks, and operational memory on data-system internals like PostgreSQL and Databricks toy engines.",
+  "source_repo": "kroq86/data-engineering-runtime-lab",
+  "source_url": "https://github.com/kroq86/data-engineering-runtime-lab",
+  "install": "# git clone --depth 1 https://github.com/kroq86/data-engineering-runtime-lab\n# See source for mcpServers config block"
+}

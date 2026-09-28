@@ -1,0 +1,7 @@
+{
+  "name": "petstore-mcp-server",
+  "description": "A read-only MCP server that exposes Swagger Petstore v2 GET endpoints as tools for searching available pets, fetching pet details, and checking inventory.",
+  "source_repo": "Theorvane/examples",
+  "source_url": "https://github.com/Theorvane/examples",
+  "install": "# git clone --depth 1 https://github.com/Theorvane/examples\n# See source for mcpServers config block"
+}

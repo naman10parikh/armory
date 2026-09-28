@@ -1,0 +1,7 @@
+{
+  "name": "orangepro-mcp",
+  "description": "Analyzes code to map behaviors, identify untested gaps, and generate grounded integration tests that actually run.",
+  "source_repo": "OrangeproAI/orangepro-mcp",
+  "source_url": "https://github.com/OrangeproAI/orangepro-mcp",
+  "install": "npx -y orangepro-mcp"
+}

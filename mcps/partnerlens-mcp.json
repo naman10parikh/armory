@@ -1,0 +1,7 @@
+{
+  "name": "partnerlens-mcp",
+  "description": "Enables querying Shopify App Store intelligence including 17,000+ apps, 829,000+ reviews, category rankings, and AI-analyzed review sentiment, with optional integration of user's own app metrics.",
+  "source_repo": "seven-hills-software/partnerlens-mcp",
+  "source_url": "https://github.com/seven-hills-software/partnerlens-mcp",
+  "install": "npx -y partnerlens-mcp"
+}

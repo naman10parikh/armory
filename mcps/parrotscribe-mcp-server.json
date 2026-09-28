@@ -1,0 +1,7 @@
+{
+  "name": "parrotscribe-mcp-server",
+  "description": "Enables AI agents to interact with the ParrotScribe transcription service on macOS, providing tools to start/stop transcription, retrieve real-time and historical transcripts, and search across sessions.",
+  "source_repo": "johanthoren/parrotscribe-mcp",
+  "source_url": "https://github.com/johanthoren/parrotscribe-mcp",
+  "install": "npx -y parrotscribe-mcp"
+}

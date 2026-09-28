@@ -1,0 +1,7 @@
+{
+  "name": "ponylink-rules-mcp",
+  "description": "Provides read-only semantic search over the company's 36 internal rule documents (e.g., employment, HR, disciplinary, attendance, salary regulations). It exposes tools to query the knowledge base by natural language and to retrieve total chunk count, with no modification capabilities.",
+  "source_repo": "Sejin-Koo/ponylink-rules-mcp",
+  "source_url": "https://github.com/Sejin-Koo/ponylink-rules-mcp",
+  "install": "npx -y ponylink-rules-mcp"
+}

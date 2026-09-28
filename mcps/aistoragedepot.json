@@ -1,0 +1,7 @@
+{
+  "name": "aistoragedepot",
+  "description": "Your team's prompt, rules, skills & docs library exposed over MCP (search_library + get_item); mark items \"/\" and they become slash commands. Free for individuals.",
+  "source_repo": "AIStorageDepot/aistoragedepot-mcp",
+  "source_url": "https://github.com/AIStorageDepot/aistoragedepot-mcp",
+  "install": "npx -y aistoragedepot-mcp"
+}

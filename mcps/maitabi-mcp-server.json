@@ -1,0 +1,7 @@
+{
+  "name": "maitabi-mcp-server",
+  "description": "Enables searching and extracting mountain bus tours, alpine trekking, and general tour information from Maitabi (毎日新聞旅行), providing tour search, details, and calendar tools via MCP.",
+  "source_repo": "phonhay103/maitabi-mcp-server",
+  "source_url": "https://github.com/phonhay103/maitabi-mcp-server",
+  "install": "npx -y maitabi-mcp-server"
+}

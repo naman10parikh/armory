@@ -1,0 +1,7 @@
+{
+  "name": "vmcp",
+  "description": "A unified gateway for Model Context Protocol servers, enabling access to multiple scientific computing tools through a single interface.",
+  "source_repo": "JaimeCernuda/vmcp",
+  "source_url": "https://github.com/JaimeCernuda/vmcp",
+  "install": "# git clone --depth 1 https://github.com/JaimeCernuda/vmcp\n# See source for mcpServers config block"
+}

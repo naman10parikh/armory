@@ -1,0 +1,7 @@
+{
+  "name": "locksmith",
+  "description": "An MCP server that catches dangerous SQL migrations by analyzing PostgreSQL statements for locking risks and providing safe rewrites.",
+  "source_repo": "cxk280/locksmith",
+  "source_url": "https://github.com/cxk280/locksmith",
+  "install": "# git clone --depth 1 https://github.com/cxk280/locksmith\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "draw-things-mcp-server",
+  "description": "Enables free local image generation from Claude Desktop/Claude Code using the Draw Things app on Apple Silicon Macs.",
+  "source_repo": "my13each/Drawthings_MCP",
+  "source_url": "https://github.com/my13each/Drawthings_MCP",
+  "install": "npx -y Drawthings_MCP"
+}

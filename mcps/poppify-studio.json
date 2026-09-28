@@ -1,0 +1,7 @@
+{
+  "name": "poppify-studio",
+  "description": "Photo-to-reel MCP for solo founders and SMBs. Upload 1–10 photos and get a captioned vertical reel for Instagram, TikTok, YouTube Shorts, or Facebook — with motion, library-matched music, and optional AI voiceover.",
+  "source_repo": "Poppify/poppify-claude-plugin",
+  "source_url": "https://github.com/Poppify/poppify-claude-plugin",
+  "install": "# git clone --depth 1 https://github.com/Poppify/poppify-claude-plugin\n# See source for mcpServers config block"
+}

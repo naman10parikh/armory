@@ -1,0 +1,7 @@
+{
+  "name": "wasabi-mcp",
+  "description": "MCP server that exposes Wasabi cloud storage's Stats API bucket utilization data as a tool, enabling users to query storage and API call metrics for all buckets.",
+  "source_repo": "MSPbotsAI/wasabi-mcp",
+  "source_url": "https://github.com/MSPbotsAI/wasabi-mcp",
+  "install": "npx -y wasabi-mcp"
+}

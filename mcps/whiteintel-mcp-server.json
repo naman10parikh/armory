@@ -1,0 +1,7 @@
+{
+  "name": "whiteintel-mcp-server",
+  "description": "Enables AI agents to investigate corporate ownership, trace ultimate beneficial owners, screen sanctions, detect offshore exposure, and access fully cited dossiers from 130M+ entities across 31 global registries.",
+  "source_repo": "Hei33enberg/WhiteIntel-OS",
+  "source_url": "https://github.com/Hei33enberg/WhiteIntel-OS",
+  "install": "# git clone --depth 1 https://github.com/Hei33enberg/WhiteIntel-OS\n# See source for mcpServers config block"
+}

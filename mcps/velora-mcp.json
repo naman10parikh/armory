@@ -1,0 +1,7 @@
+{
+  "name": "velora-mcp",
+  "description": "Hosted MCP server for Argentine commerce: real AFIP/ARCA fiscal invoicing (live CAE), MercadoPago payments, logistics, catalog, cash register and WhatsApp behind one authenticated endpoint. Includes 9 no-auth fiscal validation/formatting tools.",
+  "source_repo": "crossi-dev/velora-mcp",
+  "source_url": "https://github.com/crossi-dev/velora-mcp",
+  "install": "npx -y velora-mcp"
+}

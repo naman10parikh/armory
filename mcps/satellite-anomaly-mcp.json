@@ -1,0 +1,7 @@
+{
+  "name": "satellite-anomaly-mcp",
+  "description": "MCP server for autonomous satellite telemetry classification, anomaly detection, and fault isolation, with safety envelope arbitration and NitroCloud deployment.",
+  "source_repo": "Litheshan07/satellite-anomaly-mcp",
+  "source_url": "https://github.com/Litheshan07/satellite-anomaly-mcp",
+  "install": "npx -y satellite-anomaly-mcp"
+}

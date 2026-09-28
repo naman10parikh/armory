@@ -1,0 +1,7 @@
+{
+  "name": "lore",
+  "description": "Enables infinite searchable memory for coding agents across sessions, allowing them to recall past decisions and context.",
+  "source_repo": "jordanhindo/lore",
+  "source_url": "https://github.com/jordanhindo/lore",
+  "install": "# git clone --depth 1 https://github.com/jordanhindo/lore\n# See source for mcpServers config block"
+}

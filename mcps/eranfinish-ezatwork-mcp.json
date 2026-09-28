@@ -1,0 +1,7 @@
+{
+  "name": "eranfinish-ezatwork-mcp",
+  "description": "MCP server for EZ@Work — manage clients, projects, time entries, and invoices from Claude through natural conversation. OAuth 2.1 with Google sign-in, multi-currency support.",
+  "source_repo": "eranfinish/ezatwork-mcp",
+  "source_url": "https://github.com/eranfinish/ezatwork-mcp",
+  "install": "npx -y ezatwork-mcp"
+}

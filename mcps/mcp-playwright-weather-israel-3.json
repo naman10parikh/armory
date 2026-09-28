@@ -1,0 +1,7 @@
+{
+  "name": "mcp-playwright-weather-israel-3",
+  "description": "An MCP server that uses Playwright to browse Israeli weather forecasts from weather2day.co.il, allowing LLMs to control a browser to fetch real-time weather data.",
+  "source_repo": "RachelMantel/mcp-playwright-weather",
+  "source_url": "https://github.com/RachelMantel/mcp-playwright-weather",
+  "install": "# git clone --depth 1 https://github.com/RachelMantel/mcp-playwright-weather\n# See source for mcpServers config block"
+}

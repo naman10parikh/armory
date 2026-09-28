@@ -1,0 +1,7 @@
+{
+  "name": "upvote-club-mcp-core",
+  "description": "Provides tools to interact with the Upvote.club Public API, including creating tasks, checking task status, listing platforms, and more.",
+  "source_repo": "upvoteclub/upvote-club-mcp-core",
+  "source_url": "https://github.com/upvoteclub/upvote-club-mcp-core",
+  "install": "# git clone --depth 1 https://github.com/upvoteclub/upvote-club-mcp-core\n# See source for mcpServers config block"
+}

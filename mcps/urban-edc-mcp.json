@@ -1,0 +1,7 @@
+{
+  "name": "urban-edc-mcp",
+  "description": "Federated MCP server that routes K-12 education data requests to public sources like Urban Institute, EDC/Zelma, NAEP, and MA E2C, handling comparability and provenance automatically.",
+  "source_repo": "sribnick-coder/urban-edc-mcp",
+  "source_url": "https://github.com/sribnick-coder/urban-edc-mcp",
+  "install": "npx -y urban-edc-mcp"
+}

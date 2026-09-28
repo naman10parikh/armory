@@ -1,0 +1,7 @@
+{
+  "name": "layerback-mcp-server",
+  "description": "Enables converting diagram images (screenshots, photos, PDF pages) into editable files like Visio, PowerPoint, draw.io, and SVG through the LayerBack API.",
+  "source_repo": "TopLocalAI/layerback-mcp",
+  "source_url": "https://github.com/TopLocalAI/layerback-mcp",
+  "install": "npx -y layerback-mcp"
+}

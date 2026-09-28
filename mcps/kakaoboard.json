@@ -1,0 +1,7 @@
+{
+  "name": "kakaoboard",
+  "description": "Multi-AI orchestration MCP server enabling multiple AI models to be added as friends in KakaoTalk for discussion, research, and coding, with managed conversations and no API key sharing.",
+  "source_repo": "OnenOnlyLabs/multiversus",
+  "source_url": "https://github.com/OnenOnlyLabs/multiversus",
+  "install": "# git clone --depth 1 https://github.com/OnenOnlyLabs/multiversus\n# See source for mcpServers config block"
+}

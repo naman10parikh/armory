@@ -1,0 +1,7 @@
+{
+  "name": "eea-climate-data-mcp",
+  "description": "Schema-aware, read-only access to European climate data from the EEA Discodata service, supporting GHG inventory and policies and measures databases.",
+  "source_repo": "kalcifield/eea-climate-data-mcp",
+  "source_url": "https://github.com/kalcifield/eea-climate-data-mcp",
+  "install": "npx -y eea-climate-data-mcp"
+}

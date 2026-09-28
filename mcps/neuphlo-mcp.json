@@ -1,0 +1,7 @@
+{
+  "name": "neuphlo-mcp",
+  "description": "MCP server for a Markdown-backed knowledge repository, offering tools for searching, retrieving, validating, and authoring records, plus MCP Apps that render dashboards and inline tables in compatible clients.",
+  "source_repo": "Neuphlo/neuphlo-mcp",
+  "source_url": "https://github.com/Neuphlo/neuphlo-mcp",
+  "install": "npx -y neuphlo-mcp"
+}

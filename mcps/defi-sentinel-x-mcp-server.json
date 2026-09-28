@@ -1,0 +1,7 @@
+{
+  "name": "defi-sentinel-x-mcp-server",
+  "description": "Autonomous AI agent monitoring X Layer DeFi protocols via real RPC calls, providing MCP tools for pool scanning, anomaly detection, risk scoring, alerts, position health checks, and audit trails.",
+  "source_repo": "0xConsole/defi-sentinel-x",
+  "source_url": "https://github.com/0xConsole/defi-sentinel-x",
+  "install": "# git clone --depth 1 https://github.com/0xConsole/defi-sentinel-x\n# See source for mcpServers config block"
+}

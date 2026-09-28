@@ -1,0 +1,7 @@
+{
+  "name": "cognigy-ai-mcp-management-server",
+  "description": "MCP server for Cognigy.AI - 132 tools that let Claude, Cursor & other AI assistants build, configure, test & operate conversational AI agents via the Model Context Protocol.",
+  "source_repo": "TsvetanG2/cognigy-ai-mcp-management-server",
+  "source_url": "https://github.com/TsvetanG2/cognigy-ai-mcp-management-server",
+  "install": "# git clone --depth 1 https://github.com/TsvetanG2/cognigy-ai-mcp-management-server\n# See source for mcpServers config block"
+}

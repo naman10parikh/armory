@@ -1,0 +1,7 @@
+{
+  "name": "custom-atlassian-mcp",
+  "description": "A self-hosted MCP server that exposes Jira and Confluence Cloud to MCP clients, enabling issue tracking, search, creation, and Confluence page management via natural language.",
+  "source_repo": "shamshodisaev/custom-atlassian-mcp",
+  "source_url": "https://github.com/shamshodisaev/custom-atlassian-mcp",
+  "install": "npx -y custom-atlassian-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sin-code-mcp-server-builder-skill",
+  "description": "Scaffolds new MCP servers for the OpenSIN-Code ecosystem with templates for Python, Node, Go; provides tools to add tools, test, validate, register, publish, and audit servers.",
+  "source_repo": "OpenSIN-Code/SIN-Code-MCP-Server-Builder-Skill",
+  "source_url": "https://github.com/OpenSIN-Code/SIN-Code-MCP-Server-Builder-Skill",
+  "install": "# git clone --depth 1 https://github.com/OpenSIN-Code/SIN-Code-MCP-Server-Builder-Skill\n# See source for mcpServers config block"
+}

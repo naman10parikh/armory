@@ -1,0 +1,7 @@
+{
+  "name": "scratchrun-mcp-server",
+  "description": "Ephemeral MicroVM-isolated code execution for AI agents. Run Python, Node, or bash — fresh hardware-isolated VM per call, hard-purged after. No state persists between calls.",
+  "source_repo": "ar-blues/scratchrun-mcp",
+  "source_url": "https://github.com/ar-blues/scratchrun-mcp",
+  "install": "npx -y scratchrun-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "research-server",
+  "description": "Enables searching arXiv papers and retrieving paper metadata through MCP tools.",
+  "source_repo": "akhileshvj/MCPChatbotForPapers",
+  "source_url": "https://github.com/akhileshvj/MCPChatbotForPapers",
+  "install": "# git clone --depth 1 https://github.com/akhileshvj/MCPChatbotForPapers\n# See source for mcpServers config block"
+}

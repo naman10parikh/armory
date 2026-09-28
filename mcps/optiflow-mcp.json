@@ -1,0 +1,7 @@
+{
+  "name": "optiflow-mcp",
+  "description": "A Claude Code plugin that merges token optimization and compression tools into a single MCP server, enabling context-aware token management, session analytics, and compact-continue checkpoints for efficient AI interactions.",
+  "source_repo": "kristijankopacevic/optiflow-mcp",
+  "source_url": "https://github.com/kristijankopacevic/optiflow-mcp",
+  "install": "npx -y optiflow-mcp"
+}

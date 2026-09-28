@@ -1,0 +1,7 @@
+{
+  "name": "vault-server-mcp",
+  "description": "Remote MCP server for Obsidian vault access, giving Claude read/search/archive access to markdown notes via OAuth 2.1 + PKCE auth.",
+  "source_repo": "DUROV-OS/vault-server-MCP",
+  "source_url": "https://github.com/DUROV-OS/vault-server-MCP",
+  "install": "npx -y vault-server-MCP"
+}

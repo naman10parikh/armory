@@ -1,0 +1,7 @@
+{
+  "name": "parsimony-mcp",
+  "description": "An MCP server for parsimony connectors that provides cheap discovery tools through MCP and allows bulk data retrieval via a code interpreter, keeping the agent's context small even with large datasets.",
+  "source_repo": "ockham-sh/parsimony-mcp",
+  "source_url": "https://github.com/ockham-sh/parsimony-mcp",
+  "install": "npx -y parsimony-mcp"
+}

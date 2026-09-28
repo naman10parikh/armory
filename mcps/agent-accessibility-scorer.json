@@ -1,0 +1,7 @@
+{
+  "name": "agent-accessibility-scorer",
+  "description": "MCP server that scores how usable websites are for AI browser agents by analyzing accessibility trees, providing prioritized fixes, and enabling an improvement loop with baseline comparisons.",
+  "source_repo": "noahberry01123/agent-accessibility-scorer",
+  "source_url": "https://github.com/noahberry01123/agent-accessibility-scorer",
+  "install": "# git clone --depth 1 https://github.com/noahberry01123/agent-accessibility-scorer\n# See source for mcpServers config block"
+}

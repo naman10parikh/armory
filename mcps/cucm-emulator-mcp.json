@@ -1,0 +1,7 @@
+{
+  "name": "cucm-emulator-mcp",
+  "description": "Enables AI assistants and automation agents to interact with Cisco CUCM Emulator instances through dynamically generated tools for telephony operations, call simulation, routing policies, CDR buffers, and optional offline mock state.",
+  "source_repo": "calltelemetry/cucm-emulator-mcp",
+  "source_url": "https://github.com/calltelemetry/cucm-emulator-mcp",
+  "install": "npx -y cucm-emulator-mcp"
+}

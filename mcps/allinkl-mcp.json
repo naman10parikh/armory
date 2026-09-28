@@ -1,0 +1,7 @@
+{
+  "name": "allinkl-mcp",
+  "description": "MCP server for All-Inkl KAS API to manage DNS, domains, mailboxes, mail forwards, and databases, including database dumps via SSH+mysqldump.",
+  "source_repo": "art-design-digital/allinkl-mcp",
+  "source_url": "https://github.com/art-design-digital/allinkl-mcp",
+  "install": "npx -y allinkl-mcp"
+}

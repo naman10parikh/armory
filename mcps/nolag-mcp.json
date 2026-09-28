@@ -1,0 +1,7 @@
+{
+  "name": "nolag-mcp",
+  "description": "Realtime coordination for AI agents: manage apps, rooms, actors, publish, and dispatch tasks. Visit https://nolag.app and setup your account.",
+  "source_repo": "NoLagApp/nolag-mcp",
+  "source_url": "https://github.com/NoLagApp/nolag-mcp",
+  "install": "npx -y nolag-mcp"
+}

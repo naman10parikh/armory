@@ -1,0 +1,7 @@
+{
+  "name": "cordra-mcp",
+  "description": "Provides read-only access to Cordra digital object repositories, enabling AI assistants to explore schemas, retrieve objects, and search using Lucene queries.",
+  "source_repo": "dnlbauer/cordra-mcp",
+  "source_url": "https://github.com/dnlbauer/cordra-mcp",
+  "install": "npx -y cordra-mcp"
+}

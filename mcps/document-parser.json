@@ -1,0 +1,7 @@
+{
+  "name": "document-parser",
+  "description": "Provides AI agents with comprehensive document parsing capabilities including PDF text extraction, OCR, HTML-to-markdown conversion, table extraction, and summarization, optimized for agent workflows.",
+  "source_repo": "agenson-tools/document-parser-mcp",
+  "source_url": "https://github.com/agenson-tools/document-parser-mcp",
+  "install": "npx -y document-parser-mcp"
+}

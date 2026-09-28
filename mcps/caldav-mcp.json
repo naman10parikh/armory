@@ -1,0 +1,7 @@
+{
+  "name": "caldav-mcp",
+  "description": "This MCP server enables Claude to read and manage self-hosted CalDAV calendars (SOGo, Nextcloud, Radicale, etc.) with strict safety guardrails: read-only by default, optional writes only when explicitly enabled, no permanent deletes, and no event invitations.",
+  "source_repo": "friisconsult/caldav",
+  "source_url": "https://github.com/friisconsult/caldav",
+  "install": "# git clone --depth 1 https://github.com/friisconsult/caldav\n# See source for mcpServers config block"
+}

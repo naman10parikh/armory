@@ -1,0 +1,7 @@
+{
+  "name": "nim-key-manager-mcp-server",
+  "description": "Enables Claude to manage NVIDIA API keys through an OAuth-secured MCP connector, including listing, dispensing, rotating, and revoking keys with RBAC and audit trail.",
+  "source_repo": "BySergiMM/nim-key-manager",
+  "source_url": "https://github.com/BySergiMM/nim-key-manager",
+  "install": "# git clone --depth 1 https://github.com/BySergiMM/nim-key-manager\n# See source for mcpServers config block"
+}

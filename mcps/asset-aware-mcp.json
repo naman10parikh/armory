@@ -1,0 +1,7 @@
+{
+  "name": "asset-aware-mcp",
+  "description": "Enables AI agents to precisely retrieve and analyze PDF assets (tables, figures, sections) via MCP, with knowledge graph integration for medical research.",
+  "source_repo": "u9401066/asset-aware-mcp",
+  "source_url": "https://github.com/u9401066/asset-aware-mcp",
+  "install": "npx -y asset-aware-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-plc-core",
+  "description": "Universal MCP server for industrial PLC communication, enabling AI agents to read sensors, alarms, status, setpoints, and write setpoints via adapters for Modbus, S7, or custom PLCs.",
+  "source_repo": "Maxkrempl/mcp-plc-core",
+  "source_url": "https://github.com/Maxkrempl/mcp-plc-core",
+  "install": "# git clone --depth 1 https://github.com/Maxkrempl/mcp-plc-core\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "secure-grid-genesis-execution",
+  "description": "Enables AI agents to safely execute Python, JavaScript, and Bash code in an isolated Docker sandbox with strict security constraints.",
+  "source_repo": "Coraje187/Secure-Grid-Genesis-Execution",
+  "source_url": "https://github.com/Coraje187/Secure-Grid-Genesis-Execution",
+  "install": "# git clone --depth 1 https://github.com/Coraje187/Secure-Grid-Genesis-Execution\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "research-mentor-rag",
+  "description": "MCP server that integrates a 1200-paper RAG database with six tools to support research workflows across stages like hypothesis, experiment, statistics, and writing. It routes requests to specialized skills and real-time frontier searches to provide evidence-grounded research mentoring.",
+  "source_repo": "GelortZCY/research-mentor-rag",
+  "source_url": "https://github.com/GelortZCY/research-mentor-rag",
+  "install": "# git clone --depth 1 https://github.com/GelortZCY/research-mentor-rag\n# See source for mcpServers config block"
+}

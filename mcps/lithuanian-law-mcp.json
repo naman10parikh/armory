@@ -1,0 +1,7 @@
+{
+  "name": "lithuanian-law-mcp",
+  "description": "Provides search, retrieval, and validation of Lithuanian statutes and provisions, including EU law cross-references, enabling legal research and compliance checks through natural language.",
+  "source_repo": "Ansvar-Systems/Lithuanian-law-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/Lithuanian-law-mcp",
+  "install": "npx -y Lithuanian-law-mcp"
+}

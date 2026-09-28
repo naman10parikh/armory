@@ -1,0 +1,7 @@
+{
+  "name": "siu-guarani-mcp",
+  "description": "MCP server for querying SIU Guaraní Autogestión from the Docente profile, providing read-only access to teaching periods, courses, exam boards, and student lists via CLI or MCP tools.",
+  "source_repo": "jpmanson/siu-guarani-mcp",
+  "source_url": "https://github.com/jpmanson/siu-guarani-mcp",
+  "install": "npx -y siu-guarani-mcp"
+}

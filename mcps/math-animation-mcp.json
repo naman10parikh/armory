@@ -1,0 +1,7 @@
+{
+  "name": "math-animation-mcp",
+  "description": "Enables creating 3Blue1Brown style math animations from text descriptions, PDFs, or images. Supports rendering educational videos for math and physics topics.",
+  "source_repo": "bcefghj/math-animation-mcp",
+  "source_url": "https://github.com/bcefghj/math-animation-mcp",
+  "install": "npx -y math-animation-mcp"
+}

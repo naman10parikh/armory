@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bridge",
+  "description": "MCP server for Cocos Creator that enables AI tools to automate scene editing, resource management, and project operations via HTTP and stdio interfaces.",
+  "source_repo": "firekula/mcp-bridge",
+  "source_url": "https://github.com/firekula/mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/firekula/mcp-bridge\n# See source for mcpServers config block"
+}

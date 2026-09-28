@@ -1,0 +1,7 @@
+{
+  "name": "bsv-specmate",
+  "description": "MCP server that equips AI agents with BSV-specific development tools including static analysis, pitfall prediction, and BSC error diagnosis to produce correct Bluespec code with fewer compile failures.",
+  "source_repo": "Alele496/bsv-specmate",
+  "source_url": "https://github.com/Alele496/bsv-specmate",
+  "install": "# git clone --depth 1 https://github.com/Alele496/bsv-specmate\n# See source for mcpServers config block"
+}

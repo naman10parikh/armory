@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mermaid-image-gen",
+  "description": "An MCP server that generates diagrams from Mermaid code in multiple formats (PNG, PDF, SVG).",
+  "source_repo": "codingthefuturewithai/mcp_mermaid_image_gen",
+  "source_url": "https://github.com/codingthefuturewithai/mcp_mermaid_image_gen",
+  "install": "# git clone --depth 1 https://github.com/codingthefuturewithai/mcp_mermaid_image_gen\n# See source for mcpServers config block"
+}

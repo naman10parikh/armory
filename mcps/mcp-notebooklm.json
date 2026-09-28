@@ -1,0 +1,7 @@
+{
+  "name": "mcp-notebooklm",
+  "description": "Exposes Google NotebookLM notebooks as tools for AI assistants, enabling listing, finding, and querying notebooks with grounded answers.",
+  "source_repo": "juanQNav/mcp-notebooklm",
+  "source_url": "https://github.com/juanQNav/mcp-notebooklm",
+  "install": "# git clone --depth 1 https://github.com/juanQNav/mcp-notebooklm\n# See source for mcpServers config block"
+}

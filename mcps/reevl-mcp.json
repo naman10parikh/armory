@@ -1,0 +1,7 @@
+{
+  "name": "reevl-mcp",
+  "description": "Enables AI assistants to query Korean apartment real-estate data, including official transaction prices, jeonse ratios, and AI price forecasts for 45,000+ complexes.",
+  "source_repo": "exclusiveyon-a11y/reevl-mcp",
+  "source_url": "https://github.com/exclusiveyon-a11y/reevl-mcp",
+  "install": "npx -y reevl-mcp"
+}

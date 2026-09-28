@@ -1,0 +1,7 @@
+{
+  "name": "opendaw-mcp",
+  "description": "250 MCP tools for agent-native control of openDAW",
+  "source_repo": "AMEOBIUS/opendaw-mcp",
+  "source_url": "https://github.com/AMEOBIUS/opendaw-mcp",
+  "install": "npx -y opendaw-mcp"
+}

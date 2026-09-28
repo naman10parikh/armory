@@ -1,0 +1,7 @@
+{
+  "name": "trove",
+  "description": "A macOS-only local-private runtime that returns bounded cited evidence to external Agents via MCP, with optional Reply Runtime and WeChat source Provider.",
+  "source_repo": "JNHFlow21/trove",
+  "source_url": "https://github.com/JNHFlow21/trove",
+  "install": "# git clone --depth 1 https://github.com/JNHFlow21/trove\n# See source for mcpServers config block"
+}

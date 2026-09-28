@@ -1,0 +1,7 @@
+{
+  "name": "pa-dmv",
+  "description": "Query Pennsylvania DMV data for EV adoption and vehicle registrations by county and ZIP code.",
+  "source_repo": "pipeworx-io/mcp-pa-dmv",
+  "source_url": "https://github.com/pipeworx-io/mcp-pa-dmv",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-pa-dmv\n# See source for mcpServers config block"
+}

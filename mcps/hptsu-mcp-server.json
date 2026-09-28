@@ -1,0 +1,7 @@
+{
+  "name": "hptsu-mcp-server",
+  "description": "Search the hpt.su registry of Russian/EAEU vehicle compliance documents — type approvals, conformity certificates, declarations and type-approval notifications.",
+  "source_repo": "HPT-SU/hptsu-mcp",
+  "source_url": "https://github.com/HPT-SU/hptsu-mcp",
+  "install": "npx -y hptsu-mcp"
+}

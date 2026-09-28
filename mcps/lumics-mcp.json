@@ -1,0 +1,7 @@
+{
+  "name": "lumics-mcp",
+  "description": "A Model Context Protocol (MCP) server that lets an AI assistant read and operate the Lumics network monitoring platform via its REST API.",
+  "source_repo": "ZenixSolutions/lumics-mcp",
+  "source_url": "https://github.com/ZenixSolutions/lumics-mcp",
+  "install": "npx -y lumics-mcp"
+}

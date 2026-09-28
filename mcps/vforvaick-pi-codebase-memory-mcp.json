@@ -1,0 +1,7 @@
+{
+  "name": "vforvaick-pi-codebase-memory-mcp",
+  "description": "MCP server that wraps codebase-memory-mcp to provide code indexing, search, tracing, and architecture analysis tools with automatic reindexing after source changes.",
+  "source_repo": "vforvaick/pi-codebase-memory-mcp",
+  "source_url": "https://github.com/vforvaick/pi-codebase-memory-mcp",
+  "install": "npx -y pi-codebase-memory-mcp"
+}

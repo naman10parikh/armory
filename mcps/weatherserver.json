@@ -1,0 +1,7 @@
+{
+  "name": "weatherserver",
+  "description": "Provides weather data including current conditions, humidity, wind speed, sunrise/sunset, and 7-day forecast via Open-Meteo APIs, discoverable and callable by LangChain agents.",
+  "source_repo": "ngangu63/WeatherMcp",
+  "source_url": "https://github.com/ngangu63/WeatherMcp",
+  "install": "# git clone --depth 1 https://github.com/ngangu63/WeatherMcp\n# See source for mcpServers config block"
+}

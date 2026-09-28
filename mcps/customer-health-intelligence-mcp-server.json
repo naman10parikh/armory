@@ -1,0 +1,7 @@
+{
+  "name": "customer-health-intelligence-mcp-server",
+  "description": "Provides deterministic mock customer health, product usage, and recommended playbook data via three MCP tools for a Customer Success Orchestrator demo.",
+  "source_repo": "arghamza/mcp-server",
+  "source_url": "https://github.com/arghamza/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/arghamza/mcp-server\n# See source for mcpServers config block"
+}

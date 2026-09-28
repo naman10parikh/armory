@@ -1,0 +1,7 @@
+{
+  "name": "fimemory",
+  "description": "Enables AI assistants to read and write a local, encrypted-by-default memory store, so they can share persistent notes and context across sessions and models on your machine.",
+  "source_repo": "FutureAiIndustries/FI-Memory",
+  "source_url": "https://github.com/FutureAiIndustries/FI-Memory",
+  "install": "# git clone --depth 1 https://github.com/FutureAiIndustries/FI-Memory\n# See source for mcpServers config block"
+}

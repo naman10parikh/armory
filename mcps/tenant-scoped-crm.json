@@ -1,0 +1,7 @@
+{
+  "name": "tenant-scoped-crm",
+  "description": "A reference MCP server demonstrating safe agent access to multi-tenant CRM data with tenant isolation enforced in the data layer, role-based permissions, and human confirmation on writes.",
+  "source_repo": "gvprime/mcp-tenant-scoped-crm",
+  "source_url": "https://github.com/gvprime/mcp-tenant-scoped-crm",
+  "install": "# git clone --depth 1 https://github.com/gvprime/mcp-tenant-scoped-crm\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "graph-atlas-mcp",
+  "description": "MCP server that tracks and searches Microsoft Graph API schema changes, permissions, and roles, with historical data and an interactive schema visualizer.",
+  "source_repo": "darrenjrobinson/graph-atlas-mcp",
+  "source_url": "https://github.com/darrenjrobinson/graph-atlas-mcp",
+  "install": "npx -y graph-atlas-mcp"
+}

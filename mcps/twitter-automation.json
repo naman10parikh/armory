@@ -1,0 +1,7 @@
+{
+  "name": "twitter-automation",
+  "description": "A Model Context Protocol (MCP) server that enables Claude to automate Twitter posting with AI-generated images and thread support.",
+  "source_repo": "ayush-oswal/twitter-automation",
+  "source_url": "https://github.com/ayush-oswal/twitter-automation",
+  "install": "# git clone --depth 1 https://github.com/ayush-oswal/twitter-automation\n# See source for mcpServers config block"
+}

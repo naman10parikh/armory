@@ -1,0 +1,7 @@
+{
+  "name": "premiere-mcp",
+  "description": "该MCP服务器使AI助手（如Claude Code、Codex）能够通过桥接目录和CEP面板与Adobe Premiere Pro交互，支持素材扫描、编辑规划、粗剪执行等操作，强调先规划后执行和人工复核。",
+  "source_repo": "sylphiette269/premiere-mcp-editor-cn",
+  "source_url": "https://github.com/sylphiette269/premiere-mcp-editor-cn",
+  "install": "# git clone --depth 1 https://github.com/sylphiette269/premiere-mcp-editor-cn\n# See source for mcpServers config block"
+}

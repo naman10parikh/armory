@@ -1,0 +1,7 @@
+{
+  "name": "partner-booking-mcp-server",
+  "description": "Simulates a third-party appointment booking agent, enabling your AI platform to check availability and book appointments via MCP interoperability.",
+  "source_repo": "s0ham075/partner-booking-mcp",
+  "source_url": "https://github.com/s0ham075/partner-booking-mcp",
+  "install": "npx -y partner-booking-mcp"
+}

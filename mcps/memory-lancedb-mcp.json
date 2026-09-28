@@ -1,0 +1,7 @@
+{
+  "name": "memory-lancedb-mcp",
+  "description": "Enables AI agents to store and recall persistent long-term memories across sessions using LanceDB, with semantic search, automatic linking, conflict detection, and maintenance tools.",
+  "source_repo": "cablate/memory-lancedb-mcp",
+  "source_url": "https://github.com/cablate/memory-lancedb-mcp",
+  "install": "npx -y memory-lancedb-mcp"
+}

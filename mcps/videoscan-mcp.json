@@ -1,0 +1,7 @@
+{
+  "name": "videoscan-mcp",
+  "description": "An MCP server for comprehensive video analysis — AI-powered transcription, visual frame analysis, and metadata extraction from 1000+ platforms.",
+  "source_repo": "guguborbh/videoscan-mcp",
+  "source_url": "https://github.com/guguborbh/videoscan-mcp",
+  "install": "npx -y videoscan-mcp"
+}

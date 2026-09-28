@@ -1,0 +1,7 @@
+{
+  "name": "ai-mail-mcp",
+  "description": "A mail service that connects private domain email to MCP clients, enabling sending (with auto signature), receiving, and reading emails through natural language via stdio or SSE transport.",
+  "source_repo": "dongjunke/ai-mail-mcp",
+  "source_url": "https://github.com/dongjunke/ai-mail-mcp",
+  "install": "npx -y ai-mail-mcp"
+}

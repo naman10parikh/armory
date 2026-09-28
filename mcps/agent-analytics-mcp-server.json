@@ -1,0 +1,7 @@
+{
+  "name": "agent-analytics-mcp-server",
+  "description": "Tracks and analyzes AI agent tool calls with event logging, dashboard, per-tool and per-agent analytics, and error monitoring.",
+  "source_repo": "AiAgentKarl/agent-analytics-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/agent-analytics-mcp-server",
+  "install": "npx -y agent-analytics-mcp-server"
+}

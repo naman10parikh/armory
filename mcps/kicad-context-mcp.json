@@ -1,0 +1,7 @@
+{
+  "name": "kicad-context-mcp",
+  "description": "A read-only MCP server for AI agents to understand KiCad projects through progressive disclosure, providing compact summaries and drill-down tools for components, nets, traces, and ERC/DRC checks without blowing context budgets.",
+  "source_repo": "yigitabi5444/YSM-Kicad-MCP",
+  "source_url": "https://github.com/yigitabi5444/YSM-Kicad-MCP",
+  "install": "npx -y YSM-Kicad-MCP"
+}

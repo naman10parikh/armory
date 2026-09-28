@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fstools",
+  "description": "Provides file read, edit, and write operations with exact-match editing and hash-based consistency checks, designed for models that prefer structured schemas over patch grammars.",
+  "source_repo": "devrandom/mcp-fstools",
+  "source_url": "https://github.com/devrandom/mcp-fstools",
+  "install": "# git clone --depth 1 https://github.com/devrandom/mcp-fstools\n# See source for mcpServers config block"
+}

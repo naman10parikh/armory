@@ -1,0 +1,7 @@
+{
+  "name": "nmos-mcp",
+  "description": "An MCP server for AMWA NMOS that connects to a registry to query network resources (IS-04) and enables routing media by connecting senders to receivers (IS-05).",
+  "source_repo": "leif-cipriani/nmos-mcp",
+  "source_url": "https://github.com/leif-cipriani/nmos-mcp",
+  "install": "npx -y nmos-mcp"
+}

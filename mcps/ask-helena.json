@@ -1,0 +1,7 @@
+{
+  "name": "ask-helena",
+  "description": "Official public, read-only Helena Bioinformatics MCP for source-cited answers about the company and its published products.",
+  "source_repo": "helena-bioinformatics/ask-helena-mcp",
+  "source_url": "https://github.com/helena-bioinformatics/ask-helena-mcp",
+  "install": "npx -y ask-helena-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "persistent-ai-agent-brain-mcp-server-providing-embedded-coding-standards-automat",
+  "description": "dev-brain-mcp",
+  "source_repo": "dgsuyob/dev-brain-mcp",
+  "source_url": "https://github.com/dgsuyob/dev-brain-mcp",
+  "install": "npx -y dev-brain-mcp"
+}

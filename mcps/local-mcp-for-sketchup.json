@@ -1,0 +1,7 @@
+{
+  "name": "local-mcp-for-sketchup",
+  "description": "A local, offline MCP server that enables AI agents to collaborate with SketchUp for controlled modeling, editing, and review tasks via 41 MCP tools.",
+  "source_repo": "dtzhlq/local-mcp-for-sketchup",
+  "source_url": "https://github.com/dtzhlq/local-mcp-for-sketchup",
+  "install": "# git clone --depth 1 https://github.com/dtzhlq/local-mcp-for-sketchup\n# See source for mcpServers config block"
+}

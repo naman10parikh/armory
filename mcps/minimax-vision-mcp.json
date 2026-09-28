@@ -1,0 +1,7 @@
+{
+  "name": "minimax-vision-mcp",
+  "description": "Provides image understanding capabilities by analyzing single or multiple images (local files, URLs, or base64) via MiniMax VL API, complementing text-only models.",
+  "source_repo": "wenjiaqi8255/minimax-vision-mcp",
+  "source_url": "https://github.com/wenjiaqi8255/minimax-vision-mcp",
+  "install": "npx -y minimax-vision-mcp"
+}

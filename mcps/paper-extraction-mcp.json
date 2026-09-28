@@ -1,0 +1,7 @@
+{
+  "name": "paper-extraction-mcp",
+  "description": "Enables structured information extraction from academic PDFs using LLMs, integrating with Claude Desktop for natural language querying and batch processing.",
+  "source_repo": "tylo-git/paper-extraction-MCP",
+  "source_url": "https://github.com/tylo-git/paper-extraction-MCP",
+  "install": "npx -y paper-extraction-MCP"
+}

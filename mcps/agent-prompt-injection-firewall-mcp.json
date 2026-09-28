@@ -1,0 +1,7 @@
+{
+  "name": "agent-prompt-injection-firewall-mcp",
+  "description": "WAF for AI agents — block prompt injection before it reaches the LLM.",
+  "source_repo": "CSOAI-ORG/agent-prompt-injection-firewall-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/agent-prompt-injection-firewall-mcp",
+  "install": "npx -y agent-prompt-injection-firewall-mcp"
+}

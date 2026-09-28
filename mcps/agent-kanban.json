@@ -1,0 +1,7 @@
+{
+  "name": "agent-kanban",
+  "description": "An AI-native kanban board MCP server where agents pull tasks via the Model Context Protocol. It provides tools for task discovery, claiming, progress updates, and review workflows.",
+  "source_repo": "graywrk/agent-kanban",
+  "source_url": "https://github.com/graywrk/agent-kanban",
+  "install": "# git clone --depth 1 https://github.com/graywrk/agent-kanban\n# See source for mcpServers config block"
+}

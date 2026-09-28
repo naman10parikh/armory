@@ -1,0 +1,7 @@
+{
+  "name": "openfigma-mcp",
+  "description": "An MCP server that simplifies Figma design data, generates code in multiple frameworks, and provides accessibility audits and drift detection, all using a free Figma Personal Access Token without a paid Dev Mode seat.",
+  "source_repo": "Shivam990q/open-figma-mcp",
+  "source_url": "https://github.com/Shivam990q/open-figma-mcp",
+  "install": "npx -y open-figma-mcp"
+}

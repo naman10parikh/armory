@@ -1,0 +1,7 @@
+{
+  "name": "maildevmcp",
+  "description": "Provides MCP tools to manage MailDev Docker containers and inspect received emails, including listing, searching, retrieving, deleting, waiting for, and verifying email content and attachments for local development and test automation.",
+  "source_repo": "pierre3/MailDevMcp",
+  "source_url": "https://github.com/pierre3/MailDevMcp",
+  "install": "# git clone --depth 1 https://github.com/pierre3/MailDevMcp\n# See source for mcpServers config block"
+}

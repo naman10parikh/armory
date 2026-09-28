@@ -1,0 +1,7 @@
+{
+  "name": "spendict",
+  "description": "A performance marketer's verdict for AI agents — four tools that return a deterministic run / fix_first / kill call on ad creative, campaign structure, targeting, and live performance, so your agent only ships ads worth the spend.",
+  "source_repo": "dinosaur24/spendict-mcp",
+  "source_url": "https://github.com/dinosaur24/spendict-mcp",
+  "install": "npx -y spendict-mcp"
+}

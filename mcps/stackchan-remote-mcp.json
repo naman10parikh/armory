@@ -1,0 +1,7 @@
+{
+  "name": "stackchan-remote-mcp",
+  "description": "Enables remote control of a StackChan robot via MQTT and MCP, allowing AI clients to switch its facial expressions and trigger camera photos for visual feedback.",
+  "source_repo": "yebieshi/stackchan-remote-mcp",
+  "source_url": "https://github.com/yebieshi/stackchan-remote-mcp",
+  "install": "npx -y stackchan-remote-mcp"
+}

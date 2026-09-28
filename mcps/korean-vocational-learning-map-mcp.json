@@ -1,0 +1,7 @@
+{
+  "name": "korean-vocational-learning-map-mcp",
+  "description": "MCP server providing a local learning graph for the Korean vocational high school curriculum (2022 revised), including 8,425 achievement standards, topics, and 10 tools for searching standards, topics, prerequisites, and learning roadmaps.",
+  "source_repo": "raphysicst-create/korean-vocational-learning-map-mcp",
+  "source_url": "https://github.com/raphysicst-create/korean-vocational-learning-map-mcp",
+  "install": "npx -y korean-vocational-learning-map-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "engwe-n1-air-mcp-server",
+  "description": "Enables Claude AI to control an Engwe N1 Air e-bike via Bluetooth and IoT API, including speed limit adjustment, lock/unlock, find bike, and real-time stats.",
+  "source_repo": "SafaAslan/engwe-n1air-mcp",
+  "source_url": "https://github.com/SafaAslan/engwe-n1air-mcp",
+  "install": "npx -y engwe-n1air-mcp"
+}

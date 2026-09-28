@@ -1,0 +1,7 @@
+{
+  "name": "library-of-context",
+  "description": "MCP server providing virtual memory for AI context with durable SQLite storage, retrieval, and bounded prompt assembly to manage context windows.",
+  "source_repo": "hwillGIT/library-of-context",
+  "source_url": "https://github.com/hwillGIT/library-of-context",
+  "install": "# git clone --depth 1 https://github.com/hwillGIT/library-of-context\n# See source for mcpServers config block"
+}

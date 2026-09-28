@@ -1,0 +1,7 @@
+{
+  "name": "ezyvet-mcp",
+  "description": "MCP server for ezyVet veterinary practice management. Enables reading and creating animals, contacts, appointments, consults, and invoices via natural language.",
+  "source_repo": "sanjibani/ezyvet-mcp",
+  "source_url": "https://github.com/sanjibani/ezyvet-mcp",
+  "install": "npx -y ezyvet-mcp"
+}

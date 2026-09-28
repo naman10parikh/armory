@@ -1,0 +1,7 @@
+{
+  "name": "llmwiki-agent-bridge",
+  "description": "Provides a unified MCP/A2A endpoint that fans out to multiple LLMWiki Knowledge Sources, synthesizes answers with citations and trace steps, and optionally calls an OpenAI-compatible runtime for grounded responses.",
+  "source_repo": "knowledge-bridge-labs/llmwiki-agent-bridge",
+  "source_url": "https://github.com/knowledge-bridge-labs/llmwiki-agent-bridge",
+  "install": "# git clone --depth 1 https://github.com/knowledge-bridge-labs/llmwiki-agent-bridge\n# See source for mcpServers config block"
+}

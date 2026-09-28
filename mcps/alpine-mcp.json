@@ -1,0 +1,7 @@
+{
+  "name": "alpine-mcp",
+  "description": "Provides the complete Alpine.js documentation as resources, enabling AI assistants to accurately reference directives, magics, globals, and plugins.",
+  "source_repo": "BillyNoyes/alpine-mcp",
+  "source_url": "https://github.com/BillyNoyes/alpine-mcp",
+  "install": "npx -y alpine-mcp"
+}

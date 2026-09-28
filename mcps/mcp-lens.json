@@ -1,0 +1,7 @@
+{
+  "name": "mcp-lens",
+  "description": "Acts as a proxy/router for multiple downstream MCP servers, exposing only meta-tools to the host to reduce token usage, enabling efficient search and invocation of tools from a fleet of servers.",
+  "source_repo": "M8T-Jacob/mcp-lens",
+  "source_url": "https://github.com/M8T-Jacob/mcp-lens",
+  "install": "# git clone --depth 1 https://github.com/M8T-Jacob/mcp-lens\n# See source for mcpServers config block"
+}

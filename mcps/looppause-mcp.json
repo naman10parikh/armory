@@ -1,0 +1,7 @@
+{
+  "name": "looppause-mcp",
+  "description": "Pauses AI agent execution and routes approval requests to humans via Slack or email, with cryptographically signed proof of the human's decision.",
+  "source_repo": "soteeabam/looppause-mcp",
+  "source_url": "https://github.com/soteeabam/looppause-mcp",
+  "install": "npx -y looppause-mcp"
+}

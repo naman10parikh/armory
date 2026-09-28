@@ -1,0 +1,7 @@
+{
+  "name": "kommo-mcp",
+  "description": "Self-hosted MCP server that connects AI assistants to Kommo CRM (API v4), enabling real-time CRM actions such as creating/managing leads, tasks, notes, and more through 29 tools.",
+  "source_repo": "RonaldoESantosRevOps/kommo-mcp",
+  "source_url": "https://github.com/RonaldoESantosRevOps/kommo-mcp",
+  "install": "npx -y kommo-mcp"
+}

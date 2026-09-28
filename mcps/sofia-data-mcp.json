@@ -1,0 +1,7 @@
+{
+  "name": "sofia-data-mcp",
+  "description": "MCP server for querying and analyzing urban data from the Sofia municipality CKAN portal. Provides tools for dataset search, retrieval, preview, summarization, and faceted browsing.",
+  "source_repo": "manevpe/sofia-data-mcp",
+  "source_url": "https://github.com/manevpe/sofia-data-mcp",
+  "install": "npx -y sofia-data-mcp"
+}

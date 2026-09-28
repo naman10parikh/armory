@@ -1,0 +1,7 @@
+{
+  "name": "eds-mcp-server",
+  "description": "MCP server for Adobe Edge Delivery Services (AEM EDS). 20 tools for preview, publish, bulk operations, content reading, Core Web Vitals, 404 tracking, A/B experiments, and site configuration. Works with Claude Code, Cursor, and VS Code Copilot.",
+  "source_repo": "Focus-GTS/eds-mcp-server",
+  "source_url": "https://github.com/Focus-GTS/eds-mcp-server",
+  "install": "npx -y eds-mcp-server"
+}

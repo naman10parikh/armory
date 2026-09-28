@@ -1,0 +1,7 @@
+{
+  "name": "sendbird-mcp",
+  "description": "MCP server for Sendbird chat infrastructure, enabling AI agents to provision users, create channels, fetch history, send admin messages, and moderate users via 5 tools.",
+  "source_repo": "NoBanks/sendbird-mcp",
+  "source_url": "https://github.com/NoBanks/sendbird-mcp",
+  "install": "npx -y sendbird-mcp"
+}

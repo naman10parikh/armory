@@ -1,0 +1,7 @@
+{
+  "name": "mcpsnoop",
+  "description": "Zero-dependency MCP server inspector for protocol conformance, tool annotations, and capability checks.",
+  "source_repo": "prasad-a-abhishek/mcpsnoop",
+  "source_url": "https://github.com/prasad-a-abhishek/mcpsnoop",
+  "install": "# git clone --depth 1 https://github.com/prasad-a-abhishek/mcpsnoop\n# See source for mcpServers config block"
+}

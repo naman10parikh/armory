@@ -1,0 +1,7 @@
+{
+  "name": "refinedatamcp",
+  "description": "Provides data preparation, anonymization, and processing tools for AI agents, handling big data with Polars and DuckDB.",
+  "source_repo": "Enesp4rl4k/refinedata-mcp",
+  "source_url": "https://github.com/Enesp4rl4k/refinedata-mcp",
+  "install": "npx -y refinedata-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aws-security-mcp-server",
+  "description": "Enables management and analysis of AWS security groups, S3 buckets, and VPC connections via MCP.",
+  "source_repo": "skjortan23/aws-security-mcp-server",
+  "source_url": "https://github.com/skjortan23/aws-security-mcp-server",
+  "install": "npx -y aws-security-mcp-server"
+}

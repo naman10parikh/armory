@@ -1,0 +1,7 @@
+{
+  "name": "easyjob-mcp-server",
+  "description": "An MCP server for the easyJOB REST API that manages OAuth tokens and provides tools for user lookup, job search, time tracking, and generic entity CRUD operations.",
+  "source_repo": "chrustek-studio/easyjob-mcp-server",
+  "source_url": "https://github.com/chrustek-studio/easyjob-mcp-server",
+  "install": "npx -y easyjob-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "coinbucha",
+  "description": "Signal-first Bitcoin intelligence over MCP — sovereign adoption, hiring velocity, and network hashrate as leading, non-price signals with strength, direction, rationale, and primary sources. Information, not financial advice.",
+  "source_repo": "jukkablomberg/coinbucha-mcp",
+  "source_url": "https://github.com/jukkablomberg/coinbucha-mcp",
+  "install": "npx -y coinbucha-mcp"
+}

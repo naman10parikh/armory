@@ -1,0 +1,7 @@
+{
+  "name": "opencode-voice-mcp-server",
+  "description": "Enables voice input for AI coding assistants by recording audio, transcribing it locally with Whisper, and optionally typing the text at the cursor position. Supports multiple languages and works with MCP-compatible tools like OpenCode, Claude Code, and Cursor.",
+  "source_repo": "YuvrajSinghBhadoria2/opencode-voice-mcp",
+  "source_url": "https://github.com/YuvrajSinghBhadoria2/opencode-voice-mcp",
+  "install": "npx -y opencode-voice-mcp"
+}

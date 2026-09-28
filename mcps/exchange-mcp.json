@@ -1,0 +1,7 @@
+{
+  "name": "exchange-mcp",
+  "description": "Live currency exchange rates from the European Central Bank. 33 currencies. Real-time data updated daily. x402 native — no signup, no API key required. Pay 0.001 USDC per call on Base network. Works with Claude, ChatGPT, Cursor and all MCP clients.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/stockvibes07/exchange-mcp",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/stockvibes07/exchange-mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yazio-mcp",
+  "description": "Enables querying Yazio food logs including meals, daily summaries, and nutrition totals through MCP tools.",
+  "source_repo": "Psilolouben/yazio_mcp",
+  "source_url": "https://github.com/Psilolouben/yazio_mcp",
+  "install": "npx -y yazio_mcp"
+}

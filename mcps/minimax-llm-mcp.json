@@ -1,0 +1,7 @@
+{
+  "name": "minimax-llm-mcp",
+  "description": "Exposes the MiniMax M3 LLM API to MCP-compatible clients, enabling chat completions, text completions, tool calls, and token counting via stdio or SSE transport.",
+  "source_repo": "webski101/minimax-llm-mcp",
+  "source_url": "https://github.com/webski101/minimax-llm-mcp",
+  "install": "npx -y minimax-llm-mcp"
+}

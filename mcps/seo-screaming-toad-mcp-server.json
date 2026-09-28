@@ -1,0 +1,7 @@
+{
+  "name": "seo-screaming-toad-mcp-server",
+  "description": "Provides 23 bounded MCP tools for AI agents to perform technical SEO audits, including crawl setup, page analysis, issue detection, and report exports, all while keeping data local.",
+  "source_repo": "lovecatisgood-sudo/Free-Opensource-SEO-Screaming-Toad-not-Frog-tool-with-100million-url-crawl-potential",
+  "source_url": "https://github.com/lovecatisgood-sudo/Free-Opensource-SEO-Screaming-Toad-not-Frog-tool-with-100million-url-crawl-potential",
+  "install": "# git clone --depth 1 https://github.com/lovecatisgood-sudo/Free-Opensource-SEO-Screaming-Toad-not-Frog-tool-with-100million-url-crawl-potential\n# See source for mcpServers config block"
+}

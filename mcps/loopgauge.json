@@ -1,0 +1,7 @@
+{
+  "name": "loopgauge",
+  "description": "MCP server that experiments with cheaper LLM policies (model, prompt, reasoning, retry, escalation) against project tasks to recommend the lowest-cost policy that meets quality constraints.",
+  "source_repo": "josephuk77/LoopGauge",
+  "source_url": "https://github.com/josephuk77/LoopGauge",
+  "install": "# git clone --depth 1 https://github.com/josephuk77/LoopGauge\n# See source for mcpServers config block"
+}

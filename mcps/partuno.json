@@ -1,0 +1,7 @@
+{
+  "name": "partuno",
+  "description": "Partuno is a local-first MCP server for electronic component research, BOM analysis, and sourcing comparisons across DigiKey and Mouser, with evidence-based recommendations and controlled distributor workflows.",
+  "source_repo": "JPMarhefka/partuno",
+  "source_url": "https://github.com/JPMarhefka/partuno",
+  "install": "# git clone --depth 1 https://github.com/JPMarhefka/partuno\n# See source for mcpServers config block"
+}

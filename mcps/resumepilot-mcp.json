@@ -1,0 +1,7 @@
+{
+  "name": "resumepilot-mcp",
+  "description": "Enables parsing a master resume, analyzing job descriptions for ATS/match scores, generating truthful tailored resumes, tracking applications, and producing PDF reports through Claude Desktop.",
+  "source_repo": "rajeshaipython-stack/auto-apply-resume-pilot",
+  "source_url": "https://github.com/rajeshaipython-stack/auto-apply-resume-pilot",
+  "install": "# git clone --depth 1 https://github.com/rajeshaipython-stack/auto-apply-resume-pilot\n# See source for mcpServers config block"
+}

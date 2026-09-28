@@ -1,0 +1,7 @@
+{
+  "name": "fahali-mcp",
+  "description": "Market-intelligence MCP: 18 detection engines over 9,200+ instruments with calibrated uncertainty and outcome-verified provenance. Informational only, not financial advice.",
+  "source_repo": "BobMain-2025/fahali-mcp",
+  "source_url": "https://github.com/BobMain-2025/fahali-mcp",
+  "install": "npx -y fahali-mcp"
+}

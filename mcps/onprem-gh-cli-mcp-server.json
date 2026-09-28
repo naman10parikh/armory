@@ -1,0 +1,7 @@
+{
+  "name": "onprem-gh-cli-mcp-server",
+  "description": "Enables safe, authenticated access to GitHub via local GitHub CLI, providing read-only operations such as listing repositories, issues, and pull requests.",
+  "source_repo": "ma-nakaya/onprem-gh-cli-mcp-server",
+  "source_url": "https://github.com/ma-nakaya/onprem-gh-cli-mcp-server",
+  "install": "npx -y onprem-gh-cli-mcp-server"
+}

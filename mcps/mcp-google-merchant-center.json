@@ -1,0 +1,7 @@
+{
+  "name": "mcp-google-merchant-center",
+  "description": "Enables reading products, checking approval statuses, and analyzing feeds across multiple Google Merchant Center accounts via natural language.",
+  "source_repo": "gioenjoy/mcp-google-merchant-center",
+  "source_url": "https://github.com/gioenjoy/mcp-google-merchant-center",
+  "install": "# git clone --depth 1 https://github.com/gioenjoy/mcp-google-merchant-center\n# See source for mcpServers config block"
+}

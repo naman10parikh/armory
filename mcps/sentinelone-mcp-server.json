@@ -1,0 +1,7 @@
+{
+  "name": "sentinelone-mcp-server",
+  "description": "Read-only MCP server for the SentinelOne management API, exposing sites, endpoint agents, threats, and activity logs with aggregation tools for MSP/MSSP reporting.",
+  "source_repo": "jamescash1976/sentinelone-mcp",
+  "source_url": "https://github.com/jamescash1976/sentinelone-mcp",
+  "install": "npx -y sentinelone-mcp"
+}

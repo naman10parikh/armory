@@ -1,0 +1,7 @@
+{
+  "name": "word-doc-mcp",
+  "description": "MCP server for creating and reading Word (.docx) documents with rich formatting support.",
+  "source_repo": "by-oneself/word-doc-mcp",
+  "source_url": "https://github.com/by-oneself/word-doc-mcp",
+  "install": "npx -y word-doc-mcp"
+}

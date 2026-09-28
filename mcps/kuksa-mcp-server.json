@@ -1,0 +1,7 @@
+{
+  "name": "kuksa-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that connects LLMs to vehicle data via the Eclipse Kuksa Databroker, enabling AI assistants to read and write vehicle signals using the standardized COVESA Vehicle Signal Specification.",
+  "source_repo": "mikehaller/kuksa-mcp-server",
+  "source_url": "https://github.com/mikehaller/kuksa-mcp-server",
+  "install": "npx -y kuksa-mcp-server"
+}

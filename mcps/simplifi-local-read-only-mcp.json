@@ -1,0 +1,7 @@
+{
+  "name": "simplifi-local-read-only-mcp",
+  "description": "Enables local read-only exploration of Quicken Simplifi financial data through MCP, with tools for searching transactions, categories, tags, and merchants, using a local SQLite cache and token-based authentication.",
+  "source_repo": "SudSampath/simplifi-local-readonly-mcp",
+  "source_url": "https://github.com/SudSampath/simplifi-local-readonly-mcp",
+  "install": "npx -y simplifi-local-readonly-mcp"
+}

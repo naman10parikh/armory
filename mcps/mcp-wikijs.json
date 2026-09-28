@@ -1,0 +1,7 @@
+{
+  "name": "mcp-wikijs",
+  "description": "Connects Claude to a Wiki.js instance, enabling page search, retrieval, listing, and creation.",
+  "source_repo": "bnaranmandakh03/mcp-wikijs",
+  "source_url": "https://github.com/bnaranmandakh03/mcp-wikijs",
+  "install": "# git clone --depth 1 https://github.com/bnaranmandakh03/mcp-wikijs\n# See source for mcpServers config block"
+}

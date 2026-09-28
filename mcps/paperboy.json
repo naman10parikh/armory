@@ -1,0 +1,7 @@
+{
+  "name": "paperboy",
+  "description": "An MCP server that delivers research papers to your e-reader, using Zotero as the source of truth. Allows searching, queuing, and sending papers to Kindle, PocketBook, or Kobo.",
+  "source_repo": "michaelellis003/paperboy",
+  "source_url": "https://github.com/michaelellis003/paperboy",
+  "install": "# git clone --depth 1 https://github.com/michaelellis003/paperboy\n# See source for mcpServers config block"
+}

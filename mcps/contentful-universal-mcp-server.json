@@ -1,0 +1,7 @@
+{
+  "name": "contentful-universal-mcp-server",
+  "description": "Provides a standardized interface for interacting with Contentful's tools and services through a unified API. Enables content management and site configuration via natural language.",
+  "source_repo": "universal-mcp/contentful",
+  "source_url": "https://github.com/universal-mcp/contentful",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/contentful\n# See source for mcpServers config block"
+}

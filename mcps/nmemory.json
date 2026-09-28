@@ -1,0 +1,7 @@
+{
+  "name": "nmemory",
+  "description": "Hermetic memory for AI agents — one Rust binary, one SQLite file, zero network. Recall returns evidence with provenance or abstains: no code path for making things up.",
+  "source_repo": "menot-you/n-memory",
+  "source_url": "https://github.com/menot-you/n-memory",
+  "install": "# git clone --depth 1 https://github.com/menot-you/n-memory\n# See source for mcpServers config block"
+}

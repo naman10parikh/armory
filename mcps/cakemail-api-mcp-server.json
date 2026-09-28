@@ -1,0 +1,7 @@
+{
+  "name": "cakemail-api-mcp-server",
+  "description": "An MCP server that provides AI agents with direct access to authoritative Cakemail API specifications, enabling accurate code generation and eliminating hallucination.",
+  "source_repo": "cakemail/cakemail-api-documentation-mcp",
+  "source_url": "https://github.com/cakemail/cakemail-api-documentation-mcp",
+  "install": "npx -y cakemail-api-documentation-mcp"
+}

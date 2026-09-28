@@ -1,0 +1,7 @@
+{
+  "name": "jwt-base64-decoder-mcp-server",
+  "description": "Enables AI agents to safely decode and inspect JWT tokens and Base64 payloads in real-time.",
+  "source_repo": "vinkius-labs/jwt-base64-decoder-mcp",
+  "source_url": "https://github.com/vinkius-labs/jwt-base64-decoder-mcp",
+  "install": "npx -y jwt-base64-decoder-mcp"
+}

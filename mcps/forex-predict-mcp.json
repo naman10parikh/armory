@@ -1,0 +1,7 @@
+{
+  "name": "forex-predict-mcp",
+  "description": "Provides XGBoost-based directional predictions (UP/DOWN) for EURUSD and GBPUSD forex pairs via MCP tools, including feature extraction and signal generation.",
+  "source_repo": "SleepingTalent/forex-predict-mcp",
+  "source_url": "https://github.com/SleepingTalent/forex-predict-mcp",
+  "install": "npx -y forex-predict-mcp"
+}

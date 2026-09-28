@@ -1,0 +1,7 @@
+{
+  "name": "tailopsmcp",
+  "description": "A control plane gateway for managing distributed infrastructure through MCP, enabling centralized SSH, Docker, and HTTP target management with capability-based authorization and policy enforcement.",
+  "source_repo": "mdlmarkham/TailOpsMCP",
+  "source_url": "https://github.com/mdlmarkham/TailOpsMCP",
+  "install": "# git clone --depth 1 https://github.com/mdlmarkham/TailOpsMCP\n# See source for mcpServers config block"
+}

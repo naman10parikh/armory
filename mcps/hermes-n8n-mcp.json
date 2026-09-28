@@ -1,0 +1,7 @@
+{
+  "name": "hermes-n8n-mcp",
+  "description": "A local stdio MCP bridge for managing n8n from Hermes Agent, exposing tools to check health, list/inspect workflows, view executions, and activate/deactivate workflows securely without exposing n8n over the network.",
+  "source_repo": "csenguttuvan/hermes-n8n-mcp-plus",
+  "source_url": "https://github.com/csenguttuvan/hermes-n8n-mcp-plus",
+  "install": "# git clone --depth 1 https://github.com/csenguttuvan/hermes-n8n-mcp-plus\n# See source for mcpServers config block"
+}

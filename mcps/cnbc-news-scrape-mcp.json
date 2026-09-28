@@ -1,0 +1,7 @@
+{
+  "name": "cnbc-news-scrape-mcp",
+  "description": "An MCP server for scraping and retrieving CNBC news content.",
+  "source_repo": "cascas2010/CNBC-News-Scrape-MCP",
+  "source_url": "https://github.com/cascas2010/CNBC-News-Scrape-MCP",
+  "install": "npx -y CNBC-News-Scrape-MCP"
+}

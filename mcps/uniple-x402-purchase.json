@@ -1,0 +1,7 @@
+{
+  "name": "uniple-x402-purchase",
+  "description": "Enables AI agents to browse, quote, and purchase products from Uniple's x402 catalog API using JPYC payments.",
+  "source_repo": "uniple-checkout/uniple-x402-agent-skill",
+  "source_url": "https://github.com/uniple-checkout/uniple-x402-agent-skill",
+  "install": "# git clone --depth 1 https://github.com/uniple-checkout/uniple-x402-agent-skill\n# See source for mcpServers config block"
+}

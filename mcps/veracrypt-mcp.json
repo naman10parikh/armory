@@ -1,0 +1,7 @@
+{
+  "name": "veracrypt-mcp",
+  "description": "MCP server for securely mounting and unmounting VeraCrypt containers, using OS keyring or stdin for passwords. Enables natural language control of encrypted volumes so clients can read and edit files once mounted.",
+  "source_repo": "bitterdev/veracrypt-mcp",
+  "source_url": "https://github.com/bitterdev/veracrypt-mcp",
+  "install": "npx -y veracrypt-mcp"
+}

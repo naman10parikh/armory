@@ -1,0 +1,7 @@
+{
+  "name": "msloop-mcp",
+  "description": "MCP server that provides read access to Microsoft Loop workspaces and pages by reusing your Loop web session, enabling listing, reading, and searching across Loop content without app registration.",
+  "source_repo": "shayanline/msloop-mcp",
+  "source_url": "https://github.com/shayanline/msloop-mcp",
+  "install": "npx -y msloop-mcp"
+}

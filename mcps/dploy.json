@@ -1,0 +1,7 @@
+{
+  "name": "dploy",
+  "description": "Enables AI agents to deploy applications and manage servers over SSH using natural language commands, with built-in tools for Python bots, Docker Compose, and SSL setup.",
+  "source_repo": "wellmb/DPloy",
+  "source_url": "https://github.com/wellmb/DPloy",
+  "install": "# git clone --depth 1 https://github.com/wellmb/DPloy\n# See source for mcpServers config block"
+}

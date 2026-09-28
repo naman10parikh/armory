@@ -1,0 +1,7 @@
+{
+  "name": "agent-mail-mcp",
+  "description": "MCP server that lets AI agents create reviewable physical mail drafts, validate quotes, and pay for postage via MPP or x402 protocols.",
+  "source_repo": "postalform/agent-mail-mcp",
+  "source_url": "https://github.com/postalform/agent-mail-mcp",
+  "install": "npx -y agent-mail-mcp"
+}

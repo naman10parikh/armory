@@ -1,0 +1,7 @@
+{
+  "name": "zen-mcp",
+  "description": "MCP server for ZEN.com Payment Gateway enabling payment links, transaction lookup, refunds, payouts, and reporting.",
+  "source_repo": "krystiangw/zen-mcp",
+  "source_url": "https://github.com/krystiangw/zen-mcp",
+  "install": "npx -y zen-mcp"
+}

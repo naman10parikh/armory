@@ -1,0 +1,7 @@
+{
+  "name": "statcan-mcp",
+  "description": "MCP server giving LLMs live access to Statistics Canada's full catalogue of 8,200+ data tables via the Web Data Service, with tools to search tables, inspect dimensions, and fetch time series data using plain-language prompts.",
+  "source_repo": "arose26/statcan-mcp",
+  "source_url": "https://github.com/arose26/statcan-mcp",
+  "install": "npx -y statcan-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "grocery-mcp",
+  "description": "MCP server for grocery-related web automation using Playwright, enabling AI assistants to interact with grocery websites.",
+  "source_repo": "JiteshPL/grocery-mcp",
+  "source_url": "https://github.com/JiteshPL/grocery-mcp",
+  "install": "npx -y grocery-mcp"
+}

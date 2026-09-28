@@ -1,0 +1,7 @@
+{
+  "name": "oferty-spike-mcp",
+  "description": "Enables testing an MCP v2 streamable HTTP server protected by Supabase OAuth 2.1, including Dynamic Client Registration, consent flow, and token-based identity verification for Claude clients.",
+  "source_repo": "AIBiz-Automatyzacje/oferty-spike-mcp",
+  "source_url": "https://github.com/AIBiz-Automatyzacje/oferty-spike-mcp",
+  "install": "npx -y oferty-spike-mcp"
+}

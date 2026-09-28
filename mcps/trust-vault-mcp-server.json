@@ -1,0 +1,7 @@
+{
+  "name": "trust-vault-mcp-server",
+  "description": "Exposes 8 read-only Trust Vault tools over MCP (Streamable HTTP) for querying protocol overview, tokens, market rates, orders, platform stats, fees, and currencies. Enables on-chain reads and static config without wallet or signing.",
+  "source_repo": "O2lord/trust-vault-mcp",
+  "source_url": "https://github.com/O2lord/trust-vault-mcp",
+  "install": "npx -y trust-vault-mcp"
+}

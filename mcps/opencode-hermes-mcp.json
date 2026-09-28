@@ -1,0 +1,7 @@
+{
+  "name": "opencode-hermes-mcp",
+  "description": "Enables a supervisor LLM to delegate coding tasks to a persistent OpenCode server, block until the turn completes or needs input, and resume the same turn with answers or permission decisions.",
+  "source_repo": "ArthurHtr/opencode-hermes-mcp",
+  "source_url": "https://github.com/ArthurHtr/opencode-hermes-mcp",
+  "install": "npx -y opencode-hermes-mcp"
+}

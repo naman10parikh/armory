@@ -1,0 +1,7 @@
+{
+  "name": "shopping-deals-mcp-server",
+  "description": "MCP server for finding, comparing, and ranking the cheapest real offers across eBay, Amazon, Craigslist, OfferUp, and Google Shopping, with tax estimation and exact-model filtering.",
+  "source_repo": "jongan69/shopping-deals-mcp-server",
+  "source_url": "https://github.com/jongan69/shopping-deals-mcp-server",
+  "install": "npx -y shopping-deals-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "learning-mcp",
+  "description": "An MCP server that enforces a pedagogical workflow to teach topics step by step, using research, decomposition, and spaced retrieval practice.",
+  "source_repo": "ryantthomas/learning-mcp",
+  "source_url": "https://github.com/ryantthomas/learning-mcp",
+  "install": "npx -y learning-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openlmnp",
+  "description": "Accounting MCP server for the French LMNP tax status (furnished rentals, e.g. Airbnb hosts). 44 tools to manage properties, income and expenses, compute component-based depreciation and fiscal results, and generate the official French tax return (2031/2033) and FEC accounting export.",
+  "source_repo": "manganate006/openlmnp",
+  "source_url": "https://github.com/manganate006/openlmnp",
+  "install": "# git clone --depth 1 https://github.com/manganate006/openlmnp\n# See source for mcpServers config block"
+}

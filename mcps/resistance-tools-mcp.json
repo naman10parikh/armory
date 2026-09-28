@@ -1,0 +1,7 @@
+{
+  "name": "resistance-tools-mcp",
+  "description": "MCP server for managing TON blockchain sites, deployments, DNS, and storage via the Resistance Tools platform.",
+  "source_repo": "TONresistor/resistance-tools-mcp",
+  "source_url": "https://github.com/TONresistor/resistance-tools-mcp",
+  "install": "npx -y resistance-tools-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rag-mcp-azure",
+  "description": "A lightweight RAG server deployed on Azure Container Apps that ingests PDFs, creates embeddings, and exposes a search_documents tool over MCP for retrieving relevant document chunks.",
+  "source_repo": "oumniya03/rag-mcp-azure",
+  "source_url": "https://github.com/oumniya03/rag-mcp-azure",
+  "install": "# git clone --depth 1 https://github.com/oumniya03/rag-mcp-azure\n# See source for mcpServers config block"
+}

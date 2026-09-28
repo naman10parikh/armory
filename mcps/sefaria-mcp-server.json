@@ -1,0 +1,7 @@
+{
+  "name": "sefaria-mcp-server",
+  "description": "Enables LLMs to access and search Jewish texts from the Sefaria library through 15 MCP tools, including text retrieval, search, and manuscript access.",
+  "source_repo": "Sefaria/sefaria-mcp",
+  "source_url": "https://github.com/Sefaria/sefaria-mcp",
+  "install": "npx -y sefaria-mcp"
+}

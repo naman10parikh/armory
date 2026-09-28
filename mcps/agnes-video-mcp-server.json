@@ -1,0 +1,7 @@
+{
+  "name": "agnes-video-mcp-server",
+  "description": "Enables video generation from text prompts or images using Agnes AI's video models, with async task submission and status polling.",
+  "source_repo": "kira4094/agnes-video-mcp-server",
+  "source_url": "https://github.com/kira4094/agnes-video-mcp-server",
+  "install": "npx -y agnes-video-mcp-server"
+}

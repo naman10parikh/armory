@@ -1,0 +1,7 @@
+{
+  "name": "obsmcp",
+  "description": "A local-first MCP server and continuity control plane that helps AI coding tools maintain project state, tasks, and context across sessions, models, and interruptions, with features like session tracking, token-efficient context assembly, and code understanding via Code Atlas.",
+  "source_repo": "nikzdevz/OBSMCP",
+  "source_url": "https://github.com/nikzdevz/OBSMCP",
+  "install": "# git clone --depth 1 https://github.com/nikzdevz/OBSMCP\n# See source for mcpServers config block"
+}

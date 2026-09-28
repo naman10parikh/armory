@@ -1,0 +1,7 @@
+{
+  "name": "skillroute-mcp",
+  "description": "Provides AI agents with a structured library of engineering skills, best practices, and playbooks for software development.",
+  "source_repo": "vaibhavgupta5/SkillRoute-MCP",
+  "source_url": "https://github.com/vaibhavgupta5/SkillRoute-MCP",
+  "install": "npx -y SkillRoute-MCP"
+}

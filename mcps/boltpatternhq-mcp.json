@@ -1,0 +1,7 @@
+{
+  "name": "boltpatternhq-mcp",
+  "description": "Official BoltPatternHQ MCP Server for instant automotive wheel fitment, PCD, center bore, and offset reference data.",
+  "source_repo": "double2dev/boltpatternhq-mcp",
+  "source_url": "https://github.com/double2dev/boltpatternhq-mcp",
+  "install": "npx -y boltpatternhq-mcp"
+}

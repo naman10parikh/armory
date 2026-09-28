@@ -1,0 +1,7 @@
+{
+  "name": "api-dev-agent-mcp",
+  "description": "MCP server that automates the generation of production-grade async FastAPI services following Clean Architecture, with self-healing pytest-based verification and OpenAPI spec ingestion for rapid CRUD API development.",
+  "source_repo": "okarin25/api-dev-agent-mcp",
+  "source_url": "https://github.com/okarin25/api-dev-agent-mcp",
+  "install": "npx -y api-dev-agent-mcp"
+}

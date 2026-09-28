@@ -1,0 +1,7 @@
+{
+  "name": "aws-blackbelt-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that enables searching AWS Black Belt Online Seminars and retrieving their transcripts.",
+  "source_repo": "konippi/aws-blackbelt-mcp-server",
+  "source_url": "https://github.com/konippi/aws-blackbelt-mcp-server",
+  "install": "npx -y aws-blackbelt-mcp-server"
+}

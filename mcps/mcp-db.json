@@ -1,0 +1,7 @@
+{
+  "name": "mcp-db",
+  "description": "MCP server for exploring metadata of corporate databases: table structures, relationships, dependencies, and export to UML diagrams.",
+  "source_repo": "ayuriiuni-prog/MCP_DB",
+  "source_url": "https://github.com/ayuriiuni-prog/MCP_DB",
+  "install": "# git clone --depth 1 https://github.com/ayuriiuni-prog/MCP_DB\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tokencast",
+  "description": "Pre-execution cost estimation for LLM agent workflows, providing cost estimates before running tasks and improving accuracy over time through calibration.",
+  "source_repo": "krulewis/tokencast",
+  "source_url": "https://github.com/krulewis/tokencast",
+  "install": "# git clone --depth 1 https://github.com/krulewis/tokencast\n# See source for mcpServers config block"
+}

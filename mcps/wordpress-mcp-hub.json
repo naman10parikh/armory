@@ -1,0 +1,7 @@
+{
+  "name": "wordpress-mcp-hub",
+  "description": "A local MCP gateway that connects AI clients to multiple remote WordPress MCP servers, enabling tool discovery, testing, and invocation with secure authentication and centralized configuration.",
+  "source_repo": "estebanstifli/wp-mcp-hub",
+  "source_url": "https://github.com/estebanstifli/wp-mcp-hub",
+  "install": "# git clone --depth 1 https://github.com/estebanstifli/wp-mcp-hub\n# See source for mcpServers config block"
+}

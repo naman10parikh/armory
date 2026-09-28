@@ -1,0 +1,7 @@
+{
+  "name": "circuit-mcp",
+  "description": "Provides AI agents with real-time Solana data and agent-swarm intelligence as tools, with auto-paid per-call micropayments in CIRC via x402.",
+  "source_repo": "Circuit-LLM/MCP",
+  "source_url": "https://github.com/Circuit-LLM/MCP",
+  "install": "# git clone --depth 1 https://github.com/Circuit-LLM/MCP\n# See source for mcpServers config block"
+}

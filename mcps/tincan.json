@@ -1,0 +1,7 @@
+{
+  "name": "tincan",
+  "description": "Enables direct agent-to-agent messaging, file transfer, and persistent conversation history between AI agents across machines via a private broker, without needing shared channels or third-party services.",
+  "source_repo": "rockerritesh/tincan",
+  "source_url": "https://github.com/rockerritesh/tincan",
+  "install": "# git clone --depth 1 https://github.com/rockerritesh/tincan\n# See source for mcpServers config block"
+}

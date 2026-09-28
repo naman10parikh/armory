@@ -1,0 +1,7 @@
+{
+  "name": "mcp-stealth-chrome",
+  "description": "Provides 133 stealth tools for AI agents to bypass Cloudflare, Turnstile, and reCAPTCHA, including LLM-optimized actions like describe_page and smart_fill.",
+  "source_repo": "RobithYusuf/mcp-stealth-chrome",
+  "source_url": "https://github.com/RobithYusuf/mcp-stealth-chrome",
+  "install": "# git clone --depth 1 https://github.com/RobithYusuf/mcp-stealth-chrome\n# See source for mcpServers config block"
+}

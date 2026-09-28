@@ -1,0 +1,7 @@
+{
+  "name": "appbi-workboard-mcp",
+  "description": "Build a working AppBI Workboard mini-app end to end — from raw data all the way to a shareable app — through one self-contained MCP server.",
+  "source_repo": "Minhngo03/appbi-workboard-mcp-ha-binh-logistics",
+  "source_url": "https://github.com/Minhngo03/appbi-workboard-mcp-ha-binh-logistics",
+  "install": "# git clone --depth 1 https://github.com/Minhngo03/appbi-workboard-mcp-ha-binh-logistics\n# See source for mcpServers config block"
+}

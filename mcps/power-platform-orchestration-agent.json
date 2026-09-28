@@ -1,0 +1,7 @@
+{
+  "name": "power-platform-orchestration-agent",
+  "description": "Automates enterprise Power Platform project setup and management via MCP, reducing setup time from weeks to hours through template-based provisioning, Azure DevOps orchestration, and direct API integration.",
+  "source_repo": "jimiryquai/power-platform-orchestration-agent",
+  "source_url": "https://github.com/jimiryquai/power-platform-orchestration-agent",
+  "install": "# git clone --depth 1 https://github.com/jimiryquai/power-platform-orchestration-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "designdiff-mcp",
+  "description": "Verifies that AI-generated UI code matches Figma design specs by rendering components in a real browser, comparing computed CSS, and returning patch-ready fixes with scored parity reports.",
+  "source_repo": "Valkyrie2048/DesignDiff",
+  "source_url": "https://github.com/Valkyrie2048/DesignDiff",
+  "install": "# git clone --depth 1 https://github.com/Valkyrie2048/DesignDiff\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-system-tools-server",
+  "description": "Provides AI agents with tools to retrieve live system statistics (CPU, memory) and safely evaluate basic arithmetic expressions.",
+  "source_repo": "B-DINESH9/mcp-system-tools",
+  "source_url": "https://github.com/B-DINESH9/mcp-system-tools",
+  "install": "# git clone --depth 1 https://github.com/B-DINESH9/mcp-system-tools\n# See source for mcpServers config block"
+}

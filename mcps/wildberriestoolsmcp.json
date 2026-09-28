@@ -1,0 +1,7 @@
+{
+  "name": "wildberriestoolsmcp",
+  "description": "MCP server for retrieving Wildberries product reviews and formatting them as JSON for LLM analysis.",
+  "source_repo": "Happyfunnysad/WildberriesToolsMCP",
+  "source_url": "https://github.com/Happyfunnysad/WildberriesToolsMCP",
+  "install": "# git clone --depth 1 https://github.com/Happyfunnysad/WildberriesToolsMCP\n# See source for mcpServers config block"
+}

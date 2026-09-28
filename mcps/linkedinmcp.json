@@ -1,0 +1,7 @@
+{
+  "name": "linkedinmcp",
+  "description": "An innovative MCP server that transforms LinkedIn API interactions, enabling advanced people search, profile retrieval, and job market intelligence through natural language.",
+  "source_repo": "SandeshKhilari01/linkedin-mcp",
+  "source_url": "https://github.com/SandeshKhilari01/linkedin-mcp",
+  "install": "npx -y linkedin-mcp"
+}

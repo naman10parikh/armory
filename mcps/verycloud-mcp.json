@@ -1,0 +1,7 @@
+{
+  "name": "verycloud-mcp",
+  "description": "Connects VeryCloud/Wisp game servers to MCP-compatible AI clients, enabling server inspection, file and log reading, console commands, and power management with security-focused defaults.",
+  "source_repo": "BreezeDelegate/verycloud-mcp",
+  "source_url": "https://github.com/BreezeDelegate/verycloud-mcp",
+  "install": "npx -y verycloud-mcp"
+}

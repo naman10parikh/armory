@@ -1,0 +1,7 @@
+{
+  "name": "ams360-mcp-server",
+  "description": "MCP server for Vertafore AMS360 WSAPI v3 that enables querying clients, policies, renewals, and activities through natural language.",
+  "source_repo": "Scottpedia0/ams360-mcp-server",
+  "source_url": "https://github.com/Scottpedia0/ams360-mcp-server",
+  "install": "npx -y ams360-mcp-server"
+}

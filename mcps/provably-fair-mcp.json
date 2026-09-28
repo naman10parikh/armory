@@ -1,0 +1,7 @@
+{
+  "name": "provably-fair-mcp",
+  "description": "MCP server enabling provably-fair random selection and winner picking using drand randomness, with tools for instant picks, scheduled draws, and verification.",
+  "source_repo": "gadaffihub/provably-fair-mcp",
+  "source_url": "https://github.com/gadaffihub/provably-fair-mcp",
+  "install": "npx -y provably-fair-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "myhotlunchbox-mcp",
+  "description": "Enables reading the school lunch calendar, managing students, placing and changing orders, and tracking deliveries and payments on a My Hot Lunchbox parent account. It signs in server-side with account credentials and exposes 38 MCP tools with confirm-gated write operations.",
+  "source_repo": "chrischall/myhotlunchbox-mcp",
+  "source_url": "https://github.com/chrischall/myhotlunchbox-mcp",
+  "install": "npx -y myhotlunchbox-mcp"
+}

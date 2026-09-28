@@ -1,0 +1,7 @@
+{
+  "name": "gitguardian-mcp-server",
+  "description": "Enables AI agents to scan projects for secrets, manage incidents, and create honeytokens using GitGuardian's API.",
+  "source_repo": "fastmcp-me/ggmcp",
+  "source_url": "https://github.com/fastmcp-me/ggmcp",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/ggmcp\n# See source for mcpServers config block"
+}

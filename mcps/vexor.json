@@ -1,0 +1,7 @@
+{
+  "name": "vexor",
+  "description": "A semantic search engine for files and code.",
+  "source_repo": "scarletkc/vexor",
+  "source_url": "https://github.com/scarletkc/vexor",
+  "install": "# git clone --depth 1 https://github.com/scarletkc/vexor\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "adobe-xd-mcp-server",
+  "description": "Enables Claude to interact with Adobe XD files, extract design information, and generate React components from designs.",
+  "source_repo": "dekdee/adobe-xd-mcp",
+  "source_url": "https://github.com/dekdee/adobe-xd-mcp",
+  "install": "npx -y adobe-xd-mcp"
+}

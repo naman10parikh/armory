@@ -1,0 +1,7 @@
+{
+  "name": "riza-mcp-server",
+  "description": "Enables LLMs to securely execute code and manage reusable tools using Riza's isolated code interpreter API.",
+  "source_repo": "ampcome-mcps/riza-mcp",
+  "source_url": "https://github.com/ampcome-mcps/riza-mcp",
+  "install": "npx -y riza-mcp"
+}

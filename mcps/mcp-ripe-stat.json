@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ripe-stat",
+  "description": "Provides IP, ASN, and BGP routing data from RIPE Stat API, enabling whois lookups, network info, AS overview, BGP state, abuse contacts, and geolocation queries.",
+  "source_repo": "pipeworx-io/mcp-ripe-stat",
+  "source_url": "https://github.com/pipeworx-io/mcp-ripe-stat",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-ripe-stat\n# See source for mcpServers config block"
+}

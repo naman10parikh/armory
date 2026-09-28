@@ -1,0 +1,7 @@
+{
+  "name": "rag-mcp",
+  "description": "Enables retrieval-augmented generation by allowing LLMs to search documents in a local folder using vector similarity, supporting multiple file formats.",
+  "source_repo": "mmer547/rag_mcp",
+  "source_url": "https://github.com/mmer547/rag_mcp",
+  "install": "npx -y rag_mcp"
+}

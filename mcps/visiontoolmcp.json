@@ -1,0 +1,7 @@
+{
+  "name": "visiontoolmcp",
+  "description": "Enables text-only agents to process images by accepting image files, base64 data, or URLs, sending them to multimodal models, and returning structured text results via MCP.",
+  "source_repo": "Winter-And-You-Gone/VisionTool-MCP",
+  "source_url": "https://github.com/Winter-And-You-Gone/VisionTool-MCP",
+  "install": "npx -y VisionTool-MCP"
+}

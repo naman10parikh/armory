@@ -1,0 +1,7 @@
+{
+  "name": "australian-law-mcp",
+  "description": "MCP server for the Federal Register of Legislation, enabling point-in-time searches, retrieval, and verification of Australian Commonwealth law, including citation checking.",
+  "source_repo": "ChangkeunJ/australian-law-mcp",
+  "source_url": "https://github.com/ChangkeunJ/australian-law-mcp",
+  "install": "npx -y australian-law-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pshare-share-mcp",
+  "description": "Enables AI assistants to upload files and folders to a Pshare instance and generate share links, with support for optional password, TTL, and chunked uploads for large files.",
+  "source_repo": "ntanhprt/Pshare-mcp",
+  "source_url": "https://github.com/ntanhprt/Pshare-mcp",
+  "install": "npx -y Pshare-mcp"
+}

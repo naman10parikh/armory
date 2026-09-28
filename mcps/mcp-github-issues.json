@@ -1,0 +1,7 @@
+{
+  "name": "mcp-github-issues",
+  "description": "Enables LLMs to list, create, and comment on GitHub issues using your own GitHub identity via stdio transport.",
+  "source_repo": "ygerfal/mcp-github-issues",
+  "source_url": "https://github.com/ygerfal/mcp-github-issues",
+  "install": "# git clone --depth 1 https://github.com/ygerfal/mcp-github-issues\n# See source for mcpServers config block"
+}

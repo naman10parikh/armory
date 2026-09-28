@@ -1,0 +1,7 @@
+{
+  "name": "interactive-cli",
+  "description": "Enables AI agents to interact with interactive CLI processes via a real PTY, allowing them to send keystrokes, read screen output, and handle interactive prompts.",
+  "source_repo": "ohernandezdev/interactive-cli",
+  "source_url": "https://github.com/ohernandezdev/interactive-cli",
+  "install": "# git clone --depth 1 https://github.com/ohernandezdev/interactive-cli\n# See source for mcpServers config block"
+}

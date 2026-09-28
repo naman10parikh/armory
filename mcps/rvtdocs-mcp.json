@@ -1,0 +1,7 @@
+{
+  "name": "rvtdocs-mcp",
+  "description": "Enables deterministic querying of RVTDocs documentation with tools for fetching, scanning, and debugging documentation content.",
+  "source_repo": "trgiangv/rvtdocs-mcp",
+  "source_url": "https://github.com/trgiangv/rvtdocs-mcp",
+  "install": "npx -y rvtdocs-mcp"
+}

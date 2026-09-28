@@ -1,0 +1,7 @@
+{
+  "name": "mn-mcp",
+  "description": "Enables retrieval-augmented question answering over Obsidian vaults and document folders, with local embeddings, vector search, and cited source paths.",
+  "source_repo": "Gatoco/mnemos-mcp",
+  "source_url": "https://github.com/Gatoco/mnemos-mcp",
+  "install": "npx -y mnemos-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "domain-expertise-mcp",
+  "description": "Injects structured professional domain expertise into AI agents, providing access to decision frameworks, workflows, terminology, and regulatory context across 24 professional domains.",
+  "source_repo": "mdfifty50-boop/domain-expertise-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/domain-expertise-mcp",
+  "install": "npx -y domain-expertise-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentic-msteams-mcp",
+  "description": "A self-hosted Microsoft Teams MCP server that serves as an agnostic human-in-the-loop gateway for AI agents.",
+  "source_repo": "hdyrawan/agentic-msteams-mcp",
+  "source_url": "https://github.com/hdyrawan/agentic-msteams-mcp",
+  "install": "npx -y agentic-msteams-mcp"
+}

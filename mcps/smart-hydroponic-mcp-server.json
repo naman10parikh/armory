@@ -1,0 +1,7 @@
+{
+  "name": "smart-hydroponic-mcp-server",
+  "description": "MCP server for querying hydroponic sensor data stored in PostgreSQL/TimescaleDB. Provides tools to list tables, describe schemas, read recent sensor readings, fetch latest data, and perform time-series aggregations via natural language.",
+  "source_repo": "ksm-aiot-dev/smart-hydroponic-mcp",
+  "source_url": "https://github.com/ksm-aiot-dev/smart-hydroponic-mcp",
+  "install": "npx -y smart-hydroponic-mcp"
+}

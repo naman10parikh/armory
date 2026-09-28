@@ -1,0 +1,7 @@
+{
+  "name": "support-ticket-mcp",
+  "description": "Enables natural language querying and semantic search over a bilingual customer support ticket dataset using SQL and embeddings.",
+  "source_repo": "Jonnyds/support-ticket-mcp",
+  "source_url": "https://github.com/Jonnyds/support-ticket-mcp",
+  "install": "npx -y support-ticket-mcp"
+}

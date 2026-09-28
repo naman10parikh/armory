@@ -1,0 +1,7 @@
+{
+  "name": "gw2-mcp-server",
+  "description": "An MCP server that answers Guild Wars 2 questions by searching the official wiki and GW2 API, with citations.",
+  "source_repo": "Guild-Wars-MCP/GW2_MCP",
+  "source_url": "https://github.com/Guild-Wars-MCP/GW2_MCP",
+  "install": "npx -y GW2_MCP"
+}

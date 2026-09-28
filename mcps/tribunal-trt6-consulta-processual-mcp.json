@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trt6-consulta-processual-mcp",
+  "description": "MCP server for consulting legal process information from the Tribunal Regional do Trabalho da 6ª Região (TRT6). It provides read-only access to case details via a hosted HTTP API with prepaid credits.",
+  "source_repo": "mcp-dir/tribunal_trt6_processo-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trt6_processo-mcp",
+  "install": "npx -y tribunal_trt6_processo-mcp"
+}

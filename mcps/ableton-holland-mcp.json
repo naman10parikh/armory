@@ -1,0 +1,7 @@
+{
+  "name": "ableton-holland-mcp",
+  "description": "MCP server for controlling Ableton Live via a remote script, capturing audio through VB-Cable, and performing music analysis with librosa.",
+  "source_repo": "scenaristeur/ableton-holland-mcp",
+  "source_url": "https://github.com/scenaristeur/ableton-holland-mcp",
+  "install": "npx -y ableton-holland-mcp"
+}

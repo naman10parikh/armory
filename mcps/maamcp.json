@@ -1,0 +1,7 @@
+{
+  "name": "maamcp",
+  "description": "基于 MaaFramework 的 MCP 服务器，为 AI 助手提供 Android 设备和 Windows 桌面自动化能力。",
+  "source_repo": "MAA-AI/MaaMCP",
+  "source_url": "https://github.com/MAA-AI/MaaMCP",
+  "install": "# git clone --depth 1 https://github.com/MAA-AI/MaaMCP\n# See source for mcpServers config block"
+}

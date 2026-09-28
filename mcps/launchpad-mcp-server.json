@@ -1,0 +1,7 @@
+{
+  "name": "launchpad-mcp-server",
+  "description": "Read-only MCP server that exposes Launchpad bug-tracking data for a single project to AI agents, enabling search and retrieval of bugs, milestones, and comments with canonical URLs.",
+  "source_repo": "bnbhat/launchpad-mcp",
+  "source_url": "https://github.com/bnbhat/launchpad-mcp",
+  "install": "npx -y launchpad-mcp"
+}

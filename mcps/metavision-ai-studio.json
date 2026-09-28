@@ -1,0 +1,7 @@
+{
+  "name": "metavision-ai-studio",
+  "description": "Generate 3D models from text or image. Browse 10K+ free 3D models. AI creative platform with API",
+  "source_repo": "adminmetavision-rgb/metavision-mcp",
+  "source_url": "https://github.com/adminmetavision-rgb/metavision-mcp",
+  "install": "npx -y metavision-mcp"
+}

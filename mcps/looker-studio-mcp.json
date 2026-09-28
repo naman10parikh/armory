@@ -1,0 +1,7 @@
+{
+  "name": "looker-studio-mcp",
+  "description": "Automates Looker Studio dashboards using Playwright, enabling creation, modification, screenshots, and exports.",
+  "source_repo": "talandrius/looker-studio-mcp",
+  "source_url": "https://github.com/talandrius/looker-studio-mcp",
+  "install": "npx -y looker-studio-mcp"
+}

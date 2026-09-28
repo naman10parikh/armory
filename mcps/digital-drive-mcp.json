@@ -1,0 +1,7 @@
+{
+  "name": "digital-drive-mcp",
+  "description": "Enables AI agents to browse and read files from a public Google Drive folder via MCP. Provides tools to list folders, read document contents, and get download URLs.",
+  "source_repo": "headdigitalmgt-mahfuj2/digital-drive-mcp",
+  "source_url": "https://github.com/headdigitalmgt-mahfuj2/digital-drive-mcp",
+  "install": "npx -y digital-drive-mcp"
+}

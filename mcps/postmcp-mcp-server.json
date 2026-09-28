@@ -1,0 +1,7 @@
+{
+  "name": "postmcp-mcp-server",
+  "description": "Enables AI assistants to manage social media publishing across platforms like LinkedIn, Twitter, Facebook, Instagram, Threads, and Bluesky.",
+  "source_repo": "postmcp/postmcp-mcp-server",
+  "source_url": "https://github.com/postmcp/postmcp-mcp-server",
+  "install": "npx -y postmcp-mcp-server"
+}

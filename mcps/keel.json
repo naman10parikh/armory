@@ -1,0 +1,7 @@
+{
+  "name": "keel",
+  "description": "Keel is a network diagnostics MCP server that provides 14 tools for tasks like ping, DNS lookup, port scanning, SSL certificate inspection, and more, with built-in security features.",
+  "source_repo": "seayniclabs/keel",
+  "source_url": "https://github.com/seayniclabs/keel",
+  "install": "# git clone --depth 1 https://github.com/seayniclabs/keel\n# See source for mcpServers config block"
+}

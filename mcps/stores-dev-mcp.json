@@ -1,0 +1,7 @@
+{
+  "name": "stores-dev-mcp",
+  "description": "Provides STORES API documentation to AI clients, enabling natural language queries about endpoints, authentication, and more.",
+  "source_repo": "unlearned/stores-dev-mcp",
+  "source_url": "https://github.com/unlearned/stores-dev-mcp",
+  "install": "npx -y stores-dev-mcp"
+}

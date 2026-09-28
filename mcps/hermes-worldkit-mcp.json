@@ -1,0 +1,7 @@
+{
+  "name": "hermes-worldkit-mcp",
+  "description": "Controls a Godot editor adapter via MCP, reporting bridge status, scene summaries, and selected nodes, with secure WebSocket authentication and scene-safe node selection.",
+  "source_repo": "DeployFaith/Hermes_WorldKit_MCP",
+  "source_url": "https://github.com/DeployFaith/Hermes_WorldKit_MCP",
+  "install": "npx -y Hermes_WorldKit_MCP"
+}

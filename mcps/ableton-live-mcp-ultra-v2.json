@@ -1,0 +1,7 @@
+{
+  "name": "ableton-live-mcp-ultra-v2",
+  "description": "Enables AI agents to control Ableton Live with full access to Live's object model, including clip creation, device control, automation, and audio signal capture for mixing and mastering tasks.",
+  "source_repo": "mlmil/Ableton-Live-MCP-ULTRA-v2",
+  "source_url": "https://github.com/mlmil/Ableton-Live-MCP-ULTRA-v2",
+  "install": "# git clone --depth 1 https://github.com/mlmil/Ableton-Live-MCP-ULTRA-v2\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "porta-rag-mcp",
+  "description": "MCP server exposing a RAG knowledge base as read-only tools (search_knowledge_base, ask_knowledge_base, kb_stats, kb_diagnostic) for AI clients like Claude Desktop and Cursor, enabling token-efficient document retrieval and Q&A.",
+  "source_repo": "Ira-Korshunova/porta-rag-mcp",
+  "source_url": "https://github.com/Ira-Korshunova/porta-rag-mcp",
+  "install": "npx -y porta-rag-mcp"
+}

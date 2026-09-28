@@ -1,0 +1,7 @@
+{
+  "name": "pii-redaction-mcp-server",
+  "description": "Enables AI agents to redact PII from text, summarize redacted content, and manage custom redaction patterns across multiple languages.",
+  "source_repo": "aammasa/cms-ai-pii-redaction-service",
+  "source_url": "https://github.com/aammasa/cms-ai-pii-redaction-service",
+  "install": "# git clone --depth 1 https://github.com/aammasa/cms-ai-pii-redaction-service\n# See source for mcpServers config block"
+}

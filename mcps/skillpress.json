@@ -1,0 +1,7 @@
+{
+  "name": "skillpress",
+  "description": "Compiles websites, docs, and repositories into agent-ready SKILL.md packages for AI coding agents.",
+  "source_repo": "xiaokillua/skillpress",
+  "source_url": "https://github.com/xiaokillua/skillpress",
+  "install": "# git clone --depth 1 https://github.com/xiaokillua/skillpress\n# See source for mcpServers config block"
+}

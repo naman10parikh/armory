@@ -1,0 +1,7 @@
+{
+  "name": "pptogo-mcp-server",
+  "description": "Enables AI agents to browse affiliate campaigns, mint tracking links, publish posts, and track earnings on PPToGo.",
+  "source_repo": "riverliu8/pptogo-mcp",
+  "source_url": "https://github.com/riverliu8/pptogo-mcp",
+  "install": "npx -y pptogo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-google-search-console",
+  "description": "Enables interaction with Google Search Console via MCP, offering search analytics, performance summaries, URL inspection, sitemap management, and property listing for SEO workflows.",
+  "source_repo": "thein-art/mcp-server-google-search-console",
+  "source_url": "https://github.com/thein-art/mcp-server-google-search-console",
+  "install": "# git clone --depth 1 https://github.com/thein-art/mcp-server-google-search-console\n# See source for mcpServers config block"
+}

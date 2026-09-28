@@ -1,0 +1,7 @@
+{
+  "name": "external-agent-mcp",
+  "description": "Bridges Codex to external CLI coding agents for read-only code analysis and deterministic quality fixes.",
+  "source_repo": "parkavenue9639/external-agent-mcp",
+  "source_url": "https://github.com/parkavenue9639/external-agent-mcp",
+  "install": "npx -y external-agent-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mqtt-mcp",
+  "description": "MCP server that bridges MQTT sensor data to MCP, allowing clients to query cached sensor readings and send commands via tools like list_topics, read_topic, and publish.",
+  "source_repo": "URL42/mqtt-mcp",
+  "source_url": "https://github.com/URL42/mqtt-mcp",
+  "install": "npx -y mqtt-mcp"
+}

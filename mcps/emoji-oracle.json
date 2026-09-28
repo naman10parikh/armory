@@ -1,0 +1,7 @@
+{
+  "name": "emoji-oracle",
+  "description": "Enables users to ask questions to the Emoji Oracle and receive cryptic emoji prophecies with vibe ratings, with optional interpretation of the emoji sequence.",
+  "source_repo": "pipeworx-io/mcp-emoji-oracle",
+  "source_url": "https://github.com/pipeworx-io/mcp-emoji-oracle",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-emoji-oracle\n# See source for mcpServers config block"
+}

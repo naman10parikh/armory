@@ -1,0 +1,7 @@
+{
+  "name": "langlearn-tts",
+  "description": "Enables Claude to speak in 70+ languages, including pronunciation, audio flashcards, and full language lessons with tutor personas.",
+  "source_repo": "punt-labs/langlearn-tts",
+  "source_url": "https://github.com/punt-labs/langlearn-tts",
+  "install": "# git clone --depth 1 https://github.com/punt-labs/langlearn-tts\n# See source for mcpServers config block"
+}

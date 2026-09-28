@@ -1,0 +1,7 @@
+{
+  "name": "mcp-vuln-probe",
+  "description": "A security probe MCP server for auditing KServe container runtime security without kubectl, enabling checks like SA token existence, SSRF, RBAC, and internal network access.",
+  "source_repo": "pgt0312/test_mcp",
+  "source_url": "https://github.com/pgt0312/test_mcp",
+  "install": "npx -y test_mcp"
+}

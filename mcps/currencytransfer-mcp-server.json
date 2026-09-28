@@ -1,0 +1,7 @@
+{
+  "name": "currencytransfer-mcp-server",
+  "description": "Enables AI assistants to trade FX, manage beneficiaries, check balances, request quotes, and configure rate alerts and market orders via the CurrencyTransfer API.",
+  "source_repo": "currencytransfer/mcp-currencytransfer",
+  "source_url": "https://github.com/currencytransfer/mcp-currencytransfer",
+  "install": "# git clone --depth 1 https://github.com/currencytransfer/mcp-currencytransfer\n# See source for mcpServers config block"
+}

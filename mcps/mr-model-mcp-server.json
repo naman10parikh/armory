@@ -1,0 +1,7 @@
+{
+  "name": "mr-model-mcp-server",
+  "description": "Standalone Model Context Protocol (MCP) server for the mr-model platform, offering 5 tools to query video lists, comments, OCR transcripts, search, and blogger opinions via a web API.",
+  "source_repo": "Cesario121125/mr-model-mcp",
+  "source_url": "https://github.com/Cesario121125/mr-model-mcp",
+  "install": "npx -y mr-model-mcp"
+}

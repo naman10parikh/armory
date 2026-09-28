@@ -1,0 +1,7 @@
+{
+  "name": "cursor-plan-executor",
+  "description": "A Model Context Protocol server for Cursor that manages and executes task plans with SQLite3-based CRUD operations, status tracking, and workflow tools.",
+  "source_repo": "shanaka95/cursor-mem-mcp",
+  "source_url": "https://github.com/shanaka95/cursor-mem-mcp",
+  "install": "npx -y cursor-mem-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wass-mcp",
+  "description": "MCP server for web application security scanning with Nikto, Nuclei, Wapiti, and shcheck integration.",
+  "source_repo": "tb0hdan/wass-mcp",
+  "source_url": "https://github.com/tb0hdan/wass-mcp",
+  "install": "npx -y wass-mcp"
+}

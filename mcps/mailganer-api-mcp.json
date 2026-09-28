@@ -1,0 +1,7 @@
+{
+  "name": "mailganer-api-mcp",
+  "description": "Caches Mailganer API documentation and Postman collection locally, enabling search, sync, and cross-reference between API docs and Postman requests.",
+  "source_repo": "dkanster/mailganer-api-mcp",
+  "source_url": "https://github.com/dkanster/mailganer-api-mcp",
+  "install": "npx -y mailganer-api-mcp"
+}

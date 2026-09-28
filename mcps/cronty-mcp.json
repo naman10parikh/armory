@@ -1,0 +1,7 @@
+{
+  "name": "cronty-mcp",
+  "description": "A FastMCP server that enables AI agents to schedule notifications and reminders via Upstash QStash and NTFY.",
+  "source_repo": "cronty-com/cronty-mcp",
+  "source_url": "https://github.com/cronty-com/cronty-mcp",
+  "install": "npx -y cronty-mcp"
+}

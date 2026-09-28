@@ -1,0 +1,7 @@
+{
+  "name": "mcp-planner-premium",
+  "description": "A self-hosted MCP server that exposes Microsoft Planner Premium structural writes via Dataverse PSS V2 APIs as MCP tools, running in the signed-in user's delegated context.",
+  "source_repo": "opsora-labs/mcp-planner-premium",
+  "source_url": "https://github.com/opsora-labs/mcp-planner-premium",
+  "install": "# git clone --depth 1 https://github.com/opsora-labs/mcp-planner-premium\n# See source for mcpServers config block"
+}

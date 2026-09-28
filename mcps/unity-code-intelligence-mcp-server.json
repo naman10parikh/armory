@@ -1,0 +1,7 @@
+{
+  "name": "unity-code-intelligence-mcp-server",
+  "description": "AI-powered static analysis for Unity projects, detecting common patterns, component relationships, and programming insights to augment developer workflows.",
+  "source_repo": "jstricklin/Unity-Intelligence-MCP",
+  "source_url": "https://github.com/jstricklin/Unity-Intelligence-MCP",
+  "install": "npx -y Unity-Intelligence-MCP"
+}

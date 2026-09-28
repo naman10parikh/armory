@@ -1,0 +1,7 @@
+{
+  "name": "mcp-skills-server",
+  "description": "Dynamically loads and exposes skills from a directory with hot-reloading support, enabling users to manage and query skill content via MCP resources and tools.",
+  "source_repo": "srprasanna/mcp-skill-hub",
+  "source_url": "https://github.com/srprasanna/mcp-skill-hub",
+  "install": "# git clone --depth 1 https://github.com/srprasanna/mcp-skill-hub\n# See source for mcpServers config block"
+}

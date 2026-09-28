@@ -1,0 +1,7 @@
+{
+  "name": "d3vtools",
+  "description": "MCP server for 200+ developer utilities — discover and execute tools through a unified API.",
+  "source_repo": "",
+  "source_url": "https://d3v.tools",
+  "install": "# git clone --depth 1 https://d3v.tools\n# See source for mcpServers config block"
+}

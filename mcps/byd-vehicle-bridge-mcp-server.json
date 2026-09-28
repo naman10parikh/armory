@@ -1,0 +1,7 @@
+{
+  "name": "byd-vehicle-bridge-mcp-server",
+  "description": "A secure, read-only MCP server that connects to BYD electric vehicles via the BYD cloud API, enabling AI agents to query real-time vehicle data such as battery SOC, range, tire pressures, door states, and GPS.",
+  "source_repo": "pavelpervi/byd-vehicle-bridge",
+  "source_url": "https://github.com/pavelpervi/byd-vehicle-bridge",
+  "install": "# git clone --depth 1 https://github.com/pavelpervi/byd-vehicle-bridge\n# See source for mcpServers config block"
+}

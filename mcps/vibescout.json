@@ -1,0 +1,7 @@
+{
+  "name": "vibescout",
+  "description": "Enables semantic code search and AI-powered chat for local codebases, with support for multiple AI providers and a plugin system.",
+  "source_repo": "sevenseconds/vibescout",
+  "source_url": "https://github.com/sevenseconds/vibescout",
+  "install": "# git clone --depth 1 https://github.com/sevenseconds/vibescout\n# See source for mcpServers config block"
+}

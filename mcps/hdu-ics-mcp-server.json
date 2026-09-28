@@ -1,0 +1,7 @@
+{
+  "name": "hdu-ics-mcp-server",
+  "description": "Enables querying of Hangzhou Dianzi University course schedules, exams, and campus events by accessing the HDUHelp ICS calendar subscription. Supports getting today's and upcoming events, as well as keyword search.",
+  "source_repo": "wzy4163/hdu-ics-mcp-server",
+  "source_url": "https://github.com/wzy4163/hdu-ics-mcp-server",
+  "install": "npx -y hdu-ics-mcp-server"
+}

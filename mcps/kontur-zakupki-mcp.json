@@ -1,0 +1,7 @@
+{
+  "name": "kontur-zakupki-mcp",
+  "description": "Enables searching and retrieving Russian tenders (закупки) through the Kontur.Zakupki API. Supports filtering by date, text, laws, procedures, statuses, and more.",
+  "source_repo": "futuristclaude/kontur-zakupki-mcp",
+  "source_url": "https://github.com/futuristclaude/kontur-zakupki-mcp",
+  "install": "npx -y kontur-zakupki-mcp"
+}

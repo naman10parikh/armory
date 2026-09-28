@@ -1,0 +1,7 @@
+{
+  "name": "autopilot-mcp",
+  "description": "A browser-automation MCP server providing persistent browser profiles per domain, Bitwarden credential injection without exposing passwords, and playbook recording/replay for repeatable tasks.",
+  "source_repo": "TylerFlar/autopilot-mcp",
+  "source_url": "https://github.com/TylerFlar/autopilot-mcp",
+  "install": "npx -y autopilot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "finnish-foreign-trade-mcp",
+  "description": "https://github.com/NectiaAutomation/finnish-trade-mcp-server",
+  "source_repo": "NectiaAutomation/finnish-trade-mcp-server",
+  "source_url": "https://github.com/NectiaAutomation/finnish-trade-mcp-server",
+  "install": "npx -y finnish-trade-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "usda-fdc-mcp",
+  "description": "MCP server that provides food composition data from USDA FoodData Central, enabling search, nutrient lookups, and recipe nutrition calculations.",
+  "source_repo": "seraphinerenard/usda-fdc-mcp",
+  "source_url": "https://github.com/seraphinerenard/usda-fdc-mcp",
+  "install": "npx -y usda-fdc-mcp"
+}

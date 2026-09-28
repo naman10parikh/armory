@@ -1,0 +1,7 @@
+{
+  "name": "facebook-lyr",
+  "description": "A Facebook/Messenger MCP server that lets AI agents read and engage with profiles, pages, posts, comments, groups, Messenger conversations, notifications, and events using the user's existing browser session cookies — no Graph API app, tokens, or browser automation required. It supports multi-accoun",
+  "source_repo": "ishan-parihar/facebook-lyr",
+  "source_url": "https://github.com/ishan-parihar/facebook-lyr",
+  "install": "# git clone --depth 1 https://github.com/ishan-parihar/facebook-lyr\n# See source for mcpServers config block"
+}

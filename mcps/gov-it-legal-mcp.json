@@ -1,0 +1,7 @@
+{
+  "name": "gov-it-legal-mcp",
+  "description": "Provides real-time access to Italian legislation and administrative court rulings through Normattiva, OpenGA, and GA Portal.",
+  "source_repo": "SimonBerg255/gov-it-legal-mcp",
+  "source_url": "https://github.com/SimonBerg255/gov-it-legal-mcp",
+  "install": "npx -y gov-it-legal-mcp"
+}

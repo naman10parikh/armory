@@ -1,0 +1,7 @@
+{
+  "name": "stackoverflow-mcp-server",
+  "description": "Enables AI assistants to search and access Stack Overflow content, including questions, answers, and error solutions.",
+  "source_repo": "CodexVeritax/stackoverflow-mcp-server",
+  "source_url": "https://github.com/CodexVeritax/stackoverflow-mcp-server",
+  "install": "npx -y stackoverflow-mcp-server"
+}

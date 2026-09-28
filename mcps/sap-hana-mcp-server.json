@@ -1,0 +1,7 @@
+{
+  "name": "sap-hana-mcp-server",
+  "description": "MCP server enabling AI agents to explore SAP HANA schemas, execute SQL with guardrails, and access database metadata, monitoring, and business domain semantics.",
+  "source_repo": "josecarlos3390/sap-hana-mcp-server",
+  "source_url": "https://github.com/josecarlos3390/sap-hana-mcp-server",
+  "install": "npx -y sap-hana-mcp-server"
+}

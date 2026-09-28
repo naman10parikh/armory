@@ -1,0 +1,7 @@
+{
+  "name": "local-llm-mcp-server",
+  "description": "A Node.js MCP server that exposes utility and sample HRMS tools over Streamable HTTP with shared bearer-token authentication, enabling local LLM gateways to call them in read-only mode.",
+  "source_repo": "manojkiranti/local-llm-mcp",
+  "source_url": "https://github.com/manojkiranti/local-llm-mcp",
+  "install": "npx -y local-llm-mcp"
+}

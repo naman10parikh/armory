@@ -1,0 +1,7 @@
+{
+  "name": "monitoring-aiops",
+  "description": "Governs and automates network monitoring across SolarWinds Orion and Paessler PRTG platforms with a unified MCP server, enabling querying, alert management, and governed writes with audit logging.",
+  "source_repo": "AIops-tools/Monitoring-AIops",
+  "source_url": "https://github.com/AIops-tools/Monitoring-AIops",
+  "install": "# git clone --depth 1 https://github.com/AIops-tools/Monitoring-AIops\n# See source for mcpServers config block"
+}

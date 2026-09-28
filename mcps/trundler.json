@@ -1,0 +1,7 @@
+{
+  "name": "trundler",
+  "description": "A local MCP server for grocery shopping, enabling product search, specials, and browsing across NZ supermarkets, with cart and order history for Countdown/Woolworths via browser-assisted login.",
+  "source_repo": "auckland-ai-collective/trundler",
+  "source_url": "https://github.com/auckland-ai-collective/trundler",
+  "install": "# git clone --depth 1 https://github.com/auckland-ai-collective/trundler\n# See source for mcpServers config block"
+}

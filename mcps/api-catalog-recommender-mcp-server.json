@@ -1,0 +1,7 @@
+{
+  "name": "api-catalog-recommender-mcp-server",
+  "description": "Enables semantic search over OpenAPI endpoint catalogs using FAISS and LangGraph, returning grounded technical recommendations for natural-language API queries.",
+  "source_repo": "vinod-vk17/MCP-Catalog-Agent",
+  "source_url": "https://github.com/vinod-vk17/MCP-Catalog-Agent",
+  "install": "# git clone --depth 1 https://github.com/vinod-vk17/MCP-Catalog-Agent\n# See source for mcpServers config block"
+}

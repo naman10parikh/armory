@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ignite-server",
+  "description": "Provides access to Microsoft Ignite 2025 conference data including sessions, speakers, personal schedule, and favorites via 7 MCP tools with smart caching.",
+  "source_repo": "Eric2XU/mcp-ignite-server",
+  "source_url": "https://github.com/Eric2XU/mcp-ignite-server",
+  "install": "# git clone --depth 1 https://github.com/Eric2XU/mcp-ignite-server\n# See source for mcpServers config block"
+}

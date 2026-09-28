@@ -1,0 +1,7 @@
+{
+  "name": "aicard",
+  "description": "Enables AI agents to auto-generate NIST AI RMF and EU AI Act Annex IV compliant model and system cards via MCP.",
+  "source_repo": "cognis-digital/aicard",
+  "source_url": "https://github.com/cognis-digital/aicard",
+  "install": "# git clone --depth 1 https://github.com/cognis-digital/aicard\n# See source for mcpServers config block"
+}

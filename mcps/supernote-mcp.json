@@ -1,0 +1,7 @@
+{
+  "name": "supernote-mcp",
+  "description": "Enables AI agents to interact with Ratta Supernote e-ink tablets over Wi-Fi, allowing live screen capture, reading and rendering of handwriting notes, and file upload.",
+  "source_repo": "ridget/supernote-mcp",
+  "source_url": "https://github.com/ridget/supernote-mcp",
+  "install": "npx -y supernote-mcp"
+}

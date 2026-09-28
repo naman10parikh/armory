@@ -1,0 +1,7 @@
+{
+  "name": "mcp-database-connector-agentic-retrieval",
+  "description": "Enables natural language queries to a company database through the Model Context Protocol, with read-only enforcement and agentic error recovery.",
+  "source_repo": "keerthivanan/MCP-Database-connector-Agentic-retrievel",
+  "source_url": "https://github.com/keerthivanan/MCP-Database-connector-Agentic-retrievel",
+  "install": "# git clone --depth 1 https://github.com/keerthivanan/MCP-Database-connector-Agentic-retrievel\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "seo-aeo-audit-mcp",
+  "description": "Generates a comprehensive 5-section PDF audit for any website covering SEO, AEO, technical, authority, and AI visibility using Ahrefs, CrUX, and OpenAI.",
+  "source_repo": "qckdatabase/seo-aeo-audit-mcp",
+  "source_url": "https://github.com/qckdatabase/seo-aeo-audit-mcp",
+  "install": "npx -y seo-aeo-audit-mcp"
+}

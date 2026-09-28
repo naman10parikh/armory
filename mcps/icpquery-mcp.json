@@ -1,0 +1,7 @@
+{
+  "name": "icpquery-mcp",
+  "description": "MCP server for querying ICP filing information and illegal blacklist data for websites, apps, mini-programs, and quick apps.",
+  "source_repo": "helGayhub233/ICPQuery-MCP",
+  "source_url": "https://github.com/helGayhub233/ICPQuery-MCP",
+  "install": "npx -y ICPQuery-MCP"
+}

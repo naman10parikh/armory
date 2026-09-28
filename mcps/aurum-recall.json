@@ -1,0 +1,7 @@
+{
+  "name": "aurum-recall",
+  "description": "A memory system for AI agents that maintains a human-readable, typed Markdown knowledge base with an always-in-context index, enabling recall, correction, and trust decay through MCP.",
+  "source_repo": "bryanslongbl-sys/aurum-recall",
+  "source_url": "https://github.com/bryanslongbl-sys/aurum-recall",
+  "install": "# git clone --depth 1 https://github.com/bryanslongbl-sys/aurum-recall\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pactlio-mcp",
+  "description": "Contract and wills legal tools for AI agents: statute-cited requirements per contract type and US state, non-compete enforceability for all 50 states + DC, intake schemas, async multi-agent contract drafting with free previews, and contract risk analysis.",
+  "source_repo": "Pactlio-ai/pactlio-mcp",
+  "source_url": "https://github.com/Pactlio-ai/pactlio-mcp",
+  "install": "npx -y pactlio-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hashloom",
+  "description": "Treats software units as content-addressed contracts, enabling efficient agent regeneration loops with cached verification and tiny context packets.",
+  "source_repo": "davet47/hashloom",
+  "source_url": "https://github.com/davet47/hashloom",
+  "install": "# git clone --depth 1 https://github.com/davet47/hashloom\n# See source for mcpServers config block"
+}

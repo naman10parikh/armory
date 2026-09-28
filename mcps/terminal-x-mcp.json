@@ -1,0 +1,7 @@
+{
+  "name": "terminal-x-mcp",
+  "description": "Terminal\\[X]MCP is a Model Context Provider (MCP) server that enables intelligent terminal automation through a multi-agent system with distributed specialized roles for command execution, security validation, and real-time monitoring.",
+  "source_repo": "rnd-pro/terminal-x-mcp",
+  "source_url": "https://github.com/rnd-pro/terminal-x-mcp",
+  "install": "npx -y terminal-x-mcp"
+}

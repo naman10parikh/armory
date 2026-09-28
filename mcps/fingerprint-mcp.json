@@ -1,0 +1,7 @@
+{
+  "name": "fingerprint-mcp",
+  "description": "A universal digital fingerprinting MCP server that combines 103 techniques across TCP, TLS, SSH, HTTP, DNS, and more into a single interface for AI agents, enabling full-spectrum fingerprinting on demand.",
+  "source_repo": "badchars/fingerprint-mcp",
+  "source_url": "https://github.com/badchars/fingerprint-mcp",
+  "install": "npx -y fingerprint-mcp"
+}

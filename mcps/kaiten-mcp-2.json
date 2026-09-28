@@ -1,0 +1,7 @@
+{
+  "name": "kaiten-mcp-2",
+  "description": "MCP server and CLI tool for interacting with Kaiten project management API, optimized for token efficiency. Enables AI assistants to search, create, update, and manage tasks with minimal token usage.",
+  "source_repo": "tyunn/kaiten-mcp",
+  "source_url": "https://github.com/tyunn/kaiten-mcp",
+  "install": "npx -y kaiten-mcp"
+}

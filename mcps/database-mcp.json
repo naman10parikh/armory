@@ -1,0 +1,7 @@
+{
+  "name": "database-mcp",
+  "description": "Read-only Text-to-SQL MCP server for PostgreSQL and MySQL that lets users query databases using natural language, with robust multi-layer safety guarantees against writes.",
+  "source_repo": "KaushalKishorMishra/database-mcp",
+  "source_url": "https://github.com/KaushalKishorMishra/database-mcp",
+  "install": "npx -y database-mcp"
+}

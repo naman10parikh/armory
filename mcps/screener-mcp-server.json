@@ -1,0 +1,7 @@
+{
+  "name": "screener-mcp-server",
+  "description": "An MCP server for Screener.in to search Indian companies, fetch financial ratios, statements, peer comparisons, and run custom screens.",
+  "source_repo": "shivamg194-lab/screener-mcp-server",
+  "source_url": "https://github.com/shivamg194-lab/screener-mcp-server",
+  "install": "npx -y screener-mcp-server"
+}

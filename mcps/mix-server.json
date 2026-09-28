@@ -1,0 +1,7 @@
+{
+  "name": "mix-server",
+  "description": "Enables AI assistants to interact with local CSV and Parquet data files through natural language queries, facilitating tasks like summarizing datasets or retrieving specific information.",
+  "source_repo": "Hassenamri005/mcp-server-example",
+  "source_url": "https://github.com/Hassenamri005/mcp-server-example",
+  "install": "# git clone --depth 1 https://github.com/Hassenamri005/mcp-server-example\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "flight-deals-mcp",
+  "description": "Enables AI clients to search for domestic low-cost flight routes in China and verify flight options before purchase.",
+  "source_repo": "Relyonyou/flight-deals-mcp",
+  "source_url": "https://github.com/Relyonyou/flight-deals-mcp",
+  "install": "npx -y flight-deals-mcp"
+}

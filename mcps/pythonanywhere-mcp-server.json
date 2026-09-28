@@ -1,0 +1,7 @@
+{
+  "name": "pythonanywhere-mcp-server",
+  "description": "Enables AI tools to manage files, web apps, and scheduled tasks on PythonAnywhere through the Model Context Protocol.",
+  "source_repo": "pythonanywhere/pythonanywhere-mcp-server",
+  "source_url": "https://github.com/pythonanywhere/pythonanywhere-mcp-server",
+  "install": "npx -y pythonanywhere-mcp-server"
+}

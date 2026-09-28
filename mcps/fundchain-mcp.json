@@ -1,0 +1,7 @@
+{
+  "name": "fundchain-mcp",
+  "description": "Enables AI agents to create and manage crypto crowdfunding campaigns on Fundchain.ai, including creating campaigns, checking status, and donating via x402 protocol.",
+  "source_repo": "fundchainteam/fundchain-mcp",
+  "source_url": "https://github.com/fundchainteam/fundchain-mcp",
+  "install": "npx -y fundchain-mcp"
+}

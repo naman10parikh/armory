@@ -1,0 +1,7 @@
+{
+  "name": "f2b-mcp-gateway",
+  "description": "Exposes f2b-sandbox capabilities as MCP tools for creating, managing, and running commands in sandboxes, enabling AI agents to execute code and manipulate files in isolated environments.",
+  "source_repo": "f2b-dev/f2b-mcp-gateway",
+  "source_url": "https://github.com/f2b-dev/f2b-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/f2b-dev/f2b-mcp-gateway\n# See source for mcpServers config block"
+}

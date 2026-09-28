@@ -1,0 +1,7 @@
+{
+  "name": "vmd-hydrate-mcp",
+  "description": "Drive VMD from any LLM — render GROMACS/LAMMPS trajectories and analyze clathrate-hydrate cages through the Model Context Protocol.",
+  "source_repo": "wjgoarxiv/vmd-hydrate-mcp",
+  "source_url": "https://github.com/wjgoarxiv/vmd-hydrate-mcp",
+  "install": "npx -y vmd-hydrate-mcp"
+}

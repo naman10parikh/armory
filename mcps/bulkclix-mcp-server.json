@@ -1,0 +1,7 @@
+{
+  "name": "bulkclix-mcp-server",
+  "description": "Enables AI agents to interact with the BulkClix platform for SMS, OTP, airtime, mobile money, bank transfers, data bundles, KYC, contacts, and account management via natural language.",
+  "source_repo": "AnanseLabs-Org/bulkclix-mcp",
+  "source_url": "https://github.com/AnanseLabs-Org/bulkclix-mcp",
+  "install": "npx -y bulkclix-mcp"
+}

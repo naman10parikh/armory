@@ -1,0 +1,7 @@
+{
+  "name": "apptics-mcp-server",
+  "description": "Provides tools to query Zoho Apptics analytics data (crashes, devices, etc.) and automate iOS SDK integration into Xcode projects.",
+  "source_repo": "zoho/apptics-mcp-server",
+  "source_url": "https://github.com/zoho/apptics-mcp-server",
+  "install": "npx -y apptics-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wikijs-mcp",
+  "description": "MCP server for accessing Wiki.js through its GraphQL API, enabling page management, search, tags, and system info operations.",
+  "source_repo": "andhit-r/wikijs-mcp",
+  "source_url": "https://github.com/andhit-r/wikijs-mcp",
+  "install": "npx -y wikijs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nanoparse-mcp",
+  "description": "MCP server that enables AI agents to fetch web content as clean, structured Markdown via NanoParse's hosted API, using x402 micropayments in USDC on Base.",
+  "source_repo": "nanoparse-dev/nanoparse-mcp",
+  "source_url": "https://github.com/nanoparse-dev/nanoparse-mcp",
+  "install": "npx -y nanoparse-mcp"
+}

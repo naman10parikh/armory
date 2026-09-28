@@ -1,0 +1,7 @@
+{
+  "name": "dealer-fusion-mcp-server",
+  "description": "Provides dealership intelligence by integrating CRM, DMS, CDP, and analytics data, enabling tools for lead management, inventory, customer 360, and OEM KPI queries through a FastMCP server.",
+  "source_repo": "sksachan/dealer-fusion-workspace",
+  "source_url": "https://github.com/sksachan/dealer-fusion-workspace",
+  "install": "# git clone --depth 1 https://github.com/sksachan/dealer-fusion-workspace\n# See source for mcpServers config block"
+}

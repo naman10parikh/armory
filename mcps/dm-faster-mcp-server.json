@@ -1,0 +1,7 @@
+{
+  "name": "dm-faster-mcp-server",
+  "description": "Exposes seven read-only tools for sales engagement data from DM Faster, enabling agents to query workspace briefings, campaigns, sendings, replies, pipelines, and company timelines.",
+  "source_repo": "eemelidevii/dmfaster-agents",
+  "source_url": "https://github.com/eemelidevii/dmfaster-agents",
+  "install": "# git clone --depth 1 https://github.com/eemelidevii/dmfaster-agents\n# See source for mcpServers config block"
+}

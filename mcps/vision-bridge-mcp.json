@@ -1,0 +1,7 @@
+{
+  "name": "vision-bridge-mcp",
+  "description": "Bridges a vision model to enable text-only models like DeepSeek to describe images, extract text, and compare images via MCP tools.",
+  "source_repo": "G12789/vision-bridge-mcp",
+  "source_url": "https://github.com/G12789/vision-bridge-mcp",
+  "install": "npx -y vision-bridge-mcp"
+}

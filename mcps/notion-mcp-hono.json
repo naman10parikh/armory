@@ -1,0 +1,7 @@
+{
+  "name": "notion-mcp-hono",
+  "description": "Remote MCP server that exposes Notion as tools (search, get, create pages, append blocks, query databases) via Streamable HTTP with bearer auth, designed for deployment on Railway.",
+  "source_repo": "ldamoredev/notion-mcp-hono",
+  "source_url": "https://github.com/ldamoredev/notion-mcp-hono",
+  "install": "# git clone --depth 1 https://github.com/ldamoredev/notion-mcp-hono\n# See source for mcpServers config block"
+}

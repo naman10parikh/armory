@@ -1,0 +1,7 @@
+{
+  "name": "servicios-mcp",
+  "description": "Read-only MCP server that exposes SAP Business One Service Layer and Cisco CCWR contract search APIs for querying sales orders, delivery notes, business partners, and service contracts, without modifying data.",
+  "source_repo": "dromerotrans/servicios-mcp",
+  "source_url": "https://github.com/dromerotrans/servicios-mcp",
+  "install": "npx -y servicios-mcp"
+}

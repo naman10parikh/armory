@@ -1,0 +1,7 @@
+{
+  "name": "hardcover-mcp",
+  "description": "Connects AI assistants to the Hardcover book library, enabling natural language book searches, reading status updates, list management, and library exploration.",
+  "source_repo": "kristianedlund/hardcover-mcp",
+  "source_url": "https://github.com/kristianedlund/hardcover-mcp",
+  "install": "npx -y hardcover-mcp"
+}

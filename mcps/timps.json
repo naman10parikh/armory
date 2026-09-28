@@ -1,0 +1,7 @@
+{
+  "name": "timps",
+  "description": "MCP server that gives AI coding agents persistent memory across sessions, storing architecture decisions, past bugs, and codebase conventions locally.",
+  "source_repo": "TIMPSs/timps",
+  "source_url": "https://github.com/TIMPSs/timps",
+  "install": "# git clone --depth 1 https://github.com/TIMPSs/timps\n# See source for mcpServers config block"
+}

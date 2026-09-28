@@ -1,0 +1,7 @@
+{
+  "name": "sumi-docs-mcp",
+  "description": "Read-only MCP server for Markdown, MDX, and OpenAPI docs, exposing list, search, fetch, and OpenAPI spec tools over stdio.",
+  "source_repo": "starSumi/Sumi-Docs-MCP",
+  "source_url": "https://github.com/starSumi/Sumi-Docs-MCP",
+  "install": "npx -y Sumi-Docs-MCP"
+}

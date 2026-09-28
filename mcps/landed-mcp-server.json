@@ -1,0 +1,7 @@
+{
+  "name": "landed-mcp-server",
+  "description": "Search AI-native jobs, prepare applications, and study for interviews — from any MCP client.",
+  "source_repo": "landedjobs/landed-mcp",
+  "source_url": "https://github.com/landedjobs/landed-mcp",
+  "install": "npx -y landed-mcp"
+}

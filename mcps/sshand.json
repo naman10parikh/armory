@@ -1,0 +1,7 @@
+{
+  "name": "sshand",
+  "description": "An open MCP server that gives any AI agent SSH access to remote Linux/Unix machines — shell commands, file read/write, and SFTP transfers.",
+  "source_repo": "muradmalik23/sshand",
+  "source_url": "https://github.com/muradmalik23/sshand",
+  "install": "# git clone --depth 1 https://github.com/muradmalik23/sshand\n# See source for mcpServers config block"
+}

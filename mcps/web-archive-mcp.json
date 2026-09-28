@@ -1,0 +1,7 @@
+{
+  "name": "web-archive-mcp",
+  "description": "Persists web fetch and search results as timestamped JSONL files, indexed for full-text search, enabling users to retrieve and search across archived web pages even after they are removed or changed.",
+  "source_repo": "jmars/web-archive-mcp",
+  "source_url": "https://github.com/jmars/web-archive-mcp",
+  "install": "npx -y web-archive-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "leavemanager",
+  "description": "Enables managing employee leave requests including checking balance, applying for leave, and viewing history.",
+  "source_repo": "DhanyaHegdek/MCP-Leave-Manager",
+  "source_url": "https://github.com/DhanyaHegdek/MCP-Leave-Manager",
+  "install": "# git clone --depth 1 https://github.com/DhanyaHegdek/MCP-Leave-Manager\n# See source for mcpServers config block"
+}

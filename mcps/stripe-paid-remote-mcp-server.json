@@ -1,0 +1,7 @@
+{
+  "name": "stripe-paid-remote-mcp-server",
+  "description": "A remote MCP server on Cloudflare Workers with Stripe paywall, offering a free dice tool and a paid premium report tool.",
+  "source_repo": "hideokamoto/stripe-paid-remote-mcp-server",
+  "source_url": "https://github.com/hideokamoto/stripe-paid-remote-mcp-server",
+  "install": "npx -y stripe-paid-remote-mcp-server"
+}

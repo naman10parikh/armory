@@ -1,0 +1,7 @@
+{
+  "name": "teradata-mcp-server-2",
+  "description": "Enables running SQL queries, exploring metadata, and interacting with Teradata databases through the Model Context Protocol.",
+  "source_repo": "fcdmoraes/teradata-mcp-server",
+  "source_url": "https://github.com/fcdmoraes/teradata-mcp-server",
+  "install": "npx -y teradata-mcp-server"
+}

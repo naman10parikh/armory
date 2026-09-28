@@ -1,0 +1,7 @@
+{
+  "name": "safety-fence-mcp",
+  "description": "A local MCP server that guards outbound payloads by deciding to ALLOW, REWRITE, or REFUSE them, ensuring sensitive data is redacted and failures close the gate.",
+  "source_repo": "kkAlwaysAwaked/safety_fence_mcp",
+  "source_url": "https://github.com/kkAlwaysAwaked/safety_fence_mcp",
+  "install": "npx -y safety_fence_mcp"
+}

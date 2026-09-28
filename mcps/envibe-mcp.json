@@ -1,0 +1,7 @@
+{
+  "name": "envibe-mcp",
+  "description": "MCP server for envibe that provides controlled access to environment variables for AI assistants, with five access levels (full, read-only, placeholder, schema-only, hidden) and tools for listing, getting, setting, and describing variables.",
+  "source_repo": "dominic-righthere/envibe-mcp",
+  "source_url": "https://github.com/dominic-righthere/envibe-mcp",
+  "install": "npx -y envibe-mcp"
+}

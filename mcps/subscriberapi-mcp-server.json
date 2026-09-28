@@ -1,0 +1,7 @@
+{
+  "name": "subscriberapi-mcp-server",
+  "description": "Enables GitHub Copilot CLI to query SFMC SubscriberAPI execution logs for health checks, email lookups, execution traces, and recent errors.",
+  "source_repo": "soumyaranjansingh-economist/subscriberapi-mcp",
+  "source_url": "https://github.com/soumyaranjansingh-economist/subscriberapi-mcp",
+  "install": "npx -y subscriberapi-mcp"
+}

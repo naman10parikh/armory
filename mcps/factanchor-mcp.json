@@ -1,0 +1,7 @@
+{
+  "name": "factanchor-mcp",
+  "description": "A zero-cost, fully local MCP server that grounds AI assistants in verified web text, reducing hallucinations by ~80% by forcing answers only from fetched sources.",
+  "source_repo": "Tausifonly001/FactAnchor-MCP",
+  "source_url": "https://github.com/Tausifonly001/FactAnchor-MCP",
+  "install": "npx -y FactAnchor-MCP"
+}

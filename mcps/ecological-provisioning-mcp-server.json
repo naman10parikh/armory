@@ -1,0 +1,7 @@
+{
+  "name": "ecological-provisioning-mcp-server",
+  "description": "A local-first MCP server stub that exposes provisioning tools for converting ecological intent into work packets, proof plans, receipts, and validation workflows.",
+  "source_repo": "Eco-Wealth/ecological-provisioning-agent",
+  "source_url": "https://github.com/Eco-Wealth/ecological-provisioning-agent",
+  "install": "# git clone --depth 1 https://github.com/Eco-Wealth/ecological-provisioning-agent\n# See source for mcpServers config block"
+}

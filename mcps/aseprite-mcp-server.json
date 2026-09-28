@@ -1,0 +1,7 @@
+{
+  "name": "aseprite-mcp-server",
+  "description": "Enables AI to create pixel art in Aseprite through pixel-level drawing primitives, read canvas screenshots, and iterate until satisfied.",
+  "source_repo": "ZhangDongyang800/Aseprite_MCP",
+  "source_url": "https://github.com/ZhangDongyang800/Aseprite_MCP",
+  "install": "npx -y Aseprite_MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "threat-hunting-mcp-server",
+  "description": "A behavioral threat hunting MCP server that focuses on adversary TTPs rather than atomic indicators, with MITRE ATT\\&CK integration, advanced cognitive capabilities, and community hunt hypotheses.",
+  "source_repo": "THORCollective/threat-hunting-mcp-server",
+  "source_url": "https://github.com/THORCollective/threat-hunting-mcp-server",
+  "install": "npx -y threat-hunting-mcp-server"
+}

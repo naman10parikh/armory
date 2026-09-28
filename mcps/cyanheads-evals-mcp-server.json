@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-evals-mcp-server",
+  "description": "Author verifiable eval records through a draft → review → revise → submit loop with server-enforced graders; compile to JSONL/CSV/Inspect/lm-eval via MCP.",
+  "source_repo": "cyanheads/evals-mcp-server",
+  "source_url": "https://github.com/cyanheads/evals-mcp-server",
+  "install": "npx -y evals-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "omnidim-ai-mcp-server",
+  "description": "Local stdio Model Context Protocol server for OmniDimension. Drive voice agents, dispatch calls, and manage knowledge bases from Claude, Cursor, Windsurf, or any MCP-compatible client.",
+  "source_repo": "Omnidim/omnidim-mcp-server",
+  "source_url": "https://github.com/Omnidim/omnidim-mcp-server",
+  "install": "npx -y omnidim-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ops-toolkit",
+  "description": "A self-hosted MCP operations gateway for Linux control hosts, enabling safe filesystem and Git operations, authenticated HTTP transport, and optional SSH/SFTP and infrastructure adapters.",
+  "source_repo": "gaojiefengxswhuhit/mcp-ops-toolkit",
+  "source_url": "https://github.com/gaojiefengxswhuhit/mcp-ops-toolkit",
+  "install": "# git clone --depth 1 https://github.com/gaojiefengxswhuhit/mcp-ops-toolkit\n# See source for mcpServers config block"
+}

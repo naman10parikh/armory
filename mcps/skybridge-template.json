@@ -1,0 +1,7 @@
+{
+  "name": "skybridge-template",
+  "description": "A starter TypeScript template for building MCP and ChatGPT apps with the Skybridge framework, featuring tool registration, React views, and deployment to MCP-compatible clouds.",
+  "source_repo": "fredericbarthelet/demo-skills-over-mcp",
+  "source_url": "https://github.com/fredericbarthelet/demo-skills-over-mcp",
+  "install": "npx -y demo-skills-over-mcp"
+}

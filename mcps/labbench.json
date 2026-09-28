@@ -1,0 +1,7 @@
+{
+  "name": "labbench",
+  "description": "Enables Claude Code to browse coursework, manage user workspaces, run sandboxed tests, post hints, and assign new projects in LabBench.",
+  "source_repo": "yunxingl/mcp_remote_sandbox",
+  "source_url": "https://github.com/yunxingl/mcp_remote_sandbox",
+  "install": "# git clone --depth 1 https://github.com/yunxingl/mcp_remote_sandbox\n# See source for mcpServers config block"
+}

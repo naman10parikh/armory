@@ -1,0 +1,7 @@
+{
+  "name": "code-context-gate",
+  "description": "An MCP server that acts as a context-aware code retrieval broker for AI coding agents, enforcing backpressure and token budgeting to prevent context window overflow.",
+  "source_repo": "wisdomrock/code-context-gate",
+  "source_url": "https://github.com/wisdomrock/code-context-gate",
+  "install": "# git clone --depth 1 https://github.com/wisdomrock/code-context-gate\n# See source for mcpServers config block"
+}

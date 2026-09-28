@@ -1,0 +1,7 @@
+{
+  "name": "dns-mcp",
+  "description": "Real-time DNS security analysis for AI assistants via MCP. Enables DNSSEC chain validation, email authentication posture, and registration intelligence directly from chat sessions.",
+  "source_repo": "mclose/dns-mcp",
+  "source_url": "https://github.com/mclose/dns-mcp",
+  "install": "npx -y dns-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xiaozhi-mcp-bridge-template",
+  "description": "This MCP server enables AI models to interact with ESP32 devices, providing built-in tools for web search, note management, calculator, and custom tools like todo lists and timers.",
+  "source_repo": "kamilersz/xiaozhi-mcp-bridge-template",
+  "source_url": "https://github.com/kamilersz/xiaozhi-mcp-bridge-template",
+  "install": "# git clone --depth 1 https://github.com/kamilersz/xiaozhi-mcp-bridge-template\n# See source for mcpServers config block"
+}

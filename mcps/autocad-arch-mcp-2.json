@@ -1,0 +1,7 @@
+{
+  "name": "autocad-arch-mcp-2",
+  "description": "Enables architectural modeling and automation in AutoCAD 2021 through YQArch integration, using hybrid MCP protocols to perform design tasks and manage CAD operations.",
+  "source_repo": "ri3292zone7-cloud/autocad-mcp-server",
+  "source_url": "https://github.com/ri3292zone7-cloud/autocad-mcp-server",
+  "install": "npx -y autocad-mcp-server"
+}

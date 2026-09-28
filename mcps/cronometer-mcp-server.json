@@ -1,0 +1,7 @@
+{
+  "name": "cronometer-mcp-server",
+  "description": "Enables reading and writing your Cronometer food diary from Claude.ai and Claude Code, including food entries, notes, biometrics, exercises, and fasts.",
+  "source_repo": "rollecode/cronometer-mcp",
+  "source_url": "https://github.com/rollecode/cronometer-mcp",
+  "install": "npx -y cronometer-mcp"
+}

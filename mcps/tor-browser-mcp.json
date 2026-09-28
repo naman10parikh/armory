@@ -1,0 +1,7 @@
+{
+  "name": "tor-browser-mcp",
+  "description": "Enables AI agents to control Tor Browser with full anonymity preservation, including navigation, Tor circuit management, and traffic interception.",
+  "source_repo": "Boti-Ormandi/tor-browser-mcp",
+  "source_url": "https://github.com/Boti-Ormandi/tor-browser-mcp",
+  "install": "npx -y tor-browser-mcp"
+}

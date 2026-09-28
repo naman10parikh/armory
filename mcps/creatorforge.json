@@ -1,0 +1,7 @@
+{
+  "name": "creatorforge",
+  "description": "MCP server for AI content generation, enabling agents to learn a voice, generate content ideas, write scripts, and produce multi-platform content deterministically.",
+  "source_repo": "cognis-digital/creatorforge",
+  "source_url": "https://github.com/cognis-digital/creatorforge",
+  "install": "# git clone --depth 1 https://github.com/cognis-digital/creatorforge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nj-mvc",
+  "description": "Enables querying New Jersey MVC inspection facilities and vehicle inspection pass/fail rates aggregated from over 2 million test records.",
+  "source_repo": "pipeworx-io/mcp-nj-mvc",
+  "source_url": "https://github.com/pipeworx-io/mcp-nj-mvc",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-nj-mvc\n# See source for mcpServers config block"
+}

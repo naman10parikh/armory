@@ -1,0 +1,7 @@
+{
+  "name": "io-github-cdeust-prd-spec-generator",
+  "description": "Generates structured, validated PRDs from feature descriptions via a staged reducer pipeline. Provides MCP tools for pipeline control, section/document validation, context budgeting, and failure-to-retrieval mapping.",
+  "source_repo": "cdeust/prd-spec-generator",
+  "source_url": "https://github.com/cdeust/prd-spec-generator",
+  "install": "# git clone --depth 1 https://github.com/cdeust/prd-spec-generator\n# See source for mcpServers config block"
+}

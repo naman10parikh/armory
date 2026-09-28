@@ -1,0 +1,7 @@
+{
+  "name": "io-github-sseshachala-agent-booster",
+  "description": "Reduces token costs for AI coding agents by indexing code symbols and returning only relevant functions/classes for a given task.",
+  "source_repo": "sseshachala/agent-booster",
+  "source_url": "https://github.com/sseshachala/agent-booster",
+  "install": "# git clone --depth 1 https://github.com/sseshachala/agent-booster\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "skillselion-mcp-server",
+  "description": "Enables AI agents to search a curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces ranked by community signal.",
+  "source_repo": "skillselion/skillselion-mcp",
+  "source_url": "https://github.com/skillselion/skillselion-mcp",
+  "install": "npx -y skillselion-mcp"
+}

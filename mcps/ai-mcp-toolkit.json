@@ -1,0 +1,7 @@
+{
+  "name": "ai-mcp-toolkit",
+  "description": "An MCP server providing tools for web research, code review, and concept explanation, callable by any MCP-compatible client.",
+  "source_repo": "vyavahare-kishor/ai-mcp-toolkit",
+  "source_url": "https://github.com/vyavahare-kishor/ai-mcp-toolkit",
+  "install": "# git clone --depth 1 https://github.com/vyavahare-kishor/ai-mcp-toolkit\n# See source for mcpServers config block"
+}

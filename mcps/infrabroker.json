@@ -1,0 +1,7 @@
+{
+  "name": "infrabroker",
+  "description": "Infrastructure access broker for AI agents — SSH & Kubernetes. Per-operation ephemeral credentials minted by a separate signer; the model never touches one. MCP stdio / HTTP+OIDC.",
+  "source_repo": "luisgf/infrabroker",
+  "source_url": "https://github.com/luisgf/infrabroker",
+  "install": "# git clone --depth 1 https://github.com/luisgf/infrabroker\n# See source for mcpServers config block"
+}

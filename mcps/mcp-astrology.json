@@ -1,0 +1,7 @@
+{
+  "name": "mcp-astrology",
+  "description": "Receives birth information and returns Western astrology natal charts including planetary positions, houses, ASC/MC text, and a chart PNG image.",
+  "source_repo": "molpass/mcp-astrology",
+  "source_url": "https://github.com/molpass/mcp-astrology",
+  "install": "# git clone --depth 1 https://github.com/molpass/mcp-astrology\n# See source for mcpServers config block"
+}

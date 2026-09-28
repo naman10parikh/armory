@@ -1,0 +1,7 @@
+{
+  "name": "isaacsim-mcp",
+  "description": "Enables AI assistants to control NVIDIA Isaac Sim by building scenes, loading assets, operating robots and humans, reading sensors, managing simulation, and creating Action Graphs.",
+  "source_repo": "Tim0320/IsaacSim-MCP",
+  "source_url": "https://github.com/Tim0320/IsaacSim-MCP",
+  "install": "npx -y IsaacSim-MCP"
+}

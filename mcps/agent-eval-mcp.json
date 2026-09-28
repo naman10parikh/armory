@@ -1,0 +1,7 @@
+{
+  "name": "agent-eval-mcp",
+  "description": "An MCP-style stdio server for evaluating AI agent outputs, enabling CI-friendly quality gates, regression comparisons, and canary promotion decisions.",
+  "source_repo": "ad-github1/ENTERPRISE-AI-AGENT-EVALUATION-PLATFORM",
+  "source_url": "https://github.com/ad-github1/ENTERPRISE-AI-AGENT-EVALUATION-PLATFORM",
+  "install": "# git clone --depth 1 https://github.com/ad-github1/ENTERPRISE-AI-AGENT-EVALUATION-PLATFORM\n# See source for mcpServers config block"
+}

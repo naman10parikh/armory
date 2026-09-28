@@ -1,0 +1,7 @@
+{
+  "name": "masaro-infra-mcp",
+  "description": "A secure MCP server providing read-only tools to interact with Cloudflare, Coolify, and other infrastructure services, enabling AI clients to safely diagnose and validate environments.",
+  "source_repo": "masaro-media/masaro-infra-mcp",
+  "source_url": "https://github.com/masaro-media/masaro-infra-mcp",
+  "install": "npx -y masaro-infra-mcp"
+}

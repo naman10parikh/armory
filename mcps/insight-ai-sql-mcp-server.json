@@ -1,0 +1,7 @@
+{
+  "name": "insight-ai-sql-mcp-server",
+  "description": "Enables querying a PostgreSQL database using natural language by retrieving context from Azure AI Search and generating SQL with Azure OpenAI, with validation and optional execution.",
+  "source_repo": "sespinosafumanal/Insight-AI-SQL",
+  "source_url": "https://github.com/sespinosafumanal/Insight-AI-SQL",
+  "install": "# git clone --depth 1 https://github.com/sespinosafumanal/Insight-AI-SQL\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ops-copilot-mcp-server",
+  "description": "Enables AI assistants to detect and investigate e-commerce payment-fulfillment discrepancies, create durable escalation tickets, and track resolution status.",
+  "source_repo": "bhaktofmahakal/ops-copilot-mcp",
+  "source_url": "https://github.com/bhaktofmahakal/ops-copilot-mcp",
+  "install": "npx -y ops-copilot-mcp"
+}

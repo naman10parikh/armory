@@ -1,0 +1,7 @@
+{
+  "name": "webmcp-polyfill",
+  "description": "Enables browsers to act as MCP servers by relaying tools, resources, and prompts to AI agents via a WebSocket-to-stdio bridge.",
+  "source_repo": "eggyShrimp/webmcp-polyfill",
+  "source_url": "https://github.com/eggyShrimp/webmcp-polyfill",
+  "install": "# git clone --depth 1 https://github.com/eggyShrimp/webmcp-polyfill\n# See source for mcpServers config block"
+}

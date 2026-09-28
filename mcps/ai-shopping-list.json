@@ -1,0 +1,7 @@
+{
+  "name": "ai-shopping-list",
+  "description": "Enables AI models to manage Kroger/QFC shopping lists, search products, and plan meals via the Kroger API.",
+  "source_repo": "aranlucas/ai-shopping-mcp",
+  "source_url": "https://github.com/aranlucas/ai-shopping-mcp",
+  "install": "npx -y ai-shopping-mcp"
+}

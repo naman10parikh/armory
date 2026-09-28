@@ -1,0 +1,7 @@
+{
+  "name": "angular-i18n-mcp",
+  "description": "Manages Angular internationalization (i18n) by extracting, listing, and updating translation strings in XLIFF format through MCP tools.",
+  "source_repo": "ffeldhaus/angular-i18n-mcp",
+  "source_url": "https://github.com/ffeldhaus/angular-i18n-mcp",
+  "install": "npx -y angular-i18n-mcp"
+}

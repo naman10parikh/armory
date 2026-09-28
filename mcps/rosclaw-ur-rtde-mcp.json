@@ -1,0 +1,7 @@
+{
+  "name": "rosclaw-ur-rtde-mcp",
+  "description": "MCP server for controlling Universal Robots arms and Robotiq grippers via RTDE protocol, enabling motion, force, I/O, and gripper operations.",
+  "source_repo": "ros-claw/ur-rtde-mcp",
+  "source_url": "https://github.com/ros-claw/ur-rtde-mcp",
+  "install": "npx -y ur-rtde-mcp"
+}

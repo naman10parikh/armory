@@ -1,0 +1,7 @@
+{
+  "name": "protestos-sp",
+  "description": "MCP server to query the existence and details of protests (protestos) for individuals and companies in São Paulo state notary offices. It offers a read-only tool for checking protest records via natural language.",
+  "source_repo": "mcp-dir/protestos_sp-mcp",
+  "source_url": "https://github.com/mcp-dir/protestos_sp-mcp",
+  "install": "npx -y protestos_sp-mcp"
+}

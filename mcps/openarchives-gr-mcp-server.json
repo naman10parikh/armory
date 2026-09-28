@@ -1,0 +1,7 @@
+{
+  "name": "openarchives-gr-mcp-server",
+  "description": "MCP server for searching and retrieving Greek academic documents, theses, articles, and scholarly content from OpenArchives.gr.",
+  "source_repo": "ispyridis/openarchives-gr-mcp-server",
+  "source_url": "https://github.com/ispyridis/openarchives-gr-mcp-server",
+  "install": "npx -y openarchives-gr-mcp-server"
+}

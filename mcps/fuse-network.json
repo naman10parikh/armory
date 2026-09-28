@@ -1,0 +1,7 @@
+{
+  "name": "fuse-network",
+  "description": "MCP server for Fuse Network: balances, tokens, staking, DeFi data, swaps and on-chain transactions.",
+  "source_repo": "fuseio/fuse-mcp-server",
+  "source_url": "https://github.com/fuseio/fuse-mcp-server",
+  "install": "npx -y fuse-mcp-server"
+}

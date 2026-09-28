@@ -1,0 +1,7 @@
+{
+  "name": "pdf-inspector-mcp",
+  "description": "Enables AI agents to process and inspect PDFs by detecting document type, extracting text, and generating Markdown with layout information.",
+  "source_repo": "jayluxferro/pdf-inspector-mcp",
+  "source_url": "https://github.com/jayluxferro/pdf-inspector-mcp",
+  "install": "npx -y pdf-inspector-mcp"
+}

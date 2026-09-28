@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-to-palmas-certid-o-negativa-de-d-bitos",
+  "description": "Enables consultation of negative debt certificates (Certidão Negativa de Débitos) from the Palmas, TO city government through an official source.",
+  "source_repo": "mcp-dir/pref_to_palmas_cnd-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_to_palmas_cnd-mcp",
+  "install": "npx -y pref_to_palmas_cnd-mcp"
+}

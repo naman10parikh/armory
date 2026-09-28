@@ -1,0 +1,7 @@
+{
+  "name": "steward-mcp-server",
+  "description": "Local Streamable HTTP MCP server that replaces the Steward Chrome extension, letting ChatGPT interact with Steward workspace data, manage drafting sessions, and generate documents via MCP tools.",
+  "source_repo": "vladislav-newsroomrobots/steward-mcp-poc",
+  "source_url": "https://github.com/vladislav-newsroomrobots/steward-mcp-poc",
+  "install": "# git clone --depth 1 https://github.com/vladislav-newsroomrobots/steward-mcp-poc\n# See source for mcpServers config block"
+}

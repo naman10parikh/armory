@@ -1,0 +1,7 @@
+{
+  "name": "ed-tech-system-mcp",
+  "description": "Domain-Driven MCP server for ed-tech workflows, exposing validated MCP tools backed by LangGraph agents, Supabase document retrieval, web search, and YouTube video discovery.",
+  "source_repo": "paulocymbaum/ed-tech-system-mcp",
+  "source_url": "https://github.com/paulocymbaum/ed-tech-system-mcp",
+  "install": "npx -y ed-tech-system-mcp"
+}

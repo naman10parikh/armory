@@ -1,0 +1,7 @@
+{
+  "name": "netbox-mcp",
+  "description": "A read-only MCP server that exposes NetBox IPAM data over HTTP, allowing engineers to query subnets, IPs, and VLANs using natural language through AI assistants.",
+  "source_repo": "msemino/netbox-mcp",
+  "source_url": "https://github.com/msemino/netbox-mcp",
+  "install": "npx -y netbox-mcp"
+}

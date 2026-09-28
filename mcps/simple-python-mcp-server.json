@@ -1,0 +1,7 @@
+{
+  "name": "simple-python-mcp-server",
+  "description": "A simple MCP server implementation in Python using FastMCP and FastAPI, providing streamable HTTP transport with optional OAuth authorization for tools like echo and math.",
+  "source_repo": "rb58853/simple-mcp-server",
+  "source_url": "https://github.com/rb58853/simple-mcp-server",
+  "install": "npx -y simple-mcp-server"
+}

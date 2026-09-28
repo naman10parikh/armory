@@ -1,0 +1,7 @@
+{
+  "name": "qq-music-mcp",
+  "description": "Integrates QQ Music API with MCP, enabling LLMs to search music, retrieve song details, lyrics, and playback URLs.",
+  "source_repo": "wangkezun/qq-music-mcp",
+  "source_url": "https://github.com/wangkezun/qq-music-mcp",
+  "install": "npx -y qq-music-mcp"
+}

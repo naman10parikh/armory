@@ -1,0 +1,7 @@
+{
+  "name": "gravv-mcp",
+  "description": "MCP server for the Gravv payments API that lets AI assistants onboard customers, run KYC, open accounts, move money, issue cards, and exchange currency, with built-in documentation search and safety confirmations for money-moving operations.",
+  "source_repo": "GravityFinance/gravv-mcp",
+  "source_url": "https://github.com/GravityFinance/gravv-mcp",
+  "install": "npx -y gravv-mcp"
+}

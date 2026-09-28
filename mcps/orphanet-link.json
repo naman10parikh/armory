@@ -1,0 +1,7 @@
+{
+  "name": "orphanet-link",
+  "description": "An MCP server that enables querying rare-disease data from Orphanet, including disease nomenclature, cross-references, classifications, gene associations, HPO phenotypes, epidemiology, and natural history.",
+  "source_repo": "berntpopp/orphanet-link",
+  "source_url": "https://github.com/berntpopp/orphanet-link",
+  "install": "# git clone --depth 1 https://github.com/berntpopp/orphanet-link\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "spss-stats-mcp",
+  "description": "MCP server for safe batch execution of IBM SPSS Statistics syntax (.sps) via stats.exe Production mode, with static security checks and sandboxed output.",
+  "source_repo": "YokeSin/spss-stats-mcp",
+  "source_url": "https://github.com/YokeSin/spss-stats-mcp",
+  "install": "npx -y spss-stats-mcp"
+}

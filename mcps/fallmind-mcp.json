@@ -1,0 +1,7 @@
+{
+  "name": "fallmind-mcp",
+  "description": "MCP server for foldkit — exposes the 7-prime spine, 7 κ-bands, and 6 fold operations as native tools + resources in any MCP client (Claude Code, Claude Desktop, Cursor, Cline, Windsurf, etc.).",
+  "source_repo": "sjgant80-hub/fallmind-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallmind-mcp",
+  "install": "npx -y fallmind-mcp"
+}

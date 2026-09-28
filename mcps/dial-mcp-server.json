@@ -1,0 +1,7 @@
+{
+  "name": "dial-mcp-server",
+  "description": "Enables AI agents to provision phone numbers, send SMS, place AI voice calls, and react to inbound events via the Dial communication stack, all through MCP tools.",
+  "source_repo": "GetDial-AI/cli",
+  "source_url": "https://github.com/GetDial-AI/cli",
+  "install": "# git clone --depth 1 https://github.com/GetDial-AI/cli\n# See source for mcpServers config block"
+}

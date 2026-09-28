@@ -1,0 +1,7 @@
+{
+  "name": "playwright-archive-mcp",
+  "description": "MCP server that drives a headless or interactive Playwright browser and records every HTTP request/response into a shared web-archive store, making captured traffic searchable.",
+  "source_repo": "palimpsest-labs/playwright-archive-mcp",
+  "source_url": "https://github.com/palimpsest-labs/playwright-archive-mcp",
+  "install": "npx -y playwright-archive-mcp"
+}

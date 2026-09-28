@@ -1,0 +1,7 @@
+{
+  "name": "davoxi-mcp-server",
+  "description": "Enables AI assistants to manage Davoxi voice agent platform resources such as businesses, agents, call logs, webhooks, analytics, and billing through natural language conversations.",
+  "source_repo": "MabrokaMedia/davoxi-mcp-server",
+  "source_url": "https://github.com/MabrokaMedia/davoxi-mcp-server",
+  "install": "npx -y davoxi-mcp-server"
+}

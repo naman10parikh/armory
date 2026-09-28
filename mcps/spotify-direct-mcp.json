@@ -1,0 +1,7 @@
+{
+  "name": "spotify-direct-mcp",
+  "description": "A FastMCP server that exposes Spotify's catalog and user context as tools for Claude, enabling track search, audio features, artist discography, recommendations, currently playing, and playlist creation.",
+  "source_repo": "thejaredchapman/spotify-direct-mcp",
+  "source_url": "https://github.com/thejaredchapman/spotify-direct-mcp",
+  "install": "npx -y spotify-direct-mcp"
+}

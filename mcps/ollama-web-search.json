@@ -1,0 +1,7 @@
+{
+  "name": "ollama-web-search",
+  "description": "Enables web search and web fetch operations using Ollama's hosted APIs, allowing MCP clients to search the web and retrieve page content.",
+  "source_repo": "deXterbed/ollama-web-search",
+  "source_url": "https://github.com/deXterbed/ollama-web-search",
+  "install": "# git clone --depth 1 https://github.com/deXterbed/ollama-web-search\n# See source for mcpServers config block"
+}

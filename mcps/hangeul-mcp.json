@@ -1,0 +1,7 @@
+{
+  "name": "hangeul-mcp",
+  "description": "Recognizes HWP/HWPX form structures and fills in AI-generated values while preserving original formatting, enabling natural language interaction with Korean word processor documents.",
+  "source_repo": "pblsketch/Hangeul-mcp",
+  "source_url": "https://github.com/pblsketch/Hangeul-mcp",
+  "install": "npx -y Hangeul-mcp"
+}

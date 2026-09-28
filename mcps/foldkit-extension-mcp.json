@@ -1,0 +1,7 @@
+{
+  "name": "foldkit-extension-mcp",
+  "description": "Exposes foldkit's 7-prime spine, 7 κ-bands, and 6 fold operations as native tools and resources for MCP clients like Claude Code, Claude Desktop, Cursor, Cline, and Windsurf.",
+  "source_repo": "sjgant80-hub/foldkit-extension-mcp",
+  "source_url": "https://github.com/sjgant80-hub/foldkit-extension-mcp",
+  "install": "npx -y foldkit-extension-mcp"
+}

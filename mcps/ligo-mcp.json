@@ -1,0 +1,7 @@
+{
+  "name": "ligo-mcp",
+  "description": "A gravitational-wave detection pipeline combining lightweight signal-processing with an LLM triage layer, featuring a pre-registered evaluation harness that measures performance against synthetic injections in real detector noise.",
+  "source_repo": "kellisonhering/ligo-mcp",
+  "source_url": "https://github.com/kellisonhering/ligo-mcp",
+  "install": "npx -y ligo-mcp"
+}

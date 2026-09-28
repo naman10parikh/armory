@@ -1,0 +1,7 @@
+{
+  "name": "ariful-islam",
+  "description": "MCP servers for SQL databases. One package per engine (SQLite, libSQL, MySQL, MariaDB, Postgres), two tools, read-only by default, secrets never in logs.",
+  "source_repo": "arifulislamat/database-mcp",
+  "source_url": "https://github.com/arifulislamat/database-mcp",
+  "install": "npx -y database-mcp"
+}

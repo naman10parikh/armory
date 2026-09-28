@@ -1,0 +1,7 @@
+{
+  "name": "multi-agent-council-review",
+  "description": "Orchestrates multiple LLM agents to perform parallel code review, then synthesizes and votes on suggestions to rank improvements by consensus.",
+  "source_repo": "dustdustpy/multi-agent-council",
+  "source_url": "https://github.com/dustdustpy/multi-agent-council",
+  "install": "# git clone --depth 1 https://github.com/dustdustpy/multi-agent-council\n# See source for mcpServers config block"
+}

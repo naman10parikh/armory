@@ -1,0 +1,7 @@
+{
+  "name": "mini-task-mcp-server",
+  "description": "Enables task management via MCP tools for creating, listing, updating, completing, and deleting tasks with JSON file storage.",
+  "source_repo": "mohd-samir-shaikh/mini-task-mcp",
+  "source_url": "https://github.com/mohd-samir-shaikh/mini-task-mcp",
+  "install": "npx -y mini-task-mcp"
+}

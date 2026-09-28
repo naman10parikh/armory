@@ -1,0 +1,7 @@
+{
+  "name": "donetick-mcp-server",
+  "description": "MCP server for Donetick chores management, enabling AI assistants to list, create, complete, update, and delete chores with full API integration and rate limiting.",
+  "source_repo": "jason1365/donetick-mcp-server",
+  "source_url": "https://github.com/jason1365/donetick-mcp-server",
+  "install": "npx -y donetick-mcp-server"
+}

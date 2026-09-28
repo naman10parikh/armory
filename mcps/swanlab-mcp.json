@@ -1,0 +1,7 @@
+{
+  "name": "swanlab-mcp",
+  "description": "Enables read-only access to SwanLab workspaces, projects, runs, and metrics through the Model Context Protocol.",
+  "source_repo": "Nexisato/SwanLab-MCP",
+  "source_url": "https://github.com/Nexisato/SwanLab-MCP",
+  "install": "npx -y SwanLab-MCP"
+}

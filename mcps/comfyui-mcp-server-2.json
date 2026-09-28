@@ -1,0 +1,7 @@
+{
+  "name": "comfyui-mcp-server-2",
+  "description": "Enables AI agents to generate and iteratively refine images, audio, and video through natural conversation using a local ComfyUI instance.",
+  "source_repo": "beiwater/comfyui-mcp-server",
+  "source_url": "https://github.com/beiwater/comfyui-mcp-server",
+  "install": "npx -y comfyui-mcp-server"
+}

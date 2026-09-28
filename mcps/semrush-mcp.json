@@ -1,0 +1,7 @@
+{
+  "name": "semrush-mcp",
+  "description": "MCP server providing tools to access Semrush API data for domain analytics, keyword research, backlink analysis, and traffic analytics.",
+  "source_repo": "superseoworld/semrush-mcp",
+  "source_url": "https://github.com/superseoworld/semrush-mcp",
+  "install": "npx -y semrush-mcp"
+}

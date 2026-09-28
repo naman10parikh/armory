@@ -1,0 +1,7 @@
+{
+  "name": "platoona-mcp-server",
+  "description": "An MCP server that connects AI assistants to 10,000+ SaaS integrations through Platoona Connect, enabling search, connection, and execution of integration actions via natural language.",
+  "source_repo": "Platoona/platoona-mcp",
+  "source_url": "https://github.com/Platoona/platoona-mcp",
+  "install": "npx -y platoona-mcp"
+}

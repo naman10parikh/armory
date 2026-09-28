@@ -1,0 +1,7 @@
+{
+  "name": "cookidoo-mcp",
+  "description": "MCP server for Cookidoo, enabling AI tools to search recipes, manage shopping lists, and retrieve account and subscription information.",
+  "source_repo": "sisques-labs/cookidoo-mcp",
+  "source_url": "https://github.com/sisques-labs/cookidoo-mcp",
+  "install": "npx -y cookidoo-mcp"
+}

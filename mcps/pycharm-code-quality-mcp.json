@@ -1,0 +1,7 @@
+{
+  "name": "pycharm-code-quality-mcp",
+  "description": "Connects AI coding assistants to PyCharm's code quality inspections and optionally SonarQube for IDE, providing unified, de-duplicated code analysis results without uploading source code.",
+  "source_repo": "yingsf/pycharm-code-quality-mcp",
+  "source_url": "https://github.com/yingsf/pycharm-code-quality-mcp",
+  "install": "npx -y pycharm-code-quality-mcp"
+}

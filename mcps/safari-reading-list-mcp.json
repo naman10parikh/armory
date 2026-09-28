@@ -1,0 +1,7 @@
+{
+  "name": "safari-reading-list-mcp",
+  "description": "Enables exporting Apple Safari Reading List entries to JSON and adding new items via MCP on macOS.",
+  "source_repo": "mcallaway/safari-reading-list-mcp",
+  "source_url": "https://github.com/mcallaway/safari-reading-list-mcp",
+  "install": "npx -y safari-reading-list-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "runoob-mcp-server",
+  "description": "Enables users to search, retrieve, and browse tutorials from Runoob (菜鸟教程), including listing categories and hot tutorials.",
+  "source_repo": "zhangguowei88/runoob-mcp-server",
+  "source_url": "https://github.com/zhangguowei88/runoob-mcp-server",
+  "install": "npx -y runoob-mcp-server"
+}

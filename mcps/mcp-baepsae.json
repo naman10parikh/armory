@@ -1,0 +1,7 @@
+{
+  "name": "mcp-baepsae",
+  "description": "Local MCP server for iOS Simulator and macOS app automation with a TypeScript MCP layer and Swift native bridge. Enables UI inspection, input automation, and simulator control through unified generic tools.",
+  "source_repo": "oozoofrog/mcp-baepsae",
+  "source_url": "https://github.com/oozoofrog/mcp-baepsae",
+  "install": "# git clone --depth 1 https://github.com/oozoofrog/mcp-baepsae\n# See source for mcpServers config block"
+}

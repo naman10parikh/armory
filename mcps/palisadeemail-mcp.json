@@ -1,0 +1,7 @@
+{
+  "name": "palisadeemail-mcp",
+  "description": "Enables monitoring and management of email authentication for domains, including SPF, DKIM, DMARC, MTA-STS, and BIMI, through an MCP server.",
+  "source_repo": "palisadeemail/palisade-mcp",
+  "source_url": "https://github.com/palisadeemail/palisade-mcp",
+  "install": "npx -y palisade-mcp"
+}

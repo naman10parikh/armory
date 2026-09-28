@@ -1,0 +1,7 @@
+{
+  "name": "crowdsec-ops-mcp",
+  "description": "Local MCP server for CrowdSec operations, enabling inspection of decisions/alerts, summaries, and generation of audited single-IP action proposals without executing changes.",
+  "source_repo": "frli4797/crowdsec-mcp",
+  "source_url": "https://github.com/frli4797/crowdsec-mcp",
+  "install": "npx -y crowdsec-mcp"
+}

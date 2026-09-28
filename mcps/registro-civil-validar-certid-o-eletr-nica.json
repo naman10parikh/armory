@@ -1,0 +1,7 @@
+{
+  "name": "registro-civil-validar-certid-o-eletr-nica",
+  "description": "Validates electronic civil registry certificates through official sources via a single read-only MCP tool, supporting any MCP client with pay-per-use credit.",
+  "source_repo": "mcp-dir/registro_civil_val_cert_eletr-mcp",
+  "source_url": "https://github.com/mcp-dir/registro_civil_val_cert_eletr-mcp",
+  "install": "npx -y registro_civil_val_cert_eletr-mcp"
+}

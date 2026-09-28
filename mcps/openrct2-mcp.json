@@ -1,0 +1,7 @@
+{
+  "name": "openrct2-mcp",
+  "description": "Bridges a running OpenRCT2 game to AI agents, enabling them to read park state, optimize parks, and build roller coasters.",
+  "source_repo": "BenDaSpur/openrct2-mcp",
+  "source_url": "https://github.com/BenDaSpur/openrct2-mcp",
+  "install": "npx -y openrct2-mcp"
+}

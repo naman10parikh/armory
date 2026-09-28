@@ -1,0 +1,7 @@
+{
+  "name": "wow-addon-api-mcp",
+  "description": "A version-aware MCP server that provides the World of Warcraft retail AddOn API with pinned documentation snapshots, enabling lookups, searches, comparisons, and diffs of APIs across patches.",
+  "source_repo": "Koodattu/wow-addon-api-mcp",
+  "source_url": "https://github.com/Koodattu/wow-addon-api-mcp",
+  "install": "npx -y wow-addon-api-mcp"
+}

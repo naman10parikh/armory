@@ -1,0 +1,7 @@
+{
+  "name": "flowyteam-okr-mcp-server",
+  "description": "Connect an AI agent to your OKRs. FlowyTeam exposes 33 MCP tools covering OKR objectives, key results, KPI indicators and performance cycles, alongside tasks, projects, HR, attendance, tickets and CRM — one hosted connection for the whole workspace. Supports Claude Desktop, Claude web and mobile, Ch",
+  "source_repo": "flowy-team/okr-mcp-server",
+  "source_url": "https://github.com/flowy-team/okr-mcp-server",
+  "install": "npx -y okr-mcp-server"
+}

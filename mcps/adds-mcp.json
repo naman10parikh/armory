@@ -1,0 +1,7 @@
+{
+  "name": "adds-mcp",
+  "description": "Provides read-only tools for monitoring and investigating Active Directory Domain Services, including users, groups, OUs, computers, GPOs, and domain metadata via LDAPS.",
+  "source_repo": "Chiefff-Kiefff/adds-mcp",
+  "source_url": "https://github.com/Chiefff-Kiefff/adds-mcp",
+  "install": "npx -y adds-mcp"
+}

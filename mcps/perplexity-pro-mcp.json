@@ -1,0 +1,7 @@
+{
+  "name": "perplexity-pro-mcp",
+  "description": "MCP server for Perplexity AI Pro that enables deep web search, thread management, and export of answers using an existing Perplexity Pro subscription and browser session cookie.",
+  "source_repo": "MIt9/perplexity-pro-mcp",
+  "source_url": "https://github.com/MIt9/perplexity-pro-mcp",
+  "install": "npx -y perplexity-pro-mcp"
+}

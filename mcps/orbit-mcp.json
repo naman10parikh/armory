@@ -1,0 +1,7 @@
+{
+  "name": "orbit-mcp",
+  "description": "A stdio-based MCP server that exposes the Orbit CPaaS API as tools, enabling sending SMS, managing campaigns, and other communication workflows through natural language in MCP clients.",
+  "source_repo": "Devotel/orbit-mcp",
+  "source_url": "https://github.com/Devotel/orbit-mcp",
+  "install": "npx -y orbit-mcp"
+}

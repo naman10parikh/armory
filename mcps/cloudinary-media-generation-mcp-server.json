@@ -1,0 +1,7 @@
+{
+  "name": "cloudinary-media-generation-mcp-server",
+  "description": "Enables generating images from text prompts using various AI models (FLUX, Recraft, GPT Image, etc.) and automatically delivering them through Cloudinary's platform.",
+  "source_repo": "cloudinary/media-generation-mcp",
+  "source_url": "https://github.com/cloudinary/media-generation-mcp",
+  "install": "npx -y media-generation-mcp"
+}

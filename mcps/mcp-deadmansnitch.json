@@ -1,0 +1,7 @@
+{
+  "name": "mcp-deadmansnitch",
+  "description": "An MCP server for Dead Man's Snitch that enables AI assistants to manage monitoring snitches, including creating, updating, checking in, and pausing monitors for scheduled tasks and cron jobs.",
+  "source_repo": "jamesbrink/mcp-deadmansnitch",
+  "source_url": "https://github.com/jamesbrink/mcp-deadmansnitch",
+  "install": "# git clone --depth 1 https://github.com/jamesbrink/mcp-deadmansnitch\n# See source for mcpServers config block"
+}

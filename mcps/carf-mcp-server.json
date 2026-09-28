@@ -1,0 +1,7 @@
+{
+  "name": "carf-mcp-server",
+  "description": "Enables querying tax administrative proceedings (CARF) by CPF or CNPJ, providing read-only access to process information via a hosted MCP endpoint.",
+  "source_repo": "mcp-dir/carf-mcp",
+  "source_url": "https://github.com/mcp-dir/carf-mcp",
+  "install": "npx -y carf-mcp"
+}

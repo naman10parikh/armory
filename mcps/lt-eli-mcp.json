@@ -1,0 +1,7 @@
+{
+  "name": "lt-eli-mcp",
+  "description": "Searches Lithuanian legislation by title and fetches full text from the Register of Legal Acts (TAR) via the data.gov.lt open-data API, with verifiable citations.",
+  "source_repo": "matematicsolutions/lt-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/lt-eli-mcp",
+  "install": "npx -y lt-eli-mcp"
+}

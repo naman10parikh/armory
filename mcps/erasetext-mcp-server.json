@@ -1,0 +1,7 @@
+{
+  "name": "erasetext-mcp-server",
+  "description": "Provides access to EraseText's AI text removal for images, enabling erasing text from photos and retrieving account details.",
+  "source_repo": "jaweii/erasetext-api",
+  "source_url": "https://github.com/jaweii/erasetext-api",
+  "install": "# git clone --depth 1 https://github.com/jaweii/erasetext-api\n# See source for mcpServers config block"
+}

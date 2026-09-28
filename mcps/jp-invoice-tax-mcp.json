@@ -1,0 +1,7 @@
+{
+  "name": "jp-invoice-tax-mcp",
+  "description": "Enables AI assistants to perform Japanese invoice and tax calculations, including consumption tax, withholding tax, invoice number validation, and invoice data generation, all locally without external APIs.",
+  "source_repo": "panda-studio-dev/jp-invoice-tax-mcp",
+  "source_url": "https://github.com/panda-studio-dev/jp-invoice-tax-mcp",
+  "install": "npx -y jp-invoice-tax-mcp"
+}

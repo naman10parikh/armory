@@ -1,0 +1,7 @@
+{
+  "name": "pactai-mcp",
+  "description": "Serves coding agents with project-specific knowledge (decisions, conventions, constraints) over MCP and provides verification verdicts on whether code still complies.",
+  "source_repo": "hexablob/pact.ai",
+  "source_url": "https://github.com/hexablob/pact.ai",
+  "install": "# git clone --depth 1 https://github.com/hexablob/pact.ai\n# See source for mcpServers config block"
+}

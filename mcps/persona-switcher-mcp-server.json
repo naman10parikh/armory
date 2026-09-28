@@ -1,0 +1,7 @@
+{
+  "name": "persona-switcher-mcp-server",
+  "description": "Dynamic AI persona management for Claude with file-based storage. Switch between different AI personas mid-conversation or start conversations with pre-configured personas.",
+  "source_repo": "Risedial/persona-switcher-mcp",
+  "source_url": "https://github.com/Risedial/persona-switcher-mcp",
+  "install": "npx -y persona-switcher-mcp"
+}

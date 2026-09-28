@@ -1,0 +1,7 @@
+{
+  "name": "praxicraft-assess-mcp",
+  "description": "Enables agents to connect to the Praxicraft Assess Public API to invite candidates, manage assessments, pipelines, and webhooks, and fetch results via OAuth or API-key authentication.",
+  "source_repo": "praxicraft-platform/praxicraft-assess-mcp",
+  "source_url": "https://github.com/praxicraft-platform/praxicraft-assess-mcp",
+  "install": "npx -y praxicraft-assess-mcp"
+}

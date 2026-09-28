@@ -1,0 +1,7 @@
+{
+  "name": "workday-studio-mcp",
+  "description": "A local MCP server that gives Claude direct access to Workday Studio workspace. Enables reading, writing, planning, and validating integration assemblies without network calls or tenant credentials.",
+  "source_repo": "andrew-price-huron/workday-studio-mcp",
+  "source_url": "https://github.com/andrew-price-huron/workday-studio-mcp",
+  "install": "npx -y workday-studio-mcp"
+}

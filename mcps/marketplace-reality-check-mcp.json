@@ -1,0 +1,7 @@
+{
+  "name": "marketplace-reality-check-mcp",
+  "description": "Enables evaluation of digital marketplaces by classifying demand signals, scoring commercial viability, sanity-checking claims, and comparing candidate channels.",
+  "source_repo": "OkuboHeavyIndustries/marketplace-reality-check-mcp",
+  "source_url": "https://github.com/OkuboHeavyIndustries/marketplace-reality-check-mcp",
+  "install": "npx -y marketplace-reality-check-mcp"
+}

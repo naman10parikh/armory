@@ -1,0 +1,7 @@
+{
+  "name": "ask-ai",
+  "description": "Hosted MCP server connecting Shopify, Klaviyo, GA4, Meta Ads, Google Ads, Xero, Gorgias and 20+ e-commerce data sources so AI assistants can answer merchant questions that span every source at once.",
+  "source_repo": "charlesemarsh/ask-ai-mcp",
+  "source_url": "https://github.com/charlesemarsh/ask-ai-mcp",
+  "install": "npx -y ask-ai-mcp"
+}

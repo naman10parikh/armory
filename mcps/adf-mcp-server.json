@@ -1,0 +1,7 @@
+{
+  "name": "adf-mcp-server",
+  "description": "Provides read-only monitoring, inspection, and root-cause analysis of Azure Data Factory resources, including factories, pipelines, and pipeline runs, through MCP tools.",
+  "source_repo": "mvcharygenai/adf-mcp-server",
+  "source_url": "https://github.com/mvcharygenai/adf-mcp-server",
+  "install": "npx -y adf-mcp-server"
+}

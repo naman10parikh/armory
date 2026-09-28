@@ -1,0 +1,7 @@
+{
+  "name": "mcp-trust-registry",
+  "description": "A neutral, public danger grade for MCP servers that AI agents rely on, providing A-F grades and transparency signals to vet servers before connecting.",
+  "source_repo": "saagpatel/mcp-trust",
+  "source_url": "https://github.com/saagpatel/mcp-trust",
+  "install": "# git clone --depth 1 https://github.com/saagpatel/mcp-trust\n# See source for mcpServers config block"
+}

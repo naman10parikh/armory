@@ -1,0 +1,7 @@
+{
+  "name": "pombase-mcp-server",
+  "description": "Enables AI agents to query the fission yeast PomBase database for gene summaries, GO annotations, phenotypes, orthologs, domains, and interactions via structured API calls.",
+  "source_repo": "ubcd-ibfg/pombase-mcp",
+  "source_url": "https://github.com/ubcd-ibfg/pombase-mcp",
+  "install": "npx -y pombase-mcp"
+}

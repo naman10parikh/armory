@@ -1,0 +1,7 @@
+{
+  "name": "context-studio",
+  "description": "MCP server for Context Studio, a file-based CMS for governed marketing documents and searchable collections, enabling retrieval and management of AI context via tools like scopes, document reads, and collection search.",
+  "source_repo": "locomotive-agency/context-studio",
+  "source_url": "https://github.com/locomotive-agency/context-studio",
+  "install": "# git clone --depth 1 https://github.com/locomotive-agency/context-studio\n# See source for mcpServers config block"
+}

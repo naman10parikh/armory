@@ -1,0 +1,7 @@
+{
+  "name": "eodly-mcp-server",
+  "description": "Read-only MCP server that exposes Eodly's sourced end-of-day reports and team roster to MCP clients, letting you ask questions like \"who is slipping this week?\" and get answers backed by GitHub and Linear data.",
+  "source_repo": "layergen/eodly-mcp",
+  "source_url": "https://github.com/layergen/eodly-mcp",
+  "install": "npx -y eodly-mcp"
+}

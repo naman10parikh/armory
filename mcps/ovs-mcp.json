@@ -1,0 +1,7 @@
+{
+  "name": "ovs-mcp",
+  "description": "Enables searching Official Vegan Shop products and managing your shopping cart through natural language, with secure local login.",
+  "source_repo": "ncleton-petitmaker/ovs-mcp",
+  "source_url": "https://github.com/ncleton-petitmaker/ovs-mcp",
+  "install": "npx -y ovs-mcp"
+}

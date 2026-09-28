@@ -1,0 +1,7 @@
+{
+  "name": "mcp-docs-ask",
+  "description": "Local RAG MCP server for documentation that indexes markdown repos (local paths or git URLs) and provides retrieval-only tools (ask_docs, list_docs, reindex) returning grounded passages and citations for the MCP host to synthesize answers.",
+  "source_repo": "alyiox/mcp-docs-ask",
+  "source_url": "https://github.com/alyiox/mcp-docs-ask",
+  "install": "# git clone --depth 1 https://github.com/alyiox/mcp-docs-ask\n# See source for mcpServers config block"
+}

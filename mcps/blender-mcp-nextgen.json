@@ -1,0 +1,7 @@
+{
+  "name": "blender-mcp-nextgen",
+  "description": "Connects AI assistants to Blender 3D for natural language 3D modeling, scene inspection, material creation, and rendering.",
+  "source_repo": "Mehulpatel05/Blender-Mcp",
+  "source_url": "https://github.com/Mehulpatel05/Blender-Mcp",
+  "install": "npx -y Blender-Mcp"
+}

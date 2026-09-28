@@ -1,0 +1,7 @@
+{
+  "name": "simple-snowflake-mcp",
+  "description": "Enables natural language querying and management of Snowflake databases, including SQL execution, schema exploration, and warehouse monitoring.",
+  "source_repo": "fastmcp-me/simple_snowflake_mcp",
+  "source_url": "https://github.com/fastmcp-me/simple_snowflake_mcp",
+  "install": "npx -y simple_snowflake_mcp"
+}

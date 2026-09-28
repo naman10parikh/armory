@@ -1,0 +1,7 @@
+{
+  "name": "volante",
+  "description": "A transparent, user-owned model router and orchestration control plane that enables AI workflow orchestration via an MCP server, with supervisor-based task decomposition and cross-provider routing.",
+  "source_repo": "ribato22/volante",
+  "source_url": "https://github.com/ribato22/volante",
+  "install": "# git clone --depth 1 https://github.com/ribato22/volante\n# See source for mcpServers config block"
+}

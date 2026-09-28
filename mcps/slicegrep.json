@@ -1,0 +1,7 @@
+{
+  "name": "slicegrep",
+  "description": "Returns ranked, token-budgeted code slices for LLMs and coding agents, accessible via MCP for focused code reading.",
+  "source_repo": "haxo98098/slicegerp",
+  "source_url": "https://github.com/haxo98098/slicegerp",
+  "install": "# git clone --depth 1 https://github.com/haxo98098/slicegerp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vpn-as-a-service-mcp",
+  "description": "Enables AI agents to manage VPN infrastructure through provisioning, lifecycle control, traffic routing, and health monitoring.",
+  "source_repo": "Nolaan/ai_vpn_mcp",
+  "source_url": "https://github.com/Nolaan/ai_vpn_mcp",
+  "install": "npx -y ai_vpn_mcp"
+}

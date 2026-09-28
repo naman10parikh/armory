@@ -1,0 +1,7 @@
+{
+  "name": "atlas-przetargow-mcp-py",
+  "description": "Enables searching and analyzing Polish public procurement tenders from BZP and TED, including filtering, tender details and timelines, offers and contract values, buyer/contractor profiles, CPV code lookup, and regional statistics, with optional AI-summary endpoints.",
+  "source_repo": "dam2452/atlas-przetargow-mcp-py",
+  "source_url": "https://github.com/dam2452/atlas-przetargow-mcp-py",
+  "install": "# git clone --depth 1 https://github.com/dam2452/atlas-przetargow-mcp-py\n# See source for mcpServers config block"
+}

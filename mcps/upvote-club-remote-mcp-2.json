@@ -1,0 +1,7 @@
+{
+  "name": "upvote-club-remote-mcp-2",
+  "description": "Remote MCP server allowing Claude to interact with the Upvote.club API through 7 tools, supporting per-user authentication via X-API-Key header.",
+  "source_repo": "alxgntv/upvote-club-mcp-remote",
+  "source_url": "https://github.com/alxgntv/upvote-club-mcp-remote",
+  "install": "# git clone --depth 1 https://github.com/alxgntv/upvote-club-mcp-remote\n# See source for mcpServers config block"
+}

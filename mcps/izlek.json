@@ -1,0 +1,7 @@
+{
+  "name": "izlek",
+  "description": "Read-only MCP server for izlek, a terminal-first local frontend observability tool. Enables agents to query live session status, logs, errors, and HTTP request/response records from a running development session.",
+  "source_repo": "barisGultekin/izlek",
+  "source_url": "https://github.com/barisGultekin/izlek",
+  "install": "# git clone --depth 1 https://github.com/barisGultekin/izlek\n# See source for mcpServers config block"
+}

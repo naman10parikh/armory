@@ -1,0 +1,7 @@
+{
+  "name": "dsh-audit-bundle",
+  "description": "MCP server for auditing DeepSeek Harness evidence. Enables inspection and verification of content-addressed audit manifests with fail-closed validation.",
+  "source_repo": "dongsheng123132/dsh-audit-bundle",
+  "source_url": "https://github.com/dongsheng123132/dsh-audit-bundle",
+  "install": "# git clone --depth 1 https://github.com/dongsheng123132/dsh-audit-bundle\n# See source for mcpServers config block"
+}

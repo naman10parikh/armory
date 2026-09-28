@@ -1,0 +1,7 @@
+{
+  "name": "bloxberg-mcp",
+  "description": "Enables AI assistants to query bloxberg blockchain state, explore transactions and contracts via Blockscout, and verify Research Object Certificates anchored on-chain.",
+  "source_repo": "adi-ghag/bloxberg-mcp",
+  "source_url": "https://github.com/adi-ghag/bloxberg-mcp",
+  "install": "npx -y bloxberg-mcp"
+}

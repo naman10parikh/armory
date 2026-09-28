@@ -1,0 +1,7 @@
+{
+  "name": "deckprobe-mcp-server",
+  "description": "Enables agents to inspect PDF, Microsoft Office, and Apple iWork documents without rendering them, providing page/slide counts, metadata, security signals, structure, and integrity as deterministic JSON via typed tools and batch operations.",
+  "source_repo": "deckflow/deckprobe-mcp-server",
+  "source_url": "https://github.com/deckflow/deckprobe-mcp-server",
+  "install": "npx -y deckprobe-mcp-server"
+}

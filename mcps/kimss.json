@@ -1,0 +1,7 @@
+{
+  "name": "kimss",
+  "description": "Official Kimss MCP server — call your Kimss agents, models, files, and vector stores from Cursor and other MCP clients using your API key.",
+  "source_repo": "eyal81/kimss-python-sdk",
+  "source_url": "https://github.com/eyal81/kimss-python-sdk",
+  "install": "# git clone --depth 1 https://github.com/eyal81/kimss-python-sdk\n# See source for mcpServers config block"
+}

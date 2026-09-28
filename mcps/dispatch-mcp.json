@@ -1,0 +1,7 @@
+{
+  "name": "dispatch-mcp",
+  "description": "A security-constrained MCP server that provides tools to dispatch tasks to allowlisted repositories and retrieve their status or results, preventing arbitrary command execution.",
+  "source_repo": "selamy-labs/dispatch-mcp",
+  "source_url": "https://github.com/selamy-labs/dispatch-mcp",
+  "install": "npx -y dispatch-mcp"
+}

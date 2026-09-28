@@ -1,0 +1,7 @@
+{
+  "name": "mcp-twilio-sms",
+  "description": "MCP server for sending SMS messages via Twilio and checking their delivery status through MCP tools.",
+  "source_repo": "sebastienfi/mcp-twilio-sms",
+  "source_url": "https://github.com/sebastienfi/mcp-twilio-sms",
+  "install": "# git clone --depth 1 https://github.com/sebastienfi/mcp-twilio-sms\n# See source for mcpServers config block"
+}

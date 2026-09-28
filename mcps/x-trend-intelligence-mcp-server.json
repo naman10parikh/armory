@@ -1,0 +1,7 @@
+{
+  "name": "x-trend-intelligence-mcp-server",
+  "description": "Provides social intelligence tools for AI agents to analyze competitor sentiment, trends, and brand mentions from X/Twitter data.",
+  "source_repo": "mwaxman1/x-trend-intelligence-mcp",
+  "source_url": "https://github.com/mwaxman1/x-trend-intelligence-mcp",
+  "install": "npx -y x-trend-intelligence-mcp"
+}

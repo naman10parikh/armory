@@ -1,0 +1,7 @@
+{
+  "name": "dcl-trust-oracle",
+  "description": "DCL Trust Oracle is a deterministic AI audit layer, natively integrated with MCP, that evaluates LLM and agent outputs against configurable policies before and after action. Every verdict is written to a tamper-evident, hash-chained audit log storing only cryptographic metadata — never raw content —",
+  "source_repo": "Fronesis-Labs/dcl-webhook",
+  "source_url": "https://github.com/Fronesis-Labs/dcl-webhook",
+  "install": "# git clone --depth 1 https://github.com/Fronesis-Labs/dcl-webhook\n# See source for mcpServers config block"
+}

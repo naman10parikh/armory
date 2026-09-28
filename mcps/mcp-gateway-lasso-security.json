@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gateway-lasso-security",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/mcp-gateway-lasso-security",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-gateway-lasso-security\n# See source for mcpServers config block"
+}

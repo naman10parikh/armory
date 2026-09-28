@@ -1,0 +1,7 @@
+{
+  "name": "cafe-mcp-server",
+  "description": "MCP server that recommends coffee based on preferences (mood, milk, caffeine, temperature) from a static menu; includes tools for listing menu, recommending, and explaining recommendations.",
+  "source_repo": "hanluOMH/cafe-mcp-server",
+  "source_url": "https://github.com/hanluOMH/cafe-mcp-server",
+  "install": "npx -y cafe-mcp-server"
+}

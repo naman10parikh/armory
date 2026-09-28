@@ -1,6 +1,6 @@
 {
   "name": "mcp-framework",
-  "description": "Mcp Framework MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "w-jeon/mcp-framework",
   "source_url": "https://mcp.so/server/mcp-framework/w-jeon",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-framework/w-jeon\n# See source for mcpServers config block"

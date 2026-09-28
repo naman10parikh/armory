@@ -1,0 +1,7 @@
+{
+  "name": "japan-logistics-mcp",
+  "description": "Enables AI agents to ship parcels in Japan via Yamato, Sagawa, Japan Post, and other carriers, including rate estimation, label creation, tracking, and voiding through the Ship&co API.",
+  "source_repo": "junter1989k-ai/japan-logistics-mcp",
+  "source_url": "https://github.com/junter1989k-ai/japan-logistics-mcp",
+  "install": "npx -y japan-logistics-mcp"
+}

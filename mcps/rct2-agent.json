@@ -1,0 +1,7 @@
+{
+  "name": "rct2-agent",
+  "description": "Enables an agent to sidecar-manage an OpenRCT2 park while you play: reading park state, adjusting prices, staff, marketing, loans, taking screenshots, and controlling game time, with management-only actions that never build.",
+  "source_repo": "caseyjohnsonwv/rct2-agent",
+  "source_url": "https://github.com/caseyjohnsonwv/rct2-agent",
+  "install": "# git clone --depth 1 https://github.com/caseyjohnsonwv/rct2-agent\n# See source for mcpServers config block"
+}

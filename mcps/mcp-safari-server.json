@@ -1,0 +1,7 @@
+{
+  "name": "mcp-safari-server",
+  "description": "Enables programmatic control of Safari browser on macOS for web automation, testing, and debugging via the Model Context Protocol.",
+  "source_repo": "iclaudiumihaila/mcp-safari-server",
+  "source_url": "https://github.com/iclaudiumihaila/mcp-safari-server",
+  "install": "# git clone --depth 1 https://github.com/iclaudiumihaila/mcp-safari-server\n# See source for mcpServers config block"
+}

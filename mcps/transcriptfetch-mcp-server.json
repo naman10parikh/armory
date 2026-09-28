@@ -1,0 +1,7 @@
+{
+  "name": "transcriptfetch-mcp-server",
+  "description": "Enables fetching YouTube transcripts, searching videos, and listing channel/playlist videos via the TranscriptFetch API.",
+  "source_repo": "TranscriptFetch/mcp-server",
+  "source_url": "https://github.com/TranscriptFetch/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/TranscriptFetch/mcp-server\n# See source for mcpServers config block"
+}

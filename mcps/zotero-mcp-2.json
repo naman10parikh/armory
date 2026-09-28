@@ -1,0 +1,7 @@
+{
+  "name": "zotero-mcp-2",
+  "description": "An MCP server that lets Claude access your Zotero library and insert live, field-based Zotero citations directly into Word documents by writing the underlying OOXML, enabling proper style updates and bibliography management without manual intervention.",
+  "source_repo": "RogerAylagas/Zotero-MCP",
+  "source_url": "https://github.com/RogerAylagas/Zotero-MCP",
+  "install": "npx -y Zotero-MCP"
+}

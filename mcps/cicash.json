@@ -1,0 +1,7 @@
+{
+  "name": "cicash",
+  "description": "MCP server for CIcash, a budget system that lets AI agents spend within bounded, expiring, revocable budgets. Provides tools for budget checks, quotes, payments, delegation, and receipts, with the private key kept server-side.",
+  "source_repo": "Cee62/cicash",
+  "source_url": "https://github.com/Cee62/cicash",
+  "install": "# git clone --depth 1 https://github.com/Cee62/cicash\n# See source for mcpServers config block"
+}

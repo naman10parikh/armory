@@ -1,0 +1,7 @@
+{
+  "name": "lichess-review-mcp",
+  "description": "Read-only MCP server for reviewing completed public Lichess games, providing tools to fetch a game or list recent completed games with strict safety and cost boundaries.",
+  "source_repo": "PhishyOne/lichess-review-mcp",
+  "source_url": "https://github.com/PhishyOne/lichess-review-mcp",
+  "install": "npx -y lichess-review-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "maticon-office-docspace-mcp-server",
+  "description": "Enables AI agents to manage rooms, collaborate on files, set permissions, and automate document workflows in Maticon Office DocSpace using natural language commands.",
+  "source_repo": "MaticonOffice/docspace-mcp",
+  "source_url": "https://github.com/MaticonOffice/docspace-mcp",
+  "install": "npx -y docspace-mcp"
+}

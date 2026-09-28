@@ -1,0 +1,7 @@
+{
+  "name": "mcp-spotify-2",
+  "description": "MCP server for Spotify that enables playlist building and music discovery through 19 tools, allowing LLM agents to search tracks/artists/albums, manage playlists, control playback, and access personal listening data.",
+  "source_repo": "obrien-matthew/mcp-spotify",
+  "source_url": "https://github.com/obrien-matthew/mcp-spotify",
+  "install": "# git clone --depth 1 https://github.com/obrien-matthew/mcp-spotify\n# See source for mcpServers config block"
+}

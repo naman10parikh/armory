@@ -1,0 +1,7 @@
+{
+  "name": "taskboard-mcp",
+  "description": "An MCP server that integrates a Kanban task board into a sandboxed agent environment, with tools for task management and deterministic state snapshots for agent evaluation.",
+  "source_repo": "sharathStack/mcp-app-server",
+  "source_url": "https://github.com/sharathStack/mcp-app-server",
+  "install": "# git clone --depth 1 https://github.com/sharathStack/mcp-app-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "meetergo-mcp-server",
+  "description": "Enables AI agents to manage Meetergo calendars by finding slots, booking, rescheduling, and canceling appointments.",
+  "source_repo": "meetergo/meetergo-mcp-server",
+  "source_url": "https://github.com/meetergo/meetergo-mcp-server",
+  "install": "npx -y meetergo-mcp-server"
+}

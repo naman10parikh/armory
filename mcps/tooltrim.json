@@ -1,0 +1,7 @@
+{
+  "name": "tooltrim",
+  "description": "tooltrim reduces the tokens agents spend re-reading bloated tool results. Run it as an MCP server exposing compress and expand_tool_output, or as a gateway in front of any upstream MCP server: it re-exposes the upstream tools unchanged and shrinks each result (HTML/JSON/logs/tables) before it reache",
+  "source_repo": "nac7/tooltrim",
+  "source_url": "https://github.com/nac7/tooltrim",
+  "install": "# git clone --depth 1 https://github.com/nac7/tooltrim\n# See source for mcpServers config block"
+}

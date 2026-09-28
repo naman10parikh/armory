@@ -1,0 +1,7 @@
+{
+  "name": "ai-l1-support-agent",
+  "description": "MCP server for AI-native L1 support: triages tickets, answers from a knowledge base, escalates to L2 via Telegram/GitHub, and manages feedback, with a LangGraph workflow and safety guardrails.",
+  "source_repo": "infernaltiger/ai-l1-support-agent",
+  "source_url": "https://github.com/infernaltiger/ai-l1-support-agent",
+  "install": "# git clone --depth 1 https://github.com/infernaltiger/ai-l1-support-agent\n# See source for mcpServers config block"
+}

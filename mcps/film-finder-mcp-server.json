@@ -1,0 +1,7 @@
+{
+  "name": "film-finder-mcp-server",
+  "description": "A simple MCP server for fetching movie and TV show data from TMDB and OMDB APIs. Provides natural language capability for users to search, compare, and analyze movies through AI assistants.",
+  "source_repo": "rajatk10/film-finder-mcp",
+  "source_url": "https://github.com/rajatk10/film-finder-mcp",
+  "install": "npx -y film-finder-mcp"
+}

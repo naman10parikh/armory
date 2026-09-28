@@ -1,0 +1,7 @@
+{
+  "name": "yigmmk-mcp-server",
+  "description": "An MCP server for learning purposes that integrates jina.ai tools for web search and reading.",
+  "source_repo": "yiGmMk/mcp-server",
+  "source_url": "https://github.com/yiGmMk/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/yiGmMk/mcp-server\n# See source for mcpServers config block"
+}

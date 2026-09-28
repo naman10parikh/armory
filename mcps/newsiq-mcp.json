@@ -1,0 +1,7 @@
+{
+  "name": "newsiq-mcp",
+  "description": "An AI-powered news aggregator MCP server that fetches live news from multiple sources, provides AI summaries via Claude, and performs sentiment analysis and trending topic detection.",
+  "source_repo": "rocker2002/NewsIQ-MCP",
+  "source_url": "https://github.com/rocker2002/NewsIQ-MCP",
+  "install": "npx -y NewsIQ-MCP"
+}

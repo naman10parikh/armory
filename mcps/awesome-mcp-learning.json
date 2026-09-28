@@ -1,0 +1,7 @@
+{
+  "name": "awesome-mcp-learning",
+  "description": "A beginner-friendly repository for learning the Model Context Protocol (MCP) using FastMCP and uv, providing step-by-step setup and development workflow.",
+  "source_repo": "monirul8888/Awesome-MCP-Learning",
+  "source_url": "https://github.com/monirul8888/Awesome-MCP-Learning",
+  "install": "# git clone --depth 1 https://github.com/monirul8888/Awesome-MCP-Learning\n# See source for mcpServers config block"
+}

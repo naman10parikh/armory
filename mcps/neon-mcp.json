@@ -1,0 +1,7 @@
+{
+  "name": "neon-mcp",
+  "description": "Lightweight MCP server that allows agents to interface with the Neon REST API, deployed on Cloudflare Workers.",
+  "source_repo": "mcpflow/neon-mcp",
+  "source_url": "https://github.com/mcpflow/neon-mcp",
+  "install": "npx -y neon-mcp"
+}

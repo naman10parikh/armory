@@ -1,0 +1,7 @@
+{
+  "name": "veridex-bazaar-discovery-mcp-server",
+  "description": "Enables AI agents to discover, query, and pay for HTTP endpoints and MCP tools using Stellar USDC/SEP-41 stablecoins through a federated P2P bazaar catalog and x402 payment facilitator.",
+  "source_repo": "Veridex-Protocol/stellar-facilitator",
+  "source_url": "https://github.com/Veridex-Protocol/stellar-facilitator",
+  "install": "# git clone --depth 1 https://github.com/Veridex-Protocol/stellar-facilitator\n# See source for mcpServers config block"
+}

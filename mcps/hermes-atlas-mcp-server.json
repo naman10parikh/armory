@@ -1,0 +1,7 @@
+{
+  "name": "hermes-atlas-mcp-server",
+  "description": "Enables AI agents to search, browse, and recommend tools from the Hermes Agent ecosystem directory with zero configuration.",
+  "source_repo": "bkuri/hermes-atlas-mcp",
+  "source_url": "https://github.com/bkuri/hermes-atlas-mcp",
+  "install": "npx -y hermes-atlas-mcp"
+}

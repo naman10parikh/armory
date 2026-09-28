@@ -1,0 +1,7 @@
+{
+  "name": "azure-devops-mcp-server-4",
+  "description": "A Model Context Protocol server that enables AI assistants to interact with Azure DevOps work items, projects, wikis, and boards through natural language.",
+  "source_repo": "jaybird-us/azure-devops-mcp",
+  "source_url": "https://github.com/jaybird-us/azure-devops-mcp",
+  "install": "npx -y azure-devops-mcp"
+}

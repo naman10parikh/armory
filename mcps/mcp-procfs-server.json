@@ -1,0 +1,7 @@
+{
+  "name": "mcp-procfs-server",
+  "description": "A powerful MCP server for reading and modifying Linux /proc filesystem values, providing system monitoring, process management, and sysctl operations via JSON-RPC and SSE.",
+  "source_repo": "manalejandro/mcp-proc",
+  "source_url": "https://github.com/manalejandro/mcp-proc",
+  "install": "# git clone --depth 1 https://github.com/manalejandro/mcp-proc\n# See source for mcpServers config block"
+}

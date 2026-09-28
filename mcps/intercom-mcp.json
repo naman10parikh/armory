@@ -1,0 +1,7 @@
+{
+  "name": "intercom-mcp",
+  "description": "Enables to search, view, and interact with Intercom contacts and conversations, including sending customer-visible replies and internal notes.",
+  "source_repo": "chenzhaoxuan0/intercom-mcp",
+  "source_url": "https://github.com/chenzhaoxuan0/intercom-mcp",
+  "install": "npx -y intercom-mcp"
+}

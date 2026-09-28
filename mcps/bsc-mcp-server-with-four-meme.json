@@ -1,0 +1,7 @@
+{
+  "name": "bsc-mcp-server-with-four-meme",
+  "description": "Enables interaction with Binance Smart Chain, including wallet management, token transfers, contract execution, PancakeSwap swaps, and four.meme token creation.",
+  "source_repo": "BarkDevelopment/MCP-FourMeme",
+  "source_url": "https://github.com/BarkDevelopment/MCP-FourMeme",
+  "install": "# git clone --depth 1 https://github.com/BarkDevelopment/MCP-FourMeme\n# See source for mcpServers config block"
+}

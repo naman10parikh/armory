@@ -1,0 +1,7 @@
+{
+  "name": "prospeo-mcp-server",
+  "description": "Enables AI tools to search and enrich B2B leads, including finding professional emails, company profiles, and filtering people and companies by various criteria.",
+  "source_repo": "prospeo-v2/prospeo-mcp-server",
+  "source_url": "https://github.com/prospeo-v2/prospeo-mcp-server",
+  "install": "npx -y prospeo-mcp-server"
+}

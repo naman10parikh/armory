@@ -1,0 +1,7 @@
+{
+  "name": "bit-monk-signal",
+  "description": "Market-timing bottom/top signals for ten markets — crypto, US/Korea/China/Hong Kong stocks, commodities, FX, inflation and Seoul/Dubai property — returning a verdict and a -100..+100 score per symbol plus market-wide bottom/top scans. Ships a stdio proxy to the ten remote Streamable HTTP endpoints;",
+  "source_repo": "airblock2026/bit-monk-signal-mcp",
+  "source_url": "https://github.com/airblock2026/bit-monk-signal-mcp",
+  "install": "npx -y bit-monk-signal-mcp"
+}

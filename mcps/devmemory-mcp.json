@@ -1,0 +1,7 @@
+{
+  "name": "devmemory-mcp",
+  "description": "Analyzes Git commit history and code diffs to auto-remember development context, providing commit timelines, work sessions, unfinished task detection, and daily/weekly reports.",
+  "source_repo": "KIMHYUNWOO313/devmemory-mcp",
+  "source_url": "https://github.com/KIMHYUNWOO313/devmemory-mcp",
+  "install": "npx -y devmemory-mcp"
+}

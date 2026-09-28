@@ -1,0 +1,7 @@
+{
+  "name": "mcp-baserow-schema",
+  "description": "Enables automated schema management for Baserow, including creating, updating, and deleting tables and fields, with built-in 2FA TOTP authentication.",
+  "source_repo": "aficiomaquinas/mcp-baserow-schema",
+  "source_url": "https://github.com/aficiomaquinas/mcp-baserow-schema",
+  "install": "# git clone --depth 1 https://github.com/aficiomaquinas/mcp-baserow-schema\n# See source for mcpServers config block"
+}

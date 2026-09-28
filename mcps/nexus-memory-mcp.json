@@ -1,0 +1,7 @@
+{
+  "name": "nexus-memory-mcp",
+  "description": "Provides persistent semantic memory with semantic search, knowledge graphs, and Intelligence Packs for AI agents, enabling memory recall by meaning and session continuity.",
+  "source_repo": "KairosMobius/nexus-memory-mcp",
+  "source_url": "https://github.com/KairosMobius/nexus-memory-mcp",
+  "install": "npx -y nexus-memory-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claude-screen-mcp",
+  "description": "Enables read-only screen capture, OCR, and change detection without input control.",
+  "source_repo": "ssh071102-code/claude-screen-mcp",
+  "source_url": "https://github.com/ssh071102-code/claude-screen-mcp",
+  "install": "npx -y claude-screen-mcp"
+}

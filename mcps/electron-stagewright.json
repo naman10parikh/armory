@@ -1,0 +1,7 @@
+{
+  "name": "electron-stagewright",
+  "description": "Drive, inspect, and assert on real Electron desktop apps from an AI agent — agent-native, Playwright-style automation with accessibility refs, stable error codes, and retrying assertions",
+  "source_repo": "electron-stagewright/electron-stagewright",
+  "source_url": "https://github.com/electron-stagewright/electron-stagewright",
+  "install": "# git clone --depth 1 https://github.com/electron-stagewright/electron-stagewright\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "equity-intel-mcp",
+  "description": "Provides institutional-grade equity analysis for any LLM via MCP, aggregating insider trading, superinvestor holdings, analyst consensus, options data, and valuation into a confidence-weighted verdict.",
+  "source_repo": "cstamigo-droid/equity-intel-mcp",
+  "source_url": "https://github.com/cstamigo-droid/equity-intel-mcp",
+  "install": "npx -y equity-intel-mcp"
+}

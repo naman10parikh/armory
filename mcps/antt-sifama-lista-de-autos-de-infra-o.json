@@ -1,0 +1,7 @@
+{
+  "name": "antt-sifama-lista-de-autos-de-infra-o",
+  "description": "MCP server that enables querying the official ANTT SIFAMA list of infraction notices (autos de infração) through a single read-only tool, with prepaid per-query pricing.",
+  "source_repo": "mcp-dir/antt_sifama_lista_autos-mcp",
+  "source_url": "https://github.com/mcp-dir/antt_sifama_lista_autos-mcp",
+  "install": "npx -y antt_sifama_lista_autos-mcp"
+}

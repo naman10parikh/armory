@@ -1,0 +1,7 @@
+{
+  "name": "language-detector",
+  "description": "Enables AI agents to identify what language text is written in, returning top matches, confidence scores, script detection, and character statistics via a pay-per-call x402 API without requiring an API key.",
+  "source_repo": "Br0ski777/language-detector-x402",
+  "source_url": "https://github.com/Br0ski777/language-detector-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/language-detector-x402\n# See source for mcpServers config block"
+}

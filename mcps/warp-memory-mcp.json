@@ -1,0 +1,7 @@
+{
+  "name": "warp-memory-mcp",
+  "description": "Read-only MCP server for local Warp/Oz agent data, exposing memories, notebooks, conversations, queries, project rules, and cross-agent handoffs.",
+  "source_repo": "robertleelittleiii/warp-memory-mcp",
+  "source_url": "https://github.com/robertleelittleiii/warp-memory-mcp",
+  "install": "npx -y warp-memory-mcp"
+}

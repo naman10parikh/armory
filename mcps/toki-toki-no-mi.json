@@ -1,0 +1,7 @@
+{
+  "name": "toki-toki-no-mi",
+  "description": "An MCP server that records decisions, rejected alternatives, and justifications, and retrieves them later to avoid re-litigating past choices. It stores data locally in SQLite and Markdown.",
+  "source_repo": "xfloukiex-lab/toki-toki",
+  "source_url": "https://github.com/xfloukiex-lab/toki-toki",
+  "install": "# git clone --depth 1 https://github.com/xfloukiex-lab/toki-toki\n# See source for mcpServers config block"
+}

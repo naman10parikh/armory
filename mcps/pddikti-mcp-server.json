@@ -1,0 +1,7 @@
+{
+  "name": "pddikti-mcp-server",
+  "description": "Enables AI assistants to search and retrieve data from Indonesia's higher education database (PDDIKTI), including universities, lecturers, study programs, and students.",
+  "source_repo": "lightnet19/pddikti-mcp-server",
+  "source_url": "https://github.com/lightnet19/pddikti-mcp-server",
+  "install": "npx -y pddikti-mcp-server"
+}

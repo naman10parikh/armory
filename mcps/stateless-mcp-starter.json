@@ -1,0 +1,7 @@
+{
+  "name": "stateless-mcp-starter",
+  "description": "An Express + TypeScript starter for building stateless MCP servers with explicit, typed application state, featuring a shopping-cart domain example and support for multiple state store adapters.",
+  "source_repo": "waream2/stateless-mcp-starter",
+  "source_url": "https://github.com/waream2/stateless-mcp-starter",
+  "install": "# git clone --depth 1 https://github.com/waream2/stateless-mcp-starter\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tn-trustee-mcp",
+  "description": "Read-only MCP server for public Tennessee property-tax information, with SQLite caching and support for Cheatham and Stewart counties.",
+  "source_repo": "mickpletcher/TN-Trustee-MCP",
+  "source_url": "https://github.com/mickpletcher/TN-Trustee-MCP",
+  "install": "npx -y TN-Trustee-MCP"
+}

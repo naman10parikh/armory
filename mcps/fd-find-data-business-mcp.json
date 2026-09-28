@@ -1,0 +1,7 @@
+{
+  "name": "fd-find-data-business-mcp",
+  "description": "Provides login-gated access to FindData's crawled business data, enabling users to read indicators over time, list concepts, search via natural language, and run graph queries.",
+  "source_repo": "FindDataTechnology/fd-find-data-business-mcp",
+  "source_url": "https://github.com/FindDataTechnology/fd-find-data-business-mcp",
+  "install": "npx -y fd-find-data-business-mcp"
+}

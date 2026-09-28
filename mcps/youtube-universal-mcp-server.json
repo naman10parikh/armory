@@ -1,0 +1,7 @@
+{
+  "name": "youtube-universal-mcp-server",
+  "description": "Enables interaction with YouTube's tools and services through a unified API, following the Model Context Protocol specification.",
+  "source_repo": "universal-mcp/youtube",
+  "source_url": "https://github.com/universal-mcp/youtube",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/youtube\n# See source for mcpServers config block"
+}

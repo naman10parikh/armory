@@ -1,0 +1,7 @@
+{
+  "name": "spreshapp-mcp",
+  "description": "Connects Claude to SpreshApp's Facebook ad intelligence platform, enabling competitor research, ad angle analysis, brand ad tracking, and library search directly from Claude.",
+  "source_repo": "PrashantBtkl/spresh-mcp",
+  "source_url": "https://github.com/PrashantBtkl/spresh-mcp",
+  "install": "npx -y spresh-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "notekeeper-mcp",
+  "description": "Provides AI assistants with tools to create, list, search, tag, and delete notes stored in a local SQLite database.",
+  "source_repo": "VRurs1606/notekeeper-mcp",
+  "source_url": "https://github.com/VRurs1606/notekeeper-mcp",
+  "install": "npx -y notekeeper-mcp"
+}

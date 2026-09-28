@@ -1,0 +1,7 @@
+{
+  "name": "x402-crypto-mcp-server",
+  "description": "MCP server that aggregates x402 crypto services as tools for AI agents, providing prices, sentiment, funding rates, and technical indicators with x402 pay-per-call on Base.",
+  "source_repo": "yunaremaia/x402-crypto-mcp",
+  "source_url": "https://github.com/yunaremaia/x402-crypto-mcp",
+  "install": "npx -y x402-crypto-mcp"
+}

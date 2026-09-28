@@ -1,0 +1,7 @@
+{
+  "name": "npi-providers-mcp-server",
+  "description": "Look up US healthcare providers in the NPPES NPI registry and resolve NUCC specialty codes via MCP.",
+  "source_repo": "cyanheads/npi-providers-mcp-server",
+  "source_url": "https://github.com/cyanheads/npi-providers-mcp-server",
+  "install": "npx -y npi-providers-mcp-server"
+}

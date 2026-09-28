@@ -1,0 +1,7 @@
+{
+  "name": "rocketlane-mcp",
+  "description": "Enables AI assistants to query Rocketlane CSM data for project health, team workload, tasks, and generate weekly reviews.",
+  "source_repo": "minhlecsm/rocketlane-mcp",
+  "source_url": "https://github.com/minhlecsm/rocketlane-mcp",
+  "install": "npx -y rocketlane-mcp"
+}

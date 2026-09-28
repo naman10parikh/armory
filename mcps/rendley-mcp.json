@@ -1,0 +1,7 @@
+{
+  "name": "rendley-mcp",
+  "description": "Gives an AI assistant a full video editor: connect it once, then create and edit video by describing what you want.",
+  "source_repo": "rendleyhq/mcp.rendley.com",
+  "source_url": "https://github.com/rendleyhq/mcp.rendley.com",
+  "install": "# git clone --depth 1 https://github.com/rendleyhq/mcp.rendley.com\n# See source for mcpServers config block"
+}

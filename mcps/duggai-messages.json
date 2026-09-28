@@ -1,0 +1,7 @@
+{
+  "name": "duggai-messages",
+  "description": "Local-first WhatsApp and iMessage memory for AI coding agents. It provides MCP tools to search messages, get recent context, summarize relationships, draft replies, and view unreplied threads.",
+  "source_repo": "duggsha/whatsapp-mcp",
+  "source_url": "https://github.com/duggsha/whatsapp-mcp",
+  "install": "npx -y whatsapp-mcp"
+}

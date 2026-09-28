@@ -1,0 +1,7 @@
+{
+  "name": "codebase-rag-mcp",
+  "description": "A local-first MCP server that indexes code repositories and enables AI assistants to search, fetch, and navigate code using BM25 hybrid retrieval, supporting common languages and tools like Codex and ChatGPT.",
+  "source_repo": "sudoriaa/codebase-rag-mcp",
+  "source_url": "https://github.com/sudoriaa/codebase-rag-mcp",
+  "install": "npx -y codebase-rag-mcp"
+}

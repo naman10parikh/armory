@@ -1,0 +1,7 @@
+{
+  "name": "form-auto-mcp",
+  "description": "Automates internal system form submissions by reading data from Excel/CSV or Google Sheets and using Playwright to navigate menus and fill form fields, with support for both visible and headless modes.",
+  "source_repo": "jayounglee92/form-auto-mcp",
+  "source_url": "https://github.com/jayounglee92/form-auto-mcp",
+  "install": "npx -y form-auto-mcp"
+}

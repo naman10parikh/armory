@@ -1,0 +1,7 @@
+{
+  "name": "mcp-orquestacion-de-agentes",
+  "description": "MCP server that exposes tools to query an e-commerce database (customers, sales, products) using natural language, orchestrated by a LangChain agent with Groq's LLM.",
+  "source_repo": "systemyuri/MCP-Orquestacion-Agentes",
+  "source_url": "https://github.com/systemyuri/MCP-Orquestacion-Agentes",
+  "install": "# git clone --depth 1 https://github.com/systemyuri/MCP-Orquestacion-Agentes\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wandpad-etsy-mcp",
+  "description": "Enables Claude to read shop data, listings, inventory, and orders from the WandPad Etsy shop using the official Etsy API v3, with optional write capabilities for listings when explicitly enabled and confirmed.",
+  "source_repo": "DodoNic/wandpad-etsy-mcp",
+  "source_url": "https://github.com/DodoNic/wandpad-etsy-mcp",
+  "install": "npx -y wandpad-etsy-mcp"
+}

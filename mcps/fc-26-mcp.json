@@ -1,0 +1,7 @@
+{
+  "name": "fc-26-mcp",
+  "description": "Two MCP servers for EA SPORTS FC 26: one parses and edits squad files, another controls the game via Live Editor's Lua API for career mode management.",
+  "source_repo": "INSANE0777/Fc26-live-editor-mcp",
+  "source_url": "https://github.com/INSANE0777/Fc26-live-editor-mcp",
+  "install": "npx -y Fc26-live-editor-mcp"
+}

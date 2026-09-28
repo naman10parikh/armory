@@ -1,0 +1,7 @@
+{
+  "name": "image-generator-mcp",
+  "description": "Exposes generate_image for general image generation and hatch-pet specific workflows: canonical base generation, identity reference, multi-image input, layout guides, and single-action row chroma-key source images.",
+  "source_repo": "Javatoky/image-generator-mcp",
+  "source_url": "https://github.com/Javatoky/image-generator-mcp",
+  "install": "npx -y image-generator-mcp"
+}

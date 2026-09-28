@@ -1,0 +1,7 @@
+{
+  "name": "epc-tender-screening-mcp",
+  "description": "An MCP-only server for evidence-based EPC tender screening that enables AI agents to run a full screening workflow, extract requirements, match company profiles, generate compliance matrices, and produce bid/no-bid advisory memos.",
+  "source_repo": "Shiverion/epc-tender-screening-mcp-showcase",
+  "source_url": "https://github.com/Shiverion/epc-tender-screening-mcp-showcase",
+  "install": "# git clone --depth 1 https://github.com/Shiverion/epc-tender-screening-mcp-showcase\n# See source for mcpServers config block"
+}

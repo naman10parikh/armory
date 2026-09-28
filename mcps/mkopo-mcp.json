@@ -1,0 +1,7 @@
+{
+  "name": "mkopo-mcp",
+  "description": "MCP server for alternative credit scoring in Kenya — builds a 300–850 score from M-PESA behavioral signals for adults with no formal credit history. 5 tools.",
+  "source_repo": "gabrielmahia/mkopo-mcp",
+  "source_url": "https://github.com/gabrielmahia/mkopo-mcp",
+  "install": "npx -y mkopo-mcp"
+}

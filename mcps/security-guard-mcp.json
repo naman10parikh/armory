@@ -1,0 +1,7 @@
+{
+  "name": "security-guard-mcp",
+  "description": "Enables secure interaction between LLMs and MCP tools by applying zero-trust security controls, including sensitive data masking, file system protection, and policy enforcement.",
+  "source_repo": "marcojourney/security-guard-mcp",
+  "source_url": "https://github.com/marcojourney/security-guard-mcp",
+  "install": "npx -y security-guard-mcp"
+}

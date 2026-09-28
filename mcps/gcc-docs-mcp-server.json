@@ -1,0 +1,7 @@
+{
+  "name": "gcc-docs-mcp-server",
+  "description": "An MCP server that indexes Singapore Government GCC documentation and exposes search tools for AI assistants.",
+  "source_repo": "Fredwong76/gcc-docs-mcp-server",
+  "source_url": "https://github.com/Fredwong76/gcc-docs-mcp-server",
+  "install": "npx -y gcc-docs-mcp-server"
+}

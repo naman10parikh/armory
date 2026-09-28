@@ -1,0 +1,7 @@
+{
+  "name": "satoshidata-bitcoin-entity-intelligence",
+  "description": "A keyless Bitcoin chain-intelligence API built for autonomous agents. Resolve addresses to known entities, pull wallet evidence packs, and check sanctions / illicit-fund exposure over MCP, no account required. Includes risk_check for free keyless exposure evidence, wallet evidence packs, entity / la",
+  "source_repo": "",
+  "source_url": "https://satoshidata.ai",
+  "install": "# git clone --depth 1 https://satoshidata.ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "swiss-geodata-mcp",
+  "description": "MCP server that connects AI models to Swiss federal geodata, offering tools for spatial queries like layer discovery, coordinate identification, building zones, and terrain heights.",
+  "source_repo": "malkreide/swiss-geodata-mcp",
+  "source_url": "https://github.com/malkreide/swiss-geodata-mcp",
+  "install": "npx -y swiss-geodata-mcp"
+}

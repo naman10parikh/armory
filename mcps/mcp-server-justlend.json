@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-justlend",
+  "description": "An MCP server enabling AI agents to interact with JustLend DAO on TRON for lending, borrowing, and portfolio management, plus general TRON chain utilities.",
+  "source_repo": "justlend/mcp-server-justlend",
+  "source_url": "https://github.com/justlend/mcp-server-justlend",
+  "install": "# git clone --depth 1 https://github.com/justlend/mcp-server-justlend\n# See source for mcpServers config block"
+}

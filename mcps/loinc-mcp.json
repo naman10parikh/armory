@@ -1,0 +1,7 @@
+{
+  "name": "loinc-mcp",
+  "description": "Enables searching LOINC codes and retrieving detailed information including panel members and answer options via the LOINC Search API.",
+  "source_repo": "robsyc/loinc-mcp",
+  "source_url": "https://github.com/robsyc/loinc-mcp",
+  "install": "npx -y loinc-mcp"
+}

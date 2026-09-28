@@ -1,0 +1,7 @@
+{
+  "name": "dsh-minimal-mcp",
+  "description": "MCP server providing persistent bash and str_replace_editor tools from deepseek-harness's minimal agent preset, enabling file editing and shell command execution for external agents via stdio.",
+  "source_repo": "hqzqaq/dsh-mcp-tools-2",
+  "source_url": "https://github.com/hqzqaq/dsh-mcp-tools-2",
+  "install": "# git clone --depth 1 https://github.com/hqzqaq/dsh-mcp-tools-2\n# See source for mcpServers config block"
+}

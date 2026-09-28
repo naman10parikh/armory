@@ -1,0 +1,7 @@
+{
+  "name": "hts-metatrader5-trading-mcp",
+  "description": "Enables Claude AI to perform forex trading operations and market data analysis through MetaTrader 5, including order placement, position management, and multi-timeframe candle data retrieval.",
+  "source_repo": "Yumin-Kim/hts-mcp-server",
+  "source_url": "https://github.com/Yumin-Kim/hts-mcp-server",
+  "install": "npx -y hts-mcp-server"
+}

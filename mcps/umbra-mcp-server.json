@@ -1,0 +1,7 @@
+{
+  "name": "umbra-mcp-server",
+  "description": "Enables AI agents to securely control a user's existing signed-in Chrome browser through isolated tab groups, with strict per-session ownership and no cookie or token exposure.",
+  "source_repo": "RobertJLora/umbra",
+  "source_url": "https://github.com/RobertJLora/umbra",
+  "install": "# git clone --depth 1 https://github.com/RobertJLora/umbra\n# See source for mcpServers config block"
+}

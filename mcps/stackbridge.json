@@ -1,0 +1,7 @@
+{
+  "name": "stackbridge",
+  "description": "Sub-1ms cross-stack AST contract layer and compiler verification engine mapping React/Next.js routes to FastAPI and SQLAlchemy models for AI coding agents.",
+  "source_repo": "ZainUlAbideen02/StackBridge-MCP",
+  "source_url": "https://github.com/ZainUlAbideen02/StackBridge-MCP",
+  "install": "npx -y StackBridge-MCP"
+}

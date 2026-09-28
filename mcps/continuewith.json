@@ -1,0 +1,7 @@
+{
+  "name": "continuewith",
+  "description": "MCP server for coding agents (Cursor, Claude Code, Codex) to install and configure the ContinueWith AI handoff widget on any website.",
+  "source_repo": "continuewith-ai/mcp",
+  "source_url": "https://github.com/continuewith-ai/mcp",
+  "install": "# git clone --depth 1 https://github.com/continuewith-ai/mcp\n# See source for mcpServers config block"
+}

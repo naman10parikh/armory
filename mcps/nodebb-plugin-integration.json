@@ -1,0 +1,7 @@
+{
+  "name": "nodebb-plugin-integration",
+  "description": "MCP server for NodeBB forums that enables AI assistants to access forum data, search topics, and perform semantic search via the Model Context Protocol.",
+  "source_repo": "Sergey-ek/nodebb-plugin-integration",
+  "source_url": "https://github.com/Sergey-ek/nodebb-plugin-integration",
+  "install": "# git clone --depth 1 https://github.com/Sergey-ek/nodebb-plugin-integration\n# See source for mcpServers config block"
+}

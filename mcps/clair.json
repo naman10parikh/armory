@@ -1,0 +1,7 @@
+{
+  "name": "clair",
+  "description": "An MCP server that reduces token usage by lazily loading skills and tools only when needed, and routing repetitive subtasks to ML backends instead of the LLM.",
+  "source_repo": "concensure/clair-mcp-server",
+  "source_url": "https://github.com/concensure/clair-mcp-server",
+  "install": "npx -y clair-mcp-server"
+}

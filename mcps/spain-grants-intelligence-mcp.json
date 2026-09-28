@@ -1,0 +1,7 @@
+{
+  "name": "spain-grants-intelligence-mcp",
+  "description": "Enables searching and retrieving details of over 500,000 Spanish government grants and subsidies from the official BDNS database, without requiring an API key.",
+  "source_repo": "fzthiait-ai/spain-grants-intelligence-mcp",
+  "source_url": "https://github.com/fzthiait-ai/spain-grants-intelligence-mcp",
+  "install": "npx -y spain-grants-intelligence-mcp"
+}

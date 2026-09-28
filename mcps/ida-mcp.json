@@ -1,0 +1,7 @@
+{
+  "name": "ida-mcp",
+  "description": "An MCP server that runs inside IDA Pro for AI tools, exposing reverse-engineering capabilities like function listing, decompilation, and analysis via HTTP.",
+  "source_repo": "ahmad009/IDA-MCP",
+  "source_url": "https://github.com/ahmad009/IDA-MCP",
+  "install": "npx -y IDA-MCP"
+}

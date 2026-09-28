@@ -1,0 +1,7 @@
+{
+  "name": "proxies-sx-mcp-server",
+  "description": "Enables AI agents to autonomously buy and operate mobile proxies via MCP, supporting both API key and on-chain USDC payments for tasks like port creation, IP rotation, and traffic management.",
+  "source_repo": "bolivian-peru/proxies-sx-mcp-server",
+  "source_url": "https://github.com/bolivian-peru/proxies-sx-mcp-server",
+  "install": "npx -y proxies-sx-mcp-server"
+}

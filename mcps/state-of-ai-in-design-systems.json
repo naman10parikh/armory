@@ -1,0 +1,7 @@
+{
+  "name": "state-of-ai-in-design-systems",
+  "description": "Read-only MCP server for the July 2026 survey of AI in open-source design systems, enabling agents to query 19 systems' affordances, coercion techniques, and platform data via 9 tools, 2 resources, and 2 prompts.",
+  "source_repo": "kaelig/state-of-ai-in-design-systems",
+  "source_url": "https://github.com/kaelig/state-of-ai-in-design-systems",
+  "install": "# git clone --depth 1 https://github.com/kaelig/state-of-ai-in-design-systems\n# See source for mcpServers config block"
+}

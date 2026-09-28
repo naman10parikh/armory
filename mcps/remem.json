@@ -1,0 +1,7 @@
+{
+  "name": "remem",
+  "description": "Local-first persistent memory for Claude Code and OpenAI Codex CLI. A single Rust binary captures, distills, searches, and injects project memory across sessions via hooks, MCP, CLI, and localhost REST.",
+  "source_repo": "majiayu000/remem",
+  "source_url": "https://github.com/majiayu000/remem",
+  "install": "# git clone --depth 1 https://github.com/majiayu000/remem\n# See source for mcpServers config block"
+}

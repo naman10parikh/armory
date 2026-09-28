@@ -1,0 +1,7 @@
+{
+  "name": "voting-mcp",
+  "description": "Principled social-choice aggregation as MCP tools — with a benchmark that measures the accuracy lift over naive majority vote.",
+  "source_repo": "HrishiKabra/voting-mcp",
+  "source_url": "https://github.com/HrishiKabra/voting-mcp",
+  "install": "npx -y voting-mcp"
+}

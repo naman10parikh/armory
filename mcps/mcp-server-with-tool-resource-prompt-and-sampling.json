@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-with-tool-resource-prompt-and-sampling",
+  "description": "Enables LLMs to read and write local user data, generate fake users via sampling, and interact with structured prompts and resources.",
+  "source_repo": "Pkaran26/mcp-server-with-tool-resource-prompt-and-sampling",
+  "source_url": "https://github.com/Pkaran26/mcp-server-with-tool-resource-prompt-and-sampling",
+  "install": "# git clone --depth 1 https://github.com/Pkaran26/mcp-server-with-tool-resource-prompt-and-sampling\n# See source for mcpServers config block"
+}

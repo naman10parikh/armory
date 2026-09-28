@@ -1,0 +1,7 @@
+{
+  "name": "eagleeye-mcp",
+  "description": "A pixel-accurate visual toolbox MCP server for agents, enabling screen capture, pixel measurement, OCR, template matching, and visual regression with deterministic-first approaches.",
+  "source_repo": "baimaomaomao556/eagleeye-mcp",
+  "source_url": "https://github.com/baimaomaomao556/eagleeye-mcp",
+  "install": "npx -y eagleeye-mcp"
+}

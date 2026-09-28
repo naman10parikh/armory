@@ -1,0 +1,7 @@
+{
+  "name": "fossick-mcp",
+  "description": "Enables AI agents to prospect across GitHub, PyPI, and npm, searching repositories, packages, and code patterns with read-only tools.",
+  "source_repo": "Lipdog/fossick-mcp",
+  "source_url": "https://github.com/Lipdog/fossick-mcp",
+  "install": "npx -y fossick-mcp"
+}

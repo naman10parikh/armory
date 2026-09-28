@@ -1,0 +1,7 @@
+{
+  "name": "pqc-khepra-mcp",
+  "description": "A sovereign compliance engine with 36,195 STIG/CCI/NIST/CMMC mappings and 76 tools, enabling AI assistants to scan systems, generate risk reports, and ensure post-quantum cryptographic attestation—all air-gappable with zero token costs.",
+  "source_repo": "nouchix/PQC-Khepra-MCP",
+  "source_url": "https://github.com/nouchix/PQC-Khepra-MCP",
+  "install": "npx -y PQC-Khepra-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "clara-carros-mcp-server",
+  "description": "Enables AI assistants to search car inventory, estimate import taxes (ISV) and resale values, and request quotes from Clara Carros, a Portuguese used and imported cars marketplace.",
+  "source_repo": "claracarspt/mcp",
+  "source_url": "https://github.com/claracarspt/mcp",
+  "install": "# git clone --depth 1 https://github.com/claracarspt/mcp\n# See source for mcpServers config block"
+}

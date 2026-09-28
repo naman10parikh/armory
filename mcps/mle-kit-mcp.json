@@ -1,0 +1,7 @@
+{
+  "name": "mle-kit-mcp",
+  "description": "Provides ML engineering tools including local/remote bash, text editor, file search, remote GPU helpers via vast.ai, and an OpenRouter LLM proxy.",
+  "source_repo": "IlyaGusev/mle_kit_mcp",
+  "source_url": "https://github.com/IlyaGusev/mle_kit_mcp",
+  "install": "npx -y mle_kit_mcp"
+}

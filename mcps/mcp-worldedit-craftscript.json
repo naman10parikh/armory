@@ -1,0 +1,7 @@
+{
+  "name": "mcp-worldedit-craftscript",
+  "description": "MCP server enabling AI assistants to write and run WorldEdit CraftScripts on a Minecraft server as specific players, using live selections and undo history. Supports local stdio and remote HTTPS access with in-game code verification.",
+  "source_repo": "Lucas-Buckley/mcp-worldedit-craftscript",
+  "source_url": "https://github.com/Lucas-Buckley/mcp-worldedit-craftscript",
+  "install": "# git clone --depth 1 https://github.com/Lucas-Buckley/mcp-worldedit-craftscript\n# See source for mcpServers config block"
+}

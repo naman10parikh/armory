@@ -1,0 +1,7 @@
+{
+  "name": "multi-edit-mcp-server",
+  "description": "Enables atomic batch find-and-replace edits across single or multiple files, reducing tool calls and token usage for efficient code refactoring.",
+  "source_repo": "eaisdevelopment/mcp-multi-edit",
+  "source_url": "https://github.com/eaisdevelopment/mcp-multi-edit",
+  "install": "# git clone --depth 1 https://github.com/eaisdevelopment/mcp-multi-edit\n# See source for mcpServers config block"
+}

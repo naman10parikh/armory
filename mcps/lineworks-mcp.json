@@ -1,0 +1,7 @@
+{
+  "name": "lineworks-mcp",
+  "description": "MCP server for LINE WORKS that enables accessing user profiles, calendars, tasks, groups, and notes via OAuth 2.0.",
+  "source_repo": "tsukumonasu/lineworks-mcp",
+  "source_url": "https://github.com/tsukumonasu/lineworks-mcp",
+  "install": "npx -y lineworks-mcp"
+}

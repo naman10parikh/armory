@@ -1,0 +1,7 @@
+{
+  "name": "laravel-simple-rag",
+  "description": "Self-hosted knowledge manager and MCP server that lets you organize snippets, questions, and documents via a web UI and exposes them to AI assistants for reading and writing.",
+  "source_repo": "schrojf/laravel-simple-rag",
+  "source_url": "https://github.com/schrojf/laravel-simple-rag",
+  "install": "# git clone --depth 1 https://github.com/schrojf/laravel-simple-rag\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "realevents-mcp",
+  "description": "Enables creating and managing events on RealEvents, including listing public events, registering attendees, and updating event details, all from MCP-compatible AI assistants.",
+  "source_repo": "ykastelnik/realevents-mcp",
+  "source_url": "https://github.com/ykastelnik/realevents-mcp",
+  "install": "npx -y realevents-mcp"
+}

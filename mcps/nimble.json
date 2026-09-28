@@ -1,0 +1,7 @@
+{
+  "name": "nimble",
+  "description": "A token-efficient MCP server that reduces context window bloat by lazy loading tool descriptions and proxying calls through three simple tools, with a dashboard for managing connections.",
+  "source_repo": "mquan/nimble",
+  "source_url": "https://github.com/mquan/nimble",
+  "install": "# git clone --depth 1 https://github.com/mquan/nimble\n# See source for mcpServers config block"
+}

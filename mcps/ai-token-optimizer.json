@@ -1,0 +1,7 @@
+{
+  "name": "ai-token-optimizer",
+  "description": "An MCP server that cuts AI coding-agent token usage by 60–80% via framework-aware context optimization.",
+  "source_repo": "shivam-app-developers/ai-optimizer",
+  "source_url": "https://github.com/shivam-app-developers/ai-optimizer",
+  "install": "# git clone --depth 1 https://github.com/shivam-app-developers/ai-optimizer\n# See source for mcpServers config block"
+}

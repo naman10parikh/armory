@@ -1,0 +1,7 @@
+{
+  "name": "drawio-live",
+  "description": "Launches/connects to the visible draw.io desktop editor and edits its active graph model in real time, allowing AI agents to draw scientific figures step by step.",
+  "source_repo": "icebird1998/drawio-scientific-illustrator",
+  "source_url": "https://github.com/icebird1998/drawio-scientific-illustrator",
+  "install": "# git clone --depth 1 https://github.com/icebird1998/drawio-scientific-illustrator\n# See source for mcpServers config block"
+}

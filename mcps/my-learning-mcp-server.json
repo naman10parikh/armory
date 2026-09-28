@@ -1,0 +1,7 @@
+{
+  "name": "my-learning-mcp-server",
+  "description": "An educational MCP server demonstrating tools, resources, and prompts for learning the Model Context Protocol.",
+  "source_repo": "sushobhitrajan/my-mcp-server",
+  "source_url": "https://github.com/sushobhitrajan/my-mcp-server",
+  "install": "npx -y my-mcp-server"
+}

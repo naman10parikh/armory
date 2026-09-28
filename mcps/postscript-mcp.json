@@ -1,0 +1,7 @@
+{
+  "name": "postscript-mcp",
+  "description": "MCP server for Postscript SMS marketing platform, enabling AI agents to query subscribers, look up opt-in keyword IDs, add new subscribers with consent, list campaigns, and check audience segment sizes.",
+  "source_repo": "NoBanks/postscript-mcp",
+  "source_url": "https://github.com/NoBanks/postscript-mcp",
+  "install": "npx -y postscript-mcp"
+}

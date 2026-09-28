@@ -1,0 +1,7 @@
+{
+  "name": "mcp-anvil-lite",
+  "description": "A minimal starting point for a Model Context Protocol server with stdio transport and one tool, enabling quick setup and custom tool addition.",
+  "source_repo": "MichaelCPHP/mcp-anvil-lite",
+  "source_url": "https://github.com/MichaelCPHP/mcp-anvil-lite",
+  "install": "# git clone --depth 1 https://github.com/MichaelCPHP/mcp-anvil-lite\n# See source for mcpServers config block"
+}

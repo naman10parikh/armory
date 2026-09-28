@@ -1,0 +1,7 @@
+{
+  "name": "gmc-mcp",
+  "description": "MCP server for Google Merchant Center, providing 126 tools to manage Google Shopping feed, products, inventory, reports, promotions, returns, and account configuration via natural language.",
+  "source_repo": "kiwoongeom/gmc-mcp",
+  "source_url": "https://github.com/kiwoongeom/gmc-mcp",
+  "install": "npx -y gmc-mcp"
+}

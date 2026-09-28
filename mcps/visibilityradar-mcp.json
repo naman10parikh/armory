@@ -1,0 +1,7 @@
+{
+  "name": "visibilityradar-mcp",
+  "description": "Enables AI visibility analysis for brands, providing scores, sentiment, competitor comparison, and recommendations across multiple AI models like Claude and GPT-4o.",
+  "source_repo": "sarefe12-sudo/visibilityradar-mcp",
+  "source_url": "https://github.com/sarefe12-sudo/visibilityradar-mcp",
+  "install": "npx -y visibilityradar-mcp"
+}

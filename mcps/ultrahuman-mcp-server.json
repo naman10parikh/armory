@@ -1,0 +1,7 @@
+{
+  "name": "ultrahuman-mcp-server",
+  "description": "Provides access to Ultrahuman health and fitness data through standardized MCP tools, enabling AI assistants to retrieve metrics like sleep, movement, heart rate, and glucose.",
+  "source_repo": "Vodolazkyi/Ultrahuman-MCP-Server",
+  "source_url": "https://github.com/Vodolazkyi/Ultrahuman-MCP-Server",
+  "install": "npx -y Ultrahuman-MCP-Server"
+}

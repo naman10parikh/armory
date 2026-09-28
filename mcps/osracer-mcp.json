@@ -1,0 +1,7 @@
+{
+  "name": "osracer-mcp",
+  "description": "MCP server for safe OSRacer vehicle control, exposing ROS 2 and MCU serial surfaces through gated tools with preflight, arming, and emergency stop.",
+  "source_repo": "osrbot/osracer_mcp",
+  "source_url": "https://github.com/osrbot/osracer_mcp",
+  "install": "npx -y osracer_mcp"
+}

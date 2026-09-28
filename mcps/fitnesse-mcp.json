@@ -1,0 +1,7 @@
+{
+  "name": "fitnesse-mcp",
+  "description": "An MCP server that exposes FitNesse's REST responders as tools, enabling reading wiki pages, running tests and suites, managing the files section, and inspecting test history on a FitNesse instance.",
+  "source_repo": "netcare-io/fitnesse-mcp",
+  "source_url": "https://github.com/netcare-io/fitnesse-mcp",
+  "install": "npx -y fitnesse-mcp"
+}

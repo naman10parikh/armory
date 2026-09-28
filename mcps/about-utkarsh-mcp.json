@@ -1,0 +1,7 @@
+{
+  "name": "about-utkarsh-mcp",
+  "description": "An MCP server that provides information about Utkarsh, including bio, skills, work experience, and portfolio projects, accessible via local stdio or remote HTTP with OAuth.",
+  "source_repo": "utkarsh21123/about-utkarsh-mcp",
+  "source_url": "https://github.com/utkarsh21123/about-utkarsh-mcp",
+  "install": "npx -y about-utkarsh-mcp"
+}

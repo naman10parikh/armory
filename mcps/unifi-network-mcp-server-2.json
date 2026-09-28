@@ -1,0 +1,7 @@
+{
+  "name": "unifi-network-mcp-server-2",
+  "description": "Exposes the UniFi Network Integration API as MCP tools, dynamically loaded from JSON manifests, with read-only mode by default.",
+  "source_repo": "dontcrash/unifi-local-network-mcp",
+  "source_url": "https://github.com/dontcrash/unifi-local-network-mcp",
+  "install": "npx -y unifi-local-network-mcp"
+}

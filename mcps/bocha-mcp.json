@@ -1,0 +1,7 @@
+{
+  "name": "bocha-mcp",
+  "description": "MCP server for Bocha Search API, enabling web search and AI-powered search with customizable parameters like result count, freshness, and summaries.",
+  "source_repo": "Johnhong9527/bocha-mcp",
+  "source_url": "https://github.com/Johnhong9527/bocha-mcp",
+  "install": "npx -y bocha-mcp"
+}

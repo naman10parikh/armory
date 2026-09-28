@@ -1,0 +1,7 @@
+{
+  "name": "wordpress-mcp-python",
+  "description": "A lightweight MCP server that connects to WordPress via REST API, enabling content management (posts, pages, categories, etc.) and site configuration through natural language commands.",
+  "source_repo": "tan-interspace/wordpress-mcp-python",
+  "source_url": "https://github.com/tan-interspace/wordpress-mcp-python",
+  "install": "# git clone --depth 1 https://github.com/tan-interspace/wordpress-mcp-python\n# See source for mcpServers config block"
+}

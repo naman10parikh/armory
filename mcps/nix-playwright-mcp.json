@@ -1,0 +1,7 @@
+{
+  "name": "nix-playwright-mcp",
+  "description": "A Nix-wrapped version of the Playwright MCP server with Chromium from Nixpkgs, enabling browser automation on NixOS.",
+  "source_repo": "akirak/nix-playwright-mcp",
+  "source_url": "https://github.com/akirak/nix-playwright-mcp",
+  "install": "npx -y nix-playwright-mcp"
+}

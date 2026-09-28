@@ -1,0 +1,7 @@
+{
+  "name": "serenedash",
+  "description": "Exposes SereneDB server state as read-only MCP tools (status, storage, memory, activity, threads, profile, callgraph, host, config, and optional set_setting) so agents can query live database health and metrics with evidence-backed findings instead of viewing screenshots.",
+  "source_repo": "deadtrickster/serenedash",
+  "source_url": "https://github.com/deadtrickster/serenedash",
+  "install": "# git clone --depth 1 https://github.com/deadtrickster/serenedash\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "titmas-agent-action-gate",
+  "description": "An MCP server that enforces deterministic authorization boundaries for AgentTeams workflows by verifying evidence and policy, returning ALLOW, BLOCK, or REQUIRE_APPROVAL decisions before actions are executed.",
+  "source_repo": "joy7758/titmas-agent-action-gate",
+  "source_url": "https://github.com/joy7758/titmas-agent-action-gate",
+  "install": "# git clone --depth 1 https://github.com/joy7758/titmas-agent-action-gate\n# See source for mcpServers config block"
+}

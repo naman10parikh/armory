@@ -1,0 +1,7 @@
+{
+  "name": "arkon",
+  "description": "Self-hosted enterprise knowledge hub that compiles organizational docs into a structured wiki and serves it to AI clients via MCP with fine-grained access control.",
+  "source_repo": "nduckmink/arkon",
+  "source_url": "https://github.com/nduckmink/arkon",
+  "install": "# git clone --depth 1 https://github.com/nduckmink/arkon\n# See source for mcpServers config block"
+}

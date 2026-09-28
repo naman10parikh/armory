@@ -1,0 +1,7 @@
+{
+  "name": "mysql-query",
+  "description": "A read-only MySQL query service that allows SELECT operations, listing tables, and viewing schemas via MCP protocol.",
+  "source_repo": "duxiaoben/mcp-mysql",
+  "source_url": "https://github.com/duxiaoben/mcp-mysql",
+  "install": "# git clone --depth 1 https://github.com/duxiaoben/mcp-mysql\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cml-mcp",
+  "description": "Enables AI assistants to interact with Cisco Modeling Labs (CML) using natural language, allowing creation, management, and automation of network labs.",
+  "source_repo": "xorrkaz/cml-mcp",
+  "source_url": "https://github.com/xorrkaz/cml-mcp",
+  "install": "npx -y cml-mcp"
+}

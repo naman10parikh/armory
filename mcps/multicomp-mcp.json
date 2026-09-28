@@ -1,0 +1,7 @@
+{
+  "name": "multicomp-mcp",
+  "description": "Enables control of the Multicomp Pro MP711134 bench power supply and multimeter over USB serial, allowing an LLM agent to power-cycle boards, measure current profiles during boot, run custom voltage/current profiles, and wait for conditions without polling.",
+  "source_repo": "cameroncoats/multicomp-mcp",
+  "source_url": "https://github.com/cameroncoats/multicomp-mcp",
+  "install": "npx -y multicomp-mcp"
+}

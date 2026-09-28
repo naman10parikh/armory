@@ -1,0 +1,7 @@
+{
+  "name": "tallyfy",
+  "description": "Run your Tallyfy workflows from any AI assistant in plain English. 107 tools across processes, tasks, templates, form fields, automation rules, users, and search, each scoped to the signed-in user's Tallyfy permissions.",
+  "source_repo": "tallyfy/mcp-public",
+  "source_url": "https://github.com/tallyfy/mcp-public",
+  "install": "# git clone --depth 1 https://github.com/tallyfy/mcp-public\n# See source for mcpServers config block"
+}

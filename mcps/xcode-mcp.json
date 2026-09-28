@@ -1,0 +1,7 @@
+{
+  "name": "xcode-mcp",
+  "description": "Bridges AI assistants with Xcode to control projects, builds, simulators, testing, and debugging without manual interaction.",
+  "source_repo": "Raunaksplanet/xcode-mcp-server",
+  "source_url": "https://github.com/Raunaksplanet/xcode-mcp-server",
+  "install": "npx -y xcode-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "schemdraw-mcp-server",
+  "description": "Enables AI assistants like Claude to create and edit electronic circuit diagrams using the schemdraw library through the Model Context Protocol.",
+  "source_repo": "fukayatti/schemdraw-mcp-server",
+  "source_url": "https://github.com/fukayatti/schemdraw-mcp-server",
+  "install": "npx -y schemdraw-mcp-server"
+}

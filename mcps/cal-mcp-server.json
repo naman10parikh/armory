@@ -1,0 +1,7 @@
+{
+  "name": "cal-mcp-server",
+  "description": "Enables AI assistants to answer mortgage-related queries by providing tools for lender search, loan limit lookup, down-payment assistance programs, and more, with data sourced from real wholesale lenders and broker-curated intel.",
+  "source_repo": "homeloanexpress/cal-mcp-server",
+  "source_url": "https://github.com/homeloanexpress/cal-mcp-server",
+  "install": "npx -y cal-mcp-server"
+}

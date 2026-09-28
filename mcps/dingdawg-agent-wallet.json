@@ -1,0 +1,7 @@
+{
+  "name": "dingdawg-agent-wallet",
+  "description": "Provides MCP tools to enforce spend policies (allow, deny, step-up, allowlist) on agent wallets with an immutable audit trail.",
+  "source_repo": "dingdawg/agent-wallet-demo",
+  "source_url": "https://github.com/dingdawg/agent-wallet-demo",
+  "install": "# git clone --depth 1 https://github.com/dingdawg/agent-wallet-demo\n# See source for mcpServers config block"
+}

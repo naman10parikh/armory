@@ -1,0 +1,7 @@
+{
+  "name": "fastmcp-orders-server",
+  "description": "Enables querying customer orders from a PostgreSQL database by customer ID or email, with optional minimum amount filtering.",
+  "source_repo": "masalinas/poc-ai-mcp-claude-code",
+  "source_url": "https://github.com/masalinas/poc-ai-mcp-claude-code",
+  "install": "# git clone --depth 1 https://github.com/masalinas/poc-ai-mcp-claude-code\n# See source for mcpServers config block"
+}

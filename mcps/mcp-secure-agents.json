@@ -1,0 +1,7 @@
+{
+  "name": "mcp-secure-agents",
+  "description": "Secure MCP server that enforces allowlist-based policies, read-only access, input validation, and human-in-the-loop for sensitive actions, enabling safe vulnerability analysis.",
+  "source_repo": "TopskiyPavelQwertyGang/mcp-secure-agents",
+  "source_url": "https://github.com/TopskiyPavelQwertyGang/mcp-secure-agents",
+  "install": "# git clone --depth 1 https://github.com/TopskiyPavelQwertyGang/mcp-secure-agents\n# See source for mcpServers config block"
+}

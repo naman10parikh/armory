@@ -1,0 +1,7 @@
+{
+  "name": "buzz-mcp-bridge",
+  "description": "Bridges Claude Desktop/Code MCP servers into Buzz agents with a per-agent allowlist, exposing allowed tools as a namespaced stdio MCP server.",
+  "source_repo": "hachiflow/buzz-mcp-bridge",
+  "source_url": "https://github.com/hachiflow/buzz-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/hachiflow/buzz-mcp-bridge\n# See source for mcpServers config block"
+}

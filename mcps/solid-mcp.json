@@ -1,0 +1,7 @@
+{
+  "name": "solid-mcp",
+  "description": "MCP server for the Solid protocol enabling AI models to read, write, search, and manage resources in Solid pods.",
+  "source_repo": "jeswr/solid-mcp",
+  "source_url": "https://github.com/jeswr/solid-mcp",
+  "install": "npx -y solid-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "qx-mcp",
+  "description": "Provides AI assistants with 70+ enterprise data APIs from Qixinbao, enabling natural language queries for business registration, shareholder structures, risk scores, and more.",
+  "source_repo": "xiaozhozho/qxb-mcp",
+  "source_url": "https://github.com/xiaozhozho/qxb-mcp",
+  "install": "npx -y qxb-mcp"
+}

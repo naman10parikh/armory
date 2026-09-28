@@ -1,0 +1,7 @@
+{
+  "name": "soapnoteapi-mcp",
+  "description": "Enables AI agents to turn clinical transcripts or audio recordings into structured SOAP notes, ICD-10/CPT billing codes, patient summaries, and visit summaries via SOAPNoteAPI.",
+  "source_repo": "soapnoteaicom/soapnoteapi-mcp",
+  "source_url": "https://github.com/soapnoteaicom/soapnoteapi-mcp",
+  "install": "npx -y soapnoteapi-mcp"
+}

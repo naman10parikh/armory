@@ -1,0 +1,7 @@
+{
+  "name": "kairos-mcp",
+  "description": "Enables AI agents to store and execute reusable protocol chains with persistent memory and deterministic execution.",
+  "source_repo": "debian777/kairos-mcp",
+  "source_url": "https://github.com/debian777/kairos-mcp",
+  "install": "npx -y kairos-mcp"
+}

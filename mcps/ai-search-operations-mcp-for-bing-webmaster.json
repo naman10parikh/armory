@@ -1,0 +1,7 @@
+{
+  "name": "ai-search-operations-mcp-for-bing-webmaster",
+  "description": "Combines Bing Webmaster data, GA4 AI-traffic opportunity matching, technical SEO scanning, AI-search content audits, approval-gated WordPress fix preparation, live verification, Bing URL submission, and IndexNow integration to help marketers improve pages for human readers and AI search.",
+  "source_repo": "TechDivar/bing-webmaster-aeo-mcp",
+  "source_url": "https://github.com/TechDivar/bing-webmaster-aeo-mcp",
+  "install": "npx -y bing-webmaster-aeo-mcp"
+}

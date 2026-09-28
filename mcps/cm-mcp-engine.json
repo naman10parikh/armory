@@ -1,0 +1,7 @@
+{
+  "name": "cm-mcp-engine",
+  "description": "Turns approved contracts into runnable code, sandboxes it, caches it, and serves the result as MCP tools. It executes tool names and arguments without making decisions.",
+  "source_repo": "jamalla/cm_mcp_engine",
+  "source_url": "https://github.com/jamalla/cm_mcp_engine",
+  "install": "# git clone --depth 1 https://github.com/jamalla/cm_mcp_engine\n# See source for mcpServers config block"
+}

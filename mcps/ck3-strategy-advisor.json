@@ -1,0 +1,7 @@
+{
+  "name": "ck3-strategy-advisor",
+  "description": "Enables Claude to read Crusader Kings III save files and retrieve strategic game information such as realm overview, military, succession, diplomacy, vassals, factions, and expansion options.",
+  "source_repo": "thomandretti/ck3-strategy-advisor",
+  "source_url": "https://github.com/thomandretti/ck3-strategy-advisor",
+  "install": "# git clone --depth 1 https://github.com/thomandretti/ck3-strategy-advisor\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nit-mcp-server",
+  "description": "Exposes nit's code review agent as tools for Claude, enabling local path and GitHub PR/commit/URL review over Streamable HTTP.",
+  "source_repo": "ChauAry21/nit-mcp-server",
+  "source_url": "https://github.com/ChauAry21/nit-mcp-server",
+  "install": "npx -y nit-mcp-server"
+}

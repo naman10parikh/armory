@@ -1,0 +1,7 @@
+{
+  "name": "nzxplorer-mcp-server",
+  "description": "An MCP server that gives AI assistants direct access to New Zealand stock market data via the NZXplorer API, enabling natural language queries for 130 NZX-listed companies, directors, stock prices, governance scores, insider trades, announcements, and more.",
+  "source_repo": "mambaventures/nzxplorer-mcp-server",
+  "source_url": "https://github.com/mambaventures/nzxplorer-mcp-server",
+  "install": "npx -y nzxplorer-mcp-server"
+}

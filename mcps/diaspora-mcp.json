@@ -1,0 +1,7 @@
+{
+  "name": "diaspora-mcp",
+  "description": "Provides tools for Kenyans abroad to navigate dual citizenship, diaspora taxes, homeland investment, document verification, and community resources via MCP.",
+  "source_repo": "gabrielmahia/diaspora-mcp",
+  "source_url": "https://github.com/gabrielmahia/diaspora-mcp",
+  "install": "npx -y diaspora-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "code-mode-mcp",
+  "description": "Compose arbitrary MCP tools with JavaScript through one agent-agnostic stdio MCP server. It exposes an exec tool that enables dynamic tool discovery, schema inspection, and invocation with JavaScript code.",
+  "source_repo": "tmustier/code-mode-mcp",
+  "source_url": "https://github.com/tmustier/code-mode-mcp",
+  "install": "npx -y code-mode-mcp"
+}

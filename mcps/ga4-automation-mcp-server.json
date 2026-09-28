@@ -1,0 +1,7 @@
+{
+  "name": "ga4-automation-mcp-server",
+  "description": "This project is a Google Analytics 4 (GA4) automation server implemented as a Model Context Protocol (MCP) tool. It lets AI agents query GA4 data (reports, traffic sources, demographics, etc.) and also includes a simple connection test script.",
+  "source_repo": "mattwilkerson1121/ga-ai-mcp-server",
+  "source_url": "https://github.com/mattwilkerson1121/ga-ai-mcp-server",
+  "install": "npx -y ga-ai-mcp-server"
+}

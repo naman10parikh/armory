@@ -1,0 +1,7 @@
+{
+  "name": "nrs-llm",
+  "description": "An MCP server for ROS 2 environments that connects via rosbridge WebSocket, enabling topic/service introspection, publish/subscribe, service calls, robot connectivity checks, and polishing pipeline operations.",
+  "source_repo": "eunseopsong/nrs_llm",
+  "source_url": "https://github.com/eunseopsong/nrs_llm",
+  "install": "# git clone --depth 1 https://github.com/eunseopsong/nrs_llm\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vision-relay-mcp",
+  "description": "A tiny MCP server that lets text-only coding models analyze images via vision relay APIs, supporting single image analysis and side-by-side comparison.",
+  "source_repo": "zhoucoolboy/vision-relay-mcp",
+  "source_url": "https://github.com/zhoucoolboy/vision-relay-mcp",
+  "install": "npx -y vision-relay-mcp"
+}

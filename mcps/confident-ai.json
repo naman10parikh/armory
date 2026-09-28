@@ -1,0 +1,7 @@
+{
+  "name": "confident-ai",
+  "description": "Connects AI-powered tools to the Confident AI platform for evaluating, observing, and iterating on AI quality, enabling cloud evaluations, dataset management, prompt versioning, production tracing, and human annotations directly from editors like Cursor and Claude Code.",
+  "source_repo": "confident-ai/confident-mcp-server",
+  "source_url": "https://github.com/confident-ai/confident-mcp-server",
+  "install": "npx -y confident-mcp-server"
+}

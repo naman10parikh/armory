@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-greece-payments-mcp",
+  "description": "Enables AI agents to accept payments in Greece via Stripe hosted checkout, supporting cards and digital wallets.",
+  "source_repo": "junter1989k-ai/greece-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/greece-payments-mcp",
+  "install": "npx -y greece-payments-mcp"
+}

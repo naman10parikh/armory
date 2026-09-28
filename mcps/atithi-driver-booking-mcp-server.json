@@ -1,0 +1,7 @@
+{
+  "name": "atithi-driver-booking-mcp-server",
+  "description": "Enables AI agents to manage cab bookings, estimate fares, and dispatch drivers with a 2-tier priority algorithm for hotel guests, providing 18 MCP tools for driver management, dispatch, and ride lifecycle.",
+  "source_repo": "SATISHUD/atithi-driver-booking-mcp",
+  "source_url": "https://github.com/SATISHUD/atithi-driver-booking-mcp",
+  "install": "npx -y atithi-driver-booking-mcp"
+}

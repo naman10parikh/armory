@@ -1,0 +1,7 @@
+{
+  "name": "framedash-game-telemetry-mcp-server",
+  "description": "MCP server for Framedash game telemetry -- query game analytics, heatmaps, perf regressions, retention, and alerts from Claude and other AI agents. Works with Unity, Unreal Engine 5, and Godot projects.",
+  "source_repo": "crane-valley/framedash-mcp-server",
+  "source_url": "https://github.com/crane-valley/framedash-mcp-server",
+  "install": "npx -y framedash-mcp-server"
+}

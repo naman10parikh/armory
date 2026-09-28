@@ -1,0 +1,7 @@
+{
+  "name": "onshape-mcp",
+  "description": "Enables Claude Code to drive OnShape CAD through the REST API for parametric modeling, FeatureScript queries, and STL export/verification.",
+  "source_repo": "kyle-nelson-berkeley/onshape-mcp",
+  "source_url": "https://github.com/kyle-nelson-berkeley/onshape-mcp",
+  "install": "npx -y onshape-mcp"
+}

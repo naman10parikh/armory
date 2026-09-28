@@ -1,0 +1,7 @@
+{
+  "name": "models-mcp",
+  "description": "Enables searching, comparing, and inspecting AI models by pricing, context window, and capabilities via the models.dev catalog.",
+  "source_repo": "QAInsights/models-mcp",
+  "source_url": "https://github.com/QAInsights/models-mcp",
+  "install": "npx -y models-mcp"
+}

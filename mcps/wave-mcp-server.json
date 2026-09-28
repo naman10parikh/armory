@@ -1,0 +1,7 @@
+{
+  "name": "wave-mcp-server",
+  "description": "Enables Wave invoicing operations including listing invoices, retrieving details, and generating branded PDFs directly from AI assistants.",
+  "source_repo": "LightningBerk/wave-mcp",
+  "source_url": "https://github.com/LightningBerk/wave-mcp",
+  "install": "npx -y wave-mcp"
+}

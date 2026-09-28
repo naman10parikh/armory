@@ -1,0 +1,7 @@
+{
+  "name": "mcp-quadrant",
+  "description": "Enables document storage and semantic search with geospatial filtering using Qdrant, and coordinate conversion between TLC, Plasma, and addresses.",
+  "source_repo": "sakshi-rumsan/mcp_address",
+  "source_url": "https://github.com/sakshi-rumsan/mcp_address",
+  "install": "# git clone --depth 1 https://github.com/sakshi-rumsan/mcp_address\n# See source for mcpServers config block"
+}

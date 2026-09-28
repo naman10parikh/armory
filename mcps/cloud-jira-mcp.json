@@ -1,0 +1,7 @@
+{
+  "name": "cloud-jira-mcp",
+  "description": "Enables management of multiple Jira Cloud instances through MCP, including workspace linking, issue creation and editing, workflow transitions, attachment retrieval, and administration via a web interface.",
+  "source_repo": "leonardoaa/cloud-mcp",
+  "source_url": "https://github.com/leonardoaa/cloud-mcp",
+  "install": "npx -y cloud-mcp"
+}

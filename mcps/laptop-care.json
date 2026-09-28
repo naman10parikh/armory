@@ -1,0 +1,7 @@
+{
+  "name": "laptop-care",
+  "description": "A laptop maintenance agent for Claude Desktop that inspects your machine, explains findings, recommends actions, and remembers history, with safety gates enforced by the server.",
+  "source_repo": "malpanishubham2/laptop-care",
+  "source_url": "https://github.com/malpanishubham2/laptop-care",
+  "install": "# git clone --depth 1 https://github.com/malpanishubham2/laptop-care\n# See source for mcpServers config block"
+}

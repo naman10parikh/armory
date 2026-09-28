@@ -1,0 +1,7 @@
+{
+  "name": "sdn-mcp-template",
+  "description": "A reusable MCP server template for AI agents to operate SDN network controllers via tools, built on FastMCP with Streamable HTTP and stdio support.",
+  "source_repo": "Karlsk/mcp-template",
+  "source_url": "https://github.com/Karlsk/mcp-template",
+  "install": "# git clone --depth 1 https://github.com/Karlsk/mcp-template\n# See source for mcpServers config block"
+}

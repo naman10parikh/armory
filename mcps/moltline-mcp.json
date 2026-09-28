@@ -1,0 +1,7 @@
+{
+  "name": "moltline-mcp",
+  "description": "Zero-dependency stdio bridge to Moltline Studio's fleet of 14 hosted MCP servers covering code review, time operations, data transforms, business ops, education, research, outreach and more. Free tier requires no registration; premium tools unlock with a license. Independently audited, MCPize Verifi",
+  "source_repo": "GarphenGate/moltline-mcp",
+  "source_url": "https://github.com/GarphenGate/moltline-mcp",
+  "install": "npx -y moltline-mcp"
+}

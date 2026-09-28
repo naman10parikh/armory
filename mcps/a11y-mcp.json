@@ -1,0 +1,7 @@
+{
+  "name": "a11y-mcp",
+  "description": "Enables web accessibility audits using axe-core, allowing users to scan URLs, check WCAG compliance levels, and export reports. It uses an anti-detect browser to bypass Cloudflare and other bot protection.",
+  "source_repo": "antonio-rmrz/a11y-mcp",
+  "source_url": "https://github.com/antonio-rmrz/a11y-mcp",
+  "install": "npx -y a11y-mcp"
+}

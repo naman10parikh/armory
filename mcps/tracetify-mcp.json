@@ -1,0 +1,7 @@
+{
+  "name": "tracetify-mcp",
+  "description": "MCP server for Tracetify — trace how any product actually grew, without leaving Claude Code or Cursor.",
+  "source_repo": "tracetify/tracetify-mcp",
+  "source_url": "https://github.com/tracetify/tracetify-mcp",
+  "install": "npx -y tracetify-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "croatian-competition-mcp",
+  "description": "Enables querying Croatian competition data including regulations, decisions, and requirements from the Croatian Competition Agency (AZTN) directly from MCP-compatible clients.",
+  "source_repo": "Ansvar-Systems/croatian-competition-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/croatian-competition-mcp",
+  "install": "npx -y croatian-competition-mcp"
+}

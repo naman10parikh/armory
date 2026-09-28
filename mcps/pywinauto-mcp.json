@@ -1,0 +1,7 @@
+{
+  "name": "pywinauto-mcp",
+  "description": "A Windows computer use agent — FastMCP server that gives AI assistants hands on the real desktop: windows, UI elements, mouse, keyboard, screenshots, OCR, shortcuts, dialogs, and outcome verification.",
+  "source_repo": "sandraschi/pywinauto-mcp",
+  "source_url": "https://github.com/sandraschi/pywinauto-mcp",
+  "install": "npx -y pywinauto-mcp"
+}

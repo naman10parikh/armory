@@ -1,0 +1,7 @@
+{
+  "name": "mospi-mcp-server",
+  "description": "MCP server for accessing India's Ministry of Statistics and Programme Implementation (MoSPI) data APIs. Enables natural language queries for economic, demographic, and social indicators via a 4-tool workflow.",
+  "source_repo": "mayankthekumawat/mospi-mcp-api",
+  "source_url": "https://github.com/mayankthekumawat/mospi-mcp-api",
+  "install": "# git clone --depth 1 https://github.com/mayankthekumawat/mospi-mcp-api\n# See source for mcpServers config block"
+}

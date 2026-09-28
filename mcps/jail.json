@@ -1,0 +1,7 @@
+{
+  "name": "jail",
+  "description": "Search across a billion+ documents including academic papers, books, code, legal cases, forums, and Wikipedia. Provides search and detail tools for various content types.",
+  "source_repo": "mefengl/jail-mcp",
+  "source_url": "https://github.com/mefengl/jail-mcp",
+  "install": "npx -y jail-mcp"
+}

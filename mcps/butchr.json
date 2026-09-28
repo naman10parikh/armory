@@ -1,0 +1,7 @@
+{
+  "name": "butchr",
+  "description": "Enables orchestrating Jira-driven software workflows by watching tickets, running herdr agents on active issues, and pushing updates to those agents over MCP.",
+  "source_repo": "brooswit/butchr",
+  "source_url": "https://github.com/brooswit/butchr",
+  "install": "# git clone --depth 1 https://github.com/brooswit/butchr\n# See source for mcpServers config block"
+}

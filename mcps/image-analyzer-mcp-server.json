@@ -1,0 +1,7 @@
+{
+  "name": "image-analyzer-mcp-server",
+  "description": "Provides local image analysis tools using Pillow for dimensions, colors, metadata, and format conversion without external APIs.",
+  "source_repo": "Rumblingb/image-analyzer-mcp",
+  "source_url": "https://github.com/Rumblingb/image-analyzer-mcp",
+  "install": "npx -y image-analyzer-mcp"
+}

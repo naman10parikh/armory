@@ -1,0 +1,7 @@
+{
+  "name": "naver-mail-organizer-mcp",
+  "description": "Provides local-only MCP tools for reviewing and organizing a Naver Mail account via IMAP, with safety-first handling of credentials and mail moves requiring approved plans.",
+  "source_repo": "UncleSamsun/naver-mail-organizer-mcp",
+  "source_url": "https://github.com/UncleSamsun/naver-mail-organizer-mcp",
+  "install": "npx -y naver-mail-organizer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "korea-stock-insight-mcp",
+  "description": "Enables LLM agents to access Korean stock market data including DART disclosures, financial statements, and KOSPI/KOSDAQ prices, with an English-first interface designed for non-Korean speaking analysts.",
+  "source_repo": "yjhann33-design/korea-stock-insight-mcp",
+  "source_url": "https://github.com/yjhann33-design/korea-stock-insight-mcp",
+  "install": "npx -y korea-stock-insight-mcp"
+}

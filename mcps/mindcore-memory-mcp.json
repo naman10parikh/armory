@@ -1,0 +1,7 @@
+{
+  "name": "mindcore-memory-mcp",
+  "description": "A production-grade long-term memory MCP server that enables AI agents to persist and recall memories across sessions with importance weighting, confidence calibration, and efficient context window management.",
+  "source_repo": "woshilaohei/mindcore-memory-mcp",
+  "source_url": "https://github.com/woshilaohei/mindcore-memory-mcp",
+  "install": "npx -y mindcore-memory-mcp"
+}

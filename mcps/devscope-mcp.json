@@ -1,0 +1,7 @@
+{
+  "name": "devscope-mcp",
+  "description": "Provides project context for AI agents in VS Code by analyzing technologies, structure, AGENTS.md rules, current branch, and source code without allowing arbitrary commands.",
+  "source_repo": "cleberfarias/devscope-mcp",
+  "source_url": "https://github.com/cleberfarias/devscope-mcp",
+  "install": "npx -y devscope-mcp"
+}

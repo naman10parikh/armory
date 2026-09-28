@@ -1,0 +1,7 @@
+{
+  "name": "singapore-payments-mcp",
+  "description": "Enables AI agents to accept payments in Singapore via PayNow QR, cards, and other methods through HitPay's hosted checkout. Supports creating payment links and querying payment status.",
+  "source_repo": "junter1989k-ai/singapore-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/singapore-payments-mcp",
+  "install": "npx -y singapore-payments-mcp"
+}

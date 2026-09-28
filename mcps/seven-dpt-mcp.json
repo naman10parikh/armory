@@ -1,0 +1,7 @@
+{
+  "name": "seven-dpt-mcp",
+  "description": "Feynman's twelve-problems method as an MCP server — a persistent set of long-running problems plus an evoke loop that tests each new trick against all of them. Local, TypeScript, no LLM inside, no API key.",
+  "source_repo": "pierreb4/seven-dpt-mcp",
+  "source_url": "https://github.com/pierreb4/seven-dpt-mcp",
+  "install": "npx -y seven-dpt-mcp"
+}

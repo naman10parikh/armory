@@ -1,0 +1,7 @@
+{
+  "name": "minicpm-vision-mcp",
+  "description": "为DeepSeek、Claude Desktop等AI助手提供本地视觉能力，支持图片描述和视频帧分析，数据不出机。",
+  "source_repo": "wjh1547485653-max/minicpm-vision-mcp",
+  "source_url": "https://github.com/wjh1547485653-max/minicpm-vision-mcp",
+  "install": "npx -y minicpm-vision-mcp"
+}

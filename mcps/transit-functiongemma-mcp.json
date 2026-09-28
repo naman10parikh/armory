@@ -1,0 +1,7 @@
+{
+  "name": "transit-functiongemma-mcp",
+  "description": "Generates transit route information by routing user queries to MCP tools using a fine-tuned FunctionGemma model, relying on a fixed API for actual transit data and avoiding natural language generation beyond tool calls.",
+  "source_repo": "sasanokusa/transit_functiongemma_mcp",
+  "source_url": "https://github.com/sasanokusa/transit_functiongemma_mcp",
+  "install": "npx -y transit_functiongemma_mcp"
+}

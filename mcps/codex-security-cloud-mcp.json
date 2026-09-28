@@ -1,0 +1,7 @@
+{
+  "name": "codex-security-cloud-mcp",
+  "description": "MCP server for the Codex Security Cloud service, enabling agents to list, inspect, close, reopen findings, request PRs, and apply generated patches.",
+  "source_repo": "obinnanwachukwu1/codex-security-cloud-mcp",
+  "source_url": "https://github.com/obinnanwachukwu1/codex-security-cloud-mcp",
+  "install": "npx -y codex-security-cloud-mcp"
+}

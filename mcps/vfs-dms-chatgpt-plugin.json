@@ -1,0 +1,7 @@
+{
+  "name": "vfs-dms-chatgpt-plugin",
+  "description": "Enables read-only file-management operations from AI assistants, including health checks, connection and folder listings, search, share-link resolution, metadata retrieval, and on-demand document reading.",
+  "source_repo": "mergi72/vfs-dms-chatgpt-plugin",
+  "source_url": "https://github.com/mergi72/vfs-dms-chatgpt-plugin",
+  "install": "# git clone --depth 1 https://github.com/mergi72/vfs-dms-chatgpt-plugin\n# See source for mcpServers config block"
+}

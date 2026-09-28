@@ -1,0 +1,7 @@
+{
+  "name": "trip-decider",
+  "description": "This MCP server enables users to plan trips with precise transport details, verifying train schedules and local routes against real sources, and explicitly flags unverified or conflicting information instead of guessing.",
+  "source_repo": "Hugin-Z/trip-decider",
+  "source_url": "https://github.com/Hugin-Z/trip-decider",
+  "install": "# git clone --depth 1 https://github.com/Hugin-Z/trip-decider\n# See source for mcpServers config block"
+}

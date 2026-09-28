@@ -1,0 +1,7 @@
+{
+  "name": "ctxbleach",
+  "description": "Local CLI and MCP server that redacts secrets from logs, files, and diffs before sending them to AI agents, with stable placeholders and token-budgeted truncation.",
+  "source_repo": "yulinlina/ctxbleach",
+  "source_url": "https://github.com/yulinlina/ctxbleach",
+  "install": "# git clone --depth 1 https://github.com/yulinlina/ctxbleach\n# See source for mcpServers config block"
+}

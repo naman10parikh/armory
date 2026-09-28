@@ -1,0 +1,7 @@
+{
+  "name": "mcp-truth-check",
+  "description": "truth is a deterministic fact-checker for the claims an AI coding agent makes about its own work.",
+  "source_repo": "blasrodri/truth",
+  "source_url": "https://github.com/blasrodri/truth",
+  "install": "# git clone --depth 1 https://github.com/blasrodri/truth\n# See source for mcpServers config block"
+}

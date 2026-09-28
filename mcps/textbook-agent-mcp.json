@@ -1,0 +1,7 @@
+{
+  "name": "textbook-agent-mcp",
+  "description": "MCP server that exposes an Italian textbook's OCR content, structured exercises, and progress tracking, enabling chatbot agents to interact with the book for language learning.",
+  "source_repo": "LeonardPuettmann/texbook-agent-mcp",
+  "source_url": "https://github.com/LeonardPuettmann/texbook-agent-mcp",
+  "install": "npx -y texbook-agent-mcp"
+}

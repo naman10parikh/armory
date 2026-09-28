@@ -1,0 +1,7 @@
+{
+  "name": "rechtspraak-mcp",
+  "description": "Enables searching and retrieving Dutch case law (uitspraken) via the Rechtspraak Open Data API, including full text and citation graph exploration.",
+  "source_repo": "Prudai/rechtspraak-mcp",
+  "source_url": "https://github.com/Prudai/rechtspraak-mcp",
+  "install": "npx -y rechtspraak-mcp"
+}

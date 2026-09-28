@@ -1,0 +1,7 @@
+{
+  "name": "design-compare-mcp",
+  "description": "An MCP server that measures how faithfully one UI reproduces another, returning a score and actionable findings for improvement.",
+  "source_repo": "codenameakshay/design-compare-mcp",
+  "source_url": "https://github.com/codenameakshay/design-compare-mcp",
+  "install": "npx -y design-compare-mcp"
+}

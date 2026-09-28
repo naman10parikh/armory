@@ -1,0 +1,7 @@
+{
+  "name": "tello-drone-mcp-server",
+  "description": "Enables controlling a Tello drone through natural language commands in Claude. Supports takeoff, landing, movement, photo capture, and battery monitoring.",
+  "source_repo": "linsun/tello-mcp",
+  "source_url": "https://github.com/linsun/tello-mcp",
+  "install": "npx -y tello-mcp"
+}

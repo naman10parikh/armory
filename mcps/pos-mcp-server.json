@@ -1,0 +1,7 @@
+{
+  "name": "pos-mcp-server",
+  "description": "An MCP server that lets restaurants operate their point-of-sale through an LLM agent — edit menus, 86 items, check sales, restock inventory, monitor voids, and more via twenty tools over both stdio and Streamable HTTP transports with per-request tenancy from API keys.",
+  "source_repo": "ryanDwright/pos-mcp-server",
+  "source_url": "https://github.com/ryanDwright/pos-mcp-server",
+  "install": "npx -y pos-mcp-server"
+}

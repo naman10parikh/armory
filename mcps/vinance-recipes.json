@@ -1,0 +1,7 @@
+{
+  "name": "vinance-recipes",
+  "description": "MCP server providing access to a catalog of reusable React/Next.js component recipes (animations, charts, UI components) with usage examples, props documentation, and architecture notes, enabling AI assistants to generate production-ready code.",
+  "source_repo": "Austinnui/vinance-recipes-skills",
+  "source_url": "https://github.com/Austinnui/vinance-recipes-skills",
+  "install": "# git clone --depth 1 https://github.com/Austinnui/vinance-recipes-skills\n# See source for mcpServers config block"
+}

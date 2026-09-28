@@ -1,0 +1,7 @@
+{
+  "name": "obch-top10-mcp",
+  "description": "A unified service for Top-10 results of obch with MCP, REST API, and web interface.",
+  "source_repo": "LirLik/obch-top10-mcp",
+  "source_url": "https://github.com/LirLik/obch-top10-mcp",
+  "install": "npx -y obch-top10-mcp"
+}

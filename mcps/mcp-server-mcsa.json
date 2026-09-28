@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-mcsa",
+  "description": "Enables predictive maintenance for electric motors by analyzing stator current signals to detect faults like broken rotor bars, bearing defects, and eccentricity, using spectral and envelope analysis techniques.",
+  "source_repo": "LGDiMaggio/mcp-motor-current-signature-analysis",
+  "source_url": "https://github.com/LGDiMaggio/mcp-motor-current-signature-analysis",
+  "install": "# git clone --depth 1 https://github.com/LGDiMaggio/mcp-motor-current-signature-analysis\n# See source for mcpServers config block"
+}

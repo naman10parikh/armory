@@ -1,0 +1,7 @@
+{
+  "name": "tech-stack-detector-mcp",
+  "description": "Detects what technologies (CMS, frameworks, analytics, etc.) a website uses by fingerprinting its HTTP response and markup, returning confidence-scored results for single or bulk URL queries.",
+  "source_repo": "apifymcpfactory-droid/tech-stack-detector-mcp",
+  "source_url": "https://github.com/apifymcpfactory-droid/tech-stack-detector-mcp",
+  "install": "npx -y tech-stack-detector-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "musette-mcp",
+  "description": "AI soigneur for cyclists: turns your Strava ride into an Ien-Vitse-validated nutrition plan (carbs/hour, hydration, timing) and assembles a ready-to-order musette. Works alongside the Strava MCP in Claude and ChatGPT.",
+  "source_repo": "musette-cc/musette-mcp",
+  "source_url": "https://github.com/musette-cc/musette-mcp",
+  "install": "npx -y musette-mcp"
+}

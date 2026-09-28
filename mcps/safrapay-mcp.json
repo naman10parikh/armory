@@ -1,0 +1,7 @@
+{
+  "name": "safrapay-mcp",
+  "description": "Connects SafraPay accounts to AI assistants for reading balances, statements, credit card bills, and investments via Open Finance Brazil, read-only.",
+  "source_repo": "mcp-dir/safrapay-mcp",
+  "source_url": "https://github.com/mcp-dir/safrapay-mcp",
+  "install": "npx -y safrapay-mcp"
+}

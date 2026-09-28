@@ -1,0 +1,7 @@
+{
+  "name": "tinyfn-mcp-server",
+  "description": "Provides over 500 deterministic tools for math, conversions, validation, hashing, and more, enabling AI agents to perform accurate calculations and data transformations without hallucination.",
+  "source_repo": "tinyfn-io/tinyfn-mcp",
+  "source_url": "https://github.com/tinyfn-io/tinyfn-mcp",
+  "install": "npx -y tinyfn-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tradingview-mcp-codex",
+  "description": "A Codex-first MCP server that bridges TradingView Desktop via Chrome DevTools Protocol, enabling launch, symbol/timeframe control, and health checks from Codex CLI.",
+  "source_repo": "gagahkharismanuary/tradingview-mcp-codex",
+  "source_url": "https://github.com/gagahkharismanuary/tradingview-mcp-codex",
+  "install": "# git clone --depth 1 https://github.com/gagahkharismanuary/tradingview-mcp-codex\n# See source for mcpServers config block"
+}

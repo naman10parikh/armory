@@ -1,0 +1,7 @@
+{
+  "name": "atp-librarian-mcp-server",
+  "description": "Enforces the Agent Task Protocol (.atp.json) contract, enabling worker agents to claim, finish, and decompose tasks while maintaining a valid dependency graph.",
+  "source_repo": "manuelcecchetto/atp-mcp-server",
+  "source_url": "https://github.com/manuelcecchetto/atp-mcp-server",
+  "install": "npx -y atp-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "smart-context-mcp-server",
+  "description": "An AI Context Engineer that transforms vague queries into structured context packages for LLMs by extracting code, mapping relationships, and providing insights.",
+  "source_repo": "crisnc100/smart_context_mcp",
+  "source_url": "https://github.com/crisnc100/smart_context_mcp",
+  "install": "npx -y smart_context_mcp"
+}

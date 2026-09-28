@@ -1,0 +1,7 @@
+{
+  "name": "mcp-voice-soundboard",
+  "description": "A text-to-speech MCP server with 48 voices across 9 languages, supporting emotion spans, SFX tags, and multi-speaker dialogue. Deployable via a single npx command with built-in guardrails and swappable backends.",
+  "source_repo": "mcp-tool-shop-org/mcp-voice-soundboard",
+  "source_url": "https://github.com/mcp-tool-shop-org/mcp-voice-soundboard",
+  "install": "# git clone --depth 1 https://github.com/mcp-tool-shop-org/mcp-voice-soundboard\n# See source for mcpServers config block"
+}

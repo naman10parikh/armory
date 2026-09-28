@@ -1,0 +1,7 @@
+{
+  "name": "danmaku-slides",
+  "description": "Enables to present PDF slides with live bullet comments from audience, and to fetch comments from a Google Sheets form.",
+  "source_repo": "iwamot/danmaku-slides",
+  "source_url": "https://github.com/iwamot/danmaku-slides",
+  "install": "# git clone --depth 1 https://github.com/iwamot/danmaku-slides\n# See source for mcpServers config block"
+}

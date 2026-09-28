@@ -1,0 +1,7 @@
+{
+  "name": "playwright-browser",
+  "description": "Enables AI agents to control a web browser using Playwright, supporting navigation, interaction, and data extraction through natural language.",
+  "source_repo": "CSOAI-ORG/playwright-browser",
+  "source_url": "https://github.com/CSOAI-ORG/playwright-browser",
+  "install": "# git clone --depth 1 https://github.com/CSOAI-ORG/playwright-browser\n# See source for mcpServers config block"
+}

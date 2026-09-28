@@ -1,0 +1,7 @@
+{
+  "name": "bcrp-mcp-server",
+  "description": "Enables AI agents to access economic statistics from the Central Reserve Bank of Peru, including exchange rates, interest rates, and GDP, without requiring an API key.",
+  "source_repo": "JOSETRA44/BCRP-mcp",
+  "source_url": "https://github.com/JOSETRA44/BCRP-mcp",
+  "install": "npx -y BCRP-mcp"
+}

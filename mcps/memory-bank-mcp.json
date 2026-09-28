@@ -1,0 +1,7 @@
+{
+  "name": "memory-bank-mcp",
+  "description": "MCP server for semantic code indexing using vector embeddings, enabling AI agents to maintain persistent memory of codebases through natural language queries and intelligent chunking.",
+  "source_repo": "gcorroto/memory-bank-mcp",
+  "source_url": "https://github.com/gcorroto/memory-bank-mcp",
+  "install": "npx -y memory-bank-mcp"
+}

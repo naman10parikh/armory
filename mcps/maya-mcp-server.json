@@ -1,0 +1,7 @@
+{
+  "name": "maya-mcp-server",
+  "description": "MCP server for interacting with Autodesk Maya sessions, enabling multi-session management, arbitrary Python execution, and streaming output capture.",
+  "source_repo": "chadrik/maya-mcp-server",
+  "source_url": "https://github.com/chadrik/maya-mcp-server",
+  "install": "npx -y maya-mcp-server"
+}

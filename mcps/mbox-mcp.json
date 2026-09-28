@@ -1,0 +1,7 @@
+{
+  "name": "mbox-mcp",
+  "description": "Reads and searches local email archives (.mbox or .eml) with full MIME parsing, enabling queries about senders, subjects, dates, and bodies while keeping all data on your machine.",
+  "source_repo": "arose26/mbox-mcp",
+  "source_url": "https://github.com/arose26/mbox-mcp",
+  "install": "npx -y mbox-mcp"
+}

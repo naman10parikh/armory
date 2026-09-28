@@ -1,0 +1,7 @@
+{
+  "name": "memorygate",
+  "description": "Provides durable memory for AI agents with structured storage, semantic search, OAuth authentication, and lifecycle controls.",
+  "source_repo": "PStryder/MemoryGate",
+  "source_url": "https://github.com/PStryder/MemoryGate",
+  "install": "# git clone --depth 1 https://github.com/PStryder/MemoryGate\n# See source for mcpServers config block"
+}

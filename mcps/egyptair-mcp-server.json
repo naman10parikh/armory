@@ -1,0 +1,7 @@
+{
+  "name": "egyptair-mcp-server",
+  "description": "Enables safe interaction with EgyptAir's operational data for managing flights, bookings, and compensation requests.",
+  "source_repo": "MarwanELMahdi/EgyptAir-MCP-Server",
+  "source_url": "https://github.com/MarwanELMahdi/EgyptAir-MCP-Server",
+  "install": "npx -y EgyptAir-MCP-Server"
+}

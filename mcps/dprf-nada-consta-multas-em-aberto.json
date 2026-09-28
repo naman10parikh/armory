@@ -1,0 +1,7 @@
+{
+  "name": "dprf-nada-consta-multas-em-aberto",
+  "description": "Consulta multas em aberto do DPRF (Polícia Rodoviária Federal) em fonte oficial, permitindo verificar pendências de trânsito via consulta de leitura.",
+  "source_repo": "mcp-dir/dprf_nada_consta-mcp",
+  "source_url": "https://github.com/mcp-dir/dprf_nada_consta-mcp",
+  "install": "npx -y dprf_nada_consta-mcp"
+}

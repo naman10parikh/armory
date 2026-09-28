@@ -1,0 +1,7 @@
+{
+  "name": "file-indexer-mcp",
+  "description": "An HTTP MCP server that indexes large documents into exact-line-numbered sections, enabling AI models to locate, read, summarize, and edit parts of a document without ingesting the whole file.",
+  "source_repo": "A-Souhei/file-indexer-mcp",
+  "source_url": "https://github.com/A-Souhei/file-indexer-mcp",
+  "install": "npx -y file-indexer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bookmark-mcp-server",
+  "description": "Enables Claude Code to save, find, and list bookmarks stored in a JSON file.",
+  "source_repo": "Phit137/bookmark-mcp",
+  "source_url": "https://github.com/Phit137/bookmark-mcp",
+  "install": "npx -y bookmark-mcp"
+}

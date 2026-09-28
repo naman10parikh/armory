@@ -1,0 +1,7 @@
+{
+  "name": "bili-note-mcp",
+  "description": "Enables agents to turn Bilibili course videos into structured VitePress study notes by extracting subtitles, generating organized notes with key points and active recall, and saving them locally. It also supports video search and metadata retrieval through MCP tools.",
+  "source_repo": "wpc725562-dotcom/bili-note-mcp",
+  "source_url": "https://github.com/wpc725562-dotcom/bili-note-mcp",
+  "install": "npx -y bili-note-mcp"
+}

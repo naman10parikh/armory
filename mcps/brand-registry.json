@@ -1,0 +1,7 @@
+{
+  "name": "brand-registry",
+  "description": "MCP server that exposes brand identity guidelines (visual look and voice) as markdown, enabling LLMs to produce on-brand content.",
+  "source_repo": "scottwittrock/brands",
+  "source_url": "https://github.com/scottwittrock/brands",
+  "install": "# git clone --depth 1 https://github.com/scottwittrock/brands\n# See source for mcpServers config block"
+}

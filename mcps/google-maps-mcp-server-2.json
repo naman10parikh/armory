@@ -1,0 +1,7 @@
+{
+  "name": "google-maps-mcp-server-2",
+  "description": "Enables AI assistants to access Google Maps services including places search, details, directions, geocoding, and nearby search through natural language.",
+  "source_repo": "arthurkatcher/google-maps-mcp",
+  "source_url": "https://github.com/arthurkatcher/google-maps-mcp",
+  "install": "npx -y google-maps-mcp"
+}

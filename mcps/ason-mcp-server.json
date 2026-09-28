@@ -1,0 +1,7 @@
+{
+  "name": "ason-mcp-server",
+  "description": "Enables compression and decompression of JSON data using the token-optimized ASON format, reducing token usage by 20-60% for LLM applications.",
+  "source_repo": "ason-format/mcp-server",
+  "source_url": "https://github.com/ason-format/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/ason-format/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mac-cua",
+  "description": "An open-source MCP server for macOS that lets AI control desktop apps in the background without moving the cursor or stealing focus.",
+  "source_repo": "hyprcat/mac-cua",
+  "source_url": "https://github.com/hyprcat/mac-cua",
+  "install": "# git clone --depth 1 https://github.com/hyprcat/mac-cua\n# See source for mcpServers config block"
+}

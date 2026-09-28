@@ -1,0 +1,7 @@
+{
+  "name": "jules-mcp-server-2",
+  "description": "Enables LLMs to create and manage Google Jules coding sessions programmatically.",
+  "source_repo": "analisaperlengkapan/mcp-jules",
+  "source_url": "https://github.com/analisaperlengkapan/mcp-jules",
+  "install": "# git clone --depth 1 https://github.com/analisaperlengkapan/mcp-jules\n# See source for mcpServers config block"
+}

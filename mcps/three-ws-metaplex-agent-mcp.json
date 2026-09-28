@@ -1,0 +1,7 @@
+{
+  "name": "three-ws-metaplex-agent-mcp",
+  "description": "Deploys AI agents on-chain into the Metaplex Agent Registry on Solana, minting Core assets with EIP-8004 identity. Supports self-custodial signing via server keypair or external wallets, with devnet support for free rehearsal.",
+  "source_repo": "nirholas/metaplex-agent-mcp",
+  "source_url": "https://github.com/nirholas/metaplex-agent-mcp",
+  "install": "npx -y metaplex-agent-mcp"
+}

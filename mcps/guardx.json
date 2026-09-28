@@ -1,0 +1,7 @@
+{
+  "name": "guardx",
+  "description": "A keyless, defensive code-security auditor that scans codebases for hardcoded secrets, audits dependencies for known CVEs, and checks passwords against breach data using k-anonymity.",
+  "source_repo": "harshzagade/Guardx-mcp",
+  "source_url": "https://github.com/harshzagade/Guardx-mcp",
+  "install": "npx -y Guardx-mcp"
+}

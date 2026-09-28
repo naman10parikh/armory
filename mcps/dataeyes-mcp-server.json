@@ -1,0 +1,7 @@
+{
+  "name": "dataeyes-mcp-server",
+  "description": "Provides web search and page reading capabilities through the DataEyes API.",
+  "source_repo": "dataeyesai/dataeyes-mcp-server",
+  "source_url": "https://github.com/dataeyesai/dataeyes-mcp-server",
+  "install": "npx -y dataeyes-mcp-server"
+}

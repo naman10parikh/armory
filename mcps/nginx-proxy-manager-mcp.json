@@ -1,0 +1,7 @@
+{
+  "name": "nginx-proxy-manager-mcp",
+  "description": "Enables AI agents to manage Nginx Proxy Manager (reverse proxies, streams, redirects, and Let's Encrypt certificates) through natural language commands.",
+  "source_repo": "linuskang/nginx-proxy-manager-mcp",
+  "source_url": "https://github.com/linuskang/nginx-proxy-manager-mcp",
+  "install": "npx -y nginx-proxy-manager-mcp"
+}

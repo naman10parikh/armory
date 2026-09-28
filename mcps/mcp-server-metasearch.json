@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-metasearch",
+  "description": "A unified MCP server aggregating 15 web search and extraction tools across 5 providers (Jina, Tavily, Exa, Firecrawl, Bocha) with automatic API key validation and plugin architecture.",
+  "source_repo": "busigui2023/mcp-server-metasearch",
+  "source_url": "https://github.com/busigui2023/mcp-server-metasearch",
+  "install": "# git clone --depth 1 https://github.com/busigui2023/mcp-server-metasearch\n# See source for mcpServers config block"
+}

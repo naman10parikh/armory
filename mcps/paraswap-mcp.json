@@ -1,0 +1,7 @@
+{
+  "name": "paraswap-mcp",
+  "description": "MCP server that builds unsigned Paraswap token swap transactions for self-custody wallets, holding no keys and signing nothing. It returns raw transaction data for a human to review and approve before execution.",
+  "source_repo": "rustok-org/paraswap-mcp",
+  "source_url": "https://github.com/rustok-org/paraswap-mcp",
+  "install": "npx -y paraswap-mcp"
+}

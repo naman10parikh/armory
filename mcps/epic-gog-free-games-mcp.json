@@ -1,0 +1,7 @@
+{
+  "name": "epic-gog-free-games-mcp",
+  "description": "A read-only MCP server that reports free games on Epic Games Store and GOG.com using public endpoints, without requiring any account or credentials.",
+  "source_repo": "OnTarget600/epic-gog-free-games-mcp",
+  "source_url": "https://github.com/OnTarget600/epic-gog-free-games-mcp",
+  "install": "npx -y epic-gog-free-games-mcp"
+}

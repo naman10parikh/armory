@@ -1,0 +1,7 @@
+{
+  "name": "claudegram",
+  "description": "MCP server that enables Claude Code to interact with a personal Telegram account via MTProto, providing over 120 tools for messaging, media, chat management, and more.",
+  "source_repo": "sanjar-x/claudegram",
+  "source_url": "https://github.com/sanjar-x/claudegram",
+  "install": "# git clone --depth 1 https://github.com/sanjar-x/claudegram\n# See source for mcpServers config block"
+}

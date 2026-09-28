@@ -1,0 +1,7 @@
+{
+  "name": "pyocd-debug-mcp",
+  "description": "Enables AI tools to perform full-featured embedded microcontroller debugging via pyOCD and CMSIS-DAP probes, including probe management, flashing, breakpoints, register/memory access, fault analysis, and RTT communication.",
+  "source_repo": "konbakuyomu/pyocd-debug-mcp",
+  "source_url": "https://github.com/konbakuyomu/pyocd-debug-mcp",
+  "install": "npx -y pyocd-debug-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "x402tools-mcp-server",
+  "description": "Provides AI agents with 10 pay-per-call utility tools (QR generation, DNS lookup, OCR, etc.) using USDC on Base via the x402 protocol, with agent's private key never leaving the agent.",
+  "source_repo": "acrylicfiddle/x402tools-mcp",
+  "source_url": "https://github.com/acrylicfiddle/x402tools-mcp",
+  "install": "npx -y x402tools-mcp"
+}

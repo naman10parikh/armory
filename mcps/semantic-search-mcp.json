@@ -1,0 +1,7 @@
+{
+  "name": "semantic-search-mcp",
+  "description": "Provides semantic code search over codebases using local embeddings with natural language queries. Supports hybrid search, file watching, and respects .gitignore.",
+  "source_repo": "adam-hanna/semantic-search-mcp",
+  "source_url": "https://github.com/adam-hanna/semantic-search-mcp",
+  "install": "npx -y semantic-search-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lambdamoo-mcp",
+  "description": "MCP server for LambdaMOO programming assistance. Provides semantic search over verbs and help topics, canonical symbol lookup, and a syntax primer to coding agents.",
+  "source_repo": "kruton/lambdamoo-mcp",
+  "source_url": "https://github.com/kruton/lambdamoo-mcp",
+  "install": "npx -y lambdamoo-mcp"
+}

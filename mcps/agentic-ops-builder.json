@@ -1,0 +1,7 @@
+{
+  "name": "agentic-ops-builder",
+  "description": "Enables natural-language Q&A, human-approved actions, and dashboard generation over a data ontology via MCP.",
+  "source_repo": "aryanpatel27/agentic-ops-builder",
+  "source_url": "https://github.com/aryanpatel27/agentic-ops-builder",
+  "install": "# git clone --depth 1 https://github.com/aryanpatel27/agentic-ops-builder\n# See source for mcpServers config block"
+}

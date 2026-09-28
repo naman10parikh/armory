@@ -1,0 +1,7 @@
+{
+  "name": "pion",
+  "description": "MCP server for Pi Network that enables AI agents to query Pi chain data (balances, transactions) and verify user tokens, with optional payment sending that is off by default.",
+  "source_repo": "jleeblack/pion-mcp",
+  "source_url": "https://github.com/jleeblack/pion-mcp",
+  "install": "npx -y pion-mcp"
+}

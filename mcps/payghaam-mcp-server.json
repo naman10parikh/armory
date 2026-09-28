@@ -1,0 +1,7 @@
+{
+  "name": "payghaam-mcp-server",
+  "description": "An MCP server that tells your coding agent which analytics events your Payghaam journeys are waiting for, so it can add them to your app.",
+  "source_repo": "Payghaam/payghaam-mcp",
+  "source_url": "https://github.com/Payghaam/payghaam-mcp",
+  "install": "npx -y payghaam-mcp"
+}

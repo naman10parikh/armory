@@ -1,0 +1,7 @@
+{
+  "name": "edgeone-makers-mcp-server",
+  "description": "A Streamable HTTP MCP server running on EdgeOne Makers Functions that provides intelligent chat capabilities, enabling interactions like generating online webpages with a single prompt.",
+  "source_repo": "TencentEdgeOne/mcp-on-edge",
+  "source_url": "https://github.com/TencentEdgeOne/mcp-on-edge",
+  "install": "# git clone --depth 1 https://github.com/TencentEdgeOne/mcp-on-edge\n# See source for mcpServers config block"
+}

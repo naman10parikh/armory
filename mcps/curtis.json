@@ -1,0 +1,7 @@
+{
+  "name": "curtis",
+  "description": "Automates LinkedIn outreach from a local browser session, pacing invitations to work like a human and adjusting activity based on acceptance rates.",
+  "source_repo": "matteolegrottaglie/curtis",
+  "source_url": "https://github.com/matteolegrottaglie/curtis",
+  "install": "# git clone --depth 1 https://github.com/matteolegrottaglie/curtis\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ouro-mcp",
+  "description": "MCP server for the Ouro platform, enabling AI agents to search, read, query datasets, create content, and execute API routes on Ouro through the Model Context Protocol.",
+  "source_repo": "ourofoundation/ouro-mcp",
+  "source_url": "https://github.com/ourofoundation/ouro-mcp",
+  "install": "npx -y ouro-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agishub-mcp-server",
+  "description": "AgisHub provides a diverse set of pay-per-call tools for AI agents—covering timezones, web extraction, AI, memory, webhooks, finance, and utilities—accessible via a free MCP tier or x402 HTTP micropayments in USDC on Base, with no signup or API keys required.",
+  "source_repo": "agishub/agishub-mcp",
+  "source_url": "https://github.com/agishub/agishub-mcp",
+  "install": "npx -y agishub-mcp"
+}

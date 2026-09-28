@@ -1,0 +1,7 @@
+{
+  "name": "8dx-mcp-server",
+  "description": "Exposes 8DX DEX aggregator REST endpoints as tools for AI agents, enabling token discovery, quotes, swaps, limit orders, and wallet execution via WalletConnect.",
+  "source_repo": "8DX-io/8dx-mcp-server",
+  "source_url": "https://github.com/8DX-io/8dx-mcp-server",
+  "install": "npx -y 8dx-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "confluence-dc-advops-mcp",
+  "description": "MCP server providing advanced operations for Confluence Data Center, including page moving, storage file management, and space template syncing.",
+  "source_repo": "iljasorokin/confluence-dc-advops-mcp",
+  "source_url": "https://github.com/iljasorokin/confluence-dc-advops-mcp",
+  "install": "npx -y confluence-dc-advops-mcp"
+}

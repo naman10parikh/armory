@@ -1,0 +1,7 @@
+{
+  "name": "seedance-2-0-mcp-server",
+  "description": "Provides read-only access to Seedance 2.0 AI video generator information including styles, pricing, documentation, and official links for MCP-compatible AI clients like Claude Desktop, Cursor, Windsurf, and Continue.",
+  "source_repo": "rocnubie/seedance2video-mcp",
+  "source_url": "https://github.com/rocnubie/seedance2video-mcp",
+  "install": "npx -y seedance2video-mcp"
+}

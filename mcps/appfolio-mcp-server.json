@@ -1,0 +1,7 @@
+{
+  "name": "appfolio-mcp-server",
+  "description": "Enables interaction with Appfolio Property Manager through the Reporting API, allowing property management tasks and data retrieval via natural language commands.",
+  "source_repo": "CryptoCultCurt/appfolio-mcp-server",
+  "source_url": "https://github.com/CryptoCultCurt/appfolio-mcp-server",
+  "install": "npx -y appfolio-mcp-server"
+}

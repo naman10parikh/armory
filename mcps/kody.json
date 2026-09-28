@@ -1,0 +1,7 @@
+{
+  "name": "kody",
+  "description": "Kody is an MCP server that gives AI agents a portable home for memory, keys, code, and automations on Cloudflare Workers. It offers a compact tool surface with powerful search and execute flows for multi-user personal assistant capabilities.",
+  "source_repo": "kentcdodds/kody",
+  "source_url": "https://github.com/kentcdodds/kody",
+  "install": "# git clone --depth 1 https://github.com/kentcdodds/kody\n# See source for mcpServers config block"
+}

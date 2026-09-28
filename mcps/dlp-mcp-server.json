@@ -1,0 +1,7 @@
+{
+  "name": "dlp-mcp-server",
+  "description": "Connects AI coding assistants to DLP One for real-time security scanning, vulnerability management, and AI-generated remediation directly inside your IDE or AI agent.",
+  "source_repo": "cx-anand-nandeshwar/security-dlp-mcp",
+  "source_url": "https://github.com/cx-anand-nandeshwar/security-dlp-mcp",
+  "install": "npx -y security-dlp-mcp"
+}

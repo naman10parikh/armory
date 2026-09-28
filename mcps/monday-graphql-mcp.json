@@ -1,0 +1,7 @@
+{
+  "name": "monday-graphql-mcp",
+  "description": "Enables AI assistants to help developers build on the monday.com GraphQL API by validating queries, explaining errors, providing column value formats, introspecting the live schema, executing queries, and scaffolding boilerplate code.",
+  "source_repo": "ataliarf/monday-graphql-mcp",
+  "source_url": "https://github.com/ataliarf/monday-graphql-mcp",
+  "install": "npx -y monday-graphql-mcp"
+}

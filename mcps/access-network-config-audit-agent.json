@@ -1,0 +1,7 @@
+{
+  "name": "access-network-config-audit-agent",
+  "description": "A read-only MCP server exposing GPON access-network tools for inventory, status, configuration diff, and alarms, enabling a LangGraph agent to audit ONT provisioning against a golden baseline. It runs against a simulated network and enforces read-only constraints at multiple levels.",
+  "source_repo": "Muhammad-Rizki-Putra/MCP-Server-Agent-Developer",
+  "source_url": "https://github.com/Muhammad-Rizki-Putra/MCP-Server-Agent-Developer",
+  "install": "# git clone --depth 1 https://github.com/Muhammad-Rizki-Putra/MCP-Server-Agent-Developer\n# See source for mcpServers config block"
+}

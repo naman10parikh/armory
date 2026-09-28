@@ -1,0 +1,7 @@
+{
+  "name": "sessions-mcp",
+  "description": "MCP server for sharing, searching, and pulling AI coding-agent sessions (Claude Code and Codex) directly from the agent, with automatic capture and link-based sharing.",
+  "source_repo": "danielamiao/sessions-mcp",
+  "source_url": "https://github.com/danielamiao/sessions-mcp",
+  "install": "npx -y sessions-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "thinkrun",
+  "description": "Records browser sessions and provides structured context (clicks, console, network, screenshots) for AI coding agents to understand and act upon.",
+  "source_repo": "dundas/thinkrun",
+  "source_url": "https://github.com/dundas/thinkrun",
+  "install": "# git clone --depth 1 https://github.com/dundas/thinkrun\n# See source for mcpServers config block"
+}

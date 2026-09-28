@@ -1,0 +1,7 @@
+{
+  "name": "aco",
+  "description": "MCP server for Agent Context OS that compiles engineering docs into a knowledge graph, detects code drift, and serves token-budgeted context packs to AI coding agents via MCP.",
+  "source_repo": "flyingfan76/aco",
+  "source_url": "https://github.com/flyingfan76/aco",
+  "install": "# git clone --depth 1 https://github.com/flyingfan76/aco\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "movie-xray-mcp",
+  "description": "Enables searching for movies and TV shows, viewing cast details, exploring actor bios and filmographies, checking streaming availability, and cross-referencing actor work against Netflix's catalog.",
+  "source_repo": "thejaredchapman/movie-xray-mcp",
+  "source_url": "https://github.com/thejaredchapman/movie-xray-mcp",
+  "install": "npx -y movie-xray-mcp"
+}

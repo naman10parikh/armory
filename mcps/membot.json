@@ -1,0 +1,7 @@
+{
+  "name": "membot",
+  "description": "Provides a persistent, versioned, and searchable context store for AI agents with local embedding and hybrid search.",
+  "source_repo": "evantahler/membot",
+  "source_url": "https://github.com/evantahler/membot",
+  "install": "# git clone --depth 1 https://github.com/evantahler/membot\n# See source for mcpServers config block"
+}

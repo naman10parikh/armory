@@ -1,0 +1,7 @@
+{
+  "name": "supplier-hub-private-label-workflow-mcp",
+  "description": "MCP server that automates Coupang Supplier Hub Private Label fulfillment workflows, including order lookup, confirmation, courier registration, waybill printing, and shipment document output, with a local dashboard and 16-step tools.",
+  "source_repo": "xcbyte-cmyk/supplierhub-fulfillment-workflow-mcp",
+  "source_url": "https://github.com/xcbyte-cmyk/supplierhub-fulfillment-workflow-mcp",
+  "install": "npx -y supplierhub-fulfillment-workflow-mcp"
+}

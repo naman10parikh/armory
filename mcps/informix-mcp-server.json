@@ -1,0 +1,7 @@
+{
+  "name": "informix-mcp-server",
+  "description": "Enables interaction with IBM Informix databases via MCP, providing tools for querying, listing tables, describing schemas, and more.",
+  "source_repo": "blakecodes/informix-mcp",
+  "source_url": "https://github.com/blakecodes/informix-mcp",
+  "install": "npx -y informix-mcp"
+}

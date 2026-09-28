@@ -1,0 +1,7 @@
+{
+  "name": "make-com-mcp-connector",
+  "description": "Enables managing Make.com scenarios through natural language, including listing, running, activating, deactivating, and monitoring.",
+  "source_repo": "yuli-tonkin-bg/make-mcp",
+  "source_url": "https://github.com/yuli-tonkin-bg/make-mcp",
+  "install": "npx -y make-mcp"
+}

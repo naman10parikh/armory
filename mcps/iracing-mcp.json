@@ -1,0 +1,7 @@
+{
+  "name": "iracing-mcp",
+  "description": "Integrates iRacing with the Model Context Protocol to retrieve profile statistics and iRating charts for any category.",
+  "source_repo": "musantro/iracing-mcp",
+  "source_url": "https://github.com/musantro/iracing-mcp",
+  "install": "npx -y iracing-mcp"
+}

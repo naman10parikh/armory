@@ -1,0 +1,7 @@
+{
+  "name": "gerent365-mcp-server",
+  "description": "Enables AI assistants to manage Gerent365 restaurant and business operations via natural language, including employees, schedules, payroll, tips, time tracking, customers, products, reservations, and reports.",
+  "source_repo": "365diascollaboration-prog/gerent365-mcp",
+  "source_url": "https://github.com/365diascollaboration-prog/gerent365-mcp",
+  "install": "npx -y gerent365-mcp"
+}

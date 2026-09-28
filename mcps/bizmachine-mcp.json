@@ -1,0 +1,7 @@
+{
+  "name": "bizmachine-mcp",
+  "description": "Access Czech and Slovak company data (financials, contacts, risks, ownership) via BizMachine API, enabling natural-language lookups by name, domain, or ICO.",
+  "source_repo": "davidsimoes/bizmachine-mcp",
+  "source_url": "https://github.com/davidsimoes/bizmachine-mcp",
+  "install": "npx -y bizmachine-mcp"
+}

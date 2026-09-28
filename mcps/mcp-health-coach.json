@@ -1,0 +1,7 @@
+{
+  "name": "mcp-health-coach",
+  "description": "MCP server that turns any MCP-compatible LLM client into a wellness coach grounded in verified public data, offering nutrition, exercise, biometric, and preventive care tools with safety guardrails.",
+  "source_repo": "HamzaOuadid/mcp-health-coach",
+  "source_url": "https://github.com/HamzaOuadid/mcp-health-coach",
+  "install": "# git clone --depth 1 https://github.com/HamzaOuadid/mcp-health-coach\n# See source for mcpServers config block"
+}

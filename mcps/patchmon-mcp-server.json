@@ -1,0 +1,7 @@
+{
+  "name": "patchmon-mcp-server",
+  "description": "MCP server that connects to PatchMon via its Integration API to query host inventory, patch status, and system details, and optionally delete hosts.",
+  "source_repo": "weirdchaos/patchmon-mcp-server",
+  "source_url": "https://github.com/weirdchaos/patchmon-mcp-server",
+  "install": "npx -y patchmon-mcp-server"
+}

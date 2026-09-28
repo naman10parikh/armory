@@ -1,0 +1,7 @@
+{
+  "name": "grimmory-mcp-server",
+  "description": "Enables AI assistants to manage a Grimmory book library through 53 specialized tools for books, authors, shelves, reading progress, metadata, and more.",
+  "source_repo": "bannert1337/grimmory-mcp",
+  "source_url": "https://github.com/bannert1337/grimmory-mcp",
+  "install": "npx -y grimmory-mcp"
+}

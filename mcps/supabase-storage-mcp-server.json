@@ -1,0 +1,7 @@
+{
+  "name": "supabase-storage-mcp-server",
+  "description": "Enables creating storage buckets and uploading media files to Supabase Storage through natural language, with no delete or overwrite capabilities.",
+  "source_repo": "danizeap/Supabase-MCP",
+  "source_url": "https://github.com/danizeap/Supabase-MCP",
+  "install": "npx -y Supabase-MCP"
+}

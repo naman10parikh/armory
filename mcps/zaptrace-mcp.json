@@ -1,0 +1,7 @@
+{
+  "name": "zaptrace-mcp",
+  "description": "Enables AI agents to perform electronics design automation through the ZapTrace EDA kernel, including parsing designs, running ERC, placing components, routing nets, and generating manufacturing outputs (Gerber, BOM, etc.).",
+  "source_repo": "oaslananka/zaptrace",
+  "source_url": "https://github.com/oaslananka/zaptrace",
+  "install": "# git clone --depth 1 https://github.com/oaslananka/zaptrace\n# See source for mcpServers config block"
+}

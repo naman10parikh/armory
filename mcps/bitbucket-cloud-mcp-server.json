@@ -1,0 +1,7 @@
+{
+  "name": "bitbucket-cloud-mcp-server",
+  "description": "MCP server for the Bitbucket Cloud REST API v2.0, providing 32 tools across 5 toolsets for repository management, pull requests, issues, pipelines, and more with safety controls and LLM-optimized output.",
+  "source_repo": "or2ooo/bitbucket-mcp",
+  "source_url": "https://github.com/or2ooo/bitbucket-mcp",
+  "install": "npx -y bitbucket-mcp"
+}

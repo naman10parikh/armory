@@ -1,0 +1,7 @@
+{
+  "name": "chatkazi-mcp",
+  "description": "Bridges MCP clients with ChatKazi WhatsApp API, enabling AI models to manage WhatsApp sessions, monitor connection states, and send text/media messages.",
+  "source_repo": "lxmwaniky/chatkazi-mcp",
+  "source_url": "https://github.com/lxmwaniky/chatkazi-mcp",
+  "install": "npx -y chatkazi-mcp"
+}

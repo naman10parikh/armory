@@ -1,0 +1,7 @@
+{
+  "name": "wxpush-mcp",
+  "description": "Wraps WeChat push capability as MCP tools, allowing users to send WeChat template messages and check health via Claude clients.",
+  "source_repo": "YanQiu0207/wxpush-mcp",
+  "source_url": "https://github.com/YanQiu0207/wxpush-mcp",
+  "install": "npx -y wxpush-mcp"
+}

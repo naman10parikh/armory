@@ -1,0 +1,7 @@
+{
+  "name": "schoolbridge",
+  "description": "Connects Canvas LMS (and other school platforms) to AI agents, enabling them to monitor assignments, grades, announcements, and changes, then rank work, brief students, or build study plans via MCP tools.",
+  "source_repo": "Shoberman2/schoolbridge",
+  "source_url": "https://github.com/Shoberman2/schoolbridge",
+  "install": "# git clone --depth 1 https://github.com/Shoberman2/schoolbridge\n# See source for mcpServers config block"
+}

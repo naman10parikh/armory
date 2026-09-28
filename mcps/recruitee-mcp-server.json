@@ -1,0 +1,7 @@
+{
+  "name": "recruitee-mcp-server",
+  "description": "Enables extraction and analysis of candidate profiles from Recruitee recruitment pipelines, optimized for LLM evaluation with clean, bias-free data.",
+  "source_repo": "pepuscz/recruitee-mcp-server",
+  "source_url": "https://github.com/pepuscz/recruitee-mcp-server",
+  "install": "npx -y recruitee-mcp-server"
+}

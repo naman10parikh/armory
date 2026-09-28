@@ -1,0 +1,7 @@
+{
+  "name": "draftcall-mcp",
+  "description": "NFL fantasy football data over MCP. Compare any two players head to head, pull position rankings in PPR, half-PPR or standard, check positional scarcity and bye-week conflicts.",
+  "source_repo": "evanatpizzarobot/draftcall-mcp",
+  "source_url": "https://github.com/evanatpizzarobot/draftcall-mcp",
+  "install": "npx -y draftcall-mcp"
+}

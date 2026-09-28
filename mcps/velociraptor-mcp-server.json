@@ -1,0 +1,7 @@
+{
+  "name": "velociraptor-mcp-server",
+  "description": "Enables natural language interaction with Velociraptor DFIR through MCP, allowing LLMs to query artifacts, clients, flows, and collect forensic data.",
+  "source_repo": "socfortress/velociraptor-mcp-server",
+  "source_url": "https://github.com/socfortress/velociraptor-mcp-server",
+  "install": "npx -y velociraptor-mcp-server"
+}

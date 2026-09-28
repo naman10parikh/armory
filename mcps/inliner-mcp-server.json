@@ -1,0 +1,7 @@
+{
+  "name": "inliner-mcp-server",
+  "description": "Enables AI coding agents to manage image projects, generate and edit images, and check usage via Inliner.ai through natural language commands.",
+  "source_repo": "inliner-ai/mcp-server",
+  "source_url": "https://github.com/inliner-ai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/inliner-ai/mcp-server\n# See source for mcpServers config block"
+}

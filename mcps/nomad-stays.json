@@ -1,0 +1,7 @@
+{
+  "name": "nomad-stays",
+  "description": "The Nomad Stays MCP Server provides access to a curated database of remote-work-friendly accommodations around the world. This API supports both the Model Context Protocol (MCP) for AI assistants and standard REST endpoints for direct integration.",
+  "source_repo": "nomadstays/nomadstays-mcp-server",
+  "source_url": "https://github.com/nomadstays/nomadstays-mcp-server",
+  "install": "npx -y nomadstays-mcp-server"
+}

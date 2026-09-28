@@ -1,0 +1,7 @@
+{
+  "name": "mcp-claude-designer-arabic",
+  "description": "Provides Arabic UI/UX design tools as an MCP server, offering RTL conversion, Arabic typography validation, cultural palettes, and anti-AI-slop auditing for AI-assisted design workflows.",
+  "source_repo": "MarwanDevSpace/mcp-claude-designer-arabic",
+  "source_url": "https://github.com/MarwanDevSpace/mcp-claude-designer-arabic",
+  "install": "# git clone --depth 1 https://github.com/MarwanDevSpace/mcp-claude-designer-arabic\n# See source for mcpServers config block"
+}

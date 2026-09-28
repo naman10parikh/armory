@@ -1,0 +1,7 @@
+{
+  "name": "objectstack-mcp-server",
+  "description": "Connects Claude Code to any ObjectStack deployment, enabling discovery, querying, and updating of objects and records, plus running business actions, all under user permissions and row-level security.",
+  "source_repo": "objectstack-ai/claude-plugin",
+  "source_url": "https://github.com/objectstack-ai/claude-plugin",
+  "install": "# git clone --depth 1 https://github.com/objectstack-ai/claude-plugin\n# See source for mcpServers config block"
+}

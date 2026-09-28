@@ -1,0 +1,7 @@
+{
+  "name": "ansa-mcp",
+  "description": "An MCP server that bridges MCP clients to ANSA CAE pre-processor via file IPC, enabling geometry operations, model management, and solver deck export.",
+  "source_repo": "ilovedurianhhh/ansa-mcp",
+  "source_url": "https://github.com/ilovedurianhhh/ansa-mcp",
+  "install": "npx -y ansa-mcp"
+}

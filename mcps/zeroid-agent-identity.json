@@ -1,0 +1,7 @@
+{
+  "name": "zeroid-agent-identity",
+  "description": "Issues accountable identities for AI agents before they interact with tools, with tools for identity management and receipt export.",
+  "source_repo": "clauxel/zeroid-agent-identity-mcp",
+  "source_url": "https://github.com/clauxel/zeroid-agent-identity-mcp",
+  "install": "npx -y zeroid-agent-identity-mcp"
+}

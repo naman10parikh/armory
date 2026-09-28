@@ -1,0 +1,7 @@
+{
+  "name": "merovingian-mcp-server",
+  "description": "Enables AI agents to map cross-repository dependencies, detect breaking changes in API contracts, and assess impact across services.",
+  "source_repo": "evo-hydra/merovingian",
+  "source_url": "https://github.com/evo-hydra/merovingian",
+  "install": "# git clone --depth 1 https://github.com/evo-hydra/merovingian\n# See source for mcpServers config block"
+}

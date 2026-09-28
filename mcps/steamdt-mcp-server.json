@@ -1,0 +1,7 @@
+{
+  "name": "steamdt-mcp-server",
+  "description": "Enables AI assistants to query CS2 item real-time prices, K-line data, market index, wear, and inspect images via the SteamDT API.",
+  "source_repo": "zkcaryq/steamdt-mcp",
+  "source_url": "https://github.com/zkcaryq/steamdt-mcp",
+  "install": "npx -y steamdt-mcp"
+}

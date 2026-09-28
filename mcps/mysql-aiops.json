@@ -1,0 +1,7 @@
+{
+  "name": "mysql-aiops",
+  "description": "Governed MySQL + MariaDB DBA operations — slow-query, lock-wait/deadlock, replication, and fragmentation RCA, with unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.",
+  "source_repo": "AIops-tools/MySQL-AIops",
+  "source_url": "https://github.com/AIops-tools/MySQL-AIops",
+  "install": "# git clone --depth 1 https://github.com/AIops-tools/MySQL-AIops\n# See source for mcpServers config block"
+}

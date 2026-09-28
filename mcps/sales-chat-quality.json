@@ -1,0 +1,7 @@
+{
+  "name": "sales-chat-quality",
+  "description": "Enables collection and scoring of sales chat conversations via CDP, computing response times and generating evidence-linked LLM quality reviews.",
+  "source_repo": "Yuan1cMax/SalesChatQuality",
+  "source_url": "https://github.com/Yuan1cMax/SalesChatQuality",
+  "install": "# git clone --depth 1 https://github.com/Yuan1cMax/SalesChatQuality\n# See source for mcpServers config block"
+}

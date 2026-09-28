@@ -1,0 +1,7 @@
+{
+  "name": "pulse8-ai-cortex-knowledge-vault",
+  "description": "Enables AI agents to persist, search, and evolve knowledge through a Markdown vault with a typed knowledge graph and MCP interface.",
+  "source_repo": "synpulse8-opensource/pulse8-ai-cortex-knowledge-vault",
+  "source_url": "https://github.com/synpulse8-opensource/pulse8-ai-cortex-knowledge-vault",
+  "install": "# git clone --depth 1 https://github.com/synpulse8-opensource/pulse8-ai-cortex-knowledge-vault\n# See source for mcpServers config block"
+}

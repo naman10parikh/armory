@@ -1,0 +1,7 @@
+{
+  "name": "receita-federal-nfs-e-notas-emitida-detalhes",
+  "description": "Servidor MCP para consulta de notas fiscais de serviço emitidas (detalhes) na Receita Federal, em fonte oficial.",
+  "source_repo": "mcp-dir/receita_federal_nfse_emit_det-mcp",
+  "source_url": "https://github.com/mcp-dir/receita_federal_nfse_emit_det-mcp",
+  "install": "npx -y receita_federal_nfse_emit_det-mcp"
+}

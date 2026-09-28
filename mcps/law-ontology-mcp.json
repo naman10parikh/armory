@@ -1,0 +1,7 @@
+{
+  "name": "law-ontology-mcp",
+  "description": "Enables searching and querying Korean law ontology via SPARQL, with tools for law search, detail, agency, region, statistics, and network visualization.",
+  "source_repo": "wintenboy/law-ontology-mcp",
+  "source_url": "https://github.com/wintenboy/law-ontology-mcp",
+  "install": "npx -y law-ontology-mcp"
+}

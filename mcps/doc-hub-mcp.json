@@ -1,0 +1,7 @@
+{
+  "name": "doc-hub-mcp",
+  "description": "Provides retrieval of WeChat Work and Feishu developer documentation, enabling AI assistants to query API references without switching browsers.",
+  "source_repo": "wxkingstar/doc-hub-mcp",
+  "source_url": "https://github.com/wxkingstar/doc-hub-mcp",
+  "install": "npx -y doc-hub-mcp"
+}

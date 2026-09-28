@@ -1,0 +1,7 @@
+{
+  "name": "appmcp",
+  "description": "AppMCP enables AI agents to build and publish self-contained HTML apps that query live data via a secure, read-only SQL proxy, with Azure AD authentication and role-based access.",
+  "source_repo": "DerekHutchinson/AppMCP",
+  "source_url": "https://github.com/DerekHutchinson/AppMCP",
+  "install": "# git clone --depth 1 https://github.com/DerekHutchinson/AppMCP\n# See source for mcpServers config block"
+}

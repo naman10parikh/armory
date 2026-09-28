@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tools-server",
+  "description": "A small MCP server for course experiments that provides tools to read recent commits from public GitHub repositories.",
+  "source_repo": "alexadler9/mcp-tools-server",
+  "source_url": "https://github.com/alexadler9/mcp-tools-server",
+  "install": "# git clone --depth 1 https://github.com/alexadler9/mcp-tools-server\n# See source for mcpServers config block"
+}

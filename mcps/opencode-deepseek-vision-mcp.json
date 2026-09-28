@@ -1,0 +1,7 @@
+{
+  "name": "opencode-deepseek-vision-mcp",
+  "description": "An MCP server that provides vision capabilities to DeepSeek by forwarding image analysis requests to supported vision models. It offers tools for professional image analysis, OCR, and image comparison.",
+  "source_repo": "shanshanfagu/Opencode-DeepSeek-Vision-MCP",
+  "source_url": "https://github.com/shanshanfagu/Opencode-DeepSeek-Vision-MCP",
+  "install": "npx -y Opencode-DeepSeek-Vision-MCP"
+}

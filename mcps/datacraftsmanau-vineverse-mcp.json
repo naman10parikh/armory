@@ -1,0 +1,7 @@
+{
+  "name": "datacraftsmanau-vineverse-mcp",
+  "description": "Bible knowledge graph: 31,102 verses, 341,289 cross references, people, places, themes.",
+  "source_repo": "DataCraftsmanAU/vineverse-mcp",
+  "source_url": "https://github.com/DataCraftsmanAU/vineverse-mcp",
+  "install": "npx -y vineverse-mcp"
+}

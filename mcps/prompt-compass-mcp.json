@@ -1,0 +1,7 @@
+{
+  "name": "prompt-compass-mcp",
+  "description": "Provides MCP clients a single decision-only tool to classify prompts as safe for local or cloud models, or as containing PII or jailbreak content, without executing actions or calling AI models.",
+  "source_repo": "rishabhmpc/prompt-compass-mcp",
+  "source_url": "https://github.com/rishabhmpc/prompt-compass-mcp",
+  "install": "npx -y prompt-compass-mcp"
+}

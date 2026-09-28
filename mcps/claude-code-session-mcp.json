@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-session-mcp",
+  "description": "MCP server that provides read-only analysis of Claude Code session transcripts, enabling queries about project activity, session details, and tool usage.",
+  "source_repo": "dambinhtu-nhuy/claude-code-session-mcp",
+  "source_url": "https://github.com/dambinhtu-nhuy/claude-code-session-mcp",
+  "install": "npx -y claude-code-session-mcp"
+}

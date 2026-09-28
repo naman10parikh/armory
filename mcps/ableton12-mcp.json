@@ -1,0 +1,7 @@
+{
+  "name": "ableton12-mcp",
+  "description": "MCP server for Ableton Live 12 enabling full DAW control (tracks, devices, mixer, clips, transport) and audio analysis via loopback capture, allowing LLMs to create, modify, and measure music in real time.",
+  "source_repo": "verove-jordan/ableton12-mcp",
+  "source_url": "https://github.com/verove-jordan/ableton12-mcp",
+  "install": "npx -y ableton12-mcp"
+}

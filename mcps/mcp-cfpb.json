@@ -1,0 +1,7 @@
+{
+  "name": "mcp-cfpb",
+  "description": "Enables querying the Consumer Financial Protection Bureau (CFPB) complaint database to retrieve consumer complaint data without authentication.",
+  "source_repo": "pipeworx-io/mcp-cfpb",
+  "source_url": "https://github.com/pipeworx-io/mcp-cfpb",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-cfpb\n# See source for mcpServers config block"
+}

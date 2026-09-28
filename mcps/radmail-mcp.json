@@ -1,0 +1,7 @@
+{
+  "name": "radmail-mcp",
+  "description": "An MCP server that provides an email operating system for AI agents, enabling inbox triage and reply drafting while enforcing un-bypassable safety constraints on sensitive actions like money transfers and banking changes.",
+  "source_repo": "radmail-ai/radmail-mcp",
+  "source_url": "https://github.com/radmail-ai/radmail-mcp",
+  "install": "npx -y radmail-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rizin-mcp",
+  "description": "MCP server integrating Rizin reverse engineering, RzGhidra decompiler, and capa for binary analysis, enabling LLMs to open binaries, identify capabilities, extract function addresses, and decompile to C pseudocode.",
+  "source_repo": "kd992102/rizin-mcp",
+  "source_url": "https://github.com/kd992102/rizin-mcp",
+  "install": "npx -y rizin-mcp"
+}

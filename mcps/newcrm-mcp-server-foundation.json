@@ -1,0 +1,7 @@
+{
+  "name": "newcrm-mcp-server-foundation",
+  "description": "Read-only MCP foundation server for NewCrm CRM, exposing a single /mcp endpoint and currently supporting GET /api/leads via the existing backend API without direct MongoDB access.",
+  "source_repo": "JTSTBP/crm-mcp",
+  "source_url": "https://github.com/JTSTBP/crm-mcp",
+  "install": "npx -y crm-mcp"
+}

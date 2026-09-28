@@ -1,0 +1,7 @@
+{
+  "name": "code-execution-mcp-server",
+  "description": "Enables AI agents to execute terminal commands and Python code on the host system with session management and smart output handling, leveraging Agent Zero's proven implementation.",
+  "source_repo": "TerminallyLazy/A0-code-exec-MCP",
+  "source_url": "https://github.com/TerminallyLazy/A0-code-exec-MCP",
+  "install": "npx -y A0-code-exec-MCP"
+}

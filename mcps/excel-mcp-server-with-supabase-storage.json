@@ -1,0 +1,7 @@
+{
+  "name": "excel-mcp-server-with-supabase-storage",
+  "description": "A powerful MCP server for Excel operations with seamless Supabase Storage integration.",
+  "source_repo": "1126misakp/Excel-MCP-Server-with-Supabase-Storage",
+  "source_url": "https://github.com/1126misakp/Excel-MCP-Server-with-Supabase-Storage",
+  "install": "# git clone --depth 1 https://github.com/1126misakp/Excel-MCP-Server-with-Supabase-Storage\n# See source for mcpServers config block"
+}

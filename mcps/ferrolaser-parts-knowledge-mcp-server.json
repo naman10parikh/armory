@@ -1,0 +1,7 @@
+{
+  "name": "ferrolaser-parts-knowledge-mcp-server",
+  "description": "Provides structured knowledge about fiber laser machine parts and components, enabling AI assistants to answer questions about specifications, alarm codes, wiring, and consumables from official manuals.",
+  "source_repo": "jinweihan-ai/ferrolaser-parts-mcp",
+  "source_url": "https://github.com/jinweihan-ai/ferrolaser-parts-mcp",
+  "install": "npx -y ferrolaser-parts-mcp"
+}

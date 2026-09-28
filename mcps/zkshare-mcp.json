@@ -1,0 +1,7 @@
+{
+  "name": "zkshare-mcp",
+  "description": "An MCP server that provides tools for privacy-oriented context API including encrypted fact storage, commitment-based proofs, and semantic search, enabling users, AI agents, and back-office systems to securely manage and prove personal facts without exposing raw data.",
+  "source_repo": "sp0oby/zkShare",
+  "source_url": "https://github.com/sp0oby/zkShare",
+  "install": "# git clone --depth 1 https://github.com/sp0oby/zkShare\n# See source for mcpServers config block"
+}

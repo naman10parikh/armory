@@ -1,0 +1,7 @@
+{
+  "name": "codeweave-mcp",
+  "description": "CodeWeave enables AI coding clients to inspect, edit, and validate a configured Git repository with tools for context, fetching, patching, and task execution.",
+  "source_repo": "abhij1306/codeweave",
+  "source_url": "https://github.com/abhij1306/codeweave",
+  "install": "# git clone --depth 1 https://github.com/abhij1306/codeweave\n# See source for mcpServers config block"
+}

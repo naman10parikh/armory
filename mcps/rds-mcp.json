@@ -1,0 +1,7 @@
+{
+  "name": "rds-mcp",
+  "description": "Enables monitoring and analysis of Amazon RDS (MySQL, PostgreSQL) instances, metrics, and slow query logs via natural language.",
+  "source_repo": "neoai-agent/rds-mcp",
+  "source_url": "https://github.com/neoai-agent/rds-mcp",
+  "install": "npx -y rds-mcp"
+}

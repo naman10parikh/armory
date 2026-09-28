@@ -1,0 +1,7 @@
+{
+  "name": "silvaco-handbook-mcp",
+  "description": "Provides AI assistants fast, bounded access to Silvaco TCAD manuals and official Deckbuild example decks via search/read tools, with full-text indexing and PDF page references.",
+  "source_repo": "zd0818/Silvaco_MCP",
+  "source_url": "https://github.com/zd0818/Silvaco_MCP",
+  "install": "npx -y Silvaco_MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cursor-delegate",
+  "description": "Enables MCP clients like Claude Code and Codex to delegate coding tasks to Cursor's CLI agent, which implements changes in the workspace and returns clean, structured results for review.",
+  "source_repo": "andreilungeanu/cursor-delegate-mcp",
+  "source_url": "https://github.com/andreilungeanu/cursor-delegate-mcp",
+  "install": "npx -y cursor-delegate-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vaas",
+  "description": "Provides a visual memory and attention layer for AI agents, enabling indexing of images and videos and then searching, inspecting, tracking, and retrieving the right frame in milliseconds via MCP tools.",
+  "source_repo": "mjgleason3/vaas",
+  "source_url": "https://github.com/mjgleason3/vaas",
+  "install": "# git clone --depth 1 https://github.com/mjgleason3/vaas\n# See source for mcpServers config block"
+}

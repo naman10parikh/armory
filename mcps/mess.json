@@ -1,0 +1,7 @@
+{
+  "name": "mess",
+  "description": "Inventory of your service accounts, kept current by your coding agents. Metadata only, no secrets.",
+  "source_repo": "currentlyprivate/mess-mcp",
+  "source_url": "https://github.com/currentlyprivate/mess-mcp",
+  "install": "npx -y mess-mcp"
+}

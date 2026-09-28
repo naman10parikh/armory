@@ -1,0 +1,7 @@
+{
+  "name": "apex",
+  "description": "Enables authorized bug bounty automation via a scope-enforced MCP bridge, supporting web, secrets, mobile, and LLM red-team scanning, with reporting and advisory.",
+  "source_repo": "nadirzhon/apex",
+  "source_url": "https://github.com/nadirzhon/apex",
+  "install": "# git clone --depth 1 https://github.com/nadirzhon/apex\n# See source for mcpServers config block"
+}

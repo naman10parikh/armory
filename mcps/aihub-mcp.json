@@ -1,0 +1,7 @@
+{
+  "name": "aihub-mcp",
+  "description": "Enables searching and querying AI Hub datasets, including listing datasets, getting details, searching by keyword, and retrieving download information.",
+  "source_repo": "ansua79/aihub-mcp",
+  "source_url": "https://github.com/ansua79/aihub-mcp",
+  "install": "npx -y aihub-mcp"
+}

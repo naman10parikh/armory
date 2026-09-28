@@ -1,0 +1,7 @@
+{
+  "name": "bluemind-mcp",
+  "description": "Read-only MCP server to search and read emails and calendar events from a BlueMind account via the BlueMind REST API.",
+  "source_repo": "AlexMili/bluemind-mcp",
+  "source_url": "https://github.com/AlexMili/bluemind-mcp",
+  "install": "npx -y bluemind-mcp"
+}

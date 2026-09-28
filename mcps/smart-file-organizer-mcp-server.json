@@ -1,0 +1,7 @@
+{
+  "name": "smart-file-organizer-mcp-server",
+  "description": "Lets AI assistants analyze and organize local directories by file type, with dry-run support and safe sorting.",
+  "source_repo": "chenjunwei1230-dotcom/smart-file-organizer-mcp",
+  "source_url": "https://github.com/chenjunwei1230-dotcom/smart-file-organizer-mcp",
+  "install": "npx -y smart-file-organizer-mcp"
+}

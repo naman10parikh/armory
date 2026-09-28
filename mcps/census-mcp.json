@@ -1,0 +1,7 @@
+{
+  "name": "census-mcp",
+  "description": "Remote MCP server exposing US Census (ACS 5-year) and FEMA flood data. Works as a connector in both Claude and ChatGPT.",
+  "source_repo": "sohrab4748/census-mcp",
+  "source_url": "https://github.com/sohrab4748/census-mcp",
+  "install": "npx -y census-mcp"
+}

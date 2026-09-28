@@ -1,0 +1,7 @@
+{
+  "name": "repo-map",
+  "description": "A navigable symbol map of your codebase for coding agents, enabling efficient code navigation and reading only relevant symbols instead of entire files.",
+  "source_repo": "noambinabout-boop/repo-map",
+  "source_url": "https://github.com/noambinabout-boop/repo-map",
+  "install": "# git clone --depth 1 https://github.com/noambinabout-boop/repo-map\n# See source for mcpServers config block"
+}

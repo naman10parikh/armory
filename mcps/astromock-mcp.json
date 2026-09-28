@@ -1,0 +1,7 @@
+{
+  "name": "astromock-mcp",
+  "description": "Exposes Vedic astrology tools for birth chart, dasha, transit calculations, and question context analysis.",
+  "source_repo": "Anshiika123/mcp-a",
+  "source_url": "https://github.com/Anshiika123/mcp-a",
+  "install": "# git clone --depth 1 https://github.com/Anshiika123/mcp-a\n# See source for mcpServers config block"
+}

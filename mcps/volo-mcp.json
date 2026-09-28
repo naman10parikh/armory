@@ -1,0 +1,7 @@
+{
+  "name": "volo-mcp",
+  "description": "Give AI agents the ability to search private jets, compare aircraft, get quotes, and submit charter requests through natural language.",
+  "source_repo": "weihermans/volo-mcp",
+  "source_url": "https://github.com/weihermans/volo-mcp",
+  "install": "npx -y volo-mcp"
+}

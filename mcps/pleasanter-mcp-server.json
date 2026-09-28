@@ -1,6 +1,6 @@
 {
   "name": "pleasanter-mcp-server",
-  "description": "Pleasanter Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "narita1980/pleasanter-mcp-server",
   "source_url": "https://mcp.so/server/pleasanter-mcp-server/narita1980",
   "install": "npx -y pleasanter-mcp-server"

@@ -1,0 +1,7 @@
+{
+  "name": "tuxedo-qa",
+  "description": "Enables AI assistants to create, run, autocorrect, and monitor Playwright tests for your app with a local dashboard, credential vault, and public status page.",
+  "source_repo": "jonathan-ponciano/sts-tools-mcp-tuxedo-qa",
+  "source_url": "https://github.com/jonathan-ponciano/sts-tools-mcp-tuxedo-qa",
+  "install": "# git clone --depth 1 https://github.com/jonathan-ponciano/sts-tools-mcp-tuxedo-qa\n# See source for mcpServers config block"
+}

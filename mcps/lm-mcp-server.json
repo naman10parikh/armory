@@ -1,0 +1,7 @@
+{
+  "name": "lm-mcp-server",
+  "description": "Enables Claude to read CRM data and propose actions (bid changes, budget shifts, etc.) via a thin authenticated router, without executing any changes.",
+  "source_repo": "cscokus/lm-mcp-server",
+  "source_url": "https://github.com/cscokus/lm-mcp-server",
+  "install": "npx -y lm-mcp-server"
+}

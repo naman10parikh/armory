@@ -1,0 +1,7 @@
+{
+  "name": "juscraper-mcp",
+  "description": "Public MCP server for querying Brazilian court jurisprudence, processes, and communications without authentication. Supports courts like TJSP, TJRS, TJRJ, TJGO, and more via eSAJ, Datajud, and CNJ systems.",
+  "source_repo": "lab-dados/juscraper-mcp",
+  "source_url": "https://github.com/lab-dados/juscraper-mcp",
+  "install": "npx -y juscraper-mcp"
+}

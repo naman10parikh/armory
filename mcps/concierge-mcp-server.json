@@ -1,0 +1,7 @@
+{
+  "name": "concierge-mcp-server",
+  "description": "Exposes a curated allowlist of Home Assistant entities to external clients over MCP with read-only list and get_state tools, using an isolated guest credential that cannot access other Home Assistant APIs.",
+  "source_repo": "alexlenk/ha-concierge-mcp",
+  "source_url": "https://github.com/alexlenk/ha-concierge-mcp",
+  "install": "npx -y ha-concierge-mcp"
+}

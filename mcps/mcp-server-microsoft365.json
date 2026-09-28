@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-microsoft365",
+  "description": "Enables identity provisioning and management for Microsoft 365/Entra ID via Microsoft Graph, including user creation, license assignment, group membership management, and more, with a focus on least-privilege and idempotency.",
+  "source_repo": "borgels/mcp-server-microsoft365",
+  "source_url": "https://github.com/borgels/mcp-server-microsoft365",
+  "install": "# git clone --depth 1 https://github.com/borgels/mcp-server-microsoft365\n# See source for mcpServers config block"
+}

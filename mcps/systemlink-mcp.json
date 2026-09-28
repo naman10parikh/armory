@@ -1,0 +1,7 @@
+{
+  "name": "systemlink-mcp",
+  "description": "Exposes NI SystemLink test-and-measurement data to AI clients via MCP, providing test-domain tools for yield by product revision, failing DUT steps versus spec limits, measurement-trace summaries, and calibration-due assets.",
+  "source_repo": "rhit-folayaod/systemlink-mcp",
+  "source_url": "https://github.com/rhit-folayaod/systemlink-mcp",
+  "install": "npx -y systemlink-mcp"
+}

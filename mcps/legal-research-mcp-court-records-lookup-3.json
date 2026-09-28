@@ -1,0 +1,7 @@
+{
+  "name": "legal-research-mcp-court-records-lookup-3",
+  "description": "Federal and state court record lookup. Run a name or company through and get back filings, case status, and judgment data. Common uses: M&A due diligence, hiring background checks, journalist investigations. Returns structured records, not raw PDFs.",
+  "source_repo": "",
+  "source_url": "https://thenextgennexus.com",
+  "install": "# git clone --depth 1 https://thenextgennexus.com\n# See source for mcpServers config block"
+}

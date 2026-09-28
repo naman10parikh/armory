@@ -1,0 +1,7 @@
+{
+  "name": "schema-lint-mcp",
+  "description": "Validates schema files against customizable lint rules using Claude or Gemini AI, supporting JSON and SQL schemas with rules for naming, structure, and migration safety.",
+  "source_repo": "rebelice/schema-lint-mcp",
+  "source_url": "https://github.com/rebelice/schema-lint-mcp",
+  "install": "npx -y schema-lint-mcp"
+}

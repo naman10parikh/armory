@@ -1,0 +1,7 @@
+{
+  "name": "forgekit-storybook-mcp",
+  "description": "MCP server for automatic Storybook story generation, component analysis, and validation. Auto-detects React frameworks and syncs component documentation.",
+  "source_repo": "the-single-gentlemans-club/storybook-mcp",
+  "source_url": "https://github.com/the-single-gentlemans-club/storybook-mcp",
+  "install": "npx -y storybook-mcp"
+}

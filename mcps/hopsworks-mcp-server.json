@@ -1,0 +1,7 @@
+{
+  "name": "hopsworks-mcp-server",
+  "description": "Enables LLMs to interact with Hopsworks for platform management, feature store operations, model lifecycle, jobs, and integrations.",
+  "source_repo": "MagicLex/hopsworks-mcp",
+  "source_url": "https://github.com/MagicLex/hopsworks-mcp",
+  "install": "npx -y hopsworks-mcp"
+}

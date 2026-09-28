@@ -1,0 +1,7 @@
+{
+  "name": "ai-devtool-mcp-server",
+  "description": "MCP server for AI DevTool workflow, exposing tools and resources for code review, repository chat, and repository operations.",
+  "source_repo": "surajrsawat/ai-devtool-mcp-server",
+  "source_url": "https://github.com/surajrsawat/ai-devtool-mcp-server",
+  "install": "npx -y ai-devtool-mcp-server"
+}

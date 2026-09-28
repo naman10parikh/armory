@@ -1,0 +1,7 @@
+{
+  "name": "aiwyn-tax",
+  "description": "Automate tax workflow tasks and manage client engagements. Track deadlines, organize documents, and handle billing for accounting firms.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/aiwyn",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/aiwyn\n# See source for mcpServers config block"
+}

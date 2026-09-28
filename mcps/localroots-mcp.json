@@ -1,0 +1,7 @@
+{
+  "name": "localroots-mcp",
+  "description": "Enables discovery and scoring of independent local businesses by inverting algorithmic rankings that favor chains, using Google Places API with an opinionated independence-scoring engine.",
+  "source_repo": "parissharpe/local-roots-mcp",
+  "source_url": "https://github.com/parissharpe/local-roots-mcp",
+  "install": "npx -y local-roots-mcp"
+}

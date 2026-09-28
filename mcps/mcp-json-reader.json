@@ -1,0 +1,7 @@
+{
+  "name": "mcp-json-reader",
+  "description": "MCP server for reading, querying, and filtering local JSON files with extended JSONPath syntax, supporting sorting, aggregations, and complex conditions.",
+  "source_repo": "oovz/mcp-json-reader",
+  "source_url": "https://github.com/oovz/mcp-json-reader",
+  "install": "# git clone --depth 1 https://github.com/oovz/mcp-json-reader\n# See source for mcpServers config block"
+}

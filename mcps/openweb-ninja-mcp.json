@@ -1,0 +1,7 @@
+{
+  "name": "openweb-ninja-mcp",
+  "description": "Official MCP server for OpenWeb Ninja: 40+ real-time web data and SERP APIs (Google Maps, Amazon, jobs, Zillow, Trustpilot, web search, news, finance) exposed as MCP tools.",
+  "source_repo": "OpenWeb-Ninja/openwebninja-mcp",
+  "source_url": "https://github.com/OpenWeb-Ninja/openwebninja-mcp",
+  "install": "npx -y openwebninja-mcp"
+}

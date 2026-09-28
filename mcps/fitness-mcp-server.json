@@ -1,0 +1,7 @@
+{
+  "name": "fitness-mcp-server",
+  "description": "Provides MCP servers for Claude to access fitness data from Strava and intervals.icu, enabling natural language queries for activity analysis, advanced training metrics, and wellness tracking.",
+  "source_repo": "ewongz/fitness-mcp-server",
+  "source_url": "https://github.com/ewongz/fitness-mcp-server",
+  "install": "npx -y fitness-mcp-server"
+}

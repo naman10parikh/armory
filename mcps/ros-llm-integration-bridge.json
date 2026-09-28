@@ -1,0 +1,7 @@
+{
+  "name": "ros-llm-integration-bridge",
+  "description": "Enables large language models to interact with ROS robots seamlessly, allowing natural language control, real-time sensor monitoring, and autonomous task execution without modifying existing robot code.",
+  "source_repo": "Ankit-Paliwal/MCP-SERVER-FOR-ROS",
+  "source_url": "https://github.com/Ankit-Paliwal/MCP-SERVER-FOR-ROS",
+  "install": "# git clone --depth 1 https://github.com/Ankit-Paliwal/MCP-SERVER-FOR-ROS\n# See source for mcpServers config block"
+}

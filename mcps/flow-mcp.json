@@ -1,0 +1,7 @@
+{
+  "name": "flow-mcp",
+  "description": "A minimal MCP server that provides business control primitives (finish, pause, resume, rewind, abort) for agent/skill orchestration, persisting actionable facts into structured state files.",
+  "source_repo": "liyongshun/flow-control-mcp",
+  "source_url": "https://github.com/liyongshun/flow-control-mcp",
+  "install": "npx -y flow-control-mcp"
+}

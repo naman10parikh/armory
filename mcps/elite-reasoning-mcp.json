@@ -1,0 +1,7 @@
+{
+  "name": "elite-reasoning-mcp",
+  "description": "A 66-tool reasoning pipeline that intercepts prompts to classify intent, check past mistakes, and generate execution plans, enabling any LLM to think harder and avoid repeating errors.",
+  "source_repo": "Snehgabani/elite-reasoning-mcp",
+  "source_url": "https://github.com/Snehgabani/elite-reasoning-mcp",
+  "install": "npx -y elite-reasoning-mcp"
+}

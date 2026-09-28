@@ -1,0 +1,7 @@
+{
+  "name": "templui-mcp-server",
+  "description": "Enables AI assistants to access TemplUI components for building Go applications with the templ templating language.",
+  "source_repo": "tggo/templui-mcp-server",
+  "source_url": "https://github.com/tggo/templui-mcp-server",
+  "install": "npx -y templui-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "firekeep",
+  "description": "Self-hosted control plane for AI coding agents, providing persistent memory, session continuity, environment awareness, coordination, and replayable traces via MCP.",
+  "source_repo": "kapella-hub/FirekeepHQ",
+  "source_url": "https://github.com/kapella-hub/FirekeepHQ",
+  "install": "# git clone --depth 1 https://github.com/kapella-hub/FirekeepHQ\n# See source for mcpServers config block"
+}

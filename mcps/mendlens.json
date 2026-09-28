@@ -1,0 +1,7 @@
+{
+  "name": "mendlens",
+  "description": "Enables users to diagnose home appliance errors and receive safety actions by identifying products from photos or error codes, using official manufacturer data.",
+  "source_repo": "sangwopark19/MendLens",
+  "source_url": "https://github.com/sangwopark19/MendLens",
+  "install": "# git clone --depth 1 https://github.com/sangwopark19/MendLens\n# See source for mcpServers config block"
+}

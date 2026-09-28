@@ -1,0 +1,7 @@
+{
+  "name": "vito-mcp",
+  "description": "MCP server wrapping the full VitoDeploy REST API to manage projects, servers, sites, databases, services, workers, SSL, DNS, and more through any MCP-compatible agent, with 108 tools covering every endpoint.",
+  "source_repo": "xerxes-on/vito-mcp",
+  "source_url": "https://github.com/xerxes-on/vito-mcp",
+  "install": "npx -y vito-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fullmt5mcpbyleo",
+  "description": "Universal MCP server that enables AI assistants to control MetaTrader 5 directly, executing trades, managing data, and automating MT5 operations through natural language.",
+  "source_repo": "TradeSystemsNique/FullMt5McpByLeo",
+  "source_url": "https://github.com/TradeSystemsNique/FullMt5McpByLeo",
+  "install": "# git clone --depth 1 https://github.com/TradeSystemsNique/FullMt5McpByLeo\n# See source for mcpServers config block"
+}

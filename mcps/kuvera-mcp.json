@@ -1,0 +1,7 @@
+{
+  "name": "kuvera-mcp",
+  "description": "Connects AI assistants to Kuvera mutual fund portfolios, enabling real-time queries about holdings, performance, and fund details.",
+  "source_repo": "mayanks/null0",
+  "source_url": "https://github.com/mayanks/null0",
+  "install": "# git clone --depth 1 https://github.com/mayanks/null0\n# See source for mcpServers config block"
+}

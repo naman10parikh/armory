@@ -1,0 +1,7 @@
+{
+  "name": "ai-explore-review-loop",
+  "description": "Enables Claude Code sessions to wait for a durable, exact-head GitHub pull-request review and continue the same review/fix/push loop without polling, using Supabase durable state and Realtime wake-ups via ordinary stdio MCP.",
+  "source_repo": "kanyun-inc/ai-explore-review-loop-plugin",
+  "source_url": "https://github.com/kanyun-inc/ai-explore-review-loop-plugin",
+  "install": "# git clone --depth 1 https://github.com/kanyun-inc/ai-explore-review-loop-plugin\n# See source for mcpServers config block"
+}

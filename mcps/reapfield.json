@@ -1,0 +1,7 @@
+{
+  "name": "reapfield",
+  "description": "Extracts structured JSON from any URL using plain-language field specs, with caching and LLM-based selector discovery. Exposes scrape, list_cached_selectors, and refresh_selectors tools over stdio, and blocks private addresses for safety.",
+  "source_repo": "PedroHenriqueNS/reapfield",
+  "source_url": "https://github.com/PedroHenriqueNS/reapfield",
+  "install": "# git clone --depth 1 https://github.com/PedroHenriqueNS/reapfield\n# See source for mcpServers config block"
+}

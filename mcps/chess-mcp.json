@@ -1,0 +1,7 @@
+{
+  "name": "chess-mcp",
+  "description": "A powerful chess engine and game server built with the Model Context Protocol (MCP). Play chess against AI, analyze positions, and integrate chess functionality into your AI applications.",
+  "source_repo": "arvid-berndtsson/Chess-MCP",
+  "source_url": "https://github.com/arvid-berndtsson/Chess-MCP",
+  "install": "npx -y Chess-MCP"
+}

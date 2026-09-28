@@ -1,0 +1,7 @@
+{
+  "name": "jina-reader-mcp",
+  "description": "Enables fetching web pages via Jina Reader API, returning Markdown or JSON, with options for parallel fetches.",
+  "source_repo": "handcraftedbits/jina-reader-mcp",
+  "source_url": "https://github.com/handcraftedbits/jina-reader-mcp",
+  "install": "npx -y jina-reader-mcp"
+}

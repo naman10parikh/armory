@@ -1,0 +1,7 @@
+{
+  "name": "moltnode-mcp",
+  "description": "Enables MCP clients to interact with over 31 blockchain chains through the MoltNode RPC gateway, providing tools for chain listing, RPC calls, block numbers, and native balance queries without API keys or setup.",
+  "source_repo": "tuantqse90/moltnode-mcp",
+  "source_url": "https://github.com/tuantqse90/moltnode-mcp",
+  "install": "npx -y moltnode-mcp"
+}

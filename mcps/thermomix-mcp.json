@@ -1,0 +1,7 @@
+{
+  "name": "thermomix-mcp",
+  "description": "Converts recipes from any source (web, YouTube, Instagram, etc.) into Thermomix format with guided cooking steps and uploads them to Cookidoo.",
+  "source_repo": "modulrdesign/thermomix-mcp",
+  "source_url": "https://github.com/modulrdesign/thermomix-mcp",
+  "install": "npx -y thermomix-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "llm-fallback-mcp",
+  "description": "MCP server that completes prompts with automatic provider fallback across OpenAI, Anthropic Claude, and Google Gemini. It is rate-limit aware, retries on transient failures, and provides a transparent attempt log.",
+  "source_repo": "KhushalB25/llm-fallback-mcp",
+  "source_url": "https://github.com/KhushalB25/llm-fallback-mcp",
+  "install": "npx -y llm-fallback-mcp"
+}

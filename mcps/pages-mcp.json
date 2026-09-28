@@ -1,0 +1,7 @@
+{
+  "name": "pages-mcp",
+  "description": "Enables uploading and serving static websites via MCP tools, with automatic path prefix injection for multi-file sites.",
+  "source_repo": "RobertDWhite/pages-mcp",
+  "source_url": "https://github.com/RobertDWhite/pages-mcp",
+  "install": "npx -y pages-mcp"
+}

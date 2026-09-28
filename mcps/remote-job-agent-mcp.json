@@ -1,0 +1,7 @@
+{
+  "name": "remote-job-agent-mcp",
+  "description": "This server enables remote job discovery, tailored CV creation, and approval-gated application lifecycle management. It prioritizes safe, factual job applications without authenticated LinkedIn scraping or silent submissions.",
+  "source_repo": "salman0butt/linkedin-job-agent-mcp",
+  "source_url": "https://github.com/salman0butt/linkedin-job-agent-mcp",
+  "install": "npx -y linkedin-job-agent-mcp"
+}

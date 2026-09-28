@@ -1,0 +1,7 @@
+{
+  "name": "ops-copilot-mcp",
+  "description": "A self-hosted MCP server providing a governed interface for AI agents to interact with local Docker infrastructure, featuring a two-phase confirm protocol for state-changing operations and append-only audit logging.",
+  "source_repo": "mariuszbyahoo/ops-copilot-mcp",
+  "source_url": "https://github.com/mariuszbyahoo/ops-copilot-mcp",
+  "install": "npx -y ops-copilot-mcp"
+}

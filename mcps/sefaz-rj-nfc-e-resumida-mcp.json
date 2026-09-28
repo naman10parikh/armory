@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-rj-nfc-e-resumida-mcp",
+  "description": "Browse and consult simplified NFC-e (Nota Fiscal de Consumidor Eletrônica) data from the official SEFAZ RJ channel, enabling read-only queries for invoices via any MCP-compatible assistant.",
+  "source_repo": "mcp-dir/sefaz_rj_nfce_resumida-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_rj_nfce_resumida-mcp",
+  "install": "npx -y sefaz_rj_nfce_resumida-mcp"
+}

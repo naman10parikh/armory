@@ -1,0 +1,7 @@
+{
+  "name": "ttc-mcp",
+  "description": "A Model Context Protocol server for Toronto Transit Commission (TTC) that exposes subway, streetcar, and bus schedules, real-time arrivals, vehicle positions, and service alerts, plus multi-modal trip planning.",
+  "source_repo": "EmilSoleymani/ttc-mcp",
+  "source_url": "https://github.com/EmilSoleymani/ttc-mcp",
+  "install": "npx -y ttc-mcp"
+}

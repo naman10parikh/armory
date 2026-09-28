@@ -1,0 +1,7 @@
+{
+  "name": "bulgaria-payments-mcp",
+  "description": "Enables AI agents to accept payments in Bulgaria via Stripe hosted checkout (cards, Apple Pay, Google Pay).",
+  "source_repo": "junter1989k-ai/bulgaria-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/bulgaria-payments-mcp",
+  "install": "npx -y bulgaria-payments-mcp"
+}

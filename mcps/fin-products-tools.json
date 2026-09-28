@@ -1,0 +1,7 @@
+{
+  "name": "fin-products-tools",
+  "description": "MCP server that provides tools to query Korean financial products (savings, deposits, pensions, mortgages, loans) via the FSS Open API, enabling search by company or product type.",
+  "source_repo": "hyeonseo2/fin-products-tools",
+  "source_url": "https://github.com/hyeonseo2/fin-products-tools",
+  "install": "# git clone --depth 1 https://github.com/hyeonseo2/fin-products-tools\n# See source for mcpServers config block"
+}

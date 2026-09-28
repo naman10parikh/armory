@@ -1,0 +1,7 @@
+{
+  "name": "compeller-mcp",
+  "description": "Enables agents to create AI music videos and audio-reactive visuals from songs through MCP, including style discovery, music search, rendering, webhook registration, and media management.",
+  "source_repo": "Compellerai/compeller-mcp",
+  "source_url": "https://github.com/Compellerai/compeller-mcp",
+  "install": "npx -y compeller-mcp"
+}

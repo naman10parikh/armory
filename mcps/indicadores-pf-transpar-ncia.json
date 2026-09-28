@@ -1,0 +1,7 @@
+{
+  "name": "indicadores-pf-transpar-ncia",
+  "description": "Provides government transparency indicators for Brazilian individuals (CPF/NIS) via the Portal da Transparência, enabling read-only queries through natural language.",
+  "source_repo": "mcp-dir/transparencia_indicadores_pf-mcp",
+  "source_url": "https://github.com/mcp-dir/transparencia_indicadores_pf-mcp",
+  "install": "npx -y transparencia_indicadores_pf-mcp"
+}

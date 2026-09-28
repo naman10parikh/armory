@@ -1,0 +1,7 @@
+{
+  "name": "adlor-mcp-cad",
+  "description": "An open-source MCP server that bridges AI agents to Autodesk Revit and IFC geometry, providing ASME B31.3 pipe thickness verification, UK HSE Legionella compliance auditing, and 3D BIM property inspection.",
+  "source_repo": "MErblin/adlor-mcp-cad",
+  "source_url": "https://github.com/MErblin/adlor-mcp-cad",
+  "install": "# git clone --depth 1 https://github.com/MErblin/adlor-mcp-cad\n# See source for mcpServers config block"
+}

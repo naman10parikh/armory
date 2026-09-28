@@ -1,0 +1,7 @@
+{
+  "name": "meshy-youtube-mcp",
+  "description": "Enables generating 3D models from text prompts, rendering turntable animations, and uploading them directly to YouTube via an MCP interface.",
+  "source_repo": "Scottcjn/meshy-youtube-mcp",
+  "source_url": "https://github.com/Scottcjn/meshy-youtube-mcp",
+  "install": "npx -y meshy-youtube-mcp"
+}

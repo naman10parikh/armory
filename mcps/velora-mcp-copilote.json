@@ -1,0 +1,7 @@
+{
+  "name": "velora-mcp-copilote",
+  "description": "Enables AI agents to assist sales advisors of the fictional e-commerce Velora by providing tools to search products, check stock, get order status, and handle returns.",
+  "source_repo": "Onitsag/velora-mcp-copilote",
+  "source_url": "https://github.com/Onitsag/velora-mcp-copilote",
+  "install": "# git clone --depth 1 https://github.com/Onitsag/velora-mcp-copilote\n# See source for mcpServers config block"
+}

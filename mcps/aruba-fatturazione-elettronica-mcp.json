@@ -1,0 +1,7 @@
+{
+  "name": "aruba-fatturazione-elettronica-mcp",
+  "description": "Exposes read-only Aruba Fatturazione Elettronica API operations for managing electronic invoices, notifications, and providing fiscal document helpers.",
+  "source_repo": "mnbro/aruba-fatturazione-elettronica-mcp",
+  "source_url": "https://github.com/mnbro/aruba-fatturazione-elettronica-mcp",
+  "install": "npx -y aruba-fatturazione-elettronica-mcp"
+}

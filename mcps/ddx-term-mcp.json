@@ -1,0 +1,7 @@
+{
+  "name": "ddx-term-mcp",
+  "description": "Enables AI agents to execute commands in a shared tmux session that is simultaneously visible to a human via a web-based terminal UI.",
+  "source_repo": "Dudoxx/dudoxx-ai-terminal",
+  "source_url": "https://github.com/Dudoxx/dudoxx-ai-terminal",
+  "install": "# git clone --depth 1 https://github.com/Dudoxx/dudoxx-ai-terminal\n# See source for mcpServers config block"
+}

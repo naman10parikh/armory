@@ -1,0 +1,7 @@
+{
+  "name": "google-flow-safe-mcp",
+  "description": "Safe MCP server for Google Flow that opens a separate Chrome instance, handles authentication, and enables video generation and download, without affecting the main Chrome profile.",
+  "source_repo": "shaekhovismagil-bit/google-flow-safe-mcp",
+  "source_url": "https://github.com/shaekhovismagil-bit/google-flow-safe-mcp",
+  "install": "npx -y google-flow-safe-mcp"
+}

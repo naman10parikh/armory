@@ -1,0 +1,7 @@
+{
+  "name": "ntfy-notify",
+  "description": "Lets you send push notifications to your phone via ntfy, enabling alerts from scheduled tasks or direct messages.",
+  "source_repo": "Gardner-Programs/ntfy-notify",
+  "source_url": "https://github.com/Gardner-Programs/ntfy-notify",
+  "install": "# git clone --depth 1 https://github.com/Gardner-Programs/ntfy-notify\n# See source for mcpServers config block"
+}

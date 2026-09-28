@@ -1,0 +1,7 @@
+{
+  "name": "nasl3yn-datahub-mcp-server",
+  "description": "MCP server for cinematic context platform, enabling video asset management, lineage tracing, and pipeline orchestration via DataHub.",
+  "source_repo": "ahm22004/nasl3yn-datahub",
+  "source_url": "https://github.com/ahm22004/nasl3yn-datahub",
+  "install": "# git clone --depth 1 https://github.com/ahm22004/nasl3yn-datahub\n# See source for mcpServers config block"
+}

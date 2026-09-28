@@ -1,0 +1,7 @@
+{
+  "name": "ai-model-selector-mcp",
+  "description": "Provides AI assistants with structured access to metadata for 76+ AI models across Ollama, Claude, and OpenRouter, enabling capability queries, compatibility checks, model comparisons, and task-based recommendations.",
+  "source_repo": "barrymister/ai-model-selector-mcp",
+  "source_url": "https://github.com/barrymister/ai-model-selector-mcp",
+  "install": "npx -y ai-model-selector-mcp"
+}

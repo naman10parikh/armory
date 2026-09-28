@@ -1,0 +1,7 @@
+{
+  "name": "mcp-auth-fetch",
+  "description": "A powerful and flexible package designed to simplify HTTP/HTTPS requests by automatically applying authentication credentials based on configurable rules. It acts as a seamless proxy for your fetch calls, finding the correct authentication method for a given URL, and attaching the necessary headers",
+  "source_repo": "seeker-wen/mcp-auth-fetch",
+  "source_url": "https://github.com/seeker-wen/mcp-auth-fetch",
+  "install": "# git clone --depth 1 https://github.com/seeker-wen/mcp-auth-fetch\n# See source for mcpServers config block"
+}

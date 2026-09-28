@@ -1,0 +1,7 @@
+{
+  "name": "findme-mcp",
+  "description": "Enables AI clients to create and manage FindMe Photo wedding galleries, upload photos from local files or URLs, and retrieve analytics and QR codes using natural language.",
+  "source_repo": "findmephoto/findme-mcp",
+  "source_url": "https://github.com/findmephoto/findme-mcp",
+  "install": "npx -y findme-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "smart-router",
+  "description": "A single MCP server that fronts many downstream MCP servers and Skills, exposing only four tools (search, call_tool, use_skill, admin) so that an agent's context window only ever sees search results on demand.",
+  "source_repo": "chris-asmussen/warden",
+  "source_url": "https://github.com/chris-asmussen/warden",
+  "install": "# git clone --depth 1 https://github.com/chris-asmussen/warden\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "html-to-markdown-converter-mcp",
+  "description": "Converts raw HTML to clean Markdown, optimized for LLM token efficiency and deterministic processing.",
+  "source_repo": "vinkius-labs/html-markdown-converter-mcp",
+  "source_url": "https://github.com/vinkius-labs/html-markdown-converter-mcp",
+  "install": "npx -y html-markdown-converter-mcp"
+}

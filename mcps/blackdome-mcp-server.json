@@ -1,0 +1,7 @@
+{
+  "name": "blackdome-mcp-server",
+  "description": "Give your AI agents direct access to live honeypot threat intelligence. Look up attacker IPs, browse indicators of compromise (IOCs), inspect captured credentials and malware payloads, profile threat actors, and render a real-time global attack map — all from Claude, Cursor, or any MCP-compatible cl",
+  "source_repo": "blackdome-ai/blackdome-mcp",
+  "source_url": "https://github.com/blackdome-ai/blackdome-mcp",
+  "install": "npx -y blackdome-mcp"
+}

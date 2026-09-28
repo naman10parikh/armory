@@ -1,0 +1,7 @@
+{
+  "name": "gtm-mcp",
+  "description": "Enables natural language management of Google Tag Manager accounts, containers, tags, triggers, variables, and versions, including creation, update, and publishing.",
+  "source_repo": "tijevlam/gtm-mcp",
+  "source_url": "https://github.com/tijevlam/gtm-mcp",
+  "install": "npx -y gtm-mcp"
+}

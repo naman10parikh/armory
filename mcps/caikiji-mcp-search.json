@@ -1,0 +1,7 @@
+{
+  "name": "caikiji-mcp-search",
+  "description": "Privacy-respecting, self-hosted metasearch MCP server that aggregates results from multiple search engines and fetches page content as Markdown.",
+  "source_repo": "caikiji/mcp-search",
+  "source_url": "https://github.com/caikiji/mcp-search",
+  "install": "# git clone --depth 1 https://github.com/caikiji/mcp-search\n# See source for mcpServers config block"
+}

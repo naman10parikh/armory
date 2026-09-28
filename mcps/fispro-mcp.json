@@ -1,0 +1,7 @@
+{
+  "name": "fispro-mcp",
+  "description": "MCP server for FisPro fuzzy inference systems, enabling reading .fis files, running inferences, and explaining rule firings in natural language.",
+  "source_repo": "Kofi04/fispro-mcp",
+  "source_url": "https://github.com/Kofi04/fispro-mcp",
+  "install": "npx -y fispro-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "erp-mcp",
+  "description": "Exposes ERP data (production orders, inventory, BOM, customers) to any MCP client through a backend-neutral interface, with a mock backend for testing.",
+  "source_repo": "prodline-ai/erp-mcp",
+  "source_url": "https://github.com/prodline-ai/erp-mcp",
+  "install": "npx -y erp-mcp"
+}

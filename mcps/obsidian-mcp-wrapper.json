@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-mcp-wrapper",
+  "description": "Enables Claude Desktop to securely search and retrieve knowledge from an Obsidian vault through a stateless MCP interface, with progressive disclosure and gated write capabilities.",
+  "source_repo": "UwUGreed/obsidian-mcp-wrapper",
+  "source_url": "https://github.com/UwUGreed/obsidian-mcp-wrapper",
+  "install": "# git clone --depth 1 https://github.com/UwUGreed/obsidian-mcp-wrapper\n# See source for mcpServers config block"
+}

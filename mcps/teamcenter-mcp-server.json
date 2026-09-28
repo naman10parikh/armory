@@ -1,0 +1,7 @@
+{
+  "name": "teamcenter-mcp-server",
+  "description": "Integrates with Teamcenter PLM using its REST API, enabling search, create, update, and query of Teamcenter items through natural language.",
+  "source_repo": "srgio-es/teamcenter-mcp-server",
+  "source_url": "https://github.com/srgio-es/teamcenter-mcp-server",
+  "install": "npx -y teamcenter-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "music-player-mcp-server",
+  "description": "Enables playing and controlling full music tracks from Audius with an inline visualizer widget, including search, queue management, and playback controls.",
+  "source_repo": "rashmi-star/music-mcp",
+  "source_url": "https://github.com/rashmi-star/music-mcp",
+  "install": "npx -y music-mcp"
+}

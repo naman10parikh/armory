@@ -1,0 +1,7 @@
+{
+  "name": "oura-ring-mcp",
+  "description": "Connects your Oura Ring to AI assistants like Claude, providing human-readable insights about sleep, readiness, activity, and health metrics with smart analysis.",
+  "source_repo": "mitchhankins01/oura-ring-mcp",
+  "source_url": "https://github.com/mitchhankins01/oura-ring-mcp",
+  "install": "npx -y oura-ring-mcp"
+}

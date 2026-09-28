@@ -1,0 +1,7 @@
+{
+  "name": "google-workspace-alias-mcp",
+  "description": "A Model Context Protocol server for Google Workspace integration with send-as alias support, email templates, and scheduled send, enabling AI assistants to manage Gmail and Google Calendar through natural language.",
+  "source_repo": "johndelapena168/google-workspace-alias-mcp",
+  "source_url": "https://github.com/johndelapena168/google-workspace-alias-mcp",
+  "install": "npx -y google-workspace-alias-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codex-project-memory",
+  "description": "Local repository memory for Codex that indexes TypeScript/JavaScript structure into local SQLite, exposes compact MCP tools, and renders deterministic SVG/map frames.",
+  "source_repo": "takaok5/codex-project-memory",
+  "source_url": "https://github.com/takaok5/codex-project-memory",
+  "install": "# git clone --depth 1 https://github.com/takaok5/codex-project-memory\n# See source for mcpServers config block"
+}

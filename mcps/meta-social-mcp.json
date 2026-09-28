@@ -1,0 +1,7 @@
+{
+  "name": "meta-social-mcp",
+  "description": "Enables publishing and managing organic Facebook Page and Instagram content directly through Meta's Graph API without paid third-party services.",
+  "source_repo": "nicktradeaccelerate-beep/meta-social-mcp",
+  "source_url": "https://github.com/nicktradeaccelerate-beep/meta-social-mcp",
+  "install": "npx -y meta-social-mcp"
+}

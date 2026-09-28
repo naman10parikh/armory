@@ -1,0 +1,7 @@
+{
+  "name": "convradar",
+  "description": "Enables conversational analysis of Google Analytics 4 data through MCP-compatible clients like Claude and ChatGPT, providing conversion diagnostics and insights.",
+  "source_repo": "Pikaivan/convradar-mcp",
+  "source_url": "https://github.com/Pikaivan/convradar-mcp",
+  "install": "npx -y convradar-mcp"
+}

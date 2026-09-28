@@ -1,0 +1,7 @@
+{
+  "name": "weex-mcp",
+  "description": "MCP server providing WEEX market data, account information, and controlled trade execution, with local stdio and HTTP transports.",
+  "source_repo": "enzo108216/weex-mcp",
+  "source_url": "https://github.com/enzo108216/weex-mcp",
+  "install": "npx -y weex-mcp"
+}

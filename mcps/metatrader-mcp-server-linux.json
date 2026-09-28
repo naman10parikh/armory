@@ -1,0 +1,7 @@
+{
+  "name": "metatrader-mcp-server-linux",
+  "description": "Enables AI assistants to trade on MetaTrader 5 on Linux by bridging the Windows-only MetaTrader5 package through Wine.",
+  "source_repo": "pongsakorn-onsri/metatrader-mcp-server-mac",
+  "source_url": "https://github.com/pongsakorn-onsri/metatrader-mcp-server-mac",
+  "install": "# git clone --depth 1 https://github.com/pongsakorn-onsri/metatrader-mcp-server-mac\n# See source for mcpServers config block"
+}

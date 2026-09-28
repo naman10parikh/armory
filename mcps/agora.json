@@ -1,0 +1,7 @@
+{
+  "name": "agora",
+  "description": "Espacio compartido y persistente por repositorio para sesiones de Claude Code: cada sesión registra su actividad vía hooks, ves qué hicieron/hacen las demás, te avisa si vas a pisar trabajo ajeno, y podés dejar notas. Sin daemon.",
+  "source_repo": "vorluno/agora-mcp",
+  "source_url": "https://github.com/vorluno/agora-mcp",
+  "install": "npx -y agora-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "onion-search-mcp",
+  "description": "Enables searching and exploring the dark web (.onion) via a gMCP-compatible server, with tools to search multiple engines, fetch onion pages, check status, and extract links.",
+  "source_repo": "noreplynexoracommunity-lgtm/onion-search-mcp",
+  "source_url": "https://github.com/noreplynexoracommunity-lgtm/onion-search-mcp",
+  "install": "npx -y onion-search-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentready",
+  "description": "MCP server for auditing e-commerce stores' AI agent readiness, providing deterministic scores, blockers, and fixes. Enables agents to call check_merchant_readiness, get_readiness_report, and list_agent_ready_stores.",
+  "source_repo": "agentready-market/agentready",
+  "source_url": "https://github.com/agentready-market/agentready",
+  "install": "# git clone --depth 1 https://github.com/agentready-market/agentready\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rive-docs-mcp",
+  "description": "Provides access to Rive's animation documentation, runtime guides, editor features, and tutorials via the Model Context Protocol.",
+  "source_repo": "StormXX/rive-docs-mcp",
+  "source_url": "https://github.com/StormXX/rive-docs-mcp",
+  "install": "npx -y rive-docs-mcp"
+}

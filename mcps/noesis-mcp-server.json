@@ -1,0 +1,7 @@
+{
+  "name": "noesis-mcp-server",
+  "description": "Provides persistent, cross-session memory for AI agents using a wave-based scoring system that surfaces relevant knowledge across sessions.",
+  "source_repo": "VantaIDE/noesis",
+  "source_url": "https://github.com/VantaIDE/noesis",
+  "install": "# git clone --depth 1 https://github.com/VantaIDE/noesis\n# See source for mcpServers config block"
+}

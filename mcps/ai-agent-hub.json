@@ -1,0 +1,7 @@
+{
+  "name": "ai-agent-hub",
+  "description": "AI Agent Hub is a pay-per-call API platform for AI agents Every call is billed automatically in USDC using the x402 protocol - there is no API key, no account, and no signup. Agents get instant access to data queries, file storage, and ad impressions, paying only for what they actually use. The same",
+  "source_repo": "justuncase1210-del/AI-Agent-Hub",
+  "source_url": "https://github.com/justuncase1210-del/AI-Agent-Hub",
+  "install": "# git clone --depth 1 https://github.com/justuncase1210-del/AI-Agent-Hub\n# See source for mcpServers config block"
+}

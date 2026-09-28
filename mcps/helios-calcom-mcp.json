@@ -1,0 +1,7 @@
+{
+  "name": "helios-calcom-mcp",
+  "description": "Secure MCP wrapper for Cal.com integration, exposing calendar booking tools to Hermes/Helios.",
+  "source_repo": "davidjmb99/helios-calcom-mcp",
+  "source_url": "https://github.com/davidjmb99/helios-calcom-mcp",
+  "install": "npx -y helios-calcom-mcp"
+}

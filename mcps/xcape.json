@@ -1,0 +1,7 @@
+{
+  "name": "xcape",
+  "description": "Vacation-quoting MCP server for travel agents that turns plain-language client briefs into priced, bookable proposals with live hotel rates, activities, and dining, plus an assistant skill for building branded, printable quotes.",
+  "source_repo": "ari-systemics/xcape",
+  "source_url": "https://github.com/ari-systemics/xcape",
+  "install": "# git clone --depth 1 https://github.com/ari-systemics/xcape\n# See source for mcpServers config block"
+}

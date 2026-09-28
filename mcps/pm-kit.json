@@ -1,0 +1,7 @@
+{
+  "name": "pm-kit",
+  "description": "Integrates AI assistants with product management tools like Linear and Slack, providing specialized agents for discovery, strategy, prioritization, roadmap planning, and metrics definition via the Model Context Protocol.",
+  "source_repo": "gianisp/pm-kit",
+  "source_url": "https://github.com/gianisp/pm-kit",
+  "install": "# git clone --depth 1 https://github.com/gianisp/pm-kit\n# See source for mcpServers config block"
+}

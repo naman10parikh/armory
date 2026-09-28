@@ -1,0 +1,7 @@
+{
+  "name": "me-qr-mcp-server",
+  "description": "Cloud-hosted MCP server that enables AI assistants to create, update, and manage QR codes on me-qr.com via OAuth, supporting types like URLs, Wi-Fi, vCards, PDFs, and images.",
+  "source_repo": "me-qr/me-qr-mcp-server",
+  "source_url": "https://github.com/me-qr/me-qr-mcp-server",
+  "install": "npx -y me-qr-mcp-server"
+}

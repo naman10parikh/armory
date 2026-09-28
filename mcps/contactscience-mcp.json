@@ -1,0 +1,7 @@
+{
+  "name": "contactscience-mcp",
+  "description": "MCP server for Contact Science CRM, providing tools to query appointment and call-block reports via the Contact Science API.",
+  "source_repo": "MSPbotsAI/contactscience-mcp",
+  "source_url": "https://github.com/MSPbotsAI/contactscience-mcp",
+  "install": "npx -y contactscience-mcp"
+}

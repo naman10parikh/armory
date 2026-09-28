@@ -1,0 +1,7 @@
+{
+  "name": "schema-guard-mcp",
+  "description": "Audits PostgreSQL/Supabase schemas for security issues like missing RLS, permissive policies, and sensitive data exposure during AI conversations.",
+  "source_repo": "yagaMI-Reverse/schema-guard-mcp",
+  "source_url": "https://github.com/yagaMI-Reverse/schema-guard-mcp",
+  "install": "npx -y schema-guard-mcp"
+}

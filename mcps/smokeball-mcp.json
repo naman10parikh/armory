@@ -1,0 +1,7 @@
+{
+  "name": "smokeball-mcp",
+  "description": "MCP server providing full Smokeball API coverage for law firm practice management, enabling natural language interactions with matters, contacts, tasks, billing, and more via Claude Desktop.",
+  "source_repo": "RosenAdvertising/smokeball-mcp",
+  "source_url": "https://github.com/RosenAdvertising/smokeball-mcp",
+  "install": "npx -y smokeball-mcp"
+}

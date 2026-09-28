@@ -1,0 +1,7 @@
+{
+  "name": "agent-platform-api",
+  "description": "MCP server for the Agent Platform API, enabling management of sandbox environments through MCP protocol. Exposes tools to interact with sandbox lifecycle operations such as start, stop, and status checks.",
+  "source_repo": "Xeonice/agent-platform-api",
+  "source_url": "https://github.com/Xeonice/agent-platform-api",
+  "install": "# git clone --depth 1 https://github.com/Xeonice/agent-platform-api\n# See source for mcpServers config block"
+}

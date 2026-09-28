@@ -1,0 +1,7 @@
+{
+  "name": "mcp-saas-metrics",
+  "description": "Provides accurate SaaS metrics calculations (LTV, CAC, runway, health score, etc.) with formulas and interpretations for AI agents and founders, ensuring no hallucinated numbers.",
+  "source_repo": "princeruhulofficial/mcp-saas-metrics",
+  "source_url": "https://github.com/princeruhulofficial/mcp-saas-metrics",
+  "install": "# git clone --depth 1 https://github.com/princeruhulofficial/mcp-saas-metrics\n# See source for mcpServers config block"
+}

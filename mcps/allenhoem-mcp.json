@@ -1,0 +1,7 @@
+{
+  "name": "allenhoem-mcp",
+  "description": "Remote MCP server exposing tools to explore Allen Hoem's professional record, including patents, media, and contact requests.",
+  "source_repo": "AllenHoem/allenhoem-mcp",
+  "source_url": "https://github.com/AllenHoem/allenhoem-mcp",
+  "install": "npx -y allenhoem-mcp"
+}

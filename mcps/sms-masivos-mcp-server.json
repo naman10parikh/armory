@@ -1,0 +1,7 @@
+{
+  "name": "sms-masivos-mcp-server",
+  "description": "Enables AI assistants to send SMS, manage contacts, verify numbers, and query campaigns via SMS Masivos platform using natural language.",
+  "source_repo": "SMS-Masivos/mcp-server",
+  "source_url": "https://github.com/SMS-Masivos/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/SMS-Masivos/mcp-server\n# See source for mcpServers config block"
+}

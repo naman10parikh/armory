@@ -1,0 +1,7 @@
+{
+  "name": "merchant-mcp",
+  "description": "A universal MCP server that provides a single merchant interface for AI agents across multiple protocols, enabling catalog browsing, checkout creation, and transaction status queries.",
+  "source_repo": "autopaylab/merchant-mcp",
+  "source_url": "https://github.com/autopaylab/merchant-mcp",
+  "install": "npx -y merchant-mcp"
+}

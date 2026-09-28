@@ -1,0 +1,7 @@
+{
+  "name": "tst-cndt-mcp",
+  "description": "Emits Brazilian labor debt clearance certificates (CNDT) from TST for individuals or companies using CPF or CNPJ. Provides read-only access via a single MCP tool for any MCP-compatible client.",
+  "source_repo": "mcp-dir/tst_cndt-mcp",
+  "source_url": "https://github.com/mcp-dir/tst_cndt-mcp",
+  "install": "npx -y tst_cndt-mcp"
+}

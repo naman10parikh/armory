@@ -1,0 +1,7 @@
+{
+  "name": "razberri-mcp-server",
+  "description": "A privacy-first, local-first MCP server that provides 15 ADHD/second-brain tools for capturing, prioritizing, and resurfacing tasks with context from calendar, mail, and messages.",
+  "source_repo": "nathanasbury/razberri-AI-Agents-Microsoft",
+  "source_url": "https://github.com/nathanasbury/razberri-AI-Agents-Microsoft",
+  "install": "# git clone --depth 1 https://github.com/nathanasbury/razberri-AI-Agents-Microsoft\n# See source for mcpServers config block"
+}

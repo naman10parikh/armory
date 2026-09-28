@@ -1,0 +1,7 @@
+{
+  "name": "insurance-claims-mcp-rag-agent",
+  "description": "Provides retrieval-augmented generation for insurance claims, enabling search, clause retrieval, and governed tool-calling over policy documents using local LLM (Ollama).",
+  "source_repo": "SwapnilMundhekar/insurance-claims-mcp-rag",
+  "source_url": "https://github.com/SwapnilMundhekar/insurance-claims-mcp-rag",
+  "install": "# git clone --depth 1 https://github.com/SwapnilMundhekar/insurance-claims-mcp-rag\n# See source for mcpServers config block"
+}

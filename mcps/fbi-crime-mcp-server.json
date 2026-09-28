@@ -1,0 +1,7 @@
+{
+  "name": "fbi-crime-mcp-server",
+  "description": "Exposes the FBI Crime Data Explorer API — crime estimates, agency offense rates, and LEOKA officer safety data via MCP. Supports STDIO or Streamable HTTP transport.",
+  "source_repo": "cyanheads/fbi-crime-mcp-server",
+  "source_url": "https://github.com/cyanheads/fbi-crime-mcp-server",
+  "install": "npx -y fbi-crime-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cpfl-download-via-link-ocr",
+  "description": "Read-only MCP server for consulting CPFL utility data via official source using link and OCR, with prepaid per-query pricing.",
+  "source_repo": "mcp-dir/contas_cpfl_link_ocr-mcp",
+  "source_url": "https://github.com/mcp-dir/contas_cpfl_link_ocr-mcp",
+  "install": "npx -y contas_cpfl_link_ocr-mcp"
+}

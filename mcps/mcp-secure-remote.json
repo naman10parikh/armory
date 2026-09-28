@@ -1,0 +1,7 @@
+{
+  "name": "mcp-secure-remote",
+  "description": "A stdio-to-remote MCP bridge with mTLS client certificate authentication for secure remote MCP server access.",
+  "source_repo": "framedparadox/mcp-secure-remote",
+  "source_url": "https://github.com/framedparadox/mcp-secure-remote",
+  "install": "# git clone --depth 1 https://github.com/framedparadox/mcp-secure-remote\n# See source for mcpServers config block"
+}

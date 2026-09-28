@@ -1,0 +1,7 @@
+{
+  "name": "postgis-yukon-mcp",
+  "description": "Enables natural language and geospatial queries on PostGIS databases, with 32 tools for spatial analysis, geometry operations, and database management.",
+  "source_repo": "zmGiser/PostGIS_Yukon_MCP",
+  "source_url": "https://github.com/zmGiser/PostGIS_Yukon_MCP",
+  "install": "npx -y PostGIS_Yukon_MCP"
+}

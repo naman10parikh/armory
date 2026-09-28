@@ -1,0 +1,7 @@
+{
+  "name": "semoss-dev-mcp",
+  "description": "Provides focused, topic-scoped search tools for SEMOSS developer documentation, backed by a vector engine. Also includes a web portal for browsing the same content.",
+  "source_repo": "ppatel9703/semoss-dev-mcp",
+  "source_url": "https://github.com/ppatel9703/semoss-dev-mcp",
+  "install": "npx -y semoss-dev-mcp"
+}

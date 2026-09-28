@@ -1,0 +1,7 @@
+{
+  "name": "python-code-guardian-mcp-server",
+  "description": "Enables automated Python code quality checks including linting, complexity analysis, typo detection, structure validation, duplicate detection, and test coverage, with integration into Cursor IDE and CLI.",
+  "source_repo": "priyanshi9692/py-sage-mcp",
+  "source_url": "https://github.com/priyanshi9692/py-sage-mcp",
+  "install": "npx -y py-sage-mcp"
+}

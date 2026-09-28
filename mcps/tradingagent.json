@@ -1,0 +1,7 @@
+{
+  "name": "tradingagent",
+  "description": "Enables natural-language paper trading with real-time market data, FinBERT sentiment analysis, conditional orders, and price alerts.",
+  "source_repo": "cactus001/TRADE-AGENT",
+  "source_url": "https://github.com/cactus001/TRADE-AGENT",
+  "install": "# git clone --depth 1 https://github.com/cactus001/TRADE-AGENT\n# See source for mcpServers config block"
+}

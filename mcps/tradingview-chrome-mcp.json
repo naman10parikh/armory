@@ -1,0 +1,7 @@
+{
+  "name": "tradingview-chrome-mcp",
+  "description": "Enables AI assistants to remotely control TradingView charts in Chrome, including reading charts, writing and fixing Pine Script, managing watchlists and alerts, and capturing screenshots, all through natural language commands.",
+  "source_repo": "firyomaefx/tradingview-chrome-mcp",
+  "source_url": "https://github.com/firyomaefx/tradingview-chrome-mcp",
+  "install": "npx -y tradingview-chrome-mcp"
+}

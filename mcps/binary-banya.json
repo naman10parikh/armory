@@ -1,0 +1,7 @@
+{
+  "name": "binary-banya",
+  "description": "An MCP server offering 'treatments' for AI agents like context cleaning, critique, and relaxation. Agents can check in, get feedback, and improve their performance.",
+  "source_repo": "pdarche/model-wellness",
+  "source_url": "https://github.com/pdarche/model-wellness",
+  "install": "# git clone --depth 1 https://github.com/pdarche/model-wellness\n# See source for mcpServers config block"
+}

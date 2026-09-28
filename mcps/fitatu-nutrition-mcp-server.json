@@ -1,0 +1,7 @@
+{
+  "name": "fitatu-nutrition-mcp-server",
+  "description": "Syncs and retrieves daily nutrition data (meals and macros) from Fitatu via MCP tools, with SQLite caching and HTTP Streamable transport.",
+  "source_repo": "karolswitala/fitatu-mcp",
+  "source_url": "https://github.com/karolswitala/fitatu-mcp",
+  "install": "npx -y fitatu-mcp"
+}

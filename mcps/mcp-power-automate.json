@@ -1,0 +1,7 @@
+{
+  "name": "mcp-power-automate",
+  "description": "Local-first MCP server and Chromium extension for AI-assisted Microsoft Power Automate work, enabling users to inspect, validate, edit, run, review, and revert cloud flows using a browser session.",
+  "source_repo": "kaael1/mcp-power-automate",
+  "source_url": "https://github.com/kaael1/mcp-power-automate",
+  "install": "# git clone --depth 1 https://github.com/kaael1/mcp-power-automate\n# See source for mcpServers config block"
+}

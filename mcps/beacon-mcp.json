@@ -1,0 +1,7 @@
+{
+  "name": "beacon-mcp",
+  "description": "MCP server for the beacon log analytics platform, exposing beacon's REST API as MCP tools and resources for AI agents to query and analyse AI-assistant usage data.",
+  "source_repo": "HyperBDR/beacon-mcp",
+  "source_url": "https://github.com/HyperBDR/beacon-mcp",
+  "install": "npx -y beacon-mcp"
+}

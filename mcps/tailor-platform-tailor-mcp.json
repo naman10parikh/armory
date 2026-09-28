@@ -1,0 +1,7 @@
+{
+  "name": "tailor-platform-tailor-mcp",
+  "description": "MCP server for managing Tailor Platform resources via tools like create, update, destroy, and search resources, as well as GraphQL queries.",
+  "source_repo": "tailor-platform/tailor-mcp",
+  "source_url": "https://github.com/tailor-platform/tailor-mcp",
+  "install": "npx -y tailor-mcp"
+}

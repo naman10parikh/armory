@@ -1,0 +1,7 @@
+{
+  "name": "xs-shlink-mcp",
+  "description": "Enables to manage and analyze a Shlink URL-shortener instance with tools for short URLs, visits, tags, domains, redirect rules, QR codes, and Mercure integration.",
+  "source_repo": "AlexGreenUK/XS-Shlink-MCP",
+  "source_url": "https://github.com/AlexGreenUK/XS-Shlink-MCP",
+  "install": "npx -y XS-Shlink-MCP"
+}

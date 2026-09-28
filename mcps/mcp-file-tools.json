@@ -1,0 +1,7 @@
+{
+  "name": "mcp-file-tools",
+  "description": "MCP server for encoding-aware file operations supporting 24 encodings, with secure directory-restricted tools and optional local execution for ChatGPT Web via OpenAI Secure MCP Tunnel.",
+  "source_repo": "zoster81/mcp-file-tools",
+  "source_url": "https://github.com/zoster81/mcp-file-tools",
+  "install": "# git clone --depth 1 https://github.com/zoster81/mcp-file-tools\n# See source for mcpServers config block"
+}

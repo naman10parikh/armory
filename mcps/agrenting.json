@@ -1,0 +1,7 @@
+{
+  "name": "agrenting",
+  "description": "Marketplace plugin enabling Claude Code to discover, hire, monitor, and retrieve results from remote agents via Agrenting, with scoped API keys and secure escrow payments.",
+  "source_repo": "zaalipro/llmotions-agentfarm-claude-plugins",
+  "source_url": "https://github.com/zaalipro/llmotions-agentfarm-claude-plugins",
+  "install": "# git clone --depth 1 https://github.com/zaalipro/llmotions-agentfarm-claude-plugins\n# See source for mcpServers config block"
+}

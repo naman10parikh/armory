@@ -1,0 +1,7 @@
+{
+  "name": "fishing-mcp-server",
+  "description": "MCP server for a text-based fishing game that allows Claude to play remotely via the Model Context Protocol, with features like casting, buying bait, selling fish, and exploring different locations.",
+  "source_repo": "chunfangzou8-lang/fishing-mcp-server",
+  "source_url": "https://github.com/chunfangzou8-lang/fishing-mcp-server",
+  "install": "npx -y fishing-mcp-server"
+}

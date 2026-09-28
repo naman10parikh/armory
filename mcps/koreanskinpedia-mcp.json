@@ -1,0 +1,7 @@
+{
+  "name": "koreanskinpedia-mcp",
+  "description": "Enables publishing of medical content (articles, procedures, clinics) to a Korean skincare platform via a publishing API, requiring API URL and API key for authentication.",
+  "source_repo": "SeoulVentures/koreanskinpedia-mcp",
+  "source_url": "https://github.com/SeoulVentures/koreanskinpedia-mcp",
+  "install": "npx -y koreanskinpedia-mcp"
+}

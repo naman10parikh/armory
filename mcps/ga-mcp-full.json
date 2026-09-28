@@ -1,0 +1,7 @@
+{
+  "name": "ga-mcp-full",
+  "description": "Provides full Google Analytics 4 management and reporting capabilities via MCP, including property management, custom dimensions, audiences, events, data streams, and real-time reporting.",
+  "source_repo": "ringo380/ga-mcp-full",
+  "source_url": "https://github.com/ringo380/ga-mcp-full",
+  "install": "# git clone --depth 1 https://github.com/ringo380/ga-mcp-full\n# See source for mcpServers config block"
+}

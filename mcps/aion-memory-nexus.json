@@ -1,0 +1,7 @@
+{
+  "name": "aion-memory-nexus",
+  "description": "A trusted memory and predictive analysis MCP server for AI agents, enabling evidence-based memory management, pattern analysis, and decision support with full audit trails.",
+  "source_repo": "234194027-cpu/aion-memory-nexus",
+  "source_url": "https://github.com/234194027-cpu/aion-memory-nexus",
+  "install": "# git clone --depth 1 https://github.com/234194027-cpu/aion-memory-nexus\n# See source for mcpServers config block"
+}

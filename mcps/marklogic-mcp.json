@@ -1,0 +1,7 @@
+{
+  "name": "marklogic-mcp",
+  "description": "An MCP server for MarkLogic 12 that enables AI agents to interrogate, query, and manage MarkLogic databases using native capabilities including full-text search, Optic queries, SPARQL, bulk import/export, and TDE schema management.",
+  "source_repo": "tternquist/marklogic-mcp",
+  "source_url": "https://github.com/tternquist/marklogic-mcp",
+  "install": "npx -y marklogic-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "smartsheet-mcp",
+  "description": "Enables browsing and querying Smartsheet data through read-only MCP tools, allowing MCP-compatible clients to explore sheets, reports, dashboards, and more.",
+  "source_repo": "Kcrong/smartsheet-mcp",
+  "source_url": "https://github.com/Kcrong/smartsheet-mcp",
+  "install": "npx -y smartsheet-mcp"
+}

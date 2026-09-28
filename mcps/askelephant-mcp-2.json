@@ -1,0 +1,7 @@
+{
+  "name": "askelephant-mcp-2",
+  "description": "Hosted MCP server that lets staff search and retrieve AskElephant call transcripts from claude.ai, with tools for listing meetings, searching transcript excerpts, and fetching full transcripts.",
+  "source_repo": "meticulosity/askelephant-mcp",
+  "source_url": "https://github.com/meticulosity/askelephant-mcp",
+  "install": "npx -y askelephant-mcp"
+}

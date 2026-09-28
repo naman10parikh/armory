@@ -1,0 +1,7 @@
+{
+  "name": "figma-motion-mcp",
+  "description": "Enables Claude to programmatically create and modify Figma animations (keyframes and motion styles) using the Figma Motion API via a plugin bridge.",
+  "source_repo": "seongwoo-choi-imweb-me/figma-motion-mcp",
+  "source_url": "https://github.com/seongwoo-choi-imweb-me/figma-motion-mcp",
+  "install": "npx -y figma-motion-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "motion-diagram",
+  "description": "Agent-driven animated diagram renderer that turns API/flow descriptions into animated MP4s or Instagram-style carousels, designed to be driven by an AI agent over MCP.",
+  "source_repo": "igun997/motion-diagram",
+  "source_url": "https://github.com/igun997/motion-diagram",
+  "install": "# git clone --depth 1 https://github.com/igun997/motion-diagram\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "game-dev-resource-mcp",
+  "description": "License-aware game development resource discovery MCP server. Helps AI coding agents find reusable game assets with commercial-use filtering, license classification, and attribution generation.",
+  "source_repo": "dsaewkfiush03-debug/game-dev-resource-mcp",
+  "source_url": "https://github.com/dsaewkfiush03-debug/game-dev-resource-mcp",
+  "install": "npx -y game-dev-resource-mcp"
+}

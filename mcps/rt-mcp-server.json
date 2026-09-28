@@ -1,0 +1,7 @@
+{
+  "name": "rt-mcp-server",
+  "description": "Read-only MCP server for Request Tracker (RT) via REST2 API, enabling ticket search, retrieval, correspondence viewing, attachment download, and hierarchy exploration.",
+  "source_repo": "msekoranja/rt-mcp",
+  "source_url": "https://github.com/msekoranja/rt-mcp",
+  "install": "npx -y rt-mcp"
+}

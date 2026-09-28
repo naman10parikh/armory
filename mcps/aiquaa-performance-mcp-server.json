@@ -1,0 +1,7 @@
+{
+  "name": "aiquaa-performance-mcp-server",
+  "description": "Converts non-functional requirements and code into secure, traceable JMeter performance tests with coverage analysis, plan generation, execution, and GitHub draft PRs.",
+  "source_repo": "stevenayal/aiquaa-performance-mcp-server",
+  "source_url": "https://github.com/stevenayal/aiquaa-performance-mcp-server",
+  "install": "npx -y aiquaa-performance-mcp-server"
+}

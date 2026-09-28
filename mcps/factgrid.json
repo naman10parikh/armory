@@ -1,0 +1,7 @@
+{
+  "name": "factgrid",
+  "description": "MCP server providing dependency upgrade advisories, developer API schemas, and electronic component specifications with evidence-backed, Ed25519-signed responses.",
+  "source_repo": "factgridai/factgrid",
+  "source_url": "https://github.com/factgridai/factgrid",
+  "install": "# git clone --depth 1 https://github.com/factgridai/factgrid\n# See source for mcpServers config block"
+}

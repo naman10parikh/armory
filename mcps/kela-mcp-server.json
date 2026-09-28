@@ -1,0 +1,7 @@
+{
+  "name": "kela-mcp-server",
+  "description": "Enables AI assistants to answer questions about Finnish social benefits (Kela) by providing tools for searching, checking eligibility, and getting application steps.",
+  "source_repo": "EmmaKingDev/kela-mcp",
+  "source_url": "https://github.com/EmmaKingDev/kela-mcp",
+  "install": "npx -y kela-mcp"
+}

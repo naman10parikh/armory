@@ -1,0 +1,7 @@
+{
+  "name": "undoom-sketch-mcp",
+  "description": "MCP server for converting images into sketch styles (classic, detailed, soft) with batch processing and customizable parameters.",
+  "source_repo": "kk520879/undoom-sketch-mcp",
+  "source_url": "https://github.com/kk520879/undoom-sketch-mcp",
+  "install": "npx -y undoom-sketch-mcp"
+}

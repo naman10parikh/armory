@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-energystar",
+  "description": "Enables querying ENERGY STAR Open Data via Socrata MCP tools for searching datasets, running SoQL queries, and retrieving metadata.",
+  "source_repo": "pipeworx-io/mcp-data-energystar",
+  "source_url": "https://github.com/pipeworx-io/mcp-data-energystar",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-data-energystar\n# See source for mcpServers config block"
+}

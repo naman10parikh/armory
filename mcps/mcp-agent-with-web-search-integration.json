@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agent-with-web-search-integration",
+  "description": "Enables interaction with an AI assistant powered by GPT-4o that can answer queries and fetch real-time web search data via Serper API.",
+  "source_repo": "swastikmaiti/ModelContextProtocol-MCP",
+  "source_url": "https://github.com/swastikmaiti/ModelContextProtocol-MCP",
+  "install": "npx -y ModelContextProtocol-MCP"
+}

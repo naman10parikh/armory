@@ -1,0 +1,7 @@
+{
+  "name": "forgemcp",
+  "description": "An MCP server for C++ development that currently provides a server_status diagnostic tool. It validates a workspace directory and is designed to expand into build, test, and debugging capabilities.",
+  "source_repo": "hardened-steel/ForgeMCP",
+  "source_url": "https://github.com/hardened-steel/ForgeMCP",
+  "install": "# git clone --depth 1 https://github.com/hardened-steel/ForgeMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "micompress-mcp",
+  "description": "An MCP server that lets AI agents compress images, PDFs, video, audio, documents, and archives, writing the smaller versions back to disk via the MiCompress service.",
+  "source_repo": "micompress/micompress-mcp",
+  "source_url": "https://github.com/micompress/micompress-mcp",
+  "install": "npx -y micompress-mcp"
+}

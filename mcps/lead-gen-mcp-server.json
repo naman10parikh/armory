@@ -1,0 +1,7 @@
+{
+  "name": "lead-gen-mcp-server",
+  "description": "A free MCP server that runs a full B2B outbound pipeline inside a Claude conversation, enabling lead scraping, Google Sheets integration, and Instantly campaign creation.",
+  "source_repo": "Sourav333444/lead-gen-mcp",
+  "source_url": "https://github.com/Sourav333444/lead-gen-mcp",
+  "install": "npx -y lead-gen-mcp"
+}

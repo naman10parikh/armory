@@ -1,0 +1,7 @@
+{
+  "name": "slack-read-mcp",
+  "description": "A read-only MCP server for Slack that reads messages from channels the bot is invited to, without storing data. It provides tools to fetch channel history, thread replies, and resolve user IDs, with access controlled solely by channel invitations.",
+  "source_repo": "zio3/slack-read-mcp",
+  "source_url": "https://github.com/zio3/slack-read-mcp",
+  "install": "npx -y slack-read-mcp"
+}

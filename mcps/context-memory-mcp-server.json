@@ -1,0 +1,7 @@
+{
+  "name": "context-memory-mcp-server",
+  "description": "Tracks mistakes and solutions from past Claude sessions to avoid repeating failed approaches.",
+  "source_repo": "Dithilli/context-memory-mcp",
+  "source_url": "https://github.com/Dithilli/context-memory-mcp",
+  "install": "npx -y context-memory-mcp"
+}

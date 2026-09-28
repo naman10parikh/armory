@@ -1,0 +1,7 @@
+{
+  "name": "mcp-product-decision-copilot",
+  "description": "Provides Claude with tools to make Ship/Delay/Kill recommendations on feature requests using product metrics, roadmap, and OKRs.",
+  "source_repo": "raoulkahn/mcp-product-copilot",
+  "source_url": "https://github.com/raoulkahn/mcp-product-copilot",
+  "install": "# git clone --depth 1 https://github.com/raoulkahn/mcp-product-copilot\n# See source for mcpServers config block"
+}

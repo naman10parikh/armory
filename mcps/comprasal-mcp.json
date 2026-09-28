@@ -1,0 +1,7 @@
+{
+  "name": "comprasal-mcp",
+  "description": "Enables querying El Salvador's public procurement data via the COMPRASAL API, including searching awarded processes, getting process details, and supplier contracts.",
+  "source_repo": "glassbit/comprasal-mcp",
+  "source_url": "https://github.com/glassbit/comprasal-mcp",
+  "install": "npx -y comprasal-mcp"
+}

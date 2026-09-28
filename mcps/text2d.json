@@ -1,0 +1,7 @@
+{
+  "name": "text2d",
+  "description": "Enables AI assistants to procedurally generate, edit, quantize, and export 2D retro pixel art textures and tilesets for game development, with built-in palettes, dithering, and pixel-level manipulation tools.",
+  "source_repo": "al3duc/text2d-mcp",
+  "source_url": "https://github.com/al3duc/text2d-mcp",
+  "install": "npx -y text2d-mcp"
+}

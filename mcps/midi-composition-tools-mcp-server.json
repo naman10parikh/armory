@@ -1,0 +1,7 @@
+{
+  "name": "midi-composition-tools-mcp-server",
+  "description": "Enables AI-assisted MIDI music generation and composition through natural language, supporting style, tempo, key, and instrument selection.",
+  "source_repo": "FernandoDaSilva-T/MIDI-compostion-tools-MCP",
+  "source_url": "https://github.com/FernandoDaSilva-T/MIDI-compostion-tools-MCP",
+  "install": "npx -y MIDI-compostion-tools-MCP"
+}

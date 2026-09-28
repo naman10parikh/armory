@@ -1,0 +1,7 @@
+{
+  "name": "wandb-mcp-server",
+  "description": "Query and analyze your Weights & Biases data using natural language through the Model Context Protocol.",
+  "source_repo": "caentzminger/wandb-mcp-server",
+  "source_url": "https://github.com/caentzminger/wandb-mcp-server",
+  "install": "npx -y wandb-mcp-server"
+}

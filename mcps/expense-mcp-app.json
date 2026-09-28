@@ -1,0 +1,7 @@
+{
+  "name": "expense-mcp-app",
+  "description": "A minimal MCP server that provides expense submission and listing tools with an interactive Fluent-2 widget for Microsoft 365 Copilot and Copilot Cowork. It uses Streamable HTTP transport and anonymous auth for development.",
+  "source_repo": "qmatteoq/expense-mcp-app",
+  "source_url": "https://github.com/qmatteoq/expense-mcp-app",
+  "install": "# git clone --depth 1 https://github.com/qmatteoq/expense-mcp-app\n# See source for mcpServers config block"
+}

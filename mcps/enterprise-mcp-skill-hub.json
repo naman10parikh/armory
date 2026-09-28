@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-mcp-skill-hub",
+  "description": "Enterprise MCP Skill Hub is a locally runnable reference implementation of a governed reusable skill layer for enterprise agents, exposing approved skills through FastAPI and an MCP-compatible adapter with tools, resources, and prompts.",
+  "source_repo": "amgconclave/enterprise-mcp-skill-hub",
+  "source_url": "https://github.com/amgconclave/enterprise-mcp-skill-hub",
+  "install": "# git clone --depth 1 https://github.com/amgconclave/enterprise-mcp-skill-hub\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gitcode-mcp-server",
+  "description": "MCP server for the GitCode API, enabling AI assistants to interact with GitCode repositories, issues, pull requests, and more.",
+  "source_repo": "ZoroPoskai/gitcode-mcp-server",
+  "source_url": "https://github.com/ZoroPoskai/gitcode-mcp-server",
+  "install": "npx -y gitcode-mcp-server"
+}

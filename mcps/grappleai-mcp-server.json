@@ -1,0 +1,7 @@
+{
+  "name": "grappleai-mcp-server",
+  "description": "Enables AI-powered consumer dispute resolution by providing tools for secure evidence storage with confidence scoring, autonomous negotiation, formal dispute notice generation, and consumer rights verification under the Consumer Protection Act.",
+  "source_repo": "kambleaa007/GrappleAI",
+  "source_url": "https://github.com/kambleaa007/GrappleAI",
+  "install": "# git clone --depth 1 https://github.com/kambleaa007/GrappleAI\n# See source for mcpServers config block"
+}

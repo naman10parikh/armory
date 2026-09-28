@@ -1,0 +1,7 @@
+{
+  "name": "llm-pulse-mcp-server",
+  "description": "Monitors brand mentions, citations, sentiment, competitor share of voice, and GEO performance across AI search engines.",
+  "source_repo": "LLM-Pulse/llmpulse-mcp",
+  "source_url": "https://github.com/LLM-Pulse/llmpulse-mcp",
+  "install": "npx -y llmpulse-mcp"
+}

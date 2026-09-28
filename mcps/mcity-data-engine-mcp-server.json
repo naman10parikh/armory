@@ -1,0 +1,7 @@
+{
+  "name": "mcity-data-engine-mcp-server",
+  "description": "Enables natural language interaction with complex computer vision workflows such as auto-labeling, class mapping, and embedding selection through an LLM-agnostic MCP orchestration layer.",
+  "source_repo": "mcity/mcity_data_agent",
+  "source_url": "https://github.com/mcity/mcity_data_agent",
+  "install": "# git clone --depth 1 https://github.com/mcity/mcity_data_agent\n# See source for mcpServers config block"
+}

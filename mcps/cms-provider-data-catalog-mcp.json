@@ -1,0 +1,7 @@
+{
+  "name": "cms-provider-data-catalog-mcp",
+  "description": "A remote MCP server that lets an LLM explore, query, aggregate, and benchmark the ~234 datasets in the CMS Provider Data Catalog — hospitals, dialysis facilities, nursing homes, home health, hospice, physicians, and more — in plain language.",
+  "source_repo": "TheBoatyMcBoatFace/pdc-mcp",
+  "source_url": "https://github.com/TheBoatyMcBoatFace/pdc-mcp",
+  "install": "npx -y pdc-mcp"
+}

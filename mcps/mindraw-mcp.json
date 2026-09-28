@@ -1,0 +1,7 @@
+{
+  "name": "mindraw-mcp",
+  "description": "A project-scoped MCP server that opens a Mindraw canvas from the active Codex workspace, with local sidebar preview and desktop app handoff.",
+  "source_repo": "17lang/mindraw4agent",
+  "source_url": "https://github.com/17lang/mindraw4agent",
+  "install": "# git clone --depth 1 https://github.com/17lang/mindraw4agent\n# See source for mcpServers config block"
+}

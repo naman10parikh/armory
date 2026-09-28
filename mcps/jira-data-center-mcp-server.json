@@ -1,0 +1,7 @@
+{
+  "name": "jira-data-center-mcp-server",
+  "description": "Enables AI assistants to deeply introspect Jira Data Center configurations — including workflows, schemes, automation, and Assets — through 76 read-only tools, without any modification capability.",
+  "source_repo": "sergeyopypey/mcp-atlassian-for-admins",
+  "source_url": "https://github.com/sergeyopypey/mcp-atlassian-for-admins",
+  "install": "# git clone --depth 1 https://github.com/sergeyopypey/mcp-atlassian-for-admins\n# See source for mcpServers config block"
+}

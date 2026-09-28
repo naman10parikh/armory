@@ -1,0 +1,7 @@
+{
+  "name": "tr-figma-mcpserver",
+  "description": "MCP server for downloading images from Figma designs using access tokens. Supports multiple export formats and scale factors via a single tool.",
+  "source_repo": "SomnathRoyTR/tr-figma-mcpserver",
+  "source_url": "https://github.com/SomnathRoyTR/tr-figma-mcpserver",
+  "install": "# git clone --depth 1 https://github.com/SomnathRoyTR/tr-figma-mcpserver\n# See source for mcpServers config block"
+}

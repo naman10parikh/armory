@@ -1,0 +1,7 @@
+{
+  "name": "skyglance",
+  "description": "SkyGlance is an MCP server that enables natural language queries about live aircraft overhead, flight tracking, aircraft identification, and personal sighting history using free ADS-B data.",
+  "source_repo": "darshjoshi/skyglance-mcp",
+  "source_url": "https://github.com/darshjoshi/skyglance-mcp",
+  "install": "npx -y skyglance-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-simple-server",
+  "description": "Provides basic tools for echoing messages, adding numbers, and getting the current timestamp.",
+  "source_repo": "joeleesuh/mcp-simple-server",
+  "source_url": "https://github.com/joeleesuh/mcp-simple-server",
+  "install": "# git clone --depth 1 https://github.com/joeleesuh/mcp-simple-server\n# See source for mcpServers config block"
+}

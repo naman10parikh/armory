@@ -1,0 +1,7 @@
+{
+  "name": "nist-nvd-mcp-server-2",
+  "description": "Search and audit NIST NVD CVEs by keyword, severity, CWE, CISA KEV status, and CPE.",
+  "source_repo": "",
+  "source_url": "https://nist-nvd.caseyjhand.com/mcp",
+  "install": "# git clone --depth 1 https://nist-nvd.caseyjhand.com/mcp\n# See source for mcpServers config block"
+}

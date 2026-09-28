@@ -1,0 +1,7 @@
+{
+  "name": "laravel-forge-mcp",
+  "description": "Manages Laravel Forge servers, sites, deployments, SSL certificates, databases, and more through the Model Context Protocol.",
+  "source_repo": "danie1net0/laravel-forge-mcp",
+  "source_url": "https://github.com/danie1net0/laravel-forge-mcp",
+  "install": "npx -y laravel-forge-mcp"
+}

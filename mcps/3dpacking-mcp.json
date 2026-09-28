@@ -1,0 +1,7 @@
+{
+  "name": "3dpacking-mcp",
+  "description": "Enables AI assistants to plan container and truck loads from plain-English shipment descriptions, returning fitted containers, utilization, non-fitting items, and interactive 3D load plans.",
+  "source_repo": "OnurGumus/3dpacking-mcp",
+  "source_url": "https://github.com/OnurGumus/3dpacking-mcp",
+  "install": "npx -y 3dpacking-mcp"
+}

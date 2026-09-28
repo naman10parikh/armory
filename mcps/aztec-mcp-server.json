@@ -1,0 +1,7 @@
+{
+  "name": "aztec-mcp-server",
+  "description": "Provides local access to Aztec documentation, examples, and source code via cloned repositories, with optional semantic search for enhanced querying.",
+  "source_repo": "AztecProtocol/mcp-server",
+  "source_url": "https://github.com/AztecProtocol/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/AztecProtocol/mcp-server\n# See source for mcpServers config block"
+}

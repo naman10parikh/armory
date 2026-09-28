@@ -1,0 +1,7 @@
+{
+  "name": "odoo-sh-readonly-mcp",
+  "description": "Read-only MCP server for Odoo.sh exposing builds, environments, logs, and system status via Web API and SSH without any write capabilities.",
+  "source_repo": "ai-zar/odoo-sh-readonly-mcp",
+  "source_url": "https://github.com/ai-zar/odoo-sh-readonly-mcp",
+  "install": "npx -y odoo-sh-readonly-mcp"
+}

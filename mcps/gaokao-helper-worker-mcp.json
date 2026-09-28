@@ -1,0 +1,7 @@
+{
+  "name": "gaokao-helper-worker-mcp",
+  "description": "Provides read-only access to Guangdong gaokao data, enabling searches for schools, scores, and data files via MCP.",
+  "source_repo": "stmtc233/gaokao-helper-worker-mcp",
+  "source_url": "https://github.com/stmtc233/gaokao-helper-worker-mcp",
+  "install": "npx -y gaokao-helper-worker-mcp"
+}

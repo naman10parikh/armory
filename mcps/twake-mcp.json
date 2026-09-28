@@ -1,0 +1,7 @@
+{
+  "name": "twake-mcp",
+  "description": "Connects AI assistants to Linagora's Twake Workplace, enabling interaction with chat, email, and drive services through natural language.",
+  "source_repo": "JacobiusMakes/twake-mcp",
+  "source_url": "https://github.com/JacobiusMakes/twake-mcp",
+  "install": "npx -y twake-mcp"
+}

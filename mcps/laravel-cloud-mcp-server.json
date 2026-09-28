@@ -1,0 +1,7 @@
+{
+  "name": "laravel-cloud-mcp-server",
+  "description": "MCP server for Laravel Cloud to manage projects, environments, deployments, and other resources.",
+  "source_repo": "captenmasin/laravel-cloud-mcp-server",
+  "source_url": "https://github.com/captenmasin/laravel-cloud-mcp-server",
+  "install": "npx -y laravel-cloud-mcp-server"
+}

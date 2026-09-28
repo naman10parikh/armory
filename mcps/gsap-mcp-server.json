@@ -1,0 +1,7 @@
+{
+  "name": "gsap-mcp-server",
+  "description": "Generate GSAP animation code through natural language descriptions and integrate with Claude Desktop for easy animation development.",
+  "source_repo": "Lillard01/GSAP-mcp",
+  "source_url": "https://github.com/Lillard01/GSAP-mcp",
+  "install": "npx -y GSAP-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-zambia-payments-mcp",
+  "description": "Enables AI agents to accept payments in Zambia (MTN Mobile Money, Airtel Money, cards) via Flutterwave's hosted checkout.",
+  "source_repo": "junter1989k-ai/zambia-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/zambia-payments-mcp",
+  "install": "npx -y zambia-payments-mcp"
+}

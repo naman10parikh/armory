@@ -1,0 +1,7 @@
+{
+  "name": "mcp-video-cloud-server",
+  "description": "Downloads videos from 1000+ social media platforms and stores them in S3-compatible cloud storage, returning public URLs for videos, audio, transcripts, and thumbnails.",
+  "source_repo": "ctaylor86/mcp-video-download-server",
+  "source_url": "https://github.com/ctaylor86/mcp-video-download-server",
+  "install": "# git clone --depth 1 https://github.com/ctaylor86/mcp-video-download-server\n# See source for mcpServers config block"
+}

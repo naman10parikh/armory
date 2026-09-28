@@ -1,0 +1,7 @@
+{
+  "name": "domain-rdap-mcp",
+  "description": "Enables real-time domain registration lookups via RDAP, including availability, expiration, and registrar details, with no API key required. Supports natural language queries like 'is example.com available?' or 'when does example.com expire?'.",
+  "source_repo": "Lulu-The-Narwhal/domain-rdap-mcp",
+  "source_url": "https://github.com/Lulu-The-Narwhal/domain-rdap-mcp",
+  "install": "npx -y domain-rdap-mcp"
+}

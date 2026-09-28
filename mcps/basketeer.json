@@ -1,0 +1,7 @@
+{
+  "name": "basketeer",
+  "description": "Personal UK Tesco grocery account over MCP: search, basket, slots, orders, and on-pack nutrition (search and rank by macros + micros). Catalogue + nutrition tools need no auth; destructive actions require a two-step confirm",
+  "source_repo": "tobyandrews1985/basketeer",
+  "source_url": "https://github.com/tobyandrews1985/basketeer",
+  "install": "# git clone --depth 1 https://github.com/tobyandrews1985/basketeer\n# See source for mcpServers config block"
+}

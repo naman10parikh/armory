@@ -1,0 +1,7 @@
+{
+  "name": "razorpay-recon-mcp",
+  "description": "MCP server for daily payment reconciliation between Razorpay and Odoo, with WhatsApp alerts for anomalies.",
+  "source_repo": "QalaLabs/razorpay-recon-mcp",
+  "source_url": "https://github.com/QalaLabs/razorpay-recon-mcp",
+  "install": "npx -y razorpay-recon-mcp"
+}

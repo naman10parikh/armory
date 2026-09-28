@@ -1,0 +1,7 @@
+{
+  "name": "pob-mcp",
+  "description": "MCP server for Path of Building that enables querying and managing PoB builds and trade data through the Lua bridge and official APIs.",
+  "source_repo": "anitaguptaoffice/pob-mcp-suite",
+  "source_url": "https://github.com/anitaguptaoffice/pob-mcp-suite",
+  "install": "# git clone --depth 1 https://github.com/anitaguptaoffice/pob-mcp-suite\n# See source for mcpServers config block"
+}

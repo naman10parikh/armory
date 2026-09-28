@@ -1,0 +1,7 @@
+{
+  "name": "sc-mcp-server",
+  "description": "MCP server for AI agents to execute the complete NevioServiceCenter flight booking flow. It provides 10 tools for flight search, cart management, passenger details, seat selection, ancillaries, and booking confirmation with automatic JWT token management.",
+  "source_repo": "Kumaravel-V10/mcp",
+  "source_url": "https://github.com/Kumaravel-V10/mcp",
+  "install": "# git clone --depth 1 https://github.com/Kumaravel-V10/mcp\n# See source for mcpServers config block"
+}

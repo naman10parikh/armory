@@ -1,0 +1,7 @@
+{
+  "name": "semantic-pen-mcp-server",
+  "description": "Enables creating, viewing, and managing articles and projects via Claude Code and Cursor, with tools for project search, article creation, and content retrieval.",
+  "source_repo": "pushkarsingh32/mcp-server",
+  "source_url": "https://github.com/pushkarsingh32/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/pushkarsingh32/mcp-server\n# See source for mcpServers config block"
+}

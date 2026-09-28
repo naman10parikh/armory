@@ -1,0 +1,7 @@
+{
+  "name": "mcp-openapi-query",
+  "description": "A FastMCP server that enables AI applications to navigate and query OpenAPI specifications, including resolving $ref pointers and inspecting paths and operations.",
+  "source_repo": "sesopenko/mcp-openapi-query",
+  "source_url": "https://github.com/sesopenko/mcp-openapi-query",
+  "install": "# git clone --depth 1 https://github.com/sesopenko/mcp-openapi-query\n# See source for mcpServers config block"
+}

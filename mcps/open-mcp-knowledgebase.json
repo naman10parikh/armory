@@ -1,0 +1,7 @@
+{
+  "name": "open-mcp-knowledgebase",
+  "description": "A zero-database MCP knowledgebase template for Vercel that exposes static Markdown content to AI agents through clean MCP surfaces.",
+  "source_repo": "NO-Product/knowledgebase-mcp",
+  "source_url": "https://github.com/NO-Product/knowledgebase-mcp",
+  "install": "npx -y knowledgebase-mcp"
+}

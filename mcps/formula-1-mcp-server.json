@@ -1,0 +1,7 @@
+{
+  "name": "formula-1-mcp-server",
+  "description": "Provides easy access to Formula 1 data including championship standings, event info, season calendars, track visualizations, session results, and driver/constructor info via FastF1 and OpenF1 API.",
+  "source_repo": "Darakhsh1999/f1-mcp-server",
+  "source_url": "https://github.com/Darakhsh1999/f1-mcp-server",
+  "install": "npx -y f1-mcp-server"
+}

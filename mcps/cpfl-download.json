@@ -1,0 +1,7 @@
+{
+  "name": "cpfl-download",
+  "description": "This MCP server provides a single read-only tool to query official CPFL (electric utility) bill download data via a hosted, prepaid service without requiring platform credentials.",
+  "source_repo": "mcp-dir/contas_cpfl_download-mcp",
+  "source_url": "https://github.com/mcp-dir/contas_cpfl_download-mcp",
+  "install": "npx -y contas_cpfl_download-mcp"
+}

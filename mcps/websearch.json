@@ -1,0 +1,7 @@
+{
+  "name": "websearch",
+  "description": "Web search tool using Serper API (primary) with DuckDuckGo fallback on error or empty results.",
+  "source_repo": "Jinddddd/websearch_tool",
+  "source_url": "https://github.com/Jinddddd/websearch_tool",
+  "install": "# git clone --depth 1 https://github.com/Jinddddd/websearch_tool\n# See source for mcpServers config block"
+}

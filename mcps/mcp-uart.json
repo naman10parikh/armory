@@ -1,0 +1,7 @@
+{
+  "name": "mcp-uart",
+  "description": "Enables AI agents to communicate with UART/serial devices, offering tools for port management, data read/write, and protocol handling.",
+  "source_repo": "SamyiHu/mcp-uart",
+  "source_url": "https://github.com/SamyiHu/mcp-uart",
+  "install": "# git clone --depth 1 https://github.com/SamyiHu/mcp-uart\n# See source for mcpServers config block"
+}

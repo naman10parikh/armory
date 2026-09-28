@@ -1,0 +1,7 @@
+{
+  "name": "aiplayer-mc-bot-mcp-server",
+  "description": "Enables natural language control of a Minecraft bot, allowing it to execute tasks like mining, exploring, and item management via AI-powered commands.",
+  "source_repo": "MingExzy/aiplayer-mc-bot",
+  "source_url": "https://github.com/MingExzy/aiplayer-mc-bot",
+  "install": "# git clone --depth 1 https://github.com/MingExzy/aiplayer-mc-bot\n# See source for mcpServers config block"
+}

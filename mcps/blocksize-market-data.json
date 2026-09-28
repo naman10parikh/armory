@@ -1,0 +1,7 @@
+{
+  "name": "blocksize-market-data",
+  "description": "Read-only MCP server for Blocksize market data discovery, pricing, documentation, and x402 endpoint lookup across crypto, equities, FX, and metals.",
+  "source_repo": "jf-cmyk/blocksize-agentic-payments-mcp",
+  "source_url": "https://github.com/jf-cmyk/blocksize-agentic-payments-mcp",
+  "install": "npx -y blocksize-agentic-payments-mcp"
+}

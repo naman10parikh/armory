@@ -1,0 +1,7 @@
+{
+  "name": "medical-codes-mcp-server",
+  "description": "Decodes, searches, validates, and crosswalks US medical codes (ICD-10-CM, ICD-10-PCS, HCPCS Level II) using an offline bundled index via MCP.",
+  "source_repo": "cyanheads/medical-codes-mcp-server",
+  "source_url": "https://github.com/cyanheads/medical-codes-mcp-server",
+  "install": "npx -y medical-codes-mcp-server"
+}

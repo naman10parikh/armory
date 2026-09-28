@@ -1,0 +1,7 @@
+{
+  "name": "continuityos",
+  "description": "An MCP server offering hybrid memory recall and continuity tools for AI agents. It also provides a governance gateway that pre-approves risky shell/file/git actions before execution.",
+  "source_repo": "bitmaster162/continuityos",
+  "source_url": "https://github.com/bitmaster162/continuityos",
+  "install": "# git clone --depth 1 https://github.com/bitmaster162/continuityos\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vault-mcp-bridge",
+  "description": "Read-only MCP bridge that exposes secure search and fetch tools over an Obsidian-compatible Markdown vault, enabling ChatGPT to query notes without write access.",
+  "source_repo": "kizz-tech/vault-mcp-bridge",
+  "source_url": "https://github.com/kizz-tech/vault-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/kizz-tech/vault-mcp-bridge\n# See source for mcpServers config block"
+}

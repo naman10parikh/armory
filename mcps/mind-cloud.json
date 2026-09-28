@@ -1,0 +1,7 @@
+{
+  "name": "mind-cloud",
+  "description": "Persistent memory infrastructure for AI systems, running on Cloudflare's edge network with 28 MCP tools for semantic memory, emotional processing, identity continuity, and a subconscious daemon.",
+  "source_repo": "codependentai/mind-cloud",
+  "source_url": "https://github.com/codependentai/mind-cloud",
+  "install": "# git clone --depth 1 https://github.com/codependentai/mind-cloud\n# See source for mcpServers config block"
+}

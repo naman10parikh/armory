@@ -1,0 +1,7 @@
+{
+  "name": "mcp-crewd-rs",
+  "description": "Enables AI agents to spawn, coordinate, and message worker cells via a single MCP server over a local Unix socket.",
+  "source_repo": "DioNanos/mcp-crewd-rs",
+  "source_url": "https://github.com/DioNanos/mcp-crewd-rs",
+  "install": "# git clone --depth 1 https://github.com/DioNanos/mcp-crewd-rs\n# See source for mcpServers config block"
+}

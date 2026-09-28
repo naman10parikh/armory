@@ -1,0 +1,7 @@
+{
+  "name": "ga4-analytics-mcp-v2",
+  "description": "Multi-operator Google Analytics 4 connector for Claude.ai Custom Connectors, hosted on Google Cloud Run, enabling authenticated GA4 reporting, property selection, and metadata queries via MCP tools.",
+  "source_repo": "devopsbrandmirchi/Ga4McpV2",
+  "source_url": "https://github.com/devopsbrandmirchi/Ga4McpV2",
+  "install": "# git clone --depth 1 https://github.com/devopsbrandmirchi/Ga4McpV2\n# See source for mcpServers config block"
+}

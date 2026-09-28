@@ -1,0 +1,7 @@
+{
+  "name": "prowler-mcp-server",
+  "description": "Enables analysis of Prowler security scan results, providing detailed security analysis, security summary, and file retrieval capabilities.",
+  "source_repo": "comprowler/project_compler",
+  "source_url": "https://github.com/comprowler/project_compler",
+  "install": "# git clone --depth 1 https://github.com/comprowler/project_compler\n# See source for mcpServers config block"
+}

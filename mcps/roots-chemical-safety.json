@@ -1,0 +1,7 @@
+{
+  "name": "roots-chemical-safety",
+  "description": "Provides chemical hazard data from ECHA, NIOSH, GHS, and ICSC, enabling lookups of SVHC status, occupational exposure limits, GHS classifications, and cross-references to cosmetic and food additive databases.",
+  "source_repo": "rootsbymenda/chem-mcp-server",
+  "source_url": "https://github.com/rootsbymenda/chem-mcp-server",
+  "install": "npx -y chem-mcp-server"
+}

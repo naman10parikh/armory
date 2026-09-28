@@ -1,0 +1,7 @@
+{
+  "name": "odoo-xml-rpc-mcp-server",
+  "description": "Enables interaction with Odoo instances via XML-RPC, supporting CRUD operations and custom model queries through natural language.",
+  "source_repo": "odoo-dgoo2308/xml-rpc-odoo-mcp",
+  "source_url": "https://github.com/odoo-dgoo2308/xml-rpc-odoo-mcp",
+  "install": "npx -y xml-rpc-odoo-mcp"
+}

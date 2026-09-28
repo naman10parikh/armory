@@ -1,0 +1,7 @@
+{
+  "name": "delego",
+  "description": "A policy and audit firewall for agent actions that sits between an agent and a credential broker, ensuring actions are authorized and bound to the original human intent.",
+  "source_repo": "Delego-Dev/delego",
+  "source_url": "https://github.com/Delego-Dev/delego",
+  "install": "# git clone --depth 1 https://github.com/Delego-Dev/delego\n# See source for mcpServers config block"
+}

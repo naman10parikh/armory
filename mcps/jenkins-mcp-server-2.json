@@ -1,0 +1,7 @@
+{
+  "name": "jenkins-mcp-server-2",
+  "description": "Provides Jenkins CI/CD integration for AI assistants through the Model Context Protocol, enabling job management, build control, and system administration via natural language commands.",
+  "source_repo": "saurprince/jenkins-mcp-server",
+  "source_url": "https://github.com/saurprince/jenkins-mcp-server",
+  "install": "npx -y jenkins-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wawapi-image-mcp",
+  "description": "An MCP server that lets Codex generate, edit, and display images via the Wawapi image API using only text content blocks, local file paths, and Markdown, without requiring native image support from the model API.",
+  "source_repo": "Wawapi/wawapi-image-mcp",
+  "source_url": "https://github.com/Wawapi/wawapi-image-mcp",
+  "install": "npx -y wawapi-image-mcp"
+}

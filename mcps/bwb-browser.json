@@ -1,0 +1,7 @@
+{
+  "name": "bwb-browser",
+  "description": "A lightweight 30KB MCP browser automation server that uses raw Chrome DevTools Protocol to enable AI agents to browse the web, take screenshots, interact with elements, and capture live page events like console logs and network requests.",
+  "source_repo": "krshforever/bwb-browser",
+  "source_url": "https://github.com/krshforever/bwb-browser",
+  "install": "# git clone --depth 1 https://github.com/krshforever/bwb-browser\n# See source for mcpServers config block"
+}

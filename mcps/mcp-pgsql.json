@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pgsql",
+  "description": "A local MCP server for PostgreSQL that provides tools for SQL execution, metadata inspection, performance diagnostics, and database management through natural language.",
+  "source_repo": "OscarByron69/mcp-pgSQL",
+  "source_url": "https://github.com/OscarByron69/mcp-pgSQL",
+  "install": "# git clone --depth 1 https://github.com/OscarByron69/mcp-pgSQL\n# See source for mcpServers config block"
+}

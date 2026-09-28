@@ -1,0 +1,7 @@
+{
+  "name": "gmail-telegram-mcp-server",
+  "description": "Connects Gmail and Telegram via an MCP server, enabling users to interact with their emails through a Telegram bot with commands for summaries and audio.",
+  "source_repo": "benitomartin/gmail-telegram-mcp-server",
+  "source_url": "https://github.com/benitomartin/gmail-telegram-mcp-server",
+  "install": "npx -y gmail-telegram-mcp-server"
+}

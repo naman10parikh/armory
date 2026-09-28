@@ -1,0 +1,7 @@
+{
+  "name": "orchestrator-python-mcp-server",
+  "description": "Enables AI coding assistants to run a machine-verified DESIGN→PLAN→EXECUTE→VERIFY→COMPLETE workflow with human approval gates, state integrity checks, and DAG task scheduling.",
+  "source_repo": "eustin/mcp-server-orchestrate",
+  "source_url": "https://github.com/eustin/mcp-server-orchestrate",
+  "install": "# git clone --depth 1 https://github.com/eustin/mcp-server-orchestrate\n# See source for mcpServers config block"
+}

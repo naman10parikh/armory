@@ -1,0 +1,7 @@
+{
+  "name": "qt-mcp",
+  "description": "A local stdio MCP server that wraps Qt 5.14.2 + MinGW toolchain into Python tools, enabling AI assistants to scaffold, build, run, test, format, deploy, and analyze Qt C++ projects directly in conversation.",
+  "source_repo": "fan1959/qt-mcp",
+  "source_url": "https://github.com/fan1959/qt-mcp",
+  "install": "npx -y qt-mcp"
+}

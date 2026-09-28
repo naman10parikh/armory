@@ -1,0 +1,7 @@
+{
+  "name": "nervora",
+  "description": "A secure MCP gateway for enterprise AI tool execution, enabling governed invocation of business tools with authentication, RBAC, audit logging, PII redaction, and async processing.",
+  "source_repo": "sveselaj/Nervora",
+  "source_url": "https://github.com/sveselaj/Nervora",
+  "install": "# git clone --depth 1 https://github.com/sveselaj/Nervora\n# See source for mcpServers config block"
+}

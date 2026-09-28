@@ -1,0 +1,7 @@
+{
+  "name": "mysql-mcp-toolkit",
+  "description": "A general-purpose MySQL MCP server that enables safe SQL operations through schema validation, CRUD tools, and soft deletes.",
+  "source_repo": "Sivaranjani-Jawaharlal/mysql-mcp-toolkit",
+  "source_url": "https://github.com/Sivaranjani-Jawaharlal/mysql-mcp-toolkit",
+  "install": "# git clone --depth 1 https://github.com/Sivaranjani-Jawaharlal/mysql-mcp-toolkit\n# See source for mcpServers config block"
+}

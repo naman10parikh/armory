@@ -1,0 +1,7 @@
+{
+  "name": "charcount-keeper",
+  "description": "Accurately counts characters, bytes, and manuscript paper based on Unicode grapheme clusters, and provides deterministic feedback to help AI meet exact length limits for self-introductions or school records.",
+  "source_repo": "bugoms/charcount-mcp",
+  "source_url": "https://github.com/bugoms/charcount-mcp",
+  "install": "npx -y charcount-mcp"
+}

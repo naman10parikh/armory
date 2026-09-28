@@ -1,0 +1,7 @@
+{
+  "name": "wmpf-mcp",
+  "description": "Connects to WMPFDebugger's CDP WebSocket to enable AI-assisted debugging of Windows WeChat Mini Programs, providing tools for JavaScript evaluation, script inspection, breakpoints, debugger control, and network inspection.",
+  "source_repo": "852764/wmpf-mcp",
+  "source_url": "https://github.com/852764/wmpf-mcp",
+  "install": "npx -y wmpf-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-invoice",
+  "description": "Enables agents to generate, track, and manage invoices via MCP tools, with CLI support for payment tracking and earnings summaries.",
+  "source_repo": "nyx-builds/agent-invoice",
+  "source_url": "https://github.com/nyx-builds/agent-invoice",
+  "install": "# git clone --depth 1 https://github.com/nyx-builds/agent-invoice\n# See source for mcpServers config block"
+}

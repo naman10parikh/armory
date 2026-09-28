@@ -1,0 +1,7 @@
+{
+  "name": "naver-works-mcp",
+  "description": "Enables Hermes to query NAVER WORKS calendar, contacts, and organization directory through natural language, with read-only MCP tools supporting stdio and HTTP connections.",
+  "source_repo": "QriumJ/NAVER_WORKS_MCP",
+  "source_url": "https://github.com/QriumJ/NAVER_WORKS_MCP",
+  "install": "npx -y NAVER_WORKS_MCP"
+}

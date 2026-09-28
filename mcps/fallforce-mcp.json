@@ -1,0 +1,7 @@
+{
+  "name": "fallforce-mcp",
+  "description": "Provides tools and resources for the foldkit framework, enabling operations on 7-prime spine, κ-bands, and fold states through MCP clients like Claude and Cursor.",
+  "source_repo": "sjgant80-hub/fallforce-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallforce-mcp",
+  "install": "npx -y fallforce-mcp"
+}

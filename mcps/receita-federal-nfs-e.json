@@ -1,0 +1,7 @@
+{
+  "name": "receita-federal-nfs-e",
+  "description": "Allows consultation of NFS-e (electronic service invoices) from the Brazilian Federal Revenue official source, with a single read-only tool.",
+  "source_repo": "mcp-dir/receita_federal_nfse-mcp",
+  "source_url": "https://github.com/mcp-dir/receita_federal_nfse-mcp",
+  "install": "npx -y receita_federal_nfse-mcp"
+}

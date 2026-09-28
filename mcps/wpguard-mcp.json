@@ -1,0 +1,7 @@
+{
+  "name": "wpguard-mcp",
+  "description": "An MCP server that enables safe reconnaissance, mutation, and verification of WordPress sites through guarded, typed verbs with dry-run previews and change-packet audit records.",
+  "source_repo": "cgallic/wpguard-mcp",
+  "source_url": "https://github.com/cgallic/wpguard-mcp",
+  "install": "npx -y wpguard-mcp"
+}

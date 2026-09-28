@@ -1,0 +1,7 @@
+{
+  "name": "car-specs-api",
+  "description": "Search, localized specs (180 spec types across 19 categories), compare, and structured filters over 102k+ vehicle variants in 19 languages, from cars-data.com.",
+  "source_repo": "mariusmmmmm/car-specs-api",
+  "source_url": "https://github.com/mariusmmmmm/car-specs-api",
+  "install": "# git clone --depth 1 https://github.com/mariusmmmmm/car-specs-api\n# See source for mcpServers config block"
+}

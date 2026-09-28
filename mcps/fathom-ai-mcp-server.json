@@ -1,0 +1,7 @@
+{
+  "name": "fathom-ai-mcp-server",
+  "description": "Enables AI assistants to access Fathom meeting recordings, summaries, transcripts, teams, and webhooks through the Model Context Protocol.",
+  "source_repo": "Dot-Fun/fathom-mcp",
+  "source_url": "https://github.com/Dot-Fun/fathom-mcp",
+  "install": "npx -y fathom-mcp"
+}

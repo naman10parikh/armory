@@ -1,0 +1,7 @@
+{
+  "name": "tup-mcp-server",
+  "description": "An open-source MCP server that enables secure AI-to-AI collaboration across organizations without sharing system prompts, private data, model weights, or internal memory.",
+  "source_repo": "telepathy-TUP/tup-mcp-server",
+  "source_url": "https://github.com/telepathy-TUP/tup-mcp-server",
+  "install": "npx -y tup-mcp-server"
+}

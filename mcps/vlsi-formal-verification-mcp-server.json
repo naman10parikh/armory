@@ -1,0 +1,7 @@
+{
+  "name": "vlsi-formal-verification-mcp-server",
+  "description": "Enables LLMs to interact with hardware designs (Verilog/SystemVerilog), formal verification tools, waveform logs, protocol specifications, and bug databases through 34 structured tools.",
+  "source_repo": "rahulbalhotra/VLSI-MCP",
+  "source_url": "https://github.com/rahulbalhotra/VLSI-MCP",
+  "install": "npx -y VLSI-MCP"
+}

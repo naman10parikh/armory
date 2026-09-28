@@ -1,0 +1,7 @@
+{
+  "name": "makeleaps-mcp",
+  "description": "Unofficial MCP server to operate MakeLeaps clients, quotes, and invoices from LLMs via the MakeLeaps API, with local execution and no telemetry.",
+  "source_repo": "Swandive-Inc/makeleaps-mcp",
+  "source_url": "https://github.com/Swandive-Inc/makeleaps-mcp",
+  "install": "npx -y makeleaps-mcp"
+}

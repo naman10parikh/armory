@@ -1,0 +1,7 @@
+{
+  "name": "mission",
+  "description": "Enables persistent work-state coordination with identity-bound assignments, governed lifecycle transitions, bounded queries, and auditable history.",
+  "source_repo": "MaximilianoColoma/mission",
+  "source_url": "https://github.com/MaximilianoColoma/mission",
+  "install": "# git clone --depth 1 https://github.com/MaximilianoColoma/mission\n# See source for mcpServers config block"
+}

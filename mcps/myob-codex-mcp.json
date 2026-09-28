@@ -1,0 +1,7 @@
+{
+  "name": "myob-codex-mcp",
+  "description": "Codex-safe MCP server for MYOB Business/AccountRight cloud. Provides read-only tools by default and mutating actions that require explicit approval before commit.",
+  "source_repo": "jaeko44/myob-codex-mcp",
+  "source_url": "https://github.com/jaeko44/myob-codex-mcp",
+  "install": "npx -y myob-codex-mcp"
+}

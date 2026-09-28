@@ -1,6 +1,6 @@
 {
   "name": "praneeths-mcp-server",
-  "description": "Praneeths_mcp_server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "praneethk-ai/praneeths_mcp_server",
   "source_url": "https://mcp.so/server/praneeths_mcp_server/praneethk-ai",
   "install": "npx -y praneeths_mcp_server"

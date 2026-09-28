@@ -1,0 +1,7 @@
+{
+  "name": "avocarbon-sharepoint-mcp",
+  "description": "Enables managing SharePoint and OneDrive files, folders, permissions, and versions through Microsoft Graph API with actions like upload, download, search, and sharing.",
+  "source_repo": "STS-Engineer/sharepoint-mcp",
+  "source_url": "https://github.com/STS-Engineer/sharepoint-mcp",
+  "install": "npx -y sharepoint-mcp"
+}

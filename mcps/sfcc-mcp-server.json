@@ -1,0 +1,7 @@
+{
+  "name": "sfcc-mcp-server",
+  "description": "A Model Context Protocol server for interacting with Salesforce Commerce Cloud (SFCC) APIs.",
+  "source_repo": "ZaUtre/sfcc-mcp-server",
+  "source_url": "https://github.com/ZaUtre/sfcc-mcp-server",
+  "install": "npx -y sfcc-mcp-server"
+}

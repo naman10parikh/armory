@@ -1,0 +1,7 @@
+{
+  "name": "switchai",
+  "description": "AI agent for Italian energy tariff comparison. Analyzes electricity and gas bills, compares 44+ offers from 13 providers, estimates savings with full ARERA regulated cost breakdown",
+  "source_repo": "US1929/switchai",
+  "source_url": "https://github.com/US1929/switchai",
+  "install": "# git clone --depth 1 https://github.com/US1929/switchai\n# See source for mcpServers config block"
+}

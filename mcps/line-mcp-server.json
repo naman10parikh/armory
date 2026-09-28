@@ -1,0 +1,7 @@
+{
+  "name": "line-mcp-server",
+  "description": "Enables sending LINE messages (push, multicast, broadcast), retrieving user profiles, checking quotas, and sending flex messages via Claude using the LINE Messaging API.",
+  "source_repo": "iamsamitdev/line-mcp-server",
+  "source_url": "https://github.com/iamsamitdev/line-mcp-server",
+  "install": "npx -y line-mcp-server"
+}

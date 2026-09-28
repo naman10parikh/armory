@@ -1,0 +1,7 @@
+{
+  "name": "signoz-mcp-server",
+  "description": "Enables AI assistants and LLMs to query SigNoz observability data (metrics, traces, logs, alerts, dashboards) using natural language.",
+  "source_repo": "SigNoz/signoz-mcp-server",
+  "source_url": "https://github.com/SigNoz/signoz-mcp-server",
+  "install": "npx -y signoz-mcp-server"
+}

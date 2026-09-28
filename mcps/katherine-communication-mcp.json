@@ -1,0 +1,7 @@
+{
+  "name": "katherine-communication-mcp",
+  "description": "Enables privacy-preserving detection of content manipulation in AI model providers via cross-lingual self-consistency, with tools for pipeline checks, status monitoring, and cumulative toxicity tracking.",
+  "source_repo": "anlimi555s/katherine-comm-mcp",
+  "source_url": "https://github.com/anlimi555s/katherine-comm-mcp",
+  "install": "npx -y katherine-comm-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "real-time-llm-guardrails-mcp",
+  "description": "Exposes LLM output validation (schema compliance and prompt-injection detection) as an MCP tool, enabling any MCP-compatible agent to apply real-time guardrails without importing the codebase.",
+  "source_repo": "ShaileshPatil/real-time-llm-guardrails",
+  "source_url": "https://github.com/ShaileshPatil/real-time-llm-guardrails",
+  "install": "# git clone --depth 1 https://github.com/ShaileshPatil/real-time-llm-guardrails\n# See source for mcpServers config block"
+}

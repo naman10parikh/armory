@@ -1,0 +1,7 @@
+{
+  "name": "context-the-ripper",
+  "description": "An MCP server that manages your conversation context automatically, pruning dead branches and keeping an audit trail of every cut.",
+  "source_repo": "M4NT/context-the-ripper",
+  "source_url": "https://github.com/M4NT/context-the-ripper",
+  "install": "# git clone --depth 1 https://github.com/M4NT/context-the-ripper\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arch-niri-mcp",
+  "description": "Enables AI assistants to inspect, control, and automate Arch Linux/CachyOS and the Niri Desktop Environment through natural language, featuring tools for window management, system administration, package queries, and hardware control.",
+  "source_repo": "oki3505F/arch-niri-mcp",
+  "source_url": "https://github.com/oki3505F/arch-niri-mcp",
+  "install": "npx -y arch-niri-mcp"
+}

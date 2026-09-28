@@ -1,0 +1,7 @@
+{
+  "name": "mcp-read-only-argocd",
+  "description": "A secure MCP server providing read-only access to Argo CD instances using browser session cookies, enabling querying of applications, projects, clusters, and repositories.",
+  "source_repo": "lukleh/mcp-read-only-argocd",
+  "source_url": "https://github.com/lukleh/mcp-read-only-argocd",
+  "install": "# git clone --depth 1 https://github.com/lukleh/mcp-read-only-argocd\n# See source for mcpServers config block"
+}

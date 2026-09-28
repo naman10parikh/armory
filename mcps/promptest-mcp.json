@@ -1,0 +1,7 @@
+{
+  "name": "promptest-mcp",
+  "description": "An MCP server that grades prompts against a validated rubric, tracks real outcomes, and provides guidance grounded in research on what predicts good results.",
+  "source_repo": "cortexresearch/promptest-mcp",
+  "source_url": "https://github.com/cortexresearch/promptest-mcp",
+  "install": "npx -y promptest-mcp"
+}

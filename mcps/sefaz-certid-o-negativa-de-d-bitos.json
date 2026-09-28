@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-certid-o-negativa-de-d-bitos",
+  "description": "Enables querying Brazilian state tax clearance certificates (Certidão Negativa de Débitos Estaduais) from official sources via a read-only, hosted MCP tool with pay-per-use access.",
+  "source_repo": "mcp-dir/sefaz_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_certidao_debitos-mcp",
+  "install": "npx -y sefaz_certidao_debitos-mcp"
+}

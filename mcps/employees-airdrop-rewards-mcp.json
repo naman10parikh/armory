@@ -1,6 +1,6 @@
 {
   "name": "employees-airdrop-rewards-mcp",
-  "description": "Employees Airdrop Rewards MCP MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "monostate/Employees-Airdrop-Rewards-MCP",
   "source_url": "https://mcp.so/server/Employees-Airdrop-Rewards-MCP/monostate",
   "install": "npx -y Employees-Airdrop-Rewards-MCP"

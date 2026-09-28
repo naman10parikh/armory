@@ -1,0 +1,7 @@
+{
+  "name": "roompanda-mcp",
+  "description": "Enables AI agents to search availability, price rooms, and make real bookings via the Roompanda API, scoped to a single property by the API key.",
+  "source_repo": "daviesevan-svg/roompanda-mcp",
+  "source_url": "https://github.com/daviesevan-svg/roompanda-mcp",
+  "install": "npx -y roompanda-mcp"
+}

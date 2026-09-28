@@ -1,0 +1,7 @@
+{
+  "name": "vivideo-mcp",
+  "description": "MCP server providing 13 agent-friendly tools for video creation and management via the Vivideo API, with built-in rate limiting, retries, and secret redaction.",
+  "source_repo": "egocen-vivideo/vivideo-toolchain",
+  "source_url": "https://github.com/egocen-vivideo/vivideo-toolchain",
+  "install": "# git clone --depth 1 https://github.com/egocen-vivideo/vivideo-toolchain\n# See source for mcpServers config block"
+}

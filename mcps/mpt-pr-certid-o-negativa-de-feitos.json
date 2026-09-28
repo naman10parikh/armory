@@ -1,0 +1,7 @@
+{
+  "name": "mpt-pr-certid-o-negativa-de-feitos",
+  "description": "Enables consultation of the MPT PR (Brazilian Labor Prosecution) official record of cases (Certidão Negativa de Feitos) through a read-only MCP server, allowing users to query official certification data via natural language.",
+  "source_repo": "mcp-dir/mpt_pr_cnf-mcp",
+  "source_url": "https://github.com/mcp-dir/mpt_pr_cnf-mcp",
+  "install": "npx -y mpt_pr_cnf-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "re-ios",
+  "description": "MCP server for iOS reverse engineering, enabling static analysis of IPA/Mach-O binaries and dynamic instrumentation via Frida for tasks like IAP interception and FairPlay decryption.",
+  "source_repo": "gyh20062008-commits/re-ios",
+  "source_url": "https://github.com/gyh20062008-commits/re-ios",
+  "install": "# git clone --depth 1 https://github.com/gyh20062008-commits/re-ios\n# See source for mcpServers config block"
+}

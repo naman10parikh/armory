@@ -1,0 +1,7 @@
+{
+  "name": "wafle-mcp-server",
+  "description": "The first MCP server for the wafle commerce platform. It enables Claude, agents, and MCP-compatible clients to manage stores, products, orders, pricing, gateways, and more through natural language.",
+  "source_repo": "the33warehouse-tech/wafle-mcp",
+  "source_url": "https://github.com/the33warehouse-tech/wafle-mcp",
+  "install": "npx -y wafle-mcp"
+}

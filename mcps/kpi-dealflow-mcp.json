@@ -1,0 +1,7 @@
+{
+  "name": "kpi-dealflow-mcp",
+  "description": "Enables AI assistants to manage a real estate pipeline by adding, listing, getting, and updating leads through KPI DealFlow.",
+  "source_repo": "ssaffhauser-web/kpi-dealflow-mcp",
+  "source_url": "https://github.com/ssaffhauser-web/kpi-dealflow-mcp",
+  "install": "npx -y kpi-dealflow-mcp"
+}

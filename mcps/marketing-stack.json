@@ -1,0 +1,7 @@
+{
+  "name": "marketing-stack",
+  "description": "An MCP server that provides a unified query layer over terminology, SEO/GEO analytics, and company facts, enabling Claude Code to access and reason over data previously scattered across JSON files and reports.",
+  "source_repo": "Reppesgaard-Ninja/marketing-stack-mcp",
+  "source_url": "https://github.com/Reppesgaard-Ninja/marketing-stack-mcp",
+  "install": "npx -y marketing-stack-mcp"
+}

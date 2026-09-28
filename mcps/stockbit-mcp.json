@@ -1,0 +1,7 @@
+{
+  "name": "stockbit-mcp",
+  "description": "Read-only MCP server for Stockbit (IDX market data) providing broker summary/bandarmology, quotes, top movers, orderbook, fundamentals, and sentiment using your own session. Unofficial and does not place orders.",
+  "source_repo": "INo-xious/stockbit-mcp",
+  "source_url": "https://github.com/INo-xious/stockbit-mcp",
+  "install": "npx -y stockbit-mcp"
+}

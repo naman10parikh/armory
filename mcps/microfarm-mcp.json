@@ -1,0 +1,7 @@
+{
+  "name": "microfarm-mcp",
+  "description": "Enables AI assistants to assess any parcel for micro-farm viability (climate, water, farmland context, access, flood risk) and dwelling feasibility, and to find real land for sale from free, keyless public data sources.",
+  "source_repo": "omardaaboul/microfarm-mcp",
+  "source_url": "https://github.com/omardaaboul/microfarm-mcp",
+  "install": "npx -y microfarm-mcp"
+}

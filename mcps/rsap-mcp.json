@@ -1,0 +1,7 @@
+{
+  "name": "rsap-mcp",
+  "description": "Enables Claude to control Autodesk Robot Structural Analysis Professional via COM API for modeling, loads, analysis, and results retrieval.",
+  "source_repo": "nhantruong96/rsap-mcp",
+  "source_url": "https://github.com/nhantruong96/rsap-mcp",
+  "install": "npx -y rsap-mcp"
+}

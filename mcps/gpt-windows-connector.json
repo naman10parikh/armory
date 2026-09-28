@@ -1,0 +1,7 @@
+{
+  "name": "gpt-windows-connector",
+  "description": "Remote-first, model-independent Windows execution MCP for ChatGPT, Claude, Gemini, and other MCP-compatible AI clients.",
+  "source_repo": "Neal86/gpt-windows-connector",
+  "source_url": "https://github.com/Neal86/gpt-windows-connector",
+  "install": "# git clone --depth 1 https://github.com/Neal86/gpt-windows-connector\n# See source for mcpServers config block"
+}

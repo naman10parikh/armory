@@ -1,0 +1,7 @@
+{
+  "name": "integrated-browser-mcp",
+  "description": "Exposes VS Code's integrated browser to external agents (Claude Code, scripts, curl) via a local HTTP API and MCP server.",
+  "source_repo": "sheriff-stuff/vscode-integrated-browser-agent-connect",
+  "source_url": "https://github.com/sheriff-stuff/vscode-integrated-browser-agent-connect",
+  "install": "# git clone --depth 1 https://github.com/sheriff-stuff/vscode-integrated-browser-agent-connect\n# See source for mcpServers config block"
+}

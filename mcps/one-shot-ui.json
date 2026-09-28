@@ -1,0 +1,7 @@
+{
+  "name": "one-shot-ui",
+  "description": "Deterministic screenshot diffing for AI coding agents. Extract design tokens, diff implementations vs reference, get CSS fix suggestions.",
+  "source_repo": "TN0123/one-shot-ui",
+  "source_url": "https://github.com/TN0123/one-shot-ui",
+  "install": "# git clone --depth 1 https://github.com/TN0123/one-shot-ui\n# See source for mcpServers config block"
+}

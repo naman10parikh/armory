@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-openfoodfacts-mcp-server",
+  "description": "Look up food products by barcode, search by ingredient or nutrition filter, compare products side-by-side, and browse the canonical tag vocabulary via MCP.",
+  "source_repo": "cyanheads/openfoodfacts-mcp-server",
+  "source_url": "https://github.com/cyanheads/openfoodfacts-mcp-server",
+  "install": "npx -y openfoodfacts-mcp-server"
+}

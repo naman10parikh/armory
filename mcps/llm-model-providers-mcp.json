@@ -1,6 +1,6 @@
 {
   "name": "llm-model-providers-mcp",
-  "description": "Llm Model Providers Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "jhsu/llm-model-providers-mcp",
   "source_url": "https://mcp.so/server/llm-model-providers-mcp/jhsu",
   "install": "npx -y llm-model-providers-mcp"

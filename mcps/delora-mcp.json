@@ -1,0 +1,7 @@
+{
+  "name": "delora-mcp",
+  "description": "Enables cross-chain quote retrieval, chain/token information, and tool discovery via the Delora API.",
+  "source_repo": "DeloraProtocol/delora-mcp",
+  "source_url": "https://github.com/DeloraProtocol/delora-mcp",
+  "install": "npx -y delora-mcp"
+}

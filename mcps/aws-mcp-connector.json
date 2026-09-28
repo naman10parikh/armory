@@ -1,0 +1,7 @@
+{
+  "name": "aws-mcp-connector",
+  "description": "Talk to AWS CLI from an MCP-speaking agent. Run any aws <service> <operation> command through the Model Context Protocol, with read-only defaults and gated write access.",
+  "source_repo": "FerhatDundar/aws-mcp-connector",
+  "source_url": "https://github.com/FerhatDundar/aws-mcp-connector",
+  "install": "# git clone --depth 1 https://github.com/FerhatDundar/aws-mcp-connector\n# See source for mcpServers config block"
+}

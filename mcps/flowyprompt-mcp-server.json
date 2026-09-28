@@ -1,0 +1,7 @@
+{
+  "name": "flowyprompt-mcp-server",
+  "description": "MCP server for Claude Desktop that manages prompt templates with automatic variable extraction and substitution, synchronized from a GitHub repository.",
+  "source_repo": "lshtrade/flowyprompt_mcp",
+  "source_url": "https://github.com/lshtrade/flowyprompt_mcp",
+  "install": "npx -y flowyprompt_mcp"
+}

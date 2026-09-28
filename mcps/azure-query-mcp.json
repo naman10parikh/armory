@@ -1,0 +1,7 @@
+{
+  "name": "azure-query-mcp",
+  "description": "Enables read-only querying of Azure Log Analytics and Azure Resource Graph through MCP, supporting KQL queries, workspace discovery, and resource inventory exploration with Azure RBAC authentication.",
+  "source_repo": "kapetanios55/azure-query-mcp",
+  "source_url": "https://github.com/kapetanios55/azure-query-mcp",
+  "install": "npx -y azure-query-mcp"
+}

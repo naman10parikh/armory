@@ -1,0 +1,7 @@
+{
+  "name": "grantguard-mcp",
+  "description": "Enables auditing PostgreSQL role write privileges against a policy file, using read-only tools to explain, describe, and check permissions.",
+  "source_repo": "anunanuuu-wq/grantguard",
+  "source_url": "https://github.com/anunanuuu-wq/grantguard",
+  "install": "# git clone --depth 1 https://github.com/anunanuuu-wq/grantguard\n# See source for mcpServers config block"
+}

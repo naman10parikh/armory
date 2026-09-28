@@ -1,0 +1,7 @@
+{
+  "name": "groupdocs-parser-mcp-server",
+  "description": "MCP server that exposes GroupDocs.Parser as AI-callable tools for extracting text, images, metadata, tables, barcodes, and document info from 50+ document and image formats.",
+  "source_repo": "groupdocs-parser/GroupDocs.Parser.Mcp",
+  "source_url": "https://github.com/groupdocs-parser/GroupDocs.Parser.Mcp",
+  "install": "# git clone --depth 1 https://github.com/groupdocs-parser/GroupDocs.Parser.Mcp\n# See source for mcpServers config block"
+}

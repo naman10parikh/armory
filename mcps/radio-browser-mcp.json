@@ -1,0 +1,7 @@
+{
+  "name": "radio-browser-mcp",
+  "description": "MCP server that enables natural language control of internet radio from Claude Code, with access to 30,000+ global stations, auto-playback via mpv, and a real-time status line with audio spectrum visualization.",
+  "source_repo": "cococolanosugar/radio-browser-mcp",
+  "source_url": "https://github.com/cococolanosugar/radio-browser-mcp",
+  "install": "npx -y radio-browser-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mail-notification-mcp",
+  "description": "Sends engineering progress and human approval emails via SMTP, reads replies over IMAP, and tracks approval decisions through MCP tools.",
+  "source_repo": "Guascoign/Mail_MCP",
+  "source_url": "https://github.com/Guascoign/Mail_MCP",
+  "install": "npx -y Mail_MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "laravel-forge-readonly-mcp",
+  "description": "A read-only MCP server for the Laravel Forge API, enabling AI assistants to query Forge infrastructure details like servers, sites, deployments, and logs without any write capabilities.",
+  "source_repo": "brynj-digital/laravel-forge-readonly-mcp",
+  "source_url": "https://github.com/brynj-digital/laravel-forge-readonly-mcp",
+  "install": "npx -y laravel-forge-readonly-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rag-assistant",
+  "description": "MCP server that provides 8 local RAG tools using LlamaIndex and Ollama, enabling AI-powered document querying, summarization, analysis, and comparison over PDFs, DOCX, XLSX, and CSV files.",
+  "source_repo": "Hassan-Butt4356/mcp-rag-assistant",
+  "source_url": "https://github.com/Hassan-Butt4356/mcp-rag-assistant",
+  "install": "# git clone --depth 1 https://github.com/Hassan-Butt4356/mcp-rag-assistant\n# See source for mcpServers config block"
+}

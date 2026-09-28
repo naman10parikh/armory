@@ -1,0 +1,7 @@
+{
+  "name": "upvote-club-local-mcp-2",
+  "description": "Enables interaction with the Upvote.club Public API for task management, including creating, deleting, and checking task status, as well as listing platforms and API reference.",
+  "source_repo": "alxgntv/upvote-club-mcp-local",
+  "source_url": "https://github.com/alxgntv/upvote-club-mcp-local",
+  "install": "# git clone --depth 1 https://github.com/alxgntv/upvote-club-mcp-local\n# See source for mcpServers config block"
+}

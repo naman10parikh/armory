@@ -1,0 +1,7 @@
+{
+  "name": "bruno-mcp",
+  "description": "MCP server that executes requests from Bruno API collections via the Bruno CLI tool, enabling API request execution and collection management.",
+  "source_repo": "jackmulligan-ire/bruno-mcp",
+  "source_url": "https://github.com/jackmulligan-ire/bruno-mcp",
+  "install": "npx -y bruno-mcp"
+}

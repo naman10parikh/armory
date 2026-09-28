@@ -1,0 +1,7 @@
+{
+  "name": "test-data-mocking-mcp",
+  "description": "An MCP server that mocks payments, third-party API responses, and test data to enable QA flows for donation, checkout, SIP, and subscription pages without depending on a live gateway.",
+  "source_repo": "Charul0718/test-data-mocking-mcp",
+  "source_url": "https://github.com/Charul0718/test-data-mocking-mcp",
+  "install": "npx -y test-data-mocking-mcp"
+}

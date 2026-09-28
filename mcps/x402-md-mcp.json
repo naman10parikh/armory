@@ -1,0 +1,7 @@
+{
+  "name": "x402-md-mcp",
+  "description": "Enables extracting clean Markdown from any webpage by paying $0.005 USDC per call via the x402 protocol, with automatic wallet-based payment settlement.",
+  "source_repo": "Bigabou007-dev/x402-md-mcp",
+  "source_url": "https://github.com/Bigabou007-dev/x402-md-mcp",
+  "install": "npx -y x402-md-mcp"
+}

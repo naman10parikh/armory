@@ -1,0 +1,7 @@
+{
+  "name": "aryaminus-socials-mcp",
+  "description": "Enables social media creators to pull TikTok, Instagram, Facebook, and YouTube analytics into a persistent vault, receive weekly digests, review scripts, build media kits, and draft brand outreach using official APIs only.",
+  "source_repo": "aryaminus/socials-assistant",
+  "source_url": "https://github.com/aryaminus/socials-assistant",
+  "install": "# git clone --depth 1 https://github.com/aryaminus/socials-assistant\n# See source for mcpServers config block"
+}

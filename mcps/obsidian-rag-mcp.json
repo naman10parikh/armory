@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-rag-mcp",
+  "description": "Enables semantic search over an Obsidian vault using natural language, retrieving relevant notes and extracted conclusions.",
+  "source_repo": "danielscholl/obsidian-rag-mcp",
+  "source_url": "https://github.com/danielscholl/obsidian-rag-mcp",
+  "install": "npx -y obsidian-rag-mcp"
+}

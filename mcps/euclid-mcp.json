@@ -1,0 +1,7 @@
+{
+  "name": "euclid-mcp",
+  "description": "MCP server for logical reasoning that turns facts into formal proofs using a deterministic inference engine with Prolog.",
+  "source_repo": "meob/Euclid-MCP",
+  "source_url": "https://github.com/meob/Euclid-MCP",
+  "install": "npx -y Euclid-MCP"
+}

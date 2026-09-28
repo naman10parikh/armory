@@ -1,0 +1,7 @@
+{
+  "name": "mcp-i18n",
+  "description": "MCP server for page-level i18n translation using Alibaba Cloud Qwen models, supporting incremental translation, glossary, and multiple target languages.",
+  "source_repo": "Mingo-233/mcp-i18n",
+  "source_url": "https://github.com/Mingo-233/mcp-i18n",
+  "install": "# git clone --depth 1 https://github.com/Mingo-233/mcp-i18n\n# See source for mcpServers config block"
+}

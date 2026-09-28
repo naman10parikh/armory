@@ -1,0 +1,7 @@
+{
+  "name": "sudo-meow-mcp",
+  "description": "MCP server that exposes tools to read and control the state machine of a Tauri desktop app, enabling autonomous QA exploration and testing.",
+  "source_repo": "alicefarron/sudo-meow-mcp",
+  "source_url": "https://github.com/alicefarron/sudo-meow-mcp",
+  "install": "npx -y sudo-meow-mcp"
+}

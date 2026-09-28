@@ -1,0 +1,7 @@
+{
+  "name": "k-hea",
+  "description": "Kāhea is a local-first MCP server that enables coding agents to inspect API descriptions, plan exact requests, grant precise capabilities, and invoke operations with sealed evidence.",
+  "source_repo": "copyleftdev/kahea",
+  "source_url": "https://github.com/copyleftdev/kahea",
+  "install": "# git clone --depth 1 https://github.com/copyleftdev/kahea\n# See source for mcpServers config block"
+}

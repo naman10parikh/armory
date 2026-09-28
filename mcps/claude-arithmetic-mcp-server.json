@@ -1,0 +1,7 @@
+{
+  "name": "claude-arithmetic-mcp-server",
+  "description": "An MCP server that exposes basic arithmetic operations (addition, subtraction, multiplication, division) as tools, usable locally with Claude Desktop or deployed remotely.",
+  "source_repo": "dubeysanskar1907/MCP-Client-Server-Integration",
+  "source_url": "https://github.com/dubeysanskar1907/MCP-Client-Server-Integration",
+  "install": "# git clone --depth 1 https://github.com/dubeysanskar1907/MCP-Client-Server-Integration\n# See source for mcpServers config block"
+}

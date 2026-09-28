@@ -1,0 +1,7 @@
+{
+  "name": "ham-run-2",
+  "description": "Open-source marathon physiology calculators for endurance runners. 12 tools: race time prediction (Riegel model), pacing strategy, fueling plans, running economy analysis, caffeine protocols, heat acclimation planning, periodization comparison, and grade-adjusted pace. Strava-connected tools for tra",
+  "source_repo": "",
+  "source_url": "https://ham.run/mcp",
+  "install": "# git clone --depth 1 https://ham.run/mcp\n# See source for mcpServers config block"
+}

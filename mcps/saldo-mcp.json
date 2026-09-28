@@ -1,0 +1,7 @@
+{
+  "name": "saldo-mcp",
+  "description": "A read-only MCP server that securely connects Swedish/Nordic bank accounts to AI assistants, keeping all financial data local and encrypted.",
+  "source_repo": "pixby/saldo-mcp",
+  "source_url": "https://github.com/pixby/saldo-mcp",
+  "install": "npx -y saldo-mcp"
+}

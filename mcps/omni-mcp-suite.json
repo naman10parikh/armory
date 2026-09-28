@@ -1,0 +1,7 @@
+{
+  "name": "omni-mcp-suite",
+  "description": "A collection of uncensored, API-free data acquisition tools for AI agents, featuring anti-corporate web search, image scraping, and OSINT framework that bypass filters via alternative indexers and deep web scanning.",
+  "source_repo": "astrat999/omni-mcp-suite",
+  "source_url": "https://github.com/astrat999/omni-mcp-suite",
+  "install": "# git clone --depth 1 https://github.com/astrat999/omni-mcp-suite\n# See source for mcpServers config block"
+}

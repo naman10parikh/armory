@@ -1,0 +1,7 @@
+{
+  "name": "echo-qcoder",
+  "description": "Governs and manages Qwen Code builder sessions with tools for previewing, starting, inspecting, queuing tasks, and stopping sessions, all within a scoped, redacted environment.",
+  "source_repo": "echoomegaprime/echo-qcoder",
+  "source_url": "https://github.com/echoomegaprime/echo-qcoder",
+  "install": "# git clone --depth 1 https://github.com/echoomegaprime/echo-qcoder\n# See source for mcpServers config block"
+}

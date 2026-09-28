@@ -1,0 +1,7 @@
+{
+  "name": "rlm-mcp",
+  "description": "Implements the Recursive Language Model pattern, enabling LLMs to process arbitrarily long contexts through session-based document management, on-demand chunking, BM25 search, and artifact storage.",
+  "source_repo": "adrianwedd/rlm-mcp",
+  "source_url": "https://github.com/adrianwedd/rlm-mcp",
+  "install": "npx -y rlm-mcp"
+}

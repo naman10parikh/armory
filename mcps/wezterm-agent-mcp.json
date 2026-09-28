@@ -1,0 +1,7 @@
+{
+  "name": "wezterm-agent-mcp",
+  "description": "Enables orchestration of multiple AI coding agents (Claude Code, Gemini CLI, etc.) in isolated Wezterm panes, allowing one agent to spawn, monitor, and communicate with others across projects.",
+  "source_repo": "multiagentcognition/wezterm-agent-mcp",
+  "source_url": "https://github.com/multiagentcognition/wezterm-agent-mcp",
+  "install": "npx -y wezterm-agent-mcp"
+}

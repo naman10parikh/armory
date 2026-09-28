@@ -1,0 +1,7 @@
+{
+  "name": "netzschule-miro-mcp-server",
+  "description": "Enables interaction with Miro whiteboards via MCP and REST API, including board manipulation, sticky notes, shapes, and bulk operations.",
+  "source_repo": "my-best-code/NetzSchule-Miro-MCP",
+  "source_url": "https://github.com/my-best-code/NetzSchule-Miro-MCP",
+  "install": "npx -y NetzSchule-Miro-MCP"
+}

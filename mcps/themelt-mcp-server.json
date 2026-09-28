@@ -1,0 +1,7 @@
+{
+  "name": "themelt-mcp-server",
+  "description": "Enables AI assistants to identify and quantify value leaks in organizations using Melt's methodology, providing structured estimates instead of generic vendor lists.",
+  "source_repo": "omer907/mcp-server",
+  "source_url": "https://github.com/omer907/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/omer907/mcp-server\n# See source for mcpServers config block"
+}

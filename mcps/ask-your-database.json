@@ -1,0 +1,7 @@
+{
+  "name": "ask-your-database",
+  "description": "Enables natural language queries against a Postgres database through MCP tools for listing tables, describing schemas, and running SQL queries, with write operations blocked for safety.",
+  "source_repo": "HardikSim2025/postgres_mcp",
+  "source_url": "https://github.com/HardikSim2025/postgres_mcp",
+  "install": "npx -y postgres_mcp"
+}

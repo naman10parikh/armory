@@ -1,0 +1,7 @@
+{
+  "name": "subnet-calculator-mcp",
+  "description": "Enables IPv4 subnet planning and validation, including CIDR prefix calculation, wildcard mask generation, and host position lookup for network engineers.",
+  "source_repo": "sanjayshreeyans/subnet-calculator-mcp",
+  "source_url": "https://github.com/sanjayshreeyans/subnet-calculator-mcp",
+  "install": "npx -y subnet-calculator-mcp"
+}

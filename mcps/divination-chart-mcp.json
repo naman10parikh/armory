@@ -1,0 +1,7 @@
+{
+  "name": "divination-chart-mcp",
+  "description": "An MCP server for generating Chinese divination charts (Six-line and Bazi) based on user input.",
+  "source_repo": "wangsquirrel/divination-chart-mcp",
+  "source_url": "https://github.com/wangsquirrel/divination-chart-mcp",
+  "install": "npx -y divination-chart-mcp"
+}

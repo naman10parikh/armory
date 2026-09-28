@@ -1,0 +1,7 @@
+{
+  "name": "cn-hk-quotes-mcp",
+  "description": "Deploys a stateless remote MCP server on Cloudflare Workers without authentication, enabling users to connect custom MCP tools to clients such as Cloudflare AI Playground and Claude Desktop.",
+  "source_repo": "zhushihao/cn-hk-quotes-mcp",
+  "source_url": "https://github.com/zhushihao/cn-hk-quotes-mcp",
+  "install": "npx -y cn-hk-quotes-mcp"
+}

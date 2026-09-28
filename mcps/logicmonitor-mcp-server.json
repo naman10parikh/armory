@@ -1,0 +1,7 @@
+{
+  "name": "logicmonitor-mcp-server",
+  "description": "MCP server enabling AI assistants to interact with your LogicMonitor, providing 125 tools for comprehensive monitoring and management operations.",
+  "source_repo": "monitoringartist/logicmonitor-mcp-server",
+  "source_url": "https://github.com/monitoringartist/logicmonitor-mcp-server",
+  "install": "npx -y logicmonitor-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kubernetes-mcp",
+  "description": "MCP server that gives AI assistants full access to Kubernetes clusters and Helm, exposing 73 tools for managing pods, deployments, services, configs, secrets, logs, exec, port-forwarding, Helm lifecycle, and more.",
+  "source_repo": "Stonepusher/kubernetes-mcp",
+  "source_url": "https://github.com/Stonepusher/kubernetes-mcp",
+  "install": "npx -y kubernetes-mcp"
+}

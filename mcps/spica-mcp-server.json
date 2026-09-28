@@ -1,0 +1,7 @@
+{
+  "name": "spica-mcp-server",
+  "description": "MCP server that enables AI agents to interact with Spica servers, managing databases, serverless functions, storage, authentication, auditing, debugging, and version control.",
+  "source_repo": "spica-engine/spica-mcp-server",
+  "source_url": "https://github.com/spica-engine/spica-mcp-server",
+  "install": "npx -y spica-mcp-server"
+}

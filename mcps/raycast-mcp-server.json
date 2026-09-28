@@ -1,0 +1,7 @@
+{
+  "name": "raycast-mcp-server",
+  "description": "Provides 9 tools to integrate Raycast with AI assistants for workflow automation, extension management, authentication, search, clipboard, and system control.",
+  "source_repo": "ExpertVagabond/raycast-mcp-server",
+  "source_url": "https://github.com/ExpertVagabond/raycast-mcp-server",
+  "install": "npx -y raycast-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "google-ads-write-mcp",
+  "description": "MCP server that exposes write operations on Google Ads, enabling management of campaigns, ad groups, keywords, RSA ads, sitelinks, images, Customer Match audiences, and recommendations.",
+  "source_repo": "YerayRodri/google-ads-write-mcp",
+  "source_url": "https://github.com/YerayRodri/google-ads-write-mcp",
+  "install": "npx -y google-ads-write-mcp"
+}

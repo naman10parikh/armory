@@ -1,0 +1,7 @@
+{
+  "name": "leo-elevenlabs-mcp",
+  "description": "An MCP server that provides ElevenLabs text-to-speech as a Leo provider package, enabling text synthesis to base64 audio and voice listing through the Leo speech pipeline.",
+  "source_repo": "TheBananaStand/leo-elevenlabs-mcp",
+  "source_url": "https://github.com/TheBananaStand/leo-elevenlabs-mcp",
+  "install": "npx -y leo-elevenlabs-mcp"
+}

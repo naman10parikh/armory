@@ -1,0 +1,7 @@
+{
+  "name": "apache-beam-mcp-server",
+  "description": "Enables AI-controlled management of Apache Beam data pipelines across different runners (Flink, Spark, Dataflow, Direct) via the Model Context Protocol.",
+  "source_repo": "souravch/beam-mcp-server",
+  "source_url": "https://github.com/souravch/beam-mcp-server",
+  "install": "npx -y beam-mcp-server"
+}

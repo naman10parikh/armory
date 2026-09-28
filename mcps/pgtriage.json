@@ -1,0 +1,7 @@
+{
+  "name": "pgtriage",
+  "description": "Read-only PostgreSQL performance auditing via MCP. Collects metrics from PostgreSQL system views, applies deterministic checks for index, query, vacuum, configuration, and connection issues, and returns structured findings for MCP clients.",
+  "source_repo": "pgtriage/pgtriage",
+  "source_url": "https://github.com/pgtriage/pgtriage",
+  "install": "# git clone --depth 1 https://github.com/pgtriage/pgtriage\n# See source for mcpServers config block"
+}

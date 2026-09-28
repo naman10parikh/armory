@@ -1,0 +1,7 @@
+{
+  "name": "rekabet-karar-mcp",
+  "description": "Enables searching and retrieving US federal antitrust decisions from the CourtListener API, providing verified citations and full text for competition law research.",
+  "source_repo": "cankilercioglu99-sudo/rekabet-karar-mcp",
+  "source_url": "https://github.com/cankilercioglu99-sudo/rekabet-karar-mcp",
+  "install": "npx -y rekabet-karar-mcp"
+}

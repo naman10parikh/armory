@@ -1,0 +1,7 @@
+{
+  "name": "tone-rewriter-ai-mcp",
+  "description": "Analyzes and rewrites text to match desired tones (professional, casual, formal, etc.) via MCP protocol, with EU AI Act compliance.",
+  "source_repo": "CSOAI-ORG/tone-rewriter-ai-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/tone-rewriter-ai-mcp",
+  "install": "npx -y tone-rewriter-ai-mcp"
+}

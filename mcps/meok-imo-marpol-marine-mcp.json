@@ -1,0 +1,7 @@
+{
+  "name": "meok-imo-marpol-marine-mcp",
+  "description": "MCP server for maritime compliance, enabling natural-language checks on MARPOL Annex VI, EU ETS, CII/EEXI, IMDG, bunker fuel, ballast water, and Port State Control inspection prep.",
+  "source_repo": "CSOAI-ORG/meok-imo-marpol-marine-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/meok-imo-marpol-marine-mcp",
+  "install": "npx -y meok-imo-marpol-marine-mcp"
+}

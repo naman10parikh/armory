@@ -1,0 +1,7 @@
+{
+  "name": "rolex",
+  "description": "Provides AI agents with persistent identity, social organization, and experience-based growth, modeled on human societies, via MCP tools for goal management, learning, and resource sharing.",
+  "source_repo": "Deepractice/RoleX",
+  "source_url": "https://github.com/Deepractice/RoleX",
+  "install": "# git clone --depth 1 https://github.com/Deepractice/RoleX\n# See source for mcpServers config block"
+}

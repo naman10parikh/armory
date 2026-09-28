@@ -1,0 +1,7 @@
+{
+  "name": "viyan-mcp",
+  "description": "Enables autonomous satellite agents to communicate and coordinate for orbital operations such as collision avoidance, maneuver planning, and mission execution.",
+  "source_repo": "nekhss/viyan-mcp",
+  "source_url": "https://github.com/nekhss/viyan-mcp",
+  "install": "npx -y viyan-mcp"
+}

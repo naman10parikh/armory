@@ -1,0 +1,7 @@
+{
+  "name": "lodi-kids-activities",
+  "description": "Free, parent-trust-first directory of youth programs and licensed daycares in Lodi, California. 72 MCP tools across: - **Public search** — programs, daycares, events, cities - **Parent account management** — kids, saves, household co-accounts, calendar feeds, tour requests - **Org listing management",
+  "source_repo": "",
+  "source_url": "https://lodikidsactivities.com",
+  "install": "# git clone --depth 1 https://lodikidsactivities.com\n# See source for mcpServers config block"
+}

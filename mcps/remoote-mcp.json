@@ -1,0 +1,7 @@
+{
+  "name": "remoote-mcp",
+  "description": "Enables AI agents to search and explore remote job listings, salary stats, and popular roles, and supports token-authenticated actions like job alerts and apply redirects.",
+  "source_repo": "asmisha/remoote-mcp",
+  "source_url": "https://github.com/asmisha/remoote-mcp",
+  "install": "npx -y remoote-mcp"
+}

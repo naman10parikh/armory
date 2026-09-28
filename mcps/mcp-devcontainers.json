@@ -1,0 +1,7 @@
+{
+  "name": "mcp-devcontainers",
+  "description": "MCP server for generating and configuring development containers from devcontainer.json files, enabling management of devcontainer environments through tools like devcontainer_up, devcontainer_exec, and cleanup.",
+  "source_repo": "AI-QL/mcp-devcontainers",
+  "source_url": "https://github.com/AI-QL/mcp-devcontainers",
+  "install": "# git clone --depth 1 https://github.com/AI-QL/mcp-devcontainers\n# See source for mcpServers config block"
+}

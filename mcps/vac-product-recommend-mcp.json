@@ -1,0 +1,7 @@
+{
+  "name": "vac-product-recommend-mcp",
+  "description": "Searches Ctrip group tour products by keyword and filters, recommends top picks by rating/sales/price, and returns Markdown tables with links.",
+  "source_repo": "KatouMegumii/vac-product-recommend-mcp",
+  "source_url": "https://github.com/KatouMegumii/vac-product-recommend-mcp",
+  "install": "npx -y vac-product-recommend-mcp"
+}

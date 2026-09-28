@@ -1,0 +1,7 @@
+{
+  "name": "skillfm-llm-cost-optimizer-mcp",
+  "description": "LLM cost optimization and provider usage visibility for MCP-capable agents.",
+  "source_repo": "ericm1018/skillfm-llm-cost-optimizer-mcp",
+  "source_url": "https://github.com/ericm1018/skillfm-llm-cost-optimizer-mcp",
+  "install": "npx -y skillfm-llm-cost-optimizer-mcp"
+}

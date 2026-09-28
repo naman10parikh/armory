@@ -1,0 +1,7 @@
+{
+  "name": "visiomcp",
+  "description": "Connects Claude to Microsoft Visio to generate enterprise architecture diagrams from natural language or structured inventory data, supporting multiple diagram types and export formats.",
+  "source_repo": "omerbelsayed/visio-mcp",
+  "source_url": "https://github.com/omerbelsayed/visio-mcp",
+  "install": "npx -y visio-mcp"
+}

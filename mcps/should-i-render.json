@@ -1,0 +1,7 @@
+{
+  "name": "should-i-render",
+  "description": "A read-only MCP server that recommends React components from a measured, curated snapshot by answering component-fit questions with terse verdicts and harness facts.",
+  "source_repo": "mrkeyoor/should-i-render",
+  "source_url": "https://github.com/mrkeyoor/should-i-render",
+  "install": "# git clone --depth 1 https://github.com/mrkeyoor/should-i-render\n# See source for mcpServers config block"
+}

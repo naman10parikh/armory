@@ -1,0 +1,7 @@
+{
+  "name": "twfoodmcp",
+  "description": "Provides access to Taiwan packaged food and chain restaurant nutritional information, including search, nutrition calculation, and draft creation for new data.",
+  "source_repo": "NTUT-Vincent/TWFoodMCP",
+  "source_url": "https://github.com/NTUT-Vincent/TWFoodMCP",
+  "install": "# git clone --depth 1 https://github.com/NTUT-Vincent/TWFoodMCP\n# See source for mcpServers config block"
+}

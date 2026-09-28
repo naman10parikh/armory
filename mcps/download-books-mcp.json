@@ -1,0 +1,7 @@
+{
+  "name": "download-books-mcp",
+  "description": "Enables agents to search and download books from LibGen and Z-Library via MCP tools, abstracting provider details behind neutral labels.",
+  "source_repo": "mateogon/download-books-mcp",
+  "source_url": "https://github.com/mateogon/download-books-mcp",
+  "install": "npx -y download-books-mcp"
+}

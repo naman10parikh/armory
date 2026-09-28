@@ -1,0 +1,7 @@
+{
+  "name": "law-ai-mcp-server",
+  "description": "Provides AI assistants access to 991,000+ bar-verified U.S. attorney profiles for accurate lawyer search, verification, and referral without hallucination.",
+  "source_repo": "risk-ai/lawai-mcp-server",
+  "source_url": "https://github.com/risk-ai/lawai-mcp-server",
+  "install": "npx -y lawai-mcp-server"
+}

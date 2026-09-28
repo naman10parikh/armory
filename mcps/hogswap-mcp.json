@@ -1,0 +1,7 @@
+{
+  "name": "hogswap-mcp",
+  "description": "MCP server for HOGSWAP, providing DEX-aggregated quotes, unsigned swap builds, and x402 invoice payments with any assets, all non-custodial.",
+  "source_repo": "LiquiHog/hogswap-mcp",
+  "source_url": "https://github.com/LiquiHog/hogswap-mcp",
+  "install": "npx -y hogswap-mcp"
+}

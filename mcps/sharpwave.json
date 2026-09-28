@@ -1,0 +1,7 @@
+{
+  "name": "sharpwave",
+  "description": "An MCP server providing long-term memory for AI agents with forgetting curves, consolidation, and graph-based retrieval.",
+  "source_repo": "EnlightenedRepublic/sharpwave",
+  "source_url": "https://github.com/EnlightenedRepublic/sharpwave",
+  "install": "# git clone --depth 1 https://github.com/EnlightenedRepublic/sharpwave\n# See source for mcpServers config block"
+}

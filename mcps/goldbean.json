@@ -1,0 +1,7 @@
+{
+  "name": "goldbean",
+  "description": "x402 Micropaid MCP Server — 120+ paid API endpoints for AI Agents. Pay per call with USDC on Base network. No signup, no API key needed.",
+  "source_repo": "wuzenghai616-lang/goldbean",
+  "source_url": "https://github.com/wuzenghai616-lang/goldbean",
+  "install": "# git clone --depth 1 https://github.com/wuzenghai616-lang/goldbean\n# See source for mcpServers config block"
+}

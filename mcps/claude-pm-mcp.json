@@ -1,0 +1,7 @@
+{
+  "name": "claude-pm-mcp",
+  "description": "Turns Claude Code into an engineering project manager by orchestrating feature development with isolated Git worktrees, structured task validation, and approval-gated integration.",
+  "source_repo": "ch1kim0n1/claude-pm-mcp",
+  "source_url": "https://github.com/ch1kim0n1/claude-pm-mcp",
+  "install": "npx -y claude-pm-mcp"
+}

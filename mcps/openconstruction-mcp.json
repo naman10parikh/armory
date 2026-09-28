@@ -1,0 +1,7 @@
+{
+  "name": "openconstruction-mcp",
+  "description": "Local-first MCP server enabling catalog discovery, dataset context, and safe downloads of construction datasets.",
+  "source_repo": "Ben11304/OC-mcp",
+  "source_url": "https://github.com/Ben11304/OC-mcp",
+  "install": "npx -y OC-mcp"
+}

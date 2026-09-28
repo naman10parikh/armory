@@ -1,0 +1,7 @@
+{
+  "name": "statepulse-api",
+  "description": "55+ pay-per-call tools for AI agents over MCP: live telemetry, blockchain/on-chain checks, environmental, transit, finance, and network utilities. No API key or signup — agents pay per request with x402 USDC micropayments (Base and Solana).",
+  "source_repo": "Ahmed-Achtatar/statepulse-api",
+  "source_url": "https://github.com/Ahmed-Achtatar/statepulse-api",
+  "install": "# git clone --depth 1 https://github.com/Ahmed-Achtatar/statepulse-api\n# See source for mcpServers config block"
+}

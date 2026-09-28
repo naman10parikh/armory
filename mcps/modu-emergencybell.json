@@ -1,0 +1,7 @@
+{
+  "name": "modu-emergencybell",
+  "description": "Provides emergency hotline numbers, restrooms and outdoor safety bells, after-hours clinics, pharmacies, ER beds, and foreign visitor phrase cards. Information only—does not place calls or diagnose.",
+  "source_repo": "dablro12/modu-emergencybell-mcp",
+  "source_url": "https://github.com/dablro12/modu-emergencybell-mcp",
+  "install": "npx -y modu-emergencybell-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "subjectbroker",
+  "description": "Enables AI agents to access registered resources based on a fixed subject identity, enforcing default-deny policies and auditing for controlled context sharing.",
+  "source_repo": "gexchai/subject-broker",
+  "source_url": "https://github.com/gexchai/subject-broker",
+  "install": "# git clone --depth 1 https://github.com/gexchai/subject-broker\n# See source for mcpServers config block"
+}

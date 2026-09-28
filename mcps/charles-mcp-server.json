@@ -1,0 +1,7 @@
+{
+  "name": "charles-mcp-server",
+  "description": "Enables AI agents to interact with Charles Proxy for HTTP traffic analysis, supporting incremental harvest, checkpoint timelines, and rich filtering tools.",
+  "source_repo": "tianhetonghua/Charles-mcp-server",
+  "source_url": "https://github.com/tianhetonghua/Charles-mcp-server",
+  "install": "npx -y Charles-mcp-server"
+}

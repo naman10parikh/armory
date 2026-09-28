@@ -1,0 +1,7 @@
+{
+  "name": "jira-worktrack-mcp",
+  "description": "A zero-dependency MCP server that answers common questions about Jira work, such as what is assigned to me, standup status, sprint health, and more, without returning raw issue JSON.",
+  "source_repo": "YusufKaracSimply/jira-worktrack-mcp",
+  "source_url": "https://github.com/YusufKaracSimply/jira-worktrack-mcp",
+  "install": "npx -y jira-worktrack-mcp"
+}

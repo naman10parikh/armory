@@ -1,0 +1,7 @@
+{
+  "name": "auth-vault",
+  "description": "MCP server for secure credential management, browser-based login automation, and TOTP/2FA auto-solving. Encrypts credentials with AES-256-GCM and automates login flows via Playwright.",
+  "source_repo": "borysttk/auth-vault-template",
+  "source_url": "https://github.com/borysttk/auth-vault-template",
+  "install": "# git clone --depth 1 https://github.com/borysttk/auth-vault-template\n# See source for mcpServers config block"
+}

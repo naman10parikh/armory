@@ -1,0 +1,7 @@
+{
+  "name": "operations-pulse",
+  "description": "Enables AI assistants to run local-first operations checks, review evidence, and manage durable tickets in a SQLite-backed ledger through self-describing MCP tools.",
+  "source_repo": "Openly-Useful/operations-pulse",
+  "source_url": "https://github.com/Openly-Useful/operations-pulse",
+  "install": "# git clone --depth 1 https://github.com/Openly-Useful/operations-pulse\n# See source for mcpServers config block"
+}

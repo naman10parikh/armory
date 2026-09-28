@@ -1,0 +1,7 @@
+{
+  "name": "admob-mcp-server",
+  "description": "Exposes the Google AdMob API as MCP tools for managing AdMob accounts, generating network and mediation reports, and listing apps and ad units.",
+  "source_repo": "kunny/admob-mcp-server",
+  "source_url": "https://github.com/kunny/admob-mcp-server",
+  "install": "npx -y admob-mcp-server"
+}

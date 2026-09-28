@@ -1,0 +1,7 @@
+{
+  "name": "cf-mcp-playground",
+  "description": "Enables AI clients to explore MCP concepts, retrieve quickstart guides, and ask questions with Redis-cached answers, supporting deployment on Cloudflare Workers and Docker.",
+  "source_repo": "tobytoy/cf-mcp-playground",
+  "source_url": "https://github.com/tobytoy/cf-mcp-playground",
+  "install": "# git clone --depth 1 https://github.com/tobytoy/cf-mcp-playground\n# See source for mcpServers config block"
+}

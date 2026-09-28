@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-runescape",
+  "description": "MCP server for interacting with RuneScape and Old School RuneScape data, including item prices, player hiscores, and more.",
+  "source_repo": "stjepko-xyz/mcp-server-runescape",
+  "source_url": "https://github.com/stjepko-xyz/mcp-server-runescape",
+  "install": "# git clone --depth 1 https://github.com/stjepko-xyz/mcp-server-runescape\n# See source for mcpServers config block"
+}

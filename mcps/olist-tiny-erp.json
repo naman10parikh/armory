@@ -1,0 +1,7 @@
+{
+  "name": "olist-tiny-erp",
+  "description": "Read-only MCP server for Olist Tiny ERP, enabling querying of products, inventory, orders, invoices, accounts, contacts, shipping, purchase orders, CRM, and price lists via the official REST API v3.",
+  "source_repo": "mcp-dir/olist-mcp",
+  "source_url": "https://github.com/mcp-dir/olist-mcp",
+  "install": "npx -y olist-mcp"
+}

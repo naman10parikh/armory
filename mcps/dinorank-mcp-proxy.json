@@ -1,0 +1,7 @@
+{
+  "name": "dinorank-mcp-proxy",
+  "description": "Enables Claude.ai to use DinoRank's SEO tools (keyword research, visibility, linkbuilding, etc.) via an OAuth proxy that protects your API key.",
+  "source_repo": "Siana2022/mcpseo",
+  "source_url": "https://github.com/Siana2022/mcpseo",
+  "install": "# git clone --depth 1 https://github.com/Siana2022/mcpseo\n# See source for mcpServers config block"
+}

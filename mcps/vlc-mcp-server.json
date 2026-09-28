@@ -1,0 +1,7 @@
+{
+  "name": "vlc-mcp-server",
+  "description": "An MCP server to control VLC media player, allowing remote playback and control of videos via any MCP client.",
+  "source_repo": "piebro/vlc-mcp-server",
+  "source_url": "https://github.com/piebro/vlc-mcp-server",
+  "install": "npx -y vlc-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wellx-design-system-mcp",
+  "description": "The Wellx Design System MCP enables AI agents to access the single source of truth for Wellx design, including tokens, component specs, rules, and search, ensuring consistent design implementation across surfaces.",
+  "source_repo": "mbarbarydesign/Wellx-design-mcp",
+  "source_url": "https://github.com/mbarbarydesign/Wellx-design-mcp",
+  "install": "npx -y Wellx-design-mcp"
+}

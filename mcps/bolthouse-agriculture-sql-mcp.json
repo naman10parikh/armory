@@ -1,0 +1,7 @@
+{
+  "name": "bolthouse-agriculture-sql-mcp",
+  "description": "Enables read-only SQL queries and CSV exports to the Bolthouse_Ag_AI database via MCP tools like execute_sql_query and submit_sql_export, with bearer-token authentication.",
+  "source_repo": "saravanadas/SQL_Ag_MCP",
+  "source_url": "https://github.com/saravanadas/SQL_Ag_MCP",
+  "install": "npx -y SQL_Ag_MCP"
+}

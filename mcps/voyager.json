@@ -1,0 +1,7 @@
+{
+  "name": "voyager",
+  "description": "An MCP server that enables coding agents to safely verify npm/PyPI packages, retrieve cited briefs, discover GitHub repos, and fetch canonical docs, with fail-closed OSV vulnerability checks and injection-hardened output.",
+  "source_repo": "dir-ai/voyager",
+  "source_url": "https://github.com/dir-ai/voyager",
+  "install": "# git clone --depth 1 https://github.com/dir-ai/voyager\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "runmeter",
+  "description": "An MCP server that provides cost and reliability observability for LLM and agent workflows. It records model calls and allows querying and aggregating telemetry data through MCP tools.",
+  "source_repo": "Aptica-Solutions/a-mcp-runmeter",
+  "source_url": "https://github.com/Aptica-Solutions/a-mcp-runmeter",
+  "install": "# git clone --depth 1 https://github.com/Aptica-Solutions/a-mcp-runmeter\n# See source for mcpServers config block"
+}

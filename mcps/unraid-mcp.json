@@ -1,0 +1,7 @@
+{
+  "name": "unraid-mcp",
+  "description": "A Model Context Protocol server that enables AI clients to inspect and manage an Unraid server via its GraphQL API, with read-only defaults and optional enabled mutations.",
+  "source_repo": "lemanjo/unraid-mcp",
+  "source_url": "https://github.com/lemanjo/unraid-mcp",
+  "install": "npx -y unraid-mcp"
+}

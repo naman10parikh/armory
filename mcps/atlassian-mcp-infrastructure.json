@@ -1,0 +1,7 @@
+{
+  "name": "atlassian-mcp-infrastructure",
+  "description": "Hardened Docker infrastructure enabling secure, single-tenant MCP access to Jira and Confluence Cloud through a proxy.",
+  "source_repo": "shanewiseman/atlassian-mcp",
+  "source_url": "https://github.com/shanewiseman/atlassian-mcp",
+  "install": "npx -y atlassian-mcp"
+}

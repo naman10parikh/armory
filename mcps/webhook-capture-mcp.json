@@ -1,0 +1,7 @@
+{
+  "name": "webhook-capture-mcp",
+  "description": "Captures incoming webhook/HTTP requests and lets AI assistants inspect, wait for, and replay them to debug webhook integrations.",
+  "source_repo": "void-pulse/webhook-capture-mcp",
+  "source_url": "https://github.com/void-pulse/webhook-capture-mcp",
+  "install": "npx -y webhook-capture-mcp"
+}

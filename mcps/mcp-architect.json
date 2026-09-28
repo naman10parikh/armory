@@ -1,0 +1,7 @@
+{
+  "name": "mcp-architect",
+  "description": "Provides comprehensive architectural expertise through specialized agents, resources, and tools for generating, evaluating, and modifying architectural designs.",
+  "source_repo": "ccc0168/mcp-architect",
+  "source_url": "https://github.com/ccc0168/mcp-architect",
+  "install": "# git clone --depth 1 https://github.com/ccc0168/mcp-architect\n# See source for mcpServers config block"
+}

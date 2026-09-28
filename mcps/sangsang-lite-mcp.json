@@ -1,0 +1,7 @@
+{
+  "name": "sangsang-lite-mcp",
+  "description": "An MCP server for analyzing creative ideas through a series of diagnostic tools, designed for prototyping and submission to PlayMCP.",
+  "source_repo": "LeeSiHyeon711/sangsang-lite-mcp",
+  "source_url": "https://github.com/LeeSiHyeon711/sangsang-lite-mcp",
+  "install": "npx -y sangsang-lite-mcp"
+}

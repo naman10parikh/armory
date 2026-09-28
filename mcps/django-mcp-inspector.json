@@ -1,0 +1,7 @@
+{
+  "name": "django-mcp-inspector",
+  "description": "Exposes Django runtime information (settings, apps, URLs, models, migrations) as MCP resources for AI agents to inspect a live Django project without static analysis.",
+  "source_repo": "StuartMacKay/django-mcp-inspector",
+  "source_url": "https://github.com/StuartMacKay/django-mcp-inspector",
+  "install": "# git clone --depth 1 https://github.com/StuartMacKay/django-mcp-inspector\n# See source for mcpServers config block"
+}

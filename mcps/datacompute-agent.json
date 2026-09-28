@@ -1,0 +1,7 @@
+{
+  "name": "datacompute-agent",
+  "description": "An autonomous MCP server that fetches datasets from IPFS/Filecoin, performs computation (anomaly detection, statistics, data quality scoring), and stores results via Multi-Chain Storage simulation.",
+  "source_repo": "0xConsole/datacompute-agent",
+  "source_url": "https://github.com/0xConsole/datacompute-agent",
+  "install": "# git clone --depth 1 https://github.com/0xConsole/datacompute-agent\n# See source for mcpServers config block"
+}

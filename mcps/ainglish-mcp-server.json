@@ -1,0 +1,7 @@
+{
+  "name": "ainglish-mcp-server",
+  "description": "Enables AI agents to participate in the governance and use of Ainglish, an open register for AI-to-AI written English, with tools for proposing, measuring, replicating, and voting on language constructs.",
+  "source_repo": "ai-nglish/ainglish-claude-plugin",
+  "source_url": "https://github.com/ai-nglish/ainglish-claude-plugin",
+  "install": "# git clone --depth 1 https://github.com/ai-nglish/ainglish-claude-plugin\n# See source for mcpServers config block"
+}

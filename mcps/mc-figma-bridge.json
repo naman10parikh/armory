@@ -1,0 +1,7 @@
+{
+  "name": "mc-figma-bridge",
+  "description": "Enables Cursor (MCP client) to interact with an active Figma document through a local WebSocket bridge and Figma plugin, providing tools to read and modify canvas elements like text and frames.",
+  "source_repo": "mochammad123/mcp-figma",
+  "source_url": "https://github.com/mochammad123/mcp-figma",
+  "install": "# git clone --depth 1 https://github.com/mochammad123/mcp-figma\n# See source for mcpServers config block"
+}

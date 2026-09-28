@@ -1,0 +1,7 @@
+{
+  "name": "ruishu-mcp",
+  "description": "An MCP server that bridges LLMs with dynamic real-world data by leveraging Chrome DevTools Protocol to intercept and reconstruct network traffic, enabling AI agents to extract high-quality structured data from complex web environments.",
+  "source_repo": "xuange520/ruishu-mcp",
+  "source_url": "https://github.com/xuange520/ruishu-mcp",
+  "install": "npx -y ruishu-mcp"
+}

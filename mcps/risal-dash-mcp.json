@@ -1,0 +1,7 @@
+{
+  "name": "risal-dash-mcp",
+  "description": "Bridges a RisalDash ESP32/ESP8266 device to MCP — every dashboard widget becomes a get_/set_ tool, so an agent can read sensors and toggle relays.",
+  "source_repo": "ziyarago/risal-dash-mcp",
+  "source_url": "https://github.com/ziyarago/risal-dash-mcp",
+  "install": "npx -y risal-dash-mcp"
+}

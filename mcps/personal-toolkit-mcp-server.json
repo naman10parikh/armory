@@ -1,0 +1,7 @@
+{
+  "name": "personal-toolkit-mcp-server",
+  "description": "A local MCP server providing text utilities, math functions, and a persistent todo list, enabling task automation via natural language in Claude Desktop.",
+  "source_repo": "SANDEEP-KR-MAHTO/personal-toolkit-mcp-server",
+  "source_url": "https://github.com/SANDEEP-KR-MAHTO/personal-toolkit-mcp-server",
+  "install": "npx -y personal-toolkit-mcp-server"
+}

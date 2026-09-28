@@ -1,0 +1,7 @@
+{
+  "name": "heuresis-mcp",
+  "description": "Exposes a Heuresis workspace to MCP clients, enabling concept mapping, ideation, and workspace management through natural language.",
+  "source_repo": "ToremLabs/heuresis-mcp",
+  "source_url": "https://github.com/ToremLabs/heuresis-mcp",
+  "install": "npx -y heuresis-mcp"
+}

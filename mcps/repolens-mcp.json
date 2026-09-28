@@ -1,0 +1,7 @@
+{
+  "name": "repolens-mcp",
+  "description": "Transforms local Git repositories into queryable, context-rich knowledge bases via AST-aware chunking and Git metadata, enabling AI assistants to search and understand codebases with semantic precision.",
+  "source_repo": "Sanjeev1412-official/Repolens-mcp",
+  "source_url": "https://github.com/Sanjeev1412-official/Repolens-mcp",
+  "install": "npx -y Repolens-mcp"
+}

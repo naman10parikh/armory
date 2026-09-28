@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ollama-account-rotation-2",
+  "description": "MCP server that transparently routes Ollama Cloud API requests across multiple user-owned accounts, handling quota exhaustion, rate limits, and failures via automatic account rotation.",
+  "source_repo": "irad-bouzidi/mcp-ollama-account-rotation-new",
+  "source_url": "https://github.com/irad-bouzidi/mcp-ollama-account-rotation-new",
+  "install": "# git clone --depth 1 https://github.com/irad-bouzidi/mcp-ollama-account-rotation-new\n# See source for mcpServers config block"
+}

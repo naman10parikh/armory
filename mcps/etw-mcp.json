@@ -1,0 +1,7 @@
+{
+  "name": "etw-mcp",
+  "description": "Enables AI assistants to analyze Windows WPR/ETW traces (.etl files) using natural language queries, with features like auto-summary, CPU sampling, DPC/ISR analysis, and symbol resolution.",
+  "source_repo": "nijosmsft/etw-mcp",
+  "source_url": "https://github.com/nijosmsft/etw-mcp",
+  "install": "npx -y etw-mcp"
+}

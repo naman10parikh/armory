@@ -1,0 +1,7 @@
+{
+  "name": "whatconverts-mcp-server",
+  "description": "Connects Claude to the WhatConverts API, enabling management of leads, accounts, profiles, tracking numbers, and recordings through natural language.",
+  "source_repo": "321webmarketing/whatconverts-mcp-server",
+  "source_url": "https://github.com/321webmarketing/whatconverts-mcp-server",
+  "install": "npx -y whatconverts-mcp-server"
+}

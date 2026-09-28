@@ -1,0 +1,7 @@
+{
+  "name": "iec-62304-requirements-mcp-server",
+  "description": "Enables management of software requirements in compliance with IEC 62304 Class C medical device standards, including requirement creation, versioning, traceability matrix generation, and risk control integration.",
+  "source_repo": "Pakawat-Dev/iec62304-mcp-requirements",
+  "source_url": "https://github.com/Pakawat-Dev/iec62304-mcp-requirements",
+  "install": "# git clone --depth 1 https://github.com/Pakawat-Dev/iec62304-mcp-requirements\n# See source for mcpServers config block"
+}

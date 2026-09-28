@@ -1,0 +1,7 @@
+{
+  "name": "chilon-recall",
+  "description": "Local-first knowledge retrieval MCP server that turns private text documents into a source-backed knowledge base, enabling retrieval, comparison, summaries, and review outlines for any local MCP client while keeping source paths and index operations visible.",
+  "source_repo": "ctrlcakepro/chilon-recall",
+  "source_url": "https://github.com/ctrlcakepro/chilon-recall",
+  "install": "# git clone --depth 1 https://github.com/ctrlcakepro/chilon-recall\n# See source for mcpServers config block"
+}

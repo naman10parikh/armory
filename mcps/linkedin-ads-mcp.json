@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-ads-mcp",
+  "description": "Provides LinkedIn Ads data and management capabilities to AI assistants via MCP, with LinkedIn SSO authentication and a web-based setup/admin interface.",
+  "source_repo": "geryslov/linkedin-ads-mcp-site",
+  "source_url": "https://github.com/geryslov/linkedin-ads-mcp-site",
+  "install": "# git clone --depth 1 https://github.com/geryslov/linkedin-ads-mcp-site\n# See source for mcpServers config block"
+}

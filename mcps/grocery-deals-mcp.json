@@ -1,0 +1,7 @@
+{
+  "name": "grocery-deals-mcp",
+  "description": "An MCP server that tells an AI assistant what's on sale at grocery stores near any US ZIP code by reading weekly circulars and providing fast, queryable deal data.",
+  "source_repo": "tx-smitht/grocery-deals-mcp",
+  "source_url": "https://github.com/tx-smitht/grocery-deals-mcp",
+  "install": "npx -y grocery-deals-mcp"
+}

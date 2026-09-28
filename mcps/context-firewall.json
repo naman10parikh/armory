@@ -1,0 +1,7 @@
+{
+  "name": "context-firewall",
+  "description": "Aggregator MCP proxy that collapses N downstream MCP servers into 4 meta-tools with progressive tool discovery, and compresses large tool outputs (HTML→Markdown, JSON summarization) with full-output retrieval via read_more and a per-session token-savings report.",
+  "source_repo": "Alepha188838884/context-firewall",
+  "source_url": "https://github.com/Alepha188838884/context-firewall",
+  "install": "# git clone --depth 1 https://github.com/Alepha188838884/context-firewall\n# See source for mcpServers config block"
+}

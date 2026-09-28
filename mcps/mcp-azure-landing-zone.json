@@ -1,0 +1,7 @@
+{
+  "name": "mcp-azure-landing-zone",
+  "description": "Enables AI assistants to inspect and audit Azure Landing Zones by inventorying resources, auditing tagging, evaluating policy compliance, and detecting infrastructure drift, all in read-only mode.",
+  "source_repo": "jmartinezHNL/mcp-azure-landing-zone",
+  "source_url": "https://github.com/jmartinezHNL/mcp-azure-landing-zone",
+  "install": "# git clone --depth 1 https://github.com/jmartinezHNL/mcp-azure-landing-zone\n# See source for mcpServers config block"
+}

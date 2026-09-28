@@ -1,0 +1,7 @@
+{
+  "name": "isocast-mcp",
+  "description": "MCP server providing Polymarket weather-market bucket-transition signals for AI agents, with free city/signal inspection tools and paid signal bundles via USDC on Base using x402.",
+  "source_repo": "jcislo/isocast-mcp",
+  "source_url": "https://github.com/jcislo/isocast-mcp",
+  "install": "npx -y isocast-mcp"
+}

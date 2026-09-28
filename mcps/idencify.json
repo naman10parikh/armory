@@ -1,0 +1,7 @@
+{
+  "name": "idencify",
+  "description": "Whole-repo code graph for AI agents: impact analysis, dead code, cycles, semantic code search — 14 tools via hosted MCP endpoint.",
+  "source_repo": "jospnunes/idencify-mcp",
+  "source_url": "https://github.com/jospnunes/idencify-mcp",
+  "install": "npx -y idencify-mcp"
+}

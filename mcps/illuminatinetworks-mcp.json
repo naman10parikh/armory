@@ -1,0 +1,7 @@
+{
+  "name": "illuminatinetworks-mcp",
+  "description": "Enables managing Illuminati Networks CDN zones, object storage, and account (including uploads, signed URLs, and balance) from any MCP client like Claude Desktop.",
+  "source_repo": "Illuminati-Networks/illuminati-mcp",
+  "source_url": "https://github.com/Illuminati-Networks/illuminati-mcp",
+  "install": "npx -y illuminati-mcp"
+}

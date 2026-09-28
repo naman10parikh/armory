@@ -1,0 +1,7 @@
+{
+  "name": "ctrl-mcp",
+  "description": "The on-chain automation layer. Live on Base. Automate your workflows with the CTRL MCP. Sign once. Execute forever.",
+  "source_repo": "CTRLabs/ctrl-mcp",
+  "source_url": "https://github.com/CTRLabs/ctrl-mcp",
+  "install": "npx -y ctrl-mcp"
+}

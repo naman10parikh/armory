@@ -1,0 +1,7 @@
+{
+  "name": "itr-mcp",
+  "description": "Local-first MCP server for Indian income tax computation, enabling users to compute taxes, compare regimes, plan advance tax, and parse Form 26AS without sending data to the cloud.",
+  "source_repo": "Sagargupta16/itr-mcp",
+  "source_url": "https://github.com/Sagargupta16/itr-mcp",
+  "install": "npx -y itr-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ibge-c-digo-de-munic-pio",
+  "description": "Provides read-only access to Brazilian municipality codes from IBGE, an official government source, via MCP. Works with any MCP-compatible client to query municipality data using natural language.",
+  "source_repo": "mcp-dir/ibge_codigo_municipio-mcp",
+  "source_url": "https://github.com/mcp-dir/ibge_codigo_municipio-mcp",
+  "install": "npx -y ibge_codigo_municipio-mcp"
+}

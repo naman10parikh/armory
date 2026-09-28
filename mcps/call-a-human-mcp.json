@@ -1,0 +1,7 @@
+{
+  "name": "call-a-human-mcp",
+  "description": "An MCP server that enables AI agents to pause and request human approval or information via Slack, Telegram, or macOS dialogs before proceeding with actions.",
+  "source_repo": "nishantmodak/call-a-human-mcp",
+  "source_url": "https://github.com/nishantmodak/call-a-human-mcp",
+  "install": "npx -y call-a-human-mcp"
+}

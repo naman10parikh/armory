@@ -1,0 +1,7 @@
+{
+  "name": "astrology-mcp",
+  "description": "MCP server for astrological calculations including natal charts, planetary positions, aspects, transits, and progressions using Swiss Ephemeris.",
+  "source_repo": "akuttruff/astrology-mcp",
+  "source_url": "https://github.com/akuttruff/astrology-mcp",
+  "install": "npx -y astrology-mcp"
+}

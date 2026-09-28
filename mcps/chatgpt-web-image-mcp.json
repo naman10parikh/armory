@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-web-image-mcp",
+  "description": "A local MCP/CLI tool that uses a Chrome profile with an active ChatGPT web session to submit image generation prompts and return saved images as MCP content.",
+  "source_repo": "leixyou/chatgpt-web-image-mcp",
+  "source_url": "https://github.com/leixyou/chatgpt-web-image-mcp",
+  "install": "npx -y chatgpt-web-image-mcp"
+}

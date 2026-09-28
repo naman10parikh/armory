@@ -1,0 +1,7 @@
+{
+  "name": "ontology-mcp",
+  "description": "An MCP server that uses an OWL/SHACL/SKOS knowledge graph to interpret login-diagnosis prompts and return JSON-LD descriptors, guiding Copilot agents to the appropriate SQL Server and MongoDB queries and enabling New Relic escalation when needed.",
+  "source_repo": "JiteAgar-Code/ontology-mcp",
+  "source_url": "https://github.com/JiteAgar-Code/ontology-mcp",
+  "install": "npx -y ontology-mcp"
+}

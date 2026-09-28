@@ -1,0 +1,7 @@
+{
+  "name": "magic-meal-kits-mcp",
+  "description": "Enables AI assistants to check the Magic Meal Kits server version through a single tool.",
+  "source_repo": "pureugong/mmk-mcp",
+  "source_url": "https://github.com/pureugong/mmk-mcp",
+  "install": "npx -y mmk-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "airtrail-mcp-server",
+  "description": "Enables AI assistants to manage a self-hosted AirTrail flight tracking instance, providing natural language access to flight data, travel history, and statistics.",
+  "source_repo": "maboukerfa/AirTrail_MCP_server",
+  "source_url": "https://github.com/maboukerfa/AirTrail_MCP_server",
+  "install": "npx -y AirTrail_MCP_server"
+}

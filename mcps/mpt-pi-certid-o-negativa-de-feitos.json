@@ -1,0 +1,7 @@
+{
+  "name": "mpt-pi-certid-o-negativa-de-feitos",
+  "description": "Enables querying official Brazilian labor court certificates (Certidão Negativa de Feitos) through a hosted MCP server, providing read-only access via a single tool with pre-paid credit billing.",
+  "source_repo": "mcp-dir/mpt_pi_cnf-mcp",
+  "source_url": "https://github.com/mcp-dir/mpt_pi_cnf-mcp",
+  "install": "npx -y mpt_pi_cnf-mcp"
+}

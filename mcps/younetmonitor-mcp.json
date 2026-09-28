@@ -1,0 +1,7 @@
+{
+  "name": "younetmonitor-mcp",
+  "description": "MCP server for attaching Frida-based network/traffic interceptors (TCP/UDP/TLS) to any application. Enables intercepting plaintext TLS traffic, listing processes, attaching hooks, and searching captured payloads via 15 MCP tools.",
+  "source_repo": "YouKnowMako/YouNetMonitor-MCP",
+  "source_url": "https://github.com/YouKnowMako/YouNetMonitor-MCP",
+  "install": "npx -y YouNetMonitor-MCP"
+}

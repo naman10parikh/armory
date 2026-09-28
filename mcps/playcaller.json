@@ -1,0 +1,7 @@
+{
+  "name": "playcaller",
+  "description": "An MCP server that enables AI agents to play-test Unity games by capturing screenshots and simulating inputs like taps, drags, and key presses, acting as a Playwright for Unity.",
+  "source_repo": "takashicompany/playcaller",
+  "source_url": "https://github.com/takashicompany/playcaller",
+  "install": "# git clone --depth 1 https://github.com/takashicompany/playcaller\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "notarize",
+  "description": "Signed AI content provenance with PII scrubbing — timestamps and signs AI-generated outputs for EU AI Act and FTC compliance.",
+  "source_repo": "sandeep-alluru/notarize",
+  "source_url": "https://github.com/sandeep-alluru/notarize",
+  "install": "# git clone --depth 1 https://github.com/sandeep-alluru/notarize\n# See source for mcpServers config block"
+}

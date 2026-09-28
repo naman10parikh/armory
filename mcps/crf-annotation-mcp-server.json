@@ -1,0 +1,7 @@
+{
+  "name": "crf-annotation-mcp-server",
+  "description": "Enables AI assistants to query SDTM annotations from annotated CRF PDFs.",
+  "source_repo": "vikasgaddu1/crf-annotation-mcp",
+  "source_url": "https://github.com/vikasgaddu1/crf-annotation-mcp",
+  "install": "npx -y crf-annotation-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rymi-mcp",
+  "description": "Lets any MCP-capable AI client create and manage AI voice agents without writing HTTP code.",
+  "source_repo": "rymi-live/rymi-mcp",
+  "source_url": "https://github.com/rymi-live/rymi-mcp",
+  "install": "npx -y rymi-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nj-realtor-mcp",
+  "description": "A production-grade MCP server enabling Claude to perform comprehensive NJ real estate workflows including property search, valuation, neighborhood intelligence, investment analysis, and agent tools via 20 tools and 15+ data sources.",
+  "source_repo": "lmlyons5/nj-realtor-mcp",
+  "source_url": "https://github.com/lmlyons5/nj-realtor-mcp",
+  "install": "npx -y nj-realtor-mcp"
+}

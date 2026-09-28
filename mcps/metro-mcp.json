@@ -1,0 +1,7 @@
+{
+  "name": "metro-mcp",
+  "description": "A unified MCP server for US transit systems, supporting Washington DC Metro and NYC Subway with real-time predictions, station info, and service alerts.",
+  "source_repo": "Aarekaz/metro-mcp",
+  "source_url": "https://github.com/Aarekaz/metro-mcp",
+  "install": "npx -y metro-mcp"
+}

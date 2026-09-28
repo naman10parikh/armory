@@ -1,0 +1,7 @@
+{
+  "name": "lkplanwise-mcp-server",
+  "description": "Stateless MCP adapter for the LKPlanWise Go REST API, enabling AI agents to call curated financial tools via Streamable HTTP while forwarding bearer credentials.",
+  "source_repo": "luecha-work/lkplanwise-mcp-server",
+  "source_url": "https://github.com/luecha-work/lkplanwise-mcp-server",
+  "install": "npx -y lkplanwise-mcp-server"
+}

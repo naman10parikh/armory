@@ -1,0 +1,7 @@
+{
+  "name": "spendguard-ai",
+  "description": "Enables FinOps teams to investigate cloud-spend anomalies, draft and approve savings actions, and simulate execution safely without affecting real cloud accounts.",
+  "source_repo": "ketankshukla/spendguard-mcp",
+  "source_url": "https://github.com/ketankshukla/spendguard-mcp",
+  "install": "npx -y spendguard-mcp"
+}

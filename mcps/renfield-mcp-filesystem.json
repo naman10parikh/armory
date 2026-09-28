@@ -1,0 +1,7 @@
+{
+  "name": "renfield-mcp-filesystem",
+  "description": "Watches local and SMB folders for settled new files and pushes them into the Renfield knowledge base and Paperless over REST; also provides interactive MCP tools for browsing and on-demand file ingestion.",
+  "source_repo": "ebongard/renfield-mcp-filesystem",
+  "source_url": "https://github.com/ebongard/renfield-mcp-filesystem",
+  "install": "# git clone --depth 1 https://github.com/ebongard/renfield-mcp-filesystem\n# See source for mcpServers config block"
+}

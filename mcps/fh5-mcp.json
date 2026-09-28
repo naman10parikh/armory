@@ -1,0 +1,7 @@
+{
+  "name": "fh5-mcp",
+  "description": "MCP server that provides Forza Horizon 5 telemetry tools (session listing, summaries, telemetry windows, tuning recommendations) to AI assistants, enabling natural language queries about driving sessions.",
+  "source_repo": "bebulli/fh5-mcp",
+  "source_url": "https://github.com/bebulli/fh5-mcp",
+  "install": "npx -y fh5-mcp"
+}

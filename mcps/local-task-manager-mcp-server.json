@@ -1,0 +1,7 @@
+{
+  "name": "local-task-manager-mcp-server",
+  "description": "A task manager MCP server that enables creating, reading, updating, and deleting tasks persisted in a local JSON file.",
+  "source_repo": "akbarshaik2243/task-manager-mcp",
+  "source_url": "https://github.com/akbarshaik2243/task-manager-mcp",
+  "install": "npx -y task-manager-mcp"
+}

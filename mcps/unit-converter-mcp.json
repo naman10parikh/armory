@@ -1,0 +1,7 @@
+{
+  "name": "unit-converter-mcp",
+  "description": "Converts units, currencies, timezones, and dates with a generous free tier of 500 calls/month.",
+  "source_repo": "guptaprakhariitr/unit-converter-mcp",
+  "source_url": "https://github.com/guptaprakhariitr/unit-converter-mcp",
+  "install": "npx -y unit-converter-mcp"
+}

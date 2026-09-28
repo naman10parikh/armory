@@ -1,0 +1,7 @@
+{
+  "name": "gatepay-local-mcp",
+  "description": "A local MCP server for handling X402 payment-protected HTTP endpoints, offering tools for order placement, signing, and payment submission with multiple signing modes and blockchain networks.",
+  "source_repo": "gate/gatepay-local-mcp",
+  "source_url": "https://github.com/gate/gatepay-local-mcp",
+  "install": "npx -y gatepay-local-mcp"
+}

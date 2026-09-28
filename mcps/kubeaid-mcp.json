@@ -1,0 +1,7 @@
+{
+  "name": "kubeaid-mcp",
+  "description": "Exposes a Kubernetes cluster to MCP-compatible AI clients, enabling read-only and optional write operations on cluster resources like pods, deployments, and namespaces through natural language.",
+  "source_repo": "1Shubham7/kubeaid-mcp-ts",
+  "source_url": "https://github.com/1Shubham7/kubeaid-mcp-ts",
+  "install": "# git clone --depth 1 https://github.com/1Shubham7/kubeaid-mcp-ts\n# See source for mcpServers config block"
+}

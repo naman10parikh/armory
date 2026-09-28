@@ -1,0 +1,7 @@
+{
+  "name": "screencye",
+  "description": "Eyes for text-only LLMs: decodes screenshots into exact structured text (words, coordinates, sizes, colors) using pure-code CV and OCR. Enables text-only models to reason about UI layouts without vision models or VRAM usage.",
+  "source_repo": "veloce-ai-idm/deepsee",
+  "source_url": "https://github.com/veloce-ai-idm/deepsee",
+  "install": "# git clone --depth 1 https://github.com/veloce-ai-idm/deepsee\n# See source for mcpServers config block"
+}

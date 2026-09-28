@@ -1,0 +1,7 @@
+{
+  "name": "daggerheart-ai",
+  "description": "MCP server for semantic search over the Daggerheart SRD, enabling users to search rules, fetch entries, and query bestiary monsters during DnD session prep.",
+  "source_repo": "chrisdhanaraj/daggerheart-mcp",
+  "source_url": "https://github.com/chrisdhanaraj/daggerheart-mcp",
+  "install": "npx -y daggerheart-mcp"
+}

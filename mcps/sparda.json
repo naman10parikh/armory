@@ -1,0 +1,7 @@
+{
+  "name": "sparda",
+  "description": "SPARDA is a zero-configuration MCP builder that converts existing Express and FastAPI applications into fully functional Model Context Protocol servers. It automatically generates tools from routes, preserves API schemas, and accelerates MCP development from hours to minutes.",
+  "source_repo": "zyx77550/sparda",
+  "source_url": "https://github.com/zyx77550/sparda",
+  "install": "# git clone --depth 1 https://github.com/zyx77550/sparda\n# See source for mcpServers config block"
+}

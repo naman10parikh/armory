@@ -1,0 +1,7 @@
+{
+  "name": "g2b-bid-mcp-server",
+  "description": "Enables searching and retrieving bid notices from the Korean Public Procurement Service (G2B) through Claude.",
+  "source_repo": "jjmcpa93-design/g2b-bid-mcp",
+  "source_url": "https://github.com/jjmcpa93-design/g2b-bid-mcp",
+  "install": "npx -y g2b-bid-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "presentation-agent-mcp",
+  "description": "A TypeScript-based MCP server that automatically generates structured technical presentation PPTX files via deck JSON and layout engine.",
+  "source_repo": "gaowanlong/presentation-agent-mcp",
+  "source_url": "https://github.com/gaowanlong/presentation-agent-mcp",
+  "install": "npx -y presentation-agent-mcp"
+}

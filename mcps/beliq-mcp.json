@@ -1,0 +1,7 @@
+{
+  "name": "beliq-mcp",
+  "description": "Validates electronic invoices (XRechnung, ZUGFeRD, Factur-X, Peppol BIS, etc.) against authority-pinned rules and explains failures.",
+  "source_repo": "beliq-eu/beliq-mcp",
+  "source_url": "https://github.com/beliq-eu/beliq-mcp",
+  "install": "npx -y beliq-mcp"
+}

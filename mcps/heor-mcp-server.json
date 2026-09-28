@@ -1,0 +1,7 @@
+{
+  "name": "heor-mcp-server",
+  "description": "Lets Claude run validated, auditable HEOR analyses (cohort construction, outcome computation, overlap-weighted comparison) as deterministic tools on synthetic healthcare data.",
+  "source_repo": "lin-penglin/heor-mcp",
+  "source_url": "https://github.com/lin-penglin/heor-mcp",
+  "install": "npx -y heor-mcp"
+}

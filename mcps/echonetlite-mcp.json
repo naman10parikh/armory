@@ -1,0 +1,7 @@
+{
+  "name": "echonetlite-mcp",
+  "description": "Enables control of ECHONETLite home automation devices like air conditioners and sensors via MCP, supporting HVAC management and real-time monitoring.",
+  "source_repo": "scottyphillips/echonetlite-mcp",
+  "source_url": "https://github.com/scottyphillips/echonetlite-mcp",
+  "install": "npx -y echonetlite-mcp"
+}

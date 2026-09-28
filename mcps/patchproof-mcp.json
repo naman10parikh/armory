@@ -1,0 +1,7 @@
+{
+  "name": "patchproof-mcp",
+  "description": "Enables local npm supply-chain inspection through tools for repository scanning, SBOM generation, dependency audit, and evidence reporting. Uses deterministic mock data and does not query live APIs.",
+  "source_repo": "eaglebooth/patchproof-mcp",
+  "source_url": "https://github.com/eaglebooth/patchproof-mcp",
+  "install": "npx -y patchproof-mcp"
+}

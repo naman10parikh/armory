@@ -1,0 +1,7 @@
+{
+  "name": "docmancer",
+  "description": "Local-first memory for coding agents. Discovers the memory, instructions, and rules Claude Code, Codex, and Cursor already wrote on your machine, combines them into one canonical Markdown tree, and serves grounded, cited recall through tools like ask_memory and canonical_memory.",
+  "source_repo": "docmancer/docmancer",
+  "source_url": "https://github.com/docmancer/docmancer",
+  "install": "# git clone --depth 1 https://github.com/docmancer/docmancer\n# See source for mcpServers config block"
+}

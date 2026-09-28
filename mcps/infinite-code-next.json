@@ -1,0 +1,7 @@
+{
+  "name": "infinite-code-next",
+  "description": "Enables AI coding agents to keep persistent, verifiable memory of a codebase, including the reasons behind code, prior rejected approaches, and invariants, anchored to the code and carried along as the code moves.",
+  "source_repo": "Kawai-Senpai/Infinite-code-next",
+  "source_url": "https://github.com/Kawai-Senpai/Infinite-code-next",
+  "install": "# git clone --depth 1 https://github.com/Kawai-Senpai/Infinite-code-next\n# See source for mcpServers config block"
+}

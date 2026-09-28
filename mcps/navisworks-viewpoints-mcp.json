@@ -1,0 +1,7 @@
+{
+  "name": "navisworks-viewpoints-mcp",
+  "description": "MCP server for managing Navisworks viewpoint XML files, enabling sorting, auditing, merging, and synchronizing viewpoints from any MCP-compatible AI client.",
+  "source_repo": "mikhalchankasm/navisworks-viewpoints-mcp",
+  "source_url": "https://github.com/mikhalchankasm/navisworks-viewpoints-mcp",
+  "install": "npx -y navisworks-viewpoints-mcp"
+}

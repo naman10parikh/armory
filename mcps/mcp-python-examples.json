@@ -1,0 +1,7 @@
+{
+  "name": "mcp-python-examples",
+  "description": "Provides two MCP server examples in Python: a minimal greeting tool and a weather tool that fetches real-time data from Open-Meteo API.",
+  "source_repo": "sebastianzapatar/mcp2026",
+  "source_url": "https://github.com/sebastianzapatar/mcp2026",
+  "install": "# git clone --depth 1 https://github.com/sebastianzapatar/mcp2026\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "erpnext-mcp-tools",
+  "description": "MCP server for ERPNext that provides read-only access to business data and controlled creation/update of draft documents, with strict security, RBAC, field whitelisting, audit, idempotency, and optimistic locking.",
+  "source_repo": "Arui-world/erpnext_mcp_tools",
+  "source_url": "https://github.com/Arui-world/erpnext_mcp_tools",
+  "install": "# git clone --depth 1 https://github.com/Arui-world/erpnext_mcp_tools\n# See source for mcpServers config block"
+}

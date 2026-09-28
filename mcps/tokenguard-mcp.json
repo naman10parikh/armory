@@ -1,0 +1,7 @@
+{
+  "name": "tokenguard-mcp",
+  "description": "MCP server providing 10 crypto/DeFi data tools (prices, gas, Fear & Greed, TVL, etc.) with no API keys required.",
+  "source_repo": "eltociear/tokenguard-mcp",
+  "source_url": "https://github.com/eltociear/tokenguard-mcp",
+  "install": "npx -y tokenguard-mcp"
+}

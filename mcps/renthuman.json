@@ -1,0 +1,7 @@
+{
+  "name": "renthuman",
+  "description": "Hire real humans in Russia for physical-world tasks — storefront photos, address checks, offline errands — directly from your AI agent. Payment in USDT.",
+  "source_repo": "grenamaxim-web/renthuman-mcp",
+  "source_url": "https://github.com/grenamaxim-web/renthuman-mcp",
+  "install": "npx -y renthuman-mcp"
+}

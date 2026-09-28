@@ -1,0 +1,7 @@
+{
+  "name": "backlog-remote-mcp-server",
+  "description": "Enables AI assistants to manage Backlog projects, issues, wikis, and pull requests via natural language, with multi-space support and secure OAuth authentication.",
+  "source_repo": "midnight480/backlog-remote-mcp-server",
+  "source_url": "https://github.com/midnight480/backlog-remote-mcp-server",
+  "install": "npx -y backlog-remote-mcp-server"
+}

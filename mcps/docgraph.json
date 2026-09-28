@@ -1,0 +1,7 @@
+{
+  "name": "docgraph",
+  "description": "MCP server that indexes Markdown, Word, HTML, and PDF documents into a SQLite knowledge graph with CJK+Latin full-text search and cross-document reference tracking. Runs drift audits to surface stale policies, conflicting research claims, superseded ADRs, and undocumented code exports.",
+  "source_repo": "Detective-XH/DocGraph",
+  "source_url": "https://github.com/Detective-XH/DocGraph",
+  "install": "# git clone --depth 1 https://github.com/Detective-XH/DocGraph\n# See source for mcpServers config block"
+}

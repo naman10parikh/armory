@@ -1,0 +1,7 @@
+{
+  "name": "mcpdomain",
+  "description": "Enables buying and managing internet domains directly from AI chat, including availability checks, registration, DNS configuration, email forwarding, and AI bot tracking.",
+  "source_repo": "danboabes/mcpdomain",
+  "source_url": "https://github.com/danboabes/mcpdomain",
+  "install": "# git clone --depth 1 https://github.com/danboabes/mcpdomain\n# See source for mcpServers config block"
+}

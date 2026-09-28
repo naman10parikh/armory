@@ -1,0 +1,7 @@
+{
+  "name": "mcp-weather-lab",
+  "description": "MCP server that provides weather alerts and forecasts using the National Weather Service API, designed as an educational lab for learning MCP transport and data-layer design.",
+  "source_repo": "Mike00028/mcp-weather-app",
+  "source_url": "https://github.com/Mike00028/mcp-weather-app",
+  "install": "# git clone --depth 1 https://github.com/Mike00028/mcp-weather-app\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "brainless",
+  "description": "A persistent memory MCP server that saves AI context across sessions and IDE restarts using a global log file.",
+  "source_repo": "90acatz/brainless-mcp",
+  "source_url": "https://github.com/90acatz/brainless-mcp",
+  "install": "npx -y brainless-mcp"
+}

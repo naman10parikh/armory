@@ -1,0 +1,7 @@
+{
+  "name": "basketball-rl-mcp-chatbot",
+  "description": "An MCP chatbot server that answers questions about a Reinforcement Learning graduate project by dynamically selecting and calling structured tool functions to retrieve precise project data, including training rounds, hyperparameters, and infrastructure details.",
+  "source_repo": "xb2101/basketball_mcp",
+  "source_url": "https://github.com/xb2101/basketball_mcp",
+  "install": "npx -y basketball_mcp"
+}

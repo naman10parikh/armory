@@ -1,0 +1,7 @@
+{
+  "name": "desmume-webassembly-harness",
+  "description": "Enables Codex to control a DeSmuME WebAssembly emulator for Nintendo DS games, including state management, screenshots, and persistent scripting via stdio MCP.",
+  "source_repo": "DaisukeDaisuke/desmume_webassembly_harness",
+  "source_url": "https://github.com/DaisukeDaisuke/desmume_webassembly_harness",
+  "install": "# git clone --depth 1 https://github.com/DaisukeDaisuke/desmume_webassembly_harness\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mflowy",
+  "description": "Enables users to interact with MFlowy, an MCP-native modular ML workflow engine with data analysis, model training, and orchestration.",
+  "source_repo": "ifoodsci-ai/mflowy",
+  "source_url": "https://github.com/ifoodsci-ai/mflowy",
+  "install": "# git clone --depth 1 https://github.com/ifoodsci-ai/mflowy\n# See source for mcpServers config block"
+}

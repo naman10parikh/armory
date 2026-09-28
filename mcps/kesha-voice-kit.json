@@ -1,0 +1,7 @@
+{
+  "name": "kesha-voice-kit",
+  "description": "Local voice toolkit over MCP: transcribe audio to text in 25 languages, synthesize speech in 9, and list available voices and languages. Runs fully on-device — no API keys, no cloud.",
+  "source_repo": "drakulavich/kesha-voice-kit",
+  "source_url": "https://github.com/drakulavich/kesha-voice-kit",
+  "install": "# git clone --depth 1 https://github.com/drakulavich/kesha-voice-kit\n# See source for mcpServers config block"
+}

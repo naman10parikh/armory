@@ -1,0 +1,7 @@
+{
+  "name": "llm-radar",
+  "description": "MCP server that provides AI assistants with real-time, current information about AI models from OpenAI, Anthropic, and Google, including pricing, capabilities, and context windows.",
+  "source_repo": "ajentsor/llm-radar",
+  "source_url": "https://github.com/ajentsor/llm-radar",
+  "install": "# git clone --depth 1 https://github.com/ajentsor/llm-radar\n# See source for mcpServers config block"
+}

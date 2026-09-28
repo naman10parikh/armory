@@ -1,0 +1,7 @@
+{
+  "name": "continuity",
+  "description": "An MCP server for local image, speech, music, and SFX generation that preserves character identity across calls and rejects degenerate outputs. It runs with near-zero GPU idle memory and is designed for DeepSeek Harness agents.",
+  "source_repo": "linxuhao/Deepseek-Continuity",
+  "source_url": "https://github.com/linxuhao/Deepseek-Continuity",
+  "install": "# git clone --depth 1 https://github.com/linxuhao/Deepseek-Continuity\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tce-sp-certid-o-de-apenados",
+  "description": "Enables querying official TCE SP criminal record certificates (Certidão de Apenados) using pay-per-use credits.",
+  "source_repo": "mcp-dir/tce_sp_certidao_apenados-mcp",
+  "source_url": "https://github.com/mcp-dir/tce_sp_certidao_apenados-mcp",
+  "install": "npx -y tce_sp_certidao_apenados-mcp"
+}

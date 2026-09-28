@@ -1,0 +1,7 @@
+{
+  "name": "taskwarrior-mcp-server",
+  "description": "MCP server that wraps TaskWarrior command-line tool. Provides 22 tools for task management, GTD workflow, and habit tracking.",
+  "source_repo": "omniwaifu/taskwarrior-mcp",
+  "source_url": "https://github.com/omniwaifu/taskwarrior-mcp",
+  "install": "npx -y taskwarrior-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-cad-studio",
+  "description": "A parametric CAD workspace as an MCP server, enabling agents to create, edit, and manipulate 3D models through tools, with a live studio UI and STL/OBJ import/export.",
+  "source_repo": "flujo-app/mcp-cad-studio",
+  "source_url": "https://github.com/flujo-app/mcp-cad-studio",
+  "install": "# git clone --depth 1 https://github.com/flujo-app/mcp-cad-studio\n# See source for mcpServers config block"
+}

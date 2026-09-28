@@ -1,0 +1,7 @@
+{
+  "name": "mcpauth",
+  "description": "Drop-in OAuth 2.1 + Dynamic Client Registration for MCP servers, providing authentication middleware and token verification.",
+  "source_repo": "yilmazali325/getmcpauth",
+  "source_url": "https://github.com/yilmazali325/getmcpauth",
+  "install": "# git clone --depth 1 https://github.com/yilmazali325/getmcpauth\n# See source for mcpServers config block"
+}

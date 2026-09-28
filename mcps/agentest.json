@@ -1,0 +1,7 @@
+{
+  "name": "agentest",
+  "description": "AI-driven mobile app testing via MCP, enabling AI coding agents to test Android apps without test frameworks or testIDs.",
+  "source_repo": "arjun-vegeta/agenTest",
+  "source_url": "https://github.com/arjun-vegeta/agenTest",
+  "install": "# git clone --depth 1 https://github.com/arjun-vegeta/agenTest\n# See source for mcpServers config block"
+}

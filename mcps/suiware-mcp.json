@@ -1,0 +1,7 @@
+{
+  "name": "suiware-mcp",
+  "description": "Enables AI assistants to interact with Sui Network through tools for balance checks, transfers, swaps, staking, and more.",
+  "source_repo": "suiware/ai-tools",
+  "source_url": "https://github.com/suiware/ai-tools",
+  "install": "# git clone --depth 1 https://github.com/suiware/ai-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "x402-utility",
+  "description": "MCP server for discovering and calling 400+ practical APIs through six compact tools, with free catalog search and pay-per-call x402 execution on Base.",
+  "source_repo": "forgemeshlabs/utility-grid-mcp",
+  "source_url": "https://github.com/forgemeshlabs/utility-grid-mcp",
+  "install": "npx -y utility-grid-mcp"
+}

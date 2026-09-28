@@ -1,0 +1,7 @@
+{
+  "name": "workbuddy-mcp",
+  "description": "Enables Codex to hand off tasks to WorkBuddy for document generation, data analysis, and more via file-based handoff and deep links.",
+  "source_repo": "ZhaoXiangyu99/workbuddy-mcp",
+  "source_url": "https://github.com/ZhaoXiangyu99/workbuddy-mcp",
+  "install": "npx -y workbuddy-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tangos-console",
+  "description": "Exposes a repo's decompilation tools as an MCP server, allowing AI to drive them with real-time visualization.",
+  "source_repo": "tangosdev/tangOS",
+  "source_url": "https://github.com/tangosdev/tangOS",
+  "install": "# git clone --depth 1 https://github.com/tangosdev/tangOS\n# See source for mcpServers config block"
+}

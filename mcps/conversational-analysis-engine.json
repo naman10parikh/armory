@@ -1,0 +1,7 @@
+{
+  "name": "conversational-analysis-engine",
+  "description": "Enables users to optimize LLM responses using Monte Carlo Tree Search (MCTS) through a Model Context Protocol server, enhancing conversation quality by exploring multiple response branches and selecting the best path.",
+  "source_repo": "MVPandey/CAE",
+  "source_url": "https://github.com/MVPandey/CAE",
+  "install": "# git clone --depth 1 https://github.com/MVPandey/CAE\n# See source for mcpServers config block"
+}

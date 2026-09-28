@@ -1,0 +1,7 @@
+{
+  "name": "kuramalab-mysupportdetails-mcp",
+  "description": "An MCP server for QA and test automation that provides runtime switching between multiple browser profiles (Chromium, Firefox, WebKit) without restart, enabling cross-browser regression testing, multi-account testing, localization QA, and more.",
+  "source_repo": "kuramalab/mysupportdetails-mcp",
+  "source_url": "https://github.com/kuramalab/mysupportdetails-mcp",
+  "install": "npx -y mysupportdetails-mcp"
+}

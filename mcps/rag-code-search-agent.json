@@ -1,0 +1,7 @@
+{
+  "name": "rag-code-search-agent",
+  "description": "Enables natural language search over indexed codebases with source citations and incremental indexing.",
+  "source_repo": "pratishank05/rag-code-search",
+  "source_url": "https://github.com/pratishank05/rag-code-search",
+  "install": "# git clone --depth 1 https://github.com/pratishank05/rag-code-search\n# See source for mcpServers config block"
+}

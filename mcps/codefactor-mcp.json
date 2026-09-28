@@ -1,0 +1,7 @@
+{
+  "name": "codefactor-mcp",
+  "description": "Enables reading and analyzing CodeFactor repository issue pages, providing normalized issue data, summaries, and prompts for code improvements.",
+  "source_repo": "5656565566/codefactor_mcp",
+  "source_url": "https://github.com/5656565566/codefactor_mcp",
+  "install": "npx -y codefactor_mcp"
+}

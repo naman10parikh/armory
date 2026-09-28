@@ -1,6 +1,6 @@
 {
   "name": "zotero-mcp-server",
-  "description": "Zotero Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "cr625/zotero-mcp-server",
   "source_url": "https://mcp.so/server/zotero-mcp-server/cr625",
   "install": "npx -y zotero-mcp-server"

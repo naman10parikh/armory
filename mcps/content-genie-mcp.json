@@ -1,0 +1,7 @@
+{
+  "name": "content-genie-mcp",
+  "description": "Korean-content MCP that consolidates real-time trends from Naver, Daum, Google, YouTube, and Zum, includes a 100+ Korean holiday database, and provides a viral-score predictor for content optimization.",
+  "source_repo": "MUSE-CODE-SPACE/content-genie-mcp",
+  "source_url": "https://github.com/MUSE-CODE-SPACE/content-genie-mcp",
+  "install": "npx -y content-genie-mcp"
+}

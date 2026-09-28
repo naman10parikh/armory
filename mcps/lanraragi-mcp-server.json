@@ -1,0 +1,7 @@
+{
+  "name": "lanraragi-mcp-server",
+  "description": "Wraps all LANraragi APIs into 51 MCP tools, enabling AI agents to browse, search, upload, tag, and manage manga archives.",
+  "source_repo": "bomomoQWQ/LANraragi-mcp",
+  "source_url": "https://github.com/bomomoQWQ/LANraragi-mcp",
+  "install": "npx -y LANraragi-mcp"
+}

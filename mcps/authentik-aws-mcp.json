@@ -1,0 +1,7 @@
+{
+  "name": "authentik-aws-mcp",
+  "description": "Manage authentik users and groups via API, including creation, group membership, password reset, and quick provisioning with random passwords.",
+  "source_repo": "yingcaihuang/authentik-mcp-for-aws-quick",
+  "source_url": "https://github.com/yingcaihuang/authentik-mcp-for-aws-quick",
+  "install": "# git clone --depth 1 https://github.com/yingcaihuang/authentik-mcp-for-aws-quick\n# See source for mcpServers config block"
+}

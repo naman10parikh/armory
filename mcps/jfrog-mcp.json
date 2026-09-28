@@ -1,0 +1,7 @@
+{
+  "name": "jfrog-mcp",
+  "description": "Read-only MCP server for JFrog Artifactory repository intelligence, enabling listing repositories and paths, fetching metadata, properties, and stats, and performing bounded file searches without mutation.",
+  "source_repo": "mSaeedS/jfrog-mcp",
+  "source_url": "https://github.com/mSaeedS/jfrog-mcp",
+  "install": "npx -y jfrog-mcp"
+}

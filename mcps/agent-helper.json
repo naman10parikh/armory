@@ -1,0 +1,7 @@
+{
+  "name": "agent-helper",
+  "description": "Enables AI agents to process files locally — OCR images, extract text from PDFs and DOCX, and describe images using local vision models, all without sending data to external services.",
+  "source_repo": "wajirasls/agent_helper",
+  "source_url": "https://github.com/wajirasls/agent_helper",
+  "install": "# git clone --depth 1 https://github.com/wajirasls/agent_helper\n# See source for mcpServers config block"
+}

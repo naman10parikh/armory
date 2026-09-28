@@ -1,0 +1,7 @@
+{
+  "name": "mychatarchive-mcp-server",
+  "description": "Enables semantic search across your local AI conversation history (ChatGPT, Claude, etc.) and provides tools to retrieve context, capture thoughts, and get profile summaries.",
+  "source_repo": "1ch1n/mychatarchive",
+  "source_url": "https://github.com/1ch1n/mychatarchive",
+  "install": "# git clone --depth 1 https://github.com/1ch1n/mychatarchive\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-github-reader",
+  "description": "A lightweight MCP server for bringing GitHub repositories into context for large language models, enabling repository analysis, file access, and search without local cloning.",
+  "source_repo": "skydeckai/mcp-github-reader-prod",
+  "source_url": "https://github.com/skydeckai/mcp-github-reader-prod",
+  "install": "# git clone --depth 1 https://github.com/skydeckai/mcp-github-reader-prod\n# See source for mcpServers config block"
+}

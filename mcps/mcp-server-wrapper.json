@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-wrapper",
+  "description": "A meta-MCP server that dynamically manages and invokes any MCP server on the fly, enabling runtime addition, removal, and tool invocation without restarting Claude Code.",
+  "source_repo": "veithly/mcp-server-wrapper",
+  "source_url": "https://github.com/veithly/mcp-server-wrapper",
+  "install": "# git clone --depth 1 https://github.com/veithly/mcp-server-wrapper\n# See source for mcpServers config block"
+}

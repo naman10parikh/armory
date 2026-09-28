@@ -1,0 +1,7 @@
+{
+  "name": "dsr-mcp-server",
+  "description": "Provides AI assistants with tools to query, manipulate, and analyze Deep State Representation (DSR) graphs for robot perception and scene understanding.",
+  "source_repo": "grupo-avispa/dsr_mcp_server",
+  "source_url": "https://github.com/grupo-avispa/dsr_mcp_server",
+  "install": "npx -y dsr_mcp_server"
+}

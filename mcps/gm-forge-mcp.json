@@ -1,0 +1,7 @@
+{
+  "name": "gm-forge-mcp",
+  "description": "Enables AI assistants to create and edit GameMaker projects, including scripts, objects, rooms, sprites, and sounds, with support for project validation and compilation.",
+  "source_repo": "nicklesimba/gm-forge-mcp",
+  "source_url": "https://github.com/nicklesimba/gm-forge-mcp",
+  "install": "npx -y gm-forge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "geektastic-mcp-server",
+  "description": "A self-hosted MCP server with a web UI that integrates Geektastic Realms, enabling management of statblocks, campaigns, lore entries, and adventure modules through MCP clients.",
+  "source_repo": "Geektasticdad/Geektastic-MCP-Server",
+  "source_url": "https://github.com/Geektasticdad/Geektastic-MCP-Server",
+  "install": "npx -y Geektastic-MCP-Server"
+}

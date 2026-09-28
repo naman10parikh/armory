@@ -1,0 +1,7 @@
+{
+  "name": "pi-cli-mcp",
+  "description": "Delegates coding tasks to your locally installed pi CLI, inheriting providers, models, and extensions, with persistent sessions and cancellable calls.",
+  "source_repo": "minmax/pi-cli-mcp",
+  "source_url": "https://github.com/minmax/pi-cli-mcp",
+  "install": "npx -y pi-cli-mcp"
+}

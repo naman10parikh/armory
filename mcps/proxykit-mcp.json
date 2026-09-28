@@ -1,0 +1,7 @@
+{
+  "name": "proxykit-mcp",
+  "description": "MCP server for ProxyKit — drive a local HTTP(S) debugging proxy from Claude, Cursor, and any MCP host.",
+  "source_repo": "getproxykit/proxykit-mcp",
+  "source_url": "https://github.com/getproxykit/proxykit-mcp",
+  "install": "npx -y proxykit-mcp"
+}

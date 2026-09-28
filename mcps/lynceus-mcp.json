@@ -1,0 +1,7 @@
+{
+  "name": "lynceus-mcp",
+  "description": "Enables AI agents to run RU-first web searches through the Yandex index and extract web pages into clean reader-mode Markdown, bypassing anti-bot blocks.",
+  "source_repo": "DenSul/lynceus-mcp",
+  "source_url": "https://github.com/DenSul/lynceus-mcp",
+  "install": "npx -y lynceus-mcp"
+}

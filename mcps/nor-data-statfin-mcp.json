@@ -1,0 +1,7 @@
+{
+  "name": "nor-data-statfin-mcp",
+  "description": "MCP server for official statistics from Statistics Finland (Tilastokeskus) — the StatFin database, exposed through the PxWeb API. Search 3000+ tables, inspect their dimensions, and pull data as JSON-stat2.",
+  "source_repo": "3121n/nor-data-statfin-mcp",
+  "source_url": "https://github.com/3121n/nor-data-statfin-mcp",
+  "install": "npx -y nor-data-statfin-mcp"
+}

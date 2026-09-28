@@ -1,0 +1,7 @@
+{
+  "name": "garmin-cache-mcp-server",
+  "description": "Enables multi-user Garmin Connect API with local SQLite caching, providing activity, daily summary, and heart rate data via MCP tools.",
+  "source_repo": "lddlinden/garmin-cache-system",
+  "source_url": "https://github.com/lddlinden/garmin-cache-system",
+  "install": "# git clone --depth 1 https://github.com/lddlinden/garmin-cache-system\n# See source for mcpServers config block"
+}

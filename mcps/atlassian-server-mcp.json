@@ -1,0 +1,7 @@
+{
+  "name": "atlassian-server-mcp",
+  "description": "A TypeScript MCP server that enables LLM agents to interact with Atlassian Data Center products (Jira, Confluence, Bitbucket) through typed tools, with tiered operation exposure and safety defaults.",
+  "source_repo": "zaimokuza-yoshiteru/atlassian-server-mcp",
+  "source_url": "https://github.com/zaimokuza-yoshiteru/atlassian-server-mcp",
+  "install": "npx -y atlassian-server-mcp"
+}

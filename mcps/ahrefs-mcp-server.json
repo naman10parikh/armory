@@ -1,0 +1,7 @@
+{
+  "name": "ahrefs-mcp-server",
+  "description": "Enables SEO analysis via Ahrefs API v3, providing tools for domain rating, backlinks stats, top organic keywords, and top pages with SQLite caching and Lite plan budget tracking.",
+  "source_repo": "Raffaele86/ahrefs-mcp",
+  "source_url": "https://github.com/Raffaele86/ahrefs-mcp",
+  "install": "npx -y ahrefs-mcp"
+}

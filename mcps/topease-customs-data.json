@@ -1,0 +1,7 @@
+{
+  "name": "topease-customs-data",
+  "description": "全球海关贸易数据MCP服务器，支持按企业名称、产品关键字、HS编码等多维度查询238个国家/地区的进出口贸易数据。",
+  "source_repo": "topease020/topease-customs-mcp-server",
+  "source_url": "https://github.com/topease020/topease-customs-mcp-server",
+  "install": "npx -y topease-customs-mcp-server"
+}

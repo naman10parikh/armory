@@ -1,0 +1,7 @@
+{
+  "name": "storyblok-mcp",
+  "description": "Enables to manage Storyblok components through natural language descriptions, including creating and updating components with various field types.",
+  "source_repo": "harlley/storyblok-mcp",
+  "source_url": "https://github.com/harlley/storyblok-mcp",
+  "install": "npx -y storyblok-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "neuvector-mcp",
+  "description": "MCP server for SUSE NeuVector container security, exposing inventory, vulnerability, compliance, event, and policy data as 72 typed tools. Read-only by default, with optional mutating toolsets behind a confirmation handshake.",
+  "source_repo": "darthzen/neuvector-mcp",
+  "source_url": "https://github.com/darthzen/neuvector-mcp",
+  "install": "npx -y neuvector-mcp"
+}

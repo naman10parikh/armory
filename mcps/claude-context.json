@@ -1,0 +1,7 @@
+{
+  "name": "claude-context",
+  "description": "Enables Claude to index and retrieve context from codebases using self-hosted Milvus for semantic search, with hardened reliability and security for production use.",
+  "source_repo": "lbruton/claude-context",
+  "source_url": "https://github.com/lbruton/claude-context",
+  "install": "# git clone --depth 1 https://github.com/lbruton/claude-context\n# See source for mcpServers config block"
+}

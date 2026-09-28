@@ -1,0 +1,7 @@
+{
+  "name": "semantic-hints-mcp",
+  "description": "A local stdio MCP server that exposes compact semantic observations from UI elements annotated with data-agent-* hints, designed to work alongside the official Playwright MCP for browser automation.",
+  "source_repo": "timotheeiss/semantic-hints-mcp",
+  "source_url": "https://github.com/timotheeiss/semantic-hints-mcp",
+  "install": "npx -y semantic-hints-mcp"
+}

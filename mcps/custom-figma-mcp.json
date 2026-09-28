@@ -1,0 +1,7 @@
+{
+  "name": "custom-figma-mcp",
+  "description": "Local bridge enabling AI agents to inspect and edit the currently open Figma Desktop file through the Figma Plugin API.",
+  "source_repo": "mahmudcoding/figma-mcp",
+  "source_url": "https://github.com/mahmudcoding/figma-mcp",
+  "install": "npx -y figma-mcp"
+}

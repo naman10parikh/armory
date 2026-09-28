@@ -1,0 +1,7 @@
+{
+  "name": "sefaria-api-mcp",
+  "description": "Enables AI agents to access and interact with the Sefaria database of Jewish texts, including retrieval, search, and related content.",
+  "source_repo": "davad00/sefaria-api-mcp",
+  "source_url": "https://github.com/davad00/sefaria-api-mcp",
+  "install": "npx -y sefaria-api-mcp"
+}

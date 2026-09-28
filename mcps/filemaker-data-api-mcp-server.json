@@ -1,0 +1,7 @@
+{
+  "name": "filemaker-data-api-mcp-server",
+  "description": "Provides AI agents with direct access to FileMaker databases through the FileMaker Data API, enabling natural language interactions for querying, managing records, and database introspection.",
+  "source_repo": "fsans/FileMaker-Server-DAPI-MCP",
+  "source_url": "https://github.com/fsans/FileMaker-Server-DAPI-MCP",
+  "install": "npx -y FileMaker-Server-DAPI-MCP"
+}

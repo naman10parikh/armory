@@ -1,0 +1,7 @@
+{
+  "name": "boj-jstat-mcp",
+  "description": "An MCP server that provides AI assistants with access to over 40 Bank of Japan statistical databases (interest rates, money supply, exchange rates, tankan, etc.) via the BOJ time-series data search API.",
+  "source_repo": "Shigurex/boj_jstat_mcp",
+  "source_url": "https://github.com/Shigurex/boj_jstat_mcp",
+  "install": "npx -y boj_jstat_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "goetta-finance",
+  "description": "A local-first MCP server that connects SimpleFIN bank accounts to Claude, storing data in a local DuckDB file and providing a web dashboard.",
+  "source_repo": "griffin-goepper/goetta-finance-mcp",
+  "source_url": "https://github.com/griffin-goepper/goetta-finance-mcp",
+  "install": "npx -y goetta-finance-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "legal-mcp-alternativa-ao-jusbrasil",
+  "description": "Enables legal research by querying public official sources for processes, sanctions, DJEN publications, and jurisprudence using names, CPF, CNPJ, or CNJ numbers, without login.",
+  "source_repo": "mcp-dir/jusbrasil-mcp",
+  "source_url": "https://github.com/mcp-dir/jusbrasil-mcp",
+  "install": "npx -y jusbrasil-mcp"
+}

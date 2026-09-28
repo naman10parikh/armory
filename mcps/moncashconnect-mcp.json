@@ -1,0 +1,7 @@
+{
+  "name": "moncashconnect-mcp",
+  "description": "Enables AI coding assistants to interact with MonCashConnect payment data read-only, including checking balances, listing transactions, and viewing payment details, without moving money.",
+  "source_repo": "SantaClaus007/moncashconnect-mcp",
+  "source_url": "https://github.com/SantaClaus007/moncashconnect-mcp",
+  "install": "npx -y moncashconnect-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-win-toast",
+  "description": "Enables AI assistants to send Windows toast notifications and dialog boxes, allowing them to actively notify users and request confirmations through native Windows UI.",
+  "source_repo": "ShigeruWakida/mcp-win-toast",
+  "source_url": "https://github.com/ShigeruWakida/mcp-win-toast",
+  "install": "# git clone --depth 1 https://github.com/ShigeruWakida/mcp-win-toast\n# See source for mcpServers config block"
+}

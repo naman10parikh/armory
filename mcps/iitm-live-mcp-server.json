@@ -1,0 +1,7 @@
+{
+  "name": "iitm-live-mcp-server",
+  "description": "Deploys a Streamable HTTP MCP server with one tool solve_challenge that computes a SHA-256 hash from a challenge header.",
+  "source_repo": "25ds1000090-lang/live-mcp-server",
+  "source_url": "https://github.com/25ds1000090-lang/live-mcp-server",
+  "install": "npx -y live-mcp-server"
+}

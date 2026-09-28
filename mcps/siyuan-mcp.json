@@ -1,0 +1,7 @@
+{
+  "name": "siyuan-mcp",
+  "description": "MCP server for SiYuan Note, enabling AI tools to search, read, create, and organize notes with 66 tools.",
+  "source_repo": "PurpleLiu/siyuan-mcp",
+  "source_url": "https://github.com/PurpleLiu/siyuan-mcp",
+  "install": "npx -y siyuan-mcp"
+}

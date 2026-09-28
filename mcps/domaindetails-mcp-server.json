@@ -1,0 +1,7 @@
+{
+  "name": "domaindetails-mcp-server",
+  "description": "Provides comprehensive domain research tools including RDAP, WHOIS, and DNS lookup capabilities, with automatic fallback and support for 50+ TLDs.",
+  "source_repo": "simplebytes-com/domaindetails-mcp",
+  "source_url": "https://github.com/simplebytes-com/domaindetails-mcp",
+  "install": "npx -y domaindetails-mcp"
+}

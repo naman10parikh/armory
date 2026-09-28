@@ -1,0 +1,7 @@
+{
+  "name": "talkdb",
+  "description": "Enables natural language querying of databases with multi-turn conversations, auto-generated charts, and proactive monitoring via scheduled queries and alerts.",
+  "source_repo": "Nitin-Gupta1109/TalkDB",
+  "source_url": "https://github.com/Nitin-Gupta1109/TalkDB",
+  "install": "# git clone --depth 1 https://github.com/Nitin-Gupta1109/TalkDB\n# See source for mcpServers config block"
+}

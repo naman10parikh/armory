@@ -1,0 +1,7 @@
+{
+  "name": "tbro-mcp",
+  "description": "An MCP server that provides web_search and web_fetch tools returning plain text via the tbro terminal browser to reduce token usage, with the trade-off of no JavaScript support.",
+  "source_repo": "k1y0miiii/tbro-mcp",
+  "source_url": "https://github.com/k1y0miiii/tbro-mcp",
+  "install": "npx -y tbro-mcp"
+}

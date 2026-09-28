@@ -1,0 +1,7 @@
+{
+  "name": "findit",
+  "description": "Enables web search and content extraction using Google's search engine, with customizable parameters for result count, content type, time range, and domain filtering.",
+  "source_repo": "KSDeshappriya/findit-mcp",
+  "source_url": "https://github.com/KSDeshappriya/findit-mcp",
+  "install": "npx -y findit-mcp"
+}

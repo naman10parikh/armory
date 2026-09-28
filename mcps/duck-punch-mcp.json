@@ -1,0 +1,7 @@
+{
+  "name": "duck-punch-mcp",
+  "description": "A collection of MCP servers that dynamically wrap existing Python SDKs (Google SecOps, SOAR, Google Cloud, Fitbit) to expose their functionality to LLMs.",
+  "source_repo": "dandye/duck_punch_mcp",
+  "source_url": "https://github.com/dandye/duck_punch_mcp",
+  "install": "npx -y duck_punch_mcp"
+}

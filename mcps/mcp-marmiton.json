@@ -1,0 +1,7 @@
+{
+  "name": "mcp-marmiton",
+  "description": "MCP server that searches French recipes from Marmiton, reads ingredients and steps, and rescales quantities to any number of servings without requiring an API key.",
+  "source_repo": "smeet666/mcp-marmiton",
+  "source_url": "https://github.com/smeet666/mcp-marmiton",
+  "install": "# git clone --depth 1 https://github.com/smeet666/mcp-marmiton\n# See source for mcpServers config block"
+}

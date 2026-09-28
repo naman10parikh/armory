@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-tjsp-certid-o-criminal-de-1-grau",
+  "description": "Enables querying first-degree criminal certificates from the São Paulo Court of Justice (TJSP) using natural language.",
+  "source_repo": "mcp-dir/tribunal_tjsp_pedido_criminal-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_tjsp_pedido_criminal-mcp",
+  "install": "npx -y tribunal_tjsp_pedido_criminal-mcp"
+}

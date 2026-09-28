@@ -1,0 +1,7 @@
+{
+  "name": "ari",
+  "description": "An MCP server that provides live fair-market-value price comparisons and Ed25519 signed-receipt verification for x402/MPP services, enabling agents to sanity-check quotes and verify receipts.",
+  "source_repo": "Antmanbuilds/ARI",
+  "source_url": "https://github.com/Antmanbuilds/ARI",
+  "install": "# git clone --depth 1 https://github.com/Antmanbuilds/ARI\n# See source for mcpServers config block"
+}

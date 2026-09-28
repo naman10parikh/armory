@@ -1,0 +1,7 @@
+{
+  "name": "personal-brain-mcp",
+  "description": "A personal-life database with 47 tools across 13 domains, enabling semantic search and retrieval of memories, food, home, health, and more from any MCP-aware AI client.",
+  "source_repo": "phantomts/personal-brain-mcp",
+  "source_url": "https://github.com/phantomts/personal-brain-mcp",
+  "install": "npx -y personal-brain-mcp"
+}

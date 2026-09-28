@@ -1,0 +1,7 @@
+{
+  "name": "servicedesk-plus",
+  "description": "MCP server for ManageEngine ServiceDesk Plus that lets AI agents list, search, create, update, and manage help desk tickets and technical notes in real-time.",
+  "source_repo": "kaattaalan/servicedesk-mcp",
+  "source_url": "https://github.com/kaattaalan/servicedesk-mcp",
+  "install": "npx -y servicedesk-mcp"
+}

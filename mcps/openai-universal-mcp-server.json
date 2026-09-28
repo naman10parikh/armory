@@ -1,0 +1,7 @@
+{
+  "name": "openai-universal-mcp-server",
+  "description": "Provides a standardized interface for interacting with OpenAI's tools and services through the Model Context Protocol, enabling seamless integration with MCP-compliant applications.",
+  "source_repo": "universal-mcp/openai",
+  "source_url": "https://github.com/universal-mcp/openai",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/openai\n# See source for mcpServers config block"
+}

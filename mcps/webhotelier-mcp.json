@@ -1,0 +1,7 @@
+{
+  "name": "webhotelier-mcp",
+  "description": "A read-only MCP server that lets AI assistants query the WebHotelier REST API for live hotel data, including property info, room availability, rates, calendars, and offers via natural language tools.",
+  "source_repo": "nikagabriel741agent/WebHotelier-MCP-Server-",
+  "source_url": "https://github.com/nikagabriel741agent/WebHotelier-MCP-Server-",
+  "install": "# git clone --depth 1 https://github.com/nikagabriel741agent/WebHotelier-MCP-Server-\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "smriti-memcore",
+  "description": "A neuro-inspired long-term memory architecture for AI agents.",
+  "source_repo": "smriti-memcore/smriti-memcore",
+  "source_url": "https://github.com/smriti-memcore/smriti-memcore",
+  "install": "# git clone --depth 1 https://github.com/smriti-memcore/smriti-memcore\n# See source for mcpServers config block"
+}

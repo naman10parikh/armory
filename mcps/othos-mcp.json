@@ -1,0 +1,7 @@
+{
+  "name": "othos-mcp",
+  "description": "MCP server for the Othos platform that enables AI agents to manage organizations, projects, columns, and tickets via OAuth or bearer token authentication.",
+  "source_repo": "othos-io/othos-mcp-server",
+  "source_url": "https://github.com/othos-io/othos-mcp-server",
+  "install": "npx -y othos-mcp-server"
+}

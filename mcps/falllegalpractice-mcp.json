@@ -1,0 +1,7 @@
+{
+  "name": "falllegalpractice-mcp",
+  "description": "MCP server exposing foldkit's 7-prime spine, κ-bands, and fold operations as tools and resources for AI-native applications.",
+  "source_repo": "sjgant80-hub/falllegalpractice-mcp",
+  "source_url": "https://github.com/sjgant80-hub/falllegalpractice-mcp",
+  "install": "npx -y falllegalpractice-mcp"
+}

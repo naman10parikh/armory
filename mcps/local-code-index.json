@@ -1,0 +1,7 @@
+{
+  "name": "local-code-index",
+  "description": "A local MCP server that indexes codebases using Tree-sitter AST parsing and LanceDB, enabling AI models to search across repositories with sub-second latency.",
+  "source_repo": "ciulla/local-code-index",
+  "source_url": "https://github.com/ciulla/local-code-index",
+  "install": "# git clone --depth 1 https://github.com/ciulla/local-code-index\n# See source for mcpServers config block"
+}

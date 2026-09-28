@@ -1,0 +1,7 @@
+{
+  "name": "docpilot-mcp",
+  "description": "An MCP server that provides tools to fetch live, version-accurate documentation, changelogs, examples, and method signatures for npm and PyPI packages, preventing AI coding agents from hallucinating stale APIs.",
+  "source_repo": "neromtoobad/docpilot-mcp",
+  "source_url": "https://github.com/neromtoobad/docpilot-mcp",
+  "install": "npx -y docpilot-mcp"
+}

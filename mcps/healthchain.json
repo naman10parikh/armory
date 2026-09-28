@@ -1,0 +1,7 @@
+{
+  "name": "healthchain",
+  "description": "Typed, validated FHIR tools for healthcare AI agents — build, read, validate, and code FHIR resources from a patient bundle, with terminology lookup and machine-readable validation reports built for fix-and-retry.",
+  "source_repo": "healthchainai/HealthChain",
+  "source_url": "https://github.com/healthchainai/HealthChain",
+  "install": "# git clone --depth 1 https://github.com/healthchainai/HealthChain\n# See source for mcpServers config block"
+}

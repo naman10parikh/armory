@@ -1,0 +1,7 @@
+{
+  "name": "agentledger-ai-dossier",
+  "description": "AI-synthesized 3-bullet DeFi risk dossier for any Base wallet. Pre-trade counterparty vetting for MEV and arbitrage bots via x402 ($0.10 USDC per query).",
+  "source_repo": "Shamanah/agentledger-ai-dossier",
+  "source_url": "https://github.com/Shamanah/agentledger-ai-dossier",
+  "install": "# git clone --depth 1 https://github.com/Shamanah/agentledger-ai-dossier\n# See source for mcpServers config block"
+}

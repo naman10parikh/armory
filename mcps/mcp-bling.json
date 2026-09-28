@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bling",
+  "description": "Remote MCP server for Bling API v3, enabling tools to manage products, orders, contacts, and generic API requests via OAuth multi-tenant authentication.",
+  "source_repo": "dgsidney/mcp-bling",
+  "source_url": "https://github.com/dgsidney/mcp-bling",
+  "install": "# git clone --depth 1 https://github.com/dgsidney/mcp-bling\n# See source for mcpServers config block"
+}

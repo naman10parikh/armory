@@ -1,0 +1,7 @@
+{
+  "name": "taufunctions",
+  "description": "Enables coding agents to create, deploy, invoke, and monitor serverless functions using 12 MCP tools, with support for multiple runtimes and remote MCP access.",
+  "source_repo": "jyswee/taufunctions",
+  "source_url": "https://github.com/jyswee/taufunctions",
+  "install": "# git clone --depth 1 https://github.com/jyswee/taufunctions\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "producer-ai-mcp-server",
+  "description": "Read-only MCP server exposing Producer AI's music generation workflows, pricing, documentation, FAQ, and official links. Enables AI clients to retrieve product knowledge without requiring API keys.",
+  "source_repo": "rocnubie/producerai-mcp",
+  "source_url": "https://github.com/rocnubie/producerai-mcp",
+  "install": "npx -y producerai-mcp"
+}

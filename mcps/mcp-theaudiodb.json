@@ -1,0 +1,7 @@
+{
+  "name": "mcp-theaudiodb",
+  "description": "Provides access to music metadata from TheAudioDB community database through MCP.",
+  "source_repo": "pipeworx-io/mcp-theaudiodb",
+  "source_url": "https://github.com/pipeworx-io/mcp-theaudiodb",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-theaudiodb\n# See source for mcpServers config block"
+}

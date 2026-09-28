@@ -1,0 +1,7 @@
+{
+  "name": "webvoice-mcp-server",
+  "description": "Exposes WebVoice REST API tools to MCP clients for voice, chat, translation, and image generation via natural language.",
+  "source_repo": "supermarco74/webvoice-mcp",
+  "source_url": "https://github.com/supermarco74/webvoice-mcp",
+  "install": "npx -y webvoice-mcp"
+}

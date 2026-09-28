@@ -1,0 +1,7 @@
+{
+  "name": "transfer-ai-mcp",
+  "description": "A small MCP server for relaying or proxying AI endpoints, supporting OpenAI-style and Gemini-style APIs for text and image generation.",
+  "source_repo": "liu247/transfer-ai-mcp",
+  "source_url": "https://github.com/liu247/transfer-ai-mcp",
+  "install": "npx -y transfer-ai-mcp"
+}

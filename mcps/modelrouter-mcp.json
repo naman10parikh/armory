@@ -1,0 +1,7 @@
+{
+  "name": "modelrouter-mcp",
+  "description": "Advisory MCP server for intelligent LLM model recommendations in Cursor. Provides tools for task analysis, repository analysis, and model selection guidance.",
+  "source_repo": "MrSolution07/ModelRouter_MCP",
+  "source_url": "https://github.com/MrSolution07/ModelRouter_MCP",
+  "install": "npx -y ModelRouter_MCP"
+}

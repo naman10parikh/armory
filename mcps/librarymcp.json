@@ -1,0 +1,7 @@
+{
+  "name": "librarymcp",
+  "description": "A library management MCP server supporting book search, member management, and loan operations through natural language commands.",
+  "source_repo": "babosina/libraryMCP",
+  "source_url": "https://github.com/babosina/libraryMCP",
+  "install": "# git clone --depth 1 https://github.com/babosina/libraryMCP\n# See source for mcpServers config block"
+}

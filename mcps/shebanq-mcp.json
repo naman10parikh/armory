@@ -1,0 +1,7 @@
+{
+  "name": "shebanq-mcp",
+  "description": "Enables users to ask plain-language linguistic questions about the Hebrew Bible and receive the corresponding MQL query and results from the BHSA database, with the query always visible for verification and citation.",
+  "source_repo": "Jossifresben/shebanq-mcp",
+  "source_url": "https://github.com/Jossifresben/shebanq-mcp",
+  "install": "npx -y shebanq-mcp"
+}

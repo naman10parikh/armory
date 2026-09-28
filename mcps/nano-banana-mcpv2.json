@@ -1,0 +1,7 @@
+{
+  "name": "nano-banana-mcpv2",
+  "description": "Enables AI image generation and editing using Google's Gemini Multimodal Image APIs.",
+  "source_repo": "notfixingit3/nano-banana-mcpv2",
+  "source_url": "https://github.com/notfixingit3/nano-banana-mcpv2",
+  "install": "# git clone --depth 1 https://github.com/notfixingit3/nano-banana-mcpv2\n# See source for mcpServers config block"
+}

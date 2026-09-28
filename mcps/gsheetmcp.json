@@ -1,0 +1,7 @@
+{
+  "name": "gsheetmcp",
+  "description": "MCP server to read public Google Sheets data via gviz endpoint, no authentication needed. Supports column filtering and returns structured JSON.",
+  "source_repo": "kientv/gsheetmcp",
+  "source_url": "https://github.com/kientv/gsheetmcp",
+  "install": "# git clone --depth 1 https://github.com/kientv/gsheetmcp\n# See source for mcpServers config block"
+}

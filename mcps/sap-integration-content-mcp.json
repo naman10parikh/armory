@@ -1,0 +1,7 @@
+{
+  "name": "sap-integration-content-mcp",
+  "description": "Enables managing SAP Cloud Integration iFlows, packages, configurations, deployments, and runtime artifacts via natural language through the OData API.",
+  "source_repo": "PauloCalazans/mcp-ci-python",
+  "source_url": "https://github.com/PauloCalazans/mcp-ci-python",
+  "install": "# git clone --depth 1 https://github.com/PauloCalazans/mcp-ci-python\n# See source for mcpServers config block"
+}

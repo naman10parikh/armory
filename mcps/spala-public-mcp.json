@@ -1,0 +1,7 @@
+{
+  "name": "spala-public-mcp",
+  "description": "Public MCP front door for Spala agent discovery, providing onboarding, documentation search, and template/addon listings for planning backend workflows.",
+  "source_repo": "PavelBbb/spala-public-mcp",
+  "source_url": "https://github.com/PavelBbb/spala-public-mcp",
+  "install": "npx -y spala-public-mcp"
+}

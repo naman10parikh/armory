@@ -1,0 +1,7 @@
+{
+  "name": "regularidade-fgts-crf",
+  "description": "MCP server that emits the FGTS Regularity Certificate (CRF) for a Brazilian employer from a CNPJ, enabling read-only compliance queries.",
+  "source_repo": "mcp-dir/fgts_regularidade-mcp",
+  "source_url": "https://github.com/mcp-dir/fgts_regularidade-mcp",
+  "install": "npx -y fgts_regularidade-mcp"
+}

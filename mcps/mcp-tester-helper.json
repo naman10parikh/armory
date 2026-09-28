@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tester-helper",
+  "description": "A unified MCP server for multi-stand infrastructure testing, enabling REST API calls, PostgreSQL queries, and OpenSearch searches through a single config file.",
+  "source_repo": "Pstasov/mcp-tester-helper",
+  "source_url": "https://github.com/Pstasov/mcp-tester-helper",
+  "install": "# git clone --depth 1 https://github.com/Pstasov/mcp-tester-helper\n# See source for mcpServers config block"
+}

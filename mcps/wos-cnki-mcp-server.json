@@ -1,0 +1,7 @@
+{
+  "name": "wos-cnki-mcp-server",
+  "description": "Enables AI agents to search and retrieve academic literature from Web of Science and CNKI, with support for institutional login/SSO. Can be deployed locally on Windows or as a remote Linux server.",
+  "source_repo": "keggin-CHN/WOS_MCP",
+  "source_url": "https://github.com/keggin-CHN/WOS_MCP",
+  "install": "npx -y WOS_MCP"
+}

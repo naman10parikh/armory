@@ -1,0 +1,7 @@
+{
+  "name": "kofic-mcp-server",
+  "description": "MCP server wrapping the Korean Film Council (KOFIC) Box Office API, enabling retrieval of daily/weekly box office data, movie search, and detailed movie information for use with Claude via a custom connector.",
+  "source_repo": "alcheminos/kofic-mcp-server",
+  "source_url": "https://github.com/alcheminos/kofic-mcp-server",
+  "install": "npx -y kofic-mcp-server"
+}

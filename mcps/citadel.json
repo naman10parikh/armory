@@ -1,0 +1,7 @@
+{
+  "name": "citadel",
+  "description": "Local-first, encrypted memory for AI agents, with cryptographic forgetting.",
+  "source_repo": "yp3y5akh0v/citadel",
+  "source_url": "https://github.com/yp3y5akh0v/citadel",
+  "install": "# git clone --depth 1 https://github.com/yp3y5akh0v/citadel\n# See source for mcpServers config block"
+}

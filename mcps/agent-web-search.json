@@ -1,0 +1,7 @@
+{
+  "name": "agent-web-search",
+  "description": "Provides a unified web search tool for AI agents by running multiple search providers concurrently and returning normalized results. It integrates with Claude Code, Codex CLI, OpenCode, and Hermes.",
+  "source_repo": "JerryLiu369/agent-web-search",
+  "source_url": "https://github.com/JerryLiu369/agent-web-search",
+  "install": "# git clone --depth 1 https://github.com/JerryLiu369/agent-web-search\n# See source for mcpServers config block"
+}

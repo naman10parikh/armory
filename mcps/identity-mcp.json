@@ -1,0 +1,7 @@
+{
+  "name": "identity-mcp",
+  "description": "Institutional MCP server that centralizes access to identity, institutional profiles, and basic person data. Currently a bootstrap with no business logic or tools implemented.",
+  "source_repo": "CarlademarchiV/identity-mcp",
+  "source_url": "https://github.com/CarlademarchiV/identity-mcp",
+  "install": "npx -y identity-mcp"
+}

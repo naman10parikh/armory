@@ -1,0 +1,7 @@
+{
+  "name": "tally-workout-mcp",
+  "description": "Strength-training app Claude can write to: reads real workout history (planned vs actual) and writes planned workouts back into the Tally iOS app. First-party hosted remote MCP server secured with OAuth 2.1 (PKCE + dynamic client registration).",
+  "source_repo": "westvegh/tally-workout-mcp",
+  "source_url": "https://github.com/westvegh/tally-workout-mcp",
+  "install": "npx -y tally-workout-mcp"
+}

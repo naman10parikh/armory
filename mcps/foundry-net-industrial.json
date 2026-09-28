@@ -1,0 +1,7 @@
+{
+  "name": "foundry-net-industrial",
+  "description": "Cross-OEM industrial machine intelligence. Normalizes telemetry across 16 manufacturer families (Fanuc, Siemens, Haas, DMG Mori, Mazak), enables plain-English operational automation, and produces tamper-evident work records. 14 MCP tools.",
+  "source_repo": "FoundryNet/forge-mcp",
+  "source_url": "https://github.com/FoundryNet/forge-mcp",
+  "install": "npx -y forge-mcp"
+}

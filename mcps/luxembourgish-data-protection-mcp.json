@@ -1,0 +1,7 @@
+{
+  "name": "luxembourgish-data-protection-mcp",
+  "description": "Query Luxembourgish data protection data — regulations, decisions, and requirements from CNPD directly from Claude, Cursor, or any MCP-compatible client.",
+  "source_repo": "Ansvar-Systems/luxembourgish-data-protection-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/luxembourgish-data-protection-mcp",
+  "install": "npx -y luxembourgish-data-protection-mcp"
+}

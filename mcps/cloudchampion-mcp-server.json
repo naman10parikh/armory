@@ -1,0 +1,7 @@
+{
+  "name": "cloudchampion-mcp-server",
+  "description": "MCP server to query Cloud Champion's training catalog. Enables AI agents to search, filter, and get statistics about Microsoft partner resources like webinars, videos, learning paths, and podcasts.",
+  "source_repo": "frdeange/CloudChampionMCP",
+  "source_url": "https://github.com/frdeange/CloudChampionMCP",
+  "install": "# git clone --depth 1 https://github.com/frdeange/CloudChampionMCP\n# See source for mcpServers config block"
+}

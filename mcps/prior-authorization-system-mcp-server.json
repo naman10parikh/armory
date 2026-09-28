@@ -1,0 +1,7 @@
+{
+  "name": "prior-authorization-system-mcp-server",
+  "description": "End-to-end Prior Authorization decision-support system with a multi-agent AI pipeline, MCP Tool Registry, and PostgreSQL backend.",
+  "source_repo": "Click2code/mcp-server",
+  "source_url": "https://github.com/Click2code/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Click2code/mcp-server\n# See source for mcpServers config block"
+}

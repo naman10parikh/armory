@@ -1,0 +1,7 @@
+{
+  "name": "dndbeyond-mcp",
+  "description": "Enables AI assistants to manage D&D Beyond characters, access campaigns, and look up spells, monsters, items, and more through a reverse-engineered API.",
+  "source_repo": "DennisKonrad/dndbeyond-mcp",
+  "source_url": "https://github.com/DennisKonrad/dndbeyond-mcp",
+  "install": "npx -y dndbeyond-mcp"
+}

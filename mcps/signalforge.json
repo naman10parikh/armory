@@ -1,0 +1,7 @@
+{
+  "name": "signalforge",
+  "description": "Local-first MCP server that analyzes and compiles prompts for multiple LLM clients, detecting intent, missing context, and waste risks to generate cost-aware, task-specific prompts.",
+  "source_repo": "karthikeyGoli/signalforge",
+  "source_url": "https://github.com/karthikeyGoli/signalforge",
+  "install": "# git clone --depth 1 https://github.com/karthikeyGoli/signalforge\n# See source for mcpServers config block"
+}

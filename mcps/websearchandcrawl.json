@@ -1,0 +1,7 @@
+{
+  "name": "websearchandcrawl",
+  "description": "Enables authenticated web crawling via Firefox session tokens, regex-based content search, document parsing/downloading, and real-time streaming of results for MCP clients.",
+  "source_repo": "bpweatherill/WebSearchAndCrawl",
+  "source_url": "https://github.com/bpweatherill/WebSearchAndCrawl",
+  "install": "# git clone --depth 1 https://github.com/bpweatherill/WebSearchAndCrawl\n# See source for mcpServers config block"
+}

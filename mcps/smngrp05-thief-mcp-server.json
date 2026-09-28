@@ -1,0 +1,7 @@
+{
+  "name": "smngrp05-thief-mcp-server",
+  "description": "Runs a decentralized thief agent for a peer-to-peer cops-and-robbers game, using FastMCP to exchange moves and messages with a police agent while employing Bayesian belief and credibility-based bluffing strategies.",
+  "source_repo": "afaf-gharra/SMNGRP05-thief",
+  "source_url": "https://github.com/afaf-gharra/SMNGRP05-thief",
+  "install": "# git clone --depth 1 https://github.com/afaf-gharra/SMNGRP05-thief\n# See source for mcpServers config block"
+}

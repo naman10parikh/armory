@@ -1,0 +1,7 @@
+{
+  "name": "hn-tech-signal-mcp",
+  "description": "Aggregates tech and AI signals from HackerNews, arXiv, Lobste.rs, and GitHub into a structured briefing. No authentication required.",
+  "source_repo": "malkreide/hn-tech-signal-mcp",
+  "source_url": "https://github.com/malkreide/hn-tech-signal-mcp",
+  "install": "npx -y hn-tech-signal-mcp"
+}

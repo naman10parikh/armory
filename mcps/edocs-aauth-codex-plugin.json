@@ -1,0 +1,7 @@
+{
+  "name": "edocs-aauth-codex-plugin",
+  "description": "Provides a local stdio MCP server proxy enabling Codex to interact with a remote AAuth-protected eDocs Streamable HTTP MCP server, handling authentication, consent elicitation, and token exchange.",
+  "source_repo": "kyle-macmillan/mcp-aauth-codex",
+  "source_url": "https://github.com/kyle-macmillan/mcp-aauth-codex",
+  "install": "# git clone --depth 1 https://github.com/kyle-macmillan/mcp-aauth-codex\n# See source for mcpServers config block"
+}

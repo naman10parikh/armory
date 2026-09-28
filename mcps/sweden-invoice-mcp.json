@@ -1,0 +1,7 @@
+{
+  "name": "sweden-invoice-mcp",
+  "description": "Lets any AI agent send Sweden B2B/B2G electronic invoices (e-faktura) over the Peppol network in Peppol BIS 3.0 / EN 16931 format via Storecove, a certified Peppol Access Point.",
+  "source_repo": "junter1989k-ai/sweden-invoice-mcp",
+  "source_url": "https://github.com/junter1989k-ai/sweden-invoice-mcp",
+  "install": "npx -y sweden-invoice-mcp"
+}

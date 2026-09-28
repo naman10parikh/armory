@@ -1,0 +1,7 @@
+{
+  "name": "weixin-mcp-server",
+  "description": "Enables WeChat automation on PC via MCP, supporting sending messages and files, searching contacts, retrieving chat history, and executing commands, compatible with WeChat 4.1+.",
+  "source_repo": "linnnnnnnnnnnnnnnnnnnnn/weixin-mcp-server",
+  "source_url": "https://github.com/linnnnnnnnnnnnnnnnnnnnn/weixin-mcp-server",
+  "install": "npx -y weixin-mcp-server"
+}

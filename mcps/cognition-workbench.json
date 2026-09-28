@@ -1,0 +1,7 @@
+{
+  "name": "cognition-workbench",
+  "description": "Enables local-first knowledge management for Codex, providing tools for guided discussions, contextual recall, review, and daily topics.",
+  "source_repo": "to-real/cognition-workbench",
+  "source_url": "https://github.com/to-real/cognition-workbench",
+  "install": "# git clone --depth 1 https://github.com/to-real/cognition-workbench\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "facturahub-mcp-server",
+  "description": "Enables AI assistants to manage business operations including invoicing, WooCommerce syncing, expense tracking, POS, inventory, and team management through natural language.",
+  "source_repo": "Santy1422/facturahub-mcp",
+  "source_url": "https://github.com/Santy1422/facturahub-mcp",
+  "install": "npx -y facturahub-mcp"
+}

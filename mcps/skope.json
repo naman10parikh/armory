@@ -1,0 +1,7 @@
+{
+  "name": "skope",
+  "description": "A personal news lens MCP server that uses Claude's web search to find articles relevant to your life, scoring them by causal reachability and providing a brief while tracking your attention concentration.",
+  "source_repo": "evan-moon/skope",
+  "source_url": "https://github.com/evan-moon/skope",
+  "install": "# git clone --depth 1 https://github.com/evan-moon/skope\n# See source for mcpServers config block"
+}

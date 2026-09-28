@@ -1,0 +1,7 @@
+{
+  "name": "brevo-mcp",
+  "description": "A FastMCP server for integrating with Brevo API, enabling users to manage contacts, create/update contacts, and import/export leads using TSV files through natural language.",
+  "source_repo": "harishnethi/brevo-mcp",
+  "source_url": "https://github.com/harishnethi/brevo-mcp",
+  "install": "npx -y brevo-mcp"
+}

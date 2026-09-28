@@ -1,0 +1,7 @@
+{
+  "name": "plonk-mcp",
+  "description": "Mac window manager AI agents can drive: see every monitor and window, apply multi-monitor layouts in one call, save and relaunch whole workspaces, snap zones, keep-awake, and annotated screenshots. Backed by a native macOS menu bar app over a local-only loopback API — no cloud, no telemetry.",
+  "source_repo": "ostapondo/Plonk",
+  "source_url": "https://github.com/ostapondo/Plonk",
+  "install": "# git clone --depth 1 https://github.com/ostapondo/Plonk\n# See source for mcpServers config block"
+}

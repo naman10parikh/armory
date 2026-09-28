@@ -1,0 +1,7 @@
+{
+  "name": "apple-health-coverage-mcp",
+  "description": "Enables coverage-aware Apple Health metrics, distinguishing observed values from placeholders and providing day-level coverage and trend tools.",
+  "source_repo": "mayank-youdata/apple-health-coverage-mcp",
+  "source_url": "https://github.com/mayank-youdata/apple-health-coverage-mcp",
+  "install": "npx -y apple-health-coverage-mcp"
+}

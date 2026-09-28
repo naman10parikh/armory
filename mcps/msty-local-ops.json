@@ -1,0 +1,7 @@
+{
+  "name": "msty-local-ops",
+  "description": "A fail-closed MCP for Msty Studio on macOS that exposes read-only diagnostics and an optional bounded local-generation tool without reading chats or private data.",
+  "source_repo": "vega-llc/msty-local-ops",
+  "source_url": "https://github.com/vega-llc/msty-local-ops",
+  "install": "# git clone --depth 1 https://github.com/vega-llc/msty-local-ops\n# See source for mcpServers config block"
+}

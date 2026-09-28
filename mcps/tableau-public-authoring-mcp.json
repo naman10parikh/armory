@@ -1,0 +1,7 @@
+{
+  "name": "tableau-public-authoring-mcp",
+  "description": "Creates Tableau workbooks from a declarative JSON spec, validates them by opening in the installed Tableau Public application, and publishes to Tableau Public through the desktop UI.",
+  "source_repo": "andyyaro/tableau-public-authoring-mcp",
+  "source_url": "https://github.com/andyyaro/tableau-public-authoring-mcp",
+  "install": "npx -y tableau-public-authoring-mcp"
+}

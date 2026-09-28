@@ -1,0 +1,7 @@
+{
+  "name": "lean-computer-use-mcp",
+  "description": "Enables low-cost agent models to control Windows applications through a compact, state-safe proxy over Open Computer Use, reducing model-visible context by up to 99.8% with support for record/replay and reusable UI component memory.",
+  "source_repo": "Kvxw1105/lean-computer-use-mcp",
+  "source_url": "https://github.com/Kvxw1105/lean-computer-use-mcp",
+  "install": "npx -y lean-computer-use-mcp"
+}

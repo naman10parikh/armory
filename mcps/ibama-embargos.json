@@ -1,0 +1,7 @@
+{
+  "name": "ibama-embargos",
+  "description": "This MCP server enables users to issue IBAMA environmental embargo certificates (negative certificates) for individuals or companies using CPF or CNPJ, with a read-only tool and prepaid credits.",
+  "source_repo": "mcp-dir/ibama_embargos-mcp",
+  "source_url": "https://github.com/mcp-dir/ibama_embargos-mcp",
+  "install": "npx -y ibama_embargos-mcp"
+}

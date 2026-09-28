@@ -1,0 +1,7 @@
+{
+  "name": "mcporter-bridge",
+  "description": "Bridges a local mcporter registry into a single MCP server, enabling clients like Codex and Claude to list, inspect, and call tools from multiple MCPs with lazy loading.",
+  "source_repo": "Citrus086/mcporter-bridge",
+  "source_url": "https://github.com/Citrus086/mcporter-bridge",
+  "install": "# git clone --depth 1 https://github.com/Citrus086/mcporter-bridge\n# See source for mcpServers config block"
+}

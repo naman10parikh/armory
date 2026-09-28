@@ -1,0 +1,7 @@
+{
+  "name": "api-doctor-mcp",
+  "description": "Validates OpenAPI documents, JSON Schemas, and JSON payloads. Also compares OpenAPI specs and displays breaking changes.",
+  "source_repo": "nitish-iiitd/api-doctor-mcp",
+  "source_url": "https://github.com/nitish-iiitd/api-doctor-mcp",
+  "install": "npx -y api-doctor-mcp"
+}

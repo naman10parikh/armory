@@ -1,0 +1,7 @@
+{
+  "name": "quantconnectmcp",
+  "description": "MCP server providing 100% offline access to QuantConnect/Lean documentation with semantic search, code validation, repair, and scaffolding tools for AI coding assistants.",
+  "source_repo": "TheFractalyst/QuantConnectMCP",
+  "source_url": "https://github.com/TheFractalyst/QuantConnectMCP",
+  "install": "# git clone --depth 1 https://github.com/TheFractalyst/QuantConnectMCP\n# See source for mcpServers config block"
+}

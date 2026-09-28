@@ -1,0 +1,7 @@
+{
+  "name": "bedvibe-mail-bridge",
+  "description": "A local Windows desktop app and MCP server that allows AI assistants to read, search, and draft replies for Gmail, but enforces human confirmation for all destructive actions like sending, deleting, or unsubscribing.",
+  "source_repo": "Mormolykos/bedvibe-mail-bridge",
+  "source_url": "https://github.com/Mormolykos/bedvibe-mail-bridge",
+  "install": "# git clone --depth 1 https://github.com/Mormolykos/bedvibe-mail-bridge\n# See source for mcpServers config block"
+}

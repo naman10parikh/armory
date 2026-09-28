@@ -1,0 +1,7 @@
+{
+  "name": "agent-care-mcp",
+  "description": "Integrates with EMRs like Cerner and Epic via FHIR to retrieve patient data, and provides medical research tools (PubMed, clinical trials, FDA) for clinical analysis.",
+  "source_repo": "polya20/agentcare-mcp",
+  "source_url": "https://github.com/polya20/agentcare-mcp",
+  "install": "npx -y agentcare-mcp"
+}

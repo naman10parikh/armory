@@ -1,0 +1,7 @@
+{
+  "name": "a-stock-data-mcp",
+  "description": "MCP server adapter that exposes A-share stock data tools, prompts, and resources via FastMCP, enabling querying of stocks, K-lines, financials, sectors, and market hot spots through natural language.",
+  "source_repo": "droid-Q/a-stock-data-mcp",
+  "source_url": "https://github.com/droid-Q/a-stock-data-mcp",
+  "install": "npx -y a-stock-data-mcp"
+}

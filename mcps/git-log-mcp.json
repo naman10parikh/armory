@@ -1,0 +1,7 @@
+{
+  "name": "git-log-mcp",
+  "description": "Enables querying git commit history to analyze when and why code changes happened, providing authorship context and diffs for specific modules.",
+  "source_repo": "seekingalpha/git-log-mcp",
+  "source_url": "https://github.com/seekingalpha/git-log-mcp",
+  "install": "npx -y git-log-mcp"
+}

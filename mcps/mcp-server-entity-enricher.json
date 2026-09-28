@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-entity-enricher",
+  "description": "Hosted MCP server for structured knowledge extraction and entity enrichment, allowing users to author JSON schemas, enrich entities using multiple LLM providers, and benchmark model performance.",
+  "source_repo": "TOT-Concept/mcp-server-entity-enricher",
+  "source_url": "https://github.com/TOT-Concept/mcp-server-entity-enricher",
+  "install": "# git clone --depth 1 https://github.com/TOT-Concept/mcp-server-entity-enricher\n# See source for mcpServers config block"
+}

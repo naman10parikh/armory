@@ -1,0 +1,7 @@
+{
+  "name": "telinksdk-builder-mcp",
+  "description": "Build/flash/debug any Telink embedded SDK via natural language. MCP server with 8 tools for build, serial capture, and firmware flashing via bdt.exe.",
+  "source_repo": "JannLeo/telinksdk-builder-mcp",
+  "source_url": "https://github.com/JannLeo/telinksdk-builder-mcp",
+  "install": "npx -y telinksdk-builder-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "drain3-mcp-server",
+  "description": "MCP server that wraps Drain3 for streaming log template mining, read-only matching, parameter extraction, and model persistence, exposing tools and resources to train on logs and query learned templates.",
+  "source_repo": "xinqihuang/Drain3MCPServer",
+  "source_url": "https://github.com/xinqihuang/Drain3MCPServer",
+  "install": "# git clone --depth 1 https://github.com/xinqihuang/Drain3MCPServer\n# See source for mcpServers config block"
+}

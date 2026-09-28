@@ -1,0 +1,7 @@
+{
+  "name": "comp3900-server",
+  "description": "Enables installation and management of the COMP3900 project, including cloning, prerequisite checks, backend/frontend setup, Docker Compose, and optional cloudflared installation.",
+  "source_repo": "arctic-cheetah/MCP-server",
+  "source_url": "https://github.com/arctic-cheetah/MCP-server",
+  "install": "# git clone --depth 1 https://github.com/arctic-cheetah/MCP-server\n# See source for mcpServers config block"
+}

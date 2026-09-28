@@ -1,0 +1,7 @@
+{
+  "name": "oro-intel-mcp",
+  "description": "UK public procurement data for AI agents. Tenders, contracts, buyer and supplier profiles over MCP and REST. 250 free credits.",
+  "source_repo": "oro-intel/oro-intel-mcp",
+  "source_url": "https://github.com/oro-intel/oro-intel-mcp",
+  "install": "npx -y oro-intel-mcp"
+}

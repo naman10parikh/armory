@@ -1,0 +1,7 @@
+{
+  "name": "notes-mcp-server-2",
+  "description": "Enables Claude to read and analyze notes from the macOS Notes app, with configurable access control via allowlist/denylist modes.",
+  "source_repo": "misdarmanto/apple-notes-mcp",
+  "source_url": "https://github.com/misdarmanto/apple-notes-mcp",
+  "install": "npx -y apple-notes-mcp"
+}

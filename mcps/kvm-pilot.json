@@ -1,0 +1,7 @@
+{
+  "name": "kvm-pilot",
+  "description": "An MCP server that gives AI agents smart hands for physical machines, controlling them via IP-KVM, BMC, and SSH with visual boot-phase classification and operator-gated actions.",
+  "source_repo": "DustinTrap/kvm-pilot",
+  "source_url": "https://github.com/DustinTrap/kvm-pilot",
+  "install": "# git clone --depth 1 https://github.com/DustinTrap/kvm-pilot\n# See source for mcpServers config block"
+}

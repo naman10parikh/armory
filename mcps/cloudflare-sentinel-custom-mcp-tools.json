@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-sentinel-custom-mcp-tools",
+  "description": "Provides investigation tools for Cloudflare CCF data in Microsoft Sentinel, enabling security posture assessment, threat detection, and IP reputation analysis through customizable MCP tools.",
+  "source_repo": "MitchellGulledge3/cloudflare-sentinel-mcp-tools",
+  "source_url": "https://github.com/MitchellGulledge3/cloudflare-sentinel-mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/MitchellGulledge3/cloudflare-sentinel-mcp-tools\n# See source for mcpServers config block"
+}

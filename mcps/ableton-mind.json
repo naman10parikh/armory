@@ -1,0 +1,7 @@
+{
+  "name": "ableton-mind",
+  "description": "MCP server for Ableton Live that exposes the Live Object Model to LLMs, enabling natural language control of music production.",
+  "source_repo": "Pantani/ableton-mind",
+  "source_url": "https://github.com/Pantani/ableton-mind",
+  "install": "# git clone --depth 1 https://github.com/Pantani/ableton-mind\n# See source for mcpServers config block"
+}

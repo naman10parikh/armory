@@ -1,0 +1,7 @@
+{
+  "name": "io-github-sidduhere-agentpool",
+  "description": "AgentPool is a local MCP server that monitors live usage limits of coding-agent subscriptions and allows you to offload work to providers with remaining capacity. It exposes provider, model, and session state, enabling informed manual or agent-driven task delegation.",
+  "source_repo": "sidduHERE/agentpool",
+  "source_url": "https://github.com/sidduHERE/agentpool",
+  "install": "# git clone --depth 1 https://github.com/sidduHERE/agentpool\n# See source for mcpServers config block"
+}

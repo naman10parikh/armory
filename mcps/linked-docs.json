@@ -1,0 +1,7 @@
+{
+  "name": "linked-docs",
+  "description": "Enables AI assistants to intelligently search and reference documentation using hybrid semantic + keyword search via MCP protocol.",
+  "source_repo": "folence/Linked-Docs-MCP",
+  "source_url": "https://github.com/folence/Linked-Docs-MCP",
+  "install": "npx -y Linked-Docs-MCP"
+}

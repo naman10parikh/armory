@@ -1,0 +1,7 @@
+{
+  "name": "nutritionix-mcp-server",
+  "description": "Enables AI agents to search foods, get nutritional breakdowns, and estimate exercise calories using the Nutritionix API through natural language input.",
+  "source_repo": "MCP-Forge/nutritionix-mcp-server",
+  "source_url": "https://github.com/MCP-Forge/nutritionix-mcp-server",
+  "install": "npx -y nutritionix-mcp-server"
+}

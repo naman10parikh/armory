@@ -1,0 +1,7 @@
+{
+  "name": "cyberchef-api-mcp-server",
+  "description": "Enables LLM clients to encode, decode, and transform data using CyberChef operations via an MCP server that interfaces with the CyberChef API.",
+  "source_repo": "slouchd/cyberchef-api-mcp-server",
+  "source_url": "https://github.com/slouchd/cyberchef-api-mcp-server",
+  "install": "npx -y cyberchef-api-mcp-server"
+}

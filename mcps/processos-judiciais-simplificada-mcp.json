@@ -1,0 +1,7 @@
+{
+  "name": "processos-judiciais-simplificada-mcp",
+  "description": "Enables simplified consultation of Brazilian judicial cases for individuals or companies using CPF or CNPJ, read-only, hosted, and paid per query with prepaid credits.",
+  "source_repo": "mcp-dir/processos_judiciais_simplificada-mcp",
+  "source_url": "https://github.com/mcp-dir/processos_judiciais_simplificada-mcp",
+  "install": "npx -y processos_judiciais_simplificada-mcp"
+}

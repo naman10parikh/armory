@@ -1,0 +1,7 @@
+{
+  "name": "short-video-mcp",
+  "description": "Generates TikTok-style short videos narrated by Peter and Stewie Griffin from any content, using ElevenLabs for voice and FFmpeg for video assembly.",
+  "source_repo": "MateDort/short-video-mcp",
+  "source_url": "https://github.com/MateDort/short-video-mcp",
+  "install": "npx -y short-video-mcp"
+}

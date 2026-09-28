@@ -1,0 +1,7 @@
+{
+  "name": "yarrow",
+  "description": "An I-Ching oracle MCP server for casting hexagrams, looking up bilingual classical sources, and generating grounded Wilhelm/Baynes-style reflections.",
+  "source_repo": "shaozhengkun123/yarrow",
+  "source_url": "https://github.com/shaozhengkun123/yarrow",
+  "install": "# git clone --depth 1 https://github.com/shaozhengkun123/yarrow\n# See source for mcpServers config block"
+}

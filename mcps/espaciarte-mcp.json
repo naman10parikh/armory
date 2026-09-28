@@ -1,0 +1,7 @@
+{
+  "name": "espaciarte-mcp",
+  "description": "Minimal MCP server exposing Espaciarte's public space discovery API to AI clients, enabling geo-search and retrieval of published space details.",
+  "source_repo": "vicentesiis/espaciarte-mcp",
+  "source_url": "https://github.com/vicentesiis/espaciarte-mcp",
+  "install": "npx -y espaciarte-mcp"
+}

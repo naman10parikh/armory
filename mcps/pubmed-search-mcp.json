@@ -1,0 +1,7 @@
+{
+  "name": "pubmed-search-mcp",
+  "description": "An intelligent research assistant MCP server for AI agents, providing task-oriented literature search and analysis across multiple academic databases.",
+  "source_repo": "u9401066/pubmed-search-mcp",
+  "source_url": "https://github.com/u9401066/pubmed-search-mcp",
+  "install": "npx -y pubmed-search-mcp"
+}

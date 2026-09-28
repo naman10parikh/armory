@@ -1,0 +1,7 @@
+{
+  "name": "thai-open-data-mcp",
+  "description": "Enables AI assistants to search and read Thailand's official open-government data from data.go.th, providing tools to search datasets, retrieve full records, and browse categories without API keys.",
+  "source_repo": "sarapab-th/thai-open-data-mcp",
+  "source_url": "https://github.com/sarapab-th/thai-open-data-mcp",
+  "install": "npx -y thai-open-data-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mock-llm-mcp",
+  "description": "MCP server to mock OpenAI, Anthropic, and Google Gemini responses for testing AI integrations without real API keys or token spend.",
+  "source_repo": "rebaselabs-framework/mock-llm-mcp",
+  "source_url": "https://github.com/rebaselabs-framework/mock-llm-mcp",
+  "install": "npx -y mock-llm-mcp"
+}

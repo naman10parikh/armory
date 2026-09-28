@@ -1,0 +1,7 @@
+{
+  "name": "expo-mcp-server",
+  "description": "A secure local MCP server that allows AI assistants to inspect and diagnose Expo-based React Native projects, offering read-only tools for project summary, doctor checks, dependency validation, and public config retrieval.",
+  "source_repo": "Rukafuu/ExpoMCP",
+  "source_url": "https://github.com/Rukafuu/ExpoMCP",
+  "install": "# git clone --depth 1 https://github.com/Rukafuu/ExpoMCP\n# See source for mcpServers config block"
+}

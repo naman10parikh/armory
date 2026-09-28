@@ -1,0 +1,7 @@
+{
+  "name": "plureslm-mcp",
+  "description": "Provides persistent vector memory with semantic search and P2P synchronization across devices for AI assistants.",
+  "source_repo": "plures/pluresLM-mcp",
+  "source_url": "https://github.com/plures/pluresLM-mcp",
+  "install": "npx -y pluresLM-mcp"
+}

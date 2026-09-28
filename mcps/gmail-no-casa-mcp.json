@@ -1,0 +1,7 @@
+{
+  "name": "gmail-no-casa-mcp",
+  "description": "A minimal MCP server for sending plain-text emails and managing Gmail user labels over stdio, using only gmail.send and gmail.labels OAuth scopes.",
+  "source_repo": "aavaz-ai/gmail-mcp",
+  "source_url": "https://github.com/aavaz-ai/gmail-mcp",
+  "install": "npx -y gmail-mcp"
+}

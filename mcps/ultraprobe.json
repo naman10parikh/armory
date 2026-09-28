@@ -1,0 +1,7 @@
+{
+  "name": "ultraprobe",
+  "description": "UltraProbe",
+  "source_repo": "ppcvote/misp-mcp-server",
+  "source_url": "https://github.com/ppcvote/misp-mcp-server",
+  "install": "npx -y misp-mcp-server"
+}

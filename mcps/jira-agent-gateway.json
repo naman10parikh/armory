@@ -1,0 +1,7 @@
+{
+  "name": "jira-agent-gateway",
+  "description": "A secure, TypeScript-based MCP gateway that enables AI agents to interact with Jira through controlled, audited tool calls without exposing credentials.",
+  "source_repo": "yauchinlam/jira-agent-gateway",
+  "source_url": "https://github.com/yauchinlam/jira-agent-gateway",
+  "install": "# git clone --depth 1 https://github.com/yauchinlam/jira-agent-gateway\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zotero-api-mcp",
+  "description": "Enables managing Zotero reference libraries with full CRUD operations, collections, notes, annotations, and attachments via the Zotero API.",
+  "source_repo": "siebert-julien/zotero-api-mcp",
+  "source_url": "https://github.com/siebert-julien/zotero-api-mcp",
+  "install": "npx -y zotero-api-mcp"
+}

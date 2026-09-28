@@ -1,0 +1,7 @@
+{
+  "name": "kynth-mcp",
+  "description": "Provides two read-only compliance lookup tools: ADA accessibility reports for US local-government domains and nonprofit status checks against IRS and California registries. No API key or signup required.",
+  "source_repo": "kyisaiah47/kynth-mcp",
+  "source_url": "https://github.com/kyisaiah47/kynth-mcp",
+  "install": "npx -y kynth-mcp"
+}

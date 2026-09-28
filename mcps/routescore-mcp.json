@@ -1,0 +1,7 @@
+{
+  "name": "routescore-mcp",
+  "description": "MCP server that exposes Routescore's public API for risk assessment, including MEV cover, bridge refund, and swap checks, as tools for AI agents.",
+  "source_repo": "routescore/mcp",
+  "source_url": "https://github.com/routescore/mcp",
+  "install": "# git clone --depth 1 https://github.com/routescore/mcp\n# See source for mcpServers config block"
+}

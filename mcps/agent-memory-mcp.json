@@ -1,0 +1,7 @@
+{
+  "name": "agent-memory-mcp",
+  "description": "MCP server for agent-maintained memories, allowing creation, reading, updating, deletion, and listing of memories with global or repo scopes.",
+  "source_repo": "MSR806/agent-memory-mcp",
+  "source_url": "https://github.com/MSR806/agent-memory-mcp",
+  "install": "npx -y agent-memory-mcp"
+}

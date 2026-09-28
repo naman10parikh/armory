@@ -1,0 +1,7 @@
+{
+  "name": "qlik-lineage-mcp",
+  "description": "A read-only MCP server that exposes data-file lineage analyses for Qlik Cloud tenants, enabling identification of unused columns and ghost files to reduce storage costs.",
+  "source_repo": "EngIcaro/qlik-lineage-mcp",
+  "source_url": "https://github.com/EngIcaro/qlik-lineage-mcp",
+  "install": "npx -y qlik-lineage-mcp"
+}

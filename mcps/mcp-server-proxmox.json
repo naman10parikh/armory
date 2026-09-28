@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-proxmox",
+  "description": "A Model Context Protocol (MCP) server for Proxmox Virtual Environment that enables AI assistants to manage virtual machines, containers, nodes, and resources through natural language interactions.",
+  "source_repo": "heybearc/mcp-server-proxmox",
+  "source_url": "https://github.com/heybearc/mcp-server-proxmox",
+  "install": "# git clone --depth 1 https://github.com/heybearc/mcp-server-proxmox\n# See source for mcpServers config block"
+}

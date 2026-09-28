@@ -1,0 +1,7 @@
+{
+  "name": "microcharts",
+  "description": "Renders word-sized charts — sparklines, bars, bullets and 100+ more types — to self-contained SVG with generated alt text, small enough to sit inline in a model's reply or a table cell. Three tools: find the right chart for a question, get its wiring, and render it.",
+  "source_repo": "ganapativs/microcharts",
+  "source_url": "https://github.com/ganapativs/microcharts",
+  "install": "# git clone --depth 1 https://github.com/ganapativs/microcharts\n# See source for mcpServers config block"
+}

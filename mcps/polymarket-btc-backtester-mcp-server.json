@@ -1,0 +1,7 @@
+{
+  "name": "polymarket-btc-backtester-mcp-server",
+  "description": "Enables backtesting of limit-order strategies on Polymarket's BTC 5-minute markets using historical data, with tools to browse markets, get price series, and run simulations.",
+  "source_repo": "xin10ylop/polymarket-backtest-mcp",
+  "source_url": "https://github.com/xin10ylop/polymarket-backtest-mcp",
+  "install": "npx -y polymarket-backtest-mcp"
+}

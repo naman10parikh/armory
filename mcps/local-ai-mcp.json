@@ -1,0 +1,7 @@
+{
+  "name": "local-ai-mcp",
+  "description": "Unified MCP server for managing local model runtimes (Ollama, LM Studio, etc.), enabling provider-agnostic discovery, lifecycle management, hardware-fit checks, and delegated inference.",
+  "source_repo": "TMHSDigital/local-ai-mcp",
+  "source_url": "https://github.com/TMHSDigital/local-ai-mcp",
+  "install": "npx -y local-ai-mcp"
+}

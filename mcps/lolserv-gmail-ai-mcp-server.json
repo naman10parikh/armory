@@ -1,0 +1,7 @@
+{
+  "name": "lolserv-gmail-ai-mcp-server",
+  "description": "Provides AI-powered Gmail tools for email analysis, summarization, drafting replies, and content rewriting with full MCP protocol support.",
+  "source_repo": "ohthepain/lolserv",
+  "source_url": "https://github.com/ohthepain/lolserv",
+  "install": "# git clone --depth 1 https://github.com/ohthepain/lolserv\n# See source for mcpServers config block"
+}

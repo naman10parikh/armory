@@ -1,0 +1,7 @@
+{
+  "name": "phishtank-mcp-server",
+  "description": "Enables checking URLs against PhishTank's phishing database, searching for phishing URLs by target or date, and retrieving phishing statistics, with built-in rate limiting and caching.",
+  "source_repo": "Cyreslab-AI/phishtank-mcp-server",
+  "source_url": "https://github.com/Cyreslab-AI/phishtank-mcp-server",
+  "install": "npx -y phishtank-mcp-server"
+}

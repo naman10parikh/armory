@@ -1,6 +1,6 @@
 {
   "name": "libraryai",
-  "description": "LibraryAI MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "YELANDAOKONG/LibraryAI",
   "source_url": "https://mcp.so/server/LibraryAI/YELANDAOKONG",
   "install": "# git clone --depth 1 https://mcp.so/server/LibraryAI/YELANDAOKONG\n# See source for mcpServers config block"

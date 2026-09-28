@@ -1,0 +1,7 @@
+{
+  "name": "concord",
+  "description": "Provides a multi-agent collaboration room with real-time messaging, file sharing, and coordination primitives for AI agents.",
+  "source_repo": "zkwasm/concord-plugin",
+  "source_url": "https://github.com/zkwasm/concord-plugin",
+  "install": "# git clone --depth 1 https://github.com/zkwasm/concord-plugin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "crawmcp",
+  "description": "Self-hosted MCP server for web crawling that bypasses anti-bot walls and JS challenges, using RabbitMQ, MinIO, and Redis for asynchronous content handling with automatic cleanup.",
+  "source_repo": "bilginerdem/craw-mcp",
+  "source_url": "https://github.com/bilginerdem/craw-mcp",
+  "install": "npx -y craw-mcp"
+}

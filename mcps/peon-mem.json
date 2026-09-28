@@ -1,0 +1,7 @@
+{
+  "name": "peon-mem",
+  "description": "Local-first hierarchical memory for AI coding agents, providing automatic session capture, belief consolidation, and relevant memory injection via an MCP server.",
+  "source_repo": "VineetV2/peon-mem",
+  "source_url": "https://github.com/VineetV2/peon-mem",
+  "install": "# git clone --depth 1 https://github.com/VineetV2/peon-mem\n# See source for mcpServers config block"
+}

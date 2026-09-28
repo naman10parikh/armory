@@ -1,0 +1,7 @@
+{
+  "name": "accounting-ops-mcp-server",
+  "description": "Enables agents to perform financial operations including categorization, reconciliation, and reporting on a tamper-evident, self-hosted ledger.",
+  "source_repo": "Unicorn-Commander/accounting-ops-oss",
+  "source_url": "https://github.com/Unicorn-Commander/accounting-ops-oss",
+  "install": "# git clone --depth 1 https://github.com/Unicorn-Commander/accounting-ops-oss\n# See source for mcpServers config block"
+}

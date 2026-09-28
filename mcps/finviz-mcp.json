@@ -1,0 +1,7 @@
+{
+  "name": "finviz-mcp",
+  "description": "Enables users to fetch real-time stock fundamentals, news, price history, and perform screener searches using Finviz and Yahoo Finance data without API keys. Note: screener functionality works only locally due to IP restrictions.",
+  "source_repo": "TuokkiCode/finviz-mcp",
+  "source_url": "https://github.com/TuokkiCode/finviz-mcp",
+  "install": "npx -y finviz-mcp"
+}

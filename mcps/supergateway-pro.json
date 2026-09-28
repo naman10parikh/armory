@@ -1,0 +1,7 @@
+{
+  "name": "supergateway-pro",
+  "description": "Provides a centralized MCP gateway with connection pooling, real-time observability dashboard, and macOS menu bar integration, enabling efficient resource usage for AI coding clients.",
+  "source_repo": "dhomane/supergateway-pro",
+  "source_url": "https://github.com/dhomane/supergateway-pro",
+  "install": "# git clone --depth 1 https://github.com/dhomane/supergateway-pro\n# See source for mcpServers config block"
+}

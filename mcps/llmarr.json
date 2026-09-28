@@ -1,0 +1,7 @@
+{
+  "name": "llmarr",
+  "description": "An MCP server that replicates Sonarr/Radarr/Lidarr functionality driven by an LLM, enabling automated torrent management for TV shows and movies.",
+  "source_repo": "himanshugoel2797/LLMarr",
+  "source_url": "https://github.com/himanshugoel2797/LLMarr",
+  "install": "# git clone --depth 1 https://github.com/himanshugoel2797/LLMarr\n# See source for mcpServers config block"
+}

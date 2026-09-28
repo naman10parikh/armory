@@ -1,0 +1,7 @@
+{
+  "name": "scribefy-mcp",
+  "description": "MCP server for Scribefy — extract YouTube transcripts from Claude Desktop, Cursor, Windsurf, ChatGPT custom GPTs, or any other MCP-compatible client.",
+  "source_repo": "MKirovBG/scribefy-mcp",
+  "source_url": "https://github.com/MKirovBG/scribefy-mcp",
+  "install": "npx -y scribefy-mcp"
+}

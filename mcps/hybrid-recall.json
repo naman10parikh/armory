@@ -1,0 +1,7 @@
+{
+  "name": "hybrid-recall",
+  "description": "A local MCP server enabling hybrid search over documents, memory, and knowledge graphs for retrieval-augmented generation, with tools for SQLite, semantic memory, and entity-relationship queries.",
+  "source_repo": "cutlerbenjamin1-cmd/hybrid-recall",
+  "source_url": "https://github.com/cutlerbenjamin1-cmd/hybrid-recall",
+  "install": "# git clone --depth 1 https://github.com/cutlerbenjamin1-cmd/hybrid-recall\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tickerrisk-mcp-server",
+  "description": "Checks an options trade for hidden catalysts such as earnings, FDA decisions, and court dates, scoring risk over a specified expiry window.",
+  "source_repo": "Tickerrisk/tickerrisk-mcp",
+  "source_url": "https://github.com/Tickerrisk/tickerrisk-mcp",
+  "install": "npx -y tickerrisk-mcp"
+}

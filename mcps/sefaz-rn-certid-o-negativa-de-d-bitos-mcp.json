@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-rn-certid-o-negativa-de-d-bitos-mcp",
+  "description": "Provides a single read-only tool to consult Certidão Negativa de Débitos (negative debt certificates) from SEFAZ RN, the state tax authority of Rio Grande do Norte, Brazil.",
+  "source_repo": "mcp-dir/sefaz_rn_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_rn_certidao_debitos-mcp",
+  "install": "npx -y sefaz_rn_certidao_debitos-mcp"
+}

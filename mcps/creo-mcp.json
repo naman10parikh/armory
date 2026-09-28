@@ -1,0 +1,7 @@
+{
+  "name": "creo-mcp",
+  "description": "MCP server enabling CAD interaction with Creo Parametric and knowledge base retrieval from Volcengine.",
+  "source_repo": "yangkunyi/creo-mcp",
+  "source_url": "https://github.com/yangkunyi/creo-mcp",
+  "install": "npx -y creo-mcp"
+}

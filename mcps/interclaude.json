@@ -1,0 +1,7 @@
+{
+  "name": "interclaude",
+  "description": "Enables peer-to-peer communication between Claude Code sessions, allowing them to send messages, hand off tasks, and coordinate across worktrees without manual intervention.",
+  "source_repo": "alexgoodell/interclaude",
+  "source_url": "https://github.com/alexgoodell/interclaude",
+  "install": "# git clone --depth 1 https://github.com/alexgoodell/interclaude\n# See source for mcpServers config block"
+}

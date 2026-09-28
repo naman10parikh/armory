@@ -1,0 +1,7 @@
+{
+  "name": "hyperpanes-mcp",
+  "description": "MCP server for hyperpanes terminal workspace app, enabling AI agents to compose and launch workspace layouts, inspect and drive terminal panes, stream output, and orchestrate agent hierarchies.",
+  "source_repo": "Eyalm321/hyperpanes-mcp",
+  "source_url": "https://github.com/Eyalm321/hyperpanes-mcp",
+  "install": "npx -y hyperpanes-mcp"
+}

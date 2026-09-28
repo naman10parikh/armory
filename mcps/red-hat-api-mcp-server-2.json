@@ -1,0 +1,7 @@
+{
+  "name": "red-hat-api-mcp-server-2",
+  "description": "MCP server providing tools to search Red Hat KCS solutions, retrieve solution details, search cases, and get case details via Red Hat APIs.",
+  "source_repo": "fnarel/hydra-mcp-server",
+  "source_url": "https://github.com/fnarel/hydra-mcp-server",
+  "install": "npx -y hydra-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yodlee-mcp-server",
+  "description": "Connects Claude Desktop to Yodlee financial data, enabling account management, transaction queries, spending summaries, and audio narrations.",
+  "source_repo": "ashishmerani/yodlee-mcp-server",
+  "source_url": "https://github.com/ashishmerani/yodlee-mcp-server",
+  "install": "npx -y yodlee-mcp-server"
+}

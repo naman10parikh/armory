@@ -1,0 +1,7 @@
+{
+  "name": "deskbrid",
+  "description": "Linux desktop HAL for AI agents. One daemon, one socket, every desktop action. GNOME, KDE, Hyprland, X11. Ships in one command.",
+  "source_repo": "coe0718/deskbrid",
+  "source_url": "https://github.com/coe0718/deskbrid",
+  "install": "# git clone --depth 1 https://github.com/coe0718/deskbrid\n# See source for mcpServers config block"
+}

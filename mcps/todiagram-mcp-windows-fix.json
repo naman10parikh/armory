@@ -1,0 +1,7 @@
+{
+  "name": "todiagram-mcp-windows-fix",
+  "description": "Windows-compatible MCP server for ToDiagram that fixes ERR_UNSUPPORTED_ESM_URL_SCHEME on Node.js v22+ on Windows, enabling AI assistants to generate diagrams via ToDiagram.",
+  "source_repo": "JehadurRE/todiagram-mcp-windows-fix",
+  "source_url": "https://github.com/JehadurRE/todiagram-mcp-windows-fix",
+  "install": "# git clone --depth 1 https://github.com/JehadurRE/todiagram-mcp-windows-fix\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openemt-mcp-server",
+  "description": "MCP server for the OpenEMT electromagnetic transient simulator, enabling AI agents to enumerate the physics catalog, build circuits, solve power flow and EMT studies, and query simulation results by stable block ID.",
+  "source_repo": "h-d-engineer/OpenEMT",
+  "source_url": "https://github.com/h-d-engineer/OpenEMT",
+  "install": "# git clone --depth 1 https://github.com/h-d-engineer/OpenEMT\n# See source for mcpServers config block"
+}

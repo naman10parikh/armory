@@ -1,0 +1,7 @@
+{
+  "name": "mcp-lint-server",
+  "description": "Model Context Protocol (MCP) server wrapping mcp-lint to perform static analysis and schema checking on other MCP servers.",
+  "source_repo": "ZachDreamZ/mcp-lint-server",
+  "source_url": "https://github.com/ZachDreamZ/mcp-lint-server",
+  "install": "# git clone --depth 1 https://github.com/ZachDreamZ/mcp-lint-server\n# See source for mcpServers config block"
+}

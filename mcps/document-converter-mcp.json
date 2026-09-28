@@ -1,0 +1,7 @@
+{
+  "name": "document-converter-mcp",
+  "description": "Converts documents between Markdown, PDF, DOCX, and HTML locally with AI-friendly Markdown output and secure file access.",
+  "source_repo": "guanweiqiang/document-convert-mcp",
+  "source_url": "https://github.com/guanweiqiang/document-convert-mcp",
+  "install": "npx -y document-convert-mcp"
+}

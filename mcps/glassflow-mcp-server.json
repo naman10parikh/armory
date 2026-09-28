@@ -1,0 +1,7 @@
+{
+  "name": "glassflow-mcp-server",
+  "description": "Model Context Protocol server for managing and diagnosing GlassFlow streaming pipelines, exposing pipeline CRUD, metrics queries, log search, and a composite diagnostic tool as MCP tools that AI agents can call over SSE transport.",
+  "source_repo": "glassflow/glassflow-mcp-server",
+  "source_url": "https://github.com/glassflow/glassflow-mcp-server",
+  "install": "npx -y glassflow-mcp-server"
+}

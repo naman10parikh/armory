@@ -1,0 +1,7 @@
+{
+  "name": "receita-federal-pgfn-lista-de-devedores",
+  "description": "MCP server for querying the official Brazilian Federal Revenue/PGFN debtor list, offering a single read-only tool with prepaid per-use pricing.",
+  "source_repo": "mcp-dir/receita_federal_pgfn_devedores-mcp",
+  "source_url": "https://github.com/mcp-dir/receita_federal_pgfn_devedores-mcp",
+  "install": "npx -y receita_federal_pgfn_devedores-mcp"
+}

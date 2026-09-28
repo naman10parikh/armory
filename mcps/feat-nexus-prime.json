@@ -1,0 +1,7 @@
+{
+  "name": "feat-nexus-prime",
+  "description": "An institutional-grade algorithmic trading platform that bridges MetaTrader 5 with an autonomous AI cortex for high-frequency data extraction, ML-driven analysis, and autonomous decision-making using the FEAT methodology.",
+  "source_repo": "SrAndres629/feat_sniper_mcp",
+  "source_url": "https://github.com/SrAndres629/feat_sniper_mcp",
+  "install": "npx -y feat_sniper_mcp"
+}

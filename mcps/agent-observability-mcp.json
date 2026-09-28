@@ -1,0 +1,7 @@
+{
+  "name": "agent-observability-mcp",
+  "description": "MCP server for AI agent observability, providing trace and span logging, search, latency/tokens/cost metrics, and anomaly detection using an in-memory buffer.",
+  "source_repo": "AgentIA1984-cmd/agent-observability-mcp",
+  "source_url": "https://github.com/AgentIA1984-cmd/agent-observability-mcp",
+  "install": "npx -y agent-observability-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-atlassian-node-server",
+  "description": "Production-ready MCP server for Atlassian Jira and Confluence, providing tools for issue management, page retrieval, and content operations.",
+  "source_repo": "abuzo/JIRA_MCP",
+  "source_url": "https://github.com/abuzo/JIRA_MCP",
+  "install": "npx -y JIRA_MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "connection-key-mcp-server",
+  "description": "MCP server for Cursor IDE offering tools for Human Design chart analysis, partner matching, n8n workflow management, and utility functions like UUID generation and calculation.",
+  "source_repo": "Heiko888/Connection-Key-MCP-Server",
+  "source_url": "https://github.com/Heiko888/Connection-Key-MCP-Server",
+  "install": "npx -y Connection-Key-MCP-Server"
+}

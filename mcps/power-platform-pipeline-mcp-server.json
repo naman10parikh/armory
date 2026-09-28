@@ -1,0 +1,7 @@
+{
+  "name": "power-platform-pipeline-mcp-server",
+  "description": "Exposes Power Platform Pipeline operations as MCP tools for Copilot Studio agents, enabling pipeline discovery, deployments, approvals, and configuration management.",
+  "source_repo": "MattCollins-Jones/power-platform-pipeline-mcp",
+  "source_url": "https://github.com/MattCollins-Jones/power-platform-pipeline-mcp",
+  "install": "npx -y power-platform-pipeline-mcp"
+}

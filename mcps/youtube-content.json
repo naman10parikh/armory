@@ -1,0 +1,7 @@
+{
+  "name": "youtube-content",
+  "description": "Enables AI-powered YouTube content management using Claude Code to orchestrate research, scripting, and scheduling via Google Sheets, Docs, and Drive.",
+  "source_repo": "codewithabdulrahman/youtube-mcp",
+  "source_url": "https://github.com/codewithabdulrahman/youtube-mcp",
+  "install": "npx -y youtube-mcp"
+}

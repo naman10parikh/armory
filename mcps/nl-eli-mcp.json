@@ -1,0 +1,7 @@
+{
+  "name": "nl-eli-mcp",
+  "description": "An MCP server for Dutch consolidated legislation, enabling AI agents to retrieve acts and their full text in force on a given date with verifiable citations via the official KOOP SRU API.",
+  "source_repo": "matematicsolutions/nl-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/nl-eli-mcp",
+  "install": "npx -y nl-eli-mcp"
+}

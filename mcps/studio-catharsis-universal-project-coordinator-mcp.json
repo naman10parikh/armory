@@ -1,0 +1,7 @@
+{
+  "name": "studio-catharsis-universal-project-coordinator-mcp",
+  "description": "A cross-platform coordination layer that connects MCP-compatible tools to a shared project state, enabling task management, blocker tracking, decision logging, and SOP automation.",
+  "source_repo": "Studio-Catharsis-Creative-Lab/project_com_mcp",
+  "source_url": "https://github.com/Studio-Catharsis-Creative-Lab/project_com_mcp",
+  "install": "npx -y project_com_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentic-remote-pc",
+  "description": "Enables AI agents to securely control a remote Windows/Linux PC via MCP and REST, executing shell commands and driving coding-agent CLIs like Claude, Cursor, and Codex.",
+  "source_repo": "cogniziocompany/agentic-remote-pc",
+  "source_url": "https://github.com/cogniziocompany/agentic-remote-pc",
+  "install": "# git clone --depth 1 https://github.com/cogniziocompany/agentic-remote-pc\n# See source for mcpServers config block"
+}

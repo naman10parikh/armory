@@ -1,0 +1,7 @@
+{
+  "name": "yoru-studio-mcp",
+  "description": "MCP server for Yoru Studio that lets AI agents read projects, schedules, and inbox, and safely append inspiration, storyboard shots, and execution records to a creator's self-hosted workspace.",
+  "source_repo": "yoruuuchan/yoru-studio-oss",
+  "source_url": "https://github.com/yoruuuchan/yoru-studio-oss",
+  "install": "# git clone --depth 1 https://github.com/yoruuuchan/yoru-studio-oss\n# See source for mcpServers config block"
+}

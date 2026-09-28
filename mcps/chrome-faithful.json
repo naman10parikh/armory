@@ -1,0 +1,7 @@
+{
+  "name": "chrome-faithful",
+  "description": "An MCP server that gives AI agents faithful control of real, logged-in Chrome profiles via a secure local bridge and extension, with exact multi-profile routing and no debug profiles or remote debugging ports.",
+  "source_repo": "bpc-oss/chrome-faithful",
+  "source_url": "https://github.com/bpc-oss/chrome-faithful",
+  "install": "# git clone --depth 1 https://github.com/bpc-oss/chrome-faithful\n# See source for mcpServers config block"
+}

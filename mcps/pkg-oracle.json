@@ -1,0 +1,7 @@
+{
+  "name": "pkg-oracle",
+  "description": "An MCP server that verifies npm and PyPI packages before installation, checking for existence, known vulnerabilities, OpenSSF scorecard, and typosquatting, returning an ALLOW/WARN/BLOCK verdict.",
+  "source_repo": "julian-martin89/pkg-oracle",
+  "source_url": "https://github.com/julian-martin89/pkg-oracle",
+  "install": "# git clone --depth 1 https://github.com/julian-martin89/pkg-oracle\n# See source for mcpServers config block"
+}

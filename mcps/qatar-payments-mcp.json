@@ -1,0 +1,7 @@
+{
+  "name": "qatar-payments-mcp",
+  "description": "Enables AI agents to accept Qatari payments (cards, Apple Pay, Google Pay) via Tap Payments hosted checkout.",
+  "source_repo": "junter1989k-ai/qatar-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/qatar-payments-mcp",
+  "install": "npx -y qatar-payments-mcp"
+}

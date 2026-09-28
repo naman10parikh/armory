@@ -1,0 +1,7 @@
+{
+  "name": "tomba-io-mcp-server",
+  "description": "Integrates with the Tomba.io API to provide email discovery, verification, enrichment, phone lookup, and company research capabilities through standardized MCP tools, resources, and prompts.",
+  "source_repo": "tomba-io/tomba-mcp-server",
+  "source_url": "https://github.com/tomba-io/tomba-mcp-server",
+  "install": "npx -y tomba-mcp-server"
+}

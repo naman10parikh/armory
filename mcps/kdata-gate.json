@@ -1,0 +1,7 @@
+{
+  "name": "kdata-gate",
+  "description": "Korean market data for AI agents and e-commerce sellers sourcing from Korea — K-beauty/K-food/K-pop product search, Naver search trends, Korean stocks with English DART disclosure summaries, apartment transactions, tourism, and weather. English JSON. 13 tools. Free pilot: preview works without any k",
+  "source_repo": "",
+  "source_url": "https://kdata-gate.vercel.app",
+  "install": "# git clone --depth 1 https://kdata-gate.vercel.app\n# See source for mcpServers config block"
+}

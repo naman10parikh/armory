@@ -1,0 +1,7 @@
+{
+  "name": "headless-lead-scraping-mcp-server",
+  "description": "MCP server for real-time public-web lead research without search API keys, using Google Maps and web search engines with LLM-based extraction, crawling, and local lead storage/export.",
+  "source_repo": "imshibaji/leads-scrapper-mcp",
+  "source_url": "https://github.com/imshibaji/leads-scrapper-mcp",
+  "install": "npx -y leads-scrapper-mcp"
+}

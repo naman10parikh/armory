@@ -1,0 +1,7 @@
+{
+  "name": "confluence-markdown",
+  "description": "MCP server for bidirectional Markdown-to-Confluence sync, enabling download and publish of Confluence pages as Markdown with images, frontmatter tracking, and dry-run safety.",
+  "source_repo": "Dan-Rebura/confluence-markdown",
+  "source_url": "https://github.com/Dan-Rebura/confluence-markdown",
+  "install": "# git clone --depth 1 https://github.com/Dan-Rebura/confluence-markdown\n# See source for mcpServers config block"
+}

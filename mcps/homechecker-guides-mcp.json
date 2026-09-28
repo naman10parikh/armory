@@ -1,0 +1,7 @@
+{
+  "name": "homechecker-guides-mcp",
+  "description": "Provides read-only access to Homechecker's Australian residential-building guidance corpus, with tools for listing, searching, retrieving guides, and generating buyer checklists.",
+  "source_repo": "Steven3265/homechecker-guides-mcp",
+  "source_url": "https://github.com/Steven3265/homechecker-guides-mcp",
+  "install": "npx -y homechecker-guides-mcp"
+}

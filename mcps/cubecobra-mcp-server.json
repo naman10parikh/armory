@@ -1,0 +1,7 @@
+{
+  "name": "cubecobra-mcp-server",
+  "description": "MCP server for CubeCobra that enables fetching cube lists, CSV, JSON, plaintext, and record data. It supports optional authentication for private endpoints and configurable base URL.",
+  "source_repo": "andrewanderson/cubecobra-mcp",
+  "source_url": "https://github.com/andrewanderson/cubecobra-mcp",
+  "install": "npx -y cubecobra-mcp"
+}

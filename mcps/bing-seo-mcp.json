@@ -1,0 +1,7 @@
+{
+  "name": "bing-seo-mcp",
+  "description": "Provides AI agents full access to Bing Webmaster Tools API for site management, URL submission, sitemaps, traffic stats, keyword research, and URL blocking.",
+  "source_repo": "skiddgoddamn/bing-seo-mcp",
+  "source_url": "https://github.com/skiddgoddamn/bing-seo-mcp",
+  "install": "npx -y bing-seo-mcp"
+}

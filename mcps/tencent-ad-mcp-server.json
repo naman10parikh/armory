@@ -1,0 +1,7 @@
+{
+  "name": "tencent-ad-mcp-server",
+  "description": "Wraps all Tencent Ads Marketing API v3.0 endpoints as MCP tools, enabling AI assistants to directly manage ads, creatives, reports, and more via natural language.",
+  "source_repo": "andyleimc-source/tencent-ad-mcp",
+  "source_url": "https://github.com/andyleimc-source/tencent-ad-mcp",
+  "install": "npx -y tencent-ad-mcp"
+}

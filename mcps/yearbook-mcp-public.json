@@ -1,0 +1,7 @@
+{
+  "name": "yearbook-mcp-public",
+  "description": "e-yearbook.com MCP (Model Context Protocol) server. The server lets any MCP-aware AI agent search over 300,000 U.S. yearbooks indexed by name. Over 22,000 schools across all 50 U.S. states and territories Over 300,000 distinct (school, year) yearbooks Over 100M extracted person mentions",
+  "source_repo": "bryanmichael-hue/yearbook-mcp-public",
+  "source_url": "https://github.com/bryanmichael-hue/yearbook-mcp-public",
+  "install": "# git clone --depth 1 https://github.com/bryanmichael-hue/yearbook-mcp-public\n# See source for mcpServers config block"
+}

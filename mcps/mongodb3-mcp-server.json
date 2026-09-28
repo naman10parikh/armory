@@ -1,0 +1,7 @@
+{
+  "name": "mongodb3-mcp-server",
+  "description": "A lightweight MCP server for MongoDB 3.6+ providing read, write, metadata, and management tools.",
+  "source_repo": "chenfukun/mongodb3-mcp-server",
+  "source_url": "https://github.com/chenfukun/mongodb3-mcp-server",
+  "install": "npx -y mongodb3-mcp-server"
+}

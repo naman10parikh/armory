@@ -1,0 +1,7 @@
+{
+  "name": "wsdot-mcp-server",
+  "description": "Query WA highway conditions, ferry schedules, vessel locations, toll rates, border waits, and alerts via MCP.",
+  "source_repo": "cyanheads/wsdot-mcp-server",
+  "source_url": "https://github.com/cyanheads/wsdot-mcp-server",
+  "install": "npx -y wsdot-mcp-server"
+}

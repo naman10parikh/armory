@@ -1,0 +1,7 @@
+{
+  "name": "sixty-sh-mcp",
+  "description": "Enables coding agents to read performance findings from sixty, get detailed evidence for each finding, and close or resolve them with descriptions, while also checking service telemetry and providing installation instructions.",
+  "source_repo": "sixty-sh/sixty-mcp",
+  "source_url": "https://github.com/sixty-sh/sixty-mcp",
+  "install": "npx -y sixty-mcp"
+}

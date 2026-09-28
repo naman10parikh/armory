@@ -1,0 +1,7 @@
+{
+  "name": "voice-mcp-server",
+  "description": "Enables AI agents to speak and listen in real-time with interruption handling, using local ML models and hot-swappable adapters.",
+  "source_repo": "erickvs/voice-mcp-server",
+  "source_url": "https://github.com/erickvs/voice-mcp-server",
+  "install": "npx -y voice-mcp-server"
+}

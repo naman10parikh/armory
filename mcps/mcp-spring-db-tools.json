@@ -1,0 +1,7 @@
+{
+  "name": "mcp-spring-db-tools",
+  "description": "Enables database schema querying and execution plan analysis for Spring Boot projects. Supports multiple databases including MySQL, PostgreSQL, MSSQL, and SQLite.",
+  "source_repo": "yslee1126/spring-mcp-db-tools",
+  "source_url": "https://github.com/yslee1126/spring-mcp-db-tools",
+  "install": "# git clone --depth 1 https://github.com/yslee1126/spring-mcp-db-tools\n# See source for mcpServers config block"
+}

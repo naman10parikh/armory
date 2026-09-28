@@ -1,0 +1,7 @@
+{
+  "name": "smails",
+  "description": "Disposable email for humans and AI agents. Enables AI agents to create mailboxes and receive verification emails through an MCP server.",
+  "source_repo": "pexni/smails",
+  "source_url": "https://github.com/pexni/smails",
+  "install": "# git clone --depth 1 https://github.com/pexni/smails\n# See source for mcpServers config block"
+}

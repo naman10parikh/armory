@@ -1,0 +1,7 @@
+{
+  "name": "acuris-agent-guard",
+  "description": "MCP server that verifies storefront merchants before AI agents make payments, checking if the merchant is a real legal entity bound to the domain, and returning a PROCEED, ABORT, or REVIEW decision to prevent payment to clones or fraudulent stores.",
+  "source_repo": "Acuris-GmbH/acuris-agent-guard",
+  "source_url": "https://github.com/Acuris-GmbH/acuris-agent-guard",
+  "install": "# git clone --depth 1 https://github.com/Acuris-GmbH/acuris-agent-guard\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "snipeit-mcp",
+  "description": "Read-only MCP server for Snipe-IT v7 REST API, providing search and retrieval of assets, users, models, categories, and locations without modification.",
+  "source_repo": "chiku-wa/snipeit-mcp",
+  "source_url": "https://github.com/chiku-wa/snipeit-mcp",
+  "install": "npx -y snipeit-mcp"
+}

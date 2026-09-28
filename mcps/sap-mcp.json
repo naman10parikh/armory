@@ -1,0 +1,7 @@
+{
+  "name": "sap-mcp",
+  "description": "Use the SAP MCP Wizard or install the library from the npm registry to automatically create and configure a Solana/SAP wallet via https://mcp.sap.oobeprotocol.ai",
+  "source_repo": "",
+  "source_url": "https://mcp.sap.oobeprotocol.ai/",
+  "install": "# git clone --depth 1 https://mcp.sap.oobeprotocol.ai/\n# See source for mcpServers config block"
+}

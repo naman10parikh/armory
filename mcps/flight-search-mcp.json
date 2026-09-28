@@ -1,0 +1,7 @@
+{
+  "name": "flight-search-mcp",
+  "description": "An MCP server for live flight tracking and real-time status checks, including airport and airline code resolution, powered by the free AviationStack API.",
+  "source_repo": "PythonicMind2/flight-search-mcp",
+  "source_url": "https://github.com/PythonicMind2/flight-search-mcp",
+  "install": "npx -y flight-search-mcp"
+}

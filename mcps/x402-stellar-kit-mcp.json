@@ -1,0 +1,7 @@
+{
+  "name": "x402-stellar-kit-mcp",
+  "description": "Enables HTTP 402 payment protocol interactions on Stellar, allowing payment intent probing, guarded paid fetches, and budget status queries.",
+  "source_repo": "CodeStrux/x402-stellar-kit",
+  "source_url": "https://github.com/CodeStrux/x402-stellar-kit",
+  "install": "# git clone --depth 1 https://github.com/CodeStrux/x402-stellar-kit\n# See source for mcpServers config block"
+}

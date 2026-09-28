@@ -1,0 +1,7 @@
+{
+  "name": "notebooklm-codex",
+  "description": "Enables Codex to interact with Google NotebookLM, allowing it to list notebooks, add sources, ask questions, and generate audio overviews.",
+  "source_repo": "knowingdoing/notebooklm-codex",
+  "source_url": "https://github.com/knowingdoing/notebooklm-codex",
+  "install": "# git clone --depth 1 https://github.com/knowingdoing/notebooklm-codex\n# See source for mcpServers config block"
+}

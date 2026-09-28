@@ -1,0 +1,7 @@
+{
+  "name": "stock-rag-mcp",
+  "description": "Enables RAG-based querying of local stock company data using a local LLM and vector database, providing tools to ask questions, search raw chunks, and list documents.",
+  "source_repo": "hemanthkumarkp/stock-analysis-rag-langchain-olama-mcp",
+  "source_url": "https://github.com/hemanthkumarkp/stock-analysis-rag-langchain-olama-mcp",
+  "install": "npx -y stock-analysis-rag-langchain-olama-mcp"
+}

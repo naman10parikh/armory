@@ -1,0 +1,7 @@
+{
+  "name": "coren-sp-cadastro",
+  "description": "Read-only MCP server for querying official nursing council registration data from São Paulo, Brazil. Enables natural-language lookups of professional cadastros via a hosted API.",
+  "source_repo": "mcp-dir/coren_sp_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/coren_sp_cadastro-mcp",
+  "install": "npx -y coren_sp_cadastro-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "silicon-sampling",
+  "description": "MCP server that implements a cognitive survey response framework by storing persona information in a modular database and allowing LLMs to selectively retrieve relevant modules for each survey question.",
+  "source_repo": "XuanyouLiu/silicon-sampling-mcp",
+  "source_url": "https://github.com/XuanyouLiu/silicon-sampling-mcp",
+  "install": "npx -y silicon-sampling-mcp"
+}

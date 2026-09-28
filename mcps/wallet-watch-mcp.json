@@ -1,0 +1,7 @@
+{
+  "name": "wallet-watch-mcp",
+  "description": "MCP server that exposes the wallet-watch subscription-tracking REST API as tools for AI assistants, enabling natural language management of subscriptions including listing, renewal forecasts, spend summaries, and actions like snoozing or downgrading.",
+  "source_repo": "ykchethan/walletwatch-mcp",
+  "source_url": "https://github.com/ykchethan/walletwatch-mcp",
+  "install": "npx -y walletwatch-mcp"
+}

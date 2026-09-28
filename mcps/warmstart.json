@@ -1,0 +1,7 @@
+{
+  "name": "warmstart",
+  "description": "An MCP server that exposes a verified manifest of a repository's development commands, allowing AI coding agents to instantly learn the correct dev loop without trial-and-error.",
+  "source_repo": "dadwritestech/warmstart",
+  "source_url": "https://github.com/dadwritestech/warmstart",
+  "install": "# git clone --depth 1 https://github.com/dadwritestech/warmstart\n# See source for mcpServers config block"
+}

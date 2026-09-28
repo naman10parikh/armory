@@ -1,0 +1,7 @@
+{
+  "name": "mcp-komodo",
+  "description": "MCP server for the Komodo DevOps platform that enables managing servers, stacks, deployments, builds, and more through natural language.",
+  "source_repo": "Samik081/mcp-komodo",
+  "source_url": "https://github.com/Samik081/mcp-komodo",
+  "install": "# git clone --depth 1 https://github.com/Samik081/mcp-komodo\n# See source for mcpServers config block"
+}

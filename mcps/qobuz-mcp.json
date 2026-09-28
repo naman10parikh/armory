@@ -1,0 +1,7 @@
+{
+  "name": "qobuz-mcp",
+  "description": "Connects your Qobuz account to Claude for music search, playlist management, favorites browsing, and streaming URL retrieval through natural conversation.",
+  "source_repo": "DannyIsYog/qobuz-mcp",
+  "source_url": "https://github.com/DannyIsYog/qobuz-mcp",
+  "install": "npx -y qobuz-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tripnow-mcp",
+  "description": "Enables real-time flight and train ticket queries, dynamic trip tracking, and knowledge-based Q&A about rail and aviation policies.",
+  "source_repo": "huoliAgi/tripnow-mcp",
+  "source_url": "https://github.com/huoliAgi/tripnow-mcp",
+  "install": "npx -y tripnow-mcp"
+}

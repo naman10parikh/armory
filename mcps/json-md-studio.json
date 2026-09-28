@@ -1,0 +1,7 @@
+{
+  "name": "json-md-studio",
+  "description": "A local MCP server that enables AI agents to securely read, write, search, and edit JSON and Markdown files through a gated permission-scoped interface with configurable access modes.",
+  "source_repo": "kongtou-1/Json-Markdown-Studio",
+  "source_url": "https://github.com/kongtou-1/Json-Markdown-Studio",
+  "install": "# git clone --depth 1 https://github.com/kongtou-1/Json-Markdown-Studio\n# See source for mcpServers config block"
+}

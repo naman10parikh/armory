@@ -1,0 +1,7 @@
+{
+  "name": "bugsmash-mcp",
+  "description": "MCP server that lets LLMs read and manage BugSmash reviewer feedback while keeping the API key private.",
+  "source_repo": "mxrcochxvez/bugsmash_mcp",
+  "source_url": "https://github.com/mxrcochxvez/bugsmash_mcp",
+  "install": "npx -y bugsmash_mcp"
+}

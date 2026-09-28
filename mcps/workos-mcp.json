@@ -1,0 +1,7 @@
+{
+  "name": "workos-mcp",
+  "description": "This MCP server allows agents to interact with the WorkOS API.",
+  "source_repo": "mcpflow/workos-mcp",
+  "source_url": "https://github.com/mcpflow/workos-mcp",
+  "install": "npx -y workos-mcp"
+}

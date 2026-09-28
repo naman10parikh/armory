@@ -1,0 +1,7 @@
+{
+  "name": "herdr-mesh",
+  "description": "Enables safe coordination of Herdr coding agents with lease-scoped reviewer and writer lifecycles, semantic waits for agent states, and read-only topology inspection, while prohibiting arbitrary shell execution and unscoped lifecycle operations.",
+  "source_repo": "nativestrider/herdr-mesh-safe",
+  "source_url": "https://github.com/nativestrider/herdr-mesh-safe",
+  "install": "# git clone --depth 1 https://github.com/nativestrider/herdr-mesh-safe\n# See source for mcpServers config block"
+}

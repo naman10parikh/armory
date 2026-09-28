@@ -1,0 +1,7 @@
+{
+  "name": "jucesp-lista-de-documentos",
+  "description": "Lists archived company documents from the JUCESP registry using a NIRE number, accessible via MCP over HTTP with a single read-only tool.",
+  "source_repo": "mcp-dir/jucesp_documentos-mcp",
+  "source_url": "https://github.com/mcp-dir/jucesp_documentos-mcp",
+  "install": "npx -y jucesp_documentos-mcp"
+}

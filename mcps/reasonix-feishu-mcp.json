@@ -1,0 +1,7 @@
+{
+  "name": "reasonix-feishu-mcp",
+  "description": "MCP server for Feishu/Lark API integration, enabling AI agents to send messages, manage groups, create and edit documents and spreadsheets, and search knowledge bases.",
+  "source_repo": "Monc618/reasonix-feishu-mcp",
+  "source_url": "https://github.com/Monc618/reasonix-feishu-mcp",
+  "install": "npx -y reasonix-feishu-mcp"
+}

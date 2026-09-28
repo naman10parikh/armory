@@ -1,0 +1,7 @@
+{
+  "name": "wechat-devtools-mcp",
+  "description": "Wraps the WeChat DevTools CLI as an MCP service, enabling AI in editors to call WeChat CLI commands for mini-program development, testing, debugging, and automation.",
+  "source_repo": "WaterTian/wechat-devtools-mcp",
+  "source_url": "https://github.com/WaterTian/wechat-devtools-mcp",
+  "install": "npx -y wechat-devtools-mcp"
+}

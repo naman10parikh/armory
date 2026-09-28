@@ -1,0 +1,7 @@
+{
+  "name": "ios-ble-mcp-bridge",
+  "description": "Enables AI agents to control iOS BLE devices through a WebSocket bridge and Safari extension, allowing scanning, connecting, reading, and writing BLE characteristics from an iPhone.",
+  "source_repo": "zhy1369800/ble-mcp-bridge",
+  "source_url": "https://github.com/zhy1369800/ble-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/zhy1369800/ble-mcp-bridge\n# See source for mcpServers config block"
+}

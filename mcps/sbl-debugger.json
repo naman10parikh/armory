@@ -1,0 +1,7 @@
+{
+  "name": "sbl-debugger",
+  "description": "Enables AI assistants to debug ARM Cortex-M targets via GDB and OpenOCD, supporting attach, breakpoints, stepping, register/memory inspection, and SVD peripheral decoding.",
+  "source_repo": "soundbytelabs/sbl-debugger-mcp",
+  "source_url": "https://github.com/soundbytelabs/sbl-debugger-mcp",
+  "install": "npx -y sbl-debugger-mcp"
+}

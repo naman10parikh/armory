@@ -1,0 +1,7 @@
+{
+  "name": "cutshort-jobs-scraper",
+  "description": "Scrapes tech job listings from Cutshort.io with full details such as salary, skills, and company info, supporting pagination and proxy configuration. Designed for AI agents via MCP.",
+  "source_repo": "roshtarg-cpu/cutshort-jobs-scraper",
+  "source_url": "https://github.com/roshtarg-cpu/cutshort-jobs-scraper",
+  "install": "# git clone --depth 1 https://github.com/roshtarg-cpu/cutshort-jobs-scraper\n# See source for mcpServers config block"
+}

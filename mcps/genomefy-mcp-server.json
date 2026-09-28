@@ -1,0 +1,7 @@
+{
+  "name": "genomefy-mcp-server",
+  "description": "Provides a local context-memory layer for AI assistants, enabling retrieval-augmented queries, explanations, feedback, and status checks via MCP tools.",
+  "source_repo": "tallesnicacio/genomefy",
+  "source_url": "https://github.com/tallesnicacio/genomefy",
+  "install": "# git clone --depth 1 https://github.com/tallesnicacio/genomefy\n# See source for mcpServers config block"
+}

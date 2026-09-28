@@ -1,0 +1,7 @@
+{
+  "name": "mcp-node-tasks-02-primitives",
+  "description": "MCP server for managing tasks with a resource to read all tasks, a tool to add tasks, and a prompt to analyze tasks, using stdio transport.",
+  "source_repo": "krollchristensen/mcp-node-tasks-02-primitives",
+  "source_url": "https://github.com/krollchristensen/mcp-node-tasks-02-primitives",
+  "install": "# git clone --depth 1 https://github.com/krollchristensen/mcp-node-tasks-02-primitives\n# See source for mcpServers config block"
+}

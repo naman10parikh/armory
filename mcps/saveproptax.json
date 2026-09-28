@@ -1,0 +1,7 @@
+{
+  "name": "saveproptax",
+  "description": "Allows agents to check and file California Prop 8 property tax reduction in an automated way",
+  "source_repo": "atifnayeem-oss/saveproptax-mcp",
+  "source_url": "https://github.com/atifnayeem-oss/saveproptax-mcp",
+  "install": "npx -y saveproptax-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "coderag",
+  "description": "Enables natural-language Q&A over codebases via MCP, using AST-aware chunking, hybrid retrieval, reranking, and call-graph expansion to answer with file:line citations and impact analysis.",
+  "source_repo": "azraf122312/RepoSage",
+  "source_url": "https://github.com/azraf122312/RepoSage",
+  "install": "# git clone --depth 1 https://github.com/azraf122312/RepoSage\n# See source for mcpServers config block"
+}

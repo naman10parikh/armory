@@ -1,0 +1,7 @@
+{
+  "name": "url-metadata-api",
+  "description": "Provides URL metadata extraction (title, description, image, site name) from OpenGraph and meta tags for link previews.",
+  "source_repo": "nexus-mcp-infra/url-metadata-api",
+  "source_url": "https://github.com/nexus-mcp-infra/url-metadata-api",
+  "install": "# git clone --depth 1 https://github.com/nexus-mcp-infra/url-metadata-api\n# See source for mcpServers config block"
+}

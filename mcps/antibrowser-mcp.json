@@ -1,0 +1,7 @@
+{
+  "name": "antibrowser-mcp",
+  "description": "Enables LLM agents to browse and interact with web pages using a stealth Chromium browser, with an accessibility-tree interface for low token usage.",
+  "source_repo": "reacerland/antibrowser-mcp",
+  "source_url": "https://github.com/reacerland/antibrowser-mcp",
+  "install": "npx -y antibrowser-mcp"
+}

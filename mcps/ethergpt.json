@@ -1,0 +1,7 @@
+{
+  "name": "ethergpt",
+  "description": "A secure MCP server that gives ChatGPT access to local terminal, files, and background processes, and lets it discover, manage, and call any registered MCP server on the machine.",
+  "source_repo": "etherman-os/EtherGPT",
+  "source_url": "https://github.com/etherman-os/EtherGPT",
+  "install": "# git clone --depth 1 https://github.com/etherman-os/EtherGPT\n# See source for mcpServers config block"
+}

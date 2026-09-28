@@ -1,0 +1,7 @@
+{
+  "name": "sau-mcp",
+  "description": "MCP server wrapping social-auto-upload CLI for AI clients to verify cookies and publish videos/notes to Chinese social platforms (Douyin, Kuaishou, Xiaohongshu, Bilibili).",
+  "source_repo": "xyc667/sau-mcp",
+  "source_url": "https://github.com/xyc667/sau-mcp",
+  "install": "npx -y sau-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cognify-mcp-server",
+  "description": "Enables document ingestion and typed knowledge graph queries through Claude MCP tools, allowing agents to extract, store, and retrieve typed entities and relations from documents.",
+  "source_repo": "S3YED/cognify",
+  "source_url": "https://github.com/S3YED/cognify",
+  "install": "# git clone --depth 1 https://github.com/S3YED/cognify\n# See source for mcpServers config block"
+}

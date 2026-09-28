@@ -1,0 +1,7 @@
+{
+  "name": "wa",
+  "description": "Enables AI agents to interact with WhatsApp through a safety-first MCP server, with tools for sending messages, media, searching chats, and managing drafts, all governed by default-deny allowlists and non-overridable rate limits.",
+  "source_repo": "yolo-labz/wa",
+  "source_url": "https://github.com/yolo-labz/wa",
+  "install": "# git clone --depth 1 https://github.com/yolo-labz/wa\n# See source for mcpServers config block"
+}

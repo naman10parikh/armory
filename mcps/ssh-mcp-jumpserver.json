@@ -1,0 +1,7 @@
+{
+  "name": "ssh-mcp-jumpserver",
+  "description": "Enables AI agents to execute commands on remote servers via SSH with dynamic host discovery through JumpServer and automatic username fallback.",
+  "source_repo": "helloNice/ssh-mcp-jumpserver",
+  "source_url": "https://github.com/helloNice/ssh-mcp-jumpserver",
+  "install": "# git clone --depth 1 https://github.com/helloNice/ssh-mcp-jumpserver\n# See source for mcpServers config block"
+}

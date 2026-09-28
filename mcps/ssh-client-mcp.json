@@ -1,0 +1,7 @@
+{
+  "name": "ssh-client-mcp",
+  "description": "SSH/SFTP server enabling remote command execution and secure file transfers, with integration for Claude AI.",
+  "source_repo": "moinugare19/ssh-client-mcp",
+  "source_url": "https://github.com/moinugare19/ssh-client-mcp",
+  "install": "npx -y ssh-client-mcp"
+}

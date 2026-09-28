@@ -1,0 +1,7 @@
+{
+  "name": "esp32-docs-mcp",
+  "description": "An MCP server providing semantic search over ESP32 documentation, including ESP-IDF guides, API references, and Technical Reference Manuals, enabling coding agents to look up ESP32 facts locally with accurate, chip-specific results.",
+  "source_repo": "ozonejunkieau/esp32-docs-mcp",
+  "source_url": "https://github.com/ozonejunkieau/esp32-docs-mcp",
+  "install": "npx -y esp32-docs-mcp"
+}

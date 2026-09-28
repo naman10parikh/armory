@@ -1,0 +1,7 @@
+{
+  "name": "sintegra-rn",
+  "description": "A read-only MCP server that consults official SINTEGRA RN (Rio Grande do Norte) tax data via a hosted, pay-per-use API, working with any MCP-compatible client.",
+  "source_repo": "mcp-dir/sintegra_rn-mcp",
+  "source_url": "https://github.com/mcp-dir/sintegra_rn-mcp",
+  "install": "npx -y sintegra_rn-mcp"
+}

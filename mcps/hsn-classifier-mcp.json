@@ -1,0 +1,7 @@
+{
+  "name": "hsn-classifier-mcp",
+  "description": "Indian HSN/GST code lookup by description (4,676 entries)",
+  "source_repo": "guptaprakhariitr/hsn-classifier-mcp",
+  "source_url": "https://github.com/guptaprakhariitr/hsn-classifier-mcp",
+  "install": "npx -y hsn-classifier-mcp"
+}

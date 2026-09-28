@@ -1,0 +1,7 @@
+{
+  "name": "clinicaltrials-gov-mcp-server-oncohub",
+  "description": "A production-quality MCP server that wraps the ClinicalTrials.gov v2 API, providing structured, TTL-cached access to trial data worldwide and Turkey via 4 MCP tools.",
+  "source_repo": "baris-varis/Initial-CT-MSP-MCP-server",
+  "source_url": "https://github.com/baris-varis/Initial-CT-MSP-MCP-server",
+  "install": "npx -y Initial-CT-MSP-MCP-server"
+}

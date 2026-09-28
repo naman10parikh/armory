@@ -1,0 +1,7 @@
+{
+  "name": "multimodal-rag-mcp-server",
+  "description": "Connects Claude to a personal knowledge base with hybrid search over code, documents, and images. Allows the AI assistant to retrieve and answer from your own files during conversations.",
+  "source_repo": "brett-hardiman/multi-modal-rag-project",
+  "source_url": "https://github.com/brett-hardiman/multi-modal-rag-project",
+  "install": "# git clone --depth 1 https://github.com/brett-hardiman/multi-modal-rag-project\n# See source for mcpServers config block"
+}

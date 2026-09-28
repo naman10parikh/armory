@@ -1,0 +1,7 @@
+{
+  "name": "pr-reviewer-mcp",
+  "description": "An MCP server exposing AI-powered GitHub PR review as tools.",
+  "source_repo": "srivastava-aryan/cmw-mcp",
+  "source_url": "https://github.com/srivastava-aryan/cmw-mcp",
+  "install": "npx -y cmw-mcp"
+}

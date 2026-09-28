@@ -1,0 +1,7 @@
+{
+  "name": "io-github-diegobr4nd-godot-gut-mcp",
+  "description": "Enables AI assistants to run Godot unit tests using GUT and read results in a structured format",
+  "source_repo": "DiegoBr4nd/godot-gut-mcp",
+  "source_url": "https://github.com/DiegoBr4nd/godot-gut-mcp",
+  "install": "npx -y godot-gut-mcp"
+}

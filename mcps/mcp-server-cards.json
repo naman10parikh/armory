@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-cards",
+  "description": "Generates, validates, and discovers standardized MCP server cards for automatic agent discovery.",
+  "source_repo": "AiAgentKarl/agent-server-card-mcp",
+  "source_url": "https://github.com/AiAgentKarl/agent-server-card-mcp",
+  "install": "npx -y agent-server-card-mcp"
+}

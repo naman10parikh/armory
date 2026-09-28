@@ -1,0 +1,7 @@
+{
+  "name": "paper-organizer-mcp",
+  "description": "Scans local folders for PDF papers, extracts title/abstract text, and moves files to categorized folders based on classification decisions made by Claude or another MCP server.",
+  "source_repo": "iapke486-arch/paper-organizer-mcp",
+  "source_url": "https://github.com/iapke486-arch/paper-organizer-mcp",
+  "install": "npx -y paper-organizer-mcp"
+}

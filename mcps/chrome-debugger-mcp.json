@@ -1,0 +1,7 @@
+{
+  "name": "chrome-debugger-mcp",
+  "description": "Enables AI agents to attach to Chrome tabs, set breakpoints, inspect scope variables, evaluate expressions, and step through code using Chrome DevTools Protocol for runtime debugging.",
+  "source_repo": "BitePro/chrome-debugger-mcp",
+  "source_url": "https://github.com/BitePro/chrome-debugger-mcp",
+  "install": "npx -y chrome-debugger-mcp"
+}

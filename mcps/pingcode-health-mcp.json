@@ -1,0 +1,7 @@
+{
+  "name": "pingcode-health-mcp",
+  "description": "An MCP server for monitoring PingCode project health, enabling PMs to query project status, sprint progress, and risk items directly from Claude Code.",
+  "source_repo": "chercr/pingcode-health-mcp",
+  "source_url": "https://github.com/chercr/pingcode-health-mcp",
+  "install": "npx -y pingcode-health-mcp"
+}

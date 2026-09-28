@@ -1,0 +1,7 @@
+{
+  "name": "text-file-read-and-refactor-mcp",
+  "description": "Token-efficient Python stdio MCP server exposing safe text-file search, reading, and refactoring tools.",
+  "source_repo": "FI-Mihej/text_file_read_and_refactor_mcp",
+  "source_url": "https://github.com/FI-Mihej/text_file_read_and_refactor_mcp",
+  "install": "npx -y text_file_read_and_refactor_mcp"
+}

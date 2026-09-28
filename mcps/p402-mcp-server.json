@@ -1,0 +1,7 @@
+{
+  "name": "p402-mcp-server",
+  "description": "AI payment router for routing across 300+ LLM models with per-request USDC settlement on Base and Tempo, session budgets, and x402 payments via the MCP protocol.",
+  "source_repo": "Z333Q/p402-protocol",
+  "source_url": "https://github.com/Z333Q/p402-protocol",
+  "install": "# git clone --depth 1 https://github.com/Z333Q/p402-protocol\n# See source for mcpServers config block"
+}

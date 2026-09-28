@@ -1,0 +1,7 @@
+{
+  "name": "myersparkathleticzone-mcp",
+  "description": "MCP server for Myers Park High School athletics, providing public access to schedules, teams, rosters, coaches, news, and game broadcast links.",
+  "source_repo": "chrischall/myersparkathleticzone-mcp",
+  "source_url": "https://github.com/chrischall/myersparkathleticzone-mcp",
+  "install": "npx -y myersparkathleticzone-mcp"
+}

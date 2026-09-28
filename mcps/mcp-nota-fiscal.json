@@ -1,0 +1,7 @@
+{
+  "name": "mcp-nota-fiscal",
+  "description": "Enables AI assistants to interact with Brazilian electronic invoices (NF-e, NFC-e, NFS-e) via Nuvem Fiscal API, including CNPJ lookup, invoice issuance, cancellation, and PDF generation.",
+  "source_repo": "rodrigo-do-carmo/mcp-nota-fiscal",
+  "source_url": "https://github.com/rodrigo-do-carmo/mcp-nota-fiscal",
+  "install": "# git clone --depth 1 https://github.com/rodrigo-do-carmo/mcp-nota-fiscal\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "godbolt-compiler-explorer-mcp",
+  "description": "Enables compiling source code and exploring assembly outputs via the Godbolt Compiler Explorer API. Supports multiple languages, compilers, and optimization levels.",
+  "source_repo": "Benestar/godbolt-mcp",
+  "source_url": "https://github.com/Benestar/godbolt-mcp",
+  "install": "npx -y godbolt-mcp"
+}

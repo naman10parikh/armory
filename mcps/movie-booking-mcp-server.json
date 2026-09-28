@@ -1,0 +1,7 @@
+{
+  "name": "movie-booking-mcp-server",
+  "description": "Enables searching for movies, checking Google Calendar for conflicts, and booking tickets with seat type and INR pricing, all through natural conversation. Supports demo mode without API keys.",
+  "source_repo": "aditya17koushik/MCP-movie-booking-server",
+  "source_url": "https://github.com/aditya17koushik/MCP-movie-booking-server",
+  "install": "# git clone --depth 1 https://github.com/aditya17koushik/MCP-movie-booking-server\n# See source for mcpServers config block"
+}

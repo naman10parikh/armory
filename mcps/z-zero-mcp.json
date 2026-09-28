@@ -1,0 +1,7 @@
+{
+  "name": "z-zero-mcp",
+  "description": "Payment infrastructure MCP server enabling AI agents to make gasless USDC payments on Base and JIT single-use virtual card checkouts, with zero-trust card handling, merchant checkout hints, and signed receipts.",
+  "source_repo": "Dempty-glitch/Z-Zero-mcp",
+  "source_url": "https://github.com/Dempty-glitch/Z-Zero-mcp",
+  "install": "npx -y Z-Zero-mcp"
+}

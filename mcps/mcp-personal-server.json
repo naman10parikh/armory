@@ -1,0 +1,7 @@
+{
+  "name": "mcp-personal-server",
+  "description": "Enables AI models to securely read, write, and query metadata of local files through a controlled file system interface, with support for local and Azure deployment.",
+  "source_repo": "alvarixu/mcp_personal",
+  "source_url": "https://github.com/alvarixu/mcp_personal",
+  "install": "# git clone --depth 1 https://github.com/alvarixu/mcp_personal\n# See source for mcpServers config block"
+}

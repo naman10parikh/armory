@@ -1,0 +1,7 @@
+{
+  "name": "receita-federal-situa-o-fiscal",
+  "description": "Query Brazilian Federal Revenue (Receita Federal) tax situation data from official sources via a single read-only tool, hosted and billed per use.",
+  "source_repo": "mcp-dir/receita_federal_situacao-mcp",
+  "source_url": "https://github.com/mcp-dir/receita_federal_situacao-mcp",
+  "install": "npx -y receita_federal_situacao-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "finops-tag-compliance-mcp-server",
+  "description": "Turn Claude into your AWS tagging compliance assistant — ask in plain English, get real-time insights on your cloud costs and compliance.",
+  "source_repo": "OptimNow/finops-tag-compliance-mcp",
+  "source_url": "https://github.com/OptimNow/finops-tag-compliance-mcp",
+  "install": "npx -y finops-tag-compliance-mcp"
+}

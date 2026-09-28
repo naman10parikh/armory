@@ -1,0 +1,7 @@
+{
+  "name": "analysis-gym",
+  "description": "Records and scores prospective equity earnings predictions made by AI agents, allowing comparison of different agent configurations.",
+  "source_repo": "defog-ai/analysis-gym",
+  "source_url": "https://github.com/defog-ai/analysis-gym",
+  "install": "# git clone --depth 1 https://github.com/defog-ai/analysis-gym\n# See source for mcpServers config block"
+}

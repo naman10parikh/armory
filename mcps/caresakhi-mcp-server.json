@@ -1,0 +1,7 @@
+{
+  "name": "caresakhi-mcp-server",
+  "description": "Manages orders, products, stock, users, and EcoCoins for the CareSakhi Partner App via natural conversation with Claude Desktop.",
+  "source_repo": "piyush-lingwal/Partner_APP---AI_Server",
+  "source_url": "https://github.com/piyush-lingwal/Partner_APP---AI_Server",
+  "install": "# git clone --depth 1 https://github.com/piyush-lingwal/Partner_APP---AI_Server\n# See source for mcpServers config block"
+}

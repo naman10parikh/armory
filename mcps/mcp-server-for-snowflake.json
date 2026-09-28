@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-for-snowflake",
+  "description": "Enables read-only querying of Snowflake databases through Claude, supporting multiple authentication methods and SQL operations like SELECT, SHOW, DESCRIBE.",
+  "source_repo": "dynamike/snowflake-mcp-server",
+  "source_url": "https://github.com/dynamike/snowflake-mcp-server",
+  "install": "npx -y snowflake-mcp-server"
+}

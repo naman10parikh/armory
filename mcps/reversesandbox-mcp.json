@@ -1,0 +1,7 @@
+{
+  "name": "reversesandbox-mcp",
+  "description": "Enables AI agents to pay for x402 pay-per-use services like web search, scraping, and screenshots using a simple API key and USD balance, without managing crypto wallets.",
+  "source_repo": "kodos-vibe/reversesandbox-mcp",
+  "source_url": "https://github.com/kodos-vibe/reversesandbox-mcp",
+  "install": "npx -y reversesandbox-mcp"
+}

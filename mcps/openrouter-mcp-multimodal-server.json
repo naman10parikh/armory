@@ -1,0 +1,7 @@
+{
+  "name": "openrouter-mcp-multimodal-server",
+  "description": "Enables chat and image analysis through OpenRouter.ai models. Supports text chat, image generation, and analysis with multiple images and custom questions.",
+  "source_repo": "Amama-Fatima/openrouter-multimodeal-mcp",
+  "source_url": "https://github.com/Amama-Fatima/openrouter-multimodeal-mcp",
+  "install": "npx -y openrouter-multimodeal-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "project-rag-wiki",
+  "description": "MCP server for searching, reading, listing, writing, and appending Markdown wiki content using RAG with ChromaDB.",
+  "source_repo": "ihorleleka/Project-Rag-Wiki",
+  "source_url": "https://github.com/ihorleleka/Project-Rag-Wiki",
+  "install": "# git clone --depth 1 https://github.com/ihorleleka/Project-Rag-Wiki\n# See source for mcpServers config block"
+}

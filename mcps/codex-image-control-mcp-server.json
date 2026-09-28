@@ -1,0 +1,7 @@
+{
+  "name": "codex-image-control-mcp-server",
+  "description": "Enables local image generation control and storyboard planning within Codex, supporting continuous image editing, formal image writing, video prompt management, and user-configured video connectors.",
+  "source_repo": "Mahiruxia/codex-image-control",
+  "source_url": "https://github.com/Mahiruxia/codex-image-control",
+  "install": "# git clone --depth 1 https://github.com/Mahiruxia/codex-image-control\n# See source for mcpServers config block"
+}

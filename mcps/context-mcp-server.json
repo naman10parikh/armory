@@ -1,0 +1,7 @@
+{
+  "name": "context-mcp-server",
+  "description": "Enables AI agents to browse, trade, and create prediction markets on Context Markets. Supports wallet management, order placement, and market creation through MCP tools.",
+  "source_repo": "contextwtf/context-mcp",
+  "source_url": "https://github.com/contextwtf/context-mcp",
+  "install": "npx -y context-mcp"
+}

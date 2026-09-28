@@ -1,0 +1,7 @@
+{
+  "name": "web-analytics-tracking-mcp-server",
+  "description": "A production-ready MCP server for Google Tag Manager, GA4 Measurement Protocol, DataLayer schema validation, Meta CAPI auditing, and tracking code snippet generation.",
+  "source_repo": "webanalyticsprobd-maker/tracking-mcp-server",
+  "source_url": "https://github.com/webanalyticsprobd-maker/tracking-mcp-server",
+  "install": "npx -y tracking-mcp-server"
+}

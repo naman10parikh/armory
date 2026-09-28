@@ -1,0 +1,7 @@
+{
+  "name": "oceanbase-mcp",
+  "description": "Read-only MCP gateway for OceanBase that enables secure inspection of OceanBase databases via MCP clients like OpenCode.",
+  "source_repo": "sevoniva/oceanbase-mcp",
+  "source_url": "https://github.com/sevoniva/oceanbase-mcp",
+  "install": "npx -y oceanbase-mcp"
+}

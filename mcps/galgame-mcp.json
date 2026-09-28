@@ -1,0 +1,7 @@
+{
+  "name": "galgame-mcp",
+  "description": "MCP server for Galgame/visual novel localization, supporting archive handling, script extraction, image/audio conversion, reverse engineering, and more.",
+  "source_repo": "YeXuanHs/Galgame-mcp",
+  "source_url": "https://github.com/YeXuanHs/Galgame-mcp",
+  "install": "npx -y Galgame-mcp"
+}

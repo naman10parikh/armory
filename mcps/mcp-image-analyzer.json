@@ -1,0 +1,7 @@
+{
+  "name": "mcp-image-analyzer",
+  "description": "Enables LLMs to analyze images via OpenAI-compatible multimodal models, supporting local files, base64, and URLs with safety validation and model selection.",
+  "source_repo": "yunper-wang/mcp-image-analyzer",
+  "source_url": "https://github.com/yunper-wang/mcp-image-analyzer",
+  "install": "# git clone --depth 1 https://github.com/yunper-wang/mcp-image-analyzer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "osm-mcp-server",
+  "description": "An OpenStreetMap MCP server that provides location-based services including geocoding, route directions, points of interest search, and neighborhood analysis to enhance LLMs with geospatial capabilities.",
+  "source_repo": "Sowjanyakaki/OpenStreetMap_MCP",
+  "source_url": "https://github.com/Sowjanyakaki/OpenStreetMap_MCP",
+  "install": "npx -y OpenStreetMap_MCP"
+}

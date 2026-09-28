@@ -1,0 +1,7 @@
+{
+  "name": "fearnation-mcp",
+  "description": "An MCP server that searches the fearnation.club news archive at item-level granularity, supporting full-text search, post retrieval, recent listing, and catalogue discovery with cross-script search and incremental updates.",
+  "source_repo": "Star-Trails/fearnation-mcp",
+  "source_url": "https://github.com/Star-Trails/fearnation-mcp",
+  "install": "npx -y fearnation-mcp"
+}

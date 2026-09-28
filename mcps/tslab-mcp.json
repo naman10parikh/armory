@@ -1,0 +1,7 @@
+{
+  "name": "tslab-mcp",
+  "description": "Enables users to perform deterministic time series forecasting through Claude by running reproducible Python statistical and foundation models, providing tools for loading data, cross-validation, forecasting, anomaly detection, and exporting re-runnable manifests without any LLM involvement.",
+  "source_repo": "pedrobtz/tslab-mcp",
+  "source_url": "https://github.com/pedrobtz/tslab-mcp",
+  "install": "npx -y tslab-mcp"
+}

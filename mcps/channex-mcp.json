@@ -1,0 +1,7 @@
+{
+  "name": "channex-mcp",
+  "description": "Enables interaction with the Channex.io API for managing properties, room types, rate plans, availability, rates, inventory, and channel connections through natural language.",
+  "source_repo": "webrenew/channex-mcp",
+  "source_url": "https://github.com/webrenew/channex-mcp",
+  "install": "npx -y channex-mcp"
+}

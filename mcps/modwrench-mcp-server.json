@@ -1,0 +1,7 @@
+{
+  "name": "modwrench-mcp-server",
+  "description": "Enables AI assistants to search, browse, and manage mods across Nexus Mods, mod.io, Thunderstore, and Modrinth, as well as perform local diagnostics like detecting games and parsing crash logs.",
+  "source_repo": "171county/modwrench",
+  "source_url": "https://github.com/171county/modwrench",
+  "install": "# git clone --depth 1 https://github.com/171county/modwrench\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "devicecloud-mcp",
+  "description": "Triage failing DeviceCloud runs by pulling failure evidence (screenshots, logs, analytics) into your editor so an AI assistant can diagnose and fix issues without opening the dashboard.",
+  "source_repo": "RubenGlez/devicecloud-mcp",
+  "source_url": "https://github.com/RubenGlez/devicecloud-mcp",
+  "install": "npx -y devicecloud-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "eventbrite-mcp-server",
+  "description": "This is a Model Context Protocol (MCP) server that provides tools for interacting with the Eventbrite API. It allows AI assistants to search for events, get event details, retrieve venue information, and more.",
+  "source_repo": "mcpflow/eventbrite-mcp",
+  "source_url": "https://github.com/mcpflow/eventbrite-mcp",
+  "install": "npx -y eventbrite-mcp"
+}

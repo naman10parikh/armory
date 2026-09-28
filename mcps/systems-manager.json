@@ -1,0 +1,7 @@
+{
+  "name": "systems-manager",
+  "description": "Enables AI agents to manage system updates, application installations, and remote host orchestration through MCP tools.",
+  "source_repo": "Knuckles-Team/systems-manager",
+  "source_url": "https://github.com/Knuckles-Team/systems-manager",
+  "install": "# git clone --depth 1 https://github.com/Knuckles-Team/systems-manager\n# See source for mcpServers config block"
+}

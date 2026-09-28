@@ -1,0 +1,7 @@
+{
+  "name": "codereview-mcp",
+  "description": "An MCP server that lets AI agents review code using language models, supporting git diffs, files, and snippets with severity levels. Works with Ollama (local) and hosted providers like OpenAI, Anthropic, and OpenRouter.",
+  "source_repo": "lfylow/codereview-mcp",
+  "source_url": "https://github.com/lfylow/codereview-mcp",
+  "install": "npx -y codereview-mcp"
+}

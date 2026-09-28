@@ -1,0 +1,7 @@
+{
+  "name": "mobile-mcp",
+  "description": "MCP server for cross-platform mobile automation (iOS/Android) using accessibility trees and screenshots, enabling agents to interact with apps on simulators, emulators, and physical devices.",
+  "source_repo": "kimkitae/appium-mcp",
+  "source_url": "https://github.com/kimkitae/appium-mcp",
+  "install": "npx -y appium-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yolo-ffmpeg-mcp",
+  "description": "An AI-powered MCP server for intelligent video processing, enabling automated analysis, transition effects, and quality assurance with multi-agent orchestration.",
+  "source_repo": "StigLau/yolo-ffmpeg-mcp",
+  "source_url": "https://github.com/StigLau/yolo-ffmpeg-mcp",
+  "install": "npx -y yolo-ffmpeg-mcp"
+}

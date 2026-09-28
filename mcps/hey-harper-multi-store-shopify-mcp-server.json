@@ -1,0 +1,7 @@
+{
+  "name": "hey-harper-multi-store-shopify-mcp-server",
+  "description": "A remote MCP server that aggregates unfulfilled and needs-attention orders across all five Hey Harper Shopify stores in one connection, using permanent Admin API tokens to avoid per-store OAuth re-authentication.",
+  "source_repo": "diogoferacruz-dev/heyharper-shopify-mcp-server",
+  "source_url": "https://github.com/diogoferacruz-dev/heyharper-shopify-mcp-server",
+  "install": "npx -y heyharper-shopify-mcp-server"
+}

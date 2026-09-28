@@ -1,0 +1,7 @@
+{
+  "name": "odoo-sh-mcp-server",
+  "description": "SSH-based Model Context Protocol server for Odoo.sh - Build custom apps with AI assistance using Git workflow tools.",
+  "source_repo": "DalahmasDev/odoo-sh-mcp-server",
+  "source_url": "https://github.com/DalahmasDev/odoo-sh-mcp-server",
+  "install": "npx -y odoo-sh-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "t-rk-hukuku-mevzuat-mcp",
+  "description": "Statute & article text (mevzuat.gov.tr) and court decisions (UYAP Emsal, Council of State, Constitutional Court), with their citation, source, live. It works as long as the official sources remain reachable.",
+  "source_repo": "aydincan/turk-hukuku-mevzuat-mcp",
+  "source_url": "https://github.com/aydincan/turk-hukuku-mevzuat-mcp",
+  "install": "npx -y turk-hukuku-mevzuat-mcp"
+}

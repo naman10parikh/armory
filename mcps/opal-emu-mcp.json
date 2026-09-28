@@ -1,0 +1,7 @@
+{
+  "name": "opal-emu-mcp",
+  "description": "An MCP server that lets LLM agents autonomously play retro games by driving a real OpalEmu emulator in a Playwright-controlled browser, exposing tools for loading ROMs, controlling buttons, and capturing screenshots.",
+  "source_repo": "thevalmarch/opalemu-mcp",
+  "source_url": "https://github.com/thevalmarch/opalemu-mcp",
+  "install": "npx -y opalemu-mcp"
+}

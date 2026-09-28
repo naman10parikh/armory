@@ -1,0 +1,7 @@
+{
+  "name": "nunchi-translator-mcp",
+  "description": "Analyzes ambiguous Korean chat messages by interpreting nuance, emotional tone, and context, and suggests appropriate replies for social situations like apology, refusal, or setting boundaries.",
+  "source_repo": "jclee941/nunchi-translator-mcp",
+  "source_url": "https://github.com/jclee941/nunchi-translator-mcp",
+  "install": "npx -y nunchi-translator-mcp"
+}

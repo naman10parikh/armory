@@ -1,0 +1,7 @@
+{
+  "name": "boo-x402-mcp",
+  "description": "Enables AI agents to access crypto/web3 data across 5 chains with pay-per-call billing in USDC via x402, no API key required, and built-in spend caps.",
+  "source_repo": "lucle87/boo-x402-mcp",
+  "source_url": "https://github.com/lucle87/boo-x402-mcp",
+  "install": "npx -y boo-x402-mcp"
+}

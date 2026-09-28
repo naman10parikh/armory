@@ -1,0 +1,7 @@
+{
+  "name": "critique-mcp",
+  "description": "Enables an agent to review pull requests by listing changed files, checking test coverage, linting changed Python files with Ruff, and posting a real review to GitHub.",
+  "source_repo": "Nimra3261/critique-mcp",
+  "source_url": "https://github.com/Nimra3261/critique-mcp",
+  "install": "npx -y critique-mcp"
+}

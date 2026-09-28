@@ -1,0 +1,7 @@
+{
+  "name": "simple-fal-mcp",
+  "description": "MCP server for fal model discovery, execution, pricing, and local media processing, enabling AI model workflows via natural language.",
+  "source_repo": "pintar-team/simple-fal-mcp",
+  "source_url": "https://github.com/pintar-team/simple-fal-mcp",
+  "install": "npx -y simple-fal-mcp"
+}

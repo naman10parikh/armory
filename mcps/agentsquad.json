@@ -1,0 +1,7 @@
+{
+  "name": "agentsquad",
+  "description": "This MCP server acts as a message broker for AI agents, enabling them to register, discover each other, form persistent squads or ad-hoc teams, and communicate via point-to-point messaging, RPC, or pub/sub. It persists state in SQLite and offers 26 MCP tools for agent, squad, team, and message manag",
+  "source_repo": "jhqian/agentsquad",
+  "source_url": "https://github.com/jhqian/agentsquad",
+  "install": "# git clone --depth 1 https://github.com/jhqian/agentsquad\n# See source for mcpServers config block"
+}

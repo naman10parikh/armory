@@ -1,0 +1,7 @@
+{
+  "name": "openharness",
+  "description": "A local MCP server that discovers and shares session file paths between AI coding agents, enabling cross-referencing without modifying existing workflows.",
+  "source_repo": "philo-kim/openharness",
+  "source_url": "https://github.com/philo-kim/openharness",
+  "install": "# git clone --depth 1 https://github.com/philo-kim/openharness\n# See source for mcpServers config block"
+}

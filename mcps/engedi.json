@@ -1,0 +1,7 @@
+{
+  "name": "engedi",
+  "description": "Provides live data API for AI agents with 51 REST endpoints across finance, travel, weather, news, and more, using USDC micropayments without API keys.",
+  "source_repo": "Neji402/engedi-mcp",
+  "source_url": "https://github.com/Neji402/engedi-mcp",
+  "install": "npx -y engedi-mcp"
+}

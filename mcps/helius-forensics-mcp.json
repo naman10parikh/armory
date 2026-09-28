@@ -1,0 +1,7 @@
+{
+  "name": "helius-forensics-mcp",
+  "description": "Enables Solana wallet forensics via MCP, including tracing funds, identifying entities, scoring risk, and comparing wallets using Helius APIs.",
+  "source_repo": "drtiibiird/helius-forensics-mcp",
+  "source_url": "https://github.com/drtiibiird/helius-forensics-mcp",
+  "install": "npx -y helius-forensics-mcp"
+}

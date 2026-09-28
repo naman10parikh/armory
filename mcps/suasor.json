@@ -1,0 +1,7 @@
+{
+  "name": "suasor",
+  "description": "A local-first AI secretary that gathers your work context into private memory and enables AI agents to search and summarize it over MCP.",
+  "source_repo": "ozzy-labs/suasor",
+  "source_url": "https://github.com/ozzy-labs/suasor",
+  "install": "# git clone --depth 1 https://github.com/ozzy-labs/suasor\n# See source for mcpServers config block"
+}

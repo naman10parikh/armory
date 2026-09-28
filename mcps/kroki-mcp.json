@@ -1,0 +1,7 @@
+{
+  "name": "kroki-mcp",
+  "description": "Provides AI agents with tools to generate, validate, and inspect diagrams from natural-language prompts, using the Kroki rendering engine to produce SVG files.",
+  "source_repo": "barkiayoub/kroki_mcp",
+  "source_url": "https://github.com/barkiayoub/kroki_mcp",
+  "install": "npx -y kroki_mcp"
+}

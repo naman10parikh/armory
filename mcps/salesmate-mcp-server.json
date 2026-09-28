@@ -1,0 +1,7 @@
+{
+  "name": "salesmate-mcp-server",
+  "description": "A production-ready MCP server that exposes the Salesmate CRM to Claude Desktop, enabling search, update, and creation of contacts, deals, tasks, notes, and activities.",
+  "source_repo": "arnav-chauhan-kgpian/salesmate-mcp",
+  "source_url": "https://github.com/arnav-chauhan-kgpian/salesmate-mcp",
+  "install": "npx -y salesmate-mcp"
+}

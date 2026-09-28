@@ -1,0 +1,7 @@
+{
+  "name": "cbl-mcp-server",
+  "description": "A COBOL-based MCP server that provides 7.5% sales tax calculations, demonstrating COBOL integration with modern API services.",
+  "source_repo": "ssvasan369/cbl-mcp-server",
+  "source_url": "https://github.com/ssvasan369/cbl-mcp-server",
+  "install": "npx -y cbl-mcp-server"
+}

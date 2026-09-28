@@ -1,0 +1,7 @@
+{
+  "name": "tilt-mcp",
+  "description": "MCP server for Tilt CLI integration, enabling AI assistants to monitor and manage Tilt development workflows.",
+  "source_repo": "alleneubank/tilt-mcp",
+  "source_url": "https://github.com/alleneubank/tilt-mcp",
+  "install": "npx -y tilt-mcp"
+}

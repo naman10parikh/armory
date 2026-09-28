@@ -1,0 +1,7 @@
+{
+  "name": "brainfeather-mcp",
+  "description": "Provides long-term memory for AI coding agents, enabling facts like stack, conventions, and decisions to be recorded once and recalled across sessions.",
+  "source_repo": "brainfeatherai/brainfeather-mcp",
+  "source_url": "https://github.com/brainfeatherai/brainfeather-mcp",
+  "install": "npx -y brainfeather-mcp"
+}

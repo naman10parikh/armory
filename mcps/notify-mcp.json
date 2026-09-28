@@ -1,0 +1,7 @@
+{
+  "name": "notify-mcp",
+  "description": "Sends native Windows desktop notifications with repeating sound alerts for Claude Code, supporting states like finished, needs_help, and pending_review.",
+  "source_repo": "ShikeChen01/notify-mcp",
+  "source_url": "https://github.com/ShikeChen01/notify-mcp",
+  "install": "npx -y notify-mcp"
+}

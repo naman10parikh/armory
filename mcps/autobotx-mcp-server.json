@@ -1,0 +1,7 @@
+{
+  "name": "autobotx-mcp-server",
+  "description": "Provides access to 141 operational workflows across 17 departments, an intelligent guide bot, real-time communities, document processing, and organizational state management through MCP tools.",
+  "source_repo": "elijahmoses1000-jpg/autobotx",
+  "source_url": "https://github.com/elijahmoses1000-jpg/autobotx",
+  "install": "# git clone --depth 1 https://github.com/elijahmoses1000-jpg/autobotx\n# See source for mcpServers config block"
+}

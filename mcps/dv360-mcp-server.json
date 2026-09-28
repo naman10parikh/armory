@@ -1,0 +1,7 @@
+{
+  "name": "dv360-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for Display & Video 360 that provides entity management and performance reporting capabilities.",
+  "source_repo": "caspercrause/dv360-ads-mcp-server",
+  "source_url": "https://github.com/caspercrause/dv360-ads-mcp-server",
+  "install": "npx -y dv360-ads-mcp-server"
+}

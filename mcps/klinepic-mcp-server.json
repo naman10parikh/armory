@@ -1,0 +1,7 @@
+{
+  "name": "klinepic-mcp-server",
+  "description": "Generate annotated post-trade candlestick review-chart PNGs from broker or exchange fills. Includes capability checks, no-charge preflight validation, and chart rendering; no signals or order execution.",
+  "source_repo": "sher1096/klinepic-agent-api-examples",
+  "source_url": "https://github.com/sher1096/klinepic-agent-api-examples",
+  "install": "# git clone --depth 1 https://github.com/sher1096/klinepic-agent-api-examples\n# See source for mcpServers config block"
+}

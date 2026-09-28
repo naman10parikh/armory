@@ -1,0 +1,7 @@
+{
+  "name": "sla-directory-mcp-server",
+  "description": "Enables AI assistants to look up uptime commitments, service credits, and per-service SLAs for cloud and SaaS vendors directly from SLA.directory.",
+  "source_repo": "self9dmin/sla-mcp",
+  "source_url": "https://github.com/self9dmin/sla-mcp",
+  "install": "npx -y sla-mcp"
+}

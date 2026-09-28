@@ -1,0 +1,7 @@
+{
+  "name": "classby-blog-mcp",
+  "description": "Provides tools for creating and editing blog post drafts, attaching images, and automating Naver blog editor filling via Chrome.",
+  "source_repo": "barosky7834-cpu/class-blog-mcp",
+  "source_url": "https://github.com/barosky7834-cpu/class-blog-mcp",
+  "install": "npx -y class-blog-mcp"
+}

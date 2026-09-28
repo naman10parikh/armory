@@ -1,0 +1,7 @@
+{
+  "name": "crs-mcp",
+  "description": "MCP server that certifies or refutes the soundness of linear integer guards over declared boxes, returning concrete counterexamples when unsound and honest refusals when the domain is too large.",
+  "source_repo": "nickharris808/crs-mcp",
+  "source_url": "https://github.com/nickharris808/crs-mcp",
+  "install": "npx -y crs-mcp"
+}

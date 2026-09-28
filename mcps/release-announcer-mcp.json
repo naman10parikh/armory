@@ -1,0 +1,7 @@
+{
+  "name": "release-announcer-mcp",
+  "description": "Generates multi-platform release announcements (X, Reddit, GitHub profile, awesome-list, MCP directory) and a publish-readiness checklist for any public GitHub repository.",
+  "source_repo": "h-kazuki-pixel/release-announcer-mcp",
+  "source_url": "https://github.com/h-kazuki-pixel/release-announcer-mcp",
+  "install": "npx -y release-announcer-mcp"
+}

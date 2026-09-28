@@ -1,0 +1,7 @@
+{
+  "name": "ninjaone-mcp",
+  "description": "A local MCP server that enables searching, reading, creating, updating, and commenting on NinjaOne tickets through natural language.",
+  "source_repo": "cyberkoder/ninjaone-mcp",
+  "source_url": "https://github.com/cyberkoder/ninjaone-mcp",
+  "install": "npx -y ninjaone-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "react-runtime",
+  "description": "MCP server implementing ReAct reasoning-acting loops with tools like search, lookup, and finish, supporting both fixture and OpenAI LLMs for offline-first, traceable agent execution.",
+  "source_repo": "SanjoyDat1/react-runtime",
+  "source_url": "https://github.com/SanjoyDat1/react-runtime",
+  "install": "# git clone --depth 1 https://github.com/SanjoyDat1/react-runtime\n# See source for mcpServers config block"
+}

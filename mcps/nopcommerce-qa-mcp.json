@@ -1,0 +1,7 @@
+{
+  "name": "nopcommerce-qa-mcp",
+  "description": "MCP server for nopCommerce QA automation using Playwright. Enables running tests, viewing reports, analyzing failures, and generating QA dashboards.",
+  "source_repo": "Omar-Aljerbi/nopcommerce-qa-mcp",
+  "source_url": "https://github.com/Omar-Aljerbi/nopcommerce-qa-mcp",
+  "install": "npx -y nopcommerce-qa-mcp"
+}

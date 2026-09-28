@@ -1,0 +1,7 @@
+{
+  "name": "inti-brain",
+  "description": "Connects AI assistants to Intigriti by syncing programs, scopes, and rules of engagement, then provides tools to search and generate actionable attack briefings.",
+  "source_repo": "Srj0210/inti-brain",
+  "source_url": "https://github.com/Srj0210/inti-brain",
+  "install": "# git clone --depth 1 https://github.com/Srj0210/inti-brain\n# See source for mcpServers config block"
+}

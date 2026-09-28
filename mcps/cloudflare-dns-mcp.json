@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-dns-mcp",
+  "description": "MCP server for managing Cloudflare DNS subdomains, enabling an LLM to check availability, claim, release, and list subdomains under a root domain.",
+  "source_repo": "Hanzla-Double3/cloudflare-mcp-dns",
+  "source_url": "https://github.com/Hanzla-Double3/cloudflare-mcp-dns",
+  "install": "# git clone --depth 1 https://github.com/Hanzla-Double3/cloudflare-mcp-dns\n# See source for mcpServers config block"
+}

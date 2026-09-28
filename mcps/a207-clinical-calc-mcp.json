@@ -1,0 +1,7 @@
+{
+  "name": "a207-clinical-calc-mcp",
+  "description": "MCP server for pediatric CKD clinical calculations, providing eGFR-Schwartz estimation and KDIGO 2024 CKD staging, restricted to doctors.",
+  "source_repo": "ayeyouok/a207-clinical-calc-mcp",
+  "source_url": "https://github.com/ayeyouok/a207-clinical-calc-mcp",
+  "install": "npx -y a207-clinical-calc-mcp"
+}

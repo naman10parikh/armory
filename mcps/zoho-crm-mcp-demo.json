@@ -1,0 +1,7 @@
+{
+  "name": "zoho-crm-mcp-demo",
+  "description": "Enables LLM agents to search deals, summarize pipeline metrics, find duplicate leads, and create leads using real Zoho CRM field names through plain-language tool calls.",
+  "source_repo": "Monsteroo/zoho-crm-mcp-demo",
+  "source_url": "https://github.com/Monsteroo/zoho-crm-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/Monsteroo/zoho-crm-mcp-demo\n# See source for mcpServers config block"
+}

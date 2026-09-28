@@ -1,0 +1,7 @@
+{
+  "name": "accessibility-scanner-mcp",
+  "description": "An MCP server that lets an AI agent scan a web page for WCAG accessibility issues and get back findings it can act on.",
+  "source_repo": "Bishop81/accessibility-scanner-mcp",
+  "source_url": "https://github.com/Bishop81/accessibility-scanner-mcp",
+  "install": "npx -y accessibility-scanner-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sql-server-gateway",
+  "description": "Enterprise-safe MCP server that enables Claude Enterprise to access approved on-prem SQL Server data through read-only, governed, and auditable tools.",
+  "source_repo": "jessef1983/cp-apps-mcp-onpremsql",
+  "source_url": "https://github.com/jessef1983/cp-apps-mcp-onpremsql",
+  "install": "# git clone --depth 1 https://github.com/jessef1983/cp-apps-mcp-onpremsql\n# See source for mcpServers config block"
+}

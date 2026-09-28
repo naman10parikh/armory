@@ -1,0 +1,7 @@
+{
+  "name": "logisim-evolution-mcp-server",
+  "description": "A local MCP server for working with Logisim-evolution .circ projects, providing structured project inspection, guarded edits, validation, circuit analysis, test execution, format conversion, and GUI launch.",
+  "source_repo": "afishyke/Logisim-Evolution-MCP-Server",
+  "source_url": "https://github.com/afishyke/Logisim-Evolution-MCP-Server",
+  "install": "npx -y Logisim-Evolution-MCP-Server"
+}

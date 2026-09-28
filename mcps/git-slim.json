@@ -1,0 +1,7 @@
+{
+  "name": "git-slim",
+  "description": "A token-optimized Git MCP server that reduces context window tokens by 59% while preserving full functionality, enabling AI assistants to interact with Git repositories using only 5 grouped tool operations.",
+  "source_repo": "mcpslim/git-slim",
+  "source_url": "https://github.com/mcpslim/git-slim",
+  "install": "# git clone --depth 1 https://github.com/mcpslim/git-slim\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "orchestrui",
+  "description": "Provides read-only MCP tools for discovering UI libraries, recommending minimal compatible UI stacks, and auditing plans to enforce deterministic UI policy and quality gates for coding agents.",
+  "source_repo": "ECD5A/OrchestrUI",
+  "source_url": "https://github.com/ECD5A/OrchestrUI",
+  "install": "# git clone --depth 1 https://github.com/ECD5A/OrchestrUI\n# See source for mcpServers config block"
+}

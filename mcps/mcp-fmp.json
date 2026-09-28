@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fmp",
+  "description": "An MCP server connecting AI agents to the Financial Modeling Prep API for daily EOD historical stock price data.",
+  "source_repo": "pipeworx-io/mcp-fmp",
+  "source_url": "https://github.com/pipeworx-io/mcp-fmp",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-fmp\n# See source for mcpServers config block"
+}

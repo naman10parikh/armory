@@ -1,0 +1,7 @@
+{
+  "name": "parserelay-mcp",
+  "description": "Enables document parsing into structured, confidence-scored fields via the scan tool, working with any MCP host like Claude Desktop or Cursor.",
+  "source_repo": "parserelay/mcp",
+  "source_url": "https://github.com/parserelay/mcp",
+  "install": "# git clone --depth 1 https://github.com/parserelay/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aint-mcp",
+  "description": "Modular MCP server integrating Redmine, SQL Server, and GitLab for investigating incidents, enabling issue tracking, database queries, and merge request review via natural language.",
+  "source_repo": "AINTDevLab/aint-mcp",
+  "source_url": "https://github.com/AINTDevLab/aint-mcp",
+  "install": "npx -y aint-mcp"
+}

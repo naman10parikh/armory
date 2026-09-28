@@ -1,0 +1,7 @@
+{
+  "name": "govgreed-mcp",
+  "description": "Integrates GovGreed's congressional-trading intelligence API, giving Claude native access to 18 tools for analyzing politician trading signals, conflict scores, bill carveouts, and political influence data.",
+  "source_repo": "mmamodelai/govgreed-mcp",
+  "source_url": "https://github.com/mmamodelai/govgreed-mcp",
+  "install": "npx -y govgreed-mcp"
+}

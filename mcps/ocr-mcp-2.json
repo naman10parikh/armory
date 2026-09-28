@@ -1,0 +1,7 @@
+{
+  "name": "ocr-mcp-2",
+  "description": "Converts screenshots of web pages into structured Markdown using GLM-OCR (Zhipu), with tools for OCR on images, webpages, and health checks.",
+  "source_repo": "Raffaele86/ocr-mcp",
+  "source_url": "https://github.com/Raffaele86/ocr-mcp",
+  "install": "npx -y ocr-mcp"
+}

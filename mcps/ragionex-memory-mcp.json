@@ -1,0 +1,7 @@
+{
+  "name": "ragionex-memory-mcp",
+  "description": "Dynamic semantic memory for AI assistants that persists across sessions and clients, enabling natural language recall and project-scoped isolation.",
+  "source_repo": "ragionex/memory-mcp",
+  "source_url": "https://github.com/ragionex/memory-mcp",
+  "install": "npx -y memory-mcp"
+}

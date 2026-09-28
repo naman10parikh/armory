@@ -1,0 +1,7 @@
+{
+  "name": "stm32cubemx-mcp",
+  "description": "An MCP server that enables AI agents to inspect, plan, validate, and apply STM32CubeMX .ioc configuration changes, and generate STM32CubeIDE projects, ensuring safe and testable embedded-system workflows.",
+  "source_repo": "Wafleem/stm32cubemx_mcp",
+  "source_url": "https://github.com/Wafleem/stm32cubemx_mcp",
+  "install": "npx -y stm32cubemx_mcp"
+}

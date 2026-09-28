@@ -1,0 +1,7 @@
+{
+  "name": "bright-mcp",
+  "description": "An MCP server that wraps Bright Data's API to provide web search, data extraction, and dataset discovery tools for AI agents.",
+  "source_repo": "dunkeln/bright_mcp",
+  "source_url": "https://github.com/dunkeln/bright_mcp",
+  "install": "npx -y bright_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "weekness",
+  "description": "Provides week and calendar helper tools for converting between dates and ISO weeks, performing week arithmetic, and looking up weekday names.",
+  "source_repo": "dvdksn/weekness",
+  "source_url": "https://github.com/dvdksn/weekness",
+  "install": "# git clone --depth 1 https://github.com/dvdksn/weekness\n# See source for mcpServers config block"
+}

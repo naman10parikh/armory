@@ -1,0 +1,7 @@
+{
+  "name": "voyager-net",
+  "description": "Voyager-net is a read-only, authorized network auditing MCP server that scans a single host or domain for DNS, port, TLS, and HTTP hygiene issues, returning findings with severity and suggested fixes. It enables AI agents to audit infrastructure safely without mutation, requiring explicit authorizat",
+  "source_repo": "dir-ai/voyager-net",
+  "source_url": "https://github.com/dir-ai/voyager-net",
+  "install": "# git clone --depth 1 https://github.com/dir-ai/voyager-net\n# See source for mcpServers config block"
+}

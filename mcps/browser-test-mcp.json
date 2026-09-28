@@ -1,0 +1,7 @@
+{
+  "name": "browser-test-mcp",
+  "description": "An MCP server that fuses Playwright and browser-use for browser automation testing, offering 59 tools for AI-driven exploration and precise assertions on a shared browser instance, with built-in stealth anti-detection.",
+  "source_repo": "l0s3r-Q/browser-test-mcp",
+  "source_url": "https://github.com/l0s3r-Q/browser-test-mcp",
+  "install": "npx -y browser-test-mcp"
+}

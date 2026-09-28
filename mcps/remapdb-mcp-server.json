@@ -1,0 +1,7 @@
+{
+  "name": "remapdb-mcp-server",
+  "description": "Connects AI tools to Remapdb vehicle tuning data, enabling search and retrieval of manufacturers, models, engines, and tuning information.",
+  "source_repo": "BitMeshLtd/remapdb-mcp",
+  "source_url": "https://github.com/BitMeshLtd/remapdb-mcp",
+  "install": "npx -y remapdb-mcp"
+}

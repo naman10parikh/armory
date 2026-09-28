@@ -1,0 +1,7 @@
+{
+  "name": "cwa-mcp-server",
+  "description": "Provides access to Taiwan's Central Weather Administration data for weather forecasts, earthquake reports, warnings, and typhoon alerts, and generates evacuation recommendations.",
+  "source_repo": "gary2376/cwa-mcp-server",
+  "source_url": "https://github.com/gary2376/cwa-mcp-server",
+  "install": "npx -y cwa-mcp-server"
+}

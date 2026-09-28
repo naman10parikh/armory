@@ -1,0 +1,7 @@
+{
+  "name": "x-agent-mcp",
+  "description": "Enables AI agents to interact with X (Twitter) through its private GraphQL API using session cookies, supporting tweets, replies, likes, retweets, searches, direct messages, and more. Provides 24 MCP tools for full account automation.",
+  "source_repo": "alarok/x-agent-sdk",
+  "source_url": "https://github.com/alarok/x-agent-sdk",
+  "install": "# git clone --depth 1 https://github.com/alarok/x-agent-sdk\n# See source for mcpServers config block"
+}

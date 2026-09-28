@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gtm-suite",
+  "description": "GTM signal intelligence suite for AI agents. Six tools: hiring signals, tech stack detection, company-to-LinkedIn resolution, ICP scoring, job board scanning, and a combined signals aggregator. Built for outbound sales workflows.",
+  "source_repo": "mambalabsdev/mcp-gtm-suite",
+  "source_url": "https://github.com/mambalabsdev/mcp-gtm-suite",
+  "install": "# git clone --depth 1 https://github.com/mambalabsdev/mcp-gtm-suite\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ikea-mcp",
+  "description": "Read-only MCP server for IKEA product search and in-store stock lookup.",
+  "source_repo": "taejin5314/ikea-mcp",
+  "source_url": "https://github.com/taejin5314/ikea-mcp",
+  "install": "npx -y ikea-mcp"
+}

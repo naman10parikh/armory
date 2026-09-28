@@ -1,0 +1,7 @@
+{
+  "name": "bell-mcp",
+  "description": "A local MCP server that rings a bell through your speakers to provide audible notifications when AI completes tasks or needs attention.",
+  "source_repo": "taylor224/bell-mcp",
+  "source_url": "https://github.com/taylor224/bell-mcp",
+  "install": "npx -y bell-mcp"
+}

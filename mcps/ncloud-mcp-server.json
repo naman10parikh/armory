@@ -1,0 +1,7 @@
+{
+  "name": "ncloud-mcp-server",
+  "description": "Enables natural language management of Naver Cloud Platform infrastructure, covering over 60 services and 1,000+ API tools.",
+  "source_repo": "sjk4425/ncloud-mcp-server",
+  "source_url": "https://github.com/sjk4425/ncloud-mcp-server",
+  "install": "npx -y ncloud-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pampapilot-mcp-server",
+  "description": "MCP server for controlling REAPER digital audio workstation from natural language. It enables AI agents to create tracks, import audio, adjust mix parameters, and manage sessions through typed operations and a REAPER bridge.",
+  "source_repo": "LeoLisena/pampa-pilot",
+  "source_url": "https://github.com/LeoLisena/pampa-pilot",
+  "install": "# git clone --depth 1 https://github.com/LeoLisena/pampa-pilot\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cli-anything-hub-mcp",
+  "description": "Paid remote MCP server enabling CLI tool execution with structured receipts, usage logs, and audit-ready evidence for agent and CI workflows.",
+  "source_repo": "clauxel/cli-anything-hub-mcp",
+  "source_url": "https://github.com/clauxel/cli-anything-hub-mcp",
+  "install": "npx -y cli-anything-hub-mcp"
+}

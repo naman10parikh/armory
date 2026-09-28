@@ -1,0 +1,7 @@
+{
+  "name": "video-analyzer",
+  "description": "MCP server enabling video analysis via scene detection, audio transcription, visual description, and stylistic fingerprinting, with tools for full pipeline execution and storyboard generation.",
+  "source_repo": "BrightWayAI/video-analyzer",
+  "source_url": "https://github.com/BrightWayAI/video-analyzer",
+  "install": "# git clone --depth 1 https://github.com/BrightWayAI/video-analyzer\n# See source for mcpServers config block"
+}

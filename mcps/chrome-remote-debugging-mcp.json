@@ -1,0 +1,7 @@
+{
+  "name": "chrome-remote-debugging-mcp",
+  "description": "Controls a running Chrome/Chromium browser via the Chrome DevTools Protocol, enabling navigation, JavaScript evaluation, tab management, and raw CDP commands through MCP tools.",
+  "source_repo": "danilin-em/chrome-remote-debugging-mcp",
+  "source_url": "https://github.com/danilin-em/chrome-remote-debugging-mcp",
+  "install": "npx -y chrome-remote-debugging-mcp"
+}

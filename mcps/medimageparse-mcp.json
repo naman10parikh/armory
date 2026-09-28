@@ -1,0 +1,7 @@
+{
+  "name": "medimageparse-mcp",
+  "description": "Enables AI agents to segment 2D and 3D biomedical images using Microsoft's MedImageParse foundation models via free-text prompts, returning masks and statistics. Supports both local stdio MCP server and a hosted Azure API Management gateway for remote agents like Microsoft Foundry.",
+  "source_repo": "anihitk07/medimageparse-mcp",
+  "source_url": "https://github.com/anihitk07/medimageparse-mcp",
+  "install": "npx -y medimageparse-mcp"
+}

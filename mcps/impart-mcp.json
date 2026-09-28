@@ -1,0 +1,7 @@
+{
+  "name": "impart-mcp",
+  "description": "An agent orchestration layer that wraps expert agents as MCP tools, enabling integration with Claude Desktop, Cursor, and other MCP-compatible environments.",
+  "source_repo": "J3n5en/impart-mcp",
+  "source_url": "https://github.com/J3n5en/impart-mcp",
+  "install": "npx -y impart-mcp"
+}

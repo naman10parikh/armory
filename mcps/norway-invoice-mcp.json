@@ -1,0 +1,7 @@
+{
+  "name": "norway-invoice-mcp",
+  "description": "Enables AI agents to send Norway B2B e-invoices over the Peppol network in EHF format via Storecove, including recipient discovery, invoice creation, and delivery evidence.",
+  "source_repo": "junter1989k-ai/norway-invoice-mcp",
+  "source_url": "https://github.com/junter1989k-ai/norway-invoice-mcp",
+  "install": "npx -y norway-invoice-mcp"
+}

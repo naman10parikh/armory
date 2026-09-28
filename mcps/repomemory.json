@@ -1,0 +1,7 @@
+{
+  "name": "repomemory",
+  "description": "A project intelligence platform for AI coding agents that scans, audits, generates, and monitors context files (CLAUDE.md, AGENTS.md, etc.) with drift detection and repair capabilities.",
+  "source_repo": "PraveenJayaprakash-JP/repomemory",
+  "source_url": "https://github.com/PraveenJayaprakash-JP/repomemory",
+  "install": "# git clone --depth 1 https://github.com/PraveenJayaprakash-JP/repomemory\n# See source for mcpServers config block"
+}

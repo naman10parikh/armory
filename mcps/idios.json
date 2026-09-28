@@ -1,0 +1,7 @@
+{
+  "name": "idios",
+  "description": "Private escrow for AI agent work on Beam mainnet an agent locks payment, the worker locks collateral, and delivery settles on hash match or review, with M of N arbitrator voting and slashable worker bonds as the dispute backstop. 22 tools cover the full contract lifecycle, and dispute voting is deli",
+  "source_repo": "honeytones/idios",
+  "source_url": "https://github.com/honeytones/idios",
+  "install": "# git clone --depth 1 https://github.com/honeytones/idios\n# See source for mcpServers config block"
+}

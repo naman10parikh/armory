@@ -1,0 +1,7 @@
+{
+  "name": "servicenow-fastmcp-server",
+  "description": "MCP server that enables LLMs to interact with ServiceNow instances for managing incidents, users, stories, workflows, knowledge base articles, and script includes via the FastMCP framework.",
+  "source_repo": "alenthomas2468/servicenow-mcp-fast",
+  "source_url": "https://github.com/alenthomas2468/servicenow-mcp-fast",
+  "install": "# git clone --depth 1 https://github.com/alenthomas2468/servicenow-mcp-fast\n# See source for mcpServers config block"
+}

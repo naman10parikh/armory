@@ -1,0 +1,7 @@
+{
+  "name": "forge-cascade-mcp",
+  "description": "Exposes tools for enterprise AI memory buyer routes, including checkout links and paid route recommendations based on buyer context.",
+  "source_repo": "SunFlash12/forge-cascade-mcp",
+  "source_url": "https://github.com/SunFlash12/forge-cascade-mcp",
+  "install": "npx -y forge-cascade-mcp"
+}

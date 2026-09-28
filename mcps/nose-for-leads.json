@@ -1,0 +1,7 @@
+{
+  "name": "nose-for-leads",
+  "description": "Finds, filters, and verifies local-business leads on demand; every returned email carries a verification receipt (verifier, verdict, timestamp). Credit-based with per-key spend budgets; 25 free validated leads at signup.",
+  "source_repo": "NoseForLeads/mcp",
+  "source_url": "https://github.com/NoseForLeads/mcp",
+  "install": "# git clone --depth 1 https://github.com/NoseForLeads/mcp\n# See source for mcpServers config block"
+}

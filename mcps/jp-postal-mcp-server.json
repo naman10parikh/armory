@@ -1,0 +1,7 @@
+{
+  "name": "jp-postal-mcp-server",
+  "description": "Japanese postal code ⇄ address lookup with bundled official data — fully offline, no API key.",
+  "source_repo": "h-kazuki-pixel/jp-postal-mcp-server",
+  "source_url": "https://github.com/h-kazuki-pixel/jp-postal-mcp-server",
+  "install": "npx -y jp-postal-mcp-server"
+}

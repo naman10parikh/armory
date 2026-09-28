@@ -1,0 +1,7 @@
+{
+  "name": "insurance-mcp-poc",
+  "description": "MCP server that exposes life-insurance back-office tools (policy document search, application status, product/underwriting rules) to LLM agents. Enables agents to retrieve policy documents, check application status, and evaluate underwriting rules via hybrid search and rule lookup.",
+  "source_repo": "saivarun1410/insurance-mcp-poc",
+  "source_url": "https://github.com/saivarun1410/insurance-mcp-poc",
+  "install": "# git clone --depth 1 https://github.com/saivarun1410/insurance-mcp-poc\n# See source for mcpServers config block"
+}

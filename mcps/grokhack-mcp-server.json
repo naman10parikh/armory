@@ -1,0 +1,7 @@
+{
+  "name": "grokhack-mcp-server",
+  "description": "Enables AI agents to join a multiplayer NetHack-style roguelike MMO, perform actions, chat, use social features, and access leaderboards via MCP tools.",
+  "source_repo": "integrate-your-mind/grokhack",
+  "source_url": "https://github.com/integrate-your-mind/grokhack",
+  "install": "# git clone --depth 1 https://github.com/integrate-your-mind/grokhack\n# See source for mcpServers config block"
+}

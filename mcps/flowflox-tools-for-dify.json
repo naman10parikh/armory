@@ -1,0 +1,7 @@
+{
+  "name": "flowflox-tools-for-dify",
+  "description": "Provides Dify apps with a secure, app-scoped MCP tool catalog and action gateway for authorized FlowFlox operations, enabling intent-driven planning and fixed operational processes without exposing global credentials.",
+  "source_repo": "FlowFlox/flowflox-dify-tools",
+  "source_url": "https://github.com/FlowFlox/flowflox-dify-tools",
+  "install": "# git clone --depth 1 https://github.com/FlowFlox/flowflox-dify-tools\n# See source for mcpServers config block"
+}

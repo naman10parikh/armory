@@ -1,0 +1,7 @@
+{
+  "name": "baramundi-mcp-server",
+  "description": "MCP Server für das baramundi Management Center. Erlaubt Claude, Geräte abzufragen, Jobs zu starten und Compliance-Reports zu generieren.",
+  "source_repo": "mikewegmann/baramundi_MCP",
+  "source_url": "https://github.com/mikewegmann/baramundi_MCP",
+  "install": "npx -y baramundi_MCP"
+}

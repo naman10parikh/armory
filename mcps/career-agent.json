@@ -1,0 +1,7 @@
+{
+  "name": "career-agent",
+  "description": "Enables Claude Desktop to manage a job search end-to-end: find and score job listings, tailor resumes, generate application messages, and track application history, while leaving final external actions to the user.",
+  "source_repo": "maraMoreir/career-agent",
+  "source_url": "https://github.com/maraMoreir/career-agent",
+  "install": "# git clone --depth 1 https://github.com/maraMoreir/career-agent\n# See source for mcpServers config block"
+}

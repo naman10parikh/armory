@@ -1,0 +1,7 @@
+{
+  "name": "funnelkeeper-mcp",
+  "description": "Exposes a Model Context Protocol interface to a growth and revenue API, enabling MCP clients to manage account data and interact with platform tools through natural-language-driven tool calls.",
+  "source_repo": "ae-labs-inc/funnelkeeper-client",
+  "source_url": "https://github.com/ae-labs-inc/funnelkeeper-client",
+  "install": "# git clone --depth 1 https://github.com/ae-labs-inc/funnelkeeper-client\n# See source for mcpServers config block"
+}

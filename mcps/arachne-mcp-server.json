@@ -1,0 +1,7 @@
+{
+  "name": "arachne-mcp-server",
+  "description": "MCP server providing tools for web scraping, browser automation, computer vision, audio transcription, and RAG via API.",
+  "source_repo": "Samuelfmedeiros/arachne-mcp",
+  "source_url": "https://github.com/Samuelfmedeiros/arachne-mcp",
+  "install": "npx -y arachne-mcp"
+}

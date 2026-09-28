@@ -1,0 +1,7 @@
+{
+  "name": "oak-mcp",
+  "description": "Enables AI agents to interact with ontologies through the Ontology Access Kit, providing ontology querying and management capabilities.",
+  "source_repo": "monarch-initiative/oak-mcp",
+  "source_url": "https://github.com/monarch-initiative/oak-mcp",
+  "install": "npx -y oak-mcp"
+}

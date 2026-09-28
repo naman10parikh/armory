@@ -1,0 +1,7 @@
+{
+  "name": "mcp-knowledge-viz",
+  "description": "Enables storage and semantic search of facts, and interactive 3D visualization of embeddings via MCP tools.",
+  "source_repo": "abtpst/mcp-knowledge-viz",
+  "source_url": "https://github.com/abtpst/mcp-knowledge-viz",
+  "install": "# git clone --depth 1 https://github.com/abtpst/mcp-knowledge-viz\n# See source for mcpServers config block"
+}

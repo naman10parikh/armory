@@ -1,0 +1,7 @@
+{
+  "name": "nightman",
+  "description": "MCP server for hunting bugs in Python functions via adversarial input generation and minimized regression tests.",
+  "source_repo": "Falcon305/nightman",
+  "source_url": "https://github.com/Falcon305/nightman",
+  "install": "# git clone --depth 1 https://github.com/Falcon305/nightman\n# See source for mcpServers config block"
+}

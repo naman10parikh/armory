@@ -1,0 +1,7 @@
+{
+  "name": "quokkapix-mcp",
+  "description": "Local MCP adapter for private, browser-based QuokkaPix image workflows.",
+  "source_repo": "quokkapix/quokkapix-mcp",
+  "source_url": "https://github.com/quokkapix/quokkapix-mcp",
+  "install": "npx -y quokkapix-mcp"
+}

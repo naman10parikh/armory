@@ -1,0 +1,7 @@
+{
+  "name": "linux-app-deployer",
+  "description": "A FastMCP server for managing and deploying applications on Linux systems. It provides a secure interface for running system commands, managing packages, and deploying containerized applications.",
+  "source_repo": "yogeshsonawane-dev/linux-app-deployer",
+  "source_url": "https://github.com/yogeshsonawane-dev/linux-app-deployer",
+  "install": "# git clone --depth 1 https://github.com/yogeshsonawane-dev/linux-app-deployer\n# See source for mcpServers config block"
+}

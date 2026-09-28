@@ -1,0 +1,7 @@
+{
+  "name": "blender-2d-mcp",
+  "description": "Enables AI-driven 2D drawing and animation in Blender, allowing MCP clients to create Grease Pencil drawings, keyframes, materials, and renders directly inside a running Blender instance.",
+  "source_repo": "Praveen16-V/blender-2d-mcp",
+  "source_url": "https://github.com/Praveen16-V/blender-2d-mcp",
+  "install": "npx -y blender-2d-mcp"
+}

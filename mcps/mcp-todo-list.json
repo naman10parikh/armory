@@ -1,0 +1,7 @@
+{
+  "name": "mcp-todo-list",
+  "description": "MCP server that exposes a TODO list API to AI assistants, enabling natural language management of tasks with create, read, update, and delete operations.",
+  "source_repo": "vinirz/mcp-todo-list",
+  "source_url": "https://github.com/vinirz/mcp-todo-list",
+  "install": "# git clone --depth 1 https://github.com/vinirz/mcp-todo-list\n# See source for mcpServers config block"
+}

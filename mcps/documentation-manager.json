@@ -1,0 +1,7 @@
+{
+  "name": "documentation-manager",
+  "description": "Comprehensive documentation lifecycle management powered by an MCP server. Automates documentation creation, maintenance, quality assessment, and synchronization for software projects.",
+  "source_repo": "arimxyer/doc-manager-mcp",
+  "source_url": "https://github.com/arimxyer/doc-manager-mcp",
+  "install": "npx -y doc-manager-mcp"
+}

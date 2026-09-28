@@ -1,0 +1,7 @@
+{
+  "name": "patchevergreen-mcp-server",
+  "description": "Provides breaking changes analysis for libraries across multiple languages, enabling version upgrade planning, dependency audits, and migration reports through MCP tool access and expert workflows.",
+  "source_repo": "yourpropertyexpert/PatchEvergreen-MCP-Server",
+  "source_url": "https://github.com/yourpropertyexpert/PatchEvergreen-MCP-Server",
+  "install": "npx -y PatchEvergreen-MCP-Server"
+}

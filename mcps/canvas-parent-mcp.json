@@ -1,0 +1,7 @@
+{
+  "name": "canvas-parent-mcp",
+  "description": "MCP server for Canvas LMS enabling parent observers and students to access courses, assignments, grades, and more. Supports multiple authentication methods including token, OAuth, and a convenient fetchproxy fallback.",
+  "source_repo": "chrischall/canvas-parent-mcp",
+  "source_url": "https://github.com/chrischall/canvas-parent-mcp",
+  "install": "npx -y canvas-parent-mcp"
+}

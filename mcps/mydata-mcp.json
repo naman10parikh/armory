@@ -1,0 +1,7 @@
+{
+  "name": "mydata-mcp",
+  "description": "Read-only MCP server for the Greek AADE myDATA e-books API, enabling natural language queries about invoices, income, and expenses with decoded bilingual labels.",
+  "source_repo": "nikagabriel741agent/myData-MCP-Server",
+  "source_url": "https://github.com/nikagabriel741agent/myData-MCP-Server",
+  "install": "npx -y myData-MCP-Server"
+}

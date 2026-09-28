@@ -1,0 +1,7 @@
+{
+  "name": "atomic-computer-mcp",
+  "description": "Enables automation of native Windows desktop applications through screen capture, mouse/keyboard control, and waiting for UI changes, exposing them as MCP tools.",
+  "source_repo": "Dawdler-G/atomic-computer-mcp",
+  "source_url": "https://github.com/Dawdler-G/atomic-computer-mcp",
+  "install": "npx -y atomic-computer-mcp"
+}

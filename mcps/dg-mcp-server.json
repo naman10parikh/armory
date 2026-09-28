@@ -1,0 +1,7 @@
+{
+  "name": "dg-mcp-server",
+  "description": "A powerful and flexible Datagroom MCP server implementation to read the data and let the LLM handle the reasoning of the data.",
+  "source_repo": "hrishi2710/dg-mcp-server",
+  "source_url": "https://github.com/hrishi2710/dg-mcp-server",
+  "install": "npx -y dg-mcp-server"
+}

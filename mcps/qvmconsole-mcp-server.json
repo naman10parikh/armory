@@ -1,0 +1,7 @@
+{
+  "name": "qvmconsole-mcp-server",
+  "description": "Enables AI assistants to manage virtual machines via natural language, including creating, editing, and VNC control.",
+  "source_repo": "QVMConsole/MCP_Server",
+  "source_url": "https://github.com/QVMConsole/MCP_Server",
+  "install": "# git clone --depth 1 https://github.com/QVMConsole/MCP_Server\n# See source for mcpServers config block"
+}

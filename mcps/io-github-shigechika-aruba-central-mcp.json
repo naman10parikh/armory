@@ -1,0 +1,7 @@
+{
+  "name": "io-github-shigechika-aruba-central-mcp",
+  "description": "MCP server for Aruba Central that exposes access point, switch, and wireless client status to MCP-compatible AI assistants via STDIO transport.",
+  "source_repo": "shigechika/aruba-central-mcp",
+  "source_url": "https://github.com/shigechika/aruba-central-mcp",
+  "install": "npx -y aruba-central-mcp"
+}

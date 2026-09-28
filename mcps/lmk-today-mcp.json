@@ -1,0 +1,7 @@
+{
+  "name": "lmk-today-mcp",
+  "description": "Give any AI agent a shopping brain. LMK.today is an open Model Context Protocol server with curated cross-merchant search, real price history, live demand signals, and editorial gift collections — no account required. More at https://lmk.today/mcp",
+  "source_repo": "",
+  "source_url": "https://lmk.today/mcp",
+  "install": "# git clone --depth 1 https://lmk.today/mcp\n# See source for mcpServers config block"
+}

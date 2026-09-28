@@ -1,0 +1,7 @@
+{
+  "name": "searxng-control-plane-mcp-server",
+  "description": "An MCP server for managing SearXNG instances, enabling configuration inspection, engine toggling, health checks, and container lifecycle control.",
+  "source_repo": "TheNovaNodes/searxng-mcp-control",
+  "source_url": "https://github.com/TheNovaNodes/searxng-mcp-control",
+  "install": "# git clone --depth 1 https://github.com/TheNovaNodes/searxng-mcp-control\n# See source for mcpServers config block"
+}

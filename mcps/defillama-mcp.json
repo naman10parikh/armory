@@ -1,0 +1,7 @@
+{
+  "name": "defillama-mcp",
+  "description": "Enables querying live DeFi data from DefiLlama, including chain and protocol TVL, token prices, yield pools, and stablecoin supply, through MCP tools.",
+  "source_repo": "Glebenjoy/defillama-mcp",
+  "source_url": "https://github.com/Glebenjoy/defillama-mcp",
+  "install": "npx -y defillama-mcp"
+}

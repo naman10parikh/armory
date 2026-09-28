@@ -1,0 +1,7 @@
+{
+  "name": "swiftadopt-mcp-2",
+  "description": "An MCP server that helps developers migrate Swift projects to Apple's 2026 platforms by adopting new frameworks and best practices from WWDC 2026.",
+  "source_repo": "dotreflection/swiftadopt-mcp",
+  "source_url": "https://github.com/dotreflection/swiftadopt-mcp",
+  "install": "npx -y swiftadopt-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uiverse-mcp",
+  "description": "MCP server for Uiverse.io that lets AI agents browse, search, and fetch open-source UI components (HTML + CSS) directly in their editor. No API key required, it indexes 3,800+ components locally.",
+  "source_repo": "Fabi-SPL/uiverse-mcp",
+  "source_url": "https://github.com/Fabi-SPL/uiverse-mcp",
+  "install": "npx -y uiverse-mcp"
+}

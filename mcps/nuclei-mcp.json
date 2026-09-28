@@ -1,0 +1,7 @@
+{
+  "name": "nuclei-mcp",
+  "description": "Enables Claude Desktop to run real vulnerability scans using Nuclei through natural language commands.",
+  "source_repo": "kannanprabu/nuclei_mcp",
+  "source_url": "https://github.com/kannanprabu/nuclei_mcp",
+  "install": "npx -y nuclei_mcp"
+}

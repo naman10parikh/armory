@@ -1,0 +1,7 @@
+{
+  "name": "local-computer-full-access-mcp",
+  "description": "Provides full access to a local Windows computer via MCP, enabling arbitrary command execution, file operations, and process management through a secure stdio or HTTP tunnel.",
+  "source_repo": "venkey123456789/local-computer-full-access-mcp",
+  "source_url": "https://github.com/venkey123456789/local-computer-full-access-mcp",
+  "install": "npx -y local-computer-full-access-mcp"
+}

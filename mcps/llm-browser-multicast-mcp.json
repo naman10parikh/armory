@@ -1,0 +1,7 @@
+{
+  "name": "llm-browser-multicast-mcp",
+  "description": "An MCP server that enables multiple AI models (ChatGPT, Gemini, Claude, Grok) to discuss, debate, and reach consensus via browser automation.",
+  "source_repo": "isaka1022/llm-browser-multicast-mcp",
+  "source_url": "https://github.com/isaka1022/llm-browser-multicast-mcp",
+  "install": "npx -y llm-browser-multicast-mcp"
+}

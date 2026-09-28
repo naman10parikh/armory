@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-faa-aircraft-registry-mcp-server",
+  "description": "Enables offline lookup and search of the US civil aircraft registry by N-number, owner, type, or state, returning detailed aircraft and ownership information.",
+  "source_repo": "cyanheads/faa-aircraft-registry-mcp-server",
+  "source_url": "https://github.com/cyanheads/faa-aircraft-registry-mcp-server",
+  "install": "npx -y faa-aircraft-registry-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "data-verify-mcp-server",
+  "description": "An MCP server that provides comprehensive data verification in China, including identity, business, vehicle, OCR, and risk assessment services.",
+  "source_repo": "CCCpan/data-verify-mcp",
+  "source_url": "https://github.com/CCCpan/data-verify-mcp",
+  "install": "npx -y data-verify-mcp"
+}

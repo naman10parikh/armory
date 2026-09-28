@@ -1,0 +1,7 @@
+{
+  "name": "tallymind-mcp",
+  "description": "An MCP server for TallyPrime ERP that fixes common gaps such as hardcoded localhost, lack of connection diagnostics and dry-run safety, missing GST tools, and session state loss, providing a smoother integration with Claude Desktop.",
+  "source_repo": "Wadhawnaiya/tally-plugins",
+  "source_url": "https://github.com/Wadhawnaiya/tally-plugins",
+  "install": "# git clone --depth 1 https://github.com/Wadhawnaiya/tally-plugins\n# See source for mcpServers config block"
+}

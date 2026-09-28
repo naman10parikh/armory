@@ -1,0 +1,7 @@
+{
+  "name": "mcp-shield-runtime",
+  "description": "MCP Shield Runtime is a local-first security gateway that controls MCP tool calls with parameter-level policies, approval gates, secret redaction, rate limiting, contract drift detection, and tamper-evident auditing before they reach the upstream MCP server.",
+  "source_repo": "samsgates/mcp-shield-runtime",
+  "source_url": "https://github.com/samsgates/mcp-shield-runtime",
+  "install": "# git clone --depth 1 https://github.com/samsgates/mcp-shield-runtime\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jotae-mcp",
+  "description": "Connects Claude to Jotae for creating events, configuring WhatsApp and email automations, and reading metrics through natural language.",
+  "source_repo": "jackemerick/jotae-mcp",
+  "source_url": "https://github.com/jackemerick/jotae-mcp",
+  "install": "npx -y jotae-mcp"
+}

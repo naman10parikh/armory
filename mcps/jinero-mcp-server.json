@@ -1,0 +1,7 @@
+{
+  "name": "jinero-mcp-server",
+  "description": "Provides AI agents with 22 read-only design tools: font search and recognition, color contrast/shades/naming, palette extraction, code minification and detection, and SVG optimization. It's a free, hosted remote MCP server with no auth, rate-limited at 60 req/min per IP.",
+  "source_repo": "jinero-online/jinero-mcp",
+  "source_url": "https://github.com/jinero-online/jinero-mcp",
+  "install": "npx -y jinero-mcp"
+}

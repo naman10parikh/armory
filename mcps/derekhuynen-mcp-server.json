@@ -1,0 +1,7 @@
+{
+  "name": "derekhuynen-mcp-server",
+  "description": "Exposes Derek Huynen's professional profile to MCP-aware AI clients, providing tools to retrieve profile, skills, experience, and projects, and resources like profile summary and resume.",
+  "source_repo": "derekhuynen/derekhuynen-mcp-server",
+  "source_url": "https://github.com/derekhuynen/derekhuynen-mcp-server",
+  "install": "npx -y derekhuynen-mcp-server"
+}

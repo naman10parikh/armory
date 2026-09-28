@@ -1,0 +1,7 @@
+{
+  "name": "jdownloader-mcp",
+  "description": "MCP server to drive a local JDownloader 2 instance through its entire download lifecycle, including adding links/containers, linkgrabber management, queue control, priority, force-start, progress tracking, and cleanup.",
+  "source_repo": "swe-sanad/jdownloader-mcp",
+  "source_url": "https://github.com/swe-sanad/jdownloader-mcp",
+  "install": "npx -y jdownloader-mcp"
+}

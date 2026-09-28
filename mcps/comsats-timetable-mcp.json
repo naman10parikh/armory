@@ -1,0 +1,7 @@
+{
+  "name": "comsats-timetable-mcp",
+  "description": "Enables fetching and analyzing COMSATS University timetables via natural language, bridging Claude Desktop with the live university timetable system.",
+  "source_repo": "abbdullahjan/comsats-timetable-mcp",
+  "source_url": "https://github.com/abbdullahjan/comsats-timetable-mcp",
+  "install": "npx -y comsats-timetable-mcp"
+}

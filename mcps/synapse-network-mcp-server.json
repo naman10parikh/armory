@@ -1,0 +1,7 @@
+{
+  "name": "synapse-network-mcp-server",
+  "description": "Enables AI agents to discover, pay for, and retrieve receipts for external APIs via USDC micropayments through the SynapseNetwork Gateway, supporting stdio and Remote MCP.",
+  "source_repo": "SynapseNetworkAI/Synapse-Network-MCP-Server",
+  "source_url": "https://github.com/SynapseNetworkAI/Synapse-Network-MCP-Server",
+  "install": "npx -y Synapse-Network-MCP-Server"
+}

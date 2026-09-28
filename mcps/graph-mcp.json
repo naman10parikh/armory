@@ -1,0 +1,7 @@
+{
+  "name": "graph-mcp",
+  "description": "Exposes a Neo4j knowledge-graph index over personal markdown notes to LLM agents via MCP, enabling semantic search, tag navigation, and relationship discovery.",
+  "source_repo": "cao-jacky/graph-mcp",
+  "source_url": "https://github.com/cao-jacky/graph-mcp",
+  "install": "npx -y graph-mcp"
+}

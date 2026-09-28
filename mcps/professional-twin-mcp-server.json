@@ -1,0 +1,7 @@
+{
+  "name": "professional-twin-mcp-server",
+  "description": "Enables users to interact with professional digital twin data via Claude Desktop, including searching experience, managing contact and scheduling, and generating introductions and project showcases.",
+  "source_repo": "MdMizanurVU/professional-twin-mcp",
+  "source_url": "https://github.com/MdMizanurVU/professional-twin-mcp",
+  "install": "npx -y professional-twin-mcp"
+}

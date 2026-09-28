@@ -1,0 +1,7 @@
+{
+  "name": "checkmcp",
+  "description": "A vendor-neutral audit tool that evaluates MCP servers for security, quality, and context cost, producing an MCP Score with actionable insights.",
+  "source_repo": "H129hj/checkmcp",
+  "source_url": "https://github.com/H129hj/checkmcp",
+  "install": "# git clone --depth 1 https://github.com/H129hj/checkmcp\n# See source for mcpServers config block"
+}

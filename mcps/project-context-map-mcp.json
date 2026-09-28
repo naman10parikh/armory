@@ -1,0 +1,7 @@
+{
+  "name": "project-context-map-mcp",
+  "description": "Generates structured project memory and exposes MCP tools for AI coding agents to query topology, read relevant files, and log changes in a repository.",
+  "source_repo": "tamojit-123/project-context-map-mcp",
+  "source_url": "https://github.com/tamojit-123/project-context-map-mcp",
+  "install": "npx -y project-context-map-mcp"
+}

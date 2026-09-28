@@ -1,0 +1,7 @@
+{
+  "name": "gpt-plus-plus",
+  "description": "Enables AI clients to control local Windows development tools by exposing project files, code search, file editing, test execution, Git operations, and resource viewing through a secure MCP interface with permission controls.",
+  "source_repo": "ranhunya/gpt-plus-plus",
+  "source_url": "https://github.com/ranhunya/gpt-plus-plus",
+  "install": "# git clone --depth 1 https://github.com/ranhunya/gpt-plus-plus\n# See source for mcpServers config block"
+}

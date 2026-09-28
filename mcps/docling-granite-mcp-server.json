@@ -1,0 +1,7 @@
+{
+  "name": "docling-granite-mcp-server",
+  "description": "Converts PDF documents to Markdown with automatic image description generation using IBM Granite Vision, supporting streaming and page range selection.",
+  "source_repo": "prafulsapkota/doclingMCP",
+  "source_url": "https://github.com/prafulsapkota/doclingMCP",
+  "install": "# git clone --depth 1 https://github.com/prafulsapkota/doclingMCP\n# See source for mcpServers config block"
+}

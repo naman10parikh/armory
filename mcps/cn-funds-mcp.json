@@ -1,0 +1,7 @@
+{
+  "name": "cn-funds-mcp",
+  "description": "A China fund & stock data MCP server powered by EastMoney free API, enabling querying of fund and stock data without API keys.",
+  "source_repo": "smallke/cn-funds-mcp",
+  "source_url": "https://github.com/smallke/cn-funds-mcp",
+  "install": "npx -y cn-funds-mcp"
+}

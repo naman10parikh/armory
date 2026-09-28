@@ -1,0 +1,7 @@
+{
+  "name": "apocrypha",
+  "description": "Enables assistants to maintain an append-only memory for personal context that should not be stored in their built-in memory, with tools for noting, recalling, and compressing memories.",
+  "source_repo": "JensenAbler/apocrypha",
+  "source_url": "https://github.com/JensenAbler/apocrypha",
+  "install": "# git clone --depth 1 https://github.com/JensenAbler/apocrypha\n# See source for mcpServers config block"
+}

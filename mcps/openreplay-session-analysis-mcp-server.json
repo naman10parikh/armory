@@ -1,0 +1,7 @@
+{
+  "name": "openreplay-session-analysis-mcp-server",
+  "description": "Enables AI assistants to analyze OpenReplay session recordings for user behavior patterns, problem detection, and actionable insights through session search, journey analysis, and AI-powered summaries.",
+  "source_repo": "rsp2k/openreplay-mcp-server",
+  "source_url": "https://github.com/rsp2k/openreplay-mcp-server",
+  "install": "npx -y openreplay-mcp-server"
+}

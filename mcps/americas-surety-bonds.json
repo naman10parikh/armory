@@ -1,0 +1,7 @@
+{
+  "name": "americas-surety-bonds",
+  "description": "Search 6,900+ U.S. surety bond requirements across all 50 states. Instant pricing.",
+  "source_repo": "AmericasSuretyBonds/americassuretybonds-mcp",
+  "source_url": "https://github.com/AmericasSuretyBonds/americassuretybonds-mcp",
+  "install": "npx -y americassuretybonds-mcp"
+}

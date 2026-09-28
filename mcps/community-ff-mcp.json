@@ -1,0 +1,7 @@
+{
+  "name": "community-ff-mcp",
+  "description": "Enables AI-assisted FlutterFlow development by reading, exploring, and understanding FlutterFlow projects through Claude and other MCP-compatible clients.",
+  "source_repo": "mohn93/ff-mcp",
+  "source_url": "https://github.com/mohn93/ff-mcp",
+  "install": "npx -y ff-mcp"
+}

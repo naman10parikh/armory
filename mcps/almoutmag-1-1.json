@@ -1,0 +1,7 @@
+{
+  "name": "almoutmag-1-1",
+  "description": "Enables cloud AI agents to securely connect to a local Windows machine and execute tools such as system info, file operations, browser automation, and coding tasks through the Model Context Protocol.",
+  "source_repo": "mohammadfhgjvhgi/almoutmag-3.0",
+  "source_url": "https://github.com/mohammadfhgjvhgi/almoutmag-3.0",
+  "install": "# git clone --depth 1 https://github.com/mohammadfhgjvhgi/almoutmag-3.0\n# See source for mcpServers config block"
+}

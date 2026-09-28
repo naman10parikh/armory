@@ -1,0 +1,7 @@
+{
+  "name": "exec-dir-mcp",
+  "description": "A Model Context Protocol server for safely executing shell commands in specified directories with directory restrictions, timeout control, and detailed logging.",
+  "source_repo": "yunhai-dev/exec-dir-mcp",
+  "source_url": "https://github.com/yunhai-dev/exec-dir-mcp",
+  "install": "npx -y exec-dir-mcp"
+}

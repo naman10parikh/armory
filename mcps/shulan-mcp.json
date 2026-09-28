@@ -1,0 +1,7 @@
+{
+  "name": "shulan-mcp",
+  "description": "AI data research & report generation — market data, KOL lists, bidding summaries, company insights, hiring signals via the ShuLan data platform.",
+  "source_repo": "shulan-io/shulan-mcp",
+  "source_url": "https://github.com/shulan-io/shulan-mcp",
+  "install": "npx -y shulan-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "memory-server",
+  "description": "A memory management MCP server that stores and retrieves key-value data with namespaces, enabling agents to persist and query memory.",
+  "source_repo": "gulshatik/coursework-mcp-189a4d",
+  "source_url": "https://github.com/gulshatik/coursework-mcp-189a4d",
+  "install": "# git clone --depth 1 https://github.com/gulshatik/coursework-mcp-189a4d\n# See source for mcpServers config block"
+}

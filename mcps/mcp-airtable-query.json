@@ -1,0 +1,7 @@
+{
+  "name": "mcp-airtable-query",
+  "description": "Lightweight TypeScript MCP server for Airtable base discovery, table/view queries, record CRUD, and validated filterByFormula construction.",
+  "source_repo": "TTaoGaming/mcp-airtable-query",
+  "source_url": "https://github.com/TTaoGaming/mcp-airtable-query",
+  "install": "# git clone --depth 1 https://github.com/TTaoGaming/mcp-airtable-query\n# See source for mcpServers config block"
+}

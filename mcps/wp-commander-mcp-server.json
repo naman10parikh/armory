@@ -1,0 +1,7 @@
+{
+  "name": "wp-commander-mcp-server",
+  "description": "Controls any WordPress site via natural language, offering tools for site health, plugins, posts, SEO, WooCommerce, and more.",
+  "source_repo": "Hari842-ai/wp-commander-mcp",
+  "source_url": "https://github.com/Hari842-ai/wp-commander-mcp",
+  "install": "npx -y wp-commander-mcp"
+}

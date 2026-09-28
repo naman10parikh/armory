@@ -1,0 +1,7 @@
+{
+  "name": "infomaniak-admin-mcp",
+  "description": "Enables agentic administration of Infomaniak accounts via Claude, offering 169 tools for web hosting, mail, domains, DNS, and more, with a strict two-phase commit for safe mutations.",
+  "source_repo": "henrikogaard/infomaniak-admin-mcp",
+  "source_url": "https://github.com/henrikogaard/infomaniak-admin-mcp",
+  "install": "npx -y infomaniak-admin-mcp"
+}

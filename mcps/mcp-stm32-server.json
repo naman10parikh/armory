@@ -1,0 +1,7 @@
+{
+  "name": "mcp-stm32-server",
+  "description": "Enables AI assistants to control an STM32 microcontroller over serial by reading/writing GPIO, setting LED brightness, reading ADC channels, and displaying text on an OLED screen via natural language.",
+  "source_repo": "propfire11/mcp-stm32-server",
+  "source_url": "https://github.com/propfire11/mcp-stm32-server",
+  "install": "# git clone --depth 1 https://github.com/propfire11/mcp-stm32-server\n# See source for mcpServers config block"
+}

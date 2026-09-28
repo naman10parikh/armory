@@ -1,0 +1,7 @@
+{
+  "name": "fuxam-student-mcp",
+  "description": "Enables local MCP clients to explore a student's Fuxam modules, learning units, progress, schedule, and semester options, and to plan, compare, and check proposed course sets for conflicts.",
+  "source_repo": "maximilianspitzer/fuxam-student-mcp",
+  "source_url": "https://github.com/maximilianspitzer/fuxam-student-mcp",
+  "install": "npx -y fuxam-student-mcp"
+}

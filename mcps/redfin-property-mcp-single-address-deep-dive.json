@@ -1,0 +1,7 @@
+{
+  "name": "redfin-property-mcp-single-address-deep-dive",
+  "description": "Focused Redfin tool: feed it an address or listing URL, get back full property history, price-per-sqft, days on market, and neighborhood context. Pairs with the broader Real Estate MCP for market-level queries; this one is for the 'tell me everything about this specific house' question.",
+  "source_repo": "",
+  "source_url": "https://thenextgennexus.com",
+  "install": "# git clone --depth 1 https://thenextgennexus.com\n# See source for mcpServers config block"
+}

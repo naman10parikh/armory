@@ -1,0 +1,7 @@
+{
+  "name": "vision-roblox-mcp",
+  "description": "Automates Roblox Studio tasks via MCP by combining multiple backends for scene editing, script management, asset insertion, and playtesting with safety features like undo recordings and task leasing.",
+  "source_repo": "evonar543/vision-roblox-mcp",
+  "source_url": "https://github.com/evonar543/vision-roblox-mcp",
+  "install": "npx -y vision-roblox-mcp"
+}

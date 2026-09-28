@@ -1,0 +1,7 @@
+{
+  "name": "sekura-design-mcp",
+  "description": "Serves the complete Sekura Design System—tokens, components, layouts, UX patterns, accessibility contract, and paste-ready code—to MCP-capable tools, enabling agents to build accessible, dark-mode-first interfaces with verified values.",
+  "source_repo": "mictsi/SekuraDesignMCP",
+  "source_url": "https://github.com/mictsi/SekuraDesignMCP",
+  "install": "# git clone --depth 1 https://github.com/mictsi/SekuraDesignMCP\n# See source for mcpServers config block"
+}

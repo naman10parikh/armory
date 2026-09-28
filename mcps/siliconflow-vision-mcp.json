@@ -1,0 +1,7 @@
+{
+  "name": "siliconflow-vision-mcp",
+  "description": "An MCP server that provides 8 vision tools for UI screenshot to code, OCR, error diagnosis, diagram understanding, data visualization analysis, UI diff, and image/video analysis, plus model list query, powered by SiliconFlow's multimodal API.",
+  "source_repo": "klx1204/SiliconFlow-Vision-MCP",
+  "source_url": "https://github.com/klx1204/SiliconFlow-Vision-MCP",
+  "install": "npx -y SiliconFlow-Vision-MCP"
+}

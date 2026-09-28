@@ -1,0 +1,7 @@
+{
+  "name": "golf",
+  "description": "Easiest framework for building MCP servers with automatic discovery of tools, prompts, and resources, plus enterprise-grade authentication and telemetry.",
+  "source_repo": "golf-mcp/golf",
+  "source_url": "https://github.com/golf-mcp/golf",
+  "install": "# git clone --depth 1 https://github.com/golf-mcp/golf\n# See source for mcpServers config block"
+}

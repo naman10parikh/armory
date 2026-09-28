@@ -1,0 +1,7 @@
+{
+  "name": "mcp-knowledge-assistant",
+  "description": "A custom MCP server providing semantic note memory (Qdrant + FastEmbed) and optional web search (Tavily) tools for a LangGraph ReAct agent.",
+  "source_repo": "deepxk2403/mcp-knowledge-assistant",
+  "source_url": "https://github.com/deepxk2403/mcp-knowledge-assistant",
+  "install": "# git clone --depth 1 https://github.com/deepxk2403/mcp-knowledge-assistant\n# See source for mcpServers config block"
+}

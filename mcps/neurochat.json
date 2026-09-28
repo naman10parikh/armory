@@ -1,0 +1,7 @@
+{
+  "name": "neurochat",
+  "description": "Enables natural language querying of brain volumes (NIfTI) with a fixed set of tools, returning visualizations and reproducible nilearn code.",
+  "source_repo": "AyushXRane/neurochat",
+  "source_url": "https://github.com/AyushXRane/neurochat",
+  "install": "# git clone --depth 1 https://github.com/AyushXRane/neurochat\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-ads-mcp",
+  "description": "An MCP server for the Microsoft Advertising (Bing Ads) API. Gives an MCP client live read and management access to your Microsoft Advertising accounts — reporting, campaign structure, and full write operations.",
+  "source_repo": "james-julius/microsoft-ads-mcp",
+  "source_url": "https://github.com/james-julius/microsoft-ads-mcp",
+  "install": "npx -y microsoft-ads-mcp"
+}

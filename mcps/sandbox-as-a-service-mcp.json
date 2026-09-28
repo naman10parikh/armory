@@ -1,0 +1,7 @@
+{
+  "name": "sandbox-as-a-service-mcp",
+  "description": "Provides agents with real Linux VMs to run commands, manage files, expose ports, and track costs, all through an ephemeral sandbox service.",
+  "source_repo": "fstandhartinger/sandbox-as-a-service-mcp",
+  "source_url": "https://github.com/fstandhartinger/sandbox-as-a-service-mcp",
+  "install": "npx -y sandbox-as-a-service-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kaidn-mcp",
+  "description": "Investigate fraud directly from Claude, Cursor, or any MCP-compatible client. Analyze suspicious activity with clear, evidence-backed verdicts. Pivot from a single signup to every account sharing the same device, IP address, or email inbox. Check entities against a cross-operator abuse network, revi",
+  "source_repo": "Kaidn-io/kaidn-mcp",
+  "source_url": "https://github.com/Kaidn-io/kaidn-mcp",
+  "install": "npx -y kaidn-mcp"
+}

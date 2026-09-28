@@ -1,0 +1,7 @@
+{
+  "name": "snapdiff-mcp",
+  "description": "Intent-aware visual verification for coding agents: the agent declares what a UI change should affect, and SnapDiff diffs the page against a baseline and flags anything that changed outside that intent for review or rollback — local screenshot capture via Playwright.",
+  "source_repo": "corralimited/snapdiff-mcp",
+  "source_url": "https://github.com/corralimited/snapdiff-mcp",
+  "install": "npx -y snapdiff-mcp"
+}

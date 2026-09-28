@@ -1,0 +1,7 @@
+{
+  "name": "trainingpeaks-mcp",
+  "description": "Enables querying workouts, fitness metrics (CTL/ATL/TSB), and power personal records from TrainingPeaks using natural language.",
+  "source_repo": "haytam111234/trainingpeaks-mcp",
+  "source_url": "https://github.com/haytam111234/trainingpeaks-mcp",
+  "install": "npx -y trainingpeaks-mcp"
+}

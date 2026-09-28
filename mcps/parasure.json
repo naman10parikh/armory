@@ -1,0 +1,7 @@
+{
+  "name": "parasure",
+  "description": "AI-native parametric insurance infrastructure. Live weather risk assessment via x402 (USDC on Solana). Full quote, bind, and settle protocol loop available in sandbox; live carrier integration in progress.",
+  "source_repo": "",
+  "source_url": "https://parasure.xyz",
+  "install": "# git clone --depth 1 https://parasure.xyz\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kcf-mcp",
+  "description": "MCP server that lets Claude, ChatGPT, or VS Code build a complete, machine-checked model of your domain and generate an app from it.",
+  "source_repo": "mikec-chi/kcf-mcp",
+  "source_url": "https://github.com/mikec-chi/kcf-mcp",
+  "install": "npx -y kcf-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "devassist-mcp-server",
+  "description": "A production-ready MCP server for GitHub and competitive programming (Codeforces) that enables AI assistants to fetch user profiles, repository stats, contest history, and personalized problem recommendations.",
+  "source_repo": "Champion-2006/DevAssist-MCP-Server",
+  "source_url": "https://github.com/Champion-2006/DevAssist-MCP-Server",
+  "install": "npx -y DevAssist-MCP-Server"
+}

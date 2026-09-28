@@ -1,0 +1,7 @@
+{
+  "name": "graphrag-typescript-mcp-tools",
+  "description": "An MCP server that connects AI assistants to a Neo4j graph database, enabling querying of movie data through tools like graph statistics, genre-based search, and movie details, along with advanced features such as LLM sampling and completions.",
+  "source_repo": "Akakinad/genai-mcp-build-custom-tools-typescript",
+  "source_url": "https://github.com/Akakinad/genai-mcp-build-custom-tools-typescript",
+  "install": "# git clone --depth 1 https://github.com/Akakinad/genai-mcp-build-custom-tools-typescript\n# See source for mcpServers config block"
+}

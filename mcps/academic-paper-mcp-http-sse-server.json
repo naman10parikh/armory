@@ -1,0 +1,7 @@
+{
+  "name": "academic-paper-mcp-http-sse-server",
+  "description": "A MCP server for academic literature retrieval, aggregating multiple data sources like arXiv, Crossref, OpenAlex, PubMed, and Semantic Scholar to provide search, details, citations, trends, and recommendations.",
+  "source_repo": "pastchais/academic-paper-mcp-http",
+  "source_url": "https://github.com/pastchais/academic-paper-mcp-http",
+  "install": "# git clone --depth 1 https://github.com/pastchais/academic-paper-mcp-http\n# See source for mcpServers config block"
+}

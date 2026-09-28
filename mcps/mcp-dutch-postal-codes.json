@@ -1,6 +1,6 @@
 {
   "name": "mcp-dutch-postal-codes",
-  "description": "Mcp Dutch Postal Codes MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "dstotijn/mcp-dutch-postal-codes",
   "source_url": "https://mcp.so/server/mcp-dutch-postal-codes/dstotijn",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-dutch-postal-codes/dstotijn\n# See source for mcpServers config block"

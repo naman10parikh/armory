@@ -1,0 +1,7 @@
+{
+  "name": "zurich-open-data-mcp-server",
+  "description": "An MCP server providing AI-powered access to Open Data from the City of Zurich, enabling queries to 900+ datasets, real-time environmental and mobility data, geodata, parliamentary proceedings, and more.",
+  "source_repo": "malkreide/zurich-opendata-mcp",
+  "source_url": "https://github.com/malkreide/zurich-opendata-mcp",
+  "install": "npx -y zurich-opendata-mcp"
+}

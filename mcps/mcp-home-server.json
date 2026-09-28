@@ -1,0 +1,7 @@
+{
+  "name": "mcp-home-server",
+  "description": "A dynamic MCP server that hot-reloads tools at runtime and provides URL tracking, onboarding, and scouting features for AI clients.",
+  "source_repo": "mgreenspan17/mcp-home-server",
+  "source_url": "https://github.com/mgreenspan17/mcp-home-server",
+  "install": "# git clone --depth 1 https://github.com/mgreenspan17/mcp-home-server\n# See source for mcpServers config block"
+}

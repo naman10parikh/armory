@@ -1,0 +1,7 @@
+{
+  "name": "x402-codesearch-mcp",
+  "description": "Enables free indexing of repository files into a live semantic code search Worker via the index_code tool, while semantic search requires calling the paid x402-gated endpoint directly.",
+  "source_repo": "liminalpepe/x402-codesearch-mcp",
+  "source_url": "https://github.com/liminalpepe/x402-codesearch-mcp",
+  "install": "npx -y x402-codesearch-mcp"
+}

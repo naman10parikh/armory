@@ -1,0 +1,7 @@
+{
+  "name": "aoj-workbench",
+  "description": "Private remote HTTP MCP server that provides a unified endpoint to interact with Google Workspace services (Drive, Sheets, Gmail, Calendar, Docs, Forms) and other toolkits through the Composio provider layer.",
+  "source_repo": "AojdevStudio/gdrive",
+  "source_url": "https://github.com/AojdevStudio/gdrive",
+  "install": "# git clone --depth 1 https://github.com/AojdevStudio/gdrive\n# See source for mcpServers config block"
+}

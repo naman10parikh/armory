@@ -1,7 +1,0 @@
-{
-  "name": "sooda",
-  "description": "Agent relay for messaging business agents across company boundaries via A2A protocol.",
-  "source_repo": "sooda-ai/sooda-mcp",
-  "source_url": "https://github.com/sooda-ai/sooda-mcp",
-  "install": "npx -y sooda-mcp"
-}

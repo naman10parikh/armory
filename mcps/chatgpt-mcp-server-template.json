@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-mcp-server-template",
+  "description": "A boilerplate for building local Node.js MCP servers that integrate with ChatGPT Web UI, featuring mock OAuth and secure tunneling for instant connection.",
+  "source_repo": "Faust-Donf/chatgpt-mcp-server-template",
+  "source_url": "https://github.com/Faust-Donf/chatgpt-mcp-server-template",
+  "install": "# git clone --depth 1 https://github.com/Faust-Donf/chatgpt-mcp-server-template\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "adobe-mcp",
+  "description": "Drives After Effects, Photoshop, Illustrator, Premiere Pro (and Character Animator puppet authoring) from Claude.",
+  "source_repo": "AJSMonty/adobe-mcp",
+  "source_url": "https://github.com/AJSMonty/adobe-mcp",
+  "install": "npx -y adobe-mcp"
+}

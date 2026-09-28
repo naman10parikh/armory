@@ -1,0 +1,7 @@
+{
+  "name": "autobrr-mcp",
+  "description": "MCP server exposing autobrr's full API as tools, enabling LLMs to read and manage filters, indexers, feeds, clients, actions, releases, and system config. It wraps approximately 104 endpoints into 13 resource-scoped tools for comprehensive autobrr instance management.",
+  "source_repo": "SavageCore/autobrr-mcp",
+  "source_url": "https://github.com/SavageCore/autobrr-mcp",
+  "install": "npx -y autobrr-mcp"
+}

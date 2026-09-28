@@ -1,0 +1,7 @@
+{
+  "name": "ts-mcp-meta",
+  "description": "Aggregates tools from multiple MCP servers, generates TypeScript definitions, and executes custom TypeScript scripts to orchestrate cross-server tool calls.",
+  "source_repo": "Pearcekieser/ts-mcp-wrapper",
+  "source_url": "https://github.com/Pearcekieser/ts-mcp-wrapper",
+  "install": "# git clone --depth 1 https://github.com/Pearcekieser/ts-mcp-wrapper\n# See source for mcpServers config block"
+}

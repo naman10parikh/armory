@@ -1,0 +1,7 @@
+{
+  "name": "agenticmemory",
+  "description": "Persistent memory MCP server for AI agents that stores, recalls, and searches conversation history, key-value context, and long-term entries across sessions with semantic search and FIFO queues.",
+  "source_repo": "jyswee/agenticmemory",
+  "source_url": "https://github.com/jyswee/agenticmemory",
+  "install": "# git clone --depth 1 https://github.com/jyswee/agenticmemory\n# See source for mcpServers config block"
+}

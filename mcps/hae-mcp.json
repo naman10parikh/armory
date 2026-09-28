@@ -1,0 +1,7 @@
+{
+  "name": "hae-mcp",
+  "description": "MCP server for hae — a GTD-based task management app. Gives Claude full access to your hae instance: projects, cards, columns, checklists, comments, labels, organisations, notifications, users, and AI features.",
+  "source_repo": "bzhzion/hae-mcp",
+  "source_url": "https://github.com/bzhzion/hae-mcp",
+  "install": "npx -y hae-mcp"
+}

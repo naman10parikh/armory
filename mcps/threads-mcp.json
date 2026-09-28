@@ -1,0 +1,7 @@
+{
+  "name": "threads-mcp",
+  "description": "MCP server for the Threads API, enabling profile management, content reading, publishing, replies, and discovery through 26 tools.",
+  "source_repo": "griffinwork40/threads-mcp",
+  "source_url": "https://github.com/griffinwork40/threads-mcp",
+  "install": "npx -y threads-mcp"
+}

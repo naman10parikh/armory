@@ -1,0 +1,7 @@
+{
+  "name": "metatrader5-mcp-server",
+  "description": "Enables AI applications to interact with MetaTrader 5 terminals via WebSocket MCP protocol for trading operations and account management.",
+  "source_repo": "geekjapan/metatrader5-mcp-server",
+  "source_url": "https://github.com/geekjapan/metatrader5-mcp-server",
+  "install": "npx -y metatrader5-mcp-server"
+}

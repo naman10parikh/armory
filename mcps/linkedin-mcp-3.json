@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-mcp-3",
+  "description": "A local MCP server that lets Claude log in to LinkedIn and publish image posts to your personal profile feed, backed by LinkedIn's REST Images API and Posts API.",
+  "source_repo": "egig/linkedin-mcp",
+  "source_url": "https://github.com/egig/linkedin-mcp",
+  "install": "npx -y linkedin-mcp"
+}

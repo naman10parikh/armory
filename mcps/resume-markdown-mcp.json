@@ -1,0 +1,7 @@
+{
+  "name": "resume-markdown-mcp",
+  "description": "Write your resume in Markdown and export to PDF with AI assistance, using a built-in stylesheet and tools for conversion.",
+  "source_repo": "ailenshen/resume-markdown-mcp",
+  "source_url": "https://github.com/ailenshen/resume-markdown-mcp",
+  "install": "npx -y resume-markdown-mcp"
+}

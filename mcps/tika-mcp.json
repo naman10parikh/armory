@@ -1,0 +1,7 @@
+{
+  "name": "tika-mcp",
+  "description": "An MCP server that wraps Apache Tika to extract text, metadata, and more from documents. It supports local files and optional remote URLs with SSRF protections.",
+  "source_repo": "Edgaras0x4E/tika-MCP",
+  "source_url": "https://github.com/Edgaras0x4E/tika-MCP",
+  "install": "npx -y tika-MCP"
+}

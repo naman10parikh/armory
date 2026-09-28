@@ -1,0 +1,7 @@
+{
+  "name": "mcp-banking-tools",
+  "description": "MCP server for deterministic financial transactions, providing tools to fetch account balances, check blocked PIX keys, and execute atomic PIX transfers with integer-cent precision.",
+  "source_repo": "gabsgoms10/mcp-banking-tools",
+  "source_url": "https://github.com/gabsgoms10/mcp-banking-tools",
+  "install": "# git clone --depth 1 https://github.com/gabsgoms10/mcp-banking-tools\n# See source for mcpServers config block"
+}

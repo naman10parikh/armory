@@ -1,0 +1,7 @@
+{
+  "name": "data-mcp-server",
+  "description": "Enables scientific data introspection and visualization of VTK datasets with format-adaptive metadata extraction and interactive 3D visualization through MCP tools.",
+  "source_repo": "patrickoleary/data-mcp",
+  "source_url": "https://github.com/patrickoleary/data-mcp",
+  "install": "npx -y data-mcp"
+}

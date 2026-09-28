@@ -1,0 +1,7 @@
+{
+  "name": "cat-hotel-mcp",
+  "description": "A text-based cat hotel management game for AI, where you act as a temporary manager to care for cat customers through MCP tools.",
+  "source_repo": "Echoes0302/cat-hotel-mcp",
+  "source_url": "https://github.com/Echoes0302/cat-hotel-mcp",
+  "install": "npx -y cat-hotel-mcp"
+}

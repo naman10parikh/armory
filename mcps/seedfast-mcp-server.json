@@ -1,0 +1,7 @@
+{
+  "name": "seedfast-mcp-server",
+  "description": "MCP server for Seedfast, which fills PostgreSQL databases with realistic, relationally valid test data generated from live schema, providing tools for planning, running, and inspecting seeding operations.",
+  "source_repo": "seedfast-ai/seedfast-mcp",
+  "source_url": "https://github.com/seedfast-ai/seedfast-mcp",
+  "install": "npx -y seedfast-mcp"
+}

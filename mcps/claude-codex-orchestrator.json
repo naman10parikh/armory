@@ -1,0 +1,7 @@
+{
+  "name": "claude-codex-orchestrator",
+  "description": "A local MCP server that manages Claude-to-Codex task orchestration on Windows, providing tools for creating, dispatching, and monitoring tasks with safety constraints.",
+  "source_repo": "sixflower666/claude-codex-orchestrator-mcp",
+  "source_url": "https://github.com/sixflower666/claude-codex-orchestrator-mcp",
+  "install": "npx -y claude-codex-orchestrator-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bridge-accessibility-mcp-server",
+  "description": "Provides tools for text simplification, translation, and image description via Google Gemini, enabling accessible content processing from any MCP client.",
+  "source_repo": "GuptaAnvesha/Slack_Agent_Builder_Challenge",
+  "source_url": "https://github.com/GuptaAnvesha/Slack_Agent_Builder_Challenge",
+  "install": "# git clone --depth 1 https://github.com/GuptaAnvesha/Slack_Agent_Builder_Challenge\n# See source for mcpServers config block"
+}

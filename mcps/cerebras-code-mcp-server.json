@@ -1,0 +1,7 @@
+{
+  "name": "cerebras-code-mcp-server",
+  "description": "Enables planning with Claude Code and high-speed code generation using Cerebras, avoiding API limits while producing quality code with visual diffs.",
+  "source_repo": "davidweatherall/cerebras-code-mcp",
+  "source_url": "https://github.com/davidweatherall/cerebras-code-mcp",
+  "install": "npx -y cerebras-code-mcp"
+}

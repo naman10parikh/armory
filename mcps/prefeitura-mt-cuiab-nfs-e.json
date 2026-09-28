@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-mt-cuiab-nfs-e",
+  "description": "Enables querying official electronic service invoices (NFS-e) from the Cuiabá city government in Brazil, providing read-only access to official data.",
+  "source_repo": "mcp-dir/pref_mt_cuiaba_nfs-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_mt_cuiaba_nfs-mcp",
+  "install": "npx -y pref_mt_cuiaba_nfs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cloud-sandbox-mcp",
+  "description": "Provides ChatGPT with a persistent, VM-like Linux engineering workstation inside Docker, with root access, development tools, and a private nested Docker daemon.",
+  "source_repo": "BernydotJar/cloud-sandbox-mcp-v2",
+  "source_url": "https://github.com/BernydotJar/cloud-sandbox-mcp-v2",
+  "install": "# git clone --depth 1 https://github.com/BernydotJar/cloud-sandbox-mcp-v2\n# See source for mcpServers config block"
+}

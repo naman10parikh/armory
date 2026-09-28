@@ -1,0 +1,7 @@
+{
+  "name": "offline-mcp",
+  "description": "Enables local AI inference using Ollama and open-weight models, designed for offline operation in low-connectivity environments.",
+  "source_repo": "gabrielmahia/offline-mcp",
+  "source_url": "https://github.com/gabrielmahia/offline-mcp",
+  "install": "npx -y offline-mcp"
+}

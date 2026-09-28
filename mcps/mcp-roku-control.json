@@ -1,0 +1,7 @@
+{
+  "name": "mcp-roku-control",
+  "description": "Enables AI assistants to control Roku TVs on the local network via natural language commands.",
+  "source_repo": "charlysotelo/mcp-roku-control",
+  "source_url": "https://github.com/charlysotelo/mcp-roku-control",
+  "install": "# git clone --depth 1 https://github.com/charlysotelo/mcp-roku-control\n# See source for mcpServers config block"
+}

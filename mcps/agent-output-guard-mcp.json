@@ -1,0 +1,7 @@
+{
+  "name": "agent-output-guard-mcp",
+  "description": "Validates agent outputs in multi-agent systems to prevent coordination failures, with tools for schema verification, hallucination detection, and freshness checks, all with zero LLM cost.",
+  "source_repo": "agenson-tools/agent-output-guard-mcp",
+  "source_url": "https://github.com/agenson-tools/agent-output-guard-mcp",
+  "install": "npx -y agent-output-guard-mcp"
+}

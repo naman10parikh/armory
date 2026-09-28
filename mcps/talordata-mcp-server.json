@@ -1,0 +1,7 @@
+{
+  "name": "talordata-mcp-server",
+  "description": "Search Google and major search engines through Talordata SERP API for AI agents and RAG workflows.",
+  "source_repo": "hanxing95/Talordata-MCP-Server",
+  "source_url": "https://github.com/hanxing95/Talordata-MCP-Server",
+  "install": "npx -y Talordata-MCP-Server"
+}

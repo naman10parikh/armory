@@ -1,0 +1,7 @@
+{
+  "name": "mindgraph",
+  "description": "Enables AI agents to query and analyze code across multiple repositories through a unified knowledge graph, with tools for symbol search, impact analysis, and graph algorithms.",
+  "source_repo": "dycm8009/MindGraph",
+  "source_url": "https://github.com/dycm8009/MindGraph",
+  "install": "# git clone --depth 1 https://github.com/dycm8009/MindGraph\n# See source for mcpServers config block"
+}

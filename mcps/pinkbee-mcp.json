@@ -1,0 +1,7 @@
+{
+  "name": "pinkbee-mcp",
+  "description": "A read-only MCP server for Pinkbee that lets an AI assistant answer questions about rosters, shifts, and groups without making any changes.",
+  "source_repo": "LaurensdeGraaff/pinkbee-mcp",
+  "source_url": "https://github.com/LaurensdeGraaff/pinkbee-mcp",
+  "install": "npx -y pinkbee-mcp"
+}

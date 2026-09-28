@@ -1,0 +1,7 @@
+{
+  "name": "e-trade-mcp-server",
+  "description": "Model Context Protocol (MCP) server for E*TRADE API, enabling LLMs like Claude to retrieve stock and options market data.",
+  "source_repo": "pradeepsriram/etrade-mcp",
+  "source_url": "https://github.com/pradeepsriram/etrade-mcp",
+  "install": "npx -y etrade-mcp"
+}

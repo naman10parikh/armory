@@ -1,0 +1,7 @@
+{
+  "name": "devilge",
+  "description": "Enables AI assistants to build, drive, and observe Android/KMM apps end-to-end through ADB and Gradle, with tools for UI automation, error capture, and testing.",
+  "source_repo": "Yercko/devilge",
+  "source_url": "https://github.com/Yercko/devilge",
+  "install": "# git clone --depth 1 https://github.com/Yercko/devilge\n# See source for mcpServers config block"
+}

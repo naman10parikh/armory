@@ -1,0 +1,7 @@
+{
+  "name": "signal-cli-mcp",
+  "description": "An MCP server that lets AI assistants propose sending Signal messages, but nothing is ever sent without explicit human approval.",
+  "source_repo": "jiridudekusy/signal-cli-mcp",
+  "source_url": "https://github.com/jiridudekusy/signal-cli-mcp",
+  "install": "npx -y signal-cli-mcp"
+}

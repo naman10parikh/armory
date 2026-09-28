@@ -1,0 +1,7 @@
+{
+  "name": "teradata-mcp-server",
+  "description": "Connects AI agents to Teradata databases for querying, analysis, administration, and AI pipelines with enterprise security.",
+  "source_repo": "manzoor-source/teradata-mcp-server-stc",
+  "source_url": "https://github.com/manzoor-source/teradata-mcp-server-stc",
+  "install": "# git clone --depth 1 https://github.com/manzoor-source/teradata-mcp-server-stc\n# See source for mcpServers config block"
+}

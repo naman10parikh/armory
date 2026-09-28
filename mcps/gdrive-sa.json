@@ -1,0 +1,7 @@
+{
+  "name": "gdrive-sa",
+  "description": "Enables Claude to search, list, and download files from any Google Drive folder shared with a service account, without OAuth or browser login.",
+  "source_repo": "toolsrdx-bot/gdrive-mcp-setup",
+  "source_url": "https://github.com/toolsrdx-bot/gdrive-mcp-setup",
+  "install": "# git clone --depth 1 https://github.com/toolsrdx-bot/gdrive-mcp-setup\n# See source for mcpServers config block"
+}

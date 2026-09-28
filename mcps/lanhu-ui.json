@@ -1,0 +1,7 @@
+{
+  "name": "lanhu-ui",
+  "description": "Fetches Lanhu UI design specs and assets with minimal tokens, enabling coding agents to implement high-fidelity UI by providing precise coordinates, styles, and downloaded resources.",
+  "source_repo": "revfanc/lanhu-mcp",
+  "source_url": "https://github.com/revfanc/lanhu-mcp",
+  "install": "npx -y lanhu-mcp"
+}

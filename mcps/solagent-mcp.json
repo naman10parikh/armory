@@ -1,0 +1,7 @@
+{
+  "name": "solagent-mcp",
+  "description": "Enables AI agents to interact with the Solana blockchain through MCP, supporting wallet queries, token swaps via Jupiter, token transfers, and market data.",
+  "source_repo": "warfield2016/solagent-mcp",
+  "source_url": "https://github.com/warfield2016/solagent-mcp",
+  "install": "npx -y solagent-mcp"
+}

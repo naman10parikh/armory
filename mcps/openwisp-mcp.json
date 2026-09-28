@@ -1,0 +1,7 @@
+{
+  "name": "openwisp-mcp",
+  "description": "MCP server for managing OpenWISP network infrastructure, enabling AI assistants to control devices, templates, topologies, and RADIUS sessions via the OpenWISP REST API.",
+  "source_repo": "marten-lucas/openwisp-mcp",
+  "source_url": "https://github.com/marten-lucas/openwisp-mcp",
+  "install": "npx -y openwisp-mcp"
+}

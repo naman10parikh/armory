@@ -1,0 +1,7 @@
+{
+  "name": "commentscraper",
+  "description": "Enables AI agents to research customer voice by searching Reddit and extracting structured comments from supported community platforms via MCP.",
+  "source_repo": "daniel-ddtech/commentscraper-cli",
+  "source_url": "https://github.com/daniel-ddtech/commentscraper-cli",
+  "install": "# git clone --depth 1 https://github.com/daniel-ddtech/commentscraper-cli\n# See source for mcpServers config block"
+}

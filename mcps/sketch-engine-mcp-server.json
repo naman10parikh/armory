@@ -1,0 +1,7 @@
+{
+  "name": "sketch-engine-mcp-server",
+  "description": "Connects Claude to Sketch Engine for corpus linguistics and text analysis, enabling queries on collocations, concordances, word usage, and more via natural language.",
+  "source_repo": "ricCap/sketch-engine-mcp-server",
+  "source_url": "https://github.com/ricCap/sketch-engine-mcp-server",
+  "install": "npx -y sketch-engine-mcp-server"
+}

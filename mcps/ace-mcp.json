@@ -1,0 +1,7 @@
+{
+  "name": "ace-mcp",
+  "description": "Enables AI clients to perform local code search, indexing, and analysis across Java, JavaScript/TypeScript, .NET/C#, and Python projects through the MCP protocol.",
+  "source_repo": "0215AndrewFeng/ACE-MCP",
+  "source_url": "https://github.com/0215AndrewFeng/ACE-MCP",
+  "install": "npx -y ACE-MCP"
+}

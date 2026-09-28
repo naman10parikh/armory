@@ -1,0 +1,7 @@
+{
+  "name": "midasheng-gen-mcp",
+  "description": "Generates coherent mixed audio scenes (speech, music, SFX, ambience) from text using an LLM-driven model, with speech in 9 languages and emotion control.",
+  "source_repo": "sandraschi/midasheng-gen-mcp",
+  "source_url": "https://github.com/sandraschi/midasheng-gen-mcp",
+  "install": "npx -y midasheng-gen-mcp"
+}

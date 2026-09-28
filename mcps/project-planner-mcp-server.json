@@ -1,0 +1,7 @@
+{
+  "name": "project-planner-mcp-server",
+  "description": "A remote MCP server template for Cloudflare Workers that enables deploying custom tools without authentication and connecting to MCP clients like Claude Desktop.",
+  "source_repo": "abhilashdk2016/project-planner-mcp-server",
+  "source_url": "https://github.com/abhilashdk2016/project-planner-mcp-server",
+  "install": "npx -y project-planner-mcp-server"
+}

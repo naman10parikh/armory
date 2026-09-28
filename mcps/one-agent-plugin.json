@@ -1,0 +1,7 @@
+{
+  "name": "one-agent-plugin",
+  "description": "Provides a remote MCP server with four tools to list, search, and execute actions across 500+ integrated apps, using OAuth and platform-specific knowledge packages to guide agents.",
+  "source_repo": "withoneai/one-agent-plugin",
+  "source_url": "https://github.com/withoneai/one-agent-plugin",
+  "install": "# git clone --depth 1 https://github.com/withoneai/one-agent-plugin\n# See source for mcpServers config block"
+}

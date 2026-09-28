@@ -1,0 +1,7 @@
+{
+  "name": "asana-connector",
+  "description": "Enables interaction with Asana projects and tasks via the Asana API, supporting listing projects/tasks, creating/updating tasks, and adding comments, with secure authentication and rate-limit handling.",
+  "source_repo": "Idrees-02/doo-asana-connector",
+  "source_url": "https://github.com/Idrees-02/doo-asana-connector",
+  "install": "# git clone --depth 1 https://github.com/Idrees-02/doo-asana-connector\n# See source for mcpServers config block"
+}

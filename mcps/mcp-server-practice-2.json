@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-practice-2",
-  "description": "MCP Server Practice 2 MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "mybarefootstory/MCP-Server-Practice-2",
   "source_url": "https://mcp.so/server/MCP-Server-Practice-2/mybarefootstory",
   "install": "# git clone --depth 1 https://mcp.so/server/MCP-Server-Practice-2/mybarefootstory\n# See source for mcpServers config block"

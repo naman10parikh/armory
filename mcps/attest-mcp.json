@@ -1,0 +1,7 @@
+{
+  "name": "attest-mcp",
+  "description": "MCP server for Spazio Genesi's attestation service that enables AI agents to attest, verify, and check digital works with full privacy, as file bytes never leave the device.",
+  "source_repo": "SPAZIO-GENESI/attest-mcp",
+  "source_url": "https://github.com/SPAZIO-GENESI/attest-mcp",
+  "install": "npx -y attest-mcp"
+}

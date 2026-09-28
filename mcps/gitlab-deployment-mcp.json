@@ -1,0 +1,7 @@
+{
+  "name": "gitlab-deployment-mcp",
+  "description": "Enables querying GitLab projects, pipelines, and jobs, and triggering manual deployment jobs after user confirmation, with secure token handling and scope restrictions.",
+  "source_repo": "gggab/gitlab_mcp",
+  "source_url": "https://github.com/gggab/gitlab_mcp",
+  "install": "npx -y gitlab_mcp"
+}

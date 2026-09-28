@@ -1,0 +1,7 @@
+{
+  "name": "io-mcp",
+  "description": "Enables local research workflows (paper discovery, relevance scoring, digests) and homelab monitoring (Prometheus, logs) through an MCP server, using local LLM inference via Ollama with no cloud dependencies.",
+  "source_repo": "bnjenner/io-mcp",
+  "source_url": "https://github.com/bnjenner/io-mcp",
+  "install": "npx -y io-mcp"
+}

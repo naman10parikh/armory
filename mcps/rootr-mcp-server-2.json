@@ -1,0 +1,7 @@
+{
+  "name": "rootr-mcp-server-2",
+  "description": "MCP server for Rootr markdown knowledge collaboration. Provides 27 tools for reading, writing, searching, and managing documents, issues, logs, and webhooks via natural language.",
+  "source_repo": "gwmage/rootr-cli",
+  "source_url": "https://github.com/gwmage/rootr-cli",
+  "install": "# git clone --depth 1 https://github.com/gwmage/rootr-cli\n# See source for mcpServers config block"
+}

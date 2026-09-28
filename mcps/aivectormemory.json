@@ -1,0 +1,7 @@
+{
+  "name": "aivectormemory",
+  "description": "MCP server that provides cross-session persistent memory for AI coding assistants using local vector database and semantic search, enabling automatic recall of project context, issues, and tasks.",
+  "source_repo": "Edlineas/aivectormemory",
+  "source_url": "https://github.com/Edlineas/aivectormemory",
+  "install": "# git clone --depth 1 https://github.com/Edlineas/aivectormemory\n# See source for mcpServers config block"
+}

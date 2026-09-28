@@ -1,0 +1,7 @@
+{
+  "name": "company-docs-mcp-server",
+  "description": "Provides read-only access to company GitHub repositories, enabling code search, file retrieval, documentation search, and repo browsing via natural language.",
+  "source_repo": "c200bzh/mcp_server_poc",
+  "source_url": "https://github.com/c200bzh/mcp_server_poc",
+  "install": "# git clone --depth 1 https://github.com/c200bzh/mcp_server_poc\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "contract-compass",
+  "description": "MCP server for Korean public procurement law, offering LLM-free deterministic rule-based contract-method decisions, statute/regulation search, and live court precedents from law.go.kr.",
+  "source_repo": "sallim-app/contract-compass",
+  "source_url": "https://github.com/sallim-app/contract-compass",
+  "install": "# git clone --depth 1 https://github.com/sallim-app/contract-compass\n# See source for mcpServers config block"
+}

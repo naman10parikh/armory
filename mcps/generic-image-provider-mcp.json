@@ -1,0 +1,7 @@
+{
+  "name": "generic-image-provider-mcp",
+  "description": "Maps a stable image-tool contract to an OpenAI-compatible image provider while enforcing file access within configured Windows directories.",
+  "source_repo": "huiku8177-rgb/generic-image-provider-mcp",
+  "source_url": "https://github.com/huiku8177-rgb/generic-image-provider-mcp",
+  "install": "npx -y generic-image-provider-mcp"
+}

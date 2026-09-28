@@ -1,0 +1,7 @@
+{
+  "name": "scryfall-mcp-server",
+  "description": "Enables Claude to search and retrieve Magic: The Gathering card details, prices, set information, and random cards from Scryfall's database through natural language.",
+  "source_repo": "JoeMoCode/Scryfall-MCP",
+  "source_url": "https://github.com/JoeMoCode/Scryfall-MCP",
+  "install": "npx -y Scryfall-MCP"
+}

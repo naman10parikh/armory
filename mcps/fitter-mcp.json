@@ -1,0 +1,7 @@
+{
+  "name": "fitter-mcp",
+  "description": "MCP server for scraping with declarative configs",
+  "source_repo": "PxyUp/fitter",
+  "source_url": "https://github.com/PxyUp/fitter",
+  "install": "# git clone --depth 1 https://github.com/PxyUp/fitter\n# See source for mcpServers config block"
+}

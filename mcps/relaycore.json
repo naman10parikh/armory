@@ -1,0 +1,7 @@
+{
+  "name": "relaycore",
+  "description": "A lightweight, self-hostable MCP server for shared memory, structured command relay, and traceable decision evidence across AI runtimes.",
+  "source_repo": "totooss/relaycore",
+  "source_url": "https://github.com/totooss/relaycore",
+  "install": "# git clone --depth 1 https://github.com/totooss/relaycore\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rupiah-mcp",
+  "description": "MCP server for the Indonesian Rupiah toolkit, enabling AI agents to format, parse, abbreviate, and convert numbers to Indonesian words.",
+  "source_repo": "gizipp/rupiah",
+  "source_url": "https://github.com/gizipp/rupiah",
+  "install": "# git clone --depth 1 https://github.com/gizipp/rupiah\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cv-rest-mcp-server",
+  "description": "Enables retrieval of CV data as JSON, listing available themes, and generating themed CV PDFs via MCP tools and REST endpoints.",
+  "source_repo": "ivanprytula/cv-rest-mcp-server",
+  "source_url": "https://github.com/ivanprytula/cv-rest-mcp-server",
+  "install": "npx -y cv-rest-mcp-server"
+}

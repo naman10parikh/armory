@@ -1,0 +1,7 @@
+{
+  "name": "nikhilnt",
+  "description": "Track LLM token costs across Claude, GPT and Gemini. MCP server + CLI with optimization hints and $ savings estimates.",
+  "source_repo": "nikhilnt1234/TokenBurnRate",
+  "source_url": "https://github.com/nikhilnt1234/TokenBurnRate",
+  "install": "# git clone --depth 1 https://github.com/nikhilnt1234/TokenBurnRate\n# See source for mcpServers config block"
+}

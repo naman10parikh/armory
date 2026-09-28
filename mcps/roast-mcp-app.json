@@ -1,0 +1,7 @@
+{
+  "name": "roast-mcp-app",
+  "description": "Enables authenticated ROAST users to view their dashboard, profiles, photoshoots, and images via MCP tools.",
+  "source_repo": "benoib/roast-mcp-app",
+  "source_url": "https://github.com/benoib/roast-mcp-app",
+  "install": "# git clone --depth 1 https://github.com/benoib/roast-mcp-app\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hybrid-rag-mcp",
+  "description": "An MCP server that provides a search_docs tool with hybrid retrieval (BM25 + dense vectors) and cross-encoder reranking, backed by evaluation, prompt-injection guardrails, and OpenTelemetry tracing.",
+  "source_repo": "udarshmarthala/hybrid-rag-mcp",
+  "source_url": "https://github.com/udarshmarthala/hybrid-rag-mcp",
+  "install": "npx -y hybrid-rag-mcp"
+}

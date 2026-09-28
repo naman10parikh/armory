@@ -1,0 +1,7 @@
+{
+  "name": "io-github-evin009-smartrent-mcp",
+  "description": "An MCP server that enables Claude to control SmartRent smart home devices such as locks, thermostats, light switches, and sensors through natural conversation.",
+  "source_repo": "Evin009/SmartRent-MCP",
+  "source_url": "https://github.com/Evin009/SmartRent-MCP",
+  "install": "npx -y SmartRent-MCP"
+}

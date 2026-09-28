@@ -1,0 +1,7 @@
+{
+  "name": "ps-mcp",
+  "description": "An MCP server for PowerSchool plugin developers, providing read/write access to plugin workspaces, scaffolding, validation, packaging, and access to the PS data model, tag reference, and documentation.",
+  "source_repo": "zuvy/ps-mcp-server",
+  "source_url": "https://github.com/zuvy/ps-mcp-server",
+  "install": "npx -y ps-mcp-server"
+}

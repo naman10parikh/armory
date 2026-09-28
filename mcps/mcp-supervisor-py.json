@@ -1,0 +1,7 @@
+{
+  "name": "mcp-supervisor-py",
+  "description": "A Python scaffold for an MCP-style supervisor that breaks user tasks into steps, routes them to workers, retries on failures, and aggregates outputs.",
+  "source_repo": "chenjordan/mcp_supervisor_py",
+  "source_url": "https://github.com/chenjordan/mcp_supervisor_py",
+  "install": "# git clone --depth 1 https://github.com/chenjordan/mcp_supervisor_py\n# See source for mcpServers config block"
+}

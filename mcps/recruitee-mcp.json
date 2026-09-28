@@ -1,0 +1,7 @@
+{
+  "name": "recruitee-mcp",
+  "description": "Enables managing Recruitee/Tellent recruiting pipelines from Claude, including reading roles and candidates, creating candidates, and writing evaluations and notes with previews and safe write operations.",
+  "source_repo": "jnot807/recruitee-mcp",
+  "source_url": "https://github.com/jnot807/recruitee-mcp",
+  "install": "npx -y recruitee-mcp"
+}

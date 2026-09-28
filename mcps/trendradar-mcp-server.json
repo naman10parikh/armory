@@ -1,0 +1,7 @@
+{
+  "name": "trendradar-mcp-server",
+  "description": "Enables quick deployment of a trending news assistant with multi-channel notification and AI analysis, helping users stay updated with relevant news.",
+  "source_repo": "cutejhy-code/TrendRadar",
+  "source_url": "https://github.com/cutejhy-code/TrendRadar",
+  "install": "# git clone --depth 1 https://github.com/cutejhy-code/TrendRadar\n# See source for mcpServers config block"
+}

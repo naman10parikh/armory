@@ -1,0 +1,7 @@
+{
+  "name": "hp-alm-mcp-server",
+  "description": "Enables AI agents to interact with HP ALM / Quality Center for QA workflows including test case management, test execution, defect tracking, and requirements management.",
+  "source_repo": "UditMahaldar/opentext-alm-mcp",
+  "source_url": "https://github.com/UditMahaldar/opentext-alm-mcp",
+  "install": "npx -y opentext-alm-mcp"
+}

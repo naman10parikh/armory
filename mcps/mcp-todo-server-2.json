@@ -1,0 +1,7 @@
+{
+  "name": "mcp-todo-server-2",
+  "description": "MCP server for managing todo tasks, exposing tasks resource, add/complete task tools, and a daily summary prompt.",
+  "source_repo": "Adonis2310/mcp-todo-server",
+  "source_url": "https://github.com/Adonis2310/mcp-todo-server",
+  "install": "# git clone --depth 1 https://github.com/Adonis2310/mcp-todo-server\n# See source for mcpServers config block"
+}

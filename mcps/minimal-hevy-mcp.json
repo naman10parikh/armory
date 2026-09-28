@@ -1,0 +1,7 @@
+{
+  "name": "minimal-hevy-mcp",
+  "description": "Enables reading Hevy workout data and creating workout routines and logged workouts through Hevy's public API.",
+  "source_repo": "nihal2001/HevyMCP",
+  "source_url": "https://github.com/nihal2001/HevyMCP",
+  "install": "# git clone --depth 1 https://github.com/nihal2001/HevyMCP\n# See source for mcpServers config block"
+}

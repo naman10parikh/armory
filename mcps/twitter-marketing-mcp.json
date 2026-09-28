@@ -1,0 +1,7 @@
+{
+  "name": "twitter-marketing-mcp",
+  "description": "Enables Twitter/X marketing automation, including tweet search, account analysis, trending topics, and optional AI-generated tweets and scheduling.",
+  "source_repo": "1036007003-wq/twitter-marketing-mcp",
+  "source_url": "https://github.com/1036007003-wq/twitter-marketing-mcp",
+  "install": "npx -y twitter-marketing-mcp"
+}

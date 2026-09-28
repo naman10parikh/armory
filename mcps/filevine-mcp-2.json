@@ -1,0 +1,7 @@
+{
+  "name": "filevine-mcp-2",
+  "description": "An open-source MCP server connecting Claude to Filevine practice management platform. Access cases, contacts, documents, notes, tasks, and custom PI data from Claude with automatic rate limiting and audit logging.",
+  "source_repo": "oktopeak/filevine-mcp",
+  "source_url": "https://github.com/oktopeak/filevine-mcp",
+  "install": "npx -y filevine-mcp"
+}

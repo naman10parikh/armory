@@ -1,0 +1,7 @@
+{
+  "name": "peekaboo",
+  "description": "A macOS automation tool that provides high-fidelity screen capture, AI analysis, and complete GUI automation through a CLI and MCP server, enabling natural-language-driven interactions like clicking, typing, and scrolling.",
+  "source_repo": "openclaw/Peekaboo",
+  "source_url": "https://github.com/openclaw/Peekaboo",
+  "install": "# git clone --depth 1 https://github.com/openclaw/Peekaboo\n# See source for mcpServers config block"
+}

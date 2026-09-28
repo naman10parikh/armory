@@ -1,0 +1,7 @@
+{
+  "name": "nutrition-mcp-2",
+  "description": "MCP server for USDA nutrition data lookup, meal logging, and daily macro tracking.",
+  "source_repo": "asachs01/nutrition-mcp",
+  "source_url": "https://github.com/asachs01/nutrition-mcp",
+  "install": "npx -y nutrition-mcp"
+}

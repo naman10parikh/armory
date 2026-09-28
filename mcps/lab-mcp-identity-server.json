@@ -1,0 +1,7 @@
+{
+  "name": "lab-mcp-identity-server",
+  "description": "MCP server that lets an AI assistant perform scoped Okta identity operations with an out-of-band human-approval gate on destructive actions.",
+  "source_repo": "fso-datawarrior/lab-mcp-identity-server",
+  "source_url": "https://github.com/fso-datawarrior/lab-mcp-identity-server",
+  "install": "# git clone --depth 1 https://github.com/fso-datawarrior/lab-mcp-identity-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "owlstack-mcp",
+  "description": "Manages social media posts, accounts, and AI usage from MCP-aware clients. Supports scheduling, editing, canceling, AI caption generation, and repurposing URLs into platform-optimized content.",
+  "source_repo": "owlstacks/owlstack-mcp",
+  "source_url": "https://github.com/owlstacks/owlstack-mcp",
+  "install": "npx -y owlstack-mcp"
+}

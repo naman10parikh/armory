@@ -1,0 +1,7 @@
+{
+  "name": "book-recommendations",
+  "description": "Enables AI agents to get book recommendations by topic or mood, discover serendipitous blind-date picks from first sentences, and access free public-domain classics with read-now availability, all with no API keys required.",
+  "source_repo": "surendranb/book-recommendations",
+  "source_url": "https://github.com/surendranb/book-recommendations",
+  "install": "# git clone --depth 1 https://github.com/surendranb/book-recommendations\n# See source for mcpServers config block"
+}

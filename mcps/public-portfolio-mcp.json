@@ -1,0 +1,7 @@
+{
+  "name": "public-portfolio-mcp",
+  "description": "A read-only JSON-RPC service exposing a bounded engineering portfolio to recruiters and external agents, with strict tool allowlist and security measures.",
+  "source_repo": "Ovidio-Git/public-portfolio-mcp",
+  "source_url": "https://github.com/Ovidio-Git/public-portfolio-mcp",
+  "install": "npx -y public-portfolio-mcp"
+}

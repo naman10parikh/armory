@@ -1,0 +1,7 @@
+{
+  "name": "cognee-mcp-server",
+  "description": "Enables Claude to interact with cognee for cognitive augmentation, supporting local or Smithery installation.",
+  "source_repo": "JeromyJSmith/cognee-mcp-server",
+  "source_url": "https://github.com/JeromyJSmith/cognee-mcp-server",
+  "install": "npx -y cognee-mcp-server"
+}

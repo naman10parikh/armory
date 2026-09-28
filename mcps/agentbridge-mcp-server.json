@@ -1,0 +1,7 @@
+{
+  "name": "agentbridge-mcp-server",
+  "description": "Enables AI agents to discover, validate, and call actions from web apps through the Model Context Protocol, using a manifest of structured, permissioned actions.",
+  "source_repo": "marmar9615-cloud/agentbridge-protocol",
+  "source_url": "https://github.com/marmar9615-cloud/agentbridge-protocol",
+  "install": "# git clone --depth 1 https://github.com/marmar9615-cloud/agentbridge-protocol\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-angers",
+  "description": "Enables searching, exploring, and querying Angers Loire Métropole open data datasets (mobility, urban services, environment) using natural language or direct tool calls.",
+  "source_repo": "pipeworx-io/mcp-data-angers",
+  "source_url": "https://github.com/pipeworx-io/mcp-data-angers",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-data-angers\n# See source for mcpServers config block"
+}

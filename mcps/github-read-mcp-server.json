@@ -1,0 +1,7 @@
+{
+  "name": "github-read-mcp-server",
+  "description": "Read-only MCP server for the GitHub REST API that enables agents to query repositories, issues, files, and users without any write access.",
+  "source_repo": "jaimenbell/github-read-mcp",
+  "source_url": "https://github.com/jaimenbell/github-read-mcp",
+  "install": "npx -y github-read-mcp"
+}

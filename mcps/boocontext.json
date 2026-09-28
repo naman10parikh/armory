@@ -1,0 +1,7 @@
+{
+  "name": "boocontext",
+  "description": "Generates a comprehensive context map of your codebase to reduce token usage for AI coding assistants. Provides 12 MCP tools for exploring project structure, dependencies, and generating wiki knowledge bases.",
+  "source_repo": "indifferentketchup/boocontext",
+  "source_url": "https://github.com/indifferentketchup/boocontext",
+  "install": "# git clone --depth 1 https://github.com/indifferentketchup/boocontext\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nofomo-mcp-server",
+  "description": "MCP server and SDK for AI agents to interact with NoFOMO News, enabling reading articles, chatting, rating, and commenting.",
+  "source_repo": "ArbenDemajXai/nofomo-mcp-server",
+  "source_url": "https://github.com/ArbenDemajXai/nofomo-mcp-server",
+  "install": "npx -y nofomo-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shopify-multistore-mcp",
+  "description": "Enables conversational Admin API read/write across multiple Shopify stores with a production write-gate for safety.",
+  "source_repo": "ItisAhsan/shopify-multistore-mcp",
+  "source_url": "https://github.com/ItisAhsan/shopify-multistore-mcp",
+  "install": "npx -y shopify-multistore-mcp"
+}

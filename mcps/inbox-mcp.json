@@ -1,0 +1,7 @@
+{
+  "name": "inbox-mcp",
+  "description": "A privacy-first MCP server for inbox triage, enabling masked email reading, calendar upsert, reply drafting, and Slack digests using Google and Slack credentials.",
+  "source_repo": "yama662607/inbox-mcp",
+  "source_url": "https://github.com/yama662607/inbox-mcp",
+  "install": "npx -y inbox-mcp"
+}

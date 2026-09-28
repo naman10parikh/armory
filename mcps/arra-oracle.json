@@ -1,0 +1,7 @@
+{
+  "name": "arra-oracle",
+  "description": "MCP server for semantic search over Oracle philosophy using hybrid search (FTS5 + LanceDB). Integrates with Claude Code for querying wisdom and managing a knowledge vault.",
+  "source_repo": "Soul-Brews-Studio/arra-oracle-v3",
+  "source_url": "https://github.com/Soul-Brews-Studio/arra-oracle-v3",
+  "install": "# git clone --depth 1 https://github.com/Soul-Brews-Studio/arra-oracle-v3\n# See source for mcpServers config block"
+}

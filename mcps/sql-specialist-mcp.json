@@ -1,0 +1,7 @@
+{
+  "name": "sql-specialist-mcp",
+  "description": "Enables natural-language querying of a SQLite database through a locally served, fine-tuned text-to-SQL model exposed as an MCP tool, offering fast and cost-free SQL generation and execution.",
+  "source_repo": "Eshanya1/sql-specialist-mcp",
+  "source_url": "https://github.com/Eshanya1/sql-specialist-mcp",
+  "install": "npx -y sql-specialist-mcp"
+}

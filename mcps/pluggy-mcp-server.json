@@ -1,0 +1,7 @@
+{
+  "name": "pluggy-mcp-server",
+  "description": "Read-only MCP server for connecting to Pluggy Open Finance Brasil, exposing accounts, balances, transactions, and investments to Claude agents.",
+  "source_repo": "littlez3/pluggy-mcp-server",
+  "source_url": "https://github.com/littlez3/pluggy-mcp-server",
+  "install": "npx -y pluggy-mcp-server"
+}

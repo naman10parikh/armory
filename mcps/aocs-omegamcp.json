@@ -1,0 +1,7 @@
+{
+  "name": "aocs-omegamcp",
+  "description": "A quality-first multi-agent reasoning framework with fractal verification, adversarial red-teaming, and self-audit pipelines, providing deterministic MCP tools for complex analysis tasks.",
+  "source_repo": "budhasantosh010/AOCS-OmegaMCP",
+  "source_url": "https://github.com/budhasantosh010/AOCS-OmegaMCP",
+  "install": "# git clone --depth 1 https://github.com/budhasantosh010/AOCS-OmegaMCP\n# See source for mcpServers config block"
+}

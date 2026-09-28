@@ -1,0 +1,7 @@
+{
+  "name": "uk-logistics-mcp",
+  "description": "Enables AI agents to purchase UK shipping labels (Royal Mail Tracked 24/48 and more) via Shippo API, with automatic cheapest-rate selection, tracking, and refunds—no Royal Mail contract required.",
+  "source_repo": "junter1989k-ai/uk-logistics-mcp",
+  "source_url": "https://github.com/junter1989k-ai/uk-logistics-mcp",
+  "install": "npx -y uk-logistics-mcp"
+}

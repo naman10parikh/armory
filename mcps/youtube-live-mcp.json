@@ -1,0 +1,7 @@
+{
+  "name": "youtube-live-mcp",
+  "description": "Enables AI assistants to control YouTube Live Streaming, including creating broadcasts, managing chat, and monitoring stream health via MCP tools.",
+  "source_repo": "iamstefanp/youtube-mcp",
+  "source_url": "https://github.com/iamstefanp/youtube-mcp",
+  "install": "npx -y youtube-mcp"
+}

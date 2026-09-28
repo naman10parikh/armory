@@ -1,0 +1,7 @@
+{
+  "name": "walrus-memory-mcp",
+  "description": "Enables MCP clients to connect to Walrus Memory for persistent memory operations like remember, recall, analyze, and restore, with browser-based wallet login and local credential storage.",
+  "source_repo": "CommandOSSLabs/walrus-memory-mcp",
+  "source_url": "https://github.com/CommandOSSLabs/walrus-memory-mcp",
+  "install": "npx -y walrus-memory-mcp"
+}

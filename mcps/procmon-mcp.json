@@ -1,0 +1,7 @@
+{
+  "name": "procmon-mcp",
+  "description": "An MCP server that provides AI assistants with real-time access to Windows internals including processes, kernel traces, event logs, services, drivers, and PE analysis.",
+  "source_repo": "0xhackerfren/ProcMon-MCP",
+  "source_url": "https://github.com/0xhackerfren/ProcMon-MCP",
+  "install": "npx -y ProcMon-MCP"
+}

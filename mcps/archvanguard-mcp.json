@@ -1,0 +1,7 @@
+{
+  "name": "archvanguard-mcp",
+  "description": "Framework-agnostic architecture-rule enforcement for AI agents: analyzes Python codebases import graphs against declarative rulesets to report layer, forbidden-import, and cycle violations with file and line numbers. Supports MCP, OpenAI, Anthropic, LangChain, LlamaIndex, and CLI integrations.",
+  "source_repo": "MrGuevar4/ArchVanguard-MCP",
+  "source_url": "https://github.com/MrGuevar4/ArchVanguard-MCP",
+  "install": "npx -y ArchVanguard-MCP"
+}

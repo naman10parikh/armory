@@ -1,0 +1,7 @@
+{
+  "name": "lilagents-mcp",
+  "description": "Provides tools for AI agents to audit websites, including stack detection, DNS snapshots, and security checks.",
+  "source_repo": "lilAgents/mcp",
+  "source_url": "https://github.com/lilAgents/mcp",
+  "install": "# git clone --depth 1 https://github.com/lilAgents/mcp\n# See source for mcpServers config block"
+}

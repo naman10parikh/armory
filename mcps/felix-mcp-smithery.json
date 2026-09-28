@@ -1,0 +1,7 @@
+{
+  "name": "felix-mcp-smithery",
+  "description": "A lightweight MCP server with greeting, random number, weather, and OpenAI-powered text summarization tools, deployable on Smithery.",
+  "source_repo": "FelixYifeiWang/felix-mcp-smithery",
+  "source_url": "https://github.com/FelixYifeiWang/felix-mcp-smithery",
+  "install": "# git clone --depth 1 https://github.com/FelixYifeiWang/felix-mcp-smithery\n# See source for mcpServers config block"
+}

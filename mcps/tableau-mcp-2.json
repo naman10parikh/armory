@@ -1,0 +1,7 @@
+{
+  "name": "tableau-mcp-2",
+  "description": "A suite of developer primitives that enable AI applications to integrate with Tableau, including tools to query data, explore content, and get views.",
+  "source_repo": "Sanchita-8756/Tableau-mcp-pinned",
+  "source_url": "https://github.com/Sanchita-8756/Tableau-mcp-pinned",
+  "install": "# git clone --depth 1 https://github.com/Sanchita-8756/Tableau-mcp-pinned\n# See source for mcpServers config block"
+}

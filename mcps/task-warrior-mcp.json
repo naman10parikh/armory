@@ -1,7 +1,0 @@
-{
-  "name": "task-warrior-mcp",
-  "description": "Wraps the Taskwarrior CLI for structured, project-scoped task management.",
-  "source_repo": "kaierikniermann/taskwarrior-mcp",
-  "source_url": "https://github.com/kaierikniermann/taskwarrior-mcp",
-  "install": "npx -y taskwarrior-mcp"
-}

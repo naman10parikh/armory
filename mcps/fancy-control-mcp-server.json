@@ -1,0 +1,7 @@
+{
+  "name": "fancy-control-mcp-server",
+  "description": "MCP server for controlling PowerExchange/Fancy Control devices via HTTP. Provides tools like tilt, shock, beep, and various training modes.",
+  "source_repo": "Kyrnepi/mcp-fancy-server",
+  "source_url": "https://github.com/Kyrnepi/mcp-fancy-server",
+  "install": "# git clone --depth 1 https://github.com/Kyrnepi/mcp-fancy-server\n# See source for mcpServers config block"
+}

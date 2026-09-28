@@ -1,0 +1,7 @@
+{
+  "name": "mcp-htmlentities",
+  "description": "Enables encoding text to HTML entities and decoding HTML entities back to plain text, supporting basic and extended modes, offline and without API keys.",
+  "source_repo": "pipeworx-io/mcp-htmlentities",
+  "source_url": "https://github.com/pipeworx-io/mcp-htmlentities",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-htmlentities\n# See source for mcpServers config block"
+}

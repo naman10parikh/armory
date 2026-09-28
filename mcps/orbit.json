@@ -1,0 +1,7 @@
+{
+  "name": "orbit",
+  "description": "Enables agents to capture and manage notes, tasks, events, and links in a private, file-first workspace, with tools for viewing today's agenda and searching Markdown notes.",
+  "source_repo": "kmelon55/orbit",
+  "source_url": "https://github.com/kmelon55/orbit",
+  "install": "# git clone --depth 1 https://github.com/kmelon55/orbit\n# See source for mcpServers config block"
+}

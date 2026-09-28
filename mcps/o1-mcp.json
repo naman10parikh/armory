@@ -1,0 +1,7 @@
+{
+  "name": "o1-mcp",
+  "description": "Provides access to live swap quotes and routing on the Base network via the o1.exchange DEX aggregator. Read-only and safe by default, it returns routing data and unsigned calldata for you to sign in your own wallet.",
+  "source_repo": "mannutech/o1-mcp-server",
+  "source_url": "https://github.com/mannutech/o1-mcp-server",
+  "install": "npx -y o1-mcp-server"
+}

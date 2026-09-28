@@ -1,0 +1,7 @@
+{
+  "name": "garmin-claude-mcp",
+  "description": "Enables Claude to read Garmin activities and wellness data, then creates structured workouts that sync to your Garmin watch via Intervals.icu.",
+  "source_repo": "kbaudour/garmin-claude-mcp",
+  "source_url": "https://github.com/kbaudour/garmin-claude-mcp",
+  "install": "npx -y garmin-claude-mcp"
+}

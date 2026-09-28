@@ -1,0 +1,7 @@
+{
+  "name": "lightbill-mcp-server",
+  "description": "MCP server for LightBill ISP billing and client management platform, providing 134 tools for customer, router, OLT, billing, payment, and network management via AI agents.",
+  "source_repo": "lightnet19/lightbill-mcp-server",
+  "source_url": "https://github.com/lightnet19/lightbill-mcp-server",
+  "install": "npx -y lightbill-mcp-server"
+}

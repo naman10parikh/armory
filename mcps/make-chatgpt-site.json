@@ -1,0 +1,7 @@
+{
+  "name": "make-chatgpt-site",
+  "description": "MCP server that lets MCP clients inspect, create, update, and deploy ChatGPT Sites through a local Codex installation.",
+  "source_repo": "JacobLinCool/make-chatgpt-site",
+  "source_url": "https://github.com/JacobLinCool/make-chatgpt-site",
+  "install": "# git clone --depth 1 https://github.com/JacobLinCool/make-chatgpt-site\n# See source for mcpServers config block"
+}

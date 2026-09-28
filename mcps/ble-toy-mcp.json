@@ -1,0 +1,7 @@
+{
+  "name": "ble-toy-mcp",
+  "description": "Enables AI agents to control MuSe/LoveSpouse/Leten Bluetooth toys via MCP by sending BLE advertisements from a Windows PC.",
+  "source_repo": "Sfrl79/ble-toy-mcp",
+  "source_url": "https://github.com/Sfrl79/ble-toy-mcp",
+  "install": "npx -y ble-toy-mcp"
+}

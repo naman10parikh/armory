@@ -1,0 +1,7 @@
+{
+  "name": "geogebra-mcp-server",
+  "description": "Lets Claude Code, Codex, and other MCP clients control GeoGebra to create geometric constructions, function graphs, 3D graphics, dynamic mechanisms, and save .ggb or export .png.",
+  "source_repo": "123pc/Geogebra_mcp",
+  "source_url": "https://github.com/123pc/Geogebra_mcp",
+  "install": "npx -y Geogebra_mcp"
+}

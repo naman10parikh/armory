@@ -1,0 +1,7 @@
+{
+  "name": "godkiller-mcp",
+  "description": "An MCP server that enforces hard quality gates on AI coding agents, including forced web search, planning, and empirical test execution, to prevent common failure modes and ensure production-grade code.",
+  "source_repo": "taurus42119-stack/godkiller-mcp",
+  "source_url": "https://github.com/taurus42119-stack/godkiller-mcp",
+  "install": "npx -y godkiller-mcp"
+}

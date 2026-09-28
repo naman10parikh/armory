@@ -1,0 +1,7 @@
+{
+  "name": "carry",
+  "description": "Enables syncing a context pack between Claude Code and Claude mobile via a remote MCP server, allowing users to push instructions from their repo and read them on mobile.",
+  "source_repo": "emtcmca/carry",
+  "source_url": "https://github.com/emtcmca/carry",
+  "install": "# git clone --depth 1 https://github.com/emtcmca/carry\n# See source for mcpServers config block"
+}

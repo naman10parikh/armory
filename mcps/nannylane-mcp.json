@@ -1,0 +1,7 @@
+{
+  "name": "nannylane-mcp",
+  "description": "Unofficial Bun-based MCP server and TypeScript SDK for authenticated Nanny Lane dashboard data, enabling reading dashboard data, searching public nanny listings, inspecting messages, and preparing messages.",
+  "source_repo": "ericlewis/nannylane-mcp",
+  "source_url": "https://github.com/ericlewis/nannylane-mcp",
+  "install": "npx -y nannylane-mcp"
+}

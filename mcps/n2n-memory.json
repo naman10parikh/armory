@@ -1,0 +1,7 @@
+{
+  "name": "n2n-memory",
+  "description": "Persists AI's cognitive fragments as a knowledge graph within each project directory, enabling project-level memory isolation and sharing via Git.",
+  "source_repo": "n2ns/n2n-memory",
+  "source_url": "https://github.com/n2ns/n2n-memory",
+  "install": "# git clone --depth 1 https://github.com/n2ns/n2n-memory\n# See source for mcpServers config block"
+}

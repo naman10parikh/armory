@@ -1,0 +1,7 @@
+{
+  "name": "ultralytics-mcp",
+  "description": "Enables management and interaction with the Ultralytics Platform, including browsing projects/datasets/models, starting training, running predictions, and creating exports.",
+  "source_repo": "amanharshx/ultralytics-mcp",
+  "source_url": "https://github.com/amanharshx/ultralytics-mcp",
+  "install": "npx -y ultralytics-mcp"
+}

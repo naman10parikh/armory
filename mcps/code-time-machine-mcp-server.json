@@ -1,0 +1,7 @@
+{
+  "name": "code-time-machine-mcp-server",
+  "description": "Enables AI assistants like Claude to navigate git repository history, providing insights into code evolution and helping understand legacy systems.",
+  "source_repo": "jprbom/code-time-machine-mcp",
+  "source_url": "https://github.com/jprbom/code-time-machine-mcp",
+  "install": "npx -y code-time-machine-mcp"
+}

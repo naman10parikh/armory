@@ -1,0 +1,7 @@
+{
+  "name": "private-journal-mcp",
+  "description": "Stores journal entries locally with semantic search using multilingual embeddings, and optionally syncs to a Git remote.",
+  "source_repo": "baleen37/private-journal-mcp",
+  "source_url": "https://github.com/baleen37/private-journal-mcp",
+  "install": "npx -y private-journal-mcp"
+}

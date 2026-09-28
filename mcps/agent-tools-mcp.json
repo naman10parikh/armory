@@ -1,0 +1,7 @@
+{
+  "name": "agent-tools-mcp",
+  "description": "Enables MCP-compatible agents to discover and call x402 paid services from a directory of over 2,000 APIs.",
+  "source_repo": "JoursBleu/agent-tools-mcp",
+  "source_url": "https://github.com/JoursBleu/agent-tools-mcp",
+  "install": "npx -y agent-tools-mcp"
+}

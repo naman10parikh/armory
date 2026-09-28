@@ -1,0 +1,7 @@
+{
+  "name": "mcp-claudecode",
+  "description": "Implements 41 tools from Claude Code, including bash, file operations, web search, task management, and more, all accessible via MCP protocol.",
+  "source_repo": "abc407859-collab/mcp-claudecode",
+  "source_url": "https://github.com/abc407859-collab/mcp-claudecode",
+  "install": "# git clone --depth 1 https://github.com/abc407859-collab/mcp-claudecode\n# See source for mcpServers config block"
+}

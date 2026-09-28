@@ -1,0 +1,7 @@
+{
+  "name": "r2-bucket-mcp",
+  "description": "Enables file operations (upload, download, list, delete) on Cloudflare R2 (S3-compatible) storage, with dedicated APK upload tool.",
+  "source_repo": "ingsamcas/r2_mcp",
+  "source_url": "https://github.com/ingsamcas/r2_mcp",
+  "install": "npx -y r2_mcp"
+}

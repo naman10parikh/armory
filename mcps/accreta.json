@@ -1,0 +1,7 @@
+{
+  "name": "accreta",
+  "description": "MCP server that enables AI agents to search, fetch, and analyze a self-maintaining markdown knowledge base with provenance, drift detection, and canonical definitions.",
+  "source_repo": "francescofioredev/accreta",
+  "source_url": "https://github.com/francescofioredev/accreta",
+  "install": "# git clone --depth 1 https://github.com/francescofioredev/accreta\n# See source for mcpServers config block"
+}

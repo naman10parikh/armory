@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-mt-dec-caixa-postal",
+  "description": "Consulta a caixa postal da SEFAZ MT em fonte oficial, com leitura e escrita, pago por uso via créditos pré-pagos.",
+  "source_repo": "mcp-dir/sefaz_mt_dec_caixa_postal-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_mt_dec_caixa_postal-mcp",
+  "install": "npx -y sefaz_mt_dec_caixa_postal-mcp"
+}

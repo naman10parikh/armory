@@ -1,0 +1,7 @@
+{
+  "name": "timepiece-mcp",
+  "description": "MCP server integrating OBSS Timepiece Time in Status for Jira, enabling queries about issue durations, status histories, and aggregated metrics via natural language.",
+  "source_repo": "gianni1989/timepiece-mcp",
+  "source_url": "https://github.com/gianni1989/timepiece-mcp",
+  "install": "npx -y timepiece-mcp"
+}

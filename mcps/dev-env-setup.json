@@ -1,0 +1,7 @@
+{
+  "name": "dev-env-setup",
+  "description": "Automates setup of local development environments for Python, Node.js, Flutter, Android, and more on macOS and Linux. Can be used as a standalone CLI or as an MCP server for AI assistant integration.",
+  "source_repo": "cmwen/mcp-dev-env-setup",
+  "source_url": "https://github.com/cmwen/mcp-dev-env-setup",
+  "install": "# git clone --depth 1 https://github.com/cmwen/mcp-dev-env-setup\n# See source for mcpServers config block"
+}

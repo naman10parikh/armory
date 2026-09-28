@@ -1,0 +1,7 @@
+{
+  "name": "kickbacks-mcp-server",
+  "description": "MCP server for Kickbacks.ai that pays developers ad revenue from AI coding agent spinners. Provides tools to check balance, earnings, status, ad history, and toggle ads.",
+  "source_repo": "Manas8114/kickbacks-mcp",
+  "source_url": "https://github.com/Manas8114/kickbacks-mcp",
+  "install": "npx -y kickbacks-mcp"
+}

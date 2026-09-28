@@ -1,0 +1,7 @@
+{
+  "name": "timemap-mcp",
+  "description": "Enables AI agents to perform Chinese metaphysics calculations including BaZi charts, Tong Shu indicators, solar terms, and more, using a verified engine with 740+ tests.",
+  "source_repo": "cnick26/timemap-mcp",
+  "source_url": "https://github.com/cnick26/timemap-mcp",
+  "install": "npx -y timemap-mcp"
+}

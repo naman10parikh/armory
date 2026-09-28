@@ -1,0 +1,7 @@
+{
+  "name": "memorybridge",
+  "description": "Cross-tool AI memory MCP server for Claude Code, Cursor, Antigravity, Windsurf, and every MCP-compatible AI. 400 tokens not 4,000.",
+  "source_repo": "IamRamgarhia/memorybridge",
+  "source_url": "https://github.com/IamRamgarhia/memorybridge",
+  "install": "# git clone --depth 1 https://github.com/IamRamgarhia/memorybridge\n# See source for mcpServers config block"
+}

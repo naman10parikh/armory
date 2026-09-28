@@ -1,0 +1,7 @@
+{
+  "name": "dsh-visual-skin",
+  "description": "Provides 26 MCP tools for designing, previewing, and safely applying visual skins to DeepSeek Harness, enabling AI agents to perform complete skin workflows from image upload to theme application.",
+  "source_repo": "trrrrrryg/dsh-visual-skin",
+  "source_url": "https://github.com/trrrrrryg/dsh-visual-skin",
+  "install": "# git clone --depth 1 https://github.com/trrrrrryg/dsh-visual-skin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dingjie-erp-mcp",
+  "description": "Enables AI assistants to query and operate Dingjie ERP system via natural language, covering procurement, sales, and material management.",
+  "source_repo": "bluewms/dingjie-erp-mcp",
+  "source_url": "https://github.com/bluewms/dingjie-erp-mcp",
+  "install": "npx -y dingjie-erp-mcp"
+}

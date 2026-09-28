@@ -1,0 +1,7 @@
+{
+  "name": "aidemo",
+  "description": "Your coding agent makes the demo video — turns a storyboard.json into a narrated, captioned product-demo MP4; deterministic replay re-renders it in CI at ~$0.",
+  "source_repo": "tandryukha/aidemo",
+  "source_url": "https://github.com/tandryukha/aidemo",
+  "install": "# git clone --depth 1 https://github.com/tandryukha/aidemo\n# See source for mcpServers config block"
+}

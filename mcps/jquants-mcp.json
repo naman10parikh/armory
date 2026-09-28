@@ -1,0 +1,7 @@
+{
+  "name": "jquants-mcp",
+  "description": "An MCP server that retrieves Japanese stock market data via J-Quants API v2.",
+  "source_repo": "shigechika/jquants-mcp",
+  "source_url": "https://github.com/shigechika/jquants-mcp",
+  "install": "npx -y jquants-mcp"
+}

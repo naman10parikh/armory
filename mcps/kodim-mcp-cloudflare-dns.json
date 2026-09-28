@@ -1,0 +1,7 @@
+{
+  "name": "kodim-mcp-cloudflare-dns",
+  "description": "MCP server for managing and analyzing Cloudflare DNS — zones, records, analytics, and DNSSEC.",
+  "source_repo": "KodimTech/mcp-cloudflare-dns",
+  "source_url": "https://github.com/KodimTech/mcp-cloudflare-dns",
+  "install": "# git clone --depth 1 https://github.com/KodimTech/mcp-cloudflare-dns\n# See source for mcpServers config block"
+}

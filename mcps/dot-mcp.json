@@ -1,0 +1,7 @@
+{
+  "name": "dot-mcp",
+  "description": "Relays job-setup and todo actions from Claude to the Dot Hub, enabling job creation and todo management via Streamable HTTP.",
+  "source_repo": "MGhunch/dot-mcp",
+  "source_url": "https://github.com/MGhunch/dot-mcp",
+  "install": "npx -y dot-mcp"
+}

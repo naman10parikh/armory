@@ -1,0 +1,7 @@
+{
+  "name": "sp-devcontrol",
+  "description": "Local governance layer for AI-assisted development, providing human authorization gates, policy enforcement, change approval workflow, and rollback capabilities through a universal MCP server.",
+  "source_repo": "PRojas01/sp-devcontrol",
+  "source_url": "https://github.com/PRojas01/sp-devcontrol",
+  "install": "# git clone --depth 1 https://github.com/PRojas01/sp-devcontrol\n# See source for mcpServers config block"
+}

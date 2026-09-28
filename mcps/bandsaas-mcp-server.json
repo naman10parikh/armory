@@ -1,0 +1,7 @@
+{
+  "name": "bandsaas-mcp-server",
+  "description": "Enables musicians and their agents to manage AI licensing, register tracks by ISRC, issue/revoke licences, access compliance audit trails, and run their artist platform (merch, events, subscriptions, crowdfunding) through natural language with 46 tools.",
+  "source_repo": "jyswee/bandsaas",
+  "source_url": "https://github.com/jyswee/bandsaas",
+  "install": "# git clone --depth 1 https://github.com/jyswee/bandsaas\n# See source for mcpServers config block"
+}

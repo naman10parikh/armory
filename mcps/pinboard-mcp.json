@@ -1,0 +1,7 @@
+{
+  "name": "pinboard-mcp",
+  "description": "Enables Claude Desktop to save bookmarks to Pinboard by generating Japanese summaries and tags, with private saving and overwrite for existing URLs.",
+  "source_repo": "ANTON072/pinboard-mcp",
+  "source_url": "https://github.com/ANTON072/pinboard-mcp",
+  "install": "npx -y pinboard-mcp"
+}

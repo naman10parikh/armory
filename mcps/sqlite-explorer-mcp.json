@@ -1,0 +1,7 @@
+{
+  "name": "sqlite-explorer-mcp",
+  "description": "Read-only SQLite database explorer for MCP clients. Allows discovery of tables and columns via resources and running SELECT queries via a tool.",
+  "source_repo": "FrankieSoltero/sqlite-explorer-mcp",
+  "source_url": "https://github.com/FrankieSoltero/sqlite-explorer-mcp",
+  "install": "npx -y sqlite-explorer-mcp"
+}

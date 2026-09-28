@@ -1,0 +1,7 @@
+{
+  "name": "slowmcp",
+  "description": "SlowMCP is a modern framework for building, testing, and shipping MCP servers, written in CoffeeScript. It includes a protocol-backed test harness and works over Streamable HTTP.",
+  "source_repo": "LeeFlannery/slowmcp",
+  "source_url": "https://github.com/LeeFlannery/slowmcp",
+  "install": "# git clone --depth 1 https://github.com/LeeFlannery/slowmcp\n# See source for mcpServers config block"
+}

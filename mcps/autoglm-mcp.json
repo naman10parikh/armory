@@ -1,0 +1,7 @@
+{
+  "name": "autoglm-mcp",
+  "description": "Enables AI agents to analyze and interact with Android phone screens via ADB, using the AutoGLM model to answer queries about screen content and coordinates.",
+  "source_repo": "xiangaoole/autoglm-mcp",
+  "source_url": "https://github.com/xiangaoole/autoglm-mcp",
+  "install": "npx -y autoglm-mcp"
+}

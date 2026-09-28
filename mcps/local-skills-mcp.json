@@ -1,0 +1,7 @@
+{
+  "name": "local-skills-mcp",
+  "description": "A universal MCP server that enables any LLM or AI agent to access expert skills from your local filesystem.",
+  "source_repo": "kdpa-llc/local-skills-mcp",
+  "source_url": "https://github.com/kdpa-llc/local-skills-mcp",
+  "install": "npx -y local-skills-mcp"
+}

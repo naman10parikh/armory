@@ -1,0 +1,7 @@
+{
+  "name": "centauri-mcp",
+  "description": "MCP server for the Elegoo Centauri Carbon 3D printer that enables monitoring, control, and notifications via the SDCP 3.0 protocol over the local network.",
+  "source_repo": "blanders2/centauri-mcp",
+  "source_url": "https://github.com/blanders2/centauri-mcp",
+  "install": "npx -y centauri-mcp"
+}

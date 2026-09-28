@@ -1,0 +1,7 @@
+{
+  "name": "gl-mcp-feedback",
+  "description": "提供交互式反馈MCP服务器，通过Web UI实现AI与用户的确认流程，提高开发效率并节省平台成本。",
+  "source_repo": "teacat99/gl-mcp-feedback",
+  "source_url": "https://github.com/teacat99/gl-mcp-feedback",
+  "install": "# git clone --depth 1 https://github.com/teacat99/gl-mcp-feedback\n# See source for mcpServers config block"
+}

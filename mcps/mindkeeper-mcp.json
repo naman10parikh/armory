@@ -1,0 +1,7 @@
+{
+  "name": "mindkeeper-mcp",
+  "description": "Captures ideas from conversations and organizes them into a persistent, hierarchical mindmap. Supports search, deduplication, export, import, and cloud sync.",
+  "source_repo": "icedsg/mindkeeper-mcp",
+  "source_url": "https://github.com/icedsg/mindkeeper-mcp",
+  "install": "npx -y mindkeeper-mcp"
+}

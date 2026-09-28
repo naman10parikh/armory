@@ -1,0 +1,7 @@
+{
+  "name": "pve-mcp-server",
+  "description": "Enables AI assistants to monitor and analyze Proxmox VE virtualization environments via the MCP protocol.",
+  "source_repo": "bubua12/pve-mcp-server",
+  "source_url": "https://github.com/bubua12/pve-mcp-server",
+  "install": "npx -y pve-mcp-server"
+}

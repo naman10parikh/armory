@@ -1,0 +1,7 @@
+{
+  "name": "clauselens-mcp",
+  "description": "Enables Claude or Cursor to act as a contract analyst by providing tools for document fetching, clause segmentation, span verification, and risk taxonomy lookup, with no server-side LLM calls or document retention.",
+  "source_repo": "Jaydatta-Bade/clauselens-mcp",
+  "source_url": "https://github.com/Jaydatta-Bade/clauselens-mcp",
+  "install": "npx -y clauselens-mcp"
+}

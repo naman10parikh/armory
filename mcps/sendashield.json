@@ -1,0 +1,7 @@
+{
+  "name": "sendashield",
+  "description": "Self-hosted MCP server that filters sensitive data from email and calendar before it reaches AI assistants, masking or withholding confidential content based on user policy.",
+  "source_repo": "bj-taduran/sendashield",
+  "source_url": "https://github.com/bj-taduran/sendashield",
+  "install": "# git clone --depth 1 https://github.com/bj-taduran/sendashield\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "godot-project-doctor",
+  "description": "Analyzes Godot GDScript files for code quality and provides refactoring plans. Includes tools for script analysis, refactoring planning, and service code generation.",
+  "source_repo": "okp74103-ops/GodotFunctionRefactor-PlayMCP",
+  "source_url": "https://github.com/okp74103-ops/GodotFunctionRefactor-PlayMCP",
+  "install": "# git clone --depth 1 https://github.com/okp74103-ops/GodotFunctionRefactor-PlayMCP\n# See source for mcpServers config block"
+}

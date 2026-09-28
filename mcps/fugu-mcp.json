@@ -1,0 +1,7 @@
+{
+  "name": "fugu-mcp",
+  "description": "An MCP server that exposes Sakana Fugu as on-demand tools inside Claude Code for second opinions and critiques.",
+  "source_repo": "jamesaoyama/fugu-mcp",
+  "source_url": "https://github.com/jamesaoyama/fugu-mcp",
+  "install": "npx -y fugu-mcp"
+}

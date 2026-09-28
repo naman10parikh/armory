@@ -1,0 +1,7 @@
+{
+  "name": "cineplex-mcp",
+  "description": "An MCP server that lets Claude look up Cineplex Canada showtimes and find ones with good seats available, such as avoiding front rows or side seats.",
+  "source_repo": "yinbri/cineplex-mcp",
+  "source_url": "https://github.com/yinbri/cineplex-mcp",
+  "install": "npx -y cineplex-mcp"
+}

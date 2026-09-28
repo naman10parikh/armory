@@ -1,0 +1,7 @@
+{
+  "name": "cep-mcp-server",
+  "description": "Enables AI agents to inspect and configure Chrome Enterprise Premium environments, including DLP rules, content detectors, connector policies, browser telemetry, and license management.",
+  "source_repo": "antarpreetsinghbajwa/cep-mcp-server",
+  "source_url": "https://github.com/antarpreetsinghbajwa/cep-mcp-server",
+  "install": "npx -y cep-mcp-server"
+}

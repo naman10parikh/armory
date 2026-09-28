@@ -1,0 +1,7 @@
+{
+  "name": "entraadm-mcp",
+  "description": "Enables read-only triage of Microsoft Entra ID sign-in and audit logs through fixed tools for sign-in failure analysis, user lookup, directory audits, and daily briefs.",
+  "source_repo": "shigechika/entraadm-mcp",
+  "source_url": "https://github.com/shigechika/entraadm-mcp",
+  "install": "npx -y entraadm-mcp"
+}

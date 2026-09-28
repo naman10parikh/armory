@@ -1,0 +1,7 @@
+{
+  "name": "kiro-ibmi-mcp-bridge",
+  "description": "Bridges AI with IBM i systems for source code management, SQL queries, and schema inspection via MCP.",
+  "source_repo": "dibari62/kiro-ibmi-mcp-bridge",
+  "source_url": "https://github.com/dibari62/kiro-ibmi-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/dibari62/kiro-ibmi-mcp-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "astrovisor-mcp",
+  "description": "Enables interaction with the AstroVisor API through MCP, automatically synced to the OpenAPI schema for dynamic tool discovery and execution.",
+  "source_repo": "rokoss21/astrovisor-mcp",
+  "source_url": "https://github.com/rokoss21/astrovisor-mcp",
+  "install": "npx -y astrovisor-mcp"
+}

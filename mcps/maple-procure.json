@@ -1,0 +1,7 @@
+{
+  "name": "maple-procure",
+  "description": "An MCP server that gives Claude access to Canada's public procurement data from CanadaBuys, enabling search for tenders, awards, and spend summaries with traceable sources. It provides five tools: search_tenders, get_tender, search_awards, summarize_spend, and export_report.",
+  "source_repo": "samarpassey/maple-procure",
+  "source_url": "https://github.com/samarpassey/maple-procure",
+  "install": "# git clone --depth 1 https://github.com/samarpassey/maple-procure\n# See source for mcpServers config block"
+}

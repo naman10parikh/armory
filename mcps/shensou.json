@@ -1,0 +1,7 @@
+{
+  "name": "shensou",
+  "description": "An MCP server for divergent iterative web search that anchors on a question, proposes keyword queries, gathers evidence, and outputs a question-map and synthesis.",
+  "source_repo": "taoyongac/shensou",
+  "source_url": "https://github.com/taoyongac/shensou",
+  "install": "# git clone --depth 1 https://github.com/taoyongac/shensou\n# See source for mcpServers config block"
+}

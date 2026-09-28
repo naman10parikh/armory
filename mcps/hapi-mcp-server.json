@@ -1,0 +1,7 @@
+{
+  "name": "hapi-mcp-server",
+  "description": "Enables developers to define, expose, and consume APIs using the Model Context Protocol with API-first design, built on OpenAPI specifications for robust schema validation and secure integration.",
+  "source_repo": "la-rebelion/hapi-cli-website",
+  "source_url": "https://github.com/la-rebelion/hapi-cli-website",
+  "install": "# git clone --depth 1 https://github.com/la-rebelion/hapi-cli-website\n# See source for mcpServers config block"
+}

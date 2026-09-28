@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rag-bridge",
+  "description": "Enables AI agents to query and manage a document knowledge base via MCP, with RAG-powered search and grounded answers with citations.",
+  "source_repo": "zyay/mcp-rag-bridge",
+  "source_url": "https://github.com/zyay/mcp-rag-bridge",
+  "install": "# git clone --depth 1 https://github.com/zyay/mcp-rag-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pepys-mcp",
+  "description": "Enables AI agents to transcribe audio and video with speaker labels, timestamps, and captions via Pepys API.",
+  "source_repo": "ankurmans/pepys-mcp",
+  "source_url": "https://github.com/ankurmans/pepys-mcp",
+  "install": "npx -y pepys-mcp"
+}

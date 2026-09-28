@@ -1,0 +1,7 @@
+{
+  "name": "hermes-youtube-transcript-mcp-server",
+  "description": "Downloads YouTube audio and transcribes it locally using faster-whisper, saving transcripts as Markdown and JSON files for Obsidian and Hermes ingestion.",
+  "source_repo": "thomkozik/hermes-yt_transcriber-mcp",
+  "source_url": "https://github.com/thomkozik/hermes-yt_transcriber-mcp",
+  "install": "npx -y hermes-yt_transcriber-mcp"
+}

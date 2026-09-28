@@ -1,0 +1,7 @@
+{
+  "name": "runapi-ai-flux-kontext-mcp",
+  "description": "MCP server for the Flux Kontext model line that enables text-to-image generation, task status polling, and pricing lookup via RunAPI.",
+  "source_repo": "runapi-ai/flux-kontext-mcp",
+  "source_url": "https://github.com/runapi-ai/flux-kontext-mcp",
+  "install": "npx -y flux-kontext-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mesa-mcp",
+  "description": "Enables agents to query a read-only ledger of machine payments, exposing tools for spending totals, purchases with event chains, verdicts, payer passports, and fiscal reporting data.",
+  "source_repo": "BenyFridY/tercet",
+  "source_url": "https://github.com/BenyFridY/tercet",
+  "install": "# git clone --depth 1 https://github.com/BenyFridY/tercet\n# See source for mcpServers config block"
+}

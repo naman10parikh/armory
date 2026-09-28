@@ -1,0 +1,7 @@
+{
+  "name": "zwcad-mcp",
+  "description": "Enables AI clients to drive ZWCAD drawing, modification, query, and plotting via natural language.",
+  "source_repo": "dalingo81/ZWCAD-MCP",
+  "source_url": "https://github.com/dalingo81/ZWCAD-MCP",
+  "install": "npx -y ZWCAD-MCP"
+}

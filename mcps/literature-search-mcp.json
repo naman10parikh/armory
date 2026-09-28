@@ -1,0 +1,7 @@
+{
+  "name": "literature-search-mcp",
+  "description": "A standalone MCP server that searches multiple scholarly metadata providers (PubMed, Europe PMC, bioRxiv, Crossref, OpenAlex, Semantic Scholar, arXiv), deduplicates results, and returns ranked literature with optional open-access full-text retrieval from Europe PMC.",
+  "source_repo": "PHoenixs57/literature-search-mcp",
+  "source_url": "https://github.com/PHoenixs57/literature-search-mcp",
+  "install": "npx -y literature-search-mcp"
+}

@@ -7,7 +7,7 @@ license: MIT
 ---
 # cchistory
 
-Like the shell history command but for your Claude Code sessions. Easily list all Bash or "Bash-mode" (`!`) commands Claude Code ran in a session for reference.
+Like the shell history command, but for your Claude Code sessions: lists every Bash or Bash-mode command Claude Code ran in a session.
 
 **Source:** https://github.com/eckardt/cchistory
 

@@ -1,0 +1,7 @@
+{
+  "name": "container-mcp-2",
+  "description": "MCP server for Apple container to manage, build, inspect, and diagnose Linux containers on macOS directly from AI agents.",
+  "source_repo": "ARXNDEV/linux-mcp-server-",
+  "source_url": "https://github.com/ARXNDEV/linux-mcp-server-",
+  "install": "# git clone --depth 1 https://github.com/ARXNDEV/linux-mcp-server-\n# See source for mcpServers config block"
+}

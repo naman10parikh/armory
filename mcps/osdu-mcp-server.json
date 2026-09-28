@@ -1,0 +1,7 @@
+{
+  "name": "osdu-mcp-server",
+  "description": "Enables AI assistants to interact with OSDU platform services including search, data management, and schema operations.",
+  "source_repo": "danielscholl-osdu/osdu-mcp-server",
+  "source_url": "https://github.com/danielscholl-osdu/osdu-mcp-server",
+  "install": "npx -y osdu-mcp-server"
+}

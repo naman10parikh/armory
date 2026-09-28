@@ -1,0 +1,7 @@
+{
+  "name": "figma-cdn-mcp-server",
+  "description": "Uploads temporary Figma MCP asset URLs to the CDN after Tinify optimization.",
+  "source_repo": "Mehedad1948/tinify-mcp",
+  "source_url": "https://github.com/Mehedad1948/tinify-mcp",
+  "install": "npx -y tinify-mcp"
+}

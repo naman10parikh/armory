@@ -1,0 +1,7 @@
+{
+  "name": "clickproof",
+  "description": "UI interaction verifier for computer-use agents — tracks which UI elements exist and their expected behavior to catch ghost actions.",
+  "source_repo": "sandeep-alluru/clickproof",
+  "source_url": "https://github.com/sandeep-alluru/clickproof",
+  "install": "# git clone --depth 1 https://github.com/sandeep-alluru/clickproof\n# See source for mcpServers config block"
+}

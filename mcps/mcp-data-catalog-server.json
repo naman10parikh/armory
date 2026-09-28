@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-catalog-server",
+  "description": "Enables composable search and filtering over an enterprise data catalog, with tools for lineage, sample data, profiling, history, quality rules, and AI-driven classification.",
+  "source_repo": "akashmanjini/mcp_data_catalog",
+  "source_url": "https://github.com/akashmanjini/mcp_data_catalog",
+  "install": "# git clone --depth 1 https://github.com/akashmanjini/mcp_data_catalog\n# See source for mcpServers config block"
+}

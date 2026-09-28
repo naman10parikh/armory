@@ -1,0 +1,7 @@
+{
+  "name": "p31-mcp-membrane",
+  "description": "Membrane is an MCP server that combines DORA metrics, deploy checks, and gamification rewards into a post-deploy verification layer for AI agents.",
+  "source_repo": "p31labs/mcp-membrane",
+  "source_url": "https://github.com/p31labs/mcp-membrane",
+  "install": "# git clone --depth 1 https://github.com/p31labs/mcp-membrane\n# See source for mcpServers config block"
+}

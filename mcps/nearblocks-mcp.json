@@ -1,0 +1,7 @@
+{
+  "name": "nearblocks-mcp",
+  "description": "Read-only MCP server for NEAR blockchain wallet data, providing account summaries, transaction history, token transfers, and activity reports via the NearBlocks API.",
+  "source_repo": "pavliuko/nearblocks-mcp",
+  "source_url": "https://github.com/pavliuko/nearblocks-mcp",
+  "install": "npx -y nearblocks-mcp"
+}

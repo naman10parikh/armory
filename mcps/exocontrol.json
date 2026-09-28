@@ -1,0 +1,7 @@
+{
+  "name": "exocontrol",
+  "description": "Realtime PC eyes and hands for any AI agent — provides desktop, browser, file, registry, and OS control via batched execution and lease-based safety gates.",
+  "source_repo": "ImAvgErix/ExoControl",
+  "source_url": "https://github.com/ImAvgErix/ExoControl",
+  "install": "# git clone --depth 1 https://github.com/ImAvgErix/ExoControl\n# See source for mcpServers config block"
+}

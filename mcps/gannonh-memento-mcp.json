@@ -1,0 +1,7 @@
+{
+  "name": "gannonh-memento-mcp",
+  "description": "Memento MCP: A Knowledge Graph Memory System for LLMs",
+  "source_repo": "gannonh/memento-mcp",
+  "source_url": "https://github.com/gannonh/memento-mcp",
+  "install": "npx -y memento-mcp"
+}

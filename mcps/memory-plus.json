@@ -1,0 +1,7 @@
+{
+  "name": "memory-plus",
+  "description": "Provides persistent, searchable structured memory management for AI agents, with keyword matching, bidirectional Zettelkasten sync, and six MCP tools.",
+  "source_repo": "cx2002302-lang/memory_plus",
+  "source_url": "https://github.com/cx2002302-lang/memory_plus",
+  "install": "# git clone --depth 1 https://github.com/cx2002302-lang/memory_plus\n# See source for mcpServers config block"
+}

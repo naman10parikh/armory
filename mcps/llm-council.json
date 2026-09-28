@@ -1,0 +1,7 @@
+{
+  "name": "llm-council",
+  "description": "Blind multi-model councils with anonymous LLM seats and direct 1:1 chat as a local MCP server. Enables asking one question to get independent answers from multiple model CLIs, then blind scoring and reveal.",
+  "source_repo": "blessthis/llm-council",
+  "source_url": "https://github.com/blessthis/llm-council",
+  "install": "# git clone --depth 1 https://github.com/blessthis/llm-council\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mpt-ba-certid-o-negativa-de-feitos",
+  "description": "Enables read-only consultation of Certidão Negativa de Feitos from official MPT BA sources via a hosted MCP server with pay-per-use credits.",
+  "source_repo": "mcp-dir/mpt_ba_cnf-mcp",
+  "source_url": "https://github.com/mcp-dir/mpt_ba_cnf-mcp",
+  "install": "npx -y mpt_ba_cnf-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-nexus",
+  "description": "Service-boundary-aware document exchange center for coordinating heterogeneous LLM code agents via MCP. Versioned Markdown store, pub-sub notifications, and diff-aware update protocol.",
+  "source_repo": "dugubuyan/agent-nexus",
+  "source_url": "https://github.com/dugubuyan/agent-nexus",
+  "install": "# git clone --depth 1 https://github.com/dugubuyan/agent-nexus\n# See source for mcpServers config block"
+}

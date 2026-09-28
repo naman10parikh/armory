@@ -1,0 +1,7 @@
+{
+  "name": "rigol-dg900-mcp",
+  "description": "MCP server that lets an AI assistant drive a RIGOL DG800 Pro / DG900 Pro arbitrary waveform generator over LAN (raw SCPI on TCP 5555), with tools for setting waveforms, output loads, and reading status.",
+  "source_repo": "kakuteki/rigol-dg900-mcp",
+  "source_url": "https://github.com/kakuteki/rigol-dg900-mcp",
+  "install": "npx -y rigol-dg900-mcp"
+}

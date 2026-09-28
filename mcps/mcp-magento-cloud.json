@@ -1,0 +1,7 @@
+{
+  "name": "mcp-magento-cloud",
+  "description": "Enables AI agents to interact with Adobe Commerce Cloud projects via REST API and SSH for database queries, log reading, environment management, and more, with no PHP CLI required.",
+  "source_repo": "juan-cinto-infracommerce/mcp-magento-cloud",
+  "source_url": "https://github.com/juan-cinto-infracommerce/mcp-magento-cloud",
+  "install": "# git clone --depth 1 https://github.com/juan-cinto-infracommerce/mcp-magento-cloud\n# See source for mcpServers config block"
+}

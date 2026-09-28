@@ -1,0 +1,7 @@
+{
+  "name": "mcp-file-edit",
+  "description": "Provides comprehensive file system operations including reading, writing, searching, patching, code analysis, SSH transfers, and git operations, while aiming to reduce token usage in Claude Desktop.",
+  "source_repo": "patrickomatik/mcp-file-edit",
+  "source_url": "https://github.com/patrickomatik/mcp-file-edit",
+  "install": "# git clone --depth 1 https://github.com/patrickomatik/mcp-file-edit\n# See source for mcpServers config block"
+}

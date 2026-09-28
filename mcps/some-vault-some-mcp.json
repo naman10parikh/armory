@@ -1,0 +1,7 @@
+{
+  "name": "some-vault-some-mcp",
+  "description": "MCP server that gives AI models read/write access to Obsidian vaults with semantic search, link graph analysis, canvas manipulation, and incremental indexing.",
+  "source_repo": "russellsch/some_vault_some_mcp",
+  "source_url": "https://github.com/russellsch/some_vault_some_mcp",
+  "install": "npx -y some_vault_some_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "browser-mcp",
+  "description": "A Model Control Protocol server that enables AI agents to perform web browsing tasks through a standardized interface using the browser-use library.",
+  "source_repo": "pranav7/browser-mcp",
+  "source_url": "https://github.com/pranav7/browser-mcp",
+  "install": "npx -y browser-mcp"
+}

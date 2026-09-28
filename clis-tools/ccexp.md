@@ -7,7 +7,7 @@ license: MIT
 ---
 # ccexp
 
-Interactive CLI tool for discovering and managing Claude Code configuration files and slash commands with a beautiful terminal UI.
+An interactive terminal tool for finding and managing Claude Code configuration files and slash commands.
 
 **Source:** https://github.com/nyatinte/ccexp
 

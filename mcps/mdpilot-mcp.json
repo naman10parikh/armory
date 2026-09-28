@@ -1,0 +1,7 @@
+{
+  "name": "mdpilot-mcp",
+  "description": "CP server that generates AGENTS.md and CLAUDE.md from your real repo, verifies every command actually exists, detects doc drift, and saves session context — all locally, no data leaves your machine. Free-tier friendly via Groq/NVIDIA.",
+  "source_repo": "get-mdpilot/MDPilot-mcp",
+  "source_url": "https://github.com/get-mdpilot/MDPilot-mcp",
+  "install": "npx -y MDPilot-mcp"
+}

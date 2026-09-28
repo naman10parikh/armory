@@ -1,0 +1,7 @@
+{
+  "name": "rpcedge-mcp",
+  "description": "Provides Solana RPC tools for agents to check health, estimate priority fees, sample Yellowstone gRPC, and submit signed transactions via the rpc edge relay.",
+  "source_repo": "rpc-edge/rpcedge-toolkit",
+  "source_url": "https://github.com/rpc-edge/rpcedge-toolkit",
+  "install": "# git clone --depth 1 https://github.com/rpc-edge/rpcedge-toolkit\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "j-quants-doc-mcp",
+  "description": "Enables searching J-Quants API endpoints, retrieving detailed documentation, generating executable sample code, and answering FAQs via MCP clients like Claude Desktop.",
+  "source_repo": "J-Quants/j-quants-doc-mcp",
+  "source_url": "https://github.com/J-Quants/j-quants-doc-mcp",
+  "install": "npx -y j-quants-doc-mcp"
+}

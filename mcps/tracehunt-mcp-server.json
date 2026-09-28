@@ -1,0 +1,7 @@
+{
+  "name": "tracehunt-mcp-server",
+  "description": "Enables username reconnaissance across 480+ platforms, generating HTML reports and footprint scores, accessible via AI agents.",
+  "source_repo": "Hayatelin/tracehunt",
+  "source_url": "https://github.com/Hayatelin/tracehunt",
+  "install": "# git clone --depth 1 https://github.com/Hayatelin/tracehunt\n# See source for mcpServers config block"
+}

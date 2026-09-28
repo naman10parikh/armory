@@ -1,0 +1,7 @@
+{
+  "name": "shreg-compiler",
+  "description": "Compiles an Obsidian knowledge graph into a queryable MCP server, allowing AI agents to search concepts, get nodes, and retrieve related information.",
+  "source_repo": "Shreg-ai/compiler",
+  "source_url": "https://github.com/Shreg-ai/compiler",
+  "install": "# git clone --depth 1 https://github.com/Shreg-ai/compiler\n# See source for mcpServers config block"
+}

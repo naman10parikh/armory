@@ -1,0 +1,7 @@
+{
+  "name": "harness-fe",
+  "description": "A source-aware MCP server that connects AI agents to browser and server runtimes, enabling real-time debugging, monitoring, and automatic fixes via WebSocket or HTTP.",
+  "source_repo": "Morphicai/harness-fe",
+  "source_url": "https://github.com/Morphicai/harness-fe",
+  "install": "# git clone --depth 1 https://github.com/Morphicai/harness-fe\n# See source for mcpServers config block"
+}

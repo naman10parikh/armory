@@ -1,0 +1,7 @@
+{
+  "name": "postgresdb-mcp",
+  "description": "Enables AI assistants to interact with PostgreSQL databases, providing tools for querying, table listing, schema exploration, and multi-environment management with write protection and schema scoping.",
+  "source_repo": "nayzo/postgresdb-mcp",
+  "source_url": "https://github.com/nayzo/postgresdb-mcp",
+  "install": "npx -y postgresdb-mcp"
+}

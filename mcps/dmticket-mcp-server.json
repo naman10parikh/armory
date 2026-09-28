@@ -1,0 +1,7 @@
+{
+  "name": "dmticket-mcp-server",
+  "description": "Provides AI agents live access to a DMTicket workspace for managing contacts, conversations, messages, tags, broadcasts, sequences, flows, triggers, and webhooks, enabling reading, segmenting, messaging, and automating tasks.",
+  "source_repo": "doanhnd9989/dmticket-mcp",
+  "source_url": "https://github.com/doanhnd9989/dmticket-mcp",
+  "install": "npx -y dmticket-mcp"
+}

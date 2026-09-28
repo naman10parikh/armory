@@ -1,0 +1,7 @@
+{
+  "name": "ambrook-mcp-guardrail",
+  "description": "Deterministic pre-flight ledger validator that treats AI agent proposed financial writes as untrusted input, validating them against ledger invariants before commit, ensuring invalid transactions result in zero ledger mutation.",
+  "source_repo": "Sagar-024/ambrook-mcp-guardrail",
+  "source_url": "https://github.com/Sagar-024/ambrook-mcp-guardrail",
+  "install": "# git clone --depth 1 https://github.com/Sagar-024/ambrook-mcp-guardrail\n# See source for mcpServers config block"
+}

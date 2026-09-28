@@ -1,0 +1,7 @@
+{
+  "name": "butterbase",
+  "description": "AI-native open-source backend-as-a-service. Manage Postgres with RLS, auth, file storage, serverless TypeScript functions, durable objects, realtime, KV, AI gateway, and RAG via MCP, either HTTP at /mcp on a self-hosted instance or stdio with npx @butterbase/mcp.",
+  "source_repo": "butterbase-ai/butterbase",
+  "source_url": "https://github.com/butterbase-ai/butterbase",
+  "install": "# git clone --depth 1 https://github.com/butterbase-ai/butterbase\n# See source for mcpServers config block"
+}

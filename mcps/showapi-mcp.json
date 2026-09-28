@@ -1,0 +1,7 @@
+{
+  "name": "showapi-mcp",
+  "description": "MCP server that wraps ShowAPI (易源开放平台) to provide express tracking via query_express and general access to life service APIs via showapi_call, deployable to cloud or locally.",
+  "source_repo": "Xiaoxu-design1/showapi-mcp",
+  "source_url": "https://github.com/Xiaoxu-design1/showapi-mcp",
+  "install": "npx -y showapi-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "teams-mcp",
+  "description": "Enables AI assistants to interact with Microsoft Teams, users, chats, files, and organizational data via Microsoft Graph APIs, with added support for creating, updating, listing, and inspecting Teams meetings and calendar events.",
+  "source_repo": "goddivor/teams-mcp",
+  "source_url": "https://github.com/goddivor/teams-mcp",
+  "install": "npx -y teams-mcp"
+}

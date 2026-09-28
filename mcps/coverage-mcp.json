@@ -1,0 +1,7 @@
+{
+  "name": "coverage-mcp",
+  "description": "MCP server for Java branch coverage analysis using JaCoCo. Enables agent-style coverage feedback with per-test-class granularity and uncovered line identification.",
+  "source_repo": "ProgrammerDream/coverage-mcp",
+  "source_url": "https://github.com/ProgrammerDream/coverage-mcp",
+  "install": "npx -y coverage-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "composite-mcp-sales-intelligence",
+  "description": "Bridges ConnectWise PSA and TD Synnex StreamOne distributor into composite sales workflows via MCP, providing tools for customer profiles, upsell suggestions, price comparison, quote building, renewal radar, and opportunity enrichment.",
+  "source_repo": "jaceryan5150/composite-mcp",
+  "source_url": "https://github.com/jaceryan5150/composite-mcp",
+  "install": "npx -y composite-mcp"
+}

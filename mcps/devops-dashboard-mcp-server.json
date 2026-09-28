@@ -1,0 +1,7 @@
+{
+  "name": "devops-dashboard-mcp-server",
+  "description": "Enables AI assistants to monitor and manage Linux infrastructure including services, logs, processes, disk, memory, ports, cron, nginx, Docker, and system health checks via the Model Context Protocol.",
+  "source_repo": "turlockmike/devops-dashboard-mcp",
+  "source_url": "https://github.com/turlockmike/devops-dashboard-mcp",
+  "install": "npx -y devops-dashboard-mcp"
+}

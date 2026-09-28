@@ -1,0 +1,7 @@
+{
+  "name": "pypi-query-mcp-server",
+  "description": "A Model Context Protocol server for querying PyPI package information, dependencies, and compatibility checking. Supports advanced dependency analysis, download statistics, and trending analysis.",
+  "source_repo": "loonghao/pypi-query-mcp-server",
+  "source_url": "https://github.com/loonghao/pypi-query-mcp-server",
+  "install": "npx -y pypi-query-mcp-server"
+}

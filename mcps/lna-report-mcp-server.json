@@ -1,0 +1,7 @@
+{
+  "name": "lna-report-mcp-server",
+  "description": "Enables AI agents to automatically analyze AWS LNA CSV data and generate competency assessment PPT reports with radar charts and team-level insights.",
+  "source_repo": "twkim1122/LNA_Report_MCP",
+  "source_url": "https://github.com/twkim1122/LNA_Report_MCP",
+  "install": "npx -y LNA_Report_MCP"
+}

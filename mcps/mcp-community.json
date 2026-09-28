@@ -1,6 +1,6 @@
 {
   "name": "mcp-community",
-  "description": "Mcp Community MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Mirascope/mcp-community",
   "source_url": "https://mcp.so/server/mcp-community/Mirascope",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-community/Mirascope\n# See source for mcpServers config block"

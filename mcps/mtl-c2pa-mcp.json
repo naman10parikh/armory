@@ -1,0 +1,7 @@
+{
+  "name": "mtl-c2pa-mcp",
+  "description": "MCP server for reading C2PA content provenance manifests from media files, enabling natural language queries about AI-generated content, signatures, and provenance.",
+  "source_repo": "musictechlab/mtl-c2pa-mcp",
+  "source_url": "https://github.com/musictechlab/mtl-c2pa-mcp",
+  "install": "npx -y mtl-c2pa-mcp"
+}

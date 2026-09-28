@@ -1,0 +1,7 @@
+{
+  "name": "northstar-clinic",
+  "description": "Enables managing clinic appointments through MCP tools and an interactive widget, including viewing availability, booking visits, and confirming appointments.",
+  "source_repo": "yashprogrammer/mcp-apps",
+  "source_url": "https://github.com/yashprogrammer/mcp-apps",
+  "install": "# git clone --depth 1 https://github.com/yashprogrammer/mcp-apps\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "data-cityofnewyork",
+  "description": "Enables querying NYC Open Data datasets using natural language, with tools to search datasets, run SoQL queries, and retrieve metadata, all without an API key.",
+  "source_repo": "pipeworx-io/mcp-data-cityofnewyork",
+  "source_url": "https://github.com/pipeworx-io/mcp-data-cityofnewyork",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-data-cityofnewyork\n# See source for mcpServers config block"
+}

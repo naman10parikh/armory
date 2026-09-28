@@ -1,0 +1,7 @@
+{
+  "name": "dsh-mcp-admin",
+  "description": "Exposes DeepSeek Harness skill and agent preset management as an MCP server, letting remote agents read, create, update, and delete skills/presets over HTTP with audit logging. It enables a production-to-review-to-modification workflow without SSH.",
+  "source_repo": "EnZzzzzz/dsh-mcp-admin",
+  "source_url": "https://github.com/EnZzzzzz/dsh-mcp-admin",
+  "install": "# git clone --depth 1 https://github.com/EnZzzzzz/dsh-mcp-admin\n# See source for mcpServers config block"
+}

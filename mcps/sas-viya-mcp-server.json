@@ -1,0 +1,7 @@
+{
+  "name": "sas-viya-mcp-server",
+  "description": "Enables executing SAS code, training AutoML projects, and scoring models on SAS Viya environments through 68 tools across 9 tiers.",
+  "source_repo": "swarm-demo-hub/sas-mcp-server",
+  "source_url": "https://github.com/swarm-demo-hub/sas-mcp-server",
+  "install": "npx -y sas-mcp-server"
+}

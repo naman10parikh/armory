@@ -1,0 +1,7 @@
+{
+  "name": "unstop-mcp-server",
+  "description": "Enables AI assistants to discover contests, track user participation, and pull analytics from the Unstop platform using mock data.",
+  "source_repo": "vinoth322006/unstop-mcp-server",
+  "source_url": "https://github.com/vinoth322006/unstop-mcp-server",
+  "install": "npx -y unstop-mcp-server"
+}

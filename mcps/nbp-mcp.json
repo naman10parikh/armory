@@ -1,0 +1,7 @@
+{
+  "name": "nbp-mcp",
+  "description": "Local MCP server for the Polish National Bank (NBP) public API enabling exchange rates, gold prices, and currency conversion without authentication.",
+  "source_repo": "bartosz-kuc/nbp-mcp",
+  "source_url": "https://github.com/bartosz-kuc/nbp-mcp",
+  "install": "npx -y nbp-mcp"
+}

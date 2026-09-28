@@ -1,0 +1,7 @@
+{
+  "name": "cvc-storyboard-mcp",
+  "description": "A deterministic MCP server for creating and managing educational storyboards, video scripts, and slide decks. It provides tools for content planning, validation, and DOCX/PPTX generation, with a guided workflow.",
+  "source_repo": "Suddhu9546/mcp",
+  "source_url": "https://github.com/Suddhu9546/mcp",
+  "install": "# git clone --depth 1 https://github.com/Suddhu9546/mcp\n# See source for mcpServers config block"
+}

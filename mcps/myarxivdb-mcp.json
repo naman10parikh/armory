@@ -1,0 +1,7 @@
+{
+  "name": "myarxivdb-mcp",
+  "description": "Organizes personal research papers by crawling arXiv metadata, embedding abstracts, storing in a PostgreSQL database, and generating Related Work sections using LLMs.",
+  "source_repo": "Jongbin-kr/MyArxivDB_MCP",
+  "source_url": "https://github.com/Jongbin-kr/MyArxivDB_MCP",
+  "install": "npx -y MyArxivDB_MCP"
+}

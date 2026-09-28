@@ -1,0 +1,7 @@
+{
+  "name": "public-tenders-es-eu",
+  "description": "Provides normalized search over public-sector tender notices from TED, covering Spain and the rest of the EU. Supports filtering by country, keyword, CPV prefix, and publication recency, returning tender details and related links.",
+  "source_repo": "nexus-mcp-infra/public-tenders-es-eu",
+  "source_url": "https://github.com/nexus-mcp-infra/public-tenders-es-eu",
+  "install": "# git clone --depth 1 https://github.com/nexus-mcp-infra/public-tenders-es-eu\n# See source for mcpServers config block"
+}

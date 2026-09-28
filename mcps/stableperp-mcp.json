@@ -1,0 +1,7 @@
+{
+  "name": "stableperp-mcp",
+  "description": "MCP server for Stableperp options markets on Solana. Enables AI agents to fetch market liquidity, wallet portfolios, and generate secure trade links for transaction signing.",
+  "source_repo": "STABLEPERP/STABLEPERP-MCP",
+  "source_url": "https://github.com/STABLEPERP/STABLEPERP-MCP",
+  "install": "npx -y STABLEPERP-MCP"
+}

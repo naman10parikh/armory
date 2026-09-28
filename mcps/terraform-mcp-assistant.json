@@ -1,0 +1,7 @@
+{
+  "name": "terraform-mcp-assistant",
+  "description": "A FastMCP-based server that provides a natural language interface to Terraform operations, enabling infrastructure management via simple English commands.",
+  "source_repo": "jashkahar/Terraform-MCP-Server",
+  "source_url": "https://github.com/jashkahar/Terraform-MCP-Server",
+  "install": "npx -y Terraform-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fix-protocol-mcp",
+  "description": "MCP server for parsing, validating, building and explaining FIX protocol trading messages — offline, no API keys.",
+  "source_repo": "slenderongithub/fix-protocol-mcp",
+  "source_url": "https://github.com/slenderongithub/fix-protocol-mcp",
+  "install": "npx -y fix-protocol-mcp"
+}

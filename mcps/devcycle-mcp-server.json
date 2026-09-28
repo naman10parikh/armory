@@ -1,0 +1,7 @@
+{
+  "name": "devcycle-mcp-server",
+  "description": "Enables AI coding assistants like Cursor and Claude to manage DevCycle feature flags directly from the development environment.",
+  "source_repo": "DevCycleHQ/cli",
+  "source_url": "https://github.com/DevCycleHQ/cli",
+  "install": "# git clone --depth 1 https://github.com/DevCycleHQ/cli\n# See source for mcpServers config block"
+}

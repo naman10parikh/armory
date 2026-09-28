@@ -1,0 +1,7 @@
+{
+  "name": "check-mcp",
+  "description": "Validate any shell command before execution. AI agents call Check to know if a command will work before running it: returns runnable or invalid. $0.04 AUD per check.",
+  "source_repo": "golproductions/check-mcp",
+  "source_url": "https://github.com/golproductions/check-mcp",
+  "install": "npx -y check-mcp"
+}

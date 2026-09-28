@@ -1,0 +1,7 @@
+{
+  "name": "passare-mcp",
+  "description": "MCP server for the Passare Public API that enables users to query funeral home case data, including cases, acquaintances, addresses, and contact information, through natural language.",
+  "source_repo": "sanjibani/passare-mcp",
+  "source_url": "https://github.com/sanjibani/passare-mcp",
+  "install": "npx -y passare-mcp"
+}

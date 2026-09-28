@@ -1,0 +1,7 @@
+{
+  "name": "nagi-ledger",
+  "description": "MCP server for the nagi-ledger audit ledger and guardrail toolkit, exposing tools to record and annotate AI agent actions, subagent dispatches, and known dead ends, plus query session reports and statistics.",
+  "source_repo": "watasisaikou/nagi-ledger",
+  "source_url": "https://github.com/watasisaikou/nagi-ledger",
+  "install": "# git clone --depth 1 https://github.com/watasisaikou/nagi-ledger\n# See source for mcpServers config block"
+}

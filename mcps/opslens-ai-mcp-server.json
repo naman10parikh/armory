@@ -1,0 +1,7 @@
+{
+  "name": "opslens-ai-mcp-server",
+  "description": "Provides MCP tools to search engineering runbooks and historical incidents using semantic retrieval, supporting evidence-grounded incident investigation.",
+  "source_repo": "vp1410/opslens-ai",
+  "source_url": "https://github.com/vp1410/opslens-ai",
+  "install": "# git clone --depth 1 https://github.com/vp1410/opslens-ai\n# See source for mcpServers config block"
+}

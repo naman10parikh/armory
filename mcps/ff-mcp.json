@@ -1,0 +1,7 @@
+{
+  "name": "ff-mcp",
+  "description": "MCP server that gives local clients controlled access to a Firefox profile, enabling tab listing, reading, interaction, scripting, and screenshots with granular, revocable permissions.",
+  "source_repo": "complynx/ff-mcp",
+  "source_url": "https://github.com/complynx/ff-mcp",
+  "install": "npx -y ff-mcp"
+}

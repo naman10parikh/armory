@@ -1,0 +1,7 @@
+{
+  "name": "vistoazul-mcp",
+  "description": "MCP server that enables AI agents to operate WhatsApp via Visto Azul API: send text, media, PIX charges, manage campaigns and contacts, and configure webhooks using natural language.",
+  "source_repo": "useideia/vistoazul-mcp",
+  "source_url": "https://github.com/useideia/vistoazul-mcp",
+  "install": "npx -y vistoazul-mcp"
+}

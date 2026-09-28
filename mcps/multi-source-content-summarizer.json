@@ -1,0 +1,7 @@
+{
+  "name": "multi-source-content-summarizer",
+  "description": "MCP server for summarizing content from Baidu Netdisk, local files, Bilibili, X, and web articles, producing Obsidian notes with bidirectional links and Feishu digests.",
+  "source_repo": "xbackhome/multi-source-content-summarizer-skill",
+  "source_url": "https://github.com/xbackhome/multi-source-content-summarizer-skill",
+  "install": "# git clone --depth 1 https://github.com/xbackhome/multi-source-content-summarizer-skill\n# See source for mcpServers config block"
+}

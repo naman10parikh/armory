@@ -1,0 +1,7 @@
+{
+  "name": "pqc-migration-mcp",
+  "description": "Provides six MCP tools for AI agents to compute post-quantum cryptography migration facts, such as credential sizes, fragment counts, and failure taxonomy, enabling accurate migration decisions without estimation.",
+  "source_repo": "nickharris808/pqc-migration-mcp",
+  "source_url": "https://github.com/nickharris808/pqc-migration-mcp",
+  "install": "npx -y pqc-migration-mcp"
+}

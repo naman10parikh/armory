@@ -1,0 +1,7 @@
+{
+  "name": "curseforge-ark-mcp-server",
+  "description": "A read-only MCP server for discovering, curating, and monitoring updates for ARK: Survival Ascended mods via the CurseForge API.",
+  "source_repo": "JShort-bufr/curseforge-ark-mcp",
+  "source_url": "https://github.com/JShort-bufr/curseforge-ark-mcp",
+  "install": "npx -y curseforge-ark-mcp"
+}

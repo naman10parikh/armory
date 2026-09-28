@@ -1,0 +1,7 @@
+{
+  "name": "pf2e-mcp",
+  "description": "MCP server for Pathfinder 2e Remastered character building and rules lookup, using a local SQLite database of official rules data to enable fast, token-efficient AI-assisted character creation.",
+  "source_repo": "rjenks/pf2e-mcp",
+  "source_url": "https://github.com/rjenks/pf2e-mcp",
+  "install": "npx -y pf2e-mcp"
+}

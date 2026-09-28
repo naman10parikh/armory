@@ -1,0 +1,7 @@
+{
+  "name": "observability-agent-mcp",
+  "description": "A portable, read-only Model Context Protocol server for turning observability data into bounded evidence that AI agents can inspect safely.",
+  "source_repo": "hamardikan/observability-agent-mcp",
+  "source_url": "https://github.com/hamardikan/observability-agent-mcp",
+  "install": "npx -y observability-agent-mcp"
+}

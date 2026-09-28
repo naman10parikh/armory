@@ -1,0 +1,7 @@
+{
+  "name": "w2w-mcp",
+  "description": "MCP server integrating with When2Work scheduling API, enabling AI assistants to query employee schedules, shifts, time off, and reports via a set of tools.",
+  "source_repo": "TheRealAlexV/w2w-mcp",
+  "source_url": "https://github.com/TheRealAlexV/w2w-mcp",
+  "install": "npx -y w2w-mcp"
+}

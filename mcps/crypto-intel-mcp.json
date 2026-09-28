@@ -1,0 +1,7 @@
+{
+  "name": "crypto-intel-mcp",
+  "description": "Provides crypto market intelligence including price quotes, momentum analysis, trending coins, and a composite scored verdict, using the free CoinGecko API.",
+  "source_repo": "cstamigo-droid/crypto-intel-mcp",
+  "source_url": "https://github.com/cstamigo-droid/crypto-intel-mcp",
+  "install": "npx -y crypto-intel-mcp"
+}

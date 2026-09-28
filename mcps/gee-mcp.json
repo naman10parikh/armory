@@ -1,0 +1,7 @@
+{
+  "name": "gee-mcp",
+  "description": "Enables downloading satellite imagery from Google Earth Engine as GeoTIFF files, supporting various datasets, bands, and region specification through natural language.",
+  "source_repo": "kuzhang/mcp-gee-satellite-download",
+  "source_url": "https://github.com/kuzhang/mcp-gee-satellite-download",
+  "install": "# git clone --depth 1 https://github.com/kuzhang/mcp-gee-satellite-download\n# See source for mcpServers config block"
+}

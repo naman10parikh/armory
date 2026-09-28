@@ -1,0 +1,7 @@
+{
+  "name": "pad-core",
+  "description": "MCP server for collaborative markdown editing, allowing agents to write documents and humans to comment, with comments fed back as agent input.",
+  "source_repo": "zyx1121/pad",
+  "source_url": "https://github.com/zyx1121/pad",
+  "install": "# git clone --depth 1 https://github.com/zyx1121/pad\n# See source for mcpServers config block"
+}

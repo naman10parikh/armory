@@ -1,0 +1,7 @@
+{
+  "name": "overture-maps-mcp-server",
+  "description": "An MCP server that provides AI agents with geospatial analytics by querying Overture Maps data directly from S3, enabling place analytics, building composition, land use classification, and transportation analysis.",
+  "source_repo": "srivinod1/overture-mcp-server",
+  "source_url": "https://github.com/srivinod1/overture-mcp-server",
+  "install": "npx -y overture-mcp-server"
+}

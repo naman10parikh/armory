@@ -1,0 +1,7 @@
+{
+  "name": "blocks-translation-mcp",
+  "description": "Finds new UI translation keys in your codebase, dedup-checks them against a Blocks/UILM tenant, and generates the JSON the Blocks portal expects for import.",
+  "source_repo": "mahmudul006/blocks-translation-mcp",
+  "source_url": "https://github.com/mahmudul006/blocks-translation-mcp",
+  "install": "npx -y blocks-translation-mcp"
+}

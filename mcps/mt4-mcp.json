@@ -1,0 +1,7 @@
+{
+  "name": "mt4-mcp",
+  "description": "MCP server for AI agents to inspect and trade against a MetaTrader 4 terminal, with an offline mock mode for CI and demos.",
+  "source_repo": "mergeos-bounties/mt4-mcp",
+  "source_url": "https://github.com/mergeos-bounties/mt4-mcp",
+  "install": "npx -y mt4-mcp"
+}

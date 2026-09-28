@@ -1,0 +1,7 @@
+{
+  "name": "tomato-writer-mcp",
+  "description": "MCP server for Fanqie novel author backend, enabling multi-novel management, reading statistics analysis, and chapter publishing with scheduling.",
+  "source_repo": "fuhei/tomato-writer-mcp",
+  "source_url": "https://github.com/fuhei/tomato-writer-mcp",
+  "install": "npx -y tomato-writer-mcp"
+}

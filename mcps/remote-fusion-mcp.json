@@ -1,0 +1,7 @@
+{
+  "name": "remote-fusion-mcp",
+  "description": "A remote MCP server exposing 36 Fusion 360 modeling tools over HTTPS, enabling secure remote control of Autodesk Fusion 360 with authentication, rate limiting, and audit logging.",
+  "source_repo": "meghamshb2006/custom-fusion-mcp",
+  "source_url": "https://github.com/meghamshb2006/custom-fusion-mcp",
+  "install": "npx -y custom-fusion-mcp"
+}

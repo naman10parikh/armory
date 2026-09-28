@@ -1,0 +1,7 @@
+{
+  "name": "arr-suite-mcp-server",
+  "description": "Enables AI assistants to manage media automation services like Sonarr, Radarr, Prowlarr, Bazarr, Overseerr, and Plex through natural language commands.",
+  "source_repo": "shaktech786/arr-suite-mcp-server",
+  "source_url": "https://github.com/shaktech786/arr-suite-mcp-server",
+  "install": "npx -y arr-suite-mcp-server"
+}

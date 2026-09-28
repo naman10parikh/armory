@@ -1,0 +1,7 @@
+{
+  "name": "mcp-docgraph",
+  "description": "MCP server for building knowledge graphs from documents. It ingests PDF/PPTX/DOCX files, transcribes to Markdown, and uses LLM to bootstrap entity patterns and build a JSONL knowledge graph with RAG chunks.",
+  "source_repo": "jamestomasino/mcp-docgraph",
+  "source_url": "https://github.com/jamestomasino/mcp-docgraph",
+  "install": "# git clone --depth 1 https://github.com/jamestomasino/mcp-docgraph\n# See source for mcpServers config block"
+}

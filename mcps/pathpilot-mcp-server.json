@@ -1,0 +1,7 @@
+{
+  "name": "pathpilot-mcp-server",
+  "description": "A starter template for building calculator-focused MCP servers using NitroStack, including tools, resources, and prompts.",
+  "source_repo": "Godofdeath1709/pathpilot-mcp-server",
+  "source_url": "https://github.com/Godofdeath1709/pathpilot-mcp-server",
+  "install": "npx -y pathpilot-mcp-server"
+}

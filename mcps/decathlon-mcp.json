@@ -1,0 +1,7 @@
+{
+  "name": "decathlon-mcp",
+  "description": "Enables searching and retrieving product information, reviews, and details from the Decathlon Netherlands website, including suggestions, pricing, stock, and customer ratings.",
+  "source_repo": "hegdenischay/decathlon-nl-mcp",
+  "source_url": "https://github.com/hegdenischay/decathlon-nl-mcp",
+  "install": "npx -y decathlon-nl-mcp"
+}

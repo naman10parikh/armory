@@ -1,0 +1,7 @@
+{
+  "name": "searchloinc",
+  "description": "Enables LLMs to search LOINC terms with free-text, relevance-ranked, and faceted queries via the LOINC Search API, mirroring the loinc.org/search experience.",
+  "source_repo": "jesse-smith/searchloinc",
+  "source_url": "https://github.com/jesse-smith/searchloinc",
+  "install": "# git clone --depth 1 https://github.com/jesse-smith/searchloinc\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nccn-monitor",
+  "description": "Monitors all 92 NCCN clinical practice guidelines for version updates, downloads updated PDFs, extracts change notes, and generates AI-powered summaries via MCP protocol.",
+  "source_repo": "fshaan/nccn-monitor",
+  "source_url": "https://github.com/fshaan/nccn-monitor",
+  "install": "# git clone --depth 1 https://github.com/fshaan/nccn-monitor\n# See source for mcpServers config block"
+}

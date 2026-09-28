@@ -1,0 +1,7 @@
+{
+  "name": "polyscreen-mcp",
+  "description": "An Android-first MCP server for automating real devices, including multi-display handhelds and emulators, with structured tools for device inspection, input, app lifecycle, and diagnostics via ADB.",
+  "source_repo": "Zyzto/polyscreen-mcp",
+  "source_url": "https://github.com/Zyzto/polyscreen-mcp",
+  "install": "npx -y polyscreen-mcp"
+}

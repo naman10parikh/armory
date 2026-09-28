@@ -1,0 +1,7 @@
+{
+  "name": "agentic-financial-research-mcp-server",
+  "description": "Provides tools for RAG-based financial document retrieval, financial calculations, Yahoo Finance stock data, and portfolio analysis via JSON-RPC 2.0 protocol.",
+  "source_repo": "Ajay-Kumar64/Agentic-Financial-Research-Assistant",
+  "source_url": "https://github.com/Ajay-Kumar64/Agentic-Financial-Research-Assistant",
+  "install": "# git clone --depth 1 https://github.com/Ajay-Kumar64/Agentic-Financial-Research-Assistant\n# See source for mcpServers config block"
+}

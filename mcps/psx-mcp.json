@@ -1,0 +1,7 @@
+{
+  "name": "psx-mcp",
+  "description": "MCP server that exposes Pakistan Stock Exchange data (quotes, dividends, announcements, indices) as LLM-callable tools, enabling conversational market queries in plain English.",
+  "source_repo": "revolutionarybukhari/psx-mcp",
+  "source_url": "https://github.com/revolutionarybukhari/psx-mcp",
+  "install": "npx -y psx-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "suwayomi-mcp-server",
+  "description": "Enables AI assistants to manage a self-hosted Suwayomi manga library through natural language, including searching, adding titles, and downloading chapters.",
+  "source_repo": "Augumenter/suwayomi-mcp",
+  "source_url": "https://github.com/Augumenter/suwayomi-mcp",
+  "install": "npx -y suwayomi-mcp"
+}

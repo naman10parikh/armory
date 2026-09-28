@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rs485",
+  "description": "MCP server that exposes RS485 bus connectivity, enabling AI assistants to read and write serial data to RS485 devices through tools like list_ports, connect_rs485, and read_rs485.",
+  "source_repo": "daedalus/mcp-rs485",
+  "source_url": "https://github.com/daedalus/mcp-rs485",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-rs485\n# See source for mcpServers config block"
+}

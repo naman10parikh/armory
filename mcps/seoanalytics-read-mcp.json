@@ -1,0 +1,7 @@
+{
+  "name": "seoanalytics-read-mcp",
+  "description": "Read-only MCP server that retrieves SEO analytics data from WordPress, Google Search Console, and Google Analytics 4, enabling users to fetch posts, search performance, page metrics, and more via natural language.",
+  "source_repo": "pesche012/seomcp",
+  "source_url": "https://github.com/pesche012/seomcp",
+  "install": "# git clone --depth 1 https://github.com/pesche012/seomcp\n# See source for mcpServers config block"
+}

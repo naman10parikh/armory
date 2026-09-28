@@ -1,0 +1,7 @@
+{
+  "name": "teardrop",
+  "description": "Teardrop is the native economic layer for AI agents, providing a robust suite of tools for multi-chain portfolio tracking, DeFi yield analysis, and gas estimation. It enables autonomous agents to securely find Web3 data and manage micro-payments on-chain with zero human intervention.",
+  "source_repo": "teardrop-ai/teardrop",
+  "source_url": "https://github.com/teardrop-ai/teardrop",
+  "install": "# git clone --depth 1 https://github.com/teardrop-ai/teardrop\n# See source for mcpServers config block"
+}

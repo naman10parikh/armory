@@ -1,0 +1,7 @@
+{
+  "name": "ai-impact-mcp",
+  "description": "Estimates the environmental footprint of your AI use — energy (kWh), miles driven, water used for cooling, and CO₂ — plus a prompt-efficiency score, working with any AI client by measuring token usage.",
+  "source_repo": "anchetadev/mata",
+  "source_url": "https://github.com/anchetadev/mata",
+  "install": "# git clone --depth 1 https://github.com/anchetadev/mata\n# See source for mcpServers config block"
+}

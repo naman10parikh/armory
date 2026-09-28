@@ -1,0 +1,7 @@
+{
+  "name": "jdd-agent-os",
+  "description": "MCP-native evolution control plane that discovers, tests, governs, versions, and promotes improved AI agents. Integrates with LocalLLM-MCP for real or simulated model evaluation.",
+  "source_repo": "amit11-ibm/JDD-Agent-OS",
+  "source_url": "https://github.com/amit11-ibm/JDD-Agent-OS",
+  "install": "# git clone --depth 1 https://github.com/amit11-ibm/JDD-Agent-OS\n# See source for mcpServers config block"
+}

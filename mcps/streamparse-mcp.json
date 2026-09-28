@@ -1,0 +1,7 @@
+{
+  "name": "streamparse-mcp",
+  "description": "MCP server that gives AI assistants the ability to parse partial, messy, or truncated JSON.",
+  "source_repo": "MukundaKatta/streamparse-mcp",
+  "source_url": "https://github.com/MukundaKatta/streamparse-mcp",
+  "install": "npx -y streamparse-mcp"
+}

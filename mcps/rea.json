@@ -1,0 +1,7 @@
+{
+  "name": "rea",
+  "description": "MCP server that enables agents to reverse engineer applications, from high-level behavior down to native binaries, using tools like Hopper and Ghidra.",
+  "source_repo": "morluto/rea",
+  "source_url": "https://github.com/morluto/rea",
+  "install": "# git clone --depth 1 https://github.com/morluto/rea\n# See source for mcpServers config block"
+}

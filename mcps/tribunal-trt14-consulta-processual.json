@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trt14-consulta-processual",
+  "description": "Enables read-only consultation of official TRT14 tribunal process data through a hosted MCP server with a single tool, pay-per-use pricing, and no platform credentials required.",
+  "source_repo": "mcp-dir/tribunal_trt14_processo-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trt14_processo-mcp",
+  "install": "npx -y tribunal_trt14_processo-mcp"
+}

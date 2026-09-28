@@ -1,0 +1,7 @@
+{
+  "name": "pinetop",
+  "description": "Controls TradingView Desktop charts, Pine Script, indicators, and backtesting via Chrome DevTools Protocol.",
+  "source_repo": "jsarmiento-dev/pinetop",
+  "source_url": "https://github.com/jsarmiento-dev/pinetop",
+  "install": "# git clone --depth 1 https://github.com/jsarmiento-dev/pinetop\n# See source for mcpServers config block"
+}

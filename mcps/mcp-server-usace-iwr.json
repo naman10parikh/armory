@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-usace-iwr",
+  "description": "An MCP server that wraps the U.S. Army Corps of Engineers (USACE) Institute for Water Resources (IWR) River Mile Marker ArcGIS Feature Service, allowing LLMs to locate river mile markers on navigable U.S. rivers and answer 'what river mile am I at?' questions.",
+  "source_repo": "GSA-TTS/mcp-server-usace-iwr",
+  "source_url": "https://github.com/GSA-TTS/mcp-server-usace-iwr",
+  "install": "# git clone --depth 1 https://github.com/GSA-TTS/mcp-server-usace-iwr\n# See source for mcpServers config block"
+}

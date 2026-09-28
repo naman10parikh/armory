@@ -1,0 +1,7 @@
+{
+  "name": "enel-sp-download",
+  "description": "MCP server for consulting and downloading electricity account data from Enel São Paulo from official sources. Read-only, supports any MCP client over HTTP, uses magic-link login and pay-per-use credits.",
+  "source_repo": "mcp-dir/contas_enel_sp_download-mcp",
+  "source_url": "https://github.com/mcp-dir/contas_enel_sp_download-mcp",
+  "install": "npx -y contas_enel_sp_download-mcp"
+}

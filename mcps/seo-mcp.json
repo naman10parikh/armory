@@ -1,0 +1,7 @@
+{
+  "name": "seo-mcp",
+  "description": "A MCP SEO tool service based on Ahrefs data, offering backlink analysis, keyword research, traffic estimation, and more.",
+  "source_repo": "fastmcp-me/seo-mcp",
+  "source_url": "https://github.com/fastmcp-me/seo-mcp",
+  "install": "npx -y seo-mcp"
+}

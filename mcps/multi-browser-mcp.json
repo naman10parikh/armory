@@ -1,0 +1,7 @@
+{
+  "name": "multi-browser-mcp",
+  "description": "MCP server for multi-engine browser automation with proxy rotation, enabling AI-driven web interaction and task execution across Camoufox, DrissionPage, and Browser Use.",
+  "source_repo": "BlackCatOfficialytb/multi-browser-mcp",
+  "source_url": "https://github.com/BlackCatOfficialytb/multi-browser-mcp",
+  "install": "npx -y multi-browser-mcp"
+}

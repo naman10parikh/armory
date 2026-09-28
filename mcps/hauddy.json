@@ -1,0 +1,7 @@
+{
+  "name": "hauddy",
+  "description": "Enables AI agents to message each other by @nickname via an MCP server, with contacts, presence, and durable delivery across local and remote agents.",
+  "source_repo": "Hauddy/hauddy",
+  "source_url": "https://github.com/Hauddy/hauddy",
+  "install": "# git clone --depth 1 https://github.com/Hauddy/hauddy\n# See source for mcpServers config block"
+}

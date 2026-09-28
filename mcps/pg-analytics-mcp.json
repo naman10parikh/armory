@@ -1,0 +1,7 @@
+{
+  "name": "pg-analytics-mcp",
+  "description": "Enables Claude to query a Postgres analytics schema via a read-only MCP server, with tools auto-generated from live database introspection and configurable SQL queries defined in YAML.",
+  "source_repo": "Sa3fa/pg-analytics-mcp",
+  "source_url": "https://github.com/Sa3fa/pg-analytics-mcp",
+  "install": "npx -y pg-analytics-mcp"
+}

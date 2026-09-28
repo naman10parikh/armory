@@ -1,0 +1,7 @@
+{
+  "name": "islamic-calendar-mcp",
+  "description": "MCP server providing JAKIM Hijri calendar data and tools for lunar months and Islamic events in Malaysia.",
+  "source_repo": "shahrulestar/islamic-calendar-mcp",
+  "source_url": "https://github.com/shahrulestar/islamic-calendar-mcp",
+  "install": "npx -y islamic-calendar-mcp"
+}

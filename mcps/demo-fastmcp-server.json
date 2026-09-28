@@ -1,0 +1,7 @@
+{
+  "name": "demo-fastmcp-server",
+  "description": "A minimal MCP server demo with tools for ping, addition, and fetching current UTC time.",
+  "source_repo": "RemseyMailjard/demo-fastmcp-server",
+  "source_url": "https://github.com/RemseyMailjard/demo-fastmcp-server",
+  "install": "npx -y demo-fastmcp-server"
+}

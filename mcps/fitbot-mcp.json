@@ -1,0 +1,7 @@
+{
+  "name": "fitbot-mcp",
+  "description": "Enables reserving, canceling, and listing fitness classes on AimHarder through natural language, with support for multiple boxes and waitlists.",
+  "source_repo": "alliso/fitbot-mcp",
+  "source_url": "https://github.com/alliso/fitbot-mcp",
+  "install": "npx -y fitbot-mcp"
+}

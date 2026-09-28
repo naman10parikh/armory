@@ -1,0 +1,7 @@
+{
+  "name": "toolchain-mcp",
+  "description": "Integrates development toolchain services (GitLab, Jira, Redmine, Mattermost, Harbor) and provides composite tools to query cross-system data with a single request.",
+  "source_repo": "kodown1k/toolchain-mcp",
+  "source_url": "https://github.com/kodown1k/toolchain-mcp",
+  "install": "npx -y toolchain-mcp"
+}

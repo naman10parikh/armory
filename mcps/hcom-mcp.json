@@ -1,0 +1,7 @@
+{
+  "name": "hcom-mcp",
+  "description": "A control-plane MCP server for launching and supervising hcom-managed agents, running as a single persistent HTTP server to coordinate multiple sessions.",
+  "source_repo": "scchearn/hcom-mcp",
+  "source_url": "https://github.com/scchearn/hcom-mcp",
+  "install": "npx -y hcom-mcp"
+}

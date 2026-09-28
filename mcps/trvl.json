@@ -1,0 +1,7 @@
+{
+  "name": "trvl",
+  "description": "Provides real travel search for AI assistants, enabling flight, hotel, car rental, and ground transportation searches through a single MCP tool, with no API keys required.",
+  "source_repo": "MikkoParkkola/trvl",
+  "source_url": "https://github.com/MikkoParkkola/trvl",
+  "install": "# git clone --depth 1 https://github.com/MikkoParkkola/trvl\n# See source for mcpServers config block"
+}

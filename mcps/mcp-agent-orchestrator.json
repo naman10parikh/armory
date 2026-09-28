@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agent-orchestrator",
+  "description": "Enables natural-language queries to orchestrate multiple AI agents, connect to MCP tools, and retrieve structured data from PostgreSQL for tasks like salary and company analysis.",
+  "source_repo": "AvinashReddy6631/MCPOrchestrator",
+  "source_url": "https://github.com/AvinashReddy6631/MCPOrchestrator",
+  "install": "# git clone --depth 1 https://github.com/AvinashReddy6631/MCPOrchestrator\n# See source for mcpServers config block"
+}

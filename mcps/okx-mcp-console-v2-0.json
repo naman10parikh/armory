@@ -1,0 +1,7 @@
+{
+  "name": "okx-mcp-console-v2-0",
+  "description": "Unified MCP console for OKX's full ecosystem, integrating CEX, onchain, predictions, and AI agent features.",
+  "source_repo": "okx-wallet-H/mcp",
+  "source_url": "https://github.com/okx-wallet-H/mcp",
+  "install": "# git clone --depth 1 https://github.com/okx-wallet-H/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "indiamart-mcp-server",
+  "description": "Enables managing IndiaMART buyer leads through natural language, including fetching, searching, analyzing, and updating lead pipeline stages.",
+  "source_repo": "Techmatic-sys/Indiamart-mcp-server",
+  "source_url": "https://github.com/Techmatic-sys/Indiamart-mcp-server",
+  "install": "npx -y Indiamart-mcp-server"
+}

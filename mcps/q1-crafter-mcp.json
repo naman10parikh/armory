@@ -1,0 +1,7 @@
+{
+  "name": "q1-crafter-mcp",
+  "description": "Automates academic research from multi-source discovery across 18 databases to APA 7-formatted .docx output, with analysis and visualization tools.",
+  "source_repo": "muslus/q1-crafter-mcp",
+  "source_url": "https://github.com/muslus/q1-crafter-mcp",
+  "install": "npx -y q1-crafter-mcp"
+}

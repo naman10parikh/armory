@@ -1,0 +1,7 @@
+{
+  "name": "lifeos-mcp-server",
+  "description": "An MCP server for managing LifeOS Obsidian vaults, enabling AI assistants to create, read, and search notes with YAML compliance and organizational standards.",
+  "source_repo": "shayonpal/mcp-for-lifeos",
+  "source_url": "https://github.com/shayonpal/mcp-for-lifeos",
+  "install": "# git clone --depth 1 https://github.com/shayonpal/mcp-for-lifeos\n# See source for mcpServers config block"
+}

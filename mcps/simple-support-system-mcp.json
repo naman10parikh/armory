@@ -1,0 +1,7 @@
+{
+  "name": "simple-support-system-mcp",
+  "description": "MCP server for managing support tickets on Concrete CMS sites via REST API. Enables listing, reading, replying to tickets, and handling projects, attachments, and moderation.",
+  "source_repo": "bitterdev/simple-support-system-mcp",
+  "source_url": "https://github.com/bitterdev/simple-support-system-mcp",
+  "install": "npx -y simple-support-system-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "riskprobe-agent",
+  "description": "Local-first MCP server for credit risk analysis. It enables explainable rule discovery, statistical validation, PSI drift monitoring, and root-cause diagnosis on user-approved Parquet data while preserving privacy.",
+  "source_repo": "LiShuo-Duke/riskprobe-agent",
+  "source_url": "https://github.com/LiShuo-Duke/riskprobe-agent",
+  "install": "# git clone --depth 1 https://github.com/LiShuo-Duke/riskprobe-agent\n# See source for mcpServers config block"
+}

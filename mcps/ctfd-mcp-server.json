@@ -1,0 +1,7 @@
+{
+  "name": "ctfd-mcp-server",
+  "description": "A lightweight MCP server for interacting with CTFd instances, enabling AI tools to authenticate, retrieve challenges, and submit flags.",
+  "source_repo": "MrJamescot/ctfd-mcp-server",
+  "source_url": "https://github.com/MrJamescot/ctfd-mcp-server",
+  "install": "npx -y ctfd-mcp-server"
+}

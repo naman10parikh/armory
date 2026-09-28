@@ -1,0 +1,7 @@
+{
+  "name": "app-publisher-mcp",
+  "description": "An MCP server for vibe coders to generate app icons with AI, auto-resize for iOS/Android, and publish to app stores, all from an AI coding assistant.",
+  "source_repo": "seungmanchoi/app-publisher-mcp",
+  "source_url": "https://github.com/seungmanchoi/app-publisher-mcp",
+  "install": "npx -y app-publisher-mcp"
+}

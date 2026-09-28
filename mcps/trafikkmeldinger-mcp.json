@@ -1,0 +1,7 @@
+{
+  "name": "trafikkmeldinger-mcp",
+  "description": "Enables querying Norwegian traffic messages (roadworks, closures, detours) from Statens vegvesen, filtered by route and time window. Supports both current and future travel times, with tools for route-based and general searches.",
+  "source_repo": "smlhus1/trafikkmeldinger-mcp",
+  "source_url": "https://github.com/smlhus1/trafikkmeldinger-mcp",
+  "install": "npx -y trafikkmeldinger-mcp"
+}

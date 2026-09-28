@@ -1,0 +1,7 @@
+{
+  "name": "historical-investigator-mcp",
+  "description": "Enables searching and retrieving historical records from the Library of Congress, including newspapers, photos, maps, manuscripts, audio, and film, via the Model Context Protocol.",
+  "source_repo": "jay1234624/historical-investigator-mcp",
+  "source_url": "https://github.com/jay1234624/historical-investigator-mcp",
+  "install": "npx -y historical-investigator-mcp"
+}

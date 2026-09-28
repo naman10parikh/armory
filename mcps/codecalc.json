@@ -1,0 +1,7 @@
+{
+  "name": "codecalc",
+  "description": "An MCP server that lets AI models run code in 31 languages, evaluate symbolic math and logic problems, and measure complexity—exposed as 48 tools for execution, session management, translation, optimization, and more.",
+  "source_repo": "The-40-Thieves/codecalc",
+  "source_url": "https://github.com/The-40-Thieves/codecalc",
+  "install": "# git clone --depth 1 https://github.com/The-40-Thieves/codecalc\n# See source for mcpServers config block"
+}

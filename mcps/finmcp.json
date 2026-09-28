@@ -1,0 +1,7 @@
+{
+  "name": "finmcp",
+  "description": "An MCP server that enables AI agents to query real-time financial data including stock quotes, market indices, company fundamentals, and portfolio tracking.",
+  "source_repo": "gigabytejayesh/FinMCP",
+  "source_url": "https://github.com/gigabytejayesh/FinMCP",
+  "install": "# git clone --depth 1 https://github.com/gigabytejayesh/FinMCP\n# See source for mcpServers config block"
+}

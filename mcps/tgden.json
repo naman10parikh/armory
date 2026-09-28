@@ -1,0 +1,7 @@
+{
+  "name": "tgden",
+  "description": "Public Telegram catalog MCP server: search 1.4M+ channels, groups, bots, and posts, and browse marketplace listings, with no auth or API key.",
+  "source_repo": "JustJuice55/tgden-api",
+  "source_url": "https://github.com/JustJuice55/tgden-api",
+  "install": "# git clone --depth 1 https://github.com/JustJuice55/tgden-api\n# See source for mcpServers config block"
+}

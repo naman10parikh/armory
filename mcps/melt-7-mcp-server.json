@@ -1,0 +1,7 @@
+{
+  "name": "melt-7-mcp-server",
+  "description": "Enables agentic video editing and composition via MCP, allowing creation and manipulation of multi-track timelines with clips, transitions, filters, and text overlays, then rendering to MP4 using the melt-7 CLI.",
+  "source_repo": "TyrelCB/melt-7",
+  "source_url": "https://github.com/TyrelCB/melt-7",
+  "install": "# git clone --depth 1 https://github.com/TyrelCB/melt-7\n# See source for mcpServers config block"
+}

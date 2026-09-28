@@ -1,0 +1,7 @@
+{
+  "name": "wsl-chrome-mcp-bridge",
+  "description": "A bridge to launch Chrome on Windows from WSL2 and proxy Chrome DevTools MCP tools. It enables browser automation via Claude Code in WSL2 by managing Chrome's lifecycle and exposing debugging capabilities.",
+  "source_repo": "dijdzv/wsl-chrome-mcp-bridge",
+  "source_url": "https://github.com/dijdzv/wsl-chrome-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/dijdzv/wsl-chrome-mcp-bridge\n# See source for mcpServers config block"
+}

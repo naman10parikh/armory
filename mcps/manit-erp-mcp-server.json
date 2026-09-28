@@ -1,0 +1,7 @@
+{
+  "name": "manit-erp-mcp-server",
+  "description": "Simple MCP server that exposes a tool to fetch student result/CGPA data from MANIT ERP APIs.",
+  "source_repo": "Saumyakhushlani/MANIT-ERP-RESULT-MCP",
+  "source_url": "https://github.com/Saumyakhushlani/MANIT-ERP-RESULT-MCP",
+  "install": "npx -y MANIT-ERP-RESULT-MCP"
+}

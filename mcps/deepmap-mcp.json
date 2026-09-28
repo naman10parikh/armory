@@ -1,0 +1,7 @@
+{
+  "name": "deepmap-mcp",
+  "description": "Enables LLMs to directly access and analyze cancer dependency data from the DepMap, including gene search, dependency summaries, and top cell line dependencies, for therapeutic target evidence collection.",
+  "source_repo": "Saurabhsing21/Deepmap-mcp",
+  "source_url": "https://github.com/Saurabhsing21/Deepmap-mcp",
+  "install": "npx -y Deepmap-mcp"
+}

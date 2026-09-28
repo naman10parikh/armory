@@ -1,0 +1,7 @@
+{
+  "name": "workflow-atlas",
+  "description": "Enables an AI assistant to author algorithm storyboards, workflow maps, and UI styling through MCP, serving a local web app for visualizing and reviewing them.",
+  "source_repo": "claudiu-deving/workflow-atlas",
+  "source_url": "https://github.com/claudiu-deving/workflow-atlas",
+  "install": "# git clone --depth 1 https://github.com/claudiu-deving/workflow-atlas\n# See source for mcpServers config block"
+}

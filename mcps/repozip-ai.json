@@ -1,0 +1,7 @@
+{
+  "name": "repozip-ai",
+  "description": "MCP server providing an AI repository index for codebase reasoning, with tools for search and change prediction via a compact AST-based index.",
+  "source_repo": "GukaShin/repozip-ai",
+  "source_url": "https://github.com/GukaShin/repozip-ai",
+  "install": "# git clone --depth 1 https://github.com/GukaShin/repozip-ai\n# See source for mcpServers config block"
+}

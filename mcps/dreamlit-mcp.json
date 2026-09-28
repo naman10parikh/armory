@@ -1,0 +1,7 @@
+{
+  "name": "dreamlit-mcp",
+  "description": "Lets AI clients create, inspect, test, publish, unpublish, analyze, and style Dreamlit notification workflows.",
+  "source_repo": "dreamlit-ai/dreamlit-mcp",
+  "source_url": "https://github.com/dreamlit-ai/dreamlit-mcp",
+  "install": "npx -y dreamlit-mcp"
+}

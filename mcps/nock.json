@@ -1,0 +1,7 @@
+{
+  "name": "nock",
+  "description": "An MCP server that sits between coding agents and local tools, using a tiny on-device model to route tool calls and requiring confirmations for destructive actions, while only exposing four tools to the host.",
+  "source_repo": "wrong-nebula/nock",
+  "source_url": "https://github.com/wrong-nebula/nock",
+  "install": "# git clone --depth 1 https://github.com/wrong-nebula/nock\n# See source for mcpServers config block"
+}

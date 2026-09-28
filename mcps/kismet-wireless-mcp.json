@@ -1,0 +1,7 @@
+{
+  "name": "kismet-wireless-mcp",
+  "description": "A read-only MCP server for querying Kismet Wireless systems, enabling AI agents to retrieve network status, datasources, devices, and alerts via REST API.",
+  "source_repo": "A-G-U-P-T-A/kismet-wireless-mcp",
+  "source_url": "https://github.com/A-G-U-P-T-A/kismet-wireless-mcp",
+  "install": "npx -y kismet-wireless-mcp"
+}

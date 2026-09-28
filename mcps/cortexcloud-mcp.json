@@ -1,0 +1,7 @@
+{
+  "name": "cortexcloud-mcp",
+  "description": "MCP server for the CortexCloud API, enabling pay-per-call AI generation, web search, market data, and blockchain RPC endpoints via the x402 protocol, billed in USDC on Base without API keys or subscriptions.",
+  "source_repo": "jonahthan433/cortexcloud-mcp",
+  "source_url": "https://github.com/jonahthan433/cortexcloud-mcp",
+  "install": "npx -y cortexcloud-mcp"
+}

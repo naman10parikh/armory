@@ -1,0 +1,7 @@
+{
+  "name": "caddyui-mcp",
+  "description": "Enables inspection and management of Caddy reverse proxy configuration via CaddyUI's REST API, including proxy hosts, redirection hosts, raw routes, and TLS certificates.",
+  "source_repo": "loryanstrant/CaddyUI-MCP",
+  "source_url": "https://github.com/loryanstrant/CaddyUI-MCP",
+  "install": "npx -y CaddyUI-MCP"
+}

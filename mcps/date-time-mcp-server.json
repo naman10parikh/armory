@@ -1,0 +1,7 @@
+{
+  "name": "date-time-mcp-server",
+  "description": "A simple MCP server that returns the current date and time with timezone information in ISO 8601, Unix timestamp, and human-readable formats.",
+  "source_repo": "williamlang/date-time-mcp",
+  "source_url": "https://github.com/williamlang/date-time-mcp",
+  "install": "npx -y date-time-mcp"
+}

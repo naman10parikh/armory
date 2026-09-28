@@ -1,0 +1,7 @@
+{
+  "name": "skyflow-pii-mcp",
+  "description": "Remote MCP server for PII detection, de-identification, tokenization, and re-identification using a Skyflow Vault.",
+  "source_repo": "SkyflowFoundry/skyflow-runtime-mcp",
+  "source_url": "https://github.com/SkyflowFoundry/skyflow-runtime-mcp",
+  "install": "npx -y skyflow-runtime-mcp"
+}

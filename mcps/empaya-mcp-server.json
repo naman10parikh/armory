@@ -1,0 +1,7 @@
+{
+  "name": "empaya-mcp-server",
+  "description": "MCP server for Cloudways enabling server management, app deployment, backups, SSL, environment variables, and monitoring via Claude Code.",
+  "source_repo": "cgmorah/cloudways-mcp-server",
+  "source_url": "https://github.com/cgmorah/cloudways-mcp-server",
+  "install": "npx -y cloudways-mcp-server"
+}

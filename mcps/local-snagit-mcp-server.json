@@ -1,0 +1,7 @@
+{
+  "name": "local-snagit-mcp-server",
+  "description": "Lets GitHub Copilot record demo videos using locally installed TechSmith Snagit, capturing displays, windows, or regions to MP4 and controlling the recording flow through MCP tools.",
+  "source_repo": "paullizer/LocalSnagitMCPServer",
+  "source_url": "https://github.com/paullizer/LocalSnagitMCPServer",
+  "install": "# git clone --depth 1 https://github.com/paullizer/LocalSnagitMCPServer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "authorized-ytdl-mcp",
+  "description": "Enables downloading authorized YouTube videos, audio, and playlists as MP4/MP3 via ChatGPT with real-time progress widgets and media player.",
+  "source_repo": "jeongchanho0914/Youtube-downloader-MCP",
+  "source_url": "https://github.com/jeongchanho0914/Youtube-downloader-MCP",
+  "install": "npx -y Youtube-downloader-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "llmtest-mcp",
+  "description": "MCP server that benchmarks AI models on your actual prompts and finds cheaper, faster alternatives.",
+  "source_repo": "tjacquesson/llmtest-mcp",
+  "source_url": "https://github.com/tjacquesson/llmtest-mcp",
+  "install": "npx -y llmtest-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ringba-api-mcp",
+  "description": "Enables AI assistants to query Ringba call analytics, including running EHG insights reports and listing available metrics and dimensions.",
+  "source_repo": "wahajnintyeight/ringba-api-mcp",
+  "source_url": "https://github.com/wahajnintyeight/ringba-api-mcp",
+  "install": "npx -y ringba-api-mcp"
+}

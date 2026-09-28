@@ -1,0 +1,7 @@
+{
+  "name": "ddg-search-mcp",
+  "description": "DuckDuckGo Search MCP Server. Scrapes DuckDuckGo Lite directly — no API key required, no rate limits, robust anti-bot protection.",
+  "source_repo": "Albertous007/ddg-search-mcp",
+  "source_url": "https://github.com/Albertous007/ddg-search-mcp",
+  "install": "npx -y ddg-search-mcp"
+}

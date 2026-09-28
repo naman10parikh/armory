@@ -1,0 +1,7 @@
+{
+  "name": "boris-mcp",
+  "description": "A public MCP server about Boris Churzin's builds, decisions, and ops doctrine, allowing agents to interrogate his judgment instead of parsing a PDF.",
+  "source_repo": "devenv/boris-mcp",
+  "source_url": "https://github.com/devenv/boris-mcp",
+  "install": "npx -y boris-mcp"
+}

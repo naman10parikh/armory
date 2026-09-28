@@ -1,0 +1,7 @@
+{
+  "name": "shipping-rates",
+  "description": "Calculate and compare global shipping costs including detention, demurrage, and local port charges. Access real-time inland haulage rates and CFS fees for accurate freight budgeting. Streamline logistics planning with comprehensive data from shipping lines and ports worldwide.",
+  "source_repo": "",
+  "source_url": "https://shippingrates.org",
+  "install": "# git clone --depth 1 https://shippingrates.org\n# See source for mcpServers config block"
+}

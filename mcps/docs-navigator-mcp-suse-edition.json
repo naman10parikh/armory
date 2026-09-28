@@ -1,0 +1,7 @@
+{
+  "name": "docs-navigator-mcp-suse-edition",
+  "description": "An AI-powered documentation navigator that enables intelligent search, summarization, and exploration of SUSE, Rancher, and related open-source documentation using local or cloud AI models.",
+  "source_repo": "mso-docs/Docs-Navigator-MCP-SUSE-Edition",
+  "source_url": "https://github.com/mso-docs/Docs-Navigator-MCP-SUSE-Edition",
+  "install": "# git clone --depth 1 https://github.com/mso-docs/Docs-Navigator-MCP-SUSE-Edition\n# See source for mcpServers config block"
+}

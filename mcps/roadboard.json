@@ -1,0 +1,7 @@
+{
+  "name": "roadboard",
+  "description": "Multi-project execution, memory, and collaboration platform for humans and AI agents, providing MCP tools for agents to read and write project state.",
+  "source_repo": "Maless88/Roadboard",
+  "source_url": "https://github.com/Maless88/Roadboard",
+  "install": "# git clone --depth 1 https://github.com/Maless88/Roadboard\n# See source for mcpServers config block"
+}

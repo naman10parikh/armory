@@ -1,0 +1,7 @@
+{
+  "name": "mata-kadalz",
+  "description": "Lizard Eyes — a local vision MCP server backed by Qwen3-VL-4B, exposing a single vision.inspect tool for analyzing images via llama-server.",
+  "source_repo": "kadalzbaiq/mata-kadalz",
+  "source_url": "https://github.com/kadalzbaiq/mata-kadalz",
+  "install": "# git clone --depth 1 https://github.com/kadalzbaiq/mata-kadalz\n# See source for mcpServers config block"
+}

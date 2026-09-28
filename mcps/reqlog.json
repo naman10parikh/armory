@@ -1,0 +1,7 @@
+{
+  "name": "reqlog",
+  "description": "Provides AI coding agents with tools to query, search, and analyze persisted HTTP request logs, enabling efficient debugging without terminal noise.",
+  "source_repo": "ankitksr/reqlog",
+  "source_url": "https://github.com/ankitksr/reqlog",
+  "install": "# git clone --depth 1 https://github.com/ankitksr/reqlog\n# See source for mcpServers config block"
+}

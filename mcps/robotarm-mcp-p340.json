@@ -1,0 +1,7 @@
+{
+  "name": "robotarm-mcp-p340",
+  "description": "Enables natural language control of ElephantRobotics MyCobot series robotic arms (especially ultraArmP340) through MCP protocol, with simulation mode and safety features.",
+  "source_repo": "AI-FanGe/RobotArm-MCP-P340",
+  "source_url": "https://github.com/AI-FanGe/RobotArm-MCP-P340",
+  "install": "# git clone --depth 1 https://github.com/AI-FanGe/RobotArm-MCP-P340\n# See source for mcpServers config block"
+}

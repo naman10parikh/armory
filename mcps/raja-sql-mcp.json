@@ -1,0 +1,7 @@
+{
+  "name": "raja-sql-mcp",
+  "description": "An MCP server for interacting with SQLite databases, enabling SQL query execution, schema inspection, and CRUD operations.",
+  "source_repo": "Raja-genai/SQL_MCP_server",
+  "source_url": "https://github.com/Raja-genai/SQL_MCP_server",
+  "install": "npx -y SQL_MCP_server"
+}

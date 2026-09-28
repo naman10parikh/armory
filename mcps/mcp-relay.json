@@ -1,0 +1,7 @@
+{
+  "name": "mcp-relay",
+  "description": "Connects Claude Desktop and Claude Code, enabling autonomous exchange of messages, files, and code while keeping their context windows separate.",
+  "source_repo": "mhcoen/mcp-relay",
+  "source_url": "https://github.com/mhcoen/mcp-relay",
+  "install": "# git clone --depth 1 https://github.com/mhcoen/mcp-relay\n# See source for mcpServers config block"
+}

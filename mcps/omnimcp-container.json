@@ -1,0 +1,7 @@
+{
+  "name": "omnimcp-container",
+  "description": "A containerized MCP bridge that lets local or cloud LLMs access your filesystem and perform web searches via Ollama and FastMCP.",
+  "source_repo": "hectorflores28/OmniMCP-Container",
+  "source_url": "https://github.com/hectorflores28/OmniMCP-Container",
+  "install": "# git clone --depth 1 https://github.com/hectorflores28/OmniMCP-Container\n# See source for mcpServers config block"
+}

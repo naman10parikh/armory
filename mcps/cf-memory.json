@@ -1,0 +1,7 @@
+{
+  "name": "cf-memory",
+  "description": "Provides MCP tools for persistent, cross-session memory via Cloudflare Agent Memory, enabling agents to store, recall, ingest, summarize, and manage memory namespaces.",
+  "source_repo": "hansakoch/cf-memory-plugin",
+  "source_url": "https://github.com/hansakoch/cf-memory-plugin",
+  "install": "# git clone --depth 1 https://github.com/hansakoch/cf-memory-plugin\n# See source for mcpServers config block"
+}

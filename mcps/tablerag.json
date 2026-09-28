@@ -1,0 +1,7 @@
+{
+  "name": "tablerag",
+  "description": "Turns Excel/CSV folders into a traceable, read-only AI knowledge layer; provides deterministic data queries, schema discovery, and evidence-backed search via MCP.",
+  "source_repo": "BitDG/TableRAG",
+  "source_url": "https://github.com/BitDG/TableRAG",
+  "install": "# git clone --depth 1 https://github.com/BitDG/TableRAG\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "toro-mcp",
+  "description": "Connects your Toro account to AI assistants via Open Finance Brasil, enabling natural language queries of balances, statements, credit card bills, and investments in read-only mode.",
+  "source_repo": "mcp-dir/toro-mcp",
+  "source_url": "https://github.com/mcp-dir/toro-mcp",
+  "install": "npx -y toro-mcp"
+}

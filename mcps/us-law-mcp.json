@@ -1,0 +1,7 @@
+{
+  "name": "us-law-mcp",
+  "description": "MCP server for U.S. federal law that enables searching the U.S. Code, CFR, Federal Register, case law, and bills, with citation verification against primary sources to prevent hallucinations.",
+  "source_repo": "seelpeed-debug/us-law-mcp",
+  "source_url": "https://github.com/seelpeed-debug/us-law-mcp",
+  "install": "npx -y us-law-mcp"
+}

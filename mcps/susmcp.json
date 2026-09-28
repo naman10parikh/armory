@@ -1,0 +1,7 @@
+{
+  "name": "susmcp",
+  "description": "Suspicious Antwerp's company-wide conversational data layer: a standalone MCP server that wraps existing systems (adsAgent, suspiciousAI, Shopify MCP) behind one OAuth-authenticated connector, enabling querying company data via Claude.",
+  "source_repo": "Toufiqul/susMCP",
+  "source_url": "https://github.com/Toufiqul/susMCP",
+  "install": "# git clone --depth 1 https://github.com/Toufiqul/susMCP\n# See source for mcpServers config block"
+}

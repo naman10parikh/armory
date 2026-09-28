@@ -1,0 +1,7 @@
+{
+  "name": "reed-mcp-server",
+  "description": "Enables AI clients to traverse and query the full RSS reading graph—feeds, articles, authors, topics, and tags—over stdio or HTTP, supporting graph traversal and item discovery across relationships.",
+  "source_repo": "simonives/reed",
+  "source_url": "https://github.com/simonives/reed",
+  "install": "# git clone --depth 1 https://github.com/simonives/reed\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "maildoc",
+  "description": "Lightweight email search, attachment retrieval, and PDF extraction for AI agents via Gmail, exposing MCP tools to search, manage folders, and extract text from PDF attachments.",
+  "source_repo": "Mohking1/maildoc-mcp",
+  "source_url": "https://github.com/Mohking1/maildoc-mcp",
+  "install": "npx -y maildoc-mcp"
+}

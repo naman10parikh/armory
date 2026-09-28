@@ -1,0 +1,7 @@
+{
+  "name": "ops-lense",
+  "description": "Enables commerce operations specialists to investigate and resolve stuck orders by diagnosing issues and performing safe, bounded remediations through AI-driven tools.",
+  "source_repo": "qubydev/ops-lense-mcp",
+  "source_url": "https://github.com/qubydev/ops-lense-mcp",
+  "install": "npx -y ops-lense-mcp"
+}

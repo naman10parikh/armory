@@ -1,0 +1,7 @@
+{
+  "name": "harutalk-japanese-coach-mcp",
+  "description": "Translates Korean KakaoTalk messages to natural Japanese with pronunciation and expression breakdowns, corrects user-written Japanese sentences, explains expressions, and generates review cards and quizzes for beginner learners.",
+  "source_repo": "devRonPark/kakao-playmcp",
+  "source_url": "https://github.com/devRonPark/kakao-playmcp",
+  "install": "# git clone --depth 1 https://github.com/devRonPark/kakao-playmcp\n# See source for mcpServers config block"
+}

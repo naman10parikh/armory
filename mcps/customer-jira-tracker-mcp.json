@@ -1,0 +1,7 @@
+{
+  "name": "customer-jira-tracker-mcp",
+  "description": "Enables tracking customer-specific JIRA tickets with full CRUD operations, comments, and Markdown export, integrated with Cursor IDE via MCP.",
+  "source_repo": "mmayeras/customer-jira-tracker-mcp",
+  "source_url": "https://github.com/mmayeras/customer-jira-tracker-mcp",
+  "install": "npx -y customer-jira-tracker-mcp"
+}

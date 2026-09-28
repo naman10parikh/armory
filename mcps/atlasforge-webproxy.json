@@ -1,0 +1,7 @@
+{
+  "name": "atlasforge-webproxy",
+  "description": "Enables AI agents to search the web, fetch pages, and download images through a self-hosted proxy with Brave search, caching, and SSRF protection.",
+  "source_repo": "DragonShadows1978/AtlasForge-WebProxy",
+  "source_url": "https://github.com/DragonShadows1978/AtlasForge-WebProxy",
+  "install": "# git clone --depth 1 https://github.com/DragonShadows1978/AtlasForge-WebProxy\n# See source for mcpServers config block"
+}

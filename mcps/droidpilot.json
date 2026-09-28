@@ -1,0 +1,7 @@
+{
+  "name": "droidpilot",
+  "description": "Drive an Android phone over ADB and expose it to AI agents via MCP, enabling natural language-driven interaction for native app testing.",
+  "source_repo": "LioMatthys/droidpilot",
+  "source_url": "https://github.com/LioMatthys/droidpilot",
+  "install": "# git clone --depth 1 https://github.com/LioMatthys/droidpilot\n# See source for mcpServers config block"
+}

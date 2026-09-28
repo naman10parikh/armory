@@ -1,0 +1,7 @@
+{
+  "name": "product-mcp-server",
+  "description": "Enables natural language product management (CRUD) with multiple classification methods, including LLM-based and fast ML classifiers, for product creation, listing, updating, and deletion via a chat interface.",
+  "source_repo": "karthikasasanka/product-mcp-server",
+  "source_url": "https://github.com/karthikasasanka/product-mcp-server",
+  "install": "npx -y product-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "enconvert-mcp-server",
+  "description": "Enables AI agents to convert files, render web pages to markdown/PDF/screenshots, search the live web, extract structured data, ingest RAG-ready chunks, and monitor pages for changes through a single API key.",
+  "source_repo": "enconvert/mcp",
+  "source_url": "https://github.com/enconvert/mcp",
+  "install": "# git clone --depth 1 https://github.com/enconvert/mcp\n# See source for mcpServers config block"
+}

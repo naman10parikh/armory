@@ -1,0 +1,7 @@
+{
+  "name": "labelgrid-mcp-server",
+  "description": "The official MCP server for LabelGrid's music distribution platform, enabling natural language management of music catalogs, releases, files, analytics, royalties, webhooks, and distribution via a thin wrapper over the LabelGrid public API.",
+  "source_repo": "labelgrid/labelgrid-mcp",
+  "source_url": "https://github.com/labelgrid/labelgrid-mcp",
+  "install": "npx -y labelgrid-mcp"
+}

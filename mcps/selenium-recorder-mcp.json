@@ -1,0 +1,7 @@
+{
+  "name": "selenium-recorder-mcp",
+  "description": "Records browser interactions (clicks, DOM mutations, console logs, JS errors) via Chrome DevTools Protocol while you manually navigate, and provides tools to retrieve and analyze recordings for test generation.",
+  "source_repo": "AviadP/selenium-recorder-mcp",
+  "source_url": "https://github.com/AviadP/selenium-recorder-mcp",
+  "install": "npx -y selenium-recorder-mcp"
+}

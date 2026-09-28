@@ -1,0 +1,7 @@
+{
+  "name": "remote-shell-mcp",
+  "description": "Persistent SSH sessions for AI assistants, enabling long-running remote shell connections with features like file transfer, port forwarding, and swarm mode.",
+  "source_repo": "raghavharness/remote-shell-mcp",
+  "source_url": "https://github.com/raghavharness/remote-shell-mcp",
+  "install": "npx -y remote-shell-mcp"
+}

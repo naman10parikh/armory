@@ -1,0 +1,7 @@
+{
+  "name": "stackguide-mcp",
+  "description": "Dynamic context and active engineering workflow for AI coding assistants, enabling project-aware rules, code review, TDD, and delivery orchestration.",
+  "source_repo": "taimiralain/StackGuide-MCP",
+  "source_url": "https://github.com/taimiralain/StackGuide-MCP",
+  "install": "npx -y StackGuide-MCP"
+}

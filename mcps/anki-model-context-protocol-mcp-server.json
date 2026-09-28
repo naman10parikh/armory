@@ -1,0 +1,7 @@
+{
+  "name": "anki-model-context-protocol-mcp-server",
+  "description": "Enables AI assistants to directly manage Anki flashcards, decks, notetypes, tags, and media, with support for batch operations, searches, and deck exports via file-based input/output.",
+  "source_repo": "debnath-d/anki-mcp-server",
+  "source_url": "https://github.com/debnath-d/anki-mcp-server",
+  "install": "npx -y anki-mcp-server"
+}

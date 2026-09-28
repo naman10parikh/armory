@@ -1,0 +1,7 @@
+{
+  "name": "paper-memory-mcp-lite",
+  "description": "Local-first MCP server for indexing and searching research materials (papers, notes, logs, READMEs) using SQLite FTS, with tools for memory management and evidence retrieval.",
+  "source_repo": "StaryMoon/paper-memory-mcp-lite",
+  "source_url": "https://github.com/StaryMoon/paper-memory-mcp-lite",
+  "install": "# git clone --depth 1 https://github.com/StaryMoon/paper-memory-mcp-lite\n# See source for mcpServers config block"
+}

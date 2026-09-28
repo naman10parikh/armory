@@ -1,0 +1,7 @@
+{
+  "name": "shiva",
+  "description": "An MCP server that enables invoking an abliterated model from Claude.ai to receive unfiltered, brutally honest feedback and hard truths.",
+  "source_repo": "sikaar/sikaar-shiva-mcp-public",
+  "source_url": "https://github.com/sikaar/sikaar-shiva-mcp-public",
+  "install": "# git clone --depth 1 https://github.com/sikaar/sikaar-shiva-mcp-public\n# See source for mcpServers config block"
+}

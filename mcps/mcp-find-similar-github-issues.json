@@ -1,6 +1,6 @@
 {
   "name": "mcp-find-similar-github-issues",
-  "description": "Mcp Find Similar Github Issues MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Jake-Mok-Nelson/mcp-find-similar-github-issues",
   "source_url": "https://mcp.so/server/mcp-find-similar-github-issues/Jake-Mok-Nelson",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-find-similar-github-issues/Jake-Mok-Nelson\n# See source for mcpServers config block"

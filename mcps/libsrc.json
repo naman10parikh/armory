@@ -1,0 +1,7 @@
+{
+  "name": "libsrc",
+  "description": "Resolves project dependencies and provides local source code paths for AI agent inspection by auto-detecting the build system, resolving dependencies, cloning source repos, and checking out correct versions as git worktrees.",
+  "source_repo": "fprochazka/libsrc-mcp",
+  "source_url": "https://github.com/fprochazka/libsrc-mcp",
+  "install": "npx -y libsrc-mcp"
+}

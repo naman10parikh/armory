@@ -1,0 +1,7 @@
+{
+  "name": "maxoperf-mcp-server",
+  "description": "Remote MCP server enabling AI agents to manage the MaxoPerf performance testing platform via natural language, including creating tests, launching cloud load runs, viewing results, and diagnosing failures.",
+  "source_repo": "MaxoPerf/mcp",
+  "source_url": "https://github.com/MaxoPerf/mcp",
+  "install": "# git clone --depth 1 https://github.com/MaxoPerf/mcp\n# See source for mcpServers config block"
+}

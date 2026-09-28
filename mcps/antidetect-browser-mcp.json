@@ -1,0 +1,7 @@
+{
+  "name": "antidetect-browser-mcp",
+  "description": "MCP server for remotely controlling BitBrowser antidetect profiles via Playwright with built-in behavioral stealth, enabling automated browser tasks with anti-detection capabilities.",
+  "source_repo": "slaid098/antidetect-browser-mcp",
+  "source_url": "https://github.com/slaid098/antidetect-browser-mcp",
+  "install": "npx -y antidetect-browser-mcp"
+}

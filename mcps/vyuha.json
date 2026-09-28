@@ -1,0 +1,7 @@
+{
+  "name": "vyuha",
+  "description": "Vyuha is an MCP server that enables coding agents to collaborate on a repository by providing tools for ticket creation, worktree management, code review, and staged deployment, all from local files.",
+  "source_repo": "sudheerdvn/vyuha",
+  "source_url": "https://github.com/sudheerdvn/vyuha",
+  "install": "# git clone --depth 1 https://github.com/sudheerdvn/vyuha\n# See source for mcpServers config block"
+}

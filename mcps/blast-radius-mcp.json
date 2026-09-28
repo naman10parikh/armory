@@ -1,0 +1,7 @@
+{
+  "name": "blast-radius-mcp",
+  "description": "An AI-powered dependency decision engine that lets agents analyze blast radius, simulate upgrades, trace security attack paths, and visualize dependency topology in a 3D galaxy viewer.",
+  "source_repo": "tspscale/blast-radius-mcp",
+  "source_url": "https://github.com/tspscale/blast-radius-mcp",
+  "install": "npx -y blast-radius-mcp"
+}

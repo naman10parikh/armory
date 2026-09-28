@@ -1,0 +1,7 @@
+{
+  "name": "paging-mcp",
+  "description": "FastMCP server that pages on-call via 100+ notification channels (WhatsApp, Telegram, Slack, etc.) built on Apprise, with credential redaction and channel filtering.",
+  "source_repo": "adelaidasofia/paging-mcp",
+  "source_url": "https://github.com/adelaidasofia/paging-mcp",
+  "install": "npx -y paging-mcp"
+}

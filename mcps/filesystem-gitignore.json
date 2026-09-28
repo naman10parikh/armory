@@ -1,0 +1,7 @@
+{
+  "name": "filesystem-gitignore",
+  "description": "A professional MCP server that provides filesystem operations while automatically respecting .gitignore patterns, enabling efficient and token-friendly file access for Claude.",
+  "source_repo": "mvecchiett/mcp-filesystem-gitignore",
+  "source_url": "https://github.com/mvecchiett/mcp-filesystem-gitignore",
+  "install": "# git clone --depth 1 https://github.com/mvecchiett/mcp-filesystem-gitignore\n# See source for mcpServers config block"
+}

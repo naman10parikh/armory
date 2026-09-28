@@ -1,0 +1,7 @@
+{
+  "name": "io-github-sandeepbazar-ocm-mcp-server",
+  "description": "An MCP server that enables AI agents to safely operate multi-cluster Kubernetes fleets through an Open Cluster Management hub, with policy enforcement, human approval, and audit tracing.",
+  "source_repo": "sandeepbazar/ocm-mcp-server",
+  "source_url": "https://github.com/sandeepbazar/ocm-mcp-server",
+  "install": "npx -y ocm-mcp-server"
+}

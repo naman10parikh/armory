@@ -1,0 +1,7 @@
+{
+  "name": "ai-toolbox-mcp",
+  "description": "Enables local AI inference for Claude and Cursor through 22 APIs, including summarization, translation, review, classification, RAG, and more, with all data processed on-device.",
+  "source_repo": "Wh-bi/ai-toolbox-mcp",
+  "source_url": "https://github.com/Wh-bi/ai-toolbox-mcp",
+  "install": "npx -y ai-toolbox-mcp"
+}

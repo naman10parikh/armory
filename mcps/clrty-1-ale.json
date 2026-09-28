@@ -1,0 +1,7 @@
+{
+  "name": "clrty-1-ale",
+  "description": "MCP server for executing atomic liquidity swaps via 1inch Fusion, enabling CLRTY-1 token to USDT settlement with fail-closed safety and dry-run mode.",
+  "source_repo": "clarity-fintech/CLRTY-1-ALE-Atomic-Liquidity",
+  "source_url": "https://github.com/clarity-fintech/CLRTY-1-ALE-Atomic-Liquidity",
+  "install": "# git clone --depth 1 https://github.com/clarity-fintech/CLRTY-1-ALE-Atomic-Liquidity\n# See source for mcpServers config block"
+}

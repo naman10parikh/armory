@@ -1,0 +1,7 @@
+{
+  "name": "exchange-mail-mcp-server",
+  "description": "Secure MCP server for Microsoft Exchange. It enables authorized users to list, search, read, download attachments, send, and reply to email via EWS with strict access control and audit.",
+  "source_repo": "timeagent4-lang/exchage-mcp",
+  "source_url": "https://github.com/timeagent4-lang/exchage-mcp",
+  "install": "npx -y exchage-mcp"
+}

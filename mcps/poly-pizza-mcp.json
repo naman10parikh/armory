@@ -1,0 +1,7 @@
+{
+  "name": "poly-pizza-mcp",
+  "description": "Enables searching, retrieving, and browsing thousands of free 3D models from Poly Pizza through natural language commands.",
+  "source_repo": "MatthewHallCom/Poly-Pizza-MCP",
+  "source_url": "https://github.com/MatthewHallCom/Poly-Pizza-MCP",
+  "install": "npx -y Poly-Pizza-MCP"
+}

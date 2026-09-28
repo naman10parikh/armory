@@ -1,0 +1,7 @@
+{
+  "name": "fieldcure-mcp-essentials",
+  "description": "Provides 20 essential tools including HTTP requests, web search, file I/O, shell commands, and persistent memory for any MCP client, with zero configuration required.",
+  "source_repo": "fieldcure/fieldcure-mcp-essentials",
+  "source_url": "https://github.com/fieldcure/fieldcure-mcp-essentials",
+  "install": "# git clone --depth 1 https://github.com/fieldcure/fieldcure-mcp-essentials\n# See source for mcpServers config block"
+}

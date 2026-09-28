@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-template-3",
+  "description": "A template for building Model Context Protocol (MCP) servers using TypeScript, with standard I/O transport and Zod validation for type-safe argument handling.",
+  "source_repo": "ceciliomichael/mcp-server-template",
+  "source_url": "https://github.com/ceciliomichael/mcp-server-template",
+  "install": "# git clone --depth 1 https://github.com/ceciliomichael/mcp-server-template\n# See source for mcpServers config block"
+}

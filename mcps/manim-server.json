@@ -1,0 +1,7 @@
+{
+  "name": "manim-server",
+  "description": "An MCP server that enables creating and rendering Manim animations by building scenes with code sections and generating MP4 videos.",
+  "source_repo": "sagebynature/manim-server",
+  "source_url": "https://github.com/sagebynature/manim-server",
+  "install": "# git clone --depth 1 https://github.com/sagebynature/manim-server\n# See source for mcpServers config block"
+}

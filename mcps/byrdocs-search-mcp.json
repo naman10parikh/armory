@@ -1,0 +1,7 @@
+{
+  "name": "byrdocs-search-mcp",
+  "description": "Enables AI clients to search BUPT byrdocs materials, past exam papers, and freshmen knowledge base via natural language.",
+  "source_repo": "Jinchen-Yang/byrdocs-search-mcp",
+  "source_url": "https://github.com/Jinchen-Yang/byrdocs-search-mcp",
+  "install": "npx -y byrdocs-search-mcp"
+}

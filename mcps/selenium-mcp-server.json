@@ -1,0 +1,7 @@
+{
+  "name": "selenium-mcp-server",
+  "description": "A Model Context Protocol server for browser automation using Selenium WebDriver, enabling LLMs and teams to automate browsers with multi-browser support and a standard MCP API.",
+  "source_repo": "Raghvendra-Raghuvanshi/selenium-mcp-server",
+  "source_url": "https://github.com/Raghvendra-Raghuvanshi/selenium-mcp-server",
+  "install": "npx -y selenium-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "searxng-crawl4ai-mcp-server",
+  "description": "Provides fast, self-hosted web search and reliable web scraping using SearXNG and Crawl4AI, integrated as MCP tools for Claude Code.",
+  "source_repo": "luxiaolei/searxng-crawl4ai-mcp",
+  "source_url": "https://github.com/luxiaolei/searxng-crawl4ai-mcp",
+  "install": "npx -y searxng-crawl4ai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hk-law-mcp-server",
+  "description": "MCP server providing access to Hong Kong law and security data, including Foreign Domestic Helpers statistics from the Immigration Department.",
+  "source_repo": "hkopenai/hk-law-mcp-server",
+  "source_url": "https://github.com/hkopenai/hk-law-mcp-server",
+  "install": "npx -y hk-law-mcp-server"
+}

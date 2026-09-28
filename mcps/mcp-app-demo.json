@@ -1,0 +1,7 @@
+{
+  "name": "mcp-app-demo",
+  "description": "An MCP App template for building interactive UIs on deco, providing tools, resources, and a React frontend.",
+  "source_repo": "thomhenriq/mcp-app-demo",
+  "source_url": "https://github.com/thomhenriq/mcp-app-demo",
+  "install": "# git clone --depth 1 https://github.com/thomhenriq/mcp-app-demo\n# See source for mcpServers config block"
+}

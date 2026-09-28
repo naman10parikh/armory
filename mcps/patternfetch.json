@@ -1,0 +1,7 @@
+{
+  "name": "patternfetch",
+  "description": "MCP server for crypto market analysis providing compact market-state briefs, patterns, support/resistance, trend, and indicators via tools like patternfetch_brief, patternfetch_delta, and patternfetch_analogs.",
+  "source_repo": "MarvinRey7879/patternfetch-client",
+  "source_url": "https://github.com/MarvinRey7879/patternfetch-client",
+  "install": "# git clone --depth 1 https://github.com/MarvinRey7879/patternfetch-client\n# See source for mcpServers config block"
+}

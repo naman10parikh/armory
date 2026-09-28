@@ -1,0 +1,7 @@
+{
+  "name": "tinify",
+  "description": "Compress, resize, crop and convert images via tinify.dev",
+  "source_repo": "Stianlars1/tinify-mcp",
+  "source_url": "https://github.com/Stianlars1/tinify-mcp",
+  "install": "npx -y tinify-mcp"
+}

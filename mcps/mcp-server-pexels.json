@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-pexels",
+  "description": "MCP server for the Pexels API that provides tools for searching photos and videos, retrieving curated content, and accessing featured collections. Enables natural language interaction with Pexels media search functionality.",
+  "source_repo": "codeChap/mcp-server-pexels",
+  "source_url": "https://github.com/codeChap/mcp-server-pexels",
+  "install": "# git clone --depth 1 https://github.com/codeChap/mcp-server-pexels\n# See source for mcpServers config block"
+}

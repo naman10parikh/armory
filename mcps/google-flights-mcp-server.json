@@ -1,0 +1,7 @@
+{
+  "name": "google-flights-mcp-server",
+  "description": "Connects AI agents to Google Flights data, enabling retrieval of flight information, cheapest options, time-filtered flights, and best recommendations.",
+  "source_repo": "smamidipaka6/flights-mcp-server",
+  "source_url": "https://github.com/smamidipaka6/flights-mcp-server",
+  "install": "npx -y flights-mcp-server"
+}

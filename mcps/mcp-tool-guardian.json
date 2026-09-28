@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tool-guardian",
+  "description": "Protects AI agents from bad tool outputs, schema mismatches, and tool poisoning by validating, sanitizing, and scoring reliability of tool responses.",
+  "source_repo": "princeruhulofficial/mcp-tool-guardian-20260730",
+  "source_url": "https://github.com/princeruhulofficial/mcp-tool-guardian-20260730",
+  "install": "# git clone --depth 1 https://github.com/princeruhulofficial/mcp-tool-guardian-20260730\n# See source for mcpServers config block"
+}

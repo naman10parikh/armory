@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gate402",
+  "description": "Provides several x402 utilities to reduce token usage, web scraping, and chron jobs",
+  "source_repo": "pgalyen1987/gate402-mcp",
+  "source_url": "https://github.com/pgalyen1987/gate402-mcp",
+  "install": "npx -y gate402-mcp"
+}

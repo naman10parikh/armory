@@ -1,0 +1,7 @@
+{
+  "name": "arcade-agent-mcp",
+  "description": "Lets MCP-capable AI agents interact with the Arcade DEX and launchpad on Circle's Arc L1 to discover markets, get quotes, and execute trades via contract-call descriptors.",
+  "source_repo": "obseasd/arcade-agent-mcp",
+  "source_url": "https://github.com/obseasd/arcade-agent-mcp",
+  "install": "npx -y arcade-agent-mcp"
+}

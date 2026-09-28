@@ -1,0 +1,7 @@
+{
+  "name": "openutau-mcp",
+  "description": "Enables AI agents to generate, inspect, and micro-tune OpenUtau .ustx project files and DiffSinger neural expression curves.",
+  "source_repo": "turboegg1145/OpenUtau-MCP",
+  "source_url": "https://github.com/turboegg1145/OpenUtau-MCP",
+  "install": "npx -y OpenUtau-MCP"
+}

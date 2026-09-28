@@ -1,0 +1,7 @@
+{
+  "name": "ieee-mcp-server",
+  "description": "Enables AI agents to query Neo4j graph databases and Box document storage using natural language through a single MCP endpoint.",
+  "source_repo": "Dhakshnamoorthi146/IEEE-MCP",
+  "source_url": "https://github.com/Dhakshnamoorthi146/IEEE-MCP",
+  "install": "npx -y IEEE-MCP"
+}

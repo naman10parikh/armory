@@ -1,0 +1,7 @@
+{
+  "name": "resume-mcp",
+  "description": "An MCP server that provides a structured API for AI agents to query a person's resume, including profile, projects, writing, and gated access to experience and skills.",
+  "source_repo": "brysontang/resume-mcp",
+  "source_url": "https://github.com/brysontang/resume-mcp",
+  "install": "npx -y resume-mcp"
+}

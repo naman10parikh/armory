@@ -1,0 +1,7 @@
+{
+  "name": "diamond-mcp",
+  "description": "Provides diamond education tools for AI assistants, including grading report verification, face-up size estimation, and market price index, all backed by sourced and dated facts.",
+  "source_repo": "JacobiusMakes/diamond-mcp",
+  "source_url": "https://github.com/JacobiusMakes/diamond-mcp",
+  "install": "npx -y diamond-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "de-eli-mcp",
+  "description": "Searches and retrieves German federal legislation from NeuRIS, the official legal information portal, providing verifiable ELI identifiers and German citations.",
+  "source_repo": "matematicsolutions/de-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/de-eli-mcp",
+  "install": "npx -y de-eli-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tokyo-transit-mcp",
+  "description": "Integrates ODPT and JMA APIs to provide comprehensive transit information, route search, weather, and AI advice for the Tokyo metropolitan area.",
+  "source_repo": "loosephoto/tokyo-transit-mcp",
+  "source_url": "https://github.com/loosephoto/tokyo-transit-mcp",
+  "install": "npx -y tokyo-transit-mcp"
+}

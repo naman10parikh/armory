@@ -1,0 +1,7 @@
+{
+  "name": "signalis-mcp",
+  "description": "MCP server for Signalis, providing AI agents with pay-per-call global intelligence including Master Intelligence digests and Pulse narratives, with payments settled in USDC on Base via x402.",
+  "source_repo": "jcislo/signalis-mcp",
+  "source_url": "https://github.com/jcislo/signalis-mcp",
+  "install": "npx -y signalis-mcp"
+}

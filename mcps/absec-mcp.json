@@ -1,0 +1,7 @@
+{
+  "name": "absec-mcp",
+  "description": "Enables security review of code diffs and files in Cursor/VS Code using local rule-based analysis with the same rule IDs as CI, no cloud required.",
+  "source_repo": "AgentBreach/absec-mcp",
+  "source_url": "https://github.com/AgentBreach/absec-mcp",
+  "install": "npx -y absec-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "imladris",
+  "description": "Enables multi-LLM deliberation via a council of panel members, judges responses for consensus and contradictions, and returns analysis to the calling model.",
+  "source_repo": "FeanorsCodeSL/imladris",
+  "source_url": "https://github.com/FeanorsCodeSL/imladris",
+  "install": "# git clone --depth 1 https://github.com/FeanorsCodeSL/imladris\n# See source for mcpServers config block"
+}

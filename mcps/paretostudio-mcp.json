@@ -1,0 +1,7 @@
+{
+  "name": "paretostudio-mcp",
+  "description": "Enables reading, searching, installing, and managing ParetoStudio prompts, agents, and skills from Claude Code, Cursor, or any MCP client, and can install agents/skills as files into Claude Code or Codex projects.",
+  "source_repo": "tane994/paretostudio-mcp",
+  "source_url": "https://github.com/tane994/paretostudio-mcp",
+  "install": "npx -y paretostudio-mcp"
+}

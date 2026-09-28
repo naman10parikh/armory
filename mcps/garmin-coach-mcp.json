@@ -1,0 +1,7 @@
+{
+  "name": "garmin-coach-mcp",
+  "description": "Connects Claude to Garmin Connect data for personalized running coaching, including morning readiness checks, post-run analysis, weekly reviews, and goal tracking.",
+  "source_repo": "Ant-0n3/Garmin-Coach-MCP",
+  "source_url": "https://github.com/Ant-0n3/Garmin-Coach-MCP",
+  "install": "npx -y Garmin-Coach-MCP"
+}

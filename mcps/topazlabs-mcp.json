@@ -1,0 +1,7 @@
+{
+  "name": "topazlabs-mcp",
+  "description": "AI image enhancement for LLMs. An MCP server that lets Claude and other AI assistants enhance images using Topaz Labs AI models.",
+  "source_repo": "TopazLabs/topaz-mcp",
+  "source_url": "https://github.com/TopazLabs/topaz-mcp",
+  "install": "npx -y topaz-mcp"
+}

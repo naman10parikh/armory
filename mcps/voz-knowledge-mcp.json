@@ -1,0 +1,7 @@
+{
+  "name": "voz-knowledge-mcp",
+  "description": "Crawl and archive VOZ threads, with search and summarization capabilities for AI agents.",
+  "source_repo": "hbui290/voz-knowledge-mcp",
+  "source_url": "https://github.com/hbui290/voz-knowledge-mcp",
+  "install": "npx -y voz-knowledge-mcp"
+}

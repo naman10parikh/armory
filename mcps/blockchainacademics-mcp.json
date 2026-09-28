@@ -1,0 +1,7 @@
+{
+  "name": "blockchainacademics-mcp",
+  "description": "An MCP server offering 99 tools for AI agents to access crypto editorial content, market data, on-chain analytics, sentiment, and proprietary indicators, with citations and time-stamped responses.",
+  "source_repo": "blockchainacademics/bca-mcp",
+  "source_url": "https://github.com/blockchainacademics/bca-mcp",
+  "install": "npx -y bca-mcp"
+}

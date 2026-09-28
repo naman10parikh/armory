@@ -1,0 +1,7 @@
+{
+  "name": "document-converter",
+  "description": "Converts PDFs, Office files, spreadsheets, emails, audio, and more to Markdown locally, enabling AI assistants to read and process them without cloud upload.",
+  "source_repo": "Zahid-Abbas-Ali-Baig/document-converter",
+  "source_url": "https://github.com/Zahid-Abbas-Ali-Baig/document-converter",
+  "install": "# git clone --depth 1 https://github.com/Zahid-Abbas-Ali-Baig/document-converter\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kof-stitch-mcp",
+  "description": "Enables AI-powered UI/UX design generation and management via Google Stitch, handling OAuth authentication automatically for MCP clients like Claude Code and Cursor.",
+  "source_repo": "keeponfirst/kof-stitch-mcp",
+  "source_url": "https://github.com/keeponfirst/kof-stitch-mcp",
+  "install": "npx -y kof-stitch-mcp"
+}

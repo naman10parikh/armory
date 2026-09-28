@@ -1,0 +1,7 @@
+{
+  "name": "static-mcpify",
+  "description": "Enables AI agents to access structured content by building static Markdown/JSON files served as a Model Context Protocol server.",
+  "source_repo": "megazear7/static-mcpify",
+  "source_url": "https://github.com/megazear7/static-mcpify",
+  "install": "# git clone --depth 1 https://github.com/megazear7/static-mcpify\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "skill-cortex-lite",
+  "description": "Enables all IDEs to access Claude Code Skills capabilities with skill discovery, search, and management tools.",
+  "source_repo": "Sim-xia/skill-cortex-server",
+  "source_url": "https://github.com/Sim-xia/skill-cortex-server",
+  "install": "# git clone --depth 1 https://github.com/Sim-xia/skill-cortex-server\n# See source for mcpServers config block"
+}

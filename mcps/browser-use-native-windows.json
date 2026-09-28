@@ -1,0 +1,7 @@
+{
+  "name": "browser-use-native-windows",
+  "description": "A Windows-only MCP server for controlling a real browser using native screenshots, Windows accessibility, and node-interception mouse/keyboard input, without CDP or Playwright.",
+  "source_repo": "mlnima/browser-use-native-windows",
+  "source_url": "https://github.com/mlnima/browser-use-native-windows",
+  "install": "# git clone --depth 1 https://github.com/mlnima/browser-use-native-windows\n# See source for mcpServers config block"
+}

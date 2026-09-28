@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-eia",
+  "description": "Provides AI agents with structured access to the U.S. EIA Open Data API for energy data including power plants, operations, fuel prices, projections, and state CO2 emissions.",
+  "source_repo": "abrose1/mcp-server-eia",
+  "source_url": "https://github.com/abrose1/mcp-server-eia",
+  "install": "# git clone --depth 1 https://github.com/abrose1/mcp-server-eia\n# See source for mcpServers config block"
+}

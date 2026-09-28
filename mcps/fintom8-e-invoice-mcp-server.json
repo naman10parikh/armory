@@ -1,0 +1,7 @@
+{
+  "name": "fintom8-e-invoice-mcp-server",
+  "description": "Enables autonomous agents to validate, audit, and correct e-invoices against European standards (EN16931) and Peppol regulations.",
+  "source_repo": "NikolaienkoIgor/Fintom8-E-invoice-MCP-server",
+  "source_url": "https://github.com/NikolaienkoIgor/Fintom8-E-invoice-MCP-server",
+  "install": "npx -y Fintom8-E-invoice-MCP-server"
+}

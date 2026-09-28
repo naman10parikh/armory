@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arcgis-lincolncountync",
+  "description": "Lincoln County GIS — Lincoln County, North Carolina open geospatial data (ArcGIS).",
+  "source_repo": "pipeworx-io/mcp-arcgis-lincolncountync",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-lincolncountync",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-lincolncountync\n# See source for mcpServers config block"
+}

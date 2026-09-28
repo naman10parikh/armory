@@ -1,0 +1,7 @@
+{
+  "name": "capability-bridge",
+  "description": "Adds vision capabilities to text-only coding models via MCP, enabling image analysis, OCR, and visual reasoning without switching the main model.",
+  "source_repo": "JT0608/capability-bridge",
+  "source_url": "https://github.com/JT0608/capability-bridge",
+  "install": "# git clone --depth 1 https://github.com/JT0608/capability-bridge\n# See source for mcpServers config block"
+}

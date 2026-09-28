@@ -1,0 +1,7 @@
+{
+  "name": "pok-mon-champion-mcp-server",
+  "description": "Enables Claude AI to query competitive Pokémon meta stats, retrieve and save teams, and enforce custom move/item rules for team building.",
+  "source_repo": "AlexVila0204/pokemon-champion-builder",
+  "source_url": "https://github.com/AlexVila0204/pokemon-champion-builder",
+  "install": "# git clone --depth 1 https://github.com/AlexVila0204/pokemon-champion-builder\n# See source for mcpServers config block"
+}

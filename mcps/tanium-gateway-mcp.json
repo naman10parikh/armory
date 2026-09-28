@@ -1,0 +1,7 @@
+{
+  "name": "tanium-gateway-mcp",
+  "description": "Enables natural language querying of Tanium assets, vulnerabilities, patches, and deployment information through the Tanium Gateway GraphQL API, integrating with MCP hosts like Claude Desktop, Cursor, VS Code, and Gemini CLI.",
+  "source_repo": "do345/Tanium-Gateway-MCP",
+  "source_url": "https://github.com/do345/Tanium-Gateway-MCP",
+  "install": "npx -y Tanium-Gateway-MCP"
+}

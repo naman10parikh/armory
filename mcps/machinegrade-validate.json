@@ -1,0 +1,7 @@
+{
+  "name": "machinegrade-validate",
+  "description": "Validates AI-generated artifacts (JSON, API responses, SQL) against a contract and returns a verdict.",
+  "source_repo": "machinegrade/validate",
+  "source_url": "https://github.com/machinegrade/validate",
+  "install": "# git clone --depth 1 https://github.com/machinegrade/validate\n# See source for mcpServers config block"
+}

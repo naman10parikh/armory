@@ -1,0 +1,7 @@
+{
+  "name": "re-gdb",
+  "description": "MCP server wrapping GDB and GEF for dynamic analysis, enabling interactive debugging and memory inspection via GDB/MI protocol.",
+  "source_repo": "Heretek-RE/re-gdb",
+  "source_url": "https://github.com/Heretek-RE/re-gdb",
+  "install": "# git clone --depth 1 https://github.com/Heretek-RE/re-gdb\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "schwaizer-bfs-mcp-server",
+  "description": "An unofficial MCP server for accessing Swiss Federal Statistical Office (BFS) data.",
+  "source_repo": "ishumilin/schwaizer-bfs-mcp",
+  "source_url": "https://github.com/ishumilin/schwaizer-bfs-mcp",
+  "install": "npx -y schwaizer-bfs-mcp"
+}

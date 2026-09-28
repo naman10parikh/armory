@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-server-5",
+  "description": "Enables running a remote MCP server on Cloudflare Workers with OAuth authentication, allowing MCP clients to connect and use defined tools via SSE.",
+  "source_repo": "NischithIsAFK/remote-mcp-server",
+  "source_url": "https://github.com/NischithIsAFK/remote-mcp-server",
+  "install": "npx -y remote-mcp-server"
+}

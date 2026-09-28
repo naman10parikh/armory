@@ -1,0 +1,7 @@
+{
+  "name": "codexpro-runtime",
+  "description": "A local, evidence-driven MCP runtime and control plane for open-source maintainers that provides workspace-bounded tools including controlled file operations, command execution, validation primitives, durable execution records, and human review workflows via stdio and Streamable HTTP transports.",
+  "source_repo": "Menglook/codexpro-runtime",
+  "source_url": "https://github.com/Menglook/codexpro-runtime",
+  "install": "# git clone --depth 1 https://github.com/Menglook/codexpro-runtime\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "duda-mcp",
+  "description": "Enables Claude to interact with the Duda API for creating sites, updating content, and managing business info through natural language.",
+  "source_repo": "pcbackdraftmarketing-tech/duda-mcp",
+  "source_url": "https://github.com/pcbackdraftmarketing-tech/duda-mcp",
+  "install": "npx -y duda-mcp"
+}

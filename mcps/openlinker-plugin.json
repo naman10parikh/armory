@@ -1,0 +1,7 @@
+{
+  "name": "openlinker-plugin",
+  "description": "An MCP bridge that lets Codex and Claude Code interact with OpenLinker agents, and allows the host to serve as a callable agent in the OpenLinker network.",
+  "source_repo": "OpenLinker-ai/openlinker-plugin",
+  "source_url": "https://github.com/OpenLinker-ai/openlinker-plugin",
+  "install": "# git clone --depth 1 https://github.com/OpenLinker-ai/openlinker-plugin\n# See source for mcpServers config block"
+}

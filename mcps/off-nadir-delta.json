@@ -1,0 +1,7 @@
+{
+  "name": "off-nadir-delta",
+  "description": "An MCP server for live, geolocated world-event intelligence: query event signals (coordinates, severity, sources), find hotspots, search satellite imagery (Sentinel-1/2, etc), read the AI Daily World Brief, and ask an OSINT/GEOINT analyst. Local stdio proxy to the hosted Off-Nadir Delta server; free",
+  "source_repo": "Off-Nadir-Lab/offnadir-delta-mcp",
+  "source_url": "https://github.com/Off-Nadir-Lab/offnadir-delta-mcp",
+  "install": "npx -y offnadir-delta-mcp"
+}

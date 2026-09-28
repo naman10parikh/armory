@@ -1,0 +1,7 @@
+{
+  "name": "tauri-mcp",
+  "description": "Controls any built Tauri app's UI via WebDriver, enabling mouse/keyboard actions, DOM inspection, and screenshots.",
+  "source_repo": "FrengkyS1/tauri-mcp",
+  "source_url": "https://github.com/FrengkyS1/tauri-mcp",
+  "install": "npx -y tauri-mcp"
+}

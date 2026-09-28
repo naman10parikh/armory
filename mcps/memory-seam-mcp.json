@@ -1,0 +1,7 @@
+{
+  "name": "memory-seam-mcp",
+  "description": "Exposes read-only local markdown envelopes through MCP tools for health, context, and recall queries.",
+  "source_repo": "jeremyknows/memory-seam-mcp",
+  "source_url": "https://github.com/jeremyknows/memory-seam-mcp",
+  "install": "npx -y memory-seam-mcp"
+}

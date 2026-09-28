@@ -1,0 +1,7 @@
+{
+  "name": "jaeger-mcp",
+  "description": "Read-only MCP server for querying Jaeger environments from Codex, returning compact, sanitized trace summaries to protect sensitive data.",
+  "source_repo": "parkavenue9639/jaeger-mcp",
+  "source_url": "https://github.com/parkavenue9639/jaeger-mcp",
+  "install": "npx -y jaeger-mcp"
+}

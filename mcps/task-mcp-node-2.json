@@ -1,0 +1,7 @@
+{
+  "name": "task-mcp-node-2",
+  "description": "A simple MCP server for managing tasks via a local JSON file, demonstrating resources, tools, and prompts for task reading, creation, and analysis.",
+  "source_repo": "krollchristensen/mcp-node-tasks",
+  "source_url": "https://github.com/krollchristensen/mcp-node-tasks",
+  "install": "# git clone --depth 1 https://github.com/krollchristensen/mcp-node-tasks\n# See source for mcpServers config block"
+}

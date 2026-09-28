@@ -1,0 +1,7 @@
+{
+  "name": "database-remote-mcp",
+  "description": "Enables remote database access (RDBMS and MongoDB) through MCP tools, supporting read/write queries, schema management, and more.",
+  "source_repo": "agts86/database-remote-mcp",
+  "source_url": "https://github.com/agts86/database-remote-mcp",
+  "install": "npx -y database-remote-mcp"
+}

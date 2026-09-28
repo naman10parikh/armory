@@ -1,0 +1,7 @@
+{
+  "name": "investment-intelligence-mcp",
+  "description": "Enables aggregated investment research by combining data from Yahoo/SEC EDGAR, Finnhub, and GDELT with analysis modules for price momentum, news signals, and estimate revisions.",
+  "source_repo": "mjtahir02-alt/Investment_Intelligence_MCP",
+  "source_url": "https://github.com/mjtahir02-alt/Investment_Intelligence_MCP",
+  "install": "npx -y Investment_Intelligence_MCP"
+}

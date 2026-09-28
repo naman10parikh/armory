@@ -1,0 +1,7 @@
+{
+  "name": "narajangteo-searcher",
+  "description": "Enables users to search and analyze Korean public procurement IT bid announcements, including full bid opening results, through natural language conversation with Claude.",
+  "source_repo": "yonghwan86/narajangteo-searcher",
+  "source_url": "https://github.com/yonghwan86/narajangteo-searcher",
+  "install": "# git clone --depth 1 https://github.com/yonghwan86/narajangteo-searcher\n# See source for mcpServers config block"
+}

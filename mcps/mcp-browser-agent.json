@@ -1,0 +1,7 @@
+{
+  "name": "mcp-browser-agent",
+  "description": "Enables AI agents to control a browser with 30 tools for navigation, interaction, extraction, and tab management, supporting human-like browser automation.",
+  "source_repo": "yubao2000/mcp-browser-server",
+  "source_url": "https://github.com/yubao2000/mcp-browser-server",
+  "install": "# git clone --depth 1 https://github.com/yubao2000/mcp-browser-server\n# See source for mcpServers config block"
+}

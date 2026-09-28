@@ -1,0 +1,7 @@
+{
+  "name": "trino-mcp-server",
+  "description": "Enables executing SQL queries on Trino clusters via MCP, supporting multiple authentication methods and read/write operations with safety controls.",
+  "source_repo": "weijie-tan3/trino-mcp",
+  "source_url": "https://github.com/weijie-tan3/trino-mcp",
+  "install": "npx -y trino-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "toonify-mcp",
+  "description": "Context compression plugin for Claude Code that automatically trims large tool outputs like JSON, CSV, and stack traces to save context window space.",
+  "source_repo": "PCIRCLE-AI/toonify-mcp",
+  "source_url": "https://github.com/PCIRCLE-AI/toonify-mcp",
+  "install": "npx -y toonify-mcp"
+}

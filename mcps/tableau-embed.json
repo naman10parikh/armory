@@ -1,0 +1,7 @@
+{
+  "name": "tableau-embed",
+  "description": "Embeds live, interactive Tableau dashboards in ChatGPT, pushing mark selections to the model so questions about specific data points are answered with live queried numbers.",
+  "source_repo": "nuggenlabs/tableau-chatgpt-embed",
+  "source_url": "https://github.com/nuggenlabs/tableau-chatgpt-embed",
+  "install": "# git clone --depth 1 https://github.com/nuggenlabs/tableau-chatgpt-embed\n# See source for mcpServers config block"
+}

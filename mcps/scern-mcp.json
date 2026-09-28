@@ -1,0 +1,7 @@
+{
+  "name": "scern-mcp",
+  "description": "Product evaluation MCP server for US packaged food. Health scores, ingredient safety, regulatory flags, recall history, corporate ownership.",
+  "source_repo": "elcoryel/scern-mcp",
+  "source_url": "https://github.com/elcoryel/scern-mcp",
+  "install": "npx -y scern-mcp"
+}

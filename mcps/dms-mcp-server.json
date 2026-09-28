@@ -1,0 +1,7 @@
+{
+  "name": "dms-mcp-server",
+  "description": "Read-only MCP server that lets AI clients query DMS repositories through a local bridge, supporting tools for health checks, listing connections and items, retrieving item info, and reading documents. Credentials are handled securely via a separate broker.",
+  "source_repo": "mergi72/dms-mcp-server",
+  "source_url": "https://github.com/mergi72/dms-mcp-server",
+  "install": "npx -y dms-mcp-server"
+}

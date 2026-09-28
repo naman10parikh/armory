@@ -1,0 +1,7 @@
+{
+  "name": "google-mail-mcp",
+  "description": "Provides a standardized interface for interacting with Google Mail tools and services through the Model Context Protocol, enabling email management via natural language.",
+  "source_repo": "universal-mcp/google-mail",
+  "source_url": "https://github.com/universal-mcp/google-mail",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/google-mail\n# See source for mcpServers config block"
+}

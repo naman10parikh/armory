@@ -1,0 +1,7 @@
+{
+  "name": "wikivibe-mcp",
+  "description": "Wikivibe MCP is a public read-only Model Context Protocol server for Wikivibe, a Russian/English knowledge base about AI coding, vibe coding, AI agents, MCP, developer tools, SEO/GEO, Telegram bots, integrations, databases and deployment workflows. It also exposes the public VibeDesign catalog of re",
+  "source_repo": "AlexMi64/wikivibe-mcp",
+  "source_url": "https://github.com/AlexMi64/wikivibe-mcp",
+  "install": "npx -y wikivibe-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "postgres-neo4j-mcp-server",
+  "description": "Enables natural language queries to a Neo4j knowledge graph built from PostgreSQL data, integrating with Claude Desktop and REST API.",
+  "source_repo": "faaizshah/Postgres-Neo4j-MCP",
+  "source_url": "https://github.com/faaizshah/Postgres-Neo4j-MCP",
+  "install": "npx -y Postgres-Neo4j-MCP"
+}

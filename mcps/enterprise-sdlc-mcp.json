@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-sdlc-mcp",
+  "description": "Serves reusable SDLC agent roles and review checklists over MCP, enabling AI coding agents to execute structured product analysis, solution architecture, code review, and release management tasks in GitHub-first projects.",
+  "source_repo": "raghuram-chittibomma/enterprise-sdlc-mcp",
+  "source_url": "https://github.com/raghuram-chittibomma/enterprise-sdlc-mcp",
+  "install": "npx -y enterprise-sdlc-mcp"
+}

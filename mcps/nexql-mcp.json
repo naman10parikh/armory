@@ -1,0 +1,7 @@
+{
+  "name": "nexql-mcp",
+  "description": "Standalone Postgres MCP server with schema-aware indexing, offering 53 query, schema, context, performance, write, and admin tools. Read-only by default and installable across clients.",
+  "source_repo": "NexQL-OSS/mcp",
+  "source_url": "https://github.com/NexQL-OSS/mcp",
+  "install": "# git clone --depth 1 https://github.com/NexQL-OSS/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "helx-mcp-server",
+  "description": "Provides AI agents with 20 tools to create, read, edit, validate, convert, and render documents across formats like DOCX, XLSX, PPTX, PDF, Markdown, HTML, and CSV, including charts, diagrams, templates, and CSV data operations over stdio.",
+  "source_repo": "Asno-dev/Helx",
+  "source_url": "https://github.com/Asno-dev/Helx",
+  "install": "# git clone --depth 1 https://github.com/Asno-dev/Helx\n# See source for mcpServers config block"
+}

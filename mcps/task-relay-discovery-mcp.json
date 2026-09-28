@@ -1,0 +1,7 @@
+{
+  "name": "task-relay-discovery-mcp",
+  "description": "Enables agents to discover and retrieve contract details for Task Relay F1-F5 paid x402 machine jobs, but does not execute work or handle payments.",
+  "source_repo": "mattskowron-dev/task-relay-discovery-mcp",
+  "source_url": "https://github.com/mattskowron-dev/task-relay-discovery-mcp",
+  "install": "npx -y task-relay-discovery-mcp"
+}

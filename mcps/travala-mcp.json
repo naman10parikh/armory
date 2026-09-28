@@ -1,0 +1,7 @@
+{
+  "name": "travala-mcp",
+  "description": "Remote MCP server for searching, booking, paying, and canceling hotel stays via Travala, with USDC payment through Algorand x402.",
+  "source_repo": "GoPlausible/travala-plugin-openclaw",
+  "source_url": "https://github.com/GoPlausible/travala-plugin-openclaw",
+  "install": "# git clone --depth 1 https://github.com/GoPlausible/travala-plugin-openclaw\n# See source for mcpServers config block"
+}

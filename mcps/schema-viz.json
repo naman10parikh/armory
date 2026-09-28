@@ -1,0 +1,7 @@
+{
+  "name": "schema-viz",
+  "description": "A local MCP server that renders a database schema as an interactive, dbdiagram.io-style ER diagram in your browser.",
+  "source_repo": "christianhoustonfloyd/schema-viz-mcp",
+  "source_url": "https://github.com/christianhoustonfloyd/schema-viz-mcp",
+  "install": "npx -y schema-viz-mcp"
+}

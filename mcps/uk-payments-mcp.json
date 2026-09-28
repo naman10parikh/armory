@@ -1,0 +1,7 @@
+{
+  "name": "uk-payments-mcp",
+  "description": "Enables AI agents to accept payments in the United Kingdom via Stripe hosted checkout, supporting cards, Apple Pay, and Google Pay.",
+  "source_repo": "junter1989k-ai/uk-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/uk-payments-mcp",
+  "install": "npx -y uk-payments-mcp"
+}

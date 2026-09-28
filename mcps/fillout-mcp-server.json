@@ -1,0 +1,7 @@
+{
+  "name": "fillout-mcp-server",
+  "description": "Enables form management, response handling, and analytics via the Fillout.io API, allowing users to create, update, and fetch forms and submissions through natural language.",
+  "source_repo": "mcpflow/fillout-mcp-server",
+  "source_url": "https://github.com/mcpflow/fillout-mcp-server",
+  "install": "npx -y fillout-mcp-server"
+}

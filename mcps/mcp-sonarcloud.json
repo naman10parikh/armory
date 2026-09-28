@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sonarcloud",
+  "description": "Enables interaction with SonarCloud projects, issues, quality gates, and security hotspots through natural language.",
+  "source_repo": "lukleh/mcp-sonarcloud",
+  "source_url": "https://github.com/lukleh/mcp-sonarcloud",
+  "install": "# git clone --depth 1 https://github.com/lukleh/mcp-sonarcloud\n# See source for mcpServers config block"
+}

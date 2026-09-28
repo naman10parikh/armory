@@ -1,0 +1,7 @@
+{
+  "name": "mobsf-mcp",
+  "description": "Enables AI agents to perform autonomous Android security analysis, including static analysis, dynamic analysis, and Frida instrumentation, powered by MobSF.",
+  "source_repo": "plur1bu5/mobsf-mcp",
+  "source_url": "https://github.com/plur1bu5/mobsf-mcp",
+  "install": "npx -y mobsf-mcp"
+}

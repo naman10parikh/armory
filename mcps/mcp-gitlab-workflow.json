@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gitlab-workflow",
+  "description": "An MCP server for issue-driven GitLab development, automating requirement analysis, issue creation, branching, coding, merge requests, and issue updates.",
+  "source_repo": "chntif/mcp-gitlab-workflow",
+  "source_url": "https://github.com/chntif/mcp-gitlab-workflow",
+  "install": "# git clone --depth 1 https://github.com/chntif/mcp-gitlab-workflow\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "opencorpinsight-dart-mcp-server",
+  "description": "Analyzes corporate financial information using Korea's DART API, supporting financial statements, ratios, news sentiment, and portfolio optimization.",
+  "source_repo": "surplus96/OpenCorpInsight-MCP",
+  "source_url": "https://github.com/surplus96/OpenCorpInsight-MCP",
+  "install": "npx -y OpenCorpInsight-MCP"
+}

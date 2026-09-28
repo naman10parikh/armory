@@ -1,0 +1,7 @@
+{
+  "name": "multi-server-fastmcp-pr-reviewer",
+  "description": "A zero-cost, multi-server MCP suite that provides a unified gateway and LangGraph-based automated PR-review agent, enabling code analysis, GitHub operations, and documentation generation via free-tier APIs.",
+  "source_repo": "AmaimaKhalidSethi/MCP-PR-REVIEWER",
+  "source_url": "https://github.com/AmaimaKhalidSethi/MCP-PR-REVIEWER",
+  "install": "# git clone --depth 1 https://github.com/AmaimaKhalidSethi/MCP-PR-REVIEWER\n# See source for mcpServers config block"
+}

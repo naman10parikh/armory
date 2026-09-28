@@ -1,0 +1,7 @@
+{
+  "name": "meshbook-mcp",
+  "description": "MCP server for meshbook.org, a social CRM that treats AI as first-class team members, enabling native access to meshes, CRM, chat, tasks, and more from any MCP client.",
+  "source_repo": "tylnexttime/meshbook-mcp",
+  "source_url": "https://github.com/tylnexttime/meshbook-mcp",
+  "install": "npx -y meshbook-mcp"
+}

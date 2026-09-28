@@ -1,0 +1,7 @@
+{
+  "name": "flight-mcp",
+  "description": "Enables natural-language search, booking, and management of simulated flights using a local SQLite database through Claude Desktop.",
+  "source_repo": "BarathArjun-B/travel_mcp",
+  "source_url": "https://github.com/BarathArjun-B/travel_mcp",
+  "install": "npx -y travel_mcp"
+}

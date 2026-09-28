@@ -1,0 +1,7 @@
+{
+  "name": "mcp-linux-tools",
+  "description": "Enables AI assistants to perform controlled Linux system administration tasks like reading logs, managing services, cron jobs, WordPress, and executing sandboxed Python code, with strict security constraints.",
+  "source_repo": "gerard-kanters/mcp-linux-tools",
+  "source_url": "https://github.com/gerard-kanters/mcp-linux-tools",
+  "install": "# git clone --depth 1 https://github.com/gerard-kanters/mcp-linux-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pcsx2-mcp",
+  "description": "A Windows-focused MCP server for controlling and debugging PCSX2 via GDB, offering emulator control, memory inspection, debugger operations, savestates, cheats, screenshots, process management, and log access.",
+  "source_repo": "snowyegret23/PCSX2_MCP",
+  "source_url": "https://github.com/snowyegret23/PCSX2_MCP",
+  "install": "npx -y PCSX2_MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openfoam-mcp-2",
+  "description": "Turns an AI assistant into an OpenFOAM setup and debugging co-pilot, enabling case scaffolding, dictionary edits, mesh sizing, turbulence calculations, and solver log analysis through natural language.",
+  "source_repo": "kimlnw/OpenFoamMCP",
+  "source_url": "https://github.com/kimlnw/OpenFoamMCP",
+  "install": "# git clone --depth 1 https://github.com/kimlnw/OpenFoamMCP\n# See source for mcpServers config block"
+}

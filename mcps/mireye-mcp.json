@@ -1,0 +1,7 @@
+{
+  "name": "mireye-mcp",
+  "description": "Exposes Mireye Earth's geospatial data API as MCP tools (mireye_ask and mireye_fetch) for querying location-based information like elevation, flood zones, and wildfire risk for US places.",
+  "source_repo": "Mireye-Labs/mireye-earth-mcp",
+  "source_url": "https://github.com/Mireye-Labs/mireye-earth-mcp",
+  "install": "npx -y mireye-earth-mcp"
+}

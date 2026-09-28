@@ -1,0 +1,7 @@
+{
+  "name": "french-admin-mcp",
+  "description": "Helps citizens and businesses navigate French bureaucracy with AI, covering taxes, social charges, benefits, invoices, administrative letters, collective agreements, and retirement.",
+  "source_repo": "mcp-tools-lab/french-admin-mcp",
+  "source_url": "https://github.com/mcp-tools-lab/french-admin-mcp",
+  "install": "npx -y french-admin-mcp"
+}

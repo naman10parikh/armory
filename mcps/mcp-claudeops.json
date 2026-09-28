@@ -1,0 +1,7 @@
+{
+  "name": "mcp-claudeops",
+  "description": "A comprehensive MCP server for monitoring Claude Code sessions, agent performance, cost tracking, project management, and GitHub synchronization with 89 tools and a real-time dashboard.",
+  "source_repo": "skdkfk8758/MCP_ClaudeOps",
+  "source_url": "https://github.com/skdkfk8758/MCP_ClaudeOps",
+  "install": "# git clone --depth 1 https://github.com/skdkfk8758/MCP_ClaudeOps\n# See source for mcpServers config block"
+}

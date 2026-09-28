@@ -1,0 +1,7 @@
+{
+  "name": "mcp-policy-server",
+  "description": "Provides token-efficient access to team policies and standards by allowing subagents to fetch specific sections using § notation, reducing context waste.",
+  "source_repo": "rcrsr/mcp-policy-server",
+  "source_url": "https://github.com/rcrsr/mcp-policy-server",
+  "install": "# git clone --depth 1 https://github.com/rcrsr/mcp-policy-server\n# See source for mcpServers config block"
+}

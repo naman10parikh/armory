@@ -1,0 +1,7 @@
+{
+  "name": "pixabay-mcp-server",
+  "description": "MCP server for the Pixabay API, providing tools to search and fetch royalty-free images and videos.",
+  "source_repo": "hanoak/pixabay-mcp-server",
+  "source_url": "https://github.com/hanoak/pixabay-mcp-server",
+  "install": "npx -y pixabay-mcp-server"
+}

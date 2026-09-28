@@ -1,0 +1,7 @@
+{
+  "name": "aik-mcp",
+  "description": "Enables AI agents to discover, read, search, and install Markdown-based knowledge (rules, skills, workflows) from a local directory via MCP tools.",
+  "source_repo": "openhoat/aik-mcp",
+  "source_url": "https://github.com/openhoat/aik-mcp",
+  "install": "npx -y aik-mcp"
+}

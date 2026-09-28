@@ -1,0 +1,7 @@
+{
+  "name": "mail7-mcp",
+  "description": "Provides email validation and domain configuration auditing tools for AI assistants, enabling single address checks, bulk list cleaning, SPF verification, and full mail setup grading (A-F) with actionable fixes.",
+  "source_repo": "dvlop/mail7-mcp",
+  "source_url": "https://github.com/dvlop/mail7-mcp",
+  "install": "npx -y mail7-mcp"
+}

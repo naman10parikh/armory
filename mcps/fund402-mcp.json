@@ -1,0 +1,7 @@
+{
+  "name": "fund402-mcp",
+  "description": "MCP server that exposes Fund402 protocol tools to Casper testnet, allowing LLMs to execute real on-chain actions like wallet creation, token management, and borrowing via natural language.",
+  "source_repo": "nickthelegend/fund402-mcp",
+  "source_url": "https://github.com/nickthelegend/fund402-mcp",
+  "install": "npx -y fund402-mcp"
+}

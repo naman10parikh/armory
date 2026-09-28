@@ -1,0 +1,7 @@
+{
+  "name": "mtl-mailchimp-mcp",
+  "description": "An MCP server for Mailchimp that allows listing, copying, creating draft campaigns, pushing HTML content, and sending test emails via Claude Code or any MCP client, with no send/schedule capability to prevent accidental blasts.",
+  "source_repo": "musictechlab/mtl-mailchimp-mcp",
+  "source_url": "https://github.com/musictechlab/mtl-mailchimp-mcp",
+  "install": "npx -y mtl-mailchimp-mcp"
+}

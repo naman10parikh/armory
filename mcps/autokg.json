@@ -1,0 +1,7 @@
+{
+  "name": "autokg",
+  "description": "Turns warehouse/lakehouse tables into a governed entity-relationship knowledge graph exposed through MCP, enabling AI agents to answer multi-table business questions without hard-coded SQL or large schema prompts.",
+  "source_repo": "kaushikthakur97/autokg",
+  "source_url": "https://github.com/kaushikthakur97/autokg",
+  "install": "# git clone --depth 1 https://github.com/kaushikthakur97/autokg\n# See source for mcpServers config block"
+}

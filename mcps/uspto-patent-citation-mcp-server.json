@@ -1,0 +1,7 @@
+{
+  "name": "uspto-patent-citation-mcp-server",
+  "description": "Provides access to USPTO enriched citation and office action citation APIs with smart context reduction and progressive disclosure workflows for patent citation analysis.",
+  "source_repo": "john-walkoe/uspto_enriched_citation_mcp",
+  "source_url": "https://github.com/john-walkoe/uspto_enriched_citation_mcp",
+  "install": "npx -y uspto_enriched_citation_mcp"
+}

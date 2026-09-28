@@ -1,0 +1,7 @@
+{
+  "name": "freecad-mcp-2",
+  "description": "Enables AI assistants to control FreeCAD 3D modeling software, allowing creation and manipulation of 3D objects, execution of Python code, and interaction with FreeCAD's parts library through natural language.",
+  "source_repo": "fastmcp-me/freecad-mcp",
+  "source_url": "https://github.com/fastmcp-me/freecad-mcp",
+  "install": "npx -y freecad-mcp"
+}

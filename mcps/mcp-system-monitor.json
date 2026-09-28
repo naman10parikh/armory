@@ -1,0 +1,7 @@
+{
+  "name": "mcp-system-monitor",
+  "description": "Enables Claude to monitor CPU, memory, disk, processes, network connections, Docker containers, and system logs for system diagnostics and troubleshooting.",
+  "source_repo": "VZilvinskus/mcp-system-monitor",
+  "source_url": "https://github.com/VZilvinskus/mcp-system-monitor",
+  "install": "# git clone --depth 1 https://github.com/VZilvinskus/mcp-system-monitor\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "a11y-mcp-server",
+  "description": "Exposes axe-core accessibility auditing as MCP tools so any MCP-compatible agent can audit HTML for structural and semantic issues.",
+  "source_repo": "aiuxmasters/a11y-mcp-server",
+  "source_url": "https://github.com/aiuxmasters/a11y-mcp-server",
+  "install": "npx -y a11y-mcp-server"
+}

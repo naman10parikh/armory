@@ -1,0 +1,7 @@
+{
+  "name": "mek-mcp",
+  "description": "Enables searching the Hungarian Electronic Library (MEK) for books, authors, subjects, and full-text via MCP tools and REST API, with accent-insensitive fallback and controlled vocabulary browsing.",
+  "source_repo": "hvj78/MEK-MCP",
+  "source_url": "https://github.com/hvj78/MEK-MCP",
+  "install": "npx -y MEK-MCP"
+}

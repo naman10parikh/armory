@@ -1,0 +1,7 @@
+{
+  "name": "twelve-permissions",
+  "description": "MCP server for the Twelve Permissions NFT collection, enabling verification of seals, retrieval of piece metadata and buy transactions, x402 payment info, and the refusals ledger.",
+  "source_repo": "tsharpe2282-web/twelve-permissions",
+  "source_url": "https://github.com/tsharpe2282-web/twelve-permissions",
+  "install": "# git clone --depth 1 https://github.com/tsharpe2282-web/twelve-permissions\n# See source for mcpServers config block"
+}

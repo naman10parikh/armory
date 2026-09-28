@@ -1,0 +1,7 @@
+{
+  "name": "sap-mcp-gateway",
+  "description": "A reference implementation for connecting SAP Business One to MCP-compatible AI clients, enabling read-only SQL analysis and guarded write workflows.",
+  "source_repo": "Joekay9223/sap-mcp-gateway",
+  "source_url": "https://github.com/Joekay9223/sap-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/Joekay9223/sap-mcp-gateway\n# See source for mcpServers config block"
+}

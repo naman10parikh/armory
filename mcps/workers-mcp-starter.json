@@ -1,0 +1,7 @@
+{
+  "name": "workers-mcp-starter",
+  "description": "A minimal Cloudflare Workers MCP server starter with stateless Streamable HTTP JSON-RPC, supporting Bearer and OAuth 2.1 authentication, and sample CRUD tools for D1 database.",
+  "source_repo": "novice1248/workers-mcp-starter",
+  "source_url": "https://github.com/novice1248/workers-mcp-starter",
+  "install": "# git clone --depth 1 https://github.com/novice1248/workers-mcp-starter\n# See source for mcpServers config block"
+}

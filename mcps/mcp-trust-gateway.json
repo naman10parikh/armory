@@ -1,0 +1,7 @@
+{
+  "name": "mcp-trust-gateway",
+  "description": "Enables trust, reputation, and economic accountability for MCP by proxying between clients and servers, enriching every tool invocation with trust evaluation, KYA tiers, spending limits, and delegation chains.",
+  "source_repo": "a2a-settlement/mcp-trust-gateway",
+  "source_url": "https://github.com/a2a-settlement/mcp-trust-gateway",
+  "install": "# git clone --depth 1 https://github.com/a2a-settlement/mcp-trust-gateway\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ocrspace",
+  "description": "OCR.space MCP server that enables image and PDF text extraction via the OCR.space API.",
+  "source_repo": "pipeworx-io/mcp-ocrspace",
+  "source_url": "https://github.com/pipeworx-io/mcp-ocrspace",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-ocrspace\n# See source for mcpServers config block"
+}

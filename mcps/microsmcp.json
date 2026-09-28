@@ -1,0 +1,7 @@
+{
+  "name": "microsmcp",
+  "description": "Standalone TypeScript MCP server for micrOS devices. Enables discovering devices, inspecting device cache, running micrOS commands, and discovering each device's available module commands.",
+  "source_repo": "BxNxM/micrOSMCP",
+  "source_url": "https://github.com/BxNxM/micrOSMCP",
+  "install": "# git clone --depth 1 https://github.com/BxNxM/micrOSMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "medify-ucat-mcp-server",
+  "description": "MCP server for Medify UCAT accounts that authenticates as a member, pulls completed mock scores and practice analytics, and exposes tools for score trends, question-type weaknesses, timing sinks, and practice recommendations.",
+  "source_repo": "ankitforcode/medify-mcp-server",
+  "source_url": "https://github.com/ankitforcode/medify-mcp-server",
+  "install": "npx -y medify-mcp-server"
+}

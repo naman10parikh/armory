@@ -1,0 +1,7 @@
+{
+  "name": "arcticdb-mcp",
+  "description": "An MCP server for structured read/write access to ArcticDB, enabling AI assistants to automate symbol updates, batch jobs, and time-series queries with built-in versioning.",
+  "source_repo": "YMuskrat/arcticdb_mcp",
+  "source_url": "https://github.com/YMuskrat/arcticdb_mcp",
+  "install": "npx -y arcticdb_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "erdlens",
+  "description": "MCP server that reads your database schema from SQL DDL, Prisma, Drizzle, TypeORM, or SQLAlchemy, generates a Mermaid ER diagram, and writes it into your documentation, with drift detection to keep diagrams up-to-date.",
+  "source_repo": "ryanda9910/erdlens",
+  "source_url": "https://github.com/ryanda9910/erdlens",
+  "install": "# git clone --depth 1 https://github.com/ryanda9910/erdlens\n# See source for mcpServers config block"
+}

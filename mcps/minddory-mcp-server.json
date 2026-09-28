@@ -1,0 +1,7 @@
+{
+  "name": "minddory-mcp-server",
+  "description": "Connects AI assistants like Claude to MindDory to automatically capture new vocabulary and grammar mistakes into spaced-repetition flashcards during language practice conversations.",
+  "source_repo": "Hyneq00/minddory-mcp",
+  "source_url": "https://github.com/Hyneq00/minddory-mcp",
+  "install": "npx -y minddory-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "startup-jobs-mcp-server",
+  "description": "Search live startup.jobs listings with filters for role, location, and employment type, plus get job details, company profiles, hiring trends, and salary benchmarks.",
+  "source_repo": "killbridge/startupjobs-mcp",
+  "source_url": "https://github.com/killbridge/startupjobs-mcp",
+  "install": "npx -y startupjobs-mcp"
+}

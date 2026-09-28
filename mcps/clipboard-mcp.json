@@ -1,0 +1,7 @@
+{
+  "name": "clipboard-mcp",
+  "description": "A simple MCP server that allows AI assistants to read from and write to the system clipboard.",
+  "source_repo": "gabiteodoru/clipboard-mcp",
+  "source_url": "https://github.com/gabiteodoru/clipboard-mcp",
+  "install": "npx -y clipboard-mcp"
+}

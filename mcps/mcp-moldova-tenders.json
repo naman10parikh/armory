@@ -1,0 +1,7 @@
+{
+  "name": "mcp-moldova-tenders",
+  "description": "MCP server for accessing Moldova Government Procurement (MTender) data, allowing AI agents to query tender information without an API key.",
+  "source_repo": "pipeworx-io/mcp-moldova-tenders",
+  "source_url": "https://github.com/pipeworx-io/mcp-moldova-tenders",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-moldova-tenders\n# See source for mcpServers config block"
+}

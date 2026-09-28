@@ -1,0 +1,7 @@
+{
+  "name": "gmail-attachments-mcp",
+  "description": "An MCP server for Gmail that enables downloading attachments and creating drafts with file attachments, without the ability to send emails.",
+  "source_repo": "grtelfer/gmail-attachments-mcp",
+  "source_url": "https://github.com/grtelfer/gmail-attachments-mcp",
+  "install": "npx -y gmail-attachments-mcp"
+}

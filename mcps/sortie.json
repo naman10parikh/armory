@@ -1,0 +1,7 @@
+{
+  "name": "sortie",
+  "description": "Extends Solana debugging to AI agents via MCP: decode transaction failures, trace CPI trees, and profile compute for any Solana transaction.",
+  "source_repo": "srivtx/sortie",
+  "source_url": "https://github.com/srivtx/sortie",
+  "install": "# git clone --depth 1 https://github.com/srivtx/sortie\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lol-mode-mcp",
+  "description": "Provides League of Legends mode-specific data including Arena augments, ARAM balance numbers, and mode mechanics, supporting both Chinese and English queries.",
+  "source_repo": "NewJeans0722/lol-mode-mcp",
+  "source_url": "https://github.com/NewJeans0722/lol-mode-mcp",
+  "install": "npx -y lol-mode-mcp"
+}

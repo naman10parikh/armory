@@ -1,0 +1,7 @@
+{
+  "name": "clipy-mcp",
+  "description": "Enables AI agents to search and read screen recordings from Clipy, including transcripts, AI summaries, and key moments with frames.",
+  "source_repo": "manovagyanik1/clipy-mcp",
+  "source_url": "https://github.com/manovagyanik1/clipy-mcp",
+  "install": "npx -y clipy-mcp"
+}

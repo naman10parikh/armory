@@ -1,0 +1,7 @@
+{
+  "name": "knownbase",
+  "description": "Knownbase gives AI agents durable, structured project memory that persists across sessions, tools, and workflows. Through MCP, agents can store and retrieve Markdown-based knowledge such as architecture decisions, debugging discoveries, implementation details, handoffs, project facts, and ongoing wo",
+  "source_repo": "zeeshandev6/knownbase-mcp",
+  "source_url": "https://github.com/zeeshandev6/knownbase-mcp",
+  "install": "npx -y knownbase-mcp"
+}

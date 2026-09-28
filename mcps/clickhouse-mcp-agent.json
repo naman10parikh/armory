@@ -1,0 +1,7 @@
+{
+  "name": "clickhouse-mcp-agent",
+  "description": "Enables querying ClickHouse databases using natural language with AI models, supporting multiple providers and access restrictions via per-call allow-lists.",
+  "source_repo": "AranNomante/clickhousemcp",
+  "source_url": "https://github.com/AranNomante/clickhousemcp",
+  "install": "# git clone --depth 1 https://github.com/AranNomante/clickhousemcp\n# See source for mcpServers config block"
+}

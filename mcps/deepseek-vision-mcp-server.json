@@ -1,0 +1,7 @@
+{
+  "name": "deepseek-vision-mcp-server",
+  "description": "Enables MCP clients to analyze images through DeepSeek's vision model using three input methods: local image files, external image URLs, and uploaded file IDs.",
+  "source_repo": "vibe-token/DeepSeek-Vision-MCP",
+  "source_url": "https://github.com/vibe-token/DeepSeek-Vision-MCP",
+  "install": "npx -y DeepSeek-Vision-MCP"
+}

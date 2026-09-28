@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-sp-cupom-fiscal-eletr-nico-sat",
+  "description": "MCP server for querying official SEFAZ SP electronic receipt (SAT CF-e) data, read-only, hosted with prepaid per-use credits.",
+  "source_repo": "mcp-dir/sefaz_sp_cfe-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_sp_cfe-mcp",
+  "install": "npx -y sefaz_sp_cfe-mcp"
+}

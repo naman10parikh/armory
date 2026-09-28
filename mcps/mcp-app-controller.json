@@ -1,0 +1,7 @@
+{
+  "name": "mcp-app-controller",
+  "description": "Central daemon for managing local app processes, enabling multiple Claude Code sessions to coordinate starts, stops, and restarts with conflict resolution and a web dashboard.",
+  "source_repo": "se/mcp-app-controller",
+  "source_url": "https://github.com/se/mcp-app-controller",
+  "install": "# git clone --depth 1 https://github.com/se/mcp-app-controller\n# See source for mcpServers config block"
+}

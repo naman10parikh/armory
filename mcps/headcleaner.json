@@ -1,0 +1,7 @@
+{
+  "name": "headcleaner",
+  "description": "Enables document conversion to Markdown or OKF format, and provides 14 okf_* tools for OKF bundle operations via MCP.",
+  "source_repo": "jamesdsizemore/headcleaner-cli",
+  "source_url": "https://github.com/jamesdsizemore/headcleaner-cli",
+  "install": "# git clone --depth 1 https://github.com/jamesdsizemore/headcleaner-cli\n# See source for mcpServers config block"
+}

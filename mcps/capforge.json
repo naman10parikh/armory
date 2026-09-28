@@ -1,0 +1,7 @@
+{
+  "name": "capforge",
+  "description": "MCP server that makes AI agents get SAP CAP/CDS right by providing curated knowledge and a feedback loop with real validation against cds compile.",
+  "source_repo": "automatizatodo/capforge",
+  "source_url": "https://github.com/automatizatodo/capforge",
+  "install": "# git clone --depth 1 https://github.com/automatizatodo/capforge\n# See source for mcpServers config block"
+}

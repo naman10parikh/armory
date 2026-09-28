@@ -1,0 +1,7 @@
+{
+  "name": "emercoin-swap",
+  "description": "Keyless MCP exchanger for AI agents — pay an exact amount to one deposit address, EMC delivered to any address. USDT(Tron) > EMC. Live at https://swap.emercoin.com/mcp",
+  "source_repo": "emercoin/swap",
+  "source_url": "https://github.com/emercoin/swap",
+  "install": "# git clone --depth 1 https://github.com/emercoin/swap\n# See source for mcpServers config block"
+}

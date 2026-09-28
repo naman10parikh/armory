@@ -1,0 +1,7 @@
+{
+  "name": "governed-mcp-gateway-2",
+  "description": "Enforces authenticated identity on every tool call and SSE frame, rotates vaulted credentials in place, and restricts tools via allowlists.",
+  "source_repo": "icohangar-ops/governed-mcp-gateway",
+  "source_url": "https://github.com/icohangar-ops/governed-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/icohangar-ops/governed-mcp-gateway\n# See source for mcpServers config block"
+}

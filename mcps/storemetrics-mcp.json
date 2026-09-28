@@ -1,0 +1,7 @@
+{
+  "name": "storemetrics-mcp",
+  "description": "Real-time e-commerce analytics: visitors, Shopify/Stripe revenue attribution, funnels, and a live visitor feed. Agents can self-register a website with one no-auth POST and get a site-scoped read-only MCP token back.",
+  "source_repo": "robsannaa/storemetrics-mcp",
+  "source_url": "https://github.com/robsannaa/storemetrics-mcp",
+  "install": "npx -y storemetrics-mcp"
+}

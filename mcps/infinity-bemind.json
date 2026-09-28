@@ -1,0 +1,7 @@
+{
+  "name": "infinity-bemind",
+  "description": "Enables querying sprint board capacity and task data for a team, allowing Claude to retrieve person tasks, sprint breakdowns, and capacity reports.",
+  "source_repo": "birincsik-byte/mcp-infinity-bemind",
+  "source_url": "https://github.com/birincsik-byte/mcp-infinity-bemind",
+  "install": "# git clone --depth 1 https://github.com/birincsik-byte/mcp-infinity-bemind\n# See source for mcpServers config block"
+}

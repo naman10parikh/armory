@@ -1,0 +1,7 @@
+{
+  "name": "fol-prover-mcp-server",
+  "description": "An MCP server for first-order logic theorem proving supporting multiple provers like Vampire, E, and Prover9, with built-in simple prover, session management, and TPTP export.",
+  "source_repo": "NewJerseyStyle/folprover-mcp",
+  "source_url": "https://github.com/NewJerseyStyle/folprover-mcp",
+  "install": "npx -y folprover-mcp"
+}

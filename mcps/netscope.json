@@ -1,0 +1,7 @@
+{
+  "name": "netscope",
+  "description": "This MCP server enables AI agents to read and search the internet without paid API keys, supporting multiple channels like web, GitHub, RSS, YouTube, and more, with automatic browser escalation and caching.",
+  "source_repo": "DavidLb2026/netscope-mcp",
+  "source_url": "https://github.com/DavidLb2026/netscope-mcp",
+  "install": "npx -y netscope-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "department-web-search-mcp-gateway",
+  "description": "A self-hosted web-search gateway that reuses a single logged-in browser session to handle intranet/SSO logins once, providing web_search and read_webpage tools for any MCP client.",
+  "source_repo": "yangsheng6810/web-search-mcp",
+  "source_url": "https://github.com/yangsheng6810/web-search-mcp",
+  "install": "npx -y web-search-mcp"
+}

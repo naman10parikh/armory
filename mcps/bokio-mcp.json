@@ -1,0 +1,7 @@
+{
+  "name": "bokio-mcp",
+  "description": "Enables interaction with the Bokio accounting API for managing journal entries, invoices, customers, items, and more, with read-only mode by default for safety.",
+  "source_repo": "diblaze/bokio-mcp",
+  "source_url": "https://github.com/diblaze/bokio-mcp",
+  "install": "npx -y bokio-mcp"
+}

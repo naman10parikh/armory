@@ -1,0 +1,7 @@
+{
+  "name": "vinted-seller-mcp",
+  "description": "An MCP server that helps sellers create Vinted listings from photos, researching comparable listings, estimating prices, and filling the listing form. It requires explicit confirmation before publishing, deleting, or sending messages.",
+  "source_repo": "rachid598/mcpvin",
+  "source_url": "https://github.com/rachid598/mcpvin",
+  "install": "# git clone --depth 1 https://github.com/rachid598/mcpvin\n# See source for mcpServers config block"
+}

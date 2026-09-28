@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-mcp-kit",
+  "description": "Provides a secure, job-oriented MCP connector for NetBox device lookup, enabling retrieval of device identity, status, site, role, and primary IP by name or ID without write access or bulk enumeration.",
+  "source_repo": "landynsnipes/enterprise-mcp-kit",
+  "source_url": "https://github.com/landynsnipes/enterprise-mcp-kit",
+  "install": "# git clone --depth 1 https://github.com/landynsnipes/enterprise-mcp-kit\n# See source for mcpServers config block"
+}

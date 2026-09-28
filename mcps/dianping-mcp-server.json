@@ -1,0 +1,7 @@
+{
+  "name": "dianping-mcp-server",
+  "description": "Enables searching and retrieving details of merchants on Dianping (Chinese review platform) using a locally logged-in browser session.",
+  "source_repo": "qianwj/dp-mcp",
+  "source_url": "https://github.com/qianwj/dp-mcp",
+  "install": "npx -y dp-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "greenfish-webtools-mcp",
+  "description": "A lightweight MCP server that gives AI assistants real-time web search and URL reading — no API keys required.",
+  "source_repo": "DumbGreenFish/GreenFishWebtoolsMCP",
+  "source_url": "https://github.com/DumbGreenFish/GreenFishWebtoolsMCP",
+  "install": "# git clone --depth 1 https://github.com/DumbGreenFish/GreenFishWebtoolsMCP\n# See source for mcpServers config block"
+}

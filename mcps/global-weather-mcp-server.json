@@ -1,0 +1,7 @@
+{
+  "name": "global-weather-mcp-server",
+  "description": "Provides weather data including US alerts, US forecasts, and global 5-day forecasts without requiring any API keys.",
+  "source_repo": "VenkatAdena/Weather-MCP",
+  "source_url": "https://github.com/VenkatAdena/Weather-MCP",
+  "install": "npx -y Weather-MCP"
+}

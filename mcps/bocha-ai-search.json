@@ -1,0 +1,7 @@
+{
+  "name": "bocha-ai-search",
+  "description": "Enables web search on Chinese internet content using Bocha AI, returning results as Markdown or JSON with configurable freshness and summary options.",
+  "source_repo": "yoko19191/bocha-ai-mcp-server",
+  "source_url": "https://github.com/yoko19191/bocha-ai-mcp-server",
+  "install": "npx -y bocha-ai-mcp-server"
+}

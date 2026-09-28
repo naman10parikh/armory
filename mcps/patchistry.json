@@ -1,0 +1,7 @@
+{
+  "name": "patchistry",
+  "description": "Patchistry commerce tools — modular hats, patches, curated builds (bachelorette/wedding/dads/festival), shipping, contact. AI agents can query the live Patchistry catalog in real-time",
+  "source_repo": "patchistry/patchistry-mcp-server",
+  "source_url": "https://github.com/patchistry/patchistry-mcp-server",
+  "install": "npx -y patchistry-mcp-server"
+}

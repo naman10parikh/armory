@@ -1,0 +1,7 @@
+{
+  "name": "arcgis-courtenay",
+  "description": "Enables interaction with City of Courtenay GIS open geospatial data (ArcGIS) through searching datasets, querying layers, and retrieving layer schemas.",
+  "source_repo": "pipeworx-io/mcp-arcgis-courtenay",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-courtenay",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-courtenay\n# See source for mcpServers config block"
+}

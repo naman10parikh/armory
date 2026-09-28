@@ -1,0 +1,7 @@
+{
+  "name": "web-scraper-server",
+  "description": "Provides browser automation and web scraping as MCP tools, enabling autonomous URL ingestion, crawling, extraction, and anti-bot handling with interactive browser control.",
+  "source_repo": "ImYourBoyRoy/WebScraperToolkit",
+  "source_url": "https://github.com/ImYourBoyRoy/WebScraperToolkit",
+  "install": "# git clone --depth 1 https://github.com/ImYourBoyRoy/WebScraperToolkit\n# See source for mcpServers config block"
+}

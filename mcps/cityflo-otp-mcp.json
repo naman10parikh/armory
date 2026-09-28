@@ -1,0 +1,7 @@
+{
+  "name": "cityflo-otp-mcp",
+  "description": "A dependency-free MCP server for Mumbai North operations that computes route lateness metrics, exposes underlying late trips, and reports data quality issues to answer whether a route was late and by how much.",
+  "source_repo": "Pritish-23/cityflo-otp-mcp",
+  "source_url": "https://github.com/Pritish-23/cityflo-otp-mcp",
+  "install": "npx -y cityflo-otp-mcp"
+}

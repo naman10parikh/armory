@@ -1,0 +1,7 @@
+{
+  "name": "fj-mcp",
+  "description": "MCP server for Forgejo that exposes tools for pull requests, repositories, and issues, leveraging the local fj CLI.",
+  "source_repo": "jairov4/fj-mcp",
+  "source_url": "https://github.com/jairov4/fj-mcp",
+  "install": "npx -y fj-mcp"
+}

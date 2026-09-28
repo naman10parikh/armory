@@ -1,0 +1,7 @@
+{
+  "name": "opensolr-mcp",
+  "description": "Provides managed Apache Solr search as MCP tools, enabling hybrid retrieval, server-side GPU embeddings, document indexing, and grounded RAG answers without managing infrastructure.",
+  "source_repo": "phpcip/opensolr-mcp",
+  "source_url": "https://github.com/phpcip/opensolr-mcp",
+  "install": "npx -y opensolr-mcp"
+}

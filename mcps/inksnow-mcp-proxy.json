@@ -1,0 +1,7 @@
+{
+  "name": "inksnow-mcp-proxy",
+  "description": "Proxies MCP requests from Cursor IDE to a custom HTTP server, enabling custom tool integrations.",
+  "source_repo": "inksnowhailong/inksnow-mcp-server",
+  "source_url": "https://github.com/inksnowhailong/inksnow-mcp-server",
+  "install": "npx -y inksnow-mcp-server"
+}

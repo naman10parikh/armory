@@ -1,0 +1,7 @@
+{
+  "name": "mcp-hubspot",
+  "description": "An MCP server that uses a browser extension to interact with HubSpot through the logged-in browser, enabling reading, searching, creating, and updating HubSpot records without API tokens.",
+  "source_repo": "kaael1/mcp-hubspot",
+  "source_url": "https://github.com/kaael1/mcp-hubspot",
+  "install": "# git clone --depth 1 https://github.com/kaael1/mcp-hubspot\n# See source for mcpServers config block"
+}

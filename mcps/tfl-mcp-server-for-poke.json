@@ -1,0 +1,7 @@
+{
+  "name": "tfl-mcp-server-for-poke",
+  "description": "Enables AI assistants to access real-time Transport for London data, including tube/bus arrivals, line status, journey planning, and disruptions.",
+  "source_repo": "VJagiasi/tfl-mcp",
+  "source_url": "https://github.com/VJagiasi/tfl-mcp",
+  "install": "npx -y tfl-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mealie-mcp-ts",
+  "description": "Enables AI assistants to manage recipes, meal plans, and shopping lists in Mealie through natural language, supporting CRUD operations and URL-based recipe imports.",
+  "source_repo": "counterbeing/mealie-mcp-ts",
+  "source_url": "https://github.com/counterbeing/mealie-mcp-ts",
+  "install": "# git clone --depth 1 https://github.com/counterbeing/mealie-mcp-ts\n# See source for mcpServers config block"
+}

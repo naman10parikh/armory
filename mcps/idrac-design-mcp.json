@@ -1,0 +1,7 @@
+{
+  "name": "idrac-design-mcp",
+  "description": "Exposes iDRAC design-system knowledge via a single get_component tool, currently returning placeholder data for known components.",
+  "source_repo": "ashwini97paradkar/idrac-design-mcp",
+  "source_url": "https://github.com/ashwini97paradkar/idrac-design-mcp",
+  "install": "npx -y idrac-design-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ocp-mcp",
+  "description": "An MCP server for managing multiple OpenShift Container Platform (OCP) clusters through AI assistants.",
+  "source_repo": "badin017/ocp-mcp",
+  "source_url": "https://github.com/badin017/ocp-mcp",
+  "install": "npx -y ocp-mcp"
+}

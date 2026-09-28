@@ -1,0 +1,7 @@
+{
+  "name": "mcp-financial-analyst",
+  "description": "Enables financial analysis by fetching real market data from Yahoo Finance, computing moving averages, returns, and volatility, and generating price charts.",
+  "source_repo": "Shashankg6/financialAnalyzerMCP",
+  "source_url": "https://github.com/Shashankg6/financialAnalyzerMCP",
+  "install": "# git clone --depth 1 https://github.com/Shashankg6/financialAnalyzerMCP\n# See source for mcpServers config block"
+}

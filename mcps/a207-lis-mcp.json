@@ -1,0 +1,7 @@
+{
+  "name": "a207-lis-mcp",
+  "description": "MCP server for pediatric CKD lab data, providing lab panel queries, critical value alerts, trend analysis, and write operations with role-based permissions.",
+  "source_repo": "ayeyouok/a207-lis-mcp",
+  "source_url": "https://github.com/ayeyouok/a207-lis-mcp",
+  "install": "npx -y a207-lis-mcp"
+}

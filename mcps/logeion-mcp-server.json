@@ -1,0 +1,7 @@
+{
+  "name": "logeion-mcp-server",
+  "description": "Enables LLMs to search and retrieve Latin word definitions and lemmas from the Logeion dictionary database, with support for automatic lemmatization via spaCy.",
+  "source_repo": "philipaidanbooth/Logeion-mcp-server",
+  "source_url": "https://github.com/philipaidanbooth/Logeion-mcp-server",
+  "install": "npx -y Logeion-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wovo-mcp",
+  "description": "Enables AI agents to deploy HTML pages and manage them (list, archive, move, rename) in a versioned library via MCP tools.",
+  "source_repo": "theshajha/wovo-cli",
+  "source_url": "https://github.com/theshajha/wovo-cli",
+  "install": "# git clone --depth 1 https://github.com/theshajha/wovo-cli\n# See source for mcpServers config block"
+}

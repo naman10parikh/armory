@@ -1,0 +1,7 @@
+{
+  "name": "jupyter-mcp",
+  "description": "Kernel-attached MCP server for Jupyter notebooks, enabling agents to manage cells, track dependencies, and execute code with minimal re-execution and condensed outputs.",
+  "source_repo": "Liu-Eroteme/jupyter_mcp",
+  "source_url": "https://github.com/Liu-Eroteme/jupyter_mcp",
+  "install": "npx -y jupyter_mcp"
+}

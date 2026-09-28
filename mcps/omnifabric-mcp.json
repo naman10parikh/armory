@@ -1,0 +1,7 @@
+{
+  "name": "omnifabric-mcp",
+  "description": "MCP server providing SQL access to a CloudSigma OmniFabric database (MatrixOne-compatible, MySQL wire protocol). It exposes a single tool, run_query, that executes any SQL statement and returns results as JSON.",
+  "source_repo": "Momosasu/omnifabric-mcp",
+  "source_url": "https://github.com/Momosasu/omnifabric-mcp",
+  "install": "npx -y omnifabric-mcp"
+}

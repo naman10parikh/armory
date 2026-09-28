@@ -1,0 +1,7 @@
+{
+  "name": "research-mcp-2",
+  "description": "A stateless MCP server that provides web search, single page reading, and batch page reading tools, with automatic failover across multiple search and content extraction providers.",
+  "source_repo": "vvzvlad/research-mcp",
+  "source_url": "https://github.com/vvzvlad/research-mcp",
+  "install": "npx -y research-mcp"
+}

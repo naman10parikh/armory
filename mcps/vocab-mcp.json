@@ -1,0 +1,7 @@
+{
+  "name": "vocab-mcp",
+  "description": "A vocabulary-bank MCP server that allows users to collect unfamiliar words, organize them into decks, review with spaced repetition, and enrich with definitions and pronunciation, all stored locally.",
+  "source_repo": "Code-byte404/vocab-mcp",
+  "source_url": "https://github.com/Code-byte404/vocab-mcp",
+  "install": "npx -y vocab-mcp"
+}

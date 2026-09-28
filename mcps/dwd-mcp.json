@@ -1,0 +1,7 @@
+{
+  "name": "dwd-mcp",
+  "description": "Enables access to German weather data from the Deutscher Wetterdienst, including station observations, forecasts, and warnings, through standardized MCP tools.",
+  "source_repo": "difu/dwd-mcp",
+  "source_url": "https://github.com/difu/dwd-mcp",
+  "install": "npx -y dwd-mcp"
+}

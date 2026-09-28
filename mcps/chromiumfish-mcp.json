@@ -1,0 +1,7 @@
+{
+  "name": "chromiumfish-mcp",
+  "description": "Enables MCP clients to control a ChromiumFish browser for web automation, including page management, navigation, interaction, and content extraction.",
+  "source_repo": "LowOrbitLab/chromiumfish_mcp",
+  "source_url": "https://github.com/LowOrbitLab/chromiumfish_mcp",
+  "install": "npx -y chromiumfish_mcp"
+}

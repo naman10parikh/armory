@@ -1,0 +1,7 @@
+{
+  "name": "youtube-script-mcp",
+  "description": "Remote MCP server providing tools for YouTube script and title strategy, including competitor title analysis, channel DNA generation, hook creation, and script drafting.",
+  "source_repo": "irunyewgodson-lang/youtube-script-mcp",
+  "source_url": "https://github.com/irunyewgodson-lang/youtube-script-mcp",
+  "install": "npx -y youtube-script-mcp"
+}

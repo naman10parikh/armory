@@ -1,0 +1,7 @@
+{
+  "name": "school-finance-mcp",
+  "description": "MCP server for SchoolFinance, a single-user school finance app, exposing tools and resources for managing students, classes, payments, income/expenses, reports, and settings via local SQLite.",
+  "source_repo": "HassanGeesey/school-finance-mcp",
+  "source_url": "https://github.com/HassanGeesey/school-finance-mcp",
+  "install": "npx -y school-finance-mcp"
+}

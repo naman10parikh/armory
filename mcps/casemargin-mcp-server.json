@@ -1,0 +1,7 @@
+{
+  "name": "casemargin-mcp-server",
+  "description": "Exposes support case reasoning tools — generate structured case briefs and check escalation readiness from any MCP-compatible AI client.",
+  "source_repo": "Casemargin/casemargin-mcp-server",
+  "source_url": "https://github.com/Casemargin/casemargin-mcp-server",
+  "install": "npx -y casemargin-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "breckenwander-travel",
+  "description": "A keyless, read-only MCP connector for BreckenWander, an independent travel platform. It searches flights, hotels, and experiences at all-in prices — every mandatory tax and fee included — and returns a link to complete the booking on breckenwander.com.",
+  "source_repo": "durwardjohnson/breckenwander-travel-connector",
+  "source_url": "https://github.com/durwardjohnson/breckenwander-travel-connector",
+  "install": "# git clone --depth 1 https://github.com/durwardjohnson/breckenwander-travel-connector\n# See source for mcpServers config block"
+}

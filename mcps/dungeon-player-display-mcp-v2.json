@@ -1,0 +1,7 @@
+{
+  "name": "dungeon-player-display-mcp-v2",
+  "description": "Deploys a stateless remote MCP server on Cloudflare Workers without authentication, allowing custom tools to be registered and used from clients like Claude Desktop and the Cloudflare AI Playground.",
+  "source_repo": "mikennewman-png/dungeon-player-display-mcp-v2",
+  "source_url": "https://github.com/mikennewman-png/dungeon-player-display-mcp-v2",
+  "install": "# git clone --depth 1 https://github.com/mikennewman-png/dungeon-player-display-mcp-v2\n# See source for mcpServers config block"
+}

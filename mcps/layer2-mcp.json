@@ -1,6 +1,6 @@
 {
   "name": "layer2-mcp",
-  "description": "Layer2 Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "anylots/layer2-mcp",
   "source_url": "https://mcp.so/server/layer2-mcp/anylots",
   "install": "npx -y layer2-mcp"

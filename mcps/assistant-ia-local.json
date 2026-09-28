@@ -1,0 +1,7 @@
+{
+  "name": "assistant-ia-local",
+  "description": "A local MCP server for RGPD-compliant document Q&A, enabling Claude Code to ingest, query, search, delete, and audit personal documents entirely on-device.",
+  "source_repo": "david-dabert/assistant-ia-local-rgpd",
+  "source_url": "https://github.com/david-dabert/assistant-ia-local-rgpd",
+  "install": "# git clone --depth 1 https://github.com/david-dabert/assistant-ia-local-rgpd\n# See source for mcpServers config block"
+}

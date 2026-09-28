@@ -1,0 +1,7 @@
+{
+  "name": "stock-snapshot-mcp",
+  "description": "A minimal MCP server that provides stock snapshots including company metadata, latest quote, fundamentals, and daily price history via the Alpha Vantage API.",
+  "source_repo": "pforpav/stock-snapshot-mcp",
+  "source_url": "https://github.com/pforpav/stock-snapshot-mcp",
+  "install": "npx -y stock-snapshot-mcp"
+}

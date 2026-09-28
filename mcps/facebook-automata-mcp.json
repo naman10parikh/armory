@@ -1,0 +1,7 @@
+{
+  "name": "facebook-automata-mcp",
+  "description": "Enables interaction with the official Facebook Graph API, providing tools for managing Pages, Posts, Comments, Reactions, Media, Events, Insights, and credential storage/validation.",
+  "source_repo": "ICWR-TEAM/Facebook-Automata-MCP",
+  "source_url": "https://github.com/ICWR-TEAM/Facebook-Automata-MCP",
+  "install": "npx -y Facebook-Automata-MCP"
+}

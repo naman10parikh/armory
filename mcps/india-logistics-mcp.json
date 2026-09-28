@@ -1,0 +1,7 @@
+{
+  "name": "india-logistics-mcp",
+  "description": "Enables AI agents to ship parcels across India via Delhivery, Bluedart, Ekart, and more through the Shiprocket API, with tools for serviceability checks, order creation, tracking, and cancellation.",
+  "source_repo": "junter1989k-ai/india-logistics-mcp",
+  "source_url": "https://github.com/junter1989k-ai/india-logistics-mcp",
+  "install": "npx -y india-logistics-mcp"
+}

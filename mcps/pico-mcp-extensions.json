@@ -1,0 +1,7 @@
+{
+  "name": "pico-mcp-extensions",
+  "description": "Exposes PICO XR building blocks as MCP tools, enabling AI agents to programmatically configure XR scenes for PICO devices through idempotent, non-destructive operations.",
+  "source_repo": "Pico-Developer/Unity-MCP-Extensions",
+  "source_url": "https://github.com/Pico-Developer/Unity-MCP-Extensions",
+  "install": "# git clone --depth 1 https://github.com/Pico-Developer/Unity-MCP-Extensions\n# See source for mcpServers config block"
+}

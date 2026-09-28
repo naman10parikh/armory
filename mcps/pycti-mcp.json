@@ -1,0 +1,7 @@
+{
+  "name": "pycti-mcp",
+  "description": "MCP server that provides condensed and normalized data from OpenCTI to LLMs, enabling lookup of observables, adversaries, and reports with enriched context.",
+  "source_repo": "ckane/pycti-mcp",
+  "source_url": "https://github.com/ckane/pycti-mcp",
+  "install": "npx -y pycti-mcp"
+}

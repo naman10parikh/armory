@@ -1,0 +1,7 @@
+{
+  "name": "ipynb-mcp",
+  "description": "An agent-agnostic MCP server that lets any AI agent drive a local JupyterLab session via the Model Context Protocol.",
+  "source_repo": "nils-holmberg/ipynb-mcp",
+  "source_url": "https://github.com/nils-holmberg/ipynb-mcp",
+  "install": "npx -y ipynb-mcp"
+}

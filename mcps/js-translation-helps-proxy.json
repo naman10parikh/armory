@@ -1,0 +1,7 @@
+{
+  "name": "js-translation-helps-proxy",
+  "description": "Enables interaction with translation helps APIs through multiple interfaces (MCP, OpenAI, stdio, etc.) for fetching scripture, translation notes, and more via natural language.",
+  "source_repo": "JEdward7777/js-translation-helps-proxy",
+  "source_url": "https://github.com/JEdward7777/js-translation-helps-proxy",
+  "install": "# git clone --depth 1 https://github.com/JEdward7777/js-translation-helps-proxy\n# See source for mcpServers config block"
+}

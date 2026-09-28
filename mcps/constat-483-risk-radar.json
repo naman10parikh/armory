@@ -1,0 +1,7 @@
+{
+  "name": "constat-483-risk-radar",
+  "description": "The MCP server behind Constat — FDA & NHTSA regulatory-risk intelligence for AI agents, over the Model Context Protocol. Live public regulatory data — recalls, adverse events, warning letters, 510(k) premarket evidence, postmarket drift signals, reimbursement pathways, and vehicle safety. Decision s",
+  "source_repo": "thehealthai/fda-risk-radar-mcp",
+  "source_url": "https://github.com/thehealthai/fda-risk-radar-mcp",
+  "install": "npx -y fda-risk-radar-mcp"
+}

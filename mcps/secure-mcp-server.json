@@ -1,0 +1,7 @@
+{
+  "name": "secure-mcp-server",
+  "description": "Template for deploying a remote MCP server with Cloudflare ZeroTrust Access authentication, supporting OAuth and container-based proxy.",
+  "source_repo": "haqops/secure-mcp-server",
+  "source_url": "https://github.com/haqops/secure-mcp-server",
+  "install": "npx -y secure-mcp-server"
+}

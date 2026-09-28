@@ -1,0 +1,7 @@
+{
+  "name": "cubesugar-music",
+  "description": "A NAS music library downloader shell that aggregates multiple sources, writes ID3 tags, and exposes MCP tools for AI agents to search, download, and manage music.",
+  "source_repo": "fangtang0206/cubesugar-music",
+  "source_url": "https://github.com/fangtang0206/cubesugar-music",
+  "install": "# git clone --depth 1 https://github.com/fangtang0206/cubesugar-music\n# See source for mcpServers config block"
+}

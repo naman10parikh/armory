@@ -1,0 +1,7 @@
+{
+  "name": "komoot-mcp",
+  "description": "Enables users to interact with Komoot for managing tours, planning routes, exporting GPX/FIT, and accessing highlights and user profile.",
+  "source_repo": "Belenos-Toutatis/komoot-mcp",
+  "source_url": "https://github.com/Belenos-Toutatis/komoot-mcp",
+  "install": "npx -y komoot-mcp"
+}

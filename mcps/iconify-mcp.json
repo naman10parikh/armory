@@ -1,0 +1,7 @@
+{
+  "name": "iconify-mcp",
+  "description": "Enables searching, fetching SVG, and discovering icons from Iconify's 200,000+ icon library across 150+ sets.",
+  "source_repo": "entaytion/iconify-mcp",
+  "source_url": "https://github.com/entaytion/iconify-mcp",
+  "install": "npx -y iconify-mcp"
+}

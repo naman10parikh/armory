@@ -1,0 +1,7 @@
+{
+  "name": "hypd-ai-paid-ads-analytics",
+  "description": "Analyze paid marketing accounts (Google Ads, Meta Ads, GA4, Merchant Center) in plain language, read-only. Provides insights, competitor ads, and landing page audits via natural language.",
+  "source_repo": "HYPD-AI/ads-mcp-plugin",
+  "source_url": "https://github.com/HYPD-AI/ads-mcp-plugin",
+  "install": "# git clone --depth 1 https://github.com/HYPD-AI/ads-mcp-plugin\n# See source for mcpServers config block"
+}

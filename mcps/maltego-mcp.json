@@ -1,0 +1,7 @@
+{
+  "name": "maltego-mcp",
+  "description": "Enables LLMs to author Maltego .mtgx graph files and perform OSINT lookups, with an optional transform layer for pivoting into MISP, TheHive, Cortex, and MITRE ATT\\&CK directly in Maltego Desktop.",
+  "source_repo": "solomonneas/maltego-mcp",
+  "source_url": "https://github.com/solomonneas/maltego-mcp",
+  "install": "npx -y maltego-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "internet-archive-mcp-server",
+  "description": "Provides tools to query the Internet Archive, including enumerating historical captures, listing revisions, reading snapshots as clean text, diffing captures, and searching archived items.",
+  "source_repo": "Cyphid-Academy/Wayback-Machine-MCP",
+  "source_url": "https://github.com/Cyphid-Academy/Wayback-Machine-MCP",
+  "install": "npx -y Wayback-Machine-MCP"
+}

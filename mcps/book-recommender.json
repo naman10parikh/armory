@@ -1,0 +1,7 @@
+{
+  "name": "book-recommender",
+  "description": "MCP server that provides book recommendation tools, allowing an AI agent to search and filter books by genre, page count, and ratings using the Goodreads dataset.",
+  "source_repo": "nalugomesv/book-recommender",
+  "source_url": "https://github.com/nalugomesv/book-recommender",
+  "install": "# git clone --depth 1 https://github.com/nalugomesv/book-recommender\n# See source for mcpServers config block"
+}

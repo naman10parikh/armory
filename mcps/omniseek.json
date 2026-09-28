@@ -1,0 +1,7 @@
+{
+  "name": "omniseek",
+  "description": "Your agent seeks what search can't find. A self-hosted perception MCP server that transcribes speech, reads behind logins, sees images and video frames, crosses languages, and remembers.",
+  "source_repo": "Battam1111/omniseek",
+  "source_url": "https://github.com/Battam1111/omniseek",
+  "install": "# git clone --depth 1 https://github.com/Battam1111/omniseek\n# See source for mcpServers config block"
+}

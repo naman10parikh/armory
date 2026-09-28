@@ -1,0 +1,7 @@
+{
+  "name": "molanko-mcp-avatar-generator",
+  "description": "MCP server that generates Molanko avatars from an image or Minecraft player name/UUID, returning the PNG as an image result.",
+  "source_repo": "lanlan3292/molanko-mcp-avatar-generator",
+  "source_url": "https://github.com/lanlan3292/molanko-mcp-avatar-generator",
+  "install": "# git clone --depth 1 https://github.com/lanlan3292/molanko-mcp-avatar-generator\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lp-internal-ai-mcp-server",
+  "description": "Enables querying of live organizational data (student records, outcomes, certifications, finances, donations, communications) via Claude using structured database queries and semantic search.",
+  "source_repo": "danbanned/Elavate215-I-T-S",
+  "source_url": "https://github.com/danbanned/Elavate215-I-T-S",
+  "install": "# git clone --depth 1 https://github.com/danbanned/Elavate215-I-T-S\n# See source for mcpServers config block"
+}

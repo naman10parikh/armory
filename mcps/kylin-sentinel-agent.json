@@ -1,0 +1,7 @@
+{
+  "name": "kylin-sentinel-agent",
+  "description": "MCP server for secure intelligent operations on Kylin OS, converting natural language requests into auditable, policy-controlled workflows.",
+  "source_repo": "ArtForests/kylin-sentinel-agent",
+  "source_url": "https://github.com/ArtForests/kylin-sentinel-agent",
+  "install": "# git clone --depth 1 https://github.com/ArtForests/kylin-sentinel-agent\n# See source for mcpServers config block"
+}

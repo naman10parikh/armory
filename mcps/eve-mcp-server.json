@@ -1,0 +1,7 @@
+{
+  "name": "eve-mcp-server",
+  "description": "Bridges AI assistants with EVE-NG network simulation labs, enabling autonomous management of labs, device configuration, and diagnostics through natural language.",
+  "source_repo": "trongthoaivn/eve-mcp",
+  "source_url": "https://github.com/trongthoaivn/eve-mcp",
+  "install": "npx -y eve-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "robot-mcp-server",
+  "description": "A robot-control MCP server enabling LLMs to control Unitree robots and DJI Tello drones with mock and hardware backends, built-in routines, and sequence execution.",
+  "source_repo": "showkeyjar/robot-mcp-server",
+  "source_url": "https://github.com/showkeyjar/robot-mcp-server",
+  "install": "npx -y robot-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "amfi-mcp-server",
+  "description": "Provides AI assistants with real-time Indian mutual fund NAV data from AMFI's official feed, requiring no API key.",
+  "source_repo": "SetuAI/amfi-mcp-server",
+  "source_url": "https://github.com/SetuAI/amfi-mcp-server",
+  "install": "npx -y amfi-mcp-server"
+}

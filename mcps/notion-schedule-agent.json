@@ -1,0 +1,7 @@
+{
+  "name": "notion-schedule-agent",
+  "description": "An MCP server that turns your Notion task list into an AI-optimized daily schedule, reading tasks with page content and priorities from an Eisenhower matrix, and writing a clean schedule back to Notion.",
+  "source_repo": "SeanOnamade/notion-mcp-v2",
+  "source_url": "https://github.com/SeanOnamade/notion-mcp-v2",
+  "install": "# git clone --depth 1 https://github.com/SeanOnamade/notion-mcp-v2\n# See source for mcpServers config block"
+}

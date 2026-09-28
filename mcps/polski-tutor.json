@@ -1,0 +1,7 @@
+{
+  "name": "polski-tutor",
+  "description": "MCP server for a Polish language tutor that provides interactive exercises, concept explanations, pronunciation practice, and progress tracking using a local LLM and a knowledge graph.",
+  "source_repo": "maution/polski-tutor",
+  "source_url": "https://github.com/maution/polski-tutor",
+  "install": "# git clone --depth 1 https://github.com/maution/polski-tutor\n# See source for mcpServers config block"
+}

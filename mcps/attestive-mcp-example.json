@@ -1,0 +1,7 @@
+{
+  "name": "attestive-mcp-example",
+  "description": "A thin MCP server wrapper that automatically audits all tool calls via Attestive's AuditClient, logging decisions and enabling verification of the hash chain. It provides an example server with audited tools and demonstrates end-to-end recording and verification through the MCP protocol.",
+  "source_repo": "magves56/attestive-mcp-example",
+  "source_url": "https://github.com/magves56/attestive-mcp-example",
+  "install": "# git clone --depth 1 https://github.com/magves56/attestive-mcp-example\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "affixio",
+  "description": "Enables zero-knowledge proof generation and verification, identity verification, and gate checks for privileged agent actions.",
+  "source_repo": "AffixIO/MCP",
+  "source_url": "https://github.com/AffixIO/MCP",
+  "install": "# git clone --depth 1 https://github.com/AffixIO/MCP\n# See source for mcpServers config block"
+}

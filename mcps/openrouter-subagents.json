@@ -1,0 +1,7 @@
+{
+  "name": "openrouter-subagents",
+  "description": "MCP server providing a model-agnostic subagent tool backed by OpenRouter, supporting multi-model Fusion and orchestration patterns.",
+  "source_repo": "Wally-Ahmed/openrouter-subagents",
+  "source_url": "https://github.com/Wally-Ahmed/openrouter-subagents",
+  "install": "# git clone --depth 1 https://github.com/Wally-Ahmed/openrouter-subagents\n# See source for mcpServers config block"
+}

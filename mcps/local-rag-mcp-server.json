@@ -1,0 +1,7 @@
+{
+  "name": "local-rag-mcp-server",
+  "description": "Enables tool-calling over TCP for a local RAG pipeline, allowing document ingestion and querying via MCP tools, fully offline with no cloud dependencies.",
+  "source_repo": "Youssef-AMARZOU/ai-orchestration-mvp",
+  "source_url": "https://github.com/Youssef-AMARZOU/ai-orchestration-mvp",
+  "install": "# git clone --depth 1 https://github.com/Youssef-AMARZOU/ai-orchestration-mvp\n# See source for mcpServers config block"
+}

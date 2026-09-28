@@ -1,6 +1,6 @@
 {
   "name": "mpc-webdav-server",
-  "description": "Mpc Webdav Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "LaubPlusCo/mpc-webdav-server",
   "source_url": "https://mcp.so/server/mpc-webdav-server/LaubPlusCo",
   "install": "# git clone --depth 1 https://mcp.so/server/mpc-webdav-server/LaubPlusCo\n# See source for mcpServers config block"

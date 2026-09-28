@@ -1,0 +1,7 @@
+{
+  "name": "claude-productivity-mcp",
+  "description": "An MCP server that integrates popular productivity tools like Gmail, Google Calendar, Google Drive, Google Sheets, Notion, and Microsoft Outlook, allowing Claude Desktop to interact with them via natural language commands.",
+  "source_repo": "kmusicman/claude-productivity-mcp",
+  "source_url": "https://github.com/kmusicman/claude-productivity-mcp",
+  "install": "npx -y claude-productivity-mcp"
+}

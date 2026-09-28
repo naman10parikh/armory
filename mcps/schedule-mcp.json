@@ -1,0 +1,7 @@
+{
+  "name": "schedule-mcp",
+  "description": "Enables AI assistants to manage personal project schedules through natural language, including creating and updating projects and tasks, tracking todos, querying schedules, and receiving reminders for deadlines and overdue items.",
+  "source_repo": "shiikun-cn/schedule-mcp",
+  "source_url": "https://github.com/shiikun-cn/schedule-mcp",
+  "install": "npx -y schedule-mcp"
+}

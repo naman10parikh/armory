@@ -1,0 +1,7 @@
+{
+  "name": "banco-central-do-brasil-bcb-valores-a-receber",
+  "description": "MCP server for querying the Central Bank of Brazil's 'Valores a Receber' (amounts to receive) service, providing read-only access to official data through natural language with a hosted server and prepaid credits.",
+  "source_repo": "mcp-dir/bcb_valores_receber-mcp",
+  "source_url": "https://github.com/mcp-dir/bcb_valores_receber-mcp",
+  "install": "npx -y bcb_valores_receber-mcp"
+}

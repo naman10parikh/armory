@@ -1,0 +1,7 @@
+{
+  "name": "apifox-mcp",
+  "description": "Enables AI assistants to manage Apifox API documentation via MCP, supporting module-specific dynamic reading, API CRUD, and auditing.",
+  "source_repo": "NimoXie15/apifox-mcp",
+  "source_url": "https://github.com/NimoXie15/apifox-mcp",
+  "install": "npx -y apifox-mcp"
+}

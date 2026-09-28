@@ -1,0 +1,7 @@
+{
+  "name": "circle-agent-stack-mcp",
+  "description": "MCP server for Circle's Agent Stack. Create wallets, set spend policies, send USDC, and pay x402-priced endpoints — all from a tool call.",
+  "source_repo": "kinance/circle-agent-stack-mcp",
+  "source_url": "https://github.com/kinance/circle-agent-stack-mcp",
+  "install": "npx -y circle-agent-stack-mcp"
+}

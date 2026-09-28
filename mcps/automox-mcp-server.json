@@ -1,0 +1,7 @@
+{
+  "name": "automox-mcp-server",
+  "description": "Enables AI assistants to manage and monitor Automox environments via natural language, including devices, compliance, policies, patches, and more.",
+  "source_repo": "AutomoxCommunity/automox-mcp",
+  "source_url": "https://github.com/AutomoxCommunity/automox-mcp",
+  "install": "npx -y automox-mcp"
+}

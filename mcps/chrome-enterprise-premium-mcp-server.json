@@ -1,0 +1,7 @@
+{
+  "name": "chrome-enterprise-premium-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for Chrome Enterprise Premium that exposes DLP rules, content detectors, connector policies, browser telemetry, and license management as MCP tools, enabling any MCP-compatible AI agent to inspect and configure a Chrome Enterprise environment.",
+  "source_repo": "google/chrome-enterprise-premium-mcp",
+  "source_url": "https://github.com/google/chrome-enterprise-premium-mcp",
+  "install": "npx -y chrome-enterprise-premium-mcp"
+}

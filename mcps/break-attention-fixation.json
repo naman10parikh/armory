@@ -1,0 +1,7 @@
+{
+  "name": "break-attention-fixation",
+  "description": "Non-Transformer 3D bitspace phase-shift tool for breaking LLM attention loops, local minima, and contextual fixation using Beethoven Sonata dynamics.",
+  "source_repo": "AGICoffe/break_attention_fixation",
+  "source_url": "https://github.com/AGICoffe/break_attention_fixation",
+  "install": "# git clone --depth 1 https://github.com/AGICoffe/break_attention_fixation\n# See source for mcpServers config block"
+}

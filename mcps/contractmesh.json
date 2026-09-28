@@ -1,0 +1,7 @@
+{
+  "name": "contractmesh",
+  "description": "ContractMesh is an MCP server that provides a trust-aware engineering knowledge layer, enabling agents to retrieve confirmed decisions, constraints, and known risks with provenance. It grounds AI changes in explicit engineering knowledge rather than inference alone.",
+  "source_repo": "fabiodepin/contractmesh",
+  "source_url": "https://github.com/fabiodepin/contractmesh",
+  "install": "# git clone --depth 1 https://github.com/fabiodepin/contractmesh\n# See source for mcpServers config block"
+}

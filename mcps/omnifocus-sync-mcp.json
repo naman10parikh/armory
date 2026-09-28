@@ -1,0 +1,7 @@
+{
+  "name": "omnifocus-sync-mcp",
+  "description": "A headless MCP server that reads and writes OmniFocus data by directly communicating with the Omni Sync Server via WebDAV, enabling task management without a local OmniFocus app.",
+  "source_repo": "rosskukulinski/omnifocus-sync-mcp",
+  "source_url": "https://github.com/rosskukulinski/omnifocus-sync-mcp",
+  "install": "npx -y omnifocus-sync-mcp"
+}

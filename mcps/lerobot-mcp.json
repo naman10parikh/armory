@@ -1,0 +1,7 @@
+{
+  "name": "lerobot-mcp",
+  "description": "Typed MCP server for Hugging Face LeRobot workflows. Provides a structured, auditable interface for LeRobot CLI, examples, datasets, and dataset conversion.",
+  "source_repo": "noah-wardlow/lerobot-mcp",
+  "source_url": "https://github.com/noah-wardlow/lerobot-mcp",
+  "install": "npx -y lerobot-mcp"
+}

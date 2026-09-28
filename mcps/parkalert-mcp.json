@@ -1,0 +1,7 @@
+{
+  "name": "parkalert-mcp",
+  "description": "Provides on-demand Disney ride status and standby wait times for supported parks, resolving park and ride names by alias or partial match.",
+  "source_repo": "austin5374/parkalert-mcp",
+  "source_url": "https://github.com/austin5374/parkalert-mcp",
+  "install": "npx -y parkalert-mcp"
+}

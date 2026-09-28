@@ -1,0 +1,7 @@
+{
+  "name": "helpdesk-mcp-server",
+  "description": "An AI IT support agent that enables natural language interaction with IT helpdesk operations, including knowledge base search, ticket querying, password reset, and escalation, powered by LangGraph and MCP.",
+  "source_repo": "xiaohe9/helpdesk-mcp-server",
+  "source_url": "https://github.com/xiaohe9/helpdesk-mcp-server",
+  "install": "npx -y helpdesk-mcp-server"
+}

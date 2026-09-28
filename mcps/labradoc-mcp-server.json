@@ -1,0 +1,7 @@
+{
+  "name": "labradoc-mcp-server",
+  "description": "Enables AI assistants to interact with Labradoc's document management, email ingestion, task extraction, and integration features through MCP tools.",
+  "source_repo": "zamedic/labradoc-mcp",
+  "source_url": "https://github.com/zamedic/labradoc-mcp",
+  "install": "npx -y labradoc-mcp"
+}

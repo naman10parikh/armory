@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-skeleton",
+  "description": "Enables registering custom agent tools via a minimal JSON-RPC over stdio implementation, with zero external dependencies, to expose them to AI agents like Claude, Cursor, and Gemini.",
+  "source_repo": "astrodevit-creator/mcp-server-skeleton",
+  "source_url": "https://github.com/astrodevit-creator/mcp-server-skeleton",
+  "install": "# git clone --depth 1 https://github.com/astrodevit-creator/mcp-server-skeleton\n# See source for mcpServers config block"
+}

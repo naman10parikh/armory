@@ -1,0 +1,7 @@
+{
+  "name": "induss-research-intelligence-mcp-server",
+  "description": "Provides an institutional research backend for AI assistants, with 15 tools for company, financial, funding, competitor, industry, and news intelligence, plus Markdown/PDF report generation, featuring deterministic source routing, extraction, validation, and citation generation.",
+  "source_repo": "viraj43/indus_mcp",
+  "source_url": "https://github.com/viraj43/indus_mcp",
+  "install": "npx -y indus_mcp"
+}

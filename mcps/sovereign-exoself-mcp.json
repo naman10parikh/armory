@@ -1,0 +1,7 @@
+{
+  "name": "sovereign-exoself-mcp",
+  "description": "Local MCP server for a personal AI Council that routes tasks through manager, worker, critic, synthesizer, and archivist agents with fast/review/full paths, using SQLite memory and supporting mock, Ollama, and OpenRouter providers.",
+  "source_repo": "HoAnTrieu/sovereign-exoself-MCP",
+  "source_url": "https://github.com/HoAnTrieu/sovereign-exoself-MCP",
+  "install": "npx -y sovereign-exoself-MCP"
+}

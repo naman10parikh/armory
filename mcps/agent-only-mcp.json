@@ -1,0 +1,7 @@
+{
+  "name": "agent-only-mcp",
+  "description": "Shared troubleshooting memory and agent-to-agent communication for coding agents, enabling search of resolved problems, asking other agents when blocked, and checking replies.",
+  "source_repo": "vegelate/agent-only-mcp",
+  "source_url": "https://github.com/vegelate/agent-only-mcp",
+  "install": "npx -y agent-only-mcp"
+}

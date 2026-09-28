@@ -1,0 +1,7 @@
+{
+  "name": "pine-script-mcp-server",
+  "description": "Enables AI assistants to look up any Pine Script function, search TradingView documentation, and find code examples in real time.",
+  "source_repo": "TradersPost/pine-mcp",
+  "source_url": "https://github.com/TradersPost/pine-mcp",
+  "install": "npx -y pine-mcp"
+}

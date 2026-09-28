@@ -1,0 +1,7 @@
+{
+  "name": "ppt-engine-mcp",
+  "description": "Drives real PowerPoint desktop application for true-fidelity PDF export and per-slide image export, complementing python-pptx by handling rendering that no library can.",
+  "source_repo": "Feynman520/d01-p03-ppt-engine-mcp",
+  "source_url": "https://github.com/Feynman520/d01-p03-ppt-engine-mcp",
+  "install": "npx -y d01-p03-ppt-engine-mcp"
+}

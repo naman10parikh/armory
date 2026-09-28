@@ -1,0 +1,7 @@
+{
+  "name": "fs-mcp-rs",
+  "description": "Ultra-fast, memory-efficient Rust implementation of the Filesystem MCP server with bounded IO, regex search, and optional terminal execution.",
+  "source_repo": "nihmadev/fs-mcp-rs",
+  "source_url": "https://github.com/nihmadev/fs-mcp-rs",
+  "install": "# git clone --depth 1 https://github.com/nihmadev/fs-mcp-rs\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "costbench-mcp-server",
+  "description": "Enables access to verified software-pricing intelligence for over 3,290 products, including true costs, hidden fees, negotiation data, price history, and TCO calculations, all sourced and dated.",
+  "source_repo": "aadilr/costbench-mcp",
+  "source_url": "https://github.com/aadilr/costbench-mcp",
+  "install": "npx -y costbench-mcp"
+}

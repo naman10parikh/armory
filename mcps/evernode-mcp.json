@@ -1,0 +1,7 @@
+{
+  "name": "evernode-mcp",
+  "description": "Enables AI agents to build, check, cost, and deploy HotPocket dApps on Evernode/Xahau by scaffolding deterministic contracts, checking determinism, estimating lease costs, ranking hosts, and generating deploy commands.",
+  "source_repo": "Hugegreencandle/evernode-mcp",
+  "source_url": "https://github.com/Hugegreencandle/evernode-mcp",
+  "install": "npx -y evernode-mcp"
+}

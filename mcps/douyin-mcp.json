@@ -1,0 +1,7 @@
+{
+  "name": "douyin-mcp",
+  "description": "Enables AI assistants to access Douyin (TikTok China) data including video search, details, comments, and user information via local JavaScript signature.",
+  "source_repo": "hhy5562877/douyin_mcp",
+  "source_url": "https://github.com/hhy5562877/douyin_mcp",
+  "install": "npx -y douyin_mcp"
+}

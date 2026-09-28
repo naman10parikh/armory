@@ -1,0 +1,7 @@
+{
+  "name": "azure-ai-search-mcp-server-2",
+  "description": "Enables AI assistants to manage Azure AI Search services, including indexes, documents, indexers, and skillsets, via the Model Context Protocol.",
+  "source_repo": "henryperkins/my-mcp-github",
+  "source_url": "https://github.com/henryperkins/my-mcp-github",
+  "install": "# git clone --depth 1 https://github.com/henryperkins/my-mcp-github\n# See source for mcpServers config block"
+}

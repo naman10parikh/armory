@@ -1,0 +1,7 @@
+{
+  "name": "pipelex-mcp-server",
+  "description": "Enables AI agents to build and execute Pipelex pipelines on-the-fly from natural language descriptions.",
+  "source_repo": "Pipelex/pipelex-mcp",
+  "source_url": "https://github.com/Pipelex/pipelex-mcp",
+  "install": "npx -y pipelex-mcp"
+}

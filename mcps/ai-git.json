@@ -1,0 +1,7 @@
+{
+  "name": "ai-git",
+  "description": "A deterministic MCP server that reimplements ai-git-fish workflows (aicommit, aibranch, aipr) with Leantime integration, enabling Claude Code and Codex to perform git operations and manage tickets without an internal LLM.",
+  "source_repo": "BenBen2109/ai-git-mcp",
+  "source_url": "https://github.com/BenBen2109/ai-git-mcp",
+  "install": "npx -y ai-git-mcp"
+}

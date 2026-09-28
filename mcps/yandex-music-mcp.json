@@ -1,0 +1,7 @@
+{
+  "name": "yandex-music-mcp",
+  "description": "An MCP server that turns Yandex Music into tools an AI agent can call directly — search, queue, play, build playlists — with no browser involved.",
+  "source_repo": "aramvr/yandex-music-mcp",
+  "source_url": "https://github.com/aramvr/yandex-music-mcp",
+  "install": "npx -y yandex-music-mcp"
+}

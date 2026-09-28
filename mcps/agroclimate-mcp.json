@@ -1,0 +1,7 @@
+{
+  "name": "agroclimate-mcp",
+  "description": "Enables querying AgroClimate company data via natural language through ChatGPT or Claude.",
+  "source_repo": "cogrowersqa/agroclimate-mcp",
+  "source_url": "https://github.com/cogrowersqa/agroclimate-mcp",
+  "install": "npx -y agroclimate-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "realfavicon-mcp",
+  "description": "MCP server for RealFaviconGenerator to generate favicon sets, audit live sites for favicon correctness, and fetch changelogs.",
+  "source_repo": "lzlrd/realfavicon-mcp",
+  "source_url": "https://github.com/lzlrd/realfavicon-mcp",
+  "install": "npx -y realfavicon-mcp"
+}

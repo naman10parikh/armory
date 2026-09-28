@@ -1,0 +1,7 @@
+{
+  "name": "solidworksmcp",
+  "description": "MCP server for controlling a live SOLIDWORKS session through the Windows COM API, enabling native CAD operations like sketches, features, bodies, views, and exports, plus transactional plans and vectorization.",
+  "source_repo": "czuryk/SolidworksMCP",
+  "source_url": "https://github.com/czuryk/SolidworksMCP",
+  "install": "# git clone --depth 1 https://github.com/czuryk/SolidworksMCP\n# See source for mcpServers config block"
+}

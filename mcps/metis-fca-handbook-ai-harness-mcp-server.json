@@ -1,0 +1,7 @@
+{
+  "name": "metis-fca-handbook-ai-harness-mcp-server",
+  "description": "Integrates the Metis FCA Handbook AI Harness into Claude Desktop to analyze FCA Handbook applicability for financial products, services, or firms, returning structured compliance reasoning with verbatim citations.",
+  "source_repo": "99blakeD99/the-metis-fca-handbook-ai-harness-mcp-files",
+  "source_url": "https://github.com/99blakeD99/the-metis-fca-handbook-ai-harness-mcp-files",
+  "install": "# git clone --depth 1 https://github.com/99blakeD99/the-metis-fca-handbook-ai-harness-mcp-files\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "omnisignal-mcp-server",
+  "description": "Remote MCP server delivering live market intelligence and AI-driven content strategy, with 38 tools for brand onboarding, competitor analysis, signal scanning, and content calendar management.",
+  "source_repo": "omnisignal-ai/omnisignal-mcp",
+  "source_url": "https://github.com/omnisignal-ai/omnisignal-mcp",
+  "install": "npx -y omnisignal-mcp"
+}

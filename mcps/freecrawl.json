@@ -1,0 +1,7 @@
+{
+  "name": "freecrawl",
+  "description": "Open-source web scraping MCP server with anti-bot bypass, enabling AI models to scrape, crawl, search, and extract data from any website without API keys or limits.",
+  "source_repo": "RistrixOP/freecrawl",
+  "source_url": "https://github.com/RistrixOP/freecrawl",
+  "install": "# git clone --depth 1 https://github.com/RistrixOP/freecrawl\n# See source for mcpServers config block"
+}

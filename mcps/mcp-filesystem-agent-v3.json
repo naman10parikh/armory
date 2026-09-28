@@ -1,0 +1,7 @@
+{
+  "name": "mcp-filesystem-agent-v3",
+  "description": "A production-ready MCP server enabling Claude and other LLMs to perform intelligent file operations with minimal token usage.",
+  "source_repo": "Mdskun/MCP-Filesystem-Agent",
+  "source_url": "https://github.com/Mdskun/MCP-Filesystem-Agent",
+  "install": "# git clone --depth 1 https://github.com/Mdskun/MCP-Filesystem-Agent\n# See source for mcpServers config block"
+}

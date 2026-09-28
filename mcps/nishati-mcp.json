@@ -1,0 +1,7 @@
+{
+  "name": "nishati-mcp",
+  "description": "MCP server for Kenya energy — KPLC connection guidance, tariff calculator, off-grid solar, rural electrification programs, consumer rights.",
+  "source_repo": "gabrielmahia/nishati-mcp",
+  "source_url": "https://github.com/gabrielmahia/nishati-mcp",
+  "install": "npx -y nishati-mcp"
+}

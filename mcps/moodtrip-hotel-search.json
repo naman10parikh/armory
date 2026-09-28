@@ -1,0 +1,7 @@
+{
+  "name": "moodtrip-hotel-search",
+  "description": "MoodTrip is an AI-powered hotel search that understands natural language. Instead of clicking through dozens of filters, simply describe your ideal stay: \"boutique hotel in Tokyo for 2 adults, December 10-15, under $200/night.\" MoodTrip interprets your request, searches real-time availability across",
+  "source_repo": "",
+  "source_url": "https://moodtrip.ai/",
+  "install": "# git clone --depth 1 https://moodtrip.ai/\n# See source for mcpServers config block"
+}

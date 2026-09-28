@@ -1,0 +1,7 @@
+{
+  "name": "kaggle-dataset-analyst",
+  "description": "Enables exploratory data analysis and machine learning on CSV datasets with tools for profiling, missing values, correlation, plotting, model training, and prediction.",
+  "source_repo": "Bert305/kaggle_mcp",
+  "source_url": "https://github.com/Bert305/kaggle_mcp",
+  "install": "npx -y kaggle_mcp"
+}

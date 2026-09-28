@@ -1,0 +1,7 @@
+{
+  "name": "trilium-mcp",
+  "description": "MCP server for connecting ChatGPT Web to a TriliumNext knowledge base, enabling search, read, create, edit, rename, and move operations through the Trilium ETAPI.",
+  "source_repo": "Qzincs/trilium-mcp",
+  "source_url": "https://github.com/Qzincs/trilium-mcp",
+  "install": "npx -y trilium-mcp"
+}

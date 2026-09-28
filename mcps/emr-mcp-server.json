@@ -1,0 +1,7 @@
+{
+  "name": "emr-mcp-server",
+  "description": "Provides intelligent guidance for EMR cluster management, configuration recommendations, and monitoring capabilities",
+  "source_repo": "akashdeep01/emr-mcp-server",
+  "source_url": "https://github.com/akashdeep01/emr-mcp-server",
+  "install": "npx -y emr-mcp-server"
+}

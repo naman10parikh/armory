@@ -1,0 +1,7 @@
+{
+  "name": "freeweb-mcp-server",
+  "description": "A lightweight MCP server providing web search via DuckDuckGo and page content extraction in multiple formats.",
+  "source_repo": "AdityaAWaghmare/freeWeb-MCP",
+  "source_url": "https://github.com/AdityaAWaghmare/freeWeb-MCP",
+  "install": "npx -y freeWeb-MCP"
+}

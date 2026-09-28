@@ -1,0 +1,7 @@
+{
+  "name": "postledger",
+  "description": "MCP server for double-entry bookkeeping with idempotent writes, immutable entries, and audit trail. Enables trustworthy financial recording and verification through natural language.",
+  "source_repo": "shuaige121/postledger",
+  "source_url": "https://github.com/shuaige121/postledger",
+  "install": "# git clone --depth 1 https://github.com/shuaige121/postledger\n# See source for mcpServers config block"
+}

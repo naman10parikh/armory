@@ -1,0 +1,7 @@
+{
+  "name": "zynx-supabase-mcp-server",
+  "description": "Real TypeScript MCP server for connecting Zynx agents to Supabase through safe, allowlisted tools.",
+  "source_repo": "chanonwankaew-ui/zynx-supabase-mcp",
+  "source_url": "https://github.com/chanonwankaew-ui/zynx-supabase-mcp",
+  "install": "npx -y zynx-supabase-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arco-mcp",
+  "description": "Server for redacting, validating, and auditing ARCO rights requests under Mexican data protection law, preventing legal hallucinations by consulting controlled legal matrices.",
+  "source_repo": "isaacwars/arco-rights-mcp",
+  "source_url": "https://github.com/isaacwars/arco-rights-mcp",
+  "install": "npx -y arco-rights-mcp"
+}

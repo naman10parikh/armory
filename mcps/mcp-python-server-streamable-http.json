@@ -1,0 +1,7 @@
+{
+  "name": "mcp-python-server-streamable-http",
+  "description": "Enables AI assistants to execute Python functions and system commands via Streamable HTTP, including bash, Python code execution, file operations, and text searching.",
+  "source_repo": "nik-red/MCP",
+  "source_url": "https://github.com/nik-red/MCP",
+  "install": "# git clone --depth 1 https://github.com/nik-red/MCP\n# See source for mcpServers config block"
+}

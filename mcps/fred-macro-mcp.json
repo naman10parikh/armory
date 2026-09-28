@@ -1,0 +1,7 @@
+{
+  "name": "fred-macro-mcp",
+  "description": "Enables LLM agents to query US macroeconomic time series from FRED, including GDP, CPI, unemployment, and interest rates, for contextual research.",
+  "source_repo": "kevinkda/fred-macro-mcp",
+  "source_url": "https://github.com/kevinkda/fred-macro-mcp",
+  "install": "npx -y fred-macro-mcp"
+}

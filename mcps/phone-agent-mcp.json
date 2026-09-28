@@ -1,0 +1,7 @@
+{
+  "name": "phone-agent-mcp",
+  "description": "A local MCP server that exposes Mobile AI Agent capabilities from the WebADB browser as MCP tools, allowing external AI clients like Qoder and OpenClaw to control connected phones through natural language tasks, screenshots, device status, and memory management via a WebSocket relay.",
+  "source_repo": "MobileAiUse/mcp-server",
+  "source_url": "https://github.com/MobileAiUse/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/MobileAiUse/mcp-server\n# See source for mcpServers config block"
+}

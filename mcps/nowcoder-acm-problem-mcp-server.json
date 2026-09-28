@@ -1,0 +1,7 @@
+{
+  "name": "nowcoder-acm-problem-mcp-server",
+  "description": "Enables interaction with public NowCoder ACM problem pages. Supports fetching problem data and checking health status.",
+  "source_repo": "ketherworks/nowcoder-oj-mcp",
+  "source_url": "https://github.com/ketherworks/nowcoder-oj-mcp",
+  "install": "npx -y nowcoder-oj-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "evidiq-sentinel-mcp",
+  "description": "Scans remote MCP endpoints, manifests, and agent skills for security threats, providing deterministic scores, verdicts, and signed reports to verify agent infrastructure before trust or payments.",
+  "source_repo": "evidiq/evidiq-sentinel-mcp",
+  "source_url": "https://github.com/evidiq/evidiq-sentinel-mcp",
+  "install": "npx -y evidiq-sentinel-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "substack-api-mcp",
+  "description": "Enables AI agents to draft, publish, and schedule posts on Substack, bypassing the lack of an official publishing API.",
+  "source_repo": "alxgntv/substack-api-mcp",
+  "source_url": "https://github.com/alxgntv/substack-api-mcp",
+  "install": "npx -y substack-api-mcp"
+}

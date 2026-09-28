@@ -1,0 +1,7 @@
+{
+  "name": "drawio-desktop-mcp",
+  "description": "Enables AI agents to create and edit diagrams in the draw.io desktop app through the Model Context Protocol.",
+  "source_repo": "ArdaUzun/drawio-desktop-mcp",
+  "source_url": "https://github.com/ArdaUzun/drawio-desktop-mcp",
+  "install": "npx -y drawio-desktop-mcp"
+}

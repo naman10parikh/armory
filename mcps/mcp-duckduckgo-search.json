@@ -1,0 +1,7 @@
+{
+  "name": "mcp-duckduckgo-search",
+  "description": "Enables querying the DuckDuckGo Instant Answer API through the Model Context Protocol, allowing users to perform searches and retrieve instant answers.",
+  "source_repo": "shaheen2013/duckduckgo-search-mcp-server",
+  "source_url": "https://github.com/shaheen2013/duckduckgo-search-mcp-server",
+  "install": "npx -y duckduckgo-search-mcp-server"
+}

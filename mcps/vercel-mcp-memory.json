@@ -1,0 +1,7 @@
+{
+  "name": "vercel-mcp-memory",
+  "description": "Enables semantic memory storage and retrieval with natural language queries, deployed on Vercel with PostgreSQL pgvector and OpenAI embeddings.",
+  "source_repo": "evgenygurin/vercel-mcp-memory",
+  "source_url": "https://github.com/evgenygurin/vercel-mcp-memory",
+  "install": "# git clone --depth 1 https://github.com/evgenygurin/vercel-mcp-memory\n# See source for mcpServers config block"
+}

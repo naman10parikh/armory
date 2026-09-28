@@ -1,0 +1,7 @@
+{
+  "name": "openproject-codex",
+  "description": "Enables Codex to interact with OpenProject for project management, work packages, and reporting.",
+  "source_repo": "varaprasadreddy9676/openproject-codex-plugin",
+  "source_url": "https://github.com/varaprasadreddy9676/openproject-codex-plugin",
+  "install": "# git clone --depth 1 https://github.com/varaprasadreddy9676/openproject-codex-plugin\n# See source for mcpServers config block"
+}

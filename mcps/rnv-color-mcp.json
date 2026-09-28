@@ -1,0 +1,7 @@
+{
+  "name": "rnv-color-mcp",
+  "description": "Exposes RNV color workflow tools for color mixing, conversion, harmony generation, text transformation, and palette management, allowing LLMs to directly compute colors and manipulate palettes.",
+  "source_repo": "RNVizion/rnv-color-mcp",
+  "source_url": "https://github.com/RNVizion/rnv-color-mcp",
+  "install": "npx -y rnv-color-mcp"
+}

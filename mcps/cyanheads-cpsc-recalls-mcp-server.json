@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-cpsc-recalls-mcp-server",
+  "description": "Search and retrieve US consumer product recalls from the CPSC (Consumer Product Safety Commission) via MCP, with STDIO or Streamable HTTP.",
+  "source_repo": "cyanheads/cpsc-recalls-mcp-server",
+  "source_url": "https://github.com/cyanheads/cpsc-recalls-mcp-server",
+  "install": "npx -y cpsc-recalls-mcp-server"
+}

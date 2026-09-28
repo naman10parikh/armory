@@ -1,0 +1,7 @@
+{
+  "name": "kenotex-mcp",
+  "description": "MCP server that lets AI agents manage real todos, calendar events, and daily habits in the Kenotex planner app for Mac/iPhone via a local HTTP server and SQLite database.",
+  "source_repo": "kenxcomp/kenotex-mcp",
+  "source_url": "https://github.com/kenxcomp/kenotex-mcp",
+  "install": "npx -y kenotex-mcp"
+}

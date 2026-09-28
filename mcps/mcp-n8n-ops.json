@@ -1,0 +1,7 @@
+{
+  "name": "mcp-n8n-ops",
+  "description": "MCP server for operating an n8n instance, enabling AI assistants to monitor failing workflows, check health, and list executions. Read-only by default with an opt-in write mode for workflow activation.",
+  "source_repo": "Redsf/mcp-n8n-ops",
+  "source_url": "https://github.com/Redsf/mcp-n8n-ops",
+  "install": "# git clone --depth 1 https://github.com/Redsf/mcp-n8n-ops\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "llm-chat-mcp",
+  "description": "Wraps Tool and ToolPackage instances from the llm-chat ecosystem behind the Model Context Protocol, enabling stdio and Streamable HTTP transports for MCP servers.",
+  "source_repo": "johanneslatzel/llm-chat-mcp",
+  "source_url": "https://github.com/johanneslatzel/llm-chat-mcp",
+  "install": "npx -y llm-chat-mcp"
+}

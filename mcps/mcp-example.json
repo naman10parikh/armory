@@ -1,0 +1,7 @@
+{
+  "name": "mcp-example",
+  "description": "A demonstration MCP server that fetches web content and monitors system information via SSE.",
+  "source_repo": "stevensu1977/mcp-example",
+  "source_url": "https://github.com/stevensu1977/mcp-example",
+  "install": "# git clone --depth 1 https://github.com/stevensu1977/mcp-example\n# See source for mcpServers config block"
+}

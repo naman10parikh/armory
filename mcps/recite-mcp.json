@@ -1,0 +1,7 @@
+{
+  "name": "recite-mcp",
+  "description": "MCP server for the Recite API, enabling receipt scanning, transaction management, batch processing, and local ledger workflows for agents.",
+  "source_repo": "rivradev/recite-mcp",
+  "source_url": "https://github.com/rivradev/recite-mcp",
+  "install": "npx -y recite-mcp"
+}

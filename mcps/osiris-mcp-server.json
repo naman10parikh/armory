@@ -1,0 +1,7 @@
+{
+  "name": "osiris-mcp-server",
+  "description": "Exposes Dutch university Osiris course catalogs as MCP tools, enabling search, retrieval, and exploration of course information across multiple institutions via the public Osiris Student API.",
+  "source_repo": "mitkozh/osiris-mcp-server",
+  "source_url": "https://github.com/mitkozh/osiris-mcp-server",
+  "install": "npx -y osiris-mcp-server"
+}

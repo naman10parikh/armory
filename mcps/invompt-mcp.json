@@ -1,0 +1,7 @@
+{
+  "name": "invompt-mcp",
+  "description": "Invoice-focused MCP bridge that relays MCP JSON-RPC to a local loopback transport, with strict origin allowlisting.",
+  "source_repo": "Invompt/invompt-mcp",
+  "source_url": "https://github.com/Invompt/invompt-mcp",
+  "install": "npx -y invompt-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "runwhen-platform-mcp",
+  "description": "Lets your coding agent talk to the RunWhen platform — workspace chat, issues, SLXs, run sessions, and the Tool Builder — over the Model Context Protocol. Enables workspace chat with AI assistant, task authoring via Tool Builder, and direct data access to workspaces, issues, SLXs, run sessions, and m",
+  "source_repo": "runwhen-contrib/runwhen-platform-mcp",
+  "source_url": "https://github.com/runwhen-contrib/runwhen-platform-mcp",
+  "install": "npx -y runwhen-platform-mcp"
+}

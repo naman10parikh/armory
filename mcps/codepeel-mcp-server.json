@@ -1,0 +1,7 @@
+{
+  "name": "codepeel-mcp-server",
+  "description": "Enables AI agents to review code diffs for bugs, security issues, and bad patterns, and generate fixes.",
+  "source_repo": "codepeel/mcp-server",
+  "source_url": "https://github.com/codepeel/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/codepeel/mcp-server\n# See source for mcpServers config block"
+}

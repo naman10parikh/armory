@@ -1,0 +1,7 @@
+{
+  "name": "mcp-legal-ar",
+  "description": "Unifies 14 Argentine legal connectors (JUBA, SCBA, CSJN, SAIJ, PJN Jurisprudencia, BORA, BOPBA, InfoLEG, Normativa PBA, PTN, TFN, PJN Consulta, Portal PJN, JusCABA) into a single MCP server for Claude Desktop, enabling local, read-only access to jurisprudencia, legislation, and legal documents.",
+  "source_repo": "conaedivulgacion-lab/legal",
+  "source_url": "https://github.com/conaedivulgacion-lab/legal",
+  "install": "# git clone --depth 1 https://github.com/conaedivulgacion-lab/legal\n# See source for mcpServers config block"
+}

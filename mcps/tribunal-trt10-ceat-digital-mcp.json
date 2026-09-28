@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trt10-ceat-digital-mcp",
+  "description": "MCP server for querying electronic labor court certificates (CEAT) from TRT10, providing read-only access to official data via HTTP.",
+  "source_repo": "mcp-dir/tribunal_trt10_ceat_digital-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trt10_ceat_digital-mcp",
+  "install": "npx -y tribunal_trt10_ceat_digital-mcp"
+}

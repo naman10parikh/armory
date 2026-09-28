@@ -1,0 +1,7 @@
+{
+  "name": "mcp-jazzcash",
+  "description": "Enables AI agents to create hosted checkouts, charge mobile wallets, query transactions, and process refunds via the JazzCash payment API.",
+  "source_repo": "TehreemArbab/JazzCashMCP",
+  "source_url": "https://github.com/TehreemArbab/JazzCashMCP",
+  "install": "# git clone --depth 1 https://github.com/TehreemArbab/JazzCashMCP\n# See source for mcpServers config block"
+}

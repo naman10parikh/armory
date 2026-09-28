@@ -1,0 +1,7 @@
+{
+  "name": "striderlabs-mcp-discord",
+  "description": "An MCP server for Discord that enables AI assistants to interact with Discord servers, channels, and messages via the Discord API.",
+  "source_repo": "markswendsen-code/mcp-discord",
+  "source_url": "https://github.com/markswendsen-code/mcp-discord",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-discord\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "conservice-credlookup",
+  "description": "A stdio MCP server that resolves a template's logins and returns their plaintext credentials to the calling agent, typically to fill login forms via Playwright MCP.",
+  "source_repo": "mtbrotherson/conservice-credlookup-mcp",
+  "source_url": "https://github.com/mtbrotherson/conservice-credlookup-mcp",
+  "install": "npx -y conservice-credlookup-mcp"
+}

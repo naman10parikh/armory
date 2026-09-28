@@ -1,0 +1,7 @@
+{
+  "name": "tfs-mcp-server",
+  "description": "Bridges Claude Code with an on-premise Azure DevOps Server / TFS collection, enabling work item and Git operations via PAT authentication.",
+  "source_repo": "abdulrahman-nabil99/azure-devops-tfs-mcp-server",
+  "source_url": "https://github.com/abdulrahman-nabil99/azure-devops-tfs-mcp-server",
+  "install": "npx -y azure-devops-tfs-mcp-server"
+}

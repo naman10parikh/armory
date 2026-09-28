@@ -1,0 +1,7 @@
+{
+  "name": "weathersafetyos-mcp",
+  "description": "Provides personalized weather safety alerts and actions based on location, occupation, and age using real-time Korea Meteorological Administration data.",
+  "source_repo": "bb4rjfl/weathersafetyos-mcp",
+  "source_url": "https://github.com/bb4rjfl/weathersafetyos-mcp",
+  "install": "npx -y weathersafetyos-mcp"
+}

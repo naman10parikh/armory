@@ -1,0 +1,7 @@
+{
+  "name": "mcps-for-macos",
+  "description": "A collection of small MCP servers for macOS automation that expose Apple Mail, MoneyMoney, and Spotlight functionality as tools via AppleScript and command-line, enabling AI applications to search mail, manage contacts and transactions, and perform system-wide file searches through natural language.",
+  "source_repo": "shaack/mcps-for-macos",
+  "source_url": "https://github.com/shaack/mcps-for-macos",
+  "install": "# git clone --depth 1 https://github.com/shaack/mcps-for-macos\n# See source for mcpServers config block"
+}

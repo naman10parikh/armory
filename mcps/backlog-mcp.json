@@ -1,0 +1,7 @@
+{
+  "name": "backlog-mcp",
+  "description": "An MCP server providing AI agents with read access to Backlog issues, comments, and attachments via API Key authentication.",
+  "source_repo": "cuongph-dev-work/backlog_mcp",
+  "source_url": "https://github.com/cuongph-dev-work/backlog_mcp",
+  "install": "npx -y backlog_mcp"
+}

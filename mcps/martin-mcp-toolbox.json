@@ -1,0 +1,7 @@
+{
+  "name": "martin-mcp-toolbox",
+  "description": "A multi-modal AI toolbox based on Model Context Protocol, integrating Zhipu GLM, Pollinations.AI, SiYuan Notes, and Perplexity web search to enable image/video analysis, image/text/audio generation, note management, and intelligent web search.",
+  "source_repo": "2234839/mcpserver",
+  "source_url": "https://github.com/2234839/mcpserver",
+  "install": "# git clone --depth 1 https://github.com/2234839/mcpserver\n# See source for mcpServers config block"
+}

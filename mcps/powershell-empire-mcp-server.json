@@ -1,0 +1,7 @@
+{
+  "name": "powershell-empire-mcp-server",
+  "description": "Enables AI assistants to manage Empire listeners, stagers, agents, modules, and credentials via the Empire REST API.",
+  "source_repo": "schwarztim/sec-powershell-empire-mcp",
+  "source_url": "https://github.com/schwarztim/sec-powershell-empire-mcp",
+  "install": "npx -y sec-powershell-empire-mcp"
+}

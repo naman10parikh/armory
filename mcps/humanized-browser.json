@@ -1,0 +1,7 @@
+{
+  "name": "humanized-browser",
+  "description": "This MCP server enables natural, humanized control of a real Chrome browser from Cursor agents, simulating natural mouse paths, typing cadence, and scroll pauses for click, type, scroll, and navigate actions via a Chrome extension.",
+  "source_repo": "stoneliving/Humanized-Browser",
+  "source_url": "https://github.com/stoneliving/Humanized-Browser",
+  "install": "# git clone --depth 1 https://github.com/stoneliving/Humanized-Browser\n# See source for mcpServers config block"
+}

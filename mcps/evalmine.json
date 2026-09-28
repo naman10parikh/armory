@@ -1,0 +1,7 @@
+{
+  "name": "evalmine",
+  "description": "Enables agents to run evals mid-task, providing tools to validate suites, execute model comparisons, and inspect calibration and win-rate reports.",
+  "source_repo": "hishamalward/evalmine",
+  "source_url": "https://github.com/hishamalward/evalmine",
+  "install": "# git clone --depth 1 https://github.com/hishamalward/evalmine\n# See source for mcpServers config block"
+}

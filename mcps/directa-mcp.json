@@ -1,0 +1,7 @@
+{
+  "name": "directa-mcp",
+  "description": "MCP server that connects Claude to Directa's Darwin trading API, enabling local account management, portfolio views, and order operations through natural language.",
+  "source_repo": "simoneb/directa-mcp",
+  "source_url": "https://github.com/simoneb/directa-mcp",
+  "install": "npx -y directa-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lineageverse-mcp",
+  "description": "MCP server for single-cell lineage tracing analysis, enabling conversational reconstruction, visualization, and heritability analysis of lineage trees using Cassiopeia, pycea, and treedata.",
+  "source_repo": "colganwi/lineageverse-mcp",
+  "source_url": "https://github.com/colganwi/lineageverse-mcp",
+  "install": "npx -y lineageverse-mcp"
+}

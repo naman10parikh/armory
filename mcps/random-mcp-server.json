@@ -1,0 +1,7 @@
+{
+  "name": "random-mcp-server",
+  "description": "An MCP server that returns random JSON things — people, words, values, coordinates, and an always-empty list.",
+  "source_repo": "mitchallen/random-mcp-server",
+  "source_url": "https://github.com/mitchallen/random-mcp-server",
+  "install": "npx -y random-mcp-server"
+}

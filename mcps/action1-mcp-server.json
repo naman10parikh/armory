@@ -1,0 +1,7 @@
+{
+  "name": "action1-mcp-server",
+  "description": "A production-grade MCP server that wraps the entire Action1 REST API, enabling Claude or any MCP host to manage endpoints, run scripts, deploy updates, and more via natural language with safety guards.",
+  "source_repo": "mguttmann/action1-mcp",
+  "source_url": "https://github.com/mguttmann/action1-mcp",
+  "install": "npx -y action1-mcp"
+}

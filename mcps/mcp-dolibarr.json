@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dolibarr",
+  "description": "Enables AI assistants to natively interact with Dolibarr ERP/CRM through its REST API, providing over 30 tools for managing customers, contacts, products, quotes, orders, invoices, stock, projects, contracts, interventions, and PDF generation, while supporting complex workflow orchestration and read",
+  "source_repo": "Houmamba1/mcp-dolibarr",
+  "source_url": "https://github.com/Houmamba1/mcp-dolibarr",
+  "install": "# git clone --depth 1 https://github.com/Houmamba1/mcp-dolibarr\n# See source for mcpServers config block"
+}

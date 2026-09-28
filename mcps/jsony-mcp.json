@@ -1,0 +1,7 @@
+{
+  "name": "jsony-mcp",
+  "description": "Enables AI assistants to read, write, query, and manage JSON data files with automatic ID and timestamp generation.",
+  "source_repo": "vcosmin2701/jsony-mcp",
+  "source_url": "https://github.com/vcosmin2701/jsony-mcp",
+  "install": "npx -y jsony-mcp"
+}

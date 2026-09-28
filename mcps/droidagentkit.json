@@ -1,0 +1,7 @@
+{
+  "name": "droidagentkit",
+  "description": "MCP server that provides AI coding agents real Android development tools—Gradle, adb, logcat, lint, crash triage—through a local, permissioned interface. Enables agents to inspect projects, run safe Gradle tasks, capture logs/screenshots, and triage crashes.",
+  "source_repo": "iVamsi/droid-agent-kit",
+  "source_url": "https://github.com/iVamsi/droid-agent-kit",
+  "install": "# git clone --depth 1 https://github.com/iVamsi/droid-agent-kit\n# See source for mcpServers config block"
+}

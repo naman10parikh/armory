@@ -1,0 +1,7 @@
+{
+  "name": "clodbridge",
+  "description": "Enables Claude Code to automatically discover and use project-specific rules, skills, and agents defined in the .cursor directory, with live reloading and zero configuration.",
+  "source_repo": "Rethunk-AI/clodbridge",
+  "source_url": "https://github.com/Rethunk-AI/clodbridge",
+  "install": "# git clone --depth 1 https://github.com/Rethunk-AI/clodbridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cisco-network-diagrams-mcp-server",
+  "description": "Enables LLMs to search and retrieve official Cisco network diagram icons as RGB PNG images, with metadata and category listing tools for building topology diagrams.",
+  "source_repo": "GUIPETAV/cisco-network-diagrams-mcp-server",
+  "source_url": "https://github.com/GUIPETAV/cisco-network-diagrams-mcp-server",
+  "install": "npx -y cisco-network-diagrams-mcp-server"
+}

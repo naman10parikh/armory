@@ -1,0 +1,7 @@
+{
+  "name": "regressguard",
+  "description": "RegressGuard is an MCP server that records a known-good baseline and lets AI coding agents detect regressions (broken API contracts, failing tests, schema changes) during their edit loop, allowing them to self-correct before committing.",
+  "source_repo": "Bharath-code/regressGuard",
+  "source_url": "https://github.com/Bharath-code/regressGuard",
+  "install": "# git clone --depth 1 https://github.com/Bharath-code/regressGuard\n# See source for mcpServers config block"
+}

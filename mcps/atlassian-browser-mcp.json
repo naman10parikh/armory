@@ -1,0 +1,7 @@
+{
+  "name": "atlassian-browser-mcp",
+  "description": "MCP server that enables accessing Jira and Confluence using browser cookies captured via a Chrome extension, avoiding the need for API tokens or browser automation. It wraps the mcp-atlassian toolset and works with Atlassian Cloud and Server/Data Center behind SSO.",
+  "source_repo": "tinyc0der/atlassian-cookie-mcp",
+  "source_url": "https://github.com/tinyc0der/atlassian-cookie-mcp",
+  "install": "npx -y atlassian-cookie-mcp"
+}

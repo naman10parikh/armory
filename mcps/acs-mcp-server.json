@@ -1,0 +1,7 @@
+{
+  "name": "acs-mcp-server",
+  "description": "Enables remote management of TR-069 ACS (Auto Configuration Server) via SSH, including device management, configuration deployment, script execution, and server lifecycle control.",
+  "source_repo": "haode01/acs-mcp-server",
+  "source_url": "https://github.com/haode01/acs-mcp-server",
+  "install": "npx -y acs-mcp-server"
+}

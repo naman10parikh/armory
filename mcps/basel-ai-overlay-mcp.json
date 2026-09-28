@@ -1,0 +1,7 @@
+{
+  "name": "basel-ai-overlay-mcp",
+  "description": "Basel III + SR 11-7 + ECB TRIM AI/ML model risk MCP for banks, with EU AI Act compliance built-in.",
+  "source_repo": "CSOAI-ORG/basel-ai-overlay-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/basel-ai-overlay-mcp",
+  "install": "npx -y basel-ai-overlay-mcp"
+}

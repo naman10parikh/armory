@@ -1,0 +1,7 @@
+{
+  "name": "curve-mcp",
+  "description": "Provides agent-ready access to Curve's DeFi protocol via MCP, with hosted, free, and no-auth endpoints that map to real Curve API endpoints.",
+  "source_repo": "junct-bot/curve-mcp",
+  "source_url": "https://github.com/junct-bot/curve-mcp",
+  "install": "npx -y curve-mcp"
+}

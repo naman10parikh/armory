@@ -1,0 +1,7 @@
+{
+  "name": "mal-mcp-worker",
+  "description": "Enables querying MyAnimeList data (anime search, rankings, seasonal anime, user lists) via natural language through the Model Context Protocol.",
+  "source_repo": "Leander-Andersen/mal-mcp-worker",
+  "source_url": "https://github.com/Leander-Andersen/mal-mcp-worker",
+  "install": "# git clone --depth 1 https://github.com/Leander-Andersen/mal-mcp-worker\n# See source for mcpServers config block"
+}

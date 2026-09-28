@@ -1,0 +1,7 @@
+{
+  "name": "dropsuite-mcp",
+  "description": "MCP server for Dropsuite (NinjaOne SaaS Backup) that exposes read-only GET endpoints to list backup accounts, users, contacts, calendars, tasks, OneDrives, SharePoint domains, and Teams/Groups domains via reseller API tokens.",
+  "source_repo": "MSPbotsAI/dropsuite-mcp",
+  "source_url": "https://github.com/MSPbotsAI/dropsuite-mcp",
+  "install": "npx -y dropsuite-mcp"
+}

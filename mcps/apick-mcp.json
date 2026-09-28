@@ -1,0 +1,7 @@
+{
+  "name": "apick-mcp",
+  "description": "Enables access to 82 Korean data and AI tools through MCP, including business registry lookup, ID document verification, parcel tracking, OCR, file conversion, web/image intelligence, and LLM calls, all billed per call from a single APICK key.",
+  "source_repo": "lead788/apick-mcp",
+  "source_url": "https://github.com/lead788/apick-mcp",
+  "install": "npx -y apick-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kimi-webbridge-mcp",
+  "description": "MCP server that connects Kimi WebBridge to agents, enabling real-browser automation with ~28 wb_* tools while reusing your logged-in browser profile.",
+  "source_repo": "Nimm0ny/kimi-webbridge-mcp",
+  "source_url": "https://github.com/Nimm0ny/kimi-webbridge-mcp",
+  "install": "npx -y kimi-webbridge-mcp"
+}

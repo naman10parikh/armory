@@ -1,0 +1,7 @@
+{
+  "name": "storepilot",
+  "description": "StorePilot is an MCP server that unifies app portfolio management across Google Play and App Store Connect, with tools for installs, earnings, reviews, cross-store parity, and gated releases.",
+  "source_repo": "sonlenef/storepilot-mcp",
+  "source_url": "https://github.com/sonlenef/storepilot-mcp",
+  "install": "npx -y storepilot-mcp"
+}

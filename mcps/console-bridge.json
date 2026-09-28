@@ -1,0 +1,7 @@
+{
+  "name": "console-bridge",
+  "description": "Captures and queries browser console logs from all tabs, enabling AI assistants to debug web applications with search, filtering, and custom debugging playbooks.",
+  "source_repo": "vltansky/console-bridge-mcp",
+  "source_url": "https://github.com/vltansky/console-bridge-mcp",
+  "install": "npx -y console-bridge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wp-mcp",
+  "description": "Connects WordPress sites to AI agents, enabling content management through natural language commands via the WordPress REST API.",
+  "source_repo": "Adi-ty/wp-mcp",
+  "source_url": "https://github.com/Adi-ty/wp-mcp",
+  "install": "npx -y wp-mcp"
+}

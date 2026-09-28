@@ -1,0 +1,7 @@
+{
+  "name": "fusion-svg-mcp",
+  "description": "MCP server that generates Disler-style fusion-harness README diagrams with dark GitHub chrome, monospace type, role colors, and CSS flow animations.",
+  "source_repo": "oteroantoniogom/fusion-svg-mcp",
+  "source_url": "https://github.com/oteroantoniogom/fusion-svg-mcp",
+  "install": "npx -y fusion-svg-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bash-command-mcp",
+  "description": "Enables executing bash commands with foreground/background support, timeouts, environment control, and OpenTelemetry observability.",
+  "source_repo": "mrorigo/bash-command-mcp",
+  "source_url": "https://github.com/mrorigo/bash-command-mcp",
+  "install": "npx -y bash-command-mcp"
+}

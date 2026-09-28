@@ -1,0 +1,7 @@
+{
+  "name": "granola-local-archive",
+  "description": "MCP server that exposes local Granola meeting notes, summaries, and transcripts to AI assistants via SQLite-backed search and retrieval.",
+  "source_repo": "gdebenedetti/granola-local-archive",
+  "source_url": "https://github.com/gdebenedetti/granola-local-archive",
+  "install": "# git clone --depth 1 https://github.com/gdebenedetti/granola-local-archive\n# See source for mcpServers config block"
+}

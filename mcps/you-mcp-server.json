@@ -1,0 +1,7 @@
+{
+  "name": "you-mcp-server",
+  "description": "Enables deep research and web search via You.com API from any MCP client, with research results saved as markdown files.",
+  "source_repo": "joni911/you-mcp-server",
+  "source_url": "https://github.com/joni911/you-mcp-server",
+  "install": "npx -y you-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pumble-mcp",
+  "description": "A standalone MCP server providing AI agents with full access to the Pumble messaging platform via OAuth2 and the Pumble SDK, including messaging, files, channels, search, scheduling, and real-time events.",
+  "source_repo": "nitindermohan/pumble-mcp",
+  "source_url": "https://github.com/nitindermohan/pumble-mcp",
+  "install": "npx -y pumble-mcp"
+}

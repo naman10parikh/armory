@@ -1,0 +1,7 @@
+{
+  "name": "mnema",
+  "description": "Provides a file-first personal memory layer for AI agents, enabling them to store and retrieve memories as markdown files with an SQLite index. The MCP server offers read-only search by default, with optional write tools for manual memory addition and conflict resolution.",
+  "source_repo": "Ray0907/mnema",
+  "source_url": "https://github.com/Ray0907/mnema",
+  "install": "# git clone --depth 1 https://github.com/Ray0907/mnema\n# See source for mcpServers config block"
+}

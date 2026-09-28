@@ -1,0 +1,7 @@
+{
+  "name": "tiledmcp",
+  "description": "A security-first Tilemap MCP server for Tiled Map Editor, enabling safe inspection, creation, editing, validation, and preview of Tiled assets, with support for reading/writing TMJ/TSJ, programmatic generation, and visual previews.",
+  "source_repo": "PengLx/TiledMCP",
+  "source_url": "https://github.com/PengLx/TiledMCP",
+  "install": "# git clone --depth 1 https://github.com/PengLx/TiledMCP\n# See source for mcpServers config block"
+}

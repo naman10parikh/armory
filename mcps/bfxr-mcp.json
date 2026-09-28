@@ -1,0 +1,7 @@
+{
+  "name": "bfxr-mcp",
+  "description": "MCP server for generating retro game sound effects using Bfxr synthesis. It provides tools to create, mutate, and load sound parameters, with output saved as WAV files and optional permalinks.",
+  "source_repo": "zaynabed/bfxr-mcp",
+  "source_url": "https://github.com/zaynabed/bfxr-mcp",
+  "install": "npx -y bfxr-mcp"
+}

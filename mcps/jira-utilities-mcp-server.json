@@ -1,0 +1,7 @@
+{
+  "name": "jira-utilities-mcp-server",
+  "description": "Provides JIRA issue management and automation through MCP tools and standalone scripts, enabling reading, searching, analyzing, and modifying issues with batch processing and OCR capabilities.",
+  "source_repo": "celigo/jira-utilities-mcp-server",
+  "source_url": "https://github.com/celigo/jira-utilities-mcp-server",
+  "install": "npx -y jira-utilities-mcp-server"
+}

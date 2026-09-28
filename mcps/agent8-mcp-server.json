@@ -1,0 +1,7 @@
+{
+  "name": "agent8-mcp-server",
+  "description": "Provides tools for searching Agent8 game development code examples and system prompts to assist in Agent8 SDK development.",
+  "source_repo": "longfin/mcp-agent8-o",
+  "source_url": "https://github.com/longfin/mcp-agent8-o",
+  "install": "# git clone --depth 1 https://github.com/longfin/mcp-agent8-o\n# See source for mcpServers config block"
+}

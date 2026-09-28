@@ -1,0 +1,7 @@
+{
+  "name": "tabduct",
+  "description": "Enables CLI coding agents to interact with your live browser tabs via MCP, using your real sessions and cookies without a sandbox.",
+  "source_repo": "ultrathinker/tabduct",
+  "source_url": "https://github.com/ultrathinker/tabduct",
+  "install": "# git clone --depth 1 https://github.com/ultrathinker/tabduct\n# See source for mcpServers config block"
+}

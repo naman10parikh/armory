@@ -1,0 +1,7 @@
+{
+  "name": "savvly-mcp",
+  "description": "MCP server for the SEC-registered Savvly Longevity Benefit Fund: product info, Savvly-vs-alternative comparisons, eligibility checks, an audience-tagged Q\\&A library, and retirement / lump-sum / monthly projections that render inline MCP Apps chart widgets. Hosted remote plus npm/PyPI/NuGet/OCI/MCPB",
+  "source_repo": "Savvly/savvly-mcp",
+  "source_url": "https://github.com/Savvly/savvly-mcp",
+  "install": "npx -y savvly-mcp"
+}

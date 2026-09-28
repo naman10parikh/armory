@@ -1,0 +1,7 @@
+{
+  "name": "easydocforms-mcp",
+  "description": "An MCP server for healthcare intake forms that lets AI agents import blank PDFs, create patient fill links, and retrieve completed PDFs while keeping PHI out of the model context.",
+  "source_repo": "easydocforms/easydocforms-mcp",
+  "source_url": "https://github.com/easydocforms/easydocforms-mcp",
+  "install": "npx -y easydocforms-mcp"
+}

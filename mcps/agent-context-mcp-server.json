@@ -1,0 +1,7 @@
+{
+  "name": "agent-context-mcp-server",
+  "description": "Tracks working context and code structure in a portable local SQLite database, enabling seamless context and task continuity across different AI coding tools.",
+  "source_repo": "Arunavo-ProjectIdea/Agent-Context-MCP-Server",
+  "source_url": "https://github.com/Arunavo-ProjectIdea/Agent-Context-MCP-Server",
+  "install": "npx -y Agent-Context-MCP-Server"
+}

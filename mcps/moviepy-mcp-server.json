@@ -1,0 +1,7 @@
+{
+  "name": "moviepy-mcp-server",
+  "description": "An LLM-friendly Model Context Protocol server for video and audio editing, built on MoviePy v2 and FastMCP. It lets MCP clients trim, merge, resize, overlay, mix audio, and render video through natural language.",
+  "source_repo": "vive1101011/moviepy-mcp",
+  "source_url": "https://github.com/vive1101011/moviepy-mcp",
+  "install": "npx -y moviepy-mcp"
+}

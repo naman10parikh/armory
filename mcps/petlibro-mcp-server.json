@@ -1,0 +1,7 @@
+{
+  "name": "petlibro-mcp-server",
+  "description": "Enables Claude to control PetLibro RFID pet feeders and water fountains by checking food/battery/water status, dispensing food by the cup, and force-opening feeder lids via the PetLibro cloud API.",
+  "source_repo": "scarter4work/petlibro-mcp-server",
+  "source_url": "https://github.com/scarter4work/petlibro-mcp-server",
+  "install": "npx -y petlibro-mcp-server"
+}

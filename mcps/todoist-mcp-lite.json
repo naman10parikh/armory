@@ -1,0 +1,7 @@
+{
+  "name": "todoist-mcp-lite",
+  "description": "Minimal Todoist MCP server that provides direct passthrough to the Todoist REST API v2, supporting all HTTP methods via a single tool.",
+  "source_repo": "sjalq/todoist-mcp-lite",
+  "source_url": "https://github.com/sjalq/todoist-mcp-lite",
+  "install": "# git clone --depth 1 https://github.com/sjalq/todoist-mcp-lite\n# See source for mcpServers config block"
+}

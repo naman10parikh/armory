@@ -1,0 +1,7 @@
+{
+  "name": "fileagent",
+  "description": "Provides an FTP-like shared virtual filesystem for AI agents with SHA-256 integrity verification, metadata extraction, and access-hash based channels.",
+  "source_repo": "naubergois/FileAgent",
+  "source_url": "https://github.com/naubergois/FileAgent",
+  "install": "# git clone --depth 1 https://github.com/naubergois/FileAgent\n# See source for mcpServers config block"
+}

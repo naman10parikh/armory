@@ -1,0 +1,7 @@
+{
+  "name": "devmatch",
+  "description": "DevMatch is an MCP server for hiring engineers based on what they've actually built. Connect from Cursor, Claude Desktop, or any MCP-compatible AI assistant and search 35M+ developers ranked by verified open-source contributions — not LinkedIn keywords or self-reported skills. **Three tools:** **`fi",
+  "source_repo": "",
+  "source_url": "https://dev-match.xyz/",
+  "install": "# git clone --depth 1 https://dev-match.xyz/\n# See source for mcpServers config block"
+}

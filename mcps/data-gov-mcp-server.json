@@ -1,0 +1,7 @@
+{
+  "name": "data-gov-mcp-server",
+  "description": "Read-only access to approved federal APIs using the data.gov API gateway. Provides tools to call federal APIs and retrieve rate limit information.",
+  "source_repo": "MSPFE2019/data-gov-mcp",
+  "source_url": "https://github.com/MSPFE2019/data-gov-mcp",
+  "install": "npx -y data-gov-mcp"
+}

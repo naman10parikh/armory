@@ -1,0 +1,7 @@
+{
+  "name": "booqable-mcp-server",
+  "description": "This server allows AI assistants to interact directly with your Booqable rental management system, providing tools to manage inventory, orders, and more.",
+  "source_repo": "Themetralla3000/booqable-mcp-server",
+  "source_url": "https://github.com/Themetralla3000/booqable-mcp-server",
+  "install": "npx -y booqable-mcp-server"
+}

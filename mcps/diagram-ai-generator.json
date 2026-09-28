@@ -1,0 +1,7 @@
+{
+  "name": "diagram-ai-generator",
+  "description": "Professional AI-powered architecture diagram generator with multi-cloud support and MCP server integration. Generates beautiful, accurate diagrams with provider-specific icons for AWS, Azure, GCP, Kubernetes, and more.",
+  "source_repo": "carlosmgv02/diagram-ai-generator",
+  "source_url": "https://github.com/carlosmgv02/diagram-ai-generator",
+  "install": "# git clone --depth 1 https://github.com/carlosmgv02/diagram-ai-generator\n# See source for mcpServers config block"
+}

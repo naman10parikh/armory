@@ -1,0 +1,7 @@
+{
+  "name": "glintefy",
+  "description": "Provides comprehensive code quality analysis and automated fixing, available as a CLI and MCP server (currently in early beta with MCP part untested).",
+  "source_repo": "bitranox/glintefy",
+  "source_url": "https://github.com/bitranox/glintefy",
+  "install": "# git clone --depth 1 https://github.com/bitranox/glintefy\n# See source for mcpServers config block"
+}

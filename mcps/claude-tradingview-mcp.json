@@ -1,0 +1,7 @@
+{
+  "name": "claude-tradingview-mcp",
+  "description": "An MCP server that lets Claude analyze your TradingView charts by reading the window and taking screenshots, with no write tools or trade execution.",
+  "source_repo": "hmatrades/claude-tradingview-mcp",
+  "source_url": "https://github.com/hmatrades/claude-tradingview-mcp",
+  "install": "npx -y claude-tradingview-mcp"
+}

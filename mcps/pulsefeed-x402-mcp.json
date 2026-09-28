@@ -1,0 +1,7 @@
+{
+  "name": "pulsefeed-x402-mcp",
+  "description": "Before an AI agent pays an x402 endpoint, checks whether it's safe to pay: liveness, scam/anomaly scan (payTo hijack, bait-and-switch, honeypot), and on-chain receiver verification. ~70% of x402 endpoints are dead or scams.",
+  "source_repo": "Nikolife2016/pulsefeed-x402",
+  "source_url": "https://github.com/Nikolife2016/pulsefeed-x402",
+  "install": "# git clone --depth 1 https://github.com/Nikolife2016/pulsefeed-x402\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-connector",
+  "description": "A local MCP connector that lets Claude read, write and search any Obsidian vault directly from disk.",
+  "source_repo": "noragami90/obsidian-connector",
+  "source_url": "https://github.com/noragami90/obsidian-connector",
+  "install": "# git clone --depth 1 https://github.com/noragami90/obsidian-connector\n# See source for mcpServers config block"
+}

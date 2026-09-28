@@ -1,0 +1,7 @@
+{
+  "name": "ecommerce-3d-mcp",
+  "description": "Enables AI assistants to generate 3D product viewers, AR try-on experiences, Shopify integrations, and SEO metadata for e-commerce stores.",
+  "source_repo": "sceneview-tools/ecommerce-3d-mcp",
+  "source_url": "https://github.com/sceneview-tools/ecommerce-3d-mcp",
+  "install": "npx -y ecommerce-3d-mcp"
+}

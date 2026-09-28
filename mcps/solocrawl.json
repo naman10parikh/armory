@@ -1,0 +1,7 @@
+{
+  "name": "solocrawl",
+  "description": "Enables web search, scraping, and live package version lookup for local LLMs, with no API keys required.",
+  "source_repo": "hlavacm/solocrawl",
+  "source_url": "https://github.com/hlavacm/solocrawl",
+  "install": "# git clone --depth 1 https://github.com/hlavacm/solocrawl\n# See source for mcpServers config block"
+}

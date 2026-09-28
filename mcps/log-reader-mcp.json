@@ -1,0 +1,7 @@
+{
+  "name": "log-reader-mcp",
+  "description": "MCP server to start, monitor, search, and detect errors in logs from any project, even those without log files.",
+  "source_repo": "ankit-jhajhria/log-reader-mcp",
+  "source_url": "https://github.com/ankit-jhajhria/log-reader-mcp",
+  "install": "npx -y log-reader-mcp"
+}

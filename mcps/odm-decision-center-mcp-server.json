@@ -1,0 +1,7 @@
+{
+  "name": "odm-decision-center-mcp-server",
+  "description": "Enables AI assistants to interact with IBM ODM Decision Center for managing business rules, decision tables, ruleflows, and project generation.",
+  "source_repo": "rafamarques82/odm-dc-mcpserver",
+  "source_url": "https://github.com/rafamarques82/odm-dc-mcpserver",
+  "install": "# git clone --depth 1 https://github.com/rafamarques82/odm-dc-mcpserver\n# See source for mcpServers config block"
+}

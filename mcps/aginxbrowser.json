@@ -1,0 +1,7 @@
+{
+  "name": "aginxbrowser",
+  "description": "Server-side browser engine for agents.",
+  "source_repo": "yinnho/aginxbrowser",
+  "source_url": "https://github.com/yinnho/aginxbrowser",
+  "install": "# git clone --depth 1 https://github.com/yinnho/aginxbrowser\n# See source for mcpServers config block"
+}

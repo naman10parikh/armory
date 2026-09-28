@@ -1,0 +1,7 @@
+{
+  "name": "scribo-mcp-server",
+  "description": "Enables AI agents to create and manage e-invoices through natural language, supporting EU compliance formats like ZUGFeRD and XRechnung, as well as US plain PDF invoices.",
+  "source_repo": "causa-prima-ai/scribo-mcp",
+  "source_url": "https://github.com/causa-prima-ai/scribo-mcp",
+  "install": "npx -y scribo-mcp"
+}

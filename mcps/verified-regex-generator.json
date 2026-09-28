@@ -1,0 +1,7 @@
+{
+  "name": "verified-regex-generator",
+  "description": "Lets users generate regex patterns from plain-English descriptions, then verifies them with Python's real re engine against generated positive and negative test strings, iterating on failures until they pass. It exposes this as a tool callable from MCP clients such as Claude Desktop or Claude Code.",
+  "source_repo": "zeelShah-12/verified-regex-generator",
+  "source_url": "https://github.com/zeelShah-12/verified-regex-generator",
+  "install": "# git clone --depth 1 https://github.com/zeelShah-12/verified-regex-generator\n# See source for mcpServers config block"
+}

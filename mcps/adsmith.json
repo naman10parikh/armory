@@ -1,0 +1,7 @@
+{
+  "name": "adsmith",
+  "description": "A Google Ads MCP server that enables safe, auditable management of ad accounts through natural language, including proposing, reviewing, applying, and rolling back changes with guardrails and dry-runs.",
+  "source_repo": "sujayrittikar/adsmith",
+  "source_url": "https://github.com/sujayrittikar/adsmith",
+  "install": "# git clone --depth 1 https://github.com/sujayrittikar/adsmith\n# See source for mcpServers config block"
+}

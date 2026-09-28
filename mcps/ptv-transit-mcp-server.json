@@ -1,0 +1,7 @@
+{
+  "name": "ptv-transit-mcp-server",
+  "description": "Exposes Victoria's public transport (PTV) GTFS timetable data as MCP tools, allowing LLMs to answer natural-language questions about routes, stops, and departure times.",
+  "source_repo": "MananshuMandaliya/ptv-mcp-server",
+  "source_url": "https://github.com/MananshuMandaliya/ptv-mcp-server",
+  "install": "npx -y ptv-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "threadwork",
+  "description": "A multi-agent collaboration tool for Claude Code that supports hot-swappable role YAML, persistent memory with SQLite and FTS5, and step-level replay in a single-file HTML viewer.",
+  "source_repo": "TianqBu/threadwork",
+  "source_url": "https://github.com/TianqBu/threadwork",
+  "install": "# git clone --depth 1 https://github.com/TianqBu/threadwork\n# See source for mcpServers config block"
+}

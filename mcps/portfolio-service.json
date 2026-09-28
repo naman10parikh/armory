@@ -1,0 +1,7 @@
+{
+  "name": "portfolio-service",
+  "description": "Integrates Interactive Brokers and TradeStation APIs for portfolio management, market data, and trading operations, with TradingView market scanning.",
+  "source_repo": "TingyuJiang/itay1542_brokers-mcp",
+  "source_url": "https://github.com/TingyuJiang/itay1542_brokers-mcp",
+  "install": "npx -y itay1542_brokers-mcp"
+}

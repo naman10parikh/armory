@@ -1,0 +1,7 @@
+{
+  "name": "context-mode",
+  "description": "Context Mode is an MCP server that reduces context window waste by sandboxing data-heavy tools, tracking session state in SQLite, and promoting code-based analysis over raw data reads, achieving up to 98% context savings.",
+  "source_repo": "Everflow-Utilities/context-mode",
+  "source_url": "https://github.com/Everflow-Utilities/context-mode",
+  "install": "# git clone --depth 1 https://github.com/Everflow-Utilities/context-mode\n# See source for mcpServers config block"
+}

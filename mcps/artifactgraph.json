@@ -1,0 +1,7 @@
+{
+  "name": "artifactgraph",
+  "description": "Enables local-first analysis of platform specifications against registries, identifying gaps and generating allowlisted code for Cursor and CLI workflows.",
+  "source_repo": "raintr91/artifactgraph",
+  "source_url": "https://github.com/raintr91/artifactgraph",
+  "install": "# git clone --depth 1 https://github.com/raintr91/artifactgraph\n# See source for mcpServers config block"
+}

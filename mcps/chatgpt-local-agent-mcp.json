@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-local-agent-mcp",
+  "description": "This MCP server gives ChatGPT controlled access to your Windows PC, enabling it to inspect files, run commands, apply patches, and interact with the desktop under your supervision.",
+  "source_repo": "XxYouDeaDPunKxX/chatgpt-local-agent-mcp",
+  "source_url": "https://github.com/XxYouDeaDPunKxX/chatgpt-local-agent-mcp",
+  "install": "npx -y chatgpt-local-agent-mcp"
+}

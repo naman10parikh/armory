@@ -1,0 +1,7 @@
+{
+  "name": "teacherassist-mcp",
+  "description": "AI-powered Teacher Assistance MCP Server for managing student records with PostgreSQL, enabling create and read operations via MCP tools.",
+  "source_repo": "monirul8888/TeacherAssist-MCP",
+  "source_url": "https://github.com/monirul8888/TeacherAssist-MCP",
+  "install": "npx -y TeacherAssist-MCP"
+}

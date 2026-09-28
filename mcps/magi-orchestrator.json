@@ -1,0 +1,7 @@
+{
+  "name": "magi-orchestrator",
+  "description": "A task-based AI orchestrator that bridges AI models (Gemini, Claude, OpenAI) with local environments, operating as an interactive CLI and an MCP server for structured autonomous development.",
+  "source_repo": "reaper1067MSX/MAGI",
+  "source_url": "https://github.com/reaper1067MSX/MAGI",
+  "install": "# git clone --depth 1 https://github.com/reaper1067MSX/MAGI\n# See source for mcpServers config block"
+}

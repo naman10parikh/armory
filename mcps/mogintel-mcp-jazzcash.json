@@ -1,0 +1,7 @@
+{
+  "name": "mogintel-mcp-jazzcash",
+  "description": "MCP server wrapping JazzCash payment provider APIs. Enables interaction with JazzCash services through natural language.",
+  "source_repo": "MogIntel/mcp-jazzcash",
+  "source_url": "https://github.com/MogIntel/mcp-jazzcash",
+  "install": "# git clone --depth 1 https://github.com/MogIntel/mcp-jazzcash\n# See source for mcpServers config block"
+}

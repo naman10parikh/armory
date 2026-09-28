@@ -1,0 +1,7 @@
+{
+  "name": "xrad",
+  "description": "Provides an MCP server for storing and querying knowledge as verifiable claims, enforcing evidence-backed assertions with exact quotes and refusing paraphrases or unsupported relations.",
+  "source_repo": "narimannemo/xrad",
+  "source_url": "https://github.com/narimannemo/xrad",
+  "install": "# git clone --depth 1 https://github.com/narimannemo/xrad\n# See source for mcpServers config block"
+}

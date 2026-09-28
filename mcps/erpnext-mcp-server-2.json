@@ -1,0 +1,7 @@
+{
+  "name": "erpnext-mcp-server-2",
+  "description": "MCP server for ERPNext that provides full CRUD operations, workflow management, custom fields, and DocType management.",
+  "source_repo": "Kai-Oesterling/erpnext-mcp-server",
+  "source_url": "https://github.com/Kai-Oesterling/erpnext-mcp-server",
+  "install": "npx -y erpnext-mcp-server"
+}

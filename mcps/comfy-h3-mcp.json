@@ -1,0 +1,7 @@
+{
+  "name": "comfy-h3-mcp",
+  "description": "Enables MiniMax-H3 video+audio generation on a local ComfyUI via five simple tools, including image/reference-to-video, job polling/cancelling, and asset listing, with stateless prompt_id-based job handling.",
+  "source_repo": "jonpojonpo/comfy-h3-mcp",
+  "source_url": "https://github.com/jonpojonpo/comfy-h3-mcp",
+  "install": "npx -y comfy-h3-mcp"
+}

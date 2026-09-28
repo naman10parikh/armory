@@ -1,0 +1,7 @@
+{
+  "name": "mattergate",
+  "description": "A self-hostable MCP permissions gateway for legal-tech systems that connects legal apps once and exposes only the tools each team member should use, enforcing a thin policy and audit layer over vendor APIs.",
+  "source_repo": "dschnurbusch/mattergate",
+  "source_url": "https://github.com/dschnurbusch/mattergate",
+  "install": "# git clone --depth 1 https://github.com/dschnurbusch/mattergate\n# See source for mcpServers config block"
+}

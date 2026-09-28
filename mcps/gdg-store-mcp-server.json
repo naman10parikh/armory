@@ -1,0 +1,7 @@
+{
+  "name": "gdg-store-mcp-server",
+  "description": "MCP server for the fictional GDG Store, providing tools, resources, and prompts to interact with the store's REST API and enable AI assistants to access product data.",
+  "source_repo": "mkidawa/gdg-mcp-workshop",
+  "source_url": "https://github.com/mkidawa/gdg-mcp-workshop",
+  "install": "# git clone --depth 1 https://github.com/mkidawa/gdg-mcp-workshop\n# See source for mcpServers config block"
+}

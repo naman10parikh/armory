@@ -1,0 +1,7 @@
+{
+  "name": "mercado-financeiro-br",
+  "description": "Provides Brazilian financial market data (stocks, dividends, FIIs, crypto, exchange rates, macro indicators) from B3. Works with any MCP client via HTTP, read-only.",
+  "source_repo": "mcp-dir/mercado-mcp",
+  "source_url": "https://github.com/mcp-dir/mercado-mcp",
+  "install": "npx -y mercado-mcp"
+}

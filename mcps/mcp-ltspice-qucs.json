@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ltspice-qucs",
+  "description": "Enables AI agents to design RF filters and SMPS-EMC from spec using three MCP servers that drive LTspice, Qucs-S, and scikit-rf, with closed-form synthesis, real-component optimization, and CISPR-aware compliance checking.",
+  "source_repo": "RFingAdam/mcp-ltspice-qucs",
+  "source_url": "https://github.com/RFingAdam/mcp-ltspice-qucs",
+  "install": "# git clone --depth 1 https://github.com/RFingAdam/mcp-ltspice-qucs\n# See source for mcpServers config block"
+}

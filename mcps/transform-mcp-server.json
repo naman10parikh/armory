@@ -1,0 +1,7 @@
+{
+  "name": "transform-mcp-server",
+  "description": "Enables dynamic format selection (JSON, Parquet, Arrow IPC) for MCP tool outputs, with a Java Spring Boot server and Python client for agentic data systems.",
+  "source_repo": "shashank524/TransForm",
+  "source_url": "https://github.com/shashank524/TransForm",
+  "install": "# git clone --depth 1 https://github.com/shashank524/TransForm\n# See source for mcpServers config block"
+}

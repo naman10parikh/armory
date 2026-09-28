@@ -1,0 +1,7 @@
+{
+  "name": "fsdb-mcp-server",
+  "description": "An MCP server for reading and querying FSDB waveform files, enabling AI assistants to browse hierarchy, search signals, and extract waveform data with value changes.",
+  "source_repo": "hjxxlogic/fsdb-mcp",
+  "source_url": "https://github.com/hjxxlogic/fsdb-mcp",
+  "install": "npx -y fsdb-mcp"
+}

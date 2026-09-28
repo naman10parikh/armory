@@ -1,0 +1,7 @@
+{
+  "name": "x402-mcp-commerce",
+  "description": "MCP server that gives Claude/GPT agents commerce tools — each tool call pays an upstream x402 endpoint and returns its artifact.",
+  "source_repo": "nirholas/x402-mcp-commerce",
+  "source_url": "https://github.com/nirholas/x402-mcp-commerce",
+  "install": "# git clone --depth 1 https://github.com/nirholas/x402-mcp-commerce\n# See source for mcpServers config block"
+}

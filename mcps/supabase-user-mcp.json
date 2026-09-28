@@ -1,0 +1,7 @@
+{
+  "name": "supabase-user-mcp",
+  "description": "Enables AI agents to interact with application data as a specific user or agent while enforcing PostgreSQL Row Level Security, providing bounded tools for memory search, retrieval, and canonical mutation with an approval workflow.",
+  "source_repo": "jryski/Supabase_user_MCP",
+  "source_url": "https://github.com/jryski/Supabase_user_MCP",
+  "install": "npx -y Supabase_user_MCP"
+}

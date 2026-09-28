@@ -1,0 +1,7 @@
+{
+  "name": "agent-obsidian-mcp",
+  "description": "Local MCP servers for the Agent-Obsidian workflow, providing vault file I/O, todo management, and arXiv paper fetching with zero-dependency single-file Node.js scripts.",
+  "source_repo": "dbko/agent-obsidian-mcp",
+  "source_url": "https://github.com/dbko/agent-obsidian-mcp",
+  "install": "npx -y agent-obsidian-mcp"
+}

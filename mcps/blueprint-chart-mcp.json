@@ -1,0 +1,7 @@
+{
+  "name": "blueprint-chart-mcp",
+  "description": "Enables LLMs to author, validate, and render Blueprint Chart (.bpc) files with structured dataviz pedagogy and a tight parse + render feedback loop.",
+  "source_repo": "blueprint-chart/mcp",
+  "source_url": "https://github.com/blueprint-chart/mcp",
+  "install": "# git clone --depth 1 https://github.com/blueprint-chart/mcp\n# See source for mcpServers config block"
+}

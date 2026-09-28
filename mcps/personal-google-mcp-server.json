@@ -1,0 +1,7 @@
+{
+  "name": "personal-google-mcp-server",
+  "description": "Gives Claude read/write access to your own Gmail, Google Docs, Google Sheets, and Google Tasks via a tiny always-on web service.",
+  "source_repo": "cieszyn/google-mcp-server",
+  "source_url": "https://github.com/cieszyn/google-mcp-server",
+  "install": "npx -y google-mcp-server"
+}

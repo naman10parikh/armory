@@ -1,0 +1,7 @@
+{
+  "name": "leclerc-drive-mcp",
+  "description": "Unofficial MCP and CLI server to read a user's current E.Leclerc Drive catalog through a persistent Camoufox browser session, enabling product search, product and cart reading, and confirmed cart add/remove operations without placing orders or making payments.",
+  "source_repo": "ncleton-petitmaker/leclerc-drive-mcp",
+  "source_url": "https://github.com/ncleton-petitmaker/leclerc-drive-mcp",
+  "install": "npx -y leclerc-drive-mcp"
+}

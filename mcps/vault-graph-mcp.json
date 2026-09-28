@@ -1,0 +1,7 @@
+{
+  "name": "vault-graph-mcp",
+  "description": "Enables AI agents to explore and analyze a markdown vault as a traversable knowledge graph, with tools for searching, traversing, and finding implicit semantic connections between notes.",
+  "source_repo": "ReneRichartz/vault-graph-mcp",
+  "source_url": "https://github.com/ReneRichartz/vault-graph-mcp",
+  "install": "npx -y vault-graph-mcp"
+}

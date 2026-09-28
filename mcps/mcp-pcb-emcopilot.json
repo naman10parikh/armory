@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pcb-emcopilot",
+  "description": "AI-powered PCB design review MCP server with 93 tools for EMC, signal integrity, power integrity, thermal, and DFM analysis, supporting KiCad, ODB++, Gerber, and more, and generating audit-grade DOCX/HTML reports.",
+  "source_repo": "RFingAdam/mcp-pcb-emcopilot",
+  "source_url": "https://github.com/RFingAdam/mcp-pcb-emcopilot",
+  "install": "# git clone --depth 1 https://github.com/RFingAdam/mcp-pcb-emcopilot\n# See source for mcpServers config block"
+}

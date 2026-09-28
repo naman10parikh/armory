@@ -1,0 +1,7 @@
+{
+  "name": "dear-agent",
+  "description": "Automatically maintains a personal journal on behalf of an AI agent, storing text, photos, and voice notes as plain markdown files locally. Enables agents to add entries, recall memories, and reflect on patterns without user intervention.",
+  "source_repo": "BitmapAsset/dear-agent",
+  "source_url": "https://github.com/BitmapAsset/dear-agent",
+  "install": "# git clone --depth 1 https://github.com/BitmapAsset/dear-agent\n# See source for mcpServers config block"
+}

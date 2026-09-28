@@ -1,0 +1,7 @@
+{
+  "name": "packetmaster",
+  "description": "MCP server for network-troubleshooting PCAP analysis via tshark, enabling users to analyze PCAP files, detect anomalies, and troubleshoot network issues.",
+  "source_repo": "Jctechbr/PacketMaster",
+  "source_url": "https://github.com/Jctechbr/PacketMaster",
+  "install": "# git clone --depth 1 https://github.com/Jctechbr/PacketMaster\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "productclank-mcp-server",
+  "description": "Enables AI assistants to launch community growth campaigns, boost posts with real engagement, and manage content campaigns via ProductClank, with OAuth and credit-based billing.",
+  "source_repo": "covariance-network/productclank-mcp-server",
+  "source_url": "https://github.com/covariance-network/productclank-mcp-server",
+  "install": "npx -y productclank-mcp-server"
+}

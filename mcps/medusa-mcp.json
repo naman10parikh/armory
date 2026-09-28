@@ -1,0 +1,7 @@
+{
+  "name": "medusa-mcp",
+  "description": "MCP server for integrating AI agents and automation with Medusa commerce platforms, enabling management of products, orders, and workflows through a scalable backend layer.",
+  "source_repo": "mneema/ai-medusa-mcp-server-integration",
+  "source_url": "https://github.com/mneema/ai-medusa-mcp-server-integration",
+  "install": "# git clone --depth 1 https://github.com/mneema/ai-medusa-mcp-server-integration\n# See source for mcpServers config block"
+}

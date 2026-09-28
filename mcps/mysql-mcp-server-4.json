@@ -1,0 +1,7 @@
+{
+  "name": "mysql-mcp-server-4",
+  "description": "A MySQL MCP server for secure database interaction, enabling schema inspection, query execution, and RBAC via AI coding assistants.",
+  "source_repo": "az-coder-123/mysql-mcp",
+  "source_url": "https://github.com/az-coder-123/mysql-mcp",
+  "install": "npx -y mysql-mcp"
+}

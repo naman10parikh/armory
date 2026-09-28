@@ -1,0 +1,7 @@
+{
+  "name": "tradingview-mcp-review",
+  "description": "A review-only MCP server that provides tools for reviewing trade records against a live TradingView Desktop chart over Chrome DevTools Protocol on localhost.",
+  "source_repo": "F-e-u-e-r/tradingview-mcp",
+  "source_url": "https://github.com/F-e-u-e-r/tradingview-mcp",
+  "install": "npx -y tradingview-mcp"
+}

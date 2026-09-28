@@ -1,0 +1,7 @@
+{
+  "name": "document-systems",
+  "description": "A stateless MCP server for composing, validating, auditing, and rendering consequential documents from a small semantic model.",
+  "source_repo": "bankszach/document-systems",
+  "source_url": "https://github.com/bankszach/document-systems",
+  "install": "# git clone --depth 1 https://github.com/bankszach/document-systems\n# See source for mcpServers config block"
+}

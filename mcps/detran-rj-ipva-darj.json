@@ -1,0 +1,7 @@
+{
+  "name": "detran-rj-ipva-darj",
+  "description": "Enables querying DETRAN RJ IPVA DARJ (vehicle tax) information from official sources via a read-only MCP server, with prepaid per-query credits.",
+  "source_repo": "mcp-dir/sefaz_rj_ipva_darj-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_rj_ipva_darj-mcp",
+  "install": "npx -y sefaz_rj_ipva_darj-mcp"
+}

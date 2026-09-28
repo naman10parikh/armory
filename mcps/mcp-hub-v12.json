@@ -1,0 +1,7 @@
+{
+  "name": "mcp-hub-v12",
+  "description": "A centralized MCP server providing over 40 tools for contextual intelligence, code analysis, vision, and memory management via MemPalace, enabling efficient project development and agent orchestration.",
+  "source_repo": "0xC1pher/MCP-HUB-V11",
+  "source_url": "https://github.com/0xC1pher/MCP-HUB-V11",
+  "install": "# git clone --depth 1 https://github.com/0xC1pher/MCP-HUB-V11\n# See source for mcpServers config block"
+}

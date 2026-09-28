@@ -1,0 +1,7 @@
+{
+  "name": "open-banking-io-mcp-server",
+  "description": "A read-only MCP server for the open-banking.io PSD2 API that lets AI agents query personal bank balances and transactions via natural language, with zero-knowledge encryption ensuring all sensitive data is decrypted in-process and never exposed to third parties.",
+  "source_repo": "open-banking-io/mcp-server",
+  "source_url": "https://github.com/open-banking-io/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/open-banking-io/mcp-server\n# See source for mcpServers config block"
+}

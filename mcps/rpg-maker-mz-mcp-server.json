@@ -1,0 +1,7 @@
+{
+  "name": "rpg-maker-mz-mcp-server",
+  "description": "Enables creating RPG Maker MZ games using natural language through AI assistance, with tools for project management, map creation, event systems, and batch operations.",
+  "source_repo": "Enushin/RPG-Maker-MZ-MCP",
+  "source_url": "https://github.com/Enushin/RPG-Maker-MZ-MCP",
+  "install": "npx -y RPG-Maker-MZ-MCP"
+}

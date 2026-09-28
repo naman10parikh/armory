@@ -1,0 +1,7 @@
+{
+  "name": "chocodata-mcp",
+  "description": "MCP server for the Chocodata web scraping API. Enables agents to scrape live product prices, search results, and social profiles without writing glue code.",
+  "source_repo": "ChocoData-com/chocodata-mcp",
+  "source_url": "https://github.com/ChocoData-com/chocodata-mcp",
+  "install": "npx -y chocodata-mcp"
+}

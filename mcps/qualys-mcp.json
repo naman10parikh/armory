@@ -1,0 +1,7 @@
+{
+  "name": "qualys-mcp",
+  "description": "Enables AI assistants to interact with Qualys security data via 7 workflow tools for vulnerability management, cloud security, containers, compliance, and remediation.",
+  "source_repo": "nelssec/qualys-mcp",
+  "source_url": "https://github.com/nelssec/qualys-mcp",
+  "install": "npx -y qualys-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ppdiary",
+  "description": "Enables AI-assisted diary management through natural language, allowing you to create, read, update, delete, and search diary entries stored locally in SQLite.",
+  "source_repo": "ppworks/ppdiary",
+  "source_url": "https://github.com/ppworks/ppdiary",
+  "install": "# git clone --depth 1 https://github.com/ppworks/ppdiary\n# See source for mcpServers config block"
+}

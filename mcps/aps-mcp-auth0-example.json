@@ -1,0 +1,7 @@
+{
+  "name": "aps-mcp-auth0-example",
+  "description": "Example MCP server for Autodesk Platform Services that demonstrates proper OAuth authorization with Auth0 as the first layer and APS 3-legged OAuth as the second layer. Enables querying APS projects and issues through natural language after authenticating via Auth0 and APS.",
+  "source_repo": "autodesk-platform-services/aps-mcp-auth0-example",
+  "source_url": "https://github.com/autodesk-platform-services/aps-mcp-auth0-example",
+  "install": "# git clone --depth 1 https://github.com/autodesk-platform-services/aps-mcp-auth0-example\n# See source for mcpServers config block"
+}

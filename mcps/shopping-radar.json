@@ -1,0 +1,7 @@
+{
+  "name": "shopping-radar",
+  "description": "Enables Claude to search and analyze product listings from multiple French marketplaces, evaluating price, delivery, and distance to a reference point to find the best value.",
+  "source_repo": "rbenhaga/shopping-radar",
+  "source_url": "https://github.com/rbenhaga/shopping-radar",
+  "install": "# git clone --depth 1 https://github.com/rbenhaga/shopping-radar\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-hungary-payments-mcp",
+  "description": "Enables AI agents to accept payments in Hungary via Stripe hosted checkout (cards, Apple Pay, Google Pay) using remote MCP server.",
+  "source_repo": "junter1989k-ai/hungary-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/hungary-payments-mcp",
+  "install": "npx -y hungary-payments-mcp"
+}

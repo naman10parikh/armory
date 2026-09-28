@@ -1,0 +1,7 @@
+{
+  "name": "outrank-mcp",
+  "description": "MCP server for Outrank that enables AI agents to verify credits, manage website products, queue keyword research, generate SEO articles, and fetch article content.",
+  "source_repo": "NoBanks/outrank-mcp",
+  "source_url": "https://github.com/NoBanks/outrank-mcp",
+  "install": "npx -y outrank-mcp"
+}

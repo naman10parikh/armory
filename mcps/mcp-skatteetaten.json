@@ -1,0 +1,7 @@
+{
+  "name": "mcp-skatteetaten",
+  "description": "Enables AI assistants to query Norwegian tax data, submit reports, look up population register information, and validate VAT returns through Skatteetaten APIs using Maskinporten authentication.",
+  "source_repo": "bambinobino/mcp-skatteetaten",
+  "source_url": "https://github.com/bambinobino/mcp-skatteetaten",
+  "install": "# git clone --depth 1 https://github.com/bambinobino/mcp-skatteetaten\n# See source for mcpServers config block"
+}

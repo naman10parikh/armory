@@ -1,0 +1,7 @@
+{
+  "name": "fantasy-football-draft-assistant",
+  "description": "MCP server that provides fantasy football draft tools including ranked boards, best available, player comparisons, sleeper/bust flags, and ADP market gaps using a calibrated projection model.",
+  "source_repo": "predictionmarketspicks/fantasy-draft-mcp",
+  "source_url": "https://github.com/predictionmarketspicks/fantasy-draft-mcp",
+  "install": "npx -y fantasy-draft-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-telegram-bot-server",
+  "description": "MCP server that gives LLMs access to Telegram Bot API, enabling them to read recent messages and reply to users via persistent local storage and MCP tools.",
+  "source_repo": "M00N77/mcp_telegram",
+  "source_url": "https://github.com/M00N77/mcp_telegram",
+  "install": "# git clone --depth 1 https://github.com/M00N77/mcp_telegram\n# See source for mcpServers config block"
+}

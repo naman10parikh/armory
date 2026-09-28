@@ -1,0 +1,7 @@
+{
+  "name": "es-mcp",
+  "description": "Enables querying Elasticsearch logs from AI assistants using natural language, with optional SSH tunnel support.",
+  "source_repo": "artisan-soohao/es-mcp",
+  "source_url": "https://github.com/artisan-soohao/es-mcp",
+  "install": "npx -y es-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hive-mcp-identity",
+  "description": "W3C DID resolution and agent KYC for autonomous agent counterparties, enabling identity verification and trust scoring.",
+  "source_repo": "srotzin/hive-mcp-identity",
+  "source_url": "https://github.com/srotzin/hive-mcp-identity",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-identity\n# See source for mcpServers config block"
+}

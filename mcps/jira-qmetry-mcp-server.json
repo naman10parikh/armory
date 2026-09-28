@@ -1,0 +1,7 @@
+{
+  "name": "jira-qmetry-mcp-server",
+  "description": "MCP server to interact with the QMetry for Jira API, enabling management of test cases, test cycles, test plans, and more through well-defined tools.",
+  "source_repo": "albertor03/jira-qmetry-mcp",
+  "source_url": "https://github.com/albertor03/jira-qmetry-mcp",
+  "install": "npx -y jira-qmetry-mcp"
+}

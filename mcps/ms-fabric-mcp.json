@@ -1,0 +1,7 @@
+{
+  "name": "ms-fabric-mcp",
+  "description": "Enables LLMs to query and explore schemas in Microsoft Fabric lakehouses, warehouses, and SQL databases using natural language, with tools for executing read-only SQL queries and searching tables, columns, and query patterns.",
+  "source_repo": "duggurd/ms_fabric_mcp",
+  "source_url": "https://github.com/duggurd/ms_fabric_mcp",
+  "install": "npx -y ms_fabric_mcp"
+}

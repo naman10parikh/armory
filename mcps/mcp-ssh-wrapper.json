@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ssh-wrapper",
+  "description": "A minimal MCP server that executes commands on remote hosts by delegating to the local ssh binary, supporting batch-mode execution and optional timeout.",
+  "source_repo": "megascope/mcp-ssh-wrapper",
+  "source_url": "https://github.com/megascope/mcp-ssh-wrapper",
+  "install": "# git clone --depth 1 https://github.com/megascope/mcp-ssh-wrapper\n# See source for mcpServers config block"
+}

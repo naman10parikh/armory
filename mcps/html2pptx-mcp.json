@@ -1,0 +1,7 @@
+{
+  "name": "html2pptx-mcp",
+  "description": "Converts slide-oriented HTML into editable PowerPoint files via an MCP server, using Chromium for layout measurement and supporting editable text, shapes, images, and raster fallbacks.",
+  "source_repo": "konojunya/html2pptx-mcp",
+  "source_url": "https://github.com/konojunya/html2pptx-mcp",
+  "install": "npx -y html2pptx-mcp"
+}

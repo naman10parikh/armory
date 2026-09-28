@@ -1,0 +1,7 @@
+{
+  "name": "mdapi-mcp",
+  "description": "MCP server for converting HTML to Markdown and extracting page data, with pay-per-call using USDC on Base.",
+  "source_repo": "lightwheel10/mdapi-mcp",
+  "source_url": "https://github.com/lightwheel10/mdapi-mcp",
+  "install": "npx -y mdapi-mcp"
+}

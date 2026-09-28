@@ -1,0 +1,7 @@
+{
+  "name": "knowledge-mcp-2",
+  "description": "A high-precision local knowledge base server enabling AI agents to navigate, search, and reason about complex codebases using hybrid semantic, lexical, and graph retrieval.",
+  "source_repo": "PaulTheSecond/knowledgebase-mcp",
+  "source_url": "https://github.com/PaulTheSecond/knowledgebase-mcp",
+  "install": "npx -y knowledgebase-mcp"
+}

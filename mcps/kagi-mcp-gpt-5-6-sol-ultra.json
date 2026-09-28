@@ -1,0 +1,7 @@
+{
+  "name": "kagi-mcp-gpt-5-6-sol-ultra",
+  "description": "Enables AI agents to search Kagi using a personal Kagi Session Link, providing web search results and account lens information.",
+  "source_repo": "real-jiakai/kagi-mcp-gpt-5.6-sol-ultra",
+  "source_url": "https://github.com/real-jiakai/kagi-mcp-gpt-5.6-sol-ultra",
+  "install": "# git clone --depth 1 https://github.com/real-jiakai/kagi-mcp-gpt-5.6-sol-ultra\n# See source for mcpServers config block"
+}

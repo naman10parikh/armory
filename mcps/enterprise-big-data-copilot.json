@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-big-data-copilot",
+  "description": "Enables natural-language queries on Trino big data platforms, generating validated, schema-aware SQL via RAG and local LLM inference, and exposes metadata, query, and profiling tools through MCP.",
+  "source_repo": "hani-ben-dhaou/Enterprise-Big-Data-Copilot",
+  "source_url": "https://github.com/hani-ben-dhaou/Enterprise-Big-Data-Copilot",
+  "install": "# git clone --depth 1 https://github.com/hani-ben-dhaou/Enterprise-Big-Data-Copilot\n# See source for mcpServers config block"
+}

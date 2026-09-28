@@ -1,0 +1,7 @@
+{
+  "name": "rutorrent-mcp",
+  "description": "MCP server for controlling rTorrent through ruTorrent's httprpc plugin, enabling torrent management (list/add/remove/start/stop), label/priority management, data movement, and global throttle settings from any MCP client.",
+  "source_repo": "abnormalend/rutorrent-mcp",
+  "source_url": "https://github.com/abnormalend/rutorrent-mcp",
+  "install": "npx -y rutorrent-mcp"
+}

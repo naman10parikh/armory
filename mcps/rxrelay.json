@@ -1,0 +1,7 @@
+{
+  "name": "rxrelay",
+  "description": "Enables consent-first voice coordination for prescription access with a deterministic proof gate, exposing MCP tools to manage cases, attestations, and evidence.",
+  "source_repo": "vnmoorthy/rxrelay",
+  "source_url": "https://github.com/vnmoorthy/rxrelay",
+  "install": "# git clone --depth 1 https://github.com/vnmoorthy/rxrelay\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "projectmind-mcp",
+  "description": "Gives AI coding assistants persistent project memory and semantic code search, running fully locally with no API keys required.",
+  "source_repo": "Nik0lay1/project-mind-mcp",
+  "source_url": "https://github.com/Nik0lay1/project-mind-mcp",
+  "install": "npx -y project-mind-mcp"
+}

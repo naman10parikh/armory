@@ -1,0 +1,7 @@
+{
+  "name": "qdrant-rag-build",
+  "description": "Enables users to build and manage a complete retrieval-augmented generation pipeline through conversation, including file ingestion, collection management, hybrid search, reranking, citations, and a guided setup wizard.",
+  "source_repo": "avaazquezz/QdrantMCP_RAG-Build",
+  "source_url": "https://github.com/avaazquezz/QdrantMCP_RAG-Build",
+  "install": "# git clone --depth 1 https://github.com/avaazquezz/QdrantMCP_RAG-Build\n# See source for mcpServers config block"
+}

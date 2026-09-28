@@ -1,0 +1,7 @@
+{
+  "name": "outlook-mcp-python",
+  "description": "A Python-based MCP server for Microsoft Outlook integration using Microsoft Graph API, enabling email reading/sending, calendar management, and contact operations through Claude Desktop.",
+  "source_repo": "cycle-sync-ai/outlook-mcp-server",
+  "source_url": "https://github.com/cycle-sync-ai/outlook-mcp-server",
+  "install": "npx -y outlook-mcp-server"
+}

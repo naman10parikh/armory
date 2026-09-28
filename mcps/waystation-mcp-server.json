@@ -1,0 +1,7 @@
+{
+  "name": "waystation-mcp-server",
+  "description": "Connects AI assistants like Claude to productivity tools such as Notion, Monday, Jira, and Slack via a remote MCP integration hub.",
+  "source_repo": "grantanderson603-bit/mcp-0b583",
+  "source_url": "https://github.com/grantanderson603-bit/mcp-0b583",
+  "install": "# git clone --depth 1 https://github.com/grantanderson603-bit/mcp-0b583\n# See source for mcpServers config block"
+}

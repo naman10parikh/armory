@@ -1,0 +1,7 @@
+{
+  "name": "bookshop-mcp-example",
+  "description": "Exposes a CAP bookshop service via MCP, enabling AI agents to query books, authors, and genres using natural language.",
+  "source_repo": "jpnqs/cap-bookshop-mcp",
+  "source_url": "https://github.com/jpnqs/cap-bookshop-mcp",
+  "install": "npx -y cap-bookshop-mcp"
+}

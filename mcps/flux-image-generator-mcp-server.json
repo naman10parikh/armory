@@ -1,0 +1,7 @@
+{
+  "name": "flux-image-generator-mcp-server",
+  "description": "Enables Claude to generate images on demand using the FLUX.1-schnell model, supporting multiple aspect ratios and saving locally.",
+  "source_repo": "ZZtopBR/flux-image-mcp",
+  "source_url": "https://github.com/ZZtopBR/flux-image-mcp",
+  "install": "npx -y flux-image-mcp"
+}

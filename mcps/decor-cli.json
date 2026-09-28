@@ -1,0 +1,7 @@
+{
+  "name": "decor-cli",
+  "description": "Enables decoration of images and videos with backgrounds, gradients, containers, text, arrows, and more through MCP tools like render_decor and list_templates. Supports both CLI and MCP server modes with configurable options.",
+  "source_repo": "mrgoonie/decor-cli",
+  "source_url": "https://github.com/mrgoonie/decor-cli",
+  "install": "# git clone --depth 1 https://github.com/mrgoonie/decor-cli\n# See source for mcpServers config block"
+}

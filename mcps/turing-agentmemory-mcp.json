@@ -1,0 +1,7 @@
+{
+  "name": "turing-agentmemory-mcp",
+  "description": "TuringDB-backed Agent Memory MCP server with provider-agnostic embedding and rerank integrations, memory lifecycle tools, document ingest, and cited retrieval.",
+  "source_repo": "chetto1983/turing_AgentMemory_MCP",
+  "source_url": "https://github.com/chetto1983/turing_AgentMemory_MCP",
+  "install": "npx -y turing_AgentMemory_MCP"
+}

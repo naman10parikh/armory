@@ -1,0 +1,7 @@
+{
+  "name": "prismsre",
+  "description": "PrismSRE is an AI-powered Kubernetes troubleshooting agent that uses Google's Gemini models and the Model Context Protocol to provide autonomous diagnostics and real-time insights for cluster issues. It features a glassmorphism dashboard and secure read-only access to pods, logs, and deployments.",
+  "source_repo": "barbaria888/PrismSRE",
+  "source_url": "https://github.com/barbaria888/PrismSRE",
+  "install": "# git clone --depth 1 https://github.com/barbaria888/PrismSRE\n# See source for mcpServers config block"
+}

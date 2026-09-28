@@ -1,0 +1,7 @@
+{
+  "name": "read-image-mcp-server",
+  "description": "MCP server using Google Gemini to read and describe image content, supporting single or multiple images and custom prompts.",
+  "source_repo": "AndyAnh174/read-image-mcp",
+  "source_url": "https://github.com/AndyAnh174/read-image-mcp",
+  "install": "npx -y read-image-mcp"
+}

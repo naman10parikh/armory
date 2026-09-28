@@ -1,0 +1,7 @@
+{
+  "name": "pb-hypernode-mcp",
+  "description": "Enables AI assistants to create, sanitize, and manage disposable Hypernode Brancher preview environments cloned from production, with automatic PII anonymization, credential reset, and sandbox-forcing before any access URL is revealed.",
+  "source_repo": "ProxiBlue/pb-hypernode-mcp",
+  "source_url": "https://github.com/ProxiBlue/pb-hypernode-mcp",
+  "install": "npx -y pb-hypernode-mcp"
+}

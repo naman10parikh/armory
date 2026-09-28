@@ -1,0 +1,7 @@
+{
+  "name": "plane-client",
+  "description": "MCP server for the Plane project management API, enabling issue retrieval, listing, commenting, state changes, and creation.",
+  "source_repo": "mgoodric/plane-client",
+  "source_url": "https://github.com/mgoodric/plane-client",
+  "install": "# git clone --depth 1 https://github.com/mgoodric/plane-client\n# See source for mcpServers config block"
+}

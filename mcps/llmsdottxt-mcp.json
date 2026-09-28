@@ -1,0 +1,7 @@
+{
+  "name": "llmsdottxt-mcp",
+  "description": "Auto-discovers llms.txt documentation from project dependencies and exposes it to AI coding agents via MCP, enabling agents to read first-party docs without scraping or guessing.",
+  "source_repo": "lehre-labs/llmsdottxt-mcp",
+  "source_url": "https://github.com/lehre-labs/llmsdottxt-mcp",
+  "install": "npx -y llmsdottxt-mcp"
+}

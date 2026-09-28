@@ -1,0 +1,7 @@
+{
+  "name": "trove-mcp",
+  "description": "Enables users to search and analyze academic papers from multiple sources, fetch metadata and full text, and build structured outputs like literature maps and paper comparisons.",
+  "source_repo": "LalwaniPalash/trove-mcp",
+  "source_url": "https://github.com/LalwaniPalash/trove-mcp",
+  "install": "npx -y trove-mcp"
+}

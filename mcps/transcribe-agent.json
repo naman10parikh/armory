@@ -1,0 +1,7 @@
+{
+  "name": "transcribe-agent",
+  "description": "Transcribes YouTube videos or audio files to Markdown, plain-text, and Word documents.",
+  "source_repo": "obyrned/transcribe-agent",
+  "source_url": "https://github.com/obyrned/transcribe-agent",
+  "install": "# git clone --depth 1 https://github.com/obyrned/transcribe-agent\n# See source for mcpServers config block"
+}

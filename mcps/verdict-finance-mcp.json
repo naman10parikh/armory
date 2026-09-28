@@ -1,0 +1,7 @@
+{
+  "name": "verdict-finance-mcp",
+  "description": "Enables AI agents to query Verdict's institutional DeFi diligence layer, including letter grades and composite scores for protocols, chains, tokens, oracles, vaults, organizations, and bridges.",
+  "source_repo": "Verdict-Capital/verdict-finance-mcp",
+  "source_url": "https://github.com/Verdict-Capital/verdict-finance-mcp",
+  "install": "npx -y verdict-finance-mcp"
+}

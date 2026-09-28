@@ -1,0 +1,7 @@
+{
+  "name": "councilof-ai",
+  "description": "Provides AI governance and EU AI Act compliance through a council of 12 AIs, enabling risk management, transparency, bias detection, and content watermarking.",
+  "source_repo": "CSOAI-ORG/councilof-ai",
+  "source_url": "https://github.com/CSOAI-ORG/councilof-ai",
+  "install": "# git clone --depth 1 https://github.com/CSOAI-ORG/councilof-ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "skillgod",
+  "description": "An MCP server that automatically injects relevant skills, project memory, and routes complex tasks to specialist agents into AI coding tools like Claude, eliminating cold starts and prompt engineering.",
+  "source_repo": "amancodingrepo/skillgod",
+  "source_url": "https://github.com/amancodingrepo/skillgod",
+  "install": "# git clone --depth 1 https://github.com/amancodingrepo/skillgod\n# See source for mcpServers config block"
+}

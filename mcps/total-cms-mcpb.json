@@ -1,0 +1,7 @@
+{
+  "name": "total-cms-mcpb",
+  "description": "Connects Claude to Total CMS sites, enabling search, browsing, and management of content via the site's built-in MCP server. Supports both public and authenticated access using an API key stored securely.",
+  "source_repo": "totalcms/mcpb",
+  "source_url": "https://github.com/totalcms/mcpb",
+  "install": "# git clone --depth 1 https://github.com/totalcms/mcpb\n# See source for mcpServers config block"
+}

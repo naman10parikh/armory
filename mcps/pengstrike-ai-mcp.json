@@ -1,0 +1,7 @@
+{
+  "name": "pengstrike-ai-mcp",
+  "description": "Turns any MCP-capable AI agent into a professional penetration testing platform with 150+ security tools, adaptive async tasks, and crash-proof concurrency.",
+  "source_repo": "wangqiongpeng/pengstrike-mcp",
+  "source_url": "https://github.com/wangqiongpeng/pengstrike-mcp",
+  "install": "npx -y pengstrike-mcp"
+}

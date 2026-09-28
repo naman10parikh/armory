@@ -1,0 +1,7 @@
+{
+  "name": "asc-mcp",
+  "description": "An opinionated MCP server for App Store Connect that provides 13 curated tools, slash-command workflows, and a Claude Skill to manage apps, reviews, sales, and pre-submission audits via natural language.",
+  "source_repo": "pofky/asc-mcp",
+  "source_url": "https://github.com/pofky/asc-mcp",
+  "install": "npx -y asc-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "facebook-ads-mcp-server",
+  "description": "MCP server for Meta/Facebook Marketing API allowing you to view and manage ad accounts, campaigns, ad sets, ads, and creatives, as well as fetch insights and upload ad images.",
+  "source_repo": "HeroBrian389/facebook-ads-mcp-server",
+  "source_url": "https://github.com/HeroBrian389/facebook-ads-mcp-server",
+  "install": "npx -y facebook-ads-mcp-server"
+}

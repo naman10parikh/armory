@@ -1,0 +1,7 @@
+{
+  "name": "banco-mcp",
+  "description": "Connects Brazilian banks (Itaú, Bradesco, Nubank, etc.) to AI agents, enabling natural language queries about expenses, statements, investments, and credit cards via regulated Open Finance.",
+  "source_repo": "douglac/banco-mcp",
+  "source_url": "https://github.com/douglac/banco-mcp",
+  "install": "npx -y banco-mcp"
+}

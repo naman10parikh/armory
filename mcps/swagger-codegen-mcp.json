@@ -1,0 +1,7 @@
+{
+  "name": "swagger-codegen-mcp",
+  "description": "Automatically generates TypeScript API code from Swagger/OpenAPI documentation. Supports listing services, tags, endpoints, and generating code by tag or endpoint.",
+  "source_repo": "aehyok/swagger-codegen-mcp",
+  "source_url": "https://github.com/aehyok/swagger-codegen-mcp",
+  "install": "npx -y swagger-codegen-mcp"
+}

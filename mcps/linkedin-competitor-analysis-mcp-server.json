@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-competitor-analysis-mcp-server",
+  "description": "Enables users to monitor and analyze competitor LinkedIn posts, extract insights, generate original post concepts, and create graphics-ready content with metadata.",
+  "source_repo": "satvikjain012-cmyk/linkedin-mcp-server",
+  "source_url": "https://github.com/satvikjain012-cmyk/linkedin-mcp-server",
+  "install": "npx -y linkedin-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-brainstorm",
+  "description": "Connects Claude Desktop to an Obsidian vault, enabling reading, searching, capturing ideas, and managing notes through natural language.",
+  "source_repo": "eBrainiac/Obsidian-Brainstorm-MCP",
+  "source_url": "https://github.com/eBrainiac/Obsidian-Brainstorm-MCP",
+  "install": "npx -y Obsidian-Brainstorm-MCP"
+}

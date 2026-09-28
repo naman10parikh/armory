@@ -1,0 +1,7 @@
+{
+  "name": "mcp-project-context-router",
+  "description": "A local-first MCP server and CLI that gives coding agents structured project memory, task contracts, context packs, backlog workflows, and verification evidence, storing data in reviewable Markdown/YAML with a fast SQLite index.",
+  "source_repo": "ukolov-dev/mcp-project-context-router",
+  "source_url": "https://github.com/ukolov-dev/mcp-project-context-router",
+  "install": "# git clone --depth 1 https://github.com/ukolov-dev/mcp-project-context-router\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-apps-playground",
+  "description": "A demo MCP server showcasing interactive HTML UIs for tools like list sorting, flame graphs, and feature flags, enabling bidirectional communication between user and agent.",
+  "source_repo": "digitarald/mcp-apps-playground",
+  "source_url": "https://github.com/digitarald/mcp-apps-playground",
+  "install": "# git clone --depth 1 https://github.com/digitarald/mcp-apps-playground\n# See source for mcpServers config block"
+}

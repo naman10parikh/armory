@@ -1,0 +1,7 @@
+{
+  "name": "super-subagents",
+  "description": "Spawn parallel autonomous AI agent sessions from a single MCP client. Each agent gets its own workspace, tools, and execution context.",
+  "source_repo": "yigitkonur/mcp-supersubagents",
+  "source_url": "https://github.com/yigitkonur/mcp-supersubagents",
+  "install": "# git clone --depth 1 https://github.com/yigitkonur/mcp-supersubagents\n# See source for mcpServers config block"
+}

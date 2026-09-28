@@ -1,0 +1,7 @@
+{
+  "name": "discord-text2sql-mcp",
+  "description": "This MCP server provides a local-first Text2SQL assistant for Discord, allowing users to query BIRD Mini-Dev SQL databases through natural language. It exposes tools for dataset search, schema retrieval, and safe read-only SQL execution.",
+  "source_repo": "JstnClmnt/discord-text2sql-mcp",
+  "source_url": "https://github.com/JstnClmnt/discord-text2sql-mcp",
+  "install": "npx -y discord-text2sql-mcp"
+}

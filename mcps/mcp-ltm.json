@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ltm",
+  "description": "Provides persistent long-term memory for AI assistants with tag-based retrieval, wiki-style linking, and source references, storing memories as markdown files with SQLite index.",
+  "source_repo": "kvas-it/mcp-ltm",
+  "source_url": "https://github.com/kvas-it/mcp-ltm",
+  "install": "# git clone --depth 1 https://github.com/kvas-it/mcp-ltm\n# See source for mcpServers config block"
+}

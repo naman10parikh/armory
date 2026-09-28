@@ -1,0 +1,7 @@
+{
+  "name": "mcp-recipes",
+  "description": "An MCP server that searches and reads recipes from multiple sources simultaneously, merges the results, and rescales ingredient quantities for any number of servings in French and English.",
+  "source_repo": "smeet666/mcp-recipes",
+  "source_url": "https://github.com/smeet666/mcp-recipes",
+  "install": "# git clone --depth 1 https://github.com/smeet666/mcp-recipes\n# See source for mcpServers config block"
+}

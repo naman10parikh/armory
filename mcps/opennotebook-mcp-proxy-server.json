@@ -1,0 +1,7 @@
+{
+  "name": "opennotebook-mcp-proxy-server",
+  "description": "A secure multi-tenant MCP proxy that exposes 81 tools for full CRUD, search, chat, podcast, and command management on the OpenNotebook API, enabling natural language interaction with notebooks, notes, sources, and more.",
+  "source_repo": "homeserverhq/opennotebook-mcp",
+  "source_url": "https://github.com/homeserverhq/opennotebook-mcp",
+  "install": "npx -y opennotebook-mcp"
+}

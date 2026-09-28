@@ -1,0 +1,7 @@
+{
+  "name": "guard-scanner",
+  "description": "Provides a security scanner for AI agent skills and MCP servers, detecting threats like prompt injection, identity hijacking, and memory poisoning.",
+  "source_repo": "koatora20/guard-scanner",
+  "source_url": "https://github.com/koatora20/guard-scanner",
+  "install": "# git clone --depth 1 https://github.com/koatora20/guard-scanner\n# See source for mcpServers config block"
+}

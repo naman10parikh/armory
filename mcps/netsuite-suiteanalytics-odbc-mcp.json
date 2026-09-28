@@ -1,0 +1,7 @@
+{
+  "name": "netsuite-suiteanalytics-odbc-mcp",
+  "description": "A local, read-only MCP server for querying NetSuite SuiteAnalytics Connect through a user's locally installed ODBC driver, exposing bounded tools for SQL queries, table metadata, and connection status.",
+  "source_repo": "samson10504/odbc-netsuite-mcp",
+  "source_url": "https://github.com/samson10504/odbc-netsuite-mcp",
+  "install": "npx -y odbc-netsuite-mcp"
+}

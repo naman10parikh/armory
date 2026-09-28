@@ -1,0 +1,7 @@
+{
+  "name": "inklusport-mcp-server-python",
+  "description": "Proporciona herramientas MCP para gestionar eventos deportivos inclusivos, discapacidades, inscripciones y rutinas mediante microservicios HTTP, con roles de agente (usuario, entrenador, organizador, admin) que filtran las herramientas disponibles.",
+  "source_repo": "samularagran1408-bot/ink-mcp-inklusport",
+  "source_url": "https://github.com/samularagran1408-bot/ink-mcp-inklusport",
+  "install": "# git clone --depth 1 https://github.com/samularagran1408-bot/ink-mcp-inklusport\n# See source for mcpServers config block"
+}

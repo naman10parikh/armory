@@ -1,0 +1,7 @@
+{
+  "name": "fgui-agent-bridge",
+  "description": "MCP server that enables AI agents to operate FairyGUI Editor through structured tools, using a local JSON file queue and the editor plugin to invoke FairyGUI APIs.",
+  "source_repo": "Wilson520403/fgui-agent-bridge",
+  "source_url": "https://github.com/Wilson520403/fgui-agent-bridge",
+  "install": "# git clone --depth 1 https://github.com/Wilson520403/fgui-agent-bridge\n# See source for mcpServers config block"
+}

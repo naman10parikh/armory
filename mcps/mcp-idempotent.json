@@ -1,0 +1,7 @@
+{
+  "name": "mcp-idempotent",
+  "description": "A transparent proxy that deduplicates MCP tool calls by idempotency keys, preventing retries from re-executing side effects on any unmodified MCP server.",
+  "source_repo": "krish-shahh/mcp-idempotent",
+  "source_url": "https://github.com/krish-shahh/mcp-idempotent",
+  "install": "# git clone --depth 1 https://github.com/krish-shahh/mcp-idempotent\n# See source for mcpServers config block"
+}

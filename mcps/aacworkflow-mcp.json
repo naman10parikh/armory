@@ -1,0 +1,7 @@
+{
+  "name": "aacworkflow-mcp",
+  "description": "Enables Claude and Claude Code to manage AACWorkflow tasks, agents, projects, squads, autopilots, and analytics through natural language.",
+  "source_repo": "AAChibilyaev/aacworkflow-mcp",
+  "source_url": "https://github.com/AAChibilyaev/aacworkflow-mcp",
+  "install": "npx -y aacworkflow-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-server-authless-15",
+  "description": "Allows deploying a remote MCP server on Cloudflare Workers without authentication, enabling easy connection to MCP clients like Cloudflare AI Playground or Claude Desktop via a proxy.",
+  "source_repo": "jaglanumangdeep/remote-mcp-server-authless",
+  "source_url": "https://github.com/jaglanumangdeep/remote-mcp-server-authless",
+  "install": "# git clone --depth 1 https://github.com/jaglanumangdeep/remote-mcp-server-authless\n# See source for mcpServers config block"
+}

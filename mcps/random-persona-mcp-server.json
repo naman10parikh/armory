@@ -1,0 +1,7 @@
+{
+  "name": "random-persona-mcp-server",
+  "description": "Enables dynamic persona injection and post-processing for LLM conversations through a six-layer engine. Supports commands and state management for personalized interactions.",
+  "source_repo": "Tsukigakure-gawa/random-persona-mcp",
+  "source_url": "https://github.com/Tsukigakure-gawa/random-persona-mcp",
+  "install": "npx -y random-persona-mcp"
+}

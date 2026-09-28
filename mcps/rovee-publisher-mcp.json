@@ -1,0 +1,7 @@
+{
+  "name": "rovee-publisher-mcp",
+  "description": "MCP server for Rovee that enables AI clients to publish bilingual content (blog posts, POIs, events, businesses, guides) and upload media to Supabase Storage, returning CDN URLs.",
+  "source_repo": "Roveeapp/rovee-publisher-mcp",
+  "source_url": "https://github.com/Roveeapp/rovee-publisher-mcp",
+  "install": "npx -y rovee-publisher-mcp"
+}

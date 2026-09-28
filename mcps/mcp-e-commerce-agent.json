@@ -1,0 +1,7 @@
+{
+  "name": "mcp-e-commerce-agent",
+  "description": "A proof of concept MCP server that gives AI agents business context for e-commerce operations including orders, inventory, logistics, returns, claims, and payments.",
+  "source_repo": "yassineteimi/mcp-ecommerce-agent",
+  "source_url": "https://github.com/yassineteimi/mcp-ecommerce-agent",
+  "install": "# git clone --depth 1 https://github.com/yassineteimi/mcp-ecommerce-agent\n# See source for mcpServers config block"
+}

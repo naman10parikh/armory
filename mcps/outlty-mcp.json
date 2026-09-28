@@ -1,0 +1,7 @@
+{
+  "name": "outlty-mcp",
+  "description": "Exposes FastAPI API-key management and request-making routes as MCP tools, enabling users to manage and interact with their APIs via Claude.",
+  "source_repo": "yasinfakhar/outly-mcp-server",
+  "source_url": "https://github.com/yasinfakhar/outly-mcp-server",
+  "install": "npx -y outly-mcp-server"
+}

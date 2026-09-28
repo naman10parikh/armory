@@ -1,0 +1,7 @@
+{
+  "name": "processos-trt-justi-a-do-trabalho",
+  "description": "Enables querying labor lawsuits (processos trabalhistas) in Brazilian Regional Labor Courts (TRT) using CPF or CNPJ, with read-only access and pay-per-use credits.",
+  "source_repo": "mcp-dir/trt_processos-mcp",
+  "source_url": "https://github.com/mcp-dir/trt_processos-mcp",
+  "install": "npx -y trt_processos-mcp"
+}

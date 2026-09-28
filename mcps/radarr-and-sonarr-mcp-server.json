@@ -1,0 +1,7 @@
+{
+  "name": "radarr-and-sonarr-mcp-server",
+  "description": "An MCP server that enables AI assistants to manage your Radarr movies and Sonarr TV shows, including search, add, delete, monitor, and grab releases.",
+  "source_repo": "g2dgaming/radarr_sonarr_mcp",
+  "source_url": "https://github.com/g2dgaming/radarr_sonarr_mcp",
+  "install": "npx -y radarr_sonarr_mcp"
+}

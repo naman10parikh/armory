@@ -1,0 +1,7 @@
+{
+  "name": "app-store-publisher-mcp",
+  "description": "Enables publishing Android apps to Samsung Galaxy Store and Huawei AppGallery directly from AI agents, with tools for uploading binaries, updating listings, submitting apps, and verifying Samsung IAP receipts.",
+  "source_repo": "qalvinahmad/app-store-publisher-mcp",
+  "source_url": "https://github.com/qalvinahmad/app-store-publisher-mcp",
+  "install": "npx -y app-store-publisher-mcp"
+}

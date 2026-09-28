@@ -1,0 +1,7 @@
+{
+  "name": "mojawave-mcp",
+  "description": "Connects any MCP-compatible AI assistant to the MojaWave SMS Gateway, enabling sending SMS, checking credit balances, and managing bulk SMS jobs.",
+  "source_repo": "mojawave/mojawave-mcp",
+  "source_url": "https://github.com/mojawave/mojawave-mcp",
+  "install": "npx -y mojawave-mcp"
+}

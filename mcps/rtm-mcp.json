@@ -1,0 +1,7 @@
+{
+  "name": "rtm-mcp",
+  "description": "Enables MCP-compatible clients to directly manage Jira Requirements and Test Management resources such as requirements, test cases, plans, executions, defects, tree structures, and automation via exposed tools.",
+  "source_repo": "ngocdd/rtm-mcp",
+  "source_url": "https://github.com/ngocdd/rtm-mcp",
+  "install": "npx -y rtm-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "send16-mcp",
+  "description": "The email API your AI agent can actually use. A Model Context Protocol server for Send16 that gives Claude, Cursor, and any MCP client 79 tools to send transactional & marketing email, manage contacts, audiences, segments, automations, templates, the inbox, suppressions, and webhooks.",
+  "source_repo": "spruikco/send16-mcp",
+  "source_url": "https://github.com/spruikco/send16-mcp",
+  "install": "npx -y send16-mcp"
+}

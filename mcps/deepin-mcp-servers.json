@@ -1,0 +1,7 @@
+{
+  "name": "deepin-mcp-servers",
+  "description": "A model context protocol server for Deepin Linux, providing system control, file management, web search, browser automation, and Git operations.",
+  "source_repo": "xsluck/deepin-mcp-servers",
+  "source_url": "https://github.com/xsluck/deepin-mcp-servers",
+  "install": "# git clone --depth 1 https://github.com/xsluck/deepin-mcp-servers\n# See source for mcpServers config block"
+}

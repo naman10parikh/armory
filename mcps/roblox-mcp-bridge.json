@@ -1,0 +1,7 @@
+{
+  "name": "roblox-mcp-bridge",
+  "description": "Connects Roblox Studio to local AI agents via HTTP, allowing them to control Studio tools.",
+  "source_repo": "kavinr24/roblox-mcp-bridge",
+  "source_url": "https://github.com/kavinr24/roblox-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/kavinr24/roblox-mcp-bridge\n# See source for mcpServers config block"
+}

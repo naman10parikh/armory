@@ -1,0 +1,7 @@
+{
+  "name": "sampledotnetmcpserver",
+  "description": "A sample .NET MCP server demonstrating tool implementation including random number generation, personalized greetings, and weather information for US zip codes.",
+  "source_repo": "timheuer/SampleDotnetMcpServer",
+  "source_url": "https://github.com/timheuer/SampleDotnetMcpServer",
+  "install": "# git clone --depth 1 https://github.com/timheuer/SampleDotnetMcpServer\n# See source for mcpServers config block"
+}

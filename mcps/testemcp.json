@@ -1,0 +1,7 @@
+{
+  "name": "testemcp",
+  "description": "MCP server for reading and listing JSON documents, designed to be used with Claude Haiku and Headroom compression to reduce token usage. It demonstrates an end-to-end MCP tool-use loop with stdio transport.",
+  "source_repo": "ericzaim/TesteMCP",
+  "source_url": "https://github.com/ericzaim/TesteMCP",
+  "install": "# git clone --depth 1 https://github.com/ericzaim/TesteMCP\n# See source for mcpServers config block"
+}

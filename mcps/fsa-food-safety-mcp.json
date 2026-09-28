@@ -1,0 +1,7 @@
+{
+  "name": "fsa-food-safety-mcp",
+  "description": "Provides tools for UK FSA and EU food safety compliance, including business classification, HACCP auditing, allergen labeling checks, traceability, and recall procedures.",
+  "source_repo": "CSOAI-ORG/fsa-food-safety-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/fsa-food-safety-mcp",
+  "install": "npx -y fsa-food-safety-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "proxykey-mcp-server",
+  "description": "Issue, rotate, and revoke API key passes from your AI agent without the agent ever seeing a real key.",
+  "source_repo": "neostorm112-boop/proxykey-mcp",
+  "source_url": "https://github.com/neostorm112-boop/proxykey-mcp",
+  "install": "npx -y proxykey-mcp"
+}

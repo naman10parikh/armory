@@ -1,0 +1,7 @@
+{
+  "name": "pikasim",
+  "description": "Browse, compare, and purchase eSIMs for 190+ countries via AI agents. 12 tools for searching 2,300+ data plans, checking coverage, and buying eSIMs with crypto or card. No account required for browsing.",
+  "source_repo": "codebruinc/pikasim-mcp",
+  "source_url": "https://github.com/codebruinc/pikasim-mcp",
+  "install": "npx -y pikasim-mcp"
+}

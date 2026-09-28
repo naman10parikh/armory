@@ -1,0 +1,7 @@
+{
+  "name": "dhanhq-mcp-server",
+  "description": "An MCP server that enables AI assistants to interact with the DhanHQ trading platform, providing access to holdings, orders, trade history, and token renewal via DhanHQ APIs.",
+  "source_repo": "Vedhasagaran/dhan-mcp-py",
+  "source_url": "https://github.com/Vedhasagaran/dhan-mcp-py",
+  "install": "# git clone --depth 1 https://github.com/Vedhasagaran/dhan-mcp-py\n# See source for mcpServers config block"
+}

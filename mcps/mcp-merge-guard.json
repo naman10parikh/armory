@@ -1,0 +1,7 @@
+{
+  "name": "mcp-merge-guard",
+  "description": "Guards PR merge decisions by validating CI, approvals, conflicts, and branch freshness.",
+  "source_repo": "paolino/mcp-merge-guard",
+  "source_url": "https://github.com/paolino/mcp-merge-guard",
+  "install": "# git clone --depth 1 https://github.com/paolino/mcp-merge-guard\n# See source for mcpServers config block"
+}

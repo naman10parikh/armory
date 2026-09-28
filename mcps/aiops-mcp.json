@@ -1,0 +1,7 @@
+{
+  "name": "aiops-mcp",
+  "description": "A self-contained, security-first, EU-sovereign unified AI-operations MCP server that fuses a live bitemporal fleet model, a drift engine, and a tiered audited actuator into one control plane.",
+  "source_repo": "rmednitzer/aiops-mcp",
+  "source_url": "https://github.com/rmednitzer/aiops-mcp",
+  "install": "npx -y aiops-mcp"
+}

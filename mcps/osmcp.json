@@ -1,0 +1,7 @@
+{
+  "name": "osmcp",
+  "description": "A typed, policy-controlled OS capability layer for AI agents via MCP, exposing safe filesystem, git, and text-processing tools governed by a strict policy engine.",
+  "source_repo": "KrushnaVardhanReddy/osmcp",
+  "source_url": "https://github.com/KrushnaVardhanReddy/osmcp",
+  "install": "# git clone --depth 1 https://github.com/KrushnaVardhanReddy/osmcp\n# See source for mcpServers config block"
+}

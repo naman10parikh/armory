@@ -1,0 +1,7 @@
+{
+  "name": "heorth-mcp",
+  "description": "Single MCP server that translates tool calls into requests against the Heorth and KithLedger REST APIs, exposing 50 household and relationship management tools while holding no credentials of its own.",
+  "source_repo": "Wyrhta-Labs/heorth-mcp",
+  "source_url": "https://github.com/Wyrhta-Labs/heorth-mcp",
+  "install": "npx -y heorth-mcp"
+}

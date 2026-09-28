@@ -1,0 +1,7 @@
+{
+  "name": "messagesbridge",
+  "description": "MCP server that lets ChatGPT search and read iMessage/SMS history, send one-at-a-time messages, and manage Contacts on your own Mac, with confirmations for any writes.",
+  "source_repo": "IsaiahDupree/messages-bridge",
+  "source_url": "https://github.com/IsaiahDupree/messages-bridge",
+  "install": "# git clone --depth 1 https://github.com/IsaiahDupree/messages-bridge\n# See source for mcpServers config block"
+}

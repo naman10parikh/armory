@@ -1,0 +1,7 @@
+{
+  "name": "sfskills-mcp",
+  "description": "Provides live-org context for AI assistants with tools to search skills, agents, templates, decision trees, and query Salesforce metadata (Apex, LWC, objects, fields, etc.) via MCP.",
+  "source_repo": "PranavNagrecha/AwesomeSalesforceSkills",
+  "source_url": "https://github.com/PranavNagrecha/AwesomeSalesforceSkills",
+  "install": "# git clone --depth 1 https://github.com/PranavNagrecha/AwesomeSalesforceSkills\n# See source for mcpServers config block"
+}

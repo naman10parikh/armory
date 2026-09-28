@@ -1,0 +1,7 @@
+{
+  "name": "shelfmark",
+  "description": "Shelfmark is an MCP server that builds a local metadata catalogue of your documents, enabling AI agents to discover, search, and select relevant files without opening or indexing their contents. It provides governed access with ownership and confidentiality controls, ensuring agents only see what th",
+  "source_repo": "Dankaro-projects/shelfmark",
+  "source_url": "https://github.com/Dankaro-projects/shelfmark",
+  "install": "# git clone --depth 1 https://github.com/Dankaro-projects/shelfmark\n# See source for mcpServers config block"
+}

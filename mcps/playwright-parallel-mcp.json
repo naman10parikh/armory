@@ -1,0 +1,7 @@
+{
+  "name": "playwright-parallel-mcp",
+  "description": "Enables AI agents to control multiple independent browser instances in parallel with process-level isolation, supporting any backend MCP server for browser automation.",
+  "source_repo": "sumyapp/playwright-parallel-mcp",
+  "source_url": "https://github.com/sumyapp/playwright-parallel-mcp",
+  "install": "npx -y playwright-parallel-mcp"
+}

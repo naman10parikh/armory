@@ -1,0 +1,7 @@
+{
+  "name": "api-testing-platform",
+  "description": "An LLM-driven API testing platform exposed over MCP, enabling declarative test definition and DAG-based execution.",
+  "source_repo": "SamWongML/testing-mcp",
+  "source_url": "https://github.com/SamWongML/testing-mcp",
+  "install": "npx -y testing-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "contextcache-mcp",
+  "description": "A local MCP server that indexes TypeScript/JavaScript projects and returns budget-aware, dependency-optimized context packs for AI coding assistants.",
+  "source_repo": "pandolfipedro/contextcache-mcp",
+  "source_url": "https://github.com/pandolfipedro/contextcache-mcp",
+  "install": "npx -y contextcache-mcp"
+}

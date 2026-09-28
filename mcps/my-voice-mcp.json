@@ -1,0 +1,7 @@
+{
+  "name": "my-voice-mcp",
+  "description": "A local-first MCP server that builds compact voice profiles from writing samples, then compares, rewrites, or generates new text in that voice.",
+  "source_repo": "timetoady/my-voice-mcp",
+  "source_url": "https://github.com/timetoady/my-voice-mcp",
+  "install": "npx -y my-voice-mcp"
+}

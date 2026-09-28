@@ -1,0 +1,7 @@
+{
+  "name": "mcp-meteo",
+  "description": "Provides real-time weather and forecasts via Open-Meteo, supporting queries by coordinates or city name.",
+  "source_repo": "KerryanOPMace/mcp-meteo",
+  "source_url": "https://github.com/KerryanOPMace/mcp-meteo",
+  "install": "# git clone --depth 1 https://github.com/KerryanOPMace/mcp-meteo\n# See source for mcpServers config block"
+}

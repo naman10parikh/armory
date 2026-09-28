@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-tjpr-processo",
+  "description": "MCP server for consulting Brazilian court proceedings (TJPR) from the official source, read-only and pay-per-query with prepaid credits. Works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/tribunal_tjpr_processo-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_tjpr_processo-mcp",
+  "install": "npx -y tribunal_tjpr_processo-mcp"
+}

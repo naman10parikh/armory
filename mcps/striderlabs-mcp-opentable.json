@@ -1,0 +1,7 @@
+{
+  "name": "striderlabs-mcp-opentable",
+  "description": "Enables AI agents to search restaurants, check availability, and book reservations on OpenTable, including managing booking history and handling multi-factor authentication.",
+  "source_repo": "noahelson208-prog/mcp_opentable",
+  "source_url": "https://github.com/noahelson208-prog/mcp_opentable",
+  "install": "# git clone --depth 1 https://github.com/noahelson208-prog/mcp_opentable\n# See source for mcpServers config block"
+}

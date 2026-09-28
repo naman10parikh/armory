@@ -1,0 +1,7 @@
+{
+  "name": "unity-debugger-pure-mcp",
+  "description": "Provides MCP tools to manage and interact with Unity debug sessions in VS Code, including breakpoints, snapshots, evaluation, and stepping, via a named pipe to the Unity Debugger Pure extension.",
+  "source_repo": "kpkhxlgy0/unity-debugger-pure-mcp",
+  "source_url": "https://github.com/kpkhxlgy0/unity-debugger-pure-mcp",
+  "install": "npx -y unity-debugger-pure-mcp"
+}

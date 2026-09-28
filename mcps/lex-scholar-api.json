@@ -1,0 +1,7 @@
+{
+  "name": "lex-scholar-api",
+  "description": "Single-endpoint MCP server federating nine open-access legal scholarship indexes, enabling federated search, multi-jurisdiction comparison, and full-text retrieval via tools like search_legal_scholarship and compare_jurisdictions.",
+  "source_repo": "beerbottle90/lex-scholar-api",
+  "source_url": "https://github.com/beerbottle90/lex-scholar-api",
+  "install": "# git clone --depth 1 https://github.com/beerbottle90/lex-scholar-api\n# See source for mcpServers config block"
+}

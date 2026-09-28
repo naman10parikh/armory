@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-mcp-data-agent",
+  "description": "Enables secure, privacy-first SQL database interaction via natural language, using local LLM and PostgreSQL with dynamic tool-calling.",
+  "source_repo": "lokeshkundi15/Enterprise-MCP-Data-Agent",
+  "source_url": "https://github.com/lokeshkundi15/Enterprise-MCP-Data-Agent",
+  "install": "# git clone --depth 1 https://github.com/lokeshkundi15/Enterprise-MCP-Data-Agent\n# See source for mcpServers config block"
+}

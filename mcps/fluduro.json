@@ -1,0 +1,7 @@
+{
+  "name": "fluduro",
+  "description": "A personality-to-flower quiz application with MCP tools for interactive widgets inside ChatGPT.",
+  "source_repo": "mak2506/fluduro",
+  "source_url": "https://github.com/mak2506/fluduro",
+  "install": "# git clone --depth 1 https://github.com/mak2506/fluduro\n# See source for mcpServers config block"
+}

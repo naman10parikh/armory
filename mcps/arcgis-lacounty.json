@@ -1,0 +1,7 @@
+{
+  "name": "arcgis-lacounty",
+  "description": "Enables AI agents to search and query Los Angeles County open geospatial datasets (parcels, parks, etc.) via ArcGIS Feature Services.",
+  "source_repo": "pipeworx-io/mcp-arcgis-lacounty",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-lacounty",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-lacounty\n# See source for mcpServers config block"
+}

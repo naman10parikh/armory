@@ -1,0 +1,7 @@
+{
+  "name": "lad-lviv-ua",
+  "description": "Lviv (Ukraine) public transport MCP server — live arrivals, vehicle positions, stop discovery, route shapes, and static timetables. No API key required.",
+  "source_repo": "",
+  "source_url": "https://lad.lviv.ua/",
+  "install": "# git clone --depth 1 https://lad.lviv.ua/\n# See source for mcpServers config block"
+}

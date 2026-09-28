@@ -1,0 +1,7 @@
+{
+  "name": "inforcer-mcp-server",
+  "description": "An MCP server providing AI assistants read-only access to Inforcer Microsoft 365 governance data, including tenants, baselines, policies, and audit logs, with one write action to trigger assessments.",
+  "source_repo": "wyre-technology/inforcer-mcp",
+  "source_url": "https://github.com/wyre-technology/inforcer-mcp",
+  "install": "npx -y inforcer-mcp"
+}

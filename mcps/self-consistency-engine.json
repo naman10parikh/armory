@@ -1,0 +1,7 @@
+{
+  "name": "self-consistency-engine",
+  "description": "Enables chain-of-thought reasoning with self-consistency voting, allowing sampling of diverse reasoning paths and aggregating answers via majority or weighted vote for improved accuracy.",
+  "source_repo": "SanjoyDat1/self-consistency-engine",
+  "source_url": "https://github.com/SanjoyDat1/self-consistency-engine",
+  "install": "# git clone --depth 1 https://github.com/SanjoyDat1/self-consistency-engine\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cardmagic-notes",
+  "description": "CLI and MCP server to search and browse Apple Notes with fuzzy matching, full-text search, and PDF text extraction.",
+  "source_repo": "cardmagic/notes",
+  "source_url": "https://github.com/cardmagic/notes",
+  "install": "# git clone --depth 1 https://github.com/cardmagic/notes\n# See source for mcpServers config block"
+}

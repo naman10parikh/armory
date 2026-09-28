@@ -1,0 +1,7 @@
+{
+  "name": "fingerprint-mcp-server",
+  "description": "Enables MCP-compatible clients to interact with Fingerprint's identification events and management APIs, supporting both private and public modes with tool filtering and multiple transport protocols.",
+  "source_repo": "fingerprintjs/fingerprint-mcp-server",
+  "source_url": "https://github.com/fingerprintjs/fingerprint-mcp-server",
+  "install": "npx -y fingerprint-mcp-server"
+}

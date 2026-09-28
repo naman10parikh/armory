@@ -1,0 +1,7 @@
+{
+  "name": "machine-bridge-mcp",
+  "description": "Enables remote MCP clients to access local filesystem and shell commands by deploying a Cloudflare Worker relay and a local daemon, providing tools like read/write files, exec commands, git status, etc.",
+  "source_repo": "YuLeiFuYun/machine-bridge-mcp",
+  "source_url": "https://github.com/YuLeiFuYun/machine-bridge-mcp",
+  "install": "npx -y machine-bridge-mcp"
+}

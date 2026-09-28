@@ -1,0 +1,7 @@
+{
+  "name": "campusmind-ai",
+  "description": "A calculator-focused MCP server template with tools, resources, and prompts built on NitroStack.",
+  "source_repo": "Maheshdayyala/CampusMind-AI",
+  "source_url": "https://github.com/Maheshdayyala/CampusMind-AI",
+  "install": "# git clone --depth 1 https://github.com/Maheshdayyala/CampusMind-AI\n# See source for mcpServers config block"
+}

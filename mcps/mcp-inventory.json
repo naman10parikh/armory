@@ -1,0 +1,7 @@
+{
+  "name": "mcp-inventory",
+  "description": "An MCP server for managing product inventory with SQLite, enabling CRUD operations and statistical queries such as total value, out-of-stock items, and most expensive product.",
+  "source_repo": "Feralex3109/mcp_inventory",
+  "source_url": "https://github.com/Feralex3109/mcp_inventory",
+  "install": "# git clone --depth 1 https://github.com/Feralex3109/mcp_inventory\n# See source for mcpServers config block"
+}

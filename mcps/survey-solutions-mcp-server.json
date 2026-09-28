@@ -1,0 +1,7 @@
+{
+  "name": "survey-solutions-mcp-server",
+  "description": "Local MCP server for Survey Solutions Headquarters workflows, enabling connection profile management, read operations, export handling, and guarded fieldwork/admin actions through natural language.",
+  "source_repo": "lbruce-wq/survey-solutions-mcp",
+  "source_url": "https://github.com/lbruce-wq/survey-solutions-mcp",
+  "install": "npx -y survey-solutions-mcp"
+}

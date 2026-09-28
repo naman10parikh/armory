@@ -1,0 +1,7 @@
+{
+  "name": "xray-cloud-mcp",
+  "description": "MCP server for Xray Cloud test management that enables importing automation results and managing tests, test executions, and test sets in Jira.",
+  "source_repo": "madhawar/xray-mcp-azure",
+  "source_url": "https://github.com/madhawar/xray-mcp-azure",
+  "install": "# git clone --depth 1 https://github.com/madhawar/xray-mcp-azure\n# See source for mcpServers config block"
+}

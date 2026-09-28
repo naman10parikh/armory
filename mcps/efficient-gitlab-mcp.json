@@ -1,0 +1,7 @@
+{
+  "name": "efficient-gitlab-mcp",
+  "description": "Token-efficient GitLab MCP server that delivers 167 tools through 3 meta-tools with progressive disclosure, field projection, server-side file trimming, and keyset pagination for agent context budgets.",
+  "source_repo": "detailobsessed/efficient-gitlab-mcp",
+  "source_url": "https://github.com/detailobsessed/efficient-gitlab-mcp",
+  "install": "npx -y efficient-gitlab-mcp"
+}

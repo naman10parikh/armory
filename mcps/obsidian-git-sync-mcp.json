@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-git-sync-mcp",
+  "description": "A dockerised, self-hostable host that runs an Obsidian vault headlessly and serves it to MCP clients, with pluggable sync (git first).",
+  "source_repo": "jjsmackay/obsidian-git-sync-mcp",
+  "source_url": "https://github.com/jjsmackay/obsidian-git-sync-mcp",
+  "install": "npx -y obsidian-git-sync-mcp"
+}

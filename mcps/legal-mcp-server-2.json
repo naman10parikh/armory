@@ -1,0 +1,7 @@
+{
+  "name": "legal-mcp-server-2",
+  "description": "A Model Context Protocol server for legal document search and retrieval, powered by Azure Cosmos DB and Voyage AI embeddings, exposing 12 tools for semantic search, keyword search, Bates number lookup, claim-specific queries, and statutory citation search over a corpus of vectorized legal documents.",
+  "source_repo": "tbrew13/legal-mcp",
+  "source_url": "https://github.com/tbrew13/legal-mcp",
+  "install": "npx -y legal-mcp"
+}

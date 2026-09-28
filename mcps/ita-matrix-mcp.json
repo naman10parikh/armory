@@ -1,0 +1,7 @@
+{
+  "name": "ita-matrix-mcp",
+  "description": "MCP server that searches ITA Matrix for complex flight itineraries, supporting multi-city trips and custom routing codes, to help plan intricate travel plans.",
+  "source_repo": "Filip-Kin/ita-matrix-mcp",
+  "source_url": "https://github.com/Filip-Kin/ita-matrix-mcp",
+  "install": "npx -y ita-matrix-mcp"
+}

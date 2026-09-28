@@ -1,0 +1,7 @@
+{
+  "name": "pi-doc-mcp-2",
+  "description": "MCP server that gives AI assistants direct access to live AVEVA PI System documentation, eliminating hallucination on PI-specific topics by fetching real answers from the official docs.",
+  "source_repo": "naufal-halal/pi-doc-mcp",
+  "source_url": "https://github.com/naufal-halal/pi-doc-mcp",
+  "install": "npx -y pi-doc-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-devops-kit",
+  "description": "A Model Context Protocol server integrating DevOps tools for GitHub, Docker, and filesystem operations.",
+  "source_repo": "Jmfrodero/codeblueprint-mcp",
+  "source_url": "https://github.com/Jmfrodero/codeblueprint-mcp",
+  "install": "npx -y codeblueprint-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cirdan",
+  "description": "Cirdan maps and watches the live infrastructure your agent session can reach — Docker, Kubernetes, cloud, IaC, and telemetry — then exposes it over MCP. It fingerprints the environment, builds a dependency graph, detects incidents, and can run evidence-backed actions. It inherits the session's own a",
+  "source_repo": "adanb13/cirdan",
+  "source_url": "https://github.com/adanb13/cirdan",
+  "install": "# git clone --depth 1 https://github.com/adanb13/cirdan\n# See source for mcpServers config block"
+}

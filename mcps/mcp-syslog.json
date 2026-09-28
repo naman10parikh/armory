@@ -1,0 +1,7 @@
+{
+  "name": "mcp-syslog",
+  "description": "Enables secure search, tail, grep, and correlation of centrally collected infrastructure logs, turning blind restarts into informed remediation decisions.",
+  "source_repo": "crunchtools/mcp-syslog",
+  "source_url": "https://github.com/crunchtools/mcp-syslog",
+  "install": "# git clone --depth 1 https://github.com/crunchtools/mcp-syslog\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "experience-graph-mcp",
+  "description": "Bridges Claude Code to bastion's Experience Graph (long-term memory) and 33 security skills. Provides MCP tools to search/record experiences and preview/run skills, reusing bastion source unchanged.",
+  "source_repo": "mrgrit/experience_graph_mcp",
+  "source_url": "https://github.com/mrgrit/experience_graph_mcp",
+  "install": "npx -y experience_graph_mcp"
+}

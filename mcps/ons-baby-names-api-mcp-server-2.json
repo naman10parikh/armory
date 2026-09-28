@@ -1,0 +1,7 @@
+{
+  "name": "ons-baby-names-api-mcp-server-2",
+  "description": "Enables querying England & Wales baby names data via natural language, including top names, popularity trends, geographic breakdowns, and similar names, through MCP-compatible clients like Claude.",
+  "source_repo": "ONSdigital/ons-baby-names-api-mcp",
+  "source_url": "https://github.com/ONSdigital/ons-baby-names-api-mcp",
+  "install": "npx -y ons-baby-names-api-mcp"
+}

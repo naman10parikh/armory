@@ -1,0 +1,7 @@
+{
+  "name": "subcodex-mcp",
+  "description": "MCP server that enables Claude Code to delegate code generation and debugging to OpenAI Codex, with stall detection and auto-recovery.",
+  "source_repo": "G0d2i11a/subcodex-mcp",
+  "source_url": "https://github.com/G0d2i11a/subcodex-mcp",
+  "install": "npx -y subcodex-mcp"
+}

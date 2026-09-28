@@ -1,0 +1,7 @@
+{
+  "name": "umi-ocr-mcp-server",
+  "description": "Exposes local Umi-OCR v2 capabilities to AI agents via MCP, enabling image text extraction, batch OCR, PDF OCR, and status checks without manually starting the service.",
+  "source_repo": "QinLuza/Umi-OCR-MCP",
+  "source_url": "https://github.com/QinLuza/Umi-OCR-MCP",
+  "install": "npx -y Umi-OCR-MCP"
+}

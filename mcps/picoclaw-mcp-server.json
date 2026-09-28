@@ -1,0 +1,7 @@
+{
+  "name": "picoclaw-mcp-server",
+  "description": "Enables browser automation with stealth features, GitHub integration, and persistent opencode repository access through MCP tools.",
+  "source_repo": "Evansxm/picoclaw-mcp-server",
+  "source_url": "https://github.com/Evansxm/picoclaw-mcp-server",
+  "install": "npx -y picoclaw-mcp-server"
+}

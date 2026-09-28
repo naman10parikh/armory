@@ -1,0 +1,7 @@
+{
+  "name": "healthsec-mcp",
+  "description": "Enables AI agents to evaluate clinical AI models for adversarial robustness, privacy leakage, and standards compliance, producing a Security Posture Score.",
+  "source_repo": "MichaelEnny/healthsec-mcp",
+  "source_url": "https://github.com/MichaelEnny/healthsec-mcp",
+  "install": "npx -y healthsec-mcp"
+}

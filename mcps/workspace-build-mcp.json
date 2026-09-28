@@ -1,0 +1,7 @@
+{
+  "name": "workspace-build-mcp",
+  "description": "Builds an Angular UI library and npm-links it into a consumer app, with support for Git workflows via mhdd24-cli.",
+  "source_repo": "Mhdd-24/Workspace-Build-MCP",
+  "source_url": "https://github.com/Mhdd-24/Workspace-Build-MCP",
+  "install": "npx -y Workspace-Build-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fal-butler",
+  "description": "Enables users to turn a product brief into a professional ad campaign, generating a validated fal.ai workflow.json with consistent characters, sound, and subtitles while showing costs before any model runs.",
+  "source_repo": "mertagralii/fal.ai-butler",
+  "source_url": "https://github.com/mertagralii/fal.ai-butler",
+  "install": "# git clone --depth 1 https://github.com/mertagralii/fal.ai-butler\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tally-mcp",
+  "description": "A read-only MCP server that connects Claude Desktop to TallyPrime, enabling natural-language auditing and analysis of accounting data directly from the local Tally installation.",
+  "source_repo": "MarketingBNG/Tally-MCP",
+  "source_url": "https://github.com/MarketingBNG/Tally-MCP",
+  "install": "npx -y Tally-MCP"
+}

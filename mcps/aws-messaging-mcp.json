@@ -1,0 +1,7 @@
+{
+  "name": "aws-messaging-mcp",
+  "description": "Enables sending emails via Amazon SES, SMS/MMS/RCS messages through AWS End User Messaging, and sharing files via CloudFront-signed download links, all from AI assistants like Claude Code or Claude Desktop.",
+  "source_repo": "gesparza8138/aws-messaging-mcp",
+  "source_url": "https://github.com/gesparza8138/aws-messaging-mcp",
+  "install": "npx -y aws-messaging-mcp"
+}

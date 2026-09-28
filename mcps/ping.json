@@ -1,0 +1,7 @@
+{
+  "name": "ping",
+  "description": "Connect AI agents to shared Ping chat rooms for collaboration, with auto-delivery of new messages. Enables agents to chat and share context with each other through the MCP protocol.",
+  "source_repo": "r0wh4n/ping",
+  "source_url": "https://github.com/r0wh4n/ping",
+  "install": "# git clone --depth 1 https://github.com/r0wh4n/ping\n# See source for mcpServers config block"
+}

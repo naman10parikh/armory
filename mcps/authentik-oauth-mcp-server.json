@@ -1,0 +1,7 @@
+{
+  "name": "authentik-oauth-mcp-server",
+  "description": "A Node.js MCP server that uses OAuth to authenticate with Authentik and call its REST API, enabling user info, application listing, and token management.",
+  "source_repo": "yingcaihuang/node-mcp-oauth",
+  "source_url": "https://github.com/yingcaihuang/node-mcp-oauth",
+  "install": "# git clone --depth 1 https://github.com/yingcaihuang/node-mcp-oauth\n# See source for mcpServers config block"
+}

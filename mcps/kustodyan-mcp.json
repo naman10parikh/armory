@@ -1,0 +1,7 @@
+{
+  "name": "kustodyan-mcp",
+  "description": "Enables AI agents to protect, unprotect, and search sensitive data using Kustodyan's contextual transform engine with role-based access controls.",
+  "source_repo": "tillo/kustodyan-mcp",
+  "source_url": "https://github.com/tillo/kustodyan-mcp",
+  "install": "npx -y kustodyan-mcp"
+}

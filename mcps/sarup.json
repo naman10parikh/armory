@@ -1,0 +1,7 @@
+{
+  "name": "sarup",
+  "description": "Enables context compression for Claude Code with Thai language support, reducing token usage by 50-88% while preserving full recoverability of original content.",
+  "source_repo": "PHUICMT/sarup",
+  "source_url": "https://github.com/PHUICMT/sarup",
+  "install": "# git clone --depth 1 https://github.com/PHUICMT/sarup\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "idea-basin-mcp",
+  "description": "Enables AI assistants to search, browse, and save to a semantic knowledge graph with vector search and hierarchical organization.",
+  "source_repo": "MsFixer101/idea-basin-mcp",
+  "source_url": "https://github.com/MsFixer101/idea-basin-mcp",
+  "install": "npx -y idea-basin-mcp"
+}

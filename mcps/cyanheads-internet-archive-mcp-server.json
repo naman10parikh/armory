@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-internet-archive-mcp-server",
+  "description": "Search the Wayback Machine and IA library (40M+ items), fetch archived snapshots, retrieve item metadata and full text via MCP.",
+  "source_repo": "cyanheads/internet-archive-mcp-server",
+  "source_url": "https://github.com/cyanheads/internet-archive-mcp-server",
+  "install": "npx -y internet-archive-mcp-server"
+}

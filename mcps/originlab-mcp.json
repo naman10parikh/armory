@@ -1,0 +1,7 @@
+{
+  "name": "originlab-mcp",
+  "description": "Enables controlling OriginLab Origin through MCP to read and write worksheets, build and style multi-panel graphs, and export figures, reporting what Origin actually did rather than what it was asked to do. Works from macOS or Linux against Origin running in a Windows VM.",
+  "source_repo": "Yike-Ye/OriginLab-MCP",
+  "source_url": "https://github.com/Yike-Ye/OriginLab-MCP",
+  "install": "npx -y OriginLab-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "google-ads-intent-mcp",
+  "description": "Dry-run-first Google Ads search-term intent analyzer and negative-keyword MCP for agents.",
+  "source_repo": "davidmosiah/google-ads-intent-mcp",
+  "source_url": "https://github.com/davidmosiah/google-ads-intent-mcp",
+  "install": "npx -y google-ads-intent-mcp"
+}

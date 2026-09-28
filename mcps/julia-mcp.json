@@ -1,0 +1,7 @@
+{
+  "name": "julia-mcp",
+  "description": "Enables AI assistants to execute Julia code efficiently with persistent sessions, avoiding startup costs and maintaining state across calls.",
+  "source_repo": "aplavin/julia-mcp",
+  "source_url": "https://github.com/aplavin/julia-mcp",
+  "install": "npx -y julia-mcp"
+}

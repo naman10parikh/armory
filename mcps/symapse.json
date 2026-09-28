@@ -1,0 +1,7 @@
+{
+  "name": "symapse",
+  "description": "Provides code analysis tools for AI coding agents to understand project architecture, search for symbols, and plan changes with token reduction.",
+  "source_repo": "atobouh/symapse",
+  "source_url": "https://github.com/atobouh/symapse",
+  "install": "# git clone --depth 1 https://github.com/atobouh/symapse\n# See source for mcpServers config block"
+}

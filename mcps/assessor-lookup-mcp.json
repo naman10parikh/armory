@@ -1,0 +1,7 @@
+{
+  "name": "assessor-lookup-mcp",
+  "description": "Enables AI agents to look up county assessor public records for properties, check MLS discrepancies against public data, and discover new county assessor sources, all via a local MCP server for real-estate appraisal workflows.",
+  "source_repo": "chadru/assessor-lookup-public",
+  "source_url": "https://github.com/chadru/assessor-lookup-public",
+  "install": "# git clone --depth 1 https://github.com/chadru/assessor-lookup-public\n# See source for mcpServers config block"
+}

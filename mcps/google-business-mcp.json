@@ -1,0 +1,7 @@
+{
+  "name": "google-business-mcp",
+  "description": "Read-only MCP server for Google Merchant Center, Google Search Console, Google Drive, Gmail, Calendar, and People API.",
+  "source_repo": "mohammadtakneshan/google-business-mcp",
+  "source_url": "https://github.com/mohammadtakneshan/google-business-mcp",
+  "install": "npx -y google-business-mcp"
+}

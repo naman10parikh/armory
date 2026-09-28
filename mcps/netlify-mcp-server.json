@@ -1,0 +1,7 @@
+{
+  "name": "netlify-mcp-server",
+  "description": "MCP server for managing Netlify sites, enabling operations such as creating sites from GitHub repositories, listing, viewing details, and deleting sites.",
+  "source_repo": "mcpflow/netlify-mcp",
+  "source_url": "https://github.com/mcpflow/netlify-mcp",
+  "install": "npx -y netlify-mcp"
+}

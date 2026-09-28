@@ -1,0 +1,7 @@
+{
+  "name": "huppert-mcp",
+  "description": "MCP server that enables AI assistants to access and query fNIRS data analysis tool documentation.",
+  "source_repo": "Liam6130/huppert_mcp",
+  "source_url": "https://github.com/Liam6130/huppert_mcp",
+  "install": "npx -y huppert_mcp"
+}

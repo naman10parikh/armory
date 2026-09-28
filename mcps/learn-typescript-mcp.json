@@ -1,0 +1,7 @@
+{
+  "name": "learn-typescript-mcp",
+  "description": "A monorepo for learning the Model Context Protocol with TypeScript, featuring example MCP servers for weather data and tax calculation.",
+  "source_repo": "Suchanon/learn-typescript-mcp",
+  "source_url": "https://github.com/Suchanon/learn-typescript-mcp",
+  "install": "npx -y learn-typescript-mcp"
+}

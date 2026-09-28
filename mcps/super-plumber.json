@@ -1,0 +1,7 @@
+{
+  "name": "super-plumber",
+  "description": "MCP server for managing workflow topology graphs as pure YAML files, enabling AI agents to read, create, claim, and update task nodes with a strict state machine.",
+  "source_repo": "LUKAWI/super-plumber",
+  "source_url": "https://github.com/LUKAWI/super-plumber",
+  "install": "# git clone --depth 1 https://github.com/LUKAWI/super-plumber\n# See source for mcpServers config block"
+}

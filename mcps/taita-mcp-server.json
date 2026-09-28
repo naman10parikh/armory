@@ -1,0 +1,7 @@
+{
+  "name": "taita-mcp-server",
+  "description": "Enables managing blog posts on Taita Blog via natural language, including creating, listing, updating, and deleting posts, as well as managing categories and tags.",
+  "source_repo": "carlosvidal/taita-mcp-server",
+  "source_url": "https://github.com/carlosvidal/taita-mcp-server",
+  "install": "npx -y taita-mcp-server"
+}

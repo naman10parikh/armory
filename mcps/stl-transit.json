@@ -1,0 +1,7 @@
+{
+  "name": "stl-transit",
+  "description": "MCP server for St. Louis transit developer tooling, providing 45 tools for GTFS and GTFS-Realtime inspection, feed surveillance, schedule and arrival queries, assertions, drift detection, and golden-fixture generation for the Light Phone 3 Kotlin transit app, all backed by public unauthenticated sou",
+  "source_repo": "tyleryancey/stl-transit",
+  "source_url": "https://github.com/tyleryancey/stl-transit",
+  "install": "# git clone --depth 1 https://github.com/tyleryancey/stl-transit\n# See source for mcpServers config block"
+}

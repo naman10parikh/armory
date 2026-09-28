@@ -1,0 +1,7 @@
+{
+  "name": "mempalace-mcp",
+  "description": "An HTTP MCP gateway that wraps the mempalace Python CLI, enabling per-user memory palaces for storing and retrieving personal data.",
+  "source_repo": "thehaseebahmed/mempalace-mcp",
+  "source_url": "https://github.com/thehaseebahmed/mempalace-mcp",
+  "install": "npx -y mempalace-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hwcontract",
+  "description": "An MCP server that judges hardware behavior against timing or serial contracts, returning pass/marginal/fail verdicts for coding agents to iterate on real signal measurements.",
+  "source_repo": "MohibShaikh/hwcontract",
+  "source_url": "https://github.com/MohibShaikh/hwcontract",
+  "install": "# git clone --depth 1 https://github.com/MohibShaikh/hwcontract\n# See source for mcpServers config block"
+}

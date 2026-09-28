@@ -1,0 +1,7 @@
+{
+  "name": "danggn-mcp",
+  "description": "Enables searching Daangn listings, viewing details, and summarizing market prices via the Model Context Protocol.",
+  "source_repo": "iamkw0n/danggn-mcp",
+  "source_url": "https://github.com/iamkw0n/danggn-mcp",
+  "install": "npx -y danggn-mcp"
+}

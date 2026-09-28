@@ -1,0 +1,7 @@
+{
+  "name": "codix-build-mcp",
+  "description": "A build accelerator for AI coding assistants that scaffolds complete projects from short prompts using Smart Context Mode to reduce token usage.",
+  "source_repo": "bakalagoin/codix-build-mcp",
+  "source_url": "https://github.com/bakalagoin/codix-build-mcp",
+  "install": "npx -y codix-build-mcp"
+}

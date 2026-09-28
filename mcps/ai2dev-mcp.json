@@ -1,0 +1,7 @@
+{
+  "name": "ai2dev-mcp",
+  "description": "An MCP server that designs software projects by drafting design documents with an LLM, refining them, answering questions, and creating projects via the AI2DEV API.",
+  "source_repo": "dorthyuser/mcp-trial-python",
+  "source_url": "https://github.com/dorthyuser/mcp-trial-python",
+  "install": "# git clone --depth 1 https://github.com/dorthyuser/mcp-trial-python\n# See source for mcpServers config block"
+}

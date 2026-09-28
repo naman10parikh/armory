@@ -1,0 +1,7 @@
+{
+  "name": "kb-graph",
+  "description": "Provides a self-tending knowledge base for AI agents, automatically harvesting session transcripts into facts and state notes, and injecting relevant context into new sessions via MCP hooks.",
+  "source_repo": "uttambharadwaj/kb-graph",
+  "source_url": "https://github.com/uttambharadwaj/kb-graph",
+  "install": "# git clone --depth 1 https://github.com/uttambharadwaj/kb-graph\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "trippyogi-mcp",
+  "description": "An MCP server that exposes the author's resume as structured data and fact-checks natural-language claims against public receipts, returning verified, partially verified, or not verifiable verdicts.",
+  "source_repo": "trippyogi/trippyogi-mcp",
+  "source_url": "https://github.com/trippyogi/trippyogi-mcp",
+  "install": "npx -y trippyogi-mcp"
+}

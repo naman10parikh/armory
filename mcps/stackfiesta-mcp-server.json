@@ -1,0 +1,7 @@
+{
+  "name": "stackfiesta-mcp-server",
+  "description": "Give your AI agent access to the curated StackFiesta catalog of AI tools for game development.",
+  "source_repo": "stackfiesta/stackfiesta-mcp",
+  "source_url": "https://github.com/stackfiesta/stackfiesta-mcp",
+  "install": "npx -y stackfiesta-mcp"
+}

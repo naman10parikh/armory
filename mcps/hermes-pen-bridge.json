@@ -1,0 +1,7 @@
+{
+  "name": "hermes-pen-bridge",
+  "description": "A hybrid MCP server that proxies Pencil's native design tools and adds utilities for .pen file management, enabling design token extraction, layer trees, diffs, and batch export.",
+  "source_repo": "DevvGwardo/hermes-pen-bridge",
+  "source_url": "https://github.com/DevvGwardo/hermes-pen-bridge",
+  "install": "# git clone --depth 1 https://github.com/DevvGwardo/hermes-pen-bridge\n# See source for mcpServers config block"
+}

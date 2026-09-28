@@ -1,0 +1,7 @@
+{
+  "name": "sales-agent-mcp",
+  "description": "Enables natural language sales analysis by connecting to a SQLite database, generating charts, and exporting results to CSV/Excel.",
+  "source_repo": "smantiv/sales-agent-mcp",
+  "source_url": "https://github.com/smantiv/sales-agent-mcp",
+  "install": "npx -y sales-agent-mcp"
+}

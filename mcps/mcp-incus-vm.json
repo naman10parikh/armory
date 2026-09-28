@@ -1,0 +1,7 @@
+{
+  "name": "mcp-incus-vm",
+  "description": "Enables AI agents to control and automate Incus/QEMU virtual machines via SSH, supporting mouse/keyboard, screenshots, commands, and lifecycle management.",
+  "source_repo": "RAGton/mcp-incus-vm",
+  "source_url": "https://github.com/RAGton/mcp-incus-vm",
+  "install": "# git clone --depth 1 https://github.com/RAGton/mcp-incus-vm\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "korean-stats-mcp",
+  "description": "Enables AI assistants to retrieve real-time official Korean statistics from the KOSIS database through natural language queries, with source citations.",
+  "source_repo": "nagyeop/kosis_mcp",
+  "source_url": "https://github.com/nagyeop/kosis_mcp",
+  "install": "npx -y kosis_mcp"
+}

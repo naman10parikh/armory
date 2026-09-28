@@ -1,0 +1,7 @@
+{
+  "name": "techtenstein-pdf-mcp",
+  "description": "MCP server that gives your Claude, Cline, or Cursor session the ability to extract text, tables, and metadata from any PDF URL — including scanned PDFs via OCR.",
+  "source_repo": "sathvic-kollu/techtenstein-pdf-mcp",
+  "source_url": "https://github.com/sathvic-kollu/techtenstein-pdf-mcp",
+  "install": "npx -y techtenstein-pdf-mcp"
+}

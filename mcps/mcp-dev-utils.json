@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dev-utils",
+  "description": "A lightweight MCP server providing everyday developer utilities such as JSON formatting, UUID generation, Base64 conversion, HTTP status lookup, and Unix timestamp conversion as tools and resources.",
+  "source_repo": "jegor377/mcp-dev-utils",
+  "source_url": "https://github.com/jegor377/mcp-dev-utils",
+  "install": "# git clone --depth 1 https://github.com/jegor377/mcp-dev-utils\n# See source for mcpServers config block"
+}

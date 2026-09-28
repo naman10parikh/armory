@@ -1,0 +1,7 @@
+{
+  "name": "sentry-mcp-server",
+  "description": "Enables searching and analyzing Sentry issues, events, and traces via natural language, providing tools for error investigation and distributed tracing.",
+  "source_repo": "elad12390/sentry-mcp",
+  "source_url": "https://github.com/elad12390/sentry-mcp",
+  "install": "npx -y sentry-mcp"
+}

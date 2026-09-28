@@ -1,0 +1,7 @@
+{
+  "name": "sway-mcp",
+  "description": "Exposes Sway window manager commands as native tools for Claude Code, enabling window management, workspace navigation, and display configuration through natural language.",
+  "source_repo": "kefimoto/sway-mcp",
+  "source_url": "https://github.com/kefimoto/sway-mcp",
+  "install": "npx -y sway-mcp"
+}

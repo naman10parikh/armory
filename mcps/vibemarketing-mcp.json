@@ -1,0 +1,7 @@
+{
+  "name": "vibemarketing-mcp",
+  "description": "Enables drafting, scheduling, and publishing social posts on Vibe Marketing workspace through chat in Claude Code, Claude Desktop, or Cursor.",
+  "source_repo": "muscled-clients/vibemarketing-mcp",
+  "source_url": "https://github.com/muscled-clients/vibemarketing-mcp",
+  "install": "npx -y vibemarketing-mcp"
+}

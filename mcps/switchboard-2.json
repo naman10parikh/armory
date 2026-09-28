@@ -1,0 +1,7 @@
+{
+  "name": "switchboard-2",
+  "description": "Switchboard is a local-first, governed MCP endpoint that aggregates multiple MCP servers into one, with per-tool policy controls, an encrypted vault for credentials, and a dashboard for management.",
+  "source_repo": "Mas-AI-Official/mcp-switchboard",
+  "source_url": "https://github.com/Mas-AI-Official/mcp-switchboard",
+  "install": "# git clone --depth 1 https://github.com/Mas-AI-Official/mcp-switchboard\n# See source for mcpServers config block"
+}

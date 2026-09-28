@@ -1,0 +1,7 @@
+{
+  "name": "codex-storyboard",
+  "description": "MCP server for managing video storyboard tasks, enabling Codex to automatically generate and populate images/videos based on shot descriptions and visual design specs.",
+  "source_repo": "Yuuhann1999/codex-storyboard",
+  "source_url": "https://github.com/Yuuhann1999/codex-storyboard",
+  "install": "# git clone --depth 1 https://github.com/Yuuhann1999/codex-storyboard\n# See source for mcpServers config block"
+}

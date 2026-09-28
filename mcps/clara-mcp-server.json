@@ -1,0 +1,7 @@
+{
+  "name": "clara-mcp-server",
+  "description": "A hybrid pulmonary radiology diagnostic backend that provides MCP agent skills for vision inference, clinical RAG, report synthesis, and escalation, with multi-layer security.",
+  "source_repo": "ctitoveanu/clara-mcp-server",
+  "source_url": "https://github.com/ctitoveanu/clara-mcp-server",
+  "install": "npx -y clara-mcp-server"
+}

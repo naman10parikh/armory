@@ -1,0 +1,7 @@
+{
+  "name": "lumen-mcp",
+  "description": "Drives Lumen's data-to-SQL-to-chart-to-report loop from any MCP client, supporting keyless SQL and charting or keyed agentic data analysis.",
+  "source_repo": "ghostiee-11/lumen-mcp",
+  "source_url": "https://github.com/ghostiee-11/lumen-mcp",
+  "install": "npx -y lumen-mcp"
+}

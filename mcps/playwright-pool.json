@@ -1,0 +1,7 @@
+{
+  "name": "playwright-pool",
+  "description": "MCP server for browser automation with shared authentication and built-in UI auditing.",
+  "source_repo": "zbrooklyn-claude-labs/playwright-pool",
+  "source_url": "https://github.com/zbrooklyn-claude-labs/playwright-pool",
+  "install": "# git clone --depth 1 https://github.com/zbrooklyn-claude-labs/playwright-pool\n# See source for mcpServers config block"
+}

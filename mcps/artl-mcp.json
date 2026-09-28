@@ -1,0 +1,7 @@
+{
+  "name": "artl-mcp",
+  "description": "Enables comprehensive scientific literature retrieval and analysis through Europe PMC, PubMed, and other databases, supporting metadata extraction, full-text access, and identifier conversion via MCP and CLI.",
+  "source_repo": "contextualizer-ai/artl-mcp",
+  "source_url": "https://github.com/contextualizer-ai/artl-mcp",
+  "install": "npx -y artl-mcp"
+}

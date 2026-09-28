@@ -1,6 +1,6 @@
 {
   "name": "nylas-api-mcp",
-  "description": "Nylas Api Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "nylas-samples/nylas-api-mcp",
   "source_url": "https://mcp.so/server/nylas-api-mcp/nylas-samples",
   "install": "npx -y nylas-api-mcp"

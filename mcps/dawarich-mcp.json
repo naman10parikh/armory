@@ -1,0 +1,7 @@
+{
+  "name": "dawarich-mcp",
+  "description": "Enables interaction with Dawarich location history through tools for maps, stats, places, visits, points, and trip workflows.",
+  "source_repo": "SebastianWild/dawarich-mcp",
+  "source_url": "https://github.com/SebastianWild/dawarich-mcp",
+  "install": "npx -y dawarich-mcp"
+}

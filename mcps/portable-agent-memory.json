@@ -1,0 +1,7 @@
+{
+  "name": "portable-agent-memory",
+  "description": "Local-first, MCP-first cross-agent cognitive asset layer that enables agents to store, retrieve, govern, and migrate memory, roles, and verified skills as portable assets via MCP tools and SQLite.",
+  "source_repo": "skywaller0/Portable-Agent-Memory",
+  "source_url": "https://github.com/skywaller0/Portable-Agent-Memory",
+  "install": "# git clone --depth 1 https://github.com/skywaller0/Portable-Agent-Memory\n# See source for mcpServers config block"
+}

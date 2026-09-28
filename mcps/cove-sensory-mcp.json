@@ -1,0 +1,7 @@
+{
+  "name": "cove-sensory-mcp",
+  "description": "A local stdio MCP server that lets an Agent use configured multimodal providers to inspect images, video, audio, and music files, acting as a sensory layer for text-only LLMs.",
+  "source_repo": "moonlin1213/cove-sensory-mcp",
+  "source_url": "https://github.com/moonlin1213/cove-sensory-mcp",
+  "install": "npx -y cove-sensory-mcp"
+}

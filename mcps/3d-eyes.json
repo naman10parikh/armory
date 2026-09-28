@@ -1,0 +1,7 @@
+{
+  "name": "3d-eyes",
+  "description": "Enables coding agents to visually inspect and diagnose 3D files (meshes and Gaussian splats) for defects like flipped normals or floaters, without GPU dependencies.",
+  "source_repo": "murphy977/3d-eyes",
+  "source_url": "https://github.com/murphy977/3d-eyes",
+  "install": "# git clone --depth 1 https://github.com/murphy977/3d-eyes\n# See source for mcpServers config block"
+}

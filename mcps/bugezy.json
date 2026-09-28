@@ -1,0 +1,7 @@
+{
+  "name": "bugezy",
+  "description": "Voice-powered bug reporting MCP server with 13 tools. Captures console logs, network errors, DOM traces, and developer voice descriptions. AI reads structured reports to find and fix bugs automatically. Chrome Extension + Python CLI.",
+  "source_repo": "fox100039-design/bugezy",
+  "source_url": "https://github.com/fox100039-design/bugezy",
+  "install": "# git clone --depth 1 https://github.com/fox100039-design/bugezy\n# See source for mcpServers config block"
+}

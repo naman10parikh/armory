@@ -1,0 +1,7 @@
+{
+  "name": "blender-finisher",
+  "description": "An MCP server that integrates with Blender to turn rough meshes into game-ready assets with automated measurement, verification, and rollback to ensure form preservation.",
+  "source_repo": "OhaoTech/niua-blender-mcp",
+  "source_url": "https://github.com/OhaoTech/niua-blender-mcp",
+  "install": "npx -y niua-blender-mcp"
+}

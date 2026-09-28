@@ -1,0 +1,7 @@
+{
+  "name": "mcp-epa-regulations",
+  "description": "This MCP server provides access to US Environmental Protection Agency regulations (40 CFR), enabling AI agents to query and retrieve regulatory data through natural language.",
+  "source_repo": "pipeworx-io/mcp-epa-regulations",
+  "source_url": "https://github.com/pipeworx-io/mcp-epa-regulations",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-epa-regulations\n# See source for mcpServers config block"
+}

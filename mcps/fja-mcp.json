@@ -1,0 +1,7 @@
+{
+  "name": "fja-mcp",
+  "description": "An MCP server implementing the Flourishing-Justice-Autonomy (FJA) alignment framework, enabling FJA evaluation and fine-tuning of LLMs through examples like cultural diet, medical autonomy, and hiring fairness.",
+  "source_repo": "owenwangmar/fja-mcp",
+  "source_url": "https://github.com/owenwangmar/fja-mcp",
+  "install": "npx -y fja-mcp"
+}

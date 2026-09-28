@@ -1,0 +1,7 @@
+{
+  "name": "puppet-master-mcp-server",
+  "description": "Provides 26 tools for Puppet Master framework operations including initialization, development, database management, deployment, builds, linting, testing, configuration, knowledge retrieval, contribution workflows, and code reviews.",
+  "source_repo": "ldco/pm-mcp-server",
+  "source_url": "https://github.com/ldco/pm-mcp-server",
+  "install": "npx -y pm-mcp-server"
+}

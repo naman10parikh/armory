@@ -1,0 +1,7 @@
+{
+  "name": "lithuanian-cybersecurity-mcp",
+  "description": "Query Lithuanian cybersecurity data — regulations, decisions, and requirements from NKSC — directly from AI assistants.",
+  "source_repo": "Ansvar-Systems/lithuanian-cybersecurity-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/lithuanian-cybersecurity-mcp",
+  "install": "npx -y lithuanian-cybersecurity-mcp"
+}

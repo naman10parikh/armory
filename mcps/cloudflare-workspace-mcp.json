@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-workspace-mcp",
+  "description": "Gives mobile AI assistants a real local command-line workspace and manages Cloudflare resources (Pages/D1/KV/R2) via REST or wrangler, with credentials remaining on-device.",
+  "source_repo": "NingFlos/cloudflare-workspace-mcp",
+  "source_url": "https://github.com/NingFlos/cloudflare-workspace-mcp",
+  "install": "npx -y cloudflare-workspace-mcp"
+}

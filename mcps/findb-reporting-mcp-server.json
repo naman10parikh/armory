@@ -1,0 +1,7 @@
+{
+  "name": "findb-reporting-mcp-server",
+  "description": "A read-only MCP server for the FinDB demo database, exposing customer, account, card, and transaction reporting tools over stateless Streamable HTTP.",
+  "source_repo": "appwrite-community/finance-mcp-demo",
+  "source_url": "https://github.com/appwrite-community/finance-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/appwrite-community/finance-mcp-demo\n# See source for mcpServers config block"
+}

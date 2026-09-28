@@ -1,0 +1,7 @@
+{
+  "name": "opensight-mcp",
+  "description": "Multi-backend AI vision for MCP agents. Analyze images, screenshots, and documents using local Ollama models or cloud APIs like OpenAI, Google Gemini, and OpenRouter.",
+  "source_repo": "Mr-JoE1/opensight-mcp",
+  "source_url": "https://github.com/Mr-JoE1/opensight-mcp",
+  "install": "npx -y opensight-mcp"
+}

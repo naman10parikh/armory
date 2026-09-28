@@ -1,0 +1,7 @@
+{
+  "name": "iconscout-mcp",
+  "description": "Search and download icons, illustrations, 3D assets, and Lottie animations from Iconscout directly through an AI agent.",
+  "source_repo": "ReverserID/iconscout-mcp",
+  "source_url": "https://github.com/ReverserID/iconscout-mcp",
+  "install": "npx -y iconscout-mcp"
+}

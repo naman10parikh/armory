@@ -1,0 +1,7 @@
+{
+  "name": "knowflow-mcp",
+  "description": "A unified knowledge retrieval tool for MCP-compatible LLMs, enabling structured external knowledge access from local files and future integrations.",
+  "source_repo": "esurovtsev/know-flow-mcp",
+  "source_url": "https://github.com/esurovtsev/know-flow-mcp",
+  "install": "npx -y know-flow-mcp"
+}

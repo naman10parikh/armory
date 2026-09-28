@@ -1,0 +1,7 @@
+{
+  "name": "expenses-mcp-server",
+  "description": "Enables adding, listing, and summarizing expenses in a SQLite database via LLM agents over SSE.",
+  "source_repo": "DebarghaNath/expenses-mcp-server",
+  "source_url": "https://github.com/DebarghaNath/expenses-mcp-server",
+  "install": "npx -y expenses-mcp-server"
+}

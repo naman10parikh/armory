@@ -1,6 +1,6 @@
 {
   "name": "mcpcontrol",
-  "description": "MCPControl MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Cheffromspace/MCPControl",
   "source_url": "https://mcp.so/server/MCPControl/Cheffromspace",
   "install": "# git clone --depth 1 https://mcp.so/server/MCPControl/Cheffromspace\n# See source for mcpServers config block"

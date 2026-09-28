@@ -1,0 +1,7 @@
+{
+  "name": "btc-intraday-market-data-mcp",
+  "description": "Read-only MCP server providing BTC intraday quantitative market data via tools like snapshots, timeframes, liquidations, and options surface, designed for Vercel Hobby and ChatGPT custom MCP apps.",
+  "source_repo": "alchemy666888/intraday-mcp",
+  "source_url": "https://github.com/alchemy666888/intraday-mcp",
+  "install": "npx -y intraday-mcp"
+}

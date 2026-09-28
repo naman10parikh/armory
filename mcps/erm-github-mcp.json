@@ -1,0 +1,7 @@
+{
+  "name": "erm-github-mcp",
+  "description": "A minimal MCP server that exposes health-check and server information tools over stdio or HTTP, and can be containerized and deployed to IBM Code Engine.",
+  "source_repo": "ericmusa-ibm-public/erm-github-mcp",
+  "source_url": "https://github.com/ericmusa-ibm-public/erm-github-mcp",
+  "install": "npx -y erm-github-mcp"
+}

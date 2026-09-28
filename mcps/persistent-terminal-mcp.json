@@ -1,0 +1,7 @@
+{
+  "name": "persistent-terminal-mcp",
+  "description": "Enables persistent remote terminal sessions that survive dropped client connections, using pty-mcp and ai-tmux for interactive work and native OpenSSH for structured remote operations. Supports SSH config alias resolution, remote execution, file operations, and secure session management.",
+  "source_repo": "bingoweb/persistent-terminal-mcp",
+  "source_url": "https://github.com/bingoweb/persistent-terminal-mcp",
+  "install": "npx -y persistent-terminal-mcp"
+}

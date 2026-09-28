@@ -1,0 +1,7 @@
+{
+  "name": "disco-engine",
+  "description": "Enables AI agents to play Disco Elysium through MCP protocol, with a SQLite ROM containing the game's script and rules, plus a real-time browser observatory.",
+  "source_repo": "royola1108/disco-engine",
+  "source_url": "https://github.com/royola1108/disco-engine",
+  "install": "# git clone --depth 1 https://github.com/royola1108/disco-engine\n# See source for mcpServers config block"
+}

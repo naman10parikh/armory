@@ -1,0 +1,7 @@
+{
+  "name": "ollamadev-mcp-server",
+  "description": "Companion MCP server for the OllamaDev Android app, providing 36 tools for SDLC phases including filesystem, code intelligence, build, sprint workflow, and agentic self-prompt via a local Ollama model.",
+  "source_repo": "asshat1981ar/ollamadev-mcp-server",
+  "source_url": "https://github.com/asshat1981ar/ollamadev-mcp-server",
+  "install": "npx -y ollamadev-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jk-mcp",
+  "description": "A local coding bridge that enables ChatGPT to read, edit, test, and manage Git operations on your local projects.",
+  "source_repo": "Anjingyeong/jk-mcp",
+  "source_url": "https://github.com/Anjingyeong/jk-mcp",
+  "install": "npx -y jk-mcp"
+}

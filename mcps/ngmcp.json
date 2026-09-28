@@ -1,0 +1,7 @@
+{
+  "name": "ngmcp",
+  "description": "Enables AI agents to query and browse Norton Guide database files, providing tools for reading entries, searching, and navigating menus.",
+  "source_repo": "davep/ngmcp",
+  "source_url": "https://github.com/davep/ngmcp",
+  "install": "# git clone --depth 1 https://github.com/davep/ngmcp\n# See source for mcpServers config block"
+}

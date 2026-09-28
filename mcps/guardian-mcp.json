@@ -1,0 +1,7 @@
+{
+  "name": "guardian-mcp",
+  "description": "Security layer for AI agents that evaluates transaction intents and returns verdicts (ALLOW/WARN/DENY) using deterministic rules, on-chain checks, and simulation.",
+  "source_repo": "izmiradami/guardian-mcp",
+  "source_url": "https://github.com/izmiradami/guardian-mcp",
+  "install": "npx -y guardian-mcp"
+}

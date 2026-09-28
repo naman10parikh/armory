@@ -1,0 +1,7 @@
+{
+  "name": "nango-mcp-server",
+  "description": "MCP server for managing Nango environments, integrations, connections, and proxy requests. Provides tools for environment checks, integration management, connection handling, Connect sessions, and provider API calls through Nango Proxy.",
+  "source_repo": "LevSky22/nango-mcp-server",
+  "source_url": "https://github.com/LevSky22/nango-mcp-server",
+  "install": "npx -y nango-mcp-server"
+}

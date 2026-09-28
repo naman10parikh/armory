@@ -1,0 +1,7 @@
+{
+  "name": "mcp-yango-delivery",
+  "description": "MCP server for the Yango Delivery B2B API, enabling price estimation, express-courier claim creation and confirmation, courier tracking, and recipient tracking links through natural language.",
+  "source_repo": "A1-x-Tech/mcp-yango-delivery",
+  "source_url": "https://github.com/A1-x-Tech/mcp-yango-delivery",
+  "install": "# git clone --depth 1 https://github.com/A1-x-Tech/mcp-yango-delivery\n# See source for mcpServers config block"
+}

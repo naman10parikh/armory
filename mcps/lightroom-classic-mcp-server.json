@@ -1,0 +1,7 @@
+{
+  "name": "lightroom-classic-mcp-server",
+  "description": "Enables local automation of Adobe Lightroom Classic via the Model Context Protocol, supporting import, export, and non-destructive develop adjustments through an async job queue.",
+  "source_repo": "yopiesuryadi/lightroom-classic-mcp-server",
+  "source_url": "https://github.com/yopiesuryadi/lightroom-classic-mcp-server",
+  "install": "npx -y lightroom-classic-mcp-server"
+}

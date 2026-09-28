@@ -1,0 +1,7 @@
+{
+  "name": "mesie-career-cybersecurity",
+  "description": "Enables access to 200 compressed cybersecurity career profiles via tools for listing, searching, and invoking careers, supporting SOC, IR, pentest, GRC, IAM, and more.",
+  "source_repo": "ItsNotAILABS/mesie-career-cybersecurity",
+  "source_url": "https://github.com/ItsNotAILABS/mesie-career-cybersecurity",
+  "install": "# git clone --depth 1 https://github.com/ItsNotAILABS/mesie-career-cybersecurity\n# See source for mcpServers config block"
+}

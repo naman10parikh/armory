@@ -1,0 +1,7 @@
+{
+  "name": "memoryfirst-mcp",
+  "description": "Provides AI agents with persistent memory across sessions, enabling recall of decisions, clients, and deadlines with verifiable citations.",
+  "source_repo": "jupediaz/memoryfirst-mcp",
+  "source_url": "https://github.com/jupediaz/memoryfirst-mcp",
+  "install": "npx -y memoryfirst-mcp"
+}

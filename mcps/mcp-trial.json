@@ -1,0 +1,7 @@
+{
+  "name": "mcp-trial",
+  "description": "An MCP server for the GitHub API that provides repo summaries, recent commit messages, raw README resources, and a prompt template for evaluating repos as portfolio pieces.",
+  "source_repo": "Sai-Srinivas7/mcp-trial",
+  "source_url": "https://github.com/Sai-Srinivas7/mcp-trial",
+  "install": "# git clone --depth 1 https://github.com/Sai-Srinivas7/mcp-trial\n# See source for mcpServers config block"
+}

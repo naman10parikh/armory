@@ -1,0 +1,7 @@
+{
+  "name": "library-mcp",
+  "description": "Provides a 'library keeper' sub-agent that ingests PDF/EPUB books and answers questions grounded in them via local embedding search, with deterministic classification and knowledge gap logging.",
+  "source_repo": "Leovilhena/library-mcp",
+  "source_url": "https://github.com/Leovilhena/library-mcp",
+  "install": "npx -y library-mcp"
+}

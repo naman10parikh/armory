@@ -1,0 +1,7 @@
+{
+  "name": "posthog-mcp-server",
+  "description": "Connects AI assistants to PostHog to query events, persons, insights, dashboards, feature flags, cohorts, and experiments through the Model Context Protocol.",
+  "source_repo": "friendlygeorge/posthog-mcp-server",
+  "source_url": "https://github.com/friendlygeorge/posthog-mcp-server",
+  "install": "npx -y posthog-mcp-server"
+}

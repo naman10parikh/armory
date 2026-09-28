@@ -1,0 +1,7 @@
+{
+  "name": "eqanun-api",
+  "description": "MCP server for Azerbaijan's official legal-acts database (e-qanun.az), enabling search, metadata retrieval, and full-text access to legislative and judicial documents.",
+  "source_repo": "beerbottle90/eqanun-api",
+  "source_url": "https://github.com/beerbottle90/eqanun-api",
+  "install": "# git clone --depth 1 https://github.com/beerbottle90/eqanun-api\n# See source for mcpServers config block"
+}

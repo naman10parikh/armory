@@ -1,0 +1,7 @@
+{
+  "name": "opnsense-mcp",
+  "description": "Enables interaction with OPNsense firewalls through MCP tools for managing firewall rules, interfaces, DHCP leases, and system monitoring.",
+  "source_repo": "aesaganda/opnsense-mcp",
+  "source_url": "https://github.com/aesaganda/opnsense-mcp",
+  "install": "npx -y opnsense-mcp"
+}

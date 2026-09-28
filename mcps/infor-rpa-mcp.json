@@ -1,0 +1,7 @@
+{
+  "name": "infor-rpa-mcp",
+  "description": "Enables Claude Code to understand, debug, edit, and build Infor RPA Studio 2026.x workflows and project manifests using a reflected activity oracle and validation engine.",
+  "source_repo": "raghavenderhariharan/RPA_MCP",
+  "source_url": "https://github.com/raghavenderhariharan/RPA_MCP",
+  "install": "npx -y RPA_MCP"
+}

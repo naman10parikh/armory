@@ -1,0 +1,7 @@
+{
+  "name": "rancher-mcp",
+  "description": "A standalone MCP server that exposes Rancher-side tools, forwards Authorization headers or uses configured credentials, and supports HTTP and stdio transports.",
+  "source_repo": "Jasonrve/rancher-mcp",
+  "source_url": "https://github.com/Jasonrve/rancher-mcp",
+  "install": "npx -y rancher-mcp"
+}

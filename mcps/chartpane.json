@@ -1,0 +1,7 @@
+{
+  "name": "chartpane",
+  "description": "MCP server that renders interactive Chart.js charts (bar, line, pie, doughnut, etc.) inline in Claude's UI.",
+  "source_repo": "ahmadsl/chartpane",
+  "source_url": "https://github.com/ahmadsl/chartpane",
+  "install": "# git clone --depth 1 https://github.com/ahmadsl/chartpane\n# See source for mcpServers config block"
+}

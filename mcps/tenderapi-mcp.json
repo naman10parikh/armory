@@ -1,0 +1,7 @@
+{
+  "name": "tenderapi-mcp",
+  "description": "Exposes French and EU public procurement data (BOAMP + TED) as MCP tools for AI agents, enabling search for tenders, awards, and winner intelligence via typed filters.",
+  "source_repo": "IDNSIDNS/tenderapi-mcp",
+  "source_url": "https://github.com/IDNSIDNS/tenderapi-mcp",
+  "install": "npx -y tenderapi-mcp"
+}

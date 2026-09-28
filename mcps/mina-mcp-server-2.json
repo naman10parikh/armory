@@ -1,0 +1,7 @@
+{
+  "name": "mina-mcp-server-2",
+  "description": "Exposes Mina blockchain data and operations through 40+ MCP tools, supporting live public networks, a local tutorial lightnet, and archive snapshot analysis.",
+  "source_repo": "MinaProtocol/mina-mcp-server",
+  "source_url": "https://github.com/MinaProtocol/mina-mcp-server",
+  "install": "npx -y mina-mcp-server"
+}

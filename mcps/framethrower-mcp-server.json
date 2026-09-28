@@ -1,0 +1,7 @@
+{
+  "name": "framethrower-mcp-server",
+  "description": "Enables connecting any MCP client to a cinematography reference library of 5,489 films. Allows searching film frames by look, mood, or craft attributes, and refining through similar-frame discovery.",
+  "source_repo": "framethrower-ai/framethrower-mcp",
+  "source_url": "https://github.com/framethrower-ai/framethrower-mcp",
+  "install": "npx -y framethrower-mcp"
+}

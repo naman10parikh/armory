@@ -1,0 +1,7 @@
+{
+  "name": "gitflic-mcp",
+  "description": "MCP server for GitFlic, the Russian Git hosting platform, enabling AI agents to manage projects, issues, merge requests, files, and more via 66 tools covering 13 API categories.",
+  "source_repo": "revenant20/gitflic-mcp",
+  "source_url": "https://github.com/revenant20/gitflic-mcp",
+  "install": "npx -y gitflic-mcp"
+}

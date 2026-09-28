@@ -1,0 +1,7 @@
+{
+  "name": "solarnetwork",
+  "description": "Enables AI agents to query live solar telemetry from public SolarNetwork sites, detect dated equipment faults with peer-relative analysis, and generate printable PDF service reports for field technicians.",
+  "source_repo": "gopisrikrishna/solarnetwork-mcp",
+  "source_url": "https://github.com/gopisrikrishna/solarnetwork-mcp",
+  "install": "npx -y solarnetwork-mcp"
+}

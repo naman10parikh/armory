@@ -1,0 +1,7 @@
+{
+  "name": "revspot-mcp",
+  "description": "MCP server for Revspot's image generation, exposing DTC-ads tools such as generate_image, show_marketing_studio, and media upload to generate and manage marketing creatives.",
+  "source_repo": "rakshith-co/revspot-mcp",
+  "source_url": "https://github.com/rakshith-co/revspot-mcp",
+  "install": "npx -y revspot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mnova-mcp",
+  "description": "MCP server for MestReNova 15 that enables processing 1D NMR data, importing ChemDraw structures, running Mnova Verify, and writing back assignments with audit trails.",
+  "source_repo": "cyx1874cyx/mnova-mcp",
+  "source_url": "https://github.com/cyx1874cyx/mnova-mcp",
+  "install": "npx -y mnova-mcp"
+}

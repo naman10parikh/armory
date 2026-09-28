@@ -1,0 +1,7 @@
+{
+  "name": "mcp-usv",
+  "description": "A comprehensive MCP server for university faculty administration, enabling management of students, faculty, courses, grades, and documents with AI-powered chat and multiple access patterns.",
+  "source_repo": "MirabelaVieriu/mcp-server",
+  "source_url": "https://github.com/MirabelaVieriu/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/MirabelaVieriu/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ibac-fastmcp-demo",
+  "description": "An MCP server that showcases intent-based access control and ReBAC with OpenFGA, providing team and salary listing tools protected by semantic and deterministic gates.",
+  "source_repo": "sychen6192/ibac-fastmcp-demo",
+  "source_url": "https://github.com/sychen6192/ibac-fastmcp-demo",
+  "install": "# git clone --depth 1 https://github.com/sychen6192/ibac-fastmcp-demo\n# See source for mcpServers config block"
+}

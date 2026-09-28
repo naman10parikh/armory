@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-http-mcp-server",
+  "description": "A production-ready MCP server for LinkedIn that provides tools to search jobs and people, retrieve profiles, network stats, connections, and send messages via natural language.",
+  "source_repo": "Snigdha-Gayathri/LinkedIn-MCP-Host",
+  "source_url": "https://github.com/Snigdha-Gayathri/LinkedIn-MCP-Host",
+  "install": "# git clone --depth 1 https://github.com/Snigdha-Gayathri/LinkedIn-MCP-Host\n# See source for mcpServers config block"
+}

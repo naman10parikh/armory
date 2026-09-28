@@ -1,0 +1,7 @@
+{
+  "name": "gcp-infrastructure-mcp-server",
+  "description": "Provides 30+ read-only tools for querying Google Cloud Platform infrastructure, designed for AI assistants and Terraform workflows.",
+  "source_repo": "nsachin08/GCPInfraMCP",
+  "source_url": "https://github.com/nsachin08/GCPInfraMCP",
+  "install": "# git clone --depth 1 https://github.com/nsachin08/GCPInfraMCP\n# See source for mcpServers config block"
+}

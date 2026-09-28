@@ -1,0 +1,7 @@
+{
+  "name": "tgfmcp",
+  "description": "MCP server that enables Telegram bot interaction via Telegraf, providing tools for sending, replying, reacting, editing, deleting, forwarding messages, and receiving Telegram events over an optional notification channel.",
+  "source_repo": "vaibhavpandeyvpz/tgfmcp",
+  "source_url": "https://github.com/vaibhavpandeyvpz/tgfmcp",
+  "install": "# git clone --depth 1 https://github.com/vaibhavpandeyvpz/tgfmcp\n# See source for mcpServers config block"
+}

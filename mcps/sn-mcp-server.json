@@ -1,0 +1,7 @@
+{
+  "name": "sn-mcp-server",
+  "description": "A read-only MCP server for ServiceNow that provides deep visibility across multiple instances via query, schema inspection, identity, workflow, and code search tools.",
+  "source_repo": "ImJaineel/SN-MCP-Server",
+  "source_url": "https://github.com/ImJaineel/SN-MCP-Server",
+  "install": "npx -y SN-MCP-Server"
+}

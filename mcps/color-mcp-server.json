@@ -1,0 +1,7 @@
+{
+  "name": "color-mcp-server",
+  "description": "Provides color and design tools including palette generation, WCAG contrast checking, color conversion, gradients, color blindness simulation, and CSS variables, all without API keys.",
+  "source_repo": "AiAgentKarl/color-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/color-mcp-server",
+  "install": "npx -y color-mcp-server"
+}

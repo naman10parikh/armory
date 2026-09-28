@@ -1,0 +1,7 @@
+{
+  "name": "thailand-invoice-mcp",
+  "description": "Lets AI agents create Thailand e-Tax invoices (ใบกำกับภาษี) by computing Thai VAT 7% and submitting to Leceipt for signing and filing with the Thai Revenue Department.",
+  "source_repo": "junter1989k-ai/thailand-invoice-mcp",
+  "source_url": "https://github.com/junter1989k-ai/thailand-invoice-mcp",
+  "install": "npx -y thailand-invoice-mcp"
+}

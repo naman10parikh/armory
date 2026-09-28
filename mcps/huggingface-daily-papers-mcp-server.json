@@ -1,0 +1,7 @@
+{
+  "name": "huggingface-daily-papers-mcp-server",
+  "description": "Enables fetching HuggingFace daily papers for today, yesterday, or a specific date, providing paper details including title, authors, abstract, tags, votes, and links.",
+  "source_repo": "jianjungki/huggingface-daily-paper-mcp",
+  "source_url": "https://github.com/jianjungki/huggingface-daily-paper-mcp",
+  "install": "npx -y huggingface-daily-paper-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wikicitation-mcp",
+  "description": "Provides 40 tools to Claude for Wikipedia citation analysis, edit history, and DOI/ISBN annotation, enabling citation quality scoring and metadata enrichment without leaving the chat.",
+  "source_repo": "jsobel1/wikicitation-mcp",
+  "source_url": "https://github.com/jsobel1/wikicitation-mcp",
+  "install": "npx -y wikicitation-mcp"
+}

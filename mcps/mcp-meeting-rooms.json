@@ -1,0 +1,7 @@
+{
+  "name": "mcp-meeting-rooms",
+  "description": "Enables AI agents to browse, search, and book meeting rooms across multiple buildings with realistic seed data and conflict detection.",
+  "source_repo": "8bkmv4dm4z-source/mcp-meeting-rooms",
+  "source_url": "https://github.com/8bkmv4dm4z-source/mcp-meeting-rooms",
+  "install": "# git clone --depth 1 https://github.com/8bkmv4dm4z-source/mcp-meeting-rooms\n# See source for mcpServers config block"
+}

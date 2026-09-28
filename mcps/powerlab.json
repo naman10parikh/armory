@@ -1,0 +1,7 @@
+{
+  "name": "powerlab",
+  "description": "Turn a PowerLab homelab/enterprise host into a structured, agent-driven surface for catalog browsing, app management, system observability, and compose-yaml authoring.",
+  "source_repo": "neochaotic/powerlab",
+  "source_url": "https://github.com/neochaotic/powerlab",
+  "install": "# git clone --depth 1 https://github.com/neochaotic/powerlab\n# See source for mcpServers config block"
+}

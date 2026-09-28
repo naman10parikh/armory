@@ -1,0 +1,7 @@
+{
+  "name": "jucesp-consulta-p-blica-de-licenciamento",
+  "description": "Enables querying public licensing information for companies registered with the São Paulo Commercial Board (JUCESP) by CNPJ, providing read-only access through a hosted MCP server.",
+  "source_repo": "mcp-dir/jucesp_licenciamento-mcp",
+  "source_url": "https://github.com/mcp-dir/jucesp_licenciamento-mcp",
+  "install": "npx -y jucesp_licenciamento-mcp"
+}

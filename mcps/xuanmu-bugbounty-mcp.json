@@ -1,0 +1,7 @@
+{
+  "name": "xuanmu-bugbounty-mcp",
+  "description": "独立自包含的SRC挖洞专用MCP工具包，提供32个侦察、漏洞检测、认证安全、信息提取等工具，零外部依赖，即装即用。",
+  "source_repo": "guaidao2/Xuanmu-Bugbounty-mcp",
+  "source_url": "https://github.com/guaidao2/Xuanmu-Bugbounty-mcp",
+  "install": "npx -y Xuanmu-Bugbounty-mcp"
+}

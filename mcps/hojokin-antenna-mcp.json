@@ -1,0 +1,7 @@
+{
+  "name": "hojokin-antenna-mcp",
+  "description": "Enables AI assistants to search Japanese government subsidies and grants, including archived closed calls and recurring application periods based on historical data.",
+  "source_repo": "lazylog6-dev/hojokin-antenna-mcp",
+  "source_url": "https://github.com/lazylog6-dev/hojokin-antenna-mcp",
+  "install": "npx -y hojokin-antenna-mcp"
+}

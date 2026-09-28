@@ -1,0 +1,7 @@
+{
+  "name": "lexiang-mcp-server",
+  "description": "Enables AI assistants to interact with Tencent Lexiang enterprise knowledge base for searching, reading, creating, and editing documents, managing files, and importing meeting recordings.",
+  "source_repo": "tencent-lexiang/lexiang-mcp-server",
+  "source_url": "https://github.com/tencent-lexiang/lexiang-mcp-server",
+  "install": "npx -y lexiang-mcp-server"
+}

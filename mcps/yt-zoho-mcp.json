@@ -1,0 +1,7 @@
+{
+  "name": "yt-zoho-mcp",
+  "description": "MCP server for Zoho Mail that enables searching, reading, sending, and managing email messages across folders via natural language.",
+  "source_repo": "yentsun/zoho-mcp",
+  "source_url": "https://github.com/yentsun/zoho-mcp",
+  "install": "npx -y zoho-mcp"
+}

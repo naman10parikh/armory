@@ -1,0 +1,7 @@
+{
+  "name": "warpweb-mcp",
+  "description": "Enables building, revising, and deploying AI-generated websites for local service businesses via the Warpweb API, with support for domain management and form webhooks.",
+  "source_repo": "northbeamsoftware/warpweb-mcp",
+  "source_url": "https://github.com/northbeamsoftware/warpweb-mcp",
+  "install": "npx -y warpweb-mcp"
+}

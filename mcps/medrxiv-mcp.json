@@ -1,0 +1,7 @@
+{
+  "name": "medrxiv-mcp",
+  "description": "MCP server that turns a medRxiv DOI into clean markdown full text and provides free, relevance-ranked preprint search via Europe PMC.",
+  "source_repo": "yogsoth-ai/medrxiv-mcp",
+  "source_url": "https://github.com/yogsoth-ai/medrxiv-mcp",
+  "install": "npx -y medrxiv-mcp"
+}

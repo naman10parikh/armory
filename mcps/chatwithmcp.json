@@ -1,0 +1,7 @@
+{
+  "name": "chatwithmcp",
+  "description": "A terminal-based chat client for Anthropic's Claude with MCP server integration, featuring automatic tool calling, streaming, extended thinking, and built-in prompt generation/evaluation capabilities.",
+  "source_repo": "michaelgerkeadesso/ChatWithMCP",
+  "source_url": "https://github.com/michaelgerkeadesso/ChatWithMCP",
+  "install": "# git clone --depth 1 https://github.com/michaelgerkeadesso/ChatWithMCP\n# See source for mcpServers config block"
+}

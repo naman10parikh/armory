@@ -1,0 +1,7 @@
+{
+  "name": "randevu",
+  "description": "Enables autonomous agents to negotiate and collaborate through end-to-end encrypted sessions, ensuring confidentiality and non-repudiation without the relay reading plaintext.",
+  "source_repo": "eshton/randevu",
+  "source_url": "https://github.com/eshton/randevu",
+  "install": "# git clone --depth 1 https://github.com/eshton/randevu\n# See source for mcpServers config block"
+}

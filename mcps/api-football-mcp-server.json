@@ -1,0 +1,7 @@
+{
+  "name": "api-football-mcp-server",
+  "description": "Enables natural language querying of football/soccer data via the API-Football service, providing access to leagues, teams, players, fixtures, standings, and statistics.",
+  "source_repo": "dankniight/api-football-mcp-server",
+  "source_url": "https://github.com/dankniight/api-football-mcp-server",
+  "install": "npx -y api-football-mcp-server"
+}

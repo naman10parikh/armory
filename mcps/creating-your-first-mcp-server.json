@@ -1,0 +1,7 @@
+{
+  "name": "creating-your-first-mcp-server",
+  "description": "Enables to perform mathematical calculations, retrieve weather information, and manage files through a standardized MCP interface, showcasing best practices for building MCP servers.",
+  "source_repo": "ry-ops/creating-your-first-mcp-server",
+  "source_url": "https://github.com/ry-ops/creating-your-first-mcp-server",
+  "install": "npx -y creating-your-first-mcp-server"
+}

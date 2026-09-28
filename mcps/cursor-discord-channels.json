@@ -1,0 +1,7 @@
+{
+  "name": "cursor-discord-channels",
+  "description": "Bridges Discord channels to Cursor's headless agent, enabling always-on Discord MCP interactions on a server.",
+  "source_repo": "lilyzhng/cursor-discord-channels",
+  "source_url": "https://github.com/lilyzhng/cursor-discord-channels",
+  "install": "# git clone --depth 1 https://github.com/lilyzhng/cursor-discord-channels\n# See source for mcpServers config block"
+}

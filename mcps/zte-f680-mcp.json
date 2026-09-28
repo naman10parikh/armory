@@ -1,0 +1,7 @@
+{
+  "name": "zte-f680-mcp",
+  "description": "MCP server to manage and inspect a ZTE ZXHN F680 GPON router, enabling conversational control of NAT/port forwarding and reading WiFi, DHCP, DMZ, WAN, and device status from MCP-compatible clients.",
+  "source_repo": "Picaresco/MCP-ZTE-F680",
+  "source_url": "https://github.com/Picaresco/MCP-ZTE-F680",
+  "install": "# git clone --depth 1 https://github.com/Picaresco/MCP-ZTE-F680\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "woow-podman-mcp-server",
+  "description": "MCP server that exposes Podman host management as tools, allowing natural language control of containers, images, volumes, networks, and pods. Includes an administrative console with safety profiles for gated access.",
+  "source_repo": "WOOWTECH/Woow_podman__mcp_server",
+  "source_url": "https://github.com/WOOWTECH/Woow_podman__mcp_server",
+  "install": "npx -y Woow_podman__mcp_server"
+}

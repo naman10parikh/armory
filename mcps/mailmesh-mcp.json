@@ -1,0 +1,7 @@
+{
+  "name": "mailmesh-mcp",
+  "description": "A private, single-user MCP server that unifies Gmail, Microsoft 365/Outlook, and IMAP mailboxes for LLMs to search and read emails live, without storing or caching mailbox contents.",
+  "source_repo": "culpen90/mailmesh-mcp",
+  "source_url": "https://github.com/culpen90/mailmesh-mcp",
+  "install": "npx -y mailmesh-mcp"
+}

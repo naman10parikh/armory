@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-zwave-js-ui",
+  "description": "An MCP server that connects to Z-Wave JS UI's WebSocket to expose controller, node, and configuration information as tools for AI assistants to manage Z-Wave networks.",
+  "source_repo": "cacack/mcp-server-zwave-js-ui",
+  "source_url": "https://github.com/cacack/mcp-server-zwave-js-ui",
+  "install": "# git clone --depth 1 https://github.com/cacack/mcp-server-zwave-js-ui\n# See source for mcpServers config block"
+}

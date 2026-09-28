@@ -1,0 +1,7 @@
+{
+  "name": "cdgmcp",
+  "description": "Exposes a Congress.gov-style legislative GraphQL API to MCP clients, enabling querying bills, actions, committee activities, and cosponsors via natural language.",
+  "source_repo": "adathouse/cdgmcp",
+  "source_url": "https://github.com/adathouse/cdgmcp",
+  "install": "# git clone --depth 1 https://github.com/adathouse/cdgmcp\n# See source for mcpServers config block"
+}

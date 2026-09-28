@@ -1,0 +1,7 @@
+{
+  "name": "skillforge",
+  "description": "An MCP server that makes your AI agent learn and evolve by capturing feedback as reusable, persistent skills that improve over time.",
+  "source_repo": "CatVinci-Studio/skillForge",
+  "source_url": "https://github.com/CatVinci-Studio/skillForge",
+  "install": "# git clone --depth 1 https://github.com/CatVinci-Studio/skillForge\n# See source for mcpServers config block"
+}

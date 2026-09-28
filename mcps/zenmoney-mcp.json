@@ -1,0 +1,7 @@
+{
+  "name": "zenmoney-mcp",
+  "description": "Read-only MCP server for ZenMoney that syncs financial data into memory and exposes it through tools and resources, enabling agentic analysis of transactions and spending patterns.",
+  "source_repo": "nonnname/zenmoney-mcp",
+  "source_url": "https://github.com/nonnname/zenmoney-mcp",
+  "install": "npx -y zenmoney-mcp"
+}

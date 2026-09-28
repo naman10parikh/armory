@@ -1,0 +1,7 @@
+{
+  "name": "sonovault-mcp",
+  "description": "Provides access to the SonoVault music metadata API, enabling search and retrieval of information about 90M+ tracks, artists, labels, and releases, including ISRC, ISWC, and cross-platform IDs.",
+  "source_repo": "rekordcloud/sonovault-mcp",
+  "source_url": "https://github.com/rekordcloud/sonovault-mcp",
+  "install": "npx -y sonovault-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kakao-mcp",
+  "description": "Enables AI agents to use Kakao's Local, Search, and Vision APIs for address conversion, place search, web/blog/search, and OCR, requiring only a REST API key.",
+  "source_repo": "Sedong-Choi/kakao-mcp",
+  "source_url": "https://github.com/Sedong-Choi/kakao-mcp",
+  "install": "npx -y kakao-mcp"
+}

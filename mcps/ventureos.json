@@ -1,0 +1,7 @@
+{
+  "name": "ventureos",
+  "description": "Provides startup verification tools including domain/package/org availability checks, unit economics, runway, market size, and cap table calculations with transparent formulas and warnings to prevent common agent errors.",
+  "source_repo": "izmiradami/ventureos-mcp",
+  "source_url": "https://github.com/izmiradami/ventureos-mcp",
+  "install": "npx -y ventureos-mcp"
+}

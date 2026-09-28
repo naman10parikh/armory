@@ -1,6 +1,6 @@
 {
   "name": "unity-mcp-3",
-  "description": "Unity Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Artmann/unity-mcp",
   "source_url": "https://mcp.so/server/unity-mcp/Artmann",
   "install": "npx -y unity-mcp"

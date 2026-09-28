@@ -1,0 +1,7 @@
+{
+  "name": "sqlfluff-mcp-server",
+  "description": "MCP server that exposes SQLFluff's linting, fixing, and parsing capabilities, enabling MCP-aware clients to lint and fix SQL directly.",
+  "source_repo": "gswartwood/sqlfluff-mcp-server",
+  "source_url": "https://github.com/gswartwood/sqlfluff-mcp-server",
+  "install": "npx -y sqlfluff-mcp-server"
+}

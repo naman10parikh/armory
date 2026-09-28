@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-statuspage",
+  "description": "MCP server that answers service status and uptime questions by reading Atlassian Statuspage feeds from hundreds of vendors, with keyless access and tools for checking status, incidents, and vendor listings.",
+  "source_repo": "pipeworx-io/mcp-statuspage",
+  "source_url": "https://github.com/pipeworx-io/mcp-statuspage",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-statuspage\n# See source for mcpServers config block"
+}

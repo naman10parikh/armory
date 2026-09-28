@@ -1,0 +1,7 @@
+{
+  "name": "moon-banking-mcp-server",
+  "description": "Provides AI agents with live access to a global directory of consumer and business banks, including community-rated scores across categories like customer service, fees, digital experience, and crypto friendliness, enabling grounded answers to banking questions.",
+  "source_repo": "moonbanking/mcp-server",
+  "source_url": "https://github.com/moonbanking/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/moonbanking/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "taranis-ng-mcp",
+  "description": "Enables AI assistants to work with Taranis NG OSINT platform through a typed, safety-oriented interface over its REST API, covering collection, analysis, reporting, and administration workflows.",
+  "source_repo": "SK-CERT/Taranis-NG-MCP",
+  "source_url": "https://github.com/SK-CERT/Taranis-NG-MCP",
+  "install": "npx -y Taranis-NG-MCP"
+}

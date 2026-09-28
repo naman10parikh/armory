@@ -1,0 +1,7 @@
+{
+  "name": "dental-calendar-mcp",
+  "description": "Enables ElevenLabs AI agents to manage dental clinic appointments through Google Calendar, including checking availability, booking, canceling, rescheduling, and retrieving appointment details.",
+  "source_repo": "Roelovanheeren/dental-calendar-mcp",
+  "source_url": "https://github.com/Roelovanheeren/dental-calendar-mcp",
+  "install": "npx -y dental-calendar-mcp"
+}

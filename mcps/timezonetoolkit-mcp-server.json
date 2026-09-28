@@ -1,0 +1,7 @@
+{
+  "name": "timezonetoolkit-mcp-server",
+  "description": "Enables timezone conversion, astronomical calculations, and date utilities through natural language, supporting sunrise/sunset, moon phases, business days, and more.",
+  "source_repo": "Cicatriiz/timezone-toolkit",
+  "source_url": "https://github.com/Cicatriiz/timezone-toolkit",
+  "install": "# git clone --depth 1 https://github.com/Cicatriiz/timezone-toolkit\n# See source for mcpServers config block"
+}

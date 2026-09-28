@@ -1,0 +1,7 @@
+{
+  "name": "readytrader-forex",
+  "description": "Enables AI agents to perform forex trading operations through brokerages with risk controls and safety guardrails.",
+  "source_repo": "up2itnow0822/ReadyTrader-FOREX",
+  "source_url": "https://github.com/up2itnow0822/ReadyTrader-FOREX",
+  "install": "# git clone --depth 1 https://github.com/up2itnow0822/ReadyTrader-FOREX\n# See source for mcpServers config block"
+}

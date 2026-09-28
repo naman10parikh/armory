@@ -1,0 +1,7 @@
+{
+  "name": "tiny-loki-mcp",
+  "description": "Enables read-only querying of Grafana Loki logs through tools like label discovery, LogQL queries, and recent log retrieval, without requiring knowledge of the Loki API.",
+  "source_repo": "myers-gh1328/tiny-loki-mcp",
+  "source_url": "https://github.com/myers-gh1328/tiny-loki-mcp",
+  "install": "npx -y tiny-loki-mcp"
+}

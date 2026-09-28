@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-enterprise-tools",
+  "description": "MCP server for regulated enterprises, providing per-tool RBAC, redacted audit logging, and structured error handling. Exposes bank tools for customer lookup, statement search, and dispute resolution over stdio and HTTPS transports.",
+  "source_repo": "sudsho/mcp-server-enterprise-tools",
+  "source_url": "https://github.com/sudsho/mcp-server-enterprise-tools",
+  "install": "# git clone --depth 1 https://github.com/sudsho/mcp-server-enterprise-tools\n# See source for mcpServers config block"
+}

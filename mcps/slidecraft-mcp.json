@@ -1,0 +1,7 @@
+{
+  "name": "slidecraft-mcp",
+  "description": "Creates AI-powered slide decks directly from Claude Desktop with live progress and QA scores.",
+  "source_repo": "dwinter3/slidecraft-mcp",
+  "source_url": "https://github.com/dwinter3/slidecraft-mcp",
+  "install": "npx -y slidecraft-mcp"
+}

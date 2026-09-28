@@ -1,0 +1,7 @@
+{
+  "name": "repo-health",
+  "description": "Provides read-only repository health scanning tools for drift detection, module reachability, prompt bloat, evidence calibration, and registration completeness, enabling agents to diagnose repositories via MCP.",
+  "source_repo": "chenyinrusi/dsh-repo-health",
+  "source_url": "https://github.com/chenyinrusi/dsh-repo-health",
+  "install": "# git clone --depth 1 https://github.com/chenyinrusi/dsh-repo-health\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "postlayer-connect",
+  "description": "A local MCP server that enables AI assistants to post to social media platforms (LinkedIn, X, Bluesky, Mastodon, Reddit, etc.) using your own app credentials, with encrypted token storage and no middleman.",
+  "source_repo": "pokakrisztian2/postlayer-connect",
+  "source_url": "https://github.com/pokakrisztian2/postlayer-connect",
+  "install": "# git clone --depth 1 https://github.com/pokakrisztian2/postlayer-connect\n# See source for mcpServers config block"
+}

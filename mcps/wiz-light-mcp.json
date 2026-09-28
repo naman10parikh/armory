@@ -1,0 +1,7 @@
+{
+  "name": "wiz-light-mcp",
+  "description": "MCP server for controlling WiZ smart lights locally via UDP: discover bulbs, power control, color, temperature, and scenes.",
+  "source_repo": "serafinsanchez/wiz-light-mcp",
+  "source_url": "https://github.com/serafinsanchez/wiz-light-mcp",
+  "install": "npx -y wiz-light-mcp"
+}

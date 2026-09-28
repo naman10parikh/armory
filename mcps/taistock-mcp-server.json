@@ -1,0 +1,7 @@
+{
+  "name": "taistock-mcp-server",
+  "description": "Deploys a remote MCP server on Cloudflare Workers without authentication, allowing easy customization and connection to AI Playground or Claude Desktop.",
+  "source_repo": "keywayk09/taistock-mcp",
+  "source_url": "https://github.com/keywayk09/taistock-mcp",
+  "install": "npx -y taistock-mcp"
+}

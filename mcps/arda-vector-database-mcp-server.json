@@ -1,0 +1,7 @@
+{
+  "name": "arda-vector-database-mcp-server",
+  "description": "Enables semantic code search across multi-language codebases using natural language queries, integrated with Qdrant vector database for fast, cached retrieval.",
+  "source_repo": "ardaglobal/mcp-ardaglobal-code",
+  "source_url": "https://github.com/ardaglobal/mcp-ardaglobal-code",
+  "install": "# git clone --depth 1 https://github.com/ardaglobal/mcp-ardaglobal-code\n# See source for mcpServers config block"
+}

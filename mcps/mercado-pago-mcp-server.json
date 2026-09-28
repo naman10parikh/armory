@@ -1,0 +1,7 @@
+{
+  "name": "mercado-pago-mcp-server",
+  "description": "Enables AI to process payments, manage subscriptions, detect fraud, and generate analytics through Mercado Pago API.",
+  "source_repo": "hdbookie/mercado-pago-mcp",
+  "source_url": "https://github.com/hdbookie/mercado-pago-mcp",
+  "install": "npx -y mercado-pago-mcp"
+}

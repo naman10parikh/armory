@@ -1,0 +1,7 @@
+{
+  "name": "cictikz",
+  "description": "MCP server for AI-driven TikZ circuit schematics. Enables assistants to render TikZ figures, list symbols, get style guides, and iterate on designs.",
+  "source_repo": "wulffern/cictikz",
+  "source_url": "https://github.com/wulffern/cictikz",
+  "install": "# git clone --depth 1 https://github.com/wulffern/cictikz\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "airbyte-oss-mcp",
+  "description": "Read-only MCP server for self-hosted Airbyte OSS 1.6.x, enabling monitoring of connections, jobs, and health via public and internal APIs. Optionally supports triggering syncs and canceling jobs.",
+  "source_repo": "NGRThomson/airbyte-oss-mcp",
+  "source_url": "https://github.com/NGRThomson/airbyte-oss-mcp",
+  "install": "npx -y airbyte-oss-mcp"
+}

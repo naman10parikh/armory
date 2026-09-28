@@ -1,0 +1,7 @@
+{
+  "name": "svmmon-mcp",
+  "description": "Generate TikTok slideshows from Claude (and any MCP client) using your Svmmon account.",
+  "source_repo": "coreywessel/svmmon-mcp",
+  "source_url": "https://github.com/coreywessel/svmmon-mcp",
+  "install": "npx -y svmmon-mcp"
+}

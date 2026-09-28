@@ -1,0 +1,7 @@
+{
+  "name": "denaria-action-handoff-mcp",
+  "description": "Prepares unsigned App/PWA handoffs for creating positions in Denaria markets, returning QR codes for user review and signing in the Denaria app, without signing or executing transactions.",
+  "source_repo": "denaria-finance/denaria-mcp",
+  "source_url": "https://github.com/denaria-finance/denaria-mcp",
+  "install": "npx -y denaria-mcp"
+}

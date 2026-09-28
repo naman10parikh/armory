@@ -1,0 +1,7 @@
+{
+  "name": "most-recommended-books",
+  "description": "Read-only MCP server for verified book recommendations and reading lists. Ask who recommends a book, what books a public figure recommends, consensus best-of lists, series reading orders, and book summaries. No authentication required.",
+  "source_repo": "",
+  "source_url": "https://mostrecommendedbooks.com/developers",
+  "install": "# git clone --depth 1 https://mostrecommendedbooks.com/developers\n# See source for mcpServers config block"
+}

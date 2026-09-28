@@ -1,0 +1,7 @@
+{
+  "name": "nokia-sr-os-gnmi-mcp-server",
+  "description": "MCP server for managing Nokia SR OS devices via gNMI (gRPC) from Claude Desktop.",
+  "source_repo": "coolexer/gNMI-MCP-server",
+  "source_url": "https://github.com/coolexer/gNMI-MCP-server",
+  "install": "npx -y gNMI-MCP-server"
+}

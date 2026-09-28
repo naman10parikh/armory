@@ -1,0 +1,7 @@
+{
+  "name": "dcc-mcp-fpt",
+  "description": "Bridges AI assistants to Autodesk ShotGrid (Flow Production Tracking) data, enabling CRUD, search, batch operations, and schema exploration via typed MCP tools with progressive loading.",
+  "source_repo": "dcc-mcp/dcc-mcp-fpt",
+  "source_url": "https://github.com/dcc-mcp/dcc-mcp-fpt",
+  "install": "# git clone --depth 1 https://github.com/dcc-mcp/dcc-mcp-fpt\n# See source for mcpServers config block"
+}

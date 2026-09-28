@@ -1,0 +1,7 @@
+{
+  "name": "loommux",
+  "description": "Enables interactive Python execution with a persistent IPython kernel through MCP, retaining namespace state and providing structured output logs for agent and tool integrations.",
+  "source_repo": "MichengLiang/loommux",
+  "source_url": "https://github.com/MichengLiang/loommux",
+  "install": "# git clone --depth 1 https://github.com/MichengLiang/loommux\n# See source for mcpServers config block"
+}

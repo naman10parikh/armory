@@ -1,0 +1,7 @@
+{
+  "name": "mcp-cowork",
+  "description": "A remote MCP server with OAuth and passphrase protection, providing a wide range of integrations including GitHub, Microsoft 365, Google, OVH, Steam, WhatsApp, and more for use with Claude Desktop or Claude.ai.",
+  "source_repo": "simonsavoca/mcp-cowork",
+  "source_url": "https://github.com/simonsavoca/mcp-cowork",
+  "install": "# git clone --depth 1 https://github.com/simonsavoca/mcp-cowork\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tollbooth-mcp-server",
+  "description": "Enables AI agents to resolve tokens, get quotes, check for honeypots/rug pulls, build swaps, and retrieve receipts via x402 micropayments.",
+  "source_repo": "soundsparkaudiolab/tollbooth-examples",
+  "source_url": "https://github.com/soundsparkaudiolab/tollbooth-examples",
+  "install": "# git clone --depth 1 https://github.com/soundsparkaudiolab/tollbooth-examples\n# See source for mcpServers config block"
+}

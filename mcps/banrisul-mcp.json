@@ -1,0 +1,7 @@
+{
+  "name": "banrisul-mcp",
+  "description": "Connects Banrisul bank accounts to AI assistants via Open Finance Brazil, enabling read-only queries on balances, statements, credit cards, and investments.",
+  "source_repo": "mcp-dir/banrisul-mcp",
+  "source_url": "https://github.com/mcp-dir/banrisul-mcp",
+  "install": "npx -y banrisul-mcp"
+}

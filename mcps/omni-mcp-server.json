@@ -1,0 +1,7 @@
+{
+  "name": "omni-mcp-server",
+  "description": "A unified MCP server that combines GitHub, local Git, Slack, web fetching, persistent memory, and filesystem tools into a single configuration entry, with dangerous capabilities like shell execution disabled by default.",
+  "source_repo": "bitofacoder/omni-mcp-server",
+  "source_url": "https://github.com/bitofacoder/omni-mcp-server",
+  "install": "npx -y omni-mcp-server"
+}

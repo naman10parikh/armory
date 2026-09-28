@@ -1,0 +1,7 @@
+{
+  "name": "google-ads-mcp-server-3",
+  "description": "Connects MCP clients to the Google Ads API v23, enabling account listing, GAQL queries, campaign management, and performance reporting through natural language.",
+  "source_repo": "yeswanthreddyk/Google-ads-MCP",
+  "source_url": "https://github.com/yeswanthreddyk/Google-ads-MCP",
+  "install": "npx -y Google-ads-MCP"
+}

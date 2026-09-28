@@ -1,0 +1,7 @@
+{
+  "name": "garmin-workout-pipeline",
+  "description": "Enables building and uploading structured workouts to Garmin Connect using YAML or natural language, supporting running, cycling, and strength with zones and circuits.",
+  "source_repo": "k-schmidt/Garmin-Workout-Pipeline",
+  "source_url": "https://github.com/k-schmidt/Garmin-Workout-Pipeline",
+  "install": "# git clone --depth 1 https://github.com/k-schmidt/Garmin-Workout-Pipeline\n# See source for mcpServers config block"
+}

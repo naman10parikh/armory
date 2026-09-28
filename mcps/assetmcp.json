@@ -1,0 +1,7 @@
+{
+  "name": "assetmcp",
+  "description": "Provides normalized reads and unsigned transaction payloads for ASA, ARC-200, and ARC-72 assets on Algorand and Voi mainnets via the Model Context Protocol.",
+  "source_repo": "NautilusOSS/AssetMCP",
+  "source_url": "https://github.com/NautilusOSS/AssetMCP",
+  "install": "# git clone --depth 1 https://github.com/NautilusOSS/AssetMCP\n# See source for mcpServers config block"
+}

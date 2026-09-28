@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-denmark-payments-mcp",
+  "description": "Enables AI agents to accept payments in Denmark via MobilePay, cards, and Klarna through Stripe hosted checkout.",
+  "source_repo": "junter1989k-ai/denmark-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/denmark-payments-mcp",
+  "install": "npx -y denmark-payments-mcp"
+}

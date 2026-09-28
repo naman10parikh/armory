@@ -1,0 +1,7 @@
+{
+  "name": "impresso-mcp",
+  "description": "Provides access to the impresso corpus of digitized historical newspapers, enabling article search with keyword-in-context snippets, filtering, facets, and source metadata retrieval.",
+  "source_repo": "nestordemeure/impresso-mcp",
+  "source_url": "https://github.com/nestordemeure/impresso-mcp",
+  "install": "npx -y impresso-mcp"
+}

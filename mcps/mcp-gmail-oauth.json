@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gmail-oauth",
+  "description": "A self-hostable Gmail MCP server that enables Gmail search/read, sending, replies, drafts, labels, and attachment downloads via MCP tools with OAuth authorization. Supports stdio and streamable HTTP transports.",
+  "source_repo": "flujo-app/mcp-gmail-oauth",
+  "source_url": "https://github.com/flujo-app/mcp-gmail-oauth",
+  "install": "# git clone --depth 1 https://github.com/flujo-app/mcp-gmail-oauth\n# See source for mcpServers config block"
+}

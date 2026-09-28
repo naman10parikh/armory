@@ -1,0 +1,7 @@
+{
+  "name": "ai-visibility-index",
+  "description": "Read-only access to the AI Visibility Index: the measured share of answer that 20 SaaS and 24 crypto brands hold across ChatGPT, Perplexity and Gemini, re-measured weekly on a frozen prompt panel with every past release kept at a permanent URL. Five tools — full index, one brand, brand list, complet",
+  "source_repo": "creanlab/ai-visibility-index",
+  "source_url": "https://github.com/creanlab/ai-visibility-index",
+  "install": "# git clone --depth 1 https://github.com/creanlab/ai-visibility-index\n# See source for mcpServers config block"
+}

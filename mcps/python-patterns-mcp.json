@@ -1,0 +1,7 @@
+{
+  "name": "python-patterns-mcp",
+  "description": "Exposes the 23 Gang of Four design patterns to AI coding agents for generation, canonical examples, AST-based detection, validation, and anti-pattern refactoring in Python codebases.",
+  "source_repo": "air237/python-patterns-mcp",
+  "source_url": "https://github.com/air237/python-patterns-mcp",
+  "install": "npx -y python-patterns-mcp"
+}

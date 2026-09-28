@@ -1,0 +1,7 @@
+{
+  "name": "sp-api-mcp-server",
+  "description": "Unifies Amazon SP-API and Ads API into 20 MCP tools for orders, inventory, reports, feeds, and advertising, handling auth, throttling, and PII compliance automatically.",
+  "source_repo": "middlegold9/sp-api-mcp-server",
+  "source_url": "https://github.com/middlegold9/sp-api-mcp-server",
+  "install": "npx -y sp-api-mcp-server"
+}

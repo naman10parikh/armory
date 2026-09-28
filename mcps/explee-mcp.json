@@ -1,0 +1,7 @@
+{
+  "name": "explee-mcp",
+  "description": "MCP server wrapping the Explee B2B data API, enabling AI agents to search companies and people, enrich contact data, run AI agents, and manage deduplication lists.",
+  "source_repo": "digitaldrreamer/explee-mcp",
+  "source_url": "https://github.com/digitaldrreamer/explee-mcp",
+  "install": "npx -y explee-mcp"
+}

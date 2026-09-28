@@ -1,0 +1,7 @@
+{
+  "name": "aceternityui-mcp",
+  "description": "An MCP server that enables AI assistants to search, discover, and install Aceternity UI components programmatically.",
+  "source_repo": "rudra016/aceternityui-mcp",
+  "source_url": "https://github.com/rudra016/aceternityui-mcp",
+  "install": "npx -y aceternityui-mcp"
+}

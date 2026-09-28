@@ -1,0 +1,7 @@
+{
+  "name": "loc-mcp",
+  "description": "MCP server for searching and retrieving full-text pages from the Library of Congress, including newspapers, books, and manuscripts, via the loc.gov API.",
+  "source_repo": "nestordemeure/loc-mcp",
+  "source_url": "https://github.com/nestordemeure/loc-mcp",
+  "install": "npx -y loc-mcp"
+}

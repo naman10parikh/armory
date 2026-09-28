@@ -1,0 +1,7 @@
+{
+  "name": "data-detective",
+  "description": "An MCP server that gives AI assistants the ability to connect to, query, profile, and monitor data sources — turning any LLM into an interactive data engineering copilot.",
+  "source_repo": "themroats/mcp-data-detective",
+  "source_url": "https://github.com/themroats/mcp-data-detective",
+  "install": "# git clone --depth 1 https://github.com/themroats/mcp-data-detective\n# See source for mcpServers config block"
+}

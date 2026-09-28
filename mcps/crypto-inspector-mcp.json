@@ -1,0 +1,7 @@
+{
+  "name": "crypto-inspector-mcp",
+  "description": "Enables AI agents to perform token security audits, honeypot detection, liquidity analysis, and risk scoring to avoid crypto scams.",
+  "source_repo": "rabbit385/crypto-inspector-mcp",
+  "source_url": "https://github.com/rabbit385/crypto-inspector-mcp",
+  "install": "npx -y crypto-inspector-mcp"
+}

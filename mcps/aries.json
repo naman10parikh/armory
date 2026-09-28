@@ -1,0 +1,7 @@
+{
+  "name": "aries",
+  "description": "An MCP server that equips AI assistants with curated knowledge and live chain data for the Alkanes metaprotocol and Subfrost network, enabling them to read docs, query the chain, and scaffold contracts.",
+  "source_repo": "bitbragi/alkanes-aries",
+  "source_url": "https://github.com/bitbragi/alkanes-aries",
+  "install": "# git clone --depth 1 https://github.com/bitbragi/alkanes-aries\n# See source for mcpServers config block"
+}

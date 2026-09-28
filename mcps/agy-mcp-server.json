@@ -1,0 +1,7 @@
+{
+  "name": "agy-mcp-server",
+  "description": "Enables Claude to drive the Antigravity agent by running prompts through the agy CLI non-interactively, supporting session management and optional sandboxed execution.",
+  "source_repo": "toonPt0473/agy-mcp-server",
+  "source_url": "https://github.com/toonPt0473/agy-mcp-server",
+  "install": "npx -y agy-mcp-server"
+}

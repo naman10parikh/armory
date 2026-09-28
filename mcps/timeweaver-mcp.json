@@ -1,0 +1,7 @@
+{
+  "name": "timeweaver-mcp",
+  "description": "Generates synthetic time-series test data with configurable trend, seasonality, noise, anomalies, and multiple correlated streams, outputting JSON, CSV, or SQL.",
+  "source_repo": "FixtureForge/timeweaver-mcp",
+  "source_url": "https://github.com/FixtureForge/timeweaver-mcp",
+  "install": "npx -y timeweaver-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "renderping",
+  "description": "Enables AI agents to render website screenshots and PDFs, check page changes, and retrieve usage stats via REST calls.",
+  "source_repo": "DaymondHyper/renderping",
+  "source_url": "https://github.com/DaymondHyper/renderping",
+  "install": "# git clone --depth 1 https://github.com/DaymondHyper/renderping\n# See source for mcpServers config block"
+}

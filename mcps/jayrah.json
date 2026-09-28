@@ -1,0 +1,7 @@
+{
+  "name": "jayrah",
+  "description": "Enables AI assistants to interact with Jira via CLI/TUI, supporting issue browsing, creation, comments, status changes, and custom fields.",
+  "source_repo": "chmouel/jayrah",
+  "source_url": "https://github.com/chmouel/jayrah",
+  "install": "# git clone --depth 1 https://github.com/chmouel/jayrah\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "code-box",
+  "description": "A self-hosted MCP server providing stateful code execution (Python/JavaScript) with SQL query support, file I/O, and artifact management, replacing Azure Code Interpreter.",
+  "source_repo": "MadhanMohanReddy2301/CodeBoxMCP",
+  "source_url": "https://github.com/MadhanMohanReddy2301/CodeBoxMCP",
+  "install": "# git clone --depth 1 https://github.com/MadhanMohanReddy2301/CodeBoxMCP\n# See source for mcpServers config block"
+}

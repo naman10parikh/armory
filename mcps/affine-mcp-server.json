@@ -1,0 +1,7 @@
+{
+  "name": "affine-mcp-server",
+  "description": "An MCP server for AFFiNE that exposes workspaces, documents, databases, comments, and more to AI assistants over stdio or HTTP, supporting both AFFiNE Cloud and self-hosted deployments.",
+  "source_repo": "irfanhak123/affine-mcp-server",
+  "source_url": "https://github.com/irfanhak123/affine-mcp-server",
+  "install": "npx -y affine-mcp-server"
+}

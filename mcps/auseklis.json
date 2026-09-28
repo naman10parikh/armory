@@ -1,0 +1,7 @@
+{
+  "name": "auseklis",
+  "description": "Astrology MCP server that computes natal charts, transits, synastry, progressions, returns, eclipses, retrogrades, and moon phases from a real ephemeris, enabling AI agents to provide accurate astrological calculations without hallucination.",
+  "source_repo": "igmizo/auseklis",
+  "source_url": "https://github.com/igmizo/auseklis",
+  "install": "# git clone --depth 1 https://github.com/igmizo/auseklis\n# See source for mcpServers config block"
+}

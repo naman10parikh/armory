@@ -1,0 +1,7 @@
+{
+  "name": "obs-studio-mcp",
+  "description": "MCP server for controlling OBS Studio via obs-websocket, enabling scene switching, source management, streaming, recording, and text overlays through natural language.",
+  "source_repo": "aaronckj/obs-studio-mcp",
+  "source_url": "https://github.com/aaronckj/obs-studio-mcp",
+  "install": "npx -y obs-studio-mcp"
+}

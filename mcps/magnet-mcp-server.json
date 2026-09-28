@@ -1,0 +1,7 @@
+{
+  "name": "magnet-mcp-server",
+  "description": "Enables interaction with Magnet (magnet.run) via MCP, requiring an API key. Supports Cursor, Claude Desktop, and Claude Code.",
+  "source_repo": "toolkit-ai/magnet-mcp-server",
+  "source_url": "https://github.com/toolkit-ai/magnet-mcp-server",
+  "install": "npx -y magnet-mcp-server"
+}

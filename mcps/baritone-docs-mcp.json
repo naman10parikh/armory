@@ -1,0 +1,7 @@
+{
+  "name": "baritone-docs-mcp",
+  "description": "Provides fuzzy search, read, and refresh capabilities for Baritone documentation through the Model Context Protocol.",
+  "source_repo": "MCDxAI/baritone-docs-mcp",
+  "source_url": "https://github.com/MCDxAI/baritone-docs-mcp",
+  "install": "npx -y baritone-docs-mcp"
+}

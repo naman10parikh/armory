@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-tjgo-nada-consta",
+  "description": "MCP server for consulting official 'Nada Consta' certificates from the Tribunal de Justiça de Goiás (TJGO), providing read-only legal status checks via natural language.",
+  "source_repo": "mcp-dir/tribunal_tjgo_nada_consta-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_tjgo_nada_consta-mcp",
+  "install": "npx -y tribunal_tjgo_nada_consta-mcp"
+}

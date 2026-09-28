@@ -1,0 +1,7 @@
+{
+  "name": "nomad-mcp",
+  "description": "Exposes a HashiCorp Nomad cluster as MCP tools for AI agents, enabling read-only inspection of jobs, allocations, nodes, and deployments, with optional write operations like stopping jobs, scaling task groups, restarting allocations, and registering jobs.",
+  "source_repo": "udaisingh93/nomad-mcp",
+  "source_url": "https://github.com/udaisingh93/nomad-mcp",
+  "install": "npx -y nomad-mcp"
+}

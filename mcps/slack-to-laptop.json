@@ -1,0 +1,7 @@
+{
+  "name": "slack-to-laptop",
+  "description": "Enables Claude Code to interact with Slack via MCP tools, allowing thinking steps, text streaming, status updates, and stream closure in Slack threads.",
+  "source_repo": "ArnaudRinquin/slack-to-laptop",
+  "source_url": "https://github.com/ArnaudRinquin/slack-to-laptop",
+  "install": "# git clone --depth 1 https://github.com/ArnaudRinquin/slack-to-laptop\n# See source for mcpServers config block"
+}

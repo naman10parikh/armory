@@ -1,0 +1,7 @@
+{
+  "name": "whodoicallfor-mcp",
+  "description": "MCP server that helps users identify which trade to call during home emergencies by analyzing natural-language problem descriptions and providing ranked matches with costs, sources, and dispatch lines.",
+  "source_repo": "woodydaniel/whodoicallfor-mcp",
+  "source_url": "https://github.com/woodydaniel/whodoicallfor-mcp",
+  "install": "npx -y whodoicallfor-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nano-banana-2-polza-mcp-server",
+  "description": "MCP server for generating and editing images through Polza AI using Google Gemini models (Nano Banana 2, Pro, Flash). It supports conditioning with up to three reference images and provides structured metadata with reproducibility hints.",
+  "source_repo": "ivanantigravity-lgtm/nanobanana-2-polzaia-mcp-server",
+  "source_url": "https://github.com/ivanantigravity-lgtm/nanobanana-2-polzaia-mcp-server",
+  "install": "npx -y nanobanana-2-polzaia-mcp-server"
+}

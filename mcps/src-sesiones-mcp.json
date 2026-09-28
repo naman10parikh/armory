@@ -1,0 +1,7 @@
+{
+  "name": "src-sesiones-mcp",
+  "description": "MCP server that generates Word documents for biweekly sessions from an institutional template, with tools to fetch template info, create the document, and check file availability.",
+  "source_repo": "JuancitoCozzeti24/src-sesiones-mcp",
+  "source_url": "https://github.com/JuancitoCozzeti24/src-sesiones-mcp",
+  "install": "npx -y src-sesiones-mcp"
+}

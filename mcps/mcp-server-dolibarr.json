@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-dolibarr",
+  "description": "An MCP server for Dolibarr ERP/CRM that lets Claude or any MCP-compatible client read and manage thirdparties, commercial proposals, contracts, and invoices directly.",
+  "source_repo": "sachitha7/mcp-server-dolibarr",
+  "source_url": "https://github.com/sachitha7/mcp-server-dolibarr",
+  "install": "# git clone --depth 1 https://github.com/sachitha7/mcp-server-dolibarr\n# See source for mcpServers config block"
+}

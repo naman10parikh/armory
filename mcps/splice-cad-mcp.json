@@ -1,0 +1,7 @@
+{
+  "name": "splice-cad-mcp",
+  "description": "MCP server for Splice CAD cable assembly and wiring harness design tool. Enables AI agents to search parts, build harness plans, create components with specs, and generate manufacturing documentation.",
+  "source_repo": "splice-cad/splice-cad-mcp",
+  "source_url": "https://github.com/splice-cad/splice-cad-mcp",
+  "install": "npx -y splice-cad-mcp"
+}

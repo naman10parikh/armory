@@ -1,0 +1,7 @@
+{
+  "name": "mssql-mcp-server",
+  "description": "Enables AI assistants to interact with Microsoft SQL Server databases via introspection and query tools. Supports single or multiple databases with read-only mode by default and an optional write capability.",
+  "source_repo": "mihai-dulgheru/mssql-mcp-node",
+  "source_url": "https://github.com/mihai-dulgheru/mssql-mcp-node",
+  "install": "# git clone --depth 1 https://github.com/mihai-dulgheru/mssql-mcp-node\n# See source for mcpServers config block"
+}

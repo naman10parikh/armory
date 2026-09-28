@@ -1,0 +1,7 @@
+{
+  "name": "housing-sentinel-mcp",
+  "description": "Connects official daily housing-transaction data and market signals (offense/defense) for 12 major Chinese cities to AI agents via MCP, REST API, or Claude Skill.",
+  "source_repo": "SheldonZhuang/housing-sentinel-ai",
+  "source_url": "https://github.com/SheldonZhuang/housing-sentinel-ai",
+  "install": "# git clone --depth 1 https://github.com/SheldonZhuang/housing-sentinel-ai\n# See source for mcpServers config block"
+}

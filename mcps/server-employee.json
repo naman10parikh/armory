@@ -1,0 +1,7 @@
+{
+  "name": "server-employee",
+  "description": "Enables querying employment rates by sector (agriculture, industry, services) for a given country and year using World Bank API.",
+  "source_repo": "jungi0531/mcp-server-employee",
+  "source_url": "https://github.com/jungi0531/mcp-server-employee",
+  "install": "# git clone --depth 1 https://github.com/jungi0531/mcp-server-employee\n# See source for mcpServers config block"
+}

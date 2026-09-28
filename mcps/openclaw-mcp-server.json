@@ -1,0 +1,7 @@
+{
+  "name": "openclaw-mcp-server",
+  "description": "Exposes your OpenClaw assistant to Claude Desktop via Streamable HTTP transport, enabling interaction between the two AI systems.",
+  "source_repo": "rodgco/openclaw-mcp-server",
+  "source_url": "https://github.com/rodgco/openclaw-mcp-server",
+  "install": "npx -y openclaw-mcp-server"
+}

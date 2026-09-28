@@ -1,0 +1,7 @@
+{
+  "name": "visio-mcp-server",
+  "description": "Enables to create and edit Microsoft Visio diagrams programmatically via a standardized API.",
+  "source_repo": "GongRzhe/Office-Visio-MCP-Server",
+  "source_url": "https://github.com/GongRzhe/Office-Visio-MCP-Server",
+  "install": "npx -y Office-Visio-MCP-Server"
+}

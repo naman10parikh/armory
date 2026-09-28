@@ -1,0 +1,7 @@
+{
+  "name": "pref-rj-rio-janeiro-multas-mcp",
+  "description": "MCP server for querying official traffic fines data from Rio de Janeiro, Brazil, read-only and accessed via HTTP.",
+  "source_repo": "mcp-dir/pref_rj_rio_janeiro_multas-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_rj_rio_janeiro_multas-mcp",
+  "install": "npx -y pref_rj_rio_janeiro_multas-mcp"
+}

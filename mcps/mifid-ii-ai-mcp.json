@@ -1,0 +1,7 @@
+{
+  "name": "mifid-ii-ai-mcp",
+  "description": "Enables algorithmic trading compliance with MiFID II Article 17, providing tools for strategy classification, RTS 6 testing, and best execution audits. Also supports EU AI Act compliance.",
+  "source_repo": "CSOAI-ORG/mifid-ii-ai-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/mifid-ii-ai-mcp",
+  "install": "npx -y mifid-ii-ai-mcp"
+}

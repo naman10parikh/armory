@@ -1,0 +1,7 @@
+{
+  "name": "sqlserver-mcp-server",
+  "description": "Enables AI assistants to connect to SQL Server databases and execute arbitrary SQL operations, including queries, updates, table management, and script execution, through the Model Context Protocol.",
+  "source_repo": "huang-develop/SQLServer-MCP",
+  "source_url": "https://github.com/huang-develop/SQLServer-MCP",
+  "install": "npx -y SQLServer-MCP"
+}

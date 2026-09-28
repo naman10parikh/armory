@@ -1,0 +1,7 @@
+{
+  "name": "memfed",
+  "description": "Federated, privacy-first shared memory for AI coding assistants that lets you capture, review, and share team knowledge via git without a central server.",
+  "source_repo": "fpolica91/memfed",
+  "source_url": "https://github.com/fpolica91/memfed",
+  "install": "# git clone --depth 1 https://github.com/fpolica91/memfed\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "solidity-auditor-mcp",
+  "description": "Audits Ethereum/Solidity smart contracts using the Cysic Minimax model, providing automated vulnerability detection, gas optimization suggestions, and markdown report generation.",
+  "source_repo": "uitkhoanna/my-contract-mcp",
+  "source_url": "https://github.com/uitkhoanna/my-contract-mcp",
+  "install": "npx -y my-contract-mcp"
+}

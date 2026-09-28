@@ -1,0 +1,7 @@
+{
+  "name": "esg-mcp-servers",
+  "description": "Open-source MCP servers for ESG data extraction, analysis, and regulation management, providing 31 tools across 6 servers for tasks like metrics extraction, PDF processing, vector storage, and web scraping.",
+  "source_repo": "freminder/esg-mcp-servers",
+  "source_url": "https://github.com/freminder/esg-mcp-servers",
+  "install": "# git clone --depth 1 https://github.com/freminder/esg-mcp-servers\n# See source for mcpServers config block"
+}

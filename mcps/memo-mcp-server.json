@@ -1,0 +1,7 @@
+{
+  "name": "memo-mcp-server",
+  "description": "A filesystem-backed MCP server with REST API for AI tool integration and project workflow tracking. Zero database required.",
+  "source_repo": "devmaster-x/mcp",
+  "source_url": "https://github.com/devmaster-x/mcp",
+  "install": "# git clone --depth 1 https://github.com/devmaster-x/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "convex-mcp",
+  "description": "Enables building a stateless MCP endpoint on top of Convex, allowing AI agents like Claude to discover and interact with Convex backend functions as tools, prompts, and resources.",
+  "source_repo": "vibeflowing-inc/convex-mcp",
+  "source_url": "https://github.com/vibeflowing-inc/convex-mcp",
+  "install": "npx -y convex-mcp"
+}

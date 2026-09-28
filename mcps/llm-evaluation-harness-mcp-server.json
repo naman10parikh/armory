@@ -1,0 +1,7 @@
+{
+  "name": "llm-evaluation-harness-mcp-server",
+  "description": "Evaluates RAG outputs on faithfulness, answer relevancy, and context precision using an LLM-as-a-Judge backend. Exposes tools for running evaluations, scoring individual samples, and checking thresholds, enabling CI gating and on-demand assessment via MCP.",
+  "source_repo": "SaiArja/llm-eval-mcp",
+  "source_url": "https://github.com/SaiArja/llm-eval-mcp",
+  "install": "npx -y llm-eval-mcp"
+}

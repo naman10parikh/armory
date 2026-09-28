@@ -1,0 +1,7 @@
+{
+  "name": "alpha-forge-mcp",
+  "description": "The MCP server for AlphaForge — the agent-native quant CLI: write strategies in JSON, optimize with Optuna TPE, validate with walk-forward, export to TradingView Pine v6. This server lets your AI agent drive the whole pipeline over MCP.",
+  "source_repo": "alforge-labs/alpha-forge-mcp",
+  "source_url": "https://github.com/alforge-labs/alpha-forge-mcp",
+  "install": "npx -y alpha-forge-mcp"
+}

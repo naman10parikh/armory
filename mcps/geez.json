@@ -1,0 +1,7 @@
+{
+  "name": "geez",
+  "description": "Enables Claude or any MCP client to call Grok (xAI) for answers via a simple, phone-first tool.",
+  "source_repo": "fitzyracing1/geez",
+  "source_url": "https://github.com/fitzyracing1/geez",
+  "install": "# git clone --depth 1 https://github.com/fitzyracing1/geez\n# See source for mcpServers config block"
+}

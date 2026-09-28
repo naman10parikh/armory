@@ -1,0 +1,7 @@
+{
+  "name": "currency-converter-mcp-server",
+  "description": "Converts currency amounts using a hardcoded exchange rate.",
+  "source_repo": "nehamangal/mcp-server",
+  "source_url": "https://github.com/nehamangal/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/nehamangal/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcpupb",
+  "description": "MCP server that turns UPB Virtual (Moodle) into a structured knowledge source, enabling AI assistants to query courses, assignments, deadlines, announcements, and sync materials via REST API.",
+  "source_repo": "olartgabo/mcpUPB",
+  "source_url": "https://github.com/olartgabo/mcpUPB",
+  "install": "# git clone --depth 1 https://github.com/olartgabo/mcpUPB\n# See source for mcpServers config block"
+}

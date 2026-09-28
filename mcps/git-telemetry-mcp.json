@@ -1,0 +1,7 @@
+{
+  "name": "git-telemetry-mcp",
+  "description": "Provides AI assistants with a Development Time Machine by analyzing git reflogs, commit history, working directory deltas, and shell history for temporal context, including safe git operations and smart commit generation.",
+  "source_repo": "rootbid/git-telemetry-mcp",
+  "source_url": "https://github.com/rootbid/git-telemetry-mcp",
+  "install": "npx -y git-telemetry-mcp"
+}

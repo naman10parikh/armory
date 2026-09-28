@@ -1,0 +1,7 @@
+{
+  "name": "mandarake-surugaya-mcp",
+  "description": "Enables AI agents to search Mandarake auctions and Suruga-ya for used hobby items, and compare prices between the two platforms in real time.",
+  "source_repo": "atushi1841/mandarake-surugaya-mcp",
+  "source_url": "https://github.com/atushi1841/mandarake-surugaya-mcp",
+  "install": "npx -y mandarake-surugaya-mcp"
+}

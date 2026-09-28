@@ -1,0 +1,7 @@
+{
+  "name": "meetergo-mcp",
+  "description": "MCP server that exposes meetergo's scheduling and CRM API as tools for AI assistants, enabling Proton Calendar-backed booking management and contact operations without Google Workspace.",
+  "source_repo": "chill-lichen/meetergo-mcp",
+  "source_url": "https://github.com/chill-lichen/meetergo-mcp",
+  "install": "npx -y meetergo-mcp"
+}

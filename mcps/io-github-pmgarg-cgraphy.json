@@ -1,0 +1,7 @@
+{
+  "name": "io-github-pmgarg-cgraphy",
+  "description": "Enables AI coding agents to query a codebase as a knowledge graph, providing token-budgeted context, search, and impact analysis via MCP tools.",
+  "source_repo": "pmgarg/cgraphy",
+  "source_url": "https://github.com/pmgarg/cgraphy",
+  "install": "# git clone --depth 1 https://github.com/pmgarg/cgraphy\n# See source for mcpServers config block"
+}

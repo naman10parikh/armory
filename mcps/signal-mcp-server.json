@@ -1,0 +1,7 @@
+{
+  "name": "signal-mcp-server",
+  "description": "MCP server that wraps a running signal-cli daemon's JSON-RPC API as MCP tools, enabling list contacts, groups, conversations, read and send messages, and react to messages on Signal.",
+  "source_repo": "Transmitt0r/signal-mcp-server",
+  "source_url": "https://github.com/Transmitt0r/signal-mcp-server",
+  "install": "npx -y signal-mcp-server"
+}

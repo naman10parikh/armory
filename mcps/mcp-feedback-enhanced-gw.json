@@ -1,0 +1,7 @@
+{
+  "name": "mcp-feedback-enhanced-gw",
+  "description": "Establishes feedback-oriented development workflows with Web UI and desktop application interfaces, enabling AI to confirm with users and consolidate tool calls into single feedback requests.",
+  "source_repo": "nullmastermind/mcp-feedback-enhanced",
+  "source_url": "https://github.com/nullmastermind/mcp-feedback-enhanced",
+  "install": "# git clone --depth 1 https://github.com/nullmastermind/mcp-feedback-enhanced\n# See source for mcpServers config block"
+}

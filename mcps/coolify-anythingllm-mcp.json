@@ -1,0 +1,7 @@
+{
+  "name": "coolify-anythingllm-mcp",
+  "description": "Connects AnythingLLM to Coolify for natural language management of self-hosted infrastructure, including diagnostics, log fetching, and deployment automation.",
+  "source_repo": "xlop-dev/coolify-anythingllm-mcp",
+  "source_url": "https://github.com/xlop-dev/coolify-anythingllm-mcp",
+  "install": "npx -y coolify-anythingllm-mcp"
+}

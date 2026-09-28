@@ -1,0 +1,7 @@
+{
+  "name": "basezap-mcp",
+  "description": "A read-only MCP server that exposes BaseZap's tipping-agent tools to any MCP client, allowing users to fetch platform info, compute USDC tip quotes, build unsigned ERC-20 transfer calldata, and resolve Farcaster usernames to wallet addresses.",
+  "source_repo": "afifarioss/basezap-mcp",
+  "source_url": "https://github.com/afifarioss/basezap-mcp",
+  "install": "npx -y basezap-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "telodocs",
+  "description": "Scaffolds a documentation repository that serves as a remote MCP server, providing agentic search tools (glob, grep, read) over markdown docs, with a minimal browser UI.",
+  "source_repo": "teloset/telodocs",
+  "source_url": "https://github.com/teloset/telodocs",
+  "install": "# git clone --depth 1 https://github.com/teloset/telodocs\n# See source for mcpServers config block"
+}

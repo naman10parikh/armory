@@ -1,0 +1,7 @@
+{
+  "name": "nitrowatch-billing-demo",
+  "description": "A demo MCP server exposing billing operations (invoices, customers) with no built-in safety, designed as a test target for NitroWatch governance. It allows reading, sending, archiving, and permanently deleting accounts/invoices without confirmation.",
+  "source_repo": "Mohith535/nitrowatch-billing-demo",
+  "source_url": "https://github.com/Mohith535/nitrowatch-billing-demo",
+  "install": "# git clone --depth 1 https://github.com/Mohith535/nitrowatch-billing-demo\n# See source for mcpServers config block"
+}

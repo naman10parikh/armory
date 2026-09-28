@@ -1,0 +1,7 @@
+{
+  "name": "llmintel-model-lifecycle",
+  "description": "Check whether an LLM model id is deprecated, retiring, or retired, and what to migrate to. Covers OpenAI, Anthropic, Azure, Bedrock, Google, and Cohere from each provider's own deprecation pages.",
+  "source_repo": "hivemindunit/llmintel-mcp",
+  "source_url": "https://github.com/hivemindunit/llmintel-mcp",
+  "install": "npx -y llmintel-mcp"
+}

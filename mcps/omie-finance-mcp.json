@@ -1,0 +1,7 @@
+{
+  "name": "omie-finance-mcp",
+  "description": "Exposes OMIE ERP's financial API as MCP tools, enabling AI agents to query bills, process payments, generate boletos/PIX, and read cash flow via natural language.",
+  "source_repo": "denilsonpy/omie-finance-mcp",
+  "source_url": "https://github.com/denilsonpy/omie-finance-mcp",
+  "install": "npx -y omie-finance-mcp"
+}

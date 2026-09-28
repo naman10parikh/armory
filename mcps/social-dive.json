@@ -1,0 +1,7 @@
+{
+  "name": "social-dive",
+  "description": "An MCP server that provides AI agents with access to over 20 knowledge sources including arXiv, GitHub, YouTube, Wikipedia, and more for reading and searching content.",
+  "source_repo": "krishddd/social_dive",
+  "source_url": "https://github.com/krishddd/social_dive",
+  "install": "# git clone --depth 1 https://github.com/krishddd/social_dive\n# See source for mcpServers config block"
+}

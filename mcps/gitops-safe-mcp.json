@@ -1,0 +1,7 @@
+{
+  "name": "gitops-safe-mcp",
+  "description": "Enables read-only inspection of Git repository status and diff summaries, along with validation of OpenTofu and Ansible configurations, through a strictly limited, non-mutating toolset.",
+  "source_repo": "bgauger/gitops-safe-mcp",
+  "source_url": "https://github.com/bgauger/gitops-safe-mcp",
+  "install": "npx -y gitops-safe-mcp"
+}

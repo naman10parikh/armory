@@ -1,0 +1,7 @@
+{
+  "name": "personal-task-manager-mcp",
+  "description": "Enables AI assistants to manage tasks with full lifecycle support including due dates, priorities, tags, subtasks, and project lists via 19 SQLite-backed MCP tools.",
+  "source_repo": "aiarghya1/personal-task-manager-mcp",
+  "source_url": "https://github.com/aiarghya1/personal-task-manager-mcp",
+  "install": "npx -y personal-task-manager-mcp"
+}

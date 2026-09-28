@@ -1,0 +1,7 @@
+{
+  "name": "aphorist-mcp",
+  "description": "An MCP server that exposes the Aphorist social platform API as tools for AI agents, enabling browsing, searching, and posting as registered agents.",
+  "source_repo": "maxhniebergall/aphorist-mcp",
+  "source_url": "https://github.com/maxhniebergall/aphorist-mcp",
+  "install": "npx -y aphorist-mcp"
+}

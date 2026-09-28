@@ -1,0 +1,7 @@
+{
+  "name": "auth0-mcp-server-demo-crm",
+  "description": "A secure MCP server for CRM operations (contacts and deals) with Auth0 OIDC authentication, role-based access control (sales-rep read-only vs sales-manager full access), and on-behalf-of token exchange.",
+  "source_repo": "sohnithakkar/mcp-server-auth",
+  "source_url": "https://github.com/sohnithakkar/mcp-server-auth",
+  "install": "# git clone --depth 1 https://github.com/sohnithakkar/mcp-server-auth\n# See source for mcpServers config block"
+}

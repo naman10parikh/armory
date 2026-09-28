@@ -1,0 +1,7 @@
+{
+  "name": "precisioncontextengine",
+  "description": "Enables AI coding agents to efficiently navigate and understand large codebases by providing tools for entry point location, call chain analysis, and impact assessment, reducing context consumption and model costs.",
+  "source_repo": "Bluezeamer/PrecisionContextEngine",
+  "source_url": "https://github.com/Bluezeamer/PrecisionContextEngine",
+  "install": "# git clone --depth 1 https://github.com/Bluezeamer/PrecisionContextEngine\n# See source for mcpServers config block"
+}

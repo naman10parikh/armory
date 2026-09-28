@@ -1,0 +1,7 @@
+{
+  "name": "imovie-mcp-server",
+  "description": "An MCP server that enables AI-powered video editing with iMovie on macOS.",
+  "source_repo": "aspectrr/imovie-mcp-server",
+  "source_url": "https://github.com/aspectrr/imovie-mcp-server",
+  "install": "npx -y imovie-mcp-server"
+}

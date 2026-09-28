@@ -1,0 +1,7 @@
+{
+  "name": "andr-analyse-lectorale-fran-aise",
+  "description": "Résultats des élections françaises 1999-2026 par bureau de vote, socio-démo INSEE et cartes.",
+  "source_repo": "joelgombin/andre-mcp",
+  "source_url": "https://github.com/joelgombin/andre-mcp",
+  "install": "npx -y andre-mcp"
+}

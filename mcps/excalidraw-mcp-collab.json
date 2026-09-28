@@ -1,0 +1,7 @@
+{
+  "name": "excalidraw-mcp-collab",
+  "description": "Standalone backend for a self-hosted Excalidraw fork with per-board access control, providing an MCP remote endpoint that lets AI agents draw on real collaboration boards as specific users.",
+  "source_repo": "rus-artur4ik/excalidraw-mcp-collab",
+  "source_url": "https://github.com/rus-artur4ik/excalidraw-mcp-collab",
+  "install": "# git clone --depth 1 https://github.com/rus-artur4ik/excalidraw-mcp-collab\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "reefapi-mcp",
+  "description": "One MCP server providing access to 160+ live web data APIs (search, social media, e-commerce, real estate, jobs, travel, news, finance, and more) using dynamic discovery via 4 generic tools to avoid the agent's tool limit.",
+  "source_repo": "reefapi/reefapi-mcp",
+  "source_url": "https://github.com/reefapi/reefapi-mcp",
+  "install": "npx -y reefapi-mcp"
+}

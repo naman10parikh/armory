@@ -1,0 +1,7 @@
+{
+  "name": "autogen-documentation-mcp-server",
+  "description": "Enables AI assistants to search and retrieve Microsoft AutoGen documentation across versions with smart search and fallback.",
+  "source_repo": "sykuang/mcp-autogen-doc",
+  "source_url": "https://github.com/sykuang/mcp-autogen-doc",
+  "install": "# git clone --depth 1 https://github.com/sykuang/mcp-autogen-doc\n# See source for mcpServers config block"
+}

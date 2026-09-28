@@ -1,0 +1,7 @@
+{
+  "name": "finsage-mcp",
+  "description": "Connects AI agents to the Finnhub API for real-time stock quotes, market news, earnings reports, and financial metrics.",
+  "source_repo": "robbintech2019/FINSAGE_MCP",
+  "source_url": "https://github.com/robbintech2019/FINSAGE_MCP",
+  "install": "npx -y FINSAGE_MCP"
+}

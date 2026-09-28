@@ -1,0 +1,7 @@
+{
+  "name": "qbittorrent-mcp",
+  "description": "MCP server exposing qBittorrent's WebUI API v2 as tools, enabling LLMs to manage torrents, categories, tags, RSS feeds, search plugins, and application settings.",
+  "source_repo": "SavageCore/qbittorrent-mcp",
+  "source_url": "https://github.com/SavageCore/qbittorrent-mcp",
+  "install": "npx -y qbittorrent-mcp"
+}

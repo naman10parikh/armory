@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-routine-bot",
+  "description": "Automates routine DevOps tasks like Jenkins builds and GitLab merge requests through the MCP protocol, simplifying daily operations.",
+  "source_repo": "PassionZale/mcp-server-routine-bot",
+  "source_url": "https://github.com/PassionZale/mcp-server-routine-bot",
+  "install": "# git clone --depth 1 https://github.com/PassionZale/mcp-server-routine-bot\n# See source for mcpServers config block"
+}

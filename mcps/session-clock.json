@@ -1,0 +1,7 @@
+{
+  "name": "session-clock",
+  "description": "A minimal remote MCP server that gives an AI assistant a clock via a single 'now' tool, enabling models to timestamp exchanges and answer \"how long ago\" questions with best-effort, stateless time capture.",
+  "source_repo": "haggifer/mcp-server-session-clock",
+  "source_url": "https://github.com/haggifer/mcp-server-session-clock",
+  "install": "# git clone --depth 1 https://github.com/haggifer/mcp-server-session-clock\n# See source for mcpServers config block"
+}

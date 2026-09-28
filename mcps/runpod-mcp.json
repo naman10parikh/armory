@@ -1,0 +1,7 @@
+{
+  "name": "runpod-mcp",
+  "description": "Enables managing RunPod compute for the Learning-to-Swim replication through natural language, including pod lifecycle, SSH/rsync file transfer, detached training jobs, and supervised runs with cost guardrails.",
+  "source_repo": "kyle-nelson-berkeley/runpod-mcp",
+  "source_url": "https://github.com/kyle-nelson-berkeley/runpod-mcp",
+  "install": "npx -y runpod-mcp"
+}

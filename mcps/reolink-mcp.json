@@ -1,0 +1,7 @@
+{
+  "name": "reolink-mcp",
+  "description": "An MCP server that allows Claude or any MCP client to see and control Reolink cameras on the local network. It provides snapshots, device state, AI detection, PTZ controls, and deterrence features without cloud dependency.",
+  "source_repo": "ed-dryha/reolink-mcp",
+  "source_url": "https://github.com/ed-dryha/reolink-mcp",
+  "install": "npx -y reolink-mcp"
+}

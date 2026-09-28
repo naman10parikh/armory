@@ -1,0 +1,7 @@
+{
+  "name": "runapi-qwen-image-mcp-server",
+  "description": "Qwen Image API access for AI agents: run image generation operations, poll asynchronous results, and check pricing through one focused MCP server.",
+  "source_repo": "runapi-ai/qwen-image-mcp",
+  "source_url": "https://github.com/runapi-ai/qwen-image-mcp",
+  "install": "npx -y qwen-image-mcp"
+}

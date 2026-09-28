@@ -1,0 +1,7 @@
+{
+  "name": "style-agent",
+  "description": "Enables style verification and CSS inspection through Chrome DevTools Protocol, using JSON specs to check computed styles, find elements, and interact with pages.",
+  "source_repo": "jtrslar/style-agent",
+  "source_url": "https://github.com/jtrslar/style-agent",
+  "install": "# git clone --depth 1 https://github.com/jtrslar/style-agent\n# See source for mcpServers config block"
+}

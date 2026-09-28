@@ -1,0 +1,7 @@
+{
+  "name": "cortex-memory-mcp",
+  "description": "Persistent semantic memory MCP server for AI agents with hybrid search, LLM scoring, and decay engine, fully local.",
+  "source_repo": "alainrc2005/cortex_memory_mcp",
+  "source_url": "https://github.com/alainrc2005/cortex_memory_mcp",
+  "install": "npx -y cortex_memory_mcp"
+}

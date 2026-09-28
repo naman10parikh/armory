@@ -1,0 +1,7 @@
+{
+  "name": "ensp-mcp",
+  "description": "MCP server for managing Huawei eNSP network simulation experiments, enabling topology management, Telnet device interaction, configuration deployment, and verification through natural language or API.",
+  "source_repo": "jmsgfc/ensp-mcp",
+  "source_url": "https://github.com/jmsgfc/ensp-mcp",
+  "install": "npx -y ensp-mcp"
+}

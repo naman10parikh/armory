@@ -1,0 +1,7 @@
+{
+  "name": "ghl-internal-cli",
+  "description": "Enables AI agents to interact with GoHighLevel's internal v2 API, managing Agent Studio, Voice AI, and Knowledge Base features through natural language commands.",
+  "source_repo": "drkavner/ghl-internal-cli",
+  "source_url": "https://github.com/drkavner/ghl-internal-cli",
+  "install": "# git clone --depth 1 https://github.com/drkavner/ghl-internal-cli\n# See source for mcpServers config block"
+}

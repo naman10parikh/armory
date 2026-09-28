@@ -1,0 +1,7 @@
+{
+  "name": "resume-tailor-mcp-server",
+  "description": "Helps job seekers tailor their resume and generate cover letters against a specific job posting, powered by Claude.",
+  "source_repo": "Asma-Amin/Resume-Tailor-MCP",
+  "source_url": "https://github.com/Asma-Amin/Resume-Tailor-MCP",
+  "install": "npx -y Resume-Tailor-MCP"
+}

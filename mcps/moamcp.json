@@ -1,0 +1,7 @@
+{
+  "name": "moamcp",
+  "description": "An MCP plugin for Kimi Code CLI and omkc that provides structured multi-agent debate capabilities, enabling round-robin debates with real-time visualization and archival.",
+  "source_repo": "Yorha9e/moamcp",
+  "source_url": "https://github.com/Yorha9e/moamcp",
+  "install": "# git clone --depth 1 https://github.com/Yorha9e/moamcp\n# See source for mcpServers config block"
+}

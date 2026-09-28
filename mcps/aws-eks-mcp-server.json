@@ -1,0 +1,7 @@
+{
+  "name": "aws-eks-mcp-server",
+  "description": "Enables creating and managing AWS EKS clusters via Terraform, including VPC, node groups, add-ons, and kubectl configuration.",
+  "source_repo": "dkeeno/eks-mcp-server",
+  "source_url": "https://github.com/dkeeno/eks-mcp-server",
+  "install": "npx -y eks-mcp-server"
+}

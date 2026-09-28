@@ -1,0 +1,7 @@
+{
+  "name": "servidores-federais-completa-transpar-ncia",
+  "description": "Provides complete data on Brazilian federal executive servers from CPF, including remuneration and employment bonds via the Transparency Portal.",
+  "source_repo": "mcp-dir/transparencia_servidores_completa-mcp",
+  "source_url": "https://github.com/mcp-dir/transparencia_servidores_completa-mcp",
+  "install": "npx -y transparencia_servidores_completa-mcp"
+}

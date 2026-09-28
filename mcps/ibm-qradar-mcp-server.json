@@ -1,0 +1,7 @@
+{
+  "name": "ibm-qradar-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides comprehensive access to IBM QRadar security intelligence platform. Query logs, events, offenses, agents, assets, and more directly from your AI assistant.",
+  "source_repo": "ram-krishna-katakwar/IBMQradarMCP2.0",
+  "source_url": "https://github.com/ram-krishna-katakwar/IBMQradarMCP2.0",
+  "install": "# git clone --depth 1 https://github.com/ram-krishna-katakwar/IBMQradarMCP2.0\n# See source for mcpServers config block"
+}

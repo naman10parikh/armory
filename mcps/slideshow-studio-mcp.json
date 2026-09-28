@@ -1,0 +1,7 @@
+{
+  "name": "slideshow-studio-mcp",
+  "description": "Replicate viral TikTok slideshows in your niche by talking to your agent. It generates images locally or via API and assembles the final result.",
+  "source_repo": "Nicopradas/slideshow-studio-mcp",
+  "source_url": "https://github.com/Nicopradas/slideshow-studio-mcp",
+  "install": "npx -y slideshow-studio-mcp"
+}

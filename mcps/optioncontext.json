@@ -1,0 +1,7 @@
+{
+  "name": "optioncontext",
+  "description": "Official MCP Server for Indian Stock Market (NSE & BSE) equities, futures context, and option chains.",
+  "source_repo": "nikhilkatyan/optioncontext-mcp",
+  "source_url": "https://github.com/nikhilkatyan/optioncontext-mcp",
+  "install": "npx -y optioncontext-mcp"
+}

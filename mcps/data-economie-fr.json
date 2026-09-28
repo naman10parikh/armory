@@ -1,0 +1,7 @@
+{
+  "name": "data-economie-fr",
+  "description": "France Economy & Finance Open Data MCP server providing tools to search datasets, retrieve metadata, and query records from data.economie.gouv.fr.",
+  "source_repo": "pipeworx-io/mcp-data-economie-fr",
+  "source_url": "https://github.com/pipeworx-io/mcp-data-economie-fr",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-data-economie-fr\n# See source for mcpServers config block"
+}

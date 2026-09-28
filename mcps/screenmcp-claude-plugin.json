@@ -1,0 +1,7 @@
+{
+  "name": "screenmcp-claude-plugin",
+  "description": "Enables Claude to control the local desktop via screenshot, mouse, keyboard, and clipboard operations.",
+  "source_repo": "shimondoodkin/screenmcp-claude-plugin",
+  "source_url": "https://github.com/shimondoodkin/screenmcp-claude-plugin",
+  "install": "# git clone --depth 1 https://github.com/shimondoodkin/screenmcp-claude-plugin\n# See source for mcpServers config block"
+}

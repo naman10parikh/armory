@@ -1,0 +1,7 @@
+{
+  "name": "certid-o-de-crimes-eleitorais-tse",
+  "description": "Enables querying the Brazilian Superior Electoral Court (TSE) for electoral crimes certificates of individuals using personal data like name, CPF, voter ID, and birth date.",
+  "source_repo": "mcp-dir/tse_crimes_eleitorais-mcp",
+  "source_url": "https://github.com/mcp-dir/tse_crimes_eleitorais-mcp",
+  "install": "npx -y tse_crimes_eleitorais-mcp"
+}

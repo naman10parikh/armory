@@ -1,0 +1,7 @@
+{
+  "name": "mcp-connector-follow-up-boss",
+  "description": "A remote MCP server on Cloudflare Workers that allows real-estate sales teams to query their Follow Up Boss CRM data through Claude, with read-only, role-based access and OAuth authentication.",
+  "source_repo": "Alexey0424/mcp-connector-followupboss",
+  "source_url": "https://github.com/Alexey0424/mcp-connector-followupboss",
+  "install": "# git clone --depth 1 https://github.com/Alexey0424/mcp-connector-followupboss\n# See source for mcpServers config block"
+}

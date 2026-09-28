@@ -1,0 +1,7 @@
+{
+  "name": "ensembl-mcp-server",
+  "description": "Enables looking up genes, fetching sequences, predicting variant consequences, finding orthologs, and cross-database xrefs via Ensembl REST API through MCP.",
+  "source_repo": "cyanheads/ensembl-mcp-server",
+  "source_url": "https://github.com/cyanheads/ensembl-mcp-server",
+  "install": "npx -y ensembl-mcp-server"
+}

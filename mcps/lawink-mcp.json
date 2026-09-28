@@ -1,0 +1,7 @@
+{
+  "name": "lawink-mcp",
+  "description": "Enables querying Korean legal knowledge graph with 160K precedents and 130K statutes via MCP tools for relation exploration and semantic search.",
+  "source_repo": "ntriq/lawink-mcp",
+  "source_url": "https://github.com/ntriq/lawink-mcp",
+  "install": "npx -y lawink-mcp"
+}

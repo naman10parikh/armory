@@ -1,0 +1,7 @@
+{
+  "name": "store-mcp-demo",
+  "description": "A demo MCP server built with Node.js and TypeScript that showcases tools, resources, and prompts via stdio, including product search, stock checks, and order placement for a mock store.",
+  "source_repo": "raphaelmdcoelho/copilot-mcp",
+  "source_url": "https://github.com/raphaelmdcoelho/copilot-mcp",
+  "install": "npx -y copilot-mcp"
+}

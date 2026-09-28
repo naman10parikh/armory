@@ -1,0 +1,7 @@
+{
+  "name": "jmt-x402-mcp-server",
+  "description": "Exposes 25 paid API endpoints as MCP tools for AI agents, with payments in USDC on Base mainnet via the x402 protocol, enabling tasks like web search, company intelligence, and crypto research.",
+  "source_repo": "jmthomasofficial/x402-mcp-server",
+  "source_url": "https://github.com/jmthomasofficial/x402-mcp-server",
+  "install": "npx -y x402-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "elk-mcp",
+  "description": "A graph layout server that computes node coordinates and edge paths from structure using elkjs, enabling agents to offload layout calculations without rendering.",
+  "source_repo": "cocrates/elk-mcp",
+  "source_url": "https://github.com/cocrates/elk-mcp",
+  "install": "npx -y elk-mcp"
+}

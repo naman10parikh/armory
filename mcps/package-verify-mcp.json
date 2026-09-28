@@ -1,0 +1,7 @@
+{
+  "name": "package-verify-mcp",
+  "description": "Verifies npm package names for safety, detecting typosquats and nonexistent packages before your coding agent installs them.",
+  "source_repo": "Anicodeth/package-verify-mcp",
+  "source_url": "https://github.com/Anicodeth/package-verify-mcp",
+  "install": "npx -y package-verify-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tbird-mcp",
+  "description": "Reads and searches Thunderbird mail from local mbox files and sends mail via SMTP using auto-discovered identities, filing copies in Thunderbird's Sent folder.",
+  "source_repo": "neil-zielsdorf/tbird-mcp",
+  "source_url": "https://github.com/neil-zielsdorf/tbird-mcp",
+  "install": "npx -y tbird-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-playlist-generator",
+  "description": "Generates .m3u playlists on the user's PC based on their current mood or theme, using metadata from local music files.",
+  "source_repo": "m4dd0c/playlist-mcp-server",
+  "source_url": "https://github.com/m4dd0c/playlist-mcp-server",
+  "install": "npx -y playlist-mcp-server"
+}

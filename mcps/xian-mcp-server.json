@@ -1,0 +1,7 @@
+{
+  "name": "xian-mcp-server",
+  "description": "Enables AI assistants to interact with the Xian blockchain, including wallet management, token transfers, smart contract operations, DEX trading, and indexed blockchain data queries through a unified MCP and HTTP interface.",
+  "source_repo": "xian-technology/xian-mcp-server",
+  "source_url": "https://github.com/xian-technology/xian-mcp-server",
+  "install": "npx -y xian-mcp-server"
+}

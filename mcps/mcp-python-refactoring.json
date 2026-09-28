@@ -1,0 +1,7 @@
+{
+  "name": "mcp-python-refactoring",
+  "description": "Analyzes Python code and provides guided refactoring suggestions without automatically modifying code.",
+  "source_repo": "slamer59/mcp-python-refactoring",
+  "source_url": "https://github.com/slamer59/mcp-python-refactoring",
+  "install": "# git clone --depth 1 https://github.com/slamer59/mcp-python-refactoring\n# See source for mcpServers config block"
+}

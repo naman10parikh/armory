@@ -1,0 +1,7 @@
+{
+  "name": "kibo-commerce-mcp-server",
+  "description": "Deprecated MCP server integrating with Kibo Commerce for product, order, customer, and inventory management via its TypeScript SDK.",
+  "source_repo": "KiboSoftware/kibo-commerce-mcp",
+  "source_url": "https://github.com/KiboSoftware/kibo-commerce-mcp",
+  "install": "npx -y kibo-commerce-mcp"
+}

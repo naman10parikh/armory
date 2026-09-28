@@ -1,0 +1,7 @@
+{
+  "name": "tcgplayer-api-mcp",
+  "description": "Provides access to TCGplayer trading card data, including search, product details, pricing, and market information, enabling natural language queries for card analysis.",
+  "source_repo": "deansasek/tcgplayer-api",
+  "source_url": "https://github.com/deansasek/tcgplayer-api",
+  "install": "# git clone --depth 1 https://github.com/deansasek/tcgplayer-api\n# See source for mcpServers config block"
+}

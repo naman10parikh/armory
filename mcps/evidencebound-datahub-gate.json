@@ -1,0 +1,7 @@
+{
+  "name": "evidencebound-datahub-gate",
+  "description": "This MCP server provides fail-closed governance for DataHub data agents by implementing a Read Context → Restricted AST Gate → Tamper-Evident Proof Pack → Native DataHub Write-Back loop. It verifies dataset identity, schema, and lineage evidence against candidate contracts, binds claims to evidence,",
+  "source_repo": "moneyparking/evidencebound-datahub-gate",
+  "source_url": "https://github.com/moneyparking/evidencebound-datahub-gate",
+  "install": "# git clone --depth 1 https://github.com/moneyparking/evidencebound-datahub-gate\n# See source for mcpServers config block"
+}

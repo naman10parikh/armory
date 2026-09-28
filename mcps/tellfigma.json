@@ -1,0 +1,7 @@
+{
+  "name": "tellfigma",
+  "description": "An open-source MCP server that gives AI assistants full read-write access to Figma, enabling creation, editing, and deletion of designs directly without plugins or API keys.",
+  "source_repo": "mrpeterperez/tellfigma",
+  "source_url": "https://github.com/mrpeterperez/tellfigma",
+  "install": "# git clone --depth 1 https://github.com/mrpeterperez/tellfigma\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "local-knowledge-base",
+  "description": "Provides cited retrieval over local-first knowledge sources (TXT, CSV, Google Sheets, Zoho Mail, MBOX) via SQLite FTS5, with tools for searching and checking source status, returning evidence links instead of generated answers.",
+  "source_repo": "lukaszburyan/lukasz-knowledge-base",
+  "source_url": "https://github.com/lukaszburyan/lukasz-knowledge-base",
+  "install": "# git clone --depth 1 https://github.com/lukaszburyan/lukasz-knowledge-base\n# See source for mcpServers config block"
+}

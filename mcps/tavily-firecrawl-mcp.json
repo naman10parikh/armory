@@ -1,0 +1,7 @@
+{
+  "name": "tavily-firecrawl-mcp",
+  "description": "A Model Context Protocol server for web scraping and searching, with automatic fallback from Tavily to Firecrawl for fetching web content.",
+  "source_repo": "bpzx/tavily-firecrawl-mcp",
+  "source_url": "https://github.com/bpzx/tavily-firecrawl-mcp",
+  "install": "npx -y tavily-firecrawl-mcp"
+}

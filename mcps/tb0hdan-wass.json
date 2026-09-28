@@ -1,7 +1,0 @@
-{
-  "name": "tb0hdan-wass",
-  "description": "Integrates Nikto and Wapiti vulnerability scanners with persistent execution history for conducting authorized penetration testing and maintaining audit trails of security scans.",
-  "source_repo": "tb0hdan/wass-mcp",
-  "source_url": "https://github.com/tb0hdan/wass-mcp",
-  "install": "npx -y wass-mcp"
-}

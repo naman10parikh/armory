@@ -1,0 +1,7 @@
+{
+  "name": "my-weather-server-0706",
+  "description": "MCP server that provides current weather for any city using Open-Meteo APIs. It exposes a single tool 'get_weather' returning temperature, humidity, wind, and other weather data.",
+  "source_repo": "yangvue/my-weather-server-0706",
+  "source_url": "https://github.com/yangvue/my-weather-server-0706",
+  "install": "# git clone --depth 1 https://github.com/yangvue/my-weather-server-0706\n# See source for mcpServers config block"
+}

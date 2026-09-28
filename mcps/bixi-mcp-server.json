@@ -1,0 +1,7 @@
+{
+  "name": "bixi-mcp-server",
+  "description": "Provides real-time access to Montreal's Bixi bike-sharing data through the GBFS API. Enables querying station information, availability, nearby stations, and system alerts.",
+  "source_repo": "sevesogit/bixi-mcp",
+  "source_url": "https://github.com/sevesogit/bixi-mcp",
+  "install": "npx -y bixi-mcp"
+}

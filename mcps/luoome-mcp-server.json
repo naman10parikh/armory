@@ -1,0 +1,7 @@
+{
+  "name": "luoome-mcp-server",
+  "description": "Personal investment management advisor that exposes tools for accounts, portfolios, trades, market data, strategies, risk control, and advice, enabling AI agents to analyze and provide structured investment recommendations.",
+  "source_repo": "KowL/luoome",
+  "source_url": "https://github.com/KowL/luoome",
+  "install": "# git clone --depth 1 https://github.com/KowL/luoome\n# See source for mcpServers config block"
+}

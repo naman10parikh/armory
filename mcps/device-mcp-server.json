@@ -1,0 +1,7 @@
+{
+  "name": "device-mcp-server",
+  "description": "A comprehensive MCP server for network device management via SSH/Telnet. Supports multiple vendors such as Cisco IOS and BDCOM, enabling AI assistants to execute commands and manage routers, switches, and firewalls.",
+  "source_repo": "rajib884/bdcom_mcp",
+  "source_url": "https://github.com/rajib884/bdcom_mcp",
+  "install": "npx -y bdcom_mcp"
+}

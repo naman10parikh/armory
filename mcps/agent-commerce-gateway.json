@@ -1,0 +1,7 @@
+{
+  "name": "agent-commerce-gateway",
+  "description": "Enables AI agents to discover, call, and pay for existing HTTP APIs over MCP with x402 paywalls, non-custodial settlement, and no code changes to the backend.",
+  "source_repo": "devlab-group/agent-commerce",
+  "source_url": "https://github.com/devlab-group/agent-commerce",
+  "install": "# git clone --depth 1 https://github.com/devlab-group/agent-commerce\n# See source for mcpServers config block"
+}

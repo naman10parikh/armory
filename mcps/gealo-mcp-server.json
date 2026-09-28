@@ -1,0 +1,7 @@
+{
+  "name": "gealo-mcp-server",
+  "description": "Connects AI clients like Claude, Cursor, and VS Code to a Gealo workspace's tasks, projects, meetings, documents, and chat with OAuth authentication and tenant isolation.",
+  "source_repo": "MHDYousuf/gealo-mcp",
+  "source_url": "https://github.com/MHDYousuf/gealo-mcp",
+  "install": "npx -y gealo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "toestub-mcp-server",
+  "description": "Enables oilfield job coherence, multi-well rotation, and audit through MCP tools like toestub_job_run and toestub_job_audit.",
+  "source_repo": "RogueGringo/ToeStub",
+  "source_url": "https://github.com/RogueGringo/ToeStub",
+  "install": "# git clone --depth 1 https://github.com/RogueGringo/ToeStub\n# See source for mcpServers config block"
+}

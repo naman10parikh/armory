@@ -1,0 +1,7 @@
+{
+  "name": "green-mcp",
+  "description": "Measures CPU energy and LLM token usage of programs to enable cost-efficient refactoring, using real hardware telemetry and a non-blocking token proxy.",
+  "source_repo": "rlawogh1005/green-mcp",
+  "source_url": "https://github.com/rlawogh1005/green-mcp",
+  "install": "npx -y green-mcp"
+}

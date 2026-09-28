@@ -1,0 +1,7 @@
+{
+  "name": "sabba",
+  "description": "MCP server for security bug-finding that proves every finding by running exploits, enabling agents to verify changes and find bugs with execution-based evidence.",
+  "source_repo": "8NobleTruths/sabba",
+  "source_url": "https://github.com/8NobleTruths/sabba",
+  "install": "# git clone --depth 1 https://github.com/8NobleTruths/sabba\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ctxmem",
+  "description": "Provides AI agents with persistent, local, and shareable project memory by storing decisions and code context in a searchable SQLite index, supporting keyword and semantic search via MCP.",
+  "source_repo": "DoppiaG93/ctxmem",
+  "source_url": "https://github.com/DoppiaG93/ctxmem",
+  "install": "# git clone --depth 1 https://github.com/DoppiaG93/ctxmem\n# See source for mcpServers config block"
+}

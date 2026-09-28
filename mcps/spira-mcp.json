@@ -1,0 +1,7 @@
+{
+  "name": "spira-mcp",
+  "description": "Read-only MCP for retrieving daily Spira incident digests and filter options using the Inflectra Spira API.",
+  "source_repo": "sonisatish/Spira-MCP",
+  "source_url": "https://github.com/sonisatish/Spira-MCP",
+  "install": "npx -y Spira-MCP"
+}

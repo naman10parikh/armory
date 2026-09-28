@@ -1,0 +1,7 @@
+{
+  "name": "adobe-experience-assets-dev-mcp",
+  "description": "Helps design, validate, and generate Adobe Experience Manager Assets API request plans for integration work, including upload, folder management, and metadata sync.",
+  "source_repo": "stubbedev/adobe-experience-dev-mcp",
+  "source_url": "https://github.com/stubbedev/adobe-experience-dev-mcp",
+  "install": "npx -y adobe-experience-dev-mcp"
+}

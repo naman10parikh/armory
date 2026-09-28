@@ -1,0 +1,7 @@
+{
+  "name": "workbench-mcp-server",
+  "description": "Provides remote project access via MCP, enabling file operations, code search, git commands, and background Claude CLI execution.",
+  "source_repo": "jazz-max/workbench-mcp",
+  "source_url": "https://github.com/jazz-max/workbench-mcp",
+  "install": "npx -y workbench-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "scribe",
+  "description": "Enables AI assistants to securely manage Google Calendar events using natural language, including scheduling, rescheduling, deleting, and searching events.",
+  "source_repo": "keenglomerate/scribe",
+  "source_url": "https://github.com/keenglomerate/scribe",
+  "install": "# git clone --depth 1 https://github.com/keenglomerate/scribe\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arabic-toolkit",
+  "description": "MCP server exposing Arabic text utilities: normalisation, tashkeel stripping, transliteration, heuristic dialect detection, and token counting.",
+  "source_repo": "BenjisCollector/mcp-arabic-toolkit",
+  "source_url": "https://github.com/BenjisCollector/mcp-arabic-toolkit",
+  "install": "# git clone --depth 1 https://github.com/BenjisCollector/mcp-arabic-toolkit\n# See source for mcpServers config block"
+}

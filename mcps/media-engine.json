@@ -1,0 +1,7 @@
+{
+  "name": "media-engine",
+  "description": "MCP server exposing headless ffmpeg operations for video, audio, and image processing via auto-generated typed tools, enabling agentic media file manipulation.",
+  "source_repo": "constant-itis/media-engine",
+  "source_url": "https://github.com/constant-itis/media-engine",
+  "install": "# git clone --depth 1 https://github.com/constant-itis/media-engine\n# See source for mcpServers config block"
+}

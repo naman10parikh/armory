@@ -1,0 +1,7 @@
+{
+  "name": "voxtral-tts-mcp-server",
+  "description": "Provides access to Voxtral TTS voice and TTS workflows, FAQ, and official links via MCP. Enables AI clients to retrieve supported voices, languages, and TTS configuration without API keys.",
+  "source_repo": "rocnubie/voxtraltts-mcp",
+  "source_url": "https://github.com/rocnubie/voxtraltts-mcp",
+  "install": "npx -y voxtraltts-mcp"
+}

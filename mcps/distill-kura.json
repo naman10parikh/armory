@@ -1,0 +1,7 @@
+{
+  "name": "distill-kura",
+  "description": "Enables agents to store and recall long-term memories by semantic relevance rather than exact keywords, with writes gated by verbatim evidence and separate memory stores per agent mode.",
+  "source_repo": "lna-lab/distill-kura",
+  "source_url": "https://github.com/lna-lab/distill-kura",
+  "install": "# git clone --depth 1 https://github.com/lna-lab/distill-kura\n# See source for mcpServers config block"
+}

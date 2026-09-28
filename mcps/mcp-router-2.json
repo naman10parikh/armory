@@ -1,0 +1,7 @@
+{
+  "name": "mcp-router-2",
+  "description": "Enables efficient tool routing and context budgeting for AI agents handling hundreds of MCP tools, with circuit breaker, RBAC, and federation for reliable serving.",
+  "source_repo": "HongJungWan/mcp-router",
+  "source_url": "https://github.com/HongJungWan/mcp-router",
+  "install": "# git clone --depth 1 https://github.com/HongJungWan/mcp-router\n# See source for mcpServers config block"
+}

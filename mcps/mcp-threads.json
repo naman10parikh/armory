@@ -1,0 +1,7 @@
+{
+  "name": "mcp-threads",
+  "description": "MCP server for Meta's Threads API that enables publishing posts and reply chains, reading timelines and insights, and managing long-lived credentials with proactive refresh and safety checks.",
+  "source_repo": "pete-builds/mcp-threads",
+  "source_url": "https://github.com/pete-builds/mcp-threads",
+  "install": "# git clone --depth 1 https://github.com/pete-builds/mcp-threads\n# See source for mcpServers config block"
+}

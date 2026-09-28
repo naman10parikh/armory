@@ -1,0 +1,7 @@
+{
+  "name": "ksef-mcp",
+  "description": "Single-tenant MCP server for Polish KSeF e-invoice workflows, supporting local stdio testing, draft management, and invoice submission with safety gates.",
+  "source_repo": "olegtyshcneko/ksef-mcp",
+  "source_url": "https://github.com/olegtyshcneko/ksef-mcp",
+  "install": "npx -y ksef-mcp"
+}

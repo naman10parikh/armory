@@ -1,0 +1,7 @@
+{
+  "name": "s7-mcp-bridge",
+  "description": "Connects AI agents to Siemens industrial PLCs for automatic monitoring and control of industrial equipment.",
+  "source_repo": "cadugrillo/s7-mcp-bridge",
+  "source_url": "https://github.com/cadugrillo/s7-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/cadugrillo/s7-mcp-bridge\n# See source for mcpServers config block"
+}

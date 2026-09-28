@@ -1,0 +1,7 @@
+{
+  "name": "wikicfp-mcp",
+  "description": "Read-only MCP server for WikiCFP that enables searching academic conferences, browsing categories, and retrieving call-for-papers details.",
+  "source_repo": "404Simon/wikicfp-mcp",
+  "source_url": "https://github.com/404Simon/wikicfp-mcp",
+  "install": "npx -y wikicfp-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "risen-prompts-mcp-server",
+  "description": "A small, local, network-free MCP server for the RISEN prompt-engineering framework. It gives any MCP client tools to build, validate, save, and reuse structured prompts.",
+  "source_repo": "SYZBZ/risen-prompts-mcp",
+  "source_url": "https://github.com/SYZBZ/risen-prompts-mcp",
+  "install": "npx -y risen-prompts-mcp"
+}

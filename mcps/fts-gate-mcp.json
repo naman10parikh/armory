@@ -1,0 +1,7 @@
+{
+  "name": "fts-gate-mcp",
+  "description": "MCP server for fts-gate. It enables verification of FTS executable specifications through proof-carrying checks, exposing tools to run gate checks (fts_gate_check) and list available morphisms (fts_morphisms_list), with rejection of invalid proofs via structural logical fallacy detection.",
+  "source_repo": "digitable-lol/fts-gate",
+  "source_url": "https://github.com/digitable-lol/fts-gate",
+  "install": "# git clone --depth 1 https://github.com/digitable-lol/fts-gate\n# See source for mcpServers config block"
+}

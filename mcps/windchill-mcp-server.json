@@ -1,0 +1,7 @@
+{
+  "name": "windchill-mcp-server",
+  "description": "Comprehensive MCP server for PTC Windchill PLM, providing 64+ tools across 7 agents for part, document, change, workflow, project, data admin, and server management, with dynamic server switching.",
+  "source_repo": "Cars-10/windchill-mcp-server",
+  "source_url": "https://github.com/Cars-10/windchill-mcp-server",
+  "install": "npx -y windchill-mcp-server"
+}

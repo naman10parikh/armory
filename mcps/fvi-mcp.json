@@ -1,0 +1,7 @@
+{
+  "name": "fvi-mcp",
+  "description": "MCP server for FreeVectorIcons design collections, enabling agents to search and fetch approved icons and assets instead of generating SVG from scratch.",
+  "source_repo": "FreeVectorIcons/fvi-mcp",
+  "source_url": "https://github.com/FreeVectorIcons/fvi-mcp",
+  "install": "npx -y fvi-mcp"
+}

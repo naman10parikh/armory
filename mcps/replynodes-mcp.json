@@ -1,0 +1,7 @@
+{
+  "name": "replynodes-mcp",
+  "description": "Connects MCP clients like Claude and Cursor to your Replynodes account, enabling social channel management, post scheduling, and media generation directly from chat.",
+  "source_repo": "replynodes/replynodes-mcp",
+  "source_url": "https://github.com/replynodes/replynodes-mcp",
+  "install": "npx -y replynodes-mcp"
+}

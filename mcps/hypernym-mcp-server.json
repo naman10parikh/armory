@@ -1,0 +1,7 @@
+{
+  "name": "hypernym-mcp-server",
+  "description": "MCP server providing semantic text analysis and compression tools via Hypernym AI's API.",
+  "source_repo": "bmorphism/hypernym-mcp-server",
+  "source_url": "https://github.com/bmorphism/hypernym-mcp-server",
+  "install": "npx -y hypernym-mcp-server"
+}

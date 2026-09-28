@@ -1,0 +1,7 @@
+{
+  "name": "novence-mcp",
+  "description": "Hosted MCP server for Novence, a static site hosting platform for AI agents. It enables users to deploy and manage static sites through natural language using a streamable HTTP endpoint.",
+  "source_repo": "LincChad/novence-mcp",
+  "source_url": "https://github.com/LincChad/novence-mcp",
+  "install": "npx -y novence-mcp"
+}

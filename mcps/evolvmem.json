@@ -1,0 +1,7 @@
+{
+  "name": "evolvmem",
+  "description": "A fully-local, three-layer memory plugin for Claude Code with Chinese support, offering hybrid FTS5/trigram and HNSW vector search, self-iterating memory management, consolidation, and a web console.",
+  "source_repo": "1942293420/Evolvmem_MCP",
+  "source_url": "https://github.com/1942293420/Evolvmem_MCP",
+  "install": "npx -y Evolvmem_MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vault-sync-mcp",
+  "description": "Enables bidirectional sync between a personal Obsidian vault and a shared team vault with configurable rules, change preview, and fast change detection.",
+  "source_repo": "adelaidasofia/vault-sync-mcp",
+  "source_url": "https://github.com/adelaidasofia/vault-sync-mcp",
+  "install": "npx -y vault-sync-mcp"
+}

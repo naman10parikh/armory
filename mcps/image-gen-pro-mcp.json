@@ -1,0 +1,7 @@
+{
+  "name": "image-gen-pro-mcp",
+  "description": "Enables AI assistants to generate real images via multiple models (OpenAI, Gemini, Recraft, Seedream, Grok, Arrow) and returns usable file paths instead of base64 data.",
+  "source_repo": "fledgeling-co/image-gen-pro-mcp",
+  "source_url": "https://github.com/fledgeling-co/image-gen-pro-mcp",
+  "install": "npx -y image-gen-pro-mcp"
+}

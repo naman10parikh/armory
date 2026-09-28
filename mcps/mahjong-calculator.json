@@ -1,0 +1,7 @@
+{
+  "name": "mahjong-calculator",
+  "description": "Enables mahjong score calculation from Claude by inputting tile configurations, including dora indicators and game state parameters.",
+  "source_repo": "zaqdaisuki/mahjong_calculator",
+  "source_url": "https://github.com/zaqdaisuki/mahjong_calculator",
+  "install": "# git clone --depth 1 https://github.com/zaqdaisuki/mahjong_calculator\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "filingsmcp",
+  "description": "MCP server that fetches Bombay Stock Exchange filings, converts PDFs into clean Markdown, and exposes search/read tools for AI agents to analyze financial documents.",
+  "source_repo": "sathanandhh/FilingsMCPV1.0",
+  "source_url": "https://github.com/sathanandhh/FilingsMCPV1.0",
+  "install": "# git clone --depth 1 https://github.com/sathanandhh/FilingsMCPV1.0\n# See source for mcpServers config block"
+}

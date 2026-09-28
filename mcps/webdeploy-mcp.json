@@ -1,0 +1,7 @@
+{
+  "name": "webdeploy-mcp",
+  "description": "Enables AI clients and users to deploy static sites, Node.js services, and Python web applications without Docker, with tools for project management, deployment, rollback, and domain configuration.",
+  "source_repo": "ghbhiee/webdeploy-mcp",
+  "source_url": "https://github.com/ghbhiee/webdeploy-mcp",
+  "install": "npx -y webdeploy-mcp"
+}

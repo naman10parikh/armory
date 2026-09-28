@@ -1,0 +1,7 @@
+{
+  "name": "tamilrockers-mcp-server",
+  "description": "Enables searching for movies and series on Tamilrockers, returning links, titles, years, and poster URLs with SQLite caching.",
+  "source_repo": "Yashwanthkumar05/MOVIE-LINK",
+  "source_url": "https://github.com/Yashwanthkumar05/MOVIE-LINK",
+  "install": "# git clone --depth 1 https://github.com/Yashwanthkumar05/MOVIE-LINK\n# See source for mcpServers config block"
+}

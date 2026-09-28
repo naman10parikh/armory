@@ -1,0 +1,7 @@
+{
+  "name": "datagovma-mcp",
+  "description": "MCP server for the Moroccan Open Data portal (data.gov.ma) enabling search and retrieval of datasets, resources, organizations, and groups via CKAN API.",
+  "source_repo": "mohtamimad/datagovma-mcp",
+  "source_url": "https://github.com/mohtamimad/datagovma-mcp",
+  "install": "npx -y datagovma-mcp"
+}

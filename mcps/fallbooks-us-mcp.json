@@ -1,0 +1,7 @@
+{
+  "name": "fallbooks-us-mcp",
+  "description": "Sovereign, MIT-licensed MCP server for professional-service workflow automation with Ed25519 cryptographic signatures and offline capability.",
+  "source_repo": "sjgant80-hub/fallbooks-us-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallbooks-us-mcp",
+  "install": "npx -y fallbooks-us-mcp"
+}

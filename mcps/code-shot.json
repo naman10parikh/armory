@@ -1,0 +1,7 @@
+{
+  "name": "code-shot",
+  "description": "Renders source code as beautiful SVG or PNG images with syntax highlighting, line numbers, and diff support. Ideal for AI agents to present code visually to humans or for sharing snippets.",
+  "source_repo": "thesimonharms/code-shot",
+  "source_url": "https://github.com/thesimonharms/code-shot",
+  "install": "# git clone --depth 1 https://github.com/thesimonharms/code-shot\n# See source for mcpServers config block"
+}

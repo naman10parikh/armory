@@ -1,0 +1,7 @@
+{
+  "name": "mcp-image-tools-server",
+  "description": "Provides image processing tools for Claude Code, including downloading toy-related images from DuckDuckGo, resizing images, and removing backgrounds using AI.",
+  "source_repo": "tcwangh01/custom-mcp-server",
+  "source_url": "https://github.com/tcwangh01/custom-mcp-server",
+  "install": "npx -y custom-mcp-server"
+}

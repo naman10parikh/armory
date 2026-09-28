@@ -1,0 +1,7 @@
+{
+  "name": "condens-mcp-server",
+  "description": "Enables AI assistants and agents to search and retrieve validated customer insights from a Condens research repository, grounding their outputs in real customer knowledge.",
+  "source_repo": "condens/remote-mcp-server",
+  "source_url": "https://github.com/condens/remote-mcp-server",
+  "install": "npx -y remote-mcp-server"
+}

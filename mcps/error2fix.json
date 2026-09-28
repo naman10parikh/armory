@@ -1,0 +1,7 @@
+{
+  "name": "error2fix",
+  "description": "Provides coding agents with compressed failure context via MCP, reducing the need to parse full raw logs.",
+  "source_repo": "GRAMMAC1/error2fix",
+  "source_url": "https://github.com/GRAMMAC1/error2fix",
+  "install": "# git clone --depth 1 https://github.com/GRAMMAC1/error2fix\n# See source for mcpServers config block"
+}

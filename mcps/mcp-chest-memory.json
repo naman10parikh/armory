@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chest-memory",
+  "description": "Provides a persistent, local-first memory for coding agents over MCP, enabling automatic recall and recording of past work, failures, and decisions to reduce repetition and token usage.",
+  "source_repo": "siosig/mcp-chest-memory",
+  "source_url": "https://github.com/siosig/mcp-chest-memory",
+  "install": "# git clone --depth 1 https://github.com/siosig/mcp-chest-memory\n# See source for mcpServers config block"
+}

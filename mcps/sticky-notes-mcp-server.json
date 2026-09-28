@@ -1,0 +1,7 @@
+{
+  "name": "sticky-notes-mcp-server",
+  "description": "Enables creating, reading, updating, and deleting sticky notes with persistent text file storage through the MCP protocol.",
+  "source_repo": "vedantparmar12/Sticky-notes-MCP",
+  "source_url": "https://github.com/vedantparmar12/Sticky-notes-MCP",
+  "install": "npx -y Sticky-notes-MCP"
+}

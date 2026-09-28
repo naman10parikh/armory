@@ -1,0 +1,7 @@
+{
+  "name": "mythsensus-mcp",
+  "description": "Calculate a Cosmic Score across 26 ancient divination systems (BaZi, Vedic, Western, Nine Star Ki, Thai Seven Number, and more) deterministically from a birth date — the cross-tradition consensus when traditions disagree.",
+  "source_repo": "PattrickChenforclaudeuse/mythsensus-mcp",
+  "source_url": "https://github.com/PattrickChenforclaudeuse/mythsensus-mcp",
+  "install": "npx -y mythsensus-mcp"
+}

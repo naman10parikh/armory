@@ -1,0 +1,7 @@
+{
+  "name": "spark-github-mcp",
+  "description": "A GitHub MCP server that provides tools to list user repositories and fetch file contents, with OAuth authentication and Vercel deployment.",
+  "source_repo": "LironBurt/spark-github-mcp",
+  "source_url": "https://github.com/LironBurt/spark-github-mcp",
+  "install": "npx -y spark-github-mcp"
+}

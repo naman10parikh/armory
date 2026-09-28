@@ -1,0 +1,7 @@
+{
+  "name": "toolbridge",
+  "description": "A governed MCP server for integrating AI agents with customer data, featuring role-based access control, field redaction, and human-in-the-loop approval for secure support operations.",
+  "source_repo": "AlexlaGuardia/toolbridge-demo",
+  "source_url": "https://github.com/AlexlaGuardia/toolbridge-demo",
+  "install": "# git clone --depth 1 https://github.com/AlexlaGuardia/toolbridge-demo\n# See source for mcpServers config block"
+}

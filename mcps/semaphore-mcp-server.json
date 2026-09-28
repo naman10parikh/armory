@@ -1,0 +1,7 @@
+{
+  "name": "semaphore-mcp-server",
+  "description": "Enables AI assistants to interact with Semaphore UI for managing Ansible, Terraform, and other automation workflows through project, task, template, and inventory management.",
+  "source_repo": "VitexSoftware/semaphore-mcp-server",
+  "source_url": "https://github.com/VitexSoftware/semaphore-mcp-server",
+  "install": "npx -y semaphore-mcp-server"
+}

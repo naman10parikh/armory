@@ -1,0 +1,7 @@
+{
+  "name": "my-kifrs-mcp",
+  "description": "Personal MCP server that wraps K-IFRS, K-GAAP, auditing standards, and Q&A from kifrs.com and FSS, providing 16 tools for search, citation verification, and feedback.",
+  "source_repo": "ksbseong-commits/my-kifrs-mcp",
+  "source_url": "https://github.com/ksbseong-commits/my-kifrs-mcp",
+  "install": "npx -y my-kifrs-mcp"
+}

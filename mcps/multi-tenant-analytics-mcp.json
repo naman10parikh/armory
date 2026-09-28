@@ -1,0 +1,7 @@
+{
+  "name": "multi-tenant-analytics-mcp",
+  "description": "Enables e-commerce clients to query their own analytics data in plain English with strict tenant isolation enforced by the database.",
+  "source_repo": "biru-codeastromer/multi-tenant-ecommerce-analytics-mcp",
+  "source_url": "https://github.com/biru-codeastromer/multi-tenant-ecommerce-analytics-mcp",
+  "install": "npx -y multi-tenant-ecommerce-analytics-mcp"
+}

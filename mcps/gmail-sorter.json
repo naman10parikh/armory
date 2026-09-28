@@ -1,0 +1,7 @@
+{
+  "name": "gmail-sorter",
+  "description": "Enables sorting and managing Gmail messages using multi-agent Claude Code. Provides MCP tools for Gmail operations like listing unread emails and creating labels.",
+  "source_repo": "staschatwork/gmail-sorter",
+  "source_url": "https://github.com/staschatwork/gmail-sorter",
+  "install": "# git clone --depth 1 https://github.com/staschatwork/gmail-sorter\n# See source for mcpServers config block"
+}

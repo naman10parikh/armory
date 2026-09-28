@@ -1,0 +1,7 @@
+{
+  "name": "supermemory-mcp",
+  "description": "SuperMemory is an MCP-first learning memory layer for agents. It helps Claude, Cursor, and other MCP clients reuse validated lessons from prior failures, corrections, and outcomes without saving full transcripts.",
+  "source_repo": "YashvantHange/SuperMemory",
+  "source_url": "https://github.com/YashvantHange/SuperMemory",
+  "install": "# git clone --depth 1 https://github.com/YashvantHange/SuperMemory\n# See source for mcpServers config block"
+}

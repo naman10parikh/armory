@@ -1,0 +1,7 @@
+{
+  "name": "learning-assistant-mcp",
+  "description": "A spaced-repetition study scheduler that syncs with Obsidian notes and uses SBB commute data to optimize study slots.",
+  "source_repo": "wysernils04/learning-assistant-mcp",
+  "source_url": "https://github.com/wysernils04/learning-assistant-mcp",
+  "install": "npx -y learning-assistant-mcp"
+}

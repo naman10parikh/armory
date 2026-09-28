@@ -1,0 +1,7 @@
+{
+  "name": "verbllayer",
+  "description": "An open-source MCP server that turns real business workflows into reviewed, agent-callable commands, enabling safe execution through REST and MCP.",
+  "source_repo": "Romone6/VerblLayer",
+  "source_url": "https://github.com/Romone6/VerblLayer",
+  "install": "# git clone --depth 1 https://github.com/Romone6/VerblLayer\n# See source for mcpServers config block"
+}

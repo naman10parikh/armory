@@ -1,0 +1,7 @@
+{
+  "name": "br-docs-mcp",
+  "description": "MCP server for validating and generating Brazilian documents (CPF, CNPJ, and bank boletos) with 6 tools, a resource, and a prompt.",
+  "source_repo": "Mouraovicente/br-docs-mcp",
+  "source_url": "https://github.com/Mouraovicente/br-docs-mcp",
+  "install": "npx -y br-docs-mcp"
+}

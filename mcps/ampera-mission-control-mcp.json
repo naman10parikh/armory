@@ -1,0 +1,7 @@
+{
+  "name": "ampera-mission-control-mcp",
+  "description": "Enables Claude to interact with AMPERA Mission Control to read and write organizational data (initiatives, tasks, risks, decisions, etc.) with role-scoped permissions via the Mission Control REST API.",
+  "source_repo": "javierchira-amp/ampera-mission-control-mcp",
+  "source_url": "https://github.com/javierchira-amp/ampera-mission-control-mcp",
+  "install": "npx -y ampera-mission-control-mcp"
+}

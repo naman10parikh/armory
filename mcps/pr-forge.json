@@ -1,0 +1,7 @@
+{
+  "name": "pr-forge",
+  "description": "Provides AI agents with a secure PR review gateway through 9 MCP tools for managing pull requests, including context retrieval, diff, checks, and merge with two-layer access control.",
+  "source_repo": "wang654993222/pr-forge",
+  "source_url": "https://github.com/wang654993222/pr-forge",
+  "install": "# git clone --depth 1 https://github.com/wang654993222/pr-forge\n# See source for mcpServers config block"
+}

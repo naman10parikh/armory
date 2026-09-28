@@ -1,0 +1,7 @@
+{
+  "name": "releases-mcp-server",
+  "description": "A registry of product release notes from across the web, normalized, summarized, and queryable via MCP. Enables agents and developers to search and retrieve the latest releases from hundreds of vendors.",
+  "source_repo": "buildinternet/releases",
+  "source_url": "https://github.com/buildinternet/releases",
+  "install": "# git clone --depth 1 https://github.com/buildinternet/releases\n# See source for mcpServers config block"
+}

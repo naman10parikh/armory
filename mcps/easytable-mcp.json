@@ -1,0 +1,7 @@
+{
+  "name": "easytable-mcp",
+  "description": "An MCP server for easyTable restaurant reservations, enabling booking management (list, create, modify, cancel) through a fetchproxy bridge that requires a user's browser tab to bypass server-side blocks.",
+  "source_repo": "chrischall/easytable-mcp",
+  "source_url": "https://github.com/chrischall/easytable-mcp",
+  "install": "npx -y easytable-mcp"
+}

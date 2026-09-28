@@ -1,0 +1,7 @@
+{
+  "name": "appfigures",
+  "description": "Exposes Appfigures CLI commands as MCP tools for querying app metrics, reviews, and store data directly from MCP clients like Claude Desktop and Cursor.",
+  "source_repo": "appfigures/cli",
+  "source_url": "https://github.com/appfigures/cli",
+  "install": "# git clone --depth 1 https://github.com/appfigures/cli\n# See source for mcpServers config block"
+}

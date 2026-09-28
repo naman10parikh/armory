@@ -1,0 +1,7 @@
+{
+  "name": "insurance-mcp-demo",
+  "description": "Provides an AI-powered insurance assistant with tools for customer, policy, claim, premium, fraud detection, and policy renewal operations.",
+  "source_repo": "Sarthak-Singh2005/Insurance-MCP",
+  "source_url": "https://github.com/Sarthak-Singh2005/Insurance-MCP",
+  "install": "npx -y Insurance-MCP"
+}

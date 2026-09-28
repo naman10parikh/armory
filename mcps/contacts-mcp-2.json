@@ -1,0 +1,7 @@
+{
+  "name": "contacts-mcp-2",
+  "description": "Local MCP server that exposes Apple Contacts data, enabling phone, email, and name lookups via a helper app.",
+  "source_repo": "atfinke/contacts-mcp",
+  "source_url": "https://github.com/atfinke/contacts-mcp",
+  "install": "npx -y contacts-mcp"
+}

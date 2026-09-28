@@ -1,0 +1,7 @@
+{
+  "name": "zpdic-mcp-server",
+  "description": "Enables ChatGPT to interact with ZpDIC dictionaries, allowing word lookup, creation, deletion, and overwriting through natural language.",
+  "source_repo": "Eskartur/ZpDIC-MCP",
+  "source_url": "https://github.com/Eskartur/ZpDIC-MCP",
+  "install": "npx -y ZpDIC-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "consulting-mcp-server",
+  "description": "Exposes RAG and document intelligence pipelines as 8 composable tools for MCP-compatible clients, enabling querying, indexing, classifying, extracting, and assessing documents.",
+  "source_repo": "Brinkv3/consulting-mcp-server",
+  "source_url": "https://github.com/Brinkv3/consulting-mcp-server",
+  "install": "npx -y consulting-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ask-on-slack-mcp-server",
+  "description": "Enables AI assistants to request information and clarification from humans via Slack, supporting multiple roles and transport modes.",
+  "source_repo": "rodrigolive/ask-on-slack-mcp",
+  "source_url": "https://github.com/rodrigolive/ask-on-slack-mcp",
+  "install": "npx -y ask-on-slack-mcp"
+}

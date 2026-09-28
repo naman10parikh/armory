@@ -1,0 +1,7 @@
+{
+  "name": "paper-download-mcp",
+  "description": "A universal paper downloader MCP that probes providers by DOI/identifier, downloads to a short-lived staging area, validates PDFs, and cleans up, while leaving final storage and management to the calling project.",
+  "source_repo": "TIGERwu0118/paper-download-mcp",
+  "source_url": "https://github.com/TIGERwu0118/paper-download-mcp",
+  "install": "npx -y paper-download-mcp"
+}

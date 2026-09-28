@@ -1,0 +1,7 @@
+{
+  "name": "infoclimat-mcp",
+  "description": "Enables querying French weather data from Infoclimat via MCP, including station search, observations, and precipitation summaries.",
+  "source_repo": "cmer81/infoclimat-mcp",
+  "source_url": "https://github.com/cmer81/infoclimat-mcp",
+  "install": "npx -y infoclimat-mcp"
+}

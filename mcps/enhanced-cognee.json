@@ -1,0 +1,7 @@
+{
+  "name": "enhanced-cognee",
+  "description": "Enterprise-grade AI memory infrastructure with multi-agent support, providing 122 MCP tools for memory management, agent coordination, and cross-language SDKs.",
+  "source_repo": "vincentspereira/Enhanced-Cognee",
+  "source_url": "https://github.com/vincentspereira/Enhanced-Cognee",
+  "install": "# git clone --depth 1 https://github.com/vincentspereira/Enhanced-Cognee\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rom-mcp",
+  "description": "MCP server for searching, verifying, and managing game ROM collections. Enables Internet Archive ROM search, checksum verification, save file parsing, and ROM downloads.",
+  "source_repo": "mrfentmen/rom-mcp",
+  "source_url": "https://github.com/mrfentmen/rom-mcp",
+  "install": "npx -y rom-mcp"
+}

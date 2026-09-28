@@ -1,0 +1,7 @@
+{
+  "name": "pullpush-mcp",
+  "description": "Enables searching Reddit comments and submissions using the PullPush.io API, allowing AI assistants to access historical Reddit data.",
+  "source_repo": "jacklenzotti/pullpush-mcp",
+  "source_url": "https://github.com/jacklenzotti/pullpush-mcp",
+  "install": "npx -y pullpush-mcp"
+}

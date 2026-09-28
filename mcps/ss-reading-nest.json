@@ -1,0 +1,7 @@
+{
+  "name": "ss-reading-nest",
+  "description": "An MCP server that enables a private mobile-first reading experience in ChatGPT, managing multi-book shelves, reading progress, highlights, thoughts, and bookmarks, with secure cloud storage and AI co-reading of the current page.",
+  "source_repo": "ice-star-blue/ss-reading-nest",
+  "source_url": "https://github.com/ice-star-blue/ss-reading-nest",
+  "install": "# git clone --depth 1 https://github.com/ice-star-blue/ss-reading-nest\n# See source for mcpServers config block"
+}

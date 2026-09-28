@@ -1,0 +1,7 @@
+{
+  "name": "aletheia-mcp",
+  "description": "Secure multi-agent runtime validation engine with Docker sandbox execution and real-time supervisor auditing for LLM-generated code.",
+  "source_repo": "xenoroses/aletheia-mcp",
+  "source_url": "https://github.com/xenoroses/aletheia-mcp",
+  "install": "npx -y aletheia-mcp"
+}

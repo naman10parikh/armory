@@ -1,0 +1,7 @@
+{
+  "name": "sentry-self-hosted-mcp",
+  "description": "MCP server for integrating self-hosted Sentry with AI assistants, enabling project and issue listing, issue details with stack traces, and event retrieval.",
+  "source_repo": "vitalypanait/sentry-self-hosted-mcp",
+  "source_url": "https://github.com/vitalypanait/sentry-self-hosted-mcp",
+  "install": "npx -y sentry-self-hosted-mcp"
+}

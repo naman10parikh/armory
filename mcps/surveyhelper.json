@@ -1,0 +1,7 @@
+{
+  "name": "surveyhelper",
+  "description": "A local-first MCP server that analyzes research papers, maps citation graphs, and surfaces insights with verbatim-verified contradictions, all while keeping data private on your machine.",
+  "source_repo": "rich7420/SurveyHelper",
+  "source_url": "https://github.com/rich7420/SurveyHelper",
+  "install": "# git clone --depth 1 https://github.com/rich7420/SurveyHelper\n# See source for mcpServers config block"
+}

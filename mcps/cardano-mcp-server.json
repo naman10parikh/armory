@@ -1,0 +1,7 @@
+{
+  "name": "cardano-mcp-server",
+  "description": "A specialized gateway that simplifies Cardano blockchain integration for application developers by providing streamlined access to Cardano documentation, development tools, and best practices.",
+  "source_repo": "Jimmyh-world/Cardano_MCP",
+  "source_url": "https://github.com/Jimmyh-world/Cardano_MCP",
+  "install": "npx -y Cardano_MCP"
+}

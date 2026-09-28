@@ -1,0 +1,7 @@
+{
+  "name": "costwright",
+  "description": "Static worst-case token-budget analysis for LLM-agent workflows using AST analysis to identify certifiable, default-dependent, non-certifiable, and runaway units, with optional signed budget certificates.",
+  "source_repo": "hernaninverso/costwright-mcp",
+  "source_url": "https://github.com/hernaninverso/costwright-mcp",
+  "install": "npx -y costwright-mcp"
+}

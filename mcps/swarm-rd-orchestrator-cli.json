@@ -1,0 +1,7 @@
+{
+  "name": "swarm-rd-orchestrator-cli",
+  "description": "An MCP server that exposes an append-only, SQLite-backed event log for parallel research agents, providing append_delta, pull_deltas, and list_tasks tools over stdio.",
+  "source_repo": "RudrenduPaul/swarm-rd-orchestrator",
+  "source_url": "https://github.com/RudrenduPaul/swarm-rd-orchestrator",
+  "install": "# git clone --depth 1 https://github.com/RudrenduPaul/swarm-rd-orchestrator\n# See source for mcpServers config block"
+}

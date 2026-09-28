@@ -1,0 +1,7 @@
+{
+  "name": "verifly-mcp-server",
+  "description": "Enables AI agents to verify email addresses, clean lists, run bulk verification jobs, and manage a Verifly account through natural language, without writing HTTP calls.",
+  "source_repo": "james-sib/verifly-mcp-server",
+  "source_url": "https://github.com/james-sib/verifly-mcp-server",
+  "install": "npx -y verifly-mcp-server"
+}

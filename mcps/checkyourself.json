@@ -1,0 +1,7 @@
+{
+  "name": "checkyourself",
+  "description": "Local-first production-readiness MCP server for AI-built apps. It runs read-only checks, produces an evidence-based readiness score, and guides fixes before launch.",
+  "source_repo": "KyaniteLabs/checkyourself",
+  "source_url": "https://github.com/KyaniteLabs/checkyourself",
+  "install": "# git clone --depth 1 https://github.com/KyaniteLabs/checkyourself\n# See source for mcpServers config block"
+}

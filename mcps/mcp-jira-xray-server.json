@@ -1,0 +1,7 @@
+{
+  "name": "mcp-jira-xray-server",
+  "description": "Connects to Jira with Xray Test Management to extract test cases related to tickets and list test executions.",
+  "source_repo": "sajithrw/mcp-jira-xray",
+  "source_url": "https://github.com/sajithrw/mcp-jira-xray",
+  "install": "# git clone --depth 1 https://github.com/sajithrw/mcp-jira-xray\n# See source for mcpServers config block"
+}

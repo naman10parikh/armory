@@ -1,6 +1,6 @@
 {
   "name": "mcp-explorer-ui",
-  "description": "Mcp Explorer Ui MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "barnuri/mcp-explorer-ui",
   "source_url": "https://mcp.so/server/mcp-explorer-ui/barnuri",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-explorer-ui/barnuri\n# See source for mcpServers config block"

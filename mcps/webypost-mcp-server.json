@@ -1,0 +1,7 @@
+{
+  "name": "webypost-mcp-server",
+  "description": "MCP server that lets AI assistants like Grok automate webypost.com by checking account status and publishing posts with configurable privacy settings.",
+  "source_repo": "webyposts/webypost-mcp-server",
+  "source_url": "https://github.com/webyposts/webypost-mcp-server",
+  "install": "npx -y webypost-mcp-server"
+}

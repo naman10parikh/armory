@@ -1,0 +1,7 @@
+{
+  "name": "protoos-mcp",
+  "description": "Provides a JSON-RPC MCP server that exposes policy-governed agent tools, including paid tools, tool muxing, and OpenAPI-to-MCP conversion, enabling agents to discover, coordinate, and execute tasks within the ProtoOS ecosystem.",
+  "source_repo": "ANAMIZED/Proto-OS",
+  "source_url": "https://github.com/ANAMIZED/Proto-OS",
+  "install": "# git clone --depth 1 https://github.com/ANAMIZED/Proto-OS\n# See source for mcpServers config block"
+}

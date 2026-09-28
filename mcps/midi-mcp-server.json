@@ -1,0 +1,7 @@
+{
+  "name": "midi-mcp-server",
+  "description": "Enables AI-driven MIDI composition with chord name support, interactive piano-roll preview, and multiple deployment modes.",
+  "source_repo": "tubone24/midi-mcp-server",
+  "source_url": "https://github.com/tubone24/midi-mcp-server",
+  "install": "npx -y midi-mcp-server"
+}

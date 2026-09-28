@@ -1,0 +1,7 @@
+{
+  "name": "vision-mcp-8",
+  "description": "MCP server that provides visual question answering, image description, object detection, OCR, and image manipulation tools using OpenAI-compatible vision models.",
+  "source_repo": "karond-is-me/vision-mcp",
+  "source_url": "https://github.com/karond-is-me/vision-mcp",
+  "install": "npx -y vision-mcp"
+}

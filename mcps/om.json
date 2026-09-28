@@ -1,0 +1,7 @@
+{
+  "name": "om",
+  "description": "Enables AI assistants to interact with a Markdown-based knowledge base with backlinks, tags, and full-text search, supporting note creation, reading, updating, renaming, and deletion through MCP tools.",
+  "source_repo": "xuanlinAI/overmind-slim",
+  "source_url": "https://github.com/xuanlinAI/overmind-slim",
+  "install": "# git clone --depth 1 https://github.com/xuanlinAI/overmind-slim\n# See source for mcpServers config block"
+}

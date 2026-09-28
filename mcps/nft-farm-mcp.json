@@ -1,0 +1,7 @@
+{
+  "name": "nft-farm-mcp",
+  "description": "MCP server that scans EVM chains to identify profitable free-mint NFT collections and wallets farming them, ranking by on-chain secondary PnL. Supports multiple chains via Seaport and offers tools for scanning collections, wallets, and job status.",
+  "source_repo": "0xsyncroot/nft-farm-mcp",
+  "source_url": "https://github.com/0xsyncroot/nft-farm-mcp",
+  "install": "npx -y nft-farm-mcp"
+}

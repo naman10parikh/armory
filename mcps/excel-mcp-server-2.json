@@ -1,0 +1,7 @@
+{
+  "name": "excel-mcp-server-2",
+  "description": "Enables game designers to manipulate Excel files using natural language or SQL, supporting cross-sheet operations, batch modifications, and game configuration management.",
+  "source_repo": "TangentDomain/excel-mcp-server",
+  "source_url": "https://github.com/TangentDomain/excel-mcp-server",
+  "install": "npx -y excel-mcp-server"
+}

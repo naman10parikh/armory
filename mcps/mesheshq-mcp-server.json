@@ -1,0 +1,7 @@
+{
+  "name": "mesheshq-mcp-server",
+  "description": "Enables emitting product events, managing workspaces, routing rules, and integration connections for the Meshes universal integration layer.",
+  "source_repo": "mesheshq/meshes-mcp-server",
+  "source_url": "https://github.com/mesheshq/meshes-mcp-server",
+  "install": "npx -y meshes-mcp-server"
+}

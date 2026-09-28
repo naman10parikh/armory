@@ -1,0 +1,7 @@
+{
+  "name": "arquiteto-planner-i-a",
+  "description": "MCP server that assists with software project planning by recommending tech stacks, generating folder structures, and outlining development steps based on a project idea.",
+  "source_repo": "rafael-BM08/Arquiteto_Planner_I.A_MCPS",
+  "source_url": "https://github.com/rafael-BM08/Arquiteto_Planner_I.A_MCPS",
+  "install": "# git clone --depth 1 https://github.com/rafael-BM08/Arquiteto_Planner_I.A_MCPS\n# See source for mcpServers config block"
+}

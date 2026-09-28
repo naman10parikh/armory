@@ -1,0 +1,7 @@
+{
+  "name": "medical-diagnosis-ai-mcp",
+  "description": "An MCP server that analyzes patient symptoms using AI, suggests potential diagnoses, and retrieves relevant medical literature from PubMed.",
+  "source_repo": "kalevikas/medical-diagnosis-ai-mcp",
+  "source_url": "https://github.com/kalevikas/medical-diagnosis-ai-mcp",
+  "install": "npx -y medical-diagnosis-ai-mcp"
+}

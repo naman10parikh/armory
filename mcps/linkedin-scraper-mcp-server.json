@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-scraper-mcp-server",
+  "description": "Enables AI assistants to search, filter, and extract job listings from LinkedIn using an automated headless browser, returning structured data such as salary, skills, and applicant counts.",
+  "source_repo": "Anjani27/Anjani27-Linkedin-Job-Scraper-MCP-Server",
+  "source_url": "https://github.com/Anjani27/Anjani27-Linkedin-Job-Scraper-MCP-Server",
+  "install": "npx -y Anjani27-Linkedin-Job-Scraper-MCP-Server"
+}

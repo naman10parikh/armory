@@ -1,0 +1,7 @@
+{
+  "name": "agent-room-mcp",
+  "description": "Enables Cursor agents to communicate via a shared chat room, allowing them to ask questions, share status, and warn about conflicts while collaborating on the same repo.",
+  "source_repo": "umbecanessa/agent-room-mcp",
+  "source_url": "https://github.com/umbecanessa/agent-room-mcp",
+  "install": "npx -y agent-room-mcp"
+}

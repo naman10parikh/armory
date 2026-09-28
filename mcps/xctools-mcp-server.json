@@ -1,0 +1,7 @@
+{
+  "name": "xctools-mcp-server",
+  "description": "Provides structured access to Xcode development tools including xcrun, xcodebuild, and xctrace for building, testing, and analyzing projects.",
+  "source_repo": "nzrsky/xctools-mcp-server",
+  "source_url": "https://github.com/nzrsky/xctools-mcp-server",
+  "install": "npx -y xctools-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "obsidianconnector",
+  "description": "Provides local MCP access to registered Obsidian vaults, enabling Markdown note operations like reading, writing, searching, and managing notes via tools for Codex and ChatGPT Desktop.",
+  "source_repo": "luannn010/obsidianconnector",
+  "source_url": "https://github.com/luannn010/obsidianconnector",
+  "install": "# git clone --depth 1 https://github.com/luannn010/obsidianconnector\n# See source for mcpServers config block"
+}

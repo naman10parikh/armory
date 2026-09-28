@@ -1,0 +1,7 @@
+{
+  "name": "transcript-mcp-spike",
+  "description": "Enables LLMs to inspect and search mock transcripts through MCP tools and resources. Supports listing, fetching, and searching transcripts with filters on participants, tags, and content.",
+  "source_repo": "pratnayake-alphasights/mcp-spike",
+  "source_url": "https://github.com/pratnayake-alphasights/mcp-spike",
+  "install": "# git clone --depth 1 https://github.com/pratnayake-alphasights/mcp-spike\n# See source for mcpServers config block"
+}

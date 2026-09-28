@@ -1,0 +1,7 @@
+{
+  "name": "ametller-origen",
+  "description": "Enables shopping Ametller Origen online groceries through Claude, allowing catalog browsing, cart management, and order history access, with payment handled directly on the retailer's site.",
+  "source_repo": "igorsafonov-gif/ametller-origen",
+  "source_url": "https://github.com/igorsafonov-gif/ametller-origen",
+  "install": "# git clone --depth 1 https://github.com/igorsafonov-gif/ametller-origen\n# See source for mcpServers config block"
+}

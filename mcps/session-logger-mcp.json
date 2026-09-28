@@ -1,0 +1,7 @@
+{
+  "name": "session-logger-mcp",
+  "description": "Enables saving LLM chat conversations to JSONL log files and querying them by session ID, user ID, keyword, or date range.",
+  "source_repo": "davinoishi/session-logger-mcp",
+  "source_url": "https://github.com/davinoishi/session-logger-mcp",
+  "install": "npx -y session-logger-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "akyla-mcp",
+  "description": "Provides as-reported US equity fundamentals, live quotes, financial statements, valuation comps, and a screener from SEC filings, with per-cell filing provenance for citations.",
+  "source_repo": "AkilaAnalytics/akyla-mcp",
+  "source_url": "https://github.com/AkilaAnalytics/akyla-mcp",
+  "install": "npx -y akyla-mcp"
+}

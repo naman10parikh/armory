@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-tours",
+  "description": "Enables searching, querying, and exploring open datasets from Tours Métropole Open Data using natural language via the OpenDataSoft API.",
+  "source_repo": "pipeworx-io/mcp-data-tours",
+  "source_url": "https://github.com/pipeworx-io/mcp-data-tours",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-data-tours\n# See source for mcpServers config block"
+}

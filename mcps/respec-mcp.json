@@ -1,0 +1,7 @@
+{
+  "name": "respec-mcp",
+  "description": "A stdio MCP server that wraps ReSpec rendering with repo-local profiles, enabling AI agents to scaffold, validate, and build W3C-style documents.",
+  "source_repo": "danielcamposramos/respec-mcp",
+  "source_url": "https://github.com/danielcamposramos/respec-mcp",
+  "install": "npx -y respec-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "layergrep",
+  "description": "Enables semantic and literal code search across a codebase, returning results grouped by architectural layer and module, through an MCP interface.",
+  "source_repo": "AlexVishnivetsky/layer-grep",
+  "source_url": "https://github.com/AlexVishnivetsky/layer-grep",
+  "install": "# git clone --depth 1 https://github.com/AlexVishnivetsky/layer-grep\n# See source for mcpServers config block"
+}

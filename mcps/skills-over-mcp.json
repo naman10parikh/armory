@@ -1,0 +1,7 @@
+{
+  "name": "skills-over-mcp",
+  "description": "Enables multi-step, opinionated workflows (skills) as MCP resources with lazy loading, encoding team knowledge like branch naming and test procedures alongside tool execution.",
+  "source_repo": "hemanth/skills-over-mcp",
+  "source_url": "https://github.com/hemanth/skills-over-mcp",
+  "install": "npx -y skills-over-mcp"
+}

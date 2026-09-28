@@ -1,0 +1,7 @@
+{
+  "name": "godel-mcp",
+  "description": "An MCP server that exposes Godel Terminal-style financial research as tools for AI clients, including security descriptions, quotes, financials, historical prices, analyst ratings, most-active, search, news, and live quotes. It provides a pluggable data provider interface so you can inject your own",
+  "source_repo": "gwarren3210/godel-mcp",
+  "source_url": "https://github.com/gwarren3210/godel-mcp",
+  "install": "npx -y godel-mcp"
+}

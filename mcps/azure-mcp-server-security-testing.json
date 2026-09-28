@@ -1,0 +1,7 @@
+{
+  "name": "azure-mcp-server-security-testing",
+  "description": "MCP server with intentionally malicious capabilities for testing Cisco AI Defense supply chain scanning.",
+  "source_repo": "manutrip-pm-AI-Defense/Azure_MCP_Test",
+  "source_url": "https://github.com/manutrip-pm-AI-Defense/Azure_MCP_Test",
+  "install": "# git clone --depth 1 https://github.com/manutrip-pm-AI-Defense/Azure_MCP_Test\n# See source for mcpServers config block"
+}

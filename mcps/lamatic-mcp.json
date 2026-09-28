@@ -1,0 +1,7 @@
+{
+  "name": "lamatic-mcp",
+  "description": "Unified MCP server combining dev, graph, docs, and kit tools for Lamatic.ai. Enables managing orgs/projects/flows, executing flows, querying docs via RAG, and browsing AgentKit contributions.",
+  "source_repo": "Lamatic/Lamatic-MCP",
+  "source_url": "https://github.com/Lamatic/Lamatic-MCP",
+  "install": "npx -y Lamatic-MCP"
+}

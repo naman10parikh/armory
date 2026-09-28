@@ -1,0 +1,7 @@
+{
+  "name": "lw-ble-mcp",
+  "description": "A lightweight Bluetooth Low Energy debug MCP server for AI agents. It provides 21 tools for BLE scanning, connection, GATT read/write, descriptor access, MTU query, notification subscription, device recon, and engine diagnostics.",
+  "source_repo": "zevonlin/lw-ble-mcp",
+  "source_url": "https://github.com/zevonlin/lw-ble-mcp",
+  "install": "npx -y lw-ble-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lmdat-google-sheets-oauth-mcp",
+  "description": "Enables local MCP server for reading, writing, creating Google Sheets and charts via OAuth, acting as the logged-in user without manual sharing.",
+  "source_repo": "lmdat/google-sheet-oauth-mcp",
+  "source_url": "https://github.com/lmdat/google-sheet-oauth-mcp",
+  "install": "npx -y google-sheet-oauth-mcp"
+}

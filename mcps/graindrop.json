@@ -1,0 +1,7 @@
+{
+  "name": "graindrop",
+  "description": "A self-contained daemon that watches a directory, transcribes anything that lands in it, and presents the results to any AI agent through a standard protocol — no cloud, no subscriptions, no vendor lock-in.",
+  "source_repo": "stuartmhannon/graindrop",
+  "source_url": "https://github.com/stuartmhannon/graindrop",
+  "install": "# git clone --depth 1 https://github.com/stuartmhannon/graindrop\n# See source for mcpServers config block"
+}

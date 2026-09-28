@@ -1,0 +1,7 @@
+{
+  "name": "offshore-leaks-icij",
+  "description": "Enables users to check names against the ICIJ Offshore Leaks database for compliance and AML due diligence. Provides a single read-only tool accessible via MCP over HTTP.",
+  "source_repo": "mcp-dir/offshore_leaks-mcp",
+  "source_url": "https://github.com/mcp-dir/offshore_leaks-mcp",
+  "install": "npx -y offshore_leaks-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-remote-control",
+  "description": "Manage local/SSH/WinRM remote hosts via MCP, providing tools for exec, filesystem, screen, process, serial console, and configuration.",
+  "source_repo": "shiharuharu/mcp-remote-control",
+  "source_url": "https://github.com/shiharuharu/mcp-remote-control",
+  "install": "# git clone --depth 1 https://github.com/shiharuharu/mcp-remote-control\n# See source for mcpServers config block"
+}

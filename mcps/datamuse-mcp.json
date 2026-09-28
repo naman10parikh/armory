@@ -1,0 +1,7 @@
+{
+  "name": "datamuse-mcp",
+  "description": "MCP server for the Datamuse API that enables word finding like synonyms, rhymes, autocomplete, and more.",
+  "source_repo": "lacausecrypto/datamuse-mcp",
+  "source_url": "https://github.com/lacausecrypto/datamuse-mcp",
+  "install": "npx -y datamuse-mcp"
+}

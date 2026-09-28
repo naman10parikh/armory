@@ -1,0 +1,7 @@
+{
+  "name": "bst-avl-mcp",
+  "description": "Enables interactive learning and visualization of Binary Search Trees and AVL Trees through operations like insertion, deletion, and tree traversal, with real-time balancing rotations.",
+  "source_repo": "jakeoung/bst-avl-mcp",
+  "source_url": "https://github.com/jakeoung/bst-avl-mcp",
+  "install": "npx -y bst-avl-mcp"
+}

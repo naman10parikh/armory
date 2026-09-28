@@ -1,0 +1,7 @@
+{
+  "name": "what-do-they-know",
+  "description": "Search UK FOI requests, public authorities, and responses. Draft and submit Freedom of Information requests.",
+  "source_repo": "",
+  "source_url": "https://bouch.dev/products/whatdotheyknow-mcp/",
+  "install": "# git clone --depth 1 https://bouch.dev/products/whatdotheyknow-mcp/\n# See source for mcpServers config block"
+}

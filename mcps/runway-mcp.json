@@ -1,0 +1,7 @@
+{
+  "name": "runway-mcp",
+  "description": "Enables creating and managing Runway video generation tasks (text-to-video, video extension) through a single RunAPI key, including task polling and pricing checks.",
+  "source_repo": "runapi-ai/runway-mcp",
+  "source_url": "https://github.com/runapi-ai/runway-mcp",
+  "install": "npx -y runway-mcp"
+}

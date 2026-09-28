@@ -1,0 +1,7 @@
+{
+  "name": "mcprag",
+  "description": "Enables answering Formula 1 FAQ questions via vector search and web search using Bright Data.",
+  "source_repo": "patanjali-22/RAG-App-MCP",
+  "source_url": "https://github.com/patanjali-22/RAG-App-MCP",
+  "install": "npx -y RAG-App-MCP"
+}

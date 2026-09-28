@@ -1,0 +1,7 @@
+{
+  "name": "mcp-iva-mcu",
+  "description": "Enables AI agents to manage video conferencing through the IVA MCU platform, including conferences, chats, users, and integrations via Clients, Integration, and Bot APIs.",
+  "source_repo": "kostikpenzin/mcp_iva_mcu",
+  "source_url": "https://github.com/kostikpenzin/mcp_iva_mcu",
+  "install": "# git clone --depth 1 https://github.com/kostikpenzin/mcp_iva_mcu\n# See source for mcpServers config block"
+}

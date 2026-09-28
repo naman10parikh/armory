@@ -1,0 +1,7 @@
+{
+  "name": "target-cart-mcp",
+  "description": "An MCP server for searching Target products and generating Shopping Cart Share links from a list of TCINs.",
+  "source_repo": "Mattheinrichs/target-cart-mcp",
+  "source_url": "https://github.com/Mattheinrichs/target-cart-mcp",
+  "install": "npx -y target-cart-mcp"
+}

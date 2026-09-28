@@ -1,0 +1,7 @@
+{
+  "name": "contract-review-demo-mcp-server",
+  "description": "A public-safe demo MCP server for learning how to package Tools, Resources, and Prompts, using fictional contract text and local demo rules only.",
+  "source_repo": "m18500749500-create/contract-review-demo-mcp",
+  "source_url": "https://github.com/m18500749500-create/contract-review-demo-mcp",
+  "install": "npx -y contract-review-demo-mcp"
+}

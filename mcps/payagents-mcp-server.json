@@ -1,0 +1,7 @@
+{
+  "name": "payagents-mcp-server",
+  "description": "Enables AI agents to autonomously make policy-controlled payments for APIs and tools via Bitcoin Lightning (L402) and Base USDC (x402), including paying paywalled endpoints, checking balances, and reviewing transactions.",
+  "source_repo": "Payagents/payagents-mcp",
+  "source_url": "https://github.com/Payagents/payagents-mcp",
+  "install": "npx -y payagents-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-price-index-mcp",
+  "description": "Enables coding agents to query AI model API prices, including historical point-in-time lookups with cited sources, using a bundled dated dataset and requiring no API keys.",
+  "source_repo": "RoninForge/ai-price-index-mcp",
+  "source_url": "https://github.com/RoninForge/ai-price-index-mcp",
+  "install": "npx -y ai-price-index-mcp"
+}

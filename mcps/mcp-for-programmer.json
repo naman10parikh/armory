@@ -1,0 +1,7 @@
+{
+  "name": "mcp-for-programmer",
+  "description": "A Model Context Protocol server that helps programmers understand code by providing explanations, tech stack analysis, and best practice suggestions through prompt templates.",
+  "source_repo": "zaizaizhao/mcp-for-programmer",
+  "source_url": "https://github.com/zaizaizhao/mcp-for-programmer",
+  "install": "# git clone --depth 1 https://github.com/zaizaizhao/mcp-for-programmer\n# See source for mcpServers config block"
+}

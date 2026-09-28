@@ -1,0 +1,7 @@
+{
+  "name": "nse-mcp",
+  "description": "Exposes live Indian stock market data from the National Stock Exchange (NSE) via 17 tools covering bulk/block deals, institutional flows, market data, corporate events, and short selling.",
+  "source_repo": "icharshal/NSE-MCP",
+  "source_url": "https://github.com/icharshal/NSE-MCP",
+  "install": "npx -y NSE-MCP"
+}

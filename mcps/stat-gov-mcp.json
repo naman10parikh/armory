@@ -1,0 +1,7 @@
+{
+  "name": "stat-gov-mcp",
+  "description": "Local MCP server for querying Polish socioeconomic statistics from the GUS Bank Danych Lokalnych (BDL), letting AI find variables and units and pull data.",
+  "source_repo": "bartosz-kuc/stat-gov-mcp",
+  "source_url": "https://github.com/bartosz-kuc/stat-gov-mcp",
+  "install": "npx -y stat-gov-mcp"
+}

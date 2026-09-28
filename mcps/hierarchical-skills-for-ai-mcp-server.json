@@ -1,0 +1,7 @@
+{
+  "name": "hierarchical-skills-for-ai-mcp-server",
+  "description": "A hierarchical MCP server for managing skill definitions with a browsable tree structure and full-text search. It allows AI agents to efficiently discover and use skills without consuming context tokens.",
+  "source_repo": "Aunxfb/HierarchicalSkillsForAI",
+  "source_url": "https://github.com/Aunxfb/HierarchicalSkillsForAI",
+  "install": "# git clone --depth 1 https://github.com/Aunxfb/HierarchicalSkillsForAI\n# See source for mcpServers config block"
+}

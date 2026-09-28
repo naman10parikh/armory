@@ -1,0 +1,7 @@
+{
+  "name": "bh-pdfdoc-reader",
+  "description": "Enables AI-powered IDEs to read PDF and DOCX files directly, supporting structured output in Markdown, JSON, or plain text.",
+  "source_repo": "BilhosDev/bh-pdfdoc-reader",
+  "source_url": "https://github.com/BilhosDev/bh-pdfdoc-reader",
+  "install": "# git clone --depth 1 https://github.com/BilhosDev/bh-pdfdoc-reader\n# See source for mcpServers config block"
+}

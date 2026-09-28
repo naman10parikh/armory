@@ -1,0 +1,7 @@
+{
+  "name": "invokeai-mcp",
+  "description": "Enables AI coding agents to control a local InvokeAI creative engine, supporting text-to-image, image-to-image, masked inpaint, upscaling, and full queue, model, gallery, board, and workflow management.",
+  "source_repo": "sandraschi/invokeai-mcp",
+  "source_url": "https://github.com/sandraschi/invokeai-mcp",
+  "install": "npx -y invokeai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "photon-mcp-imessage",
+  "description": "Exposes 67 MCP tools for iMessage including chats, messages, attachments, contacts, polls, scheduled messages, FaceTime, Find My, and more.",
+  "source_repo": "photon-hq/mcp",
+  "source_url": "https://github.com/photon-hq/mcp",
+  "install": "# git clone --depth 1 https://github.com/photon-hq/mcp\n# See source for mcpServers config block"
+}

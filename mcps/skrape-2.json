@@ -1,0 +1,7 @@
+{
+  "name": "skrape-2",
+  "description": "Converts any webpage into clean, LLM-ready Markdown using the skrape.ai API. Enables easy integration of web content into LLMs like Claude.",
+  "source_repo": "AmokOrg/skrape-mcp-1",
+  "source_url": "https://github.com/AmokOrg/skrape-mcp-1",
+  "install": "# git clone --depth 1 https://github.com/AmokOrg/skrape-mcp-1\n# See source for mcpServers config block"
+}

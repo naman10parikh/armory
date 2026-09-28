@@ -1,0 +1,7 @@
+{
+  "name": "mcp-order-management-with-rbac",
+  "description": "Enables role-based order management through MCP tools, allowing users to view and refund orders according to their permissions (USER, MANAGER, ADMIN) with audit logging and JWT authentication handled by a FastAPI client.",
+  "source_repo": "techakash32/MCP-Order-Management-with-RBAC",
+  "source_url": "https://github.com/techakash32/MCP-Order-Management-with-RBAC",
+  "install": "# git clone --depth 1 https://github.com/techakash32/MCP-Order-Management-with-RBAC\n# See source for mcpServers config block"
+}

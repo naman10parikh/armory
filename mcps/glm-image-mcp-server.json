@@ -1,0 +1,7 @@
+{
+  "name": "glm-image-mcp-server",
+  "description": "MCP server for generating images using Z.AI's glm-image model. Supports image generation with various sizes and qualities, and includes batch CLI functionality.",
+  "source_repo": "ex-takashima/glm-image-mcp-server",
+  "source_url": "https://github.com/ex-takashima/glm-image-mcp-server",
+  "install": "npx -y glm-image-mcp-server"
+}

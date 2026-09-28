@@ -1,0 +1,7 @@
+{
+  "name": "omega-mcp-server",
+  "description": "MCP server that exposes 108+ omega-cli OSINT tools for reconnaissance, web analysis, threat intelligence, and reporting, enabling AI assistants to perform comprehensive open-source intelligence tasks.",
+  "source_repo": "Ekoelogan/omega-mcp-server",
+  "source_url": "https://github.com/Ekoelogan/omega-mcp-server",
+  "install": "npx -y omega-mcp-server"
+}

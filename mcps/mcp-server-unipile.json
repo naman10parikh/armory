@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-unipile",
+  "description": "Provides 95 tools to connect AI assistants to LinkedIn, Email, Calendar, WhatsApp, Instagram, and Telegram through the Unipile API, enabling cross-platform messaging, search, and account management.",
+  "source_repo": "Sundeepg98/mcp-server-unipile",
+  "source_url": "https://github.com/Sundeepg98/mcp-server-unipile",
+  "install": "# git clone --depth 1 https://github.com/Sundeepg98/mcp-server-unipile\n# See source for mcpServers config block"
+}

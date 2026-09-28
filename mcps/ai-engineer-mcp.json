@@ -1,0 +1,7 @@
+{
+  "name": "ai-engineer-mcp",
+  "description": "MCP server for the AI Engineer Conference 2025, enabling talk submissions and conference information retrieval.",
+  "source_repo": "aiDotEngineer/aie-mcp",
+  "source_url": "https://github.com/aiDotEngineer/aie-mcp",
+  "install": "npx -y aie-mcp"
+}

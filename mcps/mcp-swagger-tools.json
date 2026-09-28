@@ -1,0 +1,7 @@
+{
+  "name": "mcp-swagger-tools",
+  "description": "Automatically parses Swagger/OpenAPI documentation, generates frontend code (Vue3, React, etc.), and enables API testing through natural language commands.",
+  "source_repo": "jeckAell/mcp-swagger-tools",
+  "source_url": "https://github.com/jeckAell/mcp-swagger-tools",
+  "install": "# git clone --depth 1 https://github.com/jeckAell/mcp-swagger-tools\n# See source for mcpServers config block"
+}

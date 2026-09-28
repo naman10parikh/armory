@@ -1,0 +1,7 @@
+{
+  "name": "bakom-mcp",
+  "description": "MCP server for Swiss BAKOM open data, enabling natural-language queries about broadband availability, 5G/4G coverage, mobile antennas, licensed broadcasters, and telecom statistics.",
+  "source_repo": "malkreide/bakom-mcp",
+  "source_url": "https://github.com/malkreide/bakom-mcp",
+  "install": "npx -y bakom-mcp"
+}

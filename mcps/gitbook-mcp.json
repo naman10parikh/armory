@@ -1,0 +1,7 @@
+{
+  "name": "gitbook-mcp",
+  "description": "A Model Context Protocol server for GitBook that enables reading content and driving a change-request write workflow.",
+  "source_repo": "HoYongJin/gitbook-mcp",
+  "source_url": "https://github.com/HoYongJin/gitbook-mcp",
+  "install": "npx -y gitbook-mcp"
+}

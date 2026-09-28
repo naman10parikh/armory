@@ -1,0 +1,7 @@
+{
+  "name": "codex-conductor",
+  "description": "An MCP server that allows AI agents to monitor and interact with Codex sessions, providing session awareness, status summaries, and managed tmux windows for automated continuation.",
+  "source_repo": "yksanjo/codex-conductor",
+  "source_url": "https://github.com/yksanjo/codex-conductor",
+  "install": "# git clone --depth 1 https://github.com/yksanjo/codex-conductor\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "otskit-mcp",
+  "description": "Stamp, upgrade, and verify Bitcoin timestamps via AI agents using the OpenTimestamps protocol. No API keys required.",
+  "source_repo": "OTSkit/OTSkit-MCP",
+  "source_url": "https://github.com/OTSkit/OTSkit-MCP",
+  "install": "npx -y OTSkit-MCP"
+}

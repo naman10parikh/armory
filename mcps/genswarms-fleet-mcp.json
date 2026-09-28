@@ -1,0 +1,7 @@
+{
+  "name": "genswarms-fleet-mcp",
+  "description": "MCP server that connects any MCP harness (Claude Code, claude.ai, Cursor) to a fleet of GenSwarms swarms for observation, configuration, and optional operation.",
+  "source_repo": "jmlago/genswarms-fleet-mcp",
+  "source_url": "https://github.com/jmlago/genswarms-fleet-mcp",
+  "install": "npx -y genswarms-fleet-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "moke-mcp",
+  "description": "Brings Mockplus design data into AI coding assistants, enabling automated design-to-code workflows.",
+  "source_repo": "bosong/MOKE_MCP",
+  "source_url": "https://github.com/bosong/MOKE_MCP",
+  "install": "npx -y MOKE_MCP"
+}

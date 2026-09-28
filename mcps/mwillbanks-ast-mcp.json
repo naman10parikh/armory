@@ -1,0 +1,7 @@
+{
+  "name": "mwillbanks-ast-mcp",
+  "description": "Combines AST intelligence and guarded file operations to provide a secure, controlled repository workflow for coding agents, enabling structural code analysis and safe edits without unbounded editor access.",
+  "source_repo": "mwillbanks/ast-mcp",
+  "source_url": "https://github.com/mwillbanks/ast-mcp",
+  "install": "npx -y ast-mcp"
+}

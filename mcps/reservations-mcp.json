@@ -1,0 +1,7 @@
+{
+  "name": "reservations-mcp",
+  "description": "Enables restaurant discovery and reservations across multiple providers (Resy, Google Places, Yelp, Tock) with auditable and secure two-step booking.",
+  "source_repo": "kunalkhosla/reservations-mcp",
+  "source_url": "https://github.com/kunalkhosla/reservations-mcp",
+  "install": "npx -y reservations-mcp"
+}

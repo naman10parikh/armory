@@ -1,0 +1,7 @@
+{
+  "name": "git-intel-mcp",
+  "description": "A lightweight MCP server that analyzes Git repository history and provides insights through AI-compatible tools. It supports hotspot detection, contributor analysis, and code churn tracking.",
+  "source_repo": "s-zaid-13/git-intel-mcp",
+  "source_url": "https://github.com/s-zaid-13/git-intel-mcp",
+  "install": "npx -y git-intel-mcp"
+}

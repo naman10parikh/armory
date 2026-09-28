@@ -1,0 +1,7 @@
+{
+  "name": "qwen-memory-agent",
+  "description": "MCP-native persistent-memory agent that remembers user preferences across sessions, forgets superseded facts, and recalls relevant memories within a tight token budget.",
+  "source_repo": "rduffyuk/qwen-memory-agent",
+  "source_url": "https://github.com/rduffyuk/qwen-memory-agent",
+  "install": "# git clone --depth 1 https://github.com/rduffyuk/qwen-memory-agent\n# See source for mcpServers config block"
+}

@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-harvest-time-tracking",
-  "description": "Mcp Server Harvest Time Tracking MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "CodifyAG/mcp-server-harvest-time-tracking",
   "source_url": "https://mcp.so/server/mcp-server-harvest-time-tracking/CodifyAG",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-harvest-time-tracking/CodifyAG\n# See source for mcpServers config block"

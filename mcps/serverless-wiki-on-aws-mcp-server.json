@@ -1,0 +1,7 @@
+{
+  "name": "serverless-wiki-on-aws-mcp-server",
+  "description": "MCP server that provides secure access to a serverless Markdown wiki on AWS, enabling AI assistants to read, search, and edit pages with space-level permission checks and Bedrock-powered semantic search.",
+  "source_repo": "coni524/serverless-wiki-on-aws",
+  "source_url": "https://github.com/coni524/serverless-wiki-on-aws",
+  "install": "# git clone --depth 1 https://github.com/coni524/serverless-wiki-on-aws\n# See source for mcpServers config block"
+}

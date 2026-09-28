@@ -1,0 +1,7 @@
+{
+  "name": "wg21-wiki-mcp",
+  "description": "A local MCP server that gives an LLM agent read access to the WG21 (ISO C++) committee wiki as a verifiable source of truth, requiring authentication and providing exact wikitext with provenance.",
+  "source_repo": "cppalliance/wg21-wiki-mcp",
+  "source_url": "https://github.com/cppalliance/wg21-wiki-mcp",
+  "install": "npx -y wg21-wiki-mcp"
+}

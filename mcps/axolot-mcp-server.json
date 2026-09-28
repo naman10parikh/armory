@@ -1,0 +1,7 @@
+{
+  "name": "axolot-mcp-server",
+  "description": "Enables AI assistants to interact with Axolot CMS for content, design tokens, media, and module management with site context awareness.",
+  "source_repo": "AxolotDevelopment/Axolot-MCP",
+  "source_url": "https://github.com/AxolotDevelopment/Axolot-MCP",
+  "install": "npx -y Axolot-MCP"
+}

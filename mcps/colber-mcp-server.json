@@ -1,0 +1,7 @@
+{
+  "name": "colber-mcp-server",
+  "description": "Exposes Colber's five integrated services (Reputation, Memory, Observability, Negotiation, Insurance) as 27 MCP tools for AI agents, enabling trust, coordination, and continuity.",
+  "source_repo": "Obi49/Colber",
+  "source_url": "https://github.com/Obi49/Colber",
+  "install": "# git clone --depth 1 https://github.com/Obi49/Colber\n# See source for mcpServers config block"
+}

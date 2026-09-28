@@ -1,0 +1,7 @@
+{
+  "name": "winkit",
+  "description": "A Windows observability MCP server that lets AI agents inspect system health, processes, performance, hardware, and Windows diagnostics. WinKit provides real-time system data and diagnostic signals so AI agents can understand and troubleshoot Windows PCs.",
+  "source_repo": "KiritoBloom/WinKit",
+  "source_url": "https://github.com/KiritoBloom/WinKit",
+  "install": "# git clone --depth 1 https://github.com/KiritoBloom/WinKit\n# See source for mcpServers config block"
+}

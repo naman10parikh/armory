@@ -1,0 +1,7 @@
+{
+  "name": "eclincher",
+  "description": "Publish, schedule, moderate your social inbox, and pull analytics across every major network directly from any AI assistant, via Eclincher.",
+  "source_repo": "talm/eclincher-mcp-server",
+  "source_url": "https://github.com/talm/eclincher-mcp-server",
+  "install": "npx -y eclincher-mcp-server"
+}

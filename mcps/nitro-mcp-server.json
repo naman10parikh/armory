@@ -1,0 +1,7 @@
+{
+  "name": "nitro-mcp-server",
+  "description": "Enables MCP client interaction via streamable HTTP, providing example tools (echo, getPostsByUser) and resources (posts, users) with pluggable authentication providers.",
+  "source_repo": "peterbud/nitro-mcp-server",
+  "source_url": "https://github.com/peterbud/nitro-mcp-server",
+  "install": "npx -y nitro-mcp-server"
+}

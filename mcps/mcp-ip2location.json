@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ip2location",
+  "description": "Enables AI assistants to perform IP geolocation, proxy detection, and domain WHOIS lookups using IP2Location.io and IP2WHOIS data.",
+  "source_repo": "eweley95/mcp-ip2location",
+  "source_url": "https://github.com/eweley95/mcp-ip2location",
+  "install": "# git clone --depth 1 https://github.com/eweley95/mcp-ip2location\n# See source for mcpServers config block"
+}

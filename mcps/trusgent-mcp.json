@@ -1,0 +1,7 @@
+{
+  "name": "trusgent-mcp",
+  "description": "Enables AI agents to search and verify Hong Kong official registry data, retrieve merged agent profiles with citation-safe recommendedUse, and access verified Agent Cards through a remote streamable HTTP endpoint.",
+  "source_repo": "Trusgent/trusgent-mcp",
+  "source_url": "https://github.com/Trusgent/trusgent-mcp",
+  "install": "npx -y trusgent-mcp"
+}

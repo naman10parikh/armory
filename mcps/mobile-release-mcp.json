@@ -1,0 +1,7 @@
+{
+  "name": "mobile-release-mcp",
+  "description": "MCP server for managing mobile app releases on App Store Connect and Google Play. It exposes 101 tools for iOS and Android release lifecycle and reacts to EAS/GitHub webhooks automatically.",
+  "source_repo": "Jeronimo0228/mobile-release-mcp",
+  "source_url": "https://github.com/Jeronimo0228/mobile-release-mcp",
+  "install": "npx -y mobile-release-mcp"
+}

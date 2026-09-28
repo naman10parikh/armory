@@ -1,0 +1,7 @@
+{
+  "name": "openreview-mcp-server",
+  "description": "Enables searching for users, fetching papers, and exporting research data from OpenReview conferences like ICML, ICLR, NeurIPS.",
+  "source_repo": "anyakors/openreview-mcp-server",
+  "source_url": "https://github.com/anyakors/openreview-mcp-server",
+  "install": "npx -y openreview-mcp-server"
+}

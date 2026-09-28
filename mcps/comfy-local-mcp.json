@@ -1,0 +1,7 @@
+{
+  "name": "comfy-local-mcp",
+  "description": "Windows-native MCP server for a local ComfyUI portable package. It enables listing, validating, and running ComfyUI workflows via the loopback HTTP API.",
+  "source_repo": "lizhongyi1209/o1key-comfy-mcp",
+  "source_url": "https://github.com/lizhongyi1209/o1key-comfy-mcp",
+  "install": "npx -y o1key-comfy-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rodin-gen-2-mcp-server",
+  "description": "MCP server for integrating with Rodin Gen-2 API to generate 3D models from text descriptions or images.",
+  "source_repo": "TiGRoNdev/RodinGen2MCP",
+  "source_url": "https://github.com/TiGRoNdev/RodinGen2MCP",
+  "install": "# git clone --depth 1 https://github.com/TiGRoNdev/RodinGen2MCP\n# See source for mcpServers config block"
+}

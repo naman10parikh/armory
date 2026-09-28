@@ -1,0 +1,7 @@
+{
+  "name": "react-native-upgrade-helper-mcp-server",
+  "description": "Automates the React Native Upgrade Helper website to extract upgrade information and file diffs between React Native versions.",
+  "source_repo": "KalinYorgov/RN-upgrade-helper-MCP",
+  "source_url": "https://github.com/KalinYorgov/RN-upgrade-helper-MCP",
+  "install": "npx -y RN-upgrade-helper-MCP"
+}

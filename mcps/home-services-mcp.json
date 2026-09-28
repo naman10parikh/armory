@@ -1,0 +1,7 @@
+{
+  "name": "home-services-mcp",
+  "description": "Home Services MCP by HireNimbus lets AI agents find, compare, and book verified local pros for handyman, renovation, HVAC, plumbing, electrical, and landscaping jobs in supported US metro markets.",
+  "source_repo": "Hire-Nimbus/nimbus-mcp-server",
+  "source_url": "https://github.com/Hire-Nimbus/nimbus-mcp-server",
+  "install": "npx -y nimbus-mcp-server"
+}

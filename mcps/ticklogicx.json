@@ -1,0 +1,7 @@
+{
+  "name": "ticklogicx",
+  "description": "A read-only MCP server that enables agents to simulate spending against TickLogic gates on Solana devnet, returning exact policy reasons for denial.",
+  "source_repo": "pruvnetwork/ticklogicx",
+  "source_url": "https://github.com/pruvnetwork/ticklogicx",
+  "install": "# git clone --depth 1 https://github.com/pruvnetwork/ticklogicx\n# See source for mcpServers config block"
+}

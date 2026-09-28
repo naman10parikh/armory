@@ -1,0 +1,7 @@
+{
+  "name": "arxiv-semantic-scholar-mcp-server",
+  "description": "Enables searching academic papers, exploring citation graphs, and discovering related research via ArXiv and Semantic Scholar APIs.",
+  "source_repo": "RaggedR/mcp",
+  "source_url": "https://github.com/RaggedR/mcp",
+  "install": "# git clone --depth 1 https://github.com/RaggedR/mcp\n# See source for mcpServers config block"
+}

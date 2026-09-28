@@ -1,0 +1,7 @@
+{
+  "name": "eurostat-tam-mcp-server",
+  "description": "Pulls enterprise counts by NACE Rev.2 activity and size class from Eurostat and buckets them into SME and 250+ categories for the DTM TAM model, with tools to fill TAM spreadsheets directly.",
+  "source_repo": "linimeanie/eurostat-tam-mcp",
+  "source_url": "https://github.com/linimeanie/eurostat-tam-mcp",
+  "install": "npx -y eurostat-tam-mcp"
+}

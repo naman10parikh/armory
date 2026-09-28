@@ -1,0 +1,7 @@
+{
+  "name": "obambu-cpanel-mcp",
+  "description": "MCP server for managing cPanel hosting accounts via UAPI. Enables domains, DNS, email, MySQL, file management, and arbitrary UAPI calls through natural language.",
+  "source_repo": "RodrigueDev13/obambu-cpanel-mcp",
+  "source_url": "https://github.com/RodrigueDev13/obambu-cpanel-mcp",
+  "install": "npx -y obambu-cpanel-mcp"
+}

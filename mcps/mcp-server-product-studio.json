@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-product-studio",
+  "description": "A full-feature MCP server that serves as a product-development copilot, providing RAG search, SQL queries, and inline chart visualizations from seeded product data, with per-user identity and its own OAuth login.",
+  "source_repo": "connextai/mcp-server-product-studio",
+  "source_url": "https://github.com/connextai/mcp-server-product-studio",
+  "install": "# git clone --depth 1 https://github.com/connextai/mcp-server-product-studio\n# See source for mcpServers config block"
+}

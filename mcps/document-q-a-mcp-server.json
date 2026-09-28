@@ -1,0 +1,7 @@
+{
+  "name": "document-q-a-mcp-server",
+  "description": "Enables users to ingest PDF/DOCX/TXT/MD documents and ask natural language questions about them, using local embeddings and Groq-powered retrieval-augmented generation.",
+  "source_repo": "Divyanshedunext/MCP-Server",
+  "source_url": "https://github.com/Divyanshedunext/MCP-Server",
+  "install": "# git clone --depth 1 https://github.com/Divyanshedunext/MCP-Server\n# See source for mcpServers config block"
+}

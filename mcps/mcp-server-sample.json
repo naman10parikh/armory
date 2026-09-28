@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-sample",
+  "description": "Enables saving and searching notes stored in a local JSON file via a minimal MCP server, supporting three primitives: tools (add_note, search_notes), resources (notes://all), and prompts (weekly_review).",
+  "source_repo": "utakatano/mcp-server-sample",
+  "source_url": "https://github.com/utakatano/mcp-server-sample",
+  "install": "# git clone --depth 1 https://github.com/utakatano/mcp-server-sample\n# See source for mcpServers config block"
+}

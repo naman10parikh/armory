@@ -1,0 +1,7 @@
+{
+  "name": "socialclaw",
+  "description": "Social media scheduling and publishing for AI agents. 17 validation-first tools to post to X, LinkedIn, Instagram, TikTok, YouTube, Reddit, Discord, Telegram, and more through one connected workspace.",
+  "source_repo": "ndesv21/socialclaw",
+  "source_url": "https://github.com/ndesv21/socialclaw",
+  "install": "# git clone --depth 1 https://github.com/ndesv21/socialclaw\n# See source for mcpServers config block"
+}

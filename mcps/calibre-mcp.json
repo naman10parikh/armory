@@ -1,0 +1,7 @@
+{
+  "name": "calibre-mcp",
+  "description": "Enables read-only search, browsing, and metadata retrieval from a local Calibre e-book library using natural language queries.",
+  "source_repo": "mmccarthy404/calibre-mcp",
+  "source_url": "https://github.com/mmccarthy404/calibre-mcp",
+  "install": "npx -y calibre-mcp"
+}

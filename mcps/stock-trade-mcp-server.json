@@ -1,0 +1,7 @@
+{
+  "name": "stock-trade-mcp-server",
+  "description": "An MCP server that provides tools to access Tiingo API data including stock prices, news, forex, fundamentals, and corporate actions.",
+  "source_repo": "JesusRS1/stock-trade-finance-api",
+  "source_url": "https://github.com/JesusRS1/stock-trade-finance-api",
+  "install": "# git clone --depth 1 https://github.com/JesusRS1/stock-trade-finance-api\n# See source for mcpServers config block"
+}

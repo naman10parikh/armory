@@ -1,0 +1,7 @@
+{
+  "name": "design-dna-mcp",
+  "description": "Extracts reusable UI patterns from websites into a searchable library using Playwright and Claude, enabling natural-language queries like 'find monospace technical labels'.",
+  "source_repo": "olartgabo/design-dna-mcp",
+  "source_url": "https://github.com/olartgabo/design-dna-mcp",
+  "install": "npx -y design-dna-mcp"
+}

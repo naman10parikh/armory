@@ -1,0 +1,7 @@
+{
+  "name": "x32dbg-mcp-server",
+  "description": "Connects the x32dbg debugger to Claude AI through the Model Context Protocol, enabling natural language control of 48+ debugging operations such as breakpoints, memory analysis, and reverse engineering automation.",
+  "source_repo": "john-mayhem/x32dbgMCP",
+  "source_url": "https://github.com/john-mayhem/x32dbgMCP",
+  "install": "# git clone --depth 1 https://github.com/john-mayhem/x32dbgMCP\n# See source for mcpServers config block"
+}

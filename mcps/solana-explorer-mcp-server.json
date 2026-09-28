@@ -1,6 +1,6 @@
 {
   "name": "solana-explorer-mcp-server",
-  "description": "Solana Explorer MCP Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "8bitsats/Solana-Explorer-MCP-Server",
   "source_url": "https://mcp.so/server/Solana-Explorer-MCP-Server/8bitsats",
   "install": "npx -y Solana-Explorer-MCP-Server"

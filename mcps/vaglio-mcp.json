@@ -1,0 +1,7 @@
+{
+  "name": "vaglio-mcp",
+  "description": "MCP server for academic research with shared token bucket governance, evidence-based read depth, and archival inscription. Uses multiple sources with failover to avoid rate limits.",
+  "source_repo": "Alemusica/vaglio-mcp",
+  "source_url": "https://github.com/Alemusica/vaglio-mcp",
+  "install": "npx -y vaglio-mcp"
+}

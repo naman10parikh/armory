@@ -1,0 +1,7 @@
+{
+  "name": "shadcn-ui-mcp-server",
+  "description": "Enables AI assistants to access and manage shadcn/ui v4 components, including source code, demos, blocks, and CLI integration.",
+  "source_repo": "sherifButt/shadcn-ui-mcp-server",
+  "source_url": "https://github.com/sherifButt/shadcn-ui-mcp-server",
+  "install": "npx -y shadcn-ui-mcp-server"
+}

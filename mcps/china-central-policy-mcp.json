@@ -1,0 +1,7 @@
+{
+  "name": "china-central-policy-mcp",
+  "description": "Facilitates retrieval and parsing of Chinese central government policies from gov.cn, offering structured search results and full-text extraction.",
+  "source_repo": "guangxiangdebizi/China-Central-Policy-MCP",
+  "source_url": "https://github.com/guangxiangdebizi/China-Central-Policy-MCP",
+  "install": "npx -y China-Central-Policy-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "phpactor-mcp-server",
+  "description": "Provides project-wide semantic PHP refactoring tools (find references, rename classes/members, move class, class info) for AI assistants by wrapping Phpactor.",
+  "source_repo": "p4it-kft/p4it-phpactor-mcp",
+  "source_url": "https://github.com/p4it-kft/p4it-phpactor-mcp",
+  "install": "npx -y p4it-phpactor-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cozyvtt-agent",
+  "description": "Exposes CozyVTT campaign capabilities as an MCP Streamable HTTP server, enabling MCP clients to interact with campaigns while CozyVTT handles authorization, command execution, and audit.",
+  "source_repo": "ShamanicArts/CozyVTT-Agent",
+  "source_url": "https://github.com/ShamanicArts/CozyVTT-Agent",
+  "install": "# git clone --depth 1 https://github.com/ShamanicArts/CozyVTT-Agent\n# See source for mcpServers config block"
+}

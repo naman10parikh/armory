@@ -1,0 +1,7 @@
+{
+  "name": "lease-qa-mcp",
+  "description": "MCP server exposing lease Q&A via the lease_qa tool, querying a LeaseClear API to return grounded answers about specific lease documents.",
+  "source_repo": "amadeuserras/lease-qa-mcp",
+  "source_url": "https://github.com/amadeuserras/lease-qa-mcp",
+  "install": "npx -y lease-qa-mcp"
+}

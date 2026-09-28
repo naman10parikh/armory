@@ -1,0 +1,7 @@
+{
+  "name": "air-quality-mcp",
+  "description": "Provides real-time air quality data (US AQI, PM2.5, PM10, ozone, NO2, SO2, CO) for any city via natural language, using free Open-Meteo data and a single tool.",
+  "source_repo": "Lulu-The-Narwhal/air-quality-mcp",
+  "source_url": "https://github.com/Lulu-The-Narwhal/air-quality-mcp",
+  "install": "npx -y air-quality-mcp"
+}

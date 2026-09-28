@@ -1,0 +1,7 @@
+{
+  "name": "simap",
+  "description": "Provides access to Swiss public procurement tenders and awards data, queryable via natural language through the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-simap",
+  "source_url": "https://github.com/pipeworx-io/mcp-simap",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-simap\n# See source for mcpServers config block"
+}

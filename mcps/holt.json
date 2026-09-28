@@ -1,0 +1,7 @@
+{
+  "name": "holt",
+  "description": "MCP server that gives coding agents content-aware visibility into git worktrees, detecting collisions, redundancy, and irreplaceable work. It provides tools to clean, rescue, and safely manage worktrees across all agents, with git itself refusing to delete the only copy of anything.",
+  "source_repo": "Raed2180416/holt",
+  "source_url": "https://github.com/Raed2180416/holt",
+  "install": "# git clone --depth 1 https://github.com/Raed2180416/holt\n# See source for mcpServers config block"
+}

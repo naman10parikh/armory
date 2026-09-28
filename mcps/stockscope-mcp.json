@@ -1,0 +1,7 @@
+{
+  "name": "stockscope-mcp",
+  "description": "Free MCP server for stock and financial intelligence from SEC EDGAR, supporting financials, filings, comparisons, insider trades, historical prices, and sector peers.",
+  "source_repo": "Stewyboy1990/stockscope-mcp",
+  "source_url": "https://github.com/Stewyboy1990/stockscope-mcp",
+  "install": "npx -y stockscope-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "footics-mcp",
+  "description": "Enables AI assistants to interact with the Footics World Cup 2026 prediction game, reading matches, standings, predictions, and optionally submitting predictions.",
+  "source_repo": "Footics/mcp-server",
+  "source_url": "https://github.com/Footics/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Footics/mcp-server\n# See source for mcpServers config block"
+}

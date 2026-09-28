@@ -1,0 +1,7 @@
+{
+  "name": "consulente-legale",
+  "description": "Local MCP server that provides Italian legal assistance by querying a local corpus of Italian legislation, integrated with Claude Desktop.",
+  "source_repo": "alesop95/legal-consultant",
+  "source_url": "https://github.com/alesop95/legal-consultant",
+  "install": "# git clone --depth 1 https://github.com/alesop95/legal-consultant\n# See source for mcpServers config block"
+}

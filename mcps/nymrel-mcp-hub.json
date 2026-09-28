@@ -1,0 +1,7 @@
+{
+  "name": "nymrel-mcp-hub",
+  "description": "Provides a unified interface for autonomous AI agents to access 14 developer toolchains covering commerce audits, security guards, swarm coordination, machine trust, proof ledgers, crawling, telemetry, pricing, local model routing, micropayments, sandbox isolation, A2UI rendering, and message bus di",
+  "source_repo": "nymrel/nymrel-mcp-hub",
+  "source_url": "https://github.com/nymrel/nymrel-mcp-hub",
+  "install": "# git clone --depth 1 https://github.com/nymrel/nymrel-mcp-hub\n# See source for mcpServers config block"
+}

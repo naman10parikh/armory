@@ -1,0 +1,7 @@
+{
+  "name": "sqli-detector",
+  "description": "Enables AI-assisted security assessments by scanning URLs for SQL injection vulnerabilities using error-based, boolean-based, and time-based detection strategies.",
+  "source_repo": "nizkl89/sqli-detector_mcp",
+  "source_url": "https://github.com/nizkl89/sqli-detector_mcp",
+  "install": "npx -y sqli-detector_mcp"
+}

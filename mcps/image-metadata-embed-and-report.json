@@ -1,0 +1,7 @@
+{
+  "name": "image-metadata-embed-and-report",
+  "description": "A streamlined MCP server for XMP metadata embedding with beautiful formatting and smart filename indicators, enabling metadata embedding, reading, validation, and report generation for lifestyle, product, and orbit schemas.",
+  "source_repo": "Desmond-Labs/metadata-embed-and-report-mcp",
+  "source_url": "https://github.com/Desmond-Labs/metadata-embed-and-report-mcp",
+  "install": "npx -y metadata-embed-and-report-mcp"
+}

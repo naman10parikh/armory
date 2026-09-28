@@ -1,0 +1,7 @@
+{
+  "name": "instrumentsmcp",
+  "description": "Enables AI agents to profile iOS/macOS apps using Xcode Instruments, automate simulator interactions, and get structured performance data for optimization.",
+  "source_repo": "nemanjavlahovic/instruments-mcp-server",
+  "source_url": "https://github.com/nemanjavlahovic/instruments-mcp-server",
+  "install": "npx -y instruments-mcp-server"
+}

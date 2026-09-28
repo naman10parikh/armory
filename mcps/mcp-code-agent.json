@@ -1,0 +1,7 @@
+{
+  "name": "mcp-code-agent",
+  "description": "An AI-powered code review agent that leverages Model Context Protocol (MCP) and Claude to provide intelligent, context-aware code reviews.",
+  "source_repo": "geethikakoya/mcp-code-agent",
+  "source_url": "https://github.com/geethikakoya/mcp-code-agent",
+  "install": "# git clone --depth 1 https://github.com/geethikakoya/mcp-code-agent\n# See source for mcpServers config block"
+}

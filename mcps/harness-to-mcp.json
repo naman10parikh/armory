@@ -1,0 +1,7 @@
+{
+  "name": "harness-to-mcp",
+  "description": "Exposes internal tools from agent harnesses (Claude Code, Codex, etc.) as a standard MCP server by intercepting LLM API calls.",
+  "source_repo": "on-panda/harness_to_mcp",
+  "source_url": "https://github.com/on-panda/harness_to_mcp",
+  "install": "npx -y harness_to_mcp"
+}

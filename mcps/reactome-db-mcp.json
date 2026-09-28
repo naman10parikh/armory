@@ -1,0 +1,7 @@
+{
+  "name": "reactome-db-mcp",
+  "description": "Provides direct SQL access to a locally hosted Reactome database, enabling schema discovery, guarded read-only queries, and ergonomic helpers over the full relational schema.",
+  "source_repo": "tc2fh/reactome-db-mcp",
+  "source_url": "https://github.com/tc2fh/reactome-db-mcp",
+  "install": "npx -y reactome-db-mcp"
+}

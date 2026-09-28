@@ -1,0 +1,7 @@
+{
+  "name": "flare-mcp",
+  "description": "MCP server for Flare Network enabling natural language queries of FTSO price feeds, FAssets, balances, and FDC attestations.",
+  "source_repo": "dziuba0x/flare-mcp",
+  "source_url": "https://github.com/dziuba0x/flare-mcp",
+  "install": "npx -y flare-mcp"
+}

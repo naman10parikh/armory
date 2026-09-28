@@ -1,0 +1,7 @@
+{
+  "name": "context-file-mcp-service",
+  "description": "Manages AI context files from local directories and GitHub repositories with file watching, tag-based organization, and full-text search.",
+  "source_repo": "yrstruely/contextual",
+  "source_url": "https://github.com/yrstruely/contextual",
+  "install": "# git clone --depth 1 https://github.com/yrstruely/contextual\n# See source for mcpServers config block"
+}

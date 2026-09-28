@@ -1,0 +1,7 @@
+{
+  "name": "kpi-mcp-spike",
+  "description": "Minimal MCP server that exposes a ping tool for Copilot Studio connectivity testing.",
+  "source_repo": "drrycc0625/kpi-mcp-spike",
+  "source_url": "https://github.com/drrycc0625/kpi-mcp-spike",
+  "install": "# git clone --depth 1 https://github.com/drrycc0625/kpi-mcp-spike\n# See source for mcpServers config block"
+}

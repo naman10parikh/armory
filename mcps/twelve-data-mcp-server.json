@@ -1,0 +1,7 @@
+{
+  "name": "twelve-data-mcp-server",
+  "description": "Enables fetching real-time and historical market data including forex, precious metals, cryptocurrencies, and stocks using the Twelve Data API.",
+  "source_repo": "sherajdev/twelvedata-mcp-server",
+  "source_url": "https://github.com/sherajdev/twelvedata-mcp-server",
+  "install": "npx -y twelvedata-mcp-server"
+}

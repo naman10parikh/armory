@@ -1,0 +1,7 @@
+{
+  "name": "oak-longevity-mcp-server",
+  "description": "An MCP server for longevity and metabolic medicine that provides a medication catalog, dosing protocols, contraindication screening, drug interaction checks, lab recommendations, and patient intake pathways across 35 compounds.",
+  "source_repo": "Goingparabolic/oak-longevity-mcp-server",
+  "source_url": "https://github.com/Goingparabolic/oak-longevity-mcp-server",
+  "install": "npx -y oak-longevity-mcp-server"
+}

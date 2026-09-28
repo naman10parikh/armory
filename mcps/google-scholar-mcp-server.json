@@ -1,6 +1,6 @@
 {
   "name": "google-scholar-mcp-server",
-  "description": "Google Scholar MCP Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "JackKuo666/Google-Scholar-MCP-Server",
   "source_url": "https://mcp.so/server/Google-Scholar-MCP-Server/JackKuo666",
   "install": "npx -y Google-Scholar-MCP-Server"

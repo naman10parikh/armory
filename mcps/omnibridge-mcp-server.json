@@ -1,0 +1,7 @@
+{
+  "name": "omnibridge-mcp-server",
+  "description": "Provides isolated sandbox environments for AI agents to execute code securely, generating signed receipts for every execution to ensure auditability and trust.",
+  "source_repo": "SyedDaiam9101/omnibridgemcp",
+  "source_url": "https://github.com/SyedDaiam9101/omnibridgemcp",
+  "install": "# git clone --depth 1 https://github.com/SyedDaiam9101/omnibridgemcp\n# See source for mcpServers config block"
+}

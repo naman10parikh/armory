@@ -1,0 +1,7 @@
+{
+  "name": "contract-ops-mcp",
+  "description": "An MCP server that exposes nine local-first contract-ops CLIs as tools for contract extraction, linting, comparison, conversion, template vaults, and signed-contract vaults, with signing operations strictly human-gated.",
+  "source_repo": "DrBaher/contract-ops-mcp",
+  "source_url": "https://github.com/DrBaher/contract-ops-mcp",
+  "install": "npx -y contract-ops-mcp"
+}

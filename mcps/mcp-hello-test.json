@@ -1,0 +1,7 @@
+{
+  "name": "mcp-hello-test",
+  "description": "A minimal MCP server with greet, add, and whoami tools, designed to validate deployment pipelines and environment variable injection.",
+  "source_repo": "1XKuson/mcp-hello-test",
+  "source_url": "https://github.com/1XKuson/mcp-hello-test",
+  "install": "# git clone --depth 1 https://github.com/1XKuson/mcp-hello-test\n# See source for mcpServers config block"
+}

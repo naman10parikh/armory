@@ -1,0 +1,7 @@
+{
+  "name": "claude-openai-image-mcp",
+  "description": "A security-first MCP server that generates images via OpenAI's image model (gpt-image-2) and returns them as MCP image content, usable from Claude Code, Claude Desktop, and other stdio MCP clients.",
+  "source_repo": "theosera/claude_openai_image_mcp",
+  "source_url": "https://github.com/theosera/claude_openai_image_mcp",
+  "install": "npx -y claude_openai_image_mcp"
+}

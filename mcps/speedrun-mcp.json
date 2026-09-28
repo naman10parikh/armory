@@ -1,0 +1,7 @@
+{
+  "name": "speedrun-mcp",
+  "description": "Enables AI assistants to query speedrun.com for games, categories, leaderboards, world records, players, and personal bests using natural language.",
+  "source_repo": "williamcodes/speedrun-mcp",
+  "source_url": "https://github.com/williamcodes/speedrun-mcp",
+  "install": "npx -y speedrun-mcp"
+}

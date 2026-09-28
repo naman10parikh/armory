@@ -1,0 +1,7 @@
+{
+  "name": "kibana-log-analysis-api-dashboard-mcp-server",
+  "description": "Enables AI assistants to search Elasticsearch logs, retrieve log details, analyze service health, scan local codebases for APIs, and create Kibana dashboards.",
+  "source_repo": "sid-s-s/kibana-mcp-server",
+  "source_url": "https://github.com/sid-s-s/kibana-mcp-server",
+  "install": "npx -y kibana-mcp-server"
+}

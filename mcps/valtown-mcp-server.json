@@ -1,6 +1,6 @@
 {
   "name": "valtown-mcp-server",
-  "description": "Valtown Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "PrashamTrivedi/valtown-mcp-server",
   "source_url": "https://mcp.so/server/valtown-mcp-server/PrashamTrivedi",
   "install": "npx -y valtown-mcp-server"

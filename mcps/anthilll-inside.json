@@ -1,0 +1,7 @@
+{
+  "name": "anthilll-inside",
+  "description": "MCP server that reproduces SSE response-size hangs with Anthropic MCP clients by providing a configurable 'generate_lipsum' tool.",
+  "source_repo": "thunderbird89/anthilll-inside",
+  "source_url": "https://github.com/thunderbird89/anthilll-inside",
+  "install": "# git clone --depth 1 https://github.com/thunderbird89/anthilll-inside\n# See source for mcpServers config block"
+}

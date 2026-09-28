@@ -1,0 +1,7 @@
+{
+  "name": "proxmox-mcp-server-2",
+  "description": "Enables management of Proxmox VE virtual environments (VMs, containers, storage, snapshots, etc.) through natural language via MCP, with async task polling for reliable write operations.",
+  "source_repo": "k-krawczyk/proxmox-mcp-server",
+  "source_url": "https://github.com/k-krawczyk/proxmox-mcp-server",
+  "install": "npx -y proxmox-mcp-server"
+}

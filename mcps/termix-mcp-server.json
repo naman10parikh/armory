@@ -1,0 +1,7 @@
+{
+  "name": "termix-mcp-server",
+  "description": "An MCP server that enables managing SSH hosts, tunnels, Docker containers, and monitoring metrics via Termix's REST API.",
+  "source_repo": "kalmma/termix-mcp",
+  "source_url": "https://github.com/kalmma/termix-mcp",
+  "install": "npx -y termix-mcp"
+}

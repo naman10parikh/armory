@@ -1,0 +1,7 @@
+{
+  "name": "acumiglio-mcp-github-agent",
+  "description": "MCP server that lets AI agents interact with GitHub using natural language, supporting operations like creating repositories, issues, and commits.",
+  "source_repo": "DalilaMiglio/AcuMiglio-MCP",
+  "source_url": "https://github.com/DalilaMiglio/AcuMiglio-MCP",
+  "install": "npx -y AcuMiglio-MCP"
+}

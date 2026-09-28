@@ -1,0 +1,7 @@
+{
+  "name": "imap-smtp-email-mcp-server",
+  "description": "Enables email management via IMAP/SMTP, supporting list emails, read emails, send emails, and save drafts.",
+  "source_repo": "chuxin0304/imap-smtp-mcp",
+  "source_url": "https://github.com/chuxin0304/imap-smtp-mcp",
+  "install": "npx -y imap-smtp-mcp"
+}

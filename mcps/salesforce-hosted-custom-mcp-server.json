@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-hosted-custom-mcp-server",
+  "description": "Enables interaction with Salesforce data and services via custom MCP tools, including account analytics, opportunity queries, case creation, and AI agent invocation.",
+  "source_repo": "SalesforceDiariesBySanket/Salesforce-Hosted-Custom-Mcp-Server",
+  "source_url": "https://github.com/SalesforceDiariesBySanket/Salesforce-Hosted-Custom-Mcp-Server",
+  "install": "npx -y Salesforce-Hosted-Custom-Mcp-Server"
+}

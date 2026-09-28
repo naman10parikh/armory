@@ -1,0 +1,7 @@
+{
+  "name": "nasbridge",
+  "description": "An MCP server for TrueNAS that lets users manage ZFS pools, datasets, shares, snapshots, VMs, alerts, and network configuration through natural language, using a single hierarchical tool exposing 278 actions.",
+  "source_repo": "maverick0628/nasbridge",
+  "source_url": "https://github.com/maverick0628/nasbridge",
+  "install": "# git clone --depth 1 https://github.com/maverick0628/nasbridge\n# See source for mcpServers config block"
+}

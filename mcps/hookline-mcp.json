@@ -1,0 +1,7 @@
+{
+  "name": "hookline-mcp",
+  "description": "Enables MCP agents to create test webhook endpoints, read incoming requests, validate payloads against Hookline validators, and manage mock responses directly from the editor.",
+  "source_repo": "hookline-org/mcp",
+  "source_url": "https://github.com/hookline-org/mcp",
+  "install": "# git clone --depth 1 https://github.com/hookline-org/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xe-mcp",
+  "description": "An MCP server for the Xe Currency Data API that brings live FX rates, historical analysis, and quant-flavored tools into AI tools, working out of the box with zero credentials via Frankfurter/ECB data.",
+  "source_repo": "CedricConday/xe-mcp",
+  "source_url": "https://github.com/CedricConday/xe-mcp",
+  "install": "npx -y xe-mcp"
+}

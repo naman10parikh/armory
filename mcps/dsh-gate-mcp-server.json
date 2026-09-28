@@ -1,0 +1,7 @@
+{
+  "name": "dsh-gate-mcp-server",
+  "description": "Enables Codex to supervise long-running DeepSeek Harness sessions through MCP, providing tools for progress monitoring, handoffs, and artifact management while keeping the host independent.",
+  "source_repo": "yidapan666-creator/dsh-gate",
+  "source_url": "https://github.com/yidapan666-creator/dsh-gate",
+  "install": "# git clone --depth 1 https://github.com/yidapan666-creator/dsh-gate\n# See source for mcpServers config block"
+}

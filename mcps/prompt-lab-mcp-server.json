@@ -1,0 +1,7 @@
+{
+  "name": "prompt-lab-mcp-server",
+  "description": "Enables prompt optimization loops and regression test suites for Claude Code, with a companion web UI for real-time visualization of scores and prompt revisions.",
+  "source_repo": "jurek-f/prompt-lab-mcp",
+  "source_url": "https://github.com/jurek-f/prompt-lab-mcp",
+  "install": "npx -y prompt-lab-mcp"
+}

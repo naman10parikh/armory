@@ -1,0 +1,7 @@
+{
+  "name": "pageindex-local-mcp",
+  "description": "A local-first MCP server for PageIndex — the vectorless, reasoning-based RAG framework. It lets local AI agents index and query local PDF and Markdown documents through a self-hosted PageIndex installation, without requiring any PageIndex cloud API key.",
+  "source_repo": "jamesbubenik/pageindex-local-mcp",
+  "source_url": "https://github.com/jamesbubenik/pageindex-local-mcp",
+  "install": "npx -y pageindex-local-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aikstockdata",
+  "description": "MCP server for Korean stock market data (KOSPI/KOSDAQ) and DART disclosures, providing tools to get today's market summary, search stocks, retrieve quotes, rankings, and data URLs. No authentication required.",
+  "source_repo": "na77tech-creator/aikstockdata",
+  "source_url": "https://github.com/na77tech-creator/aikstockdata",
+  "install": "# git clone --depth 1 https://github.com/na77tech-creator/aikstockdata\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lyzr-mcp",
+  "description": "MCP server that exposes the Lyzr Enterprise API as tools, resources, and prompts, allowing users to bring their own Lyzr API key to access a wide range of agent and RAG capabilities.",
+  "source_repo": "nandanNM/lyzr-mcp",
+  "source_url": "https://github.com/nandanNM/lyzr-mcp",
+  "install": "npx -y lyzr-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uk-gazette",
+  "description": "Enables querying official UK public records from The Gazette, including insolvencies, winding-up petitions, and deceased estates.",
+  "source_repo": "pipeworx-io/mcp-uk-gazette",
+  "source_url": "https://github.com/pipeworx-io/mcp-uk-gazette",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-uk-gazette\n# See source for mcpServers config block"
+}

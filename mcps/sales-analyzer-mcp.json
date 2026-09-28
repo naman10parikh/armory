@@ -1,0 +1,7 @@
+{
+  "name": "sales-analyzer-mcp",
+  "description": "Sales anomaly detection for a sample café dataset. Enables analyzing weekly sales, product history, and detecting anomalies like closures or pricing glitches.",
+  "source_repo": "sakqo/sales-analyzer-mcp",
+  "source_url": "https://github.com/sakqo/sales-analyzer-mcp",
+  "install": "npx -y sales-analyzer-mcp"
+}

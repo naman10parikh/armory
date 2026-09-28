@@ -1,0 +1,7 @@
+{
+  "name": "gitlab-review-mcp",
+  "description": "Enables interaction with GitLab projects, merge requests, issues, and code reviews through Claude AI, providing tools for code review and project management.",
+  "source_repo": "midodimori/gitlab-review-mcp",
+  "source_url": "https://github.com/midodimori/gitlab-review-mcp",
+  "install": "npx -y gitlab-review-mcp"
+}

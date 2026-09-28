@@ -1,0 +1,7 @@
+{
+  "name": "tableau-data-assistant-mcp-server",
+  "description": "Provides MCP tools to query Tableau Server/Cloud datasources via REST API and VizQL Data Service, with support for Gemini or OpenAI as the LLM backend. Enables a natural language chat interface that can be embedded in Tableau dashboards, automatically including dashboard filter context.",
+  "source_repo": "rfawwaz13/tableau-mcp-dev-v2",
+  "source_url": "https://github.com/rfawwaz13/tableau-mcp-dev-v2",
+  "install": "# git clone --depth 1 https://github.com/rfawwaz13/tableau-mcp-dev-v2\n# See source for mcpServers config block"
+}

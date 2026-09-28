@@ -1,0 +1,7 @@
+{
+  "name": "filter-mcp-tools",
+  "description": "A deterministic MCP tool-list relay that lets operators filter tools by include/exclude rules and exposes a filtered stdio MCP server to local clients.",
+  "source_repo": "mapix/filter-mcp-tools",
+  "source_url": "https://github.com/mapix/filter-mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/mapix/filter-mcp-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hermes-mcp",
+  "description": "An MCP server that allows Claude Desktop and other MCP clients to delegate tasks to a local Hermes Agent for automation and persistent operations.",
+  "source_repo": "mlennie/hermes-mcp",
+  "source_url": "https://github.com/mlennie/hermes-mcp",
+  "install": "npx -y hermes-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fallclinic-us-mcp",
+  "description": "Sovereign MCP server for fallclinic-us, enabling AI agents to manage clinic workflows via Ed25519-signed, offline-capable tools. MIT-licensed and runs on your own infrastructure.",
+  "source_repo": "sjgant80-hub/fallclinic-us-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallclinic-us-mcp",
+  "install": "npx -y fallclinic-us-mcp"
+}

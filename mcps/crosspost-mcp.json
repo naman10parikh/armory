@@ -1,0 +1,7 @@
+{
+  "name": "crosspost-mcp",
+  "description": "MCP server that lets AI agents cross-post content to Telegram, Discord, Mastodon, Bluesky, and Reddit — using free APIs only.",
+  "source_repo": "Aleksey-Panf/crosspost-mcp",
+  "source_url": "https://github.com/Aleksey-Panf/crosspost-mcp",
+  "install": "npx -y crosspost-mcp"
+}

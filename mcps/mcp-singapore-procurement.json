@@ -1,0 +1,7 @@
+{
+  "name": "mcp-singapore-procurement",
+  "description": "Enables querying Singapore government procurement tender awards from GeBIZ without API keys.",
+  "source_repo": "pipeworx-io/mcp-singapore-procurement",
+  "source_url": "https://github.com/pipeworx-io/mcp-singapore-procurement",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-singapore-procurement\n# See source for mcpServers config block"
+}

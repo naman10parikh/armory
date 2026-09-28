@@ -1,0 +1,7 @@
+{
+  "name": "detalhamento-negativo",
+  "description": "MCP server for consulting negative credit information (protests, lawsuits, restrictions) for individuals and companies. It provides a read-only tool to query CPF/CNPJ pending records via prepaid credits.",
+  "source_repo": "mcp-dir/credito_negativo-mcp",
+  "source_url": "https://github.com/mcp-dir/credito_negativo-mcp",
+  "install": "npx -y credito_negativo-mcp"
+}

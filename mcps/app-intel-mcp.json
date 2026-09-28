@@ -1,0 +1,7 @@
+{
+  "name": "app-intel-mcp",
+  "description": "Provides live App Store and Google Play data as MCP tools, enabling search, app details, reviews, charts, estimates, and more through natural language.",
+  "source_repo": "garrrikkotua/app-intel-sdk",
+  "source_url": "https://github.com/garrrikkotua/app-intel-sdk",
+  "install": "# git clone --depth 1 https://github.com/garrrikkotua/app-intel-sdk\n# See source for mcpServers config block"
+}

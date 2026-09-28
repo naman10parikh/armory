@@ -1,0 +1,7 @@
+{
+  "name": "zei-world-mcp",
+  "description": "Exposes ESG/CSR data from Zei World to LLMs, enabling sector browsing, company search, ESG score comparison, and detailed evaluation criteria exploration through natural language.",
+  "source_repo": "mcorbe/zei-world-mcp",
+  "source_url": "https://github.com/mcorbe/zei-world-mcp",
+  "install": "npx -y zei-world-mcp"
+}

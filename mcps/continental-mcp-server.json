@@ -1,0 +1,7 @@
+{
+  "name": "continental-mcp-server",
+  "description": "A research-only MCP server providing read-only data, analytics, and intelligence for Polymarket BTC 5-minute Up/Down markets, enabling LLM agents to query market snapshots, performance metrics, and strategy candidates.",
+  "source_repo": "neuronomid/Continental-MCP-Server",
+  "source_url": "https://github.com/neuronomid/Continental-MCP-Server",
+  "install": "npx -y Continental-MCP-Server"
+}

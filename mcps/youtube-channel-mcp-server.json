@@ -1,0 +1,7 @@
+{
+  "name": "youtube-channel-mcp-server",
+  "description": "Retrieves YouTube Channel statistics, metadata, and uploaded videos using the YouTube Data API v3.",
+  "source_repo": "Rajpopzein/yt-mcp",
+  "source_url": "https://github.com/Rajpopzein/yt-mcp",
+  "install": "npx -y yt-mcp"
+}

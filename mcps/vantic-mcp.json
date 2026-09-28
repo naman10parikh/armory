@@ -1,0 +1,7 @@
+{
+  "name": "vantic-mcp",
+  "description": "Enables MCP hosts to verify agent spending mandates and receipts, providing stateless tools for authorization, chain verification, credential verification, and DID resolution.",
+  "source_repo": "vanticlabs/vantic",
+  "source_url": "https://github.com/vanticlabs/vantic",
+  "install": "# git clone --depth 1 https://github.com/vanticlabs/vantic\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "utmt-mcp",
+  "description": "MCP server for reading and exporting GameMaker data files via UndertaleModCli. Enables entity listing, decompilation, and export through clean JSON output.",
+  "source_repo": "vivid-stasis-revival/utmt-mcp",
+  "source_url": "https://github.com/vivid-stasis-revival/utmt-mcp",
+  "install": "npx -y utmt-mcp"
+}

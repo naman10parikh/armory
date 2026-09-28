@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agentic-rag",
+  "description": "Provides RAG tools with local vector retrieval and web fallback using Firecrawl, enabling document ingestion and querying through MCP stdio transport.",
+  "source_repo": "sampathpulukurthi/agentic-rag-mcp",
+  "source_url": "https://github.com/sampathpulukurthi/agentic-rag-mcp",
+  "install": "npx -y agentic-rag-mcp"
+}

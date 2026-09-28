@@ -1,0 +1,7 @@
+{
+  "name": "deep-think-mcp",
+  "description": "An MCP server that provides a structured, persistent scratchpad for hard reasoning, with staged reasoning and self-critique, built for local models.",
+  "source_repo": "ClintMoody/deep-think-mcp",
+  "source_url": "https://github.com/ClintMoody/deep-think-mcp",
+  "install": "npx -y deep-think-mcp"
+}

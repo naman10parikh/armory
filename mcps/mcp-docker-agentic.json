@@ -1,0 +1,7 @@
+{
+  "name": "mcp-docker-agentic",
+  "description": "Enables agentic Docker container operations including file read/write, command execution, and interactive TTY sessions via the local Docker binary.",
+  "source_repo": "jahrulnr/mcp-docker-agentic",
+  "source_url": "https://github.com/jahrulnr/mcp-docker-agentic",
+  "install": "# git clone --depth 1 https://github.com/jahrulnr/mcp-docker-agentic\n# See source for mcpServers config block"
+}

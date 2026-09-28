@@ -1,0 +1,7 @@
+{
+  "name": "sap-abap-sql-mcp",
+  "description": "Provides tools to prepare and validate ABAP Open SQL statements for SAP's ADT data-preview console, automatically fixing dialect issues like parenthesis spacing and 255-character limits.",
+  "source_repo": "daslabhq/sap-abap-sql-mcp",
+  "source_url": "https://github.com/daslabhq/sap-abap-sql-mcp",
+  "install": "npx -y sap-abap-sql-mcp"
+}

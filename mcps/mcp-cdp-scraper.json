@@ -1,0 +1,7 @@
+{
+  "name": "mcp-cdp-scraper",
+  "description": "Enables AI agents to scrape web pages, fill forms, take screenshots, and extract structured data via Chrome DevTools Protocol with zero external dependencies.",
+  "source_repo": "AMEOBIUS-space/mcp-cdp-scraper",
+  "source_url": "https://github.com/AMEOBIUS-space/mcp-cdp-scraper",
+  "install": "# git clone --depth 1 https://github.com/AMEOBIUS-space/mcp-cdp-scraper\n# See source for mcpServers config block"
+}

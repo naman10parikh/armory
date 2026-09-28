@@ -1,0 +1,7 @@
+{
+  "name": "agentic-ai-email-assistant-mcp-server",
+  "description": "Enables natural language management of Gmail through MCP tools for searching, analyzing, summarizing, drafting, and sending emails, with AI reasoning and user confirmation for actions.",
+  "source_repo": "harshulvatsa/Agentic-AI-Email-Assistant-using-MCP",
+  "source_url": "https://github.com/harshulvatsa/Agentic-AI-Email-Assistant-using-MCP",
+  "install": "npx -y Agentic-AI-Email-Assistant-using-MCP"
+}

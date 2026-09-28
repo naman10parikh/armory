@@ -1,0 +1,7 @@
+{
+  "name": "mcp-moncompte",
+  "description": "Read-only MCP server exposing the catalog of articles from moncompte.org. Enables AI agents to search and retrieve article content via tools.",
+  "source_repo": "waddou/mcp-moncompte",
+  "source_url": "https://github.com/waddou/mcp-moncompte",
+  "install": "# git clone --depth 1 https://github.com/waddou/mcp-moncompte\n# See source for mcpServers config block"
+}

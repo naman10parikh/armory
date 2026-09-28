@@ -1,0 +1,7 @@
+{
+  "name": "brave-mcp-langchain",
+  "description": "Enables Brave Search and web content fetching via MCP, and integrates as LangChain tools for AI agents.",
+  "source_repo": "iamatulsingh/brave-mcp-langchain",
+  "source_url": "https://github.com/iamatulsingh/brave-mcp-langchain",
+  "install": "# git clone --depth 1 https://github.com/iamatulsingh/brave-mcp-langchain\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "edb-debugger-mcp",
+  "description": "Exposes Evan's Debugger (EDB) features as MCP tools, enabling AI-driven debugging, reverse engineering, and exploit development with 147 tools including program control, breakpoints, memory analysis, ROP gadgets, and pwntools integration.",
+  "source_repo": "oakkaya/edb-debugger-mcp",
+  "source_url": "https://github.com/oakkaya/edb-debugger-mcp",
+  "install": "npx -y edb-debugger-mcp"
+}

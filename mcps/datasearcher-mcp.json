@@ -1,0 +1,7 @@
+{
+  "name": "datasearcher-mcp",
+  "description": "Connects databases to AI assistants, enabling natural language data analysis, cross-database queries, automated insights, and visualizations.",
+  "source_repo": "MarkIvor/mcp-datasearcher",
+  "source_url": "https://github.com/MarkIvor/mcp-datasearcher",
+  "install": "# git clone --depth 1 https://github.com/MarkIvor/mcp-datasearcher\n# See source for mcpServers config block"
+}

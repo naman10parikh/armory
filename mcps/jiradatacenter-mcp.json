@@ -1,0 +1,7 @@
+{
+  "name": "jiradatacenter-mcp",
+  "description": "MCP server for Jira Data Center / Server (self-hosted Jira, REST API v2) that exposes core work-item project-management operations (platform + Agile) as MCP tools.",
+  "source_repo": "MSPbotsAI/jiradatacenter-mcp",
+  "source_url": "https://github.com/MSPbotsAI/jiradatacenter-mcp",
+  "install": "npx -y jiradatacenter-mcp"
+}

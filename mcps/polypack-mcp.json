@@ -1,0 +1,7 @@
+{
+  "name": "polypack-mcp",
+  "description": "Provides persistent adaptive memory management with tools for storing, recalling, contextualizing, and consolidating memories, along with graph queries and feedback mechanisms.",
+  "source_repo": "imattau/polypack-mcp",
+  "source_url": "https://github.com/imattau/polypack-mcp",
+  "install": "npx -y polypack-mcp"
+}

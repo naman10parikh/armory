@@ -1,0 +1,7 @@
+{
+  "name": "api-creator-mcp",
+  "description": "Generates complete, production-ready REST, GraphQL, and microservice APIs with built-in security, validation, and deployment configurations.",
+  "source_repo": "TolkYo/api-creator-mcp",
+  "source_url": "https://github.com/TolkYo/api-creator-mcp",
+  "install": "npx -y api-creator-mcp"
+}

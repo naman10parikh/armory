@@ -1,0 +1,7 @@
+{
+  "name": "koreafood-mcp",
+  "description": "Enables AI agents to search Korean health food product catalog, generate bilingual buyer emails, and track export tasks for Korean red ginseng and herbal products.",
+  "source_repo": "TheNaham/koreafood-mcp",
+  "source_url": "https://github.com/TheNaham/koreafood-mcp",
+  "install": "npx -y koreafood-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "deepl-i18n",
+  "description": "MCP server for translating JSON localization files via DeepL API or local LLMs, enabling agents to estimate, check, and run translations.",
+  "source_repo": "lancedelgardo/deepl-i18n",
+  "source_url": "https://github.com/lancedelgardo/deepl-i18n",
+  "install": "# git clone --depth 1 https://github.com/lancedelgardo/deepl-i18n\n# See source for mcpServers config block"
+}

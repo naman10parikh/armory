@@ -1,0 +1,7 @@
+{
+  "name": "dbmcp",
+  "description": "Enables querying PostgreSQL databases via MCP, with multi-database routing, credential isolation, and truncated results plus full CSV export.",
+  "source_repo": "iSunRise/dbmcp",
+  "source_url": "https://github.com/iSunRise/dbmcp",
+  "install": "# git clone --depth 1 https://github.com/iSunRise/dbmcp\n# See source for mcpServers config block"
+}

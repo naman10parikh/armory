@@ -1,0 +1,7 @@
+{
+  "name": "aion-mcp",
+  "description": "An MCP server that provides a set of tools for driving the AION AI assistant stack and managing a home fleet over SSH, including fleet control, Kali security tools, and memory management.",
+  "source_repo": "draygen/mcpbuilder",
+  "source_url": "https://github.com/draygen/mcpbuilder",
+  "install": "# git clone --depth 1 https://github.com/draygen/mcpbuilder\n# See source for mcpServers config block"
+}

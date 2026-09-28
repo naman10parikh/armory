@@ -1,0 +1,7 @@
+{
+  "name": "invgate-mcp",
+  "description": "A read-only MCP server for InvGate Asset Management, enabling natural language queries for assets, people, computers, servers, software, and API health.",
+  "source_repo": "wdelcant/invgate-mcp",
+  "source_url": "https://github.com/wdelcant/invgate-mcp",
+  "install": "npx -y invgate-mcp"
+}

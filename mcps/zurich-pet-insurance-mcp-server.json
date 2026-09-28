@@ -1,0 +1,7 @@
+{
+  "name": "zurich-pet-insurance-mcp-server",
+  "description": "Enables users to research, quote, apply, and bind pet insurance through natural language in ChatGPT, with a widget UI rendered inside the chat.",
+  "source_repo": "ralfboltshauser/chatgpt-insurance-app",
+  "source_url": "https://github.com/ralfboltshauser/chatgpt-insurance-app",
+  "install": "# git clone --depth 1 https://github.com/ralfboltshauser/chatgpt-insurance-app\n# See source for mcpServers config block"
+}

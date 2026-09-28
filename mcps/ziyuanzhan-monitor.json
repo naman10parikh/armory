@@ -1,0 +1,7 @@
+{
+  "name": "ziyuanzhan-monitor",
+  "description": "MCP server for querying the availability and status of movie resource sites, including online/offline status, response times, and search functionality.",
+  "source_repo": "aidizhi/ziyuanzhan",
+  "source_url": "https://github.com/aidizhi/ziyuanzhan",
+  "install": "# git clone --depth 1 https://github.com/aidizhi/ziyuanzhan\n# See source for mcpServers config block"
+}

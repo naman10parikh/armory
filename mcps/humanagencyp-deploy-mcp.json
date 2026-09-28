@@ -1,0 +1,7 @@
+{
+  "name": "humanagencyp-deploy-mcp",
+  "description": "Enables agents to deploy software via GitHub Actions only with a signed receipt, providing gated tools to resolve refs, list deployments/environments, and dispatch pipelines for a specific commit.",
+  "source_repo": "humanagencyprotocol/hap-deploy-mcp",
+  "source_url": "https://github.com/humanagencyprotocol/hap-deploy-mcp",
+  "install": "npx -y hap-deploy-mcp"
+}

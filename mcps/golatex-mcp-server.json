@@ -1,0 +1,7 @@
+{
+  "name": "golatex-mcp-server",
+  "description": "Enables AI agents to read, write, and compile LaTeX projects locally, view PDF pages as images, and manage project files, with live updates reflected in a web-based editor.",
+  "source_repo": "Josetoespinosa/GoLatex",
+  "source_url": "https://github.com/Josetoespinosa/GoLatex",
+  "install": "# git clone --depth 1 https://github.com/Josetoespinosa/GoLatex\n# See source for mcpServers config block"
+}

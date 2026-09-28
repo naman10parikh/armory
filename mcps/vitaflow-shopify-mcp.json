@@ -1,0 +1,7 @@
+{
+  "name": "vitaflow-shopify-mcp",
+  "description": "MCP server for VitaFlow. Connects ChatGPT to Shopify product data for product management, category cleanup, and tax setup.",
+  "source_repo": "linearproductionwork/vitaflow-shopify-mcp",
+  "source_url": "https://github.com/linearproductionwork/vitaflow-shopify-mcp",
+  "install": "npx -y vitaflow-shopify-mcp"
+}

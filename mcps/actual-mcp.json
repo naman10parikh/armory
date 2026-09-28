@@ -1,0 +1,7 @@
+{
+  "name": "actual-mcp",
+  "description": "Bridges AI/LLM applications to Actual Budget, exposing budget data as MCP tools for account listing, transactions, and budget balances.",
+  "source_repo": "slushpupie/actual-mcp",
+  "source_url": "https://github.com/slushpupie/actual-mcp",
+  "install": "npx -y actual-mcp"
+}

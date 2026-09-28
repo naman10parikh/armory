@@ -1,0 +1,7 @@
+{
+  "name": "llama-ai-mcp-server",
+  "description": "Enables AI clients to browse Llama AI models, pricing, FAQ, and start chat sessions without API keys.",
+  "source_repo": "rocnubie/llamaai-mcp",
+  "source_url": "https://github.com/rocnubie/llamaai-mcp",
+  "install": "npx -y llamaai-mcp"
+}

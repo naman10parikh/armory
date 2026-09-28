@@ -1,0 +1,7 @@
+{
+  "name": "bip-timesheet-mcp",
+  "description": "MCP server that wraps the BIP work-hour reporting CLI into 11 tools, enabling automated timesheet preview, scanning, submission, and approval management. It keeps internal credentials and configuration server-side, supporting both streamable HTTP and stdio transports.",
+  "source_repo": "GGbao8848/bip-timesheet-mcp",
+  "source_url": "https://github.com/GGbao8848/bip-timesheet-mcp",
+  "install": "npx -y bip-timesheet-mcp"
+}

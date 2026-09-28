@@ -1,0 +1,7 @@
+{
+  "name": "drill-mcp",
+  "description": "Official MCP server for Apache Drill, enabling read-only SQL queries and inspection of schemas, storage plugins, and cluster/query state.",
+  "source_repo": "apache/drill-mcp",
+  "source_url": "https://github.com/apache/drill-mcp",
+  "install": "npx -y drill-mcp"
+}

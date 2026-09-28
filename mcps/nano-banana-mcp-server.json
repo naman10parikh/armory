@@ -1,0 +1,7 @@
+{
+  "name": "nano-banana-mcp-server",
+  "description": "An MCP server that provides AI-powered image generation through Google Gemini models with intelligent selection between Flash (speed) and Pro (quality) modes, supporting up to 4K resolution and advanced features like Google Search grounding.",
+  "source_repo": "qso/nanobanana-mcp-server",
+  "source_url": "https://github.com/qso/nanobanana-mcp-server",
+  "install": "npx -y nanobanana-mcp-server"
+}

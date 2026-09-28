@@ -1,0 +1,7 @@
+{
+  "name": "jmap-mcp",
+  "description": "MCP server exposing JMAP email and Sieve script operations as tools, enabling mailbox management, email creation, search, flagging, and Sieve script management.",
+  "source_repo": "mikluko/jmap-mcp",
+  "source_url": "https://github.com/mikluko/jmap-mcp",
+  "install": "npx -y jmap-mcp"
+}

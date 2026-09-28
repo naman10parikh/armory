@@ -1,0 +1,7 @@
+{
+  "name": "airkorea-realtime-mcp",
+  "description": "Enables querying real-time air quality measurements, integrated air quality index (CAI), and monitoring station information from Korea's Air Korea OpenAPI, including station search and nearby station lookup.",
+  "source_repo": "hlucent/airkorea-realtime-mcp",
+  "source_url": "https://github.com/hlucent/airkorea-realtime-mcp",
+  "install": "npx -y airkorea-realtime-mcp"
+}

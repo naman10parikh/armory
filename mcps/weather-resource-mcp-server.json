@@ -1,0 +1,7 @@
+{
+  "name": "weather-resource-mcp-server",
+  "description": "Translates natural language requests into official NWS API queries, providing real-time weather data through a FastAPI bridge.",
+  "source_repo": "stagOak/GPT-weather-gov",
+  "source_url": "https://github.com/stagOak/GPT-weather-gov",
+  "install": "# git clone --depth 1 https://github.com/stagOak/GPT-weather-gov\n# See source for mcpServers config block"
+}

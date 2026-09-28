@@ -1,0 +1,7 @@
+{
+  "name": "akm-bridge",
+  "description": "MCP server for AKM v0.8.1, exposing 14 read-only tools via JSON-RPC over stdio to integrate AKM CLI with OpenCode.",
+  "source_repo": "przemyslawzielinski87-debug/akm-bridge",
+  "source_url": "https://github.com/przemyslawzielinski87-debug/akm-bridge",
+  "install": "# git clone --depth 1 https://github.com/przemyslawzielinski87-debug/akm-bridge\n# See source for mcpServers config block"
+}

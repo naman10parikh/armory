@@ -1,0 +1,7 @@
+{
+  "name": "coveo-mcp-server",
+  "description": "Enables AI agents to query Coveo's unified index for search, passage retrieval, and generative question answering, supporting multiple transport modes for client compatibility.",
+  "source_repo": "coveo-labs/coveo-mcp-server",
+  "source_url": "https://github.com/coveo-labs/coveo-mcp-server",
+  "install": "npx -y coveo-mcp-server"
+}

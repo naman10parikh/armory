@@ -1,0 +1,7 @@
+{
+  "name": "lo-mcp",
+  "description": "A stdio MCP server for LibreOffice Writer that enables creating, editing, and exporting Writer documents via natural language commands.",
+  "source_repo": "blwfish/LibreOffice-mcp",
+  "source_url": "https://github.com/blwfish/LibreOffice-mcp",
+  "install": "npx -y LibreOffice-mcp"
+}

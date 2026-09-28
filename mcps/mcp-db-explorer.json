@@ -1,0 +1,7 @@
+{
+  "name": "mcp-db-explorer",
+  "description": "A Model Context Protocol (MCP) server that exposes tools for exploring and querying SQLite and PostgreSQL databases. It allows Large Language Models (LLMs) to inspect table structures, perform statistical profiling, generate entity-relationship diagrams, and execute queries safely.",
+  "source_repo": "arman1o1/mcp-db-explorer",
+  "source_url": "https://github.com/arman1o1/mcp-db-explorer",
+  "install": "# git clone --depth 1 https://github.com/arman1o1/mcp-db-explorer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "computeledger-mcp-server",
+  "description": "Provides cryptographically signed, tamper-evident compute usage receipts via a Model Context Protocol server, exposing tools to record usage, verify receipts, list the ledger, and verify ledger integrity without requiring any account, API key, or single cloud provider.",
+  "source_repo": "RudrenduPaul/ComputeLedger",
+  "source_url": "https://github.com/RudrenduPaul/ComputeLedger",
+  "install": "# git clone --depth 1 https://github.com/RudrenduPaul/ComputeLedger\n# See source for mcpServers config block"
+}

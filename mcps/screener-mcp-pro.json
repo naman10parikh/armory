@@ -1,0 +1,7 @@
+{
+  "name": "screener-mcp-pro",
+  "description": "MCP server providing fundamental and technical data on Indian-listed companies from Screener.in and Yahoo Finance, including financial statements, ratios, and technical indicators.",
+  "source_repo": "vidyasagardivi9/screener-mcp-pro-",
+  "source_url": "https://github.com/vidyasagardivi9/screener-mcp-pro-",
+  "install": "# git clone --depth 1 https://github.com/vidyasagardivi9/screener-mcp-pro-\n# See source for mcpServers config block"
+}

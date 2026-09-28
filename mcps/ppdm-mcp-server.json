@@ -1,0 +1,7 @@
+{
+  "name": "ppdm-mcp-server",
+  "description": "Exposes Dell EMC PowerProtect Data Manager and NetWorker backup infrastructure as Claude Code tools for querying, monitoring, and controlling backup operations.",
+  "source_repo": "Moodswing9/ppdm-mcp-server",
+  "source_url": "https://github.com/Moodswing9/ppdm-mcp-server",
+  "install": "npx -y ppdm-mcp-server"
+}

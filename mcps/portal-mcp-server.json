@@ -1,0 +1,7 @@
+{
+  "name": "portal-mcp-server",
+  "description": "SSH orchestration MCP server for coding agents, enabling persistent bash sessions, hash-protected remote file editing, SFTP transfers, SSH tunnels, and multi-host orchestration with connection reuse across tools.",
+  "source_repo": "TMYTiMidlY/portal-mcp-server",
+  "source_url": "https://github.com/TMYTiMidlY/portal-mcp-server",
+  "install": "npx -y portal-mcp-server"
+}

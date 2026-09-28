@@ -1,0 +1,7 @@
+{
+  "name": "memory-wiki",
+  "description": "A persistent personal memory system for Claude that accumulates and organizes knowledge over time using plain Markdown in a local git repo, providing tools for reading, searching, and capturing short-term memories.",
+  "source_repo": "FloLey/memory-wiki",
+  "source_url": "https://github.com/FloLey/memory-wiki",
+  "install": "# git clone --depth 1 https://github.com/FloLey/memory-wiki\n# See source for mcpServers config block"
+}

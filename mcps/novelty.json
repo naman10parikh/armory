@@ -1,0 +1,7 @@
+{
+  "name": "novelty",
+  "description": "An MCP security toolkit that integrates Burp-style HTTP proxying, AI-driven vulnerability hunting, source code auditing, and reporting into AI coding agents, enabling authorized security testing of web applications and source code.",
+  "source_repo": "GOJO-SENPA1/novelty",
+  "source_url": "https://github.com/GOJO-SENPA1/novelty",
+  "install": "# git clone --depth 1 https://github.com/GOJO-SENPA1/novelty\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ilspy-mcp-server",
+  "description": "Exposes all major ILSpy CLI features as separate MCP tools for decompiling .NET assemblies, enabling automated end-to-end processing and structured JSON reports.",
+  "source_repo": "BROKENISTXD/ilspy-mcp-server",
+  "source_url": "https://github.com/BROKENISTXD/ilspy-mcp-server",
+  "install": "npx -y ilspy-mcp-server"
+}

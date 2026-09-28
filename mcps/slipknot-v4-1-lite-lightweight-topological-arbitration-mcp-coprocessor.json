@@ -1,0 +1,7 @@
+{
+  "name": "slipknot-v4-1-lite-lightweight-topological-arbitration-mcp-coprocessor",
+  "description": "A lightweight topological arbitration MCP server for multi-agent clusters, using Topological Data Analysis to resolve decision conflicts and enable consensus among agents.",
+  "source_repo": "usaos/slipknot-Topological-MCP-for-Multi-Agent-AI-Agent",
+  "source_url": "https://github.com/usaos/slipknot-Topological-MCP-for-Multi-Agent-AI-Agent",
+  "install": "# git clone --depth 1 https://github.com/usaos/slipknot-Topological-MCP-for-Multi-Agent-AI-Agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jira-enterprise-mcp",
+  "description": "Small MCP server for connecting to enterprise Jira using a personal access token. It enables issue operations, project listing, JQL searches, and attachment handling.",
+  "source_repo": "w-10-m/jira-enterprise-mcp",
+  "source_url": "https://github.com/w-10-m/jira-enterprise-mcp",
+  "install": "npx -y jira-enterprise-mcp"
+}

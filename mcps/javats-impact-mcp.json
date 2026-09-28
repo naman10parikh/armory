@@ -1,0 +1,7 @@
+{
+  "name": "javats-impact-mcp",
+  "description": "Enables cross-stack impact analysis for Java/TypeScript projects with OpenAPI linkage, showing what breaks when renaming a symbol.",
+  "source_repo": "thanhphuong080199/javats-impact-mcp",
+  "source_url": "https://github.com/thanhphuong080199/javats-impact-mcp",
+  "install": "npx -y javats-impact-mcp"
+}

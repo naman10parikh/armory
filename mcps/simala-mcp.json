@@ -1,0 +1,7 @@
+{
+  "name": "simala-mcp",
+  "description": "A read-only MCP server for trending SIMALA lab parameters from production data, enabling searching parameters and retrieving time-series readings.",
+  "source_repo": "ilham98/simala-mcp",
+  "source_url": "https://github.com/ilham98/simala-mcp",
+  "install": "npx -y simala-mcp"
+}

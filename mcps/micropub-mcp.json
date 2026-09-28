@@ -1,0 +1,7 @@
+{
+  "name": "micropub-mcp",
+  "description": "Enables AI agents to create, update, delete, and query posts on any Micropub-compatible blog with IndieAuth authentication.",
+  "source_repo": "rmdes/micropub-mcp",
+  "source_url": "https://github.com/rmdes/micropub-mcp",
+  "install": "npx -y micropub-mcp"
+}

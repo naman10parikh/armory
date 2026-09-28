@@ -1,0 +1,7 @@
+{
+  "name": "hevy-coach-mcp",
+  "description": "MCP server for Hevy that fetches live workout data and computes analytics like e1RM, PRs, volume, and consistency, while enabling writes for routines, folders, and body measurements without modifying workout history.",
+  "source_repo": "gCuadros/hevy-mcp",
+  "source_url": "https://github.com/gCuadros/hevy-mcp",
+  "install": "npx -y hevy-mcp"
+}

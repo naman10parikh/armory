@@ -1,0 +1,7 @@
+{
+  "name": "sint-marketplace-mcp",
+  "description": "A global marketplace MCP server enabling OpenCode instances to publish, search, and exchange MCP server capabilities, knowledge, and ideas over a distributed network via SMTP relay.",
+  "source_repo": "kostyk348/sint-marketplace-mcp",
+  "source_url": "https://github.com/kostyk348/sint-marketplace-mcp",
+  "install": "npx -y sint-marketplace-mcp"
+}

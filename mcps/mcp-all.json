@@ -1,6 +1,6 @@
 {
   "name": "mcp-all",
-  "description": "Mcp All MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "yyykf/mcp-all",
   "source_url": "https://mcp.so/server/mcp-all/yyykf",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-all/yyykf\n# See source for mcpServers config block"

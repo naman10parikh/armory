@@ -1,0 +1,7 @@
+{
+  "name": "2captchamcp",
+  "description": "Integrates with 2Captcha to solve various CAPTCHA types (image, reCAPTCHA, hCaptcha, etc.) for AI agents via MCP.",
+  "source_repo": "EricFor/2CaptchaMCP",
+  "source_url": "https://github.com/EricFor/2CaptchaMCP",
+  "install": "# git clone --depth 1 https://github.com/EricFor/2CaptchaMCP\n# See source for mcpServers config block"
+}

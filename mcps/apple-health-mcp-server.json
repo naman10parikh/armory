@@ -1,0 +1,7 @@
+{
+  "name": "apple-health-mcp-server",
+  "description": "Streams Apple Watch health metrics (HRV, sleep, heart rate, etc.) to Claude via iOS Shortcuts and Redis, enabling personalized daily health briefings and training guidance.",
+  "source_repo": "sabbyanandan/apple-health-mcp",
+  "source_url": "https://github.com/sabbyanandan/apple-health-mcp",
+  "install": "npx -y apple-health-mcp"
+}

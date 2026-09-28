@@ -1,0 +1,7 @@
+{
+  "name": "webrtc-mcp-server",
+  "description": "Peer-to-peer WebRTC communication for AI agents, connecting autonomous coding agents over low-latency WebRTC DataChannels with room-based signaling, video stream bridging, and multi-agent coordination — all exposed as MCP tools.",
+  "source_repo": "Stuko0/webrtc-mcp-server",
+  "source_url": "https://github.com/Stuko0/webrtc-mcp-server",
+  "install": "npx -y webrtc-mcp-server"
+}

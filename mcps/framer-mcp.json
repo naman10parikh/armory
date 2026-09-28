@@ -1,0 +1,7 @@
+{
+  "name": "framer-mcp",
+  "description": "Enables programmatic interaction with Framer canvas via a local MCP server and companion plugin, allowing automation of page generation, content updates, and component manipulation.",
+  "source_repo": "tmcpro/framer-mcp",
+  "source_url": "https://github.com/tmcpro/framer-mcp",
+  "install": "npx -y framer-mcp"
+}

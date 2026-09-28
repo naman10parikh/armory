@@ -1,0 +1,7 @@
+{
+  "name": "remotion-video-production-mcp-server",
+  "description": "Enables AI agents to programmatically scaffold Remotion projects, analyze audio for beat-synced scenes, synthesize voiceovers with word-level timecodes, preview frames, and render finished videos.",
+  "source_repo": "rohit050713/remotionMcpServer",
+  "source_url": "https://github.com/rohit050713/remotionMcpServer",
+  "install": "# git clone --depth 1 https://github.com/rohit050713/remotionMcpServer\n# See source for mcpServers config block"
+}

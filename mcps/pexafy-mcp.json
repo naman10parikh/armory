@@ -1,0 +1,7 @@
+{
+  "name": "pexafy-mcp",
+  "description": "An MCP server that enables AI assistants to search royalty-free stock photos using natural language, example images, or similarity, and render results as an inline thumbnail grid.",
+  "source_repo": "Pexafy/pexafy-mcp",
+  "source_url": "https://github.com/Pexafy/pexafy-mcp",
+  "install": "npx -y pexafy-mcp"
+}

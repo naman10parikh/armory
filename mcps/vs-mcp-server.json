@@ -1,0 +1,7 @@
+{
+  "name": "vs-mcp-server",
+  "description": "Controls Visual Studio 2022 through MCP using COM/DTE automation, enabling file management, building, debugging, and breakpoint operations directly from Claude Code.",
+  "source_repo": "kimkun07-k/vs-mcp-server",
+  "source_url": "https://github.com/kimkun07-k/vs-mcp-server",
+  "install": "npx -y vs-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "taobao-sourcing-assistant",
+  "description": "A local, human-paced MCP server for sourcing products on Taobao/Tmall, extracting per-SKU pricing, variant-linked reviews, and exporting to a comparison spreadsheet.",
+  "source_repo": "randunun-eng/taobao-sourcing-mcp",
+  "source_url": "https://github.com/randunun-eng/taobao-sourcing-mcp",
+  "install": "npx -y taobao-sourcing-mcp"
+}

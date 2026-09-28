@@ -1,0 +1,7 @@
+{
+  "name": "haraj-mcp",
+  "description": "MCP server for haraj.com.sa, the Saudi classifieds marketplace, exposing 21 tools to search, fetch feeds, and retrieve post details via real GraphQL endpoints.",
+  "source_repo": "bibo242/Haraj-MCP",
+  "source_url": "https://github.com/bibo242/Haraj-MCP",
+  "install": "npx -y Haraj-MCP"
+}

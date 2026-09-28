@@ -1,0 +1,7 @@
+{
+  "name": "mcp-screaming-frog",
+  "description": "MCP server for controlling Screaming Frog SEO Spider through AI assistants, enabling crawling, SEO issue analysis, and quick page checks via natural language commands.",
+  "source_repo": "boris0024/mcp-screaming-frog",
+  "source_url": "https://github.com/boris0024/mcp-screaming-frog",
+  "install": "# git clone --depth 1 https://github.com/boris0024/mcp-screaming-frog\n# See source for mcpServers config block"
+}

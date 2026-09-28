@@ -1,0 +1,7 @@
+{
+  "name": "aynops",
+  "description": "An Open Sourced Model Context Protocol (MCP) Local server that gives Claude real-time cybersecurity reconnaissance capabilities",
+  "source_repo": "AynOps/AynOps",
+  "source_url": "https://github.com/AynOps/AynOps",
+  "install": "# git clone --depth 1 https://github.com/AynOps/AynOps\n# See source for mcpServers config block"
+}

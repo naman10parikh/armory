@@ -1,0 +1,7 @@
+{
+  "name": "camel-toolkits-mcp",
+  "description": "A lightweight server that exports CAMEL framework toolkits as MCP-compatible tools.",
+  "source_repo": "camel-ai/camel-toolkits-mcp",
+  "source_url": "https://github.com/camel-ai/camel-toolkits-mcp",
+  "install": "npx -y camel-toolkits-mcp"
+}

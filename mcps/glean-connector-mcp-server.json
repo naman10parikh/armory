@@ -1,0 +1,7 @@
+{
+  "name": "glean-connector-mcp-server",
+  "description": "An MCP server for AI-assisted Glean connector development, enabling scaffolding, schema mapping, code generation, and testing of Glean connectors directly from your editor.",
+  "source_repo": "gleanwork/connector-mcp",
+  "source_url": "https://github.com/gleanwork/connector-mcp",
+  "install": "npx -y connector-mcp"
+}

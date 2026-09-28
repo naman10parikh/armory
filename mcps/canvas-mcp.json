@@ -1,0 +1,7 @@
+{
+  "name": "canvas-mcp",
+  "description": "A local MCP server for Canvas LMS that enables querying courses, assignments, grades, modules, and more from any MCP-compatible AI client.",
+  "source_repo": "a-ariff/canvas-mcp",
+  "source_url": "https://github.com/a-ariff/canvas-mcp",
+  "install": "npx -y canvas-mcp"
+}

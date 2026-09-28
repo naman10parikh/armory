@@ -1,0 +1,7 @@
+{
+  "name": "ddg-web-search",
+  "description": "Enables web search via DuckDuckGo and web content fetching through the Model Context Protocol, allowing AI assistants to search and retrieve web page content.",
+  "source_repo": "luciVuc/ddg-web-search",
+  "source_url": "https://github.com/luciVuc/ddg-web-search",
+  "install": "# git clone --depth 1 https://github.com/luciVuc/ddg-web-search\n# See source for mcpServers config block"
+}

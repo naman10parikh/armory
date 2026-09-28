@@ -1,0 +1,7 @@
+{
+  "name": "korean-assembly-speech-mcp",
+  "description": "Enables search and retrieval of speech turns from Korea's National Assembly records using Korean or English natural-language queries, with citation-ready context and tools for exploring committees and meetings.",
+  "source_repo": "epoko77-ai/korean-assembly-speech-mcp",
+  "source_url": "https://github.com/epoko77-ai/korean-assembly-speech-mcp",
+  "install": "npx -y korean-assembly-speech-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-live-showcase",
+  "description": "Two MCP servers for a live demo: a clinical server for patient lookup, labs, and drug safety checks, and a data explorer server for querying a sales database.",
+  "source_repo": "jagrajsingh86/mcp_demo",
+  "source_url": "https://github.com/jagrajsingh86/mcp_demo",
+  "install": "# git clone --depth 1 https://github.com/jagrajsingh86/mcp_demo\n# See source for mcpServers config block"
+}

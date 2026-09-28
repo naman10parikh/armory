@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-croatia-payments-mcp",
+  "description": "Enables AI agents to accept payments in Croatia via Stripe hosted checkout, supporting cards, Apple Pay, and Google Pay.",
+  "source_repo": "junter1989k-ai/croatia-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/croatia-payments-mcp",
+  "install": "npx -y croatia-payments-mcp"
+}

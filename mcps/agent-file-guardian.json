@@ -1,0 +1,7 @@
+{
+  "name": "agent-file-guardian",
+  "description": "Provides a human-in-the-loop security layer for AI agents by intercepting file operations, explaining them with a local LLM, and enforcing a deterministic policy that requires user approval for risky actions.",
+  "source_repo": "ShinYeol-Lee/agent-file-guardian",
+  "source_url": "https://github.com/ShinYeol-Lee/agent-file-guardian",
+  "install": "# git clone --depth 1 https://github.com/ShinYeol-Lee/agent-file-guardian\n# See source for mcpServers config block"
+}

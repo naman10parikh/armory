@@ -1,0 +1,7 @@
+{
+  "name": "ssot-mcp",
+  "description": "A free, open-source system that indexes multiple Git repositories (e.g., GitHub, GitLab) and enables semantic and lexical search through MCP-capable tools like Cursor.",
+  "source_repo": "ysok/ssot-mcp",
+  "source_url": "https://github.com/ysok/ssot-mcp",
+  "install": "npx -y ssot-mcp"
+}

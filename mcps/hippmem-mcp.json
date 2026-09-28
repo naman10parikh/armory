@@ -1,0 +1,7 @@
+{
+  "name": "hippmem-mcp",
+  "description": "Enables AI assistants to have persistent associative memory across sessions by storing memories, discovering associations, and retrieving them via spreading activation.",
+  "source_repo": "hippmem/hippmem-mcp",
+  "source_url": "https://github.com/hippmem/hippmem-mcp",
+  "install": "npx -y hippmem-mcp"
+}

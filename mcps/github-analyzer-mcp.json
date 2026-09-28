@@ -1,0 +1,7 @@
+{
+  "name": "github-analyzer-mcp",
+  "description": "Enables Claude to analyze GitHub repositories with tools for health scoring, contributor analysis, issue tracking, code search, and more.",
+  "source_repo": "MidhunaMohanraj/GitHub-Analyzer-MCP",
+  "source_url": "https://github.com/MidhunaMohanraj/GitHub-Analyzer-MCP",
+  "install": "npx -y GitHub-Analyzer-MCP"
+}

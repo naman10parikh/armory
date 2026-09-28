@@ -1,0 +1,7 @@
+{
+  "name": "injectshield",
+  "description": "MCP server that provides tools to scan text and URLs for prompt injection attacks, protecting AI agents from adversarial inputs.",
+  "source_repo": "bch1212/injectshield",
+  "source_url": "https://github.com/bch1212/injectshield",
+  "install": "# git clone --depth 1 https://github.com/bch1212/injectshield\n# See source for mcpServers config block"
+}

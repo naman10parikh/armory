@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-starter-kit",
+  "description": "A minimal Model Context Protocol server starter in TypeScript that enables building custom AI tools for assistants like Claude and Cursor, with a single example tool and easy setup.",
+  "source_repo": "tysoncung/mcp-server-starter",
+  "source_url": "https://github.com/tysoncung/mcp-server-starter",
+  "install": "# git clone --depth 1 https://github.com/tysoncung/mcp-server-starter\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "reddit-leads-mcp",
+  "description": "An MCP server that turns Claude into a Reddit lead-finding agent: search for buying-intent conversations, score them against your product, and read full threads before drafting a reply.",
+  "source_repo": "thetomtoro/reddit-leads-mcp",
+  "source_url": "https://github.com/thetomtoro/reddit-leads-mcp",
+  "install": "npx -y reddit-leads-mcp"
+}

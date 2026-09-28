@@ -1,0 +1,7 @@
+{
+  "name": "arham-jewellers-mcp-server",
+  "description": "Enables searching products, browsing categories, checking gold rates, tracking orders, placing orders, and getting store info for Arham Jewellers through natural language.",
+  "source_repo": "parthhimself0/arham-mcp-server",
+  "source_url": "https://github.com/parthhimself0/arham-mcp-server",
+  "install": "npx -y arham-mcp-server"
+}

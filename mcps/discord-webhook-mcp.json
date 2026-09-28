@@ -1,0 +1,7 @@
+{
+  "name": "discord-webhook-mcp",
+  "description": "Enables AI agents to send text messages and images to Discord channels via webhooks.",
+  "source_repo": "kujirahand/discord-webhook-mcp",
+  "source_url": "https://github.com/kujirahand/discord-webhook-mcp",
+  "install": "npx -y discord-webhook-mcp"
+}

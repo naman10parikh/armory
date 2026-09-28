@@ -1,0 +1,7 @@
+{
+  "name": "anime-mcp-server",
+  "description": "Enables anime search and retrieval of details on works, series, episodes, people, organizations, staff, and broadcast schedules via the Annict REST API.",
+  "source_repo": "khjasonlam/anime-mcp",
+  "source_url": "https://github.com/khjasonlam/anime-mcp",
+  "install": "npx -y anime-mcp"
+}

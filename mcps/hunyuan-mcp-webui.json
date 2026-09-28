@@ -1,0 +1,7 @@
+{
+  "name": "hunyuan-mcp-webui",
+  "description": "MCP server for generating 3D assets from images or text using Hunyuan3D on Apple Silicon Mac, with web UI and Codex Image Gen integration.",
+  "source_repo": "KouyamaCreate/Hunyuan-mcp-webui",
+  "source_url": "https://github.com/KouyamaCreate/Hunyuan-mcp-webui",
+  "install": "# git clone --depth 1 https://github.com/KouyamaCreate/Hunyuan-mcp-webui\n# See source for mcpServers config block"
+}

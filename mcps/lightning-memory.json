@@ -1,0 +1,7 @@
+{
+  "name": "lightning-memory",
+  "description": "Persistent memory and payment safety for AI agents on Lightning. Enables agents to remember purchases, track vendor reputations, enforce budgets, and share trust signals via Nostr.",
+  "source_repo": "singularityjason/lightning-memory",
+  "source_url": "https://github.com/singularityjason/lightning-memory",
+  "install": "# git clone --depth 1 https://github.com/singularityjason/lightning-memory\n# See source for mcpServers config block"
+}

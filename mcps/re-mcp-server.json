@@ -1,0 +1,7 @@
+{
+  "name": "re-mcp-server",
+  "description": "A local, privacy-first MCP server that orchestrates Ghidra, Binary Ninja, x64dbg, and system tools to provide AI assistants with powerful binary analysis capabilities.",
+  "source_repo": "Steeve-Crypto/AnotherRE-MCP",
+  "source_url": "https://github.com/Steeve-Crypto/AnotherRE-MCP",
+  "install": "npx -y AnotherRE-MCP"
+}

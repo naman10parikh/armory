@@ -1,0 +1,7 @@
+{
+  "name": "skore-mcp",
+  "description": "Community MCP server for Skore that exposes tools for projects, evaluate, compare, train_test_split, configuration, and a dispatcher for report methods like metrics, inspection, and data analysis.",
+  "source_repo": "fanfcorp/skore-mcp",
+  "source_url": "https://github.com/fanfcorp/skore-mcp",
+  "install": "npx -y skore-mcp"
+}

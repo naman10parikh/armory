@@ -1,0 +1,7 @@
+{
+  "name": "layerone-mcp",
+  "description": "Enables AI agents to generate documents (PDF/DOCX/Factur-X) and manage electronic signatures (eIDAS/PAdES) via natural language using LayerOne's DocX and Sign APIs.",
+  "source_repo": "GOLayerone/layerone-mcp",
+  "source_url": "https://github.com/GOLayerone/layerone-mcp",
+  "install": "npx -y layerone-mcp"
+}

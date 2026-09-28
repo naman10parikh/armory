@@ -1,0 +1,7 @@
+{
+  "name": "baguskto-saham",
+  "description": "Enables AI assistants to access Indonesian stock market data, including real-time quotes, historical data from 2019, and technical analysis for 958 IDX-listed stocks.",
+  "source_repo": "kevindoni/idx-mcp-server",
+  "source_url": "https://github.com/kevindoni/idx-mcp-server",
+  "install": "npx -y idx-mcp-server"
+}

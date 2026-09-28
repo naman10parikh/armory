@@ -1,0 +1,7 @@
+{
+  "name": "pge-sp-divida-ativa-mcp",
+  "description": "MCP server for consulting active debt (Dívida Ativa) from the São Paulo State Attorney General's Office (PGE-SP) via official sources, with read-only access and prepaid per-query credits.",
+  "source_repo": "mcp-dir/pge_sp_divida_ativa-mcp",
+  "source_url": "https://github.com/mcp-dir/pge_sp_divida_ativa-mcp",
+  "install": "npx -y pge_sp_divida_ativa-mcp"
+}

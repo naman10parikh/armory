@@ -1,0 +1,7 @@
+{
+  "name": "claude-garmin",
+  "description": "MCP server that connects Garmin Connect data to Claude, enabling training analysis, recovery checks, and personalized plans based on real metrics like HRV, training load, and activities.",
+  "source_repo": "Jack-Abyss/claude-garmin",
+  "source_url": "https://github.com/Jack-Abyss/claude-garmin",
+  "install": "# git clone --depth 1 https://github.com/Jack-Abyss/claude-garmin\n# See source for mcpServers config block"
+}

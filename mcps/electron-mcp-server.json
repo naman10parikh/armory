@@ -1,0 +1,7 @@
+{
+  "name": "electron-mcp-server",
+  "description": "Enables Electron app automation via Chrome DevTools Protocol (CDP), allowing MCP clients like Cursor or Claude Desktop to interact with Electron apps.",
+  "source_repo": "ohah/electron-mcp-server",
+  "source_url": "https://github.com/ohah/electron-mcp-server",
+  "install": "npx -y electron-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mnemonic",
+  "description": "Persistent memory management for AI assistants like Claude, enabling creation, search, and retrieval of memories with tagging and triggers.",
+  "source_repo": "bacharyehya/claude-memory-architecture",
+  "source_url": "https://github.com/bacharyehya/claude-memory-architecture",
+  "install": "# git clone --depth 1 https://github.com/bacharyehya/claude-memory-architecture\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-claude-memory",
+  "description": "A smart, self-maintaining memory system for Claude Code that persists across machines using Postgres, with semantic recall, confidence-based self-healing, and background maintenance via dreaming.",
+  "source_repo": "xhusnain/memhub",
+  "source_url": "https://github.com/xhusnain/memhub",
+  "install": "# git clone --depth 1 https://github.com/xhusnain/memhub\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rdrs-mcp-server",
+  "description": "Enables natural language interaction with Rocket Data Replicate and Sync (RDRS) through AI assistants. Supports management of agents, data sources, processes, and replication tasks.",
+  "source_repo": "myunussheikhRS/rdrs_MCP",
+  "source_url": "https://github.com/myunussheikhRS/rdrs_MCP",
+  "install": "npx -y rdrs_MCP"
+}

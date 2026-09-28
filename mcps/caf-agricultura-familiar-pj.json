@@ -1,0 +1,7 @@
+{
+  "name": "caf-agricultura-familiar-pj",
+  "description": "MCP server to query the Brazilian National Registry of Family Farming (CAF) for a legal entity (CNPJ), providing a read-only tool to check CAF status.",
+  "source_repo": "mcp-dir/caf_agricultura_pj-mcp",
+  "source_url": "https://github.com/mcp-dir/caf_agricultura_pj-mcp",
+  "install": "npx -y caf_agricultura_pj-mcp"
+}

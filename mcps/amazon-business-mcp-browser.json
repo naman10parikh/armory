@@ -1,0 +1,7 @@
+{
+  "name": "amazon-business-mcp-browser",
+  "description": "MCP server that uses a visible Playwright browser to search products and manage an Amazon Business cart, requiring manual login for security, and never finalizes orders.",
+  "source_repo": "fulviocazzanti/amazon-business-mcp-browser",
+  "source_url": "https://github.com/fulviocazzanti/amazon-business-mcp-browser",
+  "install": "# git clone --depth 1 https://github.com/fulviocazzanti/amazon-business-mcp-browser\n# See source for mcpServers config block"
+}

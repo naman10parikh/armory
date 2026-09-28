@@ -1,0 +1,7 @@
+{
+  "name": "helm",
+  "description": "Semantic browser automation MCP server that lets AI agents control a browser using natural language, handling navigation, form filling, data extraction, and more without CSS selectors.",
+  "source_repo": "tylergibbs1/helm",
+  "source_url": "https://github.com/tylergibbs1/helm",
+  "install": "# git clone --depth 1 https://github.com/tylergibbs1/helm\n# See source for mcpServers config block"
+}

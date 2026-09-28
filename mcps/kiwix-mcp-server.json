@@ -1,0 +1,7 @@
+{
+  "name": "kiwix-mcp-server",
+  "description": "Provides offline access to Wikipedia and other ZIM content through a local Kiwix instance, enabling search, summaries, and full article retrieval without internet.",
+  "source_repo": "scottyphillips/kiwix-mcp",
+  "source_url": "https://github.com/scottyphillips/kiwix-mcp",
+  "install": "npx -y kiwix-mcp"
+}

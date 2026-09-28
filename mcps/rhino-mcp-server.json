@@ -1,6 +1,6 @@
 {
   "name": "rhino-mcp-server",
-  "description": "Rhino MCP Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "hanlinyuanexplosivescholar/Rhino-MCP-Server",
   "source_url": "https://mcp.so/server/Rhino-MCP-Server/hanlinyuanexplosivescholar",
   "install": "npx -y Rhino-MCP-Server"

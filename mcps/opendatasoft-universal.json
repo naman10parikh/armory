@@ -1,0 +1,7 @@
+{
+  "name": "opendatasoft-universal",
+  "description": "Enables querying and summarizing public datasets from any OpenDataSoft Explore v2.1 portal.",
+  "source_repo": "Hug0x0/mcp-opendatasoft-universal",
+  "source_url": "https://github.com/Hug0x0/mcp-opendatasoft-universal",
+  "install": "# git clone --depth 1 https://github.com/Hug0x0/mcp-opendatasoft-universal\n# See source for mcpServers config block"
+}

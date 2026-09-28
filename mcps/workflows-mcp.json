@@ -1,0 +1,7 @@
+{
+  "name": "workflows-mcp",
+  "description": "Run YAML workflows as MCP tools so agents can automate real tasks with one server.",
+  "source_repo": "qtsone/workflows-mcp",
+  "source_url": "https://github.com/qtsone/workflows-mcp",
+  "install": "npx -y workflows-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cargoeffe-mcp-server",
+  "description": "Connects AI assistants to CargoEffe for automated cargo loading plan design, offering tools to manage containers, cargo items, and load plans.",
+  "source_repo": "dollob/cargoeffe-mcp",
+  "source_url": "https://github.com/dollob/cargoeffe-mcp",
+  "install": "npx -y cargoeffe-mcp"
+}

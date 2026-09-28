@@ -1,0 +1,7 @@
+{
+  "name": "project-context",
+  "description": "A local, provider-neutral MCP server for repository-scoped issue handling. It provides a guarded interface to Linear, GitHub Issues, GitHub Projects v2, and Jira Cloud, with preview/apply safety and host-local configuration.",
+  "source_repo": "sandovalrr/project-context",
+  "source_url": "https://github.com/sandovalrr/project-context",
+  "install": "# git clone --depth 1 https://github.com/sandovalrr/project-context\n# See source for mcpServers config block"
+}

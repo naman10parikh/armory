@@ -1,0 +1,7 @@
+{
+  "name": "fega-schmitt-mcp",
+  "description": "MCP server that gives AI assistants access to FEGA & Schmitt Elektrogroßhandel price and availability data via a single tool, enabling natural language queries for up to 999 articles per request.",
+  "source_repo": "the78mole/fega-schmitt-mcp",
+  "source_url": "https://github.com/the78mole/fega-schmitt-mcp",
+  "install": "npx -y fega-schmitt-mcp"
+}

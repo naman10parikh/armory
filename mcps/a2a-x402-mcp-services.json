@@ -1,0 +1,7 @@
+{
+  "name": "a2a-x402-mcp-services",
+  "description": "Enables agents to access production-grade paid MCP tools with real on-chain x402 v2 settlement, including EVM wallet risk scoring, payload normalization, and facilitator discovery, all discoverable via Bazaar-compatible metadata.",
+  "source_repo": "Disseveru/a2a-x402-mcp-services",
+  "source_url": "https://github.com/Disseveru/a2a-x402-mcp-services",
+  "install": "# git clone --depth 1 https://github.com/Disseveru/a2a-x402-mcp-services\n# See source for mcpServers config block"
+}

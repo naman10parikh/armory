@@ -1,0 +1,7 @@
+{
+  "name": "jarvis-markdown-mcp",
+  "description": "Local-first memory server for AI coding agents that stores work sessions, tasks, and durable memories in Markdown files, exposed through MCP tools for session management and memory retrieval.",
+  "source_repo": "ash25082003/jarvis-mcp",
+  "source_url": "https://github.com/ash25082003/jarvis-mcp",
+  "install": "npx -y jarvis-mcp"
+}

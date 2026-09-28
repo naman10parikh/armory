@@ -1,0 +1,7 @@
+{
+  "name": "nuzo-memory",
+  "description": "Local-first, auditable memory for AI agents. Provides durable context for MCP hosts with SQLite storage, CLI, and MCP tools for memory management.",
+  "source_repo": "fabionfsc/nuzo-memory",
+  "source_url": "https://github.com/fabionfsc/nuzo-memory",
+  "install": "# git clone --depth 1 https://github.com/fabionfsc/nuzo-memory\n# See source for mcpServers config block"
+}

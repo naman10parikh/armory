@@ -1,0 +1,7 @@
+{
+  "name": "antom-mcp-server",
+  "description": "A Model Context Protocol (MCP) compatible server that integrates Ant International's Antom payment APIs, enabling AI assistants to handle payment and refund operations seamlessly.",
+  "source_repo": "ant-intl/global-antom-mcp",
+  "source_url": "https://github.com/ant-intl/global-antom-mcp",
+  "install": "npx -y global-antom-mcp"
+}

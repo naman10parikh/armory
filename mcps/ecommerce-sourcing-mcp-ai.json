@@ -1,0 +1,7 @@
+{
+  "name": "ecommerce-sourcing-mcp-ai",
+  "description": "Automates cross-platform e-commerce sourcing between JD and Taobao using AI-driven browser automation to search, extract product details, compare prices, and identify profitable arbitrage opportunities.",
+  "source_repo": "13739777296-del/ecommerce-sourcing-mcp-ai",
+  "source_url": "https://github.com/13739777296-del/ecommerce-sourcing-mcp-ai",
+  "install": "# git clone --depth 1 https://github.com/13739777296-del/ecommerce-sourcing-mcp-ai\n# See source for mcpServers config block"
+}

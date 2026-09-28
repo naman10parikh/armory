@@ -1,0 +1,7 @@
+{
+  "name": "mcp-web-agent",
+  "description": "A token-efficient web browsing, scraping, and crawling MCP server that provides tools for fetching pages as clean markdown or schema-based JSON, verifying content, monitoring changes, and interacting with web pages via a persistent browser pool, complete with SSRF protection and rate limiting.",
+  "source_repo": "creatorpiyush/webmesh-mcp",
+  "source_url": "https://github.com/creatorpiyush/webmesh-mcp",
+  "install": "npx -y webmesh-mcp"
+}

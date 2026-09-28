@@ -1,0 +1,7 @@
+{
+  "name": "flexberry-markitdown-mcp",
+  "description": "MCP server for converting various file formats (PDF, DOCX, images, audio, etc.) to Markdown using Microsoft MarkItDown, with support for large files and Cyrillic text.",
+  "source_repo": "Flexberry/flexberry-markitdown-mcp",
+  "source_url": "https://github.com/Flexberry/flexberry-markitdown-mcp",
+  "install": "npx -y flexberry-markitdown-mcp"
+}

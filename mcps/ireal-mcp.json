@@ -1,0 +1,7 @@
+{
+  "name": "ireal-mcp",
+  "description": "Builds piano-friendly iReal Pro chord charts with deterministic layout, harmonic analysis, and a standalone HTML export. Provides tools to create, preview, list, and delete charts, and serves them over LAN for easy import into iReal Pro.",
+  "source_repo": "seajaysec/ireal-mcp",
+  "source_url": "https://github.com/seajaysec/ireal-mcp",
+  "install": "npx -y ireal-mcp"
+}

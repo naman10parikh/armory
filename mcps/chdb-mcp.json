@@ -1,0 +1,7 @@
+{
+  "name": "chdb-mcp",
+  "description": "An MCP server for chDB, the in-process SQL OLAP engine powered by ClickHouse. Lets agents query Parquet, CSV, JSON, and pandas DataFrames with one tool — no separate server, no Docker.",
+  "source_repo": "chdb-io/chdb-mcp",
+  "source_url": "https://github.com/chdb-io/chdb-mcp",
+  "install": "npx -y chdb-mcp"
+}

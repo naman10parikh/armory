@@ -1,0 +1,7 @@
+{
+  "name": "seosiri-data-pipeline-mcp",
+  "description": "A sovereign, high-speed, local-first Big Data Ingestion, Filtering, and Analytical Pipeline Orchestrator.",
+  "source_repo": "SEOSiri-Official/lambda-data-pipeline-mcp",
+  "source_url": "https://github.com/SEOSiri-Official/lambda-data-pipeline-mcp",
+  "install": "npx -y lambda-data-pipeline-mcp"
+}

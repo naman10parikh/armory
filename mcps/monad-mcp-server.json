@@ -1,0 +1,7 @@
+{
+  "name": "monad-mcp-server",
+  "description": "Enables interaction with the Monad Testnet blockchain, including reading block data, balances, transactions, and token operations via natural language.",
+  "source_repo": "Tairon-ai/monad-mcp",
+  "source_url": "https://github.com/Tairon-ai/monad-mcp",
+  "install": "npx -y monad-mcp"
+}

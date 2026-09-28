@@ -1,0 +1,7 @@
+{
+  "name": "hono-mcp-server",
+  "description": "Easily expose your Hono API endpoints as MCP tools with minimal configuration, supporting type-safe input handling and tool registration.",
+  "source_repo": "ninjacazul/hono-mcp-server",
+  "source_url": "https://github.com/ninjacazul/hono-mcp-server",
+  "install": "npx -y hono-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "walmart-mcp",
+  "description": "A MCP server for Walmart Marketplace and Affiliate APIs, enabling sellers to manage items, inventory, prices, and orders, and consumers to search, lookup products, reviews, and store locations.",
+  "source_repo": "luke-nielsen/walmart-mcp",
+  "source_url": "https://github.com/luke-nielsen/walmart-mcp",
+  "install": "npx -y walmart-mcp"
+}

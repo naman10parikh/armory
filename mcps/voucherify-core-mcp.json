@@ -1,0 +1,7 @@
+{
+  "name": "voucherify-core-mcp",
+  "description": "Enables asking questions in plain language to explore loyalty and promo data through Voucherify API endpoints.",
+  "source_repo": "voucherifyio/core-mcp",
+  "source_url": "https://github.com/voucherifyio/core-mcp",
+  "install": "npx -y core-mcp"
+}

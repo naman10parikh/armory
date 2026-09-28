@@ -1,0 +1,7 @@
+{
+  "name": "maxcompute-mcp-server",
+  "description": "MCP server for MaxCompute, enabling table listing, schema inspection, partition lookups, and SELECT queries via natural language.",
+  "source_repo": "datafe/maxcompute-mcp-server",
+  "source_url": "https://github.com/datafe/maxcompute-mcp-server",
+  "install": "npx -y maxcompute-mcp-server"
+}

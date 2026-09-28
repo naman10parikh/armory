@@ -1,0 +1,7 @@
+{
+  "name": "tyme-bazi-mcp",
+  "description": "Windows-local stdio MCP server for Chinese calendar and Four Pillars (BaZi) calculations, providing deterministic tools for day pillars, four pillars, calendar context, and natural calendar context.",
+  "source_repo": "Zojekin/tyme-bazi-mcp",
+  "source_url": "https://github.com/Zojekin/tyme-bazi-mcp",
+  "install": "npx -y tyme-bazi-mcp"
+}

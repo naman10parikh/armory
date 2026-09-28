@@ -1,0 +1,7 @@
+{
+  "name": "janee",
+  "description": "Secrets management MCP server that injects credentials into API requests for AI agents, enforcing policies and logging all activity without exposing raw keys.",
+  "source_repo": "rsdouglas/janee",
+  "source_url": "https://github.com/rsdouglas/janee",
+  "install": "# git clone --depth 1 https://github.com/rsdouglas/janee\n# See source for mcpServers config block"
+}

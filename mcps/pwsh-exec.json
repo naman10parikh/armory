@@ -1,0 +1,7 @@
+{
+  "name": "pwsh-exec",
+  "description": "Enables running PowerShell commands on Windows via a single tool, returning raw stdout/stderr and exit code.",
+  "source_repo": "Jason26214/pwsh-exec-mcp",
+  "source_url": "https://github.com/Jason26214/pwsh-exec-mcp",
+  "install": "npx -y pwsh-exec-mcp"
+}

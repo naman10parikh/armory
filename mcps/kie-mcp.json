@@ -1,0 +1,7 @@
+{
+  "name": "kie-mcp",
+  "description": "A comprehensive Model Context Protocol server for the kie.ai generation API, providing access to 47+ image models, 86+ video models, and 20+ audio tools with deep model intelligence.",
+  "source_repo": "elibarnett/kie-mcp",
+  "source_url": "https://github.com/elibarnett/kie-mcp",
+  "install": "npx -y kie-mcp"
+}

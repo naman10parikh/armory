@@ -1,0 +1,7 @@
+{
+  "name": "androir-mcp",
+  "description": "An MCP server that allows AI agents to drive real Android devices via adb, capturing screenshots, reading the live UI tree, and performing actions like tap, swipe, and type.",
+  "source_repo": "benasbarciauskas/androir-mcp",
+  "source_url": "https://github.com/benasbarciauskas/androir-mcp",
+  "install": "npx -y androir-mcp"
+}

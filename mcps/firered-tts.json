@@ -1,0 +1,7 @@
+{
+  "name": "firered-tts",
+  "description": "Local multilingual TTS (24 languages incl. Ukrainian) with zero-shot voice cloning, voice design, and speech editing via HTTP API and MCP server.",
+  "source_repo": "taral14/firered-tts",
+  "source_url": "https://github.com/taral14/firered-tts",
+  "install": "# git clone --depth 1 https://github.com/taral14/firered-tts\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "novelty-research-mcp",
+  "description": "Enables source-grounded prior-art and novelty research by searching patents, publications, and the web in one run, verifying evidence levels, and returning a structured report.",
+  "source_repo": "RobackaB/novelty-research-mcp",
+  "source_url": "https://github.com/RobackaB/novelty-research-mcp",
+  "install": "npx -y novelty-research-mcp"
+}

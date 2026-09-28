@@ -1,0 +1,7 @@
+{
+  "name": "cardos-mcp-server",
+  "description": "Enables AI assistants to issue and manage virtual cards, check balances, pull transactions, file disputes, and start KYC via the CardOS API.",
+  "source_repo": "CMSCardOS/cardos-mcp",
+  "source_url": "https://github.com/CMSCardOS/cardos-mcp",
+  "install": "npx -y cardos-mcp"
+}

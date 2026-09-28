@@ -1,0 +1,7 @@
+{
+  "name": "mcp-security-emulator",
+  "description": "Simulates security attacks by providing LLM attack test payloads to validate ModSecurity-compatible detection rules.",
+  "source_repo": "olegzhr/mcp_security_emulator",
+  "source_url": "https://github.com/olegzhr/mcp_security_emulator",
+  "install": "# git clone --depth 1 https://github.com/olegzhr/mcp_security_emulator\n# See source for mcpServers config block"
+}

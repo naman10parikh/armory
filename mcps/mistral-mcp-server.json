@@ -1,0 +1,7 @@
+{
+  "name": "mistral-mcp-server",
+  "description": "Enables AI assistants to interact with the full Mistral AI API, including chat completion, embeddings, fine-tuning, OCR, audio transcription, and more.",
+  "source_repo": "First-Cast-Solutions-LLC/mistral-mcp-server",
+  "source_url": "https://github.com/First-Cast-Solutions-LLC/mistral-mcp-server",
+  "install": "npx -y mistral-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zoom-mcp",
+  "description": "Enables interaction with Zoom APIs through MCP, supporting multi-user OAuth token management, read-only and admin-gated mutation tools, schema discovery, and query suggestions for LLM workflows.",
+  "source_repo": "LesterAJohn/zoom-mcp",
+  "source_url": "https://github.com/LesterAJohn/zoom-mcp",
+  "install": "npx -y zoom-mcp"
+}

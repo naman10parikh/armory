@@ -1,0 +1,7 @@
+{
+  "name": "homebox-mcp",
+  "description": "MCP server for Homebox home inventory, enabling natural language queries and management of items, locations, tags, warranties, maintenance, and attachments.",
+  "source_repo": "dgahagan/homebox-mcp",
+  "source_url": "https://github.com/dgahagan/homebox-mcp",
+  "install": "npx -y homebox-mcp"
+}

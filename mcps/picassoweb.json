@@ -1,0 +1,7 @@
+{
+  "name": "picassoweb",
+  "description": "Analyzes and extracts design tokens, assets, and layout from live websites to enable AI clients to faithfully replicate them, with tools for screenshotting, component inspection, and pixel-diff verification.",
+  "source_repo": "blackridder22/PicassoWeb",
+  "source_url": "https://github.com/blackridder22/PicassoWeb",
+  "install": "# git clone --depth 1 https://github.com/blackridder22/PicassoWeb\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ks-local-mcp",
+  "description": "Enables searching and viewing 1.89 million entries of the Seungjeongwon Ilgi and 380,000 articles of the Annals of the Joseon Dynasty from a local PostgreSQL database via Claude Desktop.",
+  "source_repo": "namjiman/ks-local-mcp",
+  "source_url": "https://github.com/namjiman/ks-local-mcp",
+  "install": "npx -y ks-local-mcp"
+}

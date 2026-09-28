@@ -1,0 +1,7 @@
+{
+  "name": "stock-price",
+  "description": "Provides real-time stock quotes including price, change, volume, market cap, and company name for major US and international exchanges, with pay-per-call access via x402 micropayments and no API key or signup required.",
+  "source_repo": "Br0ski777/stock-price-x402",
+  "source_url": "https://github.com/Br0ski777/stock-price-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/stock-price-x402\n# See source for mcpServers config block"
+}

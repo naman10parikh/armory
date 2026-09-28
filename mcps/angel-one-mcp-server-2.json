@@ -1,0 +1,7 @@
+{
+  "name": "angel-one-mcp-server-2",
+  "description": "Enables AI agents to interact with Angel One brokerage for live market data, portfolio management, and order placement using the SmartAPI.",
+  "source_repo": "tamil3yashni-ship-it/angel-one-mcp-server",
+  "source_url": "https://github.com/tamil3yashni-ship-it/angel-one-mcp-server",
+  "install": "npx -y angel-one-mcp-server"
+}

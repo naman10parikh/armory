@@ -1,0 +1,7 @@
+{
+  "name": "upwork-mcp-server",
+  "description": "MCP server for Upwork via browser automation. Enables Claude Code to search jobs, manage proposals, messages, and contracts on Upwork.",
+  "source_repo": "vanooo/upwork-mcp",
+  "source_url": "https://github.com/vanooo/upwork-mcp",
+  "install": "npx -y upwork-mcp"
+}

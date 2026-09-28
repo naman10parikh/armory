@@ -1,0 +1,7 @@
+{
+  "name": "audit-findings-mcp-server",
+  "description": "Enables managing audit findings in a SQLite database via natural language, allowing queries and updates without writing SQL.",
+  "source_repo": "SoshiHashi/audit-findings-mcp-server",
+  "source_url": "https://github.com/SoshiHashi/audit-findings-mcp-server",
+  "install": "npx -y audit-findings-mcp-server"
+}

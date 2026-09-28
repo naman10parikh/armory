@@ -1,0 +1,7 @@
+{
+  "name": "sox-mcp",
+  "description": "Provides audio inspection, conversion, processing, and generation capabilities via SoX, enabling AI agents to 'hear' and manipulate audio files through structured JSON interfaces.",
+  "source_repo": "bingo-tango/sox-mcp",
+  "source_url": "https://github.com/bingo-tango/sox-mcp",
+  "install": "npx -y sox-mcp"
+}

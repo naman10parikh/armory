@@ -1,0 +1,7 @@
+{
+  "name": "osu-mcp-server",
+  "description": "Provides over 50 tools across 14 categories for accessing Ohio State University services including transportation, academics, dining, and events.",
+  "source_repo": "sichengchen/ohio-state-mcp-server",
+  "source_url": "https://github.com/sichengchen/ohio-state-mcp-server",
+  "install": "npx -y ohio-state-mcp-server"
+}

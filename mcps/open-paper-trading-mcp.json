@@ -1,0 +1,7 @@
+{
+  "name": "open-paper-trading-mcp",
+  "description": "Provides AI agents with tools for paper trading stocks, options, ETFs, and bonds, including advanced options strategies and risk analysis, using real market data without financial risk.",
+  "source_repo": "Open-Agent-Tools/open-paper-trading-mcp",
+  "source_url": "https://github.com/Open-Agent-Tools/open-paper-trading-mcp",
+  "install": "npx -y open-paper-trading-mcp"
+}

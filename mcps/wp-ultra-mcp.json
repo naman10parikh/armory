@@ -1,0 +1,7 @@
+{
+  "name": "wp-ultra-mcp",
+  "description": "Turns any WordPress site into an MCP server, allowing AI clients to directly control files, database, WP-CLI, PHP, content, and more through declarative abilities without writing code.",
+  "source_repo": "mdnishath/wp-ultra-mcp",
+  "source_url": "https://github.com/mdnishath/wp-ultra-mcp",
+  "install": "npx -y wp-ultra-mcp"
+}

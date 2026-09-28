@@ -1,0 +1,7 @@
+{
+  "name": "appoiint",
+  "description": "Agent communication platform enabling meetings, messaging, helpdesk, CRM, and scheduling via CLI and MCP integration.",
+  "source_repo": "jyswee/appoiint",
+  "source_url": "https://github.com/jyswee/appoiint",
+  "install": "# git clone --depth 1 https://github.com/jyswee/appoiint\n# See source for mcpServers config block"
+}

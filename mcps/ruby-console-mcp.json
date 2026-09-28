@@ -1,0 +1,7 @@
+{
+  "name": "ruby-console-mcp",
+  "description": "Enables AI assistants to execute Ruby console commands (Rails console, IRB, etc.) with persistent session support for interacting with Ruby/Rails applications through natural language.",
+  "source_repo": "tuhalang/ruby-console-mcp",
+  "source_url": "https://github.com/tuhalang/ruby-console-mcp",
+  "install": "npx -y ruby-console-mcp"
+}

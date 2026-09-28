@@ -1,0 +1,7 @@
+{
+  "name": "worbrow",
+  "description": "Free agent web-search MCP server driving local headless Chrome/Firefox via self-built CDP/Marionette — no API key, no playwright deps, data stays on-machine, stable JSON contract.",
+  "source_repo": "noisystreet/worbrow",
+  "source_url": "https://github.com/noisystreet/worbrow",
+  "install": "# git clone --depth 1 https://github.com/noisystreet/worbrow\n# See source for mcpServers config block"
+}

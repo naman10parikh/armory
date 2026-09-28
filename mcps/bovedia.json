@@ -1,0 +1,7 @@
+{
+  "name": "bovedia",
+  "description": "MCP server that gives Claude Code and other MCP clients persistent memory using plain Markdown notes stored on your disk and optionally synced to cloud storage (iCloud, OneDrive, Google Drive, Dropbox).",
+  "source_repo": "jmpdsevilla/BovedIA",
+  "source_url": "https://github.com/jmpdsevilla/BovedIA",
+  "install": "# git clone --depth 1 https://github.com/jmpdsevilla/BovedIA\n# See source for mcpServers config block"
+}

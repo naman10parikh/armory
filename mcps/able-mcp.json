@@ -1,0 +1,7 @@
+{
+  "name": "able-mcp",
+  "description": "An MCP server for parsing and analyzing Ableton Live .als project files offline, enabling queries about tempo, tracks, clips, and MIDI data through tools like als_summary and als_list_tracks.",
+  "source_repo": "bassDaddyDevices/ABLE-MCP",
+  "source_url": "https://github.com/bassDaddyDevices/ABLE-MCP",
+  "install": "npx -y ABLE-MCP"
+}

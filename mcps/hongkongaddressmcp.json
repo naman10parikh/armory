@@ -1,0 +1,7 @@
+{
+  "name": "hongkongaddressmcp",
+  "description": "Enables Hong Kong address lookup and correction using government data, with fuzzy matching and LLM-powered correction for both Chinese and English addresses.",
+  "source_repo": "OctHex2016/HongKongAddressMCP",
+  "source_url": "https://github.com/OctHex2016/HongKongAddressMCP",
+  "install": "# git clone --depth 1 https://github.com/OctHex2016/HongKongAddressMCP\n# See source for mcpServers config block"
+}

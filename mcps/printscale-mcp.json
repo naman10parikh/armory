@@ -1,0 +1,7 @@
+{
+  "name": "printscale-mcp",
+  "description": "Upscales images to print-ready TIFF, PNG, and JPG files via the PrintScale API, with support for auto/2x/3x/print modes and local file paths.",
+  "source_repo": "amortegui84/printscale-mcp",
+  "source_url": "https://github.com/amortegui84/printscale-mcp",
+  "install": "npx -y printscale-mcp"
+}

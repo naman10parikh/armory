@@ -1,0 +1,7 @@
+{
+  "name": "rakuten-api-mcp-server",
+  "description": "Enables searching and retrieving information from Rakuten services (Ichiba, Books, Travel, Recipe, Kobo, GORA) via the new API endpoints with secure authentication.",
+  "source_repo": "malken21/RakutenAPI-MCP",
+  "source_url": "https://github.com/malken21/RakutenAPI-MCP",
+  "install": "npx -y RakutenAPI-MCP"
+}

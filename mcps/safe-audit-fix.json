@@ -1,0 +1,7 @@
+{
+  "name": "safe-audit-fix",
+  "description": "MCP server that safely fixes npm audit vulnerabilities by planning, applying fixes one at a time, running tests after each, and auto-reverting failures to prevent breaking changes.",
+  "source_repo": "pasindudilshan1/safe-audit-fix",
+  "source_url": "https://github.com/pasindudilshan1/safe-audit-fix",
+  "install": "# git clone --depth 1 https://github.com/pasindudilshan1/safe-audit-fix\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "apimind-ai-mcp-server",
+  "description": "Enables natural language queries against uploaded OpenAPI/Swagger documentation via a hybrid RAG pipeline, providing grounded answers through MCP-compatible clients like VS Code Copilot.",
+  "source_repo": "shubhamimsr/AI-Powered-API-Documentation-Assistant",
+  "source_url": "https://github.com/shubhamimsr/AI-Powered-API-Documentation-Assistant",
+  "install": "# git clone --depth 1 https://github.com/shubhamimsr/AI-Powered-API-Documentation-Assistant\n# See source for mcpServers config block"
+}

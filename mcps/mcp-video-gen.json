@@ -1,0 +1,7 @@
+{
+  "name": "mcp-video-gen",
+  "description": "Multi-provider AI video, speech, music, and transcription MCP server enabling video generation, image-to-video, TTS, music creation, and speech-to-text via a unified interface.",
+  "source_repo": "ZenforceTaiji/MCP-AI",
+  "source_url": "https://github.com/ZenforceTaiji/MCP-AI",
+  "install": "# git clone --depth 1 https://github.com/ZenforceTaiji/MCP-AI\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-casebook-mcp",
+  "description": "Enables searching and retrieving Russian legal cases, court documents, participant information, judge statistics, and hearing schedules from Casebook/Pravo.ru.",
+  "source_repo": "theYahia/casebook-mcp",
+  "source_url": "https://github.com/theYahia/casebook-mcp",
+  "install": "npx -y casebook-mcp"
+}

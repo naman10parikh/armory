@@ -1,0 +1,7 @@
+{
+  "name": "amc-mcp-server",
+  "description": "Enables conversational AI assistants to help users discover movies, find showtimes, book seats, and process payments for AMC Theatres through a simple API interface.",
+  "source_repo": "fastmcp-me/amc-mcp",
+  "source_url": "https://github.com/fastmcp-me/amc-mcp",
+  "install": "npx -y amc-mcp"
+}

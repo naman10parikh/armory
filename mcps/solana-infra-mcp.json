@@ -1,0 +1,7 @@
+{
+  "name": "solana-infra-mcp",
+  "description": "Provides Solana infrastructure awareness including RPC health, priority fee estimation, leader schedule, chain state, latency comparison, and keyless transaction submission.",
+  "source_repo": "rpc-edge/solana-infra-mcp",
+  "source_url": "https://github.com/rpc-edge/solana-infra-mcp",
+  "install": "npx -y solana-infra-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pdm-mcp-server",
+  "description": "AI-powered FPGA power estimation assistant that wraps Xilinx PDM API as MCP services for natural language power modeling and analysis.",
+  "source_repo": "Can-Y/PDM_MCP",
+  "source_url": "https://github.com/Can-Y/PDM_MCP",
+  "install": "npx -y PDM_MCP"
+}

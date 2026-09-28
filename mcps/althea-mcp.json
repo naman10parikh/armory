@@ -1,0 +1,7 @@
+{
+  "name": "althea-mcp",
+  "description": "Connects your personal Althea AI assistant to MCP-compatible tools like Codex and Claude, allowing you to send messages and retrieve conversation history.",
+  "source_repo": "tiptreesystems/althea-mcp",
+  "source_url": "https://github.com/tiptreesystems/althea-mcp",
+  "install": "npx -y althea-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tiktok-viral-factory",
+  "description": "Enables automated generation and publishing of TikTok Shop Affiliate videos using 7 AI agents. Integrates research, script writing, video production, and publishing through the MCP protocol.",
+  "source_repo": "Vanszs/tiktok-viral-factory",
+  "source_url": "https://github.com/Vanszs/tiktok-viral-factory",
+  "install": "# git clone --depth 1 https://github.com/Vanszs/tiktok-viral-factory\n# See source for mcpServers config block"
+}

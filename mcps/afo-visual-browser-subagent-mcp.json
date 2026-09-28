@@ -1,0 +1,7 @@
+{
+  "name": "afo-visual-browser-subagent-mcp",
+  "description": "Cloudflare-native MCP server for visual evidence and browser investigation, providing deterministic screenshot capture, snapshot generation, and signed artifact retrieval with receipt logging.",
+  "source_repo": "nothinginfinity/afo-visual-browser-subagent-mcp",
+  "source_url": "https://github.com/nothinginfinity/afo-visual-browser-subagent-mcp",
+  "install": "npx -y afo-visual-browser-subagent-mcp"
+}

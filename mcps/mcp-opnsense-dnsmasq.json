@@ -1,0 +1,7 @@
+{
+  "name": "mcp-opnsense-dnsmasq",
+  "description": "A LAN-hosted MCP server for safely querying and managing OPNsense Dnsmasq DHCP state through the official OPNsense API, with tools to view and modify DHCP leases, static reservations, settings, and more.",
+  "source_repo": "Slyke/mcp-opnsense-dnsmasq",
+  "source_url": "https://github.com/Slyke/mcp-opnsense-dnsmasq",
+  "install": "# git clone --depth 1 https://github.com/Slyke/mcp-opnsense-dnsmasq\n# See source for mcpServers config block"
+}

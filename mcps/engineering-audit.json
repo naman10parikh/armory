@@ -1,0 +1,7 @@
+{
+  "name": "engineering-audit",
+  "description": "MCP server that enables AI coding assistants to audit repositories against engineering rules, generating self-contained HTML reports with citations and optional GitHub issue filing.",
+  "source_repo": "rodlunt/engineering-audit",
+  "source_url": "https://github.com/rodlunt/engineering-audit",
+  "install": "# git clone --depth 1 https://github.com/rodlunt/engineering-audit\n# See source for mcpServers config block"
+}

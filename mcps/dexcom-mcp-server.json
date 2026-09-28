@@ -1,0 +1,7 @@
+{
+  "name": "dexcom-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that connects Claude to your personal Dexcom CGM (Continuous Glucose Monitor) for assistive diabetes management intelligence.",
+  "source_repo": "cykj40/dexcom-mcp-server",
+  "source_url": "https://github.com/cykj40/dexcom-mcp-server",
+  "install": "npx -y dexcom-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "schema-drift-gate-mcp",
+  "description": "Paid remote MCP server that blocks breaking tool-schema changes by verifying schema drift, requiring approvals, and providing compatibility receipts and audit logs.",
+  "source_repo": "clauxel/schema-drift-gate-mcp",
+  "source_url": "https://github.com/clauxel/schema-drift-gate-mcp",
+  "install": "npx -y schema-drift-gate-mcp"
+}

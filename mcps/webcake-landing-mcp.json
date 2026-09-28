@@ -1,0 +1,7 @@
+{
+  "name": "webcake-landing-mcp",
+  "description": "Bridges AI assistants to WebCake, enabling users to build, validate, and save editable landing pages from natural language descriptions.",
+  "source_repo": "vuluu2k/webcake-landing-mcp",
+  "source_url": "https://github.com/vuluu2k/webcake-landing-mcp",
+  "install": "npx -y webcake-landing-mcp"
+}

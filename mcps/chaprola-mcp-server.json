@@ -1,0 +1,7 @@
+{
+  "name": "chaprola-mcp-server",
+  "description": "Provides AI agents with 40 tools for structured data storage, querying, web search, URL fetching, scheduled jobs, and execution through the Model Context Protocol.",
+  "source_repo": "cletcher/chaprola-mcp",
+  "source_url": "https://github.com/cletcher/chaprola-mcp",
+  "install": "npx -y chaprola-mcp"
+}

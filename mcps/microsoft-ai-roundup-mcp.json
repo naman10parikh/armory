@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-ai-roundup-mcp",
+  "description": "An MCP server that enables searching Merill's Weekly Microsoft AI Roundup archive with natural language queries, returning sourced excerpts, issue details, and tool mentions. It supports hybrid semantic and keyword search, issue retrieval, and archive browsing with no API keys required.",
+  "source_repo": "darrenjrobinson/microsoft-ai-roundup-mcp",
+  "source_url": "https://github.com/darrenjrobinson/microsoft-ai-roundup-mcp",
+  "install": "npx -y microsoft-ai-roundup-mcp"
+}

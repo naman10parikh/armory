@@ -1,0 +1,7 @@
+{
+  "name": "finq4cn-mcp-server",
+  "description": "Provides free, open-source access to China A-share financial data for quantitative analysis, including stock metrics, news, and backtesting.",
+  "source_repo": "jinhongzou/FinQ4Cn-mcp-server",
+  "source_url": "https://github.com/jinhongzou/FinQ4Cn-mcp-server",
+  "install": "npx -y FinQ4Cn-mcp-server"
+}

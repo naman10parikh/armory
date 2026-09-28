@@ -1,0 +1,7 @@
+{
+  "name": "playwright-mcp-parallel",
+  "description": "Enables running multiple isolated browser instances in parallel, each with independent state and auth cloning, for concurrent task execution.",
+  "source_repo": "Mokecy/playwright-mcp-parallel",
+  "source_url": "https://github.com/Mokecy/playwright-mcp-parallel",
+  "install": "# git clone --depth 1 https://github.com/Mokecy/playwright-mcp-parallel\n# See source for mcpServers config block"
+}

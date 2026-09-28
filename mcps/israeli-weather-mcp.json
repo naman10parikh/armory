@@ -1,0 +1,7 @@
+{
+  "name": "israeli-weather-mcp",
+  "description": "MCP server that lets users obtain current Israeli city weather forecasts. It uses Playwright to browse Weather2day, extract the forecast page, and feed the cleaned data back to the LLM for natural language responses.",
+  "source_repo": "ahuva-git/mcp-project",
+  "source_url": "https://github.com/ahuva-git/mcp-project",
+  "install": "# git clone --depth 1 https://github.com/ahuva-git/mcp-project\n# See source for mcpServers config block"
+}

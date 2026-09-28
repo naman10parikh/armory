@@ -1,0 +1,7 @@
+{
+  "name": "lechatai-mcp",
+  "description": "A read-only MCP server that provides information about Mistral's Le Chat AI, including models, pricing, FAQ, and official links, without requiring API keys.",
+  "source_repo": "rocnubie/lechatai-mcp",
+  "source_url": "https://github.com/rocnubie/lechatai-mcp",
+  "install": "npx -y lechatai-mcp"
+}

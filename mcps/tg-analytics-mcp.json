@@ -1,0 +1,7 @@
+{
+  "name": "tg-analytics-mcp",
+  "description": "Enables LLM agents to analyze Telegram channels for ad purchasing, providing insights like reach, CPM, and verdicts via MCP tools.",
+  "source_repo": "vvlasov-dev/tg-analytics-mcp",
+  "source_url": "https://github.com/vvlasov-dev/tg-analytics-mcp",
+  "install": "npx -y tg-analytics-mcp"
+}

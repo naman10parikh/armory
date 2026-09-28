@@ -1,0 +1,7 @@
+{
+  "name": "amazing-marvin-complete-mcp",
+  "description": "An MCP server that exposes the full Amazing Marvin public API (34 tools across ~31 endpoints) so assistants can manage tasks, habits, time blocks, reminders, and reward points through natural language.",
+  "source_repo": "andreasd083/amazing-marvin-complete-mcp",
+  "source_url": "https://github.com/andreasd083/amazing-marvin-complete-mcp",
+  "install": "npx -y amazing-marvin-complete-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "crawl4ai-local-for-windows",
+  "description": "Provides a local MCP server for AI-powered web crawling on Windows, enabling agents to directly crawl and extract web content without requiring WSL.",
+  "source_repo": "fix-a-lot/crawl4ai-local-for-windows",
+  "source_url": "https://github.com/fix-a-lot/crawl4ai-local-for-windows",
+  "install": "# git clone --depth 1 https://github.com/fix-a-lot/crawl4ai-local-for-windows\n# See source for mcpServers config block"
+}

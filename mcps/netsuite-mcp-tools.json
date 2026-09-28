@@ -1,0 +1,7 @@
+{
+  "name": "netsuite-mcp-tools",
+  "description": "Provides a Streamable HTTP MCP proxy for VS Code Copilot and Claude Code, using JWT client assertion to securely access NetSuite APIs.",
+  "source_repo": "void-Lu/netsuite-mcp-tools",
+  "source_url": "https://github.com/void-Lu/netsuite-mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/void-Lu/netsuite-mcp-tools\n# See source for mcpServers config block"
+}

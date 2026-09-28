@@ -1,0 +1,7 @@
+{
+  "name": "mcp-kali-tools",
+  "description": "Enables MCP clients to invoke common Kali Linux pentesting tools directly as tool calls, with each binary executed safely without a shell.",
+  "source_repo": "rdriver001/mcp-kali-tools",
+  "source_url": "https://github.com/rdriver001/mcp-kali-tools",
+  "install": "# git clone --depth 1 https://github.com/rdriver001/mcp-kali-tools\n# See source for mcpServers config block"
+}

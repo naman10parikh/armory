@@ -1,0 +1,7 @@
+{
+  "name": "grok-mcp-server-2",
+  "description": "Search X (formerly Twitter) in real-time from your AI assistant using xAI's Grok API, with no X API account required.",
+  "source_repo": "valda/grok-mcp-server",
+  "source_url": "https://github.com/valda/grok-mcp-server",
+  "install": "npx -y grok-mcp-server"
+}

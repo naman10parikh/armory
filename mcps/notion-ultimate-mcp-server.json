@@ -1,0 +1,7 @@
+{
+  "name": "notion-ultimate-mcp-server",
+  "description": "Enables AI-powered Notion task management with autonomous workflows, including task retrieval, AI prompt generation, and dependency tracking.",
+  "source_repo": "The-Trading-Dashboard/notion-ultimate-mcp-server",
+  "source_url": "https://github.com/The-Trading-Dashboard/notion-ultimate-mcp-server",
+  "install": "npx -y notion-ultimate-mcp-server"
+}

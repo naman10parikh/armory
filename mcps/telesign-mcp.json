@@ -1,0 +1,7 @@
+{
+  "name": "telesign-mcp",
+  "description": "Enables AI assistants to send SMS messages, verify phone numbers via OTP, assess fraud risk, and access TeleSign API documentation through natural language.",
+  "source_repo": "mdp18/telesign-mcp",
+  "source_url": "https://github.com/mdp18/telesign-mcp",
+  "install": "npx -y telesign-mcp"
+}

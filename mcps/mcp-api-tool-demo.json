@@ -1,0 +1,7 @@
+{
+  "name": "mcp-api-tool-demo",
+  "description": "Demo MCP server that exposes order and customer data as read-only tools for AI assistants, simulating a business API or internal data source.",
+  "source_repo": "jordansilly77-stack/mcp-api-tool-demo",
+  "source_url": "https://github.com/jordansilly77-stack/mcp-api-tool-demo",
+  "install": "# git clone --depth 1 https://github.com/jordansilly77-stack/mcp-api-tool-demo\n# See source for mcpServers config block"
+}

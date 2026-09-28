@@ -1,0 +1,7 @@
+{
+  "name": "yandex-tracker-mcp",
+  "description": "MCP server for Yandex Tracker API, enabling AI assistants to search, read, create, and edit issues, as well as manage comments, attachments, and links in Yandex Tracker.",
+  "source_repo": "brekhov-ilya/yandex-mcp-server",
+  "source_url": "https://github.com/brekhov-ilya/yandex-mcp-server",
+  "install": "npx -y yandex-mcp-server"
+}

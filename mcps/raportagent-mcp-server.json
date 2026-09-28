@@ -1,0 +1,7 @@
+{
+  "name": "raportagent-mcp-server",
+  "description": "Enables AI assistants to generate sourced RaportAgent reports and retrieve their audit trails through any MCP client.",
+  "source_repo": "raportagent/raportagent-mcp",
+  "source_url": "https://github.com/raportagent/raportagent-mcp",
+  "install": "npx -y raportagent-mcp"
+}

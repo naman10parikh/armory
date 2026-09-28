@@ -1,0 +1,7 @@
+{
+  "name": "rikkahub-history-mcp",
+  "description": "Read-only MCP bridge for searching and browsing RikkaHub app conversations through its Web API.",
+  "source_repo": "Photalia/rikkahub-history-mcp",
+  "source_url": "https://github.com/Photalia/rikkahub-history-mcp",
+  "install": "npx -y rikkahub-history-mcp"
+}

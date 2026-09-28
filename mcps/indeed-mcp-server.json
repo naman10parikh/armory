@@ -1,0 +1,7 @@
+{
+  "name": "indeed-mcp-server",
+  "description": "Enables MCP clients to search Indeed job listings by keyword and location and retrieve full job postings as structured JSON, without requiring an Indeed developer account or partner approval.",
+  "source_repo": "HasData/indeed-mcp",
+  "source_url": "https://github.com/HasData/indeed-mcp",
+  "install": "npx -y indeed-mcp"
+}

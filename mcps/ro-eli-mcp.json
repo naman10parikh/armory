@@ -1,0 +1,7 @@
+{
+  "name": "ro-eli-mcp",
+  "description": "This MCP server enables searching and retrieving Romanian legislation from the Portal Legislativ database via its SOAP API, providing metadata and full text with verifiable citations.",
+  "source_repo": "matematicsolutions/ro-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/ro-eli-mcp",
+  "install": "npx -y ro-eli-mcp"
+}

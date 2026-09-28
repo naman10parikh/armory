@@ -1,0 +1,7 @@
+{
+  "name": "codesafe-audit-mcp",
+  "description": "MCP server for Qi-An Xin CodeSafe, enabling retrieval of scan tasks, defect details, source code context, and taint propagation paths, with secure write-back of audit conclusions.",
+  "source_repo": "windhxy/codesafe-audit-mcp",
+  "source_url": "https://github.com/windhxy/codesafe-audit-mcp",
+  "install": "npx -y codesafe-audit-mcp"
+}

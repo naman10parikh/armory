@@ -1,0 +1,7 @@
+{
+  "name": "agnes-mcp-server",
+  "description": "Enables AI assistants to generate images and videos via the Agnes AI API, supporting text-to-image, image-to-image, and video generation.",
+  "source_repo": "zssty2010/agnes-mcp-server",
+  "source_url": "https://github.com/zssty2010/agnes-mcp-server",
+  "install": "npx -y agnes-mcp-server"
+}

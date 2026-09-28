@@ -1,0 +1,7 @@
+{
+  "name": "bulgarian-law-mcp",
+  "description": "Enables querying, searching, and validating 1,997 Bulgarian statutes and 17,103 provisions, with EU law integration and daily freshness checks.",
+  "source_repo": "Ansvar-Systems/Bulgarian-law-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/Bulgarian-law-mcp",
+  "install": "npx -y Bulgarian-law-mcp"
+}

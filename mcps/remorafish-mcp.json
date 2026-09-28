@@ -1,0 +1,7 @@
+{
+  "name": "remorafish-mcp",
+  "description": "Exposes authorized ChatGPT, DeepSeek, Kimi, and Grok web sessions to agents as MCP tools, including chat and local file attachments over HTTP or stdio.",
+  "source_repo": "howdeploy/remorafish",
+  "source_url": "https://github.com/howdeploy/remorafish",
+  "install": "# git clone --depth 1 https://github.com/howdeploy/remorafish\n# See source for mcpServers config block"
+}

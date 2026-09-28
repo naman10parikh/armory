@@ -1,0 +1,7 @@
+{
+  "name": "seenpaid",
+  "description": "Enables AI agents to schedule and manage social media posts across 25 platforms via a simple 3-tool MCP interface, including listing connected accounts and recent posts.",
+  "source_repo": "justinasrolando-cpu/seenpaid",
+  "source_url": "https://github.com/justinasrolando-cpu/seenpaid",
+  "install": "# git clone --depth 1 https://github.com/justinasrolando-cpu/seenpaid\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "at-series-mcp-hub",
+  "description": "Aggregates MCP tools from AT series IDE plugins into a single server, routing calls to plugin bridges for SSH, JumpServer, and more.",
+  "source_repo": "xwamt/at-series-mcp-hub",
+  "source_url": "https://github.com/xwamt/at-series-mcp-hub",
+  "install": "# git clone --depth 1 https://github.com/xwamt/at-series-mcp-hub\n# See source for mcpServers config block"
+}

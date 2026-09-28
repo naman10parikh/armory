@@ -1,0 +1,7 @@
+{
+  "name": "cadastral-mcp",
+  "description": "An MCP server for querying land use plans and exporting cadastral maps as DXF files using VWorld Open API from the Korean Ministry of Land, Infrastructure and Transport.",
+  "source_repo": "chanjong-ui/cadastral-mcp",
+  "source_url": "https://github.com/chanjong-ui/cadastral-mcp",
+  "install": "npx -y cadastral-mcp"
+}

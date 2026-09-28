@@ -1,0 +1,7 @@
+{
+  "name": "dsvlab-mcp",
+  "description": "Enables AI to programmatically control DS-VLAB circuit testing environment for automated testing.",
+  "source_repo": "tunmhub/dsvlab-mcp",
+  "source_url": "https://github.com/tunmhub/dsvlab-mcp",
+  "install": "npx -y dsvlab-mcp"
+}

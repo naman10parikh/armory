@@ -1,0 +1,7 @@
+{
+  "name": "metarouter-image-mcp",
+  "description": "MCP server that connects Codex or MCP clients to MetaRouter's OpenAI-compatible image generation API, enabling natural language image generation, local image editing, batch editing, and multi-reference image synthesis.",
+  "source_repo": "cimicimi9090/mcp-pic-metarouters",
+  "source_url": "https://github.com/cimicimi9090/mcp-pic-metarouters",
+  "install": "# git clone --depth 1 https://github.com/cimicimi9090/mcp-pic-metarouters\n# See source for mcpServers config block"
+}

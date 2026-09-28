@@ -1,0 +1,7 @@
+{
+  "name": "luma-vision-mcp",
+  "description": "An MCP server that adds visual understanding to text-only LLMs via image understanding, OCR, and image comparison tools, with multi-provider fallback and context-aware Focus Hint for precise descriptions.",
+  "source_repo": "harryopo/luma-vision-mcp",
+  "source_url": "https://github.com/harryopo/luma-vision-mcp",
+  "install": "npx -y luma-vision-mcp"
+}

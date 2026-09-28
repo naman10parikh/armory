@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-cadastro-centralizado-de-contribuinte-ccc",
+  "description": "Enables querying SEFAZ's centralized taxpayer registration (CCC) from the official source via a read-only tool. Pay-per-use with prepaid credits.",
+  "source_repo": "mcp-dir/sefaz_cadastro_centralizado-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_cadastro_centralizado-mcp",
+  "install": "npx -y sefaz_cadastro_centralizado-mcp"
+}

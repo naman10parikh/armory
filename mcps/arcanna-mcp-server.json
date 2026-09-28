@@ -1,6 +1,6 @@
 {
   "name": "arcanna-mcp-server",
-  "description": "Arcanna Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "siscale/arcanna-mcp-server",
   "source_url": "https://mcp.so/server/arcanna-mcp-server/siscale",
   "install": "npx -y arcanna-mcp-server"

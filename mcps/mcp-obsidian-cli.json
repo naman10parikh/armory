@@ -1,0 +1,7 @@
+{
+  "name": "mcp-obsidian-cli",
+  "description": "Enables capturing Claude conversations as Obsidian notes and searching the vault from chat, using the Obsidian CLI.",
+  "source_repo": "stonematt/mcp-obsidian-cli",
+  "source_url": "https://github.com/stonematt/mcp-obsidian-cli",
+  "install": "# git clone --depth 1 https://github.com/stonematt/mcp-obsidian-cli\n# See source for mcpServers config block"
+}

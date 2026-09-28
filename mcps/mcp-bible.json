@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bible",
+  "description": "MCP server for Bible study, providing multi-version verse lookup, keyword/semantic search, cross-references, and word studies with original language and lexicon details.",
+  "source_repo": "molpass/mcp-bible",
+  "source_url": "https://github.com/molpass/mcp-bible",
+  "install": "# git clone --depth 1 https://github.com/molpass/mcp-bible\n# See source for mcpServers config block"
+}

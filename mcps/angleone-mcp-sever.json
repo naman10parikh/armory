@@ -1,0 +1,7 @@
+{
+  "name": "angleone-mcp-sever",
+  "description": "An MCP server that exposes Angel One's SmartAPI as tools for Claude Code, enabling login, portfolio data, market quotes, historical candles, and order placement/modification/cancellation.",
+  "source_repo": "bns218/angleone-mcp-sever",
+  "source_url": "https://github.com/bns218/angleone-mcp-sever",
+  "install": "# git clone --depth 1 https://github.com/bns218/angleone-mcp-sever\n# See source for mcpServers config block"
+}

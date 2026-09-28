@@ -1,0 +1,7 @@
+{
+  "name": "lrnev",
+  "description": "AI-powered project governance engine for collaborative development with MCP server and CLI, file as source of truth, zero model dependency.",
+  "source_repo": "LuChangQiu/lrnev-govern",
+  "source_url": "https://github.com/LuChangQiu/lrnev-govern",
+  "install": "# git clone --depth 1 https://github.com/LuChangQiu/lrnev-govern\n# See source for mcpServers config block"
+}

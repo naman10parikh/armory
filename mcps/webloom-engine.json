@@ -1,0 +1,7 @@
+{
+  "name": "webloom-engine",
+  "description": "MCP server giving AI agents 86 tools for browser automation via Chrome DevTools Protocol, including navigation, click/fill ladders, network inspection, per-site cracks, and optional marketplace for site-specific knowledge packs.",
+  "source_repo": "webloomhq/engine",
+  "source_url": "https://github.com/webloomhq/engine",
+  "install": "# git clone --depth 1 https://github.com/webloomhq/engine\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codex-protocol-guardian",
+  "description": "Validates governance evidence for Codex development tasks, enforcing requirements alignment, single-active-subject candidates, executable specifications, and independent gates for traceable review packets.",
+  "source_repo": "wewq36720-cyber/agent-mcp-codex",
+  "source_url": "https://github.com/wewq36720-cyber/agent-mcp-codex",
+  "install": "# git clone --depth 1 https://github.com/wewq36720-cyber/agent-mcp-codex\n# See source for mcpServers config block"
+}

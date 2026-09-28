@@ -1,0 +1,7 @@
+{
+  "name": "spendveto",
+  "description": "Governs AI agents' spending by enforcing budgets, approvals, and kill switches before any payment, providing an MCP interface for tool calls with policy checks.",
+  "source_repo": "revanthrajeev/spendveto",
+  "source_url": "https://github.com/revanthrajeev/spendveto",
+  "install": "# git clone --depth 1 https://github.com/revanthrajeev/spendveto\n# See source for mcpServers config block"
+}

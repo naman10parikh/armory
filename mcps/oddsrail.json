@@ -1,0 +1,7 @@
+{
+  "name": "oddsrail",
+  "description": "Enables MCP-compatible AI agents to research and trade prediction markets on Polymarket and Kalshi, including market search, orderbooks, price history, positions, order routing, and on-chain builder-code attribution, plus overshoot and dispute-risk signals.",
+  "source_repo": "hmesutozsoy/oddsrail",
+  "source_url": "https://github.com/hmesutozsoy/oddsrail",
+  "install": "# git clone --depth 1 https://github.com/hmesutozsoy/oddsrail\n# See source for mcpServers config block"
+}

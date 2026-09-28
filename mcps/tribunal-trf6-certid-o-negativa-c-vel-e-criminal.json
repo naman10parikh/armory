@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trf6-certid-o-negativa-c-vel-e-criminal",
+  "description": "Provides read-only lookup of negative civil and criminal certificates from Tribunal TRF6 via an official source, with prepaid per-query pricing.",
+  "source_repo": "mcp-dir/tribunal_trf6_certidao-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trf6_certidao-mcp",
+  "install": "npx -y tribunal_trf6_certidao-mcp"
+}

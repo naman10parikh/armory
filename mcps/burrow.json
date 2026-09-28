@@ -1,0 +1,7 @@
+{
+  "name": "burrow",
+  "description": "Personal MCP hub exposing Tesla, ChargePoint, and Outlook mail as tools, enabling natural-language queries through Gemini.",
+  "source_repo": "seanahn/burrow",
+  "source_url": "https://github.com/seanahn/burrow",
+  "install": "# git clone --depth 1 https://github.com/seanahn/burrow\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hiveconsult",
+  "description": "Agent-to-agent reasoning-as-a-service providing structured reasoning, data analysis, decision support, and code/document review via REST API and MCP protocol.",
+  "source_repo": "srotzin/hiveconsult",
+  "source_url": "https://github.com/srotzin/hiveconsult",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hiveconsult\n# See source for mcpServers config block"
+}

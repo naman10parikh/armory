@@ -1,0 +1,7 @@
+{
+  "name": "escape-room-mcp",
+  "description": "An MCP server that turns any LLM into an escape room player.",
+  "source_repo": "juanma1331/escape-room-mcp",
+  "source_url": "https://github.com/juanma1331/escape-room-mcp",
+  "install": "npx -y escape-room-mcp"
+}

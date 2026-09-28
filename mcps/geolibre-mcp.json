@@ -1,0 +1,7 @@
+{
+  "name": "geolibre-mcp",
+  "description": "Provides geospatial data intelligence tools for inspecting, querying, and converting geospatial data using DuckDB Spatial.",
+  "source_repo": "89nisham/geolibre-cli",
+  "source_url": "https://github.com/89nisham/geolibre-cli",
+  "install": "# git clone --depth 1 https://github.com/89nisham/geolibre-cli\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agid-llm-ui-mcp-server",
+  "description": "MCP server to help AI assistants generate Italian PA user interfaces by providing components, recipes, accessibility rules, and validation for Bootstrap Italia and Web Components.",
+  "source_repo": "andreaderuvo/agid-llm-ui",
+  "source_url": "https://github.com/andreaderuvo/agid-llm-ui",
+  "install": "# git clone --depth 1 https://github.com/andreaderuvo/agid-llm-ui\n# See source for mcpServers config block"
+}

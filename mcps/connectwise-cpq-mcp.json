@@ -1,0 +1,7 @@
+{
+  "name": "connectwise-cpq-mcp",
+  "description": "MCP server for ConnectWise CPQ (Sell) enabling quote, line item, customer, term, template, tax code, recurring revenue, and user management via a 25-tool interface.",
+  "source_repo": "wyre-technology/connectwise-cpq-mcp",
+  "source_url": "https://github.com/wyre-technology/connectwise-cpq-mcp",
+  "install": "npx -y connectwise-cpq-mcp"
+}

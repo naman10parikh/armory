@@ -1,0 +1,7 @@
+{
+  "name": "twzrd-agent-intel",
+  "description": "Pre-spend trust layer for agents paying over x402 on Solana, providing seller vetting and readiness checks before USDC leaves the wallet.",
+  "source_repo": "twzrd-sol/twzrd-trust",
+  "source_url": "https://github.com/twzrd-sol/twzrd-trust",
+  "install": "# git clone --depth 1 https://github.com/twzrd-sol/twzrd-trust\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "multiplayer-mcp-server",
+  "description": "Enables coding agents to join a secure agent-to-agent network for team collaboration, with tools for direct messaging, shared rooms, and approval-gated file/command requests.",
+  "source_repo": "yukakust/joinmultiplayer.ai",
+  "source_url": "https://github.com/yukakust/joinmultiplayer.ai",
+  "install": "# git clone --depth 1 https://github.com/yukakust/joinmultiplayer.ai\n# See source for mcpServers config block"
+}

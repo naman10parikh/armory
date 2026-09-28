@@ -1,0 +1,7 @@
+{
+  "name": "conqueror-s-haki",
+  "description": "Prioritizes tasks by eliminating distractions, returning a ranked shortlist based on a given goal.",
+  "source_repo": "xfloukiex-lab/conquerors-haki",
+  "source_url": "https://github.com/xfloukiex-lab/conquerors-haki",
+  "install": "# git clone --depth 1 https://github.com/xfloukiex-lab/conquerors-haki\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ritn3d-mcp",
+  "description": "Enables AI agents to prepare floor plans for Ritn3D and interpret 3D outputs by providing tools for validation, complexity estimation, pricing, and failure analysis.",
+  "source_repo": "printplan3d/ritn3d-mcp",
+  "source_url": "https://github.com/printplan3d/ritn3d-mcp",
+  "install": "npx -y ritn3d-mcp"
+}

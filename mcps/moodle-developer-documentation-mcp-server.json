@@ -1,0 +1,7 @@
+{
+  "name": "moodle-developer-documentation-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides seamless access to Moodle developer documentation from moodledev.io. It enables AI assistants and other MCP clients to search, browse, and retrieve Moodle development documentation with version-specific support.",
+  "source_repo": "khairu-aqsara/moodle_dev_mcp",
+  "source_url": "https://github.com/khairu-aqsara/moodle_dev_mcp",
+  "install": "npx -y moodle_dev_mcp"
+}

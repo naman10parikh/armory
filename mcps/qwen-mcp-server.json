@@ -1,0 +1,7 @@
+{
+  "name": "qwen-mcp-server",
+  "description": "A read-only MCP server that exposes Qwen AI chat models, pricing, and official links to MCP-compatible clients without requiring API keys.",
+  "source_repo": "rocnubie/chat-mcp",
+  "source_url": "https://github.com/rocnubie/chat-mcp",
+  "install": "npx -y chat-mcp"
+}

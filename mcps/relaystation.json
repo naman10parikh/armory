@@ -1,0 +1,7 @@
+{
+  "name": "relaystation",
+  "description": "160 tools that do that heavy lifting - storage, agent-to-agent collaboration, document conversions, identity verification -- almost all priced under a tenth of a cent or less per call.",
+  "source_repo": "mmarubio1/relaystation-mcp",
+  "source_url": "https://github.com/mmarubio1/relaystation-mcp",
+  "install": "npx -y relaystation-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ucla-soc-mcp",
+  "description": "MCP server for querying the public UCLA Schedule of Classes. It provides tools to list terms, subject areas, search courses, and get detailed enrollment, waitlist, and section information.",
+  "source_repo": "aaditsingh07/ucla-soc-mcp",
+  "source_url": "https://github.com/aaditsingh07/ucla-soc-mcp",
+  "install": "npx -y ucla-soc-mcp"
+}

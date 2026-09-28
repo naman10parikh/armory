@@ -1,0 +1,7 @@
+{
+  "name": "toss-readonly-mcp",
+  "description": "A read-only MCP server exposing Toss Securities Open API tools for Korean and US stock quotes, symbol search, order books, candles, exchange rates, market calendars, rankings, and market indicators. It does not implement account access or order placement, ensuring no side effects.",
+  "source_repo": "jaywapp/toss-readonly-mcp",
+  "source_url": "https://github.com/jaywapp/toss-readonly-mcp",
+  "install": "npx -y toss-readonly-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "runapi-midjourney-mcp-server",
+  "description": "Provides AI agents with Midjourney API access for image and video generation, task polling, and pricing checks through a focused MCP server.",
+  "source_repo": "runapi-ai/midjourney-mcp",
+  "source_url": "https://github.com/runapi-ai/midjourney-mcp",
+  "install": "npx -y midjourney-mcp"
+}

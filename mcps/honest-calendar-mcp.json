@@ -1,0 +1,7 @@
+{
+  "name": "honest-calendar-mcp",
+  "description": "A local MCP server that provides read/write access to Google Calendar without data passing through third parties, enabling AI assistants to manage events directly via the Google Calendar API.",
+  "source_repo": "bartosz-kuc/honest-calendar-mcp",
+  "source_url": "https://github.com/bartosz-kuc/honest-calendar-mcp",
+  "install": "npx -y honest-calendar-mcp"
+}

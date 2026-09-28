@@ -1,0 +1,7 @@
+{
+  "name": "chatbuy-mcp",
+  "description": "A local AI shopping MCP server for Amazon.co.jp that searches products, adds them to cart, and opens the review page without automating purchase confirmation. It keeps your Amazon login confined to your machine's Chrome profile.",
+  "source_repo": "yukihamada/chatbuy-mcp",
+  "source_url": "https://github.com/yukihamada/chatbuy-mcp",
+  "install": "npx -y chatbuy-mcp"
+}

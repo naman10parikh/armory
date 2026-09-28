@@ -1,0 +1,7 @@
+{
+  "name": "parcellaunch-mcp-server",
+  "description": "Turns any US address into a cinematic 3D property listing with parcel boundary overlay. Enables creating interactive 3D flyovers and retrieving property listings directly from a conversation.",
+  "source_repo": "Dranos-Bot/parcellaunch-mcp",
+  "source_url": "https://github.com/Dranos-Bot/parcellaunch-mcp",
+  "install": "npx -y parcellaunch-mcp"
+}

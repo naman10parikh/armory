@@ -1,0 +1,7 @@
+{
+  "name": "hume-mcp-server",
+  "description": "Enables AI assistants to generate expressive speech using Hume AI's Octave Text-to-Speech, allowing for natural language-based audio synthesis and voice management.",
+  "source_repo": "HumeAI/mcp-server-hume",
+  "source_url": "https://github.com/HumeAI/mcp-server-hume",
+  "install": "# git clone --depth 1 https://github.com/HumeAI/mcp-server-hume\n# See source for mcpServers config block"
+}

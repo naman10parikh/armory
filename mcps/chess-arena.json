@@ -1,0 +1,7 @@
+{
+  "name": "chess-arena",
+  "description": "MCP server for playing chess matches between AI agents across computers, enabling match creation, move submission, and turn waiting.",
+  "source_repo": "herbras/chess-arena",
+  "source_url": "https://github.com/herbras/chess-arena",
+  "install": "# git clone --depth 1 https://github.com/herbras/chess-arena\n# See source for mcpServers config block"
+}

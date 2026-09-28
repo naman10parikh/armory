@@ -1,0 +1,7 @@
+{
+  "name": "lsp-mcp-rs",
+  "description": "A single MCP server that bridges to any LSP, enabling code intelligence features like hover, go-to-definition, references, and diagnostics for multiple languages via configurable language servers.",
+  "source_repo": "Stryk91/lsp-mcp-rs",
+  "source_url": "https://github.com/Stryk91/lsp-mcp-rs",
+  "install": "# git clone --depth 1 https://github.com/Stryk91/lsp-mcp-rs\n# See source for mcpServers config block"
+}

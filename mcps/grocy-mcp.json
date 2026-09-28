@@ -1,0 +1,7 @@
+{
+  "name": "grocy-mcp",
+  "description": "Enables AI assistants to manage household operations including groceries, inventory, chores, recipes, and shopping lists through the Grocy self-hosted ERP system.",
+  "source_repo": "rusty4444/grocy-mcp",
+  "source_url": "https://github.com/rusty4444/grocy-mcp",
+  "install": "npx -y grocy-mcp"
+}

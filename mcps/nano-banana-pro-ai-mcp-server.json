@@ -1,0 +1,7 @@
+{
+  "name": "nano-banana-pro-ai-mcp-server",
+  "description": "Exposes the Nano Banana Pro AI knowledge surface (image generation workflows, styles, pricing, FAQ, official links) to MCP-compatible AI clients such as Claude Desktop, Cursor, and Windsurf, enabling querying of image editing capabilities and pricing information without API keys.",
+  "source_repo": "Jolyland/nanobanana-mcp",
+  "source_url": "https://github.com/Jolyland/nanobanana-mcp",
+  "install": "npx -y nanobanana-mcp"
+}

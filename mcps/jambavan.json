@@ -1,0 +1,7 @@
+{
+  "name": "jambavan",
+  "description": "An MCP server that provides coding models with a live code index, inferred code graph, durable memory, and surgical tools to help them leverage their existing reasoning and coding abilities effectively.",
+  "source_repo": "beingmartinbmc/jambavan",
+  "source_url": "https://github.com/beingmartinbmc/jambavan",
+  "install": "# git clone --depth 1 https://github.com/beingmartinbmc/jambavan\n# See source for mcpServers config block"
+}

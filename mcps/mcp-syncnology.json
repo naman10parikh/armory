@@ -1,0 +1,7 @@
+{
+  "name": "mcp-syncnology",
+  "description": "MCP server enabling AI agents to manage and monitor Synology NAS via official DSM API, including file operations, system stats, backups, downloads, and camera lists.",
+  "source_repo": "humyai99/mcp-syncnology",
+  "source_url": "https://github.com/humyai99/mcp-syncnology",
+  "install": "# git clone --depth 1 https://github.com/humyai99/mcp-syncnology\n# See source for mcpServers config block"
+}

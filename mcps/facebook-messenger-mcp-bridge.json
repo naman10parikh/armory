@@ -1,0 +1,7 @@
+{
+  "name": "facebook-messenger-mcp-bridge",
+  "description": "Enables AI clients to read and send Facebook Messenger messages by using a Chrome extension to bypass anti-bot protections, providing tools like fb_list_conversations, fb_read_messages, and fb_send_message.",
+  "source_repo": "anhln-embedded/fb-mcp-server",
+  "source_url": "https://github.com/anhln-embedded/fb-mcp-server",
+  "install": "npx -y fb-mcp-server"
+}

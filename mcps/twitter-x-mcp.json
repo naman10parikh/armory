@@ -1,0 +1,7 @@
+{
+  "name": "twitter-x-mcp",
+  "description": "Enables reading public X posts, replies, and profiles, and searching X, via Rettiwt by default or the official X API.",
+  "source_repo": "granitebps/twitter-mcp",
+  "source_url": "https://github.com/granitebps/twitter-mcp",
+  "install": "npx -y twitter-mcp"
+}

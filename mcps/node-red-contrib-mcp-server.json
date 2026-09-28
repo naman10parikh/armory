@@ -1,0 +1,7 @@
+{
+  "name": "node-red-contrib-mcp-server",
+  "description": "Exposes Node-RED flows as MCP tools for AI assistants, with OAuth protection and optional admin tools for flow management.",
+  "source_repo": "flic/node-red-contrib-mcp-server",
+  "source_url": "https://github.com/flic/node-red-contrib-mcp-server",
+  "install": "npx -y node-red-contrib-mcp-server"
+}

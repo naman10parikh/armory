@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gateway-pro",
+  "description": "Unified Model Context Protocol server that bundles Slack, GitHub, Jira, PostgreSQL, Redis, AWS, webhooks, and email into one lightweight Docker container, providing a single REST API and web dashboard for AI agent integration.",
+  "source_repo": "GatewayDev450/mcp-gateway-pro",
+  "source_url": "https://github.com/GatewayDev450/mcp-gateway-pro",
+  "install": "# git clone --depth 1 https://github.com/GatewayDev450/mcp-gateway-pro\n# See source for mcpServers config block"
+}

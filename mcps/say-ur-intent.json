@@ -1,0 +1,7 @@
+{
+  "name": "say-ur-intent",
+  "description": "Local-first Sui review and evidence layer for AI clients. It enables users to review and approve Sui transactions in their own wallet after AI requests, without the AI having signing authority.",
+  "source_repo": "stelis-dev/say-ur-intent",
+  "source_url": "https://github.com/stelis-dev/say-ur-intent",
+  "install": "# git clone --depth 1 https://github.com/stelis-dev/say-ur-intent\n# See source for mcpServers config block"
+}

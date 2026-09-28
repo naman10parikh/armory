@@ -1,0 +1,7 @@
+{
+  "name": "sumo-qa",
+  "description": "An MCP server that brings senior-QA discipline to AI coding assistants, enabling test planning, TDD, mutation testing, and code review.",
+  "source_repo": "sumithr/sumo-qa",
+  "source_url": "https://github.com/sumithr/sumo-qa",
+  "install": "# git clone --depth 1 https://github.com/sumithr/sumo-qa\n# See source for mcpServers config block"
+}

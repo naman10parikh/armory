@@ -1,0 +1,7 @@
+{
+  "name": "icloud-calendar-mcp",
+  "description": "A reliable, cross-platform MCP server for Apple iCloud Calendar that provides guarded CalDAV CRUD operations, idempotent writes, ETag concurrency control, and recurrence expansion via stdio or HTTP.",
+  "source_repo": "IceyWu/icloud-calendar-mcp",
+  "source_url": "https://github.com/IceyWu/icloud-calendar-mcp",
+  "install": "npx -y icloud-calendar-mcp"
+}

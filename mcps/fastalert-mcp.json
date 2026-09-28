@@ -1,0 +1,7 @@
+{
+  "name": "fastalert-mcp",
+  "description": "Enables discovering channels and sending messages with optional title, content, action, and image via the FastAlert API.",
+  "source_repo": "Webdev3-digi/fastalert-mcp",
+  "source_url": "https://github.com/Webdev3-digi/fastalert-mcp",
+  "install": "npx -y fastalert-mcp"
+}

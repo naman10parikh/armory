@@ -1,0 +1,7 @@
+{
+  "name": "wechat-miniapp-engineering-mcp",
+  "description": "A Chinese-friendly, locally running MCP server for WeChat Mini Program engineering, helping developers break down ideas into actionable tasks, inspect projects, generate blueprints, and perform security scans.",
+  "source_repo": "lychee20000105/wechat-miniapp-engineering-mcp",
+  "source_url": "https://github.com/lychee20000105/wechat-miniapp-engineering-mcp",
+  "install": "npx -y wechat-miniapp-engineering-mcp"
+}

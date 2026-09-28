@@ -1,0 +1,7 @@
+{
+  "name": "boltzgen-mcp",
+  "description": "Enables AI-powered protein design, including binders, peptides, and custom proteins, with GPU-accelerated Docker deployment and async job management.",
+  "source_repo": "MacromNex/boltzgen_mcp",
+  "source_url": "https://github.com/MacromNex/boltzgen_mcp",
+  "install": "npx -y boltzgen_mcp"
+}

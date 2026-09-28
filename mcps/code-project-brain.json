@@ -1,0 +1,7 @@
+{
+  "name": "code-project-brain",
+  "description": "Provides AI agents with a governed, three-layer project memory (guide, code facts, and knowledge) through namespaced MCP tools for code search, context compilation, impact analysis, and proposal-driven documentation updates.",
+  "source_repo": "liyouran1109/Code-Project-Brain",
+  "source_url": "https://github.com/liyouran1109/Code-Project-Brain",
+  "install": "# git clone --depth 1 https://github.com/liyouran1109/Code-Project-Brain\n# See source for mcpServers config block"
+}

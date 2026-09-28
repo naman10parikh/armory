@@ -1,0 +1,7 @@
+{
+  "name": "discord-support-mcp",
+  "description": "Enables AI agents to manage Discord support tickets by listing, reading, replying to, renaming, and closing ticket channels, with PII redaction for self-hosted compliance.",
+  "source_repo": "jakemoshel/discord-support-mcp",
+  "source_url": "https://github.com/jakemoshel/discord-support-mcp",
+  "install": "npx -y discord-support-mcp"
+}

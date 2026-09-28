@@ -1,0 +1,7 @@
+{
+  "name": "cepim-entidades-impedidas",
+  "description": "Checks whether a private non-profit entity is listed in CEPIM (impeded from receiving public funds) using its CNPJ. Offers a read-only tool for any MCP client via HTTP.",
+  "source_repo": "mcp-dir/cepim-mcp",
+  "source_url": "https://github.com/mcp-dir/cepim-mcp",
+  "install": "npx -y cepim-mcp"
+}

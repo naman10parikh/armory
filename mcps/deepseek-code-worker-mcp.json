@@ -1,0 +1,7 @@
+{
+  "name": "deepseek-code-worker-mcp",
+  "description": "Offloads expensive code reading, editing, and checking tasks to DeepSeek through Claude Code, saving Codex main-thread tokens by 40-60%.",
+  "source_repo": "louchi1984-coder/deepseek-claude-code-worker-mcp",
+  "source_url": "https://github.com/louchi1984-coder/deepseek-claude-code-worker-mcp",
+  "install": "npx -y deepseek-claude-code-worker-mcp"
+}

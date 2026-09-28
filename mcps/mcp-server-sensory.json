@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-sensory",
+  "description": "Multi-sensory AI communication server for off-grid networks, enabling text to SSTV audio, Morse code, Braille, and more via MCP tools.",
+  "source_repo": "jaspertvdm/mcp-server-sensory",
+  "source_url": "https://github.com/jaspertvdm/mcp-server-sensory",
+  "install": "# git clone --depth 1 https://github.com/jaspertvdm/mcp-server-sensory\n# See source for mcpServers config block"
+}

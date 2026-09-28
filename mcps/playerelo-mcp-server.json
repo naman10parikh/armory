@@ -1,0 +1,7 @@
+{
+  "name": "playerelo-mcp-server",
+  "description": "Provides MCP access to PlayerElo's football analytics, including player/coach Elo ratings, match predictions, value bets, and transfer fit scores.",
+  "source_repo": "mwolters-cmyk/playerelo-mcp",
+  "source_url": "https://github.com/mwolters-cmyk/playerelo-mcp",
+  "install": "npx -y playerelo-mcp"
+}

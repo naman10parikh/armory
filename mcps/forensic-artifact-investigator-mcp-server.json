@@ -1,0 +1,7 @@
+{
+  "name": "forensic-artifact-investigator-mcp-server",
+  "description": "Enables local forensic analysis of files by orchestrating system binaries (file, exiftool, strings, Volatility) via safe subprocess execution.",
+  "source_repo": "guyoverclocked/forensic-artifact-investigator",
+  "source_url": "https://github.com/guyoverclocked/forensic-artifact-investigator",
+  "install": "# git clone --depth 1 https://github.com/guyoverclocked/forensic-artifact-investigator\n# See source for mcpServers config block"
+}

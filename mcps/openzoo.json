@@ -1,0 +1,7 @@
+{
+  "name": "openzoo",
+  "description": "Local x402-paying proxy and MCP server for openzoo.fun, enabling any OpenAI-compatible tool to pay for AI calls using a local burner wallet. It provides tools like zoo_ask for large-corpus questions, model listing, and wallet management.",
+  "source_repo": "staccDOTsol/openzoo",
+  "source_url": "https://github.com/staccDOTsol/openzoo",
+  "install": "# git clone --depth 1 https://github.com/staccDOTsol/openzoo\n# See source for mcpServers config block"
+}

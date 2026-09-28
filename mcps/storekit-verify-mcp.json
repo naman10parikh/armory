@@ -1,0 +1,7 @@
+{
+  "name": "storekit-verify-mcp",
+  "description": "Decode and cryptographically verify Apple App Store Server Notifications V2 with full ES256 signature and certificate chain validation, and explain notification types.",
+  "source_repo": "tranzen21/storekit-verify-mcp",
+  "source_url": "https://github.com/tranzen21/storekit-verify-mcp",
+  "install": "npx -y storekit-verify-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "italy-invoice-mcp",
+  "description": "Enables AI agents to issue Italian FatturaPA electronic invoices and transmit them to the SdI via Invoicetronic. Supports creating and querying invoices with Italian VAT rates.",
+  "source_repo": "junter1989k-ai/italy-invoice-mcp",
+  "source_url": "https://github.com/junter1989k-ai/italy-invoice-mcp",
+  "install": "npx -y italy-invoice-mcp"
+}

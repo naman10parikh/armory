@@ -1,0 +1,7 @@
+{
+  "name": "naitei-mcp",
+  "description": "Enables job-search application tracking through a private application board, managing application facts, stage history, and interview prep documents while leaving summarization and decision-making to the connected agent.",
+  "source_repo": "amitsap/Naitei-MCP",
+  "source_url": "https://github.com/amitsap/Naitei-MCP",
+  "install": "npx -y Naitei-MCP"
+}

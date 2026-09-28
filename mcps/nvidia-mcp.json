@@ -1,0 +1,7 @@
+{
+  "name": "nvidia-mcp",
+  "description": "Provides tools for NVIDIA NIM and Visual GenAI APIs, enabling chat completions, model listing, and image generation via NVIDIA-hosted endpoints.",
+  "source_repo": "yeominsoo/minsoo-nvidia-mcp",
+  "source_url": "https://github.com/yeominsoo/minsoo-nvidia-mcp",
+  "install": "npx -y minsoo-nvidia-mcp"
+}

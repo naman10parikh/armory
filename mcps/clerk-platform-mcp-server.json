@@ -1,0 +1,7 @@
+{
+  "name": "clerk-platform-mcp-server",
+  "description": "Enables LLMs to manage Clerk applications, domains, application transfers, instance users, JWT templates, and instance configuration via the Clerk Platform API.",
+  "source_repo": "thiskevinwang/2026-01-07-plapi-mcp",
+  "source_url": "https://github.com/thiskevinwang/2026-01-07-plapi-mcp",
+  "install": "npx -y 2026-01-07-plapi-mcp"
+}

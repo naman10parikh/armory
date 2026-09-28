@@ -1,0 +1,7 @@
+{
+  "name": "vedetta-mcp",
+  "description": "Market intelligence MCP server enabling AI agents to buy crypto sentiment reads, divergence verdicts, and analyst answers via pay-per-call x402 micropayments on Base.",
+  "source_repo": "lacryptorina/vedetta-mcp",
+  "source_url": "https://github.com/lacryptorina/vedetta-mcp",
+  "install": "npx -y vedetta-mcp"
+}

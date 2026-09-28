@@ -1,0 +1,7 @@
+{
+  "name": "trelloai",
+  "description": "Integrates Trello with Cursor AI via MCP, enabling AI to read, analyze, and manage Trello boards according to user-defined rules.",
+  "source_repo": "imanagerpms/trelloAI",
+  "source_url": "https://github.com/imanagerpms/trelloAI",
+  "install": "# git clone --depth 1 https://github.com/imanagerpms/trelloAI\n# See source for mcpServers config block"
+}

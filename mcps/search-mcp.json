@@ -1,0 +1,7 @@
+{
+  "name": "search-mcp",
+  "description": "Enables LLM-powered search with Elasticsearch, including query planning, expansion, and intelligent filtering for e-commerce.",
+  "source_repo": "piscaries/search_mcp_demo",
+  "source_url": "https://github.com/piscaries/search_mcp_demo",
+  "install": "# git clone --depth 1 https://github.com/piscaries/search_mcp_demo\n# See source for mcpServers config block"
+}

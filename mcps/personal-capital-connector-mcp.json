@@ -1,0 +1,7 @@
+{
+  "name": "personal-capital-connector-mcp",
+  "description": "Enables Claude to query Empower/Personal Capital financial accounts, net worth, transactions, and asset allocation via natural language.",
+  "source_repo": "meetv123/personal-capital-connectore-mcp",
+  "source_url": "https://github.com/meetv123/personal-capital-connectore-mcp",
+  "install": "npx -y personal-capital-connectore-mcp"
+}

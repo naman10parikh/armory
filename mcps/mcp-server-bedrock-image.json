@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-bedrock-image",
+  "description": "An MCP server that gives AI agents the ability to generate, edit, and manipulate images using Stability AI models on AWS Bedrock.",
+  "source_repo": "Yaksh36/mcp-server-bedrock-image",
+  "source_url": "https://github.com/Yaksh36/mcp-server-bedrock-image",
+  "install": "# git clone --depth 1 https://github.com/Yaksh36/mcp-server-bedrock-image\n# See source for mcpServers config block"
+}

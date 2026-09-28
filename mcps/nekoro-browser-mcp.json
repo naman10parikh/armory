@@ -1,0 +1,7 @@
+{
+  "name": "nekoro-browser-mcp",
+  "description": "MCP server for browser automation that drives Chrome via an extension, preserving login state and offering 45 tools for navigation, interaction, scraping, and screenshots.",
+  "source_repo": "zeshuochen/nekoro-browser",
+  "source_url": "https://github.com/zeshuochen/nekoro-browser",
+  "install": "# git clone --depth 1 https://github.com/zeshuochen/nekoro-browser\n# See source for mcpServers config block"
+}

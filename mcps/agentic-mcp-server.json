@@ -1,0 +1,7 @@
+{
+  "name": "agentic-mcp-server",
+  "description": "Enables a fully local multi-agent AI system with 45 specialized agents and 50 predefined workflows via MCP, powered by Ollama and requiring no internet.",
+  "source_repo": "jsxtech/agentic-mcp-server",
+  "source_url": "https://github.com/jsxtech/agentic-mcp-server",
+  "install": "npx -y agentic-mcp-server"
+}

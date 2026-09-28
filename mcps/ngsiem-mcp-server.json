@@ -1,0 +1,7 @@
+{
+  "name": "ngsiem-mcp-server",
+  "description": "Enables MCP-compatible applications to execute CrowdStrike NGSIEM security event searches with query validation and schema discovery.",
+  "source_repo": "rodkinal/cs-ngsiem-mcp",
+  "source_url": "https://github.com/rodkinal/cs-ngsiem-mcp",
+  "install": "npx -y cs-ngsiem-mcp"
+}

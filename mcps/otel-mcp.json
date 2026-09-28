@@ -1,0 +1,7 @@
+{
+  "name": "otel-mcp",
+  "description": "MCP server that gives AI agents access to your application's OpenTelemetry traces for querying, analysis, and debugging.",
+  "source_repo": "moondef/otel-mcp",
+  "source_url": "https://github.com/moondef/otel-mcp",
+  "install": "npx -y otel-mcp"
+}

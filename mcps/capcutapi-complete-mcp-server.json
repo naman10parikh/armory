@@ -1,0 +1,7 @@
+{
+  "name": "capcutapi-complete-mcp-server",
+  "description": "Enables video editing operations such as trimming, merging, adding audio/text/effects, and exporting via MCP protocol, leveraging CapCut core functionalities.",
+  "source_repo": "chenzhaohua11/CapCutAPI-Complete",
+  "source_url": "https://github.com/chenzhaohua11/CapCutAPI-Complete",
+  "install": "# git clone --depth 1 https://github.com/chenzhaohua11/CapCutAPI-Complete\n# See source for mcpServers config block"
+}

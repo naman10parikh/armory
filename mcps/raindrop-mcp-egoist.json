@@ -1,0 +1,7 @@
+{
+  "name": "raindrop-mcp-egoist",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/raindrop-mcp-egoist",
+  "install": "# git clone --depth 1 https://mcp.so/server/raindrop-mcp-egoist\n# See source for mcpServers config block"
+}

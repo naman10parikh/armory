@@ -1,0 +1,7 @@
+{
+  "name": "mcp-predicthq",
+  "description": "Wraps PredictHQ Events API to enable AI agents to query global event data through natural language, part of Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-predicthq",
+  "source_url": "https://github.com/pipeworx-io/mcp-predicthq",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-predicthq\n# See source for mcpServers config block"
+}

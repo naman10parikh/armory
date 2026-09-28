@@ -1,0 +1,7 @@
+{
+  "name": "transcript-search-v2",
+  "description": "MCP server that indexes local Claude Code transcripts and provides keyword, phrase, semantic, and date-range search, plus full context/session recall.",
+  "source_repo": "jsundquist/transcript-search-v2",
+  "source_url": "https://github.com/jsundquist/transcript-search-v2",
+  "install": "# git clone --depth 1 https://github.com/jsundquist/transcript-search-v2\n# See source for mcpServers config block"
+}

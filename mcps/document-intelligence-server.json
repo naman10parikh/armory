@@ -1,0 +1,7 @@
+{
+  "name": "document-intelligence-server",
+  "description": "Enables intelligent document processing by extracting text, classifying document types, and generating structured summaries from PDFs and images using vision LLMs.",
+  "source_repo": "KennyWayn3/document-intelligence-server",
+  "source_url": "https://github.com/KennyWayn3/document-intelligence-server",
+  "install": "# git clone --depth 1 https://github.com/KennyWayn3/document-intelligence-server\n# See source for mcpServers config block"
+}

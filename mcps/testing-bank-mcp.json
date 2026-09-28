@@ -1,0 +1,7 @@
+{
+  "name": "testing-bank-mcp",
+  "description": "An MCP router that connects to multiple PagerDuty sandbox environments for testing integrations like PD+Teams, PD+Jira, and more.",
+  "source_repo": "RFH-PDTest/testing-bank-router-mcp",
+  "source_url": "https://github.com/RFH-PDTest/testing-bank-router-mcp",
+  "install": "npx -y testing-bank-router-mcp"
+}

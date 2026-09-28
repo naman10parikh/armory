@@ -1,0 +1,7 @@
+{
+  "name": "scavio",
+  "description": "An MCP server connecting AI agents to Google, YouTube, Amazon, Walmart, TikTok, and Reddit. 21 tools for web search, product lookup, video discovery, and social media analysis.",
+  "source_repo": "scavio-ai/scavio-mcp",
+  "source_url": "https://github.com/scavio-ai/scavio-mcp",
+  "install": "npx -y scavio-mcp"
+}

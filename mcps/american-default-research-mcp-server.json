@@ -1,0 +1,7 @@
+{
+  "name": "american-default-research-mcp-server",
+  "description": "Exposes 96 economic distress indicators, the American Distress Index (ADI), and county-level distress scores for all 3,144 U.S. counties to MCP-compatible AI agents.",
+  "source_repo": "vibecode1/american-default-mcp",
+  "source_url": "https://github.com/vibecode1/american-default-mcp",
+  "install": "npx -y american-default-mcp"
+}

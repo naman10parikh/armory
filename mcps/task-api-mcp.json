@@ -1,0 +1,7 @@
+{
+  "name": "task-api-mcp",
+  "description": "Enables AI clients to create and manage tasks via a local REST API by converting natural language into HTTP requests through the Model Context Protocol.",
+  "source_repo": "yunosuke-github/task-api-mcp",
+  "source_url": "https://github.com/yunosuke-github/task-api-mcp",
+  "install": "npx -y task-api-mcp"
+}

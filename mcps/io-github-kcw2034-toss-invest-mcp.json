@@ -1,0 +1,7 @@
+{
+  "name": "io-github-kcw2034-toss-invest-mcp",
+  "description": "Enables trading and market data access for Toss Securities through natural language, with built-in trading guardrails to prevent errors.",
+  "source_repo": "kcw2034/toss-invest-mcp",
+  "source_url": "https://github.com/kcw2034/toss-invest-mcp",
+  "install": "npx -y toss-invest-mcp"
+}

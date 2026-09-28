@@ -1,0 +1,7 @@
+{
+  "name": "cad-max",
+  "description": "A safety-first foundation for connecting an MCP client to AutoCAD, currently providing read-only drawing status and health/version/capabilities tools via a Python MCP server and localhost C# bridge.",
+  "source_repo": "ling5477/CAD-MAX",
+  "source_url": "https://github.com/ling5477/CAD-MAX",
+  "install": "# git clone --depth 1 https://github.com/ling5477/CAD-MAX\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "behive",
+  "description": "Open-source research engine that extracts structured knowledge from any topic via MCP, enabling AI assistants to get verified, scored claims and entity graphs from live sources.",
+  "source_repo": "qa10devteam/behive",
+  "source_url": "https://github.com/qa10devteam/behive",
+  "install": "# git clone --depth 1 https://github.com/qa10devteam/behive\n# See source for mcpServers config block"
+}

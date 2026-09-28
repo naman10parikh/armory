@@ -1,0 +1,7 @@
+{
+  "name": "orkl-mcp-server",
+  "description": "Enables users to access and query the ORKL Threat Intelligence Library, including threat reports, threat actors, and sources, through MCP tools and resources.",
+  "source_repo": "heiths/orkl_mcp_server",
+  "source_url": "https://github.com/heiths/orkl_mcp_server",
+  "install": "npx -y orkl_mcp_server"
+}

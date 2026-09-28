@@ -1,0 +1,7 @@
+{
+  "name": "rsigma",
+  "description": "RSigma is a Rust detection-engineering toolkit for the Sigma standard. Its MCP server (rsigma mcp serve) exposes the toolchain to AI agents over stdio or Streamable HTTP, with tools to author, lint, validate, and convert Sigma rules, evaluate and explain detections against log events, and inspect co",
+  "source_repo": "timescale/rsigma",
+  "source_url": "https://github.com/timescale/rsigma",
+  "install": "# git clone --depth 1 https://github.com/timescale/rsigma\n# See source for mcpServers config block"
+}

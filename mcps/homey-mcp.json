@@ -1,0 +1,7 @@
+{
+  "name": "homey-mcp",
+  "description": "Enables AI assistants to control a Homey Pro smart home hub, create automation flows from natural language, and query device and energy history.",
+  "source_repo": "tim661811/homey-mcp",
+  "source_url": "https://github.com/tim661811/homey-mcp",
+  "install": "npx -y homey-mcp"
+}

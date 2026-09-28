@@ -1,0 +1,7 @@
+{
+  "name": "onboard-mcp",
+  "description": "Checks your local development environment for common issues like wrong Node version, missing Docker, missing git config, missing .env keys, and busy ports, and provides fixes.",
+  "source_repo": "developerpankajdixit/onboard-mcp",
+  "source_url": "https://github.com/developerpankajdixit/onboard-mcp",
+  "install": "npx -y onboard-mcp"
+}

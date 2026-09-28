@@ -1,0 +1,7 @@
+{
+  "name": "cowork-media-mcp",
+  "description": "Lets Claude Cowork/Desktop generate images via Gemini Flash Image and videos via Google Veo through plain language requests.",
+  "source_repo": "BimRoss/cowork-media-mcp",
+  "source_url": "https://github.com/BimRoss/cowork-media-mcp",
+  "install": "npx -y cowork-media-mcp"
+}

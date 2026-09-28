@@ -1,0 +1,7 @@
+{
+  "name": "safe-sql-mcp",
+  "description": "Enables read-only SQL database access for AI assistants, allowing schema exploration and safe query execution without risk of data modification.",
+  "source_repo": "ahmedabdirahman1-max/safe-sql-mcp",
+  "source_url": "https://github.com/ahmedabdirahman1-max/safe-sql-mcp",
+  "install": "npx -y safe-sql-mcp"
+}

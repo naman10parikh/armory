@@ -1,0 +1,7 @@
+{
+  "name": "goalie-trademark-mcp",
+  "description": "Not another TSDR wrapper. Most trademark MCP servers wrap the USPTO's TSDR endpoint, which returns a single record when you already know its serial or registration number. Ours searches and filters the whole register. Your agent can find the marks it doesn't already have the numbers for.",
+  "source_repo": "goalie-mcp/trademark-mcp",
+  "source_url": "https://github.com/goalie-mcp/trademark-mcp",
+  "install": "npx -y trademark-mcp"
+}

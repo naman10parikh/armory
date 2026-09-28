@@ -1,0 +1,7 @@
+{
+  "name": "receita-federal-pgfn-cnd-federal-segunda-via",
+  "description": "Consulta a segunda via da Certidão Negativa de Débitos (CND) Federal da PGFN em fonte oficial, com acesso somente leitura via MCP.",
+  "source_repo": "mcp-dir/receita_federal_pgfn_2via-mcp",
+  "source_url": "https://github.com/mcp-dir/receita_federal_pgfn_2via-mcp",
+  "install": "npx -y receita_federal_pgfn_2via-mcp"
+}

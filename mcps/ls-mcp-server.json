@@ -1,0 +1,7 @@
+{
+  "name": "ls-mcp-server",
+  "description": "Enables SQL query execution and knowledge base search via RAG agent through two tools.",
+  "source_repo": "yuvraj9056/ls-mcp-server",
+  "source_url": "https://github.com/yuvraj9056/ls-mcp-server",
+  "install": "npx -y ls-mcp-server"
+}

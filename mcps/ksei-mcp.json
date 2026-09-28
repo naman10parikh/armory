@@ -1,0 +1,7 @@
+{
+  "name": "ksei-mcp",
+  "description": "An unofficial MCP server for accessing KSEI (AKSes) portfolio data, including cash balances, equity holdings, mutual funds, bonds, and other investments.",
+  "source_repo": "nichsedge/ksei-mcp",
+  "source_url": "https://github.com/nichsedge/ksei-mcp",
+  "install": "npx -y ksei-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "anomalia-mcp-server",
+  "description": "Enables AI agents to automate social media content generation, approval, and publishing, along with blog management, SEO/GEO audits, and ad operations through natural language.",
+  "source_repo": "andreabuttarelli/anomalia-cli",
+  "source_url": "https://github.com/andreabuttarelli/anomalia-cli",
+  "install": "# git clone --depth 1 https://github.com/andreabuttarelli/anomalia-cli\n# See source for mcpServers config block"
+}

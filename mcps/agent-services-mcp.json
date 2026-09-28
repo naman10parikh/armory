@@ -1,0 +1,7 @@
+{
+  "name": "agent-services-mcp",
+  "description": "A thin MCP server that wraps provenance-receipts and quality-gate services as tools, enabling AI agents to certify content origin and score quality via Ed25519-signed receipts.",
+  "source_repo": "Gareth1953/agent-services-mcp",
+  "source_url": "https://github.com/Gareth1953/agent-services-mcp",
+  "install": "npx -y agent-services-mcp"
+}

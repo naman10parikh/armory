@@ -1,0 +1,7 @@
+{
+  "name": "aha-mcp",
+  "description": "Integrates with Aha.io product management platform, enabling offline data synchronization, semantic search, and workflow automation via natural language.",
+  "source_repo": "cedricziel/aha-mcp",
+  "source_url": "https://github.com/cedricziel/aha-mcp",
+  "install": "npx -y aha-mcp"
+}

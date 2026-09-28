@@ -1,0 +1,7 @@
+{
+  "name": "codebrain-mcp-server",
+  "description": "Enables semantic code search across codebases using AI embeddings and vector similarity, integrated with Claude Desktop and Cursor.",
+  "source_repo": "candrle20/codebrain",
+  "source_url": "https://github.com/candrle20/codebrain",
+  "install": "# git clone --depth 1 https://github.com/candrle20/codebrain\n# See source for mcpServers config block"
+}

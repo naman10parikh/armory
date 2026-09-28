@@ -1,0 +1,7 @@
+{
+  "name": "fpl-mcp-server",
+  "description": "Provides tools and resources to interact with the Fantasy Premier League API, enabling player analysis, fixture insights, and team management through natural language.",
+  "source_repo": "OMauriStkOne/fpl-mcp-server",
+  "source_url": "https://github.com/OMauriStkOne/fpl-mcp-server",
+  "install": "npx -y fpl-mcp-server"
+}

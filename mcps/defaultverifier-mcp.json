@@ -1,0 +1,7 @@
+{
+  "name": "defaultverifier-mcp",
+  "description": "Verifies signed SAR v0.1 settlement receipts offline using Ed25519 signatures and bundled key registry.",
+  "source_repo": "nutstrut/defaultverifier-mcp",
+  "source_url": "https://github.com/nutstrut/defaultverifier-mcp",
+  "install": "npx -y defaultverifier-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "workspace-mcp",
+  "description": "Full natural language control over Google Calendar, Drive, Gmail, Docs, Sheets, Slides, Forms, Tasks, Contacts, and Chat through MCP clients.",
+  "source_repo": "theolefort-cyber/mcpworkspace",
+  "source_url": "https://github.com/theolefort-cyber/mcpworkspace",
+  "install": "# git clone --depth 1 https://github.com/theolefort-cyber/mcpworkspace\n# See source for mcpServers config block"
+}

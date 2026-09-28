@@ -1,0 +1,7 @@
+{
+  "name": "shadowshield-mcp",
+  "description": "A local-first MCP server that reduces LLM token usage by intercepting, deduplicating, compressing, and optimizing MCP tool calls and responses.",
+  "source_repo": "Mahesh8214/ShadowShield-MCP",
+  "source_url": "https://github.com/Mahesh8214/ShadowShield-MCP",
+  "install": "npx -y ShadowShield-MCP"
+}

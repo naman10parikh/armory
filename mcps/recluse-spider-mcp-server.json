@@ -1,0 +1,7 @@
+{
+  "name": "recluse-spider-mcp-server",
+  "description": "Enables autonomous web-contract verification through MCP tools for planning, classifying, checking, and recording bug patterns, with access to a shared community corpus that strengthens collective detection.",
+  "source_repo": "vinsenzo83/recluse",
+  "source_url": "https://github.com/vinsenzo83/recluse",
+  "install": "# git clone --depth 1 https://github.com/vinsenzo83/recluse\n# See source for mcpServers config block"
+}

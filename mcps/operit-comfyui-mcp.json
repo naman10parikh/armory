@@ -1,0 +1,7 @@
+{
+  "name": "operit-comfyui-mcp",
+  "description": "A local MCP server that enables AI assistants to control ComfyUI on a computer for image generation via Operit on a mobile device.",
+  "source_repo": "MengXinSu/operit-comfyui-mcp",
+  "source_url": "https://github.com/MengXinSu/operit-comfyui-mcp",
+  "install": "npx -y operit-comfyui-mcp"
+}

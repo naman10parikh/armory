@@ -1,0 +1,7 @@
+{
+  "name": "botduachuot-mcp",
+  "description": "MCP server that enables ChatGPT to read/write files, run commands, and perform offline investigation tasks (geo, forensics, OSINT) on the host machine, scoped to a workspace with OPSEC controls.",
+  "source_repo": "cornhub69-x/botduachuot_mcp",
+  "source_url": "https://github.com/cornhub69-x/botduachuot_mcp",
+  "install": "npx -y botduachuot_mcp"
+}

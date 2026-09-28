@@ -1,0 +1,7 @@
+{
+  "name": "agent-mesh-mcp",
+  "description": "Enables inter-agent communication via RabbitMQ, allowing agents to ask and answer questions routed by topic.",
+  "source_repo": "openbiocure/agent-mesh-mcp",
+  "source_url": "https://github.com/openbiocure/agent-mesh-mcp",
+  "install": "npx -y agent-mesh-mcp"
+}

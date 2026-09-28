@@ -1,0 +1,7 @@
+{
+  "name": "civicapi-mcp",
+  "description": "MCP server for civicAPI that provides live and historical election results worldwide with tools for searching races, retrieving race details and history, and accessing election dates and API status.",
+  "source_repo": "neel-kumar-v/civicapi-mcp",
+  "source_url": "https://github.com/neel-kumar-v/civicapi-mcp",
+  "install": "npx -y civicapi-mcp"
+}

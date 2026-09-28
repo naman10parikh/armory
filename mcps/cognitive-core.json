@@ -1,0 +1,7 @@
+{
+  "name": "cognitive-core",
+  "description": "Enables AI agents with persistent, multi-layer memory, multi-agent collaboration rooms, and video generation, all accessible via MCP tools.",
+  "source_repo": "mocartlex-wq/cognitive-core",
+  "source_url": "https://github.com/mocartlex-wq/cognitive-core",
+  "install": "# git clone --depth 1 https://github.com/mocartlex-wq/cognitive-core\n# See source for mcpServers config block"
+}

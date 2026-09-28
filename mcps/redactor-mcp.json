@@ -1,0 +1,7 @@
+{
+  "name": "redactor-mcp",
+  "description": "Wraps AWS Comprehend for PII detection and redaction, allowing users to upload files and remove PII via natural language in Claude Desktop.",
+  "source_repo": "jarrettmeyer/redactor-mcp",
+  "source_url": "https://github.com/jarrettmeyer/redactor-mcp",
+  "install": "npx -y redactor-mcp"
+}

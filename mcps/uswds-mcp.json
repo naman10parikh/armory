@@ -1,0 +1,7 @@
+{
+  "name": "uswds-mcp",
+  "description": "Provides AI coding tools with structured access to U.S. Web Design System components, patterns, templates, and accessibility guidance for building government websites.",
+  "source_repo": "bibekpdl/uswds-mcp",
+  "source_url": "https://github.com/bibekpdl/uswds-mcp",
+  "install": "npx -y uswds-mcp"
+}

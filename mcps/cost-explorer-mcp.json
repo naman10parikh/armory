@@ -1,0 +1,7 @@
+{
+  "name": "cost-explorer-mcp",
+  "description": "Estimates Claude API costs with interactive sliders, live comparison across five models, and returns the selected model to the conversation.",
+  "source_repo": "theaidrill/cost-explorer-mcp",
+  "source_url": "https://github.com/theaidrill/cost-explorer-mcp",
+  "install": "npx -y cost-explorer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "public-data-portal-mcp",
+  "description": "Enables querying and scanning Korean public procurement and bidding data from multiple agencies (e.g., 나라장터, 방위사업청) through MCP tools, with deduplication and filtering handled externally.",
+  "source_repo": "Sejin-Koo/public-data-portal-mcp",
+  "source_url": "https://github.com/Sejin-Koo/public-data-portal-mcp",
+  "install": "npx -y public-data-portal-mcp"
+}

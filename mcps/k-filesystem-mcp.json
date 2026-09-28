@@ -1,0 +1,7 @@
+{
+  "name": "k-filesystem-mcp",
+  "description": "A tuned filesystem MCP server for Codex-style development, offering fast file operations, bounded output, and safe edits.",
+  "source_repo": "3mzKK/k-filesystem-mcp",
+  "source_url": "https://github.com/3mzKK/k-filesystem-mcp",
+  "install": "npx -y k-filesystem-mcp"
+}

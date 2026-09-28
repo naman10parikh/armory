@@ -1,0 +1,7 @@
+{
+  "name": "spotify-library-mcp",
+  "description": "Enables you to manage your personal Spotify library from Claude or a CLI, including organizing playlists, merging and deleting playlists, saving tracks, searching with artist verification, and querying top tracks, artists, and recently played items.",
+  "source_repo": "oliver-virt/spotify-library-mcp",
+  "source_url": "https://github.com/oliver-virt/spotify-library-mcp",
+  "install": "npx -y spotify-library-mcp"
+}

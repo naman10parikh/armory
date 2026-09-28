@@ -1,0 +1,7 @@
+{
+  "name": "pdf-letter-mcp",
+  "description": "Local MCP server that generates print-ready PDF letters with DIN 5008 compliant address positioning for window envelopes, handling structured content offline without external APIs.",
+  "source_repo": "bitterdev/pdf-letter-mcp",
+  "source_url": "https://github.com/bitterdev/pdf-letter-mcp",
+  "install": "npx -y pdf-letter-mcp"
+}

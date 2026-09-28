@@ -1,0 +1,7 @@
+{
+  "name": "ashby-jobs",
+  "description": "Search and browse any company's public Ashby job board from Claude Code.",
+  "source_repo": "Abhinav-Sriharsha/ashby-jobs-mcp",
+  "source_url": "https://github.com/Abhinav-Sriharsha/ashby-jobs-mcp",
+  "install": "npx -y ashby-jobs-mcp"
+}

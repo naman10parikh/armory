@@ -1,0 +1,7 @@
+{
+  "name": "classnotes-mcp",
+  "description": "Enables Claude Desktop to manage an Obsidian vault and automatically convert class recordings into structured study notes using local AI tools.",
+  "source_repo": "zerocris13/classnotes-mcp",
+  "source_url": "https://github.com/zerocris13/classnotes-mcp",
+  "install": "npx -y classnotes-mcp"
+}

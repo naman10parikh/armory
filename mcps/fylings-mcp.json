@@ -1,0 +1,7 @@
+{
+  "name": "fylings-mcp",
+  "description": "Search, verify and screen over 1 million African companies across 18 official government registries, along with the public contracts they have won and OFAC/UN sanctions screening. Every result carries its registry source, date and a confidence signal, and the server returns nulls rather than fabrica",
+  "source_repo": "HeyZod/fylings-mcp",
+  "source_url": "https://github.com/HeyZod/fylings-mcp",
+  "install": "npx -y fylings-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tavily-search-mcp-server",
+  "description": "Provides advanced web search, content extraction, site crawling, mapping, and AI-powered research capabilities through the Tavily API with automatic multi-key fallback for rate limiting.",
+  "source_repo": "online111111/tavily-search-mcp-server",
+  "source_url": "https://github.com/online111111/tavily-search-mcp-server",
+  "install": "npx -y tavily-search-mcp-server"
+}

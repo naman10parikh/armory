@@ -1,0 +1,7 @@
+{
+  "name": "shack-mcp",
+  "description": "An MCP server that lets an LLM operate an amateur radio shack: query live APRS traffic, predict satellite passes, schedule SDR captures, and monitor FT8/WSPR band activity.",
+  "source_repo": "alphamonkey/shack-mcp",
+  "source_url": "https://github.com/alphamonkey/shack-mcp",
+  "install": "npx -y shack-mcp"
+}

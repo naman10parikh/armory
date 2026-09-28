@@ -1,0 +1,7 @@
+{
+  "name": "resend-email-mcp",
+  "description": "The most complete Resend MCP server — full coverage of the Resend API (emails, domains, contacts, broadcasts, templates, segments, topics, webhooks, logs) plus a unique debug/diagnostics layer no other Resend MCP offers: deliverability analysis, DNS troubleshooting, email lifecycle inspection, bounc",
+  "source_repo": "helbertparanhos/resend-email-mcp",
+  "source_url": "https://github.com/helbertparanhos/resend-email-mcp",
+  "install": "npx -y resend-email-mcp"
+}

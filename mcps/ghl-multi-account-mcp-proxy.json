@@ -1,0 +1,7 @@
+{
+  "name": "ghl-multi-account-mcp-proxy",
+  "description": "A unified MCP server that manages multiple GoHighLevel (JONSON) accounts, enabling Claude to schedule posts and manage social media accounts for different clients through a single connection.",
+  "source_repo": "goni-b/jonson-mcp-connector",
+  "source_url": "https://github.com/goni-b/jonson-mcp-connector",
+  "install": "# git clone --depth 1 https://github.com/goni-b/jonson-mcp-connector\n# See source for mcpServers config block"
+}

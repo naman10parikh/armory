@@ -1,0 +1,7 @@
+{
+  "name": "xiaozhi-windows-mcp-agent-bridge",
+  "description": "Enables ESP32 XiaoZhi voice devices to command a Windows PC via MCP, including app control, file operations, screen vision, browser interaction, shell execution, and orchestration of local AI coding agents like Codex CLI and Claude Code.",
+  "source_repo": "Joho6666/xiaozhi-windows-agent",
+  "source_url": "https://github.com/Joho6666/xiaozhi-windows-agent",
+  "install": "# git clone --depth 1 https://github.com/Joho6666/xiaozhi-windows-agent\n# See source for mcpServers config block"
+}

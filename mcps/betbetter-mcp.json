@@ -1,0 +1,7 @@
+{
+  "name": "betbetter-mcp",
+  "description": "Provides AI assistants with sports model win probabilities and fair odds across nine sports without requiring an API key.",
+  "source_repo": "edushinka/betbetter-mcp",
+  "source_url": "https://github.com/edushinka/betbetter-mcp",
+  "install": "npx -y betbetter-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vision-augment",
+  "description": "Enables non-vision LLMs to understand images, extract text via OCR, and parse documents through a unified MCP interface, with local-first processing and optional OpenAI-compatible channels.",
+  "source_repo": "CaoMeiYouRen/vision-augment",
+  "source_url": "https://github.com/CaoMeiYouRen/vision-augment",
+  "install": "# git clone --depth 1 https://github.com/CaoMeiYouRen/vision-augment\n# See source for mcpServers config block"
+}

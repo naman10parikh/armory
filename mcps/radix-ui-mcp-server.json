@@ -1,0 +1,7 @@
+{
+  "name": "radix-ui-mcp-server",
+  "description": "Enables AI assistants to access and work with Radix UI libraries (Themes, Primitives, Colors) by retrieving components, documentation, and installation guides through the Model Context Protocol.",
+  "source_repo": "gianpieropuleo/radix-mcp-server",
+  "source_url": "https://github.com/gianpieropuleo/radix-mcp-server",
+  "install": "npx -y radix-mcp-server"
+}

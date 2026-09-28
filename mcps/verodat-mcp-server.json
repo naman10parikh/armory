@@ -1,0 +1,7 @@
+{
+  "name": "verodat-mcp-server",
+  "description": "Enables AI systems to manage Verodat accounts, workspaces, and datasets, including creating datasets, querying data, and executing AI-powered queries through natural language.",
+  "source_repo": "mcpflow/verodat-mcp-server",
+  "source_url": "https://github.com/mcpflow/verodat-mcp-server",
+  "install": "npx -y verodat-mcp-server"
+}

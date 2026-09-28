@@ -1,0 +1,7 @@
+{
+  "name": "minecraft-rcon-mcp",
+  "description": "Exposes Minecraft server commands via RCON as a tool, and optionally powers an in-game AI chat listener that answers player questions using Claude.",
+  "source_repo": "scotteratigan/minecraft-rcon-mcp",
+  "source_url": "https://github.com/scotteratigan/minecraft-rcon-mcp",
+  "install": "npx -y minecraft-rcon-mcp"
+}

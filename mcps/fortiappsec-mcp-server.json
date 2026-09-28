@@ -1,0 +1,7 @@
+{
+  "name": "fortiappsec-mcp-server",
+  "description": "MCP server for managing Fortinet FortiAppSec (WAF as a Service) via AI agents. Supports listing, creating, and deleting WAF applications and templates.",
+  "source_repo": "jmvigueras/mcp-fortiappsec-server",
+  "source_url": "https://github.com/jmvigueras/mcp-fortiappsec-server",
+  "install": "# git clone --depth 1 https://github.com/jmvigueras/mcp-fortiappsec-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gladia",
+  "description": "Enables LLMs to transcribe, analyze, and translate audio/video content through Gladia's API.",
+  "source_repo": "gladiaio/mcp-gladia",
+  "source_url": "https://github.com/gladiaio/mcp-gladia",
+  "install": "# git clone --depth 1 https://github.com/gladiaio/mcp-gladia\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "puppet-enterprise-mcp-server",
+  "description": "Exposes the full Puppet Enterprise API to AI assistants, enabling management of Puppet infrastructure through natural language.",
+  "source_repo": "TheDevFactory/puppet-mcp",
+  "source_url": "https://github.com/TheDevFactory/puppet-mcp",
+  "install": "npx -y puppet-mcp"
+}

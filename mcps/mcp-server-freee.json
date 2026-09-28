@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-freee",
+  "description": "Enables AI agents to interact with the freee accounting API, offering tools for managing deals, invoices, partners, trial balance, and more via natural language.",
+  "source_repo": "wengbin21/mcp-server-freee",
+  "source_url": "https://github.com/wengbin21/mcp-server-freee",
+  "install": "# git clone --depth 1 https://github.com/wengbin21/mcp-server-freee\n# See source for mcpServers config block"
+}

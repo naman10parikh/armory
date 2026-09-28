@@ -1,0 +1,7 @@
+{
+  "name": "huawei-cloud-mcp-servers",
+  "description": "Provides MCP servers for managing Huawei Cloud ECS, CodeArts Pipeline, and CTS audit logs with unified JWT authentication and role-based access control.",
+  "source_repo": "lexcodee/huaweicloud-mcp-server",
+  "source_url": "https://github.com/lexcodee/huaweicloud-mcp-server",
+  "install": "npx -y huaweicloud-mcp-server"
+}

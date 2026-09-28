@@ -1,0 +1,7 @@
+{
+  "name": "s3-mcp-server",
+  "description": "This server enables interaction with Amazon S3 buckets for listing and retrieving objects, with efficient streaming for large files like PDFs, through the Model Context Protocol.",
+  "source_repo": "Geun-Oh/s3-mcp-server",
+  "source_url": "https://github.com/Geun-Oh/s3-mcp-server",
+  "install": "npx -y s3-mcp-server"
+}

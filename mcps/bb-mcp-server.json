@@ -1,0 +1,7 @@
+{
+  "name": "bb-mcp-server",
+  "description": "An MCP server for Bitbucket Cloud that enables reading and managing pull requests, comments, and descriptions via MCP clients.",
+  "source_repo": "donchoko/bb-mcp-server",
+  "source_url": "https://github.com/donchoko/bb-mcp-server",
+  "install": "npx -y bb-mcp-server"
+}

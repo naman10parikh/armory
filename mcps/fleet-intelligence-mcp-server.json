@@ -1,0 +1,7 @@
+{
+  "name": "fleet-intelligence-mcp-server",
+  "description": "Connects an LLM to your fleet of clusters via ACM or Multicluster Global Hub, enabling queries about fleet health, unhealthy clusters, and detailed cluster conditions.",
+  "source_repo": "rohit-bharmal/fleet-intelligence-mcp-server",
+  "source_url": "https://github.com/rohit-bharmal/fleet-intelligence-mcp-server",
+  "install": "npx -y fleet-intelligence-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tcu-licitante-inid-neo",
+  "description": "Provides negative certificate of ineligible bidder from TCU for a person or company using CPF or CNPJ. Hosted on the platform, no credentials required, pay per query with prepaid credits.",
+  "source_repo": "mcp-dir/tcu_inidoneo-mcp",
+  "source_url": "https://github.com/mcp-dir/tcu_inidoneo-mcp",
+  "install": "npx -y tcu_inidoneo-mcp"
+}

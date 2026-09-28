@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-nantes",
+  "description": "Enables AI agents to search and query Nantes Métropole open data datasets (mobility, urban services, environment, geography) using natural language and SQL-like filters.",
+  "source_repo": "pipeworx-io/mcp-data-nantes",
+  "source_url": "https://github.com/pipeworx-io/mcp-data-nantes",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-data-nantes\n# See source for mcpServers config block"
+}

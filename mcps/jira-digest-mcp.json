@@ -1,0 +1,7 @@
+{
+  "name": "jira-digest-mcp",
+  "description": "MCP server for querying resolved Jira tickets across multiple Atlassian Cloud sites, enabling executive summarization of development activity.",
+  "source_repo": "rprouse/jira-digest-mcp",
+  "source_url": "https://github.com/rprouse/jira-digest-mcp",
+  "install": "npx -y jira-digest-mcp"
+}

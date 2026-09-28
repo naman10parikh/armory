@@ -1,0 +1,7 @@
+{
+  "name": "macos-office-365-mcp-server",
+  "description": "Enables AI assistants to create and manipulate Microsoft Office documents (PowerPoint, Word, Excel) on macOS via AppleScript automation.",
+  "source_repo": "iflow-mcp/vairpower-macos-office365-mcp-server",
+  "source_url": "https://github.com/iflow-mcp/vairpower-macos-office365-mcp-server",
+  "install": "npx -y vairpower-macos-office365-mcp-server"
+}

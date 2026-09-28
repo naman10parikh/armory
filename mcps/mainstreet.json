@@ -1,0 +1,7 @@
+{
+  "name": "mainstreet",
+  "description": "Onchain AI-agent reputation oracle on Base. Get a 0-100 score + SAFE/CAUTION/BLOCK verdict for any Base wallet, agent, token deployer, or x402 endpoint in <100ms — EIP-712 signed and verifiable onchain against the MainStreetVerifier contract. ERC-8004 + x402 + 19 MCP tools to preflight, verify, scor",
+  "source_repo": "",
+  "source_url": "https://avisradar-production.up.railway.app/mainstreet.html",
+  "install": "# git clone --depth 1 https://avisradar-production.up.railway.app/mainstreet.html\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tv-history",
+  "description": "MCP server for historical asset analysis using tvDatafeed and cached CSV files. Enables fetching OHLCV bars, candlestick charts, and trade execution data for TradingView-style assets.",
+  "source_repo": "yar822/tv_history_mcp",
+  "source_url": "https://github.com/yar822/tv_history_mcp",
+  "install": "npx -y tv_history_mcp"
+}

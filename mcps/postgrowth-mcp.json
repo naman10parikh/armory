@@ -1,0 +1,7 @@
+{
+  "name": "postgrowth-mcp",
+  "description": "MCP server that acts as a shim between Claude and the PostGrowth API, exposing seven tools to list clients, manage posts, and handle ClickUp tasks and media uploads. It translates MCP calls into authenticated HTTP requests, keeping business rules and credentials on the server side.",
+  "source_repo": "praticacontroller-pixel/postgrowth-mcp",
+  "source_url": "https://github.com/praticacontroller-pixel/postgrowth-mcp",
+  "install": "npx -y postgrowth-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "building-standards-act-mcp",
+  "description": "Provides real-time access to Japanese building standards laws and regulations from e-Gov API, helping prevent AI hallucinations by validating citations against original legal texts.",
+  "source_repo": "Sora-bluesky/building-standards-act-mcp",
+  "source_url": "https://github.com/Sora-bluesky/building-standards-act-mcp",
+  "install": "npx -y building-standards-act-mcp"
+}

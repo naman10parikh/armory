@@ -1,0 +1,7 @@
+{
+  "name": "lifelogmcp",
+  "description": "An MCP server for reading Obsidian Daily Notes and listing incomplete tasks from the Daily Note's task list, enabling natural language queries of daily logs and remaining tasks.",
+  "source_repo": "ogawatakahisa/LifeLogMCP",
+  "source_url": "https://github.com/ogawatakahisa/LifeLogMCP",
+  "install": "# git clone --depth 1 https://github.com/ogawatakahisa/LifeLogMCP\n# See source for mcpServers config block"
+}

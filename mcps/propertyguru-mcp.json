@@ -1,0 +1,7 @@
+{
+  "name": "propertyguru-mcp",
+  "description": "Unofficial MCP server that exposes PropertyGuru Singapore & Malaysia property listing search as MCP tools, returning detailed listing data without an API key.",
+  "source_repo": "kkukoo/propertyguru-mcp",
+  "source_url": "https://github.com/kkukoo/propertyguru-mcp",
+  "install": "npx -y propertyguru-mcp"
+}

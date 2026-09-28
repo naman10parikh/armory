@@ -1,0 +1,7 @@
+{
+  "name": "docflow-mcp-server",
+  "description": "Serves documentation for Git repositories via MCP, providing tools to search docs, retrieve feature details, WIP status, and full context. Enables LLM agents to access human and LLM-optimized documentation through stdio or SSE transports.",
+  "source_repo": "debjit/docflow",
+  "source_url": "https://github.com/debjit/docflow",
+  "install": "# git clone --depth 1 https://github.com/debjit/docflow\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wts-bupt-unofficial-mcp",
+  "description": "Unofficial MCP server for BUPT mobile academic system, enabling querying of today's empty classrooms, course schedules, and combined overview.",
+  "source_repo": "Nemoyuzx/WTS-bupt-unOfficial-mcp",
+  "source_url": "https://github.com/Nemoyuzx/WTS-bupt-unOfficial-mcp",
+  "install": "npx -y WTS-bupt-unOfficial-mcp"
+}

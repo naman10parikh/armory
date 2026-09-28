@@ -1,0 +1,7 @@
+{
+  "name": "company-brain-mcp",
+  "description": "Enables AI agents to query and manage company knowledge from a Supabase GraphRAG store, including accounts, meetings, people, org hierarchy, product docs, and call logs.",
+  "source_repo": "vanshsohi-zenduit/company-brain-mcp",
+  "source_url": "https://github.com/vanshsohi-zenduit/company-brain-mcp",
+  "install": "npx -y company-brain-mcp"
+}

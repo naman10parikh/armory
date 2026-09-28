@@ -1,0 +1,7 @@
+{
+  "name": "getir-mcp",
+  "description": "MCP server for Getir partner API (Turkey). Manage orders, products, pricing, and store status for your Getir restaurant via Bearer token authentication.",
+  "source_repo": "theYahia/getir-mcp",
+  "source_url": "https://github.com/theYahia/getir-mcp",
+  "install": "npx -y getir-mcp"
+}

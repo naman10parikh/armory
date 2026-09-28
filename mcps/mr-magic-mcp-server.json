@@ -1,0 +1,7 @@
+{
+  "name": "mr-magic-mcp-server",
+  "description": "Bridges multiple lyrics providers (LRCLIB, Genius, Musixmatch, Melon) into a single toolchain accessible via MCP, HTTP, or CLI.",
+  "source_repo": "mrnajiboy/mr-magic-mcp-server",
+  "source_url": "https://github.com/mrnajiboy/mr-magic-mcp-server",
+  "install": "npx -y mr-magic-mcp-server"
+}

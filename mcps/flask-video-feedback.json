@@ -1,0 +1,7 @@
+{
+  "name": "flask-video-feedback",
+  "description": "Video feedback for AI agents via Flask (flask.do). Agents upload renders for human review and get the feedback back as transcribed, timestamped comments over MCP, with annotated frames and versioned revisions.",
+  "source_repo": "tryflask/skills",
+  "source_url": "https://github.com/tryflask/skills",
+  "install": "# git clone --depth 1 https://github.com/tryflask/skills\n# See source for mcpServers config block"
+}

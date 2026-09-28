@@ -1,0 +1,7 @@
+{
+  "name": "supabase-model-context-protocol-server",
+  "description": "MCP server for exploring and querying Supabase databases with interactive React widgets for schema browsing, table viewing, and SQL execution.",
+  "source_repo": "andrewkorot/supabase-model-context-protocol-server",
+  "source_url": "https://github.com/andrewkorot/supabase-model-context-protocol-server",
+  "install": "# git clone --depth 1 https://github.com/andrewkorot/supabase-model-context-protocol-server\n# See source for mcpServers config block"
+}

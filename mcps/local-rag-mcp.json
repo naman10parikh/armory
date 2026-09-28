@@ -1,0 +1,7 @@
+{
+  "name": "local-rag-mcp",
+  "description": "A RAG knowledge base MCP server using FastMCP and LanceDB, enabling hybrid search, document ingestion, and full MCP tool/resource/prompt support.",
+  "source_repo": "junchenghe01/local-rag-mcp",
+  "source_url": "https://github.com/junchenghe01/local-rag-mcp",
+  "install": "npx -y local-rag-mcp"
+}

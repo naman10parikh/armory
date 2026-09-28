@@ -1,0 +1,7 @@
+{
+  "name": "mcp-traject-ecommerce",
+  "description": "Enables access to ecommerce data from Amazon (via Rainforest API) and Walmart (via BlueCart API) through an MCP server, part of the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-traject-ecommerce",
+  "source_url": "https://github.com/pipeworx-io/mcp-traject-ecommerce",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-traject-ecommerce\n# See source for mcpServers config block"
+}

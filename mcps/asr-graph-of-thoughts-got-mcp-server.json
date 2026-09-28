@@ -1,0 +1,7 @@
+{
+  "name": "asr-graph-of-thoughts-got-mcp-server",
+  "description": "Enables sophisticated reasoning workflows using graph-based representations for AI models.",
+  "source_repo": "SaptaDey/Graph-of-Thought-MCP",
+  "source_url": "https://github.com/SaptaDey/Graph-of-Thought-MCP",
+  "install": "npx -y Graph-of-Thought-MCP"
+}

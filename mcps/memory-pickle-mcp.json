@@ -1,0 +1,7 @@
+{
+  "name": "memory-pickle-mcp",
+  "description": "Project management and session memory for AI agents that provides 13 tools for tracking projects, tasks, and context during AI coding sessions.",
+  "source_repo": "Justar96/memory-pickle",
+  "source_url": "https://github.com/Justar96/memory-pickle",
+  "install": "# git clone --depth 1 https://github.com/Justar96/memory-pickle\n# See source for mcpServers config block"
+}

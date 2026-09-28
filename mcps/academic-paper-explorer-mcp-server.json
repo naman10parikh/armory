@@ -1,0 +1,7 @@
+{
+  "name": "academic-paper-explorer-mcp-server",
+  "description": "Enables rigorous, zero-hallucination analysis of local PDF papers, generating editable domain maps, mindmaps, research gaps, and future directions with strict citation requirements.",
+  "source_repo": "miaomiao0319/paper-analyzer-mcp",
+  "source_url": "https://github.com/miaomiao0319/paper-analyzer-mcp",
+  "install": "npx -y paper-analyzer-mcp"
+}

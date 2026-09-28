@@ -1,0 +1,7 @@
+{
+  "name": "velocemcp",
+  "description": "A read-only MCP server that enables restaurant staff to query Veloce POS data using natural language, supporting sales summaries, payment breakdowns, and weekly reports.",
+  "source_repo": "hassan3301/VeloceMCP",
+  "source_url": "https://github.com/hassan3301/VeloceMCP",
+  "install": "# git clone --depth 1 https://github.com/hassan3301/VeloceMCP\n# See source for mcpServers config block"
+}

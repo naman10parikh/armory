@@ -1,0 +1,7 @@
+{
+  "name": "thinking-prompts",
+  "description": "Enables any MCP client to surface twelve structured thinking frameworks for clarifying questions, learning, problem-solving, decision-making, and self-reflection, with fillable slash commands for humans and programmatic retrieval for agents.",
+  "source_repo": "zdrjson/thinking-prompts-skill",
+  "source_url": "https://github.com/zdrjson/thinking-prompts-skill",
+  "install": "# git clone --depth 1 https://github.com/zdrjson/thinking-prompts-skill\n# See source for mcpServers config block"
+}

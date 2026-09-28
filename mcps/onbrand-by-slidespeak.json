@@ -1,0 +1,7 @@
+{
+  "name": "onbrand-by-slidespeak",
+  "description": "An MCP server that feeds AI agents your brand's real logos, colors, fonts, and approved slide layouts, so every deck and document comes out on brand the first time.",
+  "source_repo": "SlideSpeak/slidespeak-onbrand",
+  "source_url": "https://github.com/SlideSpeak/slidespeak-onbrand",
+  "install": "# git clone --depth 1 https://github.com/SlideSpeak/slidespeak-onbrand\n# See source for mcpServers config block"
+}

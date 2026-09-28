@@ -1,0 +1,7 @@
+{
+  "name": "pyscope-mcp",
+  "description": "MCP server that exposes Python function- and module-level call graphs for agentic coding clients, enabling tools like callers_of, callees_of, and neighborhood queries.",
+  "source_repo": "hyang0129/pyscope-mcp",
+  "source_url": "https://github.com/hyang0129/pyscope-mcp",
+  "install": "npx -y pyscope-mcp"
+}

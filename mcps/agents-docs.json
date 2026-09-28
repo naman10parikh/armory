@@ -1,0 +1,7 @@
+{
+  "name": "agents-docs",
+  "description": "Ultra-fast local markdown documentation RAG for AI coding agents, enabling instant BM25 search over official framework docs and live AI model registries via MCP.",
+  "source_repo": "Lolaplex/agents-docs",
+  "source_url": "https://github.com/Lolaplex/agents-docs",
+  "install": "# git clone --depth 1 https://github.com/Lolaplex/agents-docs\n# See source for mcpServers config block"
+}

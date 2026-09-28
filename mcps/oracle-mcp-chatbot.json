@@ -1,0 +1,7 @@
+{
+  "name": "oracle-mcp-chatbot",
+  "description": "Enables AI chatbots to securely answer natural-language questions against Oracle databases by discovering metadata, generating and validating read-only SQL, executing with limits, masking sensitive data, and logging all activity.",
+  "source_repo": "vdobhal/oracle-mcp-chatbot",
+  "source_url": "https://github.com/vdobhal/oracle-mcp-chatbot",
+  "install": "# git clone --depth 1 https://github.com/vdobhal/oracle-mcp-chatbot\n# See source for mcpServers config block"
+}

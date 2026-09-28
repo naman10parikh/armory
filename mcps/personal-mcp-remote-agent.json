@@ -1,0 +1,7 @@
+{
+  "name": "personal-mcp-remote-agent",
+  "description": "Safe MCP gateway that lets ChatGPT securely control a Windows Desktop Agent, enabling project file reads, git status/diff, and npm build/test within a designated workspace.",
+  "source_repo": "disomanceo/personal-mcp-agent",
+  "source_url": "https://github.com/disomanceo/personal-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/disomanceo/personal-mcp-agent\n# See source for mcpServers config block"
+}

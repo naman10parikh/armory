@@ -1,0 +1,7 @@
+{
+  "name": "valorant-mcp-server",
+  "description": "MCP server for Valorant match analysis. Enables fetching player stats, match history, agent performance, and more via Henrik's Valorant API.",
+  "source_repo": "SeijiMatsumoto/valorant-mcp",
+  "source_url": "https://github.com/SeijiMatsumoto/valorant-mcp",
+  "install": "npx -y valorant-mcp"
+}

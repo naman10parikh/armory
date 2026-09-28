@@ -1,0 +1,7 @@
+{
+  "name": "designforyou-2",
+  "description": "Generate finished, on-brand designs from a prompt - logos, social posts, app-store screenshots, comic pages, and visual-novel sprite sheets. Browse templates, get a recommendation, then generate editable, production-ready artwork. OAuth + per-user credits built in.",
+  "source_repo": "",
+  "source_url": "https://designforyou.swapp1990.org",
+  "install": "# git clone --depth 1 https://designforyou.swapp1990.org\n# See source for mcpServers config block"
+}

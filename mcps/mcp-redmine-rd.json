@@ -1,0 +1,7 @@
+{
+  "name": "mcp-redmine-rd",
+  "description": "Brings Redmine issue tracking into Claude Code with tools for reading, creating, and updating tickets, plus a /fix-bug skill for automated bug fixing.",
+  "source_repo": "Jebershon/mcp-redmine-rd",
+  "source_url": "https://github.com/Jebershon/mcp-redmine-rd",
+  "install": "# git clone --depth 1 https://github.com/Jebershon/mcp-redmine-rd\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "diagramzu",
+  "description": "diagramzu-mcp lets an AI client (Claude, Cursor, ChatGPT, etc.) author Mermaid diagrams in a shared workspace that a team can read, comment on, embed, and present at a clean URL — rather than just generating a one-off diagram. Hosted endpoint https://mcp.diagramzu.ai/mcp or local npx -y @diagramzu/m",
+  "source_repo": "yenchieh/diagramzu-mcp",
+  "source_url": "https://github.com/yenchieh/diagramzu-mcp",
+  "install": "npx -y diagramzu-mcp"
+}

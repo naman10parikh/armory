@@ -1,0 +1,7 @@
+{
+  "name": "migrationpilot",
+  "description": "Blocks unsafe PostgreSQL migrations before an AI agent writes or runs them. check_before_apply returns a pass/fail gate; reads the real Postgres parser, classifies the lock each statement takes, checks 112 safety rules. Runs offline, no database required.",
+  "source_repo": "mickelsamuel/migrationpilot",
+  "source_url": "https://github.com/mickelsamuel/migrationpilot",
+  "install": "# git clone --depth 1 https://github.com/mickelsamuel/migrationpilot\n# See source for mcpServers config block"
+}

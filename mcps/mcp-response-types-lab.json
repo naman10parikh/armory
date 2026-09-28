@@ -1,0 +1,7 @@
+{
+  "name": "mcp-response-types-lab",
+  "description": "Enables testing how different MCP clients handle tool results containing both content and structuredContent, including outputSchema enforcement and mismatch scenarios.",
+  "source_repo": "cchadha2/mcp-response-types-lab",
+  "source_url": "https://github.com/cchadha2/mcp-response-types-lab",
+  "install": "# git clone --depth 1 https://github.com/cchadha2/mcp-response-types-lab\n# See source for mcpServers config block"
+}

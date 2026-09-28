@@ -1,0 +1,7 @@
+{
+  "name": "cvm-processos-sancionadores-julgados",
+  "description": "MCP server to query official CVM (Brazilian Securities Commission) judged sanctioning processes, read-only, with a single tool for consulting sanctioned cases.",
+  "source_repo": "mcp-dir/cvm_sancionadores-mcp",
+  "source_url": "https://github.com/mcp-dir/cvm_sancionadores-mcp",
+  "install": "npx -y cvm_sancionadores-mcp"
+}

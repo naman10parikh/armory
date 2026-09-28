@@ -1,0 +1,7 @@
+{
+  "name": "ncmcp",
+  "description": "A self-hosted MCP server that exposes Nextcloud files, calendar, notes, and search as tools for Claude.ai, authenticating via Nextcloud OAuth.",
+  "source_repo": "janLo/nextcloud-simple-mcp",
+  "source_url": "https://github.com/janLo/nextcloud-simple-mcp",
+  "install": "npx -y nextcloud-simple-mcp"
+}

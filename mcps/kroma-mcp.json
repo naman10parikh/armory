@@ -1,0 +1,7 @@
+{
+  "name": "kroma-mcp",
+  "description": "A stateless MCP server for UI/UX design inspiration, live component discovery, and modern web micro-effects, resolving queries in real time via the Serper API.",
+  "source_repo": "thatcreativetayo/kromamcp",
+  "source_url": "https://github.com/thatcreativetayo/kromamcp",
+  "install": "# git clone --depth 1 https://github.com/thatcreativetayo/kromamcp\n# See source for mcpServers config block"
+}

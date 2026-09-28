@@ -1,0 +1,7 @@
+{
+  "name": "quant-data-mcp-server",
+  "description": "MCP server for Quant Data, providing measured market statistics for index futures and equities, including day-type probabilities, Weis volume-price waves, options max pain, and dealer gamma exposure. Includes free keyless access and emphasizes honest reporting of model limitations.",
+  "source_repo": "celineycn/quantdata-plugin",
+  "source_url": "https://github.com/celineycn/quantdata-plugin",
+  "install": "# git clone --depth 1 https://github.com/celineycn/quantdata-plugin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "spectre-2",
+  "description": "Enables AI agents to search, read user profiles, timelines, media, follow threads, track trends, and manage accounts on X/Twitter via GraphQL, without browser automation or paid API keys.",
+  "source_repo": "pranrichh/spectre-mcp",
+  "source_url": "https://github.com/pranrichh/spectre-mcp",
+  "install": "npx -y spectre-mcp"
+}

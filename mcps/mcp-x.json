@@ -1,0 +1,7 @@
+{
+  "name": "mcp-x",
+  "description": "Enables posting tweets to X (Twitter) via the X API v2, using Claude.",
+  "source_repo": "Lyonsupernova/mcp-x",
+  "source_url": "https://github.com/Lyonsupernova/mcp-x",
+  "install": "# git clone --depth 1 https://github.com/Lyonsupernova/mcp-x\n# See source for mcpServers config block"
+}

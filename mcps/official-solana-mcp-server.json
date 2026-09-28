@@ -1,0 +1,7 @@
+{
+  "name": "official-solana-mcp-server",
+  "description": "Enables AI agents to access and search up-to-date Solana documentation, get canonical spec references, and fix Anchor/Pinocchio Solana programs via MCP tools.",
+  "source_repo": "solana-foundation/solana-mcp-official",
+  "source_url": "https://github.com/solana-foundation/solana-mcp-official",
+  "install": "# git clone --depth 1 https://github.com/solana-foundation/solana-mcp-official\n# See source for mcpServers config block"
+}

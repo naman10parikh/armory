@@ -1,0 +1,7 @@
+{
+  "name": "new-relic-nerdgraph-mcp-server",
+  "description": "Enables users to query and manage New Relic account data and features through natural language or specific commands, including NRQL queries, entity search, APM, Synthetics, and alerts management.",
+  "source_repo": "ulucaydin/mcp-server-newrelic",
+  "source_url": "https://github.com/ulucaydin/mcp-server-newrelic",
+  "install": "# git clone --depth 1 https://github.com/ulucaydin/mcp-server-newrelic\n# See source for mcpServers config block"
+}

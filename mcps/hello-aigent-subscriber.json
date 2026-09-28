@@ -1,0 +1,7 @@
+{
+  "name": "hello-aigent-subscriber",
+  "description": "Enables agents to subscribe to Hello Aigent feeds, fetch signed updates, verify them, and act on them.",
+  "source_repo": "akillam/helloaigent-subscriber",
+  "source_url": "https://github.com/akillam/helloaigent-subscriber",
+  "install": "# git clone --depth 1 https://github.com/akillam/helloaigent-subscriber\n# See source for mcpServers config block"
+}

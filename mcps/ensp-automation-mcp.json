@@ -1,0 +1,7 @@
+{
+  "name": "ensp-automation-mcp",
+  "description": "Generates eNSP network topologies, deploys Huawei VRP configurations, and provides verification plans for lab scenarios.",
+  "source_repo": "lyf94697-droid/ensp-automation-mcp",
+  "source_url": "https://github.com/lyf94697-droid/ensp-automation-mcp",
+  "install": "npx -y ensp-automation-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "call-dk-mcp",
+  "description": "MCP server providing an interactive GUI for users to input prompts and images, with integrated Google Gemini prompt optimization for AI-assisted development.",
+  "source_repo": "eragonht1/call-dk-mcp",
+  "source_url": "https://github.com/eragonht1/call-dk-mcp",
+  "install": "npx -y call-dk-mcp"
+}

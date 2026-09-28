@@ -1,0 +1,7 @@
+{
+  "name": "mcp-notifications",
+  "description": "Enables sending real-time and webhook notifications when AI agents complete tasks, with support for Discord, Slack, Teams, Feishu, Ntfy, and custom webhooks.",
+  "source_repo": "zudsniper/mcp-notifications",
+  "source_url": "https://github.com/zudsniper/mcp-notifications",
+  "install": "# git clone --depth 1 https://github.com/zudsniper/mcp-notifications\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ghostty-mcp",
+  "description": "MCP server for controlling Ghostty terminal emulator, enabling configuration management, theme control, command execution, and window management.",
+  "source_repo": "GitJuhb/ghostty-mcp",
+  "source_url": "https://github.com/GitJuhb/ghostty-mcp",
+  "install": "npx -y ghostty-mcp"
+}

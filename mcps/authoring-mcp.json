@@ -1,0 +1,7 @@
+{
+  "name": "authoring-mcp",
+  "description": "Enables drafting investment reports with inline citations from search sources, refining sections, and exporting drafts.",
+  "source_repo": "ksachin123/mcp-app",
+  "source_url": "https://github.com/ksachin123/mcp-app",
+  "install": "# git clone --depth 1 https://github.com/ksachin123/mcp-app\n# See source for mcpServers config block"
+}

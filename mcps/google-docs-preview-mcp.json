@@ -1,0 +1,7 @@
+{
+  "name": "google-docs-preview-mcp",
+  "description": "Enables creating anchored comments, replies, and real suggested edits in Google Docs from Claude.",
+  "source_repo": "alejoacelas/07-30-docs-mcp",
+  "source_url": "https://github.com/alejoacelas/07-30-docs-mcp",
+  "install": "npx -y 07-30-docs-mcp"
+}

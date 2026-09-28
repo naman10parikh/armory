@@ -1,0 +1,7 @@
+{
+  "name": "tf2-wiki-mcp",
+  "description": "Gives LLMs live, accurate access to Team Fortress Wiki content, enabling search, page retrieval, structured weapon stats, patch notes, and other TF2-specific information.",
+  "source_repo": "yusufaf/tf2-wiki-mcp",
+  "source_url": "https://github.com/yusufaf/tf2-wiki-mcp",
+  "install": "npx -y tf2-wiki-mcp"
+}

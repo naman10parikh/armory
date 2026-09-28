@@ -1,0 +1,7 @@
+{
+  "name": "namecatcher",
+  "description": "Name intelligence for TON: score any Telegram username (0–100, validated on 111k+ Fragment sales), catch mints, track the market — plus free API for AI agents.",
+  "source_repo": "productmap/namecatcher-skills",
+  "source_url": "https://github.com/productmap/namecatcher-skills",
+  "install": "# git clone --depth 1 https://github.com/productmap/namecatcher-skills\n# See source for mcpServers config block"
+}

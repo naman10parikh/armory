@@ -1,0 +1,7 @@
+{
+  "name": "docio-mcp",
+  "description": "Enables document conversion between 50+ formats, including Excel and PDF, using Pandoc with automatic format detection and caching.",
+  "source_repo": "Angus-repo/docio-mcp",
+  "source_url": "https://github.com/Angus-repo/docio-mcp",
+  "install": "npx -y docio-mcp"
+}

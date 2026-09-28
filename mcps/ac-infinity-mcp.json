@@ -1,0 +1,7 @@
+{
+  "name": "ac-infinity-mcp",
+  "description": "ac-infinity-mcp is an MCP server that connects Claude (and other AI assistants) directly to your AC Infinity controllers — so you can read live sensor data, run analytics, and adjust fan speeds or port states using natural language, without opening the AC Infinity app.",
+  "source_repo": "ober37/ac-infinity-mcp",
+  "source_url": "https://github.com/ober37/ac-infinity-mcp",
+  "install": "npx -y ac-infinity-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "spt-forge-mcp",
+  "description": "MCP server for the SP-Tarkov Forge API. Exposes Forge endpoints as MCP tools over stdio, letting LLMs search mods, check updates, resolve dependencies, browse addons, and list SPT versions.",
+  "source_repo": "cebarks/spt-forge-mcp",
+  "source_url": "https://github.com/cebarks/spt-forge-mcp",
+  "install": "npx -y spt-forge-mcp"
+}

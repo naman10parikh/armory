@@ -1,0 +1,7 @@
+{
+  "name": "cloudreve-mcp-server",
+  "description": "This MCP server enables file management and local caching for Cloudreve v4 through OAuth authentication, allowing operations like listing, uploading, downloading, and sharing files via natural language in MCP-compatible clients.",
+  "source_repo": "SanderCokart/cloudreve-mcp",
+  "source_url": "https://github.com/SanderCokart/cloudreve-mcp",
+  "install": "npx -y cloudreve-mcp"
+}

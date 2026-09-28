@@ -1,0 +1,7 @@
+{
+  "name": "claude-agents-mcp-server",
+  "description": "Creates and manages Claude Code cloud environments, agents, and sessions programmatically via the Anthropic Managed Agents API.",
+  "source_repo": "hemichaeli/claude-agents-mcp-server",
+  "source_url": "https://github.com/hemichaeli/claude-agents-mcp-server",
+  "install": "npx -y claude-agents-mcp-server"
+}

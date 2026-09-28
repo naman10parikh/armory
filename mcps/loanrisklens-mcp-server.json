@@ -1,0 +1,7 @@
+{
+  "name": "loanrisklens-mcp-server",
+  "description": "Enables creditworthiness analysis for non-traditional borrowers using rule-based scoring, financial behavior assessment, and underwriting report generation via MCP tools.",
+  "source_repo": "Ppp111ppp111/LoanRiskLens_MCP",
+  "source_url": "https://github.com/Ppp111ppp111/LoanRiskLens_MCP",
+  "install": "npx -y LoanRiskLens_MCP"
+}

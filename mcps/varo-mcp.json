@@ -1,0 +1,7 @@
+{
+  "name": "varo-mcp",
+  "description": "Enables AI agents to generate images, videos, and audio via the Varo Generate API, and manage blockchain registrations and account operations through natural language.",
+  "source_repo": "varoriya/varo-mcp",
+  "source_url": "https://github.com/varoriya/varo-mcp",
+  "install": "npx -y varo-mcp"
+}

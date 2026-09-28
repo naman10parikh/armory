@@ -1,0 +1,7 @@
+{
+  "name": "research-with-sources",
+  "description": "Enables generating deterministic, cited research findings from caller-supplied source metadata and excerpts via a local-fixture MCP tool, supporting English and Spanish.",
+  "source_repo": "CaBsCrypto/research-scout-provider",
+  "source_url": "https://github.com/CaBsCrypto/research-scout-provider",
+  "install": "# git clone --depth 1 https://github.com/CaBsCrypto/research-scout-provider\n# See source for mcpServers config block"
+}

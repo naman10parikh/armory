@@ -1,0 +1,7 @@
+{
+  "name": "elim-mcp",
+  "description": "An MCP server that gives coding agents a persistent, chained memory of debugging investigations, tracking what's been tried, ruled out, and solved across sessions and scopes.",
+  "source_repo": "DevAsadYasin/elim-mcp",
+  "source_url": "https://github.com/DevAsadYasin/elim-mcp",
+  "install": "npx -y elim-mcp"
+}

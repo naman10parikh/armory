@@ -1,0 +1,7 @@
+{
+  "name": "pureref-mcp",
+  "description": "Enables AI assistants to create PureRef reference boards from local images and ad-review data, supporting moodboards and A4-style creative review reports.",
+  "source_repo": "quazi1622/PureRef-MCP",
+  "source_url": "https://github.com/quazi1622/PureRef-MCP",
+  "install": "npx -y PureRef-MCP"
+}

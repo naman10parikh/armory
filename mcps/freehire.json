@@ -1,0 +1,7 @@
+{
+  "name": "freehire",
+  "description": "Enables searching, filtering, and applying to IT jobs via MCP tools using a personal API key, mirroring the freehire CLI.",
+  "source_repo": "strelov1/freehire-mcp",
+  "source_url": "https://github.com/strelov1/freehire-mcp",
+  "install": "npx -y freehire-mcp"
+}

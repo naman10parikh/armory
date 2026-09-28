@@ -1,0 +1,7 @@
+{
+  "name": "slash-command-manager",
+  "description": "Generates and manages slash commands for AI coding assistants like Claude Code and Cursor, supporting both interactive CLI and programmatic MCP access.",
+  "source_repo": "liatrio-labs/slash-command-manager",
+  "source_url": "https://github.com/liatrio-labs/slash-command-manager",
+  "install": "# git clone --depth 1 https://github.com/liatrio-labs/slash-command-manager\n# See source for mcpServers config block"
+}

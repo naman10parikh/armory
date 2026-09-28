@@ -1,0 +1,7 @@
+{
+  "name": "fluxdown",
+  "description": "Built-in MCP server in the FluxDown download manager: a Streamable HTTP endpoint (POST /mcp, JSON-RPC 2.0, Bearer auth) exposing 9 tools to add, list, pause, resume, and remove HTTP/FTP/BitTorrent/HLS downloads and manage queues.",
+  "source_repo": "zerx-lab/FluxDown",
+  "source_url": "https://github.com/zerx-lab/FluxDown",
+  "install": "# git clone --depth 1 https://github.com/zerx-lab/FluxDown\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gouv-fr",
+  "description": "MCP server for exploring French public open data via APIs like data.gouv.fr, geo.api.gouv.fr, INSEE Sirene, and Radio France.",
+  "source_repo": "gghez/mcp-gouv-fr",
+  "source_url": "https://github.com/gghez/mcp-gouv-fr",
+  "install": "# git clone --depth 1 https://github.com/gghez/mcp-gouv-fr\n# See source for mcpServers config block"
+}

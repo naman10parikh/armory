@@ -1,0 +1,7 @@
+{
+  "name": "eo-processor-mcp",
+  "description": "An MCP server for Earth Observation processing, exposing Rust-accelerated EO computation tools like spectral indices, change detection, and classification for AI agents.",
+  "source_repo": "BnJam/eo-processor-mcp",
+  "source_url": "https://github.com/BnJam/eo-processor-mcp",
+  "install": "npx -y eo-processor-mcp"
+}

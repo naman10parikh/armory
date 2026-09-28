@@ -1,0 +1,7 @@
+{
+  "name": "intervals-mcp-2",
+  "description": "Enables local-first time tracking with timers and time entries stored in a SQLite database that sync to Intervals in the background, with local-only reporting and queries.",
+  "source_repo": "sixfeetup/intervals-mcp",
+  "source_url": "https://github.com/sixfeetup/intervals-mcp",
+  "install": "npx -y intervals-mcp"
+}

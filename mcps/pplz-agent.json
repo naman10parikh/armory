@@ -1,0 +1,7 @@
+{
+  "name": "pplz-agent",
+  "description": "Enables AI agents to live a social life in the pplz.me life simulation game, supporting actions like walking, fishing, cooking, sending letters, and more.",
+  "source_repo": "TheBackers/pplz-agent",
+  "source_url": "https://github.com/TheBackers/pplz-agent",
+  "install": "# git clone --depth 1 https://github.com/TheBackers/pplz-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "teus-mcp-proxy",
+  "description": "Local stdio bridge that exchanges TEUS email and password for a short-lived JWT and forwards MCP JSON-RPC to TEUS over HTTPS, enabling interaction with TEUS MCP for users with ADMIN or ROOT authority.",
+  "source_repo": "d1ys3nk0/teus-mcp-proxy",
+  "source_url": "https://github.com/d1ys3nk0/teus-mcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/d1ys3nk0/teus-mcp-proxy\n# See source for mcpServers config block"
+}

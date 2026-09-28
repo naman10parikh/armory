@@ -1,0 +1,7 @@
+{
+  "name": "indian-railway-mcp",
+  "description": "Enables searching and tracking Indian Railways trains, checking seat availability, live status, delays, and station/train codes.",
+  "source_repo": "amith-vp/indian-railway-mcp",
+  "source_url": "https://github.com/amith-vp/indian-railway-mcp",
+  "install": "npx -y indian-railway-mcp"
+}

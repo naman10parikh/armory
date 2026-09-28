@@ -1,0 +1,7 @@
+{
+  "name": "sequesign-mcp",
+  "description": "Enables AI agents to create cryptographically verifiable receipts of their delegated work, with capabilities for multi-party approval and offline verification.",
+  "source_repo": "Sequesign/mcp",
+  "source_url": "https://github.com/Sequesign/mcp",
+  "install": "# git clone --depth 1 https://github.com/Sequesign/mcp\n# See source for mcpServers config block"
+}

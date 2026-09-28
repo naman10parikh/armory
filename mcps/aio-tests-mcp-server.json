@@ -1,0 +1,7 @@
+{
+  "name": "aio-tests-mcp-server",
+  "description": "Enables searching, reading, creating, and updating AIO Tests test cases in Jira from any MCP client, supporting Jira Cloud and Server/Data Center with a read-only mode.",
+  "source_repo": "AmirhosseinHanifehzadeh/aio-tests-mcp",
+  "source_url": "https://github.com/AmirhosseinHanifehzadeh/aio-tests-mcp",
+  "install": "npx -y aio-tests-mcp"
+}

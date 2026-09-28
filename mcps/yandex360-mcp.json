@@ -1,0 +1,7 @@
+{
+  "name": "yandex360-mcp",
+  "description": "MCP server that enables AI assistants to interact with Yandex 360 organization services, currently supporting Yandex Wiki for reading, editing, and searching pages.",
+  "source_repo": "pa1ch/yandex360-mcp",
+  "source_url": "https://github.com/pa1ch/yandex360-mcp",
+  "install": "npx -y yandex360-mcp"
+}

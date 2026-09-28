@@ -1,0 +1,7 @@
+{
+  "name": "crypto-trading-agent-mcp-server",
+  "description": "Trade DeFi using plain language prompts.",
+  "source_repo": "scotia1973-bot/crypto-trading-mcp",
+  "source_url": "https://github.com/scotia1973-bot/crypto-trading-mcp",
+  "install": "npx -y crypto-trading-mcp"
+}

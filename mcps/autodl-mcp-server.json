@@ -1,0 +1,7 @@
+{
+  "name": "autodl-mcp-server",
+  "description": "Manages AutoDL GPU cloud instances, including lifecycle management, SSH operations, file transfer, and GPU monitoring.",
+  "source_repo": "ygh11231/autodl-mcp-server",
+  "source_url": "https://github.com/ygh11231/autodl-mcp-server",
+  "install": "npx -y autodl-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "github-universal-mcp-server",
+  "description": "Provides a standardized interface for interacting with GitHub's tools and services through the Model Context Protocol, enabling unified API access and compatibility with MCP-compliant tools.",
+  "source_repo": "universal-mcp/github",
+  "source_url": "https://github.com/universal-mcp/github",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/github\n# See source for mcpServers config block"
+}

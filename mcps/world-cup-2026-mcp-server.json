@@ -1,0 +1,7 @@
+{
+  "name": "world-cup-2026-mcp-server",
+  "description": "Free MCP server for the World Cup 2026 Tour public schedule API. It enables AI assistants to fetch the 2026 FIFA World Cup schedule, next match, match by ID, and dataset JSON-LD without an API key.",
+  "source_repo": "abaiii168/world-cup-2026-mcp-server",
+  "source_url": "https://github.com/abaiii168/world-cup-2026-mcp-server",
+  "install": "npx -y world-cup-2026-mcp-server"
+}

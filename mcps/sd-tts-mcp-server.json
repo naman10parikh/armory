@@ -1,0 +1,7 @@
+{
+  "name": "sd-tts-mcp-server",
+  "description": "Exposes Stable Diffusion for text-to-image generation and GPT-SoVITS for text-to-speech synthesis as MCP tools, enabling image and audio generation via natural language.",
+  "source_repo": "yyboling-commits/mcp-sd-tts-server",
+  "source_url": "https://github.com/yyboling-commits/mcp-sd-tts-server",
+  "install": "# git clone --depth 1 https://github.com/yyboling-commits/mcp-sd-tts-server\n# See source for mcpServers config block"
+}

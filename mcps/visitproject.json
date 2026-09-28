@@ -1,0 +1,7 @@
+{
+  "name": "visitproject",
+  "description": "Converts legacy supply chain databases and file drops into MCP servers for AI agents, enabling direct interaction with closed systems via CLI.",
+  "source_repo": "linmy666/visitproject",
+  "source_url": "https://github.com/linmy666/visitproject",
+  "install": "# git clone --depth 1 https://github.com/linmy666/visitproject\n# See source for mcpServers config block"
+}

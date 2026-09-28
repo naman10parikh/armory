@@ -1,0 +1,7 @@
+{
+  "name": "opusclip-mcp",
+  "description": "Turn long videos into AI-curated short clips. Submit a video file or URL and OpusClip finds the best moments, adds captions, reframes to vertical, and returns ready-to-post clips.",
+  "source_repo": "opus-pro/opusclip-mcp",
+  "source_url": "https://github.com/opus-pro/opusclip-mcp",
+  "install": "npx -y opusclip-mcp"
+}

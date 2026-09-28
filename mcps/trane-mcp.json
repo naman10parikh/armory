@@ -1,0 +1,7 @@
+{
+  "name": "trane-mcp",
+  "description": "Provides AI agents with read access to Trane Tracer SC+ building automation systems for inventory and telemetry retrieval.",
+  "source_repo": "NoBanks/trane-mcp",
+  "source_url": "https://github.com/NoBanks/trane-mcp",
+  "install": "npx -y trane-mcp"
+}

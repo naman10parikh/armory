@@ -1,0 +1,7 @@
+{
+  "name": "simples-nacional",
+  "description": "Enables querying a Brazilian company's Simples Nacional status by CNPJ, including opt-in and tax framework classification.",
+  "source_repo": "mcp-dir/simples_nacional-mcp",
+  "source_url": "https://github.com/mcp-dir/simples_nacional-mcp",
+  "install": "npx -y simples_nacional-mcp"
+}

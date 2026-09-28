@@ -1,0 +1,7 @@
+{
+  "name": "unofficial-anylist-mcp-server",
+  "description": "MCP server that integrates with AnyList for managing shopping lists, recipes, and meal planning via natural language.",
+  "source_repo": "bobby060/anylist-mcp",
+  "source_url": "https://github.com/bobby060/anylist-mcp",
+  "install": "npx -y anylist-mcp"
+}

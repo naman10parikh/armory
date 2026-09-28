@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-http-mcp",
+  "description": "First HTTP-native MCP server for Obsidian that solves stdio transport bugs, enabling AI assistants to manage Obsidian notes without crashes.",
+  "source_repo": "NasAndNora/obsidian-http-mcp",
+  "source_url": "https://github.com/NasAndNora/obsidian-http-mcp",
+  "install": "npx -y obsidian-http-mcp"
+}

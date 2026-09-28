@@ -1,0 +1,7 @@
+{
+  "name": "ndl-mcp",
+  "description": "MCP server for searching the National Diet Library of Japan (NDL Search), enabling Japanese-script bibliographic and article searches with rate limiting and attribution.",
+  "source_repo": "ckgerteis/ndl-mcp",
+  "source_url": "https://github.com/ckgerteis/ndl-mcp",
+  "install": "npx -y ndl-mcp"
+}

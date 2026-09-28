@@ -1,0 +1,7 @@
+{
+  "name": "pipedrive-universal-mcp-server",
+  "description": "Universal MCP server for Pipedrive, enabling interaction with Pipedrive's tools and services through a standardized API.",
+  "source_repo": "universal-mcp/pipedrive",
+  "source_url": "https://github.com/universal-mcp/pipedrive",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/pipedrive\n# See source for mcpServers config block"
+}

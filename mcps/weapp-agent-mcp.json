@@ -1,0 +1,7 @@
+{
+  "name": "weapp-agent-mcp",
+  "description": "MCP server for WeChat Mini Program debugging and automation, enabling agents to perform UI operations, screenshots, and regression testing through natural language commands.",
+  "source_repo": "Chaixueyuan/weapp-agent-mcp",
+  "source_url": "https://github.com/Chaixueyuan/weapp-agent-mcp",
+  "install": "npx -y weapp-agent-mcp"
+}

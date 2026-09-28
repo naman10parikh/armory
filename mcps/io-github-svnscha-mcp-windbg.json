@@ -1,0 +1,7 @@
+{
+  "name": "io-github-svnscha-mcp-windbg",
+  "description": "Bridges AI models with WinDbg for crash dump analysis and remote debugging.",
+  "source_repo": "svnscha/mcp-windbg",
+  "source_url": "https://github.com/svnscha/mcp-windbg",
+  "install": "# git clone --depth 1 https://github.com/svnscha/mcp-windbg\n# See source for mcpServers config block"
+}

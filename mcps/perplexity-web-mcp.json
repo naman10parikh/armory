@@ -1,0 +1,7 @@
+{
+  "name": "perplexity-web-mcp",
+  "description": "Enables AI agents and users to query Perplexity AI's premium models (GPT-5.4, Claude 4.6 Opus, Gemini 3.1 Pro, etc.) via MCP tools, CLI, or API, with support for deep research, model council, and multi-turn conversations.",
+  "source_repo": "jacob-bd/perplexity-web-mcp",
+  "source_url": "https://github.com/jacob-bd/perplexity-web-mcp",
+  "install": "npx -y perplexity-web-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "debug-test-mcp",
+  "description": "MCP server for debugging MCP host/client custom header implementation, with a tool to inspect request headers.",
+  "source_repo": "matsjfunke/debug-test-mcp",
+  "source_url": "https://github.com/matsjfunke/debug-test-mcp",
+  "install": "npx -y debug-test-mcp"
+}

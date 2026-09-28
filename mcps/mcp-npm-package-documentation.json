@@ -1,0 +1,7 @@
+{
+  "name": "mcp-npm-package-documentation",
+  "description": "Retrieves documentation for any npm package by automatically discovering its GitHub repository and returning its README.md content.",
+  "source_repo": "NirojShah/mcp-npm-package-documentation",
+  "source_url": "https://github.com/NirojShah/mcp-npm-package-documentation",
+  "install": "# git clone --depth 1 https://github.com/NirojShah/mcp-npm-package-documentation\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "multi-carrier-shipping-api-powered-by-secureship",
+  "description": "Secureship MCP gives AI assistants access to a multi-carrier shipping API covering rate comparison, label generation, package tracking, pickup scheduling, address book management, shipment history, customs documents, and more — across carriers like UPS, FedEx, Purolator, Canpar, and others. Browse 1",
+  "source_repo": "",
+  "source_url": "https://secureship.ca",
+  "install": "# git clone --depth 1 https://secureship.ca\n# See source for mcpServers config block"
+}

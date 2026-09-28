@@ -1,0 +1,7 @@
+{
+  "name": "mcp-qa-demo-server",
+  "description": "Enables natural language-driven browser automation by launching a real browser, performing interactions, and generating test artifacts like feature/step/page files.",
+  "source_repo": "hazarisaijagadeesh/QA_MCP",
+  "source_url": "https://github.com/hazarisaijagadeesh/QA_MCP",
+  "install": "npx -y QA_MCP"
+}

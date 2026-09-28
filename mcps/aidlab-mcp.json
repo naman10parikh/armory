@@ -1,0 +1,7 @@
+{
+  "name": "aidlab-mcp",
+  "description": "Connects Aidlab wellness data to AI tools through MCP, providing read-only access to daily summaries, steps, heart rate, HRV, sleep, activities, and profile with OAuth authentication.",
+  "source_repo": "Aidlab/aidlab-mcp",
+  "source_url": "https://github.com/Aidlab/aidlab-mcp",
+  "install": "npx -y aidlab-mcp"
+}

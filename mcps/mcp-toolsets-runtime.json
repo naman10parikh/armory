@@ -1,0 +1,7 @@
+{
+  "name": "mcp-toolsets-runtime",
+  "description": "A shared runtime that discovers LangChain tools from a toolset package and serves them as an MCP server, with optional UI views and a CLI for managing tools.",
+  "source_repo": "developmentseed/mcp-toolsets-runtime",
+  "source_url": "https://github.com/developmentseed/mcp-toolsets-runtime",
+  "install": "# git clone --depth 1 https://github.com/developmentseed/mcp-toolsets-runtime\n# See source for mcpServers config block"
+}

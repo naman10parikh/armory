@@ -1,0 +1,7 @@
+{
+  "name": "chat-share",
+  "description": "MCP server for publishing AI agent conversations as public links with optional password protection and expiration, also providing tools to revoke shared chats and retrieve link metadata.",
+  "source_repo": "vmhq/chat-share",
+  "source_url": "https://github.com/vmhq/chat-share",
+  "install": "# git clone --depth 1 https://github.com/vmhq/chat-share\n# See source for mcpServers config block"
+}

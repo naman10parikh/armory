@@ -1,0 +1,7 @@
+{
+  "name": "dolphindb-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for interacting with DolphinDB databases, enabling SQL script execution, database listing, and table inspection.",
+  "source_repo": "tradercjz/dolphindb-mcp-server",
+  "source_url": "https://github.com/tradercjz/dolphindb-mcp-server",
+  "install": "npx -y dolphindb-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "epub-novel-mcp-server",
+  "description": "An MCP server for creating and editing EPUB novels, handling metadata, chapters, navigation, cover, and resources.",
+  "source_repo": "dmongrel/epub-mcp-server",
+  "source_url": "https://github.com/dmongrel/epub-mcp-server",
+  "install": "npx -y epub-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "telegram-bot-api-docs-mcp",
+  "description": "Scrapes the official Telegram Bot API documentation and provides tools for querying methods, types, fields, and relationships.",
+  "source_repo": "MukundSinghRajput/telegram-bot-api-docs-mcp",
+  "source_url": "https://github.com/MukundSinghRajput/telegram-bot-api-docs-mcp",
+  "install": "npx -y telegram-bot-api-docs-mcp"
+}

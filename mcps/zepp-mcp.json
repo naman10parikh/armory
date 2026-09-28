@@ -1,0 +1,7 @@
+{
+  "name": "zepp-mcp",
+  "description": "Connect your Amazfit / Zepp watch to Claude. Free and open-source.",
+  "source_repo": "imastarboy97/zepp-mcp",
+  "source_url": "https://github.com/imastarboy97/zepp-mcp",
+  "install": "npx -y zepp-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "db-schenker-shipment-information-mcp-server",
+  "description": "Enables users to retrieve and structure shipment tracking information from DB Schenker's website using natural language queries.",
+  "source_repo": "VVikingsson/mcp-server",
+  "source_url": "https://github.com/VVikingsson/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/VVikingsson/mcp-server\n# See source for mcpServers config block"
+}

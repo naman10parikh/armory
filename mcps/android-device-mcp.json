@@ -1,0 +1,7 @@
+{
+  "name": "android-device-mcp",
+  "description": "Provides comprehensive Android device management capabilities through ADB, including device management, app management, file operations, and system monitoring.",
+  "source_repo": "prashant1507/android-device-mcp",
+  "source_url": "https://github.com/prashant1507/android-device-mcp",
+  "install": "npx -y android-device-mcp"
+}

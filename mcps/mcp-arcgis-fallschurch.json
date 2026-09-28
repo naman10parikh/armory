@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arcgis-fallschurch",
+  "description": "Enables searching and querying of City of Falls Church GIS open geospatial data (parcels, zoning, public works) via ArcGIS feature services.",
+  "source_repo": "pipeworx-io/mcp-arcgis-fallschurch",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-fallschurch",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-fallschurch\n# See source for mcpServers config block"
+}

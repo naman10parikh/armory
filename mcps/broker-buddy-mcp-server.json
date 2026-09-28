@@ -1,0 +1,7 @@
+{
+  "name": "broker-buddy-mcp-server",
+  "description": "FastMCP server exposing brokerage and market tools (Angel One, Coinbase, News) via the Model Context Protocol, enabling portfolio queries and trade execution through natural language.",
+  "source_repo": "deepjyotk/broker-buddy-mcp-server",
+  "source_url": "https://github.com/deepjyotk/broker-buddy-mcp-server",
+  "install": "npx -y broker-buddy-mcp-server"
+}

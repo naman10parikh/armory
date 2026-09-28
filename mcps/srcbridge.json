@@ -1,0 +1,7 @@
+{
+  "name": "srcbridge",
+  "description": "A sandboxed file-access MCP server for Claude Desktop, enabling safe read/write access to selected directories with atomic verified writes, undo, and read-only git operations.",
+  "source_repo": "kerwinkao/srcbridge",
+  "source_url": "https://github.com/kerwinkao/srcbridge",
+  "install": "# git clone --depth 1 https://github.com/kerwinkao/srcbridge\n# See source for mcpServers config block"
+}

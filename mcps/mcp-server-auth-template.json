@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-auth-template",
+  "description": "A reusable template for building MCP servers that act as OAuth 2.1 resource servers, verifying bearer tokens against Microsoft Entra ID or any standards-compliant OIDC authorization server.",
+  "source_repo": "brunovicco/mcp-server-auth-template",
+  "source_url": "https://github.com/brunovicco/mcp-server-auth-template",
+  "install": "# git clone --depth 1 https://github.com/brunovicco/mcp-server-auth-template\n# See source for mcpServers config block"
+}

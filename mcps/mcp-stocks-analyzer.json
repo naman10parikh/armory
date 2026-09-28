@@ -1,0 +1,7 @@
+{
+  "name": "mcp-stocks-analyzer",
+  "description": "Provides real-time stock data, news, company fundamentals, and technical indicators for AI assistants via the Model Context Protocol.",
+  "source_repo": "vashishtavarma/stocks-analyzer-mcp",
+  "source_url": "https://github.com/vashishtavarma/stocks-analyzer-mcp",
+  "install": "npx -y stocks-analyzer-mcp"
+}

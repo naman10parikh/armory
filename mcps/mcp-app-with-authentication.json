@@ -1,0 +1,7 @@
+{
+  "name": "mcp-app-with-authentication",
+  "description": "This MCP server implements a secure OAuth 2.1 authorization server with Google login, enabling authenticated tool execution and a user interface for MCP applications.",
+  "source_repo": "nobleknightt/mcp-app",
+  "source_url": "https://github.com/nobleknightt/mcp-app",
+  "install": "# git clone --depth 1 https://github.com/nobleknightt/mcp-app\n# See source for mcpServers config block"
+}

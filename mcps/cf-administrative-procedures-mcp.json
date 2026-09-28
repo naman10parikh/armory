@@ -1,0 +1,7 @@
+{
+  "name": "cf-administrative-procedures-mcp",
+  "description": "Remote MCP server for searching and aggregating Japan's administrative procedures survey data, powered by Cloudflare Workers and D1.",
+  "source_repo": "ochanuco/cf-administrative-procedures-mcp",
+  "source_url": "https://github.com/ochanuco/cf-administrative-procedures-mcp",
+  "install": "npx -y cf-administrative-procedures-mcp"
+}

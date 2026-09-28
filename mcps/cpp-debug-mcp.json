@@ -1,0 +1,7 @@
+{
+  "name": "cpp-debug-mcp",
+  "description": "Provides GDB and clangd-based tools for debugging C++ programs, enabling step execution, variable inspection, diagnostics, and combined runtime-static analysis.",
+  "source_repo": "William-An/cpp-debug-mcp",
+  "source_url": "https://github.com/William-An/cpp-debug-mcp",
+  "install": "npx -y cpp-debug-mcp"
+}

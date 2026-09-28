@@ -1,0 +1,7 @@
+{
+  "name": "frugal",
+  "description": "Intelligently routes AI tool calls (search, extract, browse) to the cheapest capable provider by default with automatic failover and audit receipts, enabling cost-effective agent workflows.",
+  "source_repo": "brainsparker/frugal",
+  "source_url": "https://github.com/brainsparker/frugal",
+  "install": "# git clone --depth 1 https://github.com/brainsparker/frugal\n# See source for mcpServers config block"
+}

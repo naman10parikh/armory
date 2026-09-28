@@ -1,0 +1,7 @@
+{
+  "name": "twenty-crm-mcp",
+  "description": "Enables MCP clients to read, search, create, update, and manage records in Twenty CRM with a safe, composable 14-tool interface and guarded destructive operations.",
+  "source_repo": "0xfabrica/twentycrm-mcp",
+  "source_url": "https://github.com/0xfabrica/twentycrm-mcp",
+  "install": "npx -y twentycrm-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "imessage-send-mcp",
+  "description": "Enables sending iMessages or SMS messages via the macOS Messages app using osascript. No Full Disk Access required, and never reads your message history.",
+  "source_repo": "andyjianzhou/imessage-send-mcp",
+  "source_url": "https://github.com/andyjianzhou/imessage-send-mcp",
+  "install": "npx -y imessage-send-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "webscrape-mcp-server",
+  "description": "MCP server that enables AI agents to search the web and extract clean Markdown content, with support for JavaScript rendering, structured data extraction, and screenshots.",
+  "source_repo": "carrasquelalex1/webscrape-mcp",
+  "source_url": "https://github.com/carrasquelalex1/webscrape-mcp",
+  "install": "npx -y webscrape-mcp"
+}

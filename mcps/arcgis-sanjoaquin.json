@@ -1,0 +1,7 @@
+{
+  "name": "arcgis-sanjoaquin",
+  "description": "Enables searching and querying San Joaquin County open geospatial data (parcels, addresses, zoning, public works) through ArcGIS Feature Services, allowing users to discover datasets and retrieve layer schemas and attribute records.",
+  "source_repo": "pipeworx-io/mcp-arcgis-sanjoaquin",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-sanjoaquin",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-sanjoaquin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "log-search-mcp",
+  "description": "An MCP server that enables AI assistants to search logs across multiple remote servers via SSH and grep, with support for pattern matching and time range filtering.",
+  "source_repo": "JaysonAlbert/log-search-mcp",
+  "source_url": "https://github.com/JaysonAlbert/log-search-mcp",
+  "install": "npx -y log-search-mcp"
+}

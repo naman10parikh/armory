@@ -1,0 +1,7 @@
+{
+  "name": "duckle-mcp-server",
+  "description": "Duckle ships its own Model Context Protocol server, so Claude can browse the full component catalog and per-component property schemas, generate a pipeline straight into a working directory you choose, validate it (compile without running), run it headlessly, read existing pipelines and their run lo",
+  "source_repo": "SouravRoy-ETL/duckle",
+  "source_url": "https://github.com/SouravRoy-ETL/duckle",
+  "install": "# git clone --depth 1 https://github.com/SouravRoy-ETL/duckle\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "quick-commerce-mcp",
+  "description": "Aggregates quick commerce platforms like Zepto, Swiggy Instamart, and BigBasket for searching, comparing prices, and ordering through a single MCP interface.",
+  "source_repo": "Hardik500/quick-commerce-mcp",
+  "source_url": "https://github.com/Hardik500/quick-commerce-mcp",
+  "install": "npx -y quick-commerce-mcp"
+}

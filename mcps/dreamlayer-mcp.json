@@ -1,0 +1,7 @@
+{
+  "name": "dreamlayer-mcp",
+  "description": "Enables MCP-compatible AI clients to generate and edit images via the DreamLayer Agent API, including text-to-image, image-to-image, background removal, and upscaling, with support for uploading images and managing execution streams.",
+  "source_repo": "TheDesignFounder/dreamlayer-mcp",
+  "source_url": "https://github.com/TheDesignFounder/dreamlayer-mcp",
+  "install": "npx -y dreamlayer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nih-research-mcp-demo",
+  "description": "Enables interaction with synthetic NIH-style clinical research data through tools for searching publications, querying patient metadata, analyzing AAA measurements, and retrieving protocol guidance.",
+  "source_repo": "vdeeplearning/nih-research-mcp",
+  "source_url": "https://github.com/vdeeplearning/nih-research-mcp",
+  "install": "npx -y nih-research-mcp"
+}

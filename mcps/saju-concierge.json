@@ -1,0 +1,7 @@
+{
+  "name": "saju-concierge",
+  "description": "MCP server that calculates saju (four pillars) from birth date/time and provides entertaining interpretations of daily fortune, yearly luck, compatibility, name analysis, and tarot using MIT-licensed manseryeok-js.",
+  "source_repo": "bb4rjfl/saju-concierge",
+  "source_url": "https://github.com/bb4rjfl/saju-concierge",
+  "install": "# git clone --depth 1 https://github.com/bb4rjfl/saju-concierge\n# See source for mcpServers config block"
+}

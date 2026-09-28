@@ -1,0 +1,7 @@
+{
+  "name": "op-mcp",
+  "description": "Enables to manage 1Password resources including vaults, items, documents, users, groups, and more through the 1Password CLI, exposing 65 tools for comprehensive password management via natural language.",
+  "source_repo": "goodwokdev/op-mcp-bun",
+  "source_url": "https://github.com/goodwokdev/op-mcp-bun",
+  "install": "# git clone --depth 1 https://github.com/goodwokdev/op-mcp-bun\n# See source for mcpServers config block"
+}

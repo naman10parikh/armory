@@ -1,0 +1,7 @@
+{
+  "name": "portal-da-transpar-ncia-seguro-defeso",
+  "description": "Read-only MCP server enabling querying official Brazilian transparency data on Seguro Defeso (fishermen's insurance) via a single tool, with prepaid pay-per-use credits.",
+  "source_repo": "mcp-dir/portal_transparencia_seguro-mcp",
+  "source_url": "https://github.com/mcp-dir/portal_transparencia_seguro-mcp",
+  "install": "npx -y portal_transparencia_seguro-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "docker-telethon-plus",
+  "description": "Exposes a Telegram user account via MCP, enabling AI agents to send, read, and manage messages, chats, and media using full MTProto access through Telethon. It wraps Telethon behind a JSON HTTP API and MCP endpoint, allowing agents to interact with Telegram as the authenticated user.",
+  "source_repo": "psyb0t/docker-telethon-plus",
+  "source_url": "https://github.com/psyb0t/docker-telethon-plus",
+  "install": "# git clone --depth 1 https://github.com/psyb0t/docker-telethon-plus\n# See source for mcpServers config block"
+}

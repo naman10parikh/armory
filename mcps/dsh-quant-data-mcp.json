@@ -1,0 +1,7 @@
+{
+  "name": "dsh-quant-data-mcp",
+  "description": "An MCP server providing A-share market data tools (daily OHLCV, real-time quotes, financials, northbound capital flow, sector lists) with zero dependencies, also serving as a template for building custom MCP servers.",
+  "source_repo": "helibeiqi/dsh-quant-data-mcp",
+  "source_url": "https://github.com/helibeiqi/dsh-quant-data-mcp",
+  "install": "npx -y dsh-quant-data-mcp"
+}

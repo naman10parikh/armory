@@ -1,0 +1,7 @@
+{
+  "name": "opc-ua-mcp-server",
+  "description": "Connects to any OPC UA server and exposes its node tree and data via MCP, with tools to read values and search nodes.",
+  "source_repo": "vogler75/opcua-mcp-server",
+  "source_url": "https://github.com/vogler75/opcua-mcp-server",
+  "install": "npx -y opcua-mcp-server"
+}

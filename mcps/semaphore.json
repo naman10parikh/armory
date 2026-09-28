@@ -1,0 +1,7 @@
+{
+  "name": "semaphore",
+  "description": "Reads login-walled web pages by replaying cookies from your browser, returning clean markdown via MCP tools.",
+  "source_repo": "CandeliteKey/semaphore",
+  "source_url": "https://github.com/CandeliteKey/semaphore",
+  "install": "# git clone --depth 1 https://github.com/CandeliteKey/semaphore\n# See source for mcpServers config block"
+}

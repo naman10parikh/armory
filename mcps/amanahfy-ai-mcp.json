@@ -1,0 +1,7 @@
+{
+  "name": "amanahfy-ai-mcp",
+  "description": "Provides tools for AI assistants to access Amanahfy APIs, enabling campaign details and IP geolocation lookups.",
+  "source_repo": "ramaibrm/amanahfy-mcp-server",
+  "source_url": "https://github.com/ramaibrm/amanahfy-mcp-server",
+  "install": "npx -y amanahfy-mcp-server"
+}

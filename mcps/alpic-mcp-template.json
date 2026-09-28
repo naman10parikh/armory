@@ -1,0 +1,7 @@
+{
+  "name": "alpic-mcp-template",
+  "description": "A TypeScript template for building MCP servers with Streamable HTTP transport, providing example tools, resources, and prompts to help developers create custom MCP integrations.",
+  "source_repo": "nikolay-new/mcp-server",
+  "source_url": "https://github.com/nikolay-new/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/nikolay-new/mcp-server\n# See source for mcpServers config block"
+}

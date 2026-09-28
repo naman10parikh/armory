@@ -1,0 +1,7 @@
+{
+  "name": "atracker-mcp-server",
+  "description": "Syncs ATracker time tracking data to a local SQLite database and provides MCP tools for querying tasks, entries, tags, and exporting data.",
+  "source_repo": "braveva/ATracker-MCP",
+  "source_url": "https://github.com/braveva/ATracker-MCP",
+  "install": "npx -y ATracker-MCP"
+}

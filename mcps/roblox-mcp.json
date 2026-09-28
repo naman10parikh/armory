@@ -1,0 +1,7 @@
+{
+  "name": "roblox-mcp",
+  "description": "AI-driven dashboard for Roblox games that enables AI assistants to communicate with Roblox games in real time through MCP integration.",
+  "source_repo": "zsomborturcsanyi7-lang/roblox-mcp",
+  "source_url": "https://github.com/zsomborturcsanyi7-lang/roblox-mcp",
+  "install": "npx -y roblox-mcp"
+}

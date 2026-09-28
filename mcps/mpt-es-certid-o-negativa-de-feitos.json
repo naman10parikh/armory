@@ -1,0 +1,7 @@
+{
+  "name": "mpt-es-certid-o-negativa-de-feitos",
+  "description": "Consulta em fonte oficial a Certidão Negativa de Feitos do MPT ES, com uma ferramenta somente leitura, paga por uso via créditos pré-pagos.",
+  "source_repo": "mcp-dir/mpt_es_cnf-mcp",
+  "source_url": "https://github.com/mcp-dir/mpt_es_cnf-mcp",
+  "install": "npx -y mpt_es_cnf-mcp"
+}

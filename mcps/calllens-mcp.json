@@ -1,0 +1,7 @@
+{
+  "name": "calllens-mcp",
+  "description": "Enables LLM clients to answer identity-aware questions about customer calls using a multi-tenant B2B call analytics platform with role-based access.",
+  "source_repo": "DesharajuDeepthi/calllens-v1",
+  "source_url": "https://github.com/DesharajuDeepthi/calllens-v1",
+  "install": "# git clone --depth 1 https://github.com/DesharajuDeepthi/calllens-v1\n# See source for mcpServers config block"
+}

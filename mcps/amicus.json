@@ -1,0 +1,7 @@
+{
+  "name": "amicus",
+  "description": "Enables multi-model LLM council reviews and parallel sidecar conversations within Claude, allowing Claude to orchestrate structured reviews from various AI models and fold their responses back into the session.",
+  "source_repo": "BourbonDog/amicus",
+  "source_url": "https://github.com/BourbonDog/amicus",
+  "install": "# git clone --depth 1 https://github.com/BourbonDog/amicus\n# See source for mcpServers config block"
+}

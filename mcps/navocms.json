@@ -1,0 +1,7 @@
+{
+  "name": "navocms",
+  "description": "Enables AI agents to draft, review, preview, and publish content across multiple websites through typed MCP tools. Ensures safe, policy-gated, and auditable publication without requiring a conventional CMS admin interface.",
+  "source_repo": "Tsumibito/NavoCMS",
+  "source_url": "https://github.com/Tsumibito/NavoCMS",
+  "install": "# git clone --depth 1 https://github.com/Tsumibito/NavoCMS\n# See source for mcpServers config block"
+}

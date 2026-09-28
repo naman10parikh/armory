@@ -1,0 +1,7 @@
+{
+  "name": "http-client-mcp-server",
+  "description": "Enables AI assistants to explore, search, and read codebase repositories and API specifications efficiently, with support for file searching, content search via ripgrep, and reading API specs.",
+  "source_repo": "noxhsxrk/http-client-mcp-server",
+  "source_url": "https://github.com/noxhsxrk/http-client-mcp-server",
+  "install": "npx -y http-client-mcp-server"
+}

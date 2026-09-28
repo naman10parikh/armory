@@ -1,0 +1,7 @@
+{
+  "name": "polymarket-news-mcp",
+  "description": "Connects real-world news to Polymarket prediction markets by matching headlines to relevant markets with live odds. Read-only by default with optional trading capabilities.",
+  "source_repo": "mobymedia/polymarket-news-mcp",
+  "source_url": "https://github.com/mobymedia/polymarket-news-mcp",
+  "install": "npx -y polymarket-news-mcp"
+}

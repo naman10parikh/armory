@@ -1,0 +1,7 @@
+{
+  "name": "url-safety-validator-mcp",
+  "description": "Enables AI agents to check URL safety before fetching content, using Google Web Risk, URLhaus, PhishTank, and AI analysis to return SAFE/SUSPICIOUS/DANGEROUS verdicts.",
+  "source_repo": "OjasKord/url-safety-validator-mcp",
+  "source_url": "https://github.com/OjasKord/url-safety-validator-mcp",
+  "install": "npx -y url-safety-validator-mcp"
+}

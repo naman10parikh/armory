@@ -1,0 +1,7 @@
+{
+  "name": "alpaka-mcp",
+  "description": "MCP server and CLI for trading stocks, ETFs, and crypto via Alpaca, enabling natural language trading through AI assistants and terminal with paper trading defaults.",
+  "source_repo": "vikrambtech2025-png/alpaka-mcp",
+  "source_url": "https://github.com/vikrambtech2025-png/alpaka-mcp",
+  "install": "npx -y alpaka-mcp"
+}

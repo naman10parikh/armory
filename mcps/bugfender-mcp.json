@@ -1,0 +1,7 @@
+{
+  "name": "bugfender-mcp",
+  "description": "Bugfender MCP server for read access to logs, devices, crashes, and issues, with automatic token refresh.",
+  "source_repo": "bugfender/bugfender-mcp",
+  "source_url": "https://github.com/bugfender/bugfender-mcp",
+  "install": "npx -y bugfender-mcp"
+}

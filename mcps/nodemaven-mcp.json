@@ -1,0 +1,7 @@
+{
+  "name": "nodemaven-mcp",
+  "description": "MCP server that lets AI agents route web requests through NodeMaven residential and mobile proxies, with tools for geo-targeted fetching, proxy checking, and location/usage queries.",
+  "source_repo": "Artirain/nodemaven-mcp",
+  "source_url": "https://github.com/Artirain/nodemaven-mcp",
+  "install": "npx -y nodemaven-mcp"
+}

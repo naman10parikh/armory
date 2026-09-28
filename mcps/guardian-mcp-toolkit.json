@@ -1,0 +1,7 @@
+{
+  "name": "guardian-mcp-toolkit",
+  "description": "Real-time architecture governance tool that enforces Clean Architecture, DDD, SOLID, TDD, and Security rules across 8 languages using 11 specialized agents.",
+  "source_repo": "Esteban-Fonseca-DEV/mcp_toolkit_guardian",
+  "source_url": "https://github.com/Esteban-Fonseca-DEV/mcp_toolkit_guardian",
+  "install": "# git clone --depth 1 https://github.com/Esteban-Fonseca-DEV/mcp_toolkit_guardian\n# See source for mcpServers config block"
+}

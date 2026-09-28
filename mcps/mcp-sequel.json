@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sequel",
+  "description": "MCP server for Claude that connects to MySQL, MariaDB, and SQLite databases. Query your databases using natural language.",
+  "source_repo": "eukos/mcp-sequel",
+  "source_url": "https://github.com/eukos/mcp-sequel",
+  "install": "# git clone --depth 1 https://github.com/eukos/mcp-sequel\n# See source for mcpServers config block"
+}

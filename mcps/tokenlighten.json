@@ -1,0 +1,7 @@
+{
+  "name": "tokenlighten",
+  "description": "Local-first MCP toolkit that provides coding agents focused repository context via read_file, search_files, and edit_file tools, reducing token usage and task cost.",
+  "source_repo": "Takayuki-Ishimaru/tokenlighten",
+  "source_url": "https://github.com/Takayuki-Ishimaru/tokenlighten",
+  "install": "# git clone --depth 1 https://github.com/Takayuki-Ishimaru/tokenlighten\n# See source for mcpServers config block"
+}

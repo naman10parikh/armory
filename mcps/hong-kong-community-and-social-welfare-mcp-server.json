@@ -1,0 +1,7 @@
+{
+  "name": "hong-kong-community-and-social-welfare-mcp-server",
+  "description": "Enables querying of Hong Kong government data on elderly community care services, such as waiting times and applicant counts.",
+  "source_repo": "hkopenai/hk-community-mcp-server",
+  "source_url": "https://github.com/hkopenai/hk-community-mcp-server",
+  "install": "npx -y hk-community-mcp-server"
+}

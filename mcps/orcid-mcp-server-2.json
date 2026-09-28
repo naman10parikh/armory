@@ -1,0 +1,7 @@
+{
+  "name": "orcid-mcp-server-2",
+  "description": "Researcher profiles, works, affiliations, funding, and peer reviews from the ORCID registry.",
+  "source_repo": "",
+  "source_url": "https://orcid.caseyjhand.com/mcp",
+  "install": "# git clone --depth 1 https://orcid.caseyjhand.com/mcp\n# See source for mcpServers config block"
+}

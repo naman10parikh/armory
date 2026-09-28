@@ -1,0 +1,7 @@
+{
+  "name": "gate-local-mcp",
+  "description": "Exposes the full Gate API v4 to MCP clients with 384 tools for spot, futures, margin, wallet, and more. Supports both public endpoints (no auth) and authenticated trading operations.",
+  "source_repo": "gate/gate-local-mcp",
+  "source_url": "https://github.com/gate/gate-local-mcp",
+  "install": "npx -y gate-local-mcp"
+}

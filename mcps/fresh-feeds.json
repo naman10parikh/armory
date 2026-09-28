@@ -1,0 +1,7 @@
+{
+  "name": "fresh-feeds",
+  "description": "A freshness index and change-data API for the MCP server registry, with free search and paid data feeds via x402.",
+  "source_repo": "foomworks/fresh-feeds",
+  "source_url": "https://github.com/foomworks/fresh-feeds",
+  "install": "# git clone --depth 1 https://github.com/foomworks/fresh-feeds\n# See source for mcpServers config block"
+}

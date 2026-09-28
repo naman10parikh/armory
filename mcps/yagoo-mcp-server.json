@@ -1,0 +1,7 @@
+{
+  "name": "yagoo-mcp-server",
+  "description": "Enables AI agents to discover and recommend other agents through a searchable directory of over 50 agents across 10 categories.",
+  "source_repo": "kanoliban/yagoo-mcp-server",
+  "source_url": "https://github.com/kanoliban/yagoo-mcp-server",
+  "install": "npx -y yagoo-mcp-server"
+}

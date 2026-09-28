@@ -1,0 +1,7 @@
+{
+  "name": "picsart-mcp-server",
+  "description": "Enables AI agents and terminals to generate images, video, and audio using 141 models from 28 providers via the Picsart gen-ai API.",
+  "source_repo": "PicsArt/picsart-mcp-cli-docs",
+  "source_url": "https://github.com/PicsArt/picsart-mcp-cli-docs",
+  "install": "# git clone --depth 1 https://github.com/PicsArt/picsart-mcp-cli-docs\n# See source for mcpServers config block"
+}

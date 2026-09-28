@@ -1,0 +1,7 @@
+{
+  "name": "stock-assistant-mcp-server",
+  "description": "Provides real-time stock data, historical analysis, and stock comparisons using the Yahoo Finance API.",
+  "source_repo": "shwetha-sundar/mcp-server",
+  "source_url": "https://github.com/shwetha-sundar/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/shwetha-sundar/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "loom-transcript-mcp-server",
+  "description": "Extracts transcripts, titles, descriptions, and comments from Loom videos via a remote MCP server.",
+  "source_repo": "liam123-dot/loom-remote-mcp-server-authless",
+  "source_url": "https://github.com/liam123-dot/loom-remote-mcp-server-authless",
+  "install": "# git clone --depth 1 https://github.com/liam123-dot/loom-remote-mcp-server-authless\n# See source for mcpServers config block"
+}

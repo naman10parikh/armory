@@ -1,0 +1,7 @@
+{
+  "name": "random-profiles-mcp",
+  "description": "Enables AI agents to generate fake user profiles and companies using the Random Profiles API with automatic API key handling.",
+  "source_repo": "gusdeboer/random-profiles-mcp",
+  "source_url": "https://github.com/gusdeboer/random-profiles-mcp",
+  "install": "npx -y random-profiles-mcp"
+}

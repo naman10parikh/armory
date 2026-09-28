@@ -1,0 +1,7 @@
+{
+  "name": "mcp-content-ops",
+  "description": "An MCP server that enables agents to safely interact with CMS content, with deny-by-default write policies, type/field allowlists, and structured audit trails.",
+  "source_repo": "nitti510x/mcp-content-ops",
+  "source_url": "https://github.com/nitti510x/mcp-content-ops",
+  "install": "# git clone --depth 1 https://github.com/nitti510x/mcp-content-ops\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "emovi-mcp",
+  "description": "MCP server for the ESRU-EMOVI 2023 social mobility survey in Mexico. Enables AI assistants to query weighted statistics, transition matrices, and explore variables from the survey using natural language.",
+  "source_repo": "Lalitronico/emovi-mcp",
+  "source_url": "https://github.com/Lalitronico/emovi-mcp",
+  "install": "npx -y emovi-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "skein-toolkit-mcp-server",
+  "description": "A local MCP SSE server that proxies Cloudflare Workers AI and provides multi-step task orchestration, integrating with LiteLLM to enable AI-assisted development workflows.",
+  "source_repo": "Hendo52/skein-toolkit",
+  "source_url": "https://github.com/Hendo52/skein-toolkit",
+  "install": "# git clone --depth 1 https://github.com/Hendo52/skein-toolkit\n# See source for mcpServers config block"
+}

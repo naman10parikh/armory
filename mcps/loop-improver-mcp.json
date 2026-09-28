@@ -1,0 +1,7 @@
+{
+  "name": "loop-improver-mcp",
+  "description": "MCP server that inspects older repos, identifies stale guidance, and installs a managed foundation for better Copilot work including instructions, objectives, specialist agents, and insights.",
+  "source_repo": "Thor-DraperJr/loop-improver-mcp",
+  "source_url": "https://github.com/Thor-DraperJr/loop-improver-mcp",
+  "install": "npx -y loop-improver-mcp"
+}

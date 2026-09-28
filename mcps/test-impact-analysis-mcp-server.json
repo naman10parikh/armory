@@ -1,0 +1,7 @@
+{
+  "name": "test-impact-analysis-mcp-server",
+  "description": "An intelligent MCP toolset for software testers that monitors code changes, analyzes test impact, recommends tests, and assesses risk, supporting multiple AI coding frameworks via dual transport modes.",
+  "source_repo": "WayneLiu519888/Test-Impact-Analysis-MCP",
+  "source_url": "https://github.com/WayneLiu519888/Test-Impact-Analysis-MCP",
+  "install": "npx -y Test-Impact-Analysis-MCP"
+}

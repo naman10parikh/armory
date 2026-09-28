@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-api",
+  "description": "A FastMCP-based server that provides tools for API discovery and execution, hierarchical category management, and SQL query execution through the Model Context Protocol.",
+  "source_repo": "OneCodeToEnd/mcp_data_api",
+  "source_url": "https://github.com/OneCodeToEnd/mcp_data_api",
+  "install": "# git clone --depth 1 https://github.com/OneCodeToEnd/mcp_data_api\n# See source for mcpServers config block"
+}

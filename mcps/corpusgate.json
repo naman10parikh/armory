@@ -1,0 +1,7 @@
+{
+  "name": "corpusgate",
+  "description": "Enables AI tools to securely search and retrieve relevant, source-attributed chunks from private local documents via MCP, without sending document content to third-party services.",
+  "source_repo": "mustafa0zdemir/corpusgate",
+  "source_url": "https://github.com/mustafa0zdemir/corpusgate",
+  "install": "# git clone --depth 1 https://github.com/mustafa0zdemir/corpusgate\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "deep-agent-harness-automation-system",
+  "description": "A LangGraph-powered MCP server for infrastructure orchestration with autonomous subagents.",
+  "source_repo": "the-Lobbi/ai-deep-template-engine",
+  "source_url": "https://github.com/the-Lobbi/ai-deep-template-engine",
+  "install": "# git clone --depth 1 https://github.com/the-Lobbi/ai-deep-template-engine\n# See source for mcpServers config block"
+}

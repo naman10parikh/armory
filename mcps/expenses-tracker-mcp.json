@@ -1,0 +1,7 @@
+{
+  "name": "expenses-tracker-mcp",
+  "description": "Enables read-only SQL queries and transaction classification tools for local expense tracking, including listing, filtering, and bulk account assignment with dry-run mode.",
+  "source_repo": "samu187/expenses-tracker-mcp",
+  "source_url": "https://github.com/samu187/expenses-tracker-mcp",
+  "install": "npx -y expenses-tracker-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hermetic-ai",
+  "description": "Enables code verification with skepticism, forensic analysis, memory management, project detection, and sequential thinking through the Hermetic AI platform.",
+  "source_repo": "Ramz369/hermetic-ai-mcp",
+  "source_url": "https://github.com/Ramz369/hermetic-ai-mcp",
+  "install": "npx -y hermetic-ai-mcp"
+}

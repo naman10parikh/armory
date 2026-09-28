@@ -1,0 +1,7 @@
+{
+  "name": "switzerland-payments-mcp",
+  "description": "Enables AI agents to accept payments in Switzerland via Stripe hosted checkout, supporting TWINT, cards, and Apple Pay.",
+  "source_repo": "junter1989k-ai/switzerland-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/switzerland-payments-mcp",
+  "install": "npx -y switzerland-payments-mcp"
+}

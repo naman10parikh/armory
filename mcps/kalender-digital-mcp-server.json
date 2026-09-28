@@ -1,0 +1,7 @@
+{
+  "name": "kalender-digital-mcp-server",
+  "description": "Enables managing events and subcalendars from kalender.digital through MCP tools for listing, creating, updating, and deleting events and subcalendars.",
+  "source_repo": "Movm/kalender-digital-mcp",
+  "source_url": "https://github.com/Movm/kalender-digital-mcp",
+  "install": "npx -y kalender-digital-mcp"
+}

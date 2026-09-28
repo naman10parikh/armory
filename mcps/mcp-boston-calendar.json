@@ -1,0 +1,7 @@
+{
+  "name": "mcp-boston-calendar",
+  "description": "Provides access to The Boston Calendar's event tags and keywords, enabling filtering and discovery of events through natural language queries.",
+  "source_repo": "pipeworx-io/mcp-boston-calendar",
+  "source_url": "https://github.com/pipeworx-io/mcp-boston-calendar",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-boston-calendar\n# See source for mcpServers config block"
+}

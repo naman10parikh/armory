@@ -1,0 +1,7 @@
+{
+  "name": "header-doctor",
+  "description": "A template for MCP servers that enforces a paywall gate, offering free local execution and monetizing premium features via Stripe or x402 payments.",
+  "source_repo": "Baneado98/header-doctor",
+  "source_url": "https://github.com/Baneado98/header-doctor",
+  "install": "# git clone --depth 1 https://github.com/Baneado98/header-doctor\n# See source for mcpServers config block"
+}

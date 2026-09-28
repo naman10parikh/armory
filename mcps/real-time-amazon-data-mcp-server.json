@@ -1,0 +1,7 @@
+{
+  "name": "real-time-amazon-data-mcp-server",
+  "description": "Provides tools to access real-time Amazon data, including product details, reviews, offers, influencer profiles, and deals, through a FastMCP-based server.",
+  "source_repo": "BACH-AI-Tools/bach-real_time_amazon_data",
+  "source_url": "https://github.com/BACH-AI-Tools/bach-real_time_amazon_data",
+  "install": "# git clone --depth 1 https://github.com/BACH-AI-Tools/bach-real_time_amazon_data\n# See source for mcpServers config block"
+}

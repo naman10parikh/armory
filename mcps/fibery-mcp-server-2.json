@@ -1,6 +1,6 @@
 {
   "name": "fibery-mcp-server-2",
-  "description": "Fibery Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Fibery.io/fibery-mcp-server",
   "source_url": "https://mcp.so/server/fibery-mcp-server/Fibery.io",
   "install": "npx -y fibery-mcp-server"

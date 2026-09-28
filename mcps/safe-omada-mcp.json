@@ -1,0 +1,7 @@
+{
+  "name": "safe-omada-mcp",
+  "description": "Security-focused MCP server for TP-Link Omada Open API workflows, enabling network management via natural language.",
+  "source_repo": "gaspareduard/Omada-mcp",
+  "source_url": "https://github.com/gaspareduard/Omada-mcp",
+  "install": "npx -y Omada-mcp"
+}

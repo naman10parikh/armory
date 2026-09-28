@@ -1,0 +1,7 @@
+{
+  "name": "signalgrid-mcp",
+  "description": "An MCP server that exposes macOS-native device trust signals — the facts about a Mac that cannot be gathered from a Linux container or a cloud runner. All tools are strictly read-only.",
+  "source_repo": "DanFashauer/signalgrid-mcp",
+  "source_url": "https://github.com/DanFashauer/signalgrid-mcp",
+  "install": "npx -y signalgrid-mcp"
+}

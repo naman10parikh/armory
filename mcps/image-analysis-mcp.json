@@ -1,0 +1,7 @@
+{
+  "name": "image-analysis-mcp",
+  "description": "FastMCP server for image analysis providing OCR, metadata, and EXIF extraction.",
+  "source_repo": "jmars/image-analysis-mcp",
+  "source_url": "https://github.com/jmars/image-analysis-mcp",
+  "install": "npx -y image-analysis-mcp"
+}

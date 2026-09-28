@@ -1,0 +1,7 @@
+{
+  "name": "todo-list-mcp-server-exerc-cio-4-2",
+  "description": "Local MCP server that exposes tools for a TODO list, acting as an adapter between an AI agent and a REST API (localhost:8000).",
+  "source_repo": "antonioddiniz/todo-mcp-4.2",
+  "source_url": "https://github.com/antonioddiniz/todo-mcp-4.2",
+  "install": "# git clone --depth 1 https://github.com/antonioddiniz/todo-mcp-4.2\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sunshine-atlas-mcp-server",
+  "description": "Provides climate data for 3,833 destinations including sunshine scores, temperatures, rainfall, and sea temperature, enabling users to find sunny destinations and compare climates via three tools.",
+  "source_repo": "Flightmussy/sunshine-atlas-mcp",
+  "source_url": "https://github.com/Flightmussy/sunshine-atlas-mcp",
+  "install": "npx -y sunshine-atlas-mcp"
+}

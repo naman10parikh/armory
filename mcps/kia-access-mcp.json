@@ -1,0 +1,7 @@
+{
+  "name": "kia-access-mcp",
+  "description": "A Model Context Protocol server that connects Claude to your own Kia vehicle through the Kia Owners API, enabling vehicle status, location, odometer, EV charge state, and confirm-gated commands for doors, climate, and charging.",
+  "source_repo": "chrischall/kiaaccess-mcp",
+  "source_url": "https://github.com/chrischall/kiaaccess-mcp",
+  "install": "npx -y kiaaccess-mcp"
+}

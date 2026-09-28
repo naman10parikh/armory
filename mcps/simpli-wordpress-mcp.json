@@ -1,0 +1,7 @@
+{
+  "name": "simpli-wordpress-mcp",
+  "description": "A remote MCP gateway that securely exposes WordPress site abilities through the Abilities API, enabling natural-language control of posts, WooCommerce, Elementor, ACF, Rank Math, and more.",
+  "source_repo": "jaymoxke/simpli-wordpress-mcp",
+  "source_url": "https://github.com/jaymoxke/simpli-wordpress-mcp",
+  "install": "npx -y simpli-wordpress-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-randomuser",
+  "description": "Wraps the randomuser.me API to generate random user profiles with names, contact info, and demographics, optionally filtered by gender and count.",
+  "source_repo": "pipeworx-io/mcp-randomuser",
+  "source_url": "https://github.com/pipeworx-io/mcp-randomuser",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-randomuser\n# See source for mcpServers config block"
+}

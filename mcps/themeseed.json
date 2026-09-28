@@ -1,0 +1,7 @@
+{
+  "name": "themeseed",
+  "description": "MCP server that analyzes a CMS's active theme and generates realistic demo content tailored to it, letting users judge themes with real-looking articles, images, and embeds.",
+  "source_repo": "ThemeAnax/themeseed",
+  "source_url": "https://github.com/ThemeAnax/themeseed",
+  "install": "# git clone --depth 1 https://github.com/ThemeAnax/themeseed\n# See source for mcpServers config block"
+}

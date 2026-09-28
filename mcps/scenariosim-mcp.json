@@ -1,0 +1,7 @@
+{
+  "name": "scenariosim-mcp",
+  "description": "A deterministic what-if scenario simulation MCP server that projects business metrics over time with exact decimal arithmetic, offering sensitivity analysis and break-even solving.",
+  "source_repo": "inity13/scenariosim-mcp",
+  "source_url": "https://github.com/inity13/scenariosim-mcp",
+  "install": "npx -y scenariosim-mcp"
+}

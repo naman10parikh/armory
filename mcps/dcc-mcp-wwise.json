@@ -1,0 +1,7 @@
+{
+  "name": "dcc-mcp-wwise",
+  "description": "Enables interaction with Audiokinetic Wwise Authoring through WAAPI, allowing project inspection, sound and music imports, event management, and audible previews.",
+  "source_repo": "dcc-mcp/dcc-mcp-wwise",
+  "source_url": "https://github.com/dcc-mcp/dcc-mcp-wwise",
+  "install": "# git clone --depth 1 https://github.com/dcc-mcp/dcc-mcp-wwise\n# See source for mcpServers config block"
+}

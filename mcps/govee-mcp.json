@@ -1,0 +1,7 @@
+{
+  "name": "govee-mcp",
+  "description": "Control a Govee BLE RGBIC LED strip from Claude (or any MCP client) over Bluetooth on macOS.",
+  "source_repo": "RishaanJ/govee-mcp",
+  "source_url": "https://github.com/RishaanJ/govee-mcp",
+  "install": "npx -y govee-mcp"
+}

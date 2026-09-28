@@ -1,0 +1,7 @@
+{
+  "name": "nvim-markdown-notes-memgraph",
+  "description": "Enables AI assistants to query and interact with a graph database of markdown notes, extracting entities like wikilinks, mentions, and hashtags.",
+  "source_repo": "xpcoffee/nvim-markdown-notes-memgraph",
+  "source_url": "https://github.com/xpcoffee/nvim-markdown-notes-memgraph",
+  "install": "# git clone --depth 1 https://github.com/xpcoffee/nvim-markdown-notes-memgraph\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pgwarden-mcp",
+  "description": "A Postgres MCP server that enables AI agents to safely access production databases through deny-by-default YAML policies, PII masking, row limits, and required predicates. It also provides DBA capabilities like index tuning, health checks, and EXPLAIN plans, with support for multiple databases.",
+  "source_repo": "gokiwitech/pgwarden-mcp",
+  "source_url": "https://github.com/gokiwitech/pgwarden-mcp",
+  "install": "npx -y pgwarden-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yeelight-metadata-mcp-server",
+  "description": "An MCP server for Yeelight home metadata and management workflows. It provides a guarded task interface for managing homes, rooms, devices, groups, scenes, automations, and account operations.",
+  "source_repo": "Yeelight/yeelight-metadata-mcp",
+  "source_url": "https://github.com/Yeelight/yeelight-metadata-mcp",
+  "install": "npx -y yeelight-metadata-mcp"
+}

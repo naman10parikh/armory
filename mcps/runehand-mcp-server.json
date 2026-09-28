@@ -1,0 +1,7 @@
+{
+  "name": "runehand-mcp-server",
+  "description": "MCP server that wraps the Runehand API v1 as tools, enabling users to operate Runehand bots directly by listing bots and flows, reading and replying to conversations, managing leads, and checking analytics.",
+  "source_repo": "echelonlabs-sf/runehand-mcp",
+  "source_url": "https://github.com/echelonlabs-sf/runehand-mcp",
+  "install": "npx -y runehand-mcp"
+}

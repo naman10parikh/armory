@@ -1,0 +1,7 @@
+{
+  "name": "pok-mon-mcp",
+  "description": "Enables querying Pokémon data from PokéAPI, including listing Pokémon, fetching details by name or ID, and getting type matchups.",
+  "source_repo": "omy13/pokemon-app-openai",
+  "source_url": "https://github.com/omy13/pokemon-app-openai",
+  "install": "# git clone --depth 1 https://github.com/omy13/pokemon-app-openai\n# See source for mcpServers config block"
+}

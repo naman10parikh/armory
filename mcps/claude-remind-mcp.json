@@ -1,0 +1,7 @@
+{
+  "name": "claude-remind-mcp",
+  "description": "Searches your local Claude Code conversation history to recall and resume past solutions.",
+  "source_repo": "emretheus/claude-remind-mcp",
+  "source_url": "https://github.com/emretheus/claude-remind-mcp",
+  "install": "npx -y claude-remind-mcp"
+}

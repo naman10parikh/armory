@@ -1,0 +1,7 @@
+{
+  "name": "fa-technician-brain-mcp",
+  "description": "Provides structured knowledge about the Technician Portal module in FleetFocus FA/EAM, enabling AI agents to query pages, workflows, APIs, and more without live connections.",
+  "source_repo": "callen-assetworks/FA-Technician-Brain-MCP",
+  "source_url": "https://github.com/callen-assetworks/FA-Technician-Brain-MCP",
+  "install": "npx -y FA-Technician-Brain-MCP"
+}

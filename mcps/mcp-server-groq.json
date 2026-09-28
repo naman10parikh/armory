@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-groq",
+  "description": "Enables AI tools to route high-speed inference and code analysis to Groq's LLaMA 3.3 70B engine via fast chat and code summarization tools.",
+  "source_repo": "Bhanu-teja-VCE/mcp-server-groq",
+  "source_url": "https://github.com/Bhanu-teja-VCE/mcp-server-groq",
+  "install": "# git clone --depth 1 https://github.com/Bhanu-teja-VCE/mcp-server-groq\n# See source for mcpServers config block"
+}

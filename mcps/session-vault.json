@@ -1,0 +1,7 @@
+{
+  "name": "session-vault",
+  "description": "Discover, archive, catalog, and verify OpenCode sessions with remote upload support.",
+  "source_repo": "Zhuchen00123/session-vault",
+  "source_url": "https://github.com/Zhuchen00123/session-vault",
+  "install": "# git clone --depth 1 https://github.com/Zhuchen00123/session-vault\n# See source for mcpServers config block"
+}

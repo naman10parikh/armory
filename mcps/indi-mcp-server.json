@@ -1,0 +1,7 @@
+{
+  "name": "indi-mcp-server",
+  "description": "Controls astrophotography equipment via INDI, manages the INDI server, and handles frame storage and transfer over a local network.",
+  "source_repo": "Oekalegon/indi-mcp",
+  "source_url": "https://github.com/Oekalegon/indi-mcp",
+  "install": "npx -y indi-mcp"
+}

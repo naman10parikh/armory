@@ -1,0 +1,7 @@
+{
+  "name": "mcp-alertmanager",
+  "description": "Enables interaction with Prometheus Alertmanager for querying alerts, managing silences, and investigating incidents. Supports direct API connection and Kubernetes auto-discovery.",
+  "source_repo": "jeanlopezxyz/mcp-alertmanager",
+  "source_url": "https://github.com/jeanlopezxyz/mcp-alertmanager",
+  "install": "# git clone --depth 1 https://github.com/jeanlopezxyz/mcp-alertmanager\n# See source for mcpServers config block"
+}

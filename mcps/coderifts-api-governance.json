@@ -1,0 +1,7 @@
+{
+  "name": "coderifts-api-governance",
+  "description": "An MCP server providing risk-aware API governance tools for AI agents. Agents call preflight checks before tool calls or merges to verify API contracts are safe. Returns risk score, blast radius, agent impact, economic cost, and a deterministic ALLOW/WARN/REQUIRE_APPROVAL/BLOCK decision. MCP endpoin",
+  "source_repo": "coderifts/api-governance",
+  "source_url": "https://github.com/coderifts/api-governance",
+  "install": "# git clone --depth 1 https://github.com/coderifts/api-governance\n# See source for mcpServers config block"
+}

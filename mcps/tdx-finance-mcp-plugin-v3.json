@@ -1,0 +1,7 @@
+{
+  "name": "tdx-finance-mcp-plugin-v3",
+  "description": "Enables access to TDX A-share financial data, including real-time quotes, K-line, F10 fundamentals, stock screening, and code retrieval via natural language.",
+  "source_repo": "adambbhe/TDX-finance-mcp-plugin-v3",
+  "source_url": "https://github.com/adambbhe/TDX-finance-mcp-plugin-v3",
+  "install": "# git clone --depth 1 https://github.com/adambbhe/TDX-finance-mcp-plugin-v3\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "finans-mcp",
+  "description": "MCP server for Turkish financial markets, providing BIST stock analysis, TEFAS fund data, TCMB macro indicators, KAP disclosures, analyst consensus forecasts, and portfolio optimization/risk simulation tools.",
+  "source_repo": "tufankoc/finans-mcp",
+  "source_url": "https://github.com/tufankoc/finans-mcp",
+  "install": "npx -y finans-mcp"
+}

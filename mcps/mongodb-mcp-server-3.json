@@ -1,0 +1,7 @@
+{
+  "name": "mongodb-mcp-server-3",
+  "description": "Enables AI assistants to interact natively with MongoDB databases, including schema discovery, CRUD operations, aggregation pipelines, and index management via natural language.",
+  "source_repo": "BrunoL28/mongodb-mcp",
+  "source_url": "https://github.com/BrunoL28/mongodb-mcp",
+  "install": "npx -y mongodb-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "foundrynet-search",
+  "description": "Enables web search and AI-summarized answers via an x402-gated gateway, with options for structured results or enriched summaries, accessible as an MCP server.",
+  "source_repo": "FoundryNet/foundrynet-search",
+  "source_url": "https://github.com/FoundryNet/foundrynet-search",
+  "install": "# git clone --depth 1 https://github.com/FoundryNet/foundrynet-search\n# See source for mcpServers config block"
+}

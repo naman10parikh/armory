@@ -1,0 +1,7 @@
+{
+  "name": "mandi-price-advisor-mcp-server",
+  "description": "Provides daily mandi commodity prices across India, compares markets, and allows setting price alerts that notify via Telegram.",
+  "source_repo": "lalit3001/mandi-advisor-mcp",
+  "source_url": "https://github.com/lalit3001/mandi-advisor-mcp",
+  "install": "npx -y mandi-advisor-mcp"
+}

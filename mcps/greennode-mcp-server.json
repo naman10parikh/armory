@@ -1,0 +1,7 @@
+{
+  "name": "greennode-mcp-server",
+  "description": "Enables AI assistants to manage VNG Cloud infrastructure including compute, storage, networking, and Kubernetes resources through natural language commands.",
+  "source_repo": "vngcloud/greennode-mcp",
+  "source_url": "https://github.com/vngcloud/greennode-mcp",
+  "install": "npx -y greennode-mcp"
+}

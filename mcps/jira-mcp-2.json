@@ -1,0 +1,7 @@
+{
+  "name": "jira-mcp-2",
+  "description": "MCP server for Jira Cloud enabling issue tracking, comments, transitions, and attachments management through natural language.",
+  "source_repo": "nikitatsym/jira-mcp",
+  "source_url": "https://github.com/nikitatsym/jira-mcp",
+  "install": "npx -y jira-mcp"
+}

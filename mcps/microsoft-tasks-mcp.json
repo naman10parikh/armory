@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-tasks-mcp",
+  "description": "Enables AI coding agents to read Microsoft Planner and To Do tasks across multiple M365 tenants with proper authentication, and supports optional write operations limited to tasks the agent created.",
+  "source_repo": "XMV-Solutions-GmbH/microsoft-tasks-mcp",
+  "source_url": "https://github.com/XMV-Solutions-GmbH/microsoft-tasks-mcp",
+  "install": "npx -y microsoft-tasks-mcp"
+}

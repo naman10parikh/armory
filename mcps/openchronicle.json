@@ -1,0 +1,7 @@
+{
+  "name": "openchronicle",
+  "description": "Persistent memory database for LLM agents with hybrid semantic and keyword search, project namespacing, and MCP/REST interfaces.",
+  "source_repo": "CarlDog/openchronicle-mcp",
+  "source_url": "https://github.com/CarlDog/openchronicle-mcp",
+  "install": "npx -y openchronicle-mcp"
+}

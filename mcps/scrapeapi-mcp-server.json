@@ -1,0 +1,7 @@
+{
+  "name": "scrapeapi-mcp-server",
+  "description": "Enables web scraping of URLs, including extracting text, links, images, metadata, taking screenshots, and using CSS selectors for structured data extraction.",
+  "source_repo": "kenn-kentonm/scrapeapi-mcp",
+  "source_url": "https://github.com/kenn-kentonm/scrapeapi-mcp",
+  "install": "npx -y scrapeapi-mcp"
+}

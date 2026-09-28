@@ -1,0 +1,7 @@
+{
+  "name": "xenozmcp",
+  "description": "An MCP server that bridges AI to Roblox Studio, enabling execution of Luau scripts, instance manipulation, play-testing control, and Open Cloud operations via natural language.",
+  "source_repo": "Xenoz-GitHub/XenozMCP",
+  "source_url": "https://github.com/Xenoz-GitHub/XenozMCP",
+  "install": "# git clone --depth 1 https://github.com/Xenoz-GitHub/XenozMCP\n# See source for mcpServers config block"
+}

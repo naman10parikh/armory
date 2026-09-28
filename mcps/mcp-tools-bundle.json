@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tools-bundle",
+  "description": "A collection of three zero-dependency MCP servers for web scraping via Chrome DevTools Protocol, crypto wallet and price monitoring, and email validation with SMTP sending.",
+  "source_repo": "AMEOBIUS-space/mcp-tools-bundle",
+  "source_url": "https://github.com/AMEOBIUS-space/mcp-tools-bundle",
+  "install": "# git clone --depth 1 https://github.com/AMEOBIUS-space/mcp-tools-bundle\n# See source for mcpServers config block"
+}

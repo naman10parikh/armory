@@ -1,0 +1,7 @@
+{
+  "name": "users",
+  "description": "MCP server that serves tools for interacting with a users API over stdio, supporting operations like finding users. It provides a validated configuration and structured logging for building MCP-based user management workflows.",
+  "source_repo": "amoljagtap17/2026-typescript-mcp-server",
+  "source_url": "https://github.com/amoljagtap17/2026-typescript-mcp-server",
+  "install": "npx -y 2026-typescript-mcp-server"
+}

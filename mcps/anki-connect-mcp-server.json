@@ -1,0 +1,7 @@
+{
+  "name": "anki-connect-mcp-server",
+  "description": "Enables AI assistants to interact with Anki flashcard collections through the AnkiConnect add-on, allowing creation, modification, searching, and management of flashcards and decks.",
+  "source_repo": "spacholski1225/anki-connect-mcp",
+  "source_url": "https://github.com/spacholski1225/anki-connect-mcp",
+  "install": "npx -y anki-connect-mcp"
+}

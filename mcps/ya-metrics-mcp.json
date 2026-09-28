@@ -1,0 +1,7 @@
+{
+  "name": "ya-metrics-mcp",
+  "description": "MCP server for Yandex Metrika analytics, enabling AI assistants to access traffic, content, demographics, conversion, e-commerce, and drill-down reports.",
+  "source_repo": "mrkhachaturov/ya-metrics-mcp",
+  "source_url": "https://github.com/mrkhachaturov/ya-metrics-mcp",
+  "install": "npx -y ya-metrics-mcp"
+}

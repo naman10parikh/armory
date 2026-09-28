@@ -1,0 +1,7 @@
+{
+  "name": "ai-carousel-generator",
+  "description": "Enables AI clients to generate premium 4K carousel slides from a single instruction, combining expert copywriting, AI image generation, and premium typography compositing.",
+  "source_repo": "Deepak-ai-93/Deepak-mcp",
+  "source_url": "https://github.com/Deepak-ai-93/Deepak-mcp",
+  "install": "npx -y Deepak-mcp"
+}

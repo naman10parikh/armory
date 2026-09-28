@@ -1,0 +1,7 @@
+{
+  "name": "adminv2mcp",
+  "description": "Exposes AdminV2 backend API operations as discoverable, callable tools for AI agents, enabling natural language or structured API interactions.",
+  "source_repo": "hensem/mcp",
+  "source_url": "https://github.com/hensem/mcp",
+  "install": "# git clone --depth 1 https://github.com/hensem/mcp\n# See source for mcpServers config block"
+}

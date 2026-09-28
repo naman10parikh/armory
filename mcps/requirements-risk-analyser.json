@@ -1,0 +1,7 @@
+{
+  "name": "requirements-risk-analyser",
+  "description": "AI-powered pipeline that analyzes user stories and PRDs for gaps, ambiguities, and missing acceptance criteria before coding, with MCP tools for requirement analysis and risk reporting.",
+  "source_repo": "abchahal/requirements-risk-analyser",
+  "source_url": "https://github.com/abchahal/requirements-risk-analyser",
+  "install": "# git clone --depth 1 https://github.com/abchahal/requirements-risk-analyser\n# See source for mcpServers config block"
+}

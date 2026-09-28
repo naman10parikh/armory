@@ -1,0 +1,7 @@
+{
+  "name": "fhir-tools-mcp-server",
+  "description": "Provides FHIR resource validation, synthetic test fixture generation, and HIPAA-safe logging review as MCP tools for AI agents.",
+  "source_repo": "charan-pagolu/fhir-tools-mcp",
+  "source_url": "https://github.com/charan-pagolu/fhir-tools-mcp",
+  "install": "npx -y fhir-tools-mcp"
+}

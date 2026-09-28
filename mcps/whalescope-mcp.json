@@ -1,0 +1,7 @@
+{
+  "name": "whalescope-mcp",
+  "description": "MCP server providing Binance Futures market intelligence, including funding rates, open interest, long/short ratios, order book, and volatility, with a focus on retail vs whale positioning. It offers read-only access to public data and a composite analysis tool.",
+  "source_repo": "osindo-dev/whalescope-mcp",
+  "source_url": "https://github.com/osindo-dev/whalescope-mcp",
+  "install": "npx -y whalescope-mcp"
+}

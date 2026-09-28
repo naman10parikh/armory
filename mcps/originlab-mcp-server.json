@@ -1,0 +1,7 @@
+{
+  "name": "originlab-mcp-server",
+  "description": "Bridge between AI assistants and OriginLab, enabling data import, plotting, analysis, and export through natural language commands.",
+  "source_repo": "garethbeaumo/originlab-mcp",
+  "source_url": "https://github.com/garethbeaumo/originlab-mcp",
+  "install": "npx -y originlab-mcp"
+}

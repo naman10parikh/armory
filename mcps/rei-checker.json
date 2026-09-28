@@ -1,0 +1,7 @@
+{
+  "name": "rei-checker",
+  "description": "Provides MCP tools to verify logical expressions and retrieve decision statistics, with verdicts VALID, INVALID, or UNDECIDED.",
+  "source_repo": "fc0web/rei-checker-mcp",
+  "source_url": "https://github.com/fc0web/rei-checker-mcp",
+  "install": "npx -y rei-checker-mcp"
+}

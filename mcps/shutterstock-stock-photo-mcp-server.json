@@ -1,0 +1,7 @@
+{
+  "name": "shutterstock-stock-photo-mcp-server",
+  "description": "Enables AI agents to search for stock photography based on current location and weather conditions using the Shutterstock API.",
+  "source_repo": "garystafford/aws-strands-agents-mcp-demo",
+  "source_url": "https://github.com/garystafford/aws-strands-agents-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/garystafford/aws-strands-agents-mcp-demo\n# See source for mcpServers config block"
+}

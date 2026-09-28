@@ -1,0 +1,7 @@
+{
+  "name": "mo5-mcp-server",
+  "description": "Enables AI agents to access Thomson MO5 technical documentation, perform semantic search, and use build tools for MO5 development.",
+  "source_repo": "thlg057/mo5-mcp-server",
+  "source_url": "https://github.com/thlg057/mo5-mcp-server",
+  "install": "npx -y mo5-mcp-server"
+}

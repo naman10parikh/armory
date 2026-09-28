@@ -1,0 +1,7 @@
+{
+  "name": "browse",
+  "description": "Headless browser automation via MCP using Playwright WebKit.",
+  "source_repo": "saiden-dev/browse",
+  "source_url": "https://github.com/saiden-dev/browse",
+  "install": "# git clone --depth 1 https://github.com/saiden-dev/browse\n# See source for mcpServers config block"
+}

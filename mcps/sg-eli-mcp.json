@@ -1,0 +1,7 @@
+{
+  "name": "sg-eli-mcp",
+  "description": "An MCP server for Singapore Statutes Online (SSO), the official portal for Singapore legislation. It browses, fetches, and cites Acts, with a verifiable citation on every response.",
+  "source_repo": "matematicsolutions/sg-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/sg-eli-mcp",
+  "install": "npx -y sg-eli-mcp"
+}

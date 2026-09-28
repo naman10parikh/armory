@@ -1,0 +1,7 @@
+{
+  "name": "google-analytics-mcp-for-coolify",
+  "description": "Provides a secure FastMCP gateway to Google Analytics Admin and Data APIs, deployable on Coolify with OAuth protection and encrypted storage.",
+  "source_repo": "ccsDevs/google-analytics-mcp-coolify",
+  "source_url": "https://github.com/ccsDevs/google-analytics-mcp-coolify",
+  "install": "# git clone --depth 1 https://github.com/ccsDevs/google-analytics-mcp-coolify\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "postiz-mcp",
+  "description": "MCP server for managing social media posts across multiple platforms using the Postiz API. Supports creating, updating, deleting posts, and generating videos.",
+  "source_repo": "antoniolg/postiz-mcp",
+  "source_url": "https://github.com/antoniolg/postiz-mcp",
+  "install": "npx -y postiz-mcp"
+}

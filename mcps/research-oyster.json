@@ -1,0 +1,7 @@
+{
+  "name": "research-oyster",
+  "description": "MCP server for local, source-agnostic research, turning briefs into platform-specific searches and cited evidence dossiers with PostgreSQL storage and optional browser capture.",
+  "source_repo": "zandemha2025/research-oyster",
+  "source_url": "https://github.com/zandemha2025/research-oyster",
+  "install": "# git clone --depth 1 https://github.com/zandemha2025/research-oyster\n# See source for mcpServers config block"
+}

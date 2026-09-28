@@ -1,0 +1,7 @@
+{
+  "name": "open-dental-mcp",
+  "description": "Enables interaction with Open Dental practice management software, allowing reading of patients, appointments, providers, procedures, and recalls, as well as writing communications back to patient charts via MCP clients.",
+  "source_repo": "sanjibani/open-dental-mcp",
+  "source_url": "https://github.com/sanjibani/open-dental-mcp",
+  "install": "npx -y open-dental-mcp"
+}

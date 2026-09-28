@@ -1,0 +1,7 @@
+{
+  "name": "marriott-hotel-booking-mcp-server",
+  "description": "AI-powered hotel search and booking for 8,000+ Marriott Bonvoy properties worldwide.",
+  "source_repo": "kit2552/marriott-hotel-booking-mcp",
+  "source_url": "https://github.com/kit2552/marriott-hotel-booking-mcp",
+  "install": "npx -y marriott-hotel-booking-mcp"
+}

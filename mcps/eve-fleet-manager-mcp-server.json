@@ -1,0 +1,7 @@
+{
+  "name": "eve-fleet-manager-mcp-server",
+  "description": "Manages EVE Online fleets via SSO authorization, inspecting composition, organizing squads/wings, inviting/kicking members, and updating MOTD.",
+  "source_repo": "tedfytw1209/mcp-server-EVEfleet",
+  "source_url": "https://github.com/tedfytw1209/mcp-server-EVEfleet",
+  "install": "# git clone --depth 1 https://github.com/tedfytw1209/mcp-server-EVEfleet\n# See source for mcpServers config block"
+}

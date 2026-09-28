@@ -1,0 +1,7 @@
+{
+  "name": "advanced-math-mcp",
+  "description": "Enables advanced mathematics operations including linear algebra, vector math, symbolic computation, and calculus through MCP tools. Designed for use with Claude and other MCP-compatible LLMs.",
+  "source_repo": "PsyWhat/advanced-math-mcp",
+  "source_url": "https://github.com/PsyWhat/advanced-math-mcp",
+  "install": "npx -y advanced-math-mcp"
+}

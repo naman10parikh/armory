@@ -1,0 +1,7 @@
+{
+  "name": "agent-standup",
+  "description": "An MCP server enabling AI coding agents to interact with a task tracker that enforces rules server-side, replacing markdown files and hooks with a database, CLI, and web UI.",
+  "source_repo": "Zaida-3dO/agent-standup",
+  "source_url": "https://github.com/Zaida-3dO/agent-standup",
+  "install": "# git clone --depth 1 https://github.com/Zaida-3dO/agent-standup\n# See source for mcpServers config block"
+}

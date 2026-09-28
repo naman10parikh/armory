@@ -1,0 +1,7 @@
+{
+  "name": "questmcp",
+  "description": "Enables AI agents to post real-world tasks, match them to people, and release payments through a delegation-based authorization system that enforces scoped, spend-capped permissions.",
+  "source_repo": "FarhanUllah382/questmcp",
+  "source_url": "https://github.com/FarhanUllah382/questmcp",
+  "install": "# git clone --depth 1 https://github.com/FarhanUllah382/questmcp\n# See source for mcpServers config block"
+}

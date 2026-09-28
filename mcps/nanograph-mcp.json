@@ -1,0 +1,7 @@
+{
+  "name": "nanograph-mcp",
+  "description": "Build Nanograph datasources from Markdown or PDF corpora and serve them through MCP or a small HTTP/JSON wrapper.",
+  "source_repo": "quantumsoftwarelab/nanograph-mcp",
+  "source_url": "https://github.com/quantumsoftwarelab/nanograph-mcp",
+  "install": "npx -y nanograph-mcp"
+}

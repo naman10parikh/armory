@@ -1,0 +1,7 @@
+{
+  "name": "shieldbot",
+  "description": "AI-powered security code review for Claude Code that runs multiple scanners (CodeQL, Semgrep, etc.) to detect vulnerabilities, secrets, and dependency CVEs, producing prioritized reports.",
+  "source_repo": "balasriharsha/shieldbot",
+  "source_url": "https://github.com/balasriharsha/shieldbot",
+  "install": "# git clone --depth 1 https://github.com/balasriharsha/shieldbot\n# See source for mcpServers config block"
+}

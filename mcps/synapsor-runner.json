@@ -1,0 +1,7 @@
+{
+  "name": "synapsor-runner",
+  "description": "Reviewed Postgres and MySQL business actions for MCP agents, without exposing raw execute_sql.",
+  "source_repo": "Synapsor/Synapsor-Runner",
+  "source_url": "https://github.com/Synapsor/Synapsor-Runner",
+  "install": "# git clone --depth 1 https://github.com/Synapsor/Synapsor-Runner\n# See source for mcpServers config block"
+}

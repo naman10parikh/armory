@@ -1,0 +1,7 @@
+{
+  "name": "resend-mcp-server",
+  "description": "An MCP server for the Resend email API, enabling AI assistants to send emails, manage contacts, audiences, and domains through natural language.",
+  "source_repo": "friendlygeorge/resend-mcp-server",
+  "source_url": "https://github.com/friendlygeorge/resend-mcp-server",
+  "install": "npx -y resend-mcp-server"
+}

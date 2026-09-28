@@ -1,0 +1,7 @@
+{
+  "name": "telegram-notes-mcp",
+  "description": "A local MCP server that enables full-text and semantic search over your own Telegram chats using your personal MTProto login, with everything running locally.",
+  "source_repo": "RaspizDIYs/telegram-notes-mcp-public",
+  "source_url": "https://github.com/RaspizDIYs/telegram-notes-mcp-public",
+  "install": "# git clone --depth 1 https://github.com/RaspizDIYs/telegram-notes-mcp-public\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "open-brain-web-gateway",
+  "description": "Provides OAuth-protected remote access to an existing Open Brain, forwarding approved tool calls from Gemini Spark and Perplexity web clients without altering the upstream system.",
+  "source_repo": "Derivedbetter/open-brain-oauth-ui",
+  "source_url": "https://github.com/Derivedbetter/open-brain-oauth-ui",
+  "install": "# git clone --depth 1 https://github.com/Derivedbetter/open-brain-oauth-ui\n# See source for mcpServers config block"
+}

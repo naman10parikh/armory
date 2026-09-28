@@ -1,0 +1,7 @@
+{
+  "name": "lungmap-mcp-server",
+  "description": "MCP server for accessing the LungMAP API, enabling AI assistants to discover and analyze lung research data such as datasets, samples, and analysis results.",
+  "source_repo": "pankajrajdeo/lungmap-mcp-server",
+  "source_url": "https://github.com/pankajrajdeo/lungmap-mcp-server",
+  "install": "npx -y lungmap-mcp-server"
+}

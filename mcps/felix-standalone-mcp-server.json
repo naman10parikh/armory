@@ -1,0 +1,7 @@
+{
+  "name": "felix-standalone-mcp-server",
+  "description": "Standalone MCP server that provides external AI clients with tool integration and intelligent PASH compression for significant token savings.",
+  "source_repo": "AkynZH/pash-mcp-server",
+  "source_url": "https://github.com/AkynZH/pash-mcp-server",
+  "install": "npx -y pash-mcp-server"
+}

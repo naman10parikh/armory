@@ -1,0 +1,7 @@
+{
+  "name": "singlinkbot-mcp",
+  "description": "Provides remote MCP access to citable SingLinkNews briefs and authorized read-only SingLinkBot group information. Enables public news lookup and secure group management through natural language.",
+  "source_repo": "SingLinkLabs/singlinkbot-mcp",
+  "source_url": "https://github.com/SingLinkLabs/singlinkbot-mcp",
+  "install": "npx -y singlinkbot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "airflow-mcp-monitor",
+  "description": "Provides read-only monitoring of Apache Airflow DAGs, including listing active DAGs, fetching recent runs, and analyzing execution history and performance metrics.",
+  "source_repo": "RakhaHafishSetiawan/airflow-monitor-mcp",
+  "source_url": "https://github.com/RakhaHafishSetiawan/airflow-monitor-mcp",
+  "install": "npx -y airflow-monitor-mcp"
+}

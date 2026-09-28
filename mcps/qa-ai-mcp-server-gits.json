@@ -1,0 +1,7 @@
+{
+  "name": "qa-ai-mcp-server-gits",
+  "description": "MCP server for end-to-end QA automation: generates test scenarios, discovers Playwright locators, creates TypeScript test code, executes tests, and creates GitHub issues for failures.",
+  "source_repo": "gits5213/qa-ai-mcp-server-gits",
+  "source_url": "https://github.com/gits5213/qa-ai-mcp-server-gits",
+  "install": "# git clone --depth 1 https://github.com/gits5213/qa-ai-mcp-server-gits\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "softalleys-utilities-mcp-server",
+  "description": "Enables generation of UUIDs (v4, v7) and ULIDs, UTC time retrieval, and customizable random string creation with options for length, case, numbers, and special characters.",
+  "source_repo": "Softalleys/softalleys-utilities-mcp",
+  "source_url": "https://github.com/Softalleys/softalleys-utilities-mcp",
+  "install": "npx -y softalleys-utilities-mcp"
+}

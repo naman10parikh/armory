@@ -1,0 +1,7 @@
+{
+  "name": "wow-site-mcp",
+  "description": "Enables querying World of Warcraft character equipment, talents, profile, achievements, and realm lists via Blizzard's API, backed by shared caches and audit logging.",
+  "source_repo": "consecrated-hammer/wow-site",
+  "source_url": "https://github.com/consecrated-hammer/wow-site",
+  "install": "# git clone --depth 1 https://github.com/consecrated-hammer/wow-site\n# See source for mcpServers config block"
+}

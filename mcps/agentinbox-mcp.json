@@ -1,0 +1,7 @@
+{
+  "name": "agentinbox-mcp",
+  "description": "Enables AI agents to manage a customer-support inbox with guardrails, including replying safely, handling escalations, and leveraging upsell opportunities for e-commerce stores.",
+  "source_repo": "adsman888/agentinbox-mcp",
+  "source_url": "https://github.com/adsman888/agentinbox-mcp",
+  "install": "npx -y agentinbox-mcp"
+}

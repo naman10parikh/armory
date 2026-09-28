@@ -1,0 +1,7 @@
+{
+  "name": "wallbit-mcp",
+  "description": "Enables AI assistants to interact with Wallbit's API for financial operations like checking balances, trading stocks, and managing accounts.",
+  "source_repo": "Wallbit/wallbit-mcp",
+  "source_url": "https://github.com/Wallbit/wallbit-mcp",
+  "install": "npx -y wallbit-mcp"
+}

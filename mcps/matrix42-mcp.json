@@ -1,0 +1,7 @@
+{
+  "name": "matrix42-mcp",
+  "description": "Lets AI assistants safely explore a Matrix42 instance by discovering web services and the data model, running validated ASQL queries, searching the service desk, and previewing ticket actions — read-only by default and without exposing credentials.",
+  "source_repo": "sus-tech-gmbh/matrix42-mcp",
+  "source_url": "https://github.com/sus-tech-gmbh/matrix42-mcp",
+  "install": "npx -y matrix42-mcp"
+}

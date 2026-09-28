@@ -1,0 +1,7 @@
+{
+  "name": "stellar-mcp-server",
+  "description": "An MCP server that provides Stellar blockchain tools for account queries, Soroban contract simulation, and boilerplate generation within compatible AI IDEs.",
+  "source_repo": "Alawusa-naira/stellar-mcp-server",
+  "source_url": "https://github.com/Alawusa-naira/stellar-mcp-server",
+  "install": "npx -y stellar-mcp-server"
+}

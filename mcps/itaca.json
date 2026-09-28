@@ -1,0 +1,7 @@
+{
+  "name": "itaca",
+  "description": "Local-first MCP server that indexes all projects on your machine and provides coding agents with briefings about each project's stack, services, and run instructions, so they can start sessions with context across all repos. No cloud, no accounts, no telemetry.",
+  "source_repo": "Lukapetro/itaca",
+  "source_url": "https://github.com/Lukapetro/itaca",
+  "install": "# git clone --depth 1 https://github.com/Lukapetro/itaca\n# See source for mcpServers config block"
+}

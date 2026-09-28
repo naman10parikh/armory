@@ -1,0 +1,7 @@
+{
+  "name": "dependency-mcp-server",
+  "description": "A Model Context Protocol server for checking package versions and metadata across multiple package managers including npm, PyPI, Maven, NuGet, RubyGems, Crates.io, and Go modules.",
+  "source_repo": "niradler/dependency-mcp",
+  "source_url": "https://github.com/niradler/dependency-mcp",
+  "install": "npx -y dependency-mcp"
+}

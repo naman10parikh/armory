@@ -1,0 +1,7 @@
+{
+  "name": "infrastructure-mcp",
+  "description": "Give Claude Code, Cursor, and other AI agents safe access to your real infrastructure — without giving them raw SSH access.",
+  "source_repo": "radumalica/infrastructure-mcp",
+  "source_url": "https://github.com/radumalica/infrastructure-mcp",
+  "install": "npx -y infrastructure-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "weather-climate-intelligence-mcp",
+  "description": "Provides weather and climate intelligence for AI agents, including current conditions, forecasts, historical data, severe-weather alerts, agricultural outlook, and travel conditions via free and paid tools.",
+  "source_repo": "FoundryNet/weather-intel-mcp",
+  "source_url": "https://github.com/FoundryNet/weather-intel-mcp",
+  "install": "npx -y weather-intel-mcp"
+}

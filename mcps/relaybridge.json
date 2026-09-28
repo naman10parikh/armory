@@ -1,0 +1,7 @@
+{
+  "name": "relaybridge",
+  "description": "Provides a local Windows control plane for PowerShell and AI CLIs, exposing MCP tools for safe terminal sessions, bounded provider calls, routing, committees, and run receipts.",
+  "source_repo": "maximyz3d/relaybridge",
+  "source_url": "https://github.com/maximyz3d/relaybridge",
+  "install": "# git clone --depth 1 https://github.com/maximyz3d/relaybridge\n# See source for mcpServers config block"
+}

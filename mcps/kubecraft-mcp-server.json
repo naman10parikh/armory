@@ -1,0 +1,7 @@
+{
+  "name": "kubecraft-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that gives AI assistants full visibility and control over Kubernetes clusters.",
+  "source_repo": "cloudcrafttech/kubecraft-mcp-server",
+  "source_url": "https://github.com/cloudcrafttech/kubecraft-mcp-server",
+  "install": "npx -y kubecraft-mcp-server"
+}

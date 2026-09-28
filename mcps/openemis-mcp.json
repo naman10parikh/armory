@@ -1,0 +1,7 @@
+{
+  "name": "openemis-mcp",
+  "description": "Free, read-only MCP server that connects AI assistants to OpenEMIS school management. Query student attendance, risks, staff, and 678 resources.",
+  "source_repo": "tixuz/openemis-mcp",
+  "source_url": "https://github.com/tixuz/openemis-mcp",
+  "install": "npx -y openemis-mcp"
+}

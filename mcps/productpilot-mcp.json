@@ -1,0 +1,7 @@
+{
+  "name": "productpilot-mcp",
+  "description": "An MCP server that helps digital product creators go from idea to a zipped, listing-ready product — including market research, product generation, SEO, listing copy, pricing, and Gumroad/Etsy preparation.",
+  "source_repo": "Ajay66-sketch/productpilot-mcp",
+  "source_url": "https://github.com/Ajay66-sketch/productpilot-mcp",
+  "install": "npx -y productpilot-mcp"
+}

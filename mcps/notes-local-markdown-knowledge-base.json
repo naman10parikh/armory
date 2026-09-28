@@ -1,0 +1,7 @@
+{
+  "name": "notes-local-markdown-knowledge-base",
+  "description": "Local markdown notes for any MCP client: ranked + semantic search, tags, todos, a wiki-link knowledge graph, daily notes, templates, and slash-command workflows. Pure-JS, local, no API keys.",
+  "source_repo": "Abhishekkumar2021/mcp-suite",
+  "source_url": "https://github.com/Abhishekkumar2021/mcp-suite",
+  "install": "# git clone --depth 1 https://github.com/Abhishekkumar2021/mcp-suite\n# See source for mcpServers config block"
+}

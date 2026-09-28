@@ -1,0 +1,7 @@
+{
+  "name": "danbooru-search-mcp",
+  "description": "Searches Danbooru for anime/game characters and their associated tags, providing tools to retrieve character profiles, co-occurring tags, wiki descriptions, and tag implications.",
+  "source_repo": "echo-xianyu/danbooru-MCP",
+  "source_url": "https://github.com/echo-xianyu/danbooru-MCP",
+  "install": "npx -y danbooru-MCP"
+}

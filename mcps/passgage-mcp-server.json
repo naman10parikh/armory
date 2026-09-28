@@ -1,0 +1,7 @@
+{
+  "name": "passgage-mcp-server",
+  "description": "Integrates with the Passgage workforce management system via the Passgage Public API, providing 130+ tools for HR, time tracking, approvals, and more through natural language.",
+  "source_repo": "passgage/mcp-server",
+  "source_url": "https://github.com/passgage/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/passgage/mcp-server\n# See source for mcpServers config block"
+}

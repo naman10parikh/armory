@@ -1,0 +1,7 @@
+{
+  "name": "corpus-search-mcp",
+  "description": "A local, private hybrid-search MCP server for searching markdown notes using BM25 + vector fusion with local embeddings via Ollama.",
+  "source_repo": "TheBitcoinBreakdown-95/corpus-search-mcp",
+  "source_url": "https://github.com/TheBitcoinBreakdown-95/corpus-search-mcp",
+  "install": "npx -y corpus-search-mcp"
+}

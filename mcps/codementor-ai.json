@@ -1,0 +1,7 @@
+{
+  "name": "codementor-ai",
+  "description": "Enables IDE integration with a multi-agent AI pipeline for solving, reviewing, and optimizing code through adversarial peer review and security filtering.",
+  "source_repo": "kumar2011ash-cloud/CodeMentor-AI",
+  "source_url": "https://github.com/kumar2011ash-cloud/CodeMentor-AI",
+  "install": "# git clone --depth 1 https://github.com/kumar2011ash-cloud/CodeMentor-AI\n# See source for mcpServers config block"
+}

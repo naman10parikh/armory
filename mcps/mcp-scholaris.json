@@ -1,0 +1,7 @@
+{
+  "name": "mcp-scholaris",
+  "description": "Searches and retrieves academic papers from open access sources like arXiv, Semantic Scholar, and PubMed, with full text access via arXiv PDFs, PubMed Central, and Unpaywall.",
+  "source_repo": "penny4nonsense/mcp-scholaris",
+  "source_url": "https://github.com/penny4nonsense/mcp-scholaris",
+  "install": "# git clone --depth 1 https://github.com/penny4nonsense/mcp-scholaris\n# See source for mcpServers config block"
+}

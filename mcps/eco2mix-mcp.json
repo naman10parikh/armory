@@ -1,0 +1,7 @@
+{
+  "name": "eco2mix-mcp",
+  "description": "Connects to real-time French power grid data (carbon intensity, consumption, generation mix) to make Kiro carbon-aware, enabling it to defer heavy jobs when the grid is dirty.",
+  "source_repo": "el-pedrito/eco2mix-mcp",
+  "source_url": "https://github.com/el-pedrito/eco2mix-mcp",
+  "install": "npx -y eco2mix-mcp"
+}

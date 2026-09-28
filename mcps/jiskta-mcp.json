@@ -1,0 +1,7 @@
+{
+  "name": "jiskta-mcp",
+  "description": "Provides AI assistants with direct access to historical air quality, ERA5 meteorology, water risk, geocoding, and industrial facility data via the Jiskta API.",
+  "source_repo": "Jiskta/jiskta-mcp",
+  "source_url": "https://github.com/Jiskta/jiskta-mcp",
+  "install": "npx -y jiskta-mcp"
+}

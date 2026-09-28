@@ -1,0 +1,7 @@
+{
+  "name": "weather-forecast-mcp",
+  "description": "Enables querying South Korean meteorological observation data and short-term forecasts by region name or grid coordinates via the MCP protocol.",
+  "source_repo": "hlucent/weather-forecast-mcp",
+  "source_url": "https://github.com/hlucent/weather-forecast-mcp",
+  "install": "npx -y weather-forecast-mcp"
+}

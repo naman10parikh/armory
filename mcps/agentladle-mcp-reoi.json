@@ -1,0 +1,7 @@
+{
+  "name": "agentladle-mcp-reoi",
+  "description": "Enables AI assistants to perform multi-stage residual income projections, discounting, and enterprise value bridging analysis using standardized financial data inputs.",
+  "source_repo": "agentladle/mcp-reoi",
+  "source_url": "https://github.com/agentladle/mcp-reoi",
+  "install": "# git clone --depth 1 https://github.com/agentladle/mcp-reoi\n# See source for mcpServers config block"
+}

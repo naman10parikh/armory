@@ -1,0 +1,7 @@
+{
+  "name": "gbp-mcp",
+  "description": "An MCP server for Google Business Profile that enables managing accounts, locations, reviews, posts, media, Q&A, and insights through simple JSON tools.",
+  "source_repo": "marcusbtc/gbp-mcp",
+  "source_url": "https://github.com/marcusbtc/gbp-mcp",
+  "install": "npx -y gbp-mcp"
+}

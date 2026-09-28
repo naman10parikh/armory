@@ -1,0 +1,7 @@
+{
+  "name": "meok-eu-aigc-icon-mcp",
+  "description": "Provides tools to emit EU AI Act Article 50 compliance icons and metadata for AI-generated content.",
+  "source_repo": "CSOAI-ORG/meok-eu-aigc-icon-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/meok-eu-aigc-icon-mcp",
+  "install": "npx -y meok-eu-aigc-icon-mcp"
+}

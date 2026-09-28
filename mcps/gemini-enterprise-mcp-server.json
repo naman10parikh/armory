@@ -1,0 +1,7 @@
+{
+  "name": "gemini-enterprise-mcp-server",
+  "description": "Connects AI coding assistants to Google Cloud Discovery Engine APIs for semantic search, conversational RAG, and administration of datastores, documents, and configurations.",
+  "source_repo": "miticojo/ge-app-mcp",
+  "source_url": "https://github.com/miticojo/ge-app-mcp",
+  "install": "npx -y ge-app-mcp"
+}

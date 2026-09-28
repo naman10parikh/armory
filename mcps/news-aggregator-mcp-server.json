@@ -1,0 +1,7 @@
+{
+  "name": "news-aggregator-mcp-server",
+  "description": "Enables AI agents to fetch and search news from multiple sources including RSS/Atom feeds, HackerNews, and GDELT global news intelligence without requiring an API key.",
+  "source_repo": "AiAgentKarl/news-aggregator-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/news-aggregator-mcp-server",
+  "install": "npx -y news-aggregator-mcp-server"
+}

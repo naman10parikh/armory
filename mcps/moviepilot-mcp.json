@@ -1,0 +1,7 @@
+{
+  "name": "moviepilot-mcp",
+  "description": "Enables natural language interaction with MoviePilot media library automation, supporting search, discovery, subscription management, download control, and media status queries.",
+  "source_repo": "Pollo3470/MoviePilot-MCP",
+  "source_url": "https://github.com/Pollo3470/MoviePilot-MCP",
+  "install": "npx -y MoviePilot-MCP"
+}

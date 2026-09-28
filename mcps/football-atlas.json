@@ -1,0 +1,7 @@
+{
+  "name": "football-atlas",
+  "description": "Provides access to a cited knowledge graph on football's Laws of the Game and major competitions, with tools for search, question answering, and entity exploration, returning claims with sources and confidence.",
+  "source_repo": "citarium/futbolatlas-mcp",
+  "source_url": "https://github.com/citarium/futbolatlas-mcp",
+  "install": "npx -y futbolatlas-mcp"
+}

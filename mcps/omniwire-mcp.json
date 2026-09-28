@@ -1,0 +1,7 @@
+{
+  "name": "omniwire-mcp",
+  "description": "Enables AI models to fetch and aggregate news from RSS, Atom, JSON, and HTML feeds with fault-tolerant circuit breaker protection.",
+  "source_repo": "furkankoykiran/OmniWire-MCP",
+  "source_url": "https://github.com/furkankoykiran/OmniWire-MCP",
+  "install": "npx -y OmniWire-MCP"
+}

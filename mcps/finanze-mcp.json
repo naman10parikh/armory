@@ -1,0 +1,7 @@
+{
+  "name": "finanze-mcp",
+  "description": "Enables AI assistants to read and query a Finanze self-hosted portfolio manager using natural language, including net worth, positions, and financial calculations.",
+  "source_repo": "adriadam10/finanze-mcp",
+  "source_url": "https://github.com/adriadam10/finanze-mcp",
+  "install": "npx -y finanze-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "slugaudit-mcp",
+  "description": "Enables AI-assisted code audits by extracting signatures and dependencies from source files, tracking changes, and generating structured briefings for review.",
+  "source_repo": "SlugThugLabs/SlugAuditTool-mcp",
+  "source_url": "https://github.com/SlugThugLabs/SlugAuditTool-mcp",
+  "install": "npx -y SlugAuditTool-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-entity-resolver",
+  "description": "Resolves messy company, customer, and vendor names across CRM, ERP, and ITSM systems to canonical records using fuzzy matching, preventing AI agents from updating or creating wrong or duplicate records.",
+  "source_repo": "princeruhulofficial/mcp-entity-resolver",
+  "source_url": "https://github.com/princeruhulofficial/mcp-entity-resolver",
+  "install": "# git clone --depth 1 https://github.com/princeruhulofficial/mcp-entity-resolver\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "connectwise-api-gateway-mcp-server",
+  "description": "This MCP server simplifies interaction with the ConnectWise Manage API through API discovery, execution, and a fast memory system for efficient workflows.",
+  "source_repo": "iflow-mcp/CWM-API-Gateway-MCP",
+  "source_url": "https://github.com/iflow-mcp/CWM-API-Gateway-MCP",
+  "install": "npx -y CWM-API-Gateway-MCP"
+}

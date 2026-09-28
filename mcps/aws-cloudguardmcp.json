@@ -1,0 +1,7 @@
+{
+  "name": "aws-cloudguardmcp",
+  "description": "An intelligent AWS monitoring and incident response solution using Anthropic's Model Context Protocol (MCP). Enables users to monitor AWS resources, analyze CloudWatch logs and metrics, and automatically create Jira tickets with remediation steps.",
+  "source_repo": "madhurprash/AWS_CloudGuardMCP",
+  "source_url": "https://github.com/madhurprash/AWS_CloudGuardMCP",
+  "install": "# git clone --depth 1 https://github.com/madhurprash/AWS_CloudGuardMCP\n# See source for mcpServers config block"
+}

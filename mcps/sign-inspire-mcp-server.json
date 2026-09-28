@@ -1,0 +1,7 @@
+{
+  "name": "sign-inspire-mcp-server",
+  "description": "Official MCP server for Sign Inspire's cloud digital signage platform, enabling AI agents to manage screens, deploy campaigns, and monitor real-time status via natural language.",
+  "source_repo": "SignInspire/sign-inspire-mcp-server",
+  "source_url": "https://github.com/SignInspire/sign-inspire-mcp-server",
+  "install": "npx -y sign-inspire-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ms-sql-server-mcp-server",
+  "description": "A secure, read-only MCP server for Microsoft SQL Server with built-in performance monitoring and lock detection.",
+  "source_repo": "PiyapatRag/mssql-mcp-server",
+  "source_url": "https://github.com/PiyapatRag/mssql-mcp-server",
+  "install": "npx -y mssql-mcp-server"
+}

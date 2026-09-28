@@ -1,0 +1,7 @@
+{
+  "name": "mcp-oraclefusion",
+  "description": "Read-only access to Oracle Fusion Cloud ERP data via natural language queries, with support for accounts payable, procurement, general ledger, and more.",
+  "source_repo": "elabbarw/mcp-oraclefusion",
+  "source_url": "https://github.com/elabbarw/mcp-oraclefusion",
+  "install": "# git clone --depth 1 https://github.com/elabbarw/mcp-oraclefusion\n# See source for mcpServers config block"
+}

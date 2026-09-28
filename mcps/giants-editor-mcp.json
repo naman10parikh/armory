@@ -1,0 +1,7 @@
+{
+  "name": "giants-editor-mcp",
+  "description": "Enables Claude to drive a live GIANTS Editor 10.x (FS25) session with 59 tools for terrain editing, field creation, asset placement, map audits, and more through natural language.",
+  "source_repo": "0h-MARVVV/giants-editor-mcp",
+  "source_url": "https://github.com/0h-MARVVV/giants-editor-mcp",
+  "install": "npx -y giants-editor-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ve-culos-do-propriet-rio",
+  "description": "MCP server that lists vehicles registered to a Brazilian CPF or CNPJ, providing read-only national vehicle fleet queries via prepaid credits.",
+  "source_repo": "mcp-dir/veiculo_frotas-mcp",
+  "source_url": "https://github.com/mcp-dir/veiculo_frotas-mcp",
+  "install": "npx -y veiculo_frotas-mcp"
+}

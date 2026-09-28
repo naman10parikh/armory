@@ -1,0 +1,7 @@
+{
+  "name": "mcp-postgresql-explorer",
+  "description": "Enables AI clients to explore a PostgreSQL database schema and run read-only queries, including listing tables, describing columns, executing SELECT queries, and retrieving foreign key relationships.",
+  "source_repo": "arseniytech/MCPPostgreSQLExplorer",
+  "source_url": "https://github.com/arseniytech/MCPPostgreSQLExplorer",
+  "install": "# git clone --depth 1 https://github.com/arseniytech/MCPPostgreSQLExplorer\n# See source for mcpServers config block"
+}

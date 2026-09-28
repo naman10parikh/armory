@@ -1,0 +1,7 @@
+{
+  "name": "x-search-one",
+  "description": "MCP server that enables searching X (Twitter) via the X API v2, with tools, security model, and install documentation.",
+  "source_repo": "brianference/x-search-one",
+  "source_url": "https://github.com/brianference/x-search-one",
+  "install": "# git clone --depth 1 https://github.com/brianference/x-search-one\n# See source for mcpServers config block"
+}

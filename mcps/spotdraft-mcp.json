@@ -1,0 +1,7 @@
+{
+  "name": "spotdraft-mcp",
+  "description": "MCP server that gives Claude safety-gated access to SpotDraft contracts, enabling querying and managing contracts, templates, counterparties, obligations, and analytics through natural language.",
+  "source_repo": "chad-hohn-radai/spotdraft-mcp",
+  "source_url": "https://github.com/chad-hohn-radai/spotdraft-mcp",
+  "install": "npx -y spotdraft-mcp"
+}

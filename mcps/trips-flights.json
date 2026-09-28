@@ -1,0 +1,7 @@
+{
+  "name": "trips-flights",
+  "description": "Enables tracking flights and grouping them into trips, with tools to create, list, and manage trips and flight bookings.",
+  "source_repo": "leedeadalus/trips",
+  "source_url": "https://github.com/leedeadalus/trips",
+  "install": "# git clone --depth 1 https://github.com/leedeadalus/trips\n# See source for mcpServers config block"
+}

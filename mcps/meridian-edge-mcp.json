@@ -1,0 +1,7 @@
+{
+  "name": "meridian-edge-mcp",
+  "description": "Provides AI assistants with real-time prediction market consensus data, including probabilities, opportunities, signals, and settlements.",
+  "source_repo": "meridian-edge/meridian-edge-mcp",
+  "source_url": "https://github.com/meridian-edge/meridian-edge-mcp",
+  "install": "npx -y meridian-edge-mcp"
+}

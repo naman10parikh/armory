@@ -1,0 +1,7 @@
+{
+  "name": "line-cua-mcp",
+  "description": "A macOS MCP server for LINE that reads encrypted local database snapshots to fetch chat history and sends messages via LINE UI without cursor movement.",
+  "source_repo": "andrew54068/line-cua-mcp",
+  "source_url": "https://github.com/andrew54068/line-cua-mcp",
+  "install": "npx -y line-cua-mcp"
+}

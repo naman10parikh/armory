@@ -1,0 +1,7 @@
+{
+  "name": "lark-cli-mcp",
+  "description": "Enables AI clients to send, read, reply, and search messages on Feishu/Lark as the user's own identity using MCP tools.",
+  "source_repo": "yoreland/lark-cli-mcp",
+  "source_url": "https://github.com/yoreland/lark-cli-mcp",
+  "install": "npx -y lark-cli-mcp"
+}

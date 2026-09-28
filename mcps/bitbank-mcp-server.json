@@ -1,0 +1,7 @@
+{
+  "name": "bitbank-mcp-server",
+  "description": "MCP server for bitbank cryptocurrency exchange enabling ticker, candlestick, order book, and transaction data retrieval.",
+  "source_repo": "bitbankinc/bitbank-mcp-server",
+  "source_url": "https://github.com/bitbankinc/bitbank-mcp-server",
+  "install": "npx -y bitbank-mcp-server"
+}

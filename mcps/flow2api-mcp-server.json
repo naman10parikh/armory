@@ -1,0 +1,7 @@
+{
+  "name": "flow2api-mcp-server",
+  "description": "Wraps Flow2API / OpenAI-compatible image generation upstream into an MCP service, providing image generation, history, and caching tools.",
+  "source_repo": "Barometer-2002/flow2api-mcp",
+  "source_url": "https://github.com/Barometer-2002/flow2api-mcp",
+  "install": "npx -y flow2api-mcp"
+}

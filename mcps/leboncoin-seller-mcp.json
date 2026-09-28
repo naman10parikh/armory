@@ -1,0 +1,7 @@
+{
+  "name": "leboncoin-seller-mcp",
+  "description": "Enables turning photos and observed facts into a ready-to-publish Leboncoin ad, with comparable search, asking-price statistics, category lookup, local drafts, and browser form automation that stops one click short of publishing until approved.",
+  "source_repo": "rachid598/mcplebon",
+  "source_url": "https://github.com/rachid598/mcplebon",
+  "install": "# git clone --depth 1 https://github.com/rachid598/mcplebon\n# See source for mcpServers config block"
+}

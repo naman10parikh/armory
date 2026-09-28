@@ -1,0 +1,7 @@
+{
+  "name": "python-code-validator",
+  "description": "Validates AI-generated Python: syntax, lint, security scan and deterministic repair.",
+  "source_repo": "jkanselaar/python-code-validator",
+  "source_url": "https://github.com/jkanselaar/python-code-validator",
+  "install": "# git clone --depth 1 https://github.com/jkanselaar/python-code-validator\n# See source for mcpServers config block"
+}

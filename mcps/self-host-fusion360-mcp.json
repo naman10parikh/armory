@@ -1,0 +1,7 @@
+{
+  "name": "self-host-fusion360-mcp",
+  "description": "A self-hosted MCP server that lets Claude (or any MCP client) drive Autodesk Fusion 360 on your own machine.",
+  "source_repo": "shimmerjordan/self-host-fusion360-MCP",
+  "source_url": "https://github.com/shimmerjordan/self-host-fusion360-MCP",
+  "install": "npx -y self-host-fusion360-MCP"
+}

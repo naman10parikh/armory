@@ -1,0 +1,7 @@
+{
+  "name": "contactapi",
+  "description": "Enables AI clients to manage contacts through CRUD operations (list, get, create/upsert by email, update, delete) with OAuth 2.1 authentication.",
+  "source_repo": "kozmos-tech/contactapi",
+  "source_url": "https://github.com/kozmos-tech/contactapi",
+  "install": "# git clone --depth 1 https://github.com/kozmos-tech/contactapi\n# See source for mcpServers config block"
+}

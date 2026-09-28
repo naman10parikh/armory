@@ -1,0 +1,7 @@
+{
+  "name": "unrestricted-postgresql-mcp-server",
+  "description": "Provides full read-write access to PostgreSQL databases with advanced transaction management, recovery tools, and schema exploration capabilities, enabling LLMs to safely query, modify, and manage database content.",
+  "source_repo": "startino/unrestricted-postgres-mcp",
+  "source_url": "https://github.com/startino/unrestricted-postgres-mcp",
+  "install": "npx -y unrestricted-postgres-mcp"
+}

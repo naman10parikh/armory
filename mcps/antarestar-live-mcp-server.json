@@ -1,0 +1,7 @@
+{
+  "name": "antarestar-live-mcp-server",
+  "description": "A read-only MCP server that gives Hermes (AI agent) access to Antarestar Live Dashboard data from Google Sheets. It provides tools to list stores and hosts, and query performance metrics like GMV, orders, CVR, and AOV.",
+  "source_repo": "nyomanbaihaqi/antarestar-live-dashboard-mcp",
+  "source_url": "https://github.com/nyomanbaihaqi/antarestar-live-dashboard-mcp",
+  "install": "npx -y antarestar-live-dashboard-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-adr",
+  "description": "Enables AI assistants to create, manage, diagram, and export Architecture Decision Records (ADRs) directly from conversation.",
+  "source_repo": "mauriziomocci/mcp-adr",
+  "source_url": "https://github.com/mauriziomocci/mcp-adr",
+  "install": "# git clone --depth 1 https://github.com/mauriziomocci/mcp-adr\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "taskgrade-mcp-server",
+  "description": "Classifies software implementation tasks using local Ollama models and recommends coding-agent models based on a deterministic policy.",
+  "source_repo": "eddyvlad/taskgrade",
+  "source_url": "https://github.com/eddyvlad/taskgrade",
+  "install": "# git clone --depth 1 https://github.com/eddyvlad/taskgrade\n# See source for mcpServers config block"
+}

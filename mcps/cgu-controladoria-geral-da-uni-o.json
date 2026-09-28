@@ -1,0 +1,7 @@
+{
+  "name": "cgu-controladoria-geral-da-uni-o",
+  "description": "MCP server to query records of individuals or companies in the Brazilian Controladoria Geral da União (CGU) by CPF or CNPJ. Read-only, requires prepaid credits.",
+  "source_repo": "mcp-dir/cgu-mcp",
+  "source_url": "https://github.com/mcp-dir/cgu-mcp",
+  "install": "npx -y cgu-mcp"
+}

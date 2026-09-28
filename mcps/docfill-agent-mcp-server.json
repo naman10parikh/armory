@@ -1,0 +1,7 @@
+{
+  "name": "docfill-agent-mcp-server",
+  "description": "An MCP server that enables LLM agents to read, understand, and fill DOCX templates while preserving formatting like bold labels and fonts. It exposes tools for document upload, AST inspection, editing, and validation.",
+  "source_repo": "nicomathieu/docfill-agent",
+  "source_url": "https://github.com/nicomathieu/docfill-agent",
+  "install": "# git clone --depth 1 https://github.com/nicomathieu/docfill-agent\n# See source for mcpServers config block"
+}

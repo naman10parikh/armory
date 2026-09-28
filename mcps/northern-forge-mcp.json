@@ -1,0 +1,7 @@
+{
+  "name": "northern-forge-mcp",
+  "description": "Portable agent tools with typed schemas (diff, cron, units, JSON→TS, outdoor helpers, prompts). Free to try—no account required.",
+  "source_repo": "Menoxcide/nf-mcp",
+  "source_url": "https://github.com/Menoxcide/nf-mcp",
+  "install": "npx -y nf-mcp"
+}

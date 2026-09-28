@@ -1,0 +1,7 @@
+{
+  "name": "devrobotlabs-visionapi-mcp",
+  "description": "MCP server that lets AI assistants like Claude or Cursor extract structured data (e.g., invoices) from images and PDFs via Vision API, with tools for analysis, questions, and preset management.",
+  "source_repo": "devrobotlabs/visionapi-mcp",
+  "source_url": "https://github.com/devrobotlabs/visionapi-mcp",
+  "install": "npx -y visionapi-mcp"
+}

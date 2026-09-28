@@ -1,0 +1,7 @@
+{
+  "name": "openapi-mcp-studio-demo",
+  "description": "An MCP server that demonstrates converting a safe OpenAPI subset into MCP tools and interactive apps, using the GitHub API as an example. It provides three GitHub tools with summary, table, and ranking views.",
+  "source_repo": "nikil21/openapi-mcp-studio-demo",
+  "source_url": "https://github.com/nikil21/openapi-mcp-studio-demo",
+  "install": "# git clone --depth 1 https://github.com/nikil21/openapi-mcp-studio-demo\n# See source for mcpServers config block"
+}

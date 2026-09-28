@@ -1,0 +1,7 @@
+{
+  "name": "prism",
+  "description": "Multi-server MCP tool bridge that exposes banking, email, calendar, and custom API tools for AI clients via the Model Context Protocol.",
+  "source_repo": "joostfaassen/prism",
+  "source_url": "https://github.com/joostfaassen/prism",
+  "install": "# git clone --depth 1 https://github.com/joostfaassen/prism\n# See source for mcpServers config block"
+}

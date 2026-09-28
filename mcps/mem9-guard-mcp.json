@@ -1,0 +1,7 @@
+{
+  "name": "mem9-guard-mcp",
+  "description": "An MCP server that provides a guarded interface to the mem9 persistent memory backend, protecting AI agents against prompt injection, secret leakage, and memory poisoning.",
+  "source_repo": "Riku-KANO/mem9-guard-mcp",
+  "source_url": "https://github.com/Riku-KANO/mem9-guard-mcp",
+  "install": "npx -y mem9-guard-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "offramp-mcp-server",
+  "description": "Provides retirement planning computations for AI agents, including Monte Carlo simulations, tax burden modeling across all US states, Social Security claiming optimization, and cost-of-living comparisons.",
+  "source_repo": "deepmajithia/offramp2",
+  "source_url": "https://github.com/deepmajithia/offramp2",
+  "install": "# git clone --depth 1 https://github.com/deepmajithia/offramp2\n# See source for mcpServers config block"
+}

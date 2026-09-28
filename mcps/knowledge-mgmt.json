@@ -1,0 +1,7 @@
+{
+  "name": "knowledge-mgmt",
+  "description": "Enables uploading, organizing, and semantically searching documents with support for various file types and embedding providers.",
+  "source_repo": "mmaun/askmydocs",
+  "source_url": "https://github.com/mmaun/askmydocs",
+  "install": "# git clone --depth 1 https://github.com/mmaun/askmydocs\n# See source for mcpServers config block"
+}

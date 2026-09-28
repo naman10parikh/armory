@@ -1,0 +1,7 @@
+{
+  "name": "pare",
+  "description": "Provides MCP servers that wrap common developer tools (git, npm, docker, etc.) returning structured JSON output, enabling AI agents to reliably interact with these tools without parsing fragile terminal text.",
+  "source_repo": "Dave-London/Pare",
+  "source_url": "https://github.com/Dave-London/Pare",
+  "install": "# git clone --depth 1 https://github.com/Dave-London/Pare\n# See source for mcpServers config block"
+}

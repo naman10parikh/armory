@@ -1,0 +1,7 @@
+{
+  "name": "gpt-mcp",
+  "description": "A local MCP server that enables Claude to generate images using the OpenAI API.",
+  "source_repo": "Bambara123/gpt-mcp",
+  "source_url": "https://github.com/Bambara123/gpt-mcp",
+  "install": "npx -y gpt-mcp"
+}

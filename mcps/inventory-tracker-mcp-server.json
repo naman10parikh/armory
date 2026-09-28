@@ -1,0 +1,7 @@
+{
+  "name": "inventory-tracker-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that lets Claude AI manage a real PostgreSQL inventory database using natural language.",
+  "source_repo": "pborlagdan/inventory-mcp-server",
+  "source_url": "https://github.com/pborlagdan/inventory-mcp-server",
+  "install": "npx -y inventory-mcp-server"
+}

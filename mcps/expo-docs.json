@@ -1,0 +1,7 @@
+{
+  "name": "expo-docs",
+  "description": "Enables fast, offline search and retrieval of Expo documentation from local .mdx files, with tools for searching, getting content, listing sections, API references, and quick start guides.",
+  "source_repo": "Ception/expo-local-docs-mcp",
+  "source_url": "https://github.com/Ception/expo-local-docs-mcp",
+  "install": "npx -y expo-local-docs-mcp"
+}

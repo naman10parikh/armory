@@ -1,0 +1,7 @@
+{
+  "name": "ai-translation-tool",
+  "description": "MCP server for transcribing audio and generating structured customer requirement meeting minutes (including flowcharts) using Whisper and AI backends, with export to md/html/pdf/docx and model/settings management.",
+  "source_repo": "iaynidn-sudo/ai-translation-tool",
+  "source_url": "https://github.com/iaynidn-sudo/ai-translation-tool",
+  "install": "# git clone --depth 1 https://github.com/iaynidn-sudo/ai-translation-tool\n# See source for mcpServers config block"
+}

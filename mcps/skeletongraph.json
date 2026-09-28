@@ -1,0 +1,7 @@
+{
+  "name": "skeletongraph",
+  "description": "Provides function-level structural retrieval for coding agents using tree-sitter, with zero-LLM indexing and MCP serving, enabling exact function localization and cost savings.",
+  "source_repo": "yashdoke7/skeletongraph",
+  "source_url": "https://github.com/yashdoke7/skeletongraph",
+  "install": "# git clone --depth 1 https://github.com/yashdoke7/skeletongraph\n# See source for mcpServers config block"
+}

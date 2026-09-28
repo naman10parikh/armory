@@ -1,0 +1,7 @@
+{
+  "name": "cimon-mcp",
+  "description": "Offline MCP server with runbooks for high-volume logs, metrics, traces, and event streams. Search and diagnose symptoms without external dependencies.",
+  "source_repo": "Commander17X/Cimon-MCP",
+  "source_url": "https://github.com/Commander17X/Cimon-MCP",
+  "install": "npx -y Cimon-MCP"
+}

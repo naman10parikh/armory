@@ -1,0 +1,7 @@
+{
+  "name": "sap-abap-mcp",
+  "description": "A local MCP server that connects to SAP ABAP systems via ADT HTTP API, enabling AI assistants to search, read, and manage ABAP objects securely without SAP GUI.",
+  "source_repo": "Coaspe/sap-abap-mcp",
+  "source_url": "https://github.com/Coaspe/sap-abap-mcp",
+  "install": "npx -y sap-abap-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kiwify-mcp-server",
+  "description": "Enables querying Kiwify sales, subscriptions, products, and affiliates via the official API. Read-only access for viewing data.",
+  "source_repo": "mcp-dir/kiwify-mcp",
+  "source_url": "https://github.com/mcp-dir/kiwify-mcp",
+  "install": "npx -y kiwify-mcp"
+}

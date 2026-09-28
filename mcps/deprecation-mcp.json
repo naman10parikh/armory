@@ -1,0 +1,7 @@
+{
+  "name": "deprecation-mcp",
+  "description": "An MCP server that checks whether a vendor API or SDK is active, deprecated, or sunset, using a curated dataset. Enables agents to verify deprecation status before upgrade/maintenance work.",
+  "source_repo": "tsvillain/deprecation-mcp",
+  "source_url": "https://github.com/tsvillain/deprecation-mcp",
+  "install": "npx -y deprecation-mcp"
+}

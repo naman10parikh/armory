@@ -1,0 +1,7 @@
+{
+  "name": "trdizin-mcp",
+  "description": "MCP server for querying TÜBİTAK TR Dizin academic database, enabling search of publications, journals, authors, and institutions without an API key.",
+  "source_repo": "MustafaKemal0146/trdizin-mcp",
+  "source_url": "https://github.com/MustafaKemal0146/trdizin-mcp",
+  "install": "npx -y trdizin-mcp"
+}

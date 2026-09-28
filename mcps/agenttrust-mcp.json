@@ -1,0 +1,7 @@
+{
+  "name": "agenttrust-mcp",
+  "description": "Reputation infrastructure for the A2A economy, providing agent identity, trust scores, transaction history, and peer endorsements through twelve MCP tools.",
+  "source_repo": "bch1212/agenttrust-mcp",
+  "source_url": "https://github.com/bch1212/agenttrust-mcp",
+  "install": "npx -y agenttrust-mcp"
+}

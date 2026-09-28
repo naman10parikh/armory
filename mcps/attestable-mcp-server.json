@@ -1,0 +1,7 @@
+{
+  "name": "attestable-mcp-server",
+  "description": "Enables remote attestation of MCP servers using Intel SGX and RA-TLS, allowing clients to verify the exact code running on the server.",
+  "source_repo": "kontext-security/attestable-mcp-server",
+  "source_url": "https://github.com/kontext-security/attestable-mcp-server",
+  "install": "npx -y attestable-mcp-server"
+}

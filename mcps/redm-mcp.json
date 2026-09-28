@@ -1,0 +1,7 @@
+{
+  "name": "redm-mcp",
+  "description": "Enables AI agents to look up RedM/RDR3 native hashes, search documentation semantically, and access framework docs and community data for accurate coding assistance.",
+  "source_repo": "Cmoen11/redm-mcp-public",
+  "source_url": "https://github.com/Cmoen11/redm-mcp-public",
+  "install": "# git clone --depth 1 https://github.com/Cmoen11/redm-mcp-public\n# See source for mcpServers config block"
+}

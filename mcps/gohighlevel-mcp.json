@@ -1,0 +1,7 @@
+{
+  "name": "gohighlevel-mcp",
+  "description": "A Model Context Protocol (MCP) server for GoHighLevel API v2 — giving any AI agent full access to your GHL location.",
+  "source_repo": "NerdSnipe-Inc/ghl-mcp-server",
+  "source_url": "https://github.com/NerdSnipe-Inc/ghl-mcp-server",
+  "install": "npx -y ghl-mcp-server"
+}

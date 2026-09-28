@@ -1,0 +1,7 @@
+{
+  "name": "mcp-stat-ee",
+  "description": "Access Statistics Estonia (andmed.stat.ee) PxWeb data without API key. Enables navigating subject trees, retrieving table metadata, and querying tabular data with filters.",
+  "source_repo": "pipeworx-io/mcp-stat-ee",
+  "source_url": "https://github.com/pipeworx-io/mcp-stat-ee",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-stat-ee\n# See source for mcpServers config block"
+}

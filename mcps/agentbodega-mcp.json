@@ -1,0 +1,7 @@
+{
+  "name": "agentbodega-mcp",
+  "description": "Enables agents to search and inspect live service offerings, generate x402 payment snippets, and understand blockchain-only balance policies.",
+  "source_repo": "agentbodegastore/agentbodega",
+  "source_url": "https://github.com/agentbodegastore/agentbodega",
+  "install": "# git clone --depth 1 https://github.com/agentbodegastore/agentbodega\n# See source for mcpServers config block"
+}

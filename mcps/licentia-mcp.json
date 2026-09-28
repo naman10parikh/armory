@@ -1,0 +1,7 @@
+{
+  "name": "licentia-mcp",
+  "description": "Enables searching, comparing, and validating SPDX licenses and exceptions, plus SPDX expression validation and SBOM analysis through a Streamable HTTP endpoint.",
+  "source_repo": "LucasHefi/Licentia",
+  "source_url": "https://github.com/LucasHefi/Licentia",
+  "install": "# git clone --depth 1 https://github.com/LucasHefi/Licentia\n# See source for mcpServers config block"
+}

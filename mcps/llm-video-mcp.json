@@ -1,0 +1,7 @@
+{
+  "name": "llm-video-mcp",
+  "description": "Enables coding agents to watch and analyze videos by extracting scene-aware frames, transcribing speech, and generating shot timelines, all constrained by a token budget to fit LLM context limits.",
+  "source_repo": "shkyyy18/llm-video-mcp",
+  "source_url": "https://github.com/shkyyy18/llm-video-mcp",
+  "install": "npx -y llm-video-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stateforge",
+  "description": "Scaffolds stateless MCP servers with explicit state handles, a pluggable state store, and a visual inspector for debugging.",
+  "source_repo": "JRTrippett/mcp-stateforge",
+  "source_url": "https://github.com/JRTrippett/mcp-stateforge",
+  "install": "# git clone --depth 1 https://github.com/JRTrippett/mcp-stateforge\n# See source for mcpServers config block"
+}

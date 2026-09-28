@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-ide-for-obsidian",
+  "description": "Enables Claude Code CLI to interact with Obsidian by reading selections, opening files, showing diffs, and running an embedded terminal.",
+  "source_repo": "Ponywen0819/obsidian-claude-code-ide",
+  "source_url": "https://github.com/Ponywen0819/obsidian-claude-code-ide",
+  "install": "# git clone --depth 1 https://github.com/Ponywen0819/obsidian-claude-code-ide\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "python-adtech-mcp-server",
+  "description": "Exposes 23 AdTech tools as REST endpoints for AI agents to discover and call via HTTP.",
+  "source_repo": "ashishkanchan98/python-adtech-mcp-server",
+  "source_url": "https://github.com/ashishkanchan98/python-adtech-mcp-server",
+  "install": "npx -y python-adtech-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "base-gas-mcp",
+  "description": "Enables agents to fetch live Base mainnet gas prices by paying $0.001 USDC per call via the x402 payment standard.",
+  "source_repo": "memosr/base-gas-mcp",
+  "source_url": "https://github.com/memosr/base-gas-mcp",
+  "install": "npx -y base-gas-mcp"
+}

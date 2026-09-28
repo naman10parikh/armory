@@ -1,0 +1,7 @@
+{
+  "name": "phylokit-mcp",
+  "description": "Phylogenetic inference server driving IQ-TREE 2, always returning per-clade bootstrap support plus model selection, tree comparison, and alignment simulation, with detailed diagnostics like conflicting clades and model uncertainty.",
+  "source_repo": "musharna/phylokit-mcp",
+  "source_url": "https://github.com/musharna/phylokit-mcp",
+  "install": "npx -y phylokit-mcp"
+}

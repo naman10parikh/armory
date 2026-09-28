@@ -1,0 +1,7 @@
+{
+  "name": "afferens-mcp-server",
+  "description": "Provides AI agents with real-time physical perception data including object detections, positions, sounds, and environmental readings via MCP tools.",
+  "source_repo": "afferens/afferens-mcp",
+  "source_url": "https://github.com/afferens/afferens-mcp",
+  "install": "npx -y afferens-mcp"
+}

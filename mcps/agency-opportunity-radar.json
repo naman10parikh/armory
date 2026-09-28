@@ -1,0 +1,7 @@
+{
+  "name": "agency-opportunity-radar",
+  "description": "Enables users to research public websites, identify SEO problems, match them to agency services, and score opportunities with evidence.",
+  "source_repo": "AlanFNL/agency-opportunity-radar",
+  "source_url": "https://github.com/AlanFNL/agency-opportunity-radar",
+  "install": "# git clone --depth 1 https://github.com/AlanFNL/agency-opportunity-radar\n# See source for mcpServers config block"
+}

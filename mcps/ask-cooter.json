@@ -1,0 +1,7 @@
+{
+  "name": "ask-cooter",
+  "description": "MCP server that turns any scanned or digital PDF into a private knowledge expert, letting you ask questions and get cited answers with page-level sources. Provides tools for semantic search, page retrieval, torque spec lookup, and section navigation.",
+  "source_repo": "smallaxeit/ask_cooter",
+  "source_url": "https://github.com/smallaxeit/ask_cooter",
+  "install": "# git clone --depth 1 https://github.com/smallaxeit/ask_cooter\n# See source for mcpServers config block"
+}

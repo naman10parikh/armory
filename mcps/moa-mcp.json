@@ -1,0 +1,7 @@
+{
+  "name": "moa-mcp",
+  "description": "A local stdio MCP server for running single-turn prompts across multiple model providers (OpenAI, Ollama, OpenRouter), allowing agents to fan out the same prompt to several models and combine the output.",
+  "source_repo": "cvanes/moa-mcp",
+  "source_url": "https://github.com/cvanes/moa-mcp",
+  "install": "npx -y moa-mcp"
+}

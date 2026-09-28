@@ -1,6 +1,6 @@
 {
   "name": "fastapi-mcp-server",
-  "description": "Fastapi Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "NishizukaKoichi/fastapi-mcp-server",
   "source_url": "https://mcp.so/server/fastapi-mcp-server/NishizukaKoichi",
   "install": "npx -y fastapi-mcp-server"

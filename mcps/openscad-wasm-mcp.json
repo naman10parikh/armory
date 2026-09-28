@@ -1,0 +1,7 @@
+{
+  "name": "openscad-wasm-mcp",
+  "description": "An MCP server that enables validating, exporting, previewing, and analyzing OpenSCAD models via a WASM-based OpenSCAD runtime, with secure file management and Docker Compose deployment.",
+  "source_repo": "suapapa/openscad-wasm-mcp",
+  "source_url": "https://github.com/suapapa/openscad-wasm-mcp",
+  "install": "npx -y openscad-wasm-mcp"
+}

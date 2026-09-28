@@ -1,0 +1,7 @@
+{
+  "name": "ezpay-e-invoice-mcp-server",
+  "description": "An MCP server that exposes tools for Taiwan's ezPay e-invoice lifecycle, enabling AI assistants to issue, void, and query invoices and allowances through the standard MCP protocol.",
+  "source_repo": "asgard-ai-platform/mcp-ezpay-einvoice",
+  "source_url": "https://github.com/asgard-ai-platform/mcp-ezpay-einvoice",
+  "install": "# git clone --depth 1 https://github.com/asgard-ai-platform/mcp-ezpay-einvoice\n# See source for mcpServers config block"
+}

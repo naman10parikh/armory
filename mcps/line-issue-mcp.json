@@ -1,0 +1,7 @@
+{
+  "name": "line-issue-mcp",
+  "description": "This MCP server enables AI-powered triage of customer messages from LINE Official Accounts or Groups, automatically searching recent GitLab commits and code paths before creating ClickUp tasks in the Client Issues list with priority and evidence tags.",
+  "source_repo": "rratchapol/line-issue-mcp",
+  "source_url": "https://github.com/rratchapol/line-issue-mcp",
+  "install": "npx -y line-issue-mcp"
+}

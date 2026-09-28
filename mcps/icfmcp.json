@@ -1,0 +1,7 @@
+{
+  "name": "icfmcp",
+  "description": "Enables AI assistants to search, summarize, and retrieve records from ICF knowledge files using tag-based and full-text search, with support for ICX indexes.",
+  "source_repo": "icformat/icfmcp",
+  "source_url": "https://github.com/icformat/icfmcp",
+  "install": "# git clone --depth 1 https://github.com/icformat/icfmcp\n# See source for mcpServers config block"
+}

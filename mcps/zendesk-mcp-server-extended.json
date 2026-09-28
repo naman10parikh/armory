@@ -1,0 +1,7 @@
+{
+  "name": "zendesk-mcp-server-extended",
+  "description": "A production-grade MCP server for Zendesk that provides ticket management, search, user/group operations, and knowledge base access with support for local stdio and remote HTTP transports, authentication via API keys or OAuth, and multi-tenancy.",
+  "source_repo": "srinivas-86/zendesk-mcp-server",
+  "source_url": "https://github.com/srinivas-86/zendesk-mcp-server",
+  "install": "npx -y zendesk-mcp-server"
+}

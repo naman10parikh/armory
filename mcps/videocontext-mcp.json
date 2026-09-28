@@ -1,0 +1,7 @@
+{
+  "name": "videocontext-mcp",
+  "description": "Turns a YouTube video or allowlisted local video into a timestamped transcript, chronological timeline, and retrievable image resources for transparent media preprocessing.",
+  "source_repo": "sakshamjain2301/videocontext-mcp",
+  "source_url": "https://github.com/sakshamjain2301/videocontext-mcp",
+  "install": "npx -y videocontext-mcp"
+}

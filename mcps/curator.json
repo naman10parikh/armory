@@ -1,0 +1,7 @@
+{
+  "name": "curator",
+  "description": "Enables natural language search and exploration of over 1.15 million museum records from Museums Victoria, including specimens, items, articles, and species, with full-text search and detailed record retrieval.",
+  "source_repo": "ifiecas/curator-mcp",
+  "source_url": "https://github.com/ifiecas/curator-mcp",
+  "install": "npx -y curator-mcp"
+}

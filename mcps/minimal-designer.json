@@ -1,0 +1,7 @@
+{
+  "name": "minimal-designer",
+  "description": "MCP server for AI-first UI design that enables Codex to create, preview, and commit UI changes to a self-hosted design tool.",
+  "source_repo": "mahdizareeii/minimal-designer",
+  "source_url": "https://github.com/mahdizareeii/minimal-designer",
+  "install": "# git clone --depth 1 https://github.com/mahdizareeii/minimal-designer\n# See source for mcpServers config block"
+}

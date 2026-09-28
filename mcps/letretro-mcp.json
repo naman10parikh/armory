@@ -1,0 +1,7 @@
+{
+  "name": "letretro-mcp",
+  "description": "Enables AI coding tools to access LetRetro retrospectives, boards, cards, and team data through MCP.",
+  "source_repo": "LetRetroHQ/mcp-cli",
+  "source_url": "https://github.com/LetRetroHQ/mcp-cli",
+  "install": "# git clone --depth 1 https://github.com/LetRetroHQ/mcp-cli\n# See source for mcpServers config block"
+}

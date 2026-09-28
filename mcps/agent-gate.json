@@ -1,0 +1,7 @@
+{
+  "name": "agent-gate",
+  "description": "An MCP server that enforces fail-closed deterministic checks, independent refute-first review, and tamper-evident hash-chained receipts for AI agent outputs before claiming completion.",
+  "source_repo": "Jott2121/agent-gate",
+  "source_url": "https://github.com/Jott2121/agent-gate",
+  "install": "# git clone --depth 1 https://github.com/Jott2121/agent-gate\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "celo-mcp-server",
+  "description": "Provides comprehensive access to Celo blockchain data, token operations, NFT management, smart contract interactions, transaction handling, governance, and staking operations.",
+  "source_repo": "celo-org/celo-mcp",
+  "source_url": "https://github.com/celo-org/celo-mcp",
+  "install": "npx -y celo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cloak-search-mcp",
+  "description": "A local, anti-bot-resilient web search MCP server that uses stealth Chromium automation to search Google or DuckDuckGo without API keys, with automatic fallback and human-like interaction to bypass CAPTCHAs.",
+  "source_repo": "rishabhsfdc/cloak-search-mcp",
+  "source_url": "https://github.com/rishabhsfdc/cloak-search-mcp",
+  "install": "npx -y cloak-search-mcp"
+}

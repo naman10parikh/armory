@@ -1,0 +1,7 @@
+{
+  "name": "mini-agent-mcp",
+  "description": "An MCP server that integrates a ReAct agent with built-in tools (calculator, text, unit conversion, etc.) and the AnySearch search service, enabling autonomous multi-step task execution.",
+  "source_repo": "Microbiosis/mini-agent-mcp",
+  "source_url": "https://github.com/Microbiosis/mini-agent-mcp",
+  "install": "npx -y mini-agent-mcp"
+}

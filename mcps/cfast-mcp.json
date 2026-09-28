@@ -1,0 +1,7 @@
+{
+  "name": "cfast-mcp",
+  "description": "Enables LLMs to build, inspect, run, and analyze CFAST fire models step by step via tools for compartments, materials, vents, fires, devices, and surface connections, with simulation and result summaries.",
+  "source_repo": "bewygs/cfast-mcp",
+  "source_url": "https://github.com/bewygs/cfast-mcp",
+  "install": "npx -y cfast-mcp"
+}

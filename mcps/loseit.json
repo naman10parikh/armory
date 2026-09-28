@@ -1,0 +1,7 @@
+{
+  "name": "loseit",
+  "description": "MCP server that reads local SQLite database populated by a Playwright scraper to provide daily summary, food log, weight history, and water log from LoseIt.",
+  "source_repo": "the-mace/loseit-mcp-local",
+  "source_url": "https://github.com/the-mace/loseit-mcp-local",
+  "install": "# git clone --depth 1 https://github.com/the-mace/loseit-mcp-local\n# See source for mcpServers config block"
+}

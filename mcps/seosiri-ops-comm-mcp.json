@@ -1,0 +1,7 @@
+{
+  "name": "seosiri-ops-comm-mcp",
+  "description": "MCP server for enterprise operations, enabling Sentry error triage, Linear issue sync, and Slack incident response with tools for parsing stacktraces, dispatching alerts, and generating postmortems.",
+  "source_repo": "SEOSiri-Official/ops-comm-mcp",
+  "source_url": "https://github.com/SEOSiri-Official/ops-comm-mcp",
+  "install": "npx -y ops-comm-mcp"
+}

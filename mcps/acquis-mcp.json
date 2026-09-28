@@ -1,0 +1,7 @@
+{
+  "name": "acquis-mcp",
+  "description": "Acquis gives your assistant exact, verifiable access to EU digital regulation. Instead of paraphrasing from training data, it returns the verbatim provision of the current consolidated version — with the full citation (act, article, paragraph, point), its in-force status, the consolidation date, and",
+  "source_repo": "capybarist/acquis-mcp",
+  "source_url": "https://github.com/capybarist/acquis-mcp",
+  "install": "npx -y acquis-mcp"
+}

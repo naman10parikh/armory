@@ -1,0 +1,7 @@
+{
+  "name": "nowadays-apparelmagic-mcp",
+  "description": "OAuth proxy that lets ChatGPT securely access the ApparelMagic MCP endpoint without exposing the API key, handling authorization and authenticated proxying of MCP requests.",
+  "source_repo": "nowadaysedi-beep/nowadays-apparelmagic-mcp",
+  "source_url": "https://github.com/nowadaysedi-beep/nowadays-apparelmagic-mcp",
+  "install": "npx -y nowadays-apparelmagic-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openprovider-mcp-server",
+  "description": "MCP server for Openprovider.com that enables domain management actions such as checking availability, registering domains, listing domains, and managing contacts through natural language.",
+  "source_repo": "openprovider/openprovider-mcp",
+  "source_url": "https://github.com/openprovider/openprovider-mcp",
+  "install": "npx -y openprovider-mcp"
+}

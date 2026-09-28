@@ -1,0 +1,7 @@
+{
+  "name": "contextual-memory-mcp",
+  "description": "A local-first persistent contextual-memory engine with an MCP adapter for AI models such as Qwen.",
+  "source_repo": "DaCodeChick/contextual-memory-mcp",
+  "source_url": "https://github.com/DaCodeChick/contextual-memory-mcp",
+  "install": "npx -y contextual-memory-mcp"
+}

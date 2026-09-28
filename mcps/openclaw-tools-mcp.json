@@ -1,0 +1,7 @@
+{
+  "name": "openclaw-tools-mcp",
+  "description": "Exposes OpenClaw tools (web search, page fetching, browser automation, PDF analysis, messaging, inter-agent communication, Canvas) as MCP tools for ACP agents.",
+  "source_repo": "haliphax-ai/openclaw-tools-mcp-server",
+  "source_url": "https://github.com/haliphax-ai/openclaw-tools-mcp-server",
+  "install": "npx -y openclaw-tools-mcp-server"
+}

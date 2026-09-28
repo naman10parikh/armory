@@ -1,0 +1,7 @@
+{
+  "name": "dockerbro",
+  "description": "MCP server for managing Docker containers, images, and Compose services via natural language, with configurable tool permissions and safety annotations.",
+  "source_repo": "ramanailearning-cpu/dockerbro",
+  "source_url": "https://github.com/ramanailearning-cpu/dockerbro",
+  "install": "# git clone --depth 1 https://github.com/ramanailearning-cpu/dockerbro\n# See source for mcpServers config block"
+}

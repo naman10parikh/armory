@@ -1,0 +1,7 @@
+{
+  "name": "mcp-biorhythm",
+  "description": "Computes biorhythm values (physical, emotional, intellectual) and generates a PNG chart showing sine curves based on birth date and optional target date.",
+  "source_repo": "molpass/mcp-biorhythm",
+  "source_url": "https://github.com/molpass/mcp-biorhythm",
+  "install": "# git clone --depth 1 https://github.com/molpass/mcp-biorhythm\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "business-central-mcp-server-2",
+  "description": "Exposes Dynamics 365 Business Central data to MCP clients via standard v2.0 API or custom AL APIs, supporting read, write, and destructive operations with multiple authentication modes.",
+  "source_repo": "user-vik/business-central-mcp-server",
+  "source_url": "https://github.com/user-vik/business-central-mcp-server",
+  "install": "npx -y business-central-mcp-server"
+}

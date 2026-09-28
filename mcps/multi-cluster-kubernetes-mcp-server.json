@@ -1,0 +1,7 @@
+{
+  "name": "multi-cluster-kubernetes-mcp-server",
+  "description": "Enables managing multiple Kubernetes clusters simultaneously with over 60 tools for cluster operations, resource management, monitoring, RBAC, storage, networking, and more through AI assistants.",
+  "source_repo": "razvanmacovei/k8s-multicluster-mcp",
+  "source_url": "https://github.com/razvanmacovei/k8s-multicluster-mcp",
+  "install": "npx -y k8s-multicluster-mcp"
+}

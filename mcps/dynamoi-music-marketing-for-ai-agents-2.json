@@ -1,0 +1,7 @@
+{
+  "name": "dynamoi-music-marketing-for-ai-agents-2",
+  "description": "Music marketing for AI agents. Connect ChatGPT, Claude, Cursor, and other AI agents to Dynamoi for free Spotify Smart Links, music promotion campaigns, analytics, and distribution. Dynamoi is a music marketing platform for artists, labels, and managers. - **Smart Links:** create free Spotify Smart L",
+  "source_repo": "",
+  "source_url": "https://dynamoi.com/docs/mcp-server",
+  "install": "# git clone --depth 1 https://dynamoi.com/docs/mcp-server\n# See source for mcpServers config block"
+}

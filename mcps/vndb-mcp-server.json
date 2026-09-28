@@ -1,0 +1,7 @@
+{
+  "name": "vndb-mcp-server",
+  "description": "Enables managing visual novel lists on VNDB.org through natural language, including search, adding ratings and notes, changing statuses, and viewing user lists.",
+  "source_repo": "ivanmem/vndb-mcp",
+  "source_url": "https://github.com/ivanmem/vndb-mcp",
+  "install": "npx -y vndb-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vectorise-mcp",
+  "description": "Local MCP server that indexes folders of documents into a hybrid vector + keyword search index for Claude Desktop, with support for PDFs, Office files, and images via OCR.",
+  "source_repo": "jameslovespancakes/Vectorised-Embedding-MCP",
+  "source_url": "https://github.com/jameslovespancakes/Vectorised-Embedding-MCP",
+  "install": "npx -y Vectorised-Embedding-MCP"
+}

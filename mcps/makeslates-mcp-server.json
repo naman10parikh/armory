@@ -1,0 +1,7 @@
+{
+  "name": "makeslates-mcp-server",
+  "description": "Enables AI-powered slide deck creation using natural language, allowing users to generate, edit, and manage presentations through MCP clients like Cursor and Claude Code.",
+  "source_repo": "offscriptpontus/makeslates-mcp-server",
+  "source_url": "https://github.com/offscriptpontus/makeslates-mcp-server",
+  "install": "npx -y makeslates-mcp-server"
+}

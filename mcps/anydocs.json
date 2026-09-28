@@ -1,0 +1,7 @@
+{
+  "name": "anydocs",
+  "description": "Provides fast, token-efficient search over coding agent documentation (e.g., Claude Code, Cursor) using local SQLite FTS5 indexing, with tools for searching snippets, reading pages, and grepping markdown.",
+  "source_repo": "kiyeonjeon21/anydocs",
+  "source_url": "https://github.com/kiyeonjeon21/anydocs",
+  "install": "# git clone --depth 1 https://github.com/kiyeonjeon21/anydocs\n# See source for mcpServers config block"
+}

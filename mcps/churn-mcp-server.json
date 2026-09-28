@@ -1,0 +1,7 @@
+{
+  "name": "churn-mcp-server",
+  "description": "Enables MCP-aware clients to call the churn-prediction API's predict_churn and check_model_health tools directly, proxying to the existing churn-api service over HTTP.",
+  "source_repo": "Eklavya20/churn-mcp-server",
+  "source_url": "https://github.com/Eklavya20/churn-mcp-server",
+  "install": "npx -y churn-mcp-server"
+}

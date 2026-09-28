@@ -1,0 +1,7 @@
+{
+  "name": "garmin-athletics-mcp",
+  "description": "A private, read-only MCP server that gives local Codex and Claude Desktop sessions access to athletics and wellness data from a Garmin Forerunner 55. It runs locally over stdio, exposes read-only tools for daily health, recovery, performance, and workouts, and caches data in SQLite.",
+  "source_repo": "danielmcewan/garmin-athletics-mcp",
+  "source_url": "https://github.com/danielmcewan/garmin-athletics-mcp",
+  "install": "npx -y garmin-athletics-mcp"
+}

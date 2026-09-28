@@ -1,0 +1,7 @@
+{
+  "name": "harmonyos-mcp-server",
+  "description": "Enables AI assistants to control HarmonyOS devices, such as launching apps, through natural language.",
+  "source_repo": "XixianLiang/HarmonyOS-mcp-server",
+  "source_url": "https://github.com/XixianLiang/HarmonyOS-mcp-server",
+  "install": "npx -y HarmonyOS-mcp-server"
+}

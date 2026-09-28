@@ -1,0 +1,7 @@
+{
+  "name": "autocontinue-mcp",
+  "description": "MCP server that automatically clicks 'Continue' buttons on AI web pages using OCR and pyautogui, enabling uninterrupted generation.",
+  "source_repo": "gupi-bill/autocontinue-mcp",
+  "source_url": "https://github.com/gupi-bill/autocontinue-mcp",
+  "install": "npx -y autocontinue-mcp"
+}

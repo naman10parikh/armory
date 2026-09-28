@@ -1,0 +1,7 @@
+{
+  "name": "figma-dash-mcp-server",
+  "description": "Connects IDE to Figma Desktop App, enabling AI assistants to generate and manipulate layouts, shapes, and designs directly inside the Figma canvas.",
+  "source_repo": "dynstat/figma-dash-mcp",
+  "source_url": "https://github.com/dynstat/figma-dash-mcp",
+  "install": "npx -y figma-dash-mcp"
+}

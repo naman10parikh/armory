@@ -1,0 +1,7 @@
+{
+  "name": "polymarket-mcp",
+  "description": "Enables AI agents to discover and analyze prediction markets, execute trades, and manage positions on Polymarket via the Model Context Protocol.",
+  "source_repo": "IQAIcom/mcp-polymarket",
+  "source_url": "https://github.com/IQAIcom/mcp-polymarket",
+  "install": "# git clone --depth 1 https://github.com/IQAIcom/mcp-polymarket\n# See source for mcpServers config block"
+}

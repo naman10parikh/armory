@@ -1,0 +1,7 @@
+{
+  "name": "woolies-coles-mcp",
+  "description": "Enables searching and comparing products from Woolworths and Coles supermarkets.",
+  "source_repo": "johnvouros/woolies-coles-mcp",
+  "source_url": "https://github.com/johnvouros/woolies-coles-mcp",
+  "install": "npx -y woolies-coles-mcp"
+}

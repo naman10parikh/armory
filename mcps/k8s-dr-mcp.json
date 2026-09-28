@@ -1,0 +1,7 @@
+{
+  "name": "k8s-dr-mcp",
+  "description": "Enables AI agents to diagnose and recover Kubernetes clusters when the API server is unreachable, using SSH access to nodes and tools like etcdctl, systemctl, and kubeadm with 63 read-only and destructive tools.",
+  "source_repo": "kulibins/k8s-dr-mcp",
+  "source_url": "https://github.com/kulibins/k8s-dr-mcp",
+  "install": "npx -y k8s-dr-mcp"
+}

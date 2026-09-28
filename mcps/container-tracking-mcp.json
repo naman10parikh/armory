@@ -1,0 +1,7 @@
+{
+  "name": "container-tracking-mcp",
+  "description": "Track ocean containers across 200+ shipping lines by container, bill of lading, or booking number — live milestones, vessel positions, ETAs, and demurrage & detention free time.",
+  "source_repo": "lxxmng/container-tracking-mcp",
+  "source_url": "https://github.com/lxxmng/container-tracking-mcp",
+  "install": "npx -y container-tracking-mcp"
+}

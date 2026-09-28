@@ -1,0 +1,7 @@
+{
+  "name": "ifttt-mcp-proxy",
+  "description": "Enables stdio-only MCP clients to connect to IFTTT's remote MCP server by handling OAuth authentication, SSE streaming, and response transformation.",
+  "source_repo": "maishsk/ifttt-mcp-proxy",
+  "source_url": "https://github.com/maishsk/ifttt-mcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/maishsk/ifttt-mcp-proxy\n# See source for mcpServers config block"
+}

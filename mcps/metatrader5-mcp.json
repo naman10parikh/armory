@@ -1,0 +1,7 @@
+{
+  "name": "metatrader5-mcp",
+  "description": "Connects Claude to a MetaTrader 5 terminal for read-only market data, account info, performance analysis, and order planning (no live trading).",
+  "source_repo": "alikhande70/metatrader5-mcp",
+  "source_url": "https://github.com/alikhande70/metatrader5-mcp",
+  "install": "npx -y metatrader5-mcp"
+}

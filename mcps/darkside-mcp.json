@@ -1,0 +1,7 @@
+{
+  "name": "darkside-mcp",
+  "description": "An MCP server that grants AI agents unrestricted file system, Python, and PowerShell access on Windows for real, unfiltered automation.",
+  "source_repo": "For-Sunny/darkside-mcp",
+  "source_url": "https://github.com/For-Sunny/darkside-mcp",
+  "install": "npx -y darkside-mcp"
+}

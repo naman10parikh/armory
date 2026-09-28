@@ -1,0 +1,7 @@
+{
+  "name": "zlib-mcp",
+  "description": "An MCP server that lets AI agents search and download books from z-library using the user's own account credentials.",
+  "source_repo": "shiyi-0x7f/zlib-mcp",
+  "source_url": "https://github.com/shiyi-0x7f/zlib-mcp",
+  "install": "npx -y zlib-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "australian-business-verification-mcp",
+  "description": "An MCP server that provides tools to look up and verify Australian businesses using the Australian Business Register API, enabling AI agents to retrieve business details via ABN, ACN, or name search.",
+  "source_repo": "arbazex/australian-business-verification-mcp",
+  "source_url": "https://github.com/arbazex/australian-business-verification-mcp",
+  "install": "npx -y australian-business-verification-mcp"
+}

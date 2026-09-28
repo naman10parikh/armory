@@ -1,0 +1,7 @@
+{
+  "name": "screenctx",
+  "description": "Enables AI tools to collect a compact, structured context bundle for a Spring Boot + MyBatis screen by walking the dependency graph from a route, controller, or file.",
+  "source_repo": "zhuyihenzheng/screenctx",
+  "source_url": "https://github.com/zhuyihenzheng/screenctx",
+  "install": "# git clone --depth 1 https://github.com/zhuyihenzheng/screenctx\n# See source for mcpServers config block"
+}

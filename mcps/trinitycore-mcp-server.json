@@ -1,0 +1,7 @@
+{
+  "name": "trinitycore-mcp-server",
+  "description": "Enterprise-grade MCP server with 107 tools for TrinityCore bot development, game data access, AI code review, performance profiling, and a full web UI.",
+  "source_repo": "agatho/trinitycore-mcp",
+  "source_url": "https://github.com/agatho/trinitycore-mcp",
+  "install": "npx -y trinitycore-mcp"
+}

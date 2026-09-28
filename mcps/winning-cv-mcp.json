@@ -1,0 +1,7 @@
+{
+  "name": "winning-cv-mcp",
+  "description": "AI-powered job matching and CV generation tool that searches jobs on LinkedIn and Seek, analyzes CV fit, and generates tailored CVs.",
+  "source_repo": "jack-jackhui/winning-cv-mcp",
+  "source_url": "https://github.com/jack-jackhui/winning-cv-mcp",
+  "install": "npx -y winning-cv-mcp"
+}

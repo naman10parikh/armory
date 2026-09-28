@@ -1,0 +1,7 @@
+{
+  "name": "bustime-mcp",
+  "description": "Wraps the CTA Bus Tracker API to provide live access to bus routes, stops, predictions, vehicle locations, patterns, and detours via MCP clients.",
+  "source_repo": "countaight/bustime-mcp",
+  "source_url": "https://github.com/countaight/bustime-mcp",
+  "install": "npx -y bustime-mcp"
+}

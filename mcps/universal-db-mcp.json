@@ -1,0 +1,7 @@
+{
+  "name": "universal-db-mcp",
+  "description": "Enables AI assistants to query and analyze databases using natural language through MCP and HTTP API, supporting 17+ databases and integration with 50+ platforms.",
+  "source_repo": "xiao-linxin/universal-db-mcp",
+  "source_url": "https://github.com/xiao-linxin/universal-db-mcp",
+  "install": "npx -y universal-db-mcp"
+}

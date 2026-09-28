@@ -1,0 +1,7 @@
+{
+  "name": "skill-graph-mcp-server",
+  "description": "Catalogues skills and agents into a queryable graph, exposing MCP tools for reference counting, usage scanning, and overlay notes with a built-in visual viewer.",
+  "source_repo": "QuantumWars/project-graphx",
+  "source_url": "https://github.com/QuantumWars/project-graphx",
+  "install": "# git clone --depth 1 https://github.com/QuantumWars/project-graphx\n# See source for mcpServers config block"
+}

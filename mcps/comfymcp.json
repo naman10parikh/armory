@@ -1,0 +1,7 @@
+{
+  "name": "comfymcp",
+  "description": "Enables Claude to generate images via ComfyUI from natural language requests, automating workflow construction and execution.",
+  "source_repo": "hernantech/comfymcp",
+  "source_url": "https://github.com/hernantech/comfymcp",
+  "install": "# git clone --depth 1 https://github.com/hernantech/comfymcp\n# See source for mcpServers config block"
+}

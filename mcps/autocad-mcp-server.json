@@ -1,0 +1,7 @@
+{
+  "name": "autocad-mcp-server",
+  "description": "Enables programmatic control of AutoCAD through COM automation, allowing natural language commands to create structures, manage layers, and manipulate entities via MCP clients like Claude.",
+  "source_repo": "thepiruthvirajan/autocad-mcp-server",
+  "source_url": "https://github.com/thepiruthvirajan/autocad-mcp-server",
+  "install": "npx -y autocad-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mammoth-mcp-server",
+  "description": "Enables LLM agents to interact with the Mammoth Protocol on Solana for discovering cycles, getting quotes, and executing buys via bounded-curve mechanics.",
+  "source_repo": "kelvinsinferno/mammoth-mcp-server",
+  "source_url": "https://github.com/kelvinsinferno/mammoth-mcp-server",
+  "install": "npx -y mammoth-mcp-server"
+}

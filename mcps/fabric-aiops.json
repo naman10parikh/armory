@@ -1,0 +1,7 @@
+{
+  "name": "fabric-aiops",
+  "description": "Governed network controller-layer operations (Cisco Meraki, plus Catalyst Center / Arista CVP / UniFi) — uplink loss/latency RCA, fleet health scoring, and config-template drift, with unbypassable audit logging (MCP + CLI), budget/runaway guards, and rollback.",
+  "source_repo": "AIops-tools/Fabric-AIops",
+  "source_url": "https://github.com/AIops-tools/Fabric-AIops",
+  "install": "# git clone --depth 1 https://github.com/AIops-tools/Fabric-AIops\n# See source for mcpServers config block"
+}

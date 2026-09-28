@@ -1,0 +1,7 @@
+{
+  "name": "fieldwork-mcp",
+  "description": "Enables pest control business owners using Fieldwork to ask plain-English questions about customers, invoices, product usage, schedules, and technicians, returning clear answers from the Fieldwork API. Read-only access with no ability to modify jobs, customers, or payments.",
+  "source_repo": "daisydaines/fieldwork-mcp",
+  "source_url": "https://github.com/daisydaines/fieldwork-mcp",
+  "install": "npx -y fieldwork-mcp"
+}

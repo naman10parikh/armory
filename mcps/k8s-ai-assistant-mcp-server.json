@@ -1,0 +1,7 @@
+{
+  "name": "k8s-ai-assistant-mcp-server",
+  "description": "Enables AI-powered Kubernetes management using natural language, supporting kubectl, Helm, diagnostics, and port forwarding via MCP protocol.",
+  "source_repo": "Thanhdeptr/K8s_AI_Assistant_MCP",
+  "source_url": "https://github.com/Thanhdeptr/K8s_AI_Assistant_MCP",
+  "install": "npx -y K8s_AI_Assistant_MCP"
+}

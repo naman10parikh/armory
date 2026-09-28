@@ -1,0 +1,7 @@
+{
+  "name": "music-assistant-mcp-plus",
+  "description": "A comprehensive MCP server that enables AI assistants to control music playback, manage users and access, configure providers, and administer a Music Assistant setup through natural language commands.",
+  "source_repo": "chair15/music-assistant-mcp-plus",
+  "source_url": "https://github.com/chair15/music-assistant-mcp-plus",
+  "install": "# git clone --depth 1 https://github.com/chair15/music-assistant-mcp-plus\n# See source for mcpServers config block"
+}

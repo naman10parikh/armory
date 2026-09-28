@@ -1,0 +1,7 @@
+{
+  "name": "majincleaning-ops",
+  "description": "Enables AI assistants to query and manage real booking data from MajinCleaningSolutions via Supabase, including checking availability, listing bookings, and updating status.",
+  "source_repo": "JahzeelReyes30/majincleaning-ops-mcp",
+  "source_url": "https://github.com/JahzeelReyes30/majincleaning-ops-mcp",
+  "install": "npx -y majincleaning-ops-mcp"
+}

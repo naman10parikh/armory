@@ -1,0 +1,7 @@
+{
+  "name": "quack-mcp-server",
+  "description": "A continuous integration server that automates code analysis and testing for Python code, providing tools for linting and static type analysis.",
+  "source_repo": "nidhisharma18/MCP_server",
+  "source_url": "https://github.com/nidhisharma18/MCP_server",
+  "install": "# git clone --depth 1 https://github.com/nidhisharma18/MCP_server\n# See source for mcpServers config block"
+}

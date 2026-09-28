@@ -1,0 +1,7 @@
+{
+  "name": "rag-paper",
+  "description": "A local-first paper RAG server that enables searching and managing academic PDFs via MCP tools, supporting metadata enrichment and citation graphs.",
+  "source_repo": "i1ight/ragPaper",
+  "source_url": "https://github.com/i1ight/ragPaper",
+  "install": "# git clone --depth 1 https://github.com/i1ight/ragPaper\n# See source for mcpServers config block"
+}

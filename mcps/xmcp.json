@@ -1,0 +1,7 @@
+{
+  "name": "xmcp",
+  "description": "MCP server that lets AI assistants directly control the Xojo IDE on macOS, enabling code editing, project management, building, running, and documentation lookup through natural language.",
+  "source_repo": "brechanbech/xojo-mcp",
+  "source_url": "https://github.com/brechanbech/xojo-mcp",
+  "install": "npx -y xojo-mcp"
+}

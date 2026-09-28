@@ -1,0 +1,7 @@
+{
+  "name": "daruma",
+  "description": "A lightweight, local-first MCP server and CLI that helps developers and AI coding agents store and retrieve lessons learned during development, using SQLite and context-aware filtering.",
+  "source_repo": "r-darwish/daruma",
+  "source_url": "https://github.com/r-darwish/daruma",
+  "install": "# git clone --depth 1 https://github.com/r-darwish/daruma\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rybbit-mcp",
+  "description": "Exposes Rybbit Analytics as MCP tools for querying site traffic, page views, visitor sessions, and live visitor counts through natural language.",
+  "source_repo": "neverhunt/rybbit-mcp",
+  "source_url": "https://github.com/neverhunt/rybbit-mcp",
+  "install": "npx -y rybbit-mcp"
+}

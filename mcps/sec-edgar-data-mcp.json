@@ -1,0 +1,7 @@
+{
+  "name": "sec-edgar-data-mcp",
+  "description": "Hosted MCP server granting AI agents access to 20M+ SEC EDGAR filings, 100M+ exhibits, and comprehensive entity data through 49 tools, with support for raw documents, extracted sections, and structured JSON.",
+  "source_repo": "SEC-API-io/sec-edgar-mcp",
+  "source_url": "https://github.com/SEC-API-io/sec-edgar-mcp",
+  "install": "npx -y sec-edgar-mcp"
+}

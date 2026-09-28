@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pocket-memory",
+  "description": "Persistent memory storage using SQLite for AI agents to store, search, update, and manage contextual memory via the Model Context Protocol.",
+  "source_repo": "robby031/mcp-pocket-memory",
+  "source_url": "https://github.com/robby031/mcp-pocket-memory",
+  "install": "# git clone --depth 1 https://github.com/robby031/mcp-pocket-memory\n# See source for mcpServers config block"
+}

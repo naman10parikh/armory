@@ -1,0 +1,7 @@
+{
+  "name": "tamil-bible-mcp",
+  "description": "Provides access to the Tamil Roman Catholic Bible and daily devotional content (daily verse, Mass readings, saint of the day, promise-box verses, daily quiz) as tools for AI assistants.",
+  "source_repo": "vivekellappan-biit/tamil-bible-mcp",
+  "source_url": "https://github.com/vivekellappan-biit/tamil-bible-mcp",
+  "install": "npx -y tamil-bible-mcp"
+}

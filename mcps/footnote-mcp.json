@@ -1,0 +1,7 @@
+{
+  "name": "footnote-mcp",
+  "description": "An MCP server for source-grounded web research that verifies claims against their sources, with 42 tools for search, extraction, and verification.",
+  "source_repo": "KazKozDev/footnote-mcp",
+  "source_url": "https://github.com/KazKozDev/footnote-mcp",
+  "install": "npx -y footnote-mcp"
+}

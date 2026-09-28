@@ -1,0 +1,7 @@
+{
+  "name": "gmail-cleanup-mcp",
+  "description": "Enables bulk Gmail inbox cleanup including trashing emails, managing filters, and extracting unsubscribe links, with dry-run previews and automatic retry/backoff to handle rate limits.",
+  "source_repo": "adityai4/gmail-cleanup-mcp",
+  "source_url": "https://github.com/adityai4/gmail-cleanup-mcp",
+  "install": "npx -y gmail-cleanup-mcp"
+}

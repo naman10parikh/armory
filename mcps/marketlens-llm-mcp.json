@@ -1,0 +1,7 @@
+{
+  "name": "marketlens-llm-mcp",
+  "description": "Enables product enrichment with sentiment analysis, category mapping, and attribute extraction; provides tools to fetch top products and cluster summaries.",
+  "source_repo": "MarketLens-AI-Platform/marketlens-llm-mcp",
+  "source_url": "https://github.com/MarketLens-AI-Platform/marketlens-llm-mcp",
+  "install": "npx -y marketlens-llm-mcp"
+}

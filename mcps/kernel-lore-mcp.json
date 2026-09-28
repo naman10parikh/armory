@@ -1,0 +1,7 @@
+{
+  "name": "kernel-lore-mcp",
+  "description": "MCP server enabling structured search and querying over Linux kernel mailing list archives (lore.kernel.org) for LLM-powered developer tools.",
+  "source_repo": "mjbommar/kernel-lore-mcp",
+  "source_url": "https://github.com/mjbommar/kernel-lore-mcp",
+  "install": "npx -y kernel-lore-mcp"
+}

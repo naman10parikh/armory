@@ -1,0 +1,7 @@
+{
+  "name": "sdl-lab-hostops",
+  "description": "MCP server for SDL2 lab machines providing host operations: service status, log tailing, whitelisted service restarts, serial port listing, and local status probing. It is strictly whitelisted with no arbitrary command execution.",
+  "source_repo": "AccelerationConsortium/sdl-lab-hostops",
+  "source_url": "https://github.com/AccelerationConsortium/sdl-lab-hostops",
+  "install": "# git clone --depth 1 https://github.com/AccelerationConsortium/sdl-lab-hostops\n# See source for mcpServers config block"
+}

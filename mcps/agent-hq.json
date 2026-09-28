@@ -1,0 +1,7 @@
+{
+  "name": "agent-hq",
+  "description": "An MCP server that provides shared memory, kanban board, and agent registry for AI agents to collaborate as a team, with a live dashboard for human oversight.",
+  "source_repo": "tools-for-agents/agent-hq",
+  "source_url": "https://github.com/tools-for-agents/agent-hq",
+  "install": "# git clone --depth 1 https://github.com/tools-for-agents/agent-hq\n# See source for mcpServers config block"
+}

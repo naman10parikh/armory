@@ -1,0 +1,7 @@
+{
+  "name": "frameworkia-mcp-server",
+  "description": "Enables AI coding assistants to manage persistent memory, search project context, generate tests, review architecture, and orchestrate workflows through 15 MCP tools, enhancing context-aware code generation.",
+  "source_repo": "Luco1421/FrameworkIA",
+  "source_url": "https://github.com/Luco1421/FrameworkIA",
+  "install": "# git clone --depth 1 https://github.com/Luco1421/FrameworkIA\n# See source for mcpServers config block"
+}

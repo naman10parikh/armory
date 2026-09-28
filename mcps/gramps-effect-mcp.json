@@ -1,0 +1,7 @@
+{
+  "name": "gramps-effect-mcp",
+  "description": "An Effect TypeScript MCP server for safe access to Gramps Web, exposing records, relationships, timelines, media, and verified mutations to MCP clients.",
+  "source_repo": "htayj/gramps-effect-mcp",
+  "source_url": "https://github.com/htayj/gramps-effect-mcp",
+  "install": "npx -y gramps-effect-mcp"
+}

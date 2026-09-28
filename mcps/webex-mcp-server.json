@@ -1,0 +1,7 @@
+{
+  "name": "webex-mcp-server",
+  "description": "Enables Claude Desktop to send messages, manage spaces, and automate team collaboration in Cisco Webex Teams via the Model Context Protocol.",
+  "source_repo": "tekgourou/webex_mcp_server",
+  "source_url": "https://github.com/tekgourou/webex_mcp_server",
+  "install": "npx -y webex_mcp_server"
+}

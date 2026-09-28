@@ -1,0 +1,7 @@
+{
+  "name": "metacritic-mcp-server",
+  "description": "Exposes Metacritic game, movie, TV, and music review data through MCP tools and resources, enabling LLM hosts to search and retrieve reviews with optional filters.",
+  "source_repo": "MrCherry/mcp-metacritic",
+  "source_url": "https://github.com/MrCherry/mcp-metacritic",
+  "install": "# git clone --depth 1 https://github.com/MrCherry/mcp-metacritic\n# See source for mcpServers config block"
+}

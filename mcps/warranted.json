@@ -1,0 +1,7 @@
+{
+  "name": "warranted",
+  "description": "Makes AI research agents accountable by giving every conclusion a traceable argument graph. Provides a persistent argument graph where claims require grounds and warrants for auditable, verifiable reasoning.",
+  "source_repo": "yqi96/warranted",
+  "source_url": "https://github.com/yqi96/warranted",
+  "install": "# git clone --depth 1 https://github.com/yqi96/warranted\n# See source for mcpServers config block"
+}

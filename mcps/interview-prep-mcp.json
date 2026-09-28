@@ -1,0 +1,7 @@
+{
+  "name": "interview-prep-mcp",
+  "description": "An open-source Python MCP server for AI-assisted interview preparation.",
+  "source_repo": "shenmali/Interview-MCP-First",
+  "source_url": "https://github.com/shenmali/Interview-MCP-First",
+  "install": "# git clone --depth 1 https://github.com/shenmali/Interview-MCP-First\n# See source for mcpServers config block"
+}

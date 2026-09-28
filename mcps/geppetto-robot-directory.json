@@ -1,0 +1,7 @@
+{
+  "name": "geppetto-robot-directory",
+  "description": "Query the world's robot directory - 812 robots across 30 categories and 319 brands. Tools: search_robots (by category, brand, price, use case), get_robot and get_robot_full (complete specs), compare_robots (side-by-side diff), get_category, and get_job_automation_risk (robot displacement scores for",
+  "source_repo": "",
+  "source_url": "https://geppettorobotdirectory.com",
+  "install": "# git clone --depth 1 https://geppettorobotdirectory.com\n# See source for mcpServers config block"
+}

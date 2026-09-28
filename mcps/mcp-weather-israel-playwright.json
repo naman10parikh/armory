@@ -1,0 +1,7 @@
+{
+  "name": "mcp-weather-israel-playwright",
+  "description": "Enables LLMs to fetch live weather forecasts for Israeli cities by controlling a Chromium browser to scrape weather data from weather2day.co.il.",
+  "source_repo": "esty783/mcp-weather-israel-playwright",
+  "source_url": "https://github.com/esty783/mcp-weather-israel-playwright",
+  "install": "# git clone --depth 1 https://github.com/esty783/mcp-weather-israel-playwright\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-mcp-server",
+  "description": "A local MCP bridge that registers multiple AI API endpoints, enabling agents to automatically discover and route to models based on capabilities like chat, vision, reasoning, embedding, image generation, TTS, STT, and rerank.",
+  "source_repo": "brianMacao/ai-mcp-server",
+  "source_url": "https://github.com/brianMacao/ai-mcp-server",
+  "install": "npx -y ai-mcp-server"
+}

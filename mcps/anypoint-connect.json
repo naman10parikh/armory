@@ -1,0 +1,7 @@
+{
+  "name": "anypoint-connect",
+  "description": "CLI + MCP toolkit for Anypoint Platform that enables deploying applications, tailing logs, pulling metrics, and managing API specs with production safety nets.",
+  "source_repo": "Avinava/anypoint-connect",
+  "source_url": "https://github.com/Avinava/anypoint-connect",
+  "install": "# git clone --depth 1 https://github.com/Avinava/anypoint-connect\n# See source for mcpServers config block"
+}

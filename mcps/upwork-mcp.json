@@ -1,0 +1,7 @@
+{
+  "name": "upwork-mcp",
+  "description": "Connects AI agents to Upwork's GraphQL API, enabling job discovery, proposal management, profile tracking, and analytics.",
+  "source_repo": "furkankoykiran/upwork-mcp",
+  "source_url": "https://github.com/furkankoykiran/upwork-mcp",
+  "install": "npx -y upwork-mcp"
+}

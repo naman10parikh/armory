@@ -1,0 +1,7 @@
+{
+  "name": "linux-mcp",
+  "description": "A Linux system monitoring MCP server that provides real-time information on CPU, memory, disk, network, processes, Docker, security, and more via MCP tools.",
+  "source_repo": "Mohabdo21/linux-mcp",
+  "source_url": "https://github.com/Mohabdo21/linux-mcp",
+  "install": "npx -y linux-mcp"
+}

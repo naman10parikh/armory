@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arr-lite",
+  "description": "MCP server for managing media downloads with Radarr and Sonarr, providing granular tools for searching, adding, and grabbing movies and TV shows through natural language.",
+  "source_repo": "Cuti27/mcp-arr-lite",
+  "source_url": "https://github.com/Cuti27/mcp-arr-lite",
+  "install": "# git clone --depth 1 https://github.com/Cuti27/mcp-arr-lite\n# See source for mcpServers config block"
+}

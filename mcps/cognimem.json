@@ -1,0 +1,7 @@
+{
+  "name": "cognimem",
+  "description": "A cognitive memory MCP server that extracts knowledge as SPO triples, supports semantic recall, contradiction detection, and scientific forgetting, enabling persistent and evolving memory for AI agents.",
+  "source_repo": "1421906110/cognimem",
+  "source_url": "https://github.com/1421906110/cognimem",
+  "install": "# git clone --depth 1 https://github.com/1421906110/cognimem\n# See source for mcpServers config block"
+}

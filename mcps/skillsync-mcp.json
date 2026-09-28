@@ -1,0 +1,7 @@
+{
+  "name": "skillsync-mcp",
+  "description": "An MCP server for searching, security scanning, installing, and managing skills from the SkillsMP marketplace, designed for Claude Code and other MCP-compatible clients.",
+  "source_repo": "adityasugandhi/skillsync-mcp",
+  "source_url": "https://github.com/adityasugandhi/skillsync-mcp",
+  "install": "npx -y skillsync-mcp"
+}

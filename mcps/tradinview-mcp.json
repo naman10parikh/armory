@@ -1,0 +1,7 @@
+{
+  "name": "tradinview-mcp",
+  "description": "A TradingView-style market research and charting MCP server that provides tools for market data, indicators, watchlists, and local HTML chart rendering without scraping TradingView.",
+  "source_repo": "Ham12-3/tradinview-mcp",
+  "source_url": "https://github.com/Ham12-3/tradinview-mcp",
+  "install": "npx -y tradinview-mcp"
+}

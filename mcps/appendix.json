@@ -1,0 +1,7 @@
+{
+  "name": "appendix",
+  "description": "Appendix turns any AI health conversation into a board-certified physician's opinion — with a real prescription when clinically appropriate. Search medical literature and submit a clinical encounter for review, all from your agent.",
+  "source_repo": "appendixhealth/mcp-server",
+  "source_url": "https://github.com/appendixhealth/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/appendixhealth/mcp-server\n# See source for mcpServers config block"
+}

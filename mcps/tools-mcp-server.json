@@ -1,0 +1,7 @@
+{
+  "name": "tools-mcp-server",
+  "description": "An MCP server that provides utility tools for markdown processing, including ADF-to-markdown conversion, table formatting, and table of contents management.",
+  "source_repo": "dongood/tools-mcp-server",
+  "source_url": "https://github.com/dongood/tools-mcp-server",
+  "install": "npx -y tools-mcp-server"
+}

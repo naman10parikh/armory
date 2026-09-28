@@ -1,0 +1,7 @@
+{
+  "name": "italian-law-mcp",
+  "description": "MCP server for Italian law – indexes statutes from Normattiva such as Codice Civile, Codice Penale, and more, with EU implementation mapping.",
+  "source_repo": "Ansvar-Systems/italian-law-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/italian-law-mcp",
+  "install": "npx -y italian-law-mcp"
+}

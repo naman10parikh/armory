@@ -1,0 +1,7 @@
+{
+  "name": "kali-mcp-server-2",
+  "description": "Enables MCP clients to drive Kali Linux ethical hacking tools for authorized penetration testing, with enforced engagement scope, exploitation gating, and full audit logging.",
+  "source_repo": "bsahane/kali-mcp-server",
+  "source_url": "https://github.com/bsahane/kali-mcp-server",
+  "install": "npx -y kali-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "scouts-ai-mcp",
+  "description": "Model Context Protocol server exposing the SCOUTS-AI web search API as a single web_search tool for AI agents. No API key required.",
+  "source_repo": "kecven/scouts-ai-mcp",
+  "source_url": "https://github.com/kecven/scouts-ai-mcp",
+  "install": "npx -y scouts-ai-mcp"
+}

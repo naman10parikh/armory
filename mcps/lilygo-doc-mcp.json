@@ -1,0 +1,7 @@
+{
+  "name": "lilygo-doc-mcp",
+  "description": "Provides tools to search and retrieve LILYGO hardware documentation, including product listings, full specs, and sectioned guides, with live fetching from GitHub.",
+  "source_repo": "Xinyuan-LilyGO/lilygo-doc-mcp",
+  "source_url": "https://github.com/Xinyuan-LilyGO/lilygo-doc-mcp",
+  "install": "npx -y lilygo-doc-mcp"
+}

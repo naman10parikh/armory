@@ -1,0 +1,7 @@
+{
+  "name": "canvas-mcp-server",
+  "description": "Enables AI assistants to manage Canvas LMS courses, announcements, rubrics, assignments, modules, pages, and student data via the Canvas API.",
+  "source_repo": "r-huijts/canvas-mcp",
+  "source_url": "https://github.com/r-huijts/canvas-mcp",
+  "install": "npx -y canvas-mcp"
+}

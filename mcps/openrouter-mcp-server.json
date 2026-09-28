@@ -1,0 +1,7 @@
+{
+  "name": "openrouter-mcp-server",
+  "description": "An MCP server that provides access to 400+ AI models via OpenRouter, enabling chat, comparison, and document analysis through Claude.",
+  "source_repo": "praxeo/openrouter-MCP",
+  "source_url": "https://github.com/praxeo/openrouter-MCP",
+  "install": "npx -y openrouter-MCP"
+}

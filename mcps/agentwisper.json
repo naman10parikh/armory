@@ -1,0 +1,7 @@
+{
+  "name": "agentwisper",
+  "description": "MCP-based message broker enabling AI agents to coordinate through P2P messaging, RPC, and pub/sub, with persistent squads and ad-hoc teams. It provides 26 MCP tools for agent registration, squad management, messaging, and topic subscriptions, backed by SQLite persistence.",
+  "source_repo": "jhqian/agentwisper",
+  "source_url": "https://github.com/jhqian/agentwisper",
+  "install": "# git clone --depth 1 https://github.com/jhqian/agentwisper\n# See source for mcpServers config block"
+}

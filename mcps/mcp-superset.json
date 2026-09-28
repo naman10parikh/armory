@@ -1,0 +1,7 @@
+{
+  "name": "mcp-superset",
+  "description": "A comprehensive MCP server for Apache Superset. Gives AI assistants full control over your Superset instance — dashboards, charts, datasets, SQL Lab, users, roles, RLS, and more — through 137 tools.",
+  "source_repo": "chenwenyu1014/mcp-superset-community",
+  "source_url": "https://github.com/chenwenyu1014/mcp-superset-community",
+  "install": "# git clone --depth 1 https://github.com/chenwenyu1014/mcp-superset-community\n# See source for mcpServers config block"
+}

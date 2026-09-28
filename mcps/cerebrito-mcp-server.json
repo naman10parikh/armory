@@ -1,0 +1,7 @@
+{
+  "name": "cerebrito-mcp-server",
+  "description": "MCP server that exposes the knowledge base of the Cumplimiento Digital project, allowing AI agents to query KB entries, project status, endpoints, and glossary via MCP tools.",
+  "source_repo": "Car202ui/cerebrito-mcp-server",
+  "source_url": "https://github.com/Car202ui/cerebrito-mcp-server",
+  "install": "npx -y cerebrito-mcp-server"
+}

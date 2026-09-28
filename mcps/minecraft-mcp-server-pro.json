@@ -1,0 +1,7 @@
+{
+  "name": "minecraft-mcp-server-pro",
+  "description": "Enables AI agents to control Minecraft via MCP with configurable versions, creative building commands, survival helpers, and an autonomous agent loop.",
+  "source_repo": "l0s3r-Q/minecraft-mcp-server",
+  "source_url": "https://github.com/l0s3r-Q/minecraft-mcp-server",
+  "install": "npx -y minecraft-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "simple-db-mcp",
+  "description": "A small Python MCP server for querying PostgreSQL and MySQL databases with read-only safety, featuring schema inspection, table description, and query execution tools.",
+  "source_repo": "torcato/simple-db-mcp",
+  "source_url": "https://github.com/torcato/simple-db-mcp",
+  "install": "npx -y simple-db-mcp"
+}

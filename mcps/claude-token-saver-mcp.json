@@ -1,0 +1,7 @@
+{
+  "name": "claude-token-saver-mcp",
+  "description": "Enables Claude Code to offload routine code generation and text processing tasks to a local Ollama LLM, saving Cloud API tokens and costs with automatic model selection and security features.",
+  "source_repo": "BlackFoil/claude-token-saver-mcp",
+  "source_url": "https://github.com/BlackFoil/claude-token-saver-mcp",
+  "install": "npx -y claude-token-saver-mcp"
+}

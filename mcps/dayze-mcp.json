@@ -1,0 +1,7 @@
+{
+  "name": "dayze-mcp",
+  "description": "Hosted people and life-in-days knowledge API for AI agents, providing notable packs with day-of-life numbers, similar people, and birthday peers.",
+  "source_repo": "gohluke/dayze-mcp",
+  "source_url": "https://github.com/gohluke/dayze-mcp",
+  "install": "npx -y dayze-mcp"
+}

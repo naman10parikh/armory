@@ -7,7 +7,7 @@ license: MIT
 ---
 # ccflare
 
-Claude Code usage dashboard with a web-UI that would put Tableau to shame. Thoroughly comprehensive metrics, frictionless setup, detailed logging, really really nice UI.
+A Claude Code usage dashboard with a web UI: detailed metrics, logging and a short setup.
 
 **Source:** https://github.com/snipeship/ccflare
 

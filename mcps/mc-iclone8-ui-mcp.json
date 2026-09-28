@@ -1,0 +1,7 @@
+{
+  "name": "mc-iclone8-ui-mcp",
+  "description": "A local MCP server to control iClone 8's visible interface like a human user, providing read-only inspection and screen capture tools.",
+  "source_repo": "gorbabor/mc-iclone8-ui-mcp",
+  "source_url": "https://github.com/gorbabor/mc-iclone8-ui-mcp",
+  "install": "npx -y mc-iclone8-ui-mcp"
+}

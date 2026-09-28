@@ -1,0 +1,7 @@
+{
+  "name": "unityautonomousmcp",
+  "description": "A comprehensive autonomous agent framework for Unity 2022.3.22f1 combining Model Context Protocol with AI decision-making, enabling intelligent task planning, editor automation, and multi-agent coordination.",
+  "source_repo": "KinofSin/UnityAutonomousMCP",
+  "source_url": "https://github.com/KinofSin/UnityAutonomousMCP",
+  "install": "# git clone --depth 1 https://github.com/KinofSin/UnityAutonomousMCP\n# See source for mcpServers config block"
+}

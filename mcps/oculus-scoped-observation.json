@@ -1,0 +1,7 @@
+{
+  "name": "oculus-scoped-observation",
+  "description": "Provides read-only MCP tools for AI agents to observe user-selected regions of a Chrome browser, including region info, text/UI semantics, cropped images, and changes.",
+  "source_repo": "Merchantlee99/oculus-scoped-observation",
+  "source_url": "https://github.com/Merchantlee99/oculus-scoped-observation",
+  "install": "# git clone --depth 1 https://github.com/Merchantlee99/oculus-scoped-observation\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "job-matcher-mcp",
+  "description": "AI-powered job search and resume customization MCP server that automates job searching and tailors resumes for each role.",
+  "source_repo": "SRP-alohamora/JobMatcherMCP",
+  "source_url": "https://github.com/SRP-alohamora/JobMatcherMCP",
+  "install": "# git clone --depth 1 https://github.com/SRP-alohamora/JobMatcherMCP\n# See source for mcpServers config block"
+}

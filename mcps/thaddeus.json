@@ -1,0 +1,7 @@
+{
+  "name": "thaddeus",
+  "description": "A local, JARVIS-style personal assistant that orchestrates custom MCP servers for memory, calendar, weather, Notion, Claude Code, web search, and Strava, running primarily offline with Ollama.",
+  "source_repo": "baothach10/thaddeus",
+  "source_url": "https://github.com/baothach10/thaddeus",
+  "install": "# git clone --depth 1 https://github.com/baothach10/thaddeus\n# See source for mcpServers config block"
+}

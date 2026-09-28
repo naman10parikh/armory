@@ -1,0 +1,7 @@
+{
+  "name": "elephantasm-mcp",
+  "description": "MCP server for long-term agent memory, providing persistent memory, searchable knowledge, and evolving identity for AI agents.",
+  "source_repo": "kaminocorp/elephantasm-mcp",
+  "source_url": "https://github.com/kaminocorp/elephantasm-mcp",
+  "install": "npx -y elephantasm-mcp"
+}

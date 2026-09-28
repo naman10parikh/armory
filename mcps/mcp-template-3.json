@@ -1,0 +1,7 @@
+{
+  "name": "mcp-template-3",
+  "description": "Bootstraps an MCP-first SaaS with dual-host widgets for Claude and ChatGPT, Supabase OAuth 2.1 auth, and shared services pattern.",
+  "source_repo": "jean-baptiste-tiple/mcp-template",
+  "source_url": "https://github.com/jean-baptiste-tiple/mcp-template",
+  "install": "# git clone --depth 1 https://github.com/jean-baptiste-tiple/mcp-template\n# See source for mcpServers config block"
+}

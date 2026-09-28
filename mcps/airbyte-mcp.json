@@ -1,0 +1,7 @@
+{
+  "name": "airbyte-mcp",
+  "description": "Enables interaction with an Airbyte instance through natural language, supporting workspaces, sources, destinations, connections, jobs, logs, tags, streams, and connector definitions.",
+  "source_repo": "trustxai/airbyte-mcp",
+  "source_url": "https://github.com/trustxai/airbyte-mcp",
+  "install": "npx -y airbyte-mcp"
+}

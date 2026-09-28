@@ -1,0 +1,7 @@
+{
+  "name": "depix-mcp",
+  "description": "MCP server for DePix App that enables AI agents to receive Pix payments and read transaction status via the DePix API.",
+  "source_repo": "depixapp/depix-mcp",
+  "source_url": "https://github.com/depixapp/depix-mcp",
+  "install": "npx -y depix-mcp"
+}

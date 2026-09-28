@@ -1,0 +1,7 @@
+{
+  "name": "delineamcp",
+  "description": "MCP server for the Delinea Secret Server and Platform APIs, enabling AI agents to manage secrets, users, groups, folders, roles, and access requests through natural language commands.",
+  "source_repo": "DelineaXPM/delinea-mcp",
+  "source_url": "https://github.com/DelineaXPM/delinea-mcp",
+  "install": "npx -y delinea-mcp"
+}

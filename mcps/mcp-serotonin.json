@@ -1,0 +1,7 @@
+{
+  "name": "mcp-serotonin",
+  "description": "Bridges MCP-capable LLM agents to the Serotonin Lua runtime, enabling live Roblox game interaction including instance tree navigation, memory access, and script execution.",
+  "source_repo": "DeftSolutions-dev/mcp-serotonin",
+  "source_url": "https://github.com/DeftSolutions-dev/mcp-serotonin",
+  "install": "# git clone --depth 1 https://github.com/DeftSolutions-dev/mcp-serotonin\n# See source for mcpServers config block"
+}

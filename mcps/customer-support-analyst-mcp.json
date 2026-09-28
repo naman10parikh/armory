@@ -1,0 +1,7 @@
+{
+  "name": "customer-support-analyst-mcp",
+  "description": "Enables natural-language Q&A over customer support ticket data. Provides tools for schema inspection, SQL-based ticket counts and grouping, and full-text search for customer wording without requiring API keys.",
+  "source_repo": "ZivSapir/customer-support-analyst-mcp",
+  "source_url": "https://github.com/ZivSapir/customer-support-analyst-mcp",
+  "install": "npx -y customer-support-analyst-mcp"
+}

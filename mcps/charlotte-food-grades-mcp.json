@@ -1,0 +1,7 @@
+{
+  "name": "charlotte-food-grades-mcp",
+  "description": "Query food inspection grades and violations for Charlotte/Mecklenburg County, NC, with tools for searching establishments, getting details, finding nearby, and score distributions.",
+  "source_repo": "tkthomas27/charlotte-food-grades",
+  "source_url": "https://github.com/tkthomas27/charlotte-food-grades",
+  "install": "# git clone --depth 1 https://github.com/tkthomas27/charlotte-food-grades\n# See source for mcpServers config block"
+}

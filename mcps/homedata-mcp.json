@@ -1,0 +1,7 @@
+{
+  "name": "homedata-mcp",
+  "description": "Enables AI assistants to query UK property data including EPCs, sale history, planning, flood risk, council tax, demographics, and more via the Homedata API.",
+  "source_repo": "wehomemove/homedata-mcp",
+  "source_url": "https://github.com/wehomemove/homedata-mcp",
+  "install": "npx -y homedata-mcp"
+}

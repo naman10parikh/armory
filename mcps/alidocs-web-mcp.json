@@ -1,0 +1,7 @@
+{
+  "name": "alidocs-web-mcp",
+  "description": "Bridges the editing capabilities of an already-open DingTalk document in the browser to any MCP host via standard stdio, forwarding tools to the page's internal MCP server over a local WebSocket. Supports read/write operations through suggested edits, pairing-based security, and zero runtime depende",
+  "source_repo": "magical-index/alidocs-web-mcp",
+  "source_url": "https://github.com/magical-index/alidocs-web-mcp",
+  "install": "npx -y alidocs-web-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dtctl",
+  "description": "Provides an MCP server to interact with Dynatrace platform tools, including DQL queries, documents, workflows, SLOs, settings, and entities, enabling management through natural language.",
+  "source_repo": "clabrado/dtctl-vscode",
+  "source_url": "https://github.com/clabrado/dtctl-vscode",
+  "install": "# git clone --depth 1 https://github.com/clabrado/dtctl-vscode\n# See source for mcpServers config block"
+}

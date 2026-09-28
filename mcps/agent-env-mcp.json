@@ -1,0 +1,7 @@
+{
+  "name": "agent-env-mcp",
+  "description": "Provides a restricted Docker-based sandbox for LLM agents, enabling file operations, command execution, and local Git within an isolated runtime.",
+  "source_repo": "brycepelletier/agent-env-mcp",
+  "source_url": "https://github.com/brycepelletier/agent-env-mcp",
+  "install": "npx -y agent-env-mcp"
+}

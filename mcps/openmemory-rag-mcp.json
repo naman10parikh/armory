@@ -1,0 +1,7 @@
+{
+  "name": "openmemory-rag-mcp",
+  "description": "MCP server for importing documents into OpenMemory RAG knowledge base. Supports file uploads, URL imports, text ingestion, and knowledge base search.",
+  "source_repo": "wXingHe/openmemory-rag-mcp",
+  "source_url": "https://github.com/wXingHe/openmemory-rag-mcp",
+  "install": "npx -y openmemory-rag-mcp"
+}

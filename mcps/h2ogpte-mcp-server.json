@@ -1,0 +1,7 @@
+{
+  "name": "h2ogpte-mcp-server",
+  "description": "Enables interaction with H2OGPTe's REST API, allowing document ingestion, collection management, and chat with AI models through MCP tools and resources.",
+  "source_repo": "h2oai/h2ogpte-mcp-server",
+  "source_url": "https://github.com/h2oai/h2ogpte-mcp-server",
+  "install": "npx -y h2ogpte-mcp-server"
+}

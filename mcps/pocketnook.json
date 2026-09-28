@@ -1,0 +1,7 @@
+{
+  "name": "pocketnook",
+  "description": "Deploy GitHub repositories or local directories to private URLs directly from an MCP client. Includes tools for managing deployments, reading build logs, and stopping services.",
+  "source_repo": "shotintoeternity/pocketnook-mcp",
+  "source_url": "https://github.com/shotintoeternity/pocketnook-mcp",
+  "install": "npx -y pocketnook-mcp"
+}

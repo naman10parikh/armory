@@ -1,0 +1,7 @@
+{
+  "name": "mcp-traits-matcher",
+  "description": "A personality analysis server that creates persons with traits, adds descriptions to update personality, and finds matches for job descriptions using Euclidean distance.",
+  "source_repo": "waifuai/mcp-traits-matcher",
+  "source_url": "https://github.com/waifuai/mcp-traits-matcher",
+  "install": "# git clone --depth 1 https://github.com/waifuai/mcp-traits-matcher\n# See source for mcpServers config block"
+}

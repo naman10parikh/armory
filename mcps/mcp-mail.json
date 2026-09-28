@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mail",
+  "description": "A mail-like coordination layer for coding agents, providing identities, inbox/outbox, searchable threads, and advisory file reservations to prevent conflicts in multi-agent workflows.",
+  "source_repo": "jleechanorg/mcp_agent_mail_archived",
+  "source_url": "https://github.com/jleechanorg/mcp_agent_mail_archived",
+  "install": "# git clone --depth 1 https://github.com/jleechanorg/mcp_agent_mail_archived\n# See source for mcpServers config block"
+}

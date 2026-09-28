@@ -1,0 +1,7 @@
+{
+  "name": "world-id-for-chatgpt",
+  "description": "A remote MCP server that links World ID 4.0 sessions to AI assistants, enabling verified human authentication and tools for claiming Founding Human places, accessing human grants, and interacting with a verified human wall.",
+  "source_repo": "lcusack/world-id-chatgpt",
+  "source_url": "https://github.com/lcusack/world-id-chatgpt",
+  "install": "# git clone --depth 1 https://github.com/lcusack/world-id-chatgpt\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codetest-mcp",
+  "description": "MCP server for static code analysis using AST parsing and linters, providing tools to detect syntax errors, type issues, typos, and incorrect variable usage across multiple languages. It supports headless linting with tools like ast_check, lint_check, and health.",
+  "source_repo": "jihyun0410/codetest-MCP",
+  "source_url": "https://github.com/jihyun0410/codetest-MCP",
+  "install": "npx -y codetest-MCP"
+}

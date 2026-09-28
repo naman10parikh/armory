@@ -1,0 +1,7 @@
+{
+  "name": "changelogai",
+  "description": "Generate professional changelogs from git history and suggest semver bumps, with optional AI enhancement via Claude.",
+  "source_repo": "ura-tools/changelogai",
+  "source_url": "https://github.com/ura-tools/changelogai",
+  "install": "# git clone --depth 1 https://github.com/ura-tools/changelogai\n# See source for mcpServers config block"
+}

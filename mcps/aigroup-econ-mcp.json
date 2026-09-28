@@ -1,0 +1,7 @@
+{
+  "name": "aigroup-econ-mcp",
+  "description": "Econometrics MCP server for regression, causal inference, time series, panel data, machine learning, and broader statistical analysis workflows.",
+  "source_repo": "jackdark425/aigroup-econ-mcp",
+  "source_url": "https://github.com/jackdark425/aigroup-econ-mcp",
+  "install": "npx -y aigroup-econ-mcp"
+}

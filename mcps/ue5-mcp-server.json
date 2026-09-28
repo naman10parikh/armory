@@ -1,0 +1,7 @@
+{
+  "name": "ue5-mcp-server",
+  "description": "Bridges AI assistants to Unreal Engine 5 editor, enabling direct manipulation of levels, actors, Blueprints, and Animation Blueprints through natural language commands.",
+  "source_repo": "Natfii/ue5-mcp-bridge",
+  "source_url": "https://github.com/Natfii/ue5-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/Natfii/ue5-mcp-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "engineering-knowledge-mcp",
+  "description": "Provides coding agents with a shared, Markdown-based engineering knowledge base to search, capture, create, and update internal conventions, API details, infrastructure configs, and development setup via lightweight MCP tools.",
+  "source_repo": "niallr12/engineering-knowledge-mcp",
+  "source_url": "https://github.com/niallr12/engineering-knowledge-mcp",
+  "install": "npx -y engineering-knowledge-mcp"
+}

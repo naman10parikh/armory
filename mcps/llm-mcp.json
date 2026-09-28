@@ -1,6 +1,6 @@
 {
   "name": "llm-mcp",
-  "description": "LLM_MCP MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Nkarnaud/LLM_MCP",
   "source_url": "https://mcp.so/server/LLM_MCP/Nkarnaud",
   "install": "npx -y LLM_MCP"

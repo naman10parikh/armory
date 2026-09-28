@@ -1,0 +1,7 @@
+{
+  "name": "easygroupflights-mcp",
+  "description": "Provides group air travel booking and flight search via IATA-accredited services, supporting group quotes and flight fares.",
+  "source_repo": "codeblockssk/easygroupflights-mcp",
+  "source_url": "https://github.com/codeblockssk/easygroupflights-mcp",
+  "install": "npx -y easygroupflights-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "legal-kb-builder",
+  "description": "A local legal knowledge base construction factory that provides a consultation agent with multi-source retrieval, supporting MCP server for external services.",
+  "source_repo": "Youchu-lawhub/legal-kb-builder",
+  "source_url": "https://github.com/Youchu-lawhub/legal-kb-builder",
+  "install": "# git clone --depth 1 https://github.com/Youchu-lawhub/legal-kb-builder\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sony-tv-mcp-server",
+  "description": "Enables control of Sony TVs via IRCC remote commands through Model Context Protocol.",
+  "source_repo": "melenas1414/sony-mcp",
+  "source_url": "https://github.com/melenas1414/sony-mcp",
+  "install": "npx -y sony-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "webread-mcp",
+  "description": "Enables AI assistants to read webpages and perform web searches using DuckDuckGo.",
+  "source_repo": "EvalVis/webreadmcp",
+  "source_url": "https://github.com/EvalVis/webreadmcp",
+  "install": "# git clone --depth 1 https://github.com/EvalVis/webreadmcp\n# See source for mcpServers config block"
+}

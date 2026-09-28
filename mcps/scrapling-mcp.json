@@ -1,0 +1,7 @@
+{
+  "name": "scrapling-mcp",
+  "description": "Exposes Scrapling web scraping framework as MCP tools for Claude Code, enabling URL scraping with CSS/XPath selectors, stealth mode, and batch processing.",
+  "source_repo": "goodmartins/scrapling-mcp",
+  "source_url": "https://github.com/goodmartins/scrapling-mcp",
+  "install": "npx -y scrapling-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dbos-mcp-server",
+  "description": "Enables LLMs to analyze and manage DBOS workflows, including introspection, workflow management, and authentication, to help debug applications in development or production.",
+  "source_repo": "dbos-inc/dbos-mcp",
+  "source_url": "https://github.com/dbos-inc/dbos-mcp",
+  "install": "npx -y dbos-mcp"
+}

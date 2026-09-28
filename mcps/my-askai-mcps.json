@@ -1,0 +1,7 @@
+{
+  "name": "my-askai-mcps",
+  "description": "Provides read-only Model Context Protocol tools for My AskAI, enabling documentation search, filesystem queries, and pricing estimates.",
+  "source_repo": "arainey2022/myaskai-mcps",
+  "source_url": "https://github.com/arainey2022/myaskai-mcps",
+  "install": "# git clone --depth 1 https://github.com/arainey2022/myaskai-mcps\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "io-github-wesseltl-excel-mcp",
+  "description": "Enables AI agents to read real Excel files with messy layouts, auto-detecting header rows and handling merged cells to extract clean tabular data via MCP tools.",
+  "source_repo": "wesseltl/excel-mcp",
+  "source_url": "https://github.com/wesseltl/excel-mcp",
+  "install": "npx -y excel-mcp"
+}

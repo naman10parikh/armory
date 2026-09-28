@@ -1,0 +1,7 @@
+{
+  "name": "employment-ai",
+  "description": "MCP server for EU AI Act compliance in employment AI, featuring built-in risk management, bias detection, transparency, and FRIA support.",
+  "source_repo": "CSOAI-ORG/employment-ai",
+  "source_url": "https://github.com/CSOAI-ORG/employment-ai",
+  "install": "# git clone --depth 1 https://github.com/CSOAI-ORG/employment-ai\n# See source for mcpServers config block"
+}

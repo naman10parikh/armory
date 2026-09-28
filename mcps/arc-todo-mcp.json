@@ -1,0 +1,7 @@
+{
+  "name": "arc-todo-mcp",
+  "description": "MCP server that wraps the Arc Todo REST API to manage tasks, knowledge, and workspace context via Streamable HTTP.",
+  "source_repo": "wesleyferreirarcanjo/arc-todo-mcp",
+  "source_url": "https://github.com/wesleyferreirarcanjo/arc-todo-mcp",
+  "install": "npx -y arc-todo-mcp"
+}

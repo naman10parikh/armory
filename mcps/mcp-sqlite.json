@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sqlite",
+  "description": "MCP tool server providing SQLite database access for AI agents.",
+  "source_repo": "mgcrea/mcp-sqlite",
+  "source_url": "https://github.com/mgcrea/mcp-sqlite",
+  "install": "# git clone --depth 1 https://github.com/mgcrea/mcp-sqlite\n# See source for mcpServers config block"
+}

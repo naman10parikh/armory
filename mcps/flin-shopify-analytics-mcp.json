@@ -1,0 +1,7 @@
+{
+  "name": "flin-shopify-analytics-mcp",
+  "description": "Read-only MCP server for querying Shopify analytics data, including orders, customers, products, sales, retention, and attribution.",
+  "source_repo": "flin-agency/flin-shopify-analytics-mcp",
+  "source_url": "https://github.com/flin-agency/flin-shopify-analytics-mcp",
+  "install": "npx -y flin-shopify-analytics-mcp"
+}

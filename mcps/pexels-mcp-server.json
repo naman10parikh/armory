@@ -1,0 +1,7 @@
+{
+  "name": "pexels-mcp-server",
+  "description": "Enables AI models to search and retrieve photos, videos, and collections from Pexels via the Pexels API.",
+  "source_repo": "CaullenOmdahl/pexels-mcp-server",
+  "source_url": "https://github.com/CaullenOmdahl/pexels-mcp-server",
+  "install": "npx -y pexels-mcp-server"
+}

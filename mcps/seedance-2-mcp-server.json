@@ -1,0 +1,7 @@
+{
+  "name": "seedance-2-mcp-server",
+  "description": "A focused MCP server for generating Seedance 2 videos via MuAPI. It provides tools for text-to-video, image-to-video, first-last-frame, and omni-reference generation, plus prediction polling and account balance.",
+  "source_repo": "Anil-matcha/seedance-2-mcp",
+  "source_url": "https://github.com/Anil-matcha/seedance-2-mcp",
+  "install": "npx -y seedance-2-mcp"
+}

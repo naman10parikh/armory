@@ -1,0 +1,7 @@
+{
+  "name": "playwriter",
+  "description": "Connects to your running Chrome browser, enabling AI agents to automate it via Playwright API with existing logins and extensions.",
+  "source_repo": "remorses/playwriter",
+  "source_url": "https://github.com/remorses/playwriter",
+  "install": "# git clone --depth 1 https://github.com/remorses/playwriter\n# See source for mcpServers config block"
+}

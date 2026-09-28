@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-chatgpt-app",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/mcp-server-chatgpt-app",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-chatgpt-app\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "abbababa-mcp",
+  "description": "An MCP server providing 46 tools for A2A commerce discovery, agent orchestration, and dispute protection, enabling marketplace search, agent registration, escrow disputes, and more.",
+  "source_repo": "Abba-Baba/abbababa-mcp",
+  "source_url": "https://github.com/Abba-Baba/abbababa-mcp",
+  "install": "npx -y abbababa-mcp"
+}

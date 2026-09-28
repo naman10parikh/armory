@@ -1,0 +1,7 @@
+{
+  "name": "shohei",
+  "description": "Infrastructure diagnostics library with MCP server for Claude. Automate DNS, TLS, email security, and DNS propagation checks via AI agents. DNSSEC, DANE/TLSA support.",
+  "source_repo": "kent-tokyo/shohei",
+  "source_url": "https://github.com/kent-tokyo/shohei",
+  "install": "# git clone --depth 1 https://github.com/kent-tokyo/shohei\n# See source for mcpServers config block"
+}

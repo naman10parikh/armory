@@ -1,0 +1,7 @@
+{
+  "name": "postmcp",
+  "description": "An MCP server for managing AI-generated social news posts in Firebase Firestore, enabling CRUD operations on posts with categories and tags.",
+  "source_repo": "vaxosv/FirabasePostMCP",
+  "source_url": "https://github.com/vaxosv/FirabasePostMCP",
+  "install": "# git clone --depth 1 https://github.com/vaxosv/FirabasePostMCP\n# See source for mcpServers config block"
+}

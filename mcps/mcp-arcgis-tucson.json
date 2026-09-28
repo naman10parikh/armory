@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arcgis-tucson",
+  "description": "Enables users to search and query City of Tucson GIS open geospatial datasets (zoning, parcels, public safety, transport, city services) through natural language.",
+  "source_repo": "pipeworx-io/mcp-arcgis-tucson",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-tucson",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-tucson\n# See source for mcpServers config block"
+}

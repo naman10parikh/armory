@@ -1,0 +1,7 @@
+{
+  "name": "scaffold-mcp-server",
+  "description": "Enables generating frontend project scaffolding for multiple frameworks (React, Vue, UmiJS, Electron) via natural language commands.",
+  "source_repo": "chuxiaoguo/scaffold-mcp-server",
+  "source_url": "https://github.com/chuxiaoguo/scaffold-mcp-server",
+  "install": "npx -y scaffold-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jueshan-paipan-mcp",
+  "description": "Provides precise Chinese metaphysics chart calculation (Bazi, Ziwei, Qimen) with true solar time correction, outputting structured JSON and Markdown for AI integration.",
+  "source_repo": "Riki-1124/bazi-ziwei-qimen-paipan-mcp",
+  "source_url": "https://github.com/Riki-1124/bazi-ziwei-qimen-paipan-mcp",
+  "install": "npx -y bazi-ziwei-qimen-paipan-mcp"
+}

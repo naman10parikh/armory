@@ -1,0 +1,7 @@
+{
+  "name": "yfinance",
+  "description": "A Model Context Protocol (MCP) server that provides comprehensive access to Yahoo Finance data through 18 specialized tools for pricing, financials, options, holders, and news.",
+  "source_repo": "ozp/yfinance-mcp",
+  "source_url": "https://github.com/ozp/yfinance-mcp",
+  "install": "npx -y yfinance-mcp"
+}

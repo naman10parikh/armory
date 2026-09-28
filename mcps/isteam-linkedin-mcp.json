@@ -1,0 +1,7 @@
+{
+  "name": "isteam-linkedin-mcp",
+  "description": "MCP server for LinkedIn that enables AI agents to post, comment, like, and manage content on LinkedIn.",
+  "source_repo": "isteamhq/linkedin-mcp",
+  "source_url": "https://github.com/isteamhq/linkedin-mcp",
+  "install": "npx -y linkedin-mcp"
+}

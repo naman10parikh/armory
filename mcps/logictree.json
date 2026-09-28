@@ -1,0 +1,7 @@
+{
+  "name": "logictree",
+  "description": "Enables hierarchical problem analysis using logic trees with MECE validation, hypothesis generation, and feasibility assessment for structured decision-making.",
+  "source_repo": "mostlyfine/mcp-logictree",
+  "source_url": "https://github.com/mostlyfine/mcp-logictree",
+  "install": "# git clone --depth 1 https://github.com/mostlyfine/mcp-logictree\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pop-mcp",
+  "description": "MCP server for POP — enabling LLMs to generate, submit, and manage Italian e-invoices (FatturaPA/SdI), Peppol invoices, and PDF invoices directly from AI assistants.",
+  "source_repo": "getpopapi/pop-mcp",
+  "source_url": "https://github.com/getpopapi/pop-mcp",
+  "install": "npx -y pop-mcp"
+}

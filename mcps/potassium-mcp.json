@@ -1,0 +1,7 @@
+{
+  "name": "potassium-mcp",
+  "description": "A local MCP bridge between AI applications and the Potassium Roblox client.",
+  "source_repo": "mrketa/potassium-mcp",
+  "source_url": "https://github.com/mrketa/potassium-mcp",
+  "install": "npx -y potassium-mcp"
+}

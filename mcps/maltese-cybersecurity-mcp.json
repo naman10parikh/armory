@@ -1,0 +1,7 @@
+{
+  "name": "maltese-cybersecurity-mcp",
+  "description": "Enables querying Maltese cybersecurity regulations, decisions, and requirements from CSIRTMalta via MCP-compatible clients like Claude and Cursor.",
+  "source_repo": "Ansvar-Systems/maltese-cybersecurity-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/maltese-cybersecurity-mcp",
+  "install": "npx -y maltese-cybersecurity-mcp"
+}

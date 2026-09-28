@@ -1,0 +1,7 @@
+{
+  "name": "google-ads-mcp-2",
+  "description": "Enables managing Google Ads campaigns through an AI assistant with read-only reporting, recommendations, and gated write operations for bids, budgets, and statuses, all backed by preview and audit logging.",
+  "source_repo": "LucasSantana-Dev/google-ads-mcp",
+  "source_url": "https://github.com/LucasSantana-Dev/google-ads-mcp",
+  "install": "npx -y google-ads-mcp"
+}

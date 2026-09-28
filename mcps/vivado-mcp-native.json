@@ -1,0 +1,7 @@
+{
+  "name": "vivado-mcp-native",
+  "description": "Enables AI clients to directly launch, control, and analyze AMD/Xilinx Vivado on Windows and Linux, supporting project management, synthesis, implementation, bitstream generation, timing/resource analysis, and simulation through a persistent Tcl session.",
+  "source_repo": "Arthurzxy/vivado_mcp_native",
+  "source_url": "https://github.com/Arthurzxy/vivado_mcp_native",
+  "install": "# git clone --depth 1 https://github.com/Arthurzxy/vivado_mcp_native\n# See source for mcpServers config block"
+}

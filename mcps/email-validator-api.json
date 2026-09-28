@@ -1,0 +1,7 @@
+{
+  "name": "email-validator-api",
+  "description": "Comprehensive email validation MCP server that checks syntax, MX records, disposable domains, role-based accounts, SPF/DKIM, typo suggestions, and risk scoring.",
+  "source_repo": "lazymac2x/email-validator-api",
+  "source_url": "https://github.com/lazymac2x/email-validator-api",
+  "install": "# git clone --depth 1 https://github.com/lazymac2x/email-validator-api\n# See source for mcpServers config block"
+}

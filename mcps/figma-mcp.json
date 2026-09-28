@@ -1,0 +1,7 @@
+{
+  "name": "figma-mcp",
+  "description": "Enables AI agents to read, inspect, and export Figma designs programmatically. Provides tools for listing components, styles, and exporting assets in various formats.",
+  "source_repo": "Anakintano/figma-mcp",
+  "source_url": "https://github.com/Anakintano/figma-mcp",
+  "install": "npx -y figma-mcp"
+}

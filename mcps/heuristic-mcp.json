@@ -1,0 +1,7 @@
+{
+  "name": "heuristic-mcp",
+  "description": "Enables smart code search in your editor using natural language queries, building an index of your workspace.",
+  "source_repo": "softerist/heuristic-mcp",
+  "source_url": "https://github.com/softerist/heuristic-mcp",
+  "install": "npx -y heuristic-mcp"
+}

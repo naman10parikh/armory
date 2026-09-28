@@ -1,0 +1,7 @@
+{
+  "name": "dsh-mcp",
+  "description": "A cheap, fast execution layer for MCP agents that delegates file reads, edits, and command runs to a local DeepSeek Harness, reducing cost and latency while keeping the parent agent in control of planning and reasoning.",
+  "source_repo": "Mr-potato-123/dsh-mcp",
+  "source_url": "https://github.com/Mr-potato-123/dsh-mcp",
+  "install": "npx -y dsh-mcp"
+}

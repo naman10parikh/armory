@@ -1,0 +1,7 @@
+{
+  "name": "socialgpt-mcp",
+  "description": "Brings social media analytics and content intelligence into any MCP-compatible AI agent, enabling analysis of your own videos, competitor research, and creator discovery via a hosted OAuth-authenticated server.",
+  "source_repo": "scrollmark/socialgpt-mcp",
+  "source_url": "https://github.com/scrollmark/socialgpt-mcp",
+  "install": "npx -y socialgpt-mcp"
+}

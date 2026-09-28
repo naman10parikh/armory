@@ -1,0 +1,7 @@
+{
+  "name": "faultline",
+  "description": "An MCP-native AI incident response system that empowers agents to investigate production incidents, collect evidence, hypothesize root causes, and drive controlled remediation and recovery verification.",
+  "source_repo": "aawhan0/Faultline",
+  "source_url": "https://github.com/aawhan0/Faultline",
+  "install": "# git clone --depth 1 https://github.com/aawhan0/Faultline\n# See source for mcpServers config block"
+}

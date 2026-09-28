@@ -1,0 +1,7 @@
+{
+  "name": "verificarlo-mcp-server",
+  "description": "Exposes Verificarlo floating-point debugging capabilities to AI agents, enabling compilation, instrumentation, and analysis of numerical code through tool calls over the MCP protocol.",
+  "source_repo": "Kenzo2345/mcp_verificarlo",
+  "source_url": "https://github.com/Kenzo2345/mcp_verificarlo",
+  "install": "# git clone --depth 1 https://github.com/Kenzo2345/mcp_verificarlo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claude-thread-continuity",
+  "description": "Automatically saves and restores project state when Claude threads hit token limits, ensuring seamless conversation continuity and preventing project fragmentation with intelligent name validation.",
+  "source_repo": "peless/claude-thread-continuity",
+  "source_url": "https://github.com/peless/claude-thread-continuity",
+  "install": "# git clone --depth 1 https://github.com/peless/claude-thread-continuity\n# See source for mcpServers config block"
+}

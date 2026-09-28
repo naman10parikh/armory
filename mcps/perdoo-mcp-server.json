@@ -1,0 +1,7 @@
+{
+  "name": "perdoo-mcp-server",
+  "description": "An MCP server that integrates with the Perdoo OKR platform, providing tools to manage objectives, key results, initiatives, KPIs, and strategic pillars.",
+  "source_repo": "nevilhulspas/perdoo-mcp",
+  "source_url": "https://github.com/nevilhulspas/perdoo-mcp",
+  "install": "npx -y perdoo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "llm-kosh",
+  "description": "A local-first memory cartridge for MCP-compatible AI clients, providing durable, inspectable, and auditable memory storage with a read-only-by-default MCP server.",
+  "source_repo": "rastogivaibhav/llm-kosh",
+  "source_url": "https://github.com/rastogivaibhav/llm-kosh",
+  "install": "# git clone --depth 1 https://github.com/rastogivaibhav/llm-kosh\n# See source for mcpServers config block"
+}

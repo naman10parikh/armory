@@ -1,0 +1,7 @@
+{
+  "name": "frame-io-mcp",
+  "description": "Connects Claude to Frame.io to pull transcripts, post frame-accurate comments, list comments, and upload attachments.",
+  "source_repo": "aiscalestudio/frameio-mcp",
+  "source_url": "https://github.com/aiscalestudio/frameio-mcp",
+  "install": "npx -y frameio-mcp"
+}

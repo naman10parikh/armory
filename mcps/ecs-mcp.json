@@ -1,0 +1,7 @@
+{
+  "name": "ecs-mcp",
+  "description": "Monitor and analyze AWS ECS services, including service status, CloudWatch metrics, and load balancer integration.",
+  "source_repo": "neoai-agent/ecs-mcp",
+  "source_url": "https://github.com/neoai-agent/ecs-mcp",
+  "install": "npx -y ecs-mcp"
+}

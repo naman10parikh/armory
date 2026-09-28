@@ -1,0 +1,7 @@
+{
+  "name": "vocald",
+  "description": "Headless text-to-speech and speech-to-text server with REST and MCP API, supporting Kokoro TTS and Whisper STT.",
+  "source_repo": "danylo-dudok/vocald",
+  "source_url": "https://github.com/danylo-dudok/vocald",
+  "install": "# git clone --depth 1 https://github.com/danylo-dudok/vocald\n# See source for mcpServers config block"
+}

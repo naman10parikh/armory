@@ -1,0 +1,7 @@
+{
+  "name": "obsidianki-mcp-server",
+  "description": "Generates flashcards from Obsidian notes using obsidianki, with support for note patterns, card count, and deck selection.",
+  "source_repo": "ccmdi/obsidianki-mcp",
+  "source_url": "https://github.com/ccmdi/obsidianki-mcp",
+  "install": "npx -y obsidianki-mcp"
+}

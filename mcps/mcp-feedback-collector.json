@@ -1,0 +1,7 @@
+{
+  "name": "mcp-feedback-collector",
+  "description": "A MCP server that enables AI assistants to collect interactive user feedback with text and image support via a modern GUI.",
+  "source_repo": "sanshao85/mcp-feedback-collector",
+  "source_url": "https://github.com/sanshao85/mcp-feedback-collector",
+  "install": "# git clone --depth 1 https://github.com/sanshao85/mcp-feedback-collector\n# See source for mcpServers config block"
+}

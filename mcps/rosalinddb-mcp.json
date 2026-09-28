@@ -1,0 +1,7 @@
+{
+  "name": "rosalinddb-mcp",
+  "description": "Model Context Protocol server for RosalindDB, enabling AI clients to create datasets, ingest vectors, run similarity queries, and check usage on a cost-optimized vector search database.",
+  "source_repo": "rosalinddb/rosalinddb-mcp",
+  "source_url": "https://github.com/rosalinddb/rosalinddb-mcp",
+  "install": "npx -y rosalinddb-mcp"
+}

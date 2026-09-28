@@ -1,6 +1,6 @@
 {
   "name": "neoforge-mcp-server",
-  "description": "Neoforge Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "neoforge-dev/neoforge-mcp-server",
   "source_url": "https://mcp.so/server/neoforge-mcp-server/neoforge-dev",
   "install": "npx -y neoforge-mcp-server"

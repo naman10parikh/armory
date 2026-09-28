@@ -1,0 +1,7 @@
+{
+  "name": "universal-docs-mcp-server",
+  "description": "Provides AI assistants with live, searchable documentation for any programming library, eliminating hallucinated APIs by returning current, structured API references.",
+  "source_repo": "chikumbu-kudakwashe/universal-docs-mcp-server",
+  "source_url": "https://github.com/chikumbu-kudakwashe/universal-docs-mcp-server",
+  "install": "npx -y universal-docs-mcp-server"
+}

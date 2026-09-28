@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-mcp-server-for-enterprise",
+  "description": "Enables AI agents to query Microsoft Entra data using natural language, converting requests into Microsoft Graph API calls for read-only enterprise IT scenarios.",
+  "source_repo": "microsoft/EnterpriseMCP",
+  "source_url": "https://github.com/microsoft/EnterpriseMCP",
+  "install": "# git clone --depth 1 https://github.com/microsoft/EnterpriseMCP\n# See source for mcpServers config block"
+}

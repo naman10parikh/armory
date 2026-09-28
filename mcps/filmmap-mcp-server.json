@@ -1,0 +1,7 @@
+{
+  "name": "filmmap-mcp-server",
+  "description": "Enables natural-language queries about real filming locations and the productions recorded at them, including search, proximity, and ranking tools.",
+  "source_repo": "Flightmussy/filmmap-mcp",
+  "source_url": "https://github.com/Flightmussy/filmmap-mcp",
+  "install": "npx -y filmmap-mcp"
+}

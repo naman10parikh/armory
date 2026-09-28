@@ -1,0 +1,7 @@
+{
+  "name": "roblox-studio-mcp-bridge",
+  "description": "Connects AI coding assistants to Roblox Studio, enabling direct manipulation of the DataModel through natural language commands with undo support.",
+  "source_repo": "Justice219/roblox-studio-mcp",
+  "source_url": "https://github.com/Justice219/roblox-studio-mcp",
+  "install": "npx -y roblox-studio-mcp"
+}

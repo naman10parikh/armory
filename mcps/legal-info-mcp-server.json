@@ -1,0 +1,7 @@
+{
+  "name": "legal-info-mcp-server",
+  "description": "A modular MCP server providing structured, methodology-driven prompt endpoints for rapid legal/compliance landscape mapping, gap discovery, and risk prioritization across privacy, IP, AI governance, security, consumer, and disclosure domains, with argument-based adaptability to any product context.",
+  "source_repo": "DimWebDev/legal_info_mcp_server",
+  "source_url": "https://github.com/DimWebDev/legal_info_mcp_server",
+  "install": "npx -y legal_info_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "poomschool-mcp-server",
+  "description": "Helps parents of multicultural or North Korean background primary school children translate and understand school notices, converting them into actionable tasks like preparing items and meeting deadlines.",
+  "source_repo": "ckalswl26/poomschool-mcp",
+  "source_url": "https://github.com/ckalswl26/poomschool-mcp",
+  "install": "npx -y poomschool-mcp"
+}

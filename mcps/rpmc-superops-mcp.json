@@ -1,0 +1,7 @@
+{
+  "name": "rpmc-superops-mcp",
+  "description": "Provides authenticated, read-only access to SuperOps data via MCP, supporting stdio and HTTP transports with privacy-safe redaction.",
+  "source_repo": "RPMC-Marco/rpmc-superops-mcp",
+  "source_url": "https://github.com/RPMC-Marco/rpmc-superops-mcp",
+  "install": "npx -y rpmc-superops-mcp"
+}

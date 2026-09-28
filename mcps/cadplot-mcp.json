@@ -1,0 +1,7 @@
+{
+  "name": "cadplot-mcp",
+  "description": "An MCP server for repeatable AutoCAD plotting workflows, enabling safe inspection of DWG files, page-setup verification, and consistent PDF publishing.",
+  "source_repo": "agadraphy/cadplot-mcp",
+  "source_url": "https://github.com/agadraphy/cadplot-mcp",
+  "install": "npx -y cadplot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stoa",
+  "description": "Persistent shared memory for AI coding agents that turns a folder of markdown files into searchable memory across sessions, repos, and machines.",
+  "source_repo": "BrettNye/stoa",
+  "source_url": "https://github.com/BrettNye/stoa",
+  "install": "# git clone --depth 1 https://github.com/BrettNye/stoa\n# See source for mcpServers config block"
+}

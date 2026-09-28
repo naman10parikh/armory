@@ -1,0 +1,7 @@
+{
+  "name": "get4agent-market",
+  "description": "MCP server for the AI-agent economy: free Kazakhstan / Central-Asia utilities (Kazpost parcel tracking, IIN/BIN & IBAN validation, GLEIF LEI lookup, KZT/ECB FX rates, weather) callable with no account, plus per-call purchase of KYA-verified API listings governed by Regent Protocol.",
+  "source_repo": "abay94/get4agent-mcp",
+  "source_url": "https://github.com/abay94/get4agent-mcp",
+  "install": "npx -y get4agent-mcp"
+}

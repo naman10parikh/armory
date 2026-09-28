@@ -1,0 +1,7 @@
+{
+  "name": "meeting-summary-mcp",
+  "description": "Enables automatic generation of structured meeting minutes from Feishu meeting links, date ranges, or arbitrary meeting transcripts, with summaries and action items organized by department.",
+  "source_repo": "linyongbin570490267-cpu/meeting-summary-mcp",
+  "source_url": "https://github.com/linyongbin570490267-cpu/meeting-summary-mcp",
+  "install": "npx -y meeting-summary-mcp"
+}

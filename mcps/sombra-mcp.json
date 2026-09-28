@@ -1,0 +1,7 @@
+{
+  "name": "sombra-mcp",
+  "description": "A stdio-to-HTTP bridge for connecting to Sombra's remote MCP server, enabling AI agents to save, search, and organize web content.",
+  "source_repo": "sombra-hq/sombra-mcp",
+  "source_url": "https://github.com/sombra-hq/sombra-mcp",
+  "install": "npx -y sombra-mcp"
+}

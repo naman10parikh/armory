@@ -1,0 +1,7 @@
+{
+  "name": "tinypilot-mcp",
+  "description": "MCP server that exposes fleet-aware KVM primitives for AI agents to control TinyPilot devices, including screen capture, keyboard input, mouse events, and device selection.",
+  "source_repo": "tiny-pilot/tinypilot-mcp",
+  "source_url": "https://github.com/tiny-pilot/tinypilot-mcp",
+  "install": "npx -y tinypilot-mcp"
+}

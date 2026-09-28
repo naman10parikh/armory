@@ -1,0 +1,7 @@
+{
+  "name": "design-style-mcp-server",
+  "description": "Provides deterministic design style recommendations and structured tokens for AI content generation, with 30 curated styles including color palettes, typography, and visual directives.",
+  "source_repo": "luminarylane/design-style-mcp-server",
+  "source_url": "https://github.com/luminarylane/design-style-mcp-server",
+  "install": "npx -y design-style-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "social0-mcp",
+  "description": "MCP server to manage social media accounts from AI assistants, enabling post creation, scheduling, publishing, and media uploads across multiple platforms.",
+  "source_repo": "Abhishek-B-R/social0-mcp",
+  "source_url": "https://github.com/Abhishek-B-R/social0-mcp",
+  "install": "npx -y social0-mcp"
+}

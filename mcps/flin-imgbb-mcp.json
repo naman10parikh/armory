@@ -1,0 +1,7 @@
+{
+  "name": "flin-imgbb-mcp",
+  "description": "MCP server for uploading images to ImgBB from Claude-compatible clients.",
+  "source_repo": "flin-agency/flin-imgbb-mcp",
+  "source_url": "https://github.com/flin-agency/flin-imgbb-mcp",
+  "install": "npx -y flin-imgbb-mcp"
+}

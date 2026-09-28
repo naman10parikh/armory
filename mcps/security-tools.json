@@ -1,0 +1,7 @@
+{
+  "name": "security-tools",
+  "description": "Provides security tools (prompt injection detection, CVE lookup, version impact assessment) for MCP clients like Claude.",
+  "source_repo": "yeodh10/security-mcp",
+  "source_url": "https://github.com/yeodh10/security-mcp",
+  "install": "npx -y security-mcp"
+}

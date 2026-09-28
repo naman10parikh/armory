@@ -1,0 +1,7 @@
+{
+  "name": "wangsu-terraform-knowledge-base-mcp-server",
+  "description": "A retrieval-only MCP server that searches a vectorized Wangsu Terraform Provider documentation knowledge base and returns relevant snippets with rules to guide the caller's LLM in generating accurate, provider-specific answers. It offloads all inference to the calling client, as it does not invoke a",
+  "source_repo": "alexgoflexx/wangsuterraform-mcp",
+  "source_url": "https://github.com/alexgoflexx/wangsuterraform-mcp",
+  "install": "npx -y wangsuterraform-mcp"
+}

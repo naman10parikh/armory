@@ -1,0 +1,7 @@
+{
+  "name": "comet-ml-mcp-server",
+  "description": "Enables interaction with Comet ML's experiment tracking platform through the Model Context Protocol, providing tools for experiment management, project organization, and advanced search.",
+  "source_repo": "comet-ml/comet-mcp",
+  "source_url": "https://github.com/comet-ml/comet-mcp",
+  "install": "npx -y comet-mcp"
+}

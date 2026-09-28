@@ -1,0 +1,7 @@
+{
+  "name": "scholar-feed",
+  "description": "Search 600,000+ CS/AI/ML research papers with LLM-generated novelty analysis, without leaving Claude Code, Cursor, or any MCP client. Built for researchers running a literature review where they already work: search, trace citations, pull full text, and export BibTeX in the same session.",
+  "source_repo": "",
+  "source_url": "https://www.scholarfeed.org/developers",
+  "install": "# git clone --depth 1 https://www.scholarfeed.org/developers\n# See source for mcpServers config block"
+}

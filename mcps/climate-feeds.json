@@ -1,0 +1,7 @@
+{
+  "name": "climate-feeds",
+  "description": "Provides tools to list curated climate and energy feeds, read feed items, and fetch any RSS/Atom feed with robust fallback handling.",
+  "source_repo": "pipeworx-io/mcp-climate-feeds",
+  "source_url": "https://github.com/pipeworx-io/mcp-climate-feeds",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-climate-feeds\n# See source for mcpServers config block"
+}

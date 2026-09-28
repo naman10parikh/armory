@@ -1,0 +1,7 @@
+{
+  "name": "mdan",
+  "description": "Multi-Agent Development Agentic Network that enables AI-driven software development through specialized agents, interactive wizards, and structured debate, with MCP integration for IDE tools like workflow execution, impact analysis, and ecosystem search.",
+  "source_repo": "khalilbenaz/MDAN",
+  "source_url": "https://github.com/khalilbenaz/MDAN",
+  "install": "# git clone --depth 1 https://github.com/khalilbenaz/MDAN\n# See source for mcpServers config block"
+}

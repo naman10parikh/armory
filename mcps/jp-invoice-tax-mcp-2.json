@@ -1,0 +1,7 @@
+{
+  "name": "jp-invoice-tax-mcp-2",
+  "description": "Provides Japanese tax and invoice utilities such as consumption tax calculation, withholding tax, invoice number validation, and tax rate summarization, enabling AI assistants to perform these operations locally without external APIs.",
+  "source_repo": "tsuruokashun08/jp-invoice-tax-mcp",
+  "source_url": "https://github.com/tsuruokashun08/jp-invoice-tax-mcp",
+  "install": "npx -y jp-invoice-tax-mcp"
+}

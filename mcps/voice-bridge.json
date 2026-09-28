@@ -1,0 +1,7 @@
+{
+  "name": "voice-bridge",
+  "description": "Multi-engine text-to-speech for AI coding assistants. Speaks responses aloud from Claude Code, Cursor, or VS Code via a Claude Code plugin, MCP server, or CLI pipe.",
+  "source_repo": "Tomorrow-You/voice-bridge",
+  "source_url": "https://github.com/Tomorrow-You/voice-bridge",
+  "install": "# git clone --depth 1 https://github.com/Tomorrow-You/voice-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zunivo-mcp",
+  "description": "MCP server that lets AI agents discover and pay for .agent services using USDC over x402, with daily budget controls and payment link creation.",
+  "source_repo": "zunivo-pay/zunivo-mcp",
+  "source_url": "https://github.com/zunivo-pay/zunivo-mcp",
+  "install": "npx -y zunivo-mcp"
+}

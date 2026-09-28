@@ -1,0 +1,7 @@
+{
+  "name": "react-development-workflow-mcp-server",
+  "description": "Integrates Zoho Projects, Git, and SonarQube to automate task management, branch creation, code quality checks, and reporting for React developers.",
+  "source_repo": "rushit-simform/react-workflow-mcp",
+  "source_url": "https://github.com/rushit-simform/react-workflow-mcp",
+  "install": "npx -y react-workflow-mcp"
+}

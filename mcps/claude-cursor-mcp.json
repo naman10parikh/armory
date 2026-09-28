@@ -1,0 +1,7 @@
+{
+  "name": "claude-cursor-mcp",
+  "description": "Enables Claude.ai to interact with the Cursor editor to read files, write code, get selections, and more.",
+  "source_repo": "one06cm127/claude-cursor-mcp",
+  "source_url": "https://github.com/one06cm127/claude-cursor-mcp",
+  "install": "npx -y claude-cursor-mcp"
+}

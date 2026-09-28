@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-openaq-mcp-server",
+  "description": "Find air-quality monitoring stations, read latest sensor values, and pull historical pollutant series via MCP.",
+  "source_repo": "cyanheads/openaq-mcp-server",
+  "source_url": "https://github.com/cyanheads/openaq-mcp-server",
+  "install": "npx -y openaq-mcp-server"
+}

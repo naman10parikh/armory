@@ -1,0 +1,7 @@
+{
+  "name": "scanner-mcp",
+  "description": "Enables scanning documents via network (eSCL) or USB (WIA/SANE) scanners, returning inline images, OCR text, or saved PDFs for Claude to read.",
+  "source_repo": "AminHA1248/scanner-mcp",
+  "source_url": "https://github.com/AminHA1248/scanner-mcp",
+  "install": "npx -y scanner-mcp"
+}

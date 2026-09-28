@@ -1,0 +1,7 @@
+{
+  "name": "finresearch-mcp",
+  "description": "Enables SEC EDGAR financial research, analysis, valuation, and chart data generation through natural language.",
+  "source_repo": "ritam003-roy/finance-research-mcp",
+  "source_url": "https://github.com/ritam003-roy/finance-research-mcp",
+  "install": "npx -y finance-research-mcp"
+}

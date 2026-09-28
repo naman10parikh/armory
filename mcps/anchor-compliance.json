@@ -1,0 +1,7 @@
+{
+  "name": "anchor-compliance",
+  "description": "Australian advertising & marketing compliance for AI assistants. Scan websites, check ad/social/email copy, and look up regulator guidelines (ACCC, TGA, ASIC, AHPRA, ACMA) directly from Claude, ChatGPT, or Cursor. Tools: - `scan_website_compliance` — audit any public URL for AU advertising risk - `c",
+  "source_repo": "",
+  "source_url": "https://anchorcompliance.io/mcp",
+  "install": "# git clone --depth 1 https://anchorcompliance.io/mcp\n# See source for mcpServers config block"
+}

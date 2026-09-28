@@ -1,0 +1,7 @@
+{
+  "name": "msio",
+  "description": "MSIO is an MCP server that gives AI agents tools to interact with Housecall Pro (HCP), enabling job history search, business intelligence, estimate generation, and validated write operations for plumbing company operators.",
+  "source_repo": "brystal00/msio-server",
+  "source_url": "https://github.com/brystal00/msio-server",
+  "install": "# git clone --depth 1 https://github.com/brystal00/msio-server\n# See source for mcpServers config block"
+}

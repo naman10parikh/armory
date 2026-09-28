@@ -1,0 +1,7 @@
+{
+  "name": "reminders-mcp",
+  "description": "MCP plugin that exposes Apple Reminders to a Claude Code agent, enabling creation, listing, completion, and deletion of reminders via tools.",
+  "source_repo": "walalabs/reminders-mcp",
+  "source_url": "https://github.com/walalabs/reminders-mcp",
+  "install": "npx -y reminders-mcp"
+}

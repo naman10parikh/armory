@@ -1,0 +1,7 @@
+{
+  "name": "centric-demo-mcp",
+  "description": "A public demo MCP server that exposes Centric RM tools (list contacts, brief, draft, radar, temperature check) with a frozen fictional cast, safe for registry listing.",
+  "source_repo": "centricai/centric-demo-mcp",
+  "source_url": "https://github.com/centricai/centric-demo-mcp",
+  "install": "npx -y centric-demo-mcp"
+}

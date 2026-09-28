@@ -1,0 +1,7 @@
+{
+  "name": "unofficial-uwm-mortgage-reader",
+  "description": "A read-only MCP server for mortgage tracking that connects to UWM's portal via a browser adapter, providing summary, payment history, escrow, statements, and extra payment calculations without initiating financial activity.",
+  "source_repo": "pulkitsinghal/uwm-mortgage-mcp",
+  "source_url": "https://github.com/pulkitsinghal/uwm-mortgage-mcp",
+  "install": "npx -y uwm-mortgage-mcp"
+}

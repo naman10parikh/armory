@@ -1,0 +1,7 @@
+{
+  "name": "sf-assistant-mcp-server",
+  "description": "MCP server for SAP SuccessFactors that provides 52 tools across 15 categories for querying live data, generating business rules, validating imports, running analytics, comparing instances, auditing data, and building cutover checklists.",
+  "source_repo": "josemachado-vp/MCP-SF",
+  "source_url": "https://github.com/josemachado-vp/MCP-SF",
+  "install": "# git clone --depth 1 https://github.com/josemachado-vp/MCP-SF\n# See source for mcpServers config block"
+}

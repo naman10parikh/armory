@@ -1,0 +1,7 @@
+{
+  "name": "exchange-ews-mcp",
+  "description": "A local MCP server for on-premises Microsoft Exchange, connecting via EWS and NTLM. It provides mail, template, availability, and calendar workflow tools through stdio, with draft-first safety and Windows Credential Manager integration.",
+  "source_repo": "ShermanGu/exchange-ews-mcp",
+  "source_url": "https://github.com/ShermanGu/exchange-ews-mcp",
+  "install": "npx -y exchange-ews-mcp"
+}

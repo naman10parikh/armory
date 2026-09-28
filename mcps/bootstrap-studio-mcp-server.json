@@ -1,0 +1,7 @@
+{
+  "name": "bootstrap-studio-mcp-server",
+  "description": "Provides tools for analyzing Bootstrap Studio .bsdesign project files, generating Bootstrap 5 component code, and looking up Bootstrap documentation.",
+  "source_repo": "fengweimian/bootstrap-studio-mcp-server",
+  "source_url": "https://github.com/fengweimian/bootstrap-studio-mcp-server",
+  "install": "npx -y bootstrap-studio-mcp-server"
+}

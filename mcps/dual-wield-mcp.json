@@ -1,0 +1,7 @@
+{
+  "name": "dual-wield-mcp",
+  "description": "MCP server for controlling Linux desktops over Wayland, enabling AI agents to perform mouse, keyboard, window, and screenshot operations on Fedora KDE Plasma.",
+  "source_repo": "SpiritualMachines/dual-wield-mcp",
+  "source_url": "https://github.com/SpiritualMachines/dual-wield-mcp",
+  "install": "npx -y dual-wield-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentops-mcp",
+  "description": "Exposes analytics from Claude Code transcripts as MCP tools, enabling cost, audit, safety, and efficiency queries through natural language.",
+  "source_repo": "Ludoonus/agentops-mcp",
+  "source_url": "https://github.com/Ludoonus/agentops-mcp",
+  "install": "npx -y agentops-mcp"
+}

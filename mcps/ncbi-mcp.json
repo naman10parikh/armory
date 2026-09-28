@@ -1,0 +1,7 @@
+{
+  "name": "ncbi-mcp",
+  "description": "A server providing access to NCBI E-utilities API for searching and retrieving data from databases like PubMed, Protein, and Nucleotide.",
+  "source_repo": "QiGoki/ncbi-mcp",
+  "source_url": "https://github.com/QiGoki/ncbi-mcp",
+  "install": "npx -y ncbi-mcp"
+}

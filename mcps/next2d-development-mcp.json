@@ -1,0 +1,7 @@
+{
+  "name": "next2d-development-mcp",
+  "description": "MCP server for Next2D application development that generates code following MVVM + Clean Architecture + Atomic Design patterns, validates architecture, and provides API references.",
+  "source_repo": "Next2D/next2d-development-mcp",
+  "source_url": "https://github.com/Next2D/next2d-development-mcp",
+  "install": "npx -y next2d-development-mcp"
+}

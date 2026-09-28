@@ -1,0 +1,7 @@
+{
+  "name": "plane-mcp",
+  "description": "Provides 48 tools for managing Plane projects, issues, modules, cycles, comments, and worklogs via MCP, supporting both stdio and HTTP transport.",
+  "source_repo": "mikey-semy/plane-mcp",
+  "source_url": "https://github.com/mikey-semy/plane-mcp",
+  "install": "npx -y plane-mcp"
+}

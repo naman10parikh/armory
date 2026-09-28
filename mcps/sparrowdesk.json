@@ -1,0 +1,7 @@
+{
+  "name": "sparrowdesk",
+  "description": "Connect to SparrowDesk using MCP and manage your tickets, knowledge base and more.",
+  "source_repo": "sparrowdesk/sparrowdesk-mcp",
+  "source_url": "https://github.com/sparrowdesk/sparrowdesk-mcp",
+  "install": "npx -y sparrowdesk-mcp"
+}

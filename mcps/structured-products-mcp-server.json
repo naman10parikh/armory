@@ -1,0 +1,7 @@
+{
+  "name": "structured-products-mcp-server",
+  "description": "Enables comprehensive financial analysis including structured products, portfolio optimization, risk analytics, and backtesting through Claude Desktop integration.",
+  "source_repo": "yashv6655/Structured-Products-MCP-Server",
+  "source_url": "https://github.com/yashv6655/Structured-Products-MCP-Server",
+  "install": "npx -y Structured-Products-MCP-Server"
+}

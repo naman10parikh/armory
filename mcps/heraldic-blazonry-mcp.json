@@ -1,0 +1,7 @@
+{
+  "name": "heraldic-blazonry-mcp",
+  "description": "Translates heraldic blazon descriptions into structured visual parameters for image generation, leveraging 900 years of heraldic compositional rules.",
+  "source_repo": "dmarsters/heraldic-blazonry-mcp",
+  "source_url": "https://github.com/dmarsters/heraldic-blazonry-mcp",
+  "install": "npx -y heraldic-blazonry-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-business-central-mcp-server",
+  "description": "MCP server for Microsoft Dynamics 365 Business Central that enables AI assistants to query and manage Business Central data via full CRUD operations.",
+  "source_repo": "MehrozeKhan73/Business-Central-MCP-Server",
+  "source_url": "https://github.com/MehrozeKhan73/Business-Central-MCP-Server",
+  "install": "npx -y Business-Central-MCP-Server"
+}

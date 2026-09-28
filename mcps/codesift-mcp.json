@@ -1,0 +1,7 @@
+{
+  "name": "codesift-mcp",
+  "description": "MCP server for local-first lexical code search, providing tools for searching code, finding symbols, and reading chunks from indexed repositories.",
+  "source_repo": "rutvikchandla3/codesift",
+  "source_url": "https://github.com/rutvikchandla3/codesift",
+  "install": "# git clone --depth 1 https://github.com/rutvikchandla3/codesift\n# See source for mcpServers config block"
+}

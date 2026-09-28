@@ -1,0 +1,7 @@
+{
+  "name": "rtorrent-mcp",
+  "description": "MCP server for rTorrent BitTorrent automation, enabling torrent management (add/list/pause/delete), multi-source searching (Nyaa, Pirate Bay, etc.), and post-processing workflows via natural language.",
+  "source_repo": "sandraschi/rtorrent-mcp",
+  "source_url": "https://github.com/sandraschi/rtorrent-mcp",
+  "install": "npx -y rtorrent-mcp"
+}

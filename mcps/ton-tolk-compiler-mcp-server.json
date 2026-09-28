@@ -1,0 +1,7 @@
+{
+  "name": "ton-tolk-compiler-mcp-server",
+  "description": "Integrates Tolk compiler tools into AI assistants, enabling compilation of Tolk contracts, conversion from FunC, and version checks without manual terminal work.",
+  "source_repo": "Claraxyb/tolk-mcp-server",
+  "source_url": "https://github.com/Claraxyb/tolk-mcp-server",
+  "install": "npx -y tolk-mcp-server"
+}

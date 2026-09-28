@@ -1,0 +1,7 @@
+{
+  "name": "todos-mcp",
+  "description": "A todo list manager with MCP integration that enables AI assistants to create, read, update, and delete tasks through natural language.",
+  "source_repo": "tomelliot/todos-mcp",
+  "source_url": "https://github.com/tomelliot/todos-mcp",
+  "install": "npx -y todos-mcp"
+}

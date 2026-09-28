@@ -1,0 +1,7 @@
+{
+  "name": "flex-sensor-agent-mcp",
+  "description": "An MCP server for COMSOL Multiphysics that enables AI agents to perform flexible pressure sensor simulation, including DXF analysis, contact model building, parameter sweeping, and result export using natural language.",
+  "source_repo": "tonghui666/flex-sensor-agent-mcp",
+  "source_url": "https://github.com/tonghui666/flex-sensor-agent-mcp",
+  "install": "npx -y flex-sensor-agent-mcp"
+}

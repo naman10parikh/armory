@@ -1,0 +1,7 @@
+{
+  "name": "security-paper-mcp-server",
+  "description": "MCP server for searching papers from top-tier and second-tier security conferences (S&P, USENIX Security, CCS, NDSS, ACSAC, RAID, ESORICS) using DBLP, with tools for keyword/author/year/conference search, listing conference papers, and getting statistics.",
+  "source_repo": "Opr4Mp3r/security-paper-mcp-server",
+  "source_url": "https://github.com/Opr4Mp3r/security-paper-mcp-server",
+  "install": "npx -y security-paper-mcp-server"
+}

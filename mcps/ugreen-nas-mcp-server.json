@@ -1,0 +1,7 @@
+{
+  "name": "ugreen-nas-mcp-server",
+  "description": "A secure MCP server designed for Ugreen NAS, enabling AI clients to list and access shared directories over SSE with token authentication and container isolation.",
+  "source_repo": "kmcclur2005/MCP_Service_Learning",
+  "source_url": "https://github.com/kmcclur2005/MCP_Service_Learning",
+  "install": "# git clone --depth 1 https://github.com/kmcclur2005/MCP_Service_Learning\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "browser-automation-mcp",
+  "description": "MCP server for AI browser automation with tools for navigation, actions, data extraction, and scripting, supporting local and cloud execution.",
+  "source_repo": "PopoverAI/browser-automation",
+  "source_url": "https://github.com/PopoverAI/browser-automation",
+  "install": "# git clone --depth 1 https://github.com/PopoverAI/browser-automation\n# See source for mcpServers config block"
+}

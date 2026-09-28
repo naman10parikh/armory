@@ -1,0 +1,7 @@
+{
+  "name": "mini-mcp-demo",
+  "description": "Enables local tool calling over Model Context Protocol via stdio, providing deterministic tools such as calc.add, text.word_count, and text.summarize_naive after JSON-RPC handshake and discovery.",
+  "source_repo": "harshadkhetpal/mini-mcp",
+  "source_url": "https://github.com/harshadkhetpal/mini-mcp",
+  "install": "npx -y mini-mcp"
+}

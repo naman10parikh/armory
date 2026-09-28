@@ -1,0 +1,7 @@
+{
+  "name": "session-convert",
+  "description": "Enables conversion of coding agent sessions between Claude Code, Codex CLI, and OpenCode, including full support for OpenCode's SQLite storage.",
+  "source_repo": "megamen32/session-convert",
+  "source_url": "https://github.com/megamen32/session-convert",
+  "install": "# git clone --depth 1 https://github.com/megamen32/session-convert\n# See source for mcpServers config block"
+}

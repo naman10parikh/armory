@@ -1,0 +1,7 @@
+{
+  "name": "http-mcp-server",
+  "description": "Mock HTTP server implementing MCP (Model Context Protocol) with streamable HTTP transport, health endpoint, and example tools like echo and time.",
+  "source_repo": "agarcia-seidor/http-mcp-server",
+  "source_url": "https://github.com/agarcia-seidor/http-mcp-server",
+  "install": "npx -y http-mcp-server"
+}

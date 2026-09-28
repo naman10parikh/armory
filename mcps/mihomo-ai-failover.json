@@ -1,0 +1,7 @@
+{
+  "name": "mihomo-ai-failover",
+  "description": "Provides AI-aware failover for Mihomo proxy on macOS by validating real OpenAI paths and switching proxy groups after verified hard failures. It offers a local stdio MCP server for diagnostics, status, and safe management of the AI proxy group.",
+  "source_repo": "doublebearoliver-cyber/mihomo-ai-failover",
+  "source_url": "https://github.com/doublebearoliver-cyber/mihomo-ai-failover",
+  "install": "# git clone --depth 1 https://github.com/doublebearoliver-cyber/mihomo-ai-failover\n# See source for mcpServers config block"
+}

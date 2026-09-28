@@ -1,0 +1,7 @@
+{
+  "name": "meetmyagent-mcp",
+  "description": "Enables AI assistants to search, browse, and list businesses, services, and products on the MeetMyAgent marketplace.",
+  "source_repo": "studiomeyer-io/meetmyagent-mcp",
+  "source_url": "https://github.com/studiomeyer-io/meetmyagent-mcp",
+  "install": "npx -y meetmyagent-mcp"
+}

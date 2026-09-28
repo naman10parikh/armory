@@ -1,0 +1,7 @@
+{
+  "name": "fileee-mcp-server",
+  "description": "An unofficial MCP server that brings your Fileee documents to AI clients, with secure authentication via OAuth or static tokens and capabilities for reading, writing, sharing, and more.",
+  "source_repo": "strausmann/fileee-mcp-server",
+  "source_url": "https://github.com/strausmann/fileee-mcp-server",
+  "install": "npx -y fileee-mcp-server"
+}

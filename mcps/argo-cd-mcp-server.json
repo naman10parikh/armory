@@ -1,0 +1,7 @@
+{
+  "name": "argo-cd-mcp-server",
+  "description": "Enables AI assistants to interact with Argo CD applications, managing clusters, applications, and resources through natural language.",
+  "source_repo": "mane-tv2/mcp-for-argocd",
+  "source_url": "https://github.com/mane-tv2/mcp-for-argocd",
+  "install": "# git clone --depth 1 https://github.com/mane-tv2/mcp-for-argocd\n# See source for mcpServers config block"
+}

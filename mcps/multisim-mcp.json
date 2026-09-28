@@ -1,0 +1,7 @@
+{
+  "name": "multisim-mcp",
+  "description": "Enables AI agents to automatically generate Multisim circuits, run simulations, extract experimental data, and export circuit diagrams, CSV, waveforms, and lab reports.",
+  "source_repo": "yxy050208/multisim-mcp",
+  "source_url": "https://github.com/yxy050208/multisim-mcp",
+  "install": "npx -y multisim-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xcode-mcp-bridge",
+  "description": "Bridges Xcode's mcpbridge to MCP clients via SSE, maintaining a single persistent process to eliminate repeated authorization prompts.",
+  "source_repo": "qianshang/xcode-mcp-bridge",
+  "source_url": "https://github.com/qianshang/xcode-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/qianshang/xcode-mcp-bridge\n# See source for mcpServers config block"
+}

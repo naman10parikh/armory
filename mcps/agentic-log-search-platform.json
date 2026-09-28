@@ -1,0 +1,7 @@
+{
+  "name": "agentic-log-search-platform",
+  "description": "Enables ingestion and full-text search of Windows application logs via MCP tools. Supports dual-backend indexing with Elasticsearch and SQLite for fast retrieval.",
+  "source_repo": "kalavakuntabharathkumar/Agentic-Log-Search-Platform-MCP-Based-",
+  "source_url": "https://github.com/kalavakuntabharathkumar/Agentic-Log-Search-Platform-MCP-Based-",
+  "install": "# git clone --depth 1 https://github.com/kalavakuntabharathkumar/Agentic-Log-Search-Platform-MCP-Based-\n# See source for mcpServers config block"
+}

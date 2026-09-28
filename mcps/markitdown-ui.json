@@ -1,0 +1,7 @@
+{
+  "name": "markitdown-ui",
+  "description": "A local web interface and MCP server for converting documents (PDF, Word, Excel, images, audio, etc.) to Markdown using Microsoft's MarkItDown library.",
+  "source_repo": "shahariarovi789-ux/markitdown-ui",
+  "source_url": "https://github.com/shahariarovi789-ux/markitdown-ui",
+  "install": "# git clone --depth 1 https://github.com/shahariarovi789-ux/markitdown-ui\n# See source for mcpServers config block"
+}

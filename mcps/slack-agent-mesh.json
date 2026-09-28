@@ -1,0 +1,7 @@
+{
+  "name": "slack-agent-mesh",
+  "description": "Slack Agent Mesh is an open-source MCP server that turns a single Slack app into a mesh of virtual agent identities, providing a transport and coordination layer where agents can be addressed by name and collaborate through durable, human-visible Slack threads.",
+  "source_repo": "nickvasilescu/slack-agent-mesh",
+  "source_url": "https://github.com/nickvasilescu/slack-agent-mesh",
+  "install": "# git clone --depth 1 https://github.com/nickvasilescu/slack-agent-mesh\n# See source for mcpServers config block"
+}

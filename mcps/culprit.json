@@ -1,0 +1,7 @@
+{
+  "name": "culprit",
+  "description": "Deterministic, offline root-cause analysis for coding agents: find the commit that introduced a bug, and verify a fix is complete before committing.",
+  "source_repo": "noordeen123/culprit",
+  "source_url": "https://github.com/noordeen123/culprit",
+  "install": "# git clone --depth 1 https://github.com/noordeen123/culprit\n# See source for mcpServers config block"
+}

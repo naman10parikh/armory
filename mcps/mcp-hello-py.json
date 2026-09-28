@@ -1,0 +1,7 @@
+{
+  "name": "mcp-hello-py",
+  "description": "Greets users in Korean by name, supporting single and multiple recipients.",
+  "source_repo": "wuxiangege/mcp-hello-py",
+  "source_url": "https://github.com/wuxiangege/mcp-hello-py",
+  "install": "# git clone --depth 1 https://github.com/wuxiangege/mcp-hello-py\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "webharvest",
+  "description": "Enables web search and scraping through MCP, running locally with courtesy rate limiting and caching.",
+  "source_repo": "dan-rozhkov/webharvest",
+  "source_url": "https://github.com/dan-rozhkov/webharvest",
+  "install": "# git clone --depth 1 https://github.com/dan-rozhkov/webharvest\n# See source for mcpServers config block"
+}

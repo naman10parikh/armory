@@ -1,0 +1,7 @@
+{
+  "name": "1cent",
+  "description": "Provides AI agents with SSRF-protected URL intelligence and 32 paid REST/MCP tools, plus a free catalog search, with payments in USDC on Base Mainnet.",
+  "source_repo": "maxzoa/1cent",
+  "source_url": "https://github.com/maxzoa/1cent",
+  "install": "# git clone --depth 1 https://github.com/maxzoa/1cent\n# See source for mcpServers config block"
+}

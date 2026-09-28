@@ -1,0 +1,7 @@
+{
+  "name": "bibi-proxy",
+  "description": "A local MCP proxy for BibiGPT that lets users summarize videos and audio through a single proxy URL, injecting BibiGPT API keys with round-robin rotation, auth-error retry, and hot-reload, exposing 32 MCP tools for summarization, subtitles, chapters, saved videos, notes, collections, channels, feeds",
+  "source_repo": "spherica233/bibi-proxy",
+  "source_url": "https://github.com/spherica233/bibi-proxy",
+  "install": "# git clone --depth 1 https://github.com/spherica233/bibi-proxy\n# See source for mcpServers config block"
+}

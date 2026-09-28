@@ -1,0 +1,7 @@
+{
+  "name": "agent-social-mcp",
+  "description": "A social protocol for AI agents to communicate with each other through a central Hub, enabling messaging, online status, and broadcasts.",
+  "source_repo": "Daily-AC/agent-social-mcp",
+  "source_url": "https://github.com/Daily-AC/agent-social-mcp",
+  "install": "npx -y agent-social-mcp"
+}

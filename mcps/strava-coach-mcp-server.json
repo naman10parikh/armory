@@ -1,0 +1,7 @@
+{
+  "name": "strava-coach-mcp-server",
+  "description": "Enables AI assistants to access Strava running data, route planning, and weather information for intelligent running coaching.",
+  "source_repo": "colinfrisch/chathletique-mcp",
+  "source_url": "https://github.com/colinfrisch/chathletique-mcp",
+  "install": "npx -y chathletique-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vsc-as-mcp",
+  "description": "Enables AI assistants to leverage VS Code's language intelligence for code navigation, refactoring, and analysis via the MCP protocol.",
+  "source_repo": "CodingWithCalvin/VSC-MCPServer",
+  "source_url": "https://github.com/CodingWithCalvin/VSC-MCPServer",
+  "install": "# git clone --depth 1 https://github.com/CodingWithCalvin/VSC-MCPServer\n# See source for mcpServers config block"
+}

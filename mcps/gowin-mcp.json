@@ -1,0 +1,7 @@
+{
+  "name": "gowin-mcp",
+  "description": "An MCP server that turns Gowin EDA build reports into structured data.",
+  "source_repo": "Papipapito/gowin-mcp",
+  "source_url": "https://github.com/Papipapito/gowin-mcp",
+  "install": "npx -y gowin-mcp"
+}

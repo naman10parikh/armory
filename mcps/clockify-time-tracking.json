@@ -1,0 +1,7 @@
+{
+  "name": "clockify-time-tracking",
+  "description": "Enables interacting with Clockify time-tracking data through natural language, providing tools to manage workspaces, projects, time entries, reports, and more via the MCP protocol.",
+  "source_repo": "tracegazer/clockify-mcp",
+  "source_url": "https://github.com/tracegazer/clockify-mcp",
+  "install": "npx -y clockify-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "winctl",
+  "description": "Full Windows desktop access for Claude and other MCP clients, enabling screen capture, UI Automation, window/process management, file operations, and shell commands under a tiered permission model.",
+  "source_repo": "sitharaj88/winctl",
+  "source_url": "https://github.com/sitharaj88/winctl",
+  "install": "# git clone --depth 1 https://github.com/sitharaj88/winctl\n# See source for mcpServers config block"
+}

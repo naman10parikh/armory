@@ -1,0 +1,7 @@
+{
+  "name": "ingress2gateway-aws-mcp",
+  "description": "Enables conversion of Nginx Ingress resources to AWS Gateway API (ALB/NLB) YAML through a conversational interface, with validation and migration reporting.",
+  "source_repo": "toreydai/ingress2gateway-aws-mcp",
+  "source_url": "https://github.com/toreydai/ingress2gateway-aws-mcp",
+  "install": "npx -y ingress2gateway-aws-mcp"
+}

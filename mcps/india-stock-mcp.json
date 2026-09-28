@@ -1,0 +1,7 @@
+{
+  "name": "india-stock-mcp",
+  "description": "MCP server for Indian stock market data. Provides 16 tools for quotes, history, fundamentals, mutual funds, indices, corporate actions, options, IPOs, and portfolio analysis.",
+  "source_repo": "Akhilgovind02/india-stock-mcp",
+  "source_url": "https://github.com/Akhilgovind02/india-stock-mcp",
+  "install": "npx -y india-stock-mcp"
+}

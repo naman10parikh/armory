@@ -1,0 +1,7 @@
+{
+  "name": "baton-mcp",
+  "description": "Enables coding agents to convert and transfer sessions between different agent interfaces, allowing seamless continuation of work across agents.",
+  "source_repo": "Kaseban/baton",
+  "source_url": "https://github.com/Kaseban/baton",
+  "install": "# git clone --depth 1 https://github.com/Kaseban/baton\n# See source for mcpServers config block"
+}

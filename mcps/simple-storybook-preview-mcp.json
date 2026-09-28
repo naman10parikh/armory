@@ -1,0 +1,7 @@
+{
+  "name": "simple-storybook-preview-mcp",
+  "description": "Enables live preview of Storybook components inside the IDE as the AI edits them, using MCP Apps integration.",
+  "source_repo": "matipojo/simple-storybook-preview-mcp",
+  "source_url": "https://github.com/matipojo/simple-storybook-preview-mcp",
+  "install": "npx -y simple-storybook-preview-mcp"
+}

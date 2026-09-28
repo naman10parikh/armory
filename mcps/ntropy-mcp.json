@@ -1,0 +1,7 @@
+{
+  "name": "ntropy-mcp",
+  "description": "Enables enriching banking data using the Ntropy API, with tools to create account holders and enrich transactions.",
+  "source_repo": "mcpflow/ntropy-mcp",
+  "source_url": "https://github.com/mcpflow/ntropy-mcp",
+  "install": "npx -y ntropy-mcp"
+}

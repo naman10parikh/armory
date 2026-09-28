@@ -1,0 +1,7 @@
+{
+  "name": "visio-mcp-sci",
+  "description": "A Windows MCP server for creating fully editable Microsoft Visio diagrams with compact SCI/IEEE styling, native arrowheads, obstacle-aware routing, and a pre-export geometry audit.",
+  "source_repo": "2924547961/visio-mcp-sci",
+  "source_url": "https://github.com/2924547961/visio-mcp-sci",
+  "install": "# git clone --depth 1 https://github.com/2924547961/visio-mcp-sci\n# See source for mcpServers config block"
+}

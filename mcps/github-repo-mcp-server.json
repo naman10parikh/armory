@@ -1,0 +1,7 @@
+{
+  "name": "github-repo-mcp-server",
+  "description": "Enables AI assistants to query GitHub repositories, issues, pull requests, CI status, and discover trending repos via natural language. Provides MCP tools, resources, and prompts for GitHub data access.",
+  "source_repo": "technomad641/github-repo-mcp-server",
+  "source_url": "https://github.com/technomad641/github-repo-mcp-server",
+  "install": "npx -y github-repo-mcp-server"
+}

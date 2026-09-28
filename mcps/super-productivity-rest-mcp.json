@@ -1,0 +1,7 @@
+{
+  "name": "super-productivity-rest-mcp",
+  "description": "Enables natural-language control of Super Productivity tasks, projects, and tags via MCP tools that bridge to the app's local REST API.",
+  "source_repo": "mrswer/super-productivity-rest-mcp",
+  "source_url": "https://github.com/mrswer/super-productivity-rest-mcp",
+  "install": "npx -y super-productivity-rest-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-quiver",
+  "description": "Enables access to alternative data on public companies from Quiver Quantitative via MCP.",
+  "source_repo": "pipeworx-io/mcp-quiver",
+  "source_url": "https://github.com/pipeworx-io/mcp-quiver",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-quiver\n# See source for mcpServers config block"
+}

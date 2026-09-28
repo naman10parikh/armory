@@ -1,0 +1,7 @@
+{
+  "name": "better-browser-mcp",
+  "description": "Multi-agent local browser automation MCP server with per-agent WebSocket paths, configurable ports, and fixes for upstream issues like port collisions and recursion bugs.",
+  "source_repo": "nbiish/betterbrowsermcp",
+  "source_url": "https://github.com/nbiish/betterbrowsermcp",
+  "install": "# git clone --depth 1 https://github.com/nbiish/betterbrowsermcp\n# See source for mcpServers config block"
+}

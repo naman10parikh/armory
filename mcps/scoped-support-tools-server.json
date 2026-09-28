@@ -1,0 +1,7 @@
+{
+  "name": "scoped-support-tools-server",
+  "description": "Protects AI support tools with Descope JWT authentication and scope-based authorization, enabling secure customer support operations like refunds with granular access control.",
+  "source_repo": "AIwithhassan/agentic-ai-security",
+  "source_url": "https://github.com/AIwithhassan/agentic-ai-security",
+  "install": "# git clone --depth 1 https://github.com/AIwithhassan/agentic-ai-security\n# See source for mcpServers config block"
+}

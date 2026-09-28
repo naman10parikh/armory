@@ -1,0 +1,7 @@
+{
+  "name": "nimbus-copiloto-mcp-server",
+  "description": "MCP server for the Nimbus helpdesk that enables an AI assistant to manage support tickets, search cases, escalate issues, send responses, and track SLA compliance.",
+  "source_repo": "ruben-salas20/nimbus-copiloto",
+  "source_url": "https://github.com/ruben-salas20/nimbus-copiloto",
+  "install": "# git clone --depth 1 https://github.com/ruben-salas20/nimbus-copiloto\n# See source for mcpServers config block"
+}

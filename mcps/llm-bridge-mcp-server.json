@@ -1,0 +1,7 @@
+{
+  "name": "llm-bridge-mcp-server",
+  "description": "A local-first MCP server that enables MCP hosts to use GLM-family LLM providers for knowledge consultation, reasoning, UI auditing, repository inspection, and approval-gated development assistance.",
+  "source_repo": "magnexis/LLM-bridge-mcp-server",
+  "source_url": "https://github.com/magnexis/LLM-bridge-mcp-server",
+  "install": "npx -y LLM-bridge-mcp-server"
+}

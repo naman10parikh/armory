@@ -1,0 +1,7 @@
+{
+  "name": "mcp-demo-aad-viz",
+  "description": "Enables Entra ID group-based dataset access where group membership determines which datasets exist, and provides an interactive Altair chart builder rendered as an inline MCP Apps widget with zero-token adjustments.",
+  "source_repo": "sinanpl/mcp-demo-aad-viz",
+  "source_url": "https://github.com/sinanpl/mcp-demo-aad-viz",
+  "install": "# git clone --depth 1 https://github.com/sinanpl/mcp-demo-aad-viz\n# See source for mcpServers config block"
+}

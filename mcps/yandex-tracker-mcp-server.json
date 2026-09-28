@@ -1,0 +1,7 @@
+{
+  "name": "yandex-tracker-mcp-server",
+  "description": "Exposes Yandex Tracker's REST API v3 as tools for LLM clients, enabling issue management and queue operations via natural language.",
+  "source_repo": "DChuhin/tracker-mcp-server",
+  "source_url": "https://github.com/DChuhin/tracker-mcp-server",
+  "install": "npx -y tracker-mcp-server"
+}

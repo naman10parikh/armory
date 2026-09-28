@@ -1,0 +1,7 @@
+{
+  "name": "pnpc-mcp-tally-prime",
+  "description": "This MCP server enables users to read from and write to TallyPrime via its XML/HTTP gateway, supporting operations like ledger management, voucher creation, and financial report retrieval through natural language.",
+  "source_repo": "lokesh-sparrow/PNPC-MCP-Tally-Prime",
+  "source_url": "https://github.com/lokesh-sparrow/PNPC-MCP-Tally-Prime",
+  "install": "# git clone --depth 1 https://github.com/lokesh-sparrow/PNPC-MCP-Tally-Prime\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "world-bank-economic-mcp",
+  "description": "Provides macro-economic data from World Bank, IMF, FRED, OECD, and RBI through a unified get_indicator interface.",
+  "source_repo": "guptaprakhariitr/world-bank-economic-mcp",
+  "source_url": "https://github.com/guptaprakhariitr/world-bank-economic-mcp",
+  "install": "npx -y world-bank-economic-mcp"
+}

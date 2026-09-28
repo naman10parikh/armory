@@ -1,0 +1,7 @@
+{
+  "name": "stathead",
+  "description": "An open NFL fantasy-football analytics platform that provides live data, machine-learned projections, dynasty values, and prospect grades via an MCP server for AI clients.",
+  "source_repo": "dachhack/stathead",
+  "source_url": "https://github.com/dachhack/stathead",
+  "install": "# git clone --depth 1 https://github.com/dachhack/stathead\n# See source for mcpServers config block"
+}

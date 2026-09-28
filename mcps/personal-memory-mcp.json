@@ -1,0 +1,7 @@
+{
+  "name": "personal-memory-mcp",
+  "description": "Provides a single-user, append-only, queryable memory store for dated facts with provenance, enabling Claude to persist and correct personal information across conversations via an MCP interface.",
+  "source_repo": "miguelvictor/personal-memory-mcp",
+  "source_url": "https://github.com/miguelvictor/personal-memory-mcp",
+  "install": "npx -y personal-memory-mcp"
+}

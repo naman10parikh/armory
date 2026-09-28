@@ -1,0 +1,7 @@
+{
+  "name": "apple-revcat-mcp",
+  "description": "MCP server for Claude Desktop that exposes App Store Connect and RevenueCat APIs, enabling indie iOS developers to query portfolio metrics, sales reports, subscriptions, and customer reviews directly in chat.",
+  "source_repo": "ItsJuniorDias/apple-revcat-mcp",
+  "source_url": "https://github.com/ItsJuniorDias/apple-revcat-mcp",
+  "install": "npx -y apple-revcat-mcp"
+}

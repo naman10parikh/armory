@@ -1,0 +1,7 @@
+{
+  "name": "astro-ai-locator-mcp",
+  "description": "Resolves a UI element hash from an Astro dev server to its source file, line, and column, enabling AI agents to edit the exact code.",
+  "source_repo": "Imjungjuna/astro-ai-locator",
+  "source_url": "https://github.com/Imjungjuna/astro-ai-locator",
+  "install": "# git clone --depth 1 https://github.com/Imjungjuna/astro-ai-locator\n# See source for mcpServers config block"
+}

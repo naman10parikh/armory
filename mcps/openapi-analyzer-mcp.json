@@ -1,0 +1,7 @@
+{
+  "name": "openapi-analyzer-mcp",
+  "description": "A Model Context Protocol (MCP) server for analyzing OpenAPI specifications with LLM clients, enabling natural language queries about API structures, endpoints, schemas, and inconsistency detection across multiple specs.",
+  "source_repo": "Sureshkumars/openapi-analyzer-mcp",
+  "source_url": "https://github.com/Sureshkumars/openapi-analyzer-mcp",
+  "install": "npx -y openapi-analyzer-mcp"
+}

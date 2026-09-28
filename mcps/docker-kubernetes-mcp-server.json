@@ -1,0 +1,7 @@
+{
+  "name": "docker-kubernetes-mcp-server",
+  "description": "Enables AI assistants to manage Docker containers and Kubernetes resources through natural language, supporting operations like container management, image building, and pod/deployment/service management.",
+  "source_repo": "TrivCodez/docker-kubernetes-mcp",
+  "source_url": "https://github.com/TrivCodez/docker-kubernetes-mcp",
+  "install": "npx -y docker-kubernetes-mcp"
+}

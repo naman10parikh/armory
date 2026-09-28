@@ -1,0 +1,7 @@
+{
+  "name": "mexico-invoice-mcp",
+  "description": "Enables AI agents to issue Mexico CFDI 4.0 electronic invoices (factura electrónica) via Facturapi, with tools for creating, querying, canceling, and sending invoices.",
+  "source_repo": "junter1989k-ai/mexico-invoice-mcp",
+  "source_url": "https://github.com/junter1989k-ai/mexico-invoice-mcp",
+  "install": "npx -y mexico-invoice-mcp"
+}

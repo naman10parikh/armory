@@ -1,0 +1,7 @@
+{
+  "name": "traggo-mcp",
+  "description": "An MCP server for Traggo, a tag-based time tracking tool. Manage time spans, timers and tags, get useful stats.",
+  "source_repo": "IlyaBizyaev/traggo-mcp",
+  "source_url": "https://github.com/IlyaBizyaev/traggo-mcp",
+  "install": "npx -y traggo-mcp"
+}

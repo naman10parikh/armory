@@ -1,0 +1,7 @@
+{
+  "name": "zoho-analytics-mcp-worker",
+  "description": "Exposes the Zoho Analytics API v2 as an MCP server, enabling Claude and other clients to query, manage, and analyze Zoho Analytics data through natural language.",
+  "source_repo": "adamcfield/zoho-analytics-mcp-worker",
+  "source_url": "https://github.com/adamcfield/zoho-analytics-mcp-worker",
+  "install": "# git clone --depth 1 https://github.com/adamcfield/zoho-analytics-mcp-worker\n# See source for mcpServers config block"
+}

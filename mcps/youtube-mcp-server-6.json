@@ -1,0 +1,7 @@
+{
+  "name": "youtube-mcp-server-6",
+  "description": "Provides AI assistants with comprehensive YouTube analytics and channel management capabilities, including channel performance, video analytics, audience insights, and content strategy tools.",
+  "source_repo": "lauragift21/youtube-mcp-server",
+  "source_url": "https://github.com/lauragift21/youtube-mcp-server",
+  "install": "npx -y youtube-mcp-server"
+}

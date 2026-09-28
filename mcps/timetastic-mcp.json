@@ -1,0 +1,7 @@
+{
+  "name": "timetastic-mcp",
+  "description": "An unofficial MCP server that exposes the Timetastic API to enable querying and managing absence & leave data.",
+  "source_repo": "mlequime/timetastic-mcp",
+  "source_url": "https://github.com/mlequime/timetastic-mcp",
+  "install": "npx -y timetastic-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sbom-cyclonedx-mcp",
+  "description": "Generates SBOM in CycloneDX 1.6 and SPDX 2.3 formats, compliant with EO 14028, NIS2, and CRA.",
+  "source_repo": "CSOAI-ORG/sbom-cyclonedx-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/sbom-cyclonedx-mcp",
+  "install": "npx -y sbom-cyclonedx-mcp"
+}

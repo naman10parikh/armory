@@ -1,0 +1,7 @@
+{
+  "name": "humanproof",
+  "description": "Agent trajectory scorer for human-likeness — flags bot-like patterns in automated workflows before they reach production.",
+  "source_repo": "sandeep-alluru/humanproof",
+  "source_url": "https://github.com/sandeep-alluru/humanproof",
+  "install": "# git clone --depth 1 https://github.com/sandeep-alluru/humanproof\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ina-atlas-mcp",
+  "description": "MCP server that exposes a Hawaii property pipeline as Claude tools, allowing natural language queries about parcel records, hazards, zoning, ADU eligibility, and more, based on real public data.",
+  "source_repo": "portofcams/aina-atlas-mcp",
+  "source_url": "https://github.com/portofcams/aina-atlas-mcp",
+  "install": "npx -y aina-atlas-mcp"
+}

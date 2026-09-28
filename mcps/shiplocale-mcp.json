@@ -1,0 +1,7 @@
+{
+  "name": "shiplocale-mcp",
+  "description": "MCP server for ShipLocale that lets Claude read and edit localized App Store and Google Play metadata, including app copy, release notes, and screenshot texts, with optional push to live listings.",
+  "source_repo": "ShipLocale/shiplocale-mcp",
+  "source_url": "https://github.com/ShipLocale/shiplocale-mcp",
+  "install": "npx -y shiplocale-mcp"
+}

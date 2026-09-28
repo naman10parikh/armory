@@ -1,0 +1,7 @@
+{
+  "name": "puch-ai-mcp-starter",
+  "description": "A starter template with ready-to-use tools for job searching (analyze descriptions, fetch posts, search jobs) and image processing (convert to black & white), featuring bearer token authentication for use with Puch AI.",
+  "source_repo": "Somnath-Chattaraj/MCP-Server",
+  "source_url": "https://github.com/Somnath-Chattaraj/MCP-Server",
+  "install": "# git clone --depth 1 https://github.com/Somnath-Chattaraj/MCP-Server\n# See source for mcpServers config block"
+}

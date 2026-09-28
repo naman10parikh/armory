@@ -1,0 +1,7 @@
+{
+  "name": "dataset-explorer-mcp-server",
+  "description": "Enables AI clients to explore and analyze CSV datasets via tools for dataset overview, statistical summaries, missing value analysis, duplicate detection, correlation analysis, and outlier detection.",
+  "source_repo": "khanarmaghanrasheed-18/MCP-Dataset-Explorer",
+  "source_url": "https://github.com/khanarmaghanrasheed-18/MCP-Dataset-Explorer",
+  "install": "# git clone --depth 1 https://github.com/khanarmaghanrasheed-18/MCP-Dataset-Explorer\n# See source for mcpServers config block"
+}

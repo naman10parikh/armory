@@ -1,0 +1,7 @@
+{
+  "name": "osc-mcp-server",
+  "description": "MCP server for controlling Behringer X-Air digital mixers via OSC, with symbolic naming and dB-to-float conversion.",
+  "source_repo": "darkwings/OSC_MCP",
+  "source_url": "https://github.com/darkwings/OSC_MCP",
+  "install": "npx -y OSC_MCP"
+}

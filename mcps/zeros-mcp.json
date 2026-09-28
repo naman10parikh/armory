@@ -1,0 +1,7 @@
+{
+  "name": "zeros-mcp",
+  "description": "An MCP server for controlling Zero 88 lighting consoles running ZerOS over OSC, exposing playbacks, cues, the grand master, blackout, and user macros as MCP tools.",
+  "source_repo": "MaybeItsAdam/zeros-mcp",
+  "source_url": "https://github.com/MaybeItsAdam/zeros-mcp",
+  "install": "npx -y zeros-mcp"
+}

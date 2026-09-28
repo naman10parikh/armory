@@ -1,0 +1,7 @@
+{
+  "name": "motomarks-mcp-server",
+  "description": "Enables AI tools to search and retrieve automotive brand data, logos, and color palettes from the Motomarks car logo API, and generate authenticated CDN image URLs for embedding.",
+  "source_repo": "motomarks/motomarks-mcp",
+  "source_url": "https://github.com/motomarks/motomarks-mcp",
+  "install": "npx -y motomarks-mcp"
+}

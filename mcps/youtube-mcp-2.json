@@ -1,0 +1,7 @@
+{
+  "name": "youtube-mcp-2",
+  "description": "Enables YouTube search, video details, channels, playlists, and comments scraping via MCP, no API key required.",
+  "source_repo": "iamkw0n/youtube-mcp",
+  "source_url": "https://github.com/iamkw0n/youtube-mcp",
+  "install": "npx -y youtube-mcp"
+}

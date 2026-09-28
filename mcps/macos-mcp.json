@@ -1,0 +1,7 @@
+{
+  "name": "macos-mcp",
+  "description": "A lightweight MCP server that bridges AI agents and macOS, enabling automation of file navigation, application control, UI interaction, browser automation, and system operations.",
+  "source_repo": "CursorTouch/MacOS-MCP",
+  "source_url": "https://github.com/CursorTouch/MacOS-MCP",
+  "install": "npx -y MacOS-MCP"
+}

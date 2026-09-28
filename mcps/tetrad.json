@@ -1,0 +1,7 @@
+{
+  "name": "tetrad",
+  "description": "Orchestrates three AI code evaluation tools to validate and approve code via a quadruple consensus protocol, ensuring high-quality code generation.",
+  "source_repo": "SamoraDC/Tetrad",
+  "source_url": "https://github.com/SamoraDC/Tetrad",
+  "install": "# git clone --depth 1 https://github.com/SamoraDC/Tetrad\n# See source for mcpServers config block"
+}

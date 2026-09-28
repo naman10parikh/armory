@@ -1,0 +1,7 @@
+{
+  "name": "feode-capability-server",
+  "description": "Offshore oilfield services: query FEODE's well plug & abandonment, subsea wellhead (BV+CCS classed), continuous circulation drilling, and a NOV Grant Prideco drill-string spec reference.",
+  "source_repo": "FarEastAI/feode-mcp",
+  "source_url": "https://github.com/FarEastAI/feode-mcp",
+  "install": "npx -y feode-mcp"
+}

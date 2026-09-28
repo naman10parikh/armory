@@ -1,0 +1,7 @@
+{
+  "name": "n8n-mcp-local-setup",
+  "description": "Run the open-source n8n-mcp locally and connect your n8n instance to MCP-compatible AI agents like Codex and Claude Code.",
+  "source_repo": "pedrogrigs/n8n-mcp-local-setup",
+  "source_url": "https://github.com/pedrogrigs/n8n-mcp-local-setup",
+  "install": "# git clone --depth 1 https://github.com/pedrogrigs/n8n-mcp-local-setup\n# See source for mcpServers config block"
+}

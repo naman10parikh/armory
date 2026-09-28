@@ -1,0 +1,7 @@
+{
+  "name": "memory-palace",
+  "description": "Persistent semantic memory for AI agents, enabling storage, semantic search, knowledge graph connections, and inter-instance messaging across conversations using local models via Ollama.",
+  "source_repo": "jeffpierce/memory-palace",
+  "source_url": "https://github.com/jeffpierce/memory-palace",
+  "install": "# git clone --depth 1 https://github.com/jeffpierce/memory-palace\n# See source for mcpServers config block"
+}

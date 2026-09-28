@@ -1,0 +1,7 @@
+{
+  "name": "kiasu-scout",
+  "description": "MCP server to help businesses analyze their visibility in AI assistant recommendations, focusing on Singapore and Southeast Asian parent queries. It generates prompt packs, analyzes answer visibility, and recommends SEO fixes.",
+  "source_repo": "sixirixis/kiasu-scout",
+  "source_url": "https://github.com/sixirixis/kiasu-scout",
+  "install": "# git clone --depth 1 https://github.com/sixirixis/kiasu-scout\n# See source for mcpServers config block"
+}

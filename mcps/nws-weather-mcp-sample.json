@@ -1,0 +1,7 @@
+{
+  "name": "nws-weather-mcp-sample",
+  "description": "Provides weather forecast and alert tools using the National Weather Service API.",
+  "source_repo": "tumuml28/McpWeatherSample",
+  "source_url": "https://github.com/tumuml28/McpWeatherSample",
+  "install": "# git clone --depth 1 https://github.com/tumuml28/McpWeatherSample\n# See source for mcpServers config block"
+}

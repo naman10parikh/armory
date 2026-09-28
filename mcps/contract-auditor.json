@@ -1,0 +1,7 @@
+{
+  "name": "contract-auditor",
+  "description": "Quick-scan a smart contract for rug, honeypot, or centralization risk before sending funds. It combines verified source, live on-chain state, and heuristic Solidity analysis to return a SAFE/CAUTION/HIGH-RISK verdict.",
+  "source_repo": "Baneado98/contract-auditor",
+  "source_url": "https://github.com/Baneado98/contract-auditor",
+  "install": "# git clone --depth 1 https://github.com/Baneado98/contract-auditor\n# See source for mcpServers config block"
+}

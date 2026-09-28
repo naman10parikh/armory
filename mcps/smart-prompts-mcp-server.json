@@ -1,0 +1,7 @@
+{
+  "name": "smart-prompts-mcp-server",
+  "description": "An enhanced MCP server that fetches prompts from GitHub repositories with intelligent discovery, composition, and management features.",
+  "source_repo": "hmcts/ai-in-sdlc-smart-prompts-mcp",
+  "source_url": "https://github.com/hmcts/ai-in-sdlc-smart-prompts-mcp",
+  "install": "npx -y ai-in-sdlc-smart-prompts-mcp"
+}

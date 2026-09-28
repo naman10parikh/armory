@@ -1,0 +1,7 @@
+{
+  "name": "rip-ie-mcp",
+  "description": "Search and browse Irish death notices from RIP.ie with tools for searching death notices, getting full details, and listing counties.",
+  "source_repo": "dmarkey/rip-ie-mcp",
+  "source_url": "https://github.com/dmarkey/rip-ie-mcp",
+  "install": "npx -y rip-ie-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codeforge-mcp",
+  "description": "Enables MCP-compatible clients to delegate senior software engineering tasks like code generation, review, Jira management, and architecture recommendations to a model with a senior engineer persona.",
+  "source_repo": "ThakurAnketPratapSingh/codeforge-mcp",
+  "source_url": "https://github.com/ThakurAnketPratapSingh/codeforge-mcp",
+  "install": "npx -y codeforge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "portal-da-transpar-ncia-servidor-p-blico",
+  "description": "MCP server for querying Brazil's public transparency portal, providing read-only access to government spending and public data.",
+  "source_repo": "mcp-dir/portal_transparencia_servidor-mcp",
+  "source_url": "https://github.com/mcp-dir/portal_transparencia_servidor-mcp",
+  "install": "npx -y portal_transparencia_servidor-mcp"
+}

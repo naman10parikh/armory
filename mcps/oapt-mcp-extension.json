@@ -1,0 +1,7 @@
+{
+  "name": "oapt-mcp-extension",
+  "description": "Connects Claude Desktop to the OAPT MCP server for natural-language queries across Dynamics CRM, AWS ACE, Partner Central, and more via a hosted endpoint, with per-user API key authentication.",
+  "source_repo": "dwinter3/oapt-mcp-extension",
+  "source_url": "https://github.com/dwinter3/oapt-mcp-extension",
+  "install": "# git clone --depth 1 https://github.com/dwinter3/oapt-mcp-extension\n# See source for mcpServers config block"
+}

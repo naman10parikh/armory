@@ -1,0 +1,7 @@
+{
+  "name": "bitrise-insights-mcp-server",
+  "description": "A temporary MCP server that scrapes Bitrise Insights using Playwright to fetch flaky test data, providing tools to query workspace and app test insights until the official API is released.",
+  "source_repo": "naveen-bitrise/temp-bitrise-insights-mcp",
+  "source_url": "https://github.com/naveen-bitrise/temp-bitrise-insights-mcp",
+  "install": "npx -y temp-bitrise-insights-mcp"
+}

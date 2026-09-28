@@ -1,0 +1,7 @@
+{
+  "name": "mcp-openems",
+  "description": "Enables AI-assisted design of antennas and electromagnetic structures using openEMS FDTD simulation, with analytical dimension calculators and full-wave script generation.",
+  "source_repo": "RFingAdam/mcp-openems",
+  "source_url": "https://github.com/RFingAdam/mcp-openems",
+  "install": "# git clone --depth 1 https://github.com/RFingAdam/mcp-openems\n# See source for mcpServers config block"
+}

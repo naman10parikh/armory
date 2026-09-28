@@ -1,0 +1,7 @@
+{
+  "name": "mcp-call-recording-server",
+  "description": "Enables semantic search over VTT transcript files using AI-powered structured summaries, allowing natural language queries about client call transcripts through Claude Desktop or Copilot Studio.",
+  "source_repo": "diptigarg23/mcp-call-recording",
+  "source_url": "https://github.com/diptigarg23/mcp-call-recording",
+  "install": "# git clone --depth 1 https://github.com/diptigarg23/mcp-call-recording\n# See source for mcpServers config block"
+}

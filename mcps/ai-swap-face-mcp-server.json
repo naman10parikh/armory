@@ -1,0 +1,7 @@
+{
+  "name": "ai-swap-face-mcp-server",
+  "description": "Provides access to AI Swap Face's image generation styles, pricing, FAQ, and official links. Enables AI clients to retrieve information about this online face-swapping tool.",
+  "source_repo": "rocnubie/ai-swap-face-mcp",
+  "source_url": "https://github.com/rocnubie/ai-swap-face-mcp",
+  "install": "npx -y ai-swap-face-mcp"
+}

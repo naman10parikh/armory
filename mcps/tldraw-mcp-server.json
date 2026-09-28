@@ -1,0 +1,7 @@
+{
+  "name": "tldraw-mcp-server",
+  "description": "An MCP server that gives AI agents programmatic control over a live tldraw canvas, enabling diagram creation through natural language.",
+  "source_repo": "Mihai-Codes/tldraw-mcp-server",
+  "source_url": "https://github.com/Mihai-Codes/tldraw-mcp-server",
+  "install": "npx -y tldraw-mcp-server"
+}

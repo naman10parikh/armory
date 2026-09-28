@@ -1,0 +1,7 @@
+{
+  "name": "agentsync-mcp-server",
+  "description": "Provides MCP tools for AI coding agents to coordinate on shared repositories, enabling task claiming, conflict detection, and plan management in real-time.",
+  "source_repo": "dipakkr/agentsync",
+  "source_url": "https://github.com/dipakkr/agentsync",
+  "install": "# git clone --depth 1 https://github.com/dipakkr/agentsync\n# See source for mcpServers config block"
+}

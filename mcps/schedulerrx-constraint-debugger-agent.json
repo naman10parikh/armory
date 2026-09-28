@@ -1,0 +1,7 @@
+{
+  "name": "schedulerrx-constraint-debugger-agent",
+  "description": "A neuro-symbolic agent that turns cryptic CP-SAT INFEASIBLE errors into plain-English diagnoses and only proposes fixes it has re-verified by re-solving the real production solver.",
+  "source_repo": "tpinzzz/schedulerrx-constraint-agent",
+  "source_url": "https://github.com/tpinzzz/schedulerrx-constraint-agent",
+  "install": "# git clone --depth 1 https://github.com/tpinzzz/schedulerrx-constraint-agent\n# See source for mcpServers config block"
+}

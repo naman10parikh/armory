@@ -1,0 +1,7 @@
+{
+  "name": "mcp-postgresql",
+  "description": "A production-oriented MCP server for PostgreSQL that exposes database operations like query execution, schema introspection, and table metadata to MCP clients such as Claude Desktop and VS Code.",
+  "source_repo": "ferronicardoso/mcp-postgresql",
+  "source_url": "https://github.com/ferronicardoso/mcp-postgresql",
+  "install": "# git clone --depth 1 https://github.com/ferronicardoso/mcp-postgresql\n# See source for mcpServers config block"
+}

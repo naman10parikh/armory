@@ -1,0 +1,7 @@
+{
+  "name": "detran-al-licenciamento",
+  "description": "Enables querying vehicle licensing information from DETRAN AL (Alagoas, Brazil) via an official read-only MCP tool, with pay-per-use credit system and no credentials required.",
+  "source_repo": "mcp-dir/detran_al_licenciamento-mcp",
+  "source_url": "https://github.com/mcp-dir/detran_al_licenciamento-mcp",
+  "install": "npx -y detran_al_licenciamento-mcp"
+}

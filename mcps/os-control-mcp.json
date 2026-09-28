@@ -1,0 +1,7 @@
+{
+  "name": "os-control-mcp",
+  "description": "Controls a Linux host through structured interfaces like systemd, journald, and D-Bus for service management, journal queries, power operations, and more, with safety guards to prevent accidental damage.",
+  "source_repo": "88plug/os-control-mcp",
+  "source_url": "https://github.com/88plug/os-control-mcp",
+  "install": "npx -y os-control-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "reaper-daw-mcp-server",
+  "description": "Enables AI-powered music production by integrating with REAPER DAW via MCP protocol, allowing users to control project settings, MIDI editing, and VST plugins through natural language.",
+  "source_repo": "Aavishkar-Kolte/reaper-daw-mcp-server",
+  "source_url": "https://github.com/Aavishkar-Kolte/reaper-daw-mcp-server",
+  "install": "npx -y reaper-daw-mcp-server"
+}

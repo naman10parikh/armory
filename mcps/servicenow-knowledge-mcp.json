@@ -1,0 +1,7 @@
+{
+  "name": "servicenow-knowledge-mcp",
+  "description": "Enables deterministic, read-only retrieval of ServiceNow Knowledge articles, including search, article details, and binary attachments, via the ServiceNow Knowledge Management REST API.",
+  "source_repo": "Xingyuj/SnowMCP",
+  "source_url": "https://github.com/Xingyuj/SnowMCP",
+  "install": "# git clone --depth 1 https://github.com/Xingyuj/SnowMCP\n# See source for mcpServers config block"
+}

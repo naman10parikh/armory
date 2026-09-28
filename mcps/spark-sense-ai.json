@@ -1,0 +1,7 @@
+{
+  "name": "spark-sense-ai",
+  "description": "MCP server that diagnoses Apache Spark job failures and optimizes performance using stack-trace analysis and LLM providers, supporting EMR and local sources.",
+  "source_repo": "sun7singh/spark-sense-ai",
+  "source_url": "https://github.com/sun7singh/spark-sense-ai",
+  "install": "# git clone --depth 1 https://github.com/sun7singh/spark-sense-ai\n# See source for mcpServers config block"
+}

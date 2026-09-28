@@ -1,0 +1,7 @@
+{
+  "name": "ansible-mcp-python",
+  "description": "MCP server for Ansible automation, enabling AI clients to list inventories, ping hosts, run ad-hoc commands, validate and execute playbooks, and manage playbook files via SSE.",
+  "source_repo": "xiaofengbiancheng/ansible-mcp_python",
+  "source_url": "https://github.com/xiaofengbiancheng/ansible-mcp_python",
+  "install": "# git clone --depth 1 https://github.com/xiaofengbiancheng/ansible-mcp_python\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "my-mcp-app",
+  "description": "A starter template for building MCP Apps on deco, enabling interactive UIs powered by the Model Context Protocol through tools and HTML resources.",
+  "source_repo": "gsbenevides2/my-mcp-app",
+  "source_url": "https://github.com/gsbenevides2/my-mcp-app",
+  "install": "# git clone --depth 1 https://github.com/gsbenevides2/my-mcp-app\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "inpi-processo-de-registro-de-marca-resumida",
+  "description": "Consulta resumida em fonte oficial do INPI sobre processos de registro de marca via uma ferramenta de leitura, com pagamento pré-pago por uso.",
+  "source_repo": "mcp-dir/inpi_marcas_processo_resumida-mcp",
+  "source_url": "https://github.com/mcp-dir/inpi_marcas_processo_resumida-mcp",
+  "install": "npx -y inpi_marcas_processo_resumida-mcp"
+}

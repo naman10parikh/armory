@@ -1,0 +1,7 @@
+{
+  "name": "bittensormcp",
+  "description": "A hosted MCP server that gives AI agents live, self-custodial access to the Bittensor blockchain, enabling queries and on-chain actions via any MCP client.",
+  "source_repo": "btmcp/pub",
+  "source_url": "https://github.com/btmcp/pub",
+  "install": "# git clone --depth 1 https://github.com/btmcp/pub\n# See source for mcpServers config block"
+}

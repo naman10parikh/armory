@@ -1,0 +1,7 @@
+{
+  "name": "deep-search",
+  "description": "Free, open-source search engine MCP server with 7 sources, 29 tools, and semantic search via ChromaDB at zero cost.",
+  "source_repo": "sukirman1901/DeepSearch",
+  "source_url": "https://github.com/sukirman1901/DeepSearch",
+  "install": "# git clone --depth 1 https://github.com/sukirman1901/DeepSearch\n# See source for mcpServers config block"
+}

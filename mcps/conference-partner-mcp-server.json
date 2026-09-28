@@ -1,0 +1,7 @@
+{
+  "name": "conference-partner-mcp-server",
+  "description": "Serves academic conference and journal data via MCP and REST, including CFP deadlines, CCF/CORE/QUALIS rankings, acceptance rates, journal impact factors, and special issues.",
+  "source_repo": "sundou82/conference-partner-mcp",
+  "source_url": "https://github.com/sundou82/conference-partner-mcp",
+  "install": "npx -y conference-partner-mcp"
+}

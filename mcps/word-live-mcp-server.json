@@ -1,0 +1,7 @@
+{
+  "name": "word-live-mcp-server",
+  "description": "A Windows MCP server that attaches to a running Microsoft Word instance via COM automation and exposes 20 tools for reading, editing, formatting, and exporting documents — live on screen.",
+  "source_repo": "kennypeh85/word-mcp",
+  "source_url": "https://github.com/kennypeh85/word-mcp",
+  "install": "npx -y word-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mpt-ap-e-pa-certid-o-negativa-de-feitos",
+  "description": "Enables querying official negative certificates (Certidão Negativa de Feitos) from the Brazilian Labor Prosecutor (MPT) for Amapá and Pará through a read-only MCP server.",
+  "source_repo": "mcp-dir/mpt_ap_cnf-mcp",
+  "source_url": "https://github.com/mcp-dir/mpt_ap_cnf-mcp",
+  "install": "npx -y mpt_ap_cnf-mcp"
+}

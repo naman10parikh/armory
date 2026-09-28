@@ -1,0 +1,7 @@
+{
+  "name": "contextkeeper-mcp-server",
+  "description": "MCP server for ContextKeeper that enables AI assistants to read and modify context items through natural language commands.",
+  "source_repo": "ondrahracek/contextkeeper-mcp",
+  "source_url": "https://github.com/ondrahracek/contextkeeper-mcp",
+  "install": "npx -y contextkeeper-mcp"
+}

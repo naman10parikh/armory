@@ -1,0 +1,7 @@
+{
+  "name": "waitloop",
+  "description": "Enables agents to create hosted waitlist pages with referral ranking, email capture, and stats via MCP tools like create_waitlist.",
+  "source_repo": "zexiro/waitloop",
+  "source_url": "https://github.com/zexiro/waitloop",
+  "install": "# git clone --depth 1 https://github.com/zexiro/waitloop\n# See source for mcpServers config block"
+}

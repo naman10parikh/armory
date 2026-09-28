@@ -1,0 +1,7 @@
+{
+  "name": "brand-asset-mcp",
+  "description": "A shareable, lightweight MCP server for managing corporate brand assets, logos, color design tokens, social media templates, and image watermarking across multiple locations and platforms.",
+  "source_repo": "ChrisTansey007/brand-asset-mcp",
+  "source_url": "https://github.com/ChrisTansey007/brand-asset-mcp",
+  "install": "npx -y brand-asset-mcp"
+}

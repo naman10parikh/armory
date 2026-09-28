@@ -1,0 +1,7 @@
+{
+  "name": "cadlens-mcp",
+  "description": "An MCP server that parses CAD files (.dwg, .dxf, .dwf, etc.) via the Cadlens API, enabling LLM clients to extract and reason over entity, layer, and metadata payloads.",
+  "source_repo": "cadlens-co/cadlens-mcp",
+  "source_url": "https://github.com/cadlens-co/cadlens-mcp",
+  "install": "npx -y cadlens-mcp"
+}

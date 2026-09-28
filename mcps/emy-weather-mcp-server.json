@@ -1,0 +1,7 @@
+{
+  "name": "emy-weather-mcp-server",
+  "description": "Provides live Greek weather data from EMY, including forecasts, alerts, marine bulletins, warnings, and climate records. Supports location-based queries by name, ID, or coordinates without requiring an API key.",
+  "source_repo": "aristath/EMY-MCP",
+  "source_url": "https://github.com/aristath/EMY-MCP",
+  "install": "npx -y EMY-MCP"
+}

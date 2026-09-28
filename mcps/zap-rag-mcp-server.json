@@ -1,0 +1,7 @@
+{
+  "name": "zap-rag-mcp-server",
+  "description": "Read-only MCP server that exposes ZAP's RAG search modes (plain, hybrid, hybrid_rerank) for agents to perform semantic code retrieval.",
+  "source_repo": "RaviTeja-438/zap-rag-mcp",
+  "source_url": "https://github.com/RaviTeja-438/zap-rag-mcp",
+  "install": "npx -y zap-rag-mcp"
+}

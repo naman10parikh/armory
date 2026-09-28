@@ -1,0 +1,7 @@
+{
+  "name": "the-culture-mcp-server",
+  "description": "MCP server for The Culture, a fashion-focused social media app, exposing Supabase database operations and Hugging Face model inference as tools for use in Claude Code, n8n agents, and the Larry orchestrator.",
+  "source_repo": "Dc-4nderson/TheCulture_MCP",
+  "source_url": "https://github.com/Dc-4nderson/TheCulture_MCP",
+  "install": "npx -y TheCulture_MCP"
+}

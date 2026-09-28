@@ -7,7 +7,7 @@ license: MIT
 ---
 # agentdial
 
-Use to give an agent a universal identity and reachable channels — a stable handle the agent presents across surfaces — when agents need to be addressable and authenticated, not anonymous processes.
+Use to give an agent a universal identity and reachable channels, a stable handle the agent presents across surfaces, when agents need to be addressable and authenticated rather than anonymous processes.
 
 **Source:** https://github.com/naman10parikh/agentdial
 

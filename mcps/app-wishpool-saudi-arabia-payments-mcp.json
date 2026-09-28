@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-saudi-arabia-payments-mcp",
+  "description": "Enables AI agents to accept payments in Saudi Arabia through Tap Payments, supporting mada, Apple Pay, cards, and STC Pay via hosted checkout links.",
+  "source_repo": "junter1989k-ai/saudi-arabia-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/saudi-arabia-payments-mcp",
+  "install": "npx -y saudi-arabia-payments-mcp"
+}

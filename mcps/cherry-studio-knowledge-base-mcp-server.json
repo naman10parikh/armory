@@ -1,0 +1,7 @@
+{
+  "name": "cherry-studio-knowledge-base-mcp-server",
+  "description": "An MCP server that enables AI assistants to access and search Cherry Studio knowledge bases, supporting operations like listing, searching, and retrieving details.",
+  "source_repo": "Prism-Future/CherryStudio-KnowledgeBase-MCP",
+  "source_url": "https://github.com/Prism-Future/CherryStudio-KnowledgeBase-MCP",
+  "install": "npx -y CherryStudio-KnowledgeBase-MCP"
+}

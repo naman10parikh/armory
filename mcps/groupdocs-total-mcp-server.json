@@ -1,0 +1,7 @@
+{
+  "name": "groupdocs-total-mcp-server",
+  "description": "Unified MCP server that exposes GroupDocs.Total document-processing tools (annotation, comparison, conversion, merging, metadata, parsing, redaction, signing, watermarking, and more) as AI-callable tools for MCP agents.",
+  "source_repo": "groupdocs-total/GroupDocs.Total.Mcp",
+  "source_url": "https://github.com/groupdocs-total/GroupDocs.Total.Mcp",
+  "install": "# git clone --depth 1 https://github.com/groupdocs-total/GroupDocs.Total.Mcp\n# See source for mcpServers config block"
+}

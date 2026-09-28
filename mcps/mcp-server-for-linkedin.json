@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-for-linkedin",
+  "description": "An MCP server that lets AI assistants like Claude read LinkedIn data through your own logged-in browser session. Access profiles and companies, search for jobs, or get job details.",
+  "source_repo": "kaistenberg/MCP-Linkedin",
+  "source_url": "https://github.com/kaistenberg/MCP-Linkedin",
+  "install": "# git clone --depth 1 https://github.com/kaistenberg/MCP-Linkedin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-local-context",
+  "description": "A simple MCP server for local documentation with RAG capabilities, enabling AI assistants to access and search local documents.",
+  "source_repo": "SteedMonteiro/mcp-local-context",
+  "source_url": "https://github.com/SteedMonteiro/mcp-local-context",
+  "install": "# git clone --depth 1 https://github.com/SteedMonteiro/mcp-local-context\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "assiststudio-runner",
+  "description": "A Windows-only headless LLM task automation engine that executes natural language tasks on schedule and delivers results through configured channels, built as an MCP server with 7 tools for task management.",
+  "source_repo": "fieldcure/fieldcure-assiststudio-runner",
+  "source_url": "https://github.com/fieldcure/fieldcure-assiststudio-runner",
+  "install": "# git clone --depth 1 https://github.com/fieldcure/fieldcure-assiststudio-runner\n# See source for mcpServers config block"
+}

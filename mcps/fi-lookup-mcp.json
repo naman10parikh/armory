@@ -1,0 +1,7 @@
+{
+  "name": "fi-lookup-mcp",
+  "description": "Resolves messy financial institution records against canonical regulatory identifiers from FDIC, NCUA, and FFIEC public datasets.",
+  "source_repo": "nlsnnvas/fi-lookup-mcp",
+  "source_url": "https://github.com/nlsnnvas/fi-lookup-mcp",
+  "install": "npx -y fi-lookup-mcp"
+}

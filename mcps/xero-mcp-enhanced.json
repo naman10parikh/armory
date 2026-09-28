@@ -1,0 +1,7 @@
+{
+  "name": "xero-mcp-enhanced",
+  "description": "An enhanced MCP server for Xero, enabling natural language interaction with your Xero organisation for accounting tasks like invoices, contacts, bank transactions, and payroll.",
+  "source_repo": "danielreddd/xero-mcp-enhanced",
+  "source_url": "https://github.com/danielreddd/xero-mcp-enhanced",
+  "install": "# git clone --depth 1 https://github.com/danielreddd/xero-mcp-enhanced\n# See source for mcpServers config block"
+}

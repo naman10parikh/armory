@@ -1,0 +1,7 @@
+{
+  "name": "bright-data-mcp-server",
+  "description": "Enables AI agents to browse and extract data from any public website via Bright Data's cloud infrastructure, handling proxy rotation, CAPTCHA solving, and JavaScript rendering.",
+  "source_repo": "AndrewEstopinan/brightdata-mcp",
+  "source_url": "https://github.com/AndrewEstopinan/brightdata-mcp",
+  "install": "npx -y brightdata-mcp"
+}

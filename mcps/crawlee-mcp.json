@@ -1,0 +1,7 @@
+{
+  "name": "crawlee-mcp",
+  "description": "Enables AI clients to fetch, crawl, and screenshot web pages using Crawlee, supporting multiple URLs and stealth mode for JavaScript-rendered sites.",
+  "source_repo": "patrikmichi/crawlee-mcp",
+  "source_url": "https://github.com/patrikmichi/crawlee-mcp",
+  "install": "npx -y crawlee-mcp"
+}

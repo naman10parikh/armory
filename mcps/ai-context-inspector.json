@@ -1,0 +1,7 @@
+{
+  "name": "ai-context-inspector",
+  "description": "Scans projects to discover all AI configuration files, MCP servers, agents, and memories across 19 tools, enabling export and import of the entire AI ecosystem.",
+  "source_repo": "cocaxcode/ai-context-inspector",
+  "source_url": "https://github.com/cocaxcode/ai-context-inspector",
+  "install": "# git clone --depth 1 https://github.com/cocaxcode/ai-context-inspector\n# See source for mcpServers config block"
+}

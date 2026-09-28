@@ -1,0 +1,7 @@
+{
+  "name": "vision-ocr-mcp",
+  "description": "Local OCR (RapidOCR) plus optional Qwen-VL for image summarization, supporting both file paths and clipboard images.",
+  "source_repo": "wbwbwb123/mcp-visoin-ocr",
+  "source_url": "https://github.com/wbwbwb123/mcp-visoin-ocr",
+  "install": "# git clone --depth 1 https://github.com/wbwbwb123/mcp-visoin-ocr\n# See source for mcpServers config block"
+}

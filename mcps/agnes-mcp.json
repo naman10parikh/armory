@@ -1,0 +1,7 @@
+{
+  "name": "agnes-mcp",
+  "description": "MCP server that exposes Agnes AI's text, image, video, and multimodal capabilities as tools with up to 1M context and 4K video.",
+  "source_repo": "nontracey/agnes-mcp",
+  "source_url": "https://github.com/nontracey/agnes-mcp",
+  "install": "npx -y agnes-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-mcp-server-2",
+  "description": "Manage Cloudflare resources such as Workers, KV, R2, D1, Durable Objects, and more using natural language via the Model Context Protocol.",
+  "source_repo": "AmokOrg/mcp-server-cloudflare-1",
+  "source_url": "https://github.com/AmokOrg/mcp-server-cloudflare-1",
+  "install": "# git clone --depth 1 https://github.com/AmokOrg/mcp-server-cloudflare-1\n# See source for mcpServers config block"
+}

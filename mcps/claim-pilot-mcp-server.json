@@ -1,0 +1,7 @@
+{
+  "name": "claim-pilot-mcp-server",
+  "description": "MCP server for insurance claim pilot tools, providing policy search, claim lookup, and fraud score calculation.",
+  "source_repo": "nucreaxion/claim-pilot-mcp-server",
+  "source_url": "https://github.com/nucreaxion/claim-pilot-mcp-server",
+  "install": "npx -y claim-pilot-mcp-server"
+}

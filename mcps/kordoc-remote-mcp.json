@@ -1,0 +1,7 @@
+{
+  "name": "kordoc-remote-mcp",
+  "description": "Streamable HTTP wrapper for kordoc, enabling ChatGPT to parse, generate, patch, fill forms, and validate Korean office document formats like HWP, HWPX, PDF, and more.",
+  "source_repo": "kimeuiseok1-stack/kordoc-remote-mcp",
+  "source_url": "https://github.com/kimeuiseok1-stack/kordoc-remote-mcp",
+  "install": "npx -y kordoc-remote-mcp"
+}

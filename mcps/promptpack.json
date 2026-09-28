@@ -1,0 +1,7 @@
+{
+  "name": "promptpack",
+  "description": "Enables AI agents to scan codebases for prioritized findings (TODO, FIXME, XXX) and retrieve results in table, JSON, or SARIF format via MCP.",
+  "source_repo": "cognis-digital/promptpack",
+  "source_url": "https://github.com/cognis-digital/promptpack",
+  "install": "# git clone --depth 1 https://github.com/cognis-digital/promptpack\n# See source for mcpServers config block"
+}

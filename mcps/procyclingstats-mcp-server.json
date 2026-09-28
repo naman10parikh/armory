@@ -1,0 +1,7 @@
+{
+  "name": "procyclingstats-mcp-server",
+  "description": "Provides professional cycling data from ProCyclingStats, enabling race discovery, stage results, rider profiles, startlists, and free-text search through MCP tools.",
+  "source_repo": "lewis-mcgillion/procyclingstats-mcp-server",
+  "source_url": "https://github.com/lewis-mcgillion/procyclingstats-mcp-server",
+  "install": "npx -y procyclingstats-mcp-server"
+}

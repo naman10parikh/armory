@@ -1,0 +1,7 @@
+{
+  "name": "dex-mcp-server",
+  "description": "Provides AI agents with comprehensive contact relationship management (CRM) capabilities through the Dex API, enabling management of contacts, notes, and reminders.",
+  "source_repo": "alpabon73/dex-mcp-server",
+  "source_url": "https://github.com/alpabon73/dex-mcp-server",
+  "install": "npx -y dex-mcp-server"
+}

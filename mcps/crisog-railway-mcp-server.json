@@ -1,0 +1,7 @@
+{
+  "name": "crisog-railway-mcp-server",
+  "description": "Unofficial MCP server for Railway that enables managing Railway infrastructure through natural language, including projects, services, deployments, environments, variables, templates, domains, volumes, observability, integrations, networking, and workflows.",
+  "source_repo": "crisog/railway-mcp-server",
+  "source_url": "https://github.com/crisog/railway-mcp-server",
+  "install": "npx -y railway-mcp-server"
+}

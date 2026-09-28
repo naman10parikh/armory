@@ -1,0 +1,7 @@
+{
+  "name": "devtime-mcp-server",
+  "description": "Local-first evidence-backed repository memory for coding agents, providing read-only tools to list concepts, explain them, get governed context packs, and verify claims against the codebase.",
+  "source_repo": "Shakargy/devtime",
+  "source_url": "https://github.com/Shakargy/devtime",
+  "install": "# git clone --depth 1 https://github.com/Shakargy/devtime\n# See source for mcpServers config block"
+}

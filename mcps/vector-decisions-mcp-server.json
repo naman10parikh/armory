@@ -1,0 +1,7 @@
+{
+  "name": "vector-decisions-mcp-server",
+  "description": "Provides AI governance and action-assurance primitives, enabling trust scoring, policy-based allow/deny decisions, risk assessment, EU AI Act compliance checks, and an emergency kill-switch for autonomous agents.",
+  "source_repo": "NikitaDatar/vectordecisions-mcp-server",
+  "source_url": "https://github.com/NikitaDatar/vectordecisions-mcp-server",
+  "install": "npx -y vectordecisions-mcp-server"
+}

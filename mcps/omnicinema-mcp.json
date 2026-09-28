@@ -1,0 +1,7 @@
+{
+  "name": "omnicinema-mcp",
+  "description": "Local MCP server that plans, generates, and assembles production assets (images, audio, video) through multi-agent personas and official APIs, with free-tier budget guard.",
+  "source_repo": "joeshwoa/omnicinema-mcp",
+  "source_url": "https://github.com/joeshwoa/omnicinema-mcp",
+  "install": "npx -y omnicinema-mcp"
+}

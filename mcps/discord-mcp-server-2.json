@@ -1,0 +1,7 @@
+{
+  "name": "discord-mcp-server-2",
+  "description": "Enables LLMs to read messages, discover channels, send messages, and monitor Discord communities using web scraping without requiring bot permissions or API tokens.",
+  "source_repo": "elyxlz/discord-mcp",
+  "source_url": "https://github.com/elyxlz/discord-mcp",
+  "install": "npx -y discord-mcp"
+}

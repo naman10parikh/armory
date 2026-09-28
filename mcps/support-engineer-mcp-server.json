@@ -1,0 +1,7 @@
+{
+  "name": "support-engineer-mcp-server",
+  "description": "A vendor-agnostic MCP server for technical support engineers, providing knowledge search, ticket analysis, and resolution suggestions.",
+  "source_repo": "tsabra76/support-engineer-mcp",
+  "source_url": "https://github.com/tsabra76/support-engineer-mcp",
+  "install": "npx -y support-engineer-mcp"
+}

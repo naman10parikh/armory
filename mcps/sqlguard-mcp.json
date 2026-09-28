@@ -1,0 +1,7 @@
+{
+  "name": "sqlguard-mcp",
+  "description": "Enforces safety and governance for SQL queries executed by AI agents, providing read-only enforcement, cost estimation, and audit trails.",
+  "source_repo": "Advaith789/ast-level-sql-mcp",
+  "source_url": "https://github.com/Advaith789/ast-level-sql-mcp",
+  "install": "npx -y ast-level-sql-mcp"
+}

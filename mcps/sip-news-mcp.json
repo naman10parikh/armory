@@ -1,0 +1,7 @@
+{
+  "name": "sip-news-mcp",
+  "description": "Enables AI assistants to search and read official news from the Luxembourg government press service (SIP) with tools for keyword search, semantic search, browsing latest news, and fetching full articles.",
+  "source_repo": "masterries/SIP-MCP-Connector",
+  "source_url": "https://github.com/masterries/SIP-MCP-Connector",
+  "install": "# git clone --depth 1 https://github.com/masterries/SIP-MCP-Connector\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "own-domain-mcp",
+  "description": "Provisions own-domain email for families using Cloudflare's API, enabling automatic setup of email routing, catch-all forwarding, and verified destinations.",
+  "source_repo": "nidamen/own-domain-mcp",
+  "source_url": "https://github.com/nidamen/own-domain-mcp",
+  "install": "npx -y own-domain-mcp"
+}

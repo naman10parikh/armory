@@ -1,0 +1,7 @@
+{
+  "name": "zo-mcp",
+  "description": "An internal MCP server for Zo Computers that bridges terminal agents with Zo's tool layer (files, shell, web, comms, apps) via stdio transport using the automatic identity token.",
+  "source_repo": "vihaanshahh/zo-mcp",
+  "source_url": "https://github.com/vihaanshahh/zo-mcp",
+  "install": "npx -y zo-mcp"
+}

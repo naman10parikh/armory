@@ -1,0 +1,7 @@
+{
+  "name": "trade-mcp",
+  "description": "An advanced MCP server for real-time worldwide stock market data, technical indicators, financials, news, and Python sandboxing with AI models, supporting US and Indian markets.",
+  "source_repo": "Techie03/trade-mcp",
+  "source_url": "https://github.com/Techie03/trade-mcp",
+  "install": "npx -y trade-mcp"
+}

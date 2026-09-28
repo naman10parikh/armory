@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bytesmith",
+  "description": "A pure-Python MCP server providing local byte-wrangling utilities including encoding, hashing, number conversion, and Ethereum primitives, with no network calls required.",
+  "source_repo": "laszlopere/mcp-bytesmith",
+  "source_url": "https://github.com/laszlopere/mcp-bytesmith",
+  "install": "# git clone --depth 1 https://github.com/laszlopere/mcp-bytesmith\n# See source for mcpServers config block"
+}

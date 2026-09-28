@@ -1,0 +1,7 @@
+{
+  "name": "clawriver",
+  "description": "AI Agent经验共享平台，通过MCP协议让AI代理搜索、分享和评价工作经验，避免从零开始解决问题。",
+  "source_repo": "Timluogit/clawriver",
+  "source_url": "https://github.com/Timluogit/clawriver",
+  "install": "# git clone --depth 1 https://github.com/Timluogit/clawriver\n# See source for mcpServers config block"
+}

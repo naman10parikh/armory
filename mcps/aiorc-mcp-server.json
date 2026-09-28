@@ -1,0 +1,7 @@
+{
+  "name": "aiorc-mcp-server",
+  "description": "Enables MCP-compatible LLM clients to execute server-verified agent workflows, with enforced transitions, invocation caps, and signed audit trails.",
+  "source_repo": "Dich01/aiorc",
+  "source_url": "https://github.com/Dich01/aiorc",
+  "install": "# git clone --depth 1 https://github.com/Dich01/aiorc\n# See source for mcpServers config block"
+}

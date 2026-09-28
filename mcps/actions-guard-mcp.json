@@ -1,0 +1,7 @@
+{
+  "name": "actions-guard-mcp",
+  "description": "Scans GitHub Actions workflow files for dangerous triggers, template injection, unpinned actions, excessive permissions, and secrets in shell commands before they are committed, exposing the checks as MCP tools for agents.",
+  "source_repo": "BerkantACUN/actions-guard-mcp",
+  "source_url": "https://github.com/BerkantACUN/actions-guard-mcp",
+  "install": "npx -y actions-guard-mcp"
+}

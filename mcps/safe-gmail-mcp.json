@@ -1,0 +1,7 @@
+{
+  "name": "safe-gmail-mcp",
+  "description": "A security-hardened Gmail MCP server for Claude Code that supports reading, labeling, archiving, and drafting emails, but cannot send or delete.",
+  "source_repo": "mbaselga/safe-gmail-mcp",
+  "source_url": "https://github.com/mbaselga/safe-gmail-mcp",
+  "install": "npx -y safe-gmail-mcp"
+}

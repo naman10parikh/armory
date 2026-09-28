@@ -1,0 +1,7 @@
+{
+  "name": "tv-mcp",
+  "description": "Enables AI assistants to interact with locally running TradingView Desktop for chart analysis, Pine Script development, and automation via Chrome DevTools Protocol.",
+  "source_repo": "ibrkl8tr/tv-mcp",
+  "source_url": "https://github.com/ibrkl8tr/tv-mcp",
+  "install": "npx -y tv-mcp"
+}

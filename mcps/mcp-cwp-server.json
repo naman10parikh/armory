@@ -1,0 +1,7 @@
+{
+  "name": "mcp-cwp-server",
+  "description": "Enables management of CentOS Web Panel hosting accounts, SSL certificates, FTP users, MySQL databases, and packages through natural language commands via the Model Context Protocol.",
+  "source_repo": "Descomplicar-Marketing-e-Tecnologia/mcp-cwp-server",
+  "source_url": "https://github.com/Descomplicar-Marketing-e-Tecnologia/mcp-cwp-server",
+  "install": "# git clone --depth 1 https://github.com/Descomplicar-Marketing-e-Tecnologia/mcp-cwp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aki",
+  "description": "Aki is a local stdio MCP server that gives AI coding assistants durable project memory, allowing them to remember decisions, search prior notes, and save context across sessions.",
+  "source_repo": "Akicoders/aki",
+  "source_url": "https://github.com/Akicoders/aki",
+  "install": "# git clone --depth 1 https://github.com/Akicoders/aki\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "altium-mcp-server",
+  "description": "Use Claude to control or ask questions about your Altium project.",
+  "source_repo": "rdacomp/altium-mcp",
+  "source_url": "https://github.com/rdacomp/altium-mcp",
+  "install": "npx -y altium-mcp"
+}

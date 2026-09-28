@@ -1,0 +1,7 @@
+{
+  "name": "gmat-mcp-server",
+  "description": "Enables AI agents to autonomously write, run, and debug NASA GMAT mission scripts, with tools for script execution, curated knowledge of common pitfalls, and semantic documentation search.",
+  "source_repo": "ginomoretta-creator/gmat-mcp-server",
+  "source_url": "https://github.com/ginomoretta-creator/gmat-mcp-server",
+  "install": "npx -y gmat-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "comfyops-mcp",
+  "description": "Wraps ComfyUI to generate images, video, and upscales from text prompts via MCP tools, providing a curated workflow interface without the node editor.",
+  "source_repo": "sandraschi/comfyops-mcp",
+  "source_url": "https://github.com/sandraschi/comfyops-mcp",
+  "install": "npx -y comfyops-mcp"
+}

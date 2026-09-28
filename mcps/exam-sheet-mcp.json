@@ -1,0 +1,7 @@
+{
+  "name": "exam-sheet-mcp",
+  "description": "Generates timed exams on any topic with an interactive exam sheet in MCP hosts; supports true/false, multiple-choice, and open questions with instant or model grading and a final report out of 100.",
+  "source_repo": "giuliobmb/exam-sheet-mcp",
+  "source_url": "https://github.com/giuliobmb/exam-sheet-mcp",
+  "install": "npx -y exam-sheet-mcp"
+}

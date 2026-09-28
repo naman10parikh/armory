@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trf5-processo",
+  "description": "MCP server for querying official court process data from TRF5 (Brazil's 5th Regional Federal Court) in read-only mode, with pay-per-use credit. Enables natural language consultation of tribunal processes via MCP-compatible clients.",
+  "source_repo": "mcp-dir/tribunal_trf5_processo-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trf5_processo-mcp",
+  "install": "npx -y tribunal_trf5_processo-mcp"
+}

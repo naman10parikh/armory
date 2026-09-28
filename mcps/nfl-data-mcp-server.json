@@ -1,0 +1,7 @@
+{
+  "name": "nfl-data-mcp-server",
+  "description": "Provides NFL player statistics from 2015-2024, enabling player lookups, comparisons, and position leaderboards via natural language.",
+  "source_repo": "smw355/NFL-Data-MCP",
+  "source_url": "https://github.com/smw355/NFL-Data-MCP",
+  "install": "npx -y NFL-Data-MCP"
+}

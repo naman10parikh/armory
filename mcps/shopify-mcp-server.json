@@ -1,6 +1,6 @@
 {
   "name": "shopify-mcp-server",
-  "description": "Shopify Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "sarayd/shopify-mcp-server",
   "source_url": "https://mcp.so/server/shopify-mcp-server/sarayd",
   "install": "npx -y shopify-mcp-server"

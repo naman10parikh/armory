@@ -1,0 +1,7 @@
+{
+  "name": "operbots-mcp",
+  "description": "MCP server for the operbots panel, enabling AI assistants to manage tasks, Telegram bots, flow scenarios, conversations, knowledge base, and AI connections with the user's permissions.",
+  "source_repo": "uk-kd/operbots-mcp",
+  "source_url": "https://github.com/uk-kd/operbots-mcp",
+  "install": "npx -y operbots-mcp"
+}

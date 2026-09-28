@@ -1,0 +1,7 @@
+{
+  "name": "milesight-gateway-mcp-server",
+  "description": "Enables managing applications, devices, profiles, multicast groups, and downlinks on a Milesight UG-series LoRaWAN gateway through natural language.",
+  "source_repo": "corgan2222/milesight-mcp",
+  "source_url": "https://github.com/corgan2222/milesight-mcp",
+  "install": "npx -y milesight-mcp"
+}

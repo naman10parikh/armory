@@ -1,0 +1,7 @@
+{
+  "name": "web-perf-mcp",
+  "description": "MCP server that audits web pages using Lighthouse and Puppeteer to find performance bottlenecks and generate CPU profiles for optimization.",
+  "source_repo": "vigneshshanmugam/web-perf-mcp",
+  "source_url": "https://github.com/vigneshshanmugam/web-perf-mcp",
+  "install": "npx -y web-perf-mcp"
+}

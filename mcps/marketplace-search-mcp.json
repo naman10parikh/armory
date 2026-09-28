@@ -1,0 +1,7 @@
+{
+  "name": "marketplace-search-mcp",
+  "description": "MCP server that searches Facebook Marketplace and Craigslist for items for sale, returning structured JSON listings with filtering, deduplication, and optional deep description checks.",
+  "source_repo": "Jacobobber/marketplace-search-mcp",
+  "source_url": "https://github.com/Jacobobber/marketplace-search-mcp",
+  "install": "npx -y marketplace-search-mcp"
+}

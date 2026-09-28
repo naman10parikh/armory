@@ -1,0 +1,7 @@
+{
+  "name": "ledgerkit-mcp",
+  "description": "Enables AI agents to interact with a double-entry ledger, offering tools for account management, balanced journal entries, balance queries, trial balance, and penny-perfect allocation. Built with safety by construction: no update/delete tools, idempotent posting, and an append-only journal.",
+  "source_repo": "themusashimaru/ledgerkit-mcp",
+  "source_url": "https://github.com/themusashimaru/ledgerkit-mcp",
+  "install": "npx -y ledgerkit-mcp"
+}

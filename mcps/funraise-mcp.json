@@ -1,0 +1,7 @@
+{
+  "name": "funraise-mcp",
+  "description": "Enables to interact with Funraise nonprofit fundraising platform, allowing read and write access to donor, donation, subscription, campaign site, household, and interaction data.",
+  "source_repo": "sanjibani/funraise-mcp",
+  "source_url": "https://github.com/sanjibani/funraise-mcp",
+  "install": "npx -y funraise-mcp"
+}

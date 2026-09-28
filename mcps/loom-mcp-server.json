@@ -1,0 +1,7 @@
+{
+  "name": "loom-mcp-server",
+  "description": "Exposes Iceberg-backed ontology objects, links, and actions as typed MCP tools for LLM agents, enabling governed data access and operations without raw SQL.",
+  "source_repo": "shinydrift/loom-ontology",
+  "source_url": "https://github.com/shinydrift/loom-ontology",
+  "install": "# git clone --depth 1 https://github.com/shinydrift/loom-ontology\n# See source for mcpServers config block"
+}

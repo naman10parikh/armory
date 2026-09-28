@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-architect-mcp-server",
+  "description": "Enables creating and managing UML diagrams in Sparx Systems Enterprise Architect via COM interface, supporting sequence, class, use case, and activity diagrams.",
+  "source_repo": "Gonzapepe/ea_mcp",
+  "source_url": "https://github.com/Gonzapepe/ea_mcp",
+  "install": "npx -y ea_mcp"
+}

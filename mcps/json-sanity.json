@@ -1,0 +1,7 @@
+{
+  "name": "json-sanity",
+  "description": "Deterministic JSON validation and repair for AI agents. Validates, repairs, schema-checks, and diffs JSON so long-running agents don't corrupt their session state with malformed writes.",
+  "source_repo": "peak-agent/json-sanity-public",
+  "source_url": "https://github.com/peak-agent/json-sanity-public",
+  "install": "# git clone --depth 1 https://github.com/peak-agent/json-sanity-public\n# See source for mcpServers config block"
+}

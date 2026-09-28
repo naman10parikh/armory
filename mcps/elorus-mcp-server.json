@@ -1,0 +1,7 @@
+{
+  "name": "elorus-mcp-server",
+  "description": "Read-only MCP server for the Elorus invoicing platform, enabling natural language queries about invoices, contacts, expenses, payments, and products.",
+  "source_repo": "nikagabriel741agent/Elorus-ERP-MCP-Server",
+  "source_url": "https://github.com/nikagabriel741agent/Elorus-ERP-MCP-Server",
+  "install": "npx -y Elorus-ERP-MCP-Server"
+}

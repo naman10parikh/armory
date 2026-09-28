@@ -1,0 +1,7 @@
+{
+  "name": "startup-name-generator-mcp",
+  "description": "Generates startup names with live .com availability checks and screens them against US and EU trademark registers.",
+  "source_repo": "startupnamegenerator/mcp",
+  "source_url": "https://github.com/startupnamegenerator/mcp",
+  "install": "# git clone --depth 1 https://github.com/startupnamegenerator/mcp\n# See source for mcpServers config block"
+}

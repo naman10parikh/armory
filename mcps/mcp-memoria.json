@@ -1,0 +1,7 @@
+{
+  "name": "mcp-memoria",
+  "description": "Shared project memory MCP server for storing and retrieving technical decisions, lessons learned, ADRs, and cross-links between projects.",
+  "source_repo": "rhpino/mcp-memoria",
+  "source_url": "https://github.com/rhpino/mcp-memoria",
+  "install": "# git clone --depth 1 https://github.com/rhpino/mcp-memoria\n# See source for mcpServers config block"
+}

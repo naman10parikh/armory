@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-mg-certid-o-negativa-de-d-bitos",
+  "description": "MCP server for consulting Minas Gerais state tax debt clearance certificates from the official SEFAZ MG source. Read-only, pay-per-use, works with any MCP client.",
+  "source_repo": "mcp-dir/sefaz_mg_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_mg_certidao_debitos-mcp",
+  "install": "npx -y sefaz_mg_certidao_debitos-mcp"
+}

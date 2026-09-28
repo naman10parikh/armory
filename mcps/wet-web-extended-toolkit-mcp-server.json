@@ -1,0 +1,7 @@
+{
+  "name": "wet-web-extended-toolkit-mcp-server",
+  "description": "Web search, content extraction, and library docs for AI agents with 5-strategy scraping and runs without API keys.",
+  "source_repo": "expandingideas-ai/mcp-wet",
+  "source_url": "https://github.com/expandingideas-ai/mcp-wet",
+  "install": "# git clone --depth 1 https://github.com/expandingideas-ai/mcp-wet\n# See source for mcpServers config block"
+}

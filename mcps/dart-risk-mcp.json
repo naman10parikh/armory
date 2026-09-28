@@ -1,0 +1,7 @@
+{
+  "name": "dart-risk-mcp",
+  "description": "Analyzes Korean DART (Financial Supervisory Service) public disclosures to detect unfair trading risk signals, enabling users to query and evaluate corporate risk through natural language.",
+  "source_repo": "anboyu-alt/dart-risk-mcp",
+  "source_url": "https://github.com/anboyu-alt/dart-risk-mcp",
+  "install": "npx -y dart-risk-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-jira-devflow",
+  "description": "A Scrum-aware MCP server that provides semantic analysis of Jira issues, sprint health, and Agile workflow intelligence, returning structured summaries and recommendations instead of raw Jira payloads.",
+  "source_repo": "Yoshikemolo/mcp-jira-devflow",
+  "source_url": "https://github.com/Yoshikemolo/mcp-jira-devflow",
+  "install": "# git clone --depth 1 https://github.com/Yoshikemolo/mcp-jira-devflow\n# See source for mcpServers config block"
+}

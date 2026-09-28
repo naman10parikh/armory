@@ -1,0 +1,7 @@
+{
+  "name": "mcp-airlock",
+  "description": "A zero-infrastructure, local proxy that wraps any stdio MCP server to add audit logging, policy enforcement with regex guards, and per-session/per-day budgets.",
+  "source_repo": "sigma5667/mcp-airlock",
+  "source_url": "https://github.com/sigma5667/mcp-airlock",
+  "install": "# git clone --depth 1 https://github.com/sigma5667/mcp-airlock\n# See source for mcpServers config block"
+}

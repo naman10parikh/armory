@@ -1,0 +1,7 @@
+{
+  "name": "postex-mcp-server",
+  "description": "Provides tools to interact with the PostEx Merchant API for order creation, tracking, and management.",
+  "source_repo": "faizan45640/PostEx-MCP-Server",
+  "source_url": "https://github.com/faizan45640/PostEx-MCP-Server",
+  "install": "npx -y PostEx-MCP-Server"
+}

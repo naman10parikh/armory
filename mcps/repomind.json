@@ -1,0 +1,7 @@
+{
+  "name": "repomind",
+  "description": "MCP server for codebase intelligence. Point it at any public GitHub repo to ask questions about code with cited answers, search code, files, symbols, and repo stats.",
+  "source_repo": "shashvat-singham/repomind",
+  "source_url": "https://github.com/shashvat-singham/repomind",
+  "install": "# git clone --depth 1 https://github.com/shashvat-singham/repomind\n# See source for mcpServers config block"
+}

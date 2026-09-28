@@ -1,0 +1,7 @@
+{
+  "name": "secureannex-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for analyzing browser extension security, providing tools for vulnerability detection, signature checking, code review, and security evaluation.",
+  "source_repo": "arsolutioner/secure-annex-mcp",
+  "source_url": "https://github.com/arsolutioner/secure-annex-mcp",
+  "install": "npx -y secure-annex-mcp"
+}

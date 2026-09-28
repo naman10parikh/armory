@@ -1,0 +1,7 @@
+{
+  "name": "fintools-mcp",
+  "description": "Personal finance calculators exposed as an MCP server with a Gradio UI, deployable to Hugging Face Spaces.",
+  "source_repo": "VaruTudor/fintools-mcp",
+  "source_url": "https://github.com/VaruTudor/fintools-mcp",
+  "install": "npx -y fintools-mcp"
+}

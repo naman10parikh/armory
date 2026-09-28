@@ -1,0 +1,7 @@
+{
+  "name": "librelink-up-b2b-cgm-cl-nica",
+  "description": "Enables clinical teams to list patients with active sharing and read glucose, graph, logbook, and statistics from LibreLink Up, with secure magic-link login and encrypted credentials.",
+  "source_repo": "mcp-dir/librelink_business-mcp",
+  "source_url": "https://github.com/mcp-dir/librelink_business-mcp",
+  "install": "npx -y librelink_business-mcp"
+}

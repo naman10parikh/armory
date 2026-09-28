@@ -1,0 +1,7 @@
+{
+  "name": "zvec-mcp",
+  "description": "Enables AI agents to store, search, and manage a local vector database for RAG knowledge retrieval and long-term memory, powered by zvec.",
+  "source_repo": "cluster2600/zvec-mcp",
+  "source_url": "https://github.com/cluster2600/zvec-mcp",
+  "install": "npx -y zvec-mcp"
+}

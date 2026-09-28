@@ -1,0 +1,7 @@
+{
+  "name": "yunaki-memory-mcp",
+  "description": "A git-backed per-repo memory layer for Claude Code, enabling persistent, version-controlled storage and retrieval of memories to build a self-evolving skill.",
+  "source_repo": "Nanda-Kiran/yunaki-memory-mcp",
+  "source_url": "https://github.com/Nanda-Kiran/yunaki-memory-mcp",
+  "install": "npx -y yunaki-memory-mcp"
+}

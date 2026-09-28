@@ -1,0 +1,7 @@
+{
+  "name": "reed-mcp",
+  "description": "A local stdio MCP server wrapping the Reed.co.uk Jobseeker API, enabling job search with short descriptions and retrieval of full job details for UK job listings.",
+  "source_repo": "soheilfallah/reed-mcp",
+  "source_url": "https://github.com/soheilfallah/reed-mcp",
+  "install": "npx -y reed-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tollbooth-authority",
+  "description": "The Tollbooth Authority MCP server registers Lightning payment operators, collects certification fees, and issues Schnorr-signed Nostr certificates to certify toll booth operators in the Tollbooth ecosystem.",
+  "source_repo": "lonniev/tollbooth-authority",
+  "source_url": "https://github.com/lonniev/tollbooth-authority",
+  "install": "# git clone --depth 1 https://github.com/lonniev/tollbooth-authority\n# See source for mcpServers config block"
+}

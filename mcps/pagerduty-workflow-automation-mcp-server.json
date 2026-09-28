@@ -1,0 +1,7 @@
+{
+  "name": "pagerduty-workflow-automation-mcp-server",
+  "description": "Connects Claude to PagerDuty Workflow Automation (formerly Catalytic), enabling discovery of workflows, triggering runs with inputs, and monitoring or aborting running instances.",
+  "source_repo": "mattlinebarger/pagerduty-wfa-mcp-server",
+  "source_url": "https://github.com/mattlinebarger/pagerduty-wfa-mcp-server",
+  "install": "npx -y pagerduty-wfa-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "container-host-aiops",
+  "description": "Governed Docker + Portainer container-host operations (non-Kubernetes) — restart-loop, resource-pressure, and image/volume-bloat RCA, with guarded lifecycle writes, unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.",
+  "source_repo": "AIops-tools/Container-Host-AIops",
+  "source_url": "https://github.com/AIops-tools/Container-Host-AIops",
+  "install": "# git clone --depth 1 https://github.com/AIops-tools/Container-Host-AIops\n# See source for mcpServers config block"
+}

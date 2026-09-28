@@ -1,0 +1,7 @@
+{
+  "name": "seosiri-semantic-entity-mcp",
+  "description": "Provides tools for named entity extraction, Wikidata disambiguation, sameAs schema linking, and knowledge graph triple construction, enabling structured semantic data processing.",
+  "source_repo": "SEOSiri-Official/semantic-entity-mcp",
+  "source_url": "https://github.com/SEOSiri-Official/semantic-entity-mcp",
+  "install": "npx -y semantic-entity-mcp"
+}

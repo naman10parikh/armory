@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arabic-ms-word",
+  "description": "MCP server for advanced Arabic Microsoft Word document creation, formatting, XML manipulation, and text repair with full RTL support. It enables users to generate, inspect, and modify .docx files through natural language and 13 specialized tools.",
+  "source_repo": "MarwanDevSpace/mcp-arabic-ms-word",
+  "source_url": "https://github.com/MarwanDevSpace/mcp-arabic-ms-word",
+  "install": "# git clone --depth 1 https://github.com/MarwanDevSpace/mcp-arabic-ms-word\n# See source for mcpServers config block"
+}

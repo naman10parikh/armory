@@ -1,0 +1,7 @@
+{
+  "name": "agent-vitals",
+  "description": "Local-first observability for AI agent stacks. Provides MCP tools for agents to check health, shadow configs, and burnout metrics proactively.",
+  "source_repo": "anirudhprashant/agent-vitals",
+  "source_url": "https://github.com/anirudhprashant/agent-vitals",
+  "install": "# git clone --depth 1 https://github.com/anirudhprashant/agent-vitals\n# See source for mcpServers config block"
+}

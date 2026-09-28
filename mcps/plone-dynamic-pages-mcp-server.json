@@ -1,0 +1,7 @@
+{
+  "name": "plone-dynamic-pages-mcp-server",
+  "description": "Enables LLMs to manage Plone sites with dynamic page layouts, supporting CRUD operations on content and layout components via the cs_dynamicpages architecture.",
+  "source_repo": "codesyntax/cs-dynamicpages-mcp",
+  "source_url": "https://github.com/codesyntax/cs-dynamicpages-mcp",
+  "install": "npx -y cs-dynamicpages-mcp"
+}

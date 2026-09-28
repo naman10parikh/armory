@@ -1,0 +1,7 @@
+{
+  "name": "powerbi-health-mcp",
+  "description": "An AI-powered Power BI dataset health monitor that connects Claude to a simulated Power BI tenant for running health checks, diagnosing failures, and prioritizing fixes.",
+  "source_repo": "ramalakshmi0505/powerbi-health-mcp",
+  "source_url": "https://github.com/ramalakshmi0505/powerbi-health-mcp",
+  "install": "npx -y powerbi-health-mcp"
+}

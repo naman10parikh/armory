@@ -1,0 +1,7 @@
+{
+  "name": "external-ai-ecosystem-gateway",
+  "description": "Enables MCP-compatible assistants to securely access external systems like Slack through permission-scoped, idempotent tools with tenant isolation, delegated OAuth consent, and an immutable audit trail.",
+  "source_repo": "navadiashrey/external-ai-ecosystem-gateway",
+  "source_url": "https://github.com/navadiashrey/external-ai-ecosystem-gateway",
+  "install": "# git clone --depth 1 https://github.com/navadiashrey/external-ai-ecosystem-gateway\n# See source for mcpServers config block"
+}

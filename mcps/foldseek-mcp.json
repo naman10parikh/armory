@@ -1,0 +1,7 @@
+{
+  "name": "foldseek-mcp",
+  "description": "Enables protein structure and sequence searches using FoldSeek, with support for multiple databases, automatic model downloads, and structured job management.",
+  "source_repo": "AltriaPendragon49/foldseek-mcp",
+  "source_url": "https://github.com/AltriaPendragon49/foldseek-mcp",
+  "install": "npx -y foldseek-mcp"
+}

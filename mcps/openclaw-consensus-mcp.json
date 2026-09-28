@@ -1,0 +1,7 @@
+{
+  "name": "openclaw-consensus-mcp",
+  "description": "Multi-model consensus inside MCP clients: compare answers, surface disagreement, and escalate only when needed. It wraps the OpenClaw Consensus API as three MCP tools for consensus, disagreement scoring, and cheapest route selection.",
+  "source_repo": "MICONNM/openclaw-consensus-mcp",
+  "source_url": "https://github.com/MICONNM/openclaw-consensus-mcp",
+  "install": "npx -y openclaw-consensus-mcp"
+}

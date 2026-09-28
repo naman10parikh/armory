@@ -1,0 +1,7 @@
+{
+  "name": "claude-colab",
+  "description": "Enables Claude Code to execute shell commands, Python code, and file transfers on a Google Colab T4 GPU via an MCP server, bridging the GPU gap for AI coding agents.",
+  "source_repo": "LakshmiSravyaVedantham/claude-colab",
+  "source_url": "https://github.com/LakshmiSravyaVedantham/claude-colab",
+  "install": "# git clone --depth 1 https://github.com/LakshmiSravyaVedantham/claude-colab\n# See source for mcpServers config block"
+}

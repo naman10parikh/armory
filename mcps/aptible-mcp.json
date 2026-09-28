@@ -1,0 +1,7 @@
+{
+  "name": "aptible-mcp",
+  "description": "Enables interaction with the Aptible API for managing Aptible resources such as accounts, apps, and databases through natural language.",
+  "source_repo": "aptible/aptible-mcp",
+  "source_url": "https://github.com/aptible/aptible-mcp",
+  "install": "npx -y aptible-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mt5-multi-account-mcp",
+  "description": "Enables read and execution access to multiple MetaTrader 5 accounts, allowing an AI assistant to manage positions, P&L, prices, indicators, history, logs, and trades across accounts.",
+  "source_repo": "therichkidcl-spec/mcp-mt5",
+  "source_url": "https://github.com/therichkidcl-spec/mcp-mt5",
+  "install": "# git clone --depth 1 https://github.com/therichkidcl-spec/mcp-mt5\n# See source for mcpServers config block"
+}

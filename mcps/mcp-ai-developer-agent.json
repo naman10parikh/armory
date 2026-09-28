@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ai-developer-agent",
+  "description": "An AI-powered developer assistant MCP server that provides filesystem tools (list_files, read_file, search_files, write_file) to help AI agents inspect, analyze, and modify real codebases via the Model Context Protocol.",
+  "source_repo": "bhavya681/mcp-dev-agent",
+  "source_url": "https://github.com/bhavya681/mcp-dev-agent",
+  "install": "# git clone --depth 1 https://github.com/bhavya681/mcp-dev-agent\n# See source for mcpServers config block"
+}

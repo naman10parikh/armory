@@ -1,0 +1,7 @@
+{
+  "name": "kondukt",
+  "description": "A developer toolkit for MCP servers that enables testing, validation, debugging, and scaffolding, and can be used as an MCP server for AI agents.",
+  "source_repo": "kondukt-dev/core",
+  "source_url": "https://github.com/kondukt-dev/core",
+  "install": "# git clone --depth 1 https://github.com/kondukt-dev/core\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mnemo",
+  "description": "A persistent, local memory layer for AI coding agents that remembers decisions, bugs, and rules across sessions with three core MCP verbs (recall, remember, search).",
+  "source_repo": "arttttt/mnemo",
+  "source_url": "https://github.com/arttttt/mnemo",
+  "install": "# git clone --depth 1 https://github.com/arttttt/mnemo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "idb-mcp",
+  "description": "MCP server to control iOS simulators for automation, enabling device management, input control, and screen capture via Facebook IDB.",
+  "source_repo": "askui/idb-mcp",
+  "source_url": "https://github.com/askui/idb-mcp",
+  "install": "npx -y idb-mcp"
+}

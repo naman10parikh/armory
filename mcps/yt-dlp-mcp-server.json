@@ -1,0 +1,7 @@
+{
+  "name": "yt-dlp-mcp-server",
+  "description": "Enables AI agents to inspect, plan, download, and postprocess media from YouTube and other sites using yt-dlp, with safety and full option support.",
+  "source_repo": "antonio-orionus/yt-dlp-mcp-server",
+  "source_url": "https://github.com/antonio-orionus/yt-dlp-mcp-server",
+  "install": "npx -y yt-dlp-mcp-server"
+}

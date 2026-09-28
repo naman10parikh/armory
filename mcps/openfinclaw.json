@@ -1,0 +1,7 @@
+{
+  "name": "openfinclaw",
+  "description": "Enables quant research, strategy development, backtesting, and paper trading through natural language prompts, integrated with 20+ AI agents.",
+  "source_repo": "wikidjon/ai-openclaw-cli",
+  "source_url": "https://github.com/wikidjon/ai-openclaw-cli",
+  "install": "# git clone --depth 1 https://github.com/wikidjon/ai-openclaw-cli\n# See source for mcpServers config block"
+}

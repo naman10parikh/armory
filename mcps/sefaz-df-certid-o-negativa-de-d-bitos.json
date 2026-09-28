@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-df-certid-o-negativa-de-d-bitos",
+  "description": "Enables AI agents to consult SEFAZ DF official negative debt certificates (Certidão Negativa de Débitos) through a single read-only MCP tool, with prepaid usage and no platform credentials.",
+  "source_repo": "mcp-dir/sefaz_df_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_df_certidao_debitos-mcp",
+  "install": "npx -y sefaz_df_certidao_debitos-mcp"
+}

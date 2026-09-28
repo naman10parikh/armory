@@ -1,0 +1,7 @@
+{
+  "name": "agentic-hec-ras",
+  "description": "MCP server that enables natural-language-driven, headless HEC-RAS modeling, letting agents inspect, edit, run, compare, and plot 1D/2D hydraulic models without the GUI.",
+  "source_repo": "Zhonghao1995/Agentic-HEC-RAS",
+  "source_url": "https://github.com/Zhonghao1995/Agentic-HEC-RAS",
+  "install": "# git clone --depth 1 https://github.com/Zhonghao1995/Agentic-HEC-RAS\n# See source for mcpServers config block"
+}

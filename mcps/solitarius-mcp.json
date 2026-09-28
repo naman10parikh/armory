@@ -1,0 +1,7 @@
+{
+  "name": "solitarius-mcp",
+  "description": "MCP server exposing REINVENT4 generative molecular-design operations as validated, LLM-callable tools for drug discovery, including sampling, transfer learning, reinforcement learning, and molecular analysis.",
+  "source_repo": "pregHosh/Solitarius-mcp",
+  "source_url": "https://github.com/pregHosh/Solitarius-mcp",
+  "install": "npx -y Solitarius-mcp"
+}

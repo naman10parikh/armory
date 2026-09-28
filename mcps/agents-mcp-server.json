@@ -1,0 +1,7 @@
+{
+  "name": "agents-mcp-server",
+  "description": "MCP server for agent-to-agent communication over NATS with live session push via Claude Code Channels.",
+  "source_repo": "Piotr1215/agents-mcp-server",
+  "source_url": "https://github.com/Piotr1215/agents-mcp-server",
+  "install": "npx -y agents-mcp-server"
+}

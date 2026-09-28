@@ -1,0 +1,7 @@
+{
+  "name": "haiec-ai-agent-security-free-mcp",
+  "description": "Offers a control surface for AI agent security with four independent checks: source-code scanning, tenant isolation, LLM content verification, and deploy gating. Currently in pre-release, with no functional scanning engines yet.",
+  "source_repo": "subodhkc/haiec-ai-agent-security-free-mcp",
+  "source_url": "https://github.com/subodhkc/haiec-ai-agent-security-free-mcp",
+  "install": "npx -y haiec-ai-agent-security-free-mcp"
+}

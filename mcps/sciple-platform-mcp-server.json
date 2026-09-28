@@ -1,0 +1,7 @@
+{
+  "name": "sciple-platform-mcp-server",
+  "description": "Enables AI assistants to manage Sciple platform content including environments, services, dashboards, runbooks, projects, and tickets through the Sciple REST API.",
+  "source_repo": "sciple-idp/sciple-mcp",
+  "source_url": "https://github.com/sciple-idp/sciple-mcp",
+  "install": "npx -y sciple-mcp"
+}

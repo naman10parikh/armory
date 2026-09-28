@@ -1,0 +1,7 @@
+{
+  "name": "spectra-mcp",
+  "description": "An MCP server that provides LLMs with a fingerprint-randomized Firefox browser for web browsing, clicking, typing, and taking screenshots, using invisible_playwright.",
+  "source_repo": "LowOrbitLab/spectra-mcp",
+  "source_url": "https://github.com/LowOrbitLab/spectra-mcp",
+  "install": "npx -y spectra-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nodeland-mcp",
+  "description": "MCP server that lets agents create and update persistent concept maps via the NodeLand API, returning shareable URLs for humans to view, embed, and keep editing.",
+  "source_repo": "nodeland-io/nodeland-mcp",
+  "source_url": "https://github.com/nodeland-io/nodeland-mcp",
+  "install": "npx -y nodeland-mcp"
+}

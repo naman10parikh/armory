@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-mt-primeiro-emplacamento",
+  "description": "Consulta em fonte oficial da SEFAZ MT para primeiro emplacamento, com ferramenta de leitura que funciona em qualquer cliente MCP via HTTP. Requer créditos pré-pagos, sem credenciais da plataforma.",
+  "source_repo": "mcp-dir/sefaz_mt_primeiro_emplacamento-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_mt_primeiro_emplacamento-mcp",
+  "install": "npx -y sefaz_mt_primeiro_emplacamento-mcp"
+}

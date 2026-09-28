@@ -1,0 +1,7 @@
+{
+  "name": "icloud-notes-connector",
+  "description": "Enables Claude Desktop to search, read, list, create, update, move, and delete notes from iCloud Notes on macOS.",
+  "source_repo": "tdavis10002/icloud-notes-connector",
+  "source_url": "https://github.com/tdavis10002/icloud-notes-connector",
+  "install": "# git clone --depth 1 https://github.com/tdavis10002/icloud-notes-connector\n# See source for mcpServers config block"
+}

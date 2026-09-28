@@ -1,0 +1,7 @@
+{
+  "name": "google-play-store-mcp-server",
+  "description": "Enables AI agents to automate Android release workflows via the Google Play Android Publisher API, including deploying builds, managing listings, and replying to reviews.",
+  "source_repo": "appeeky/google-play-store-cli",
+  "source_url": "https://github.com/appeeky/google-play-store-cli",
+  "install": "# git clone --depth 1 https://github.com/appeeky/google-play-store-cli\n# See source for mcpServers config block"
+}

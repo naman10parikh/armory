@@ -1,0 +1,7 @@
+{
+  "name": "ai-economics-mcp",
+  "description": "MCP server for AI economics, providing 12 calculators for AI budgets, token costs, query burn, and proving agent work.",
+  "source_repo": "pich/ai-economics-mcp",
+  "source_url": "https://github.com/pich/ai-economics-mcp",
+  "install": "npx -y ai-economics-mcp"
+}

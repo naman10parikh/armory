@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-iqiyi",
+  "description": "MCP server for accessing iQiyi API to fetch new releases and trending videos.",
+  "source_repo": "ZHANGYA0/mcp-server-iqiyi",
+  "source_url": "https://github.com/ZHANGYA0/mcp-server-iqiyi",
+  "install": "# git clone --depth 1 https://github.com/ZHANGYA0/mcp-server-iqiyi\n# See source for mcpServers config block"
+}

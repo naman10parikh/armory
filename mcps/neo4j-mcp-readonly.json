@@ -1,0 +1,7 @@
+{
+  "name": "neo4j-mcp-readonly",
+  "description": "Enables read-only access to Neo4j databases via the Model Context Protocol, allowing safe Cypher queries, schema exploration, and database statistics.",
+  "source_repo": "ThisIsVoid/neo4j-mcp-readonly",
+  "source_url": "https://github.com/ThisIsVoid/neo4j-mcp-readonly",
+  "install": "# git clone --depth 1 https://github.com/ThisIsVoid/neo4j-mcp-readonly\n# See source for mcpServers config block"
+}

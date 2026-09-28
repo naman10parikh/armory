@@ -1,0 +1,7 @@
+{
+  "name": "codebase-intelligence-mcp-server-2",
+  "description": "A production-grade MCP server for local git repositories that provides tools for code search, git history analysis, complexity metrics, test discovery, and dependency management.",
+  "source_repo": "atishay2411/codebase-analyzer-mcp-server",
+  "source_url": "https://github.com/atishay2411/codebase-analyzer-mcp-server",
+  "install": "npx -y codebase-analyzer-mcp-server"
+}

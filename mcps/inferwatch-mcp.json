@@ -1,0 +1,7 @@
+{
+  "name": "inferwatch-mcp",
+  "description": "Enables agents to query real-time and historical metrics for locally served Ollama and vLLM instances, including request rates, latency, token counts, and GPU utilization, over stdio.",
+  "source_repo": "floatsmyboat/inferwatch",
+  "source_url": "https://github.com/floatsmyboat/inferwatch",
+  "install": "# git clone --depth 1 https://github.com/floatsmyboat/inferwatch\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gbdocs-mcp",
+  "description": "An MCP server that turns the Game Boy Pan Docs into precise, citable lookups for registers, opcodes, memory, cartridges, and CPU behavior, enabling decompilation work.",
+  "source_repo": "Nighthawk42/gbdocs-mcp",
+  "source_url": "https://github.com/Nighthawk42/gbdocs-mcp",
+  "install": "npx -y gbdocs-mcp"
+}

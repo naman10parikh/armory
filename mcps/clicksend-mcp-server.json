@@ -1,0 +1,7 @@
+{
+  "name": "clicksend-mcp-server",
+  "description": "Enables AI assistants to send SMS and manage messaging workflows through ClickSend, including pricing estimates, contact lists, templates, history, and statistics.",
+  "source_repo": "ClickSend/clicksend-mcp-server",
+  "source_url": "https://github.com/ClickSend/clicksend-mcp-server",
+  "install": "npx -y clicksend-mcp-server"
+}

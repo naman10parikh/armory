@@ -1,0 +1,7 @@
+{
+  "name": "nc-mcp-server",
+  "description": "An MCP server that exposes Nextcloud APIs as tools for AI assistants, enabling management of files, calendar, contacts, conversations, and more.",
+  "source_repo": "cloud-py-api/nc_mcp_server",
+  "source_url": "https://github.com/cloud-py-api/nc_mcp_server",
+  "install": "npx -y nc_mcp_server"
+}

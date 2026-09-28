@@ -1,0 +1,7 @@
+{
+  "name": "kjadeja-open-featurebase-mcp",
+  "description": "MCP server for reading public Featurebase feedback boards, enabling agents to query user feedback, posts, comments, and statistics.",
+  "source_repo": "K-Jadeja/open-featurebase-mcp",
+  "source_url": "https://github.com/K-Jadeja/open-featurebase-mcp",
+  "install": "npx -y open-featurebase-mcp"
+}

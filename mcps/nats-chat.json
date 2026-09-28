@@ -1,0 +1,7 @@
+{
+  "name": "nats-chat",
+  "description": "An MCP server for inter-session communication between Claude Code instances using NATS JetStream, enabling room-based messaging, direct agent communication, and presence tracking.",
+  "source_repo": "memblin/nats-chat-mcp",
+  "source_url": "https://github.com/memblin/nats-chat-mcp",
+  "install": "npx -y nats-chat-mcp"
+}

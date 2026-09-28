@@ -1,0 +1,7 @@
+{
+  "name": "starlight-mcp",
+  "description": "MCP server for Astro/Starlight docs sites, providing search, get, and list tools for documentation content.",
+  "source_repo": "bkspace/starlight-mcp",
+  "source_url": "https://github.com/bkspace/starlight-mcp",
+  "install": "npx -y starlight-mcp"
+}

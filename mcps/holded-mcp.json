@@ -1,0 +1,7 @@
+{
+  "name": "holded-mcp",
+  "description": "MCP server for Holded invoicing and treasury management, enabling creation and management of invoices, purchases, estimates, contacts, bank accounts, and cashflow forecasts.",
+  "source_repo": "YerayRodri/holded-mcp",
+  "source_url": "https://github.com/YerayRodri/holded-mcp",
+  "install": "npx -y holded-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "duckduckgo-browser-mcp-server",
+  "description": "Enables real-time internet searches via DuckDuckGo Lite with automatic retry, smart caching, and category detection for reliable results.",
+  "source_repo": "sourav-spd/duckduckgo-mcp",
+  "source_url": "https://github.com/sourav-spd/duckduckgo-mcp",
+  "install": "npx -y duckduckgo-mcp"
+}

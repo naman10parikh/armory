@@ -1,0 +1,7 @@
+{
+  "name": "hy-app-mcp",
+  "description": "MCP server for the hy-app component library, enabling AI editors to search components, retrieve APIs and examples, check platform support, access hooks and tools, and validate component usage.",
+  "source_repo": "hy-uniapp/hy-app-mcp",
+  "source_url": "https://github.com/hy-uniapp/hy-app-mcp",
+  "install": "npx -y hy-app-mcp"
+}

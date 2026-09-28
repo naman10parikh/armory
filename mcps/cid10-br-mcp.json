@@ -1,0 +1,7 @@
+{
+  "name": "cid10-br-mcp",
+  "description": "MCP server for Brazilian ICD-10 (CID-10) that enables search, lookup, hierarchy navigation, statistics, and validation of disease codes from official DATASUS data.",
+  "source_repo": "SidneyBissoli/cid10-br-mcp",
+  "source_url": "https://github.com/SidneyBissoli/cid10-br-mcp",
+  "install": "npx -y cid10-br-mcp"
+}

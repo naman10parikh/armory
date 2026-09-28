@@ -1,0 +1,7 @@
+{
+  "name": "pirate-borg-mcp",
+  "description": "An MCP server for generating Pirate Borg NPCs with procedurally rolled stats, allowing LLMs to create stat-accurate characters using the rulebook's tables.",
+  "source_repo": "samhooker/pirate-borg-mcp",
+  "source_url": "https://github.com/samhooker/pirate-borg-mcp",
+  "install": "npx -y pirate-borg-mcp"
+}

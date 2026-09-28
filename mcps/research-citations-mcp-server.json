@@ -1,0 +1,7 @@
+{
+  "name": "research-citations-mcp-server",
+  "description": "An MCP server for searching and citing research papers using RAG, enabling semantic search, citation finding, and question answering over a collection of PDF papers.",
+  "source_repo": "SebastianBoehler/citations-mcp",
+  "source_url": "https://github.com/SebastianBoehler/citations-mcp",
+  "install": "npx -y citations-mcp"
+}

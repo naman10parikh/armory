@@ -1,0 +1,7 @@
+{
+  "name": "gumroad-mcp",
+  "description": "A read-only MCP server for Gumroad stores that exposes tools to list products, paginate sales, and summarize revenue, with privacy-preserving buyer domain details and net-of-refund calculations.",
+  "source_repo": "stcmain/gumroad-mcp",
+  "source_url": "https://github.com/stcmain/gumroad-mcp",
+  "install": "npx -y gumroad-mcp"
+}

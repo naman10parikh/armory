@@ -1,0 +1,7 @@
+{
+  "name": "pubmed",
+  "description": "Search biomedical literature across 36 million citations. Find papers, abstracts, and related articles from MEDLINE and life science journals.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/pubmed",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/pubmed\n# See source for mcpServers config block"
+}

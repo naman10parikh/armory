@@ -1,0 +1,7 @@
+{
+  "name": "mhdd-24-flyway-mcp",
+  "description": "MCP server that runs Flyway repair + migrate across multiple database projects for QA or Development environments.",
+  "source_repo": "Mhdd-24/Flyway-MCP",
+  "source_url": "https://github.com/Mhdd-24/Flyway-MCP",
+  "install": "npx -y Flyway-MCP"
+}

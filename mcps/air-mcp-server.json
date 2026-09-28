@@ -1,0 +1,7 @@
+{
+  "name": "air-mcp-server",
+  "description": "MCP server for booking and date-utility tools, deployed on AWS Lambda, supporting DynamoDB storage and optional WhatsApp notifications.",
+  "source_repo": "eleva/air-stefauto-mcp",
+  "source_url": "https://github.com/eleva/air-stefauto-mcp",
+  "install": "npx -y air-stefauto-mcp"
+}

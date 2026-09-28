@@ -1,0 +1,7 @@
+{
+  "name": "mcp-intro",
+  "description": "A demo MCP server that connects an AI to external systems by exposing Python functions as tools and data as resources, using the stdio transport.",
+  "source_repo": "Hugol4ka/mcp-intro",
+  "source_url": "https://github.com/Hugol4ka/mcp-intro",
+  "install": "# git clone --depth 1 https://github.com/Hugol4ka/mcp-intro\n# See source for mcpServers config block"
+}

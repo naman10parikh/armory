@@ -1,0 +1,7 @@
+{
+  "name": "ideahub-mcp",
+  "description": "An MCP server for capturing and recalling ideas, designed for both agents and humans. It provides tools for durable ideas, checkpoints, search, and deduplication.",
+  "source_repo": "CobraChickenAI/ideahub_mcp",
+  "source_url": "https://github.com/CobraChickenAI/ideahub_mcp",
+  "install": "npx -y ideahub_mcp"
+}

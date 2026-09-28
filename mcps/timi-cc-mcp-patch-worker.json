@@ -1,0 +1,7 @@
+{
+  "name": "timi-cc-mcp-patch-worker",
+  "description": "Generates or reviews code patches via TIMI CC's API, returning validated Git unified diffs restricted to allowed paths.",
+  "source_repo": "prelearn-code/timicc-mcp",
+  "source_url": "https://github.com/prelearn-code/timicc-mcp",
+  "install": "npx -y timicc-mcp"
+}

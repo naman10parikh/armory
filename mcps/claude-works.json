@@ -1,0 +1,7 @@
+{
+  "name": "claude-works",
+  "description": "An MCP server that exposes a perpetual, honest job-application pipeline as typed tools an LLM agent can call, with fit scoring, verified resume building, and a submission planner enforced by code, not prompts.",
+  "source_repo": "andrewaws26/claude-works",
+  "source_url": "https://github.com/andrewaws26/claude-works",
+  "install": "# git clone --depth 1 https://github.com/andrewaws26/claude-works\n# See source for mcpServers config block"
+}

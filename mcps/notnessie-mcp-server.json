@@ -1,0 +1,7 @@
+{
+  "name": "notnessie-mcp-server",
+  "description": "Enables Claude Code to persist and retrieve project memory across sessions, including decisions, constraints, verified commands, and context packs, via nine MCP tools.",
+  "source_repo": "GreXLin85/notnessie",
+  "source_url": "https://github.com/GreXLin85/notnessie",
+  "install": "# git clone --depth 1 https://github.com/GreXLin85/notnessie\n# See source for mcpServers config block"
+}

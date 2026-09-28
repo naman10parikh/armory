@@ -1,0 +1,7 @@
+{
+  "name": "rigol-dho-mcp",
+  "description": "MCP server for controlling and reading Rigol DHO800/DHO900 oscilloscopes over LAN via SCPI commands.",
+  "source_repo": "mattjax16/rigol-dho-mcp",
+  "source_url": "https://github.com/mattjax16/rigol-dho-mcp",
+  "install": "npx -y rigol-dho-mcp"
+}

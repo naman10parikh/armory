@@ -1,0 +1,7 @@
+{
+  "name": "researcher-ai",
+  "description": "Enables AI-assisted scientific research workflow management through MCP, including project creation, ideation, experiment execution, and artifact handling, with integration for ChatGPT, Codex, and Claude Code.",
+  "source_repo": "samsamurai301/Researcher-AI",
+  "source_url": "https://github.com/samsamurai301/Researcher-AI",
+  "install": "# git clone --depth 1 https://github.com/samsamurai301/Researcher-AI\n# See source for mcpServers config block"
+}

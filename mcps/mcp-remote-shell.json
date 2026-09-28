@@ -1,0 +1,7 @@
+{
+  "name": "mcp-remote-shell",
+  "description": "Enables remote shell control of Linux and network devices via SSH/Telnet, with session management and file transfer capabilities.",
+  "source_repo": "oceanromain/remote-shell-mcp",
+  "source_url": "https://github.com/oceanromain/remote-shell-mcp",
+  "install": "npx -y remote-shell-mcp"
+}

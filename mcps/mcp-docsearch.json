@@ -1,0 +1,7 @@
+{
+  "name": "mcp-docsearch",
+  "description": "Semantic search over any markdown corpus using local embeddings. Provides tools to search, reindex, and get index stats, with results including file paths, line numbers, and header breadcrumbs.",
+  "source_repo": "MrMattMunro/mcp-docsearch",
+  "source_url": "https://github.com/MrMattMunro/mcp-docsearch",
+  "install": "# git clone --depth 1 https://github.com/MrMattMunro/mcp-docsearch\n# See source for mcpServers config block"
+}

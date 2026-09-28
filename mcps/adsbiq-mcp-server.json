@@ -1,0 +1,7 @@
+{
+  "name": "adsbiq-mcp-server",
+  "description": "Official bounded, read-only access to live community-powered aircraft positions and aggregate ADSBiq network statistics.",
+  "source_repo": "Sky-Power-Services/adsbiq-mcp-server",
+  "source_url": "https://github.com/Sky-Power-Services/adsbiq-mcp-server",
+  "install": "npx -y adsbiq-mcp-server"
+}

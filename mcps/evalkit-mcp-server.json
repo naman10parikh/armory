@@ -1,0 +1,7 @@
+{
+  "name": "evalkit-mcp-server",
+  "description": "Enables testing AI safety classifier robustness against query decomposition, obfuscation, and multi-agent attacks. Provides tools for full evaluation pipelines, query previews, and status checks.",
+  "source_repo": "tr4m0ryp/fable-5-jailbreak",
+  "source_url": "https://github.com/tr4m0ryp/fable-5-jailbreak",
+  "install": "# git clone --depth 1 https://github.com/tr4m0ryp/fable-5-jailbreak\n# See source for mcpServers config block"
+}

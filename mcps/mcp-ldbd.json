@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ldbd",
+  "description": "MCP server for LDBD that enables submitting up/down predictions on stocks, ETFs, and crypto to a public leaderboard, alongside querying stats and community sentiment.",
+  "source_repo": "kkjh0723/mcp-ldbd",
+  "source_url": "https://github.com/kkjh0723/mcp-ldbd",
+  "install": "# git clone --depth 1 https://github.com/kkjh0723/mcp-ldbd\n# See source for mcpServers config block"
+}

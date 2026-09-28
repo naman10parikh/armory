@@ -1,0 +1,7 @@
+{
+  "name": "meyhem",
+  "description": "Finds the right MCP server for a task from over 1,400 indexed servers ranked by community trust. Also provides outcome-ranked web search for AI agents with no API key or rate limits.",
+  "source_repo": "c5huracan/meyhem",
+  "source_url": "https://github.com/c5huracan/meyhem",
+  "install": "# git clone --depth 1 https://github.com/c5huracan/meyhem\n# See source for mcpServers config block"
+}

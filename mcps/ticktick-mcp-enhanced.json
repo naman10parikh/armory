@@ -1,0 +1,7 @@
+{
+  "name": "ticktick-mcp-enhanced",
+  "description": "基于滴答清单官方API的本地MCP服务，通过自然语言管理待办事项、创建和查询任务，支持OAuth认证和高级筛选。",
+  "source_repo": "Code-MonkeyZhang/ticktick-mcp-enhanced",
+  "source_url": "https://github.com/Code-MonkeyZhang/ticktick-mcp-enhanced",
+  "install": "# git clone --depth 1 https://github.com/Code-MonkeyZhang/ticktick-mcp-enhanced\n# See source for mcpServers config block"
+}

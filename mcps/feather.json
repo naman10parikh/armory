@@ -1,0 +1,7 @@
+{
+  "name": "feather",
+  "description": "MCP server for Feather that lets AI agents compress videos, images, GIFs, and PDFs locally via CLI tools for compression, probing, estimation, and history.",
+  "source_repo": "FirasLatrech/feather",
+  "source_url": "https://github.com/FirasLatrech/feather",
+  "install": "# git clone --depth 1 https://github.com/FirasLatrech/feather\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xbuildy-wave-compute-mcp",
+  "description": "The only MCP that gives Cursor developers access to Base44 backend management + decentralized GPU compute via Theta EdgeCloud.",
+  "source_repo": "xBuildy/wave-mcp-sse",
+  "source_url": "https://github.com/xBuildy/wave-mcp-sse",
+  "install": "# git clone --depth 1 https://github.com/xBuildy/wave-mcp-sse\n# See source for mcpServers config block"
+}

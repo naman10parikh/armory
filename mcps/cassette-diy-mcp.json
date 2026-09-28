@@ -1,0 +1,7 @@
+{
+  "name": "cassette-diy-mcp",
+  "description": "MCP server for managing Cassette music releases and Creator clips through AI assistants via personal access tokens.",
+  "source_repo": "cassette-music-management-tool/cassette-mcp",
+  "source_url": "https://github.com/cassette-music-management-tool/cassette-mcp",
+  "install": "npx -y cassette-mcp"
+}

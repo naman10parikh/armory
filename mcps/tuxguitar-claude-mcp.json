@@ -1,0 +1,7 @@
+{
+  "name": "tuxguitar-claude-mcp",
+  "description": "Lets Claude create guitar and bass tablature as TuxGuitar-compatible .gp5 files, including tracks, tuning, measures, notes, and effects such as palm mute, tremolo picking, bends, and harmonics.",
+  "source_repo": "feroxiphone-bot/tuxguitar-claude-mcp",
+  "source_url": "https://github.com/feroxiphone-bot/tuxguitar-claude-mcp",
+  "install": "npx -y tuxguitar-claude-mcp"
+}

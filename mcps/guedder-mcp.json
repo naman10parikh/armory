@@ -1,0 +1,7 @@
+{
+  "name": "guedder-mcp",
+  "description": "Readonly MCP server for the Guedder API v3, enabling operational tasks like listing events, searching tickets, and managing purchases via Streamable HTTP or stdio.",
+  "source_repo": "guedder/mcp",
+  "source_url": "https://github.com/guedder/mcp",
+  "install": "# git clone --depth 1 https://github.com/guedder/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "seocli",
+  "description": "Enables AI agents to crawl and audit websites for SEO issues, returning structured JSON reports with errors, warnings, and key statistics.",
+  "source_repo": "lennney/seocli",
+  "source_url": "https://github.com/lennney/seocli",
+  "install": "# git clone --depth 1 https://github.com/lennney/seocli\n# See source for mcpServers config block"
+}

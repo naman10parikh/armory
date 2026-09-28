@@ -1,0 +1,7 @@
+{
+  "name": "agent-browser",
+  "description": "A hardened local browser MCP server that drives your existing Chrome over the DevTools Protocol, providing token-efficient Markdown extraction and stealth features to avoid trivial automation detection.",
+  "source_repo": "TrueNix/agent-browser",
+  "source_url": "https://github.com/TrueNix/agent-browser",
+  "install": "# git clone --depth 1 https://github.com/TrueNix/agent-browser\n# See source for mcpServers config block"
+}

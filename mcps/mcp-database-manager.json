@@ -1,0 +1,7 @@
+{
+  "name": "mcp-database-manager",
+  "description": "Enables AI assistants to interact with and manage multiple database types (PostgreSQL, MySQL, SQLite, SQL Server, MongoDB, Redis) through natural language, supporting query analysis, schema management, data analysis, backup/restore, and security analysis.",
+  "source_repo": "code-alchemist01/database-manager-mcp-Server",
+  "source_url": "https://github.com/code-alchemist01/database-manager-mcp-Server",
+  "install": "npx -y database-manager-mcp-Server"
+}

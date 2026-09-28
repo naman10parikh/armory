@@ -1,0 +1,7 @@
+{
+  "name": "databricks-ops-mcp",
+  "description": "A governed MCP server exposing Databricks operations as tools for jobs orchestration, SQL execution, notebook creation, Unity Catalog governance, lineage, clusters, and DLT pipelines, with safety features like dry-run and audit logging.",
+  "source_repo": "Sameet1308/databricks_mcp",
+  "source_url": "https://github.com/Sameet1308/databricks_mcp",
+  "install": "npx -y databricks_mcp"
+}

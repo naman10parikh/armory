@@ -1,0 +1,7 @@
+{
+  "name": "contextnest",
+  "description": "Structured, versioned context for AI agents. Context Nest organizes knowledge as markdown documents in a vault, with versioning, integrity verification, and a query language.",
+  "source_repo": "PromptOwl/ContextNest",
+  "source_url": "https://github.com/PromptOwl/ContextNest",
+  "install": "# git clone --depth 1 https://github.com/PromptOwl/ContextNest\n# See source for mcpServers config block"
+}

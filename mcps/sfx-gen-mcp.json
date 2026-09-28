@@ -1,0 +1,7 @@
+{
+  "name": "sfx-gen-mcp",
+  "description": "Enables local generation of game sound effects from text prompts using Stability AI's Stable Audio Open model, with no API keys or per-generation cost.",
+  "source_repo": "JimCline/sfx-gen-mcp",
+  "source_url": "https://github.com/JimCline/sfx-gen-mcp",
+  "install": "npx -y sfx-gen-mcp"
+}

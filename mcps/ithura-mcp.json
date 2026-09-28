@@ -1,0 +1,7 @@
+{
+  "name": "ithura-mcp",
+  "description": "MCP server for Ithura, enabling AI assistants to read and write tasks, sprints, projects, modules, wiki pages, and intake via natural language.",
+  "source_repo": "Ithura/ithura-mcp",
+  "source_url": "https://github.com/Ithura/ithura-mcp",
+  "install": "npx -y ithura-mcp"
+}

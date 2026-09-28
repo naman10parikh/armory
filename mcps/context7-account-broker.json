@@ -1,0 +1,7 @@
+{
+  "name": "context7-account-broker",
+  "description": "A drop-in Context7 MCP proxy that manages multiple API keys, balancing quota usage, caching responses, and providing failover for the standard Context7 tools. It lets MCP clients like OpenCode use the standard Context7 tools without worrying about account selection or quota limits.",
+  "source_repo": "mirsella/context7-account-broker",
+  "source_url": "https://github.com/mirsella/context7-account-broker",
+  "install": "# git clone --depth 1 https://github.com/mirsella/context7-account-broker\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "strapi-mcp-server",
+  "description": "A Strapi v5 backend that exposes MCP endpoints for Google Search Console and Meta Ads, enabling AI agents to automate SEO and marketing workflows.",
+  "source_repo": "Aditya69505/MCP-SERVER",
+  "source_url": "https://github.com/Aditya69505/MCP-SERVER",
+  "install": "# git clone --depth 1 https://github.com/Aditya69505/MCP-SERVER\n# See source for mcpServers config block"
+}

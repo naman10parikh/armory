@@ -1,0 +1,7 @@
+{
+  "name": "jbv-sdlc",
+  "description": "Enables managing SDLC artifacts (create, resolve, entomb) with automatic commits and pushes to main branch, designed for use with Cursor.",
+  "source_repo": "Dmitry-506/sdlc-mcp",
+  "source_url": "https://github.com/Dmitry-506/sdlc-mcp",
+  "install": "npx -y sdlc-mcp"
+}

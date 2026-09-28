@@ -1,0 +1,7 @@
+{
+  "name": "institutional-memory-agent-mcp-server",
+  "description": "Enables AI agents to query and record SOC analyst reasoning via a knowledge graph, allowing access to institutional memory from Splunk.",
+  "source_repo": "shiwani42/Mike",
+  "source_url": "https://github.com/shiwani42/Mike",
+  "install": "# git clone --depth 1 https://github.com/shiwani42/Mike\n# See source for mcpServers config block"
+}

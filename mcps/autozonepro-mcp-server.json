@@ -1,0 +1,7 @@
+{
+  "name": "autozonepro-mcp-server",
+  "description": "Local MCP server for your AutoZone Pro commercial account. HTTP-first catalog/session client that returns commercial cost and list price for shop quoting.",
+  "source_repo": "cozadizzle/autozonepro-mcp-server",
+  "source_url": "https://github.com/cozadizzle/autozonepro-mcp-server",
+  "install": "npx -y autozonepro-mcp-server"
+}

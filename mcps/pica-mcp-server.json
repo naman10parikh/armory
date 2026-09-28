@@ -1,6 +1,6 @@
 {
   "name": "pica-mcp-server",
-  "description": "Pica Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "picahq/pica-mcp-server",
   "source_url": "https://mcp.so/server/pica-mcp-server/picahq",
   "install": "npx -y pica-mcp-server"

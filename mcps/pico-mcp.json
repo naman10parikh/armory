@@ -1,0 +1,7 @@
+{
+  "name": "pico-mcp",
+  "description": "Enables LLMs to control a PicoScope 5000A USB oscilloscope for signal generation, block capture, measurements, and frequency response sweeps.",
+  "source_repo": "Schimmilab/pico-mcp",
+  "source_url": "https://github.com/Schimmilab/pico-mcp",
+  "install": "npx -y pico-mcp"
+}

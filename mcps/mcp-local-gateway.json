@@ -1,0 +1,7 @@
+{
+  "name": "mcp-local-gateway",
+  "description": "Minimal MCP server exposing a single tool, run_date, to execute the local date command via a Streamable HTTP endpoint.",
+  "source_repo": "SongLei75/homelab_mcp",
+  "source_url": "https://github.com/SongLei75/homelab_mcp",
+  "install": "npx -y homelab_mcp"
+}

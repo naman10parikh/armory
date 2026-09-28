@@ -1,0 +1,7 @@
+{
+  "name": "matterai-mcp-server",
+  "description": "Enables code reviews, implementation planning, and pull request generation for AI agents in IDEs like Cursor and Windsurf.",
+  "source_repo": "MatterAIOrg/matter-ai-mcp",
+  "source_url": "https://github.com/MatterAIOrg/matter-ai-mcp",
+  "install": "npx -y matter-ai-mcp"
+}

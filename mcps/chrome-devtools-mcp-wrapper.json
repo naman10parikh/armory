@@ -1,0 +1,7 @@
+{
+  "name": "chrome-devtools-mcp-wrapper",
+  "description": "A multi-browser wrapper for chrome-devtools-mcp that lets AI agents connect to and switch between multiple Chrome instances at runtime, proxying all upstream DevTools tools with optional per-call browser routing.",
+  "source_repo": "wtf403/chrome-devtools-mcp-wrapper",
+  "source_url": "https://github.com/wtf403/chrome-devtools-mcp-wrapper",
+  "install": "# git clone --depth 1 https://github.com/wtf403/chrome-devtools-mcp-wrapper\n# See source for mcpServers config block"
+}

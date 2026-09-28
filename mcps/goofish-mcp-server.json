@@ -1,0 +1,7 @@
+{
+  "name": "goofish-mcp-server",
+  "description": "Enables searching and monitoring of Goofish (闲鱼) items via Playwright automation, providing structured item details and keyword-based monitoring.",
+  "source_repo": "mercy719/goofish-mcp-server",
+  "source_url": "https://github.com/mercy719/goofish-mcp-server",
+  "install": "npx -y goofish-mcp-server"
+}

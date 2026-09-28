@@ -1,0 +1,7 @@
+{
+  "name": "wfgy-mcp-server",
+  "description": "Enables real $1M-level reasoning through MCP protocol integration with Augment, providing tools for AI problem diagnosis, semantic analysis, and workflow optimization.",
+  "source_repo": "bretbouchard/WFGY-MCP",
+  "source_url": "https://github.com/bretbouchard/WFGY-MCP",
+  "install": "npx -y WFGY-MCP"
+}

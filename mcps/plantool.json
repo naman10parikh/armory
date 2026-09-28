@@ -1,0 +1,7 @@
+{
+  "name": "plantool",
+  "description": "An MCP server that interviews users to capture project planning facts into SQLite and enforces mechanical gates to ensure structured progress.",
+  "source_repo": "AlTheSlacker/PlanTool",
+  "source_url": "https://github.com/AlTheSlacker/PlanTool",
+  "install": "# git clone --depth 1 https://github.com/AlTheSlacker/PlanTool\n# See source for mcpServers config block"
+}

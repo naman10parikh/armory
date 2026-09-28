@@ -1,0 +1,7 @@
+{
+  "name": "onboard-geo-precheck-mcp-server",
+  "description": "Enables to precheck landing pages and Figma frames for readiness to be cited in AI Overviews, providing audit scores, grades, and improvement actions.",
+  "source_repo": "beatshon/onboard-geo-precheck-mcp",
+  "source_url": "https://github.com/beatshon/onboard-geo-precheck-mcp",
+  "install": "npx -y onboard-geo-precheck-mcp"
+}

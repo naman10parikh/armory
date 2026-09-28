@@ -1,0 +1,7 @@
+{
+  "name": "bangumi-mcp",
+  "description": "Enables searching and retrieving information about anime, manga, and related content via the Bangumi API.",
+  "source_repo": "etherwindy/Bangumi-MCP",
+  "source_url": "https://github.com/etherwindy/Bangumi-MCP",
+  "install": "npx -y Bangumi-MCP"
+}

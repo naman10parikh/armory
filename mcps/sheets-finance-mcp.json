@@ -1,0 +1,7 @@
+{
+  "name": "sheets-finance-mcp",
+  "description": "MCP server for the SheetsFinance formula catalog, enabling search and construction of financial formulas for Google Sheets.",
+  "source_repo": "henrysouchien/sheets-finance-mcp",
+  "source_url": "https://github.com/henrysouchien/sheets-finance-mcp",
+  "install": "npx -y sheets-finance-mcp"
+}

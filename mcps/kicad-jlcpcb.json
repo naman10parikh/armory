@@ -1,0 +1,7 @@
+{
+  "name": "kicad-jlcpcb",
+  "description": "Automates PCB design from idea to fabrication: sources JLCPCB parts, fetches pin maps from EasyEDA, places and wires footprints in KiCad, and hands off to EasyEDA for auto-routing and ordering — all via Claude Code.",
+  "source_repo": "BeckhamLabsLLC/kicad-jlcpcb",
+  "source_url": "https://github.com/BeckhamLabsLLC/kicad-jlcpcb",
+  "install": "# git clone --depth 1 https://github.com/BeckhamLabsLLC/kicad-jlcpcb\n# See source for mcpServers config block"
+}

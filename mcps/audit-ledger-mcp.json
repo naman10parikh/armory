@@ -1,0 +1,7 @@
+{
+  "name": "audit-ledger-mcp",
+  "description": "Tamper-evident audit logging for AI decisions. Three tools (record_decision, verify_decision, list_decisions) write to a regulator-grade ledger built on AWS S3 Object Lock with 7-year retention. Designed for EU AI Act Article 12 and FCA SS1/23 evidence requirements. Try zero-config: npx audit-ledger",
+  "source_repo": "shahidh68/audit-ledger-mcp",
+  "source_url": "https://github.com/shahidh68/audit-ledger-mcp",
+  "install": "npx -y audit-ledger-mcp"
+}

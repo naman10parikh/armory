@@ -1,0 +1,7 @@
+{
+  "name": "fraud-prevention-mcp-server",
+  "description": "An open-source MCP server for AI-powered fraud prevention that detects fraudulent IPs, emails, URLs, and phone numbers using free APIs and provides actionable risk scores.",
+  "source_repo": "AiAgentKarl/fraud-prevention-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/fraud-prevention-mcp-server",
+  "install": "npx -y fraud-prevention-mcp-server"
+}

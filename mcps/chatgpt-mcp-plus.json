@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-mcp-plus",
+  "description": "Enables AI assistants to send prompts to and receive responses from the ChatGPT desktop app on macOS, including starting new conversations.",
+  "source_repo": "yowmamasita/chatgpt-mcp",
+  "source_url": "https://github.com/yowmamasita/chatgpt-mcp",
+  "install": "npx -y chatgpt-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "imgbb-mcp-server",
+  "description": "Enables uploading images to ImgBB for free hosting and returns public URLs, supporting both local files and URLs.",
+  "source_repo": "450689994/imgbb-mcp",
+  "source_url": "https://github.com/450689994/imgbb-mcp",
+  "install": "npx -y imgbb-mcp"
+}

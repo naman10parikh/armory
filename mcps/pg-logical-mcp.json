@@ -1,0 +1,7 @@
+{
+  "name": "pg-logical-mcp",
+  "description": "Diagnoses and manages PostgreSQL logical replication including slot WAL retention, walsender lag, stuck subscriptions, and provides gated remediation tools for safe AI-driven operations.",
+  "source_repo": "esauro/pg-logical-mcp",
+  "source_url": "https://github.com/esauro/pg-logical-mcp",
+  "install": "npx -y pg-logical-mcp"
+}

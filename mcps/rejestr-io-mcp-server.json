@@ -1,0 +1,7 @@
+{
+  "name": "rejestr-io-mcp-server",
+  "description": "Provides access to Poland's largest business registry database, enabling company search, beneficiary checks, and financial document retrieval via natural language.",
+  "source_repo": "KolegaLiterat/rejestr-io-mcp",
+  "source_url": "https://github.com/KolegaLiterat/rejestr-io-mcp",
+  "install": "npx -y rejestr-io-mcp"
+}

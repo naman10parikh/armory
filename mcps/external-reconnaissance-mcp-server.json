@@ -1,0 +1,7 @@
+{
+  "name": "external-reconnaissance-mcp-server",
+  "description": "Enables external reconnaissance activities including DNS enumeration, subdomain discovery, email security analysis, and SSL certificate inspection against a target domain.",
+  "source_repo": "naebo/mcp-external-recon-server",
+  "source_url": "https://github.com/naebo/mcp-external-recon-server",
+  "install": "# git clone --depth 1 https://github.com/naebo/mcp-external-recon-server\n# See source for mcpServers config block"
+}

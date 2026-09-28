@@ -1,0 +1,7 @@
+{
+  "name": "design-system-mcp",
+  "description": "Creates a local MCP runtime for design-system repositories, enabling AI coding agents to look up and use real components, icons, and tokens instead of guessing.",
+  "source_repo": "lodado/design-system-mcp",
+  "source_url": "https://github.com/lodado/design-system-mcp",
+  "install": "npx -y design-system-mcp"
+}

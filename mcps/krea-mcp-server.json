@@ -1,0 +1,7 @@
+{
+  "name": "krea-mcp-server",
+  "description": "MCP server for Krea.ai enabling AI image and video generation using models like Flux, Hailuo, Runway, Kling, and others via natural language prompts.",
+  "source_repo": "keugenek/krea-mcp",
+  "source_url": "https://github.com/keugenek/krea-mcp",
+  "install": "npx -y krea-mcp"
+}

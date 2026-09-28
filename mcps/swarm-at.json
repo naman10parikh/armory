@@ -1,0 +1,7 @@
+{
+  "name": "swarm-at",
+  "description": "Enables agent settlement, trust verification, and ledger operations for multi-agent workflows, with tools for blueprint management, credit tracking, and provenance recording.",
+  "source_repo": "Mediaeater/swarm-at-ledger",
+  "source_url": "https://github.com/Mediaeater/swarm-at-ledger",
+  "install": "# git clone --depth 1 https://github.com/Mediaeater/swarm-at-ledger\n# See source for mcpServers config block"
+}

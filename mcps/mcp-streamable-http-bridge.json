@@ -1,0 +1,7 @@
+{
+  "name": "mcp-streamable-http-bridge",
+  "description": "Bridges stdio Model Context Protocol (MCP) servers to MCP Streamable HTTP behind a single gateway, enabling multi-tenant, multi-user deployment with per-tenant environment variables via HTTP headers.",
+  "source_repo": "elad-bar/mcp-streamable-http-bridge",
+  "source_url": "https://github.com/elad-bar/mcp-streamable-http-bridge",
+  "install": "# git clone --depth 1 https://github.com/elad-bar/mcp-streamable-http-bridge\n# See source for mcpServers config block"
+}

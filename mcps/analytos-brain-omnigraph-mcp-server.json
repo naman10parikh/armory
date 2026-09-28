@@ -1,0 +1,7 @@
+{
+  "name": "analytos-brain-omnigraph-mcp-server",
+  "description": "This MCP server provides governed read access to the Analytos Brain knowledge graph, enabling content and GTM agents to retrieve approved entities and relationships with access control and citations.",
+  "source_repo": "kmatrimony0-ops/analytos-brain-omnigraph-final",
+  "source_url": "https://github.com/kmatrimony0-ops/analytos-brain-omnigraph-final",
+  "install": "# git clone --depth 1 https://github.com/kmatrimony0-ops/analytos-brain-omnigraph-final\n# See source for mcpServers config block"
+}

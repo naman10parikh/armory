@@ -1,0 +1,7 @@
+{
+  "name": "sinum-mcp",
+  "description": "MCP server for Sinum smarthome system, enabling device and scene management, and light toggling via natural language.",
+  "source_repo": "techsterowniki/sinum-mcp",
+  "source_url": "https://github.com/techsterowniki/sinum-mcp",
+  "install": "npx -y sinum-mcp"
+}

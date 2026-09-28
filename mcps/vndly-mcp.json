@@ -1,0 +1,7 @@
+{
+  "name": "vndly-mcp",
+  "description": "MCP server for VNDLY inventory and order management, enabling AI assistants to search products, list orders, and get low stock alerts.",
+  "source_repo": "coburn2716/vndly-mcp",
+  "source_url": "https://github.com/coburn2716/vndly-mcp",
+  "install": "npx -y vndly-mcp"
+}

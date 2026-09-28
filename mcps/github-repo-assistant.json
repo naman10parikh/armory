@@ -1,0 +1,7 @@
+{
+  "name": "github-repo-assistant",
+  "description": "MCP server for interacting with GitHub pull requests and issues via natural language. Provides tools to list PRs, inspect diffs, check CI status, and post review comments with write-safety guards.",
+  "source_repo": "asifumar/github-repo-assistant",
+  "source_url": "https://github.com/asifumar/github-repo-assistant",
+  "install": "# git clone --depth 1 https://github.com/asifumar/github-repo-assistant\n# See source for mcpServers config block"
+}

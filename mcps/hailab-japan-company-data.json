@@ -1,0 +1,7 @@
+{
+  "name": "hailab-japan-company-data",
+  "description": "MCP server to search Japanese companies by corporate number or name and retrieve financial, subsidy, and procurement information from gBizINFO public data. Enables AI agents to query Japanese company data through natural language.",
+  "source_repo": "HOTAgithub/hailab-japan-company-data",
+  "source_url": "https://github.com/HOTAgithub/hailab-japan-company-data",
+  "install": "# git clone --depth 1 https://github.com/HOTAgithub/hailab-japan-company-data\n# See source for mcpServers config block"
+}

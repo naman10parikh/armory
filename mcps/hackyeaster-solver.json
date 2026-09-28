@@ -1,0 +1,7 @@
+{
+  "name": "hackyeaster-solver",
+  "description": "MCP server enabling Claude to solve HackyEaster CTF challenges through web scraping, decoding, image analysis, and progress tracking.",
+  "source_repo": "cloudwarriors-ai/hackyeaster-solver",
+  "source_url": "https://github.com/cloudwarriors-ai/hackyeaster-solver",
+  "install": "# git clone --depth 1 https://github.com/cloudwarriors-ai/hackyeaster-solver\n# See source for mcpServers config block"
+}

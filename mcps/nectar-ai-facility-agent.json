@@ -1,0 +1,7 @@
+{
+  "name": "nectar-ai-facility-agent",
+  "description": "MCP server that provides live facility data access and operational tools, enabling the AI agent to query sensor readings, HVAC status, energy usage, alerts, and execute confirmed maintenance actions.",
+  "source_repo": "Jithu000000/nectar-ai-facility-agent",
+  "source_url": "https://github.com/Jithu000000/nectar-ai-facility-agent",
+  "install": "# git clone --depth 1 https://github.com/Jithu000000/nectar-ai-facility-agent\n# See source for mcpServers config block"
+}

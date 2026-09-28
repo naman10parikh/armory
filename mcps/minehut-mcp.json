@@ -1,0 +1,7 @@
+{
+  "name": "minehut-mcp",
+  "description": "MCP server that lets AI agents fully manage Minehut Minecraft servers via Playwright browser automation and REST API tools, including server control, console commands, logs, and UI interactions.",
+  "source_repo": "Tobralla/minehut-mcp",
+  "source_url": "https://github.com/Tobralla/minehut-mcp",
+  "install": "npx -y minehut-mcp"
+}

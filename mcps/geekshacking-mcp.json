@@ -1,0 +1,7 @@
+{
+  "name": "geekshacking-mcp",
+  "description": "Manages #TODO comments in source code files, enabling you to add and query TODOs via MCP.",
+  "source_repo": "JiaweiLin/geekshacking-mcp",
+  "source_url": "https://github.com/JiaweiLin/geekshacking-mcp",
+  "install": "npx -y geekshacking-mcp"
+}

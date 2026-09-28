@@ -1,0 +1,7 @@
+{
+  "name": "parchmark-mcp",
+  "description": "MCP server for managing ParchMark notes via Claude Code/Desktop. Provides tools to list, get, create, update, and delete notes through natural language.",
+  "source_repo": "TejGandham/parchmark-mcp",
+  "source_url": "https://github.com/TejGandham/parchmark-mcp",
+  "install": "npx -y parchmark-mcp"
+}

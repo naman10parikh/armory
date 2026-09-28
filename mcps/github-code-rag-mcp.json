@@ -1,0 +1,7 @@
+{
+  "name": "github-code-rag-mcp",
+  "description": "MCP server for GitHub code retrieval and reuse, using SQLite+FTS5 indexing and search history to enable search-first, requirements-refined code search from GitHub repositories.",
+  "source_repo": "suyu-creator/github-code-rag-mcp",
+  "source_url": "https://github.com/suyu-creator/github-code-rag-mcp",
+  "install": "npx -y github-code-rag-mcp"
+}

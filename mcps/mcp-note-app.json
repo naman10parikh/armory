@@ -1,0 +1,7 @@
+{
+  "name": "mcp-note-app",
+  "description": "MCP server for a full-stack note-taking application, exposing CRUD tools for notes with SSE transport for AI agent integration.",
+  "source_repo": "PyaePhyo-Win/mcp-note-app",
+  "source_url": "https://github.com/PyaePhyo-Win/mcp-note-app",
+  "install": "# git clone --depth 1 https://github.com/PyaePhyo-Win/mcp-note-app\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-spotify-player",
+  "description": "Control Spotify directly from your AI assistant using the Model Context Protocol.",
+  "source_repo": "vsaez/mcp-spotify-player",
+  "source_url": "https://github.com/vsaez/mcp-spotify-player",
+  "install": "# git clone --depth 1 https://github.com/vsaez/mcp-spotify-player\n# See source for mcpServers config block"
+}

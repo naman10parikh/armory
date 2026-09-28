@@ -1,0 +1,7 @@
+{
+  "name": "io-github-csoai-org-tax-calculator-ai-mcp",
+  "description": "Calculate income tax (UK/US brackets), EU VAT, UK corporation tax, and capital gains tax. Provides estimates only - not professional tax advice.",
+  "source_repo": "CSOAI-ORG/tax-calculator-ai-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/tax-calculator-ai-mcp",
+  "install": "npx -y tax-calculator-ai-mcp"
+}

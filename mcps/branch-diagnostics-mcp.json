@@ -1,0 +1,7 @@
+{
+  "name": "branch-diagnostics-mcp",
+  "description": "An MCP server that enables AI assistants to diagnose network and service problems by walking a structured funnel of cURL timing metrics, identifying which hop is at fault, and providing targeted recommendations.",
+  "source_repo": "Fromzy1/branch_mcp_v2",
+  "source_url": "https://github.com/Fromzy1/branch_mcp_v2",
+  "install": "# git clone --depth 1 https://github.com/Fromzy1/branch_mcp_v2\n# See source for mcpServers config block"
+}

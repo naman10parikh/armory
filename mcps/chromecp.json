@@ -1,0 +1,7 @@
+{
+  "name": "chromecp",
+  "description": "A standalone MCP server for Chrome automation with multi-session support, enabling browser control and page interaction through MCP clients.",
+  "source_repo": "dddabtc/chromecp",
+  "source_url": "https://github.com/dddabtc/chromecp",
+  "install": "# git clone --depth 1 https://github.com/dddabtc/chromecp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-walmart",
+  "description": "Enables AI agents to search products, manage cart, and track orders on Walmart.com via browser automation.",
+  "source_repo": "markswendsen-code/mcp-walmart",
+  "source_url": "https://github.com/markswendsen-code/mcp-walmart",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-walmart\n# See source for mcpServers config block"
+}

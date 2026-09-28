@@ -1,0 +1,7 @@
+{
+  "name": "mcp-base64",
+  "description": "Provides tools to encode files to Base64 strings and decode Base64 content back to files, supporting both text and binary formats.",
+  "source_repo": "Wuodan/mcp-base64",
+  "source_url": "https://github.com/Wuodan/mcp-base64",
+  "install": "# git clone --depth 1 https://github.com/Wuodan/mcp-base64\n# See source for mcpServers config block"
+}

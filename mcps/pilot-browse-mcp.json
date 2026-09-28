@@ -1,0 +1,7 @@
+{
+  "name": "pilot-browse-mcp",
+  "description": "Enables AI agents to browse websites, record workflows, and generate reusable operation manuals, reducing token usage and execution time for future tasks.",
+  "source_repo": "EndymionLee/PilotBrowseMCP",
+  "source_url": "https://github.com/EndymionLee/PilotBrowseMCP",
+  "install": "# git clone --depth 1 https://github.com/EndymionLee/PilotBrowseMCP\n# See source for mcpServers config block"
+}

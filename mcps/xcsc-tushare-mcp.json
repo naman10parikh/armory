@@ -1,0 +1,7 @@
+{
+  "name": "xcsc-tushare-mcp",
+  "description": "A FastMCP-based MCP server that provides AI assistants with access to XCSC Tushare financial data APIs, supporting stdio and HTTP transport for stocks, indices, funds, and more.",
+  "source_repo": "duhanjun/xcsc-tushare-mcp",
+  "source_url": "https://github.com/duhanjun/xcsc-tushare-mcp",
+  "install": "npx -y xcsc-tushare-mcp"
+}

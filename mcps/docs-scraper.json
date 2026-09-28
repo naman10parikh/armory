@@ -1,0 +1,7 @@
+{
+  "name": "docs-scraper",
+  "description": "Enables scraping and searching documentation websites using semantic or keyword search, with support for multiple deployment modes.",
+  "source_repo": "Qvakk/docs-scraper-shell-for-mcp",
+  "source_url": "https://github.com/Qvakk/docs-scraper-shell-for-mcp",
+  "install": "npx -y docs-scraper-shell-for-mcp"
+}

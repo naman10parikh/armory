@@ -1,0 +1,7 @@
+{
+  "name": "cmp-server-pocket-option-2026",
+  "description": "Enables AI assistants to interact with the PocketOption trading platform via MCP, including balance checks, candle data, asset screening, and trade placement, with support for multi-agent coordination.",
+  "source_repo": "Rufus011/CMP-server_Pocket-option-2026",
+  "source_url": "https://github.com/Rufus011/CMP-server_Pocket-option-2026",
+  "install": "# git clone --depth 1 https://github.com/Rufus011/CMP-server_Pocket-option-2026\n# See source for mcpServers config block"
+}

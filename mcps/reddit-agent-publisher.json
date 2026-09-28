@@ -1,0 +1,7 @@
+{
+  "name": "reddit-agent-publisher",
+  "description": "Enables AI agents to prepare, preview, and get human approval before publishing Reddit posts and comments via a local authenticated browser session, without Reddit API credentials.",
+  "source_repo": "Bl0ck154/reddit-agent-publisher",
+  "source_url": "https://github.com/Bl0ck154/reddit-agent-publisher",
+  "install": "# git clone --depth 1 https://github.com/Bl0ck154/reddit-agent-publisher\n# See source for mcpServers config block"
+}

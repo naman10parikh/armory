@@ -1,0 +1,7 @@
+{
+  "name": "kingdee-mcp",
+  "description": "MCP server for querying Kingdee Cloud K/3 data including sales orders, manufacturing orders, and material shortages.",
+  "source_repo": "kknocookie/kingdee-mcp_ierp",
+  "source_url": "https://github.com/kknocookie/kingdee-mcp_ierp",
+  "install": "# git clone --depth 1 https://github.com/kknocookie/kingdee-mcp_ierp\n# See source for mcpServers config block"
+}

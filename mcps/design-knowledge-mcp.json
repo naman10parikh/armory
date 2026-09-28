@@ -1,0 +1,7 @@
+{
+  "name": "design-knowledge-mcp",
+  "description": "MCP server with 12 tools for design, UX, conversion, and product knowledge from Frontend Masters courses by Paul Boag and Sarah Drasner, enabling audits, accessibility checks, layout recommendations, and more.",
+  "source_repo": "rznies/design-knowledge-mcp",
+  "source_url": "https://github.com/rznies/design-knowledge-mcp",
+  "install": "npx -y design-knowledge-mcp"
+}

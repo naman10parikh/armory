@@ -1,0 +1,7 @@
+{
+  "name": "hive-mind",
+  "description": "Swarm intelligence for AI agents, enabling collective decision-making through weighted consensus voting.",
+  "source_repo": "AiAgentKarl/hive-mind-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/hive-mind-mcp-server",
+  "install": "npx -y hive-mind-mcp-server"
+}

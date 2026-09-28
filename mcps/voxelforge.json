@@ -1,0 +1,7 @@
+{
+  "name": "voxelforge",
+  "description": "A voxel editor with MCP bridge enabling AI agents to create and edit 3D models, supporting .vox/.obj formats, layers, and a web editor.",
+  "source_repo": "thanakon228/voxel-forge",
+  "source_url": "https://github.com/thanakon228/voxel-forge",
+  "install": "# git clone --depth 1 https://github.com/thanakon228/voxel-forge\n# See source for mcpServers config block"
+}

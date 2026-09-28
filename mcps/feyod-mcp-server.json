@@ -1,0 +1,7 @@
+{
+  "name": "feyod-mcp-server",
+  "description": "Enables natural language querying of Feyenoord football match data, converting questions to SQL queries and returning results.",
+  "source_repo": "jeroenvdmeer/feyod-mcp",
+  "source_url": "https://github.com/jeroenvdmeer/feyod-mcp",
+  "install": "npx -y feyod-mcp"
+}

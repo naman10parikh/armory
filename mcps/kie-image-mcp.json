@@ -1,0 +1,7 @@
+{
+  "name": "kie-image-mcp",
+  "description": "Enables image generation using KIE.ai models like google/nano-banana and GPT Image 2. Supports asynchronous single or parallel image generation and file uploading for image inputs.",
+  "source_repo": "nakia73/kie-image-mcp",
+  "source_url": "https://github.com/nakia73/kie-image-mcp",
+  "install": "npx -y kie-image-mcp"
+}

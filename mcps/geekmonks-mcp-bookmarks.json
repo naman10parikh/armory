@@ -1,0 +1,7 @@
+{
+  "name": "geekmonks-mcp-bookmarks",
+  "description": "Enables local bookmark management via MCP with tools to list, add, and search bookmarks, plus optional resources and a summarization prompt.",
+  "source_repo": "SRVivek1/geekmonks-mcp-bookmarks",
+  "source_url": "https://github.com/SRVivek1/geekmonks-mcp-bookmarks",
+  "install": "# git clone --depth 1 https://github.com/SRVivek1/geekmonks-mcp-bookmarks\n# See source for mcpServers config block"
+}

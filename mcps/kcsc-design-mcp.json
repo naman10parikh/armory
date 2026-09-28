@@ -1,0 +1,7 @@
+{
+  "name": "kcsc-design-mcp",
+  "description": "Enables AI assistants to retrieve and cite South Korean national construction standards (KDS/KCS) with tables and formula images via the KCSC OpenAPI, and to use design decision trees, validation, and blank Excel templates directly in the chat interface.",
+  "source_repo": "lhs1152-lgtm/kcsc-design-mcp",
+  "source_url": "https://github.com/lhs1152-lgtm/kcsc-design-mcp",
+  "install": "npx -y kcsc-design-mcp"
+}

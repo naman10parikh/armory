@@ -1,0 +1,7 @@
+{
+  "name": "teamcity-mcp-server",
+  "description": "Enables management of TeamCity CI/CD operations through natural language commands, including builds, projects, tests, artifacts, and more.",
+  "source_repo": "hex/teamcity-mcp",
+  "source_url": "https://github.com/hex/teamcity-mcp",
+  "install": "npx -y teamcity-mcp"
+}

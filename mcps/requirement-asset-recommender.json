@@ -1,0 +1,7 @@
+{
+  "name": "requirement-asset-recommender",
+  "description": "This server lets users submit natural-language requirements, screenshots, or Excel files and receive grounded asset-matching recommendations, with an agentic loop that judges sufficiency, iteratively corrects its own search, and explicitly reports when no asset can support a request. It supports int",
+  "source_repo": "14shi/requirement-asset-recommender",
+  "source_url": "https://github.com/14shi/requirement-asset-recommender",
+  "install": "# git clone --depth 1 https://github.com/14shi/requirement-asset-recommender\n# See source for mcpServers config block"
+}

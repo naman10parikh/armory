@@ -1,0 +1,7 @@
+{
+  "name": "mcp-guard",
+  "description": "Adds security capabilities like port scanning, TLS inspection, DNS enumeration, process monitoring, secrets scanning, HTTP header auditing, and CVE checking to Claude Code and Cursor.",
+  "source_repo": "zent7x/mcp-guard",
+  "source_url": "https://github.com/zent7x/mcp-guard",
+  "install": "# git clone --depth 1 https://github.com/zent7x/mcp-guard\n# See source for mcpServers config block"
+}

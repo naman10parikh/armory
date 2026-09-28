@@ -1,0 +1,7 @@
+{
+  "name": "tickertape-mcp",
+  "description": "An MCP server that screens and analyzes US stocks and ETFs using Tickertape's screener data. It allows users to filter by 70+ metrics, search stocks, get details, and list available filters.",
+  "source_repo": "sreerajkrishnank/tickertape-mcp",
+  "source_url": "https://github.com/sreerajkrishnank/tickertape-mcp",
+  "install": "npx -y tickertape-mcp"
+}

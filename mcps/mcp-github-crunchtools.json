@@ -1,0 +1,7 @@
+{
+  "name": "mcp-github-crunchtools",
+  "description": "A secure MCP server for interacting with GitHub issues, pull requests, repository files, and search, supporting both github.com and GitHub Enterprise Server.",
+  "source_repo": "crunchtools/mcp-github",
+  "source_url": "https://github.com/crunchtools/mcp-github",
+  "install": "# git clone --depth 1 https://github.com/crunchtools/mcp-github\n# See source for mcpServers config block"
+}

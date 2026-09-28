@@ -1,0 +1,7 @@
+{
+  "name": "xshell-agent-bridge",
+  "description": "Local MCP server that lets AI agents read and control attached Xshell terminal sessions.",
+  "source_repo": "zhenyuanfan/xshell-agent-bridge",
+  "source_url": "https://github.com/zhenyuanfan/xshell-agent-bridge",
+  "install": "# git clone --depth 1 https://github.com/zhenyuanfan/xshell-agent-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "logic-mcp",
+  "description": "Executes advanced logic primitives and cognitive operations via MCP tools, with dynamic LLM configuration and database tracing for reasoning tasks.",
+  "source_repo": "mjjalfar/logic-mcp",
+  "source_url": "https://github.com/mjjalfar/logic-mcp",
+  "install": "npx -y logic-mcp"
+}

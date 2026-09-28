@@ -1,0 +1,7 @@
+{
+  "name": "fno-intelligence-engine",
+  "description": "Enables AI coding assistants to ground on real D365 F&O AOT metadata locally and offline, preventing hallucinated X++ field names and Chain of Command signatures.",
+  "source_repo": "MuhammadAwaisGill/fno-intelligence-engine",
+  "source_url": "https://github.com/MuhammadAwaisGill/fno-intelligence-engine",
+  "install": "# git clone --depth 1 https://github.com/MuhammadAwaisGill/fno-intelligence-engine\n# See source for mcpServers config block"
+}

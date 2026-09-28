@@ -1,0 +1,7 @@
+{
+  "name": "unilytics-mcp-server",
+  "description": "Marketing analytics MCP server with 21 tools for SEO, keyword research, backlinks, competitors, content audits, page speed, and Google Search Console data.",
+  "source_repo": "TeamUnilytics/unilytics-mcp",
+  "source_url": "https://github.com/TeamUnilytics/unilytics-mcp",
+  "install": "npx -y unilytics-mcp"
+}

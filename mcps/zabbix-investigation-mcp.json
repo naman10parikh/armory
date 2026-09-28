@@ -1,0 +1,7 @@
+{
+  "name": "zabbix-investigation-mcp",
+  "description": "Read-only MCP server that provides Zabbix monitoring data to AI agents, enabling investigation of hosts, metrics, incidents, and triggers with deterministic aggregation.",
+  "source_repo": "Edrient17/zabbix-investigation-mcp",
+  "source_url": "https://github.com/Edrient17/zabbix-investigation-mcp",
+  "install": "npx -y zabbix-investigation-mcp"
+}

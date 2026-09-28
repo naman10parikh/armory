@@ -1,0 +1,7 @@
+{
+  "name": "gpu-mcp-server",
+  "description": "An MCP server that enables AI agents to query real-time NVIDIA GPU metrics like utilization, memory, temperature, and power without external monitoring tools.",
+  "source_repo": "pmady/gpu-mcp-server",
+  "source_url": "https://github.com/pmady/gpu-mcp-server",
+  "install": "npx -y gpu-mcp-server"
+}

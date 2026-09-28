@@ -1,0 +1,7 @@
+{
+  "name": "wanyi",
+  "description": "Enables AI agents to maintain a local, event-sourced long-term memory with semantic retrieval, decision confidence checks, and proactive recalls, ensuring data never leaves the machine.",
+  "source_repo": "17861102832/wanyimem",
+  "source_url": "https://github.com/17861102832/wanyimem",
+  "install": "# git clone --depth 1 https://github.com/17861102832/wanyimem\n# See source for mcpServers config block"
+}

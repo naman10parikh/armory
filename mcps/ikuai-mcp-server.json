@@ -1,0 +1,7 @@
+{
+  "name": "ikuai-mcp-server",
+  "description": "An MCP server that provides 229 tools to control iKuai routers, enabling AI assistants to manage network settings, monitoring, security, and more through natural language.",
+  "source_repo": "gxxHuang/ikuai-mcp-server",
+  "source_url": "https://github.com/gxxHuang/ikuai-mcp-server",
+  "install": "npx -y ikuai-mcp-server"
+}

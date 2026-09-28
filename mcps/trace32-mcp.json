@@ -1,0 +1,7 @@
+{
+  "name": "trace32-mcp",
+  "description": "AI-driven interface for Lauterbach TRACE32 PowerView debugging, inspection, and scripting via remote API.",
+  "source_repo": "coldclosewin-design/trace32-mcp",
+  "source_url": "https://github.com/coldclosewin-design/trace32-mcp",
+  "install": "npx -y trace32-mcp"
+}

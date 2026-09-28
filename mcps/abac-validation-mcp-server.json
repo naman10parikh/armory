@@ -1,0 +1,7 @@
+{
+  "name": "abac-validation-mcp-server",
+  "description": "Enables AI-assisted Attribute-Based Access Control code validation and review, with batch processing and progress notifications for long-running operations.",
+  "source_repo": "shivamsehgal-afk/abac-validation-mcp-server",
+  "source_url": "https://github.com/shivamsehgal-afk/abac-validation-mcp-server",
+  "install": "npx -y abac-validation-mcp-server"
+}

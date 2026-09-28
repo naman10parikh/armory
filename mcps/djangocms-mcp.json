@@ -1,0 +1,7 @@
+{
+  "name": "djangocms-mcp",
+  "description": "A Django CMS plugin that provides Model Context Protocol (MCP) server functionality, enabling AI assistants like Claude to directly interact with, manage, and create content in your Django CMS installation through natural language.",
+  "source_repo": "rsp2k/djangocms-mcp",
+  "source_url": "https://github.com/rsp2k/djangocms-mcp",
+  "install": "npx -y djangocms-mcp"
+}

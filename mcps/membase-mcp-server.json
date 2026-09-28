@@ -1,0 +1,7 @@
+{
+  "name": "membase-mcp-server",
+  "description": "Enables AI agents to store and retrieve memory persistently on the Unibase DA network, ensuring continuity and personalization across sessions.",
+  "source_repo": "unibaseio/membase-mcp",
+  "source_url": "https://github.com/unibaseio/membase-mcp",
+  "install": "npx -y membase-mcp"
+}

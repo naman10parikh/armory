@@ -1,0 +1,7 @@
+{
+  "name": "corpus-mcp",
+  "description": "An MCP server that enables keyword search over a local directory of documents, providing tools to search, fetch passages, and list sources without requiring external APIs or models.",
+  "source_repo": "mmorrisj/corpus_mcp",
+  "source_url": "https://github.com/mmorrisj/corpus_mcp",
+  "install": "npx -y corpus_mcp"
+}

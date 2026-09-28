@@ -1,0 +1,7 @@
+{
+  "name": "advanced-circleci-mcp-server",
+  "description": "A CircleCI MCP server specialized in config review, providing tools for fetching actual configs, validating changes, and analyzing workflow bottlenecks, health, and DAG dependencies.",
+  "source_repo": "hidetaka-cci/advanced-circleci-mcp-server",
+  "source_url": "https://github.com/hidetaka-cci/advanced-circleci-mcp-server",
+  "install": "npx -y advanced-circleci-mcp-server"
+}

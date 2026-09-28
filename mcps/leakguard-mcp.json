@@ -1,0 +1,7 @@
+{
+  "name": "leakguard-mcp",
+  "description": "Static-analyzes Python code for lookahead bias and data leakage, preventing invalid backtests in time-series ML.",
+  "source_repo": "doazvjettu/leakguard-mcp",
+  "source_url": "https://github.com/doazvjettu/leakguard-mcp",
+  "install": "npx -y leakguard-mcp"
+}

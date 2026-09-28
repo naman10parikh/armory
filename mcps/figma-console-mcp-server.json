@@ -1,0 +1,7 @@
+{
+  "name": "figma-console-mcp-server",
+  "description": "Bridges AI assistants with Figma for design system extraction, bidirectional token sync, visual debugging, and design creation.",
+  "source_repo": "mp3wizard/figma-console-mcp",
+  "source_url": "https://github.com/mp3wizard/figma-console-mcp",
+  "install": "npx -y figma-console-mcp"
+}

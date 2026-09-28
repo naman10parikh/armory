@@ -1,0 +1,7 @@
+{
+  "name": "secure-local-mcp",
+  "description": "A fully offline, secure MCP server that enables AI agents to search, read, write, and list local markdown notes using SQLite FTS5, with directory traversal protection.",
+  "source_repo": "oke123321/secure-local-mcp",
+  "source_url": "https://github.com/oke123321/secure-local-mcp",
+  "install": "npx -y secure-local-mcp"
+}

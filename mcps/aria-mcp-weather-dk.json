@@ -1,0 +1,7 @@
+{
+  "name": "aria-mcp-weather-dk",
+  "description": "A keyless MCP server that provides Danish weather forecasts and severe-weather warnings to AI assistants.",
+  "source_repo": "kimhjort/aria-mcp-weather-dk",
+  "source_url": "https://github.com/kimhjort/aria-mcp-weather-dk",
+  "install": "# git clone --depth 1 https://github.com/kimhjort/aria-mcp-weather-dk\n# See source for mcpServers config block"
+}

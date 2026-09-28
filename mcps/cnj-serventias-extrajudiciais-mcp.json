@@ -1,0 +1,7 @@
+{
+  "name": "cnj-serventias-extrajudiciais-mcp",
+  "description": "Consulta detalhes de serventias extrajudiciais do Conselho Nacional de Justiça em fonte oficial, com ferramenta de leitura paga por uso e integração com qualquer cliente MCP.",
+  "source_repo": "mcp-dir/cnj_serventias_extrajudiciais-mcp",
+  "source_url": "https://github.com/mcp-dir/cnj_serventias_extrajudiciais-mcp",
+  "install": "npx -y cnj_serventias_extrajudiciais-mcp"
+}

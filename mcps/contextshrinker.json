@@ -1,0 +1,7 @@
+{
+  "name": "contextshrinker",
+  "description": "Zero-dependency Go MCP server that indexes codebases into an embedded Kùzu graph DB—enabling 90%+ token reduction, precise call-chain queries, and AI architectural health audits.",
+  "source_repo": "bauhaus28/contextshrinker",
+  "source_url": "https://github.com/bauhaus28/contextshrinker",
+  "install": "# git clone --depth 1 https://github.com/bauhaus28/contextshrinker\n# See source for mcpServers config block"
+}

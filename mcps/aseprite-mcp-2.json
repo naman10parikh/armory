@@ -1,0 +1,7 @@
+{
+  "name": "aseprite-mcp-2",
+  "description": "MCP server for controlling Aseprite from Codex, wrapping its native CLI and Lua scripting to enable pixel art creation, sprite editing, animation, file inspection, and export.",
+  "source_repo": "Ryan3719/asprite-mcp",
+  "source_url": "https://github.com/Ryan3719/asprite-mcp",
+  "install": "npx -y asprite-mcp"
+}

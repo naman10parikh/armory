@@ -1,0 +1,7 @@
+{
+  "name": "mcp-easy-installer",
+  "description": "A robust MCP server with tools to search, install, configure, repair, and uninstall MCP servers, automating setup and maintenance across multiple AI and developer tools.",
+  "source_repo": "onigetoc/mcp-easy-installer",
+  "source_url": "https://github.com/onigetoc/mcp-easy-installer",
+  "install": "# git clone --depth 1 https://github.com/onigetoc/mcp-easy-installer\n# See source for mcpServers config block"
+}

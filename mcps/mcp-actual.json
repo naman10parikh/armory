@@ -1,0 +1,7 @@
+{
+  "name": "mcp-actual",
+  "description": "An MCP server for Actual Budget that connects to your Actual sync server, opens one budget file, and exposes it to MCP clients over streamable HTTP or stdio.",
+  "source_repo": "cubicecho/mcp-actual",
+  "source_url": "https://github.com/cubicecho/mcp-actual",
+  "install": "# git clone --depth 1 https://github.com/cubicecho/mcp-actual\n# See source for mcpServers config block"
+}

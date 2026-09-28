@@ -1,0 +1,7 @@
+{
+  "name": "casandra",
+  "description": "Enables AI agents to retrieve real-time cryptocurrency quotes, portfolio state, risk scores (0-100), and timestamped market context through MCP tools, replacing hallucinated prices with verifiable market data.",
+  "source_repo": "Kenyi001/oraculo-radiohead",
+  "source_url": "https://github.com/Kenyi001/oraculo-radiohead",
+  "install": "# git clone --depth 1 https://github.com/Kenyi001/oraculo-radiohead\n# See source for mcpServers config block"
+}

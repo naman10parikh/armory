@@ -1,0 +1,7 @@
+{
+  "name": "personal-brand-mcp",
+  "description": "Provides positioning frameworks, bio audits, content pillars, and platform strategies to help creators build an audience that buys, not just watches.",
+  "source_repo": "closermethod/personal-brand-mcp",
+  "source_url": "https://github.com/closermethod/personal-brand-mcp",
+  "install": "npx -y personal-brand-mcp"
+}

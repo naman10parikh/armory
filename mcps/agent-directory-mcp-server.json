@@ -1,0 +1,7 @@
+{
+  "name": "agent-directory-mcp-server",
+  "description": "Enables AI agents to discover, register, and rate services in a decentralized agent-to-agent directory.",
+  "source_repo": "AiAgentKarl/agent-directory-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/agent-directory-mcp-server",
+  "install": "npx -y agent-directory-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "guidetopharmacology",
+  "description": "Enables access to the IUPHAR/BPS Guide to PHARMACOLOGY database for querying drug targets, ligands, and pharmacological data without API keys.",
+  "source_repo": "pipeworx-io/mcp-guidetopharmacology",
+  "source_url": "https://github.com/pipeworx-io/mcp-guidetopharmacology",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-guidetopharmacology\n# See source for mcpServers config block"
+}

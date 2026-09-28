@@ -1,0 +1,7 @@
+{
+  "name": "docrenders-mcp",
+  "description": "Generate production-ready PDFs from Markdown, HTML, or built-in templates (invoices, resumes, reports) directly from Claude or any MCP-compatible AI agent via the DocRenders API.",
+  "source_repo": "JWhist/docrenders-mcp",
+  "source_url": "https://github.com/JWhist/docrenders-mcp",
+  "install": "npx -y docrenders-mcp"
+}

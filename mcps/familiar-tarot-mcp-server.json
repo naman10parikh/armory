@@ -1,0 +1,7 @@
+{
+  "name": "familiar-tarot-mcp-server",
+  "description": "Provides free tarot card readings for AI assistants with real deck shuffles, multiple decks, and spreads, enabling reflective practice rather than fortune-telling.",
+  "source_repo": "jensonChow/familiar-tarot-mcp",
+  "source_url": "https://github.com/jensonChow/familiar-tarot-mcp",
+  "install": "npx -y familiar-tarot-mcp"
+}

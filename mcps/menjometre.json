@@ -1,0 +1,7 @@
+{
+  "name": "menjometre",
+  "description": "Menjometre is an independent observatory of Catalan public spending. This MCP server gives any LLM client read-only access to the full dataset and the statistical scoring layer built on top of it. ## Coverage - **~19.5 M** grant records from the Registre d'Ajuts i Subvencions de Catalunya (RAISC), 2",
+  "source_repo": "",
+  "source_url": "https://menjometre.cat",
+  "install": "# git clone --depth 1 https://menjometre.cat\n# See source for mcpServers config block"
+}

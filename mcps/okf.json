@@ -1,0 +1,7 @@
+{
+  "name": "okf",
+  "description": "Builds a keyword-searchable index from markdown documentation bundles and serves it to LLM agents via MCP, with retrieval logging and reporting for curation.",
+  "source_repo": "aminHZDEV/OpenContextScitool",
+  "source_url": "https://github.com/aminHZDEV/OpenContextScitool",
+  "install": "# git clone --depth 1 https://github.com/aminHZDEV/OpenContextScitool\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "oli-docs-mcp",
+  "description": "Local MCP server for querying Oli/LimX documentation via keyword, vector, or hybrid search, with citation support for use in Claude Code or OpenCode/August.",
+  "source_repo": "33may/oli-docs-mcp",
+  "source_url": "https://github.com/33may/oli-docs-mcp",
+  "install": "npx -y oli-docs-mcp"
+}

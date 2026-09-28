@@ -1,0 +1,7 @@
+{
+  "name": "openlibrary-mcp-server",
+  "description": "Search books and authors, fetch editions, browse subjects, and resolve cover images.",
+  "source_repo": "",
+  "source_url": "https://openlibrary.caseyjhand.com/mcp",
+  "install": "# git clone --depth 1 https://openlibrary.caseyjhand.com/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "acp-governance-mcp-server",
+  "description": "Governs AI agent tool calls by checking them against Agentic Control Plane policies, returning allow/deny/ask decisions with audit logging and identity attribution for MCP clients like Claude and ChatGPT. Exposes acp_check and acp_status tools for policy enforcement and connection verification.",
+  "source_repo": "agentic-control-plane/acp-mcp-server",
+  "source_url": "https://github.com/agentic-control-plane/acp-mcp-server",
+  "install": "npx -y acp-mcp-server"
+}

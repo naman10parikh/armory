@@ -1,0 +1,7 @@
+{
+  "name": "moodle-mcp-server",
+  "description": "Enables AI assistants to interact with Moodle LMS via browser automation, using a server and browser extension to keep credentials local and route commands securely.",
+  "source_repo": "arunl/moodle-mcp-server",
+  "source_url": "https://github.com/arunl/moodle-mcp-server",
+  "install": "npx -y moodle-mcp-server"
+}

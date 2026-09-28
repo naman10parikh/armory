@@ -1,0 +1,7 @@
+{
+  "name": "teamboard-mcp",
+  "description": "Enables AI assistants to search and create tasks in TeamBoard via its HTTP API.",
+  "source_repo": "uplsuman/teamboard-mcp",
+  "source_url": "https://github.com/uplsuman/teamboard-mcp",
+  "install": "npx -y teamboard-mcp"
+}

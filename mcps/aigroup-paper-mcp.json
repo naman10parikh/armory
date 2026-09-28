@@ -1,0 +1,7 @@
+{
+  "name": "aigroup-paper-mcp",
+  "description": "Academic paper search and retrieval MCP server integrating multiple scholarly platforms into a unified interface. Supports search, fetch, trend analysis, and literature review workflows.",
+  "source_repo": "jackdark425/aigroup-paper-mcp",
+  "source_url": "https://github.com/jackdark425/aigroup-paper-mcp",
+  "install": "npx -y aigroup-paper-mcp"
+}

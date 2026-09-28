@@ -1,0 +1,7 @@
+{
+  "name": "nano-pdf-mcp",
+  "description": "Memory-efficient MCP server for reading and splitting large PDF files page by page using PyMuPDF.",
+  "source_repo": "eren0315/nano-pdf-mcp",
+  "source_url": "https://github.com/eren0315/nano-pdf-mcp",
+  "install": "npx -y nano-pdf-mcp"
+}

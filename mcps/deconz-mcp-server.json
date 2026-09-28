@@ -1,0 +1,7 @@
+{
+  "name": "deconz-mcp-server",
+  "description": "MCP Server for deConz server developed by Dresden Elektronik (bridge between smart home automation platforms and wireless Zigbee networks)",
+  "source_repo": "marcinn2/deConz-mcp",
+  "source_url": "https://github.com/marcinn2/deConz-mcp",
+  "install": "npx -y deConz-mcp"
+}

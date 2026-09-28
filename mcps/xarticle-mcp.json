@@ -1,0 +1,7 @@
+{
+  "name": "xarticle-mcp",
+  "description": "Enables saving X (Twitter) Articles as Obsidian-faithful Markdown files with locally downloaded images and videos.",
+  "source_repo": "aniirude/xarticle-mcp",
+  "source_url": "https://github.com/aniirude/xarticle-mcp",
+  "install": "npx -y xarticle-mcp"
+}

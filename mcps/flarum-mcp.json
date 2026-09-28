@@ -1,0 +1,7 @@
+{
+  "name": "flarum-mcp",
+  "description": "MCP server for Flarum forums that enables searching, reading, and posting discussions through Flarum's REST API.",
+  "source_repo": "ReverserID/flarum-mcp",
+  "source_url": "https://github.com/ReverserID/flarum-mcp",
+  "install": "npx -y flarum-mcp"
+}

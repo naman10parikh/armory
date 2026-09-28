@@ -1,0 +1,7 @@
+{
+  "name": "websocat-mcp",
+  "description": "MCP server for WebSocket operations, enabling connect, send, receive, and manage WebSocket connections and servers.",
+  "source_repo": "shivam-jainn/websocat-mcp",
+  "source_url": "https://github.com/shivam-jainn/websocat-mcp",
+  "install": "npx -y websocat-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "eia-energy-data-mcp",
+  "description": "An MCP server that wraps the U.S. Energy Information Administration's Open Data API, enabling assistants to fetch live energy data via natural language. It provides tools for querying series, browsing data routes, filtering facets, and running custom queries.",
+  "source_repo": "franklan-pm/eia-energy-data-mcp",
+  "source_url": "https://github.com/franklan-pm/eia-energy-data-mcp",
+  "install": "npx -y eia-energy-data-mcp"
+}

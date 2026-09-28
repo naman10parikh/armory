@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rules-server",
+  "description": "MCP server that provides code validation rules and analysis for various stacks/frameworks, enabling automated code reviews and reporting directly from VS Code and other editors.",
+  "source_repo": "camoran89/mcp-code-review",
+  "source_url": "https://github.com/camoran89/mcp-code-review",
+  "install": "# git clone --depth 1 https://github.com/camoran89/mcp-code-review\n# See source for mcpServers config block"
+}

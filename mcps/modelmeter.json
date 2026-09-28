@@ -1,0 +1,7 @@
+{
+  "name": "modelmeter",
+  "description": "Enables AI agents to query model pricing, deprecations, and cost estimates via a machine-readable changelog of the AI stack.",
+  "source_repo": "modelmeters/modelmeter",
+  "source_url": "https://github.com/modelmeters/modelmeter",
+  "install": "# git clone --depth 1 https://github.com/modelmeters/modelmeter\n# See source for mcpServers config block"
+}

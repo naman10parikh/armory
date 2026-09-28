@@ -1,0 +1,7 @@
+{
+  "name": "poly-cloud-mcp",
+  "description": "Unified MCP server for managing cloud resources across AWS, Google Cloud, Azure, and DigitalOcean by wrapping their CLI tools.",
+  "source_repo": "Hiruna219066/poly-cloud-mcp",
+  "source_url": "https://github.com/Hiruna219066/poly-cloud-mcp",
+  "install": "npx -y poly-cloud-mcp"
+}

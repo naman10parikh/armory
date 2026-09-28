@@ -1,6 +1,6 @@
 {
   "name": "alertmanager-mcp",
-  "description": "Alertmanager Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "kaznak/alertmanager-mcp",
   "source_url": "https://mcp.so/server/alertmanager-mcp/kaznak",
   "install": "npx -y alertmanager-mcp"

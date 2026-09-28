@@ -1,0 +1,7 @@
+{
+  "name": "ci-triage-mcp",
+  "description": "MCP server for GitHub Actions CI failure triage. It wraps the gh CLI to fetch PR checks, failed jobs, and tail/grep failed job logs with ANSI/timestamp stripping and root-cause extraction.",
+  "source_repo": "aamar-shahzad/ci-triage-mcp",
+  "source_url": "https://github.com/aamar-shahzad/ci-triage-mcp",
+  "install": "npx -y ci-triage-mcp"
+}

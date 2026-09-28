@@ -1,0 +1,7 @@
+{
+  "name": "xberg-mcp-server",
+  "description": "MCP server that extracts clean text, tables, and structured data from documents, images, code, and audio files, supporting 97 formats with OCR, transcription, and code intelligence.",
+  "source_repo": "jamon8888/hacienda-private",
+  "source_url": "https://github.com/jamon8888/hacienda-private",
+  "install": "# git clone --depth 1 https://github.com/jamon8888/hacienda-private\n# See source for mcpServers config block"
+}

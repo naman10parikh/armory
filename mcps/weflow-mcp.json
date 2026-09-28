@@ -1,0 +1,7 @@
+{
+  "name": "weflow-mcp",
+  "description": "Enables to access and manage WeChat data (sessions, contacts, Moments) through the local WeFlow HTTP API.",
+  "source_repo": "L-Chris/weflow-mcp",
+  "source_url": "https://github.com/L-Chris/weflow-mcp",
+  "install": "npx -y weflow-mcp"
+}

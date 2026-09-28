@@ -1,0 +1,7 @@
+{
+  "name": "prom-evidence-mcp",
+  "description": "An evidence-first Prometheus MCP server that lets AI agents query production telemetry with detailed receipts including exact PromQL, timing, series count, and explicit warnings for empty, high-cardinality, or unreliable data.",
+  "source_repo": "elizabethpammi/prom-evidence-mcp",
+  "source_url": "https://github.com/elizabethpammi/prom-evidence-mcp",
+  "install": "npx -y prom-evidence-mcp"
+}

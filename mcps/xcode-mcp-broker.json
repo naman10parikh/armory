@@ -1,0 +1,7 @@
+{
+  "name": "xcode-mcp-broker",
+  "description": "A localhost broker that allows multiple MCP clients to share a persistent xcrun mcpbridge connection to Xcode, enabling tool discovery and serialized calls.",
+  "source_repo": "grahammckee/XcodeMCPBroker",
+  "source_url": "https://github.com/grahammckee/XcodeMCPBroker",
+  "install": "# git clone --depth 1 https://github.com/grahammckee/XcodeMCPBroker\n# See source for mcpServers config block"
+}

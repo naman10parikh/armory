@@ -1,0 +1,7 @@
+{
+  "name": "rigforge",
+  "description": "MCP server enabling AI coding agents to seal work into cryptographically signed ProofPackets and verify them, catching forged completion claims and enforcing spec-bound acceptance criteria.",
+  "source_repo": "mrodgersjs-web/rigforge",
+  "source_url": "https://github.com/mrodgersjs-web/rigforge",
+  "install": "# git clone --depth 1 https://github.com/mrodgersjs-web/rigforge\n# See source for mcpServers config block"
+}

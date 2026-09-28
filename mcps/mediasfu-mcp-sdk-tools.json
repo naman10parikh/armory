@@ -1,0 +1,7 @@
+{
+  "name": "mediasfu-mcp-sdk-tools",
+  "description": "Enables planning, scaffolding, diagnosing, and hardening MediaSFU frontend and backend integrations across multiple SDKs with 138 integration tools.",
+  "source_repo": "MediaSFU/mcp-sdk-tools",
+  "source_url": "https://github.com/MediaSFU/mcp-sdk-tools",
+  "install": "# git clone --depth 1 https://github.com/MediaSFU/mcp-sdk-tools\n# See source for mcpServers config block"
+}

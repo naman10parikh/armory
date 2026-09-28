@@ -1,0 +1,7 @@
+{
+  "name": "epl-mcp",
+  "description": "# EPL Language MCP Server The official Model Context Protocol (MCP) server for the EPL (English Programming Language) ecosystem. This server provides AI coding assistants with direct access to the EPL runtime, compiler, and documentation. It empowers AI models to securely run EPL code, execute test",
+  "source_repo": "abneeshsingh21/EPL",
+  "source_url": "https://github.com/abneeshsingh21/EPL",
+  "install": "# git clone --depth 1 https://github.com/abneeshsingh21/EPL\n# See source for mcpServers config block"
+}

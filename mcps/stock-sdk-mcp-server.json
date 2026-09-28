@@ -1,0 +1,7 @@
+{
+  "name": "stock-sdk-mcp-server",
+  "description": "Provides comprehensive stock market data (A-shares, Hong Kong, US) including real-time quotes, K-lines, technical indicators, sectors, futures, and options, with built-in AI Skills and MCP Prompts for financial analysis.",
+  "source_repo": "chengzuopeng/stock-sdk-mcp",
+  "source_url": "https://github.com/chengzuopeng/stock-sdk-mcp",
+  "install": "npx -y stock-sdk-mcp"
+}

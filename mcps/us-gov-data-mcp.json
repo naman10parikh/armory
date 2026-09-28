@@ -1,0 +1,7 @@
+{
+  "name": "us-gov-data-mcp",
+  "description": "MCP server for querying US federal contracts and public company financial data from USAspending and SEC EDGAR. Enables searching expiring contracts, screening companies by metrics, and retrieving financial histories.",
+  "source_repo": "groundtruthtools/us-gov-data-mcp",
+  "source_url": "https://github.com/groundtruthtools/us-gov-data-mcp",
+  "install": "npx -y us-gov-data-mcp"
+}

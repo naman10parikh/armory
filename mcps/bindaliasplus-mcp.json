@@ -1,0 +1,7 @@
+{
+  "name": "bindaliasplus-mcp",
+  "description": "MCP bridge for the BindAliasPlus Minecraft mod that lets AI agents control Minecraft by querying game state, taking screenshots, executing aliases, and editing the mod config.",
+  "source_repo": "Prohect/BindAliasPlus-MCP",
+  "source_url": "https://github.com/Prohect/BindAliasPlus-MCP",
+  "install": "npx -y BindAliasPlus-MCP"
+}

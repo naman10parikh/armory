@@ -1,0 +1,7 @@
+{
+  "name": "linkup-js-mcp-server",
+  "description": "Enables AI assistants and development tools to perform intelligent web searches with natural language queries using Linkup's search API.",
+  "source_repo": "LinkupPlatform/js-mcp-server",
+  "source_url": "https://github.com/LinkupPlatform/js-mcp-server",
+  "install": "npx -y js-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-openapi-server",
+  "description": "Exposes REST API endpoints defined by OpenAPI specifications as MCP tools, enabling LLMs to discover and interact with those APIs through MCP.",
+  "source_repo": "TuanLdv/mcp-openapi-server-demo",
+  "source_url": "https://github.com/TuanLdv/mcp-openapi-server-demo",
+  "install": "# git clone --depth 1 https://github.com/TuanLdv/mcp-openapi-server-demo\n# See source for mcpServers config block"
+}

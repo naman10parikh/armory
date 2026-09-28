@@ -1,0 +1,7 @@
+{
+  "name": "web-auth-mcp-server",
+  "description": "Enables executing HTTP requests with automatic browser-based authentication, supporting OAuth, form login, and cookie/session management.",
+  "source_repo": "ablagodarenko/web-auth-mcp",
+  "source_url": "https://github.com/ablagodarenko/web-auth-mcp",
+  "install": "npx -y web-auth-mcp"
+}

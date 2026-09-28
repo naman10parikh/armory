@@ -1,0 +1,7 @@
+{
+  "name": "echarts-mcp",
+  "description": "A Model Context Protocol server that renders Apache ECharts options to SVG, enabling AI agents to generate deterministic charts server-side without a browser.",
+  "source_repo": "ryuk3nd0/echarts-mcp",
+  "source_url": "https://github.com/ryuk3nd0/echarts-mcp",
+  "install": "npx -y echarts-mcp"
+}

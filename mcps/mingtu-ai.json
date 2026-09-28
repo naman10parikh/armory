@@ -1,0 +1,7 @@
+{
+  "name": "mingtu-ai",
+  "description": "An AI apprentice system that allows users to train AI through demonstration, correction, and review, with structured task execution and emphasis on packaging design workflow.",
+  "source_repo": "JMET04/mingtu-ai",
+  "source_url": "https://github.com/JMET04/mingtu-ai",
+  "install": "# git clone --depth 1 https://github.com/JMET04/mingtu-ai\n# See source for mcpServers config block"
+}

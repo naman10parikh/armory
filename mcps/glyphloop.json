@@ -1,0 +1,7 @@
+{
+  "name": "glyphloop",
+  "description": "Enables AI agents to create loop-perfect generative ASCII animations headlessly, including defining custom animations and 3D shapes as expression strings.",
+  "source_repo": "ideoshi/glyphloop",
+  "source_url": "https://github.com/ideoshi/glyphloop",
+  "install": "# git clone --depth 1 https://github.com/ideoshi/glyphloop\n# See source for mcpServers config block"
+}

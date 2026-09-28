@@ -1,0 +1,7 @@
+{
+  "name": "runcomfy-mcp",
+  "description": "MCP server for RunComfy's Serverless API (ComfyUI) that enables managing deployments, running inference, and retrieving results from AI assistants like Claude and Cursor.",
+  "source_repo": "runcomfy-com/runcomfy-mcp",
+  "source_url": "https://github.com/runcomfy-com/runcomfy-mcp",
+  "install": "npx -y runcomfy-mcp"
+}

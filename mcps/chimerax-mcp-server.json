@@ -1,0 +1,7 @@
+{
+  "name": "chimerax-mcp-server",
+  "description": "Enables natural language control of UCSF ChimeraX for protein structure visualization, editing, and analysis through MCP clients.",
+  "source_repo": "mahynotch/chimerax-mcp",
+  "source_url": "https://github.com/mahynotch/chimerax-mcp",
+  "install": "npx -y chimerax-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "performance-analysis-mcp-server",
+  "description": "Collects page performance metrics using Playwright, CDP, and Lighthouse, and returns a normalized PerformanceReport.",
+  "source_repo": "Sindhura30/pageperformance-mcp",
+  "source_url": "https://github.com/Sindhura30/pageperformance-mcp",
+  "install": "npx -y pageperformance-mcp"
+}

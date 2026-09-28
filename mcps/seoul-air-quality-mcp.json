@@ -1,0 +1,7 @@
+{
+  "name": "seoul-air-quality-mcp",
+  "description": "MCP server for querying Seoul's official air quality data, including real-time and hourly measurements by district. Enables AI assistants to answer questions about fine dust and air pollution using public data from Seoul Open Data Plaza.",
+  "source_repo": "hwyp9867-code/seoul-air-quality-mcp",
+  "source_url": "https://github.com/hwyp9867-code/seoul-air-quality-mcp",
+  "install": "npx -y seoul-air-quality-mcp"
+}

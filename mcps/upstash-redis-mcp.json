@@ -1,0 +1,7 @@
+{
+  "name": "upstash-redis-mcp",
+  "description": "Lightweight MCP server for Redis that allows running any Redis command and searching Redis documentation. Supports multiple named databases with HTTP/REST or TCP transport.",
+  "source_repo": "upstash/redis-mcp",
+  "source_url": "https://github.com/upstash/redis-mcp",
+  "install": "npx -y redis-mcp"
+}

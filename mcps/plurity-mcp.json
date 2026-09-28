@@ -1,0 +1,7 @@
+{
+  "name": "plurity-mcp",
+  "description": "Unified MCP server for Plurity's Audit (GEO readiness), Toll (agent traffic & llms.txt), and Intelligence (question & topic monitoring) services, requiring a single API key.",
+  "source_repo": "plurity-ai/plurity-mcp",
+  "source_url": "https://github.com/plurity-ai/plurity-mcp",
+  "install": "npx -y plurity-mcp"
+}

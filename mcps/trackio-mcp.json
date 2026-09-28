@@ -1,0 +1,7 @@
+{
+  "name": "trackio-mcp",
+  "description": "Enables AI agents to observe and interact with trackio experiments through the Model Context Protocol (MCP).",
+  "source_repo": "fastmcp-me/trackio-mcp",
+  "source_url": "https://github.com/fastmcp-me/trackio-mcp",
+  "install": "npx -y trackio-mcp"
+}

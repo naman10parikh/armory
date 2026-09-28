@@ -1,0 +1,7 @@
+{
+  "name": "cs-mcp",
+  "description": "Enables natural language control of Cobalt Strike (version 4.8) via Claude, supporting beacon listing, command execution, payload generation, and listener management without a GUI.",
+  "source_repo": "fg-time/Cobalt-Strike-4.8-MCP",
+  "source_url": "https://github.com/fg-time/Cobalt-Strike-4.8-MCP",
+  "install": "npx -y Cobalt-Strike-4.8-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-hello-typescript-server",
+  "description": "A minimal MCP server that provides a health check (server_info) and multi-language greeting (greet) tools, built with TypeScript and the official SDK.",
+  "source_repo": "mitchallen/mcp-hello-typescript-server",
+  "source_url": "https://github.com/mitchallen/mcp-hello-typescript-server",
+  "install": "# git clone --depth 1 https://github.com/mitchallen/mcp-hello-typescript-server\n# See source for mcpServers config block"
+}

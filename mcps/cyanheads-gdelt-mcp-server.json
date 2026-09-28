@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-gdelt-mcp-server",
+  "description": "Search and analyze global news coverage and US television transcripts via the GDELT Project's real-time APIs via MCP.",
+  "source_repo": "cyanheads/gdelt-mcp-server",
+  "source_url": "https://github.com/cyanheads/gdelt-mcp-server",
+  "install": "npx -y gdelt-mcp-server"
+}

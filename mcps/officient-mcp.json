@@ -1,0 +1,7 @@
+{
+  "name": "officient-mcp",
+  "description": "An MCP server that provides typed tools for AI assistants to read and write data from the Officient HR API, including people, calendars, contracts, expenses, and more.",
+  "source_repo": "dhrpieterjan/officient-mcp",
+  "source_url": "https://github.com/dhrpieterjan/officient-mcp",
+  "install": "npx -y officient-mcp"
+}

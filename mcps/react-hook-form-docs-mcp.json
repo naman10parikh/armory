@@ -1,0 +1,7 @@
+{
+  "name": "react-hook-form-docs-mcp",
+  "description": "Enables AI-powered semantic search over React Hook Form documentation, allowing users to query and retrieve relevant documentation pages without an API key, running locally with offline support.",
+  "source_repo": "Sannnao/react-hook-form-docs-mcp",
+  "source_url": "https://github.com/Sannnao/react-hook-form-docs-mcp",
+  "install": "npx -y react-hook-form-docs-mcp"
+}

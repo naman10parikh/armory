@@ -1,0 +1,7 @@
+{
+  "name": "start-infinity-mcp-server",
+  "description": "Enables LLMs to manage StartInfinity boards using natural language by translating human-readable names into internal identifiers.",
+  "source_repo": "dasgltd/start-infinity-mcp-server",
+  "source_url": "https://github.com/dasgltd/start-infinity-mcp-server",
+  "install": "npx -y start-infinity-mcp-server"
+}

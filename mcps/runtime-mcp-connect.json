@@ -1,0 +1,7 @@
+{
+  "name": "runtime-mcp-connect",
+  "description": "Exposes a live application's runtime state to coding agents, including logs, DB schema, config, and feature flags, with read-only SQL and secret redaction.",
+  "source_repo": "limjonathan/runtime-mcp",
+  "source_url": "https://github.com/limjonathan/runtime-mcp",
+  "install": "npx -y runtime-mcp"
+}

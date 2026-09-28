@@ -1,0 +1,7 @@
+{
+  "name": "footon",
+  "description": "Turns Claude and Codex JSONL transcripts into sanitized, unlisted links with explicit approval, exposing share management via OAuth-protected MCP endpoints.",
+  "source_repo": "douglance/footon",
+  "source_url": "https://github.com/douglance/footon",
+  "install": "# git clone --depth 1 https://github.com/douglance/footon\n# See source for mcpServers config block"
+}

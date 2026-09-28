@@ -1,0 +1,7 @@
+{
+  "name": "tradernet-mcp",
+  "description": "MCP server for Tradernet/Freedom24 trading platform API, enabling portfolio management, order placement, quotes, ticker search, and price alerts via AI assistants.",
+  "source_repo": "verbart/tradernet-mcp",
+  "source_url": "https://github.com/verbart/tradernet-mcp",
+  "install": "npx -y tradernet-mcp"
+}

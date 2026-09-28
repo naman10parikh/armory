@@ -1,0 +1,7 @@
+{
+  "name": "fluyo-mcp",
+  "description": "MCP server that creates, edits and exports architecture diagrams as .fluyo.json files, operating through tools like create_diagram, edit_diagram, and export_diagram directly from Claude.",
+  "source_repo": "itsnect/fluyo-mcp",
+  "source_url": "https://github.com/itsnect/fluyo-mcp",
+  "install": "npx -y fluyo-mcp"
+}

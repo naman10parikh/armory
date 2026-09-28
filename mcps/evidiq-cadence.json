@@ -1,0 +1,7 @@
+{
+  "name": "evidiq-cadence",
+  "description": "An MCP server for durable, attested future execution, letting agents schedule one-shot, recurring, retry, and monitoring tasks with signed receipts and x402 payment.",
+  "source_repo": "evidiq/evidiq-cadence-mcp",
+  "source_url": "https://github.com/evidiq/evidiq-cadence-mcp",
+  "install": "npx -y evidiq-cadence-mcp"
+}

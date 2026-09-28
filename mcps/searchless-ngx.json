@@ -1,0 +1,7 @@
+{
+  "name": "searchless-ngx",
+  "description": "An Agentic RAG MCP Server that transforms Paperless-ngx into a conversational document assistant, enabling LLMs to search, filter, and summarize documents using natural language.",
+  "source_repo": "hensing/searchless-ngx",
+  "source_url": "https://github.com/hensing/searchless-ngx",
+  "install": "# git clone --depth 1 https://github.com/hensing/searchless-ngx\n# See source for mcpServers config block"
+}

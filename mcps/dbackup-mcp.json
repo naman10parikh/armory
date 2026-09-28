@@ -1,0 +1,7 @@
+{
+  "name": "dbackup-mcp",
+  "description": "A typed MCP server for curated backup administration of DBackup via its API, exposing tools for backup jobs, execution history, notifications, storage, and bounded restore workflows.",
+  "source_repo": "X1pheR/dbackup-mcp",
+  "source_url": "https://github.com/X1pheR/dbackup-mcp",
+  "install": "npx -y dbackup-mcp"
+}

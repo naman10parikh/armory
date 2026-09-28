@@ -1,0 +1,7 @@
+{
+  "name": "alltrails-mcp-client",
+  "description": "Enables searching hiking trails from AllTrails.com via MCP, with smart caching to avoid rate limiting.",
+  "source_repo": "dbrown540/alltrails-mcp-client",
+  "source_url": "https://github.com/dbrown540/alltrails-mcp-client",
+  "install": "# git clone --depth 1 https://github.com/dbrown540/alltrails-mcp-client\n# See source for mcpServers config block"
+}

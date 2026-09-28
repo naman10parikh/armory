@@ -1,0 +1,7 @@
+{
+  "name": "minimal-node-js-mcp-server",
+  "description": "A stateless MCP server for filesystem operations, command execution, and computation, designed for use with llama.cpp WebUI.",
+  "source_repo": "dominhnanhh2009/mcp",
+  "source_url": "https://github.com/dominhnanhh2009/mcp",
+  "install": "# git clone --depth 1 https://github.com/dominhnanhh2009/mcp\n# See source for mcpServers config block"
+}

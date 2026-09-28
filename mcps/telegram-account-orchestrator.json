@@ -1,0 +1,7 @@
+{
+  "name": "telegram-account-orchestrator",
+  "description": "MCP server for self-hosted Telegram multi-account management, enabling encrypted session storage, health checks, batch operations, device-session management, and automation through AI agents.",
+  "source_repo": "soulknight666/telegram-account-orchestrator",
+  "source_url": "https://github.com/soulknight666/telegram-account-orchestrator",
+  "install": "# git clone --depth 1 https://github.com/soulknight666/telegram-account-orchestrator\n# See source for mcpServers config block"
+}

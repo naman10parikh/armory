@@ -1,0 +1,7 @@
+{
+  "name": "notion-job-tracker",
+  "description": "Enables searching, adding, and updating job leads in a Notion database directly from an MCP client.",
+  "source_repo": "kedarnath30/notion-mcp-server",
+  "source_url": "https://github.com/kedarnath30/notion-mcp-server",
+  "install": "npx -y notion-mcp-server"
+}

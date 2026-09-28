@@ -1,0 +1,7 @@
+{
+  "name": "formpilot",
+  "description": "Enables secure web form inspection and autofill using Excel data, Knowledge Packs, and AI, with sensitive field protection and explicit submit confirmation.",
+  "source_repo": "Aksara-Teknologi/FormPilot",
+  "source_url": "https://github.com/Aksara-Teknologi/FormPilot",
+  "install": "# git clone --depth 1 https://github.com/Aksara-Teknologi/FormPilot\n# See source for mcpServers config block"
+}

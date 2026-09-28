@@ -1,0 +1,7 @@
+{
+  "name": "offensiveset",
+  "description": "Generates realistic, multi-turn penetration testing conversation datasets for training security-focused LLMs.",
+  "source_repo": "DeepakDubat/OffensiveSET",
+  "source_url": "https://github.com/DeepakDubat/OffensiveSET",
+  "install": "# git clone --depth 1 https://github.com/DeepakDubat/OffensiveSET\n# See source for mcpServers config block"
+}

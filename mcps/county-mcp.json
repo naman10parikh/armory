@@ -1,0 +1,7 @@
+{
+  "name": "county-mcp",
+  "description": "Provides access to Kenya 47-county local government data, including demographics, budgets, services, and contact information for all counties.",
+  "source_repo": "gabrielmahia/county-mcp",
+  "source_url": "https://github.com/gabrielmahia/county-mcp",
+  "install": "npx -y county-mcp"
+}

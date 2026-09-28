@@ -1,0 +1,7 @@
+{
+  "name": "openchrome",
+  "description": "Controls a real Chrome browser for AI agents, enabling authenticated automation with parallel lanes, token-efficient page reads, and robust recovery mechanisms.",
+  "source_repo": "shaun0927/openchrome",
+  "source_url": "https://github.com/shaun0927/openchrome",
+  "install": "# git clone --depth 1 https://github.com/shaun0927/openchrome\n# See source for mcpServers config block"
+}

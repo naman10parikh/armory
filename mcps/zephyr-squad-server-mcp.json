@@ -1,0 +1,7 @@
+{
+  "name": "zephyr-squad-server-mcp",
+  "description": "An MCP server that enables AI agents to drive Zephyr for Jira (Server/Data Center) test management via ZAPI. It exposes operations for test cycles, folders, executions, test steps, step results, and ZQL search over stdio for use with any MCP client.",
+  "source_repo": "alejandroviera/zephyr-squad-server-mcp",
+  "source_url": "https://github.com/alejandroviera/zephyr-squad-server-mcp",
+  "install": "npx -y zephyr-squad-server-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ui-dbugbridge-mcp",
+  "description": "Enables UI debugging on physical iOS devices by bridging to an in-app DebugBridge HTTP service, supporting UI inspection, element interaction, log retrieval, and runtime validation.",
+  "source_repo": "Immmmmmortal1/UI-dbugbridge-mcp",
+  "source_url": "https://github.com/Immmmmmortal1/UI-dbugbridge-mcp",
+  "install": "npx -y UI-dbugbridge-mcp"
+}

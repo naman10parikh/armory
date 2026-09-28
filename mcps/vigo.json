@@ -1,0 +1,7 @@
+{
+  "name": "vigo",
+  "description": "Enables querying Hong Kong SFC regulations, enforcement actions, licensing guides, and compliance checks with a continuously updated knowledge base.",
+  "source_repo": "OrphicOne-Platform/vigo-mcp",
+  "source_url": "https://github.com/OrphicOne-Platform/vigo-mcp",
+  "install": "npx -y vigo-mcp"
+}

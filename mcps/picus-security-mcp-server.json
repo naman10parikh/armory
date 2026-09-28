@@ -1,0 +1,7 @@
+{
+  "name": "picus-security-mcp-server",
+  "description": "Enables interaction with Picus Security's Breach & Attack Simulation API, allowing natural language queries for simulations, threat library searches, and agent management through MCP-compatible clients.",
+  "source_repo": "BeardedInfoSec/picus-security-mcp",
+  "source_url": "https://github.com/BeardedInfoSec/picus-security-mcp",
+  "install": "npx -y picus-security-mcp"
+}

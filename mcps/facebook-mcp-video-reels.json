@@ -1,0 +1,7 @@
+{
+  "name": "facebook-mcp-video-reels",
+  "description": "Enables authentication with Facebook and provides tools to list pages, post text/images, upload videos, and create Reels on Facebook Pages.",
+  "source_repo": "Arnost55/facebook-mcp-video-reels",
+  "source_url": "https://github.com/Arnost55/facebook-mcp-video-reels",
+  "install": "# git clone --depth 1 https://github.com/Arnost55/facebook-mcp-video-reels\n# See source for mcpServers config block"
+}

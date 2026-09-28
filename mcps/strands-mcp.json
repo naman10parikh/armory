@@ -1,0 +1,7 @@
+{
+  "name": "strands-mcp",
+  "description": "Scrapes and indexes Strands Agents documentation into Elasticsearch, providing a searchable MCP server for Amazon Q and other AI assistants.",
+  "source_repo": "ShawnKyzer/strands-mcp",
+  "source_url": "https://github.com/ShawnKyzer/strands-mcp",
+  "install": "npx -y strands-mcp"
+}

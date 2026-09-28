@@ -1,0 +1,7 @@
+{
+  "name": "mcp-node-tasks-05-sampling",
+  "description": "An MCP server that demonstrates sampling, enabling the server to request LLM completions from the client to assist in workflow tasks like planning work sessions.",
+  "source_repo": "krollchristensen/mcp-node-tasks-05-sampling",
+  "source_url": "https://github.com/krollchristensen/mcp-node-tasks-05-sampling",
+  "install": "# git clone --depth 1 https://github.com/krollchristensen/mcp-node-tasks-05-sampling\n# See source for mcpServers config block"
+}

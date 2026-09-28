@@ -1,0 +1,7 @@
+{
+  "name": "hh-apply-agent-mcp",
+  "description": "Local MCP server for safe automation of job application responses on hh.ru using the user's Chrome session.",
+  "source_repo": "eno004731-cpu/hh-apply-agent-mcp",
+  "source_url": "https://github.com/eno004731-cpu/hh-apply-agent-mcp",
+  "install": "npx -y hh-apply-agent-mcp"
+}

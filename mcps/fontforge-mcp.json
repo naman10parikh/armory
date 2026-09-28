@@ -1,0 +1,7 @@
+{
+  "name": "fontforge-mcp",
+  "description": "Exposes FontForge as MCP tools for designing, repairing, and building fonts, with PNG previews to visually verify glyphs and compiled fonts.",
+  "source_repo": "LHxis/fontforge-mcp",
+  "source_url": "https://github.com/LHxis/fontforge-mcp",
+  "install": "npx -y fontforge-mcp"
+}

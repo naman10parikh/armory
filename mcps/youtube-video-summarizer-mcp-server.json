@@ -1,0 +1,7 @@
+{
+  "name": "youtube-video-summarizer-mcp-server",
+  "description": "Extracts captions, metadata, and descriptions from YouTube videos to enable AI assistants to summarize their content.",
+  "source_repo": "BACH-AI-Tools/youtube-video-summarizer-mcp",
+  "source_url": "https://github.com/BACH-AI-Tools/youtube-video-summarizer-mcp",
+  "install": "npx -y youtube-video-summarizer-mcp"
+}

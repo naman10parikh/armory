@@ -1,0 +1,7 @@
+{
+  "name": "alpha-vantage-mcp-server",
+  "description": "Enables LLMs and agentic workflows to access real-time and historical stock market data through the Model Context Protocol.",
+  "source_repo": "alphavantage/alpha_vantage_mcp",
+  "source_url": "https://github.com/alphavantage/alpha_vantage_mcp",
+  "install": "npx -y alpha_vantage_mcp"
+}

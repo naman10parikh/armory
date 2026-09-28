@@ -1,0 +1,7 @@
+{
+  "name": "deckbook",
+  "description": "MCP server for the Deckbook task tracker, allowing AI agents to create and manage tasks with project-scoped tokens.",
+  "source_repo": "alifanov/deckbook",
+  "source_url": "https://github.com/alifanov/deckbook",
+  "install": "# git clone --depth 1 https://github.com/alifanov/deckbook\n# See source for mcpServers config block"
+}

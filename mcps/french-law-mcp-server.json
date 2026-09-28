@@ -1,0 +1,7 @@
+{
+  "name": "french-law-mcp-server",
+  "description": "Enables AI assistants to search and retrieve French legislation, case law, and EU law integrations from official sources via MCP.",
+  "source_repo": "Ansvar-Systems/French-law-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/French-law-mcp",
+  "install": "npx -y French-law-mcp"
+}

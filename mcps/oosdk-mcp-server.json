@@ -1,0 +1,7 @@
+{
+  "name": "oosdk-mcp-server",
+  "description": "Ontology-driven multi-agent platform that encodes business policy as code, enabling deterministic decision-making and multi-domain agent collaboration without code redeploy.",
+  "source_repo": "sunnylabtv-crypto/ai_mcp_multi_agent_oosdk-public",
+  "source_url": "https://github.com/sunnylabtv-crypto/ai_mcp_multi_agent_oosdk-public",
+  "install": "# git clone --depth 1 https://github.com/sunnylabtv-crypto/ai_mcp_multi_agent_oosdk-public\n# See source for mcpServers config block"
+}

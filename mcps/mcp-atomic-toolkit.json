@@ -1,0 +1,7 @@
+{
+  "name": "mcp-atomic-toolkit",
+  "description": "A FastMCP server for atomistic modeling workflows that enables building structures, running geometry optimization and molecular dynamics, and analyzing results with downloadable artifacts.",
+  "source_repo": "qfoldit/Atomic-MCP",
+  "source_url": "https://github.com/qfoldit/Atomic-MCP",
+  "install": "npx -y Atomic-MCP"
+}

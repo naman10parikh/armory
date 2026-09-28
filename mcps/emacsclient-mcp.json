@@ -1,0 +1,7 @@
+{
+  "name": "emacsclient-mcp",
+  "description": "An MCP server that provides LLMs with direct access to Emacs via its server protocol, offering 22 tools for editing, search, buffer management, and a PR review agent.",
+  "source_repo": "bimawa/emacsclient-mcp",
+  "source_url": "https://github.com/bimawa/emacsclient-mcp",
+  "install": "npx -y emacsclient-mcp"
+}

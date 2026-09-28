@@ -1,0 +1,7 @@
+{
+  "name": "perssona-orchestrator",
+  "description": "MCP server that lets AI agents control Perssona. It enables creating terminals, managing canvas nodes, sending prompts, and running multi-agent workflows.",
+  "source_repo": "PerssonaOps/orchestrator",
+  "source_url": "https://github.com/PerssonaOps/orchestrator",
+  "install": "# git clone --depth 1 https://github.com/PerssonaOps/orchestrator\n# See source for mcpServers config block"
+}

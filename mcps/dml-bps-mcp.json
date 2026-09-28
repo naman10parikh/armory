@@ -1,0 +1,7 @@
+{
+  "name": "dml-bps-mcp",
+  "description": "MCP server for accessing Indonesian BPS statistics data via natural language queries.",
+  "source_repo": "digimetalab/dml-bps-mcp",
+  "source_url": "https://github.com/digimetalab/dml-bps-mcp",
+  "install": "npx -y dml-bps-mcp"
+}

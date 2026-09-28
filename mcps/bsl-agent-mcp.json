@@ -1,0 +1,7 @@
+{
+  "name": "bsl-agent-mcp",
+  "description": "MCP server that lets AI agents operate a user-owned wallet on the Bitcoin-IPC testnet, enabling BTC deposits, cross-subnet wBTC payments, and anchored payment receipts, with local key signing and spend caps.",
+  "source_repo": "bitcoinscalinglabs/bsl-agent-mcp",
+  "source_url": "https://github.com/bitcoinscalinglabs/bsl-agent-mcp",
+  "install": "npx -y bsl-agent-mcp"
+}

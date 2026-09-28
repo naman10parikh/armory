@@ -1,0 +1,7 @@
+{
+  "name": "research-report-mcp-server",
+  "description": "Enables search and retrieval of industry research reports, including company research, macro strategy, and thematic reports, with filtering and detail lookup via natural language.",
+  "source_repo": "handaas/research-report-mcp-server",
+  "source_url": "https://github.com/handaas/research-report-mcp-server",
+  "install": "npx -y research-report-mcp-server"
+}

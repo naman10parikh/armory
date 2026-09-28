@@ -1,0 +1,7 @@
+{
+  "name": "knowuswell-mcp-server",
+  "description": "Hosts the KnowUsWell friendship quiz in conversations, scoring 16 behavior questions into four-letter roles and combining two roles into one of 16 pair types with shared result links.",
+  "source_repo": "ppop123/knowuswell-mcp",
+  "source_url": "https://github.com/ppop123/knowuswell-mcp",
+  "install": "npx -y knowuswell-mcp"
+}

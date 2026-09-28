@@ -1,0 +1,7 @@
+{
+  "name": "fetch-price",
+  "description": "Enables AI agents to search and compare live UK product prices from marketplaces like eBay and Amazon, returning normalised JSON with direct buy links.",
+  "source_repo": "fusionx212/fetch-price",
+  "source_url": "https://github.com/fusionx212/fetch-price",
+  "install": "# git clone --depth 1 https://github.com/fusionx212/fetch-price\n# See source for mcpServers config block"
+}

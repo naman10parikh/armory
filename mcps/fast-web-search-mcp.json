@@ -1,0 +1,7 @@
+{
+  "name": "fast-web-search-mcp",
+  "description": "A production-ready MCP server for free web search, news search, and webpage content extraction using DuckDuckGo and Bing.",
+  "source_repo": "iPraBhu/fast-web-search-mcp",
+  "source_url": "https://github.com/iPraBhu/fast-web-search-mcp",
+  "install": "npx -y fast-web-search-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openpages-local-mcp-server",
+  "description": "Enables AI agents to securely interact with IBM OpenPages GRC platform through a standardized interface, supporting CRUD operations on objects like issues and controls.",
+  "source_repo": "IBM/ibm-openpages-local-mcp-server",
+  "source_url": "https://github.com/IBM/ibm-openpages-local-mcp-server",
+  "install": "npx -y ibm-openpages-local-mcp-server"
+}

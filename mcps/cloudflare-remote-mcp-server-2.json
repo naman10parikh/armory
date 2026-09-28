@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-remote-mcp-server-2",
+  "description": "Deployable stateless remote MCP server on Cloudflare Workers without auth, with support for registering custom tools and connecting to MCP clients.",
+  "source_repo": "pritam-patil/nse-mcp",
+  "source_url": "https://github.com/pritam-patil/nse-mcp",
+  "install": "npx -y nse-mcp"
+}

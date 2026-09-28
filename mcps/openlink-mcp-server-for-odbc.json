@@ -1,0 +1,7 @@
+{
+  "name": "openlink-mcp-server-for-odbc",
+  "description": "Enables LLMs to query ODBC-accessible databases via DSN, supporting SQL, SPARQL, and schema exploration.",
+  "source_repo": "pvsmark/pvs-odbc-mcp",
+  "source_url": "https://github.com/pvsmark/pvs-odbc-mcp",
+  "install": "npx -y pvs-odbc-mcp"
+}

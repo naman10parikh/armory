@@ -1,0 +1,7 @@
+{
+  "name": "dutic-mcp",
+  "description": "MCP server for the DUTIC virtual classroom (Moodle) at UNSA. Allows viewing tasks (including hidden ones), courses, resources, and downloading files, from terminal or AI agents.",
+  "source_repo": "JOSETRA44/DUTIC-mcp",
+  "source_url": "https://github.com/JOSETRA44/DUTIC-mcp",
+  "install": "npx -y DUTIC-mcp"
+}

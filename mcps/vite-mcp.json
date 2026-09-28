@@ -1,0 +1,7 @@
+{
+  "name": "vite-mcp",
+  "description": "A Vite plugin that provides MCP server capabilities, enabling MCP clients to interact with browser environments through adapters for console, cookies, storage, performance, and component tree inspection.",
+  "source_repo": "broisnischal/vite-mcp",
+  "source_url": "https://github.com/broisnischal/vite-mcp",
+  "install": "npx -y vite-mcp"
+}

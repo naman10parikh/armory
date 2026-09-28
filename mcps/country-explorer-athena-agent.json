@@ -1,0 +1,7 @@
+{
+  "name": "country-explorer-athena-agent",
+  "description": "An MCP server that provides country information lookup and an interactive dashboard, exposing a get_country_info tool and HTTP endpoints for querying demographic, geographic, and economic data.",
+  "source_repo": "ImMalkah/country-explorer-athena-agent",
+  "source_url": "https://github.com/ImMalkah/country-explorer-athena-agent",
+  "install": "# git clone --depth 1 https://github.com/ImMalkah/country-explorer-athena-agent\n# See source for mcpServers config block"
+}

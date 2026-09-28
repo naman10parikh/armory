@@ -1,0 +1,7 @@
+{
+  "name": "korral-mcp",
+  "description": "MCP server that lets a Duvo agent talk to Korral's StoreLink API, enabling category buyers to offload daily stock checking, replenishment ordering, and order tracking tasks.",
+  "source_repo": "ilyadurov97/korral-mcp",
+  "source_url": "https://github.com/ilyadurov97/korral-mcp",
+  "install": "npx -y korral-mcp"
+}

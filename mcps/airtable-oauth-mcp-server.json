@@ -1,0 +1,7 @@
+{
+  "name": "airtable-oauth-mcp-server",
+  "description": "Enables AI assistants and applications to interact with Airtable bases through a secure OAuth-authenticated MCP interface, providing complete API coverage for all Airtable operations.",
+  "source_repo": "fastmcp-me/airtable-mcp-server-oauth",
+  "source_url": "https://github.com/fastmcp-me/airtable-mcp-server-oauth",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/airtable-mcp-server-oauth\n# See source for mcpServers config block"
+}

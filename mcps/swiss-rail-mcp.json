@@ -1,0 +1,7 @@
+{
+  "name": "swiss-rail-mcp",
+  "description": "A zero-authentication MCP server for Swiss public transport, enabling users to query train connections, disruptions, station facilities, and plan journeys using natural language.",
+  "source_repo": "kintscher/swiss-rail-mcp",
+  "source_url": "https://github.com/kintscher/swiss-rail-mcp",
+  "install": "npx -y swiss-rail-mcp"
+}

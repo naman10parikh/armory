@@ -1,0 +1,7 @@
+{
+  "name": "notification-test",
+  "description": "Enables testing real-time MCP notifications that appear as VS Code popups, demonstrating standalone log messages.",
+  "source_repo": "arafatkatze/test-mcp",
+  "source_url": "https://github.com/arafatkatze/test-mcp",
+  "install": "npx -y test-mcp"
+}

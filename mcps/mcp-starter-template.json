@@ -1,0 +1,7 @@
+{
+  "name": "mcp-starter-template",
+  "description": "A reference MCP server scaffold with per-user auth passthrough, read-only defaults, dry-run mode, and rate/spend capping, enabling developers to build secure MCP integrations with structured audit logging.",
+  "source_repo": "HamzaOuadid/mcp-starter-template",
+  "source_url": "https://github.com/HamzaOuadid/mcp-starter-template",
+  "install": "# git clone --depth 1 https://github.com/HamzaOuadid/mcp-starter-template\n# See source for mcpServers config block"
+}

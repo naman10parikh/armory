@@ -1,0 +1,7 @@
+{
+  "name": "interview-coach-mcp",
+  "description": "MCP server that enables natural language tracking and retrieval of coding interview practice attempts, mistakes, and insights to provide personalized interview coaching.",
+  "source_repo": "SarthakS8528/interview-coach-MCP",
+  "source_url": "https://github.com/SarthakS8528/interview-coach-MCP",
+  "install": "npx -y interview-coach-MCP"
+}

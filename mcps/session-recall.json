@@ -1,0 +1,7 @@
+{
+  "name": "session-recall",
+  "description": "Provides local, agentic semantic recall over Claude Code session history, enabling the agent to search past discussions semantically, expand turns, and grep transcripts.",
+  "source_repo": "AbsoluteMode/session-recall",
+  "source_url": "https://github.com/AbsoluteMode/session-recall",
+  "install": "# git clone --depth 1 https://github.com/AbsoluteMode/session-recall\n# See source for mcpServers config block"
+}

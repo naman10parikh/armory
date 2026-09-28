@@ -1,0 +1,7 @@
+{
+  "name": "codebase-explorer-mcp-server",
+  "description": "Analyzes any codebase to detect project type, languages, frameworks, entry points, API routes, controllers, services, components, tests, and more.",
+  "source_repo": "AaadityaG/Codebase-Explainer-MCP-Server",
+  "source_url": "https://github.com/AaadityaG/Codebase-Explainer-MCP-Server",
+  "install": "npx -y Codebase-Explainer-MCP-Server"
+}

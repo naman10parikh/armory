@@ -1,0 +1,7 @@
+{
+  "name": "agent-storefront",
+  "description": "Enables any AI agent to discover, query, and order from a restaurant's storefront via MCP tools. It handles menu lookup, modifier validation, and enforces a mandatory confirmation gate before payment, replacing the human-operated phone line.",
+  "source_repo": "MarmikPrajapati-ML/agent-storefront",
+  "source_url": "https://github.com/MarmikPrajapati-ML/agent-storefront",
+  "install": "# git clone --depth 1 https://github.com/MarmikPrajapati-ML/agent-storefront\n# See source for mcpServers config block"
+}

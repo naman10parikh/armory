@@ -1,0 +1,7 @@
+{
+  "name": "human-loop-mcp",
+  "description": "Enables AI agents to ask human operators questions through polished browser dialogs, supporting text/choice/confirmation inputs and file attachments.",
+  "source_repo": "dzulfiikar/human-loop-mcp",
+  "source_url": "https://github.com/dzulfiikar/human-loop-mcp",
+  "install": "npx -y human-loop-mcp"
+}

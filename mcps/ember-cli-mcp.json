@@ -1,0 +1,7 @@
+{
+  "name": "ember-cli-mcp",
+  "description": "Enables MCP clients like Claude Code to execute Ember CLI commands directly in projects, including running tests, generating components, and building apps.",
+  "source_repo": "stefanoamorelli/ember-cli-mcp",
+  "source_url": "https://github.com/stefanoamorelli/ember-cli-mcp",
+  "install": "npx -y ember-cli-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vcon-mcp",
+  "description": "MCP server for storing, managing, and analyzing IETF vCon (Virtual Conversation) data with AI assistants.",
+  "source_repo": "vcon-dev/vcon-mcp",
+  "source_url": "https://github.com/vcon-dev/vcon-mcp",
+  "install": "npx -y vcon-mcp"
+}

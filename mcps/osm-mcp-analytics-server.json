@@ -1,0 +1,7 @@
+{
+  "name": "osm-mcp-analytics-server",
+  "description": "Provides advanced geospatial analytics for OpenStreetMap, including neighborhood livability scoring and commute analysis, beyond simple geocoding.",
+  "source_repo": "neco001/openstreetmap-mcp",
+  "source_url": "https://github.com/neco001/openstreetmap-mcp",
+  "install": "npx -y openstreetmap-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "r-mcp-server",
+  "description": "Enables AI assistants to execute R code, create visualizations, analyze data, and manage packages through a local Rscript CLI.",
+  "source_repo": "sergiudanstan/r-mcp",
+  "source_url": "https://github.com/sergiudanstan/r-mcp",
+  "install": "npx -y r-mcp"
+}

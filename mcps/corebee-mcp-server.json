@@ -1,0 +1,7 @@
+{
+  "name": "corebee-mcp-server",
+  "description": "Enables AI-driven customer support operations including conversation management, knowledge base, contacts, metrics, and settings via MCP.",
+  "source_repo": "jonny-1812/corebee-mcp-skills",
+  "source_url": "https://github.com/jonny-1812/corebee-mcp-skills",
+  "install": "# git clone --depth 1 https://github.com/jonny-1812/corebee-mcp-skills\n# See source for mcpServers config block"
+}

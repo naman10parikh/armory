@@ -1,0 +1,7 @@
+{
+  "name": "general-liquidity-mcp",
+  "description": "MCP server exposing four task-shaped tools (resolve, pay, verify, disclose) for General Liquidity, enabling agents to normalize counterparties, submit intents, verify disclosures, and produce signed disclosures.",
+  "source_repo": "general-liquidity/general-liquidity-mcp",
+  "source_url": "https://github.com/general-liquidity/general-liquidity-mcp",
+  "install": "npx -y general-liquidity-mcp"
+}

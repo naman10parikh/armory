@@ -1,0 +1,7 @@
+{
+  "name": "flight-finder-mcp",
+  "description": "Enables Claude to search and compare flights across multiple providers (Skyscanner, Google Flights, Kiwi.com) with smart caching, parallel queries, and flexible filtering.",
+  "source_repo": "ellisp97/FlightFinderMCP",
+  "source_url": "https://github.com/ellisp97/FlightFinderMCP",
+  "install": "# git clone --depth 1 https://github.com/ellisp97/FlightFinderMCP\n# See source for mcpServers config block"
+}

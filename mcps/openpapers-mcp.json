@@ -1,0 +1,7 @@
+{
+  "name": "openpapers-mcp",
+  "description": "Enables searching for scientific papers across OpenAlex, CrossRef, and Unpaywall, and downloading open-access PDFs directly through Claude Desktop.",
+  "source_repo": "Scentless-trick128/openpapers-mcp",
+  "source_url": "https://github.com/Scentless-trick128/openpapers-mcp",
+  "install": "npx -y openpapers-mcp"
+}

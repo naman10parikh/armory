@@ -1,0 +1,7 @@
+{
+  "name": "klaxon",
+  "description": "An MCP server that connects language models to a Wazuh SIEM cluster, enabling read-only plain-language queries, schema inspection, field coverage analysis, and decoder testing.",
+  "source_repo": "sec73/klaxon",
+  "source_url": "https://github.com/sec73/klaxon",
+  "install": "# git clone --depth 1 https://github.com/sec73/klaxon\n# See source for mcpServers config block"
+}

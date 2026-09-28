@@ -1,0 +1,7 @@
+{
+  "name": "zbmath-mcp",
+  "description": "MCP server to search and retrieve mathematical publications, author profiles, and software entries from zbMath Open.",
+  "source_repo": "iwaokimura/zbmath-mcp",
+  "source_url": "https://github.com/iwaokimura/zbmath-mcp",
+  "install": "npx -y zbmath-mcp"
+}

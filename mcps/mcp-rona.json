@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rona",
+  "description": "Enables product search, product detail, online availability, and store finder for RONA's catalogue via MCP tools.",
+  "source_repo": "sstepanovvl/mcp_rona",
+  "source_url": "https://github.com/sstepanovvl/mcp_rona",
+  "install": "# git clone --depth 1 https://github.com/sstepanovvl/mcp_rona\n# See source for mcpServers config block"
+}

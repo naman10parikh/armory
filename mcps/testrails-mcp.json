@@ -1,0 +1,7 @@
+{
+  "name": "testrails-mcp",
+  "description": "MCP server for TestRail that enables AI agents to manage test cases, runs, and results, plus a bundled skill to convert Jira tickets into TestRail test cases.",
+  "source_repo": "adakh3/testrails-mcp",
+  "source_url": "https://github.com/adakh3/testrails-mcp",
+  "install": "npx -y testrails-mcp"
+}

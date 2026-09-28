@@ -1,0 +1,7 @@
+{
+  "name": "proton-bridge-mcp",
+  "description": "Enables sending correctly threaded email replies through Proton Mail Bridge using SMTP with proper In-Reply-To and References headers, avoiding IMAP draft pitfalls.",
+  "source_repo": "krantiutils/proton-bridge-mcp",
+  "source_url": "https://github.com/krantiutils/proton-bridge-mcp",
+  "install": "npx -y proton-bridge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alien-plugg-x402-mcp-server",
+  "description": "MCP server exposing 10 curated tools for AI agents, providing crypto trading signals, on-chain analysis, and web utilities via pay-per-call x402 endpoints on the Base network.",
+  "source_repo": "michaelhutchings626-hub/alien-plugg-x402",
+  "source_url": "https://github.com/michaelhutchings626-hub/alien-plugg-x402",
+  "install": "# git clone --depth 1 https://github.com/michaelhutchings626-hub/alien-plugg-x402\n# See source for mcpServers config block"
+}

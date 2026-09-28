@@ -1,0 +1,7 @@
+{
+  "name": "darknet-mcp-server",
+  "description": "Dark web & threat intelligence for AI agents. HIBP, ThreatFox, ransomware tracking, Tor .onion access, blockchain intel, exploit search, stealer logs, malware analysis — unified into a single MCP server.",
+  "source_repo": "badchars/darknet-mcp-server",
+  "source_url": "https://github.com/badchars/darknet-mcp-server",
+  "install": "npx -y darknet-mcp-server"
+}

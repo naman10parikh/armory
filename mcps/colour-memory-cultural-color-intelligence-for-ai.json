@@ -1,0 +1,7 @@
+{
+  "name": "colour-memory-cultural-color-intelligence-for-ai",
+  "description": "The world's only historically grounded colour archive built for AI agents. Thousands of named colours across dozens of cultural archives spanning Ancient Rome, Byzantine Empire, Georgian Pleasures, Dickens, Shakespeare, Keats, Japan, Islamic tradition, Viking Norse, Racing Silks, toxic pigments, lit",
+  "source_repo": "",
+  "source_url": "https://colourmemory.com",
+  "install": "# git clone --depth 1 https://colourmemory.com\n# See source for mcpServers config block"
+}

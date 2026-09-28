@@ -1,0 +1,7 @@
+{
+  "name": "google-seo-mcp",
+  "description": "Provides AI agents with hands-on control of Google SEO and analytics tools including Search Console, GA4, Tag Manager, Indexing API, and PageSpeed Insights, with self-configuring OAuth2.",
+  "source_repo": "skiddgoddamn/google-seo-mcp",
+  "source_url": "https://github.com/skiddgoddamn/google-seo-mcp",
+  "install": "npx -y google-seo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "log-reflect-mcp",
+  "description": "Captures and retrieves Markdown records for a personal recording system, enabling journaling, input tracking, search, and date-range review.",
+  "source_repo": "sunling/log-reflect-mcp",
+  "source_url": "https://github.com/sunling/log-reflect-mcp",
+  "install": "npx -y log-reflect-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ibmcloud-mcp-server",
+  "description": "MCP server wrapping the IBM Cloud CLI, providing 80+ tools for managing IBM Cloud resources including authentication, Kubernetes, Cloud Foundry, IAM, and billing.",
+  "source_repo": "ExpertVagabond/ibmcloud-mcp-server",
+  "source_url": "https://github.com/ExpertVagabond/ibmcloud-mcp-server",
+  "install": "npx -y ibmcloud-mcp-server"
+}

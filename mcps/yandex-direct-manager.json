@@ -1,0 +1,7 @@
+{
+  "name": "yandex-direct-manager",
+  "description": "MCP-коннектор для Яндекс Директа: управляйте кампаниями и аналитикой из Claude и ChatGPT — поиск лишних трат, ставки, бюджеты, минус-слова, аудит. Нужен аккаунт Direct Manager (app.marketscore.ru).",
+  "source_repo": "marketscore/marketscore-direct-mcp",
+  "source_url": "https://github.com/marketscore/marketscore-direct-mcp",
+  "install": "npx -y marketscore-direct-mcp"
+}

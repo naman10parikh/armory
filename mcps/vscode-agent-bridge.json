@@ -1,0 +1,7 @@
+{
+  "name": "vscode-agent-bridge",
+  "description": "Enables AI agents to access live VS Code editor state, symbol navigation, diagnostics, and language-aware editing through MCP, bridging the gap between what the agent can infer from disk and what the editor actually knows.",
+  "source_repo": "mend3/vscode-agent-bridge",
+  "source_url": "https://github.com/mend3/vscode-agent-bridge",
+  "install": "# git clone --depth 1 https://github.com/mend3/vscode-agent-bridge\n# See source for mcpServers config block"
+}

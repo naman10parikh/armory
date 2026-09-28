@@ -1,0 +1,7 @@
+{
+  "name": "unifi-protect-mcp",
+  "description": "Exposes UniFi Protect's Integration REST API as tools for Claude Code and other MCP clients, providing 73 tools to manage cameras, lights, sensors, and more with safety features like read-only mode and dry-run support.",
+  "source_repo": "owine/unifi-protect-mcp",
+  "source_url": "https://github.com/owine/unifi-protect-mcp",
+  "install": "npx -y unifi-protect-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zip-hive-scaffold",
+  "description": "MCP server for bulk-creating files and folders for any project, with built-in templates and custom scaffold support.",
+  "source_repo": "Dqrshan/ziphive-scaffold",
+  "source_url": "https://github.com/Dqrshan/ziphive-scaffold",
+  "install": "# git clone --depth 1 https://github.com/Dqrshan/ziphive-scaffold\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chongplus-image-mcp",
+  "description": "Enables AI assistants to generate and edit images via the ChongPlus Image API, with secure API key management and local file saving.",
+  "source_repo": "Rodert/chongplus-image-mcp",
+  "source_url": "https://github.com/Rodert/chongplus-image-mcp",
+  "install": "npx -y chongplus-image-mcp"
+}

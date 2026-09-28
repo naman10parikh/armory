@@ -1,0 +1,7 @@
+{
+  "name": "instacodeio-icloud-drive-mcp-server",
+  "description": "MCP server for iCloud Drive on macOS, enabling Claude to browse, read, search, tag, write, and trash files with safe defaults and automatic handling of iCloud placeholder files.",
+  "source_repo": "InstaCode/icloud-drive-mcp-server",
+  "source_url": "https://github.com/InstaCode/icloud-drive-mcp-server",
+  "install": "npx -y icloud-drive-mcp-server"
+}

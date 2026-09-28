@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-trustcar",
+  "description": "MCP server for trustcar.info, a Ukrainian license-plate lookup and driver review service. It provides tools to look up vehicle details, recent plates, and post reviews.",
+  "source_repo": "trustcarinfo/mcp-server-trustcar",
+  "source_url": "https://github.com/trustcarinfo/mcp-server-trustcar",
+  "install": "# git clone --depth 1 https://github.com/trustcarinfo/mcp-server-trustcar\n# See source for mcpServers config block"
+}

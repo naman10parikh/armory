@@ -1,0 +1,7 @@
+{
+  "name": "twitter-mcp",
+  "description": "A lightweight Twitter MCP server for Claude Code with 17 tools for reading and writing tweets, including search, user profiles, and media uploads, using a hybrid API approach.",
+  "source_repo": "armatrix/twitter-mcp",
+  "source_url": "https://github.com/armatrix/twitter-mcp",
+  "install": "npx -y twitter-mcp"
+}

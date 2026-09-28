@@ -1,0 +1,7 @@
+{
+  "name": "ambient-context-mcp",
+  "description": "Windows tray process that exposes local ambient context (presence, foreground app, battery, etc.) as MCP tools with privacy classification and opt-in controls.",
+  "source_repo": "nassie256/ambient-context-mcp",
+  "source_url": "https://github.com/nassie256/ambient-context-mcp",
+  "install": "npx -y ambient-context-mcp"
+}

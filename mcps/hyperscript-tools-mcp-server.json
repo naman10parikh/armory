@@ -1,0 +1,7 @@
+{
+  "name": "hyperscript-tools-mcp-server",
+  "description": "MCP server providing parser-backed validation, parsing, documentation, and editor assistance for AI agents working with _hyperscript.",
+  "source_repo": "codetalcott/hyperscript-tools",
+  "source_url": "https://github.com/codetalcott/hyperscript-tools",
+  "install": "# git clone --depth 1 https://github.com/codetalcott/hyperscript-tools\n# See source for mcpServers config block"
+}

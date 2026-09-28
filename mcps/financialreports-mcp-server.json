@@ -1,0 +1,7 @@
+{
+  "name": "financialreports-mcp-server",
+  "description": "Official MCP server for the FinancialReports API. Provides direct access to regulatory filings, financial data, and corporate information from listed companies worldwide via 15 curated tools.",
+  "source_repo": "financial-reports/financial-reports-mcp-server",
+  "source_url": "https://github.com/financial-reports/financial-reports-mcp-server",
+  "install": "npx -y financial-reports-mcp-server"
+}

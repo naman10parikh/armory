@@ -1,0 +1,7 @@
+{
+  "name": "make-audit-mcp",
+  "description": "Audits Make.com scenario blueprints before import, checking for hardcoded secrets, dangling references, plain-HTTP URLs, and other issues. Provides tools to inspect blueprint structure, trace module mappings, and generate a safety findings report.",
+  "source_repo": "arose26/make-audit-mcp",
+  "source_url": "https://github.com/arose26/make-audit-mcp",
+  "install": "npx -y make-audit-mcp"
+}

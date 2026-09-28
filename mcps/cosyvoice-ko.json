@@ -1,0 +1,7 @@
+{
+  "name": "cosyvoice-ko",
+  "description": "Local Korean text-to-speech MCP server using a fine-tuned CosyVoice2 model, enabling voice synthesis directly from Claude or Codex with privacy and no API costs.",
+  "source_repo": "feedingstick321-maker/cosyvoice2-ko-sft-mcp",
+  "source_url": "https://github.com/feedingstick321-maker/cosyvoice2-ko-sft-mcp",
+  "install": "npx -y cosyvoice2-ko-sft-mcp"
+}

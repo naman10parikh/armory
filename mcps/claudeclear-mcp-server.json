@@ -1,0 +1,7 @@
+{
+  "name": "claudeclear-mcp-server",
+  "description": "This MCP server rewrites text to remove Claude's statistical watermark and strips metadata from images, enabling integration with Claude Code via stdio or HTTP.",
+  "source_repo": "aidevelopers2/claudeclear-mcp",
+  "source_url": "https://github.com/aidevelopers2/claudeclear-mcp",
+  "install": "npx -y claudeclear-mcp"
+}

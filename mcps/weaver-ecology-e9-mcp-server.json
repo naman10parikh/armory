@@ -1,0 +1,7 @@
+{
+  "name": "weaver-ecology-e9-mcp-server",
+  "description": "MCP server for Weaver OA Ecology E9, enabling workflow management, organizational queries, and file uploads. Automatically handles authentication and RSA encryption for secure API calls.",
+  "source_repo": "wenzhengclaude/weaver-ecology-mcp-openone",
+  "source_url": "https://github.com/wenzhengclaude/weaver-ecology-mcp-openone",
+  "install": "# git clone --depth 1 https://github.com/wenzhengclaude/weaver-ecology-mcp-openone\n# See source for mcpServers config block"
+}

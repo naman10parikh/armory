@@ -1,0 +1,7 @@
+{
+  "name": "kimi-k2-heavy-processor-mcp",
+  "description": "Enables heavy computation and data processing tasks in Claude Desktop, including complex SQL operations, large-scale data transformations, and resilient batch processing with automatic retry mechanisms.",
+  "source_repo": "justmy2satoshis/kimi-k2-heavy-processor-mcp",
+  "source_url": "https://github.com/justmy2satoshis/kimi-k2-heavy-processor-mcp",
+  "install": "npx -y kimi-k2-heavy-processor-mcp"
+}

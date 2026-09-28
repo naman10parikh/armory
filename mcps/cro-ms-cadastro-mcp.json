@@ -1,0 +1,7 @@
+{
+  "name": "cro-ms-cadastro-mcp",
+  "description": "Consulta o cadastro do Conselho Regional de Odontologia de Mato Grosso do Sul em fonte oficial, via ferramenta de leitura única.",
+  "source_repo": "mcp-dir/cro_ms_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cro_ms_cadastro-mcp",
+  "install": "npx -y cro_ms_cadastro-mcp"
+}

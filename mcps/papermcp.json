@@ -1,0 +1,7 @@
+{
+  "name": "papermcp",
+  "description": "Enables searching and accessing academic papers from 23+ sources (including arXiv, PubMed, Google Scholar) through the Model Context Protocol, with unified tools for search, download, and text extraction.",
+  "source_repo": "telagod/papermcp",
+  "source_url": "https://github.com/telagod/papermcp",
+  "install": "# git clone --depth 1 https://github.com/telagod/papermcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "excel-engine-mcp",
+  "description": "Enables real Excel desktop automation to recalculate formulas, read computed cell values, and export true-fidelity PDFs, complementing library-based workflows.",
+  "source_repo": "Feynman520/d01-p02-excel-engine-mcp",
+  "source_url": "https://github.com/Feynman520/d01-p02-excel-engine-mcp",
+  "install": "npx -y d01-p02-excel-engine-mcp"
+}

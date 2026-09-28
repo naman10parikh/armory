@@ -1,0 +1,7 @@
+{
+  "name": "importly-mcp-server",
+  "description": "Enables AI agents to download, transcribe, and inspect video or audio URLs from YouTube, TikTok, X, and 1000+ other sites using server-side yt-dlp, residential proxies, and speech-to-text.",
+  "source_repo": "yyildiz/importly-mcp",
+  "source_url": "https://github.com/yyildiz/importly-mcp",
+  "install": "npx -y importly-mcp"
+}

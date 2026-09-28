@@ -1,0 +1,7 @@
+{
+  "name": "snapstack-server",
+  "description": "Enables MCP-capable LLM clients to read browser screenshots captured by the SnapStack extension, stored locally and served over Streamable HTTP.",
+  "source_repo": "bgaze/snapstack-server",
+  "source_url": "https://github.com/bgaze/snapstack-server",
+  "install": "# git clone --depth 1 https://github.com/bgaze/snapstack-server\n# See source for mcpServers config block"
+}

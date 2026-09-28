@@ -1,0 +1,7 @@
+{
+  "name": "langgraph-fastapi-mcp-server-demo",
+  "description": "Turns a shopping list FastAPI app into an MCP server, enabling a LangGraph chatbot to manage shopping lists via natural language.",
+  "source_repo": "davidkiss/langgraph-fastapi-mcp-server-demo",
+  "source_url": "https://github.com/davidkiss/langgraph-fastapi-mcp-server-demo",
+  "install": "# git clone --depth 1 https://github.com/davidkiss/langgraph-fastapi-mcp-server-demo\n# See source for mcpServers config block"
+}

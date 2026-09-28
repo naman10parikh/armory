@@ -1,0 +1,7 @@
+{
+  "name": "cran-mcp",
+  "description": "MCP server providing up-to-date R package documentation, package metadata, check status, help topics, and R release information directly from CRAN.",
+  "source_repo": "MEO265/cran_mcp",
+  "source_url": "https://github.com/MEO265/cran_mcp",
+  "install": "npx -y cran_mcp"
+}

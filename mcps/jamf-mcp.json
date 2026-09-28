@@ -1,0 +1,7 @@
+{
+  "name": "jamf-mcp",
+  "description": "Enables natural language interaction with Jamf Pro, Jamf Protect, and Jamf Security Cloud, allowing users to manage devices, security alerts, and configurations through Claude Desktop.",
+  "source_repo": "OtakuXavier/jamf-mcp",
+  "source_url": "https://github.com/OtakuXavier/jamf-mcp",
+  "install": "npx -y jamf-mcp"
+}

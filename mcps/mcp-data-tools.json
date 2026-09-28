@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-tools",
+  "description": "A governed MCP server enabling LLM agents to query BigQuery, inspect GCS, trigger Airflow DAGs, and run data-quality checks with built-in security guardrails like allow-lists, cost ceilings, and audit trails.",
+  "source_repo": "mahesh-cr-de/mcp-data-tools",
+  "source_url": "https://github.com/mahesh-cr-de/mcp-data-tools",
+  "install": "# git clone --depth 1 https://github.com/mahesh-cr-de/mcp-data-tools\n# See source for mcpServers config block"
+}

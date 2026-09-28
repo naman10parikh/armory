@@ -1,0 +1,7 @@
+{
+  "name": "log-mcp",
+  "description": "MCP server for log file analysis. Gives LLMs the ability to efficiently analyze large log files without loading them into context.",
+  "source_repo": "ascii766164696D/log-mcp",
+  "source_url": "https://github.com/ascii766164696D/log-mcp",
+  "install": "npx -y log-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "logpiper-mcp",
+  "description": "Logpiper is an MCP server and client for streaming terminal command logs with proactive error notifications.",
+  "source_repo": "ivan23kor/logpiper-mcp",
+  "source_url": "https://github.com/ivan23kor/logpiper-mcp",
+  "install": "npx -y logpiper-mcp"
+}

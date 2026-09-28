@@ -1,0 +1,7 @@
+{
+  "name": "mofox-docs-mcp",
+  "description": "Serves Neo-MoFox official documentation to MCP clients, enabling searching, listing, and reading docs via tools and resources.",
+  "source_repo": "minecraft1024a/mofox-docs-mcp",
+  "source_url": "https://github.com/minecraft1024a/mofox-docs-mcp",
+  "install": "npx -y mofox-docs-mcp"
+}

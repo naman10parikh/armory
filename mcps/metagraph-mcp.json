@@ -1,0 +1,7 @@
+{
+  "name": "metagraph-mcp",
+  "description": "Enables enterprise AI agents to query governed data lineage, PII-aware schema documentation, and semantic metadata from SQL logs via MCP, with role-based access and vector search.",
+  "source_repo": "midsane/MetaGraph-MCP",
+  "source_url": "https://github.com/midsane/MetaGraph-MCP",
+  "install": "npx -y MetaGraph-MCP"
+}

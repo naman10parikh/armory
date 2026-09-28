@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-ads-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for Microsoft Advertising (Bing Ads / DuckDuckGo Ads). This server enables AI assistants to create, manage, and report on Microsoft Advertising campaigns programmatically.",
+  "source_repo": "bit-of-a-shambles/microsoft-ads-mcp-server",
+  "source_url": "https://github.com/bit-of-a-shambles/microsoft-ads-mcp-server",
+  "install": "npx -y microsoft-ads-mcp-server"
+}

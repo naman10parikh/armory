@@ -1,0 +1,7 @@
+{
+  "name": "edupilot",
+  "description": "A multi-agent AI tutor that delivers personalized lessons, resolves doubts with RAG, generates quizzes, and tracks progress, all accessible via MCP for Claude Desktop.",
+  "source_repo": "Ismail-2001/Education-Tutor-Agent-with-MCP",
+  "source_url": "https://github.com/Ismail-2001/Education-Tutor-Agent-with-MCP",
+  "install": "npx -y Education-Tutor-Agent-with-MCP"
+}

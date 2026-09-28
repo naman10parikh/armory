@@ -1,0 +1,7 @@
+{
+  "name": "youtube-mcp-extended",
+  "description": "Manages YouTube channels via Claude Desktop, enabling AI-powered metadata optimization, video scheduling, playlist management, and backups with safety guardrails.",
+  "source_repo": "cubetribe/YouTube_MCP_over_API",
+  "source_url": "https://github.com/cubetribe/YouTube_MCP_over_API",
+  "install": "# git clone --depth 1 https://github.com/cubetribe/YouTube_MCP_over_API\n# See source for mcpServers config block"
+}

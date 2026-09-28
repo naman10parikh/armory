@@ -1,0 +1,7 @@
+{
+  "name": "mpt-rn-certid-o-negativa-de-feitos",
+  "description": "MCP server for querying MPT RN (Ministério Público do Trabalho do Rio Grande do Norte) labor court certificates (Certidão Negativa de Feitos) from official sources. It provides a single read-only tool for consultation via MCP over HTTP.",
+  "source_repo": "mcp-dir/mpt_rn_cnf-mcp",
+  "source_url": "https://github.com/mcp-dir/mpt_rn_cnf-mcp",
+  "install": "npx -y mpt_rn_cnf-mcp"
+}

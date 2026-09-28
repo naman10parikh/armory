@@ -7,7 +7,7 @@ license: MIT
 ---
 # claude-hud
 
-A really stacked status line that exposes just about everything you might need - context usage, tools, agents, todos, etc. Highly configurable and actively maintained at the time of writing - code quality is strong.
+A status line for Claude Code that shows context usage, tools, agents, to-dos and more. Highly configurable, and maintained when it was listed.
 
 **Source:** https://github.com/jarrodwatts/claude-hud
 

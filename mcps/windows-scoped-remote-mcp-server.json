@@ -1,0 +1,7 @@
+{
+  "name": "windows-scoped-remote-mcp-server",
+  "description": "Enables secure remote development on Windows by allowing LLM clients to manage files, run commands, and automate browsers within sandboxed workspaces, with multi-project switching and OAuth authentication.",
+  "source_repo": "moosin76/windows-scoped-remote-mcp-server",
+  "source_url": "https://github.com/moosin76/windows-scoped-remote-mcp-server",
+  "install": "npx -y windows-scoped-remote-mcp-server"
+}

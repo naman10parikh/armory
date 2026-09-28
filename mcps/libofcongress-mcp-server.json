@@ -1,0 +1,7 @@
+{
+  "name": "libofcongress-mcp-server",
+  "description": "Search LOC digital collections, Chronicling America newspapers (full OCR), and LC Subject Headings.",
+  "source_repo": "",
+  "source_url": "https://libofcongress.caseyjhand.com/mcp",
+  "install": "# git clone --depth 1 https://libofcongress.caseyjhand.com/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "elite-mcp",
+  "description": "Enables AI agents to read and write workout, food, cardio, and body-weight data on a self-hosted Elite fitness-tracker instance through the Model Context Protocol.",
+  "source_repo": "natyavidhan/elite-mcp",
+  "source_url": "https://github.com/natyavidhan/elite-mcp",
+  "install": "npx -y elite-mcp"
+}

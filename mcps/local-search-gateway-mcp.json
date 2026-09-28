@@ -1,0 +1,7 @@
+{
+  "name": "local-search-gateway-mcp",
+  "description": "Provides a free, no-paid-API web search gateway for AI agents using DuckDuckGo and Bing HTML scrapers, with tools for search, URL fetching, and text extraction.",
+  "source_repo": "fleixweb/local-search-gateway-mcp",
+  "source_url": "https://github.com/fleixweb/local-search-gateway-mcp",
+  "install": "npx -y local-search-gateway-mcp"
+}

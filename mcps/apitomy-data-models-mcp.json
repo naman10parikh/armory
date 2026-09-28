@@ -1,0 +1,7 @@
+{
+  "name": "apitomy-data-models-mcp",
+  "description": "An MCP server that wraps the @apitomy/data-models library for querying, validating, and editing OpenAPI and AsyncAPI documents.",
+  "source_repo": "Apitomy/apitomy-data-models-mcp",
+  "source_url": "https://github.com/Apitomy/apitomy-data-models-mcp",
+  "install": "npx -y apitomy-data-models-mcp"
+}

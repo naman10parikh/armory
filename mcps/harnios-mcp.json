@@ -1,0 +1,7 @@
+{
+  "name": "harnios-mcp",
+  "description": "Harnios is a self-hosted, MCP-based storage system that gives every AI assistant you use — Claude, ChatGPT, Cursor, or anything else — a shared, persistent memory of your business: knowledge base, skills, projects, operational tables, and reports, all in one place. Connect a new tool once, and it re",
+  "source_repo": "harnios/harnios-mcp",
+  "source_url": "https://github.com/harnios/harnios-mcp",
+  "install": "npx -y harnios-mcp"
+}

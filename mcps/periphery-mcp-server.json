@@ -1,0 +1,7 @@
+{
+  "name": "periphery-mcp-server",
+  "description": "Enables AI assistants to perform Swift code audits and detect unused code in iOS/macOS projects using Periphery CLI.",
+  "source_repo": "zyntx-lab/periphery-mcp-server",
+  "source_url": "https://github.com/zyntx-lab/periphery-mcp-server",
+  "install": "npx -y periphery-mcp-server"
+}

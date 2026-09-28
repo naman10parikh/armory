@@ -1,0 +1,7 @@
+{
+  "name": "azure-ai-vision-face-api-mcp-server",
+  "description": "Enables face detection and recognition in Agentic AI workflows using Azure Face API, supporting attribute detection, image comparison, and face recognition.",
+  "source_repo": "Azure-Samples/azure-ai-vision-face-api-mcp-server",
+  "source_url": "https://github.com/Azure-Samples/azure-ai-vision-face-api-mcp-server",
+  "install": "npx -y azure-ai-vision-face-api-mcp-server"
+}

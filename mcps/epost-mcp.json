@@ -1,0 +1,7 @@
+{
+  "name": "epost-mcp",
+  "description": "Enables listing and downloading scanned letters from the Swiss ePost digital letterbox through browser automation, requiring manual SwissID login for session establishment.",
+  "source_repo": "sapn95/epost-mcp",
+  "source_url": "https://github.com/sapn95/epost-mcp",
+  "install": "npx -y epost-mcp"
+}

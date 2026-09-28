@@ -1,0 +1,7 @@
+{
+  "name": "gmocoin-fx-mcp",
+  "description": "Enables trading on GMO Coin FX through natural language, including placing, modifying, and canceling orders, retrieving account assets, and managing open positions.",
+  "source_repo": "RikitoNoto/gmocoin-fx-mcp",
+  "source_url": "https://github.com/RikitoNoto/gmocoin-fx-mcp",
+  "install": "npx -y gmocoin-fx-mcp"
+}

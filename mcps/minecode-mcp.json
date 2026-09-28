@@ -1,0 +1,7 @@
+{
+  "name": "minecode-mcp",
+  "description": "MineCode is a local MCP server that provides AI assistants with real-time access to Minecraft data, documentation, datapack generators, and logs, featuring 19 tools for datapack development.",
+  "source_repo": "AnCarsenat/minecode-mcp",
+  "source_url": "https://github.com/AnCarsenat/minecode-mcp",
+  "install": "npx -y minecode-mcp"
+}

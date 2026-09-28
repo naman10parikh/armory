@@ -1,0 +1,7 @@
+{
+  "name": "msteams-mcp",
+  "description": "MCP server for Microsoft Teams that lets AI assistants search, message, and manage chats, meetings, files, and contacts using your existing Teams browser login—no app approval or Azure AD registration needed.",
+  "source_repo": "hickeroar/msteams-mcp",
+  "source_url": "https://github.com/hickeroar/msteams-mcp",
+  "install": "npx -y msteams-mcp"
+}

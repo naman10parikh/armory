@@ -1,0 +1,7 @@
+{
+  "name": "painel-sint-tico-concorde",
+  "description": "Enables AI assistants to explore a panel of 787 synthetic Brazilian banking consumer personas for product discovery, with deterministic filtering and statistical facts.",
+  "source_repo": "caio-sartoratto/painel-sintetico-mcp",
+  "source_url": "https://github.com/caio-sartoratto/painel-sintetico-mcp",
+  "install": "npx -y painel-sintetico-mcp"
+}

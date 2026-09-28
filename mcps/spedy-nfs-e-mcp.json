@@ -1,0 +1,7 @@
+{
+  "name": "spedy-nfs-e-mcp",
+  "description": "Enables issuing, consulting, and listing Brazilian NFS-e invoices through Spedy's API over an authenticated HTTP endpoint.",
+  "source_repo": "vinilana/nf-mcp",
+  "source_url": "https://github.com/vinilana/nf-mcp",
+  "install": "npx -y nf-mcp"
+}

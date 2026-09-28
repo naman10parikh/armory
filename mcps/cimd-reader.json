@@ -1,0 +1,7 @@
+{
+  "name": "cimd-reader",
+  "description": "Enables testing and validation of MCP OAuth clients by observing whether they use Client ID Metadata Documents (CIMD), fall back to Dynamic Client Registration, or send static client IDs via a fake OAuth server and dashboard.",
+  "source_repo": "AkxenTech/cimd-reader",
+  "source_url": "https://github.com/AkxenTech/cimd-reader",
+  "install": "# git clone --depth 1 https://github.com/AkxenTech/cimd-reader\n# See source for mcpServers config block"
+}

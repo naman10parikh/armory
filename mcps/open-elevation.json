@@ -1,0 +1,7 @@
+{
+  "name": "open-elevation",
+  "description": "Enables fetching terrain elevation in metres above mean sea level for a single latitude/longitude coordinate. No authentication required, part of Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-open-elevation",
+  "source_url": "https://github.com/pipeworx-io/mcp-open-elevation",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-open-elevation\n# See source for mcpServers config block"
+}

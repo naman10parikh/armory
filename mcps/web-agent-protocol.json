@@ -1,0 +1,7 @@
+{
+  "name": "web-agent-protocol",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/web-agent-protocol",
+  "install": "# git clone --depth 1 https://mcp.so/server/web-agent-protocol\n# See source for mcpServers config block"
+}

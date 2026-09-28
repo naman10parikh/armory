@@ -1,0 +1,7 @@
+{
+  "name": "codeindex",
+  "description": "Serves a repo-indexing engine over stdio with tools for scanning, graph analysis, symbol extraction, caller lookup, and grep.",
+  "source_repo": "maxgfr/codeindex",
+  "source_url": "https://github.com/maxgfr/codeindex",
+  "install": "# git clone --depth 1 https://github.com/maxgfr/codeindex\n# See source for mcpServers config block"
+}

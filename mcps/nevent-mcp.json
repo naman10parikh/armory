@@ -1,0 +1,7 @@
+{
+  "name": "nevent-mcp",
+  "description": "Enables natural language interaction with Nevent's live-event marketing platform, including campaigns, analytics, paid ads, segments, and short URLs, via 52 tools across 9 categories.",
+  "source_repo": "nevent-dev/mcp-nevent",
+  "source_url": "https://github.com/nevent-dev/mcp-nevent",
+  "install": "# git clone --depth 1 https://github.com/nevent-dev/mcp-nevent\n# See source for mcpServers config block"
+}

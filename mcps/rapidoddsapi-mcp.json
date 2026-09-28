@@ -1,0 +1,7 @@
+{
+  "name": "rapidoddsapi-mcp",
+  "description": "MCP server for RapidOddsAPI that provides bookmaker odds, live scores, arbitrage and value bets to AI assistants. It supports querying sports, odds, results, and betting opportunities with credit-based usage.",
+  "source_repo": "rapidoddsapi/rapidoddsapi-mcp",
+  "source_url": "https://github.com/rapidoddsapi/rapidoddsapi-mcp",
+  "install": "npx -y rapidoddsapi-mcp"
+}

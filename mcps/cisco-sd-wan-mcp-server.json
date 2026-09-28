@@ -1,0 +1,7 @@
+{
+  "name": "cisco-sd-wan-mcp-server",
+  "description": "Enables natural language automation of Cisco SD-WAN vManage, including device management, template deployment, policy configuration, monitoring, and software upgrades.",
+  "source_repo": "limtsi/sdwan_mcp",
+  "source_url": "https://github.com/limtsi/sdwan_mcp",
+  "install": "npx -y sdwan_mcp"
+}

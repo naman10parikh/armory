@@ -1,0 +1,7 @@
+{
+  "name": "adalm2000-mcp",
+  "description": "MCP server for ADALM2000 (M2k) — AWG, scope, and PSU control via FastMCP 3.4.",
+  "source_repo": "B83C/adalm2000-mcp",
+  "source_url": "https://github.com/B83C/adalm2000-mcp",
+  "install": "npx -y adalm2000-mcp"
+}

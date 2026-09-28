@@ -1,0 +1,7 @@
+{
+  "name": "hevo-mcp-server",
+  "description": "Enables managing Hevo Data pipelines from Claude Code, including listing, creating, enabling, disabling, resyncing, and updating pipeline and source configurations.",
+  "source_repo": "felixjoy89hevo/Hevo-MCP",
+  "source_url": "https://github.com/felixjoy89hevo/Hevo-MCP",
+  "install": "npx -y Hevo-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aena-flights-mcp",
+  "description": "Provides flight search and details for Spanish AENA airports, combining public and authenticated APIs into one interface.",
+  "source_repo": "MrGo2/aena-mcp",
+  "source_url": "https://github.com/MrGo2/aena-mcp",
+  "install": "npx -y aena-mcp"
+}

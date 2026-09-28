@@ -1,0 +1,7 @@
+{
+  "name": "sas-mcp-server",
+  "description": "An MCP server for executing SAS code and managing SAS Viya resources, including data, CAS tables, models, and batch jobs, with support for multiple deployment modes and authentication options.",
+  "source_repo": "raedaldweik/SAS_MCP_Server_personal",
+  "source_url": "https://github.com/raedaldweik/SAS_MCP_Server_personal",
+  "install": "# git clone --depth 1 https://github.com/raedaldweik/SAS_MCP_Server_personal\n# See source for mcpServers config block"
+}

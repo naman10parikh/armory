@@ -1,0 +1,7 @@
+{
+  "name": "ai-remote",
+  "description": "Vision-capable MCP server for controlling Amazon Fire TV through Home Assistant, providing screenshot-guided observation, remote commands, and app/URI actions via authenticated REST calls.",
+  "source_repo": "dynamite-bud/ai-remote",
+  "source_url": "https://github.com/dynamite-bud/ai-remote",
+  "install": "# git clone --depth 1 https://github.com/dynamite-bud/ai-remote\n# See source for mcpServers config block"
+}

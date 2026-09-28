@@ -1,0 +1,7 @@
+{
+  "name": "telegram-ask-mcp",
+  "description": "Enables Claude to send questions via Telegram and receive answers from your phone, bypassing terminal popups.",
+  "source_repo": "naryeo628/telegram-ask-mcp",
+  "source_url": "https://github.com/naryeo628/telegram-ask-mcp",
+  "install": "npx -y telegram-ask-mcp"
+}

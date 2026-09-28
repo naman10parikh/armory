@@ -1,0 +1,7 @@
+{
+  "name": "llmsproxy",
+  "description": "Connects MCP clients (Claude Desktop, Cursor, Cline, Zed) to llmsproxy.ai, exposing chat, coding, and retrieval capabilities as MCP tools, resources, and prompts.",
+  "source_repo": "danielckv/proxiedllms-mcp",
+  "source_url": "https://github.com/danielckv/proxiedllms-mcp",
+  "install": "npx -y proxiedllms-mcp"
+}

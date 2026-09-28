@@ -1,0 +1,7 @@
+{
+  "name": "usagewall",
+  "description": "Live LLM pricing as an MCP server. Ask Claude or any MCP client 'how much does this prompt cost?' and get real numbers from a hand-checked pricing table for every major LLM.",
+  "source_repo": "agenciabakucl-coder/usagewall",
+  "source_url": "https://github.com/agenciabakucl-coder/usagewall",
+  "install": "# git clone --depth 1 https://github.com/agenciabakucl-coder/usagewall\n# See source for mcpServers config block"
+}

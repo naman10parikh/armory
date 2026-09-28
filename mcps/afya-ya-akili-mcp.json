@@ -1,0 +1,7 @@
+{
+  "name": "afya-ya-akili-mcp",
+  "description": "Provides mental health resources for Kenya including therapist finder, crisis lines, rights under Kenya Mental Health Act, workplace wellness, and self-help resources.",
+  "source_repo": "gabrielmahia/afya-ya-akili-mcp",
+  "source_url": "https://github.com/gabrielmahia/afya-ya-akili-mcp",
+  "install": "npx -y afya-ya-akili-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "predictionmarketspicks-quant",
+  "description": "Prediction-market quant tools — expected value, Kelly sizing, Bayesian updating, odds conversion, base-rate gaps, cross-platform arbitrage, and mispricing edge — for Kalshi and Polymarket contracts, exposed as a remote MCP server.",
+  "source_repo": "predictionmarketspicks/mcp",
+  "source_url": "https://github.com/predictionmarketspicks/mcp",
+  "install": "# git clone --depth 1 https://github.com/predictionmarketspicks/mcp\n# See source for mcpServers config block"
+}

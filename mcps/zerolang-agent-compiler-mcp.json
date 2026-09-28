@@ -1,0 +1,7 @@
+{
+  "name": "zerolang-agent-compiler-mcp",
+  "description": "Paid remote MCP for ZeroLang, providing tools to compile ZeroLang programs, run fixtures, explain compile errors, and export agent plans, with structured receipts and audit logs.",
+  "source_repo": "clauxel/zerolang-agent-compiler-mcp-mcp",
+  "source_url": "https://github.com/clauxel/zerolang-agent-compiler-mcp-mcp",
+  "install": "npx -y zerolang-agent-compiler-mcp-mcp"
+}

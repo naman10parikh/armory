@@ -1,0 +1,7 @@
+{
+  "name": "agentops",
+  "description": "MCP server that browses the web, checks conditions (price, text, stock), and takes autonomous actions like form filling, with n8n notifications and a dashboard.",
+  "source_repo": "mansisonani07/agentops-mcp",
+  "source_url": "https://github.com/mansisonani07/agentops-mcp",
+  "install": "npx -y agentops-mcp"
+}

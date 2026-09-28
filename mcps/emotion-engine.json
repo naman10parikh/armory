@@ -1,0 +1,7 @@
+{
+  "name": "emotion-engine",
+  "description": "Local-first stdio MCP server for agent relationship-continuity state: PAD mood, affective pulse, trust, decay, and boundary signals kept beside factual memory.",
+  "source_repo": "pioneerjeff-labs/emotion-engine",
+  "source_url": "https://github.com/pioneerjeff-labs/emotion-engine",
+  "install": "# git clone --depth 1 https://github.com/pioneerjeff-labs/emotion-engine\n# See source for mcpServers config block"
+}

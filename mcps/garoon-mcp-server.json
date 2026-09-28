@@ -1,0 +1,7 @@
+{
+  "name": "garoon-mcp-server",
+  "description": "Official local MCP server for Garoon, enabling AI assistants to interact with the Garoon groupware platform through tools like schedule retrieval and user management.",
+  "source_repo": "garoon/garoon-mcp-server",
+  "source_url": "https://github.com/garoon/garoon-mcp-server",
+  "install": "npx -y garoon-mcp-server"
+}

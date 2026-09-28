@@ -1,0 +1,7 @@
+{
+  "name": "disclos-article-50",
+  "description": "Generates EU AI Act Article 50 transparency disclosures for AI features, in all 24 EU languages, with copy-paste HTML snippets and determines which rules apply.",
+  "source_repo": "GatisOzols/disclos-article-50",
+  "source_url": "https://github.com/GatisOzols/disclos-article-50",
+  "install": "# git clone --depth 1 https://github.com/GatisOzols/disclos-article-50\n# See source for mcpServers config block"
+}

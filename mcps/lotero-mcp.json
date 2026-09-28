@@ -1,0 +1,7 @@
+{
+  "name": "lotero-mcp",
+  "description": "Provably fair on-chain slot machine: x402 spins in USDC on Base, Chainlink VRF results, winnings claimed to the human's wallet. Ships an enforced session spin limit as a responsible-gambling guardrail.",
+  "source_repo": "csacanam/lotero-core",
+  "source_url": "https://github.com/csacanam/lotero-core",
+  "install": "# git clone --depth 1 https://github.com/csacanam/lotero-core\n# See source for mcpServers config block"
+}

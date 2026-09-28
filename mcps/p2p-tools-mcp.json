@@ -1,0 +1,7 @@
+{
+  "name": "p2p-tools-mcp",
+  "description": "Provides MCP servers for VPN control (NordVPN) and torrent lifecycle management via Jackett search and qBittorrent operations, plus a unified CLI.",
+  "source_repo": "bonklek/p2p-tools-mcp",
+  "source_url": "https://github.com/bonklek/p2p-tools-mcp",
+  "install": "npx -y p2p-tools-mcp"
+}

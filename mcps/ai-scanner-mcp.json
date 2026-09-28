@@ -1,0 +1,7 @@
+{
+  "name": "ai-scanner-mcp",
+  "description": "MCP server for ai-scanner that enables AI agents to scan codebases for LLM usage, AI frameworks, and exposed secrets.",
+  "source_repo": "sky-in-code/ai-scanner-mcp",
+  "source_url": "https://github.com/sky-in-code/ai-scanner-mcp",
+  "install": "npx -y ai-scanner-mcp"
+}

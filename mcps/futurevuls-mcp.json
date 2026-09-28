@@ -1,0 +1,7 @@
+{
+  "name": "futurevuls-mcp",
+  "description": "MCP server for FutureVuls vulnerability management service, enabling AI assistants to search CVEs, manage tasks, and generate reports.",
+  "source_repo": "keides2/futurevuls-mcp",
+  "source_url": "https://github.com/keides2/futurevuls-mcp",
+  "install": "npx -y futurevuls-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "paperware-mcp",
+  "description": "Enables AI agents to directly interact with ERPNext/Frappe business data and operations, including document management, submissions, cancellations, reports, PDF generation, file uploads, and whitelisted method calls, with per-request permission enforcement.",
+  "source_repo": "sadikhossainnub/paperware_mcp",
+  "source_url": "https://github.com/sadikhossainnub/paperware_mcp",
+  "install": "npx -y paperware_mcp"
+}

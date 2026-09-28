@@ -1,0 +1,7 @@
+{
+  "name": "copilot-status-mcp",
+  "description": "MCP server to check GitHub Copilot quota, rate-limit status, and reset times from any MCP client.",
+  "source_repo": "DrSmile444/copilot-status-mcp",
+  "source_url": "https://github.com/DrSmile444/copilot-status-mcp",
+  "install": "npx -y copilot-status-mcp"
+}

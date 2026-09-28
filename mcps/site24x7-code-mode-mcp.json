@@ -1,0 +1,7 @@
+{
+  "name": "site24x7-code-mode-mcp",
+  "description": "A Model Context Protocol server for Zoho Site24x7 that uses a JavaScript sandbox to execute API calls, enabling management of monitors, accounts, and MSP/BU tenancy through natural language.",
+  "source_repo": "jmpijll/site24x7-code-mode-mcp",
+  "source_url": "https://github.com/jmpijll/site24x7-code-mode-mcp",
+  "install": "npx -y site24x7-code-mode-mcp"
+}

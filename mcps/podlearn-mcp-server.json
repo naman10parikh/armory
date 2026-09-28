@@ -1,0 +1,7 @@
+{
+  "name": "podlearn-mcp-server",
+  "description": "Enables transcription, search, and lesson generation from podcast and YouTube URLs directly inside Claude Code.",
+  "source_repo": "blutrich/podlearn-plugin",
+  "source_url": "https://github.com/blutrich/podlearn-plugin",
+  "install": "# git clone --depth 1 https://github.com/blutrich/podlearn-plugin\n# See source for mcpServers config block"
+}

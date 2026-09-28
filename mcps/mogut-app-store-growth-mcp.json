@@ -1,0 +1,7 @@
+{
+  "name": "mogut-app-store-growth-mcp",
+  "description": "Mogut — open-source, read-only MCP server for Apple App Store ASO and growth intelligence: keyword research, competitor analysis, review mining, pricing, localization, and reports.",
+  "source_repo": "erayendes/app-store-growth-mcp",
+  "source_url": "https://github.com/erayendes/app-store-growth-mcp",
+  "install": "npx -y app-store-growth-mcp"
+}

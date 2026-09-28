@@ -1,0 +1,7 @@
+{
+  "name": "groundlight-mcp-server",
+  "description": "Enables natural language interaction with Groundlight to create and manage computer vision detectors, submit image queries, and set up alerts.",
+  "source_repo": "groundlight/groundlight-mcp-server",
+  "source_url": "https://github.com/groundlight/groundlight-mcp-server",
+  "install": "npx -y groundlight-mcp-server"
+}

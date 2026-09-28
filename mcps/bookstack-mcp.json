@@ -1,0 +1,7 @@
+{
+  "name": "bookstack-mcp",
+  "description": "HTTP MCP server enabling LLMs to search, create, read, update, and delete BookStack entities (books, chapters, pages, shelves) using API tokens.",
+  "source_repo": "jmhooper/bookstack-mcp",
+  "source_url": "https://github.com/jmhooper/bookstack-mcp",
+  "install": "npx -y bookstack-mcp"
+}

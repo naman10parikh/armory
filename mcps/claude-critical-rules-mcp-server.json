@@ -1,0 +1,7 @@
+{
+  "name": "claude-critical-rules-mcp-server",
+  "description": "Enforces 21 critical rules derived from 96+ documented failure patterns to prevent common AI assistant mistakes. Provides automatic compliance checklists, rule summaries, and auto-updates.",
+  "source_repo": "optimaquantum/claude-critical-rules-mcp",
+  "source_url": "https://github.com/optimaquantum/claude-critical-rules-mcp",
+  "install": "npx -y claude-critical-rules-mcp"
+}

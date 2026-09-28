@@ -1,0 +1,7 @@
+{
+  "name": "jucesp-redesim-acompanhamento-de-protocolo",
+  "description": "Enables tracking the status of a REDESIM protocol at JUCESP (company opening, alteration, or closure) with a single read-only tool. Works with any MCP client over HTTP, no credentials required, pay-per-use.",
+  "source_repo": "mcp-dir/jucesp_redesim_protocolo-mcp",
+  "source_url": "https://github.com/mcp-dir/jucesp_redesim_protocolo-mcp",
+  "install": "npx -y jucesp_redesim_protocolo-mcp"
+}

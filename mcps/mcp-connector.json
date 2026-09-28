@@ -1,0 +1,7 @@
+{
+  "name": "mcp-connector",
+  "description": "A general-purpose MCP connectivity layer that bridges MCP clients to authenticated remote MCP servers, managing authentication, credentials, routing, and connection lifecycle. It enables clients like OpenHands Cloud to securely connect to remote MCP servers such as Notion.",
+  "source_repo": "tamzrod/mcprelay",
+  "source_url": "https://github.com/tamzrod/mcprelay",
+  "install": "# git clone --depth 1 https://github.com/tamzrod/mcprelay\n# See source for mcpServers config block"
+}

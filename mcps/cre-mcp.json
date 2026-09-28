@@ -1,0 +1,7 @@
+{
+  "name": "cre-mcp",
+  "description": "MCP server for Moody's Commercial Real Estate API, providing 37 tools for property lookups, market analytics, comps, CMBS data, tax records, and more.",
+  "source_repo": "omar-k01/cre-mcp",
+  "source_url": "https://github.com/omar-k01/cre-mcp",
+  "install": "npx -y cre-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mikroclaw",
+  "description": "MCP server that enables Claude Code to access, monitor, and manage MikroTik RouterOS devices via its REST API, with 92 tools for read-only and optional write operations.",
+  "source_repo": "Syamsuddin/MikroCLAW",
+  "source_url": "https://github.com/Syamsuddin/MikroCLAW",
+  "install": "# git clone --depth 1 https://github.com/Syamsuddin/MikroCLAW\n# See source for mcpServers config block"
+}

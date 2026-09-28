@@ -1,0 +1,7 @@
+{
+  "name": "backloggd-mcp",
+  "description": "An MCP server for Backloggd, the video game tracker. It lets an AI assistant search the game catalogue and read and manage your library — statuses, ratings, logs, play sessions, reviews and lists — as the signed-in you.",
+  "source_repo": "DenisionSoft/backloggd-mcp",
+  "source_url": "https://github.com/DenisionSoft/backloggd-mcp",
+  "install": "npx -y backloggd-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dp-engineering-assistant",
+  "description": "A repo-native stdio MCP server that helps AI agents and human users make better use of existing CE-RISE Digital Passport components, services, schemas, documentation, and deployment workflows.",
+  "source_repo": "CE-RISE-software/dp-engineering-assistant",
+  "source_url": "https://github.com/CE-RISE-software/dp-engineering-assistant",
+  "install": "# git clone --depth 1 https://github.com/CE-RISE-software/dp-engineering-assistant\n# See source for mcpServers config block"
+}

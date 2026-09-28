@@ -1,0 +1,7 @@
+{
+  "name": "cobie-mcp",
+  "description": "MCP server for COBie Excel validation, updates, and PDF extraction.",
+  "source_repo": "roynertr/cobie-mcp",
+  "source_url": "https://github.com/roynertr/cobie-mcp",
+  "install": "npx -y cobie-mcp"
+}

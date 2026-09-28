@@ -1,0 +1,7 @@
+{
+  "name": "elevor-erp360",
+  "description": "Exposes the Elevor ERP360 API to MCP clients, enabling listing customers, checking credit limits, querying orders, syncing product catalog and stock, and creating e-commerce orders with stock updates, subject to scope-specific bearer tokens and write permissions.",
+  "source_repo": "vertexdevs-hq/elevor-mcp",
+  "source_url": "https://github.com/vertexdevs-hq/elevor-mcp",
+  "install": "npx -y elevor-mcp"
+}

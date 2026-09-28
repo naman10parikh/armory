@@ -1,0 +1,7 @@
+{
+  "name": "cst-mcp",
+  "description": "Turns CST Studio Suite into an AI-controllable electromagnetic design lab, enabling conversational THz metamaterial absorber design, unit-cell automation, Floquet port control, batch solve with checkpoint-resume, and surrogate-model predictions.",
+  "source_repo": "AndersOnLin4/cst-mcp",
+  "source_url": "https://github.com/AndersOnLin4/cst-mcp",
+  "install": "npx -y cst-mcp"
+}

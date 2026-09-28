@@ -1,0 +1,7 @@
+{
+  "name": "assetcli",
+  "description": "Enables natural language interaction for token launches, liquidity management, and treasury operations on Solana via the Model Context Protocol.",
+  "source_repo": "assetCLI/assetCLI-init",
+  "source_url": "https://github.com/assetCLI/assetCLI-init",
+  "install": "# git clone --depth 1 https://github.com/assetCLI/assetCLI-init\n# See source for mcpServers config block"
+}

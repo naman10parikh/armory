@@ -1,0 +1,7 @@
+{
+  "name": "lig-room",
+  "description": "Enables AI agents to search for available desk space, submit room reservations, and let admins approve or reject booking requests through a scoped MCP API.",
+  "source_repo": "MOSW626/lig-room",
+  "source_url": "https://github.com/MOSW626/lig-room",
+  "install": "# git clone --depth 1 https://github.com/MOSW626/lig-room\n# See source for mcpServers config block"
+}

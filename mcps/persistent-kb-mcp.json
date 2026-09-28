@@ -1,0 +1,7 @@
+{
+  "name": "persistent-kb-mcp",
+  "description": "A local-first MCP server providing persistent, searchable knowledge base via SQLite, enabling AI agents to save and recall facts across sessions without cloud dependencies.",
+  "source_repo": "0x67108864/persistent-kb-mcp",
+  "source_url": "https://github.com/0x67108864/persistent-kb-mcp",
+  "install": "npx -y persistent-kb-mcp"
+}

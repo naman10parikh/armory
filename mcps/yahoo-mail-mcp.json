@@ -1,0 +1,7 @@
+{
+  "name": "yahoo-mail-mcp",
+  "description": "MCP server for cleaning up Yahoo Mail inbox, enabling email management (list, search, delete) from Claude via remote deployment.",
+  "source_repo": "sagarparasarmk/yahoo-mail-mcp",
+  "source_url": "https://github.com/sagarparasarmk/yahoo-mail-mcp",
+  "install": "npx -y yahoo-mail-mcp"
+}

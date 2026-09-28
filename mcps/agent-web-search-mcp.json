@@ -1,0 +1,7 @@
+{
+  "name": "agent-web-search-mcp",
+  "description": "Enables MCP-compatible agents to perform web searches via the agent-web-search engine, returning ranked results with sources.",
+  "source_repo": "blueewhitee/agent-web-search-mcp",
+  "source_url": "https://github.com/blueewhitee/agent-web-search-mcp",
+  "install": "npx -y agent-web-search-mcp"
+}

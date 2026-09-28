@@ -1,0 +1,7 @@
+{
+  "name": "discord-admin-mcp",
+  "description": "An MCP server that enables AI assistants to manage Discord servers, including roles, channels, members, messages, and moderation, via natural language commands.",
+  "source_repo": "kfus/discord-admin-mcp",
+  "source_url": "https://github.com/kfus/discord-admin-mcp",
+  "install": "npx -y discord-admin-mcp"
+}

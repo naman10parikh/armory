@@ -1,0 +1,7 @@
+{
+  "name": "acc-mcp",
+  "description": "Autodesk Construction Cloud integration via APS — Manage projects, issues, RFIs, documents, and submittals.",
+  "source_repo": "ScanBIM-Labs/acc-mcp",
+  "source_url": "https://github.com/ScanBIM-Labs/acc-mcp",
+  "install": "npx -y acc-mcp"
+}

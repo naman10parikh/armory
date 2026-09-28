@@ -1,0 +1,7 @@
+{
+  "name": "kongyo2-npm-info-mcp-server",
+  "description": "MCP server that provides npm package information for AI agents during TypeScript development.",
+  "source_repo": "kongyo2/npm-info",
+  "source_url": "https://github.com/kongyo2/npm-info",
+  "install": "# git clone --depth 1 https://github.com/kongyo2/npm-info\n# See source for mcpServers config block"
+}

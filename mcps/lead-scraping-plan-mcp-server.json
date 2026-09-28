@@ -1,0 +1,7 @@
+{
+  "name": "lead-scraping-plan-mcp-server",
+  "description": "Enables running the lead scoring and outbound pipeline by talking to Claude, including scraping healthcare job postings, scoring against buyer ICP, gating on company size, and managing sequences.",
+  "source_repo": "saurabhshuklagrowisto/lead-scraping-plan",
+  "source_url": "https://github.com/saurabhshuklagrowisto/lead-scraping-plan",
+  "install": "# git clone --depth 1 https://github.com/saurabhshuklagrowisto/lead-scraping-plan\n# See source for mcpServers config block"
+}

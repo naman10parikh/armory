@@ -1,0 +1,7 @@
+{
+  "name": "emergencyops-mcp-server",
+  "description": "Enables LLM agents to access live seismic data, calculate emergency vehicle routes, and dispatch first responders to incidents.",
+  "source_repo": "jdbruh18/emergencyops-mcp-server",
+  "source_url": "https://github.com/jdbruh18/emergencyops-mcp-server",
+  "install": "npx -y emergencyops-mcp-server"
+}

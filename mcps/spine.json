@@ -1,0 +1,7 @@
+{
+  "name": "spine",
+  "description": "Exposes a governed, provenance-grounded autonomous delivery pipeline as an MCP server, enabling AI coding assistants like Claude Code or Codex to initiate requirements-to-PR workflows with human approval gates and full audit.",
+  "source_repo": "synaptixs/spine",
+  "source_url": "https://github.com/synaptixs/spine",
+  "install": "# git clone --depth 1 https://github.com/synaptixs/spine\n# See source for mcpServers config block"
+}

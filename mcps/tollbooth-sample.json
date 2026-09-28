@@ -1,0 +1,7 @@
+{
+  "name": "tollbooth-sample",
+  "description": "A reference MCP server demonstrating Bitcoin Lightning micropayments for weather data via the Tollbooth DPYC SDK, wrapping Open-Meteo and providing paid tools for current, forecast, and historical weather.",
+  "source_repo": "lonniev/tollbooth-sample",
+  "source_url": "https://github.com/lonniev/tollbooth-sample",
+  "install": "# git clone --depth 1 https://github.com/lonniev/tollbooth-sample\n# See source for mcpServers config block"
+}

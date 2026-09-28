@@ -1,0 +1,7 @@
+{
+  "name": "unreal-python-mcp",
+  "description": "Enables AI coding assistants to browse Unreal Python API documentation, search classes and functions, and execute Python code in Unreal Editor.",
+  "source_repo": "self-taught-code-tokushima/unreal-python-mcp",
+  "source_url": "https://github.com/self-taught-code-tokushima/unreal-python-mcp",
+  "install": "npx -y unreal-python-mcp"
+}

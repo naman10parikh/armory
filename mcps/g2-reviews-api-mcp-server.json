@@ -1,0 +1,7 @@
+{
+  "name": "g2-reviews-api-mcp-server",
+  "description": "Enables fetching structured JSON reviews from G2 product pages, including ratings, pros/cons, reviewer details, and optional product metadata.",
+  "source_repo": "johnisanerd/Apify-G2-Reviews-API",
+  "source_url": "https://github.com/johnisanerd/Apify-G2-Reviews-API",
+  "install": "# git clone --depth 1 https://github.com/johnisanerd/Apify-G2-Reviews-API\n# See source for mcpServers config block"
+}

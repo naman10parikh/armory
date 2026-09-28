@@ -1,0 +1,7 @@
+{
+  "name": "openmemkit",
+  "description": "Enables AI agents to maintain a persistent, queryable memory stored as user-owned Markdown files, with dual-channel retrieval (FTS5 and optional semantic search) and an audited write pipeline.",
+  "source_repo": "Jlnine/memory-mcp-openmemkit",
+  "source_url": "https://github.com/Jlnine/memory-mcp-openmemkit",
+  "install": "# git clone --depth 1 https://github.com/Jlnine/memory-mcp-openmemkit\n# See source for mcpServers config block"
+}

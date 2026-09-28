@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mock",
+  "description": "A lightweight mock MCP server for local testing and resilience experiments, providing predictable tool responses with simulated latency and errors.",
+  "source_repo": "vibeglitch/mcp_mock",
+  "source_url": "https://github.com/vibeglitch/mcp_mock",
+  "install": "# git clone --depth 1 https://github.com/vibeglitch/mcp_mock\n# See source for mcpServers config block"
+}

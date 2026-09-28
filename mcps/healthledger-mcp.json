@@ -1,0 +1,7 @@
+{
+  "name": "healthledger-mcp",
+  "description": "A local-first, model-agnostic MCP server that stores personal health data in a SQLite file and provides analysis-ready views for any AI client to log, retrieve, and reason over health records.",
+  "source_repo": "Cole-Will-I-Am/HealthLedger-MCP",
+  "source_url": "https://github.com/Cole-Will-I-Am/HealthLedger-MCP",
+  "install": "npx -y HealthLedger-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stlouis-pollen",
+  "description": "Provides access to St. Louis County pollen and mold data, including current levels, per-species counts, and historical daily reports back to 2000.",
+  "source_repo": "pmaxhogan/stlouis-pollen",
+  "source_url": "https://github.com/pmaxhogan/stlouis-pollen",
+  "install": "# git clone --depth 1 https://github.com/pmaxhogan/stlouis-pollen\n# See source for mcpServers config block"
+}

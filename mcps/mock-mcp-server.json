@@ -1,0 +1,7 @@
+{
+  "name": "mock-mcp-server",
+  "description": "A test MCP server that validates gateway connectivity, identity propagation, and provides mock tools for testing purposes.",
+  "source_repo": "wontaeJeong/mock-mcp-server",
+  "source_url": "https://github.com/wontaeJeong/mock-mcp-server",
+  "install": "npx -y mock-mcp-server"
+}

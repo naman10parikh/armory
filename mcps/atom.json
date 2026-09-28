@@ -1,0 +1,7 @@
+{
+  "name": "atom",
+  "description": "Manages GitHub pull request notifications in Slack, including repo-channel mappings, reminders, and standups.",
+  "source_repo": "vakra-dev/atom-cli",
+  "source_url": "https://github.com/vakra-dev/atom-cli",
+  "install": "# git clone --depth 1 https://github.com/vakra-dev/atom-cli\n# See source for mcpServers config block"
+}

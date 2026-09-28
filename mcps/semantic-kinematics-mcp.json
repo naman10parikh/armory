@@ -1,0 +1,7 @@
+{
+  "name": "semantic-kinematics-mcp",
+  "description": "Embedding space analysis toolkit that measures semantic drift, traces trajectory dynamics, and projects passages onto caller-defined semantic axes, exposed as MCP tools for agentic integration.",
+  "source_repo": "shanevcantwell/semantic-kinematics-mcp",
+  "source_url": "https://github.com/shanevcantwell/semantic-kinematics-mcp",
+  "install": "npx -y semantic-kinematics-mcp"
+}

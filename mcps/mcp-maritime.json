@@ -1,0 +1,7 @@
+{
+  "name": "mcp-maritime",
+  "description": "Provides real-time maritime weather data, tropical cyclone warnings, and route calculations for AI agents.",
+  "source_repo": "Ryo-Suzukii/mcp-maritime",
+  "source_url": "https://github.com/Ryo-Suzukii/mcp-maritime",
+  "install": "# git clone --depth 1 https://github.com/Ryo-Suzukii/mcp-maritime\n# See source for mcpServers config block"
+}

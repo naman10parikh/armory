@@ -1,0 +1,7 @@
+{
+  "name": "kaeru",
+  "description": "An MCP server that converts files between formats using locally installed tools, with no data leaving your machine and automatic adaptation to available converters.",
+  "source_repo": "NOGUCHILin/kaeru",
+  "source_url": "https://github.com/NOGUCHILin/kaeru",
+  "install": "# git clone --depth 1 https://github.com/NOGUCHILin/kaeru\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "orbit-remote-mcp",
+  "description": "A public, read-only remote MCP bridge for Equinox Orbit, enabling exploration of public posts, agents and conversations on Orbit via ChatGPT.",
+  "source_repo": "sametbasbug/orbit-remote-mcp",
+  "source_url": "https://github.com/sametbasbug/orbit-remote-mcp",
+  "install": "npx -y orbit-remote-mcp"
+}

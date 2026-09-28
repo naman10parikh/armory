@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chat-2",
+  "description": "Enables interactive CLI chat with AI using Anthropic API, supporting document retrieval and command-based prompts via MCP tools.",
+  "source_repo": "akritiAgrawal27/mcp_cli_chatbot",
+  "source_url": "https://github.com/akritiAgrawal27/mcp_cli_chatbot",
+  "install": "# git clone --depth 1 https://github.com/akritiAgrawal27/mcp_cli_chatbot\n# See source for mcpServers config block"
+}

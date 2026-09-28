@@ -1,0 +1,7 @@
+{
+  "name": "pdf-reporter-mcp",
+  "description": "MCP server for rendering Mermaid diagrams to SVG and converting Markdown with callout blocks into styled PDF reports.",
+  "source_repo": "alexmakeev/pdf-reporter-mcp",
+  "source_url": "https://github.com/alexmakeev/pdf-reporter-mcp",
+  "install": "npx -y pdf-reporter-mcp"
+}

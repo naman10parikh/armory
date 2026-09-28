@@ -1,0 +1,7 @@
+{
+  "name": "quota-dashboard-mcp",
+  "description": "Queries real-time AI subscription quota for Claude Code Max, Kimi, and Z.ai. Tokens are read from environment variables and never stored.",
+  "source_repo": "ryan-knowone/quota-dashboard-mcp",
+  "source_url": "https://github.com/ryan-knowone/quota-dashboard-mcp",
+  "install": "npx -y quota-dashboard-mcp"
+}

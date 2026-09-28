@@ -1,0 +1,7 @@
+{
+  "name": "serial-mcp-2",
+  "description": "MCP server for serial ports — non-blocking reads, DTR/RTS, streaming subscriptions, port allowlist.",
+  "source_repo": "qarnet/serial-mcp",
+  "source_url": "https://github.com/qarnet/serial-mcp",
+  "install": "npx -y serial-mcp"
+}

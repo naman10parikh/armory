@@ -1,0 +1,7 @@
+{
+  "name": "devkit-mcp",
+  "description": "A developer toolkit MCP server offering seven utilities: HTTP requests, JWT decoding, hashing, UUID generation, regex testing, cron explanation, and text encoding.",
+  "source_repo": "lllNuggetslll/devkit-mcp",
+  "source_url": "https://github.com/lllNuggetslll/devkit-mcp",
+  "install": "npx -y devkit-mcp"
+}

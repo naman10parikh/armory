@@ -1,0 +1,7 @@
+{
+  "name": "engrava-mcp",
+  "description": "Exposes an agent memory database (Engrava) to any MCP client over stdio.",
+  "source_repo": "sovantica/engrava-mcp",
+  "source_url": "https://github.com/sovantica/engrava-mcp",
+  "install": "npx -y engrava-mcp"
+}

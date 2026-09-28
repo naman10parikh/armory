@@ -1,0 +1,7 @@
+{
+  "name": "uemcp",
+  "description": "Enables Claude to control Unreal Engine 5 editor, spawn actors, build materials, author Blueprints, and more, with zero plugin installation.",
+  "source_repo": "ATDev-Inc/uemcp",
+  "source_url": "https://github.com/ATDev-Inc/uemcp",
+  "install": "# git clone --depth 1 https://github.com/ATDev-Inc/uemcp\n# See source for mcpServers config block"
+}

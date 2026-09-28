@@ -1,0 +1,7 @@
+{
+  "name": "agent-keys",
+  "description": "An MCP server that lets AI agents autonomously acquire, store, verify, and manage API keys for various services.",
+  "source_repo": "Gonzih/agent-keys",
+  "source_url": "https://github.com/Gonzih/agent-keys",
+  "install": "# git clone --depth 1 https://github.com/Gonzih/agent-keys\n# See source for mcpServers config block"
+}

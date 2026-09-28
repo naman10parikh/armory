@@ -1,0 +1,7 @@
+{
+  "name": "governed-mcp",
+  "description": "MCP server that enforces governance on agentic decisions with auditable evidence records, providing tools for understanding, calibrating confidence, and navigating handoffs based on policy.",
+  "source_repo": "rsiraj0/governed-mcp",
+  "source_url": "https://github.com/rsiraj0/governed-mcp",
+  "install": "npx -y governed-mcp"
+}

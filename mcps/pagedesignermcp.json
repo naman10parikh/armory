@@ -1,0 +1,7 @@
+{
+  "name": "pagedesignermcp",
+  "description": "MCP server for the Tiangong page designer, providing code diagnostics, configuration recommendations, and knowledge search via GitLab API.",
+  "source_repo": "yanghaiyong/PageDesignerMcp",
+  "source_url": "https://github.com/yanghaiyong/PageDesignerMcp",
+  "install": "# git clone --depth 1 https://github.com/yanghaiyong/PageDesignerMcp\n# See source for mcpServers config block"
+}

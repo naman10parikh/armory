@@ -1,0 +1,7 @@
+{
+  "name": "diy-tools-mcp-server",
+  "description": "Enables dynamic creation and execution of custom tools/functions in multiple programming languages at runtime, exposing them to MCP clients like Claude.",
+  "source_repo": "hesreallyhim/diy-tools-mcp",
+  "source_url": "https://github.com/hesreallyhim/diy-tools-mcp",
+  "install": "npx -y diy-tools-mcp"
+}

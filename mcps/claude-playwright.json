@@ -1,0 +1,7 @@
+{
+  "name": "claude-playwright",
+  "description": "Enables browser automation and web interaction control through Playwright, allowing Claude Code to navigate, click, fill forms, take screenshots, and manage sessions.",
+  "source_repo": "smartlabsAT/claude-playwright",
+  "source_url": "https://github.com/smartlabsAT/claude-playwright",
+  "install": "# git clone --depth 1 https://github.com/smartlabsAT/claude-playwright\n# See source for mcpServers config block"
+}

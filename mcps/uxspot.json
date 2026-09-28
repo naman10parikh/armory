@@ -1,0 +1,7 @@
+{
+  "name": "uxspot",
+  "description": "A remote MCP server exposing uxspot.io's curated UX glossary, AI tools directory, checklists, and Learn UX curriculum as callable tools. Enables AI assistants to search for UX terms, tools, and checklists via natural language.",
+  "source_repo": "dockster/uxspot-mcp",
+  "source_url": "https://github.com/dockster/uxspot-mcp",
+  "install": "npx -y uxspot-mcp"
+}

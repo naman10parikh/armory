@@ -1,0 +1,7 @@
+{
+  "name": "enigma-memory",
+  "description": "Enables AI assistants to keep and retrieve private context locally, with verifiable receipts and optional Solana anchoring for public proofs.",
+  "source_repo": "Enigma-Memory/enigma-cortex-enterprise",
+  "source_url": "https://github.com/Enigma-Memory/enigma-cortex-enterprise",
+  "install": "# git clone --depth 1 https://github.com/Enigma-Memory/enigma-cortex-enterprise\n# See source for mcpServers config block"
+}

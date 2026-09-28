@@ -1,0 +1,7 @@
+{
+  "name": "mcp-client-slack",
+  "description": "Listens for Slack @mentions and publishes them as real-time events to the KĀDI event bus, enabling event-driven architectures with low latency.",
+  "source_repo": "a-g-e-n-t-s/mcp-client-slack",
+  "source_url": "https://github.com/a-g-e-n-t-s/mcp-client-slack",
+  "install": "# git clone --depth 1 https://github.com/a-g-e-n-t-s/mcp-client-slack\n# See source for mcpServers config block"
+}

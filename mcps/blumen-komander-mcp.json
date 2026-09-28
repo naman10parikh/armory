@@ -1,0 +1,7 @@
+{
+  "name": "blumen-komander-mcp",
+  "description": "Enables AI assistants to order flowers from a Munich florist, including search, availability check, cart creation, and checkout link generation.",
+  "source_repo": "Severin2k/blumen-komander-mcp",
+  "source_url": "https://github.com/Severin2k/blumen-komander-mcp",
+  "install": "npx -y blumen-komander-mcp"
+}

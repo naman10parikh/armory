@@ -1,0 +1,7 @@
+{
+  "name": "dc-coco-mcp",
+  "description": "Enables AI clients to control Cocos Creator editor projects, scenes, nodes, components, assets, Prefabs, building, and diagnostics via the MCP protocol.",
+  "source_repo": "dudachun/DC-COCO-MCP",
+  "source_url": "https://github.com/dudachun/DC-COCO-MCP",
+  "install": "npx -y DC-COCO-MCP"
+}

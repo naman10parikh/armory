@@ -1,0 +1,7 @@
+{
+  "name": "ai-vision-mcp",
+  "description": "Provides AI-powered image and video analysis using Google Gemini and Vertex AI models through the Model Context Protocol.",
+  "source_repo": "tan-yong-sheng/ai-vision-mcp",
+  "source_url": "https://github.com/tan-yong-sheng/ai-vision-mcp",
+  "install": "npx -y ai-vision-mcp"
+}

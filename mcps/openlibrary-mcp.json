@@ -1,0 +1,7 @@
+{
+  "name": "openlibrary-mcp",
+  "description": "Enables searching for books using the OpenLibrary API; provides a search_books tool for AI assistants to find books by title, author, or keywords.",
+  "source_repo": "uysalserkan/openlibrary-mcp",
+  "source_url": "https://github.com/uysalserkan/openlibrary-mcp",
+  "install": "npx -y openlibrary-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pokemon-mcp",
+  "description": "Provides accurate Pokemon data and Gen 9 damage calculation tools including stats, moves, type effectiveness, damage calculations, and accuracy checks for Pokemon battles.",
+  "source_repo": "suirenn0627/pokemon-mcp",
+  "source_url": "https://github.com/suirenn0627/pokemon-mcp",
+  "install": "npx -y pokemon-mcp"
+}

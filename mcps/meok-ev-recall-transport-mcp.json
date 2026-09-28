@@ -1,0 +1,7 @@
+{
+  "name": "meok-ev-recall-transport-mcp",
+  "description": "ADR Class 9 compliance toolkit for UK car transporters moving damaged or recalled EVs, enabling automated risk classification, documentation, and safety checks.",
+  "source_repo": "CSOAI-ORG/meok-ev-recall-transport-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/meok-ev-recall-transport-mcp",
+  "install": "npx -y meok-ev-recall-transport-mcp"
+}

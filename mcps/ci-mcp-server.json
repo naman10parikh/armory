@@ -1,0 +1,7 @@
+{
+  "name": "ci-mcp-server",
+  "description": "Enables AI assistants to manage SAP Cloud Integration (CPI) landscapes through natural language by exposing CPI OData APIs as MCP tools.",
+  "source_repo": "lemaiwo/ci-mcp-server",
+  "source_url": "https://github.com/lemaiwo/ci-mcp-server",
+  "install": "npx -y ci-mcp-server"
+}

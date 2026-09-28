@@ -1,0 +1,7 @@
+{
+  "name": "vindata-mcp",
+  "description": "A remote MCP server deployed on Cloudflare Workers with GitHub OAuth authentication, providing tools like add, user info, and image generation.",
+  "source_repo": "bhuvanabala/vindata-mcp",
+  "source_url": "https://github.com/bhuvanabala/vindata-mcp",
+  "install": "npx -y vindata-mcp"
+}

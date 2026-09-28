@@ -1,0 +1,7 @@
+{
+  "name": "openmarkets",
+  "description": "A Model Context Protocol (MCP) server for agentic retrieval of financial data from Yahoo Finance, enabling stock information, historical data, analyst data, and more.",
+  "source_repo": "danchev/openmarkets",
+  "source_url": "https://github.com/danchev/openmarkets",
+  "install": "# git clone --depth 1 https://github.com/danchev/openmarkets\n# See source for mcpServers config block"
+}

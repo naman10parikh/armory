@@ -1,0 +1,7 @@
+{
+  "name": "harvest-mcp-server",
+  "description": "Enables interaction with the Harvest time tracking API for managing time entries, projects, and tasks through natural language.",
+  "source_repo": "tgmclaughlin/harvest-mcp",
+  "source_url": "https://github.com/tgmclaughlin/harvest-mcp",
+  "install": "npx -y harvest-mcp"
+}

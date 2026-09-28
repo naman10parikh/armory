@@ -1,0 +1,7 @@
+{
+  "name": "opencode-document-rag-mcp",
+  "description": "Enables local semantic search over PDF, DOCX, PPTX, and EPUB documents by converting them to Markdown, indexing them in ChromaDB, and retrieving complete structure-aware sections with tables and equations.",
+  "source_repo": "humbertolvarona/opencode-document-rag-mcp",
+  "source_url": "https://github.com/humbertolvarona/opencode-document-rag-mcp",
+  "install": "npx -y opencode-document-rag-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "front-asset-intel-mcp",
+  "description": "Exposes precomputed asset research and rubric summaries for analyst agents, enabling lookup of asset summaries and full research reports via simple queries.",
+  "source_repo": "de-snake/front-asset-intel-mcp",
+  "source_url": "https://github.com/de-snake/front-asset-intel-mcp",
+  "install": "npx -y front-asset-intel-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tcu-consolidada-pj",
+  "description": "Consulta consolidada de uma empresa no TCU a partir do CNPJ, reunindo sanções e apontamentos, como servidor MCP somente leitura.",
+  "source_repo": "mcp-dir/tcu_consolidada_pj-mcp",
+  "source_url": "https://github.com/mcp-dir/tcu_consolidada_pj-mcp",
+  "install": "npx -y tcu_consolidada_pj-mcp"
+}

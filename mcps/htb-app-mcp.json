@@ -1,0 +1,7 @@
+{
+  "name": "htb-app-mcp",
+  "description": "Enables interaction with Hack The Box App services including machines, challenges, sherlocks, and more through the HTB API v4.",
+  "source_repo": "AeonDave/htb-app-mcp",
+  "source_url": "https://github.com/AeonDave/htb-app-mcp",
+  "install": "npx -y htb-app-mcp"
+}

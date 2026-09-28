@@ -1,0 +1,7 @@
+{
+  "name": "mcp-app-vscode-bigquery",
+  "description": "Enables GitHub Copilot to query BigQuery and render interactive React visualizations directly in VS Code Chat.",
+  "source_repo": "moeharrington/mcp-app-vscode-bigquery",
+  "source_url": "https://github.com/moeharrington/mcp-app-vscode-bigquery",
+  "install": "# git clone --depth 1 https://github.com/moeharrington/mcp-app-vscode-bigquery\n# See source for mcpServers config block"
+}

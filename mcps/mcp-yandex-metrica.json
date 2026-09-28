@@ -1,0 +1,7 @@
+{
+  "name": "mcp-yandex-metrica",
+  "description": "MCP server for Yandex Metrica analytics: query web analytics metrics, goals, conversions, and raw API data using natural language from AI clients like Claude and Cursor.",
+  "source_repo": "askads/mcp-yandex-metrica",
+  "source_url": "https://github.com/askads/mcp-yandex-metrica",
+  "install": "# git clone --depth 1 https://github.com/askads/mcp-yandex-metrica\n# See source for mcpServers config block"
+}

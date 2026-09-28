@@ -1,0 +1,7 @@
+{
+  "name": "godot-forge",
+  "description": "Provides progressive-disclosure MCP access to Godot editor development, enabling tool discovery, task execution, inspection, and status tracking for projects across Godot 4.5 to 4.8-dev.",
+  "source_repo": "oppenstrange-boop/GodotForgeMCP",
+  "source_url": "https://github.com/oppenstrange-boop/GodotForgeMCP",
+  "install": "# git clone --depth 1 https://github.com/oppenstrange-boop/GodotForgeMCP\n# See source for mcpServers config block"
+}

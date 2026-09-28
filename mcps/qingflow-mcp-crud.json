@@ -1,0 +1,7 @@
+{
+  "name": "qingflow-mcp-crud",
+  "description": "Enables CRUD operations on Qingflow forms, queries, and records through agent-native tools like qf.query.plan and qf.query.rows.",
+  "source_repo": "853046310/qingflow-mcp",
+  "source_url": "https://github.com/853046310/qingflow-mcp",
+  "install": "npx -y qingflow-mcp"
+}

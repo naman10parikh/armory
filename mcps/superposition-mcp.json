@@ -1,0 +1,7 @@
+{
+  "name": "superposition-mcp",
+  "description": "Provides a deterministic, keyless two-pole terrain map from an agent's task framings to counter premature collapse in reasoning, working offline or via API.",
+  "source_repo": "ejentum/superposition-mcp",
+  "source_url": "https://github.com/ejentum/superposition-mcp",
+  "install": "npx -y superposition-mcp"
+}

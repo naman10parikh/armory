@@ -1,0 +1,7 @@
+{
+  "name": "freeqrcode-mcp-server",
+  "description": "Enables AI assistants to generate QR codes for URLs, text, vCard, WiFi, email, and phone numbers with customizable size, colors, and error correction.",
+  "source_repo": "flarewand/freeqrcode-mcp-server",
+  "source_url": "https://github.com/flarewand/freeqrcode-mcp-server",
+  "install": "npx -y freeqrcode-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "keti-flow-mcp",
+  "description": "Enables querying optimal control values (angle for blowers, control for pumps) to minimize power given a required flow rate, using machine learning models trained on pump/fan operation data.",
+  "source_repo": "CodeNinja1126/KETI_FLOW_MCP",
+  "source_url": "https://github.com/CodeNinja1126/KETI_FLOW_MCP",
+  "install": "npx -y KETI_FLOW_MCP"
+}

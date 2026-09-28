@@ -1,0 +1,7 @@
+{
+  "name": "pontage",
+  "description": "Enables MCP tools to be gated behind per-call USDC micropayments with direct on-chain verification and settlement, removing the need for third-party payment facilitators.",
+  "source_repo": "mteen1/pontage",
+  "source_url": "https://github.com/mteen1/pontage",
+  "install": "# git clone --depth 1 https://github.com/mteen1/pontage\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fred-mcp-server",
+  "description": "An MCP server that provides access to the full FRED API (Federal Reserve Economic Data), including the Maps API for regional and geographic data.",
+  "source_repo": "floriancaro/fred-mcp-server",
+  "source_url": "https://github.com/floriancaro/fred-mcp-server",
+  "install": "npx -y fred-mcp-server"
+}

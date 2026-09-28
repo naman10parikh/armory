@@ -1,0 +1,7 @@
+{
+  "name": "ed-mcp",
+  "description": "An MCP server and CLI for Ed Discussion that gives LLMs access to threads, comments, attendance, moderation, file uploads, and instant local search through 43 tools.",
+  "source_repo": "januarharianto/ed-mcp",
+  "source_url": "https://github.com/januarharianto/ed-mcp",
+  "install": "npx -y ed-mcp"
+}

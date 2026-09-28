@@ -1,0 +1,7 @@
+{
+  "name": "jumuia-mcp",
+  "description": "MCP server for Kenya community finance — SACCO finder, chama formation, cooperative benefits, loan guides, member rights.",
+  "source_repo": "gabrielmahia/jumuia-mcp",
+  "source_url": "https://github.com/gabrielmahia/jumuia-mcp",
+  "install": "npx -y jumuia-mcp"
+}

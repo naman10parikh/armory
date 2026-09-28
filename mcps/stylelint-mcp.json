@@ -1,0 +1,7 @@
+{
+  "name": "stylelint-mcp",
+  "description": "Enables AI models to run Stylelint on CSS files and fix linting warnings directly through the Model Context Protocol.",
+  "source_repo": "ryo-manba/stylelint-mcp",
+  "source_url": "https://github.com/ryo-manba/stylelint-mcp",
+  "install": "npx -y stylelint-mcp"
+}

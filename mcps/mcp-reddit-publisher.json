@@ -1,0 +1,7 @@
+{
+  "name": "mcp-reddit-publisher",
+  "description": "MCP server for publishing to Reddit with safety features like dry-run, allowlist, and rule checking.",
+  "source_repo": "osamuelnovaes/mcp-reddit-publisher",
+  "source_url": "https://github.com/osamuelnovaes/mcp-reddit-publisher",
+  "install": "# git clone --depth 1 https://github.com/osamuelnovaes/mcp-reddit-publisher\n# See source for mcpServers config block"
+}

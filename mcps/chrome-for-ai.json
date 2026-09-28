@@ -1,0 +1,7 @@
+{
+  "name": "chrome-for-ai",
+  "description": "Enables AI agents to drive real Google Chrome with stealth and captcha handling, using Patchright to avoid bot detection.",
+  "source_repo": "Pelag-Michael/Chrome-for-AI",
+  "source_url": "https://github.com/Pelag-Michael/Chrome-for-AI",
+  "install": "# git clone --depth 1 https://github.com/Pelag-Michael/Chrome-for-AI\n# See source for mcpServers config block"
+}

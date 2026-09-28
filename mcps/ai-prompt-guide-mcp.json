@@ -1,0 +1,7 @@
+{
+  "name": "ai-prompt-guide-mcp",
+  "description": "Orchestrates AI agents through structured markdown documents, enabling multi-agent workflows with automatic context injection and workflow management.",
+  "source_repo": "Blakeem/AI-Prompt-Guide-MCP",
+  "source_url": "https://github.com/Blakeem/AI-Prompt-Guide-MCP",
+  "install": "npx -y AI-Prompt-Guide-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bedolaga-mcp-server",
+  "description": "Enables retrieving user balance in rubles from the Bedolaga Bot using Telegram ID.",
+  "source_repo": "mitetenov/bedolaga-mcp",
+  "source_url": "https://github.com/mitetenov/bedolaga-mcp",
+  "install": "npx -y bedolaga-mcp"
+}

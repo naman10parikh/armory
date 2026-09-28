@@ -1,0 +1,7 @@
+{
+  "name": "filesystem-mcp-local-test",
+  "description": "This MCP server provides read-only access to a single allowed local directory through a secure HTTP gateway, enabling remote MCP clients to read files without syncing them to cloud storage.",
+  "source_repo": "seokmogu/filesystem-mcp-local-test",
+  "source_url": "https://github.com/seokmogu/filesystem-mcp-local-test",
+  "install": "# git clone --depth 1 https://github.com/seokmogu/filesystem-mcp-local-test\n# See source for mcpServers config block"
+}

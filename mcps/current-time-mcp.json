@@ -1,0 +1,7 @@
+{
+  "name": "current-time-mcp",
+  "description": "A remote MCP server exposing date/time tools over Streamable HTTP, enabling retrieval of current time for IANA timezones and listing available timezones, designed for use with web clients like Claude.ai.",
+  "source_repo": "ggalancs/current-time-mcp",
+  "source_url": "https://github.com/ggalancs/current-time-mcp",
+  "install": "npx -y current-time-mcp"
+}

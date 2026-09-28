@@ -1,0 +1,7 @@
+{
+  "name": "docuqueue-mcp-server",
+  "description": "Enables creating professional documents (invoices, contracts, certificates, proposals, reports) via the DocuQueue API, with tools for template management, filling, previewing, and PDF generation.",
+  "source_repo": "docuqueue/docuqueue-mcp",
+  "source_url": "https://github.com/docuqueue/docuqueue-mcp",
+  "install": "npx -y docuqueue-mcp"
+}

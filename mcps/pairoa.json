@@ -1,0 +1,7 @@
+{
+  "name": "pairoa",
+  "description": "Enables private, AI-driven matching of needs and offers (e.g., cofounders, jobs, roommates) without public listings. Intents are matched by AI and revealed only to both sides when a real fit is found.",
+  "source_repo": "pairoa/docs",
+  "source_url": "https://github.com/pairoa/docs",
+  "install": "# git clone --depth 1 https://github.com/pairoa/docs\n# See source for mcpServers config block"
+}

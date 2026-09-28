@@ -1,0 +1,7 @@
+{
+  "name": "marketifyall-mcp",
+  "description": "A thin bridge that connects any stdio-based MCP client to the MarketifyALL workspace, enabling content generation, search, and discovery through a hosted MCP server with graduated safety controls.",
+  "source_repo": "Aadilhassan/marketifyall-mcp",
+  "source_url": "https://github.com/Aadilhassan/marketifyall-mcp",
+  "install": "npx -y marketifyall-mcp"
+}

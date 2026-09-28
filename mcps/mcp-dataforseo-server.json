@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dataforseo-server",
+  "description": "Enables SEO analysis and data retrieval through DataForSEO API, including keyword research, backlinks, competitor analysis, and on-page audits.",
+  "source_repo": "kevinmaqueda/mcp-dataforseo",
+  "source_url": "https://github.com/kevinmaqueda/mcp-dataforseo",
+  "install": "# git clone --depth 1 https://github.com/kevinmaqueda/mcp-dataforseo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "coalesce-transform-mcp",
+  "description": "MCP server for Coalesce that manages nodes, pipelines, environments, jobs, and runs, and enables project validation, DDL/DML preview, deployment planning, and cloud environment application.",
+  "source_repo": "Coalesce-Software-Inc/coalesce-transform-mcp",
+  "source_url": "https://github.com/Coalesce-Software-Inc/coalesce-transform-mcp",
+  "install": "npx -y coalesce-transform-mcp"
+}

@@ -1,6 +1,6 @@
 {
   "name": "fastapi-mcp",
-  "description": "Fastapi_mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "tadata-org/fastapi_mcp",
   "source_url": "https://mcp.so/server/fastapi_mcp/tadata-org",
   "install": "npx -y fastapi_mcp"

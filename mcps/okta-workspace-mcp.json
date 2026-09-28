@@ -1,0 +1,7 @@
+{
+  "name": "okta-workspace-mcp",
+  "description": "A community security-research MCP server providing Browser Session and OIDC authentication for Okta workspaces, enabling read-only exploration of Okta organizations and user identity.",
+  "source_repo": "oreneHack/okta_mcp",
+  "source_url": "https://github.com/oreneHack/okta_mcp",
+  "install": "npx -y okta_mcp"
+}

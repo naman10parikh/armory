@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ping-server",
+  "description": "Enables Claude Desktop to perform network ping tests and internet connectivity checks.",
+  "source_repo": "sadeghtkd/ping-mcp-server",
+  "source_url": "https://github.com/sadeghtkd/ping-mcp-server",
+  "install": "npx -y ping-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dsh-toolkit",
+  "description": "Exposes 20 deterministic tools for finance, data, content, and lifestyle tasks via MCP, A2A, and REST interfaces, enabling automation and multi-agent workflows.",
+  "source_repo": "chengganping-ship-it/dsh-toolkit",
+  "source_url": "https://github.com/chengganping-ship-it/dsh-toolkit",
+  "install": "# git clone --depth 1 https://github.com/chengganping-ship-it/dsh-toolkit\n# See source for mcpServers config block"
+}

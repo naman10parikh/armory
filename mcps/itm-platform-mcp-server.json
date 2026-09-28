@@ -1,0 +1,7 @@
+{
+  "name": "itm-platform-mcp-server",
+  "description": "Connects AI assistants to ITM Platform for searching projects, inspecting budgets, creating tasks, logging risks and issues, and updating project details via natural language.",
+  "source_repo": "itmplatform/mcp-server",
+  "source_url": "https://github.com/itmplatform/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/itmplatform/mcp-server\n# See source for mcpServers config block"
+}

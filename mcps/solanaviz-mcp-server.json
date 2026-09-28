@@ -1,0 +1,7 @@
+{
+  "name": "solanaviz-mcp-server",
+  "description": "Enables Claude to access, analyze, and visualize Solana blockchain data through natural language conversations.",
+  "source_repo": "FarseenSh/GOATsolana-mcp",
+  "source_url": "https://github.com/FarseenSh/GOATsolana-mcp",
+  "install": "npx -y GOATsolana-mcp"
+}

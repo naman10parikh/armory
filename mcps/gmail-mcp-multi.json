@@ -1,0 +1,7 @@
+{
+  "name": "gmail-mcp-multi",
+  "description": "A Gmail MCP server with native multi-account support, enabling management of multiple Gmail accounts from a single server instance.",
+  "source_repo": "dmorrill/gmail-mcp-multi",
+  "source_url": "https://github.com/dmorrill/gmail-mcp-multi",
+  "install": "# git clone --depth 1 https://github.com/dmorrill/gmail-mcp-multi\n# See source for mcpServers config block"
+}

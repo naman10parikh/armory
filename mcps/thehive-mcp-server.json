@@ -1,0 +1,7 @@
+{
+  "name": "thehive-mcp-server",
+  "description": "Enables managing security incidents, triage, response, automated analysis via Cortex, and threat intelligence sync with MISP through TheHive 5 API, offering 69 MCP tools.",
+  "source_repo": "nks1097/TheHive-MCP-Server",
+  "source_url": "https://github.com/nks1097/TheHive-MCP-Server",
+  "install": "npx -y TheHive-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "podmule-mcp-server",
+  "description": "Enables podcasters to manage their PodMule workspace through natural language, including searching back catalogues, drafting clips, generating show notes and interview briefs, and triaging workspace tasks.",
+  "source_repo": "Squared-Lemons-Ltd/podmule-plugin",
+  "source_url": "https://github.com/Squared-Lemons-Ltd/podmule-plugin",
+  "install": "# git clone --depth 1 https://github.com/Squared-Lemons-Ltd/podmule-plugin\n# See source for mcpServers config block"
+}

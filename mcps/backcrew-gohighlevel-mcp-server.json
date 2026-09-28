@@ -1,0 +1,7 @@
+{
+  "name": "backcrew-gohighlevel-mcp-server",
+  "description": "Enables AI assistants to interact with GoHighLevel CRM via natural language for lead lookup, pipeline management, messaging, and calendar operations, with read-only mode by default.",
+  "source_repo": "jayson-svg/backcrew-mcp-gohighlevel",
+  "source_url": "https://github.com/jayson-svg/backcrew-mcp-gohighlevel",
+  "install": "# git clone --depth 1 https://github.com/jayson-svg/backcrew-mcp-gohighlevel\n# See source for mcpServers config block"
+}

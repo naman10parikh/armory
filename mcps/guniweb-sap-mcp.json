@@ -1,0 +1,7 @@
+{
+  "name": "guniweb-sap-mcp",
+  "description": "Enables AI assistants and n8n workflows to interact with SAP S/4HANA and ECC systems via OData, IDoc, and RFC/BAPI, with governed read-only-by-default access and multiple authentication types.",
+  "source_repo": "guniweb/guniweb-sap-mcp",
+  "source_url": "https://github.com/guniweb/guniweb-sap-mcp",
+  "install": "npx -y guniweb-sap-mcp"
+}

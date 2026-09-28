@@ -1,0 +1,7 @@
+{
+  "name": "mcp-personal",
+  "description": "MCP server that provides tools to manage Gmail and Outlook emails, and search Mercadona products, for use with Cursor and LangChain.",
+  "source_repo": "afoone/mcp-personal",
+  "source_url": "https://github.com/afoone/mcp-personal",
+  "install": "# git clone --depth 1 https://github.com/afoone/mcp-personal\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "quake-mcp",
+  "description": "MCP server wrapping the USGS Earthquake Hazards API, enabling AI assistants to search the global earthquake catalog, look up event details, count quakes, find 'Did You Feel It' reports, and read realtime feeds.",
+  "source_repo": "adamcwade/quake-mcp",
+  "source_url": "https://github.com/adamcwade/quake-mcp",
+  "install": "npx -y quake-mcp"
+}

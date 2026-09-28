@@ -1,0 +1,7 @@
+{
+  "name": "namescope",
+  "description": "MCP server for evaluating software project name availability across package registries, GitHub, domains, and the command line, with scoring and evidence.",
+  "source_repo": "ensp1re/namescope",
+  "source_url": "https://github.com/ensp1re/namescope",
+  "install": "# git clone --depth 1 https://github.com/ensp1re/namescope\n# See source for mcpServers config block"
+}

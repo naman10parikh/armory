@@ -1,0 +1,7 @@
+{
+  "name": "framesleuth",
+  "description": "Local bug-reproduction video analysis tool that processes bug recordings frame-by-frame, producing a structured Bug Context Bundle, and exposes this capability over MCP for use by coding agents like VS Code and Claude.",
+  "source_repo": "santoshshinde2012/framesleuth",
+  "source_url": "https://github.com/santoshshinde2012/framesleuth",
+  "install": "# git clone --depth 1 https://github.com/santoshshinde2012/framesleuth\n# See source for mcpServers config block"
+}

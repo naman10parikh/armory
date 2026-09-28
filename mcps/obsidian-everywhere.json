@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-everywhere",
+  "description": "Enables Claude clients to interact with an Obsidian vault as a knowledge graph, supporting full-text search, backlink traversal, neighborhood exploration, and note creation/append.",
+  "source_repo": "junnnnnw00/obsidian-everywhere",
+  "source_url": "https://github.com/junnnnnw00/obsidian-everywhere",
+  "install": "# git clone --depth 1 https://github.com/junnnnnw00/obsidian-everywhere\n# See source for mcpServers config block"
+}

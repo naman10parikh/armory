@@ -1,0 +1,7 @@
+{
+  "name": "agent-skills-api",
+  "description": "A multi-agent system for code rules management using MCP, supporting search, generation, and architectural validation through specialized agents.",
+  "source_repo": "rodriguez2508/agent-skills",
+  "source_url": "https://github.com/rodriguez2508/agent-skills",
+  "install": "# git clone --depth 1 https://github.com/rodriguez2508/agent-skills\n# See source for mcpServers config block"
+}

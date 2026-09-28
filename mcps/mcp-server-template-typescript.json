@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-template-typescript",
+  "description": "A minimal Model Context Protocol server template deployable on Render, providing Streamable HTTP transport, bearer token authentication, and a pattern for adding custom tools.",
+  "source_repo": "zzhao-ashai/mcp-server-typescript-ms1ybxn7",
+  "source_url": "https://github.com/zzhao-ashai/mcp-server-typescript-ms1ybxn7",
+  "install": "# git clone --depth 1 https://github.com/zzhao-ashai/mcp-server-typescript-ms1ybxn7\n# See source for mcpServers config block"
+}

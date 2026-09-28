@@ -1,0 +1,7 @@
+{
+  "name": "spaces-mcp-server",
+  "description": "MCP server for the Spaces AI Marketplace that lets AI agents browse, join, and play in shared spaces via natural language.",
+  "source_repo": "neltomw/spaces-mcp-server",
+  "source_url": "https://github.com/neltomw/spaces-mcp-server",
+  "install": "npx -y spaces-mcp-server"
+}

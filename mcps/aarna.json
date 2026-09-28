@@ -1,0 +1,7 @@
+{
+  "name": "aarna",
+  "description": "Hosted MCP server for Aarna, providing deterministic tool mappings to Aarna's API endpoints for AI agents to interact with DeFi and crypto services without authentication.",
+  "source_repo": "junct-bot/aarna-mcp",
+  "source_url": "https://github.com/junct-bot/aarna-mcp",
+  "install": "npx -y aarna-mcp"
+}

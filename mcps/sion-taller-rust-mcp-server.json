@@ -1,0 +1,7 @@
+{
+  "name": "sion-taller-rust-mcp-server",
+  "description": "MCP server for the SION_TALLER_RUST workspace, enabling managed GitHub-to-Cargo workflows with governance, safety noops, and explicit approvals.",
+  "source_repo": "rudevairr-sys/SION_TALLER_RUST",
+  "source_url": "https://github.com/rudevairr-sys/SION_TALLER_RUST",
+  "install": "# git clone --depth 1 https://github.com/rudevairr-sys/SION_TALLER_RUST\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openclaw-docs-mcp",
+  "description": "Enables hybrid semantic and full-text search over OpenClaw documentation, with tools for chunk navigation, page outlines, and index statistics.",
+  "source_repo": "miguelcc06/openclaw-docs-mcp",
+  "source_url": "https://github.com/miguelcc06/openclaw-docs-mcp",
+  "install": "npx -y openclaw-docs-mcp"
+}

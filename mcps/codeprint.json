@@ -1,0 +1,7 @@
+{
+  "name": "codeprint",
+  "description": "An MCP server that indexes your git history and serves your personal coding style back to Claude as style rules, exemplars, and refinement patterns for style-conditioned code generation.",
+  "source_repo": "m4ttheweric/codeprint",
+  "source_url": "https://github.com/m4ttheweric/codeprint",
+  "install": "# git clone --depth 1 https://github.com/m4ttheweric/codeprint\n# See source for mcpServers config block"
+}

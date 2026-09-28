@@ -1,0 +1,7 @@
+{
+  "name": "repository-architecture-mcp-server",
+  "description": "Analyzes GitHub and local repositories to automatically generate visual architectural diagrams such as dependency graphs, class diagrams, and data flow diagrams.",
+  "source_repo": "vinit-devops/repo-architecture-mcp",
+  "source_url": "https://github.com/vinit-devops/repo-architecture-mcp",
+  "install": "npx -y repo-architecture-mcp"
+}

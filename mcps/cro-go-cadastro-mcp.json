@@ -1,0 +1,7 @@
+{
+  "name": "cro-go-cadastro-mcp",
+  "description": "Enables users to query the official Brazilian Regional Council of Dentistry (GO) registry for professional registration data through a read-only MCP server, with pay-per-use prepaid credits.",
+  "source_repo": "mcp-dir/cro_go_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cro_go_cadastro-mcp",
+  "install": "npx -y cro_go_cadastro-mcp"
+}

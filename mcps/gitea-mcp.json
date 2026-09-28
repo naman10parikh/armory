@@ -1,0 +1,7 @@
+{
+  "name": "gitea-mcp",
+  "description": "An MCP server that enables AI assistants to read, create, and manage issues, repositories, and releases on Gitea, Forgejo, or Codeberg instances via personal access tokens.",
+  "source_repo": "werebear73/gitea-mcp",
+  "source_url": "https://github.com/werebear73/gitea-mcp",
+  "install": "npx -y gitea-mcp"
+}

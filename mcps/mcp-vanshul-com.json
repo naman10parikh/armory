@@ -1,0 +1,7 @@
+{
+  "name": "mcp-vanshul-com",
+  "description": "A public MCP server that lets AI agents read live web pages as clean Markdown, with tools to fetch, search, extract metadata, and extract links from URLs.",
+  "source_repo": "vanshulgoyal101/mcp",
+  "source_url": "https://github.com/vanshulgoyal101/mcp",
+  "install": "# git clone --depth 1 https://github.com/vanshulgoyal101/mcp\n# See source for mcpServers config block"
+}

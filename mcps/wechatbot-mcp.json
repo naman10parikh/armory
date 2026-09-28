@@ -1,0 +1,7 @@
+{
+  "name": "wechatbot-mcp",
+  "description": "MCP server that lets agents read and reply to WeChat messages, send text/media/files, and manage login via the official WeChat iLink Bot SDK.",
+  "source_repo": "zhyyyq/wechatbot-mcp",
+  "source_url": "https://github.com/zhyyyq/wechatbot-mcp",
+  "install": "npx -y wechatbot-mcp"
+}

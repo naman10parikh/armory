@@ -1,0 +1,7 @@
+{
+  "name": "openfate-bazi-mcp",
+  "description": "Enables AI agents to calculate deterministic Bazi (Four Pillars) charts with True Solar Time and Earthly Branch interactions, avoiding LLM hallucination of calendrical math.",
+  "source_repo": "openfate-ai/bazi-mcp",
+  "source_url": "https://github.com/openfate-ai/bazi-mcp",
+  "install": "npx -y bazi-mcp"
+}

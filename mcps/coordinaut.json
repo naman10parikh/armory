@@ -1,0 +1,7 @@
+{
+  "name": "coordinaut",
+  "description": "Coordinates parallel AI coding agents by providing task ownership, scoped file locks, handoffs, and verification workflows.",
+  "source_repo": "LevDomasnih/coordinaut",
+  "source_url": "https://github.com/LevDomasnih/coordinaut",
+  "install": "# git clone --depth 1 https://github.com/LevDomasnih/coordinaut\n# See source for mcpServers config block"
+}

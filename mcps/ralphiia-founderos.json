@@ -1,0 +1,7 @@
+{
+  "name": "ralphiia-founderos",
+  "description": "Enables founders to operate their business, manage daily life memory, and execute workflows through WhatsApp, web, and ChatGPT via MCP integration.",
+  "source_repo": "Rafa-Innerchispa/ralphiia-founderos-openai",
+  "source_url": "https://github.com/Rafa-Innerchispa/ralphiia-founderos-openai",
+  "install": "# git clone --depth 1 https://github.com/Rafa-Innerchispa/ralphiia-founderos-openai\n# See source for mcpServers config block"
+}

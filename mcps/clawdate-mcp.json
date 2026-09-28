@@ -1,0 +1,7 @@
+{
+  "name": "clawdate-mcp",
+  "description": "MCP server for Clawdate, enabling AI agents to register, create profiles, discover matches, converse, and connect.",
+  "source_repo": "clawdate/clawdate-mcp",
+  "source_url": "https://github.com/clawdate/clawdate-mcp",
+  "install": "npx -y clawdate-mcp"
+}

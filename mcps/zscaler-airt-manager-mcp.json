@@ -1,0 +1,7 @@
+{
+  "name": "zscaler-airt-manager-mcp",
+  "description": "MCP server for interacting with the Zscaler AIRT platform, enabling management of targets, test runs, probes, and vulnerability sweeps.",
+  "source_repo": "hshen-ai/zscaler-airt-manager-mcp",
+  "source_url": "https://github.com/hshen-ai/zscaler-airt-manager-mcp",
+  "install": "npx -y zscaler-airt-manager-mcp"
+}

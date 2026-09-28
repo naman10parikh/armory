@@ -1,0 +1,7 @@
+{
+  "name": "xrefkit-mcp",
+  "description": "Read-only MCP server that serves inactive definitions from XRefKit repositories, including Markdown content, workflow catalog, knowledge catalog, skill metadata, and distributable Python tools for client-side execution.",
+  "source_repo": "synthaicode/XRefkit.MCP",
+  "source_url": "https://github.com/synthaicode/XRefkit.MCP",
+  "install": "# git clone --depth 1 https://github.com/synthaicode/XRefkit.MCP\n# See source for mcpServers config block"
+}

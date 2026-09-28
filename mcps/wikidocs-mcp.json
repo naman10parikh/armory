@@ -1,0 +1,7 @@
+{
+  "name": "wikidocs-mcp",
+  "description": "Enables AI agents to read, edit, and manage Wikidocs books and blogs, including page CRUD operations, keyword search, and image uploads.",
+  "source_repo": "ychoi-kr/wikidocs-mcp",
+  "source_url": "https://github.com/ychoi-kr/wikidocs-mcp",
+  "install": "npx -y wikidocs-mcp"
+}

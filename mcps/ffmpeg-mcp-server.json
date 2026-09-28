@@ -1,0 +1,7 @@
+{
+  "name": "ffmpeg-mcp-server",
+  "description": "Enables video processing tasks such as resizing, audio extraction, and metadata inspection using FFmpeg, with base64 input/output for stateless and portable operation.",
+  "source_repo": "windsornguyen/ffmpeg-mcp",
+  "source_url": "https://github.com/windsornguyen/ffmpeg-mcp",
+  "install": "npx -y ffmpeg-mcp"
+}

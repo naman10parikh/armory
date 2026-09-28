@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-gitlab",
-  "description": "Mcp Server Gitlab MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "pci-frontend/mcp-server-gitlab",
   "source_url": "https://mcp.so/server/mcp-server-gitlab/pci-frontend",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-gitlab/pci-frontend\n# See source for mcpServers config block"

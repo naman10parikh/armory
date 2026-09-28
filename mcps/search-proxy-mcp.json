@@ -1,0 +1,7 @@
+{
+  "name": "search-proxy-mcp",
+  "description": "Enables AI agents to search the web, find news, and read page content via DuckDuckGo without an API key.",
+  "source_repo": "Rumblingb/search-proxy-mcp",
+  "source_url": "https://github.com/Rumblingb/search-proxy-mcp",
+  "install": "npx -y search-proxy-mcp"
+}

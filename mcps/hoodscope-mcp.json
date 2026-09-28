@@ -1,0 +1,7 @@
+{
+  "name": "hoodscope-mcp",
+  "description": "MCP server that gives deployer reputation, insider detection, and token buy-risk verdicts for Robinhood Chain memecoins, with paid tools settling via x402.",
+  "source_repo": "jamhimself/robinx-mcp",
+  "source_url": "https://github.com/jamhimself/robinx-mcp",
+  "install": "npx -y robinx-mcp"
+}

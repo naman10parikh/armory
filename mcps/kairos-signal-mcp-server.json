@@ -1,0 +1,7 @@
+{
+  "name": "kairos-signal-mcp-server",
+  "description": "Enables AI agents to access verifiable DePIN supply-side telemetry, browse and purchase data products using credits, query datasets, and verify data provenance with cryptographic and zero-knowledge tools.",
+  "source_repo": "OV3RK177/kairos-mcp-server",
+  "source_url": "https://github.com/OV3RK177/kairos-mcp-server",
+  "install": "npx -y kairos-mcp-server"
+}

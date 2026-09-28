@@ -1,0 +1,7 @@
+{
+  "name": "aspen-mcp",
+  "description": "Enables natural language control of Aspen Plus for chemical process simulation, including parameter tuning, batch runs, and result reading.",
+  "source_repo": "ddtlxc001/aspen-mcp",
+  "source_url": "https://github.com/ddtlxc001/aspen-mcp",
+  "install": "npx -y aspen-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hmc-mcp",
+  "description": "MCP server and CLI for IBM HMC REST API, enabling AI agents to inventory Power systems, manage LPARs/VIOS, and submit jobs like power on/off, with tools for adapters, storage, networking, and more.",
+  "source_repo": "randomparity/hmc-mcp",
+  "source_url": "https://github.com/randomparity/hmc-mcp",
+  "install": "npx -y hmc-mcp"
+}

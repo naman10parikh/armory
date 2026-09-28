@@ -1,0 +1,7 @@
+{
+  "name": "qq-onebot-mcp",
+  "description": "Enables MCP hosts to bridge with QQ via NapCat/OneBot 11, allowing whitelisted private messages to reach an agent with full tool access while group mentions are answered by a sandboxed pure LLM without system access.",
+  "source_repo": "HUliangwei/qq-onebot-mcp",
+  "source_url": "https://github.com/HUliangwei/qq-onebot-mcp",
+  "install": "npx -y qq-onebot-mcp"
+}

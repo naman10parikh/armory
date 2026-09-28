@@ -1,0 +1,7 @@
+{
+  "name": "mcpvet",
+  "description": "Vets MCP servers, Claude Code skills, or plugins for unsafe behavior like shell execution, secret access, data exfiltration, prompt injection, and remote code before installation, returning a graded verdict with findings.",
+  "source_repo": "LorenzoLombardi111/factory-mcpvet",
+  "source_url": "https://github.com/LorenzoLombardi111/factory-mcpvet",
+  "install": "# git clone --depth 1 https://github.com/LorenzoLombardi111/factory-mcpvet\n# See source for mcpServers config block"
+}

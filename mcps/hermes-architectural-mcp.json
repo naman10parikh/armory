@@ -1,0 +1,7 @@
+{
+  "name": "hermes-architectural-mcp",
+  "description": "Converts architectural PDF plans into dimension-verified millimetre geometry, IFC models, and CPU-rendered views, with built-in validation for boundaries, areas, and overlaps.",
+  "source_repo": "twuijri/hermes-architectural-mcp",
+  "source_url": "https://github.com/twuijri/hermes-architectural-mcp",
+  "install": "npx -y hermes-architectural-mcp"
+}

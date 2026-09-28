@@ -1,0 +1,7 @@
+{
+  "name": "claude-nexus",
+  "description": "Enables Claude Code instances to discover each other and exchange messages instantly via a local broker and channel protocol. Supports scoped peer discovery, reliable ack-based delivery, and cross-platform operation.",
+  "source_repo": "skyvanguard/claude-nexus",
+  "source_url": "https://github.com/skyvanguard/claude-nexus",
+  "install": "# git clone --depth 1 https://github.com/skyvanguard/claude-nexus\n# See source for mcpServers config block"
+}

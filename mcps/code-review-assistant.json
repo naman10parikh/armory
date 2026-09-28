@@ -1,0 +1,7 @@
+{
+  "name": "code-review-assistant",
+  "description": "An MCP server that automates code review by providing syntax checking, code explanation, and improvement suggestions using a multi-agent system.",
+  "source_repo": "dasunmihiranga/code-review-assistant-MCP",
+  "source_url": "https://github.com/dasunmihiranga/code-review-assistant-MCP",
+  "install": "npx -y code-review-assistant-MCP"
+}

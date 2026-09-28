@@ -1,0 +1,7 @@
+{
+  "name": "opencode-openai-vision-mcp",
+  "description": "Provides image/vision support for OpenCode by routing images to any OpenAI-compatible endpoint, enabling paste-and-ask screenshot workflows.",
+  "source_repo": "WormAlien/OpenCode-vision-OmniRoute",
+  "source_url": "https://github.com/WormAlien/OpenCode-vision-OmniRoute",
+  "install": "# git clone --depth 1 https://github.com/WormAlien/OpenCode-vision-OmniRoute\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-govee",
+  "description": "Enables AI assistants to control Govee smart devices, including lights, via natural language. Supports turning on/off, changing colors, adjusting brightness, and activating scenes through the Govee API or local network.",
+  "source_repo": "danjam/mcp-govee",
+  "source_url": "https://github.com/danjam/mcp-govee",
+  "install": "# git clone --depth 1 https://github.com/danjam/mcp-govee\n# See source for mcpServers config block"
+}

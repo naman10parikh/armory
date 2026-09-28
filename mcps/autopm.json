@@ -1,0 +1,7 @@
+{
+  "name": "autopm",
+  "description": "Transforms raw business ideas into complete product strategies by orchestrating a specialized AI team for market research, competitive analysis, persona building, and financial modeling, culminating in a pitch-ready presentation.",
+  "source_repo": "fluidumber/AutoPM",
+  "source_url": "https://github.com/fluidumber/AutoPM",
+  "install": "# git clone --depth 1 https://github.com/fluidumber/AutoPM\n# See source for mcpServers config block"
+}

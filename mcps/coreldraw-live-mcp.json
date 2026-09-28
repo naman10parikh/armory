@@ -1,0 +1,7 @@
+{
+  "name": "coreldraw-live-mcp",
+  "description": "Enables control of an already open CorelDRAW document via MCP, with live editing, atomic undo, and safe coordinate-based operations. Supports Windows-only COM automation and integrates with desktop AI clients like Claude Desktop.",
+  "source_repo": "CubicDev1/corel-mcp",
+  "source_url": "https://github.com/CubicDev1/corel-mcp",
+  "install": "npx -y corel-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-oauth-proxy",
+  "description": "Acts as a secure OAuth 2.0/2.1 proxy gateway for MCP servers, enabling integration with Claude and ChatGPT platforms.",
+  "source_repo": "SunilAngadala/mcp-oauth-proxy",
+  "source_url": "https://github.com/SunilAngadala/mcp-oauth-proxy",
+  "install": "# git clone --depth 1 https://github.com/SunilAngadala/mcp-oauth-proxy\n# See source for mcpServers config block"
+}

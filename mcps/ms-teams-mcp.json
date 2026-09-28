@@ -1,0 +1,7 @@
+{
+  "name": "ms-teams-mcp",
+  "description": "MCP server providing access to Microsoft Teams chats/channels, Outlook emails, calendar events, and SharePoint files via Microsoft Graph API.",
+  "source_repo": "3hs-labs/ms-teams-mcp",
+  "source_url": "https://github.com/3hs-labs/ms-teams-mcp",
+  "install": "npx -y ms-teams-mcp"
+}

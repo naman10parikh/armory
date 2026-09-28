@@ -1,0 +1,7 @@
+{
+  "name": "siteglass-mcp",
+  "description": "Enables archival of any public URL as interactive snapshot (rrweb, PDF, PNG) and autonomous web QA for apps (register, scan, generate and run end-to-end flows).",
+  "source_repo": "siteglassio/siteglass-mcp",
+  "source_url": "https://github.com/siteglassio/siteglass-mcp",
+  "install": "npx -y siteglass-mcp"
+}

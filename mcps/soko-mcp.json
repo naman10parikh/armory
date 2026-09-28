@@ -1,0 +1,7 @@
+{
+  "name": "soko-mcp",
+  "description": "MCP server for East Africa commodity price intelligence — regional price comparison across 8 markets, trend analysis, and sell/hold decision support for smallholder farmers. 5 tools.",
+  "source_repo": "gabrielmahia/soko-mcp",
+  "source_url": "https://github.com/gabrielmahia/soko-mcp",
+  "install": "npx -y soko-mcp"
+}

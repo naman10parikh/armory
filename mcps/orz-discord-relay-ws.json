@@ -1,0 +1,7 @@
+{
+  "name": "orz-discord-relay-ws",
+  "description": "Minimal Discord Gateway relay for Claude Code and any MCP client using raw WebSocket and MCP-native notifications.",
+  "source_repo": "xaxixak/orz-discord-relay-ws",
+  "source_url": "https://github.com/xaxixak/orz-discord-relay-ws",
+  "install": "# git clone --depth 1 https://github.com/xaxixak/orz-discord-relay-ws\n# See source for mcpServers config block"
+}

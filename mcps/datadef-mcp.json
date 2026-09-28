@@ -1,0 +1,7 @@
+{
+  "name": "datadef-mcp",
+  "description": "Generate, edit, and export data-architecture diagrams from any MCP client. Typed tables with columns, column-level lineage, real tool icons, PNG export straight back into the chat.",
+  "source_repo": "tlouvart/datadef-mcp",
+  "source_url": "https://github.com/tlouvart/datadef-mcp",
+  "install": "npx -y datadef-mcp"
+}

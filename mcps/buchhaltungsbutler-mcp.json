@@ -1,0 +1,7 @@
+{
+  "name": "buchhaltungsbutler-mcp",
+  "description": "Enables AI assistants to manage BuchhaltungsButler bookkeeping through all 48 API endpoints, with safety-categorized tools for read, write, and destructive operations.",
+  "source_repo": "ohneben/Buchhaltungsbutler-MCP",
+  "source_url": "https://github.com/ohneben/Buchhaltungsbutler-MCP",
+  "install": "npx -y Buchhaltungsbutler-MCP"
+}

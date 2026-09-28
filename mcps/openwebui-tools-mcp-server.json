@@ -1,0 +1,7 @@
+{
+  "name": "openwebui-tools-mcp-server",
+  "description": "A single MCP server bundling web search, stock data, Wolfram Alpha, and YouTube transcript tools, enabling use from any MCP-capable client like Claude Desktop or custom agents.",
+  "source_repo": "madelponte/mcp-server",
+  "source_url": "https://github.com/madelponte/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/madelponte/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "guild-wars-1-mcp",
+  "description": "Read-only MCP server for public Guild Wars 1 sources (wiki, builds, YouTube, Reddit) and optional local install inventory.",
+  "source_repo": "ArtSabintsev/guildwars1-mcp",
+  "source_url": "https://github.com/ArtSabintsev/guildwars1-mcp",
+  "install": "npx -y guildwars1-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aviation-weather-mcp-server",
+  "description": "Provides access to aviation weather data from aviationweather.gov, enabling LLMs to fetch and analyze METAR, TAF, PIREPs, AIRMETs, and other aviation weather information.",
+  "source_repo": "zealoushacker/aviation-weather-mcp",
+  "source_url": "https://github.com/zealoushacker/aviation-weather-mcp",
+  "install": "npx -y aviation-weather-mcp"
+}

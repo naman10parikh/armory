@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pdf2md",
+  "description": "Converts PDFs to Markdown for AI optimization, with tools to detect PDF type (text-based, scanned, mixed, image-based) and support page ranges, raw/compact/page-break options.",
+  "source_repo": "timaliev/mcp_pdf2md",
+  "source_url": "https://github.com/timaliev/mcp_pdf2md",
+  "install": "# git clone --depth 1 https://github.com/timaliev/mcp_pdf2md\n# See source for mcpServers config block"
+}

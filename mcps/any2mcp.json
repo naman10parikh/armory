@@ -1,0 +1,7 @@
+{
+  "name": "any2mcp",
+  "description": "Convert plain Python modules into MCP servers without decorators or boilerplate, automatically exposing functions as schematized tools.",
+  "source_repo": "SanoberRehman/any2mcp",
+  "source_url": "https://github.com/SanoberRehman/any2mcp",
+  "install": "# git clone --depth 1 https://github.com/SanoberRehman/any2mcp\n# See source for mcpServers config block"
+}

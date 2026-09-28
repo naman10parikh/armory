@@ -1,0 +1,7 @@
+{
+  "name": "codex-router",
+  "description": "A durable MCP control plane for starting, observing, steering, continuing, cancelling, and handing off long-running coding agents, with bounded MCP calls and persistent worktrees.",
+  "source_repo": "rixzkiye/codex-router",
+  "source_url": "https://github.com/rixzkiye/codex-router",
+  "install": "# git clone --depth 1 https://github.com/rixzkiye/codex-router\n# See source for mcpServers config block"
+}

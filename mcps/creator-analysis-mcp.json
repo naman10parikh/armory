@@ -1,0 +1,7 @@
+{
+  "name": "creator-analysis-mcp",
+  "description": "Remote MCP server that provides Creator Recommendation API tools (creator_research, creator_tagged_media, etc.) with secure authentication, rate limiting, and OAuth support for Claude clients.",
+  "source_repo": "chanchilun2004/creator-analysis-mcp",
+  "source_url": "https://github.com/chanchilun2004/creator-analysis-mcp",
+  "install": "npx -y creator-analysis-mcp"
+}

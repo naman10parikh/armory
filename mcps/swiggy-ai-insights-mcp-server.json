@@ -1,0 +1,7 @@
+{
+  "name": "swiggy-ai-insights-mcp-server",
+  "description": "Enables AI assistants like Claude to analyze your Swiggy order history, providing personalized insights on food habits, spending, and recommendations.",
+  "source_repo": "imachiever/swiggy-mcp-server",
+  "source_url": "https://github.com/imachiever/swiggy-mcp-server",
+  "install": "npx -y swiggy-mcp-server"
+}

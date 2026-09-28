@@ -1,0 +1,7 @@
+{
+  "name": "finalyy",
+  "description": "Enables free access to multiple AI models (ChatGPT, Claude, Gemini, etc.) via MCP tools and OpenAI-compatible endpoints by leveraging browser session cookies, eliminating the need for API keys.",
+  "source_repo": "Sirius6907/finalyy",
+  "source_url": "https://github.com/Sirius6907/finalyy",
+  "install": "# git clone --depth 1 https://github.com/Sirius6907/finalyy\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "catchall-by-newscatcher",
+  "description": "Web search API for comprehensive event retrieval: find every relevant event across the open web â not just top results.",
+  "source_repo": "Newscatcher/catchall-mcp",
+  "source_url": "https://github.com/Newscatcher/catchall-mcp",
+  "install": "npx -y catchall-mcp"
+}

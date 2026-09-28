@@ -1,0 +1,7 @@
+{
+  "name": "jira-github-mcp-server",
+  "description": "A modular MCP server integrating Jira and GitHub to automate developer workflows, enabling AI agents to manage issues, branches, commits, and pull requests directly from the IDE.",
+  "source_repo": "garbvalley/jira-github-mcp-mashuk",
+  "source_url": "https://github.com/garbvalley/jira-github-mcp-mashuk",
+  "install": "# git clone --depth 1 https://github.com/garbvalley/jira-github-mcp-mashuk\n# See source for mcpServers config block"
+}

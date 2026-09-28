@@ -1,0 +1,7 @@
+{
+  "name": "technitium-safe-mcp",
+  "description": "Enables bounded, read-only DNS lookups and health checks against allowlisted Technitium servers with strict safety constraints.",
+  "source_repo": "bgauger/technitium-safe-mcp",
+  "source_url": "https://github.com/bgauger/technitium-safe-mcp",
+  "install": "npx -y technitium-safe-mcp"
+}

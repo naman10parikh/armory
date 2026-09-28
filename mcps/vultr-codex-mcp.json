@@ -1,0 +1,7 @@
+{
+  "name": "vultr-codex-mcp",
+  "description": "Enables safe management of Vultr VPS instances, including listing resources, previewing and creating instances with cost limits, and performing mutations like reboot and delete only after exact confirmation.",
+  "source_repo": "wzyonline-1999/vultr-codex-mcp",
+  "source_url": "https://github.com/wzyonline-1999/vultr-codex-mcp",
+  "install": "npx -y vultr-codex-mcp"
+}

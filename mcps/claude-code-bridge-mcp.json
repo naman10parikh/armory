@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-bridge-mcp",
+  "description": "Bridges Claude Code terminal sessions with Claude Chat by exposing session logs as tools, enabling seamless context transfer and two-way communication via a cooperative inbox and optional Google Drive sync.",
+  "source_repo": "rahuljava2807/claude-code-bridge-mcp",
+  "source_url": "https://github.com/rahuljava2807/claude-code-bridge-mcp",
+  "install": "npx -y claude-code-bridge-mcp"
+}

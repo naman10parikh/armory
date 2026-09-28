@@ -1,0 +1,7 @@
+{
+  "name": "govbase",
+  "description": "Govbase provides U.S. federal policy data — search bills, executive orders, look up Congress members and voting records, browse narrative story bundles, and get civic info like representatives and polling locations by address.",
+  "source_repo": "",
+  "source_url": "https://govbase.com",
+  "install": "# git clone --depth 1 https://govbase.com\n# See source for mcpServers config block"
+}

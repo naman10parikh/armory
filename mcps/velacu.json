@@ -1,0 +1,7 @@
+{
+  "name": "velacu",
+  "description": "macOS computer-use MCP server enabling AI agents to capture and interact with specific app windows via normalized coordinates, performing background clicks, keyboard input, and typing without taking over the physical cursor.",
+  "source_repo": "ochikoi/VelaCU",
+  "source_url": "https://github.com/ochikoi/VelaCU",
+  "install": "# git clone --depth 1 https://github.com/ochikoi/VelaCU\n# See source for mcpServers config block"
+}

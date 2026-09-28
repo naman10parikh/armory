@@ -1,0 +1,7 @@
+{
+  "name": "minimax-mcp-server",
+  "description": "Official MiniMax MCP server enabling AI clients to generate speech, clone voices, create videos and images, compose music, and design custom voices via MiniMax APIs.",
+  "source_repo": "bartest5/MiniMax-AI_MiniMax-MCP",
+  "source_url": "https://github.com/bartest5/MiniMax-AI_MiniMax-MCP",
+  "install": "npx -y MiniMax-AI_MiniMax-MCP"
+}

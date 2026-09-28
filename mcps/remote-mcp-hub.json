@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-hub",
+  "description": "Enables AI assistants to securely access and control a Windows machine remotely, running commands and managing files via an MCP server protected by Bearer-token authentication and exposed through a Cloudflare Tunnel.",
+  "source_repo": "etern1ty-crypto/remote-mcp-hub",
+  "source_url": "https://github.com/etern1ty-crypto/remote-mcp-hub",
+  "install": "# git clone --depth 1 https://github.com/etern1ty-crypto/remote-mcp-hub\n# See source for mcpServers config block"
+}

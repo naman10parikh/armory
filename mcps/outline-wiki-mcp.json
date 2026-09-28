@@ -1,0 +1,7 @@
+{
+  "name": "outline-wiki-mcp",
+  "description": "MCP server that turns a self-hosted Outline wiki into an AI team's knowledge base, providing tools for search, read, write, and organization with per-user permissions via client-supplied API tokens.",
+  "source_repo": "TW-ARGE/outline-wiki-mcp",
+  "source_url": "https://github.com/TW-ARGE/outline-wiki-mcp",
+  "install": "npx -y outline-wiki-mcp"
+}

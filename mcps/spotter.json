@@ -1,0 +1,7 @@
+{
+  "name": "spotter",
+  "description": "Enables automated sound design spotting from Claude Code: analyze video, generate cue sheets, search or generate SFX, and export DAW-synchronized stems.",
+  "source_repo": "GuilleMcDugan/spotter",
+  "source_url": "https://github.com/GuilleMcDugan/spotter",
+  "install": "# git clone --depth 1 https://github.com/GuilleMcDugan/spotter\n# See source for mcpServers config block"
+}

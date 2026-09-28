@@ -1,0 +1,7 @@
+{
+  "name": "agent-browser-ga-mcp",
+  "description": "Enables AI agents to interact with a user's real Chrome browser tabs, executing JavaScript, reading cookies, and making fetch requests within authenticated sessions.",
+  "source_repo": "CCl333/agent-browser-ga",
+  "source_url": "https://github.com/CCl333/agent-browser-ga",
+  "install": "# git clone --depth 1 https://github.com/CCl333/agent-browser-ga\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sqlprism",
+  "description": "An MCP server that indexes SQL codebases into a queryable knowledge graph backed by DuckDB, enabling structural SQL queries instead of grep.",
+  "source_repo": "darkcofy/sqlprism",
+  "source_url": "https://github.com/darkcofy/sqlprism",
+  "install": "# git clone --depth 1 https://github.com/darkcofy/sqlprism\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-xxl-job",
+  "description": "MCP server for XXL-JOB Admin that enables AI assistants to manage scheduled jobs through natural language, including task lifecycle management, manual triggering, cron preview, and execution log retrieval.",
+  "source_repo": "shaguocgl/mcp-xxl-job",
+  "source_url": "https://github.com/shaguocgl/mcp-xxl-job",
+  "install": "# git clone --depth 1 https://github.com/shaguocgl/mcp-xxl-job\n# See source for mcpServers config block"
+}

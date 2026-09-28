@@ -1,0 +1,7 @@
+{
+  "name": "local-game-mcp",
+  "description": "Enables AI agents to play local Windows games through low-level keyboard/mouse input, screen capture, OCR, and per-game profiles for semantic actions.",
+  "source_repo": "rrhoopes3/local-game-MCP",
+  "source_url": "https://github.com/rrhoopes3/local-game-MCP",
+  "install": "npx -y local-game-MCP"
+}

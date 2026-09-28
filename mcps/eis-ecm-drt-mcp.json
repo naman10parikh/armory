@@ -1,0 +1,7 @@
+{
+  "name": "eis-ecm-drt-mcp",
+  "description": "MCP server for batch EIS analysis, enabling ECM fitting and DRT computation from impedance data.",
+  "source_repo": "ZidingWang/EIS-Analysis-mcp",
+  "source_url": "https://github.com/ZidingWang/EIS-Analysis-mcp",
+  "install": "npx -y EIS-Analysis-mcp"
+}

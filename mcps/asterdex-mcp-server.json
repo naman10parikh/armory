@@ -1,0 +1,7 @@
+{
+  "name": "asterdex-mcp-server",
+  "description": "A comprehensive MCP server for Aster DEX perpetual futures trading, enabling AI agents to access real-time market data, perform institutional-grade analysis, execute orders, and run automated trading strategies.",
+  "source_repo": "tyranosurasmax/asterdex-mcp-server",
+  "source_url": "https://github.com/tyranosurasmax/asterdex-mcp-server",
+  "install": "npx -y asterdex-mcp-server"
+}

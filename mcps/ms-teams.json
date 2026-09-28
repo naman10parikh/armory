@@ -1,0 +1,7 @@
+{
+  "name": "ms-teams",
+  "description": "Provides a standardized interface for interacting with Microsoft Teams tools and services through the Model Context Protocol.",
+  "source_repo": "universal-mcp/ms-teams",
+  "source_url": "https://github.com/universal-mcp/ms-teams",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/ms-teams\n# See source for mcpServers config block"
+}

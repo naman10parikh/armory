@@ -1,0 +1,7 @@
+{
+  "name": "chirp-home-automation-mcp-server",
+  "description": "Enables AI apps to securely connect to your Chirp home automation, letting you query sensors, control devices, manage automations, view alerts, and more through natural language.",
+  "source_repo": "chirpwireless/chirp-mcp",
+  "source_url": "https://github.com/chirpwireless/chirp-mcp",
+  "install": "npx -y chirp-mcp"
+}

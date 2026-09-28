@@ -1,0 +1,7 @@
+{
+  "name": "ai-fuzz-testing-mcp-server",
+  "description": "A Model Context Protocol server for LLM fuzzing and testing, providing secure access to multiple AI providers through a standardized interface.",
+  "source_repo": "ThatOneDevGuy/basic_mcp_lab",
+  "source_url": "https://github.com/ThatOneDevGuy/basic_mcp_lab",
+  "install": "# git clone --depth 1 https://github.com/ThatOneDevGuy/basic_mcp_lab\n# See source for mcpServers config block"
+}

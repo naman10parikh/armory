@@ -1,0 +1,7 @@
+{
+  "name": "zettelkasten-mcp-server",
+  "description": "Provides Claude with structured access to a Zettelkasten note system, enabling querying, analyzing, and reorganizing notes via 12 tools built on the tools4zettelkasten library.",
+  "source_repo": "rreben/zettelkasten-mcp",
+  "source_url": "https://github.com/rreben/zettelkasten-mcp",
+  "install": "npx -y zettelkasten-mcp"
+}

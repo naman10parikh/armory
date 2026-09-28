@@ -1,0 +1,7 @@
+{
+  "name": "ghl-mcp-server-v2",
+  "description": "A comprehensive MCP server covering the full GoHighLevel API surface with 651 tools, enabling management of contacts, opportunities, calendars, invoices, and more through natural language, with multi-tenant support and read-only safety defaults.",
+  "source_repo": "zackscriven/ghl-mcp-server",
+  "source_url": "https://github.com/zackscriven/ghl-mcp-server",
+  "install": "npx -y ghl-mcp-server"
+}

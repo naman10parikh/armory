@@ -1,0 +1,7 @@
+{
+  "name": "agentladle-mcp-akshare",
+  "description": "Provides 46 financial data tools for AI assistants covering A-share, HK, US markets, macroeconomics, funds, and derivatives, powered by AKShare.",
+  "source_repo": "agentladle/mcp-akshare",
+  "source_url": "https://github.com/agentladle/mcp-akshare",
+  "install": "# git clone --depth 1 https://github.com/agentladle/mcp-akshare\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "antics-mcp",
+  "description": "Enables AI agents to deploy multiplayer web games as playable URLs with rooms, live state sync, and leaderboards, all through a single tool call.",
+  "source_repo": "antics-gg/antics-mcp",
+  "source_url": "https://github.com/antics-gg/antics-mcp",
+  "install": "npx -y antics-mcp"
+}

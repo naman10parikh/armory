@@ -1,0 +1,7 @@
+{
+  "name": "mcp-local-fetch",
+  "description": "MCP server for fetching web pages without robots.txt restrictions, supporting all standard HTTP methods, custom headers, body, redirect control, and timeout settings.",
+  "source_repo": "yuandeshoulian/mcp-local-fetch",
+  "source_url": "https://github.com/yuandeshoulian/mcp-local-fetch",
+  "install": "# git clone --depth 1 https://github.com/yuandeshoulian/mcp-local-fetch\n# See source for mcpServers config block"
+}

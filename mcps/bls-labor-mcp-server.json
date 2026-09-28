@@ -1,0 +1,7 @@
+{
+  "name": "bls-labor-mcp-server",
+  "description": "Fetch US Bureau of Labor Statistics data — CPI, unemployment, wages, JOLTS, and more via MCP.",
+  "source_repo": "",
+  "source_url": "https://bls-labor.caseyjhand.com/mcp",
+  "install": "# git clone --depth 1 https://bls-labor.caseyjhand.com/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "finopsguard",
+  "description": "MCP agent providing cost-aware guardrails for IaC in CI/CD with advanced policy enforcement.",
+  "source_repo": "honeybadger-technologies/FinOpsGuard",
+  "source_url": "https://github.com/honeybadger-technologies/FinOpsGuard",
+  "install": "# git clone --depth 1 https://github.com/honeybadger-technologies/FinOpsGuard\n# See source for mcpServers config block"
+}

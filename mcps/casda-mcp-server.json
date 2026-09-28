@@ -1,0 +1,7 @@
+{
+  "name": "casda-mcp-server",
+  "description": "Enables controlled, auditable search and retrieval of data from the CSIRO ASKAP Science Data Archive via structured tools, with optional authenticated staging and downloads.",
+  "source_repo": "jbwod/CASDA-MCP",
+  "source_url": "https://github.com/jbwod/CASDA-MCP",
+  "install": "npx -y CASDA-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sushimaster",
+  "description": "MCP server for finding deals in food delivery apps (Wolt and Glovo). Enables AI agents to search restaurants and dishes, compare prices, ratings, and delivery options, and get recommendations with direct links.",
+  "source_repo": "bsosik1/sushimaster-mcp",
+  "source_url": "https://github.com/bsosik1/sushimaster-mcp",
+  "install": "npx -y sushimaster-mcp"
+}

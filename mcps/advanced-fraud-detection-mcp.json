@@ -1,0 +1,7 @@
+{
+  "name": "advanced-fraud-detection-mcp",
+  "description": "Detects financial fraud and AI agent transaction risks using machine learning, behavioral biometrics, network graph analysis, and agent-to-agent protection.",
+  "source_repo": "success-meta-1/fraud-detection-mcp",
+  "source_url": "https://github.com/success-meta-1/fraud-detection-mcp",
+  "install": "npx -y fraud-detection-mcp"
+}

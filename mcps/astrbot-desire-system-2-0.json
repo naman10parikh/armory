@@ -1,0 +1,7 @@
+{
+  "name": "astrbot-desire-system-2-0",
+  "description": "An AI desire-driven system that maintains nine core drive dimensions, generates thoughts and behavior suggestions, and provides tools to inspect and trigger events via MCP.",
+  "source_repo": "Whyomi1122/desire-mcp-server",
+  "source_url": "https://github.com/Whyomi1122/desire-mcp-server",
+  "install": "npx -y desire-mcp-server"
+}

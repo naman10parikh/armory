@@ -1,0 +1,7 @@
+{
+  "name": "claude-codex",
+  "description": "MCP server that enables calling Anthropic Claude models from OpenAI Codex Desktop/GUI, supporting API key or OAuth authentication and providing chat, model listing, and diagnostic tools.",
+  "source_repo": "Meapri/claude-codex",
+  "source_url": "https://github.com/Meapri/claude-codex",
+  "install": "# git clone --depth 1 https://github.com/Meapri/claude-codex\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claudbeyond",
+  "description": "A D&D 5e digital toolset with an MCP server enabling Claude to manage characters, search the SRD, roll dice, and interact with campaigns and encounters. It syncs data with the web app for real-time collaboration.",
+  "source_repo": "FAeN399/claudbeyond",
+  "source_url": "https://github.com/FAeN399/claudbeyond",
+  "install": "# git clone --depth 1 https://github.com/FAeN399/claudbeyond\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ytbrain",
+  "description": "MCP server for turning YouTube channels into a queryable local knowledge base. Enables BM25 search and extractive Q&A over captions with timestamped citations.",
+  "source_repo": "Eli-xir/ytbrain",
+  "source_url": "https://github.com/Eli-xir/ytbrain",
+  "install": "# git clone --depth 1 https://github.com/Eli-xir/ytbrain\n# See source for mcpServers config block"
+}

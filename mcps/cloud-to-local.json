@@ -1,0 +1,7 @@
+{
+  "name": "cloud-to-local",
+  "description": "Enables cloud agents to securely operate local machine resources (files, commands, screenshots) via standard MCP protocol.",
+  "source_repo": "plhys/Cloud2Local",
+  "source_url": "https://github.com/plhys/Cloud2Local",
+  "install": "# git clone --depth 1 https://github.com/plhys/Cloud2Local\n# See source for mcpServers config block"
+}

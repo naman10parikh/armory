@@ -1,0 +1,7 @@
+{
+  "name": "leo-tavily-mcp",
+  "description": "Enables Leo's web_search tool to perform live web searches using the Tavily API, returning structured results as JSON. Configurable via a single API key, and pinned to a commit SHA for secure distribution.",
+  "source_repo": "TheBananaStand/leo-tavily-mcp",
+  "source_url": "https://github.com/TheBananaStand/leo-tavily-mcp",
+  "install": "npx -y leo-tavily-mcp"
+}

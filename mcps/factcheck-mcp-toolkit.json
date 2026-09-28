@@ -1,0 +1,7 @@
+{
+  "name": "factcheck-mcp-toolkit",
+  "description": "MCP server for automatic fact-checking of political claims by querying official statistical APIs (INSEE, Eurostat, World Bank, OECD) and providing tools for data retrieval, comparison, and cherry-picking detection.",
+  "source_repo": "Orolol/factcheck_mcp",
+  "source_url": "https://github.com/Orolol/factcheck_mcp",
+  "install": "npx -y factcheck_mcp"
+}

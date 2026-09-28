@@ -1,0 +1,7 @@
+{
+  "name": "citely-x402",
+  "description": "An MCP server that gates content and tools behind x402 stablecoin micropayments with pluggable content and payment network adapters.",
+  "source_repo": "web3yaso/Citely-x402",
+  "source_url": "https://github.com/web3yaso/Citely-x402",
+  "install": "# git clone --depth 1 https://github.com/web3yaso/Citely-x402\n# See source for mcpServers config block"
+}

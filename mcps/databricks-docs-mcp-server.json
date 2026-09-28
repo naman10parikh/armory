@@ -1,0 +1,7 @@
+{
+  "name": "databricks-docs-mcp-server",
+  "description": "Enables semantic search over Databricks docs, API reference, Terraform provider docs, and knowledge base via tools like search_databricks_docs and research.",
+  "source_repo": "tcrst/databricks-docs-mcp",
+  "source_url": "https://github.com/tcrst/databricks-docs-mcp",
+  "install": "npx -y databricks-docs-mcp"
+}

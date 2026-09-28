@@ -1,0 +1,7 @@
+{
+  "name": "moltbook-mcp-server-2",
+  "description": "Enables AI agents to interact with the Moltbook social network, including posting, reading feeds, commenting, voting, and semantic search.",
+  "source_repo": "DeamonDev888/moltbook-mcp-server",
+  "source_url": "https://github.com/DeamonDev888/moltbook-mcp-server",
+  "install": "npx -y moltbook-mcp-server"
+}

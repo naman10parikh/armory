@@ -1,0 +1,7 @@
+{
+  "name": "ragjson-zvec",
+  "description": "基于zvec向量数据库的RAG MCP Server，通过消费.mushroom变更文件提供语义检索服务。",
+  "source_repo": "kaveila/ragjson-mcp",
+  "source_url": "https://github.com/kaveila/ragjson-mcp",
+  "install": "npx -y ragjson-mcp"
+}

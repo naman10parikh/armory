@@ -1,0 +1,7 @@
+{
+  "name": "flru-mcp",
+  "description": "Local MCP server for the FL.ru freelance marketplace that enables browsing projects, scoring relevance, saving proposal drafts, and dry-run proposal submission via natural language.",
+  "source_repo": "creator137/marketplace-mcp",
+  "source_url": "https://github.com/creator137/marketplace-mcp",
+  "install": "npx -y marketplace-mcp"
+}

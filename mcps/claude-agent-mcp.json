@@ -1,0 +1,7 @@
+{
+  "name": "claude-agent-mcp",
+  "description": "An MCP server that wraps the Claude Agent SDK, enabling Claude-powered queries, coding tasks, web search, and customizable agent execution using OAuth without an API key.",
+  "source_repo": "j-token/claude-agent-mcp",
+  "source_url": "https://github.com/j-token/claude-agent-mcp",
+  "install": "npx -y claude-agent-mcp"
+}

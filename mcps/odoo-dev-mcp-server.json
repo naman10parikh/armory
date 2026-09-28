@@ -1,0 +1,7 @@
+{
+  "name": "odoo-dev-mcp-server",
+  "description": "An Odoo module that embeds an MCP server, enabling AI agents to directly access Odoo capabilities such as terminal control, database operations, filesystem management, ORM execution, and service administration.",
+  "source_repo": "woodwosj/OdooDevMCP",
+  "source_url": "https://github.com/woodwosj/OdooDevMCP",
+  "install": "# git clone --depth 1 https://github.com/woodwosj/OdooDevMCP\n# See source for mcpServers config block"
+}

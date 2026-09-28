@@ -1,0 +1,7 @@
+{
+  "name": "clarik-mcp-server",
+  "description": "Clarity and memory for Claude. Persistent memory, intelligent context ranking, safety modes, and session checkpoints for Claude Desktop & Claude Code in a single install.",
+  "source_repo": "Mikerichardmail/clarik-mcp-server",
+  "source_url": "https://github.com/Mikerichardmail/clarik-mcp-server",
+  "install": "npx -y clarik-mcp-server"
+}

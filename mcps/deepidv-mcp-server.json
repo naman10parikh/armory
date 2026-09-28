@@ -1,0 +1,7 @@
+{
+  "name": "deepidv-mcp-server",
+  "description": "Enables AI agents to perform identity verification, KYC/KYB, PEP & sanctions screening, bank statement analysis, and workflow automation via the Model Context Protocol.",
+  "source_repo": "Deep-Identity-Inc/deepidv-mcp-server",
+  "source_url": "https://github.com/Deep-Identity-Inc/deepidv-mcp-server",
+  "install": "npx -y deepidv-mcp-server"
+}

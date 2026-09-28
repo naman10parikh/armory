@@ -1,0 +1,7 @@
+{
+  "name": "taxonomy-mcp",
+  "description": "Exposes Marble's open skill taxonomy (ages 4-15) as queryable MCP tools, enabling AI agents to search topics, find prerequisites, and plan learning paths.",
+  "source_repo": "kylelynch/taxonomy-mcp",
+  "source_url": "https://github.com/kylelynch/taxonomy-mcp",
+  "install": "npx -y taxonomy-mcp"
+}

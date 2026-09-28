@@ -1,0 +1,7 @@
+{
+  "name": "pinecone-agentic-search-mcp-server",
+  "description": "Enables AI agents to search a Pinecone knowledge base of 4,128 ArXiv research papers using natural language queries.",
+  "source_repo": "Paul-Orlando/pinecone-mcp-server",
+  "source_url": "https://github.com/Paul-Orlando/pinecone-mcp-server",
+  "install": "npx -y pinecone-mcp-server"
+}

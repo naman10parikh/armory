@@ -1,0 +1,7 @@
+{
+  "name": "sleeper-mcp-server",
+  "description": "Enables natural language interaction with Sleeper Fantasy Football API data, allowing queries about leagues, players, matchups, draft results, and trade analysis.",
+  "source_repo": "sourknives/sleeper-mcp-server",
+  "source_url": "https://github.com/sourknives/sleeper-mcp-server",
+  "install": "npx -y sleeper-mcp-server"
+}

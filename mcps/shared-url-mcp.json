@@ -1,0 +1,7 @@
+{
+  "name": "shared-url-mcp",
+  "description": "An MCP server with one job: read a shared AI conversation link and write the whole thing to Markdown.",
+  "source_repo": "AbdoKnbGit/shared_url_mcp",
+  "source_url": "https://github.com/AbdoKnbGit/shared_url_mcp",
+  "install": "npx -y shared_url_mcp"
+}

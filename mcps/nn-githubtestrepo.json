@@ -1,6 +1,6 @@
 {
   "name": "nn-githubtestrepo",
-  "description": "NN GitHubTestRepo MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "ninilang/NN-GitHubTestRepo",
   "source_url": "https://mcp.so/server/NN-GitHubTestRepo/ninilang",
   "install": "# git clone --depth 1 https://mcp.so/server/NN-GitHubTestRepo/ninilang\n# See source for mcpServers config block"

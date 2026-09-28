@@ -1,0 +1,7 @@
+{
+  "name": "legitagent",
+  "description": "An MCP server that scans web projects for Russian Federal Law 152-FZ compliance, identifying risks like missing consent checkboxes, cookie banners without opt-out, and unauthorized trackers, with legal references and fix suggestions.",
+  "source_repo": "kiruxich/legitAgent",
+  "source_url": "https://github.com/kiruxich/legitAgent",
+  "install": "# git clone --depth 1 https://github.com/kiruxich/legitAgent\n# See source for mcpServers config block"
+}

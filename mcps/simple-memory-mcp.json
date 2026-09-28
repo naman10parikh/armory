@@ -1,0 +1,7 @@
+{
+  "name": "simple-memory-mcp",
+  "description": "Provides AI assistants with persistent memory across sessions using local SQLite and keyword search, allowing storage and retrieval of user preferences, project context, and decisions.",
+  "source_repo": "chrisribe/simple-memory-mcp",
+  "source_url": "https://github.com/chrisribe/simple-memory-mcp",
+  "install": "npx -y simple-memory-mcp"
+}

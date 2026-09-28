@@ -1,0 +1,7 @@
+{
+  "name": "iceberg-mcp-server-trino",
+  "description": "Model Context Protocol server for read-only access to Iceberg tables through Cloudera Trino: schema discovery, SQL queries, metadata-based health checks, time travel, and performance analysis.",
+  "source_repo": "dipankarmazumdar/iceberg-mcp-server-trino",
+  "source_url": "https://github.com/dipankarmazumdar/iceberg-mcp-server-trino",
+  "install": "# git clone --depth 1 https://github.com/dipankarmazumdar/iceberg-mcp-server-trino\n# See source for mcpServers config block"
+}

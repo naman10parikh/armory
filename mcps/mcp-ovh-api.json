@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ovh-api",
+  "description": "MCP server for OVHcloud Object Storage, enabling management of buckets, objects, project users, S3 credentials, and storage policies. Read-only by default with opt-in write tools.",
+  "source_repo": "mgcrea/mcp-ovh-api",
+  "source_url": "https://github.com/mgcrea/mcp-ovh-api",
+  "install": "# git clone --depth 1 https://github.com/mgcrea/mcp-ovh-api\n# See source for mcpServers config block"
+}

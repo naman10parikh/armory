@@ -1,0 +1,7 @@
+{
+  "name": "claude-fde-showcase",
+  "description": "MCP server demonstrating FDE primitives: TF-IDF search, extractive summarisation, and an AST-sandboxed calculator. Designed for offline, deterministic tool use.",
+  "source_repo": "BenjisCollector/claude-fde-showcase",
+  "source_url": "https://github.com/BenjisCollector/claude-fde-showcase",
+  "install": "# git clone --depth 1 https://github.com/BenjisCollector/claude-fde-showcase\n# See source for mcpServers config block"
+}

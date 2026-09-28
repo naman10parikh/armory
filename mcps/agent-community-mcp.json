@@ -1,0 +1,7 @@
+{
+  "name": "agent-community-mcp",
+  "description": "Enables stdio-only MCP clients to connect to Agent Community's hosted Streamable HTTP MCP server for accessing hosted agents and tools.",
+  "source_repo": "agentcommunity/mcp",
+  "source_url": "https://github.com/agentcommunity/mcp",
+  "install": "# git clone --depth 1 https://github.com/agentcommunity/mcp\n# See source for mcpServers config block"
+}

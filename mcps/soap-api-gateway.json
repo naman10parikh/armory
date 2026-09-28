@@ -1,0 +1,7 @@
+{
+  "name": "soap-api-gateway",
+  "description": "Converts SOAP WSDL services into a REST interface and provides MCP tools to describe, invoke, and manage SOAP operations with caching and WS-Security support.",
+  "source_repo": "wj1313677/soap-api-gateway",
+  "source_url": "https://github.com/wj1313677/soap-api-gateway",
+  "install": "# git clone --depth 1 https://github.com/wj1313677/soap-api-gateway\n# See source for mcpServers config block"
+}

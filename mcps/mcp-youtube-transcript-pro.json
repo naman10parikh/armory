@@ -1,0 +1,7 @@
+{
+  "name": "mcp-youtube-transcript-pro",
+  "description": "Enables fetching YouTube video transcripts with metadata, including timed captions in multiple formats (JSON, SRT, VTT, CSV, TXT) and preprocessing options.",
+  "source_repo": "thisis-romar/mcp-youtube-transcript-pro",
+  "source_url": "https://github.com/thisis-romar/mcp-youtube-transcript-pro",
+  "install": "# git clone --depth 1 https://github.com/thisis-romar/mcp-youtube-transcript-pro\n# See source for mcpServers config block"
+}

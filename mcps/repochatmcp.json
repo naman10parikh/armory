@@ -1,0 +1,7 @@
+{
+  "name": "repochatmcp",
+  "description": "A zero-dependency MCP server that enables searching and reading local Claude Code and Codex chat sessions, supporting full-text search, grep, and knowledge indexing from chat history.",
+  "source_repo": "gzmagyari/RepoChatMCP",
+  "source_url": "https://github.com/gzmagyari/RepoChatMCP",
+  "install": "# git clone --depth 1 https://github.com/gzmagyari/RepoChatMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-xtrust",
+  "description": "Enables querying xtrust.info for Ukrainian company data including contacts, ratings, and official legal records, as well as searching companies by name and posting reviews through MCP.",
+  "source_repo": "xtrustinfo/mcp-server-xtrust",
+  "source_url": "https://github.com/xtrustinfo/mcp-server-xtrust",
+  "install": "# git clone --depth 1 https://github.com/xtrustinfo/mcp-server-xtrust\n# See source for mcpServers config block"
+}

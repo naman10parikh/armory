@@ -1,0 +1,7 @@
+{
+  "name": "circulara-observe-mcp-plugin",
+  "description": "Provides Claude Code integration to capture LLM usage events and surface cost, carbon, and savings reports via tools and hooks.",
+  "source_repo": "CircularRoute/circulara-core",
+  "source_url": "https://github.com/CircularRoute/circulara-core",
+  "install": "# git clone --depth 1 https://github.com/CircularRoute/circulara-core\n# See source for mcpServers config block"
+}

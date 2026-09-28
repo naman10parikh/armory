@@ -1,0 +1,7 @@
+{
+  "name": "symbolic-math-mcp",
+  "description": "A standalone FastMCP server that validates symbolic math proof files in YAML format using the symbolic-math-verify library.",
+  "source_repo": "BrosnanYuen/symbolic_math_mcp",
+  "source_url": "https://github.com/BrosnanYuen/symbolic_math_mcp",
+  "install": "npx -y symbolic_math_mcp"
+}

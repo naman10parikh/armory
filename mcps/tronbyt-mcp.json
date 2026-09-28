@@ -1,0 +1,7 @@
+{
+  "name": "tronbyt-mcp",
+  "description": "Lets your AI assistant control and display text/images on a Tidbyt or Tronbyt LED sign via the MCP protocol.",
+  "source_repo": "jonfishr/tronbyt-mcp",
+  "source_url": "https://github.com/jonfishr/tronbyt-mcp",
+  "install": "npx -y tronbyt-mcp"
+}

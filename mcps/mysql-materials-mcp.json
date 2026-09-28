@@ -1,0 +1,7 @@
+{
+  "name": "mysql-materials-mcp",
+  "description": "Enables querying a MySQL database of metallurgical materials and alloys via natural language, allowing users to list alloy types, filter grades by type, and retrieve full details of a grade with all related data.",
+  "source_repo": "p-pouget/mysql-materials-mcp",
+  "source_url": "https://github.com/p-pouget/mysql-materials-mcp",
+  "install": "npx -y mysql-materials-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "webgpt-mcp",
+  "description": "Local MCP server for Codex to send prompts to ChatGPT Web Pro extension and manage repository tasks safely.",
+  "source_repo": "tomato-ga/codex-gptpro",
+  "source_url": "https://github.com/tomato-ga/codex-gptpro",
+  "install": "# git clone --depth 1 https://github.com/tomato-ga/codex-gptpro\n# See source for mcpServers config block"
+}

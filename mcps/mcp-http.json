@@ -1,0 +1,7 @@
+{
+  "name": "mcp-http",
+  "description": "Provides a generic HTTP client tool allowing AI agents to make arbitrary HTTP requests from their environment, with support for environment-variable placeholders for secrets.",
+  "source_repo": "Llamatron2112/mcp-http",
+  "source_url": "https://github.com/Llamatron2112/mcp-http",
+  "install": "# git clone --depth 1 https://github.com/Llamatron2112/mcp-http\n# See source for mcpServers config block"
+}

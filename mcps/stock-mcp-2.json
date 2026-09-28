@@ -1,0 +1,7 @@
+{
+  "name": "stock-mcp-2",
+  "description": "Provides deterministic A-share market snapshots and immutable strategy versions for short-term review, exposing verified daily reports via MCP without order or account management.",
+  "source_repo": "vincentwang79/stock-mcp",
+  "source_url": "https://github.com/vincentwang79/stock-mcp",
+  "install": "npx -y stock-mcp"
+}

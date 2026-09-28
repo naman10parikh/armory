@@ -1,0 +1,7 @@
+{
+  "name": "concisr",
+  "description": "Token compression for AI contexts, reducing token consumption by compressing conversation exchanges before they enter the LLM context window.",
+  "source_repo": "NcrMancer/concisr",
+  "source_url": "https://github.com/NcrMancer/concisr",
+  "install": "# git clone --depth 1 https://github.com/NcrMancer/concisr\n# See source for mcpServers config block"
+}

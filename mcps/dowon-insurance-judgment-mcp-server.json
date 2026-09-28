@@ -1,0 +1,7 @@
+{
+  "name": "dowon-insurance-judgment-mcp-server",
+  "description": "Evaluates employment status exemption for corporate directors, family workers, and non-registered executives using registry and employment data, and calculates refund periods considering statute of limitations.",
+  "source_repo": "dowon-comsup/4-repo",
+  "source_url": "https://github.com/dowon-comsup/4-repo",
+  "install": "# git clone --depth 1 https://github.com/dowon-comsup/4-repo\n# See source for mcpServers config block"
+}

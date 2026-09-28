@@ -1,0 +1,7 @@
+{
+  "name": "oraclarr",
+  "description": "A locally-run, read-only MCP server that lets an LLM client diagnose a self-hosted *arr media stack by aggregating across Sonarr, Radarr, Prowlarr, qBittorrent, Tdarr, and Profilarr.",
+  "source_repo": "bdog720/oraclarr",
+  "source_url": "https://github.com/bdog720/oraclarr",
+  "install": "# git clone --depth 1 https://github.com/bdog720/oraclarr\n# See source for mcpServers config block"
+}

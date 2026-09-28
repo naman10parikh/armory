@@ -1,0 +1,7 @@
+{
+  "name": "centralaizer",
+  "description": "A local-first, privacy-preserving centralized memory hub for AI agents — MCP-compatible, zero cloud egress.",
+  "source_repo": "lestercoyoyjr/Centralaizer-public",
+  "source_url": "https://github.com/lestercoyoyjr/Centralaizer-public",
+  "install": "# git clone --depth 1 https://github.com/lestercoyoyjr/Centralaizer-public\n# See source for mcpServers config block"
+}

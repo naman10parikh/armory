@@ -1,0 +1,7 @@
+{
+  "name": "harmonyos-dev-mcp",
+  "description": "Enables HarmonyOS device discovery, app build and deployment, UI automation, E2E inspection, and log validation through MCP tools.",
+  "source_repo": "Deslord319/harmonyos-dev-mcp",
+  "source_url": "https://github.com/Deslord319/harmonyos-dev-mcp",
+  "install": "npx -y harmonyos-dev-mcp"
+}

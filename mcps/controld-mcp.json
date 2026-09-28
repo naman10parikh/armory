@@ -1,0 +1,7 @@
+{
+  "name": "controld-mcp",
+  "description": "A local MCP server for safely managing Control D DNS by conversation, enabling inspection of profiles and endpoints, diagnosing blocked queries, and creating/deleting rules with confirmation and read-back checks.",
+  "source_repo": "SwaggyMike/controld-mcp",
+  "source_url": "https://github.com/SwaggyMike/controld-mcp",
+  "install": "npx -y controld-mcp"
+}

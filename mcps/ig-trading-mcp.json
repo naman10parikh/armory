@@ -1,0 +1,7 @@
+{
+  "name": "ig-trading-mcp",
+  "description": "A local MCP server for IG's REST Trading API, providing account/history, market data, position, working-order, and trade-confirmation tools with guarded OTC trade actions.",
+  "source_repo": "MarkHorwell/ig-integration-mcp",
+  "source_url": "https://github.com/MarkHorwell/ig-integration-mcp",
+  "install": "npx -y ig-integration-mcp"
+}

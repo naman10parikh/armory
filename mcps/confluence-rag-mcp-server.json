@@ -1,0 +1,7 @@
+{
+  "name": "confluence-rag-mcp-server",
+  "description": "Enables retrieval of relevant context from Confluence pages using RAG and ChromaDB, integrating with code assistants like GitHub Copilot to enhance documentation queries.",
+  "source_repo": "akhilthomas236/confluence-scraper-mcp",
+  "source_url": "https://github.com/akhilthomas236/confluence-scraper-mcp",
+  "install": "npx -y confluence-scraper-mcp"
+}

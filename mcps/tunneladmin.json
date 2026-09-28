@@ -1,0 +1,7 @@
+{
+  "name": "tunneladmin",
+  "description": "Web-based SSH connection manager with an MCP server that enables AI agents to manage remote hosts via terminals, file transfers, and port forwarding, featuring human-in-the-loop approval for secure access.",
+  "source_repo": "alienblog/tunnel_admin",
+  "source_url": "https://github.com/alienblog/tunnel_admin",
+  "install": "# git clone --depth 1 https://github.com/alienblog/tunnel_admin\n# See source for mcpServers config block"
+}

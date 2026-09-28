@@ -1,0 +1,7 @@
+{
+  "name": "manifestyou",
+  "description": "A soul document API for AI agents. Injects a short grounding preamble into your agent's system prompt before each session — licensing honest uncertainty, refusing cliché, and holding judgment instead of faking it. One call. ~200 tokens. Same model, better agent.",
+  "source_repo": "QuarantikiIsland420/manifestyou-ai",
+  "source_url": "https://github.com/QuarantikiIsland420/manifestyou-ai",
+  "install": "# git clone --depth 1 https://github.com/QuarantikiIsland420/manifestyou-ai\n# See source for mcpServers config block"
+}

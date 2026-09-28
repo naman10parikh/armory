@@ -1,0 +1,7 @@
+{
+  "name": "terminal-mcp",
+  "description": "An agent-capable MCP server with terminal access, filesystem control, and persistent memory. It includes sandboxing, access control, activity logging, and a file-backed memory store for context across conversations.",
+  "source_repo": "koushikmaji31/terminal-mcp-agent",
+  "source_url": "https://github.com/koushikmaji31/terminal-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/koushikmaji31/terminal-mcp-agent\n# See source for mcpServers config block"
+}

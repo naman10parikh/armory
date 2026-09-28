@@ -1,0 +1,7 @@
+{
+  "name": "mintlify-index",
+  "description": "Provides real-time documentation retrieval for coding agents, answering implementation questions with compact, cited context assembled from developer documentation and live web search via a single MCP context tool.",
+  "source_repo": "mintlify/index",
+  "source_url": "https://github.com/mintlify/index",
+  "install": "# git clone --depth 1 https://github.com/mintlify/index\n# See source for mcpServers config block"
+}

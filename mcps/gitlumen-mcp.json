@@ -1,0 +1,7 @@
+{
+  "name": "gitlumen-mcp",
+  "description": "Enables AI agents to screen GitHub repositories and pull requests for risk analysis, generating risk scores, findings, and merge-readiness signals.",
+  "source_repo": "gitlumen-team/gitlumen-mcp",
+  "source_url": "https://github.com/gitlumen-team/gitlumen-mcp",
+  "install": "npx -y gitlumen-mcp"
+}

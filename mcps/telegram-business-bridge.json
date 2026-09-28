@@ -1,0 +1,7 @@
+{
+  "name": "telegram-business-bridge",
+  "description": "Connect any AI agent to your personal Telegram messages through the official Business API, enabling message history search and draft replies with optional manual approval.",
+  "source_repo": "AndyShaman/telegram-business-bridge",
+  "source_url": "https://github.com/AndyShaman/telegram-business-bridge",
+  "install": "# git clone --depth 1 https://github.com/AndyShaman/telegram-business-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "finance-mcp-stocks-crypto-fx-portfolio-math",
+  "description": "Quick market data for AI workflows: real-time quotes, crypto prices, foreign exchange rates, portfolio P&L calculations. Wraps Yahoo Finance, CoinGecko, and FinViz behind a single tool surface. Use for trading copilots, financial planning chats, or end-of-day reporting agents.",
+  "source_repo": "",
+  "source_url": "https://thenextgennexus.com",
+  "install": "# git clone --depth 1 https://thenextgennexus.com\n# See source for mcpServers config block"
+}

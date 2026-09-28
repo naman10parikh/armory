@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-mg-nfc-e-resumida",
+  "description": "MCP server for consulting simplified NFC-e (Brazilian electronic consumer invoice) data from SEFAZ Minas Gerais, providing read-only access to official tax information via a hosted, pay-per-use API.",
+  "source_repo": "mcp-dir/sefaz_mg_nfce_resumida-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_mg_nfce_resumida-mcp",
+  "install": "npx -y sefaz_mg_nfce_resumida-mcp"
+}

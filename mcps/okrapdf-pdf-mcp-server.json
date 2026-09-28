@@ -1,0 +1,7 @@
+{
+  "name": "okrapdf-pdf-mcp-server",
+  "description": "This MCP server enables AI agents to view PDFs as accessible HTML with bounding-box citations, and provides tools for layout-aware parsing, schema extraction, cross-document Q&A, and PDF rendering.",
+  "source_repo": "okrapdf/pdf-mcp",
+  "source_url": "https://github.com/okrapdf/pdf-mcp",
+  "install": "npx -y pdf-mcp"
+}

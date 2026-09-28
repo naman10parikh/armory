@@ -1,0 +1,7 @@
+{
+  "name": "autoplayqa",
+  "description": "Deterministic Android game QA automation MCP server providing device control, perception (OCR, template matching, YOLO), scripted task execution, and findings reporting for AI agents.",
+  "source_repo": "WizardHeHeJun/AutoPlayQA",
+  "source_url": "https://github.com/WizardHeHeJun/AutoPlayQA",
+  "install": "# git clone --depth 1 https://github.com/WizardHeHeJun/AutoPlayQA\n# See source for mcpServers config block"
+}

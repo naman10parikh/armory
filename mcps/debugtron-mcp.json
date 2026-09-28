@@ -1,0 +1,7 @@
+{
+  "name": "debugtron-mcp",
+  "description": "MCP server for debugging Electron apps: discover, launch, and control apps via Chrome DevTools Protocol and Node inspector, enabling JavaScript evaluation, network/console monitoring, screenshots, profiling, and breakpoints.",
+  "source_repo": "xrntkk/debugtron-mcp",
+  "source_url": "https://github.com/xrntkk/debugtron-mcp",
+  "install": "npx -y debugtron-mcp"
+}

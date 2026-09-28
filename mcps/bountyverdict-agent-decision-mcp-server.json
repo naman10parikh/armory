@@ -1,0 +1,7 @@
+{
+  "name": "bountyverdict-agent-decision-mcp-server",
+  "description": "Provides paid decision APIs for autonomous coding agents to diagnose GitHub Actions failures, classify flaky tests, check MCP tool drift, audit agent instructions, and compare bounties.",
+  "source_repo": "cristianmoroaica/bountyverdict",
+  "source_url": "https://github.com/cristianmoroaica/bountyverdict",
+  "install": "# git clone --depth 1 https://github.com/cristianmoroaica/bountyverdict\n# See source for mcpServers config block"
+}

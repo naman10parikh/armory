@@ -1,0 +1,7 @@
+{
+  "name": "nws-weather-usgs-water-mcp",
+  "description": "Combines National Weather Service alerts and forecasts with modern USGS water data, enabling weather and hydrology queries through MCP. No API key required, with persistent local caching.",
+  "source_repo": "wylieswanson/nws-weather-usgs-water-mcp",
+  "source_url": "https://github.com/wylieswanson/nws-weather-usgs-water-mcp",
+  "install": "npx -y nws-weather-usgs-water-mcp"
+}

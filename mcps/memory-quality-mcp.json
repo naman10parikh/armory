@@ -1,0 +1,7 @@
+{
+  "name": "memory-quality-mcp",
+  "description": "Audits your Claude Code memory store with 4-dimension quality scoring and actionable cleanup recommendations, including a visual dashboard.",
+  "source_repo": "ladyiceberg/memory-quality-mcp",
+  "source_url": "https://github.com/ladyiceberg/memory-quality-mcp",
+  "install": "npx -y memory-quality-mcp"
+}

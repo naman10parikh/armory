@@ -1,0 +1,7 @@
+{
+  "name": "flux-mcp",
+  "description": "Provides agentic MCP tools for the Flux Framework, enabling job submission, management, and resource scheduling for HPC workloads.",
+  "source_repo": "converged-computing/flux-mcp",
+  "source_url": "https://github.com/converged-computing/flux-mcp",
+  "install": "npx -y flux-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "visualq-mcp-server",
+  "description": "Enables running visual regression tests, polling results, and reading structured failure reports via MCP clients like Cursor or Claude Desktop.",
+  "source_repo": "abecms/visualq-mcp",
+  "source_url": "https://github.com/abecms/visualq-mcp",
+  "install": "npx -y visualq-mcp"
+}

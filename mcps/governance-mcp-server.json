@@ -1,0 +1,7 @@
+{
+  "name": "governance-mcp-server",
+  "description": "MCP server for querying the DodaOne governance framework, enabling users to retrieve governance information and evaluate proposed actions.",
+  "source_repo": "fefogarcia/dodaone-mcp-server",
+  "source_url": "https://github.com/fefogarcia/dodaone-mcp-server",
+  "install": "npx -y dodaone-mcp-server"
+}

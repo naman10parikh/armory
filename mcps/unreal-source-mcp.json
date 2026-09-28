@@ -1,0 +1,7 @@
+{
+  "name": "unreal-source-mcp",
+  "description": "Indexes Unreal Engine source code into a local database, providing AI coding assistants with deep structural queries like class hierarchies, call graphs, and full-text search across all engine source files.",
+  "source_repo": "tumourlove/DEPRECATED-unreal-source-mcp",
+  "source_url": "https://github.com/tumourlove/DEPRECATED-unreal-source-mcp",
+  "install": "npx -y DEPRECATED-unreal-source-mcp"
+}

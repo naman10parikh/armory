@@ -1,0 +1,7 @@
+{
+  "name": "bitwig-gemini-mcp",
+  "description": "Enables AI agents to control and monitor Bitwig Studio in real-time using natural language commands through MCP and OSC.",
+  "source_repo": "bedri/bitwig-gemini-mcp",
+  "source_url": "https://github.com/bedri/bitwig-gemini-mcp",
+  "install": "npx -y bitwig-gemini-mcp"
+}

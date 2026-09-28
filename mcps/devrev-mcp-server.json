@@ -1,0 +1,7 @@
+{
+  "name": "devrev-mcp-server",
+  "description": "Enables searching, retrieving, creating, and updating issues and tickets in DevRev using natural language.",
+  "source_repo": "smithery-ai/mcp-server-7",
+  "source_url": "https://github.com/smithery-ai/mcp-server-7",
+  "install": "# git clone --depth 1 https://github.com/smithery-ai/mcp-server-7\n# See source for mcpServers config block"
+}

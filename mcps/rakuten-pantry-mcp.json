@@ -1,0 +1,7 @@
+{
+  "name": "rakuten-pantry-mcp",
+  "description": "An MCP server for Rakuten Ichiba that enhances product search with quantity parsing, unit price calculation, and shipping cost analysis, enabling cost-effective bulk purchasing decisions.",
+  "source_repo": "yukincom/rakuten-pantry-mcp",
+  "source_url": "https://github.com/yukincom/rakuten-pantry-mcp",
+  "install": "npx -y rakuten-pantry-mcp"
+}

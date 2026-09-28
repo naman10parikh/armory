@@ -1,0 +1,7 @@
+{
+  "name": "domainintel-mcp",
+  "description": "An MCP server for domain intelligence — WHOIS, DNS records, SSL certificate inspection, SPF/DMARC validation, security-header audits, and blacklist/reputation checks, callable by AI agents. Powered by domainintel.app; runs server-side, no local setup.",
+  "source_repo": "Bishop81/domainintel-mcp",
+  "source_url": "https://github.com/Bishop81/domainintel-mcp",
+  "install": "npx -y domainintel-mcp"
+}

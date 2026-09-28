@@ -1,0 +1,7 @@
+{
+  "name": "jdatamunch-mcp",
+  "description": "MCP server for tabular data retrieval that indexes local CSV, Excel, Parquet, and JSONL files once and answers questions via column profiles, filtered rows, server-side aggregations, and joins, drastically reducing token usage for large datasets.",
+  "source_repo": "jgravelle/jdatamunch-mcp",
+  "source_url": "https://github.com/jgravelle/jdatamunch-mcp",
+  "install": "npx -y jdatamunch-mcp"
+}

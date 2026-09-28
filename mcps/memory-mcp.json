@@ -1,0 +1,7 @@
+{
+  "name": "memory-mcp",
+  "description": "Persistent project memory for AI models and coding agents. Memory MCP stores architecture, decisions, tasks, warnings, preferences, and session state in Supabase so OpenCode, Claude Code CLI, Qwen Code, Codex, or any MCP-compatible client can resume work without losing context.",
+  "source_repo": "dannymaaz/memory-mcp",
+  "source_url": "https://github.com/dannymaaz/memory-mcp",
+  "install": "npx -y memory-mcp"
+}

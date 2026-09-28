@@ -1,0 +1,7 @@
+{
+  "name": "local-mcp",
+  "description": "A lightweight, stdio-based MCP server enabling AI assistants to perform local file system operations like reading, writing, searching, and executing commands.",
+  "source_repo": "fan-67/local-mcp",
+  "source_url": "https://github.com/fan-67/local-mcp",
+  "install": "npx -y local-mcp"
+}

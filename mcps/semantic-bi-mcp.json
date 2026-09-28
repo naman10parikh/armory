@@ -1,0 +1,7 @@
+{
+  "name": "semantic-bi-mcp",
+  "description": "Model Context Protocol (MCP) server that gives AI assistants a safe, correct data-analyst capability over business metrics - without raw SQL improvisation.",
+  "source_repo": "LovroBubanic/Semantic-BI-MCP",
+  "source_url": "https://github.com/LovroBubanic/Semantic-BI-MCP",
+  "install": "npx -y Semantic-BI-MCP"
+}

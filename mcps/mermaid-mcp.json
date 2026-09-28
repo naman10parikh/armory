@@ -1,0 +1,7 @@
+{
+  "name": "mermaid-mcp",
+  "description": "Fast Mermaid diagram validation and rendering (PNG/SVG) using jsdom and sharp, no Chromium needed.",
+  "source_repo": "oleksii-honchar/mermaid-mcp",
+  "source_url": "https://github.com/oleksii-honchar/mermaid-mcp",
+  "install": "npx -y mermaid-mcp"
+}

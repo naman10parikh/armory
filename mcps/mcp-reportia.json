@@ -1,0 +1,7 @@
+{
+  "name": "mcp-reportia",
+  "description": "An MCP server that wraps the Reportia REST API, exposing 66 tools for health, companies, accounting movements, mappings, reports, third parties, salesperson invoices, cost centers, and operations. It handles authentication via token or credentials and enables operations like listing, exporting to Ex",
+  "source_repo": "javalenciacai/mcp-reportia",
+  "source_url": "https://github.com/javalenciacai/mcp-reportia",
+  "install": "# git clone --depth 1 https://github.com/javalenciacai/mcp-reportia\n# See source for mcpServers config block"
+}

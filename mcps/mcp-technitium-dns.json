@@ -1,0 +1,7 @@
+{
+  "name": "mcp-technitium-dns",
+  "description": "Safety-focused MCP server for querying and managing Technitium DNS Server through its HTTP API, with strict input validation and audit logging.",
+  "source_repo": "Slyke/mcp-technitium-dns",
+  "source_url": "https://github.com/Slyke/mcp-technitium-dns",
+  "install": "# git clone --depth 1 https://github.com/Slyke/mcp-technitium-dns\n# See source for mcpServers config block"
+}

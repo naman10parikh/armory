@@ -1,0 +1,7 @@
+{
+  "name": "evidence-mcp",
+  "description": "Provides an evidence-oriented MCP interface for Evidence RAG Pilot, enabling retrieval of evidence packages, chunks, and evidence images from PDF-based corpora.",
+  "source_repo": "zzkws/evidence-rag-pilot",
+  "source_url": "https://github.com/zzkws/evidence-rag-pilot",
+  "install": "# git clone --depth 1 https://github.com/zzkws/evidence-rag-pilot\n# See source for mcpServers config block"
+}

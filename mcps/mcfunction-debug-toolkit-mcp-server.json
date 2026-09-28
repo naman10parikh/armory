@@ -1,0 +1,7 @@
+{
+  "name": "mcfunction-debug-toolkit-mcp-server",
+  "description": "Enables AI clients to validate and run Minecraft commands, read chat and tellraw messages, control player movement and GUI, and capture screenshots from within the game, aiding datapack debugging.",
+  "source_repo": "Ethanout/mcfunction-debug-toolkit",
+  "source_url": "https://github.com/Ethanout/mcfunction-debug-toolkit",
+  "install": "# git clone --depth 1 https://github.com/Ethanout/mcfunction-debug-toolkit\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "amem-2",
+  "description": "Enables AI assistants to persistently remember user preferences and context through client-side encrypted vaults, ensuring memory is portable and private across different MCP clients.",
+  "source_repo": "apertomemory/apertomemory",
+  "source_url": "https://github.com/apertomemory/apertomemory",
+  "install": "# git clone --depth 1 https://github.com/apertomemory/apertomemory\n# See source for mcpServers config block"
+}

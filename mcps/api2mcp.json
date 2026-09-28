@@ -1,0 +1,7 @@
+{
+  "name": "api2mcp",
+  "description": "Serves any OpenAPI 3.x/Swagger 2.x API as a local MCP server over stdio, converting every operation into a tool that proxies requests to the upstream API with configurable headers and fixed parameters.",
+  "source_repo": "swayam5342/api2mcp",
+  "source_url": "https://github.com/swayam5342/api2mcp",
+  "install": "# git clone --depth 1 https://github.com/swayam5342/api2mcp\n# See source for mcpServers config block"
+}

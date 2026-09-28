@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-ro-nfc-e-resumida",
+  "description": "Consulta resumida de NFC-e em fonte oficial da SEFAZ Rondônia, via ferramenta somente leitura. Permite consultar dados fiscais por linguagem natural em qualquer cliente MCP compatível.",
+  "source_repo": "mcp-dir/sefaz_ro_nfce_resumida-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_ro_nfce_resumida-mcp",
+  "install": "npx -y sefaz_ro_nfce_resumida-mcp"
+}

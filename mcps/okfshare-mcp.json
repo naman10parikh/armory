@@ -1,0 +1,7 @@
+{
+  "name": "okfshare-mcp",
+  "description": "Enables AI coding agents to search and retrieve cited line-level context from versioned knowledge bundles, as well as list workspaces and publish or pull immutable Markdown bundles.",
+  "source_repo": "MegaPanchamZ/okfshare-cli",
+  "source_url": "https://github.com/MegaPanchamZ/okfshare-cli",
+  "install": "# git clone --depth 1 https://github.com/MegaPanchamZ/okfshare-cli\n# See source for mcpServers config block"
+}

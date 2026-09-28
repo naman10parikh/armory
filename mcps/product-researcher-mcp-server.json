@@ -1,0 +1,7 @@
+{
+  "name": "product-researcher-mcp-server",
+  "description": "Enables product research and web search directly from the terminal, with tools for product briefs, comparisons, pricing lookups, alternative discovery, and general web search.",
+  "source_repo": "Quantaus/product-researcher-mcp",
+  "source_url": "https://github.com/Quantaus/product-researcher-mcp",
+  "install": "npx -y product-researcher-mcp"
+}

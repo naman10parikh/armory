@@ -1,0 +1,7 @@
+{
+  "name": "vincent-vnc-mcp",
+  "description": "A self-hosted, VNC-backed MCP server that enables AI agents to control a dedicated macOS user session remotely, without disturbing the console user.",
+  "source_repo": "cookiemonster0921/vincent-vnc-mcp",
+  "source_url": "https://github.com/cookiemonster0921/vincent-vnc-mcp",
+  "install": "npx -y vincent-vnc-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-nagios-crunchtools",
+  "description": "Enables secure interaction with Nagios Core for querying host and service status, acknowledging problems, adding comments, scheduling forced checks, and reading notification history.",
+  "source_repo": "crunchtools/mcp-nagios",
+  "source_url": "https://github.com/crunchtools/mcp-nagios",
+  "install": "# git clone --depth 1 https://github.com/crunchtools/mcp-nagios\n# See source for mcpServers config block"
+}

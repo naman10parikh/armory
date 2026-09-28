@@ -1,0 +1,7 @@
+{
+  "name": "mycobot-mcp",
+  "description": "Enables sending pick-and-place instructions to myCobot using object detection via image feedback.",
+  "source_repo": "neka-nat/mycobot-mcp",
+  "source_url": "https://github.com/neka-nat/mycobot-mcp",
+  "install": "npx -y mycobot-mcp"
+}

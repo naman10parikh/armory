@@ -1,0 +1,7 @@
+{
+  "name": "opencli-mcp",
+  "description": "MCP server wrapping OpenCLI to let agents control a real Windows Chrome browser, reusing existing login sessions and extensions, with DOM/AX snapshot, action, and network capabilities.",
+  "source_repo": "AloneAtWar/opencli-mcp",
+  "source_url": "https://github.com/AloneAtWar/opencli-mcp",
+  "install": "npx -y opencli-mcp"
+}

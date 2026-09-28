@@ -1,0 +1,7 @@
+{
+  "name": "rnacentral-mcp-server",
+  "description": "Enables complex searches, sequence mapping, genomic analysis, and metadata retrieval for non-coding RNA sequences from the RNAcentral database.",
+  "source_repo": "RNAcentral/rnacentral-mcp-server",
+  "source_url": "https://github.com/RNAcentral/rnacentral-mcp-server",
+  "install": "npx -y rnacentral-mcp-server"
+}

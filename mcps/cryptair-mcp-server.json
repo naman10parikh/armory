@@ -1,0 +1,7 @@
+{
+  "name": "cryptair-mcp-server",
+  "description": "Enables AI agents to certify documents, prove agreements, and verify counterparty claims with on-chain receipts on Hedera Hashgraph. Provides tools for document certification, two-party attestation, and agent registration with zero-config setup.",
+  "source_repo": "Syronius/cryptair-mcp-server",
+  "source_url": "https://github.com/Syronius/cryptair-mcp-server",
+  "install": "npx -y cryptair-mcp-server"
+}

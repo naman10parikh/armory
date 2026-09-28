@@ -1,0 +1,7 @@
+{
+  "name": "ffd-mcp",
+  "description": "Parses SEC EDGAR Exhibit 107 XBRL fee disclosures from registration statements and returns structured fee data through the Model Context Protocol. No API keys required.",
+  "source_repo": "davidtauriello/ffd-mcp",
+  "source_url": "https://github.com/davidtauriello/ffd-mcp",
+  "install": "npx -y ffd-mcp"
+}

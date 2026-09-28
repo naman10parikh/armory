@@ -1,0 +1,7 @@
+{
+  "name": "openai-image-mcp-server",
+  "description": "Enables conversational image generation, editing, and refinement through OpenAI models with session memory for iterative creative workflows.",
+  "source_repo": "aigentive/openai-image-mcp",
+  "source_url": "https://github.com/aigentive/openai-image-mcp",
+  "install": "npx -y openai-image-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "te1000-mcp",
+  "description": "MCP server for Beckhoff TwinCAT XAE / TE1000 Automation Interface, enabling control of XAE Shell, TwinCAT tree manipulation, PLC operations, and build actions via natural language.",
+  "source_repo": "Edge-JB/tc1000-MCP-TC-4026",
+  "source_url": "https://github.com/Edge-JB/tc1000-MCP-TC-4026",
+  "install": "# git clone --depth 1 https://github.com/Edge-JB/tc1000-MCP-TC-4026\n# See source for mcpServers config block"
+}

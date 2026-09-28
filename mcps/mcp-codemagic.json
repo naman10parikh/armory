@@ -1,0 +1,7 @@
+{
+  "name": "mcp-codemagic",
+  "description": "This MCP server enables users to manage Codemagic CI/CD builds directly from Claude Code, including listing apps, triggering builds, checking status, and canceling builds.",
+  "source_repo": "musictechlab/mcp-codemagic",
+  "source_url": "https://github.com/musictechlab/mcp-codemagic",
+  "install": "# git clone --depth 1 https://github.com/musictechlab/mcp-codemagic\n# See source for mcpServers config block"
+}

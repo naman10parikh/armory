@@ -1,0 +1,7 @@
+{
+  "name": "contextweave",
+  "description": "Universal project memory engine that extracts knowledge from code and git history, enabling AI assistants to query full project context via MCP.",
+  "source_repo": "deyavinaba597-pixel/contextweave",
+  "source_url": "https://github.com/deyavinaba597-pixel/contextweave",
+  "install": "# git clone --depth 1 https://github.com/deyavinaba597-pixel/contextweave\n# See source for mcpServers config block"
+}

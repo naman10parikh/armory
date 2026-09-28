@@ -1,0 +1,7 @@
+{
+  "name": "simubridge",
+  "description": "Enables AI assistants to control MATLAB Simulink models through natural language, providing tools for model creation, block management, wiring, simulation, and more via a local MCP backend.",
+  "source_repo": "naaomiur/simubridge-skills",
+  "source_url": "https://github.com/naaomiur/simubridge-skills",
+  "install": "# git clone --depth 1 https://github.com/naaomiur/simubridge-skills\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "figma-opencode-mcp",
+  "description": "Local-first MCP server that connects AI coding agents to the currently open Figma file through a local plugin bridge, requiring no Figma API token.",
+  "source_repo": "laivannha0202/figma-opencode-mcp",
+  "source_url": "https://github.com/laivannha0202/figma-opencode-mcp",
+  "install": "npx -y figma-opencode-mcp"
+}

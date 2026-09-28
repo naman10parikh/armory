@@ -1,0 +1,7 @@
+{
+  "name": "jama-connect",
+  "description": "MCP server for Jama Connect that enables AI assistants to interact with Jama requirements and test management through MCP tools, a REST API, and a built-in viewer.",
+  "source_repo": "kailash-enph/jama-connect",
+  "source_url": "https://github.com/kailash-enph/jama-connect",
+  "install": "# git clone --depth 1 https://github.com/kailash-enph/jama-connect\n# See source for mcpServers config block"
+}

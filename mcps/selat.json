@@ -1,0 +1,7 @@
+{
+  "name": "selat",
+  "description": "Centralizes OAuth connections and tool access for AI agents, providing a single credential to call multiple services via MCP and REST with consistent errors and pagination.",
+  "source_repo": "fajarhide/selat",
+  "source_url": "https://github.com/fajarhide/selat",
+  "install": "# git clone --depth 1 https://github.com/fajarhide/selat\n# See source for mcpServers config block"
+}

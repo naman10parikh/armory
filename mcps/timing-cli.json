@@ -1,0 +1,7 @@
+{
+  "name": "timing-cli",
+  "description": "Provides MCP tools to read local Timing.app activity data, generate aggregated time entries, and push them to the Timing Web API.",
+  "source_repo": "sussdorff/timing-cli",
+  "source_url": "https://github.com/sussdorff/timing-cli",
+  "install": "# git clone --depth 1 https://github.com/sussdorff/timing-cli\n# See source for mcpServers config block"
+}

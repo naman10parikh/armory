@@ -1,0 +1,7 @@
+{
+  "name": "win-cli-mcp-tmyy",
+  "description": "Enables AI clients to execute Windows commands, manage files, query system information, and perform code checks via MCP protocol.",
+  "source_repo": "xctmyy/win-cli-mcp-tmyy",
+  "source_url": "https://github.com/xctmyy/win-cli-mcp-tmyy",
+  "install": "# git clone --depth 1 https://github.com/xctmyy/win-cli-mcp-tmyy\n# See source for mcpServers config block"
+}

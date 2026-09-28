@@ -1,0 +1,7 @@
+{
+  "name": "mcp-genelab-server",
+  "description": "Converts natural language queries into Cypher queries against the NASA GeneLab Knowledge Graph, enabling AI-assisted analysis of spaceflight experiments and their biological effects.",
+  "source_repo": "sbl-sdsc/mcp-genelab",
+  "source_url": "https://github.com/sbl-sdsc/mcp-genelab",
+  "install": "# git clone --depth 1 https://github.com/sbl-sdsc/mcp-genelab\n# See source for mcpServers config block"
+}

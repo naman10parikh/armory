@@ -1,0 +1,7 @@
+{
+  "name": "page-speed-insights-mcp",
+  "description": "An MCP server that wraps the Google PageSpeed Insights API to analyse web performance, providing tools for scores, Core Web Vitals, opportunities, diagnostics, and batch analysis.",
+  "source_repo": "Sivakumar-intoaec/page-speed-insights-mcp",
+  "source_url": "https://github.com/Sivakumar-intoaec/page-speed-insights-mcp",
+  "install": "npx -y page-speed-insights-mcp"
+}

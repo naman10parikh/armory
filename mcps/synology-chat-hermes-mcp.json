@@ -1,0 +1,7 @@
+{
+  "name": "synology-chat-hermes-mcp",
+  "description": "Provides AI agents with read/write access to a fixed Synology NAS SMB share through strict path jail, size limits, and active-content rejection. Built for secure file operations via FastMCP HTTP server.",
+  "source_repo": "shunnnnn-png/synology-chat-hermes-mcp",
+  "source_url": "https://github.com/shunnnnn-png/synology-chat-hermes-mcp",
+  "install": "npx -y synology-chat-hermes-mcp"
+}

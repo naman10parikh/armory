@@ -1,0 +1,7 @@
+{
+  "name": "signer-mcp",
+  "description": "Keyless CEX/DEX order signing for AI trading agents (Binance, OKX, Bybit, KuCoin, Hyperliquid, Asterdex). Exchange keys stay inside an AWS Nitro Enclave — the agent gets policy-bounded signatures, never credentials. Built to survive prompt injection and supply-chain key leaks.",
+  "source_repo": "namixai/signer-mcp",
+  "source_url": "https://github.com/namixai/signer-mcp",
+  "install": "npx -y signer-mcp"
+}

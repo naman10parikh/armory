@@ -1,0 +1,7 @@
+{
+  "name": "mospi-mcp-server-2",
+  "description": "Provides AI-ready access to Indian government statistics through MCP, enabling natural language queries for economic, demographic, and social indicators.",
+  "source_repo": "nso-india/esankhyiki-mcp",
+  "source_url": "https://github.com/nso-india/esankhyiki-mcp",
+  "install": "npx -y esankhyiki-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "logitech-sync-mcp",
+  "description": "A read-only MCP server for the Logitech Sync Cloud API, providing tools to inspect rooms, desks, devices, health, occupancy, coverage, environmental readings, and network information.",
+  "source_repo": "bouchecousue/logitech-sync-mcp",
+  "source_url": "https://github.com/bouchecousue/logitech-sync-mcp",
+  "install": "npx -y logitech-sync-mcp"
+}

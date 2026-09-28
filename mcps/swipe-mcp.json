@@ -1,0 +1,7 @@
+{
+  "name": "swipe-mcp",
+  "description": "MCP server for managing swipe files (sample/reference data) with tools to add, search, and update entries via Claude.",
+  "source_repo": "antoshia2n/swipe-mcp",
+  "source_url": "https://github.com/antoshia2n/swipe-mcp",
+  "install": "npx -y swipe-mcp"
+}

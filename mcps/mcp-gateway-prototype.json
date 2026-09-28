@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gateway-prototype",
+  "description": "A local MCP server for BigQuery that integrates Okta authentication and workload identity federation, enabling natural language queries and dataset exploration.",
+  "source_repo": "augusto-realist/artiva-mcp-gateway-prototype",
+  "source_url": "https://github.com/augusto-realist/artiva-mcp-gateway-prototype",
+  "install": "# git clone --depth 1 https://github.com/augusto-realist/artiva-mcp-gateway-prototype\n# See source for mcpServers config block"
+}

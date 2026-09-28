@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-pe-recife-cpom",
+  "description": "Enables querying official data from the Prefeitura de Recife (Recife City Hall) through a hosted, read-only MCP server. Supports MCP over HTTP with usage-based prepaid billing.",
+  "source_repo": "mcp-dir/pref_pe_recife_cpom-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_pe_recife_cpom-mcp",
+  "install": "npx -y pref_pe_recife_cpom-mcp"
+}

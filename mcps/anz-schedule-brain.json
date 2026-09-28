@@ -1,0 +1,7 @@
+{
+  "name": "anz-schedule-brain",
+  "description": "Provides verified ANZ public holidays, school terms, and business-day calculations for all 9 regions of Australia and New Zealand, backed by data for 2026 and 2027.",
+  "source_repo": "TyrenTemp/anz-schedule-brain",
+  "source_url": "https://github.com/TyrenTemp/anz-schedule-brain",
+  "install": "# git clone --depth 1 https://github.com/TyrenTemp/anz-schedule-brain\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pifini-mcp",
+  "description": "Thin stdio proxy to Pifini's hosted MCP server (real events, reviewed places, and ticket checkout across the Caribbean & Latin America). MIT, zero dependencies.",
+  "source_repo": "asokore/pifini-mcp",
+  "source_url": "https://github.com/asokore/pifini-mcp",
+  "install": "npx -y pifini-mcp"
+}

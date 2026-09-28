@@ -1,0 +1,7 @@
+{
+  "name": "debugger",
+  "description": "MCP server for remote debugging of Apps in Toss mini-apps, providing CDP relay and test runner capabilities.",
+  "source_repo": "apps-in-toss-community/debugger",
+  "source_url": "https://github.com/apps-in-toss-community/debugger",
+  "install": "# git clone --depth 1 https://github.com/apps-in-toss-community/debugger\n# See source for mcpServers config block"
+}

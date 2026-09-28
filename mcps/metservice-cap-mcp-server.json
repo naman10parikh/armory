@@ -1,0 +1,7 @@
+{
+  "name": "metservice-cap-mcp-server",
+  "description": "Fetches MetService CAP Atom feed for weather alerts and exposes tools to get active road warnings and all alerts.",
+  "source_repo": "j6js/metservice-cap-mcp",
+  "source_url": "https://github.com/j6js/metservice-cap-mcp",
+  "install": "npx -y metservice-cap-mcp"
+}

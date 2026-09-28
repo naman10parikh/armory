@@ -1,0 +1,7 @@
+{
+  "name": "cyberchef-mcp-server",
+  "description": "Enables AI assistants to execute 463 CyberChef data manipulation operations—including encryption, encoding, and forensic analysis—as MCP tools.",
+  "source_repo": "doublegate/CyberChef-MCP",
+  "source_url": "https://github.com/doublegate/CyberChef-MCP",
+  "install": "npx -y CyberChef-MCP"
+}

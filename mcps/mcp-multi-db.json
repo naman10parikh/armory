@@ -1,0 +1,7 @@
+{
+  "name": "mcp-multi-db",
+  "description": "Read-only MCP server for querying PostgreSQL, MySQL, and SQLite from AI agents — multi-database, safe by default.",
+  "source_repo": "mahAnuj/mcp-multi-db",
+  "source_url": "https://github.com/mahAnuj/mcp-multi-db",
+  "install": "# git clone --depth 1 https://github.com/mahAnuj/mcp-multi-db\n# See source for mcpServers config block"
+}

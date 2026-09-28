@@ -1,0 +1,7 @@
+{
+  "name": "byteplus-seedance-mcp",
+  "description": "An MCP server that lets Claude Code generate videos using BytePlus ModelArk Dreamina Seedance 2.5, handling task submission, polling, and file downloads through plain language prompts.",
+  "source_repo": "skeetmtp/byteplus-seedance-mcp",
+  "source_url": "https://github.com/skeetmtp/byteplus-seedance-mcp",
+  "install": "npx -y byteplus-seedance-mcp"
+}

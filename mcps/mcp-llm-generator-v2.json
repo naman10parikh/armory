@@ -1,0 +1,7 @@
+{
+  "name": "mcp-llm-generator-v2",
+  "description": "Production-ready MCP server enabling LLM text generation, template management, context-aware conversations, and memory storage with enterprise quality assurance.",
+  "source_repo": "mako10k/mcp-llm-generator",
+  "source_url": "https://github.com/mako10k/mcp-llm-generator",
+  "install": "# git clone --depth 1 https://github.com/mako10k/mcp-llm-generator\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "malloy-mcp-server",
+  "description": "An MCP server for executing Malloy queries and managing Malloy resources.",
+  "source_repo": "namabile/malloy-mcp-server",
+  "source_url": "https://github.com/namabile/malloy-mcp-server",
+  "install": "npx -y malloy-mcp-server"
+}

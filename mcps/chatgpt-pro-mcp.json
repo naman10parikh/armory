@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-pro-mcp",
+  "description": "An experimental guarded MCP bridge for Codex/open-ultrawork workflows, enabling submission of bounded research jobs to ChatGPT Pro asynchronously with source verification and safety guards.",
+  "source_repo": "JNSlayer2/chatgpt-pro-mcp",
+  "source_url": "https://github.com/JNSlayer2/chatgpt-pro-mcp",
+  "install": "npx -y chatgpt-pro-mcp"
+}

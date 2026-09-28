@@ -1,0 +1,7 @@
+{
+  "name": "nanoboy-social-mcp",
+  "description": "MCP server for Instagram growth in LATAM, enabling automated DM flows, comment management, and account analytics.",
+  "source_repo": "365diascollaboration-prog/ig-latam-mcp",
+  "source_url": "https://github.com/365diascollaboration-prog/ig-latam-mcp",
+  "install": "npx -y ig-latam-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "beeper-mcp",
+  "description": "Enables blockchain transactions on BSC including balance checks, transfers, token swaps, and reward claims.",
+  "source_repo": "intentos-labs/beeper-mcp",
+  "source_url": "https://github.com/intentos-labs/beeper-mcp",
+  "install": "npx -y beeper-mcp"
+}

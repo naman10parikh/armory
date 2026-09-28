@@ -1,0 +1,7 @@
+{
+  "name": "lore-mcp",
+  "description": "A stateless MCP server that gives AI agents team-shared lore including area context documents, session captures, and structured docs (ADRs, logs, TODOs, plans) via the lore-api GraphQL endpoint.",
+  "source_repo": "sharedlore-ai/lore-mcp",
+  "source_url": "https://github.com/sharedlore-ai/lore-mcp",
+  "install": "npx -y lore-mcp"
+}

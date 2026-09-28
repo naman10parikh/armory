@@ -1,0 +1,7 @@
+{
+  "name": "shellbridge",
+  "description": "Give ChatGPT fast, safe, and auditable visibility into your VPS through MCP.",
+  "source_repo": "fengyincheng/ShellBridge",
+  "source_url": "https://github.com/fengyincheng/ShellBridge",
+  "install": "# git clone --depth 1 https://github.com/fengyincheng/ShellBridge\n# See source for mcpServers config block"
+}

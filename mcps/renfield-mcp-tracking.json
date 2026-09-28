@@ -1,0 +1,7 @@
+{
+  "name": "renfield-mcp-tracking",
+  "description": "Multi-carrier parcel tracking server that communicates directly with carrier APIs (DHL, UPS, FedEx, etc.) without third-party aggregators, providing normalized tracking status and events.",
+  "source_repo": "ebongard/renfield-mcp-tracking",
+  "source_url": "https://github.com/ebongard/renfield-mcp-tracking",
+  "install": "# git clone --depth 1 https://github.com/ebongard/renfield-mcp-tracking\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "emma-transactions-mcp",
+  "description": "A generic MCP server for querying Emma-app transaction exports stored in Google Sheets, supporting filters, summaries, and metadata via CSV fetching.",
+  "source_repo": "accesstechnology-mike/emma-transactions-mcp",
+  "source_url": "https://github.com/accesstechnology-mike/emma-transactions-mcp",
+  "install": "npx -y emma-transactions-mcp"
+}

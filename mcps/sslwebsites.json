@@ -1,0 +1,7 @@
+{
+  "name": "sslwebsites",
+  "description": "MCP server for SSL certificate management, enabling agents to issue, renew, revoke, monitor, download, and install certificates, with expiry tracking and webhooks across nine server types.",
+  "source_repo": "jyswee/sslwebsites",
+  "source_url": "https://github.com/jyswee/sslwebsites",
+  "install": "# git clone --depth 1 https://github.com/jyswee/sslwebsites\n# See source for mcpServers config block"
+}

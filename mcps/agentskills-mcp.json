@@ -1,0 +1,7 @@
+{
+  "name": "agentskills-mcp",
+  "description": "A FastMCP server that helps users discover, browse, and install agent skills from curated GitHub collections, with support for adding new skill sources.",
+  "source_repo": "Drhir2460/agentskills-mcp",
+  "source_url": "https://github.com/Drhir2460/agentskills-mcp",
+  "install": "npx -y agentskills-mcp"
+}

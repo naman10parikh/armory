@@ -1,0 +1,7 @@
+{
+  "name": "chef-agent",
+  "description": "A streaming AI cooking assistant that uses MCP tools and Neo4j knowledge graph to answer queries, manage recipes, and remember user preferences.",
+  "source_repo": "OmNagvekar/Chef-agent",
+  "source_url": "https://github.com/OmNagvekar/Chef-agent",
+  "install": "# git clone --depth 1 https://github.com/OmNagvekar/Chef-agent\n# See source for mcpServers config block"
+}

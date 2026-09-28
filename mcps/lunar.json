@@ -1,0 +1,7 @@
+{
+  "name": "lunar",
+  "description": "Browser-based geometry processing server that enables AI agents to create geometry, run analysis and operators, inspect results, and take screenshots via MCP.",
+  "source_repo": "polydera/lunar",
+  "source_url": "https://github.com/polydera/lunar",
+  "install": "# git clone --depth 1 https://github.com/polydera/lunar\n# See source for mcpServers config block"
+}

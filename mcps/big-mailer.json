@@ -1,0 +1,7 @@
+{
+  "name": "big-mailer",
+  "description": "MCP server for the big-mailer self-hosted email platform, exposing 93 tools to manage subscribers, consent, sequences, broadcasts, segments, and Stripe reconciliation via natural language.",
+  "source_repo": "robconery/big-mailer",
+  "source_url": "https://github.com/robconery/big-mailer",
+  "install": "# git clone --depth 1 https://github.com/robconery/big-mailer\n# See source for mcpServers config block"
+}

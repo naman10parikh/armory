@@ -1,0 +1,7 @@
+{
+  "name": "ticket-api-mcp-server",
+  "description": "An MCP server exposing the internal Ticket API to MCP clients, built with FastMCP's OpenAPI integration.",
+  "source_repo": "codebasics/ticket-mcp-server",
+  "source_url": "https://github.com/codebasics/ticket-mcp-server",
+  "install": "npx -y ticket-mcp-server"
+}

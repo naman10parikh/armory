@@ -1,0 +1,7 @@
+{
+  "name": "mina-mcp-server",
+  "description": "MCP server that provides zkApp transaction information from the Mina blockchain via the Blockberry API, enabling querying of specific transactions and fetching recent ones with filters.",
+  "source_repo": "ronykris/mina-mcp-server",
+  "source_url": "https://github.com/ronykris/mina-mcp-server",
+  "install": "npx -y mina-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "imap-smtp-mcp",
+  "description": "Exposes any IMAP mailbox and SMTP relay as MCP tools, enabling email management (read, search, send, delete) through MCP-compatible agents.",
+  "source_repo": "DeamonDev888/imap-smtp-mcp",
+  "source_url": "https://github.com/DeamonDev888/imap-smtp-mcp",
+  "install": "npx -y imap-smtp-mcp"
+}

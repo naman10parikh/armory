@@ -1,0 +1,7 @@
+{
+  "name": "sakenowa-mcp-vercel",
+  "description": "Enables querying Japanese sake data (prefectures, sakes, flavors, rankings) via MCP protocol, deployed as a Vercel serverless function.",
+  "source_repo": "yawaragi-dev/sakenowa-mcp-vercel",
+  "source_url": "https://github.com/yawaragi-dev/sakenowa-mcp-vercel",
+  "install": "# git clone --depth 1 https://github.com/yawaragi-dev/sakenowa-mcp-vercel\n# See source for mcpServers config block"
+}

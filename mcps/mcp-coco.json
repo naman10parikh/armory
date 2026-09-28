@@ -1,0 +1,7 @@
+{
+  "name": "mcp-coco",
+  "description": "Bridges OpenClaw and Hermes Agent to enable messaging, multi-turn conversations, and health checks via MCP tools.",
+  "source_repo": "ClewCode/bus-agent",
+  "source_url": "https://github.com/ClewCode/bus-agent",
+  "install": "# git clone --depth 1 https://github.com/ClewCode/bus-agent\n# See source for mcpServers config block"
+}

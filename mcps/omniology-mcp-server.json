@@ -1,0 +1,7 @@
+{
+  "name": "omniology-mcp-server",
+  "description": "Enables AI agents to participate in Solana mainnet contests judged by AI, with tools for registration, entry submission, and payout tracking, earning real USDC on-chain.",
+  "source_repo": "omniologynow-rgb/mcp-server",
+  "source_url": "https://github.com/omniologynow-rgb/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/omniologynow-rgb/mcp-server\n# See source for mcpServers config block"
+}

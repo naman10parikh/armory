@@ -1,0 +1,7 @@
+{
+  "name": "codegraph-multi-repo-mcp",
+  "description": "Exposes CodeGraph capabilities for multiple local repositories to MCP-compatible AI coding assistants, enabling multi-repo code exploration and cross-repo symbol tracing.",
+  "source_repo": "shinerio/codegraph-multi-repo-mcp",
+  "source_url": "https://github.com/shinerio/codegraph-multi-repo-mcp",
+  "install": "npx -y codegraph-multi-repo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "valorem-mev-mcp",
+  "description": "Gives MCP-compatible LLM agents direct access to real-time MEV and DeFi data via Valorem's x402-paid API endpoints, with payments in USDC on Base mainnet.",
+  "source_repo": "ValoremFoundation/valorem-mev-mcp",
+  "source_url": "https://github.com/ValoremFoundation/valorem-mev-mcp",
+  "install": "npx -y valorem-mev-mcp"
+}

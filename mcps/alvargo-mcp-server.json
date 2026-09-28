@@ -1,0 +1,7 @@
+{
+  "name": "alvargo-mcp-server",
+  "description": "Provides freight management tools such as instant quotes, market rates, shipment booking and tracking, driver assignment, and document uploads through the Alvargo Freight OS.",
+  "source_repo": "Noewell/alvargo-mcp",
+  "source_url": "https://github.com/Noewell/alvargo-mcp",
+  "install": "npx -y alvargo-mcp"
+}

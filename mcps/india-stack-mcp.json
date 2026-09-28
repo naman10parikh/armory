@@ -1,0 +1,7 @@
+{
+  "name": "india-stack-mcp",
+  "description": "Enables AI agents to manage Indian enterprise systems by providing tools for accounting (TallyPrime), invoicing (Zoho Books), and GST compliance (validation, e-invoice generation, and GSTR-2B reconciliation), with dry-run-first writes and an audit trail.",
+  "source_repo": "rishiksaib/india-stack-mcp",
+  "source_url": "https://github.com/rishiksaib/india-stack-mcp",
+  "install": "npx -y india-stack-mcp"
+}

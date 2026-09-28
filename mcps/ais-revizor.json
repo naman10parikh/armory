@@ -1,0 +1,7 @@
+{
+  "name": "ais-revizor",
+  "description": "A local-first MCP server that gives AI coding agents runtime visibility and AI-managed debug logging. It replaces blind print() debugging by turning runtime execution into causal chains, allowing agents to instantly locate bugs by finding missing .success events in Python and TypeScript code. Single",
+  "source_repo": "bswvladimir-beep/AIS-Revizor",
+  "source_url": "https://github.com/bswvladimir-beep/AIS-Revizor",
+  "install": "# git clone --depth 1 https://github.com/bswvladimir-beep/AIS-Revizor\n# See source for mcpServers config block"
+}

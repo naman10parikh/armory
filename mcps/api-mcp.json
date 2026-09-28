@@ -1,0 +1,7 @@
+{
+  "name": "api-mcp",
+  "description": "Enables LLMs to make arbitrary HTTP API requests with any method and full control over headers, query parameters, and body.",
+  "source_repo": "GiantBeaver9/api-mcp",
+  "source_url": "https://github.com/GiantBeaver9/api-mcp",
+  "install": "npx -y api-mcp"
+}

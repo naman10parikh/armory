@@ -1,0 +1,7 @@
+{
+  "name": "news-checker-mcp",
+  "description": "MCP server for fetching latest news from global sources across categories like world, tech, business, science, sports, entertainment, and Japan, without requiring an API key.",
+  "source_repo": "n40yuk1/news-checker-mcp",
+  "source_url": "https://github.com/n40yuk1/news-checker-mcp",
+  "install": "npx -y news-checker-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-package-health",
+  "description": "An MCP server that provides AI agents with real-time package health data, vulnerability reports, and dependency graphs from PyPI and OSV.dev.",
+  "source_repo": "fse08877-netizen/mcp-package-health",
+  "source_url": "https://github.com/fse08877-netizen/mcp-package-health",
+  "install": "# git clone --depth 1 https://github.com/fse08877-netizen/mcp-package-health\n# See source for mcpServers config block"
+}

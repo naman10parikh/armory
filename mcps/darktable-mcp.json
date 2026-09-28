@@ -1,0 +1,7 @@
+{
+  "name": "darktable-mcp",
+  "description": "Enables Claude to edit photos in darktable via natural language, adjusting sliders, applying styles, and organizing the library in real time through the MCP protocol.",
+  "source_repo": "Caleb68864/darktable-mcp",
+  "source_url": "https://github.com/Caleb68864/darktable-mcp",
+  "install": "npx -y darktable-mcp"
+}

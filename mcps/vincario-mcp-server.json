@@ -1,0 +1,7 @@
+{
+  "name": "vincario-mcp-server",
+  "description": "Enables AI assistants to decode VINs, check stolen vehicle databases, and retrieve market valuations through natural language.",
+  "source_repo": "Vincario/MCP-vincario",
+  "source_url": "https://github.com/Vincario/MCP-vincario",
+  "install": "# git clone --depth 1 https://github.com/Vincario/MCP-vincario\n# See source for mcpServers config block"
+}

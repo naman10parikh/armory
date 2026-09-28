@@ -1,0 +1,7 @@
+{
+  "name": "tak-server-mcp",
+  "description": "Enables AI systems to interact with TAK Server for geospatial operations, real-time event handling, and mission management through natural language.",
+  "source_repo": "onemindos/tak-server-mcp",
+  "source_url": "https://github.com/onemindos/tak-server-mcp",
+  "install": "npx -y tak-server-mcp"
+}

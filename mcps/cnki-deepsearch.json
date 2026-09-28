@@ -1,0 +1,7 @@
+{
+  "name": "cnki-deepsearch",
+  "description": "MCP server for deep CNKI academic search, retrieving multi-dimensional data (abstracts, keywords, references, citations, similar papers, keyword weights) and enabling citation network traversal via Playwright-based API interception.",
+  "source_repo": "weileyao2005/cnki-deepsearch",
+  "source_url": "https://github.com/weileyao2005/cnki-deepsearch",
+  "install": "# git clone --depth 1 https://github.com/weileyao2005/cnki-deepsearch\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "integradte-mcp",
+  "description": "MCP server for querying Chilean electronic invoicing data via the IntegraDTE API. Enables language models to retrieve tax documents, folios, statistics, and more.",
+  "source_repo": "JoseLuis21/integradte-mcp",
+  "source_url": "https://github.com/JoseLuis21/integradte-mcp",
+  "install": "npx -y integradte-mcp"
+}

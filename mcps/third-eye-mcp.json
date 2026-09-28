@@ -1,0 +1,7 @@
+{
+  "name": "third-eye-mcp",
+  "description": "A free, unlimited screen capture and recording MCP server for Python. Captures screenshots and records screen activity with no daily limits.",
+  "source_repo": "Osseni94/third-eye-mcp",
+  "source_url": "https://github.com/Osseni94/third-eye-mcp",
+  "install": "npx -y third-eye-mcp"
+}

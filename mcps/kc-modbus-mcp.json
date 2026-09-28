@@ -1,0 +1,7 @@
+{
+  "name": "kc-modbus-mcp",
+  "description": "MCP server for Modbus TCP devices that enables AI agents to read/write PLC registers by name using YAML device profiles, with a built-in simulator.",
+  "source_repo": "KerberosClaw/kc_modbus_mcp",
+  "source_url": "https://github.com/KerberosClaw/kc_modbus_mcp",
+  "install": "npx -y kc_modbus_mcp"
+}

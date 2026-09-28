@@ -1,0 +1,7 @@
+{
+  "name": "whoop-chatgpt-app",
+  "description": "MCP server that connects WHOOP health tracker data to ChatGPT, enabling read-only search, fetch, summary, and a React dashboard widget for recovery, sleep, strain, and workouts.",
+  "source_repo": "colesmcintosh/whoop-chatgpt-app",
+  "source_url": "https://github.com/colesmcintosh/whoop-chatgpt-app",
+  "install": "# git clone --depth 1 https://github.com/colesmcintosh/whoop-chatgpt-app\n# See source for mcpServers config block"
+}

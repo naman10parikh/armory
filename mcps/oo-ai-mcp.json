@@ -1,0 +1,7 @@
+{
+  "name": "oo-ai-mcp",
+  "description": "Enables searching content on oo.ai.",
+  "source_repo": "cdecl/oo.ai-mcp",
+  "source_url": "https://github.com/cdecl/oo.ai-mcp",
+  "install": "npx -y oo.ai-mcp"
+}

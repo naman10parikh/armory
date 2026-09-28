@@ -1,0 +1,7 @@
+{
+  "name": "corporate-tools-mcp-server",
+  "description": "Enables AI agents to search HR policies, create IT support tickets, and send external emails with configurable security levels and human-in-the-loop validation.",
+  "source_repo": "Oumeima-IbnElfekih/mcp_tools",
+  "source_url": "https://github.com/Oumeima-IbnElfekih/mcp_tools",
+  "install": "# git clone --depth 1 https://github.com/Oumeima-IbnElfekih/mcp_tools\n# See source for mcpServers config block"
+}

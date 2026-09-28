@@ -1,0 +1,7 @@
+{
+  "name": "ask-panda",
+  "description": "MCP server for querying PanDA documentation, analyzing job errors, and retrieving JSON data using multiple AI models.",
+  "source_repo": "BNLNPPS/ask-panda",
+  "source_url": "https://github.com/BNLNPPS/ask-panda",
+  "install": "# git clone --depth 1 https://github.com/BNLNPPS/ask-panda\n# See source for mcpServers config block"
+}

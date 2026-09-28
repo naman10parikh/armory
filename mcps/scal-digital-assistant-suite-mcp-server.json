@@ -1,0 +1,7 @@
+{
+  "name": "scal-digital-assistant-suite-mcp-server",
+  "description": "Provides tools for generating, quality-controlling, and exporting relative permeability and capillary pressure curves for reservoir simulation, with integration for Claude Desktop and LangGraph agent.",
+  "source_repo": "UsmanHWU/Agent_Scal_v1.0",
+  "source_url": "https://github.com/UsmanHWU/Agent_Scal_v1.0",
+  "install": "# git clone --depth 1 https://github.com/UsmanHWU/Agent_Scal_v1.0\n# See source for mcpServers config block"
+}

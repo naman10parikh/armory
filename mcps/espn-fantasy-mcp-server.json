@@ -1,0 +1,7 @@
+{
+  "name": "espn-fantasy-mcp-server",
+  "description": "MCP server providing access to ESPN Fantasy Baseball data, enabling league settings, rosters, player lookup, free agents, waiver claims, lineup changes, and trade management.",
+  "source_repo": "i-am-david-weinstein/espn-fantasy-mcp",
+  "source_url": "https://github.com/i-am-david-weinstein/espn-fantasy-mcp",
+  "install": "npx -y espn-fantasy-mcp"
+}

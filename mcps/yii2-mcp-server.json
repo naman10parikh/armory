@@ -1,0 +1,7 @@
+{
+  "name": "yii2-mcp-server",
+  "description": "Enables database schema inspection, Yii2 console command execution, and project management tools for Yii2 framework via Claude Code.",
+  "source_repo": "ArtMin96/yii2-mcp-server",
+  "source_url": "https://github.com/ArtMin96/yii2-mcp-server",
+  "install": "npx -y yii2-mcp-server"
+}

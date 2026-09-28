@@ -1,0 +1,7 @@
+{
+  "name": "dex-mcp",
+  "description": "Debug and inspection tooling for Roblox projects, exposed as an MCP server so an AI agent can explore the instance tree, read/write properties, call remotes, and run Luau in a Roblox client driven by an executor.",
+  "source_repo": "972jesko/dex-mcp",
+  "source_url": "https://github.com/972jesko/dex-mcp",
+  "install": "npx -y dex-mcp"
+}

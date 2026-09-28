@@ -1,0 +1,7 @@
+{
+  "name": "ssh-mcp-gateway",
+  "description": "Provides SSH access to a remote machine with manual session approval, automatic termination, and inactivity timeouts, enabling secure command execution via Claude.",
+  "source_repo": "raphyduck/ssh-mcp-gateway",
+  "source_url": "https://github.com/raphyduck/ssh-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/raphyduck/ssh-mcp-gateway\n# See source for mcpServers config block"
+}

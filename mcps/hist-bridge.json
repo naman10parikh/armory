@@ -1,0 +1,7 @@
+{
+  "name": "hist-bridge",
+  "description": "Enables listing and continuing conversations from Claude Code, Codex, Cursor, and GLM, allowing context handoff between tools by providing historical transcripts as context.",
+  "source_repo": "maqitong/hist-bridge",
+  "source_url": "https://github.com/maqitong/hist-bridge",
+  "install": "# git clone --depth 1 https://github.com/maqitong/hist-bridge\n# See source for mcpServers config block"
+}

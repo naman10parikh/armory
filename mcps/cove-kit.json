@@ -1,0 +1,7 @@
+{
+  "name": "cove-kit",
+  "description": "MCP server implementing Chain-of-Verification to reduce LLM hallucinations by drafting answers, planning fact-check questions, answering them independently, and revising.",
+  "source_repo": "SanjoyDat1/cove-kit",
+  "source_url": "https://github.com/SanjoyDat1/cove-kit",
+  "install": "# git clone --depth 1 https://github.com/SanjoyDat1/cove-kit\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codinfy-agent-monitor",
+  "description": "Provides real-time monitoring of AI agents, context, usage limits, workflows, files, Git, tests, builds, errors, secrets, and model-economy advice for tools like Claude Code, Codex, and Cursor, with 30 MCP tools for comprehensive observability.",
+  "source_repo": "bakalagoin/codinfy-agent-monitor",
+  "source_url": "https://github.com/bakalagoin/codinfy-agent-monitor",
+  "install": "# git clone --depth 1 https://github.com/bakalagoin/codinfy-agent-monitor\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "trails-mcp",
+  "description": "Enables searching outdoor trails by name or place, retrieving route details, elevation profiles, and optional weather forecasts via Windy.",
+  "source_repo": "chiraggahujaa/trails-mcp",
+  "source_url": "https://github.com/chiraggahujaa/trails-mcp",
+  "install": "npx -y trails-mcp"
+}

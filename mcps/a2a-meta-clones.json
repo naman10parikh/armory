@@ -1,0 +1,7 @@
+{
+  "name": "a2a-meta-clones",
+  "description": "Deployable MCP clone services for A2A-Meta, hosting pending clones via a multiplexer for Railway deployment.",
+  "source_repo": "Amondieu/a2a-meta-clones",
+  "source_url": "https://github.com/Amondieu/a2a-meta-clones",
+  "install": "# git clone --depth 1 https://github.com/Amondieu/a2a-meta-clones\n# See source for mcpServers config block"
+}

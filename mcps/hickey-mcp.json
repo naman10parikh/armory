@@ -1,0 +1,7 @@
+{
+  "name": "hickey-mcp",
+  "description": "Personal MCP server for Snowflake and Tableau integration, enabling SQL queries and database/table listing as well as Tableau workbook, view, datasource management.",
+  "source_repo": "Hickey01/Hickey_MCP",
+  "source_url": "https://github.com/Hickey01/Hickey_MCP",
+  "install": "npx -y Hickey_MCP"
+}

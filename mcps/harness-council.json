@@ -1,0 +1,7 @@
+{
+  "name": "harness-council",
+  "description": "Local multi-harness orchestration for Claude Code, Grok CLI, and AGY CLI, enabling spawning, management, and coordination of AI coding agents in a visible terminal grid.",
+  "source_repo": "dorukanc/harness-council",
+  "source_url": "https://github.com/dorukanc/harness-council",
+  "install": "# git clone --depth 1 https://github.com/dorukanc/harness-council\n# See source for mcpServers config block"
+}

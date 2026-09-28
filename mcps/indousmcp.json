@@ -1,0 +1,7 @@
+{
+  "name": "indousmcp",
+  "description": "Agent-first data layer for the Indian-American diaspora, enabling LLM agents to search and retrieve information about Indian restaurants, temples, groceries, and more across the USA.",
+  "source_repo": "manvigallc007-spec/indousmcp",
+  "source_url": "https://github.com/manvigallc007-spec/indousmcp",
+  "install": "# git clone --depth 1 https://github.com/manvigallc007-spec/indousmcp\n# See source for mcpServers config block"
+}

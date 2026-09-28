@@ -1,0 +1,7 @@
+{
+  "name": "app-manager",
+  "description": "MCP server that lists, installs, and removes applications on Linux targets via Peckboard, supporting local and remote SSH hosts with distro package managers and pip.",
+  "source_repo": "PeckBoard/app-manager",
+  "source_url": "https://github.com/PeckBoard/app-manager",
+  "install": "# git clone --depth 1 https://github.com/PeckBoard/app-manager\n# See source for mcpServers config block"
+}

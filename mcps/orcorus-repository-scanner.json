@@ -1,0 +1,7 @@
+{
+  "name": "orcorus-repository-scanner",
+  "description": "Scans GitHub repositories for security vulnerabilities by cloning, performing static analysis, secret detection, build verification, and AI-powered OWASP-aligned code review, producing a scored SECURITY.md report.",
+  "source_repo": "ceilingduster/mcp_security_scanner",
+  "source_url": "https://github.com/ceilingduster/mcp_security_scanner",
+  "install": "# git clone --depth 1 https://github.com/ceilingduster/mcp_security_scanner\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "university-content-mcp",
+  "description": "Provides full-text search and context retrieval from university course materials (PDF, PPTX, DOCX) offline after indexing.",
+  "source_repo": "1250750/school-mcp",
+  "source_url": "https://github.com/1250750/school-mcp",
+  "install": "npx -y school-mcp"
+}

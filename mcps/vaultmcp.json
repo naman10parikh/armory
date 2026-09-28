@@ -1,0 +1,7 @@
+{
+  "name": "vaultmcp",
+  "description": "An encrypted secret vault and MCP gateway that securely stores API keys and injects them into upstream MCP servers, so AI IDEs never see raw credentials.",
+  "source_repo": "Axiler-Lab/vaultmcp",
+  "source_url": "https://github.com/Axiler-Lab/vaultmcp",
+  "install": "# git clone --depth 1 https://github.com/Axiler-Lab/vaultmcp\n# See source for mcpServers config block"
+}

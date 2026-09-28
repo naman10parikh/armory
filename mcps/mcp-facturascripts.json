@@ -1,0 +1,7 @@
+{
+  "name": "mcp-facturascripts",
+  "description": "An MCP server that integrates with the FacturaScripts ERP system, providing resources and tools to manage clients, products, invoices, accounting entries, and business analytics through natural language.",
+  "source_repo": "cristotodev/MCP-Facturascripts",
+  "source_url": "https://github.com/cristotodev/MCP-Facturascripts",
+  "install": "# git clone --depth 1 https://github.com/cristotodev/MCP-Facturascripts\n# See source for mcpServers config block"
+}

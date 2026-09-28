@@ -1,0 +1,7 @@
+{
+  "name": "taobaoscraper-mcp-server",
+  "description": "An MCP server for scraping product data from Taobao/Tmall and JD.com, providing 8 tools for scraping, task management, notifications, and system control.",
+  "source_repo": "jhongjun1981/taobao-scraper-mcp",
+  "source_url": "https://github.com/jhongjun1981/taobao-scraper-mcp",
+  "install": "npx -y taobao-scraper-mcp"
+}

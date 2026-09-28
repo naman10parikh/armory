@@ -1,0 +1,7 @@
+{
+  "name": "plumb-plumb-mcp",
+  "description": "AI-native design engineering platform that converts Figma or live websites into a semantic design graph for code generation, and generates Figma designs from prompts with a self-improving director loop.",
+  "source_repo": "tathagat22/plumb-mcp",
+  "source_url": "https://github.com/tathagat22/plumb-mcp",
+  "install": "npx -y plumb-mcp"
+}

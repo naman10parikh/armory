@@ -1,0 +1,7 @@
+{
+  "name": "stock-market-mcp-server",
+  "description": "Provides real-time stock quotes, search, time series data, and company overviews using Alpha Vantage API.",
+  "source_repo": "SambasBoyyyy/mcp-server",
+  "source_url": "https://github.com/SambasBoyyyy/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/SambasBoyyyy/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xanthe-incident-agent",
+  "description": "Enables Claude to drive a gated incident-response runbook that enforces step order and logs all actions via an XState machine.",
+  "source_repo": "msradam/xanthe-incident-agent",
+  "source_url": "https://github.com/msradam/xanthe-incident-agent",
+  "install": "# git clone --depth 1 https://github.com/msradam/xanthe-incident-agent\n# See source for mcpServers config block"
+}

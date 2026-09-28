@@ -1,0 +1,7 @@
+{
+  "name": "cert-mcp-server",
+  "description": "A standalone MCP server for managing SSL/TLS certificates across FortiGate, Windows, Linux, and Fortinet devices using Let's Encrypt with Cloudflare DNS-01 challenges.",
+  "source_repo": "wouter-bon/CERT-MCP-SERVER",
+  "source_url": "https://github.com/wouter-bon/CERT-MCP-SERVER",
+  "install": "npx -y CERT-MCP-SERVER"
+}

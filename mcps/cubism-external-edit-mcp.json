@@ -1,0 +1,7 @@
+{
+  "name": "cubism-external-edit-mcp",
+  "description": "Wraps the Live2D Cubism Editor's external application integration API as MCP tools, enabling AI agents to control Cubism Editor for modeling operations via natural language.",
+  "source_repo": "nana7chi/CubismExternalEditMCP",
+  "source_url": "https://github.com/nana7chi/CubismExternalEditMCP",
+  "install": "# git clone --depth 1 https://github.com/nana7chi/CubismExternalEditMCP\n# See source for mcpServers config block"
+}

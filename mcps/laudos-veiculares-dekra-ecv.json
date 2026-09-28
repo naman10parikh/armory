@@ -1,0 +1,7 @@
+{
+  "name": "laudos-veiculares-dekra-ecv",
+  "description": "MCP server for querying DEKRA vehicle inspection reports. Provides a read-only tool to consult vehicle inspection data, with pay-per-use credits.",
+  "source_repo": "mcp-dir/laudos_veiculares_dekra_ecv-mcp",
+  "source_url": "https://github.com/mcp-dir/laudos_veiculares_dekra_ecv-mcp",
+  "install": "npx -y laudos_veiculares_dekra_ecv-mcp"
+}

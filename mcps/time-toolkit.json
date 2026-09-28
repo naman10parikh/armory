@@ -1,0 +1,7 @@
+{
+  "name": "time-toolkit",
+  "description": "Enables interaction with Time Messenger and Mattermost-compatible servers via their REST API, supporting reading, writing, and event streaming with configurable write policies for safety.",
+  "source_repo": "erstcl/time-toolkit",
+  "source_url": "https://github.com/erstcl/time-toolkit",
+  "install": "# git clone --depth 1 https://github.com/erstcl/time-toolkit\n# See source for mcpServers config block"
+}

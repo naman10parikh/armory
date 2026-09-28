@@ -1,0 +1,7 @@
+{
+  "name": "fastmcp-gsuite",
+  "description": "MCP server for interacting with Google Gmail and Calendar via natural language, supporting multiple accounts.",
+  "source_repo": "tumf/fastmcp-gsuite",
+  "source_url": "https://github.com/tumf/fastmcp-gsuite",
+  "install": "# git clone --depth 1 https://github.com/tumf/fastmcp-gsuite\n# See source for mcpServers config block"
+}

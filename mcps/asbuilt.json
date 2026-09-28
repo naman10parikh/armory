@@ -1,0 +1,7 @@
+{
+  "name": "asbuilt",
+  "description": "Asbuilt is an MCP server that verifies code assumptions against live backend infrastructure, checking that tables, schemas, and resources exist as expected before agents act.",
+  "source_repo": "aniJani/asbuilt",
+  "source_url": "https://github.com/aniJani/asbuilt",
+  "install": "# git clone --depth 1 https://github.com/aniJani/asbuilt\n# See source for mcpServers config block"
+}

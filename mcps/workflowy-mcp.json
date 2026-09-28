@@ -1,0 +1,7 @@
+{
+  "name": "workflowy-mcp",
+  "description": "Lets humans, scripts, and AI agents safely read, search, organize, and edit a WorkFlowy account.",
+  "source_repo": "gijs-epping/workflowy-mcp",
+  "source_url": "https://github.com/gijs-epping/workflowy-mcp",
+  "install": "npx -y workflowy-mcp"
+}

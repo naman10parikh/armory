@@ -1,0 +1,7 @@
+{
+  "name": "synapsis",
+  "description": "Unified durable team memory MCP server with tools for session management, task tracking, handoff protocol, and search, plus a multi-provider LLM client.",
+  "source_repo": "teamolimpo/synapsis",
+  "source_url": "https://github.com/teamolimpo/synapsis",
+  "install": "# git clone --depth 1 https://github.com/teamolimpo/synapsis\n# See source for mcpServers config block"
+}

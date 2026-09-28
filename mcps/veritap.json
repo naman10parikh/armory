@@ -1,0 +1,7 @@
+{
+  "name": "veritap",
+  "description": "Provides an MCP endpoint for agents to check whether a real-world fact can be verified, covering businesses, listings, objects, and places, while refusing claims about individuals. It acts as a demand sensor that logs verification attempts, even for unfulfillable requests.",
+  "source_repo": "veritap-dev/veritap",
+  "source_url": "https://github.com/veritap-dev/veritap",
+  "install": "# git clone --depth 1 https://github.com/veritap-dev/veritap\n# See source for mcpServers config block"
+}

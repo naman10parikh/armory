@@ -1,0 +1,7 @@
+{
+  "name": "aseprite-live-mcp",
+  "description": "An MCP server that lets AI agents draw in a live Aseprite editor or headless mode, featuring one-action Unity sprite-sheet export, art-QA sweeps, and game-dev tools.",
+  "source_repo": "oaktreegames/aseprite-live-mcp",
+  "source_url": "https://github.com/oaktreegames/aseprite-live-mcp",
+  "install": "npx -y aseprite-live-mcp"
+}

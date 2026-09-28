@@ -1,6 +1,6 @@
 {
   "name": "mg-mcp-server",
-  "description": "Mg Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "mJace/mg-mcp-server",
   "source_url": "https://mcp.so/server/mg-mcp-server/mJace",
   "install": "npx -y mg-mcp-server"

@@ -1,0 +1,7 @@
+{
+  "name": "basecamp-classic-mcp-server",
+  "description": "Enables interaction with Basecamp Classic (the original Basecamp) through its API, providing tools for managing projects, to-do lists, messages, comments, people, milestones, and time entries.",
+  "source_repo": "Boian/basecamp-classic-mcp",
+  "source_url": "https://github.com/Boian/basecamp-classic-mcp",
+  "install": "npx -y basecamp-classic-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "knowledge-base-mcp-server-qdrant",
+  "description": "Read-only MCP server with hybrid search combining dense semantic and sparse keyword retrieval via Qdrant, enabling document querying and fetching for ChatGPT Deep Research.",
+  "source_repo": "devanshtb/mcp-poc-kc",
+  "source_url": "https://github.com/devanshtb/mcp-poc-kc",
+  "install": "# git clone --depth 1 https://github.com/devanshtb/mcp-poc-kc\n# See source for mcpServers config block"
+}

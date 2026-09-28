@@ -1,0 +1,7 @@
+{
+  "name": "drizzle-sentinel-mcp",
+  "description": "Enables database governance for Drizzle ORM projects by inspecting schemas, linting migrations for unsafe operations, detecting schema drift, and explaining query plans with performance checks.",
+  "source_repo": "akmalkhaniub/drizzle-sentinel-mcp",
+  "source_url": "https://github.com/akmalkhaniub/drizzle-sentinel-mcp",
+  "install": "npx -y drizzle-sentinel-mcp"
+}

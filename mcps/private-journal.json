@@ -1,0 +1,7 @@
+{
+  "name": "private-journal",
+  "description": "A comprehensive MCP server that provides Claude with private journaling and semantic search capabilities for processing thoughts, reflections, and insights.",
+  "source_repo": "obra/private-journal-mcp",
+  "source_url": "https://github.com/obra/private-journal-mcp",
+  "install": "npx -y private-journal-mcp"
+}

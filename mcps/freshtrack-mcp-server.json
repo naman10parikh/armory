@@ -1,0 +1,7 @@
+{
+  "name": "freshtrack-mcp-server",
+  "description": "Enables AI assistants to answer food safety and shelf-life questions using USDA-grade data, with tools for shelf life, safety checks, storage tips, and waste cost calculations.",
+  "source_repo": "chrisbusbin-pixel/freshtrack-mcp-server",
+  "source_url": "https://github.com/chrisbusbin-pixel/freshtrack-mcp-server",
+  "install": "npx -y freshtrack-mcp-server"
+}

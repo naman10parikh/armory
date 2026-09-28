@@ -1,0 +1,7 @@
+{
+  "name": "newsline-mcp-server",
+  "description": "Provides current headlines from 17 news outlets across the political spectrum with bias tags and blindspot detection for stories covered by only one side.",
+  "source_repo": "nulljosh/newsline",
+  "source_url": "https://github.com/nulljosh/newsline",
+  "install": "# git clone --depth 1 https://github.com/nulljosh/newsline\n# See source for mcpServers config block"
+}

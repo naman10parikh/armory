@@ -1,0 +1,7 @@
+{
+  "name": "shugo",
+  "description": "A minimal guardrails framework for AI agents, acting as an MCP proxy to enforce policies, approvals, and audit logging on tool calls.",
+  "source_repo": "aritraghosh01/shugo",
+  "source_url": "https://github.com/aritraghosh01/shugo",
+  "install": "# git clone --depth 1 https://github.com/aritraghosh01/shugo\n# See source for mcpServers config block"
+}

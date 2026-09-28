@@ -1,0 +1,7 @@
+{
+  "name": "fantastical-mcp",
+  "description": "Enables AI assistants to read and create Fantastical calendar events on macOS using local database access and URL schemes, working entirely offline without API keys or network access.",
+  "source_repo": "jaydenk/fantastical-mcp",
+  "source_url": "https://github.com/jaydenk/fantastical-mcp",
+  "install": "npx -y fantastical-mcp"
+}

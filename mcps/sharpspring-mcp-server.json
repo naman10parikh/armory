@@ -1,0 +1,7 @@
+{
+  "name": "sharpspring-mcp-server",
+  "description": "An open-source MCP server for the SharpSpring API (Constant Contact Lead Gen & CRM) that enables AI clients to read and write Leads, discover custom fields, and call any documented API method.",
+  "source_repo": "boyddriesen/sharpspring-mcp-server",
+  "source_url": "https://github.com/boyddriesen/sharpspring-mcp-server",
+  "install": "npx -y sharpspring-mcp-server"
+}

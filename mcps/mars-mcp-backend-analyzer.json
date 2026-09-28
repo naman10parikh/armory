@@ -1,0 +1,7 @@
+{
+  "name": "mars-mcp-backend-analyzer",
+  "description": "A local, read-only MCP server that analyzes Python backend projects by providing tools to scan, map, and selectively read files, reducing token usage for AI clients.",
+  "source_repo": "Marshel2727/Mars-MCP-backend-analyzer",
+  "source_url": "https://github.com/Marshel2727/Mars-MCP-backend-analyzer",
+  "install": "# git clone --depth 1 https://github.com/Marshel2727/Mars-MCP-backend-analyzer\n# See source for mcpServers config block"
+}

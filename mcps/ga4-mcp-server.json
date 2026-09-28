@@ -1,0 +1,7 @@
+{
+  "name": "ga4-mcp-server",
+  "description": "Connects MCP clients like Claude Desktop to Google Analytics 4 Data API, enabling natural language queries for reports, top pages, traffic sources, conversions, realtime users, and period comparisons.",
+  "source_repo": "luminarylane/ga4-mcp",
+  "source_url": "https://github.com/luminarylane/ga4-mcp",
+  "install": "npx -y ga4-mcp"
+}

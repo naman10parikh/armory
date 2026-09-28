@@ -1,0 +1,7 @@
+{
+  "name": "opc-skill-content-policies",
+  "description": "MCP server that reads OPC policy information from the OPC personal tool station via API key, enabling users to query policy updates.",
+  "source_repo": "guipi888/opc-skill-content-policies",
+  "source_url": "https://github.com/guipi888/opc-skill-content-policies",
+  "install": "# git clone --depth 1 https://github.com/guipi888/opc-skill-content-policies\n# See source for mcpServers config block"
+}

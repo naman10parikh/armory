@@ -1,0 +1,7 @@
+{
+  "name": "mcp-for-ynab",
+  "description": "A fast, safe MCP server for YNAB providing read-only budget access by default, with 28 tools for budgets, transactions, categories, payees, accounts, scheduled transactions, and server-computed analytics.",
+  "source_repo": "walensis-labs/mcp-for-ynab",
+  "source_url": "https://github.com/walensis-labs/mcp-for-ynab",
+  "install": "# git clone --depth 1 https://github.com/walensis-labs/mcp-for-ynab\n# See source for mcpServers config block"
+}

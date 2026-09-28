@@ -1,0 +1,7 @@
+{
+  "name": "mcp-country-state-city",
+  "description": "Enables querying country, state, and city data through the CountryStateCity API, accessible via natural language.",
+  "source_repo": "pipeworx-io/mcp-country-state-city",
+  "source_url": "https://github.com/pipeworx-io/mcp-country-state-city",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-country-state-city\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "social-mic-mcp",
+  "description": "Enables generating, scheduling, and publishing social media posts via Claude or an agent through the MCP protocol.",
+  "source_repo": "Oliviercreativ/social-mic-mcp",
+  "source_url": "https://github.com/Oliviercreativ/social-mic-mcp",
+  "install": "npx -y social-mic-mcp"
+}

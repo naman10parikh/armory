@@ -1,0 +1,7 @@
+{
+  "name": "graphlens-mcp",
+  "description": "Semantic code graph MCP server for coding agents",
+  "source_repo": "Neko1313/graphlens-mcp",
+  "source_url": "https://github.com/Neko1313/graphlens-mcp",
+  "install": "npx -y graphlens-mcp"
+}

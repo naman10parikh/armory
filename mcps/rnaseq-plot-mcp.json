@@ -1,0 +1,7 @@
+{
+  "name": "rnaseq-plot-mcp",
+  "description": "MCP server for RNA-seq downstream analysis, wrapping R scripts to generate plots and perform analyses like PCA, volcano, heatmap, enrichment, and WGCNA.",
+  "source_repo": "Presisitence/rnaseq-plot-mcp",
+  "source_url": "https://github.com/Presisitence/rnaseq-plot-mcp",
+  "install": "npx -y rnaseq-plot-mcp"
+}

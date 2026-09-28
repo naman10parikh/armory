@@ -1,0 +1,7 @@
+{
+  "name": "ai-playground-comfyui-mcp",
+  "description": "Enables image generation through AI Playground's local ComfyUI backend via VS Code or GitHub Copilot, supporting PNG creation with configurable prompts, dimensions, and seeds through a local MCP server.",
+  "source_repo": "JohnLeFeng/aipg.mcp",
+  "source_url": "https://github.com/JohnLeFeng/aipg.mcp",
+  "install": "# git clone --depth 1 https://github.com/JohnLeFeng/aipg.mcp\n# See source for mcpServers config block"
+}

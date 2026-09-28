@@ -1,0 +1,7 @@
+{
+  "name": "descope-playwright-mcp-auth",
+  "description": "Enables secure remote access to a Playwright-based MCP server with authentication and role-based access control powered by Descope.",
+  "source_repo": "kashvipahuja-dev/descope-playwright-mcp-auth",
+  "source_url": "https://github.com/kashvipahuja-dev/descope-playwright-mcp-auth",
+  "install": "# git clone --depth 1 https://github.com/kashvipahuja-dev/descope-playwright-mcp-auth\n# See source for mcpServers config block"
+}

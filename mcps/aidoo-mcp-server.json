@@ -1,0 +1,7 @@
+{
+  "name": "aidoo-mcp-server",
+  "description": "MCP server for Aidoo fitness studio management software, enabling access to members, contracts, classes, bookings, and more directly from Claude.",
+  "source_repo": "ratho13/aidoo-mcp-server",
+  "source_url": "https://github.com/ratho13/aidoo-mcp-server",
+  "install": "npx -y aidoo-mcp-server"
+}

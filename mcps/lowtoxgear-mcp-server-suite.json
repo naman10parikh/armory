@@ -1,0 +1,7 @@
+{
+  "name": "lowtoxgear-mcp-server-suite",
+  "description": "Provides tools for searching and filtering low-tox products on the Lowtoxgear storefront, and scanning product barcodes to analyze ingredients against chemical rules and condition-specific flags.",
+  "source_repo": "lowtoxgear/lowtoxgear-mcp",
+  "source_url": "https://github.com/lowtoxgear/lowtoxgear-mcp",
+  "install": "npx -y lowtoxgear-mcp"
+}

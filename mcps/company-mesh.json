@@ -1,0 +1,7 @@
+{
+  "name": "company-mesh",
+  "description": "Secure, local-first collaboration layer for AI agent teams, enabling authenticated agent-to-agent communication, shared memory with provenance, and scoped service execution through MCP.",
+  "source_repo": "LifeAnalysis/company-mesh",
+  "source_url": "https://github.com/LifeAnalysis/company-mesh",
+  "install": "# git clone --depth 1 https://github.com/LifeAnalysis/company-mesh\n# See source for mcpServers config block"
+}

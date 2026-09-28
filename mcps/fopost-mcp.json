@@ -1,0 +1,7 @@
+{
+  "name": "fopost-mcp",
+  "description": "Enables managing social media posts, accounts, and AI-powered content features from any MCP client, including scheduling, publishing, analysis, and AI caption generation.",
+  "source_repo": "fopost/fopost-mcp",
+  "source_url": "https://github.com/fopost/fopost-mcp",
+  "install": "npx -y fopost-mcp"
+}

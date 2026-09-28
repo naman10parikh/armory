@@ -1,0 +1,7 @@
+{
+  "name": "erx-egypt-research-commons",
+  "description": "Enables searching, retrieving, and analyzing documents from over 30 Egyptian official, legal, academic, and news sources with MCP tools for timeline building, source comparison, and claim tracing.",
+  "source_repo": "ahmedvnabil/erx",
+  "source_url": "https://github.com/ahmedvnabil/erx",
+  "install": "# git clone --depth 1 https://github.com/ahmedvnabil/erx\n# See source for mcpServers config block"
+}

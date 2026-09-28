@@ -1,0 +1,7 @@
+{
+  "name": "quizz-mcp",
+  "description": "Enables Claude to generate interactive quizzes from conversations to test understanding and reinforce learning.",
+  "source_repo": "ThoBustos/quizz-mcp",
+  "source_url": "https://github.com/ThoBustos/quizz-mcp",
+  "install": "npx -y quizz-mcp"
+}

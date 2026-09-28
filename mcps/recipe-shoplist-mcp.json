@@ -1,0 +1,7 @@
+{
+  "name": "recipe-shoplist-mcp",
+  "description": "Turns a natural language meal request into a structured recipe and a categorized shopping list with optional search links for grocery stores.",
+  "source_repo": "Sara-Eltayeb/recipe-shoplist-mcp",
+  "source_url": "https://github.com/Sara-Eltayeb/recipe-shoplist-mcp",
+  "install": "npx -y recipe-shoplist-mcp"
+}

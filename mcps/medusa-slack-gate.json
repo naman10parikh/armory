@@ -1,0 +1,7 @@
+{
+  "name": "medusa-slack-gate",
+  "description": "Human-in-the-loop approval gate for MCP agents, classifying tool calls by risk and requiring Slack-based human approval for medium/high risk actions.",
+  "source_repo": "Mister-Phil/slack-agent-security-gate",
+  "source_url": "https://github.com/Mister-Phil/slack-agent-security-gate",
+  "install": "# git clone --depth 1 https://github.com/Mister-Phil/slack-agent-security-gate\n# See source for mcpServers config block"
+}

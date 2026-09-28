@@ -1,0 +1,7 @@
+{
+  "name": "calibreweb-mcp",
+  "description": "A read-only MCP server that connects to Calibre-Web ebook libraries via OPDS feeds, enabling AI assistants to search and browse books, shelves, covers, and library statistics.",
+  "source_repo": "ni-c/calibreweb-mcp",
+  "source_url": "https://github.com/ni-c/calibreweb-mcp",
+  "install": "npx -y calibreweb-mcp"
+}

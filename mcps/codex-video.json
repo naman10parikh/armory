@@ -1,0 +1,7 @@
+{
+  "name": "codex-video",
+  "description": "MCP server for evidence-aware video research, providing tools to analyze local videos, inspect specific time windows, and analyze Bilibili videos with provenance tracking and optional audio removal for privacy.",
+  "source_repo": "7oMB2006/Bilibili-Video-Research",
+  "source_url": "https://github.com/7oMB2006/Bilibili-Video-Research",
+  "install": "# git clone --depth 1 https://github.com/7oMB2006/Bilibili-Video-Research\n# See source for mcpServers config block"
+}

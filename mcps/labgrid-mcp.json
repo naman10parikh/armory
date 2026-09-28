@@ -1,0 +1,7 @@
+{
+  "name": "labgrid-mcp",
+  "description": "Local or self hosted LLM server for Labgrid hardware-in-the-loop device operations",
+  "source_repo": "onurcelep/labgrid-mcp",
+  "source_url": "https://github.com/onurcelep/labgrid-mcp",
+  "install": "npx -y labgrid-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "communication-mcp-server",
+  "description": "MCP server that provides email communication tools (send email, health check, list providers) via SMTP, accessible over HTTP/SSE for remote AI clients like Claude Desktop.",
+  "source_repo": "ajaysingh16601/communication-mcp-server",
+  "source_url": "https://github.com/ajaysingh16601/communication-mcp-server",
+  "install": "npx -y communication-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "multiaipanel",
+  "description": "A Chrome side panel hosting multiple AIs (ChatGPT, Claude, Gemini, Grok, DeepSeek) that also functions as an MCP server for downstream agents, enabling multi-model comparison and agent coordination.",
+  "source_repo": "xiaojiou176-open/multi-ai-panel",
+  "source_url": "https://github.com/xiaojiou176-open/multi-ai-panel",
+  "install": "# git clone --depth 1 https://github.com/xiaojiou176-open/multi-ai-panel\n# See source for mcpServers config block"
+}

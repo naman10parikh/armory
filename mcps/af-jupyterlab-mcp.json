@@ -1,0 +1,7 @@
+{
+  "name": "af-jupyterlab-mcp",
+  "description": "Enables users to create, inspect, list, and delete per-user JupyterLab servers on the UChicago ATLAS Analysis Facility Kubernetes cluster, with GPU availability and supported image listing tools.",
+  "source_repo": "maniaclab/af-jupyterlab-mcp",
+  "source_url": "https://github.com/maniaclab/af-jupyterlab-mcp",
+  "install": "npx -y af-jupyterlab-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "web-scrape",
+  "description": "Enables scraping and fetching websites with protection handling like Cloudflare and captchas, via an MCP interface.",
+  "source_repo": "teslashibe/web-scrape",
+  "source_url": "https://github.com/teslashibe/web-scrape",
+  "install": "# git clone --depth 1 https://github.com/teslashibe/web-scrape\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-kg",
+  "description": "Builds a personal knowledge graph from selected ChatGPT conversations (stored in Neo4j) and exposes it to Claude Code as an on-demand MCP search tool.",
+  "source_repo": "Aaditya-git/chatgpt-kg",
+  "source_url": "https://github.com/Aaditya-git/chatgpt-kg",
+  "install": "# git clone --depth 1 https://github.com/Aaditya-git/chatgpt-kg\n# See source for mcpServers config block"
+}

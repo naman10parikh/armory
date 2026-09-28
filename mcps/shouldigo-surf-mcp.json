@@ -1,0 +1,7 @@
+{
+  "name": "shouldigo-surf-mcp",
+  "description": "MCP server for real-time surf conditions at 5,000+ beaches worldwide. Enables checking surf conditions, finding nearest spots, and listing spots via natural language.",
+  "source_repo": "orlench/shouldigo-surf-mcp",
+  "source_url": "https://github.com/orlench/shouldigo-surf-mcp",
+  "install": "npx -y shouldigo-surf-mcp"
+}

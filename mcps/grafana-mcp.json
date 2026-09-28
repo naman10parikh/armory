@@ -1,0 +1,7 @@
+{
+  "name": "grafana-mcp",
+  "description": "MCP server for Grafana that provides tools to interact with dashboards, data sources, alerts, and more.",
+  "source_repo": "izaitsevfb/grafana-mcp",
+  "source_url": "https://github.com/izaitsevfb/grafana-mcp",
+  "install": "npx -y grafana-mcp"
+}

@@ -1,6 +1,6 @@
 {
   "name": "project-opener-mcp",
-  "description": "Project Opener Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "jlmelis/project-opener-mcp",
   "source_url": "https://mcp.so/server/project-opener-mcp/jlmelis",
   "install": "npx -y project-opener-mcp"

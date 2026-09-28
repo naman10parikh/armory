@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-authless-2",
+  "description": "Deploys a remote MCP server on Cloudflare Workers without authentication, allowing connection from clients like Claude Desktop via mcp-remote proxy.",
+  "source_repo": "inupaUdara/MCP-Todo",
+  "source_url": "https://github.com/inupaUdara/MCP-Todo",
+  "install": "# git clone --depth 1 https://github.com/inupaUdara/MCP-Todo\n# See source for mcpServers config block"
+}

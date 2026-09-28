@@ -1,0 +1,7 @@
+{
+  "name": "limelink-mcp-server",
+  "description": "MCP server for LimeLink dynamic link management, enabling creation, lookup, and management of dynamic links with documentation resources and prompt templates.",
+  "source_repo": "hellovelop/limelink-mcp-server",
+  "source_url": "https://github.com/hellovelop/limelink-mcp-server",
+  "install": "npx -y limelink-mcp-server"
+}

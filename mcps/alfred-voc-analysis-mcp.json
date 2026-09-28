@@ -1,0 +1,7 @@
+{
+  "name": "alfred-voc-analysis-mcp",
+  "description": "MCP server that transforms Voice of Customer data into actionable customer experience insights through structured analysis and synthesis.",
+  "source_repo": "heum-inhyelee/alfred-voc-analysis-mcp",
+  "source_url": "https://github.com/heum-inhyelee/alfred-voc-analysis-mcp",
+  "install": "npx -y alfred-voc-analysis-mcp"
+}

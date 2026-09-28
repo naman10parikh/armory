@@ -1,0 +1,7 @@
+{
+  "name": "waxum-mcp",
+  "description": "MCP server for WhatsApp that exposes send, read, and media management tools through the waxum REST API gateway, enabling any MCP client to interact with WhatsApp chats and media over stdio.",
+  "source_repo": "imtaqin/waxum-mcp",
+  "source_url": "https://github.com/imtaqin/waxum-mcp",
+  "install": "npx -y waxum-mcp"
+}

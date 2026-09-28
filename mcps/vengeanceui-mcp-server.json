@@ -1,0 +1,7 @@
+{
+  "name": "vengeanceui-mcp-server",
+  "description": "Enables AI assistants to browse, search, and retrieve source code of 129 VengeanceUI components from their GitHub repository.",
+  "source_repo": "krockxz/VengeanceUI-MCP",
+  "source_url": "https://github.com/krockxz/VengeanceUI-MCP",
+  "install": "npx -y VengeanceUI-MCP"
+}

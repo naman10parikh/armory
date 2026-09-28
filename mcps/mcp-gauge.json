@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gauge",
+  "description": "An MCP server that enables coding agents to autonomously test, evaluate, and tune other MCP servers by acting as a proxy and providing linting, trace recording, evaluation, comparison, and reporting tools.",
+  "source_repo": "sogawa-yk/mcp-gauge",
+  "source_url": "https://github.com/sogawa-yk/mcp-gauge",
+  "install": "# git clone --depth 1 https://github.com/sogawa-yk/mcp-gauge\n# See source for mcpServers config block"
+}

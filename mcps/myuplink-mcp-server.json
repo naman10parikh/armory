@@ -1,0 +1,7 @@
+{
+  "name": "myuplink-mcp-server",
+  "description": "Connects MCP clients (e.g., Claude) to your NIBE myUplink heat-pump account for reading sensors and controlling settings via OAuth2 authentication.",
+  "source_repo": "kalmma/myUplink-MCP-Server",
+  "source_url": "https://github.com/kalmma/myUplink-MCP-Server",
+  "install": "npx -y myUplink-MCP-Server"
+}

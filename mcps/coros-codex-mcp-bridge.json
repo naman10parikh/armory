@@ -1,0 +1,7 @@
+{
+  "name": "coros-codex-mcp-bridge",
+  "description": "A local, read-only stdio MCP server that bridges Codex to the COROS MCP gateway, enabling sport data queries through an allowlisted set of tools while excluding file and write operations.",
+  "source_repo": "lagrangee/coros-codex-mcp-bridge",
+  "source_url": "https://github.com/lagrangee/coros-codex-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/lagrangee/coros-codex-mcp-bridge\n# See source for mcpServers config block"
+}

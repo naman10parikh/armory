@@ -1,0 +1,7 @@
+{
+  "name": "cursor-code-mcp",
+  "description": "Connects Windows-based Codex to the Cursor Agent CLI in WSL, providing a run_cursor tool to execute tasks in specified working directories and resume sessions per directory.",
+  "source_repo": "guheng-re/cursor-code-mcp",
+  "source_url": "https://github.com/guheng-re/cursor-code-mcp",
+  "install": "npx -y cursor-code-mcp"
+}

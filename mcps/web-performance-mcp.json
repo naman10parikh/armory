@@ -1,0 +1,7 @@
+{
+  "name": "web-performance-mcp",
+  "description": "Enables web performance analysis using Google PageSpeed Insights and Chrome UX Report APIs, providing compact metrics and diagnostics without local browser automation.",
+  "source_repo": "teles/web-performance-mcp",
+  "source_url": "https://github.com/teles/web-performance-mcp",
+  "install": "npx -y web-performance-mcp"
+}

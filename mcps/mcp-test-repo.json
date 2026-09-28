@@ -1,6 +1,6 @@
 {
   "name": "mcp-test-repo",
-  "description": "Mcp Test Repo MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "klarkenolofsson/mcp-test-repo",
   "source_url": "https://mcp.so/server/mcp-test-repo/klarkenolofsson",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-test-repo/klarkenolofsson\n# See source for mcpServers config block"

@@ -1,0 +1,7 @@
+{
+  "name": "amper-mcp-server",
+  "description": "Enables natural language-driven DeFi operations including swaps, lending, bridging, and onchain transactions across multiple protocols via MCP-compatible clients.",
+  "source_repo": "helloamper/amper-mcp",
+  "source_url": "https://github.com/helloamper/amper-mcp",
+  "install": "npx -y amper-mcp"
+}

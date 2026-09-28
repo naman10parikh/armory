@@ -1,0 +1,7 @@
+{
+  "name": "quran-search-engine-mcp",
+  "description": "Enables accurate Quranic verse search through natural language queries, returning exact text with no hallucinations.",
+  "source_repo": "adelpro/quran-search-engine-mcp",
+  "source_url": "https://github.com/adelpro/quran-search-engine-mcp",
+  "install": "npx -y quran-search-engine-mcp"
+}

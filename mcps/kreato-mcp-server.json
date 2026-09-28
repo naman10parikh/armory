@@ -1,0 +1,7 @@
+{
+  "name": "kreato-mcp-server",
+  "description": "Enables AI agents to perform Web3 creator monetization actions like tipping creators, buying digital products, and managing memberships through natural language.",
+  "source_repo": "kreatospace/mcp",
+  "source_url": "https://github.com/kreatospace/mcp",
+  "install": "# git clone --depth 1 https://github.com/kreatospace/mcp\n# See source for mcpServers config block"
+}

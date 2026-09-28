@@ -1,0 +1,7 @@
+{
+  "name": "rsbuild-plugin-vue-mcp",
+  "description": "This server runs inside an Rsbuild or Rspack dev server to expose MCP tools for inspecting and editing live Vue component state, component trees, Vue Router info, and Pinia stores.",
+  "source_repo": "BrightX/rsbuild-plugin-vue-mcp",
+  "source_url": "https://github.com/BrightX/rsbuild-plugin-vue-mcp",
+  "install": "npx -y rsbuild-plugin-vue-mcp"
+}

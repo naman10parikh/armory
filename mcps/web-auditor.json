@@ -1,0 +1,7 @@
+{
+  "name": "web-auditor",
+  "description": "Analyze web pages and entire sites for SEO, accessibility, performance, and security compliance. Generate detailed reports and actionable issue lists to improve site quality and user experience. Track historical audit data to monitor improvements across multiple crawl sessions.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/yakenator/web-inspector",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/yakenator/web-inspector\n# See source for mcpServers config block"
+}

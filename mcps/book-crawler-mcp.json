@@ -1,0 +1,7 @@
+{
+  "name": "book-crawler-mcp",
+  "description": "A server for automated crawling of academic papers and GitHub repositories, downloading PDFs, extracting content, AI-generating Gumroad product descriptions, and publishing to Gumroad.",
+  "source_repo": "LiZhuBin/book-crawler-mcp",
+  "source_url": "https://github.com/LiZhuBin/book-crawler-mcp",
+  "install": "npx -y book-crawler-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dutyhub-mcp-server",
+  "description": "Enables Claude to automate project management on DutyHub, including tasks, sprints, and comments.",
+  "source_repo": "K-ulucay/Dutyhub-mcp",
+  "source_url": "https://github.com/K-ulucay/Dutyhub-mcp",
+  "install": "npx -y Dutyhub-mcp"
+}

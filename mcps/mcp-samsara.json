@@ -1,0 +1,7 @@
+{
+  "name": "mcp-samsara",
+  "description": "Fleet management in your assistant — vehicles, routes, drivers and HOS compliance over Samsara's public API.",
+  "source_repo": "AutomationSquadOS/mcp-samsara",
+  "source_url": "https://github.com/AutomationSquadOS/mcp-samsara",
+  "install": "# git clone --depth 1 https://github.com/AutomationSquadOS/mcp-samsara\n# See source for mcpServers config block"
+}

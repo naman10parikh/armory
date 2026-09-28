@@ -1,0 +1,7 @@
+{
+  "name": "loredex-mcp-server",
+  "description": "Enables AI coding agents to search, read, and write notes in an Obsidian vault via MCP tools, and monitor product handoffs and state.",
+  "source_repo": "ahmedtawfeeq1/loredex-obsidian",
+  "source_url": "https://github.com/ahmedtawfeeq1/loredex-obsidian",
+  "install": "# git clone --depth 1 https://github.com/ahmedtawfeeq1/loredex-obsidian\n# See source for mcpServers config block"
+}

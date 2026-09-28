@@ -1,0 +1,7 @@
+{
+  "name": "mcp-configurator-server",
+  "description": "Manages, edits, backups, and validates Claude Desktop and other client JSON configurations.",
+  "source_repo": "Dheeraj32903/mcpservers",
+  "source_url": "https://github.com/Dheeraj32903/mcpservers",
+  "install": "# git clone --depth 1 https://github.com/Dheeraj32903/mcpservers\n# See source for mcpServers config block"
+}

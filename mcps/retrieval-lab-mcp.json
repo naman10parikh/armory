@@ -1,0 +1,7 @@
+{
+  "name": "retrieval-lab-mcp",
+  "description": "Exposes hybrid document retrieval and evaluation tools from retrieval-lab via MCP, including search_documents, corpus_info, run_evaluation, and search_my_repos, with wire-level conformance tests.",
+  "source_repo": "harsha135135/agent-systems",
+  "source_url": "https://github.com/harsha135135/agent-systems",
+  "install": "# git clone --depth 1 https://github.com/harsha135135/agent-systems\n# See source for mcpServers config block"
+}

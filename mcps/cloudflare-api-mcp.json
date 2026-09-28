@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-api-mcp",
+  "description": "Enables AI agents to interact with the Cloudflare REST API for managing DNS records, zones, and other Cloudflare resources.",
+  "source_repo": "Mardak0/cloudflare-api-mcp",
+  "source_url": "https://github.com/Mardak0/cloudflare-api-mcp",
+  "install": "npx -y cloudflare-api-mcp"
+}

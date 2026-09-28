@@ -1,0 +1,7 @@
+{
+  "name": "nano-banana-remote-mcp-server",
+  "description": "A remote MCP server that exposes Gemini image generation/editing as a custom connector for Claude, enabling image creation and editing from any chat interface.",
+  "source_repo": "Ayonz-Dev/nano-banana-remote-mcp",
+  "source_url": "https://github.com/Ayonz-Dev/nano-banana-remote-mcp",
+  "install": "npx -y nano-banana-remote-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zendesk-help-center-mcp-server",
+  "description": "Enables searching and retrieving Zendesk Help Center articles through natural language, supporting article search and detailed article lookup by ID.",
+  "source_repo": "hidechae/zendesk-help-center-mcp-server",
+  "source_url": "https://github.com/hidechae/zendesk-help-center-mcp-server",
+  "install": "npx -y zendesk-help-center-mcp-server"
+}

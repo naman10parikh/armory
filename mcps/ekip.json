@@ -1,0 +1,7 @@
+{
+  "name": "ekip",
+  "description": "A vendor-neutral coordination hub that lets coding agents like Claude Code and Google Antigravity delegate tasks and share context via MCP, with a shared blackboard and dashboard.",
+  "source_repo": "swtiit/ekip",
+  "source_url": "https://github.com/swtiit/ekip",
+  "install": "# git clone --depth 1 https://github.com/swtiit/ekip\n# See source for mcpServers config block"
+}

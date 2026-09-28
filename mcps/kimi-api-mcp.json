@@ -1,0 +1,7 @@
+{
+  "name": "kimi-api-mcp",
+  "description": "MCP server that provides file operations and Moonshot API-powered tools (reasoning, code review, testing, research, web search, agent) for Kimi K2.5, requiring only a Moonshot API key.",
+  "source_repo": "bene-bosco/kimi-api-mcp",
+  "source_url": "https://github.com/bene-bosco/kimi-api-mcp",
+  "install": "npx -y kimi-api-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codemagic-mcp-server",
+  "description": "A lightweight MCP server that provides seamless access to Codemagic CI/CD APIs, enabling natural language interaction with applications, builds, artifacts, caches, and teams.",
+  "source_repo": "stefanoamorelli/codemagic-mcp",
+  "source_url": "https://github.com/stefanoamorelli/codemagic-mcp",
+  "install": "npx -y codemagic-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tuvio-vacuum",
+  "description": "Enables control of Tuvio/Tuya robot vacuum cleaners via a local hub, supporting commands such as start, pause, home, set mode, suction, water level, and more.",
+  "source_repo": "yasg1988/tuvio-vacuum-mcp-skill",
+  "source_url": "https://github.com/yasg1988/tuvio-vacuum-mcp-skill",
+  "install": "# git clone --depth 1 https://github.com/yasg1988/tuvio-vacuum-mcp-skill\n# See source for mcpServers config block"
+}

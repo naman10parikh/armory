@@ -1,0 +1,7 @@
+{
+  "name": "bluesky-mcp-server",
+  "description": "MCP server for Bluesky/AT Protocol enabling LLM clients and agents to authenticate, search, post, like, follow, and manage chat on Bluesky.",
+  "source_repo": "shade-solutions/bluesky-mcp-server",
+  "source_url": "https://github.com/shade-solutions/bluesky-mcp-server",
+  "install": "npx -y bluesky-mcp-server"
+}

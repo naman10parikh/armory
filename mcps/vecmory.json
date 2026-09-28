@@ -1,0 +1,7 @@
+{
+  "name": "vecmory",
+  "description": "An MCP server that provides AI agents with a contextual memory system, storing query-error-solution chains as a typed graph with local embedding search.",
+  "source_repo": "judas-priest/vecmory",
+  "source_url": "https://github.com/judas-priest/vecmory",
+  "install": "# git clone --depth 1 https://github.com/judas-priest/vecmory\n# See source for mcpServers config block"
+}

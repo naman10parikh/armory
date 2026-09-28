@@ -1,0 +1,7 @@
+{
+  "name": "cam-encoder-designer-freecad-mcp",
+  "description": "Enables AI assistants to generate and inspect radial cams, barrel cams, and optical encoder discs in FreeCAD through MCP tools such as generate_cams and freecad_screenshot.",
+  "source_repo": "Sweetkubuni/cam-encoder-designer",
+  "source_url": "https://github.com/Sweetkubuni/cam-encoder-designer",
+  "install": "# git clone --depth 1 https://github.com/Sweetkubuni/cam-encoder-designer\n# See source for mcpServers config block"
+}

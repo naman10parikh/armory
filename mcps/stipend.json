@@ -1,0 +1,7 @@
+{
+  "name": "stipend",
+  "description": "A non-custodial USDC wallet on Base exposed as seven tools: address, balance, check, pay, earnings, report and recover. Spending limits (per transaction, per day, per counterparty, plus a destination allowlist) are enforced in code between deciding and signing, and the server runs locally over stdio",
+  "source_repo": "stipend-sh/stipend",
+  "source_url": "https://github.com/stipend-sh/stipend",
+  "install": "# git clone --depth 1 https://github.com/stipend-sh/stipend\n# See source for mcpServers config block"
+}

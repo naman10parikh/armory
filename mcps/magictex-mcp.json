@@ -1,0 +1,7 @@
+{
+  "name": "magictex-mcp",
+  "description": "Enables AI agents to edit LaTeX documents with live PDF preview, commenting, and visual editing via the Model Context Protocol.",
+  "source_repo": "Still-chowline394/MagicTeX-mcp",
+  "source_url": "https://github.com/Still-chowline394/MagicTeX-mcp",
+  "install": "npx -y MagicTeX-mcp"
+}

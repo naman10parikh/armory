@@ -1,0 +1,7 @@
+{
+  "name": "time-travel-benchmark-mcp-server",
+  "description": "Enables LLMs to perform web search and fetch with a frozen cutoff date, enforcing server-side time-lock and usage budgets to prevent lookahead contamination.",
+  "source_repo": "trivikrama-madhusudhana/time-travel-benchmark",
+  "source_url": "https://github.com/trivikrama-madhusudhana/time-travel-benchmark",
+  "install": "# git clone --depth 1 https://github.com/trivikrama-madhusudhana/time-travel-benchmark\n# See source for mcpServers config block"
+}

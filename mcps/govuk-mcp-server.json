@@ -1,0 +1,7 @@
+{
+  "name": "govuk-mcp-server",
+  "description": "Provides access to 27 UK government data sources and services, enabling queries about transport, business, healthcare, and more via natural language.",
+  "source_repo": "Stealth-Labs-LTD/GovUK-MCP",
+  "source_url": "https://github.com/Stealth-Labs-LTD/GovUK-MCP",
+  "install": "npx -y GovUK-MCP"
+}

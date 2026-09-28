@@ -1,0 +1,7 @@
+{
+  "name": "yt-dlp-mcp",
+  "description": "Wraps yt-dlp to enable MCP-compatible clients to look up video metadata and download videos.",
+  "source_repo": "kingithegreat/yt-dlp-mcp",
+  "source_url": "https://github.com/kingithegreat/yt-dlp-mcp",
+  "install": "npx -y yt-dlp-mcp"
+}

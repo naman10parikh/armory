@@ -1,0 +1,7 @@
+{
+  "name": "clarity-mcp-server",
+  "description": "Enables AI assistants to call web APIs extracted from HAR files, turning browser traffic into MCP tools.",
+  "source_repo": "theclarityproject/mcp-server",
+  "source_url": "https://github.com/theclarityproject/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/theclarityproject/mcp-server\n# See source for mcpServers config block"
+}

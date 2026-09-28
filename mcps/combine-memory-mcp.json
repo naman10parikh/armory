@@ -1,0 +1,7 @@
+{
+  "name": "combine-memory-mcp",
+  "description": "Persistent memory server for CMS Combine lessons, enabling saving and searching confirmed error-cause-fix chains across sessions and users.",
+  "source_repo": "maxgalli/combine-memory-mcp",
+  "source_url": "https://github.com/maxgalli/combine-memory-mcp",
+  "install": "npx -y combine-memory-mcp"
+}

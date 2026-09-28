@@ -1,0 +1,7 @@
+{
+  "name": "westfield-spring-boot-standards-mcp-server",
+  "description": "MCP server that serves Spring Boot development standards to Claude Code, providing resources and tools for controllers, services, resilience, testing, and more.",
+  "source_repo": "inso1234/mcp-springboot",
+  "source_url": "https://github.com/inso1234/mcp-springboot",
+  "install": "# git clone --depth 1 https://github.com/inso1234/mcp-springboot\n# See source for mcpServers config block"
+}

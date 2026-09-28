@@ -1,0 +1,7 @@
+{
+  "name": "humanitix-mcp",
+  "description": "A read-only MCP server for the Humanitix Public API that exposes nine tools to list events, fetch event details, list orders/tickets, check-in counts, and sales summaries.",
+  "source_repo": "kevinnz/humanitix-mcp",
+  "source_url": "https://github.com/kevinnz/humanitix-mcp",
+  "install": "npx -y humanitix-mcp"
+}

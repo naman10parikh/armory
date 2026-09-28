@@ -1,0 +1,7 @@
+{
+  "name": "trueline-mcp",
+  "description": "MCP server providing hash-verified file editing and targeted reads, reducing context consumption and preventing silent corruption by requiring content hashes for edits.",
+  "source_repo": "rjkaes/trueline-mcp",
+  "source_url": "https://github.com/rjkaes/trueline-mcp",
+  "install": "npx -y trueline-mcp"
+}

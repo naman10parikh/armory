@@ -1,0 +1,7 @@
+{
+  "name": "ragvault",
+  "description": "MCP server for local-first RAG over Obsidian vaults, enabling AI agents to search and ask questions about notes with grounded citations.",
+  "source_repo": "maxrotemberg04-spec/rag-vault",
+  "source_url": "https://github.com/maxrotemberg04-spec/rag-vault",
+  "install": "# git clone --depth 1 https://github.com/maxrotemberg04-spec/rag-vault\n# See source for mcpServers config block"
+}

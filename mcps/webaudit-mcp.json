@@ -1,0 +1,7 @@
+{
+  "name": "webaudit-mcp",
+  "description": "Audits public web pages for tracking tags, duplicate pixels, page weight, header hygiene, and lab performance from inside Claude Code or Claude Desktop.",
+  "source_repo": "lpecom/webaudit-mcp",
+  "source_url": "https://github.com/lpecom/webaudit-mcp",
+  "install": "npx -y webaudit-mcp"
+}

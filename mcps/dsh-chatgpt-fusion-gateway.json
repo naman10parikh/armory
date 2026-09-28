@@ -1,0 +1,7 @@
+{
+  "name": "dsh-chatgpt-fusion-gateway",
+  "description": "Enables DeepSeek Harness agents to use ChatGPT Web as an external, stateless reasoning provider while keeping DSH as the single agent runtime.",
+  "source_repo": "2025ashore/DSH-Brain-Bridge",
+  "source_url": "https://github.com/2025ashore/DSH-Brain-Bridge",
+  "install": "# git clone --depth 1 https://github.com/2025ashore/DSH-Brain-Bridge\n# See source for mcpServers config block"
+}

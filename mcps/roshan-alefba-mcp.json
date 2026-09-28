@@ -1,0 +1,7 @@
+{
+  "name": "roshan-alefba-mcp",
+  "description": "A self-hostable MCP server that exposes Roshan AI's Alefba OCR service as tools, enabling document reading, page extraction, status polling, and export to PDF/Word/Excel for Persian, Arabic, and English text.",
+  "source_repo": "dwin-gharibi/roshan-alefba-mcp",
+  "source_url": "https://github.com/dwin-gharibi/roshan-alefba-mcp",
+  "install": "npx -y roshan-alefba-mcp"
+}

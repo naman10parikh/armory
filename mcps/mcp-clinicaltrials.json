@@ -1,0 +1,7 @@
+{
+  "name": "mcp-clinicaltrials",
+  "description": "Wraps the ClinicalTrials.gov API v2 to enable querying clinical trials data through natural language.",
+  "source_repo": "pipeworx-io/mcp-clinicaltrials",
+  "source_url": "https://github.com/pipeworx-io/mcp-clinicaltrials",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-clinicaltrials\n# See source for mcpServers config block"
+}

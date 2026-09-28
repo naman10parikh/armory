@@ -1,0 +1,7 @@
+{
+  "name": "fittin-mcp",
+  "description": "Enables startup protection checks directly from your editor, analyzing clone risk, defensibility, and patentable features in about 2 minutes.",
+  "source_repo": "rnwkr7rscy-lang/fittin-mcp",
+  "source_url": "https://github.com/rnwkr7rscy-lang/fittin-mcp",
+  "install": "npx -y fittin-mcp"
+}

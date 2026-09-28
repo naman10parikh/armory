@@ -1,0 +1,7 @@
+{
+  "name": "hackathon-seo-analyst-agent",
+  "description": "Enables analysis of raw SEO data by ingesting nested JSON datasets and converting them into clean, actionable metrics through the Model Context Protocol.",
+  "source_repo": "muhammadtaimoorajmal/seo-analyst-agent",
+  "source_url": "https://github.com/muhammadtaimoorajmal/seo-analyst-agent",
+  "install": "# git clone --depth 1 https://github.com/muhammadtaimoorajmal/seo-analyst-agent\n# See source for mcpServers config block"
+}

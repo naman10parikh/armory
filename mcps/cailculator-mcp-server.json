@@ -1,0 +1,7 @@
+{
+  "name": "cailculator-mcp-server",
+  "description": "MCP server for high-dimensional algebraic structure analysis, enabling AI agents to compute within sedenion and higher Cayley-Dickson algebras using formally verified transforms.",
+  "source_repo": "ChavezAILabs/cailculator-mcp",
+  "source_url": "https://github.com/ChavezAILabs/cailculator-mcp",
+  "install": "npx -y cailculator-mcp"
+}

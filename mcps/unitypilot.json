@@ -1,0 +1,7 @@
+{
+  "name": "unitypilot",
+  "description": "MCP server that lets AI agents drive the full Unity lifecycle on macOS without opening the Unity Editor.",
+  "source_repo": "anmolbhardwaj17/unitypilot",
+  "source_url": "https://github.com/anmolbhardwaj17/unitypilot",
+  "install": "# git clone --depth 1 https://github.com/anmolbhardwaj17/unitypilot\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kotlin-lib-mcp",
+  "description": "MCP server that downloads and analyzes sources of Maven-published Kotlin/Java libraries, exposing structured API information, KDoc, and raw source to AI agents.",
+  "source_repo": "aoreshkov/kotlin-lib-mcp",
+  "source_url": "https://github.com/aoreshkov/kotlin-lib-mcp",
+  "install": "npx -y kotlin-lib-mcp"
+}

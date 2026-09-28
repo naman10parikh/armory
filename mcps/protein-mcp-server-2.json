@@ -1,0 +1,7 @@
+{
+  "name": "protein-mcp-server-2",
+  "description": "Federated protein structure & annotation across experimental (PDB) and predicted (AlphaFold) models.",
+  "source_repo": "",
+  "source_url": "https://protein.caseyjhand.com/mcp",
+  "install": "# git clone --depth 1 https://protein.caseyjhand.com/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "generate-data-mcp",
+  "description": "Thin HTTP wrapper for the Generate-Data.com API, enabling data generation, schema proposal, and field type listing through MCP tools.",
+  "source_repo": "ns-3e/generate-data-mcp",
+  "source_url": "https://github.com/ns-3e/generate-data-mcp",
+  "install": "npx -y generate-data-mcp"
+}

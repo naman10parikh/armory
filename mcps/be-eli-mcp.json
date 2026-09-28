@@ -1,0 +1,7 @@
+{
+  "name": "be-eli-mcp",
+  "description": "Enables retrieval of Belgian legislation metadata and full text by ELI coordinates from the official gazette (Moniteur Belge), supporting French, Dutch, and German languages.",
+  "source_repo": "matematicsolutions/be-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/be-eli-mcp",
+  "install": "npx -y be-eli-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nfip-mcp-server",
+  "description": "An MCP server that exposes real US flood insurance claims data from FEMA's OpenFEMA API, providing tools for claim lookup, filtered search, aggregate stats, and flood event summaries.",
+  "source_repo": "pgang002/nfip-mcp-server",
+  "source_url": "https://github.com/pgang002/nfip-mcp-server",
+  "install": "npx -y nfip-mcp-server"
+}

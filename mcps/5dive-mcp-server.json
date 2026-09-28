@@ -1,0 +1,7 @@
+{
+  "name": "5dive-mcp-server",
+  "description": "Exposes the 5dive agent-fleet CLI (tasks, agents, digest) as stdio MCP tools. MIT.",
+  "source_repo": "5dive-ai/5dive-mcp",
+  "source_url": "https://github.com/5dive-ai/5dive-mcp",
+  "install": "npx -y 5dive-mcp"
+}

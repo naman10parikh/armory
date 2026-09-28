@@ -1,0 +1,7 @@
+{
+  "name": "acronis-mcp",
+  "description": "MCP server that exposes Acronis Cyber Protect Cloud APIs as 14 read-only tools for managing alerts, tasks, agents, resources, policies, and tenants.",
+  "source_repo": "MSPbotsAI/acronis-mcp",
+  "source_url": "https://github.com/MSPbotsAI/acronis-mcp",
+  "install": "npx -y acronis-mcp"
+}

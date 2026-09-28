@@ -1,0 +1,7 @@
+{
+  "name": "servicenow-mcp-ai",
+  "description": "An MCP server that enables running commands against a ServiceNow instance via its REST APIs, including Table, Aggregate, Attachment, Import Set, Batch, CMDB, Service Catalog, Change Management, and Knowledge APIs.",
+  "source_repo": "IvanBBaev/servicenow-mcp-ai",
+  "source_url": "https://github.com/IvanBBaev/servicenow-mcp-ai",
+  "install": "# git clone --depth 1 https://github.com/IvanBBaev/servicenow-mcp-ai\n# See source for mcpServers config block"
+}

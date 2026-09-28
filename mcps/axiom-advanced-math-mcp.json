@@ -1,0 +1,7 @@
+{
+  "name": "axiom-advanced-math-mcp",
+  "description": "Provides an MCP server exposing compute, verify, and plot tools backed by Giac/Xcas for exact symbolic and numerical mathematics, enabling LLMs to solve calculus, algebra, geometry, and more with verified results.",
+  "source_repo": "tufantunc/axiom-advanced-math-mcp",
+  "source_url": "https://github.com/tufantunc/axiom-advanced-math-mcp",
+  "install": "npx -y axiom-advanced-math-mcp"
+}

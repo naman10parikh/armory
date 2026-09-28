@@ -1,0 +1,7 @@
+{
+  "name": "mcp-windows-debug",
+  "description": "A Windows-only MCP server that gives AI models eyes and hands on a Windows machine, enabling file reading, screenshots, mouse/keyboard injection, and an auto-debug loop with a safety-focused watchdog for protected abort regions.",
+  "source_repo": "wgm66/mcp-windows-debug",
+  "source_url": "https://github.com/wgm66/mcp-windows-debug",
+  "install": "# git clone --depth 1 https://github.com/wgm66/mcp-windows-debug\n# See source for mcpServers config block"
+}

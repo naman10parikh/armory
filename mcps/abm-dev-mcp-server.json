@@ -1,0 +1,7 @@
+{
+  "name": "abm-dev-mcp-server",
+  "description": "Account-based marketing enrichment for AI agents. Enriches people and companies from email, LinkedIn URL, or domain with cited multi-source fields.",
+  "source_repo": "abm-dev-git/abm-mcp",
+  "source_url": "https://github.com/abm-dev-git/abm-mcp",
+  "install": "npx -y abm-mcp"
+}

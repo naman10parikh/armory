@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chrome-scalemaker",
+  "description": "Enables AI assistants to control Chrome via MCP with automatic site permissions, force reconnect, and diagnostics. Uses stdio native messaging for reliable browsing automation.",
+  "source_repo": "scalemaker-ship-it/mcp-chrome-scalemaker",
+  "source_url": "https://github.com/scalemaker-ship-it/mcp-chrome-scalemaker",
+  "install": "# git clone --depth 1 https://github.com/scalemaker-ship-it/mcp-chrome-scalemaker\n# See source for mcpServers config block"
+}

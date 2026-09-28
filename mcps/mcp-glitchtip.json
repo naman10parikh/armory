@@ -1,0 +1,7 @@
+{
+  "name": "mcp-glitchtip",
+  "description": "Integrates GlitchTip error monitoring with AI assistants, enabling them to fetch, analyze, and debug issues from your GlitchTip instance.",
+  "source_repo": "coffebar/mcp-glitchtip",
+  "source_url": "https://github.com/coffebar/mcp-glitchtip",
+  "install": "# git clone --depth 1 https://github.com/coffebar/mcp-glitchtip\n# See source for mcpServers config block"
+}

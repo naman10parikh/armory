@@ -1,0 +1,7 @@
+{
+  "name": "midas-memory-mcp",
+  "description": "Local-first, source-traceable memory for AI agents — no LLM at ingest, $0 per message, zero data egress. Gives Claude Code, Cursor, and any MCP client one shared persistent memory with semantic recall, belief revision, selective forgetting, and a provenance guard that blocks acting on stale or uncon",
+  "source_repo": "vornicx/Midas",
+  "source_url": "https://github.com/vornicx/Midas",
+  "install": "# git clone --depth 1 https://github.com/vornicx/Midas\n# See source for mcpServers config block"
+}

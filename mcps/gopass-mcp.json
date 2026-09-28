@@ -1,0 +1,7 @@
+{
+  "name": "gopass-mcp",
+  "description": "Enables AI agents to securely access and manage passwords from a gopass store via four tools: list, retrieve, search, and generate passwords.",
+  "source_repo": "inavhq/gopass-mcp",
+  "source_url": "https://github.com/inavhq/gopass-mcp",
+  "install": "npx -y gopass-mcp"
+}

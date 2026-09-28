@@ -1,0 +1,7 @@
+{
+  "name": "multi-carrier-tracking-mcp",
+  "description": "Enables package tracking across multiple carriers by auto-detecting the carrier from a tracking number and returning structured events. Supports USPS, UPS, FedEx, DHL, India Post, Delhivery, BlueDart, and Aramex.",
+  "source_repo": "guptaprakhariitr/multi-carrier-tracking-mcp",
+  "source_url": "https://github.com/guptaprakhariitr/multi-carrier-tracking-mcp",
+  "install": "npx -y multi-carrier-tracking-mcp"
+}

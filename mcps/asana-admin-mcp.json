@@ -1,0 +1,7 @@
+{
+  "name": "asana-admin-mcp",
+  "description": "MCP server for Asana administration, enabling portfolio, custom field, project, and section management with advanced features like duplication and reordering.",
+  "source_repo": "plakorp/asana-admin-mcp",
+  "source_url": "https://github.com/plakorp/asana-admin-mcp",
+  "install": "npx -y asana-admin-mcp"
+}

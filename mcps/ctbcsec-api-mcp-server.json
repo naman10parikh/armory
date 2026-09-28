@@ -1,0 +1,7 @@
+{
+  "name": "ctbcsec-api-mcp-server",
+  "description": "Enables LLMs to interact with CTBC Securities CTS Trading API for stock, futures, and options trading operations, including order placement, account management, and position queries.",
+  "source_repo": "Mofesto/ctbcsec-api-mcp-server",
+  "source_url": "https://github.com/Mofesto/ctbcsec-api-mcp-server",
+  "install": "npx -y ctbcsec-api-mcp-server"
+}

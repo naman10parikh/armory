@@ -1,0 +1,7 @@
+{
+  "name": "vlk",
+  "description": "Temporal state machine for AI agents that detects and breaks repetitive error loops across languages by fingerprinting errors and injecting preventive constraints, running as an MCP server with SQLite backend.",
+  "source_repo": "aranajhonny/vlk",
+  "source_url": "https://github.com/aranajhonny/vlk",
+  "install": "# git clone --depth 1 https://github.com/aranajhonny/vlk\n# See source for mcpServers config block"
+}

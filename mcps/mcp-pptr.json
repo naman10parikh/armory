@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pptr",
+  "description": "Provides browser automation and DevTools capabilities via Puppeteer, with Docker support for consistent environments.",
+  "source_repo": "RingoTC/MCP-pptr",
+  "source_url": "https://github.com/RingoTC/MCP-pptr",
+  "install": "# git clone --depth 1 https://github.com/RingoTC/MCP-pptr\n# See source for mcpServers config block"
+}

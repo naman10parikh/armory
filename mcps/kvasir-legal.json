@@ -1,0 +1,7 @@
+{
+  "name": "kvasir-legal",
+  "description": "Verifiable German, Austrian, Swiss and EU law: resolve citations to the wording in force, verify the citations a model produced against the official source, and walk the citation graph.",
+  "source_repo": "kvasir-legal/kvasir-mcp",
+  "source_url": "https://github.com/kvasir-legal/kvasir-mcp",
+  "install": "npx -y kvasir-mcp"
+}

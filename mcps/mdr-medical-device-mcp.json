@@ -1,0 +1,7 @@
+{
+  "name": "mdr-medical-device-mcp",
+  "description": "Enables classification of medical devices, IVDs, and AI/ML SaMD under EU MDR and IVDR regulations.",
+  "source_repo": "CSOAI-ORG/mdr-medical-device-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/mdr-medical-device-mcp",
+  "install": "npx -y mdr-medical-device-mcp"
+}

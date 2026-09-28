@@ -1,0 +1,7 @@
+{
+  "name": "mem0-memory-mcp-server",
+  "description": "Enables memory storage and retrieval using Mem0, allowing users to store context-specific memories and search through them with relevance scoring.",
+  "source_repo": "whysosaket/sample-mcp",
+  "source_url": "https://github.com/whysosaket/sample-mcp",
+  "install": "npx -y sample-mcp"
+}

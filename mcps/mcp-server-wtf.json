@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-wtf",
+  "description": "A flight recorder for Claude Code that captures tool calls and observations into a SQLite database, then classifies them into a distilled timeline for incident troubleshooting.",
+  "source_repo": "Wave-Engineering/mcp-server-wtf",
+  "source_url": "https://github.com/Wave-Engineering/mcp-server-wtf",
+  "install": "# git clone --depth 1 https://github.com/Wave-Engineering/mcp-server-wtf\n# See source for mcpServers config block"
+}

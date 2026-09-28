@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-exchange-rates-mcp-server",
+  "description": "Convert currencies, get FX rates, and query historical ECB exchange rate data via MCP.",
+  "source_repo": "cyanheads/exchange-rates-mcp-server",
+  "source_url": "https://github.com/cyanheads/exchange-rates-mcp-server",
+  "install": "npx -y exchange-rates-mcp-server"
+}

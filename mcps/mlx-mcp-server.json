@@ -1,0 +1,7 @@
+{
+  "name": "mlx-mcp-server",
+  "description": "Bridges Claude Code and Claude Desktop to a locally-running LLM, optimized for MLX LM on Apple Silicon with support for any OpenAI-compatible backend.",
+  "source_repo": "deresolution20/mlx-mcp-server",
+  "source_url": "https://github.com/deresolution20/mlx-mcp-server",
+  "install": "npx -y mlx-mcp-server"
+}

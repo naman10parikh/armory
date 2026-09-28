@@ -1,0 +1,7 @@
+{
+  "name": "egovframe-scaffold-mcp",
+  "description": "Enables AI tools to instantly scaffold eGovFrame projects using official templates, with configurable project name, groupId, database type, and template selection.",
+  "source_repo": "EricSeokgon/egovframe-scaffold-mcp",
+  "source_url": "https://github.com/EricSeokgon/egovframe-scaffold-mcp",
+  "install": "npx -y egovframe-scaffold-mcp"
+}

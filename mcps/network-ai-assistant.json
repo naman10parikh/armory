@@ -1,0 +1,7 @@
+{
+  "name": "network-ai-assistant",
+  "description": "Asynchronous MCP server for unified multi-platform network infrastructure management, providing 97 tools across 10 connectors including SSH, MikroTik, Palo Alto, Aruba, Graylog, LibreNMS, Cisco APIC/NDFC, and Panorama.",
+  "source_repo": "angoran/git-netai",
+  "source_url": "https://github.com/angoran/git-netai",
+  "install": "# git clone --depth 1 https://github.com/angoran/git-netai\n# See source for mcpServers config block"
+}

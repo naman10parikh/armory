@@ -1,0 +1,7 @@
+{
+  "name": "purl-mcp-server",
+  "description": "Connects AI assistants to live Purl Studio projects, enabling reading objects, modifying scripts, and setting properties.",
+  "source_repo": "ykovenskiy-hub/purl-mcp",
+  "source_url": "https://github.com/ykovenskiy-hub/purl-mcp",
+  "install": "npx -y purl-mcp"
+}

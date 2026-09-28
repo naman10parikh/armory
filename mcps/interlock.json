@@ -1,0 +1,7 @@
+{
+  "name": "interlock",
+  "description": "A zero-trust MCP server that gives AI agents governed access to desktop CAD, EDA, and SPICE tools.",
+  "source_repo": "IamOumarIbrahim/interlock-mcp",
+  "source_url": "https://github.com/IamOumarIbrahim/interlock-mcp",
+  "install": "npx -y interlock-mcp"
+}

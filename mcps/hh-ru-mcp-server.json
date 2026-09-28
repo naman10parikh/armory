@@ -1,0 +1,7 @@
+{
+  "name": "hh-ru-mcp-server",
+  "description": "Enables searching for jobs in Russia and remote positions from AI assistants using multiple job platforms (hh.ru, Trudvsem, SuperJob, and remote job aggregators).",
+  "source_repo": "blessed234640/MCP",
+  "source_url": "https://github.com/blessed234640/MCP",
+  "install": "# git clone --depth 1 https://github.com/blessed234640/MCP\n# See source for mcpServers config block"
+}

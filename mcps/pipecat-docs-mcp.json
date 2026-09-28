@@ -1,0 +1,7 @@
+{
+  "name": "pipecat-docs-mcp",
+  "description": "Enables searching Pipecat documentation and GitHub issues for grounded answers about APIs, configuration, code examples, and provider comparisons.",
+  "source_repo": "DTufail/pipecat-docs-mcp",
+  "source_url": "https://github.com/DTufail/pipecat-docs-mcp",
+  "install": "npx -y pipecat-docs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "boring-news-mcp",
+  "description": "A Python MCP server for fetching and summarizing news articles from the Boring News API by date, category, tags, people, and similarity.",
+  "source_repo": "Oliviergg/boring-news-mcp",
+  "source_url": "https://github.com/Oliviergg/boring-news-mcp",
+  "install": "npx -y boring-news-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wps-mcp-server",
+  "description": "Enables AI agents to natively create and edit WPS Office documents, spreadsheets, and presentations via natural language commands.",
+  "source_repo": "Xiao-rx/wps-mcp-server",
+  "source_url": "https://github.com/Xiao-rx/wps-mcp-server",
+  "install": "npx -y wps-mcp-server"
+}

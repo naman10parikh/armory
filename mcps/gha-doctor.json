@@ -1,0 +1,7 @@
+{
+  "name": "gha-doctor",
+  "description": "CI health reports for GitHub Actions: flaky tests named from logs, wasted compute priced in dollars, zombie crons, PR feedback time, plus 21 lint rules with safe auto-fixes. Read-only MCP tools wrap the same Go binary.",
+  "source_repo": "linnea-bakshi/gha-doctor",
+  "source_url": "https://github.com/linnea-bakshi/gha-doctor",
+  "install": "# git clone --depth 1 https://github.com/linnea-bakshi/gha-doctor\n# See source for mcpServers config block"
+}

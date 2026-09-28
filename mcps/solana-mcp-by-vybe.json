@@ -1,0 +1,7 @@
+{
+  "name": "solana-mcp-by-vybe",
+  "description": "Enables browsing Solana schemas and making live Solana API calls through a public MCP server.",
+  "source_repo": "vybenetwork/solana-mcp-vybe",
+  "source_url": "https://github.com/vybenetwork/solana-mcp-vybe",
+  "install": "# git clone --depth 1 https://github.com/vybenetwork/solana-mcp-vybe\n# See source for mcpServers config block"
+}

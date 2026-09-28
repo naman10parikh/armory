@@ -1,0 +1,7 @@
+{
+  "name": "household-account-book",
+  "description": "Provides AI agents with a headless personal accounting system via REST API and MCP stdio, enabling account management, transaction recording, transfers, and reporting without a GUI.",
+  "source_repo": "dht-net/household-account-book",
+  "source_url": "https://github.com/dht-net/household-account-book",
+  "install": "# git clone --depth 1 https://github.com/dht-net/household-account-book\n# See source for mcpServers config block"
+}

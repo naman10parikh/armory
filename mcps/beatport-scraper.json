@@ -1,0 +1,7 @@
+{
+  "name": "beatport-scraper",
+  "description": "Enables extracting metadata from Beatport track URLs, including preview audio, cover art, and track info, via an MCP server integrated with Claude Desktop.",
+  "source_repo": "wkzng/beatport-scraper",
+  "source_url": "https://github.com/wkzng/beatport-scraper",
+  "install": "# git clone --depth 1 https://github.com/wkzng/beatport-scraper\n# See source for mcpServers config block"
+}

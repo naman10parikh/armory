@@ -1,0 +1,7 @@
+{
+  "name": "prescryb",
+  "description": "A remediation orchestrator exposed as an MCP server that provides primitives for SSH host inventory, CVE matching, live advisory lookups, compliance mapping, and Ansible playbook generation.",
+  "source_repo": "konstruktoid/prescryb",
+  "source_url": "https://github.com/konstruktoid/prescryb",
+  "install": "# git clone --depth 1 https://github.com/konstruktoid/prescryb\n# See source for mcpServers config block"
+}

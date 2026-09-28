@@ -1,0 +1,7 @@
+{
+  "name": "gondola-ai",
+  "description": "Travel award search: compare cash vs points on hotels, flights & cars, cents-per-point, and book",
+  "source_repo": "gondola-ai/gondola-mcp",
+  "source_url": "https://github.com/gondola-ai/gondola-mcp",
+  "install": "npx -y gondola-mcp"
+}

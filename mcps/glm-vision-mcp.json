@@ -1,0 +1,7 @@
+{
+  "name": "glm-vision-mcp",
+  "description": "An MCP server that leverages Zhipu's free GLM-4.6V-Flash vision model to enable image, video, and file understanding (OCR, table parsing, defect detection, document Q&A, and more) across MCP-compatible clients like Codex and Claude Desktop.",
+  "source_repo": "qy564/glm-vision-mcp",
+  "source_url": "https://github.com/qy564/glm-vision-mcp",
+  "install": "npx -y glm-vision-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "re-lief",
+  "description": "MCP server exposing LIEF for cross-format binary analysis, enabling parsing, section listing, imports/exports, disassembly, and string extraction for PE, ELF, MachO, DEX, ART, and OAT files.",
+  "source_repo": "Heretek-RE/re-lief",
+  "source_url": "https://github.com/Heretek-RE/re-lief",
+  "install": "# git clone --depth 1 https://github.com/Heretek-RE/re-lief\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pdf-reader-mcp-server",
+  "description": "An MCP server providing comprehensive PDF processing capabilities with 18 tools for text extraction, OCR, image conversion, metadata management, and optimization.",
+  "source_repo": "lihongwen/pdfreadermcp",
+  "source_url": "https://github.com/lihongwen/pdfreadermcp",
+  "install": "# git clone --depth 1 https://github.com/lihongwen/pdfreadermcp\n# See source for mcpServers config block"
+}

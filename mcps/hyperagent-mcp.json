@@ -1,0 +1,7 @@
+{
+  "name": "hyperagent-mcp",
+  "description": "Provides an MCP server and local provider to access Hyperagent models Fable 5 and GPT-5.6 Sol via a browser session cookie.",
+  "source_repo": "PandaNePanda/hyperagent_mcp",
+  "source_url": "https://github.com/PandaNePanda/hyperagent_mcp",
+  "install": "npx -y hyperagent_mcp"
+}

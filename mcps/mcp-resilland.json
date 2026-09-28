@@ -1,0 +1,7 @@
+{
+  "name": "mcp-resilland",
+  "description": "AI-powered spatial intelligence for landscape restoration, enabling queries on cadastral parcels, species, climate data, and policy documents across Central Asia.",
+  "source_repo": "ilhankilic/mcp-resilland",
+  "source_url": "https://github.com/ilhankilic/mcp-resilland",
+  "install": "# git clone --depth 1 https://github.com/ilhankilic/mcp-resilland\n# See source for mcpServers config block"
+}

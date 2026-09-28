@@ -1,0 +1,7 @@
+{
+  "name": "deepseek-qr",
+  "description": "A local multimodal recognition workbench that uses your Edge/Chrome session to access DeepSeek Web, exposing MCP tools for recognizing images, documents, audio, and video with privacy-preserving temporary processing.",
+  "source_repo": "luobobo896/deepseek-qr",
+  "source_url": "https://github.com/luobobo896/deepseek-qr",
+  "install": "# git clone --depth 1 https://github.com/luobobo896/deepseek-qr\n# See source for mcpServers config block"
+}

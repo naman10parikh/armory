@@ -1,0 +1,7 @@
+{
+  "name": "akamai-cdn-mcp",
+  "description": "MCP server for Akamai CDN, enabling cache purging by URL (invalidate/delete) and read-only inspection of property configs, rule trees, and activations. Credentials are managed server-side with EdgeGrid signing, so clients need no credentials.",
+  "source_repo": "hikaneko/cdn-mcp",
+  "source_url": "https://github.com/hikaneko/cdn-mcp",
+  "install": "npx -y cdn-mcp"
+}

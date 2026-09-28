@@ -1,0 +1,7 @@
+{
+  "name": "contxt-box",
+  "description": "A local-first external context box for coding agents, providing indexed file metadata, document/image extraction, and durable chat preservation via MCP tools.",
+  "source_repo": "Oshadha345/contxt-box",
+  "source_url": "https://github.com/Oshadha345/contxt-box",
+  "install": "# git clone --depth 1 https://github.com/Oshadha345/contxt-box\n# See source for mcpServers config block"
+}

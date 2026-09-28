@@ -1,0 +1,7 @@
+{
+  "name": "icemoon-mcp",
+  "description": "Control real iPhones from Claude through MCP, enabling AI to read screens, plan multi-step tasks, and execute human-like touch gestures on stock iOS devices without jailbreak.",
+  "source_repo": "icemoon-dev/icemoon-mcp",
+  "source_url": "https://github.com/icemoon-dev/icemoon-mcp",
+  "install": "npx -y icemoon-mcp"
+}

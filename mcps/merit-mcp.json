@@ -1,0 +1,7 @@
+{
+  "name": "merit-mcp",
+  "description": "Connects to Merit bookkeeping software",
+  "source_repo": "jaakla/merit_api",
+  "source_url": "https://github.com/jaakla/merit_api",
+  "install": "# git clone --depth 1 https://github.com/jaakla/merit_api\n# See source for mcpServers config block"
+}

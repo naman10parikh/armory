@@ -1,0 +1,7 @@
+{
+  "name": "guck-mcp-server",
+  "description": "Guck is a tiny, MCP-first telemetry store for agentic debugging. It provides token-efficient log analytics by capturing JSONL telemetry events and exposing a minimal MCP toolset for fast, filtered queries.",
+  "source_repo": "tillkolter/guck-mcp",
+  "source_url": "https://github.com/tillkolter/guck-mcp",
+  "install": "npx -y guck-mcp"
+}

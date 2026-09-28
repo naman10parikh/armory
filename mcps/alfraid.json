@@ -1,0 +1,7 @@
+{
+  "name": "alfraid",
+  "description": "An AI-powered TODO list MCP server with categories, timeboxing, and due dates, enabling natural language task management.",
+  "source_repo": "ArnaudRinquin/AlfrAId",
+  "source_url": "https://github.com/ArnaudRinquin/AlfrAId",
+  "install": "# git clone --depth 1 https://github.com/ArnaudRinquin/AlfrAId\n# See source for mcpServers config block"
+}

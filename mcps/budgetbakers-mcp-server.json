@@ -1,0 +1,7 @@
+{
+  "name": "budgetbakers-mcp-server",
+  "description": "Integrates Claude with the BudgetBakers Wallet API to access financial data including accounts, transactions, categories, and spending analytics.",
+  "source_repo": "vmrchnk/budgetbakers-mcp",
+  "source_url": "https://github.com/vmrchnk/budgetbakers-mcp",
+  "install": "npx -y budgetbakers-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wilsonbeam-openclaw-adb-mcp",
+  "description": "MCP server for Android device automation via ADB, enabling screen control, phone functions, app management, and device control.",
+  "source_repo": "wilsonbeam/openclaw-adb-mcp",
+  "source_url": "https://github.com/wilsonbeam/openclaw-adb-mcp",
+  "install": "npx -y openclaw-adb-mcp"
+}

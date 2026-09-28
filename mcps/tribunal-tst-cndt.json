@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-tst-cndt",
+  "description": "Consulta em fonte oficial do Tribunal TST: CNDT, com uma ferramenta somente leitura, paga por uso via crédito pré-pago, e funciona com qualquer cliente MCP over HTTP.",
+  "source_repo": "mcp-dir/tribunal_tst_cndt-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_tst_cndt-mcp",
+  "install": "npx -y tribunal_tst_cndt-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-magistrat-civil",
+  "description": "Provides access to French legal databases (Judilibre and Légifrance) and a structured legal reasoning skill for analyzing civil cases like a French magistrate.",
+  "source_repo": "mauryaland/mcp-magistrat-civil",
+  "source_url": "https://github.com/mauryaland/mcp-magistrat-civil",
+  "install": "# git clone --depth 1 https://github.com/mauryaland/mcp-magistrat-civil\n# See source for mcpServers config block"
+}

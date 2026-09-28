@@ -1,0 +1,7 @@
+{
+  "name": "shopify-insights-mcp",
+  "description": "Enables Shopify store owners to get actionable business insights such as sales comparisons, inventory alerts, and recommendations, transforming raw data into meaningful decisions.",
+  "source_repo": "VenticinqueMauro/shopify-insights-mcp",
+  "source_url": "https://github.com/VenticinqueMauro/shopify-insights-mcp",
+  "install": "npx -y shopify-insights-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "collectui",
+  "description": "Enables coding agents to turn CollectUI links or any image/GIF/video URL into a detailed design and motion brief with measured timings, easing curves, displacement, palette, and opt-in keyframes.",
+  "source_repo": "rayhankhilji/collectui-mcp",
+  "source_url": "https://github.com/rayhankhilji/collectui-mcp",
+  "install": "npx -y collectui-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "web-search-mcp-server-2",
+  "description": "A universal web search and content retrieval tool for AI agents, supporting multiple search providers and content extraction.",
+  "source_repo": "hundare/Web_Search_MCP",
+  "source_url": "https://github.com/hundare/Web_Search_MCP",
+  "install": "npx -y Web_Search_MCP"
+}

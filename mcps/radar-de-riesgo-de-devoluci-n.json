@@ -1,0 +1,7 @@
+{
+  "name": "radar-de-riesgo-de-devoluci-n",
+  "description": "MCP server for e-commerce return risk analysis, providing tools to calculate customer risk profiles, compare segments, and identify risk factors, with memory for contextual conversations.",
+  "source_repo": "theblacknietzsche/Agent-MCP",
+  "source_url": "https://github.com/theblacknietzsche/Agent-MCP",
+  "install": "npx -y Agent-MCP"
+}

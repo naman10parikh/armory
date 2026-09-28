@@ -1,0 +1,7 @@
+{
+  "name": "coordination-mcp",
+  "description": "Enables multiple AI agents to share, incrementally synchronize, and restore work context within a common scope using persistent tickets, immutable updates, and text artifacts.",
+  "source_repo": "limars874/coordination-mcp",
+  "source_url": "https://github.com/limars874/coordination-mcp",
+  "install": "npx -y coordination-mcp"
+}

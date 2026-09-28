@@ -1,0 +1,7 @@
+{
+  "name": "sql-explorer-mcp",
+  "description": "Read-only MCP server for SQL databases (SQL Server, Postgres, SQLite) with multi-server support and three-layer safety using AST validation and linting.",
+  "source_repo": "Pawansingh3889/sql-explorer-mcp",
+  "source_url": "https://github.com/Pawansingh3889/sql-explorer-mcp",
+  "install": "npx -y sql-explorer-mcp"
+}

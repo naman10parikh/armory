@@ -1,0 +1,7 @@
+{
+  "name": "signaliz-mcp",
+  "description": "Provides MCP clients with 60+ APIs for B2B data enrichment, lead generation, email verification, company intelligence, and agentic GTM workflows.",
+  "source_repo": "signaliz/signaliz-mcp",
+  "source_url": "https://github.com/signaliz/signaliz-mcp",
+  "install": "npx -y signaliz-mcp"
+}

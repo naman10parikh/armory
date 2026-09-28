@@ -1,0 +1,7 @@
+{
+  "name": "hebbian-vault",
+  "description": "MCP server for intelligent, use-adaptive Obsidian vault search. It uses Hebbian learning and graph centrality to rank files by usage and relevance.",
+  "source_repo": "onetrueclaude-creator/hebbian-vault",
+  "source_url": "https://github.com/onetrueclaude-creator/hebbian-vault",
+  "install": "# git clone --depth 1 https://github.com/onetrueclaude-creator/hebbian-vault\n# See source for mcpServers config block"
+}

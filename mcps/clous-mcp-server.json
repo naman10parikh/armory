@@ -1,0 +1,7 @@
+{
+  "name": "clous-mcp-server",
+  "description": "Provides access to SEC/EDGAR filings data through the Clous API, enabling search and retrieval of filings, financials, insider trades, 13F holdings, and more from a single JSON interface.",
+  "source_repo": "clousai/Mcp",
+  "source_url": "https://github.com/clousai/Mcp",
+  "install": "# git clone --depth 1 https://github.com/clousai/Mcp\n# See source for mcpServers config block"
+}

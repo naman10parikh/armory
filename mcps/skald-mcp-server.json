@@ -1,0 +1,7 @@
+{
+  "name": "skald-mcp-server",
+  "description": "Chat with your Skald knowledge base, add and update new knowledge, and search through memos.",
+  "source_repo": "skaldlabs/skald-mcp",
+  "source_url": "https://github.com/skaldlabs/skald-mcp",
+  "install": "npx -y skald-mcp"
+}

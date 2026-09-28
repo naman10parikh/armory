@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gest-o-de-tarefas",
+  "description": "Integra agentes de desenvolvimento ao sistema Gestão de Tarefas, permitindo gerenciar projetos, demandas, sprints e tarefas com suporte a fila offline e sincronização posterior.",
+  "source_repo": "bcosta19/mcp-gestao-tarefas",
+  "source_url": "https://github.com/bcosta19/mcp-gestao-tarefas",
+  "install": "# git clone --depth 1 https://github.com/bcosta19/mcp-gestao-tarefas\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zotero-ima-mcp",
+  "description": "Local MCP server for research workflows that integrates Zotero for source management, MinerU for PDF full-text extraction, and Tencent ima as a knowledge base, providing 34 tools and 7 skills for AI agents to conduct traceable literature analysis.",
+  "source_repo": "shuishousong/zotero-ima-mcp",
+  "source_url": "https://github.com/shuishousong/zotero-ima-mcp",
+  "install": "npx -y zotero-ima-mcp"
+}

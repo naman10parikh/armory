@@ -1,0 +1,7 @@
+{
+  "name": "godot-universal-mcp",
+  "description": "Connects MCP-capable AI clients to a running Godot 4 editor for scene, node, project, and debug runtime operations via a local-first architecture.",
+  "source_repo": "Noa3/GodotMCP",
+  "source_url": "https://github.com/Noa3/GodotMCP",
+  "install": "# git clone --depth 1 https://github.com/Noa3/GodotMCP\n# See source for mcpServers config block"
+}

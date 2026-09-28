@@ -1,0 +1,7 @@
+{
+  "name": "oracle-adb-ai-agent-mcp-server",
+  "description": "Enables AI-powered database operations on Oracle Autonomous Database via natural language, including SQL translation, schema exploration, and API orchestration.",
+  "source_repo": "ashuashu20691/lighting-mcp",
+  "source_url": "https://github.com/ashuashu20691/lighting-mcp",
+  "install": "npx -y lighting-mcp"
+}

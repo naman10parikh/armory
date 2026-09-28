@@ -1,0 +1,7 @@
+{
+  "name": "crongrid",
+  "description": "This MCP server enables LLMs to POST, GET, and DELETE cron jobs that schedule email sends via SendGrid.",
+  "source_repo": "chaser164/crongrid-mcp",
+  "source_url": "https://github.com/chaser164/crongrid-mcp",
+  "install": "npx -y crongrid-mcp"
+}

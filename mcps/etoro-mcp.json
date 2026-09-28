@@ -1,0 +1,7 @@
+{
+  "name": "etoro-mcp",
+  "description": "MCP server for the eToro public API, providing read and write tools for market data, account management, trading, watchlists, alerts, and social feeds.",
+  "source_repo": "florinel-chis/etoro-mcp",
+  "source_url": "https://github.com/florinel-chis/etoro-mcp",
+  "install": "npx -y etoro-mcp"
+}

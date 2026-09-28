@@ -1,0 +1,7 @@
+{
+  "name": "archview",
+  "description": "Provides agents with read-only access to local code architecture graphs (structure from tree-sitter, semantic summaries from LLMs), including per-workspace graph/config/status/rebuild tools, while enforcing that topology comes only from static analysis.",
+  "source_repo": "LZZLHY/archview",
+  "source_url": "https://github.com/LZZLHY/archview",
+  "install": "# git clone --depth 1 https://github.com/LZZLHY/archview\n# See source for mcpServers config block"
+}

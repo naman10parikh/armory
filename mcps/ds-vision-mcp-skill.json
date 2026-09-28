@@ -1,0 +1,7 @@
+{
+  "name": "ds-vision-mcp-skill",
+  "description": "Automates image analysis and coordinate-level visual reasoning through DeepSeek's web interface, with multi-round voting, image comparison, and follow-up Q&A via MCP tools.",
+  "source_repo": "Tiger3807861189/ds-vision-mcp-skill",
+  "source_url": "https://github.com/Tiger3807861189/ds-vision-mcp-skill",
+  "install": "# git clone --depth 1 https://github.com/Tiger3807861189/ds-vision-mcp-skill\n# See source for mcpServers config block"
+}

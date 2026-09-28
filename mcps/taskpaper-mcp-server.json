@@ -1,0 +1,7 @@
+{
+  "name": "taskpaper-mcp-server",
+  "description": "MCP server that automates TaskPaper on macOS, enabling task management operations like reading, searching, adding, completing tasks, and setting filters via JavaScript for Automation.",
+  "source_repo": "kekincai/taskpaper-mcp-server",
+  "source_url": "https://github.com/kekincai/taskpaper-mcp-server",
+  "install": "npx -y taskpaper-mcp-server"
+}

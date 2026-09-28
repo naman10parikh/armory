@@ -1,0 +1,7 @@
+{
+  "name": "phone-mcp-server",
+  "description": "Enables AI agents to control Android phones via MCP and HTTP. Supports screen capture, taps, swipes, text input, and app management.",
+  "source_repo": "Ctrl-Creeper/phone-mcp-server",
+  "source_url": "https://github.com/Ctrl-Creeper/phone-mcp-server",
+  "install": "npx -y phone-mcp-server"
+}

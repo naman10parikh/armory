@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-buddy",
+  "description": "MCP server for LinkedIn automation that enables AI agents to perform LinkedIn actions (search, inbox, feed, jobs, etc.) safely with human-like evasion and two-phase commit preview.",
+  "source_repo": "sigvardt/linkedin-buddy",
+  "source_url": "https://github.com/sigvardt/linkedin-buddy",
+  "install": "# git clone --depth 1 https://github.com/sigvardt/linkedin-buddy\n# See source for mcpServers config block"
+}

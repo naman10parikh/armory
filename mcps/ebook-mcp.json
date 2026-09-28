@@ -1,0 +1,7 @@
+{
+  "name": "ebook-mcp",
+  "description": "Enables natural language interaction with e-books, extracting metadata, table of contents, and chapter content from EPUB and PDF files.",
+  "source_repo": "onebirdrocks/ebook-mcp",
+  "source_url": "https://github.com/onebirdrocks/ebook-mcp",
+  "install": "npx -y ebook-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "proof-publisher-mcp",
+  "description": "This MCP server publishes commit-bound proof summaries to a specified HTTPS webhook, featuring fail-closed writes and a clear authority boundary for safe external actions.",
+  "source_repo": "biliman1-work/proof-publisher-mcp",
+  "source_url": "https://github.com/biliman1-work/proof-publisher-mcp",
+  "install": "npx -y proof-publisher-mcp"
+}

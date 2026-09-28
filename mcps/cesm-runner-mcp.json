@@ -1,0 +1,7 @@
+{
+  "name": "cesm-runner-mcp",
+  "description": "MCP server for driving CESM case lifecycle: setup, build, submit, and monitor. Complements CrocoDash MCP for grid creation and forcing.",
+  "source_repo": "CROCODILE-CESM/MCP_cesm_runner",
+  "source_url": "https://github.com/CROCODILE-CESM/MCP_cesm_runner",
+  "install": "# git clone --depth 1 https://github.com/CROCODILE-CESM/MCP_cesm_runner\n# See source for mcpServers config block"
+}

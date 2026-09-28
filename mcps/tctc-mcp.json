@@ -1,0 +1,7 @@
+{
+  "name": "tctc-mcp",
+  "description": "Exposes ERC-7303 token-controlled roles to AI agents, enabling permission checks and on-chain role management via control tokens.",
+  "source_repo": "kofujimura/tctc-mcp",
+  "source_url": "https://github.com/kofujimura/tctc-mcp",
+  "install": "npx -y tctc-mcp"
+}

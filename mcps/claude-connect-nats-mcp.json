@@ -1,0 +1,7 @@
+{
+  "name": "claude-connect-nats-mcp",
+  "description": "An MCP server for inter-session communication between Claude Code instances. Built on NATS JetStream, it provides room-based messaging, direct agent communication, presence tracking, and message history.",
+  "source_repo": "memblin/claude-connect-nats-mcp",
+  "source_url": "https://github.com/memblin/claude-connect-nats-mcp",
+  "install": "npx -y claude-connect-nats-mcp"
+}

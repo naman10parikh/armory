@@ -1,0 +1,7 @@
+{
+  "name": "horizon-shield-kira",
+  "description": "Audits Japanese construction and renovation estimates for overcharge. Fair price ranges by work type, red flag checks for sales tactics, and signed recomputable verdicts. Backed by the open JCCDB dataset (65,729 items, CC BY 4.0).",
+  "source_repo": "ogasurfproject-jpg/horizon-shield",
+  "source_url": "https://github.com/ogasurfproject-jpg/horizon-shield",
+  "install": "# git clone --depth 1 https://github.com/ogasurfproject-jpg/horizon-shield\n# See source for mcpServers config block"
+}

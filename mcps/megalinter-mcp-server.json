@@ -1,0 +1,7 @@
+{
+  "name": "megalinter-mcp-server",
+  "description": "Enables running MegaLinter linting, configuration, and analysis through MCP tools. Works with any CI/CD platform or locally.",
+  "source_repo": "DownAtTheBottomOfTheMoleHole/megalinter-mcp",
+  "source_url": "https://github.com/DownAtTheBottomOfTheMoleHole/megalinter-mcp",
+  "install": "npx -y megalinter-mcp"
+}

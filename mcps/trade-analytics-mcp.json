@@ -1,0 +1,7 @@
+{
+  "name": "trade-analytics-mcp",
+  "description": "Enables AI to analyze trade quality by fetching real price action around fills, generating annotated candlestick charts, and computing metrics like MAE/MFE, R-multiple, and capture efficiency.",
+  "source_repo": "oliverwehn/trade-analytics-mcp",
+  "source_url": "https://github.com/oliverwehn/trade-analytics-mcp",
+  "install": "npx -y trade-analytics-mcp"
+}

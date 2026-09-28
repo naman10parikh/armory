@@ -1,0 +1,7 @@
+{
+  "name": "mpt-al-certid-o-negativa-de-feitos",
+  "description": "Consulta de certidão negativa de feitos do Ministério Público do Trabalho de Alagoas, com acesso via MCP e autenticação por magic-link.",
+  "source_repo": "mcp-dir/mpt_al_cnf-mcp",
+  "source_url": "https://github.com/mcp-dir/mpt_al_cnf-mcp",
+  "install": "npx -y mpt_al_cnf-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kingbuilds-mcp-server",
+  "description": "Provides sandboxed file operations, web scraping, data transformation, and authenticated HTTP requests with SSRF protection.",
+  "source_repo": "Emberphoenix33/kingbuilds-mcp-server",
+  "source_url": "https://github.com/Emberphoenix33/kingbuilds-mcp-server",
+  "install": "npx -y kingbuilds-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gallica-mcp",
+  "description": "Enables searching and accessing OCR text from millions of digitized documents in Gallica, the digital library of the Bibliothèque nationale de France, through MCP tools for text search, snippet retrieval, and full-text download.",
+  "source_repo": "nestordemeure/gallica-mcp",
+  "source_url": "https://github.com/nestordemeure/gallica-mcp",
+  "install": "npx -y gallica-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "health-mcp",
+  "description": "Exposes personal Garmin wellness data through MCP tools for accessing summary, sleep, HRV, heart rate, stress, body battery, and historical data.",
+  "source_repo": "jonathan249/health-mcp",
+  "source_url": "https://github.com/jonathan249/health-mcp",
+  "install": "npx -y health-mcp"
+}

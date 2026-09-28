@@ -1,0 +1,7 @@
+{
+  "name": "outset-mcp",
+  "description": "Connects AI agents to the Outset research platform for creating studies, managing recruitment, and querying results via the Model Context Protocol.",
+  "source_repo": "Outset-AI/outset-mcp",
+  "source_url": "https://github.com/Outset-AI/outset-mcp",
+  "install": "npx -y outset-mcp"
+}

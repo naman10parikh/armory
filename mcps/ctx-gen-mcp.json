@@ -1,0 +1,7 @@
+{
+  "name": "ctx-gen-mcp",
+  "description": "Generates progressive-disclosure code context documentation (L0/L1/L2/L3) for large projects, helping AI coding agents understand codebases efficiently.",
+  "source_repo": "liubinmaster/ctx-gen-mcp",
+  "source_url": "https://github.com/liubinmaster/ctx-gen-mcp",
+  "install": "npx -y ctx-gen-mcp"
+}

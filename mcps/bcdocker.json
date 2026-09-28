@@ -1,0 +1,7 @@
+{
+  "name": "bcdocker",
+  "description": "MCP server for managing Business Central Docker containers, enabling AI assistants to list, create, test, and manage BC sandboxes via natural language.",
+  "source_repo": "olederkach/bcdocker",
+  "source_url": "https://github.com/olederkach/bcdocker",
+  "install": "# git clone --depth 1 https://github.com/olederkach/bcdocker\n# See source for mcpServers config block"
+}

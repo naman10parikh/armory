@@ -1,0 +1,7 @@
+{
+  "name": "japan-company-leads-finder-mcp",
+  "description": "B2B lead generation for Japan: search 1M+ companies by size, capital, location, and government-subsidy history, with executive names and procurement records.",
+  "source_repo": "fujimura-ui/japan-company-leads-mcp",
+  "source_url": "https://github.com/fujimura-ui/japan-company-leads-mcp",
+  "install": "npx -y japan-company-leads-mcp"
+}

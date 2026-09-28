@@ -1,0 +1,7 @@
+{
+  "name": "next-js-docs-mcp-server",
+  "description": "Provides up-to-date Next.js 16 documentation to MCP clients, enabling instant lookups, version-specific examples, and secure use inside IDE assistants.",
+  "source_repo": "muhammadsuheer/nextjs-docs-mcp",
+  "source_url": "https://github.com/muhammadsuheer/nextjs-docs-mcp",
+  "install": "npx -y nextjs-docs-mcp"
+}

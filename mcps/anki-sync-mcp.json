@@ -1,0 +1,7 @@
+{
+  "name": "anki-sync-mcp",
+  "description": "A headless, sync-native Anki MCP sidecar that lets AI agents safely manage a real Anki collection without Anki Desktop or AnkiConnect, supporting sync with AnkiWeb or self-hosted servers.",
+  "source_repo": "raslab/anki-sync-mcp",
+  "source_url": "https://github.com/raslab/anki-sync-mcp",
+  "install": "npx -y anki-sync-mcp"
+}

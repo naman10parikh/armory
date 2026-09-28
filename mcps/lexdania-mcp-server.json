@@ -1,0 +1,7 @@
+{
+  "name": "lexdania-mcp-server",
+  "description": "A Model Context Protocol (MCP) server running on Cloudflare Workers. It enables AI models to query, structurally inspect, and perform RAG-based Q&A over Danish legislation published on Retsinformation.dk using their underlying LexDania XML.",
+  "source_repo": "loevstroem/lexdania-mcp",
+  "source_url": "https://github.com/loevstroem/lexdania-mcp",
+  "install": "npx -y lexdania-mcp"
+}

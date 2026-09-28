@@ -1,0 +1,7 @@
+{
+  "name": "sportmonks-mcp-server",
+  "description": "A Model Context Protocol server for the Sportmonks Football API v3, providing over 150 tools to access football data including fixtures, teams, players, odds, predictions, and more.",
+  "source_repo": "ferasbbm/sportmonks-mcp-server",
+  "source_url": "https://github.com/ferasbbm/sportmonks-mcp-server",
+  "install": "npx -y sportmonks-mcp-server"
+}

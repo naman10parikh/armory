@@ -1,0 +1,7 @@
+{
+  "name": "rockfish-mcp-server",
+  "description": "Enables interaction with the Rockfish AI platform for synthetic data generation, dataset management, and ML workflow orchestration through tools like TabGAN training and Manta analytics.",
+  "source_repo": "Rockfish-Data/rockfish-mcp",
+  "source_url": "https://github.com/Rockfish-Data/rockfish-mcp",
+  "install": "npx -y rockfish-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codebase-visualizer",
+  "description": "Provides a code graph querying and visualization MCP server, enabling users to search, trace, and describe code components, overlay diffs, and explore architecture through natural language.",
+  "source_repo": "NicoV7/codebase-visualizer",
+  "source_url": "https://github.com/NicoV7/codebase-visualizer",
+  "install": "# git clone --depth 1 https://github.com/NicoV7/codebase-visualizer\n# See source for mcpServers config block"
+}

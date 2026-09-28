@@ -1,0 +1,7 @@
+{
+  "name": "soapstone",
+  "description": "Context-anchored gotcha notes for LLM agents that surface warnings at the point of relevance, and allows leaving new notes via MCP tools.",
+  "source_repo": "PropterMalone/soapstone",
+  "source_url": "https://github.com/PropterMalone/soapstone",
+  "install": "# git clone --depth 1 https://github.com/PropterMalone/soapstone\n# See source for mcpServers config block"
+}

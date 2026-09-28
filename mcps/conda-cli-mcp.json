@@ -1,0 +1,7 @@
+{
+  "name": "conda-cli-mcp",
+  "description": "Enables AI assistants to interact with conda CLI commands through the Model Context Protocol, providing structured tools for built-in and plugin commands while enforcing configurable read-only, write, and exec policies.",
+  "source_repo": "jezdez/conda-cli-mcp",
+  "source_url": "https://github.com/jezdez/conda-cli-mcp",
+  "install": "npx -y conda-cli-mcp"
+}

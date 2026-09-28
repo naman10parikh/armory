@@ -1,0 +1,7 @@
+{
+  "name": "binaryninja-mcp",
+  "description": "Enables interaction with Binary Ninja for binary analysis and reverse engineering, providing tools and resources to examine binaries, decompile functions, and manage symbols through natural language.",
+  "source_repo": "MCPPhalanx/binaryninja-mcp",
+  "source_url": "https://github.com/MCPPhalanx/binaryninja-mcp",
+  "install": "npx -y binaryninja-mcp"
+}

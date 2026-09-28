@@ -1,0 +1,7 @@
+{
+  "name": "apidog-tests-mcp",
+  "description": "MCP server for managing Apidog test cases, scenarios, suites, and test data, providing full read/write access to Apidog's test management features.",
+  "source_repo": "acabala/apidog-tests-mcp",
+  "source_url": "https://github.com/acabala/apidog-tests-mcp",
+  "install": "npx -y apidog-tests-mcp"
+}

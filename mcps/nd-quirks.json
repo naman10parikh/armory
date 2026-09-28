@@ -1,0 +1,7 @@
+{
+  "name": "nd-quirks",
+  "description": "An MCP Server that leverages notes written in Markdown, tailored for developing Cisco Nexus Dashboard applications using the REST API.",
+  "source_repo": "allenrobel/nd-quirks",
+  "source_url": "https://github.com/allenrobel/nd-quirks",
+  "install": "# git clone --depth 1 https://github.com/allenrobel/nd-quirks\n# See source for mcpServers config block"
+}

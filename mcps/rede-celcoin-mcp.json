@@ -1,0 +1,7 @@
+{
+  "name": "rede-celcoin-mcp",
+  "description": "Enables AI assistants to query Rede Celcoin account balances, statements, credit card bills, and investments via Open Finance Brazil (read-only, regulated by the Central Bank).",
+  "source_repo": "mcp-dir/redecelcoin-mcp",
+  "source_url": "https://github.com/mcp-dir/redecelcoin-mcp",
+  "install": "npx -y redecelcoin-mcp"
+}

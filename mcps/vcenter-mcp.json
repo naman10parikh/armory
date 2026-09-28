@@ -1,0 +1,7 @@
+{
+  "name": "vcenter-mcp",
+  "description": "Enables plain English queries about VMware vCenter environments including clusters, VMs, datastores, and more, directly from VS Code via GitHub Copilot.",
+  "source_repo": "veg-salad/vcenter_mcp",
+  "source_url": "https://github.com/veg-salad/vcenter_mcp",
+  "install": "npx -y vcenter_mcp"
+}

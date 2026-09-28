@@ -1,0 +1,7 @@
+{
+  "name": "gdelt-mcp-server",
+  "description": "Provides access to the GDELT DOC 2.0 API for searching global news articles and images across 65 languages with customizable timespans and query options.",
+  "source_repo": "MissionSquad/mcp-gdelt",
+  "source_url": "https://github.com/MissionSquad/mcp-gdelt",
+  "install": "# git clone --depth 1 https://github.com/MissionSquad/mcp-gdelt\n# See source for mcpServers config block"
+}

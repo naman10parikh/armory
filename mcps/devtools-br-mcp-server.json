@@ -1,0 +1,7 @@
+{
+  "name": "devtools-br-mcp-server",
+  "description": "MCP server for generating and validating Brazilian documents (CPF, CNPJ, CNH, RG, PIS/PASEP, RENAVAM), encoding/decoding data (Base64, MD5, SHA1, URL), and performing text utilities like removing accents, reversing, and analyzing text.",
+  "source_repo": "joao-baza/DevTools-BR",
+  "source_url": "https://github.com/joao-baza/DevTools-BR",
+  "install": "# git clone --depth 1 https://github.com/joao-baza/DevTools-BR\n# See source for mcpServers config block"
+}

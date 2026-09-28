@@ -1,0 +1,7 @@
+{
+  "name": "datalastic-mcp-server",
+  "description": "Enables real-time vessel tracking, port data, maritime weather, and maritime intelligence through 25 tools, allowing AI clients to query live vessel positions, registry, port info, area searches, weather, and more.",
+  "source_repo": "datalastic/mcp-server-datalastic",
+  "source_url": "https://github.com/datalastic/mcp-server-datalastic",
+  "install": "# git clone --depth 1 https://github.com/datalastic/mcp-server-datalastic\n# See source for mcpServers config block"
+}

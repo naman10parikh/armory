@@ -1,0 +1,7 @@
+{
+  "name": "portfolio-analytics-mcp",
+  "description": "MCP server providing portfolio analytics tools: beta to a benchmark, sector correlation, and FIFO trade matching with realized/unrealized P&L using Yahoo Finance prices.",
+  "source_repo": "quanttrucker/portfolio-analytics-mcp",
+  "source_url": "https://github.com/quanttrucker/portfolio-analytics-mcp",
+  "install": "npx -y portfolio-analytics-mcp"
+}

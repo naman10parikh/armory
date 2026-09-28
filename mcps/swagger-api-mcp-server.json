@@ -1,0 +1,7 @@
+{
+  "name": "swagger-api-mcp-server",
+  "description": "Parses Swagger 2.0 and OpenAPI 3.x specifications, exposing API endpoints, schemas, and authentication through MCP tools with local caching to reduce token usage.",
+  "source_repo": "NekoTarou/swagger-api-mcp-server",
+  "source_url": "https://github.com/NekoTarou/swagger-api-mcp-server",
+  "install": "npx -y swagger-api-mcp-server"
+}

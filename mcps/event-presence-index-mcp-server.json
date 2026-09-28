@@ -1,0 +1,7 @@
+{
+  "name": "event-presence-index-mcp-server",
+  "description": "Enables mapping a company's publicly stated event presence by returning the conferences and trade shows it attends, with years, from a domain. Built on the Mamba Labs Event Presence Index actor on Apify.",
+  "source_repo": "mambalabsdev/mcp-event-presence-index",
+  "source_url": "https://github.com/mambalabsdev/mcp-event-presence-index",
+  "install": "# git clone --depth 1 https://github.com/mambalabsdev/mcp-event-presence-index\n# See source for mcpServers config block"
+}

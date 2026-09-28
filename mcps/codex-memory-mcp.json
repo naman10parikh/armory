@@ -1,0 +1,7 @@
+{
+  "name": "codex-memory-mcp",
+  "description": "Local-first, durable knowledge-card RAG for Codex, enabling search, retrieval, and maintenance of reusable experience cards.",
+  "source_repo": "liangjie78/codex-memory-mcp",
+  "source_url": "https://github.com/liangjie78/codex-memory-mcp",
+  "install": "npx -y codex-memory-mcp"
+}

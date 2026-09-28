@@ -1,0 +1,7 @@
+{
+  "name": "dcc-mcp-substance3d-painter",
+  "description": "Enables AI agents to control Substance 3D Painter, inspecting projects and exporting texture sets via a secure preset-based tool.",
+  "source_repo": "dcc-mcp/dcc-mcp-substance3d-painter",
+  "source_url": "https://github.com/dcc-mcp/dcc-mcp-substance3d-painter",
+  "install": "# git clone --depth 1 https://github.com/dcc-mcp/dcc-mcp-substance3d-painter\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "marketplace-finder-mcp-server",
+  "description": "Enables AI agents like claude.ai to search online marketplaces (e.g., Facebook Marketplace) through your own logged-in browser, returning structured listings and details.",
+  "source_repo": "wynnset/marketplace-mcp",
+  "source_url": "https://github.com/wynnset/marketplace-mcp",
+  "install": "npx -y marketplace-mcp"
+}

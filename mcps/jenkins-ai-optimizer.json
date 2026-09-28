@@ -1,0 +1,7 @@
+{
+  "name": "jenkins-ai-optimizer",
+  "description": "Enterprise-grade MCP server for Jenkins CI/CD integration that enables AI assistants to diagnose build failures, analyze pipelines, and search logs through natural conversation.",
+  "source_repo": "karadHub/jenkins-ai-optimizer",
+  "source_url": "https://github.com/karadHub/jenkins-ai-optimizer",
+  "install": "# git clone --depth 1 https://github.com/karadHub/jenkins-ai-optimizer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sregym-incident-replay-gate",
+  "description": "Prove your SRE agent can resolve incidents before production by replaying synthetic incidents and scoring agent performance via MCP tools.",
+  "source_repo": "clauxel/sregym-incident-replay-gate-mcp",
+  "source_url": "https://github.com/clauxel/sregym-incident-replay-gate-mcp",
+  "install": "npx -y sregym-incident-replay-gate-mcp"
+}

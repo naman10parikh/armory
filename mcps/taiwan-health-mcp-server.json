@@ -1,0 +1,7 @@
+{
+  "name": "taiwan-health-mcp-server",
+  "description": "Integrates Taiwan health data and international medical standards, providing 28 MCP tools for diagnostics, drugs, lab tests, and clinical guidelines via FHIR R4.",
+  "source_repo": "healthymind-tech/Taiwan-Health-MCP",
+  "source_url": "https://github.com/healthymind-tech/Taiwan-Health-MCP",
+  "install": "npx -y Taiwan-Health-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "public-procurement-mcp",
+  "description": "Neutral MCP server for researching public procurement notices from EU (TED) and German (DÖE) sources, offering tools to search, retrieve, and inspect notices without built-in business preferences.",
+  "source_repo": "asept1977/public-procurement-mcp",
+  "source_url": "https://github.com/asept1977/public-procurement-mcp",
+  "install": "npx -y public-procurement-mcp"
+}

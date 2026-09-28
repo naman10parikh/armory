@@ -1,0 +1,7 @@
+{
+  "name": "beaver-mcp",
+  "description": "Provides Google Maps search, navigation, and travel time estimation alongside Lunch Money financial management, all accessible via a Cloudflare Workers MCP server with OAuth authentication.",
+  "source_repo": "alanko0511/beaver-mcp",
+  "source_url": "https://github.com/alanko0511/beaver-mcp",
+  "install": "npx -y beaver-mcp"
+}

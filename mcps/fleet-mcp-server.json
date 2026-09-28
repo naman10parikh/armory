@@ -1,0 +1,7 @@
+{
+  "name": "fleet-mcp-server",
+  "description": "Enables semantic search, recommendations, and similar crate lookups for Rust crates via vector embeddings.",
+  "source_repo": "SuperInstance/fleet-mcp-server",
+  "source_url": "https://github.com/SuperInstance/fleet-mcp-server",
+  "install": "npx -y fleet-mcp-server"
+}

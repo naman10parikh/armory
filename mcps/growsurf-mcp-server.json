@@ -1,0 +1,7 @@
+{
+  "name": "growsurf-mcp-server",
+  "description": "Enables AI agents to create, configure, and manage GrowSurf referral and affiliate programs, track participants, and analyze campaign performance using plain language.",
+  "source_repo": "growsurf/growsurf-mcp",
+  "source_url": "https://github.com/growsurf/growsurf-mcp",
+  "install": "npx -y growsurf-mcp"
+}

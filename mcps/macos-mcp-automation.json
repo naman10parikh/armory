@@ -1,0 +1,7 @@
+{
+  "name": "macos-mcp-automation",
+  "description": "Enables macOS system automation, window management, and productivity tools for AI agents, including running AppleScripts, opening apps, retrieving browser tabs, taking screenshots, and controlling system settings.",
+  "source_repo": "rzafiamy/macos_mcp",
+  "source_url": "https://github.com/rzafiamy/macos_mcp",
+  "install": "npx -y macos_mcp"
+}

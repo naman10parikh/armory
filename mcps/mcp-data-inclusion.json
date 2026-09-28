@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-inclusion",
+  "description": "MCP server that exposes French public APIs (Data Inclusion, Légifrance, La Bonne Alternance) as tools for LLMs, enabling social, legal, and employment assistance.",
+  "source_repo": "drewano/France-GPT",
+  "source_url": "https://github.com/drewano/France-GPT",
+  "install": "# git clone --depth 1 https://github.com/drewano/France-GPT\n# See source for mcpServers config block"
+}

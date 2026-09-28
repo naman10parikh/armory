@@ -1,0 +1,7 @@
+{
+  "name": "judicature-mcp",
+  "description": "Enables searching the ak-vrana.cz website for articles by keywords and extracting webpage content to Markdown format.",
+  "source_repo": "danospanos/mcp-caselaw-server-cz",
+  "source_url": "https://github.com/danospanos/mcp-caselaw-server-cz",
+  "install": "# git clone --depth 1 https://github.com/danospanos/mcp-caselaw-server-cz\n# See source for mcpServers config block"
+}

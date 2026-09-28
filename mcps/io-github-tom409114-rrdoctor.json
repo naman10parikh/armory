@@ -1,0 +1,7 @@
+{
+  "name": "io-github-tom409114-rrdoctor",
+  "description": "Get your research artifact ready for Artifact Evaluation before the deadline: scan the repo, scaffold the easy fixes, verify the run path, and generate the appendix.",
+  "source_repo": "Tom409114/research-repo-doctor",
+  "source_url": "https://github.com/Tom409114/research-repo-doctor",
+  "install": "# git clone --depth 1 https://github.com/Tom409114/research-repo-doctor\n# See source for mcpServers config block"
+}

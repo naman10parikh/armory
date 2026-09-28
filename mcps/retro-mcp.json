@@ -1,0 +1,7 @@
+{
+  "name": "retro-mcp",
+  "description": "Generates sprint retrospectives grounded in actual data from Jira, GitHub, and Slack, providing evidence-backed insights and action items.",
+  "source_repo": "sathvic-kollu/retro-mcp",
+  "source_url": "https://github.com/sathvic-kollu/retro-mcp",
+  "install": "npx -y retro-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "io-github-gsterlingpress-once",
+  "description": "MCP server that prevents duplicate side effects in AI agents by using idempotency keys and durable receipts, ensuring actions like refunds, emails, or orders execute exactly once even across retries.",
+  "source_repo": "GSterlingPress/once-api",
+  "source_url": "https://github.com/GSterlingPress/once-api",
+  "install": "# git clone --depth 1 https://github.com/GSterlingPress/once-api\n# See source for mcpServers config block"
+}

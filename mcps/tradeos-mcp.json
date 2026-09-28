@@ -1,0 +1,7 @@
+{
+  "name": "tradeos-mcp",
+  "description": "Connects TradeOS trading intelligence to MCP-compatible AI tools, enabling natural language-driven market analysis, ticker search, spread comparison, macro context, and custom trading agent management.",
+  "source_repo": "TradeOS-AI/tradeos-mcp",
+  "source_url": "https://github.com/TradeOS-AI/tradeos-mcp",
+  "install": "npx -y tradeos-mcp"
+}

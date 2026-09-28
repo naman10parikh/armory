@@ -1,0 +1,7 @@
+{
+  "name": "keymem",
+  "description": "Associative key-graph memory for LLM agents — recall facts by association (recall → read_key → read_memory) instead of vector similarity alone, with persistent cross-session memory and cross-lingual keys.",
+  "source_repo": "donggyun112/keymem",
+  "source_url": "https://github.com/donggyun112/keymem",
+  "install": "# git clone --depth 1 https://github.com/donggyun112/keymem\n# See source for mcpServers config block"
+}

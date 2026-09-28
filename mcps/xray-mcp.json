@@ -1,0 +1,7 @@
+{
+  "name": "xray-mcp",
+  "description": "An MCP server that integrates Cursor IDE with Xray Test Management for Jira, enabling management of tests, test executions, test plans, and import/export operations.",
+  "source_repo": "Korfu/mcp-xray",
+  "source_url": "https://github.com/Korfu/mcp-xray",
+  "install": "# git clone --depth 1 https://github.com/Korfu/mcp-xray\n# See source for mcpServers config block"
+}

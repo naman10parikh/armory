@@ -1,0 +1,7 @@
+{
+  "name": "hrt-pk-mcp",
+  "description": "Enables recording hormone dosing events and querying predicted blood concentration for estradiol and testosterone using pharmacokinetic algorithms, supporting multiple administration routes.",
+  "source_repo": "lfcypo/hrt_pk_mcp",
+  "source_url": "https://github.com/lfcypo/hrt_pk_mcp",
+  "install": "npx -y hrt_pk_mcp"
+}

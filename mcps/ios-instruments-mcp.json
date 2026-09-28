@@ -1,0 +1,7 @@
+{
+  "name": "ios-instruments-mcp",
+  "description": "Enables natural language profiling of iOS apps using xctrace (Instruments) for performance analysis like launch time, memory leaks, CPU usage, and network requests.",
+  "source_repo": "bfernandesbfs/ios-instruments-mcp",
+  "source_url": "https://github.com/bfernandesbfs/ios-instruments-mcp",
+  "install": "npx -y ios-instruments-mcp"
+}

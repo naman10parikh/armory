@@ -1,0 +1,7 @@
+{
+  "name": "photo-ai-studio-mcp-server",
+  "description": "Enables AI photo generation, editing, and video creation from MCP-compatible clients like Claude Desktop, Cursor, and Windsurf.",
+  "source_repo": "photo-ai-studio/photo-ai-studio-mcp",
+  "source_url": "https://github.com/photo-ai-studio/photo-ai-studio-mcp",
+  "install": "npx -y photo-ai-studio-mcp"
+}

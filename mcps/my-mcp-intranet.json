@@ -1,0 +1,7 @@
+{
+  "name": "my-mcp-intranet",
+  "description": "A cluster of 8 independent MCP servers for intranet automation, enabling file operations, browser automation, data query, and system monitoring through natural language.",
+  "source_repo": "TsuiVincent/my-mcp-server",
+  "source_url": "https://github.com/TsuiVincent/my-mcp-server",
+  "install": "npx -y my-mcp-server"
+}

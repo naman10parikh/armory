@@ -1,0 +1,7 @@
+{
+  "name": "google-drive-mcp-2",
+  "description": "A Model Context Protocol server for Google Drive API v3, enabling AI agents like Claude to manage files, folders, and sharing.",
+  "source_repo": "software-engineer-mj/google-drive-mcp",
+  "source_url": "https://github.com/software-engineer-mj/google-drive-mcp",
+  "install": "npx -y google-drive-mcp"
+}

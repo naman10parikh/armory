@@ -1,0 +1,7 @@
+{
+  "name": "pdf2mcp",
+  "description": "Turn any PDF folder into a searchable MCP server with semantic, hybrid, or keyword search.",
+  "source_repo": "iSamBa/pdf2mcp",
+  "source_url": "https://github.com/iSamBa/pdf2mcp",
+  "install": "# git clone --depth 1 https://github.com/iSamBa/pdf2mcp\n# See source for mcpServers config block"
+}

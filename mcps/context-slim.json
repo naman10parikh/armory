@@ -1,0 +1,7 @@
+{
+  "name": "context-slim",
+  "description": "Provides an MCP server for AI coding agents to fetch AST-slimmed source files that keep critical logic like try/catch, auth, and Eloquent relations, cutting context tokens by 50%+.",
+  "source_repo": "lilite572-cyber/context-slim",
+  "source_url": "https://github.com/lilite572-cyber/context-slim",
+  "install": "# git clone --depth 1 https://github.com/lilite572-cyber/context-slim\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "spark-customer-agent-mcp-server",
+  "description": "Enables natural language shopping through Walmart's backend API, supporting product discovery, cart management, coupon handling, and order history.",
+  "source_repo": "khushal1512/spark-mcp",
+  "source_url": "https://github.com/khushal1512/spark-mcp",
+  "install": "npx -y spark-mcp"
+}

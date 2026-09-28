@@ -1,0 +1,7 @@
+{
+  "name": "gq-insight-mcp",
+  "description": "Enables semantic search and grounded answering over customer-research interviews, with every answer traceable to source quotes.",
+  "source_repo": "yusufdxb/gq-insight-mcp",
+  "source_url": "https://github.com/yusufdxb/gq-insight-mcp",
+  "install": "npx -y gq-insight-mcp"
+}

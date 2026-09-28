@@ -1,0 +1,7 @@
+{
+  "name": "rail-connector-mcp",
+  "description": "Local MCP bridge that lets Codex operate local Claude Code sessions, including listing, starting, resuming, forking, prompting, and stopping conversations via the Remote Control CLI.",
+  "source_repo": "SNComrade/Rail-Connector-MCP",
+  "source_url": "https://github.com/SNComrade/Rail-Connector-MCP",
+  "install": "npx -y Rail-Connector-MCP"
+}

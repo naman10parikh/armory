@@ -1,0 +1,7 @@
+{
+  "name": "ownership-provenance-protocol",
+  "description": "An MCP server that enforces explicit task ownership acceptance and requires a provenance tag (observed, reviewed, or reported) on every completion claim, preventing silent inheritance and unverified assertions in multi-agent systems.",
+  "source_repo": "bg4ff8mtdn-dotcom/ownership-provenance-protocol",
+  "source_url": "https://github.com/bg4ff8mtdn-dotcom/ownership-provenance-protocol",
+  "install": "# git clone --depth 1 https://github.com/bg4ff8mtdn-dotcom/ownership-provenance-protocol\n# See source for mcpServers config block"
+}

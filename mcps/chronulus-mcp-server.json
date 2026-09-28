@@ -1,0 +1,7 @@
+{
+  "name": "chronulus-mcp-server",
+  "description": "Enables interaction with Chronulus AI forecasting and prediction agents through natural language, allowing users to generate forecasts and predictions directly in Claude.",
+  "source_repo": "fastmcp-me/chronulus-mcp-ChronulusAI",
+  "source_url": "https://github.com/fastmcp-me/chronulus-mcp-ChronulusAI",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/chronulus-mcp-ChronulusAI\n# See source for mcpServers config block"
+}

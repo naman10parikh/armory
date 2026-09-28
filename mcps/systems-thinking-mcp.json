@@ -1,0 +1,7 @@
+{
+  "name": "systems-thinking-mcp",
+  "description": "Provides systems thinking models as composable analysis lenses for architecture, infrastructure, DevOps, incident analysis, and technical decision-making.",
+  "source_repo": "davidpanter/systems-thinking",
+  "source_url": "https://github.com/davidpanter/systems-thinking",
+  "install": "# git clone --depth 1 https://github.com/davidpanter/systems-thinking\n# See source for mcpServers config block"
+}

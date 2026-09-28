@@ -1,0 +1,7 @@
+{
+  "name": "forecast-mcp",
+  "description": "Enable any AI agent to forecast time-series data (e.g., sales, traffic) using Google's TimesFM or a zero-dependency statistical baseline.",
+  "source_repo": "ramdhavepreetam/timesfm-mcp",
+  "source_url": "https://github.com/ramdhavepreetam/timesfm-mcp",
+  "install": "npx -y timesfm-mcp"
+}

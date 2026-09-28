@@ -1,0 +1,7 @@
+{
+  "name": "famulor-mcp",
+  "description": "Control your Famulor AI voice agents — calls, leads, campaigns, knowledge bases, conversations, WhatsApp, SIP trunks — directly from Claude, Cursor, Windsurf, VS Code and any other MCP-compatible client.",
+  "source_repo": "bekservice/Famulor-MCP",
+  "source_url": "https://github.com/bekservice/Famulor-MCP",
+  "install": "npx -y Famulor-MCP"
+}

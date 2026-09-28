@@ -1,0 +1,7 @@
+{
+  "name": "agentdocket",
+  "description": "A shared, append-only docket for coordinating coding agents with total order, full-text search, and enforced independence claims via SSH-based remote access.",
+  "source_repo": "quadrismegistus/agentdocket",
+  "source_url": "https://github.com/quadrismegistus/agentdocket",
+  "install": "# git clone --depth 1 https://github.com/quadrismegistus/agentdocket\n# See source for mcpServers config block"
+}

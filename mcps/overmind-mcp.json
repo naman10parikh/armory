@@ -1,0 +1,7 @@
+{
+  "name": "overmind-mcp",
+  "description": "Orchestrates and controls multiple AI agent CLIs (Claude-Code, Gemini-cli, etc.) via a unified MCP server, enabling complex multi-agent missions with shared memory and HTTP singleton architecture.",
+  "source_repo": "DeamonDev888/overmind-mcp",
+  "source_url": "https://github.com/DeamonDev888/overmind-mcp",
+  "install": "npx -y overmind-mcp"
+}

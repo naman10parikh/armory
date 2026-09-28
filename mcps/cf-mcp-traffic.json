@@ -1,0 +1,7 @@
+{
+  "name": "cf-mcp-traffic",
+  "description": "Exposes Cloudflare HTTP traffic and firewall analytics to Claude Code via MCP tools, including a deterministic suspicion scorer.",
+  "source_repo": "Greta221/cf-mcp-traffic",
+  "source_url": "https://github.com/Greta221/cf-mcp-traffic",
+  "install": "# git clone --depth 1 https://github.com/Greta221/cf-mcp-traffic\n# See source for mcpServers config block"
+}

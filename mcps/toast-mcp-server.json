@@ -1,0 +1,7 @@
+{
+  "name": "toast-mcp-server",
+  "description": "Enables AI assistants to manage restaurant operations by integrating with Toast POS, including orders, menus, employees, payments, inventory, and reporting through 50+ tools and 18 React apps.",
+  "source_repo": "BusyBee3333/toast-mcp-2026-complete",
+  "source_url": "https://github.com/BusyBee3333/toast-mcp-2026-complete",
+  "install": "# git clone --depth 1 https://github.com/BusyBee3333/toast-mcp-2026-complete\n# See source for mcpServers config block"
+}

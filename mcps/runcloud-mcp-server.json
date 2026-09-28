@@ -1,0 +1,7 @@
+{
+  "name": "runcloud-mcp-server",
+  "description": "Exposes the RunCloud v3 API to AI assistants, allowing natural language querying and management of servers with safety profiles for destructive operations.",
+  "source_repo": "josephmcgarvey/runcloud-mcp-server",
+  "source_url": "https://github.com/josephmcgarvey/runcloud-mcp-server",
+  "install": "npx -y runcloud-mcp-server"
+}

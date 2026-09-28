@@ -1,0 +1,7 @@
+{
+  "name": "mcp-cpg-agent-protocols",
+  "description": "Provides CPG agent protocols, signals, and standards for agentic commerce, including tools to query protocol canon, signals, and header configurations.",
+  "source_repo": "greencore-solutions/cpg-agent-protocols",
+  "source_url": "https://github.com/greencore-solutions/cpg-agent-protocols",
+  "install": "# git clone --depth 1 https://github.com/greencore-solutions/cpg-agent-protocols\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pavan-madduri-personal-knowledge-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that exposes a professional profile — certifications, industry articles, open source contributions, and live GitHub activity — as a queryable API for AI agents.",
+  "source_repo": "pmady/pavan-profile-mcp",
+  "source_url": "https://github.com/pmady/pavan-profile-mcp",
+  "install": "npx -y pavan-profile-mcp"
+}

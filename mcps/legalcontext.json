@@ -1,0 +1,7 @@
+{
+  "name": "legalcontext",
+  "description": "Enables secure access to legal documents from Clio via Claude Desktop, with local processing and semantic search to ground AI responses in actual documents.",
+  "source_repo": "protomated/legal-context-ce",
+  "source_url": "https://github.com/protomated/legal-context-ce",
+  "install": "# git clone --depth 1 https://github.com/protomated/legal-context-ce\n# See source for mcpServers config block"
+}

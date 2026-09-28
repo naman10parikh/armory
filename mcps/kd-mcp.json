@@ -1,0 +1,7 @@
+{
+  "name": "kd-mcp",
+  "description": "Controls kd.exe for KDNET kernel debugging on Windows, often paired with winrm-mcp for guest VM setup over WinRM.",
+  "source_repo": "haoylle/26_KD-MCP",
+  "source_url": "https://github.com/haoylle/26_KD-MCP",
+  "install": "npx -y 26_KD-MCP"
+}

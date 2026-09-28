@@ -1,0 +1,7 @@
+{
+  "name": "cursor-context-mcp",
+  "description": "MCP server providing filesystem allowlist and pack-aware Qdrant RAG search. Enables reading files, listing directories, and performing filtered RAG searches with case and pack IDs.",
+  "source_repo": "tomaxtoLuca/cursor-context-mcp",
+  "source_url": "https://github.com/tomaxtoLuca/cursor-context-mcp",
+  "install": "npx -y cursor-context-mcp"
+}

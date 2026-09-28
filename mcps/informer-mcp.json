@@ -1,0 +1,7 @@
+{
+  "name": "informer-mcp",
+  "description": "MCP server for the Informer bookkeeping API, providing direct access to relations, invoices, quotations, orders, receipts, products, and financial reports.",
+  "source_repo": "vladxyz/informer-mcp",
+  "source_url": "https://github.com/vladxyz/informer-mcp",
+  "install": "npx -y informer-mcp"
+}

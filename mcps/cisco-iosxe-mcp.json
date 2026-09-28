@@ -1,0 +1,7 @@
+{
+  "name": "cisco-iosxe-mcp",
+  "description": "MCP server that exposes Cisco IOS-XE devices as tools for LLM clients, enabling safe configuration changes with revert timer and connectivity verification.",
+  "source_repo": "anderson-jason573/cisco-iosxe-mcp",
+  "source_url": "https://github.com/anderson-jason573/cisco-iosxe-mcp",
+  "install": "npx -y cisco-iosxe-mcp"
+}

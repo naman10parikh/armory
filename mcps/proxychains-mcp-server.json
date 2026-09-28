@@ -1,0 +1,7 @@
+{
+  "name": "proxychains-mcp-server",
+  "description": "Enables dynamic management and execution of proxy chains on a remote Linux host via SSH, allowing AI assistants to route network traffic through proxies for privacy and security testing.",
+  "source_repo": "schwarztim/sec-proxychains-mcp",
+  "source_url": "https://github.com/schwarztim/sec-proxychains-mcp",
+  "install": "npx -y sec-proxychains-mcp"
+}

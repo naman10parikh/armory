@@ -1,0 +1,7 @@
+{
+  "name": "mpc-poc-1-echoservertoolsbasicas",
+  "description": "A learning-oriented MCP server that exposes basic tools (echo, add, reverse) over stdio transport to validate MCP handshake and tool calls.",
+  "source_repo": "mzoffoli85/MPC-PoC-1-EchoServerToolsbasicas",
+  "source_url": "https://github.com/mzoffoli85/MPC-PoC-1-EchoServerToolsbasicas",
+  "install": "# git clone --depth 1 https://github.com/mzoffoli85/MPC-PoC-1-EchoServerToolsbasicas\n# See source for mcpServers config block"
+}

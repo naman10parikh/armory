@@ -1,0 +1,7 @@
+{
+  "name": "walletbureau",
+  "description": "MCP server that scores the behavioral risk of a wallet on Base before sending it money. Provides a risk score, verdict, and explainable flags based on USDC payment history.",
+  "source_repo": "walletbureau/mcp",
+  "source_url": "https://github.com/walletbureau/mcp",
+  "install": "# git clone --depth 1 https://github.com/walletbureau/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "handshake-mcp",
+  "description": "Enables AI assistants to search and apply for jobs on Handshake, track applications, and research employers using your browser session.",
+  "source_repo": "shahparam11/handshake-mcp-server",
+  "source_url": "https://github.com/shahparam11/handshake-mcp-server",
+  "install": "npx -y handshake-mcp-server"
+}

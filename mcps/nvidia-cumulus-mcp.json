@@ -1,0 +1,7 @@
+{
+  "name": "nvidia-cumulus-mcp",
+  "description": "MCP server that integrates with the Cumulus Linux OS via NVUE API to read network configuration, interfaces, bridges, VRFs, BGP, and other network information.",
+  "source_repo": "JohnAlexiades/nvidia-cumulus-mcp",
+  "source_url": "https://github.com/JohnAlexiades/nvidia-cumulus-mcp",
+  "install": "npx -y nvidia-cumulus-mcp"
+}

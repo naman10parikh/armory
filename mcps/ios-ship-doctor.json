@@ -1,0 +1,7 @@
+{
+  "name": "ios-ship-doctor",
+  "description": "Enables AI assistants to diagnose and fix iOS app issues that cause App Store rejections, such as missing privacy manifests, permission strings, and test credentials, before submission.",
+  "source_repo": "menansali/ios-ship-doctor",
+  "source_url": "https://github.com/menansali/ios-ship-doctor",
+  "install": "# git clone --depth 1 https://github.com/menansali/ios-ship-doctor\n# See source for mcpServers config block"
+}

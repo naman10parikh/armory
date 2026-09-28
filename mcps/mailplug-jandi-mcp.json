@@ -1,0 +1,7 @@
+{
+  "name": "mailplug-jandi-mcp",
+  "description": "MCP server for Mailplug email workflows and JANDI notifications, providing tools to build and send JANDI messages via webhook.",
+  "source_repo": "nimbuswsj/mailplug-jandi-mcp",
+  "source_url": "https://github.com/nimbuswsj/mailplug-jandi-mcp",
+  "install": "npx -y mailplug-jandi-mcp"
+}

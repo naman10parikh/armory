@@ -1,0 +1,7 @@
+{
+  "name": "gupy-candidate-mcp",
+  "description": "MCP server that converts Gupy job listings into structured data, candidate fit analysis, and preparation templates for AI clients, enabling candidates to better understand and apply to jobs with AI assistance.",
+  "source_repo": "leonardobora/gupy-candidate-mcp",
+  "source_url": "https://github.com/leonardobora/gupy-candidate-mcp",
+  "install": "npx -y gupy-candidate-mcp"
+}

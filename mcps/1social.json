@@ -1,0 +1,7 @@
+{
+  "name": "1social",
+  "description": "Post to Instagram, TikTok, LinkedIn, X (Twitter), Facebook, Threads and Bluesky from a single message. 1Social fits each caption to the network's limit, warns when a network needs an image, and schedules posts up to 30 days ahead. After publishing it reports each network separately — what landed, wh",
+  "source_repo": "sultanlive/1social-mcp",
+  "source_url": "https://github.com/sultanlive/1social-mcp",
+  "install": "npx -y 1social-mcp"
+}

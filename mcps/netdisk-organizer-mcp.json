@@ -1,0 +1,7 @@
+{
+  "name": "netdisk-organizer-mcp",
+  "description": "Enables intelligent organization and retrieval of Baidu Netdisk files through semantic scanning, event clustering, and structured queries. Adds safety with protected moves, undo history, and customizable profiles, building on the official Baidu Netdisk MCP data layer.",
+  "source_repo": "andykair55-byte/baidunetdisk-MCP",
+  "source_url": "https://github.com/andykair55-byte/baidunetdisk-MCP",
+  "install": "npx -y baidunetdisk-MCP"
+}

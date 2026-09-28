@@ -1,0 +1,7 @@
+{
+  "name": "par5-mcp",
+  "description": "An MCP server that enables parallel execution of shell commands and AI coding agents across lists of items, perfect for batch processing files and delegating complex tasks to multiple AI agents simultaneously.",
+  "source_repo": "mathematic-inc/par5-mcp",
+  "source_url": "https://github.com/mathematic-inc/par5-mcp",
+  "install": "npx -y par5-mcp"
+}

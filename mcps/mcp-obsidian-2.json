@@ -1,0 +1,7 @@
+{
+  "name": "mcp-obsidian-2",
+  "description": "MCP server for interacting with Obsidian via the Local REST API, enabling file operations, search, and content editing in your vault.",
+  "source_repo": "kyleect/mcp-wiki",
+  "source_url": "https://github.com/kyleect/mcp-wiki",
+  "install": "# git clone --depth 1 https://github.com/kyleect/mcp-wiki\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentdata-mcp-server",
+  "description": "Connects AI agents to AgentData's company intelligence platform, enabling natural language queries for structured company data like tech stacks, emails, people, and signals.",
+  "source_repo": "nick-timms/agentdata-mcp-server",
+  "source_url": "https://github.com/nick-timms/agentdata-mcp-server",
+  "install": "npx -y agentdata-mcp-server"
+}

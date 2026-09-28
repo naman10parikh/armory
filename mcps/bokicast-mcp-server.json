@@ -1,0 +1,7 @@
+{
+  "name": "bokicast-mcp-server",
+  "description": "An MCP server that visualizes bookkeeping elements like journal entries and T-accounts, enabling AI characters to autonomously teach and solve bookkeeping problems.",
+  "source_repo": "lambda-tuber/bokicast-mcp-server",
+  "source_url": "https://github.com/lambda-tuber/bokicast-mcp-server",
+  "install": "npx -y bokicast-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "detran-al-infra-es",
+  "description": "Hosted MCP server for querying traffic fines (infrações) from the official DETRAN AL source in Brazil, offering a read-only consultation tool with prepaid credits, no credentials required, and compatible with multiple MCP clients.",
+  "source_repo": "mcp-dir/detran_al_infracoes-mcp",
+  "source_url": "https://github.com/mcp-dir/detran_al_infracoes-mcp",
+  "install": "npx -y detran_al_infracoes-mcp"
+}

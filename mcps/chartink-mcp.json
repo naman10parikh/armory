@@ -1,0 +1,7 @@
+{
+  "name": "chartink-mcp",
+  "description": "An MCP server that lets Claude or any MCP-compatible AI agent run Chartink stock screeners and backtests for the Indian market directly from a chat.",
+  "source_repo": "shahparthiv/chartink-mcp",
+  "source_url": "https://github.com/shahparthiv/chartink-mcp",
+  "install": "npx -y chartink-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "node-opcua-modeler-mcp-server",
+  "description": "Provides AI agents with offline access to OPC UA companion specification types, dependencies, and engineering units for industrial modeling.",
+  "source_repo": "node-opcua/node-opcua-modeler-mcp-server",
+  "source_url": "https://github.com/node-opcua/node-opcua-modeler-mcp-server",
+  "install": "npx -y node-opcua-modeler-mcp-server"
+}

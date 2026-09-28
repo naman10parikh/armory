@@ -1,0 +1,7 @@
+{
+  "name": "tasqr-mcp-2",
+  "description": "Enables task state management for AI agents with secure credential handling and optional client-side encryption via a local stdio proxy.",
+  "source_repo": "tasqrai/tasqr-mcp-python",
+  "source_url": "https://github.com/tasqrai/tasqr-mcp-python",
+  "install": "# git clone --depth 1 https://github.com/tasqrai/tasqr-mcp-python\n# See source for mcpServers config block"
+}

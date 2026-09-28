@@ -1,0 +1,7 @@
+{
+  "name": "mcp-minecraft-remote",
+  "description": "Enables AI assistants to remotely control a Minecraft player, including navigation, mining, building, and interaction with the world and other players.",
+  "source_repo": "hudayiarici/mcp-minecraft-remote",
+  "source_url": "https://github.com/hudayiarici/mcp-minecraft-remote",
+  "install": "# git clone --depth 1 https://github.com/hudayiarici/mcp-minecraft-remote\n# See source for mcpServers config block"
+}

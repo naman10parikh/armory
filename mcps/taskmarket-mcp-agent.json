@@ -1,0 +1,7 @@
+{
+  "name": "taskmarket-mcp-agent",
+  "description": "MCP server for Taskmarket onchain task marketplace on Base L2. Enables AI agents to discover, browse, create, claim, and submit work to Taskmarket through natural language.",
+  "source_repo": "prayItCompiles/taskmarket-mcp-agent",
+  "source_url": "https://github.com/prayItCompiles/taskmarket-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/prayItCompiles/taskmarket-mcp-agent\n# See source for mcpServers config block"
+}

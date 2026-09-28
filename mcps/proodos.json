@@ -1,0 +1,7 @@
+{
+  "name": "proodos",
+  "description": "x402 protocol",
+  "source_repo": "eng24as0059-gif/Proodos",
+  "source_url": "https://github.com/eng24as0059-gif/Proodos",
+  "install": "# git clone --depth 1 https://github.com/eng24as0059-gif/Proodos\n# See source for mcpServers config block"
+}

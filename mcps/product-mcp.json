@@ -1,0 +1,7 @@
+{
+  "name": "product-mcp",
+  "description": "MCP server for ERP product operations that enables AI agents to precheck product packages, upload files, and create products automatically without manual token copying.",
+  "source_repo": "Bohaohao/product-mcp",
+  "source_url": "https://github.com/Bohaohao/product-mcp",
+  "install": "npx -y product-mcp"
+}

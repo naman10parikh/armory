@@ -1,0 +1,7 @@
+{
+  "name": "keyshade-mcp",
+  "description": "MCP server for interacting with Keyshade's secrets management platform, enabling secure retrieval and management of secrets via natural language.",
+  "source_repo": "keyshade-xyz/keyshade-mcp",
+  "source_url": "https://github.com/keyshade-xyz/keyshade-mcp",
+  "install": "npx -y keyshade-mcp"
+}

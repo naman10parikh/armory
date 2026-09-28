@@ -1,0 +1,7 @@
+{
+  "name": "wellington-transport-assistant",
+  "description": "Provides tools to search stops, get next departures, and retrieve service alerts from Metlink's real-time public transport data, enabling natural language queries about Wellington transit.",
+  "source_repo": "sdhilip200/metlink-mcp",
+  "source_url": "https://github.com/sdhilip200/metlink-mcp",
+  "install": "npx -y metlink-mcp"
+}

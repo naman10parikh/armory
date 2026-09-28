@@ -1,0 +1,7 @@
+{
+  "name": "appsmith-mcp",
+  "description": "An MCP server that enables AI agents to build and edit Appsmith apps by driving the browser editor via WebDriver BiDi and Redux store manipulation.",
+  "source_repo": "t0knight/appsmith-mcp",
+  "source_url": "https://github.com/t0knight/appsmith-mcp",
+  "install": "npx -y appsmith-mcp"
+}

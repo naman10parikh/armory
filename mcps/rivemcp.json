@@ -1,0 +1,7 @@
+{
+  "name": "rivemcp",
+  "description": "Enables AI assistants to create and edit Rive animations through 139 MCP tools, supporting shapes, animations, state machines, physics, and export to .riv or .rev files.",
+  "source_repo": "paradoxsyn/rivemcp-releases",
+  "source_url": "https://github.com/paradoxsyn/rivemcp-releases",
+  "install": "# git clone --depth 1 https://github.com/paradoxsyn/rivemcp-releases\n# See source for mcpServers config block"
+}

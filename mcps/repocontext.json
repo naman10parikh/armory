@@ -1,0 +1,7 @@
+{
+  "name": "repocontext",
+  "description": "Next-gen AST codebase map, token compression (70%~85% savings), and context packaging engine for AI coding agents & IDEs.",
+  "source_repo": "ILoveMyJay/repocontext",
+  "source_url": "https://github.com/ILoveMyJay/repocontext",
+  "install": "# git clone --depth 1 https://github.com/ILoveMyJay/repocontext\n# See source for mcpServers config block"
+}

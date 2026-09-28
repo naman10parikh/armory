@@ -1,0 +1,7 @@
+{
+  "name": "sgis-mcp",
+  "description": "Enables users to query Korean demographic statistics (population, households, housing) and view them as choropleth maps via MCP tools.",
+  "source_repo": "nds12345-ko/sgis-mcp",
+  "source_url": "https://github.com/nds12345-ko/sgis-mcp",
+  "install": "npx -y sgis-mcp"
+}

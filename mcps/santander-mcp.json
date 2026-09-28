@@ -1,0 +1,7 @@
+{
+  "name": "santander-mcp",
+  "description": "Connects Santander bank accounts via Open Finance Brasil to AI assistants, enabling read-only queries on balances, statements, credit card bills, and investments.",
+  "source_repo": "mcp-dir/santander-mcp",
+  "source_url": "https://github.com/mcp-dir/santander-mcp",
+  "install": "npx -y santander-mcp"
+}

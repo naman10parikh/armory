@@ -1,0 +1,7 @@
+{
+  "name": "battle-arena-mcp",
+  "description": "Enables AI agents to run battles, tournaments, and analyze strategies in the Battle Arena game programmatically.",
+  "source_repo": "Oscarlight/battle-arena-mcp",
+  "source_url": "https://github.com/Oscarlight/battle-arena-mcp",
+  "install": "npx -y battle-arena-mcp"
+}

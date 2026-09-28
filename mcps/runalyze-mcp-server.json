@@ -1,0 +1,7 @@
+{
+  "name": "runalyze-mcp-server",
+  "description": "Enables AI assistants to access and analyze health metrics from Runalyze, including HRV, sleep, resting heart rate, and activities, through the Model Context Protocol.",
+  "source_repo": "floriankimmel/runalyze-mcp-server",
+  "source_url": "https://github.com/floriankimmel/runalyze-mcp-server",
+  "install": "npx -y runalyze-mcp-server"
+}

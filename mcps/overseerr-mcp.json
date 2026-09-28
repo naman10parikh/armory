@@ -1,0 +1,7 @@
+{
+  "name": "overseerr-mcp",
+  "description": "Enables searching Overseerr media, retrieving TMDB-backed details, and submitting movie or TV requests through MCP tools.",
+  "source_repo": "jmagar/overseerr-mcp",
+  "source_url": "https://github.com/jmagar/overseerr-mcp",
+  "install": "npx -y overseerr-mcp"
+}

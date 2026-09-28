@@ -1,0 +1,7 @@
+{
+  "name": "fcc-broadband-mcp-server",
+  "description": "Access FCC broadband availability, coverage analysis, and digital divide data for US geographies and census blocks via MCP.",
+  "source_repo": "cyanheads/fcc-broadband-mcp-server",
+  "source_url": "https://github.com/cyanheads/fcc-broadband-mcp-server",
+  "install": "npx -y fcc-broadband-mcp-server"
+}

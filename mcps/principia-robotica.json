@@ -1,0 +1,7 @@
+{
+  "name": "principia-robotica",
+  "description": "World-first unified MCP gateway + Control Barrier Function (CBF-QP) safety engine for agentic robotics, enabling LLMs to control physical robots with mathematically proven safety.",
+  "source_repo": "EngineerAbdullahBinZafar/principia-robotica",
+  "source_url": "https://github.com/EngineerAbdullahBinZafar/principia-robotica",
+  "install": "# git clone --depth 1 https://github.com/EngineerAbdullahBinZafar/principia-robotica\n# See source for mcpServers config block"
+}

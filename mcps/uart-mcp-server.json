@@ -1,0 +1,7 @@
+{
+  "name": "uart-mcp-server",
+  "description": "Enables reading UART logs from Windows serial ports and sending text to the UART through MCP, with an optional Tkinter UI for local monitoring.",
+  "source_repo": "zhang-firmware/UART-MCP-Server",
+  "source_url": "https://github.com/zhang-firmware/UART-MCP-Server",
+  "install": "npx -y UART-MCP-Server"
+}

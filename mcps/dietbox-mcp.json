@@ -1,0 +1,7 @@
+{
+  "name": "dietbox-mcp",
+  "description": "An MCP server for nutritionists to manage patients, prescriptions, anthropometry, and meal plans, integrating with Claude, Cursor, and other AI agents.",
+  "source_repo": "mcp-dir/dietbox-mcp",
+  "source_url": "https://github.com/mcp-dir/dietbox-mcp",
+  "install": "npx -y dietbox-mcp"
+}

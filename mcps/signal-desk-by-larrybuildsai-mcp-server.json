@@ -1,0 +1,7 @@
+{
+  "name": "signal-desk-by-larrybuildsai-mcp-server",
+  "description": "Enables buyer-side spend-routing preflights before larger paid agent tool calls, with bounded planning and public-data evidence.",
+  "source_repo": "LarryLemonBot/signal-desk-mcp-server",
+  "source_url": "https://github.com/LarryLemonBot/signal-desk-mcp-server",
+  "install": "npx -y signal-desk-mcp-server"
+}

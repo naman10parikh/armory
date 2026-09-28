@@ -1,0 +1,7 @@
+{
+  "name": "ibm-sales-guidance-mcp-server",
+  "description": "Enables Bob to ask questions to IBM AskSales, search playbooks and competitive intel, generate client roadmaps, and check Watson + AskSales connectivity status.",
+  "source_repo": "slaphen1/ibm-sales-guidance-mcp",
+  "source_url": "https://github.com/slaphen1/ibm-sales-guidance-mcp",
+  "install": "npx -y ibm-sales-guidance-mcp"
+}

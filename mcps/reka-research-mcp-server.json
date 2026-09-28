@@ -1,0 +1,7 @@
+{
+  "name": "reka-research-mcp-server",
+  "description": "Enables AI-powered fact-checking and similarity search via the Reka Research API, with tools to verify claims and find similar items by attributes.",
+  "source_repo": "reka-ai/reka-research-mcp",
+  "source_url": "https://github.com/reka-ai/reka-research-mcp",
+  "install": "npx -y reka-research-mcp"
+}

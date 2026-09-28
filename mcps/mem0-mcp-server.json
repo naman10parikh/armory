@@ -1,0 +1,7 @@
+{
+  "name": "mem0-mcp-server",
+  "description": "A local Mem0 memory system integrated with Anthropic Claude via MCP, enabling persistent memory for AI interactions with vector and graph storage.",
+  "source_repo": "o2alexanderfedin/mem0-mcp-server",
+  "source_url": "https://github.com/o2alexanderfedin/mem0-mcp-server",
+  "install": "npx -y mem0-mcp-server"
+}

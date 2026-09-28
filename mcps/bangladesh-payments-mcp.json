@@ -1,0 +1,7 @@
+{
+  "name": "bangladesh-payments-mcp",
+  "description": "Enables AI agents to accept payments in Bangladesh via bKash, Nagad, Rocket, cards, and internet banking through SSLCommerz hosted checkout.",
+  "source_repo": "junter1989k-ai/bangladesh-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/bangladesh-payments-mcp",
+  "install": "npx -y bangladesh-payments-mcp"
+}

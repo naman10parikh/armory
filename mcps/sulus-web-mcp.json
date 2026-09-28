@@ -1,0 +1,7 @@
+{
+  "name": "sulus-web-mcp",
+  "description": "Enables live-web research by providing stateless browsing, link extraction, and page search capabilities via Playwright, allowing agents to fetch and analyze web content without session management.",
+  "source_repo": "rajurayhan/sulus-web-mcp",
+  "source_url": "https://github.com/rajurayhan/sulus-web-mcp",
+  "install": "npx -y sulus-web-mcp"
+}

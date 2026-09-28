@@ -1,0 +1,7 @@
+{
+  "name": "healthcare-opendata-mcp",
+  "description": "Provides SQL-queryable access to Taiwan's healthcare open data (NHI and Ministry of Health and Welfare procurement) via MCP tools, enabling natural language queries and data analysis.",
+  "source_repo": "trionnemesis/healthcare-opendata-mcp",
+  "source_url": "https://github.com/trionnemesis/healthcare-opendata-mcp",
+  "install": "npx -y healthcare-opendata-mcp"
+}

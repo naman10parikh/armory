@@ -1,0 +1,7 @@
+{
+  "name": "css-tutor",
+  "description": "Acts as a CSS Tutor, providing personalized updates about CSS features by fetching latest news, tracking user knowledge, and guiding AI clients.",
+  "source_repo": "3mdistal/css-mcp-server",
+  "source_url": "https://github.com/3mdistal/css-mcp-server",
+  "install": "npx -y css-mcp-server"
+}

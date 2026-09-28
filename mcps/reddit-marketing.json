@@ -1,0 +1,7 @@
+{
+  "name": "reddit-marketing",
+  "description": "AI-powered Reddit marketing automation via Model Context Protocol, enabling smart search, audience analysis, engagement finding, and comment generation.",
+  "source_repo": "1036007003-wq/reddit-mcp-server",
+  "source_url": "https://github.com/1036007003-wq/reddit-mcp-server",
+  "install": "npx -y reddit-mcp-server"
+}

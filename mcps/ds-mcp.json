@@ -1,0 +1,7 @@
+{
+  "name": "ds-mcp",
+  "description": "A read-only MCP server that provides AI coding agents with a queryable contract for design system tokens, components, patterns, and anti-patterns.",
+  "source_repo": "aestheticfunction/ds-mcp",
+  "source_url": "https://github.com/aestheticfunction/ds-mcp",
+  "install": "npx -y ds-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aws-cost-mcp",
+  "description": "Enables querying AWS Cost and Usage Report data via Amazon Athena for cost-effective and detailed cost analysis.",
+  "source_repo": "CRED-CLUB/aws-cost-mcp",
+  "source_url": "https://github.com/CRED-CLUB/aws-cost-mcp",
+  "install": "npx -y aws-cost-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "contextslim-2",
+  "description": "MCP server for pruning large JSON contexts and handling x402 micropayments on Base, optimizing AI agent token usage and latency.",
+  "source_repo": "friczerocom-cpu/contextslim-python",
+  "source_url": "https://github.com/friczerocom-cpu/contextslim-python",
+  "install": "# git clone --depth 1 https://github.com/friczerocom-cpu/contextslim-python\n# See source for mcpServers config block"
+}

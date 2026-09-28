@@ -1,0 +1,7 @@
+{
+  "name": "gmail-send",
+  "description": "Enables AI agents to send emails via Gmail using App Password authentication with Markdown content support.",
+  "source_repo": "baddif/mcp-server-gmail-send",
+  "source_url": "https://github.com/baddif/mcp-server-gmail-send",
+  "install": "# git clone --depth 1 https://github.com/baddif/mcp-server-gmail-send\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "remarkable-mcp-server",
+  "description": "Enables AI assistants to read, search, and traverse your entire reMarkable library, including handwritten notes via OCR.",
+  "source_repo": "SamMorrowDrums/remarkable-mcp",
+  "source_url": "https://github.com/SamMorrowDrums/remarkable-mcp",
+  "install": "npx -y remarkable-mcp"
+}

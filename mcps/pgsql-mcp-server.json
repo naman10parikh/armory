@@ -1,0 +1,7 @@
+{
+  "name": "pgsql-mcp-server",
+  "description": "Enables interaction with PostgreSQL databases through MCP, supporting queries, DDL, DML, and schema inspection.",
+  "source_repo": "twn39/pgsql-mcp-server",
+  "source_url": "https://github.com/twn39/pgsql-mcp-server",
+  "install": "npx -y pgsql-mcp-server"
+}

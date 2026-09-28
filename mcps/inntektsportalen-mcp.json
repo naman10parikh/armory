@@ -1,0 +1,7 @@
+{
+  "name": "inntektsportalen-mcp",
+  "description": "MCP server that enables AI assistants to securely access and manage personal financial data from Inntektsportalen (Norwegian income portal) with fine-grained scope-based authorization via OAuth2.",
+  "source_repo": "voicebillz/inntektsportalen-mcp",
+  "source_url": "https://github.com/voicebillz/inntektsportalen-mcp",
+  "install": "npx -y inntektsportalen-mcp"
+}

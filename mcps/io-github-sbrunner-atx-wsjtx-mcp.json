@@ -1,0 +1,7 @@
+{
+  "name": "io-github-sbrunner-atx-wsjtx-mcp",
+  "description": "An MCP server that controls WSJT-X for amateur radio weak-signal modes (FT8/FT4, etc.) via UDP, enabling observation of status and decodes, and transmit operations like replying to CQs or sending free text.",
+  "source_repo": "sbrunner-atx/wsjtx-mcp",
+  "source_url": "https://github.com/sbrunner-atx/wsjtx-mcp",
+  "install": "npx -y wsjtx-mcp"
+}

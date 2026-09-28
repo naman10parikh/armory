@@ -1,0 +1,7 @@
+{
+  "name": "agentradio-mcp",
+  "description": "A Python MCP server that provides AgentRadio primitives (create_thread, send_message, wait_for_mention) for agents across different workspaces to collaborate over a shared radio channel via SQLite or HTTP hub.",
+  "source_repo": "atristannewman/agentradio-mcp",
+  "source_url": "https://github.com/atristannewman/agentradio-mcp",
+  "install": "npx -y agentradio-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rankedtoday-mcp",
+  "description": "This MCP server provides League of Legends math and cognitive-readiness tools for AI agents, including MMR estimation, climb projection, KDA calculation, and sleep/reaction time research. It requires no API key or network calls, as every tool is a pure function with visible arithmetic.",
+  "source_repo": "RyanKramer/rankedtoday-mcp",
+  "source_url": "https://github.com/RyanKramer/rankedtoday-mcp",
+  "install": "npx -y rankedtoday-mcp"
+}

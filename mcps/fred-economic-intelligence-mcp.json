@@ -1,0 +1,7 @@
+{
+  "name": "fred-economic-intelligence-mcp",
+  "description": "An MCP server that provides economic intelligence using FRED data, including series search, metadata, observations, comparisons, and a curated macroeconomic knowledge graph with GraphRAG, digital twin simulation, and explainability.",
+  "source_repo": "prithvi1029/fred-economic-intelligence-mcp",
+  "source_url": "https://github.com/prithvi1029/fred-economic-intelligence-mcp",
+  "install": "npx -y fred-economic-intelligence-mcp"
+}

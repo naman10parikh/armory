@@ -1,0 +1,7 @@
+{
+  "name": "marl-book-mcp",
+  "description": "Provides an LLM with search, page retrieval, and chapter reading capabilities for the book 'Multi-Agent Reinforcement Learning: Foundations and Modern Approaches'.",
+  "source_repo": "BNJ02/marl-book-mcp",
+  "source_url": "https://github.com/BNJ02/marl-book-mcp",
+  "install": "npx -y marl-book-mcp"
+}

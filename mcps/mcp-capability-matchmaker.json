@@ -1,0 +1,7 @@
+{
+  "name": "mcp-capability-matchmaker",
+  "description": "An MCP gateway and offline catalog CLI that aggregates multiple upstream MCP servers into a single stdio endpoint, and provides tool recommendation and catalog inspection without connecting to upstreams.",
+  "source_repo": "ywh0606/mcp-capability-matchmaker",
+  "source_url": "https://github.com/ywh0606/mcp-capability-matchmaker",
+  "install": "# git clone --depth 1 https://github.com/ywh0606/mcp-capability-matchmaker\n# See source for mcpServers config block"
+}

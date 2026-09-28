@@ -1,0 +1,7 @@
+{
+  "name": "bikerouter-mcp",
+  "description": "Enables planning bike routes using the BRouter engine, with support for waypoints, route profiles, and exporting routes as GPX or other formats.",
+  "source_repo": "mzorz/bikerouter-mcp",
+  "source_url": "https://github.com/mzorz/bikerouter-mcp",
+  "install": "npx -y bikerouter-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kartverket-mcp",
+  "description": "MCP server that wraps Kartverket's open APIs for Norwegian geographic data including place names, addresses, elevation, municipalities, properties, statistical districts, and building points. Requires no authentication.",
+  "source_repo": "3121n/nor-data-kartverket-mcp",
+  "source_url": "https://github.com/3121n/nor-data-kartverket-mcp",
+  "install": "npx -y nor-data-kartverket-mcp"
+}

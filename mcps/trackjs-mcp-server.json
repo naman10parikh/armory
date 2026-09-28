@@ -1,0 +1,7 @@
+{
+  "name": "trackjs-mcp-server",
+  "description": "A Model Context Protocol server for TrackJS error monitoring that allows you to query and analyze your JavaScript errors.",
+  "source_repo": "thrivecausemetics/trackjs-mcp",
+  "source_url": "https://github.com/thrivecausemetics/trackjs-mcp",
+  "install": "npx -y trackjs-mcp"
+}

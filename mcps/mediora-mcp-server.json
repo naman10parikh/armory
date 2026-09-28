@@ -1,0 +1,7 @@
+{
+  "name": "mediora-mcp-server",
+  "description": "Exposes a doctor-reviewed medical catalog of blood-test markers, clinical conditions, and patient symptoms as MCP tools in English, Russian, and Hebrew, supporting both anonymous queries and authenticated patient data analysis.",
+  "source_repo": "SLAtech-IL/mediora-mcp",
+  "source_url": "https://github.com/SLAtech-IL/mediora-mcp",
+  "install": "npx -y mediora-mcp"
+}

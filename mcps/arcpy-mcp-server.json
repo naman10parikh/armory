@@ -1,0 +1,7 @@
+{
+  "name": "arcpy-mcp-server",
+  "description": "Enables AI agents to perform spatial analysis in ArcGIS Pro using natural language by exposing all ArcGIS Pro toolboxes as MCP tools.",
+  "source_repo": "zhaojj662/arcpy-mcp-server",
+  "source_url": "https://github.com/zhaojj662/arcpy-mcp-server",
+  "install": "npx -y arcpy-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "onchain-alpha-lab-mcp",
+  "description": "Paid remote MCP server for crypto research workflows: onchain token screening, new-pool case reviews, Twitter/X content analysis, and KOL historical tweet distillation.",
+  "source_repo": "destinyyg/onchain-alpha-mcp",
+  "source_url": "https://github.com/destinyyg/onchain-alpha-mcp",
+  "install": "npx -y onchain-alpha-mcp"
+}

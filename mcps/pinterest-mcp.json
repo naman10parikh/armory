@@ -1,0 +1,7 @@
+{
+  "name": "pinterest-mcp",
+  "description": "Extracts images, gifs, videos, and search results from Pinterest without authentication. Supports search, pin details, board pins, related pins, autocomplete, and media downloads.",
+  "source_repo": "Martin-Code202/pinterest-mcp",
+  "source_url": "https://github.com/Martin-Code202/pinterest-mcp",
+  "install": "npx -y pinterest-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "memkeeper",
+  "description": "Local-first memory for AI agents. On-device hybrid retrieval over a single SQLite file.",
+  "source_repo": "teflon07/memkeeper",
+  "source_url": "https://github.com/teflon07/memkeeper",
+  "install": "# git clone --depth 1 https://github.com/teflon07/memkeeper\n# See source for mcpServers config block"
+}

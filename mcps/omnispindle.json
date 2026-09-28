@@ -1,0 +1,7 @@
+{
+  "name": "omnispindle",
+  "description": "A Python FastMCP server with 33 tools that lets AI agents manage tasks, capture knowledge, and coordinate sessions across projects via a unified interface.",
+  "source_repo": "MadnessEngineering/Omnispindle",
+  "source_url": "https://github.com/MadnessEngineering/Omnispindle",
+  "install": "# git clone --depth 1 https://github.com/MadnessEngineering/Omnispindle\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "job-mcp",
+  "description": "Enables multi-source tech job search and application with CV-based skill extraction, deduplication, and scoring across HireMeTech, Comeet, and AllJobs, supporting autonomous or supervised workflows.",
+  "source_repo": "zvieli/TechJobMCP",
+  "source_url": "https://github.com/zvieli/TechJobMCP",
+  "install": "# git clone --depth 1 https://github.com/zvieli/TechJobMCP\n# See source for mcpServers config block"
+}

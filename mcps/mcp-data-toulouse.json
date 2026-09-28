@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-toulouse",
+  "description": "Toulouse Métropole Open Data MCP server. Enables searching datasets, retrieving metadata, and querying records using ODSQL.",
+  "source_repo": "pipeworx-io/mcp-data-toulouse",
+  "source_url": "https://github.com/pipeworx-io/mcp-data-toulouse",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-data-toulouse\n# See source for mcpServers config block"
+}

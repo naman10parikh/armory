@@ -1,0 +1,7 @@
+{
+  "name": "doc-bridge",
+  "description": "Turn repository documentation into deterministic, executable handoffs for coding agents through MCP, CLI, and CI—without an LLM or API key.",
+  "source_repo": "AgentsKit-io/doc-bridge",
+  "source_url": "https://github.com/AgentsKit-io/doc-bridge",
+  "install": "# git clone --depth 1 https://github.com/AgentsKit-io/doc-bridge\n# See source for mcpServers config block"
+}

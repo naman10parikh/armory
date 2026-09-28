@@ -1,0 +1,7 @@
+{
+  "name": "ableton-dj-mcp",
+  "description": "Enables AI-assisted electronic music production in Ableton Live, with built-in genre theory for indie dance, tech house, melodic techno, and house music.",
+  "source_repo": "gabrielpulga/ableton-dj-mcp",
+  "source_url": "https://github.com/gabrielpulga/ableton-dj-mcp",
+  "install": "npx -y ableton-dj-mcp"
+}

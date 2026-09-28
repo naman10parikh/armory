@@ -1,0 +1,7 @@
+{
+  "name": "doctolib-mcp",
+  "description": "MCP server for Doctolib that enables searching practitioners, checking availability, and booking or canceling appointments across Doctolib Germany, France, and Italy.",
+  "source_repo": "esinecan/doctolib-mcp",
+  "source_url": "https://github.com/esinecan/doctolib-mcp",
+  "install": "npx -y doctolib-mcp"
+}

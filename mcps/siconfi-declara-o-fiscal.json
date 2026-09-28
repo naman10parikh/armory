@@ -1,0 +1,7 @@
+{
+  "name": "siconfi-declara-o-fiscal",
+  "description": "MCP server for consulting Brazilian fiscal declaration data (SICONFI) from official sources. Provides a single read-only tool for users to query fiscal information through natural language.",
+  "source_repo": "mcp-dir/siconfi_declaracao-mcp",
+  "source_url": "https://github.com/mcp-dir/siconfi_declaracao-mcp",
+  "install": "npx -y siconfi_declaracao-mcp"
+}

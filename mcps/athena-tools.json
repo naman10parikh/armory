@@ -1,0 +1,7 @@
+{
+  "name": "athena-tools",
+  "description": "A Claude Code extension that embeds a senior athenahealth integration engineer in your development workflow, proactively catching data loss bugs and guiding safe DataView queries and API integrations.",
+  "source_repo": "nous-ehr/claude_pallas_extension",
+  "source_url": "https://github.com/nous-ehr/claude_pallas_extension",
+  "install": "# git clone --depth 1 https://github.com/nous-ehr/claude_pallas_extension\n# See source for mcpServers config block"
+}

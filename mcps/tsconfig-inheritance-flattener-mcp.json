@@ -1,0 +1,7 @@
+{
+  "name": "tsconfig-inheritance-flattener-mcp",
+  "description": "Resolves TypeScript config inheritance chains to reveal effective compiler options, resolves path aliases to physical files, and validates project references for AI agents.",
+  "source_repo": "vola-trebla/tsconfig-inheritance-flattener-mcp",
+  "source_url": "https://github.com/vola-trebla/tsconfig-inheritance-flattener-mcp",
+  "install": "npx -y tsconfig-inheritance-flattener-mcp"
+}

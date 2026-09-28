@@ -1,0 +1,7 @@
+{
+  "name": "downdetector-mcp",
+  "description": "This server enables checking real-time service status and outage information from Downdetector for various services and regions.",
+  "source_repo": "domdomegg/downdetector-mcp",
+  "source_url": "https://github.com/domdomegg/downdetector-mcp",
+  "install": "npx -y downdetector-mcp"
+}

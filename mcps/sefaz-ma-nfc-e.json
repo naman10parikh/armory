@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-ma-nfc-e",
+  "description": "MCP server for consulting NFC-e (Brazilian electronic consumer invoices) from SEFAZ MA (Maranhão state tax authority) via official sources. Read-only, works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/sefaz_ma_nfce-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_ma_nfce-mcp",
+  "install": "npx -y sefaz_ma_nfce-mcp"
+}

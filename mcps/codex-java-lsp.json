@@ -1,0 +1,7 @@
+{
+  "name": "codex-java-lsp",
+  "description": "A Codex MCP server that provides low-token Java semantic navigation using source indexing and optionally JDT Language Server for enhanced symbol, references, and diagnostics.",
+  "source_repo": "lkyprogramer/codex-java-lsp-mcp",
+  "source_url": "https://github.com/lkyprogramer/codex-java-lsp-mcp",
+  "install": "npx -y codex-java-lsp-mcp"
+}

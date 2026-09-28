@@ -1,0 +1,7 @@
+{
+  "name": "swisstopo-mcp",
+  "description": "MCP server for Swiss federal geodata -- maps, elevation, geocoding, cadastral extracts, and downloadable datasets via Swisstopo APIs.",
+  "source_repo": "malkreide/swisstopo-mcp",
+  "source_url": "https://github.com/malkreide/swisstopo-mcp",
+  "install": "npx -y swisstopo-mcp"
+}

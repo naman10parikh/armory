@@ -1,0 +1,7 @@
+{
+  "name": "ansys-aedt-mcp",
+  "description": "Enables AI agents to control Ansys Electronics Desktop (HFSS, Maxwell, Q3D, etc.) using MCP tools for simulation automation.",
+  "source_repo": "LaplaceYoung/ansys-aedt-mcp",
+  "source_url": "https://github.com/LaplaceYoung/ansys-aedt-mcp",
+  "install": "npx -y ansys-aedt-mcp"
+}

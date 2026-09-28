@@ -1,0 +1,7 @@
+{
+  "name": "gth-intelligence-substance-abuse-treatment-finder",
+  "description": "Search 12,338 curated, SAMHSA-sourced addiction treatment facilities across all 50 US states.",
+  "source_repo": "Crindo2/gth-mcp-server",
+  "source_url": "https://github.com/Crindo2/gth-mcp-server",
+  "install": "npx -y gth-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "predictalot",
+  "description": "MCP server for predictalot, providing streamable HTTP tools for zero-shot time-series forecasting with multiple foundation models and per-type ensembles. Tabular ML endpoints are currently HTTP-only.",
+  "source_repo": "psyb0t/docker-predictalot",
+  "source_url": "https://github.com/psyb0t/docker-predictalot",
+  "install": "# git clone --depth 1 https://github.com/psyb0t/docker-predictalot\n# See source for mcpServers config block"
+}

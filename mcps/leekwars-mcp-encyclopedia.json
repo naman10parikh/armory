@@ -1,0 +1,7 @@
+{
+  "name": "leekwars-mcp-encyclopedia",
+  "description": "A standalone MCP server for read-only encyclopedia search and retrieval of Leekwars game knowledge, providing domain-aware tools to search and retrieve pages about chips, weapons, effects, and game mechanics.",
+  "source_repo": "Zleub/leekwars-mcp-encyclopedia",
+  "source_url": "https://github.com/Zleub/leekwars-mcp-encyclopedia",
+  "install": "# git clone --depth 1 https://github.com/Zleub/leekwars-mcp-encyclopedia\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ptx-mcp",
+  "description": "Provides tools to read and compare scripture text from local Paratext project folders, enabling natural-language queries for verses, chapters, books, and cross-project comparisons.",
+  "source_repo": "Nathan22Miles/PtxMCP",
+  "source_url": "https://github.com/Nathan22Miles/PtxMCP",
+  "install": "# git clone --depth 1 https://github.com/Nathan22Miles/PtxMCP\n# See source for mcpServers config block"
+}

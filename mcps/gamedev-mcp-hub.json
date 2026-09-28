@@ -1,0 +1,7 @@
+{
+  "name": "gamedev-mcp-hub",
+  "description": "Aggregates game-development MCP servers (Blender, Godot, GitHub, Obsidian) behind one interface for AI clients, with smart task routing and a local GUI for multi-client support.",
+  "source_repo": "finasteos/gamedev-mcp-hub",
+  "source_url": "https://github.com/finasteos/gamedev-mcp-hub",
+  "install": "# git clone --depth 1 https://github.com/finasteos/gamedev-mcp-hub\n# See source for mcpServers config block"
+}

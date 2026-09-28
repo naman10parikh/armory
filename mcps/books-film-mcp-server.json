@@ -1,0 +1,7 @@
+{
+  "name": "books-film-mcp-server",
+  "description": "A comprehensive MCP server for searching books, films, and scholarly publications across multiple APIs like Open Library, Google Books, TMDb, and Crossref, with advanced filtering and deduplication.",
+  "source_repo": "baraninja/film-books-mcp",
+  "source_url": "https://github.com/baraninja/film-books-mcp",
+  "install": "npx -y film-books-mcp"
+}

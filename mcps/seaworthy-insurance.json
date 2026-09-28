@@ -1,0 +1,7 @@
+{
+  "name": "seaworthy-insurance",
+  "description": "Disability insurance quote intake and coverage guidance for high-income professionals. Provides a quote_request action that files a lead with a licensed brokerage, plus read-only tools for specialty guidance, carrier comparison, benefit-cap math, and rider definitions.",
+  "source_repo": "seaworthy-io/seaworthy-mcp",
+  "source_url": "https://github.com/seaworthy-io/seaworthy-mcp",
+  "install": "npx -y seaworthy-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "consent-vault",
+  "description": "An MCP server that provides authorization middleware for AI agents using private data, enabling consent management on Aleo and local private inference with persistent policy storage.",
+  "source_repo": "SU-AN-coder/private-ai-consent-vault",
+  "source_url": "https://github.com/SU-AN-coder/private-ai-consent-vault",
+  "install": "# git clone --depth 1 https://github.com/SU-AN-coder/private-ai-consent-vault\n# See source for mcpServers config block"
+}

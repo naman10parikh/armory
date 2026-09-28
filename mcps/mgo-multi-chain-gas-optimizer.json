@@ -1,0 +1,7 @@
+{
+  "name": "mgo-multi-chain-gas-optimizer",
+  "description": "Compare real-time gas prices across up to 9 EVM chains and get the cheapest-chain recommendation. Pay-per-call via x402 (USDC on Base). No API key.",
+  "source_repo": "dlrjsdl200-byte/mgo-mcp-server",
+  "source_url": "https://github.com/dlrjsdl200-byte/mgo-mcp-server",
+  "install": "npx -y mgo-mcp-server"
+}

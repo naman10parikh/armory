@@ -1,0 +1,7 @@
+{
+  "name": "harvestapi-mcp",
+  "description": "MCP server providing read-only access to LinkedIn data (profiles, companies, posts, jobs, leads, ads, groups, and account info) via the HarvestAPI, exposing 25 tools over stdio.",
+  "source_repo": "Hassan220022/harvestapi-mcp",
+  "source_url": "https://github.com/Hassan220022/harvestapi-mcp",
+  "install": "npx -y harvestapi-mcp"
+}

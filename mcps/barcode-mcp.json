@@ -1,0 +1,7 @@
+{
+  "name": "barcode-mcp",
+  "description": "MCP server for generating and decoding barcodes, QR codes, and encoding RFID EPCs according to GS1 standards. All processing is local with no network calls.",
+  "source_repo": "Convalexa-Solutions-LLP/barcode-mcp",
+  "source_url": "https://github.com/Convalexa-Solutions-LLP/barcode-mcp",
+  "install": "npx -y barcode-mcp"
+}

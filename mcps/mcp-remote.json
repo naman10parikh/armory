@@ -1,0 +1,7 @@
+{
+  "name": "mcp-remote",
+  "description": "Bridge that lets stdio-only MCP clients connect to remote MCP servers with OAuth and other auth support, enabling local clients to use remote, authorized MCP servers.",
+  "source_repo": "abluva/mcp-remote",
+  "source_url": "https://github.com/abluva/mcp-remote",
+  "install": "# git clone --depth 1 https://github.com/abluva/mcp-remote\n# See source for mcpServers config block"
+}

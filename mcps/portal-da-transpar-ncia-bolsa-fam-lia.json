@@ -1,0 +1,7 @@
+{
+  "name": "portal-da-transpar-ncia-bolsa-fam-lia",
+  "description": "Enables querying official Bolsa Família program data from Brazil's transparency portal via a read-only MCP server, with prepaid per-query pricing and no platform credentials required.",
+  "source_repo": "mcp-dir/portal_transparencia_bolsa-mcp",
+  "source_url": "https://github.com/mcp-dir/portal_transparencia_bolsa-mcp",
+  "install": "npx -y portal_transparencia_bolsa-mcp"
+}

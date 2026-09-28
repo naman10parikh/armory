@@ -1,0 +1,7 @@
+{
+  "name": "vesper",
+  "description": "Vesper provides MCP servers for multi-agent codebase coordination and a versioned, multi-agent-verified tool registry, enabling file/task claims, agent inboxes, and safe tool sharing.",
+  "source_repo": "clemente-turrubiates/vesper",
+  "source_url": "https://github.com/clemente-turrubiates/vesper",
+  "install": "# git clone --depth 1 https://github.com/clemente-turrubiates/vesper\n# See source for mcpServers config block"
+}

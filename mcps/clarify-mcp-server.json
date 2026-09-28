@@ -1,0 +1,7 @@
+{
+  "name": "clarify-mcp-server",
+  "description": "Enables AI agents to ask clarification questions and receive structured user input through a Human-in-the-Loop interface.",
+  "source_repo": "ifmelate/clarify-mcp",
+  "source_url": "https://github.com/ifmelate/clarify-mcp",
+  "install": "npx -y clarify-mcp"
+}
