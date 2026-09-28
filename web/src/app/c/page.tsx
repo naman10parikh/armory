@@ -26,7 +26,7 @@ export const runtime = "nodejs";
 
 export const metadata: Metadata = {
   title: "Components · Armory",
-  description: "The catalog organized by the 11 components of an agent harness, and a Browser shelf.",
+  description: "The catalog organized by the 11 components of an agent harness, plus Browser.",
 };
 
 export default function ComponentsPage() {
@@ -54,12 +54,12 @@ export default function ComponentsPage() {
             Components
           </h1>
           {/* Labels, one word per thing (CP147): "Listed", as on every card below; Stack is in the nav.
-              The Browser shelf (PR #46) sits beside the eleven harness components, so the count says Shelves. */}
+              The Browser (PR #46) is counted with the eleven harness components: Components, as the title says. */}
           <p className="mt-3 text-[14px] leading-normal text-ink-muted">
             <data value={String(cards.length)} className="font-semibold tabular-nums text-ink-hi">
               {cards.length}
             </data>{" "}
-            Shelves ·{" "}
+            Components ·{" "}
             <data value={String(total)} className="font-semibold tabular-nums text-ink-hi">
               {total.toLocaleString("en-US")}
             </data>{" "}
@@ -133,6 +133,17 @@ export default function ComponentsPage() {
               </ul>
             </li>
           </ul>
+          {/* The key the old footer sentence gave, as labels (CP147 review). */}
+          <p className="mt-6 text-[13px] text-ink-muted">
+            <Link href="/stack" className="cursor-pointer font-medium text-accent-hover underline underline-offset-4">
+              Stack
+            </Link>
+            : one pick per component ·{" "}
+            <Link href="/leaderboard" className="cursor-pointer font-medium text-accent-hover underline underline-offset-4">
+              Leaderboard
+            </Link>
+            : the whole catalog, ranked
+          </p>
         </ContentWidth>
       </section>
     </div>

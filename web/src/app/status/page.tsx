@@ -77,7 +77,8 @@ export default function Status() {
       <div className="mt-3 flex items-center gap-2">
         <h1 className="text-[27px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">Status</h1>
         <Info id="info-status" label="About Status">
-          Read from catalog.json, the file every page uses.
+          Read from catalog.json, the file every page uses. Star counts drift and repositories move, so each row
+          keeps the date its source was last confirmed and links to that source.
         </Info>
       </div>
       <p className="mt-2 max-w-[64ch] text-[16px] leading-[1.5] text-ink-body">
@@ -131,7 +132,13 @@ export default function Status() {
 
       {/* Signal coverage */}
       <section className="mt-12">
-        <h2 className="text-[19px] font-semibold leading-[1.2] tracking-[-0.01em] text-ink-hi">Signal Coverage</h2>
+        <div className="flex items-center gap-2">
+          <h2 className="text-[19px] font-semibold leading-[1.2] tracking-[-0.01em] text-ink-hi">Signal Coverage</h2>
+          <Info id="info-signals" label="About Signal Coverage">
+            A component is ranked on the signals it has; most have none yet. Share is out of all{" "}
+            {n(s.total)} components.
+          </Info>
+        </div>
 
         <div className="mt-4">
           <DataTable label="Signal Coverage" minWidthClass="min-w-[480px]" className="card-table">

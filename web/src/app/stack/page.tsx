@@ -281,7 +281,7 @@ export default async function StackPage({ searchParams }: { searchParams: Promis
 
           <p className="mt-6 text-[13px] text-ink-muted">
             <a href="/api/stack" className="cursor-pointer font-medium text-accent-hover underline underline-offset-4">
-              JSON
+              API
             </a>{" "}
             · /api/stack
           </p>
