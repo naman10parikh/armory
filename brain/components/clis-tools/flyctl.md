@@ -7,7 +7,7 @@ source_repo: https://github.com/superfly/flyctl
 source_url: https://github.com/superfly/flyctl
 license: unknown
 cli_compat: []
-maturity: curated
+maturity: stable
 stars: 1699
 eval_score: 1
 mentions: null

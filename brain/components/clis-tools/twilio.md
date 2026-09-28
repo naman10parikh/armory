@@ -7,7 +7,7 @@ source_repo: https://github.com/twilio/twilio-cli
 source_url: https://github.com/twilio/twilio-cli
 license: unknown
 cli_compat: []
-maturity: curated
+maturity: stable
 stars: 192
 eval_score: 1
 mentions: null

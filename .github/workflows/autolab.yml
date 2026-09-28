@@ -137,12 +137,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node ingest/crawl-repos.mjs || echo "::warning::crawl-repos failed — continuing"
 
-      # 4. HARD GATES — schema validation AND the full-catalog Hamel gate. If either fails,
-      #    do NOT commit; the repo stays at the last-known-good state (no-regression, DSIP eval gate).
-      - name: Validate + test-gate (hard, no-regression)
+      # 4. HARD GATES: schema validation, the full-catalog Hamel gate and the catalog lint (CP147 T08: one row
+      #    per repository, labels on their lists, one timestamp). If any fails, do NOT commit; the repo stays at
+      #    the last-known-good state (no-regression, DSIP eval gate).
+      - name: Validate + test-gate + lint (hard, no-regression)
         run: |
           node ingest/validate.mjs
           node ingest/test-gate.mjs
+          node scripts/lint-catalog.mjs
 
       # 4a. Catalog size: GitHub refuses a file over 100 MB, so the push would fail. Warns at 80 MB; at 95 MB
       #     this fails and nothing is committed (docs/CATALOG-SIZE.md).

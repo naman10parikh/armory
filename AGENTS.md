@@ -44,6 +44,8 @@ pnpm catalog              # regenerate catalog.json from brain/ (ingest/catalog.
 pnpm validate             # schema + integrity checks (ingest/validate.mjs)
 pnpm build                # pnpm catalog && pnpm -r build (workspaces, incl. web/)
 node ingest/test-gate.mjs # Hamel functional+behavioral gate a component must pass to enter
+node scripts/lint-catalog.mjs          # one row per repository, labels on their lists, one timestamp
+git config core.hooksPath .githooks    # once per clone: the lint runs before a commit that can change it
 ```
 
 The ingest machinery lives in `ingest/` (crawlers, promote, catalog, validate, test-gate, surface);

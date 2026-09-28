@@ -7,7 +7,7 @@ source_repo: https://github.com/manaflow-ai/cmux
 source_url: https://github.com/manaflow-ai/cmux
 license: unknown
 cli_compat: []
-maturity: curated
+maturity: stable
 stars: 26677
 eval_score: 1
 mentions: null

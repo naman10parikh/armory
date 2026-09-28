@@ -26,7 +26,7 @@ jobs:
       # not `node --test ingest/` — directory-glob behavior varies across Node versions,
       # and we must NOT auto-run test-gate.mjs here (it's the separate Hamel step below).
       - name: Unit + contract + chaos + integration (node:test)
-        run: node --test ingest/test-pyramid.test.mjs ingest/integration.test.mjs ingest/tested.test.mjs ingest/shelf.test.mjs ingest/credit.test.mjs
+        run: node --test ingest/test-pyramid.test.mjs ingest/integration.test.mjs ingest/tested.test.mjs ingest/shelf.test.mjs ingest/credit.test.mjs scripts/lint-catalog.test.mjs
 
       # Hard schema gate — every component honors the frontmatter contract.
       - name: Schema validate
@@ -35,6 +35,12 @@ jobs:
       # Hamel test-gate — functional (L1) + behavioral (L2) anti-drift over the catalog.
       - name: Hamel test-gate (functional + behavioral)
         run: node ingest/test-gate.mjs
+
+      # Catalog lint (CP147 T08): one row per GitHub repository, every label on its list and in use, every row on
+      # one shelf, and one timestamp (generated_at) wherever a README states when the catalog was last updated.
+      # Before the freshness step, which rebuilds catalog.json here and so gives it a new generated_at.
+      - name: Catalog lint (one row per repository, labels, shelves, one timestamp)
+        run: node scripts/lint-catalog.mjs
 
       # Catalog freshness — catalog.json must equal a fresh rebuild (folded in from the
       # retired catalog.yml). generated_at is normalized; only structural drift fails.

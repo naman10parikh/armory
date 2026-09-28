@@ -7,7 +7,7 @@ source_repo: https://github.com/cli/cli
 source_url: https://github.com/cli/cli
 license: unknown
 cli_compat: []
-maturity: curated
+maturity: stable
 stars: 46103
 eval_score: 1
 mentions: null

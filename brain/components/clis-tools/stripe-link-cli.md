@@ -6,7 +6,7 @@ source_repo: https://github.com/stripe/link-cli
 source_url: https://github.com/stripe/link-cli
 license: unknown
 cli_compat: []
-maturity: curated
+maturity: stable
 stars: 796
 eval_score: 1
 mentions: null

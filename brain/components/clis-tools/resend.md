@@ -6,7 +6,7 @@ source_repo: https://github.com/resend/resend-node
 source_url: https://github.com/resend/resend-node
 license: unknown
 cli_compat: []
-maturity: curated
+maturity: stable
 stars: 949
 eval_score: 1
 mentions: null

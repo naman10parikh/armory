@@ -39,6 +39,8 @@ pnpm catalog              # regenerate catalog.json from brain/
 pnpm validate             # schema + integrity checks
 pnpm build                # pnpm catalog && pnpm -r build (incl. web/)
 node ingest/test-gate.mjs # the gate a component must pass to enter
+node scripts/lint-catalog.mjs          # one row per repository, labels on their lists, one timestamp
+git config core.hooksPath .githooks    # once per clone: the lint runs before a commit that can change it
 ```
 
 To add a component: curate `brain/components/<type>/<slug>.md` → drop the file at the matching root folder →

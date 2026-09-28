@@ -7,7 +7,7 @@ source_repo: https://github.com/duckdb/duckdb
 source_url: https://github.com/duckdb/duckdb
 license: unknown
 cli_compat: []
-maturity: curated
+maturity: stable
 stars: 40916
 eval_score: 1
 mentions: null

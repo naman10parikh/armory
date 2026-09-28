@@ -7,7 +7,7 @@ source_repo: https://github.com/HKUDS/CLI-Anything
 source_url: https://github.com/HKUDS/CLI-Anything
 license: unknown
 cli_compat: []
-maturity: curated
+maturity: stable
 stars: 50605
 eval_score: 1
 mentions: 1

@@ -6,7 +6,7 @@ source_repo: https://anon.com
 source_url: https://anon.com
 license: unknown
 cli_compat: []
-maturity: curated
+maturity: experimental
 stars: null
 eval_score: 0
 mentions: null
