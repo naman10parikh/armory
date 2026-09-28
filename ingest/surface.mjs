@@ -112,6 +112,7 @@ function loadBrainType(type) {
   const entries = [];
   for (const name of readdirSync(dir)) {
     if (!name.endsWith(".md")) continue;
+    if (basename(name, ".md") === type) continue; // the shelf's hub note, not a component (catalog.mjs skips it too)
     const content = readFileSync(join(dir, name), "utf8");
     const fm = parseFrontmatter(content);
     // Pull description from multiline block if value is just ">"
