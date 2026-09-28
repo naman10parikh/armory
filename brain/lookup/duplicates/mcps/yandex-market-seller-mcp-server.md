@@ -1,0 +1,30 @@
+---
+name: yandex-market-seller-mcp-server
+type: mcps
+description: >
+  Integrates with Yandex Market Partner API, providing search and execute tools for managing orders, returns, shipments, offers, prices, and other seller operations via natural language.
+source_repo: dontsovcmc/mcp-server-yandex-market-seller
+source_url: https://github.com/dontsovcmc/mcp-server-yandex-market-seller
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: 1
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T13:31:58Z"
+folded_into: mcps/dontsovcmc-yandex-market-seller
+---
+## What it is
+Integrates with Yandex Market Partner API, providing search and execute tools for managing orders, returns, shipments, offers, prices, and other seller operations via natural language.
+
+## When to use it
+Integrates with Yandex Market Partner API, providing search and execute tools for managing orders, returns, shipments, offers, prices, and other seller operations via natural language.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/vnlgmiwsdz) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

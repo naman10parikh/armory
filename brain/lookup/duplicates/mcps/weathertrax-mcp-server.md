@@ -1,0 +1,30 @@
+---
+name: weathertrax-mcp-server
+type: mcps
+description: >
+  Provides real-time weather data and multi-day forecasts for any location worldwide.
+source_repo: jaredco/weather-mcp-server
+source_url: https://github.com/jaredco/weather-mcp-server
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: 0
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-28T12:37:02Z"
+folded_into: mcps/jaredco-weathertrax
+---
+## What it is
+Provides real-time weather data and multi-day forecasts for any location worldwide.
+
+## When to use it
+Provides real-time weather data and multi-day forecasts for any location worldwide.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/cmgdamasjc) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

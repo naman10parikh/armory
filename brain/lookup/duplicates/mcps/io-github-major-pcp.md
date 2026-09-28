@@ -1,0 +1,30 @@
+---
+name: io-github-major-pcp
+type: mcps
+description: >
+  This server provides real-time system performance metrics via Performance Co-Pilot (PCP), enabling users to monitor CPU, memory, disk, network, processes and more through natural language queries.
+source_repo: major/pcp-mcp
+source_url: https://github.com/major/pcp-mcp
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: 0
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T06:50:54Z"
+folded_into: mcps/major-pcp
+---
+## What it is
+This server provides real-time system performance metrics via Performance Co-Pilot (PCP), enabling users to monitor CPU, memory, disk, network, processes and more through natural language queries.
+
+## When to use it
+This server provides real-time system performance metrics via Performance Co-Pilot (PCP), enabling users to monitor CPU, memory, disk, network, processes and more through natural language queries.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/djtf59wc88) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

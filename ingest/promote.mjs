@@ -14,7 +14,7 @@ import { readdirSync, readFileSync, writeFileSync, existsSync, mkdirSync, rmSync
 import { join, dirname, basename, resolve as resolvePath } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parseFrontmatter, TYPES } from "./catalog.mjs";
-import { repoRootUrl } from "../lib/rank.mjs";
+import { repositoryOf } from "../lib/same-component.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const INCOMING = join(ROOT, "incoming");
@@ -129,7 +129,10 @@ function validateStub(fm, filePath) {
 const urlKey = (fm) => (fm.source_url ? `url:${fm.type}|${String(fm.source_url).toLowerCase().replace(/\/$/, "")}` : null);
 // One GitHub repository root is one component on any shelf (CP143 T56, scripts/demote-same-repo.mjs): a
 // crawl that meets a repository already listed under another type, or as `repo#readme`, adds nothing.
-const repoKey = (fm) => { const r = repoRootUrl(fm.source_url); return r ? `repo:${r.toLowerCase()}` : null; };
+// An mcp.so page whose source_repo names a listed repository adds nothing either (lib/same-component.mjs).
+// crawl-mcpso.mjs writes the mcp.so page as source_url, so a key read from source_url alone let such a
+// stub in under a new name; 525 of them were in the catalog on 27 Sep 2026 (CP147 T07).
+const repoKey = (fm) => { const r = repositoryOf(fm); return r ? `repo:${r}` : null; };
 function existingKeys(toDir) {
   const keys = new Set();
   for (const type of TYPES) {
@@ -238,6 +241,9 @@ export function promoteAll(incomingDir, toComponentsDir, sources, { dryRun = tru
   //    twin of the same component can beat & replace it. `existingPath` is kept
   //    so a winning challenger can delete the stale (differently-slugged) file.
   const winners = new Map(); // dedupKey -> { fm, raw, filePath, existingPath, rank, score, source, fromExisting }
+  // One repository, one row (CP147 T07): repository -> the dedupKey of the row that holds it. The names
+  // above differ between registries (PulseMCP `aaronroef-apple`, Glama `apple-mcp`), the repository does not.
+  const repos = new Map();
   let existingCount = 0;
   let trueSeedCount = 0;
   for (const type of TYPES) {
@@ -255,12 +261,14 @@ export function promoteAll(incomingDir, toComponentsDir, sources, { dryRun = tru
       const rank = PROVENANCE_RANK(raw);
       if (rank === -1) trueSeedCount += 1;
       winners.set(k, { fm, raw: null, filePath: null, existingPath: path, rank, score: richness(fm), source: "existing", fromExisting: true });
+      const repo = repositoryOf(fm);
+      if (repo && !repos.has(repo)) repos.set(repo, k);
       existingCount += 1;
     }
   }
 
   const stats = {
-    totalStubs: 0, invalid: 0, validUnique: 0, duplicatesCollapsed: 0,
+    totalStubs: 0, invalid: 0, validUnique: 0, duplicatesCollapsed: 0, sameRepository: 0,
     bySource: {}, perKeyConsidered: 0, existingSeed: existingCount, trueSeed: trueSeedCount,
     existingReplaced: 0, invalidSamples: [], collapsedSamples: [],
   };
@@ -283,10 +291,18 @@ export function promoteAll(incomingDir, toComponentsDir, sources, { dryRun = tru
         continue;
       }
       const k = `${normName(fm.name)}|${fm.type}`;
+      // A stub for a repository another row holds under another name is that row again: the holder
+      // stays, and nothing is replaced across names.
+      const repo = repositoryOf(fm);
+      if (repo && repos.has(repo) && repos.get(repo) !== k) {
+        stats.duplicatesCollapsed += 1; stats.sameRepository += 1; stats.bySource[source].lost += 1;
+        continue;
+      }
       const cand = { fm, raw, filePath, existingPath: null, rank, score: richness(fm), source, fromExisting: false };
       const cur = winners.get(k);
       if (!cur) {
         winners.set(k, cand);
+        if (repo) repos.set(repo, k);
         stats.bySource[source].won += 1;
       } else {
         // a duplicate of an already-claimed component
@@ -303,7 +319,11 @@ export function promoteAll(incomingDir, toComponentsDir, sources, { dryRun = tru
             stats.bySource[cur.source].won -= 1; stats.bySource[cur.source].lost += 1;
             if (cur.existingPath) cand.existingPath = cur.existingPath; // preserve chain
           }
+          // The replaced row's repository no longer has a holder unless it is the same repository.
+          const was = repositoryOf(cur.fm);
+          if (was && was !== repo && repos.get(was) === k) repos.delete(was);
           winners.set(k, cand);
+          if (repo) repos.set(repo, k);
           stats.bySource[source].won += 1;
         } else {
           stats.bySource[source].lost += 1;
@@ -360,7 +380,7 @@ export function promoteAll(incomingDir, toComponentsDir, sources, { dryRun = tru
   log(`  total stubs scanned : ${stats.totalStubs}`);
   log(`  invalid (skipped)   : ${stats.invalid}`);
   log(`  existing on disk     : ${existingCount} (TRUE seed: ${trueSeedCount})`);
-  log(`  duplicates collapsed: ${stats.duplicatesCollapsed}`);
+  log(`  duplicates collapsed: ${stats.duplicatesCollapsed} (a repository already held under another name: ${stats.sameRepository})`);
   log(`  existing replaced   : ${stats.existingReplaced} (stale orphans removed: ${staleRemoved})`);
   log(`  net-new promoted    : ${netNew}`);
   log(`  files written       : ${promoted}`);

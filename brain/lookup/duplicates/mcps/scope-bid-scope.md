@@ -1,0 +1,29 @@
+---
+name: scope-bid-scope
+type: mcps
+description: >
+  Dispatches litigation work to legal vendors from any MCP-compatible AI workflow.
+source_repo: scope-bid/scope-mcp
+source_url: https://github.com/scope-bid/scope-mcp
+license: unknown
+cli_compat: [claude, codex, cursor, gemini, opencode]
+maturity: beta
+stars: 1
+verified_at: 2026-05-26
+related: []
+tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-30T23:02:51Z"
+folded_into: mcps/scope-mcp
+---
+## What it is
+MCP server `Scope Legal`, catalogued on PulseMCP. Dispatches litigation work to legal vendors from any MCP-compatible AI workflow.
+
+## When to use it
+Dispatches litigation work to legal vendors from any MCP-compatible AI workflow.
+
+## How to install / invoke
+See the source for the `mcpServers` config block (command + args). Source: https://github.com/scope-bid/scope-mcp
+
+## Notes
+Discovered via the PulseMCP registry (https://www.pulsemcp.com/servers/scope-bid-scope). License not declared in registry metadata — confirm before production use. Pending verify -> promote.
