@@ -5,10 +5,11 @@
   Rank · Score · Component · [Gained | Listed] · Description · Evidence · Last commit · Install
 
   - Score: three decimals from the exact score (four for the whole table when three would make two
-    different scores look alike), else "Unranked". Its colour is explained under the table.
+    different scores look alike), else "Unranked". Its colour is keyed under the table.
   - Evidence: the signals in words. Last commit: a <time datetime> on every row, with Stale after two
     years; a row with no commit date shows when it was listed instead, so every row still has a date.
-  - Install: the full command, wrapped, never cut. Component names wrap at their hyphens.
+  - Install: the full command, wrapped, never cut; "Manual · Source" where `armory install` places nothing.
+  - Under the table, one line of labels (CP147): the colour key, the tie order and the GitHub read date.
   - Our own repositories carry an Ours label. A repository listed twice prints once.
   Below 1024px each row stacks into a block (globals.css, .board-table), so a phone never scrolls
   sideways, and each cell keeps its column name as a small label (data-label). No hooks here, so both server pages and the client Ask page can render it.
@@ -64,7 +65,6 @@ export function BoardTable({
   rows,
   extra = null,
   fallbackDate = null,
-  trendingSince = null,
   scoreSort = "descending",
   githubRead = null,
 }: {
@@ -73,7 +73,6 @@ export function BoardTable({
   extra?: ExtraColumn;
   /** Date shown for a row with neither a commit nor a listing date (the catalog's own date). */
   fallbackDate?: string | null;
-  trendingSince?: string | null;
   scoreSort?: "ascending" | "descending" | "none";
   /** When the GitHub figures were read (boardMeta().githubRead); the key under the table states it. */
   githubRead?: { since: string | null; latest: string } | null;
@@ -90,8 +89,17 @@ export function BoardTable({
               Score
             </Th>
             <Th className="w-[210px]">Component</Th>
-            {extra === "gained" && <Th className="w-[128px]">Gained</Th>}
-            {extra === "listed" && <Th className="w-[112px]">Listed</Th>}
+            {/* On Trending and New the extra column is the order, so it carries the sort mark. */}
+            {extra === "gained" && (
+              <Th className="w-[128px]" sort={scoreSort === "none" ? "descending" : undefined}>
+                Gained
+              </Th>
+            )}
+            {extra === "listed" && (
+              <Th className="w-[112px]" sort={scoreSort === "none" ? "descending" : undefined}>
+                Listed
+              </Th>
+            )}
             <Th className="w-auto">Description</Th>
             <Th className="w-[190px]">Evidence</Th>
             <Th className="w-[118px]">Last commit</Th>
@@ -123,11 +131,6 @@ export function BoardTable({
                         +{int(row.gained)}
                       </data>{" "}
                       {row.gained === 1 ? "mention" : "mentions"}
-                      {trendingSince && (
-                        <span className="block text-[11.5px] text-ink-faint">
-                          since <time dateTime={trendingSince}>{shortDate(trendingSince)}</time>
-                        </span>
-                      )}
                     </>
                   )}
                 </td>
@@ -138,7 +141,7 @@ export function BoardTable({
                 </td>
               )}
               <td data-col="desc" className={`${CELL} text-[12.5px] leading-snug text-ink-muted`}>
-                {clampWords(row.desc, 150) || <span className="text-ink-faint">No description</span>}
+                {clampWords(row.desc, 110) || <span className="text-ink-faint">No description</span>}
               </td>
               <td data-col="evidence" data-label="Evidence" className={CELL}>
                 <SignalsRow signals={row.signals} />
@@ -153,14 +156,17 @@ export function BoardTable({
           ))}
         </tbody>
       </DataTable>
-      <ScoreLegend />
-      {githubRead && (
-        <p className="mt-1 text-[12px] leading-normal text-ink-muted">
-          Stars, forks and last commit are as GitHub reported them when Armory last read each repository: for
-          most, <time dateTime={githubRead.since ?? githubRead.latest}>{githubReadText(githubRead)}</time> or later.
-          A repository may have changed since.
-        </p>
-      )}
+      <p className="mt-3 flex flex-wrap items-baseline gap-x-5 gap-y-1 text-[12px] leading-normal text-ink-muted">
+        <ScoreLegend />
+        {scoreSort !== "none" && <span>Tie order: signals, last commit, stars</span>}
+        {/* Stars, forks and last commit are as GitHub reported them at Armory's last read (CP138 T23). */}
+        {githubRead && (
+          <span>
+            GitHub data:{" "}
+            <time dateTime={githubRead.since ?? githubRead.latest}>{githubReadText(githubRead)}</time> or later
+          </span>
+        )}
+      </p>
     </div>
   );
 }
@@ -250,7 +256,7 @@ function LastCommit({
       No commit date
       {listed && (
         <span className="block">
-          listed <time dateTime={listed}>{shortDate(listed)}</time>
+          Listed <time dateTime={listed}>{shortDate(listed)}</time>
         </span>
       )}
     </span>

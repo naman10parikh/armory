@@ -1,4 +1,5 @@
 import type { ReactNode } from "react";
+import { SortIcon } from "./icons";
 
 /*
   The data table — Armory's primary surface (design/BRIEF.md §7, §9).
@@ -63,7 +64,8 @@ export function DataTable({
   );
 }
 
-/** Column head. Sticky so it survives row 150. Real scope + aria-sort. */
+/** Column head. Sticky so it survives row 150. Real scope + aria-sort, and the sorted column shows a
+ *  direction mark (CP147: a mark instead of a "Highest score first" sentence over the table). */
 export function Th({
   children,
   align = "left",
@@ -84,6 +86,9 @@ export function Th({
       className={`sticky top-0 z-10 whitespace-nowrap border-b border-line-strong bg-raise-1 px-3 py-2 text-[11px] font-semibold uppercase tracking-[0.08em] text-ink-muted ${ALIGN[align]} ${className}`}
     >
       {children}
+      {(sort === "ascending" || sort === "descending") && (
+        <SortIcon dir={sort} size={12} strokeWidth={2} className="ml-1 inline-block align-[-1px] text-ink-hi" />
+      )}
     </th>
   );
 }

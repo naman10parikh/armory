@@ -15,7 +15,8 @@ import { ComponentCard } from "@/components/component-card";
 import { ContentWidth } from "@/components/data-table";
 import { ScoreBadge } from "@/components/score-badge";
 import { SignalsRow, type SignalValues } from "@/components/signals-row";
-import { CliNote, HarnessSelector } from "@/components/install-snippet";
+import { Info } from "@/components/info-mark";
+import { CliNote } from "@/components/install-snippet";
 import { InstallStrip } from "@/components/install-strip";
 import { ArrowLeftIcon, ExternalIcon, TypeIcon } from "@/components/icons";
 import { CANON, filedFor, rowsFor, stackFor } from "@/lib/canon";
@@ -141,7 +142,7 @@ export default async function ComponentDetailPage({
               <TypeIcon type={component.type} size={16} className="text-accent" />
               <TypePill type={component.type} />
             </span>
-            <h1 className="mt-3 break-words text-[32px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">
+            <h1 className="mt-3 break-words text-[27px] font-semibold leading-[1.2] tracking-[-0.01em] text-ink-hi">
               {component.title || component.name}
               {row?.ours && <OursTag />}
             </h1>
@@ -179,20 +180,20 @@ export default async function ComponentDetailPage({
               </dd>
             </div>
             <div>
-              <dt className="text-[11px] font-semibold uppercase tracking-[0.08em] text-ink-muted">
+              <dt className="flex items-center gap-1 text-[11px] font-semibold uppercase tracking-[0.08em] text-ink-muted">
                 Last commit
+                {/* The read it comes from, one hover away (CP147); "3 weeks ago" read as now (CP138 T23). */}
+                {row?.pushedAt && githubRead && (
+                  <Info id="info-last-commit" label="About the last commit date">
+                    As last read from GitHub. Most reads are from {githubReadText(githubRead)} or later.
+                  </Info>
+                )}
               </dt>
               <dd className="mt-1.5 text-[13px] text-ink-body">
                 {row?.pushedAt ? (
                   <>
-                    {/* A date, and the read it comes from: "3 weeks ago" read as now (CP138 T23). */}
                     <time dateTime={row.pushedAt}>{shortDate(row.pushedAt)}</time>
                     {row.stale && <StaleTag />}
-                    {githubRead && (
-                      <span className="mt-0.5 block text-[11.5px] text-ink-faint">
-                        as last read from GitHub; most reads are from {githubReadText(githubRead)} or later
-                      </span>
-                    )}
                   </>
                 ) : (
                   <span className="text-ink-faint">Not known</span>
@@ -215,8 +216,7 @@ export default async function ComponentDetailPage({
               writes, driven by the one harness selector (the nav owns it from lg up). */}
           <div className="mt-8">
             <div className="mb-2 flex flex-wrap items-center justify-between gap-3">
-              <h2 className="text-[18px] font-semibold leading-none text-ink-hi">Install</h2>
-              <HarnessSelector className="lg:hidden" />
+              <h2 className="text-[19px] font-semibold leading-none text-ink-hi">Install</h2>
             </div>
             <InstallStrip
               component={component}
@@ -228,7 +228,7 @@ export default async function ComponentDetailPage({
 
           {alternatives.length > 0 && shelf && (
             <section className="mt-10">
-              <h2 className="text-[18px] font-semibold leading-none text-ink-hi">
+              <h2 className="text-[19px] font-semibold leading-none text-ink-hi">
                 Alternatives{onShelf ? ` · ${stackFor(shelf)?.label ?? shelf}` : ""}
               </h2>
               <ol className="mt-3 divide-y divide-line-subtle rounded-xl border border-line-subtle bg-raise-1">
@@ -266,9 +266,7 @@ export default async function ComponentDetailPage({
               dangerouslySetInnerHTML={{ __html: html }}
             />
           ) : (
-            <p className="mt-10 text-sm text-ink-muted">
-              No detailed write-up yet for this component.
-            </p>
+            <p className="mt-10 text-sm text-ink-muted">No write-up</p>
           )}
 
           {/* Related components. The `related:` field is loose
@@ -277,7 +275,7 @@ export default async function ComponentDetailPage({
               than a decorative graph (design/BRIEF.md Approval §3). */}
           {(relatedComponents.length > 0 || unresolvedRelated.length > 0) && (
             <section className="mt-12 border-t border-line-subtle pt-8">
-              <h2 className="text-[18px] font-semibold leading-none text-ink-hi">
+              <h2 className="text-[19px] font-semibold leading-none text-ink-hi">
                 Related
               </h2>
 

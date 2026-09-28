@@ -78,7 +78,7 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
   const milestones: Milestone[] = [
     {
       title: "Sources",
-      lead: `Agents crawl ${data.registries.length} MCP registries and hand-curated GitHub collections, then dedupe and merge them into one catalog.`,
+      lead: `${data.registries.length} MCP registries and curated GitHub collections, deduped into one catalog`,
       figure: (
         <div className="grid gap-3.5 [grid-template-columns:repeat(auto-fit,minmax(240px,1fr))]">
           <Card>
@@ -98,7 +98,7 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
     },
     {
       title: "Components",
-      lead: `Each entry is filed under one of ${data.types.length} harness components, named as on the Components page.`,
+      lead: `Each row filed under one of ${data.types.length} harness components`,
       figure: (
         <Card>
           <div className="grid gap-x-6 gap-y-0 [grid-template-columns:repeat(auto-fit,minmax(210px,1fr))]">
@@ -108,11 +108,11 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
           </div>
           {data.leftOut > 0 && (
             <p className="mt-3 border-t border-line-subtle pt-3 text-[12.5px] leading-[1.5] text-ink-muted">
-              Sandbox, Tools and Dispatch list only rows made for their job. The other{" "}
+              Filed under Sandbox, Tools or Dispatch but not made for their job:{" "}
               <data value={String(data.leftOut)} className="font-semibold tabular-nums text-ink-body">
                 {nf(data.leftOut)}
               </data>{" "}
-              rows filed under them are still in search and Browse.
+              rows, in Search and Browse
             </p>
           )}
         </Card>
@@ -120,7 +120,7 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
     },
     {
       title: "Ranking",
-      lead: `Components with at least one public signal get a Score: each signal becomes a 0–100 percentile within its own kind, then the strongest counts ${data.blend.base} and the second strongest ${data.blend.others}. More signals, more confidence.`,
+      lead: `Each public signal becomes a percentile within its kind; Score = ${data.blend.base} × strongest + ${data.blend.others} × second`,
       figure: (
         <div className="flex flex-wrap gap-2">
           {data.signals.map((s) => (
@@ -131,7 +131,7 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
     },
     {
       title: "Verticals",
-      lead: "Components are also tagged with the industry they serve, so an agent can filter by vertical or ignore it.",
+      lead: "Industry tags, used as an optional filter",
       figure: (
         <div className="flex flex-wrap gap-2">
           {data.verticals.map((v) => (
@@ -142,7 +142,7 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
     },
     {
       title: "Query Surface",
-      lead: "The same catalog is readable three ways.",
+      lead: "One catalog, read three ways",
       figure: (
         <div className="grid gap-2.5 [grid-template-columns:repeat(auto-fit,minmax(220px,1fr))]">
           {SURFACES.map((s) => (
@@ -166,11 +166,11 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
       : i === 3 ? data.verticals.length
       : SURFACES.length;
     const cap =
-      i === 0 ? "Distinct source repositories, deduped"
-      : i === 1 ? `In the catalog, across ${data.types.length} harness components`
-      : i === 2 ? "Ranked on at least one signal"
-      : i === 3 ? "Industry verticals"
-      : "Ways to reach the one catalog";
+      i === 0 ? "Source repositories"
+      : i === 1 ? "Components"
+      : i === 2 ? "Ranked"
+      : i === 3 ? "Verticals"
+      : "Surfaces";
     return { ...m, big, cap };
   });
 
@@ -188,7 +188,7 @@ export function Timeline({ data }: { data: TimelineData }): React.ReactElement {
             className="absolute -left-[7px] top-1 h-[13px] w-[13px] rounded-full bg-ink-muted ring-4 ring-canvas"
           />
           <p className="text-[11px] font-semibold uppercase tracking-[0.08em] text-ink-muted">{`Layer ${i + 1}`}</p>
-          <h2 className="mt-1.5 text-[24px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">
+          <h2 className="mt-1.5 text-[19px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">
             {m.title}
           </h2>
           <p className="mt-2.5 max-w-[62ch] text-[15px] leading-[1.6] text-ink-body">{m.lead}</p>

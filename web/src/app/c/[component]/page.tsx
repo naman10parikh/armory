@@ -9,7 +9,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ContentWidth } from "@/components/data-table";
-import { CliNote, HarnessSelector } from "@/components/install-snippet";
+import { CliNote } from "@/components/install-snippet";
 import { PickList, ShelfStats, ShelfTable } from "@/components/component-page";
 import { CANON_SLUGS, PLANE, resolvedPicksFor, rowsFor, stackFor, statsFor, topRankedFor } from "@/lib/canon";
 
@@ -72,7 +72,7 @@ export default async function ComponentPage({ params }: { params: Promise<RouteP
                   Components
                 </Link>
               </nav>
-              <h1 className="mt-2 text-[24px] font-semibold leading-none tracking-[-0.01em] text-ink-hi">
+              <h1 className="mt-2 text-[27px] font-semibold leading-none tracking-[-0.01em] text-ink-hi">
                 {entry.label}
               </h1>
               <p className="mt-2 text-[16px] leading-normal text-ink-body">{entry.oneLine}</p>
@@ -98,26 +98,25 @@ export default async function ComponentPage({ params }: { params: Promise<RouteP
           {/* Sandbox, Tools and Dispatch list only the rows made for their job (lib/rank.mjs SHELF_FIT). */}
           {stats.fit && (
             <p className="mt-4 text-[12.5px] text-ink-muted">
-              Lists only rows made to {stats.fit.purpose}:{" "}
+              Only rows made to {stats.fit.purpose}:{" "}
               <data value={String(stats.indexed)} className="tabular-nums">
                 {stats.indexed.toLocaleString("en-US")}
               </data>{" "}
-              of the{" "}
+              of{" "}
               <data value={String(stats.fit.filed)} className="tabular-nums">
                 {stats.fit.filed.toLocaleString("en-US")}
               </data>{" "}
-              filed under {entry.label}. The other{" "}
-              <data value={String(stats.fit.leftOut)} className="tabular-nums">
-                {stats.fit.leftOut.toLocaleString("en-US")}
-              </data>{" "}
-              are in{" "}
+              filed under {entry.label} ·{" "}
               <Link
                 href={stats.fit.browse}
                 className="cursor-pointer font-medium text-accent-hover underline underline-offset-4"
               >
-                Browse
+                Other{" "}
+                <data value={String(stats.fit.leftOut)} className="tabular-nums">
+                  {stats.fit.leftOut.toLocaleString("en-US")}
+                </data>{" "}
+                in Browse
               </Link>
-              .
             </p>
           )}
         </ContentWidth>
@@ -125,21 +124,18 @@ export default async function ComponentPage({ params }: { params: Promise<RouteP
 
       <section className="border-b border-line-subtle">
         <ContentWidth className="pb-6 pt-6">
-          <h2 className="text-[18px] font-semibold leading-none text-ink-hi">Pick</h2>
-          {picks.length > 1 && (
-            <p className="mt-2 text-[13px] text-ink-muted">The pick and its runners-up, in score order</p>
-          )}
+          <h2 className="text-[19px] font-semibold leading-none text-ink-hi">Pick</h2>
           <div className="mt-3">
             <PickList picks={picks} />
           </div>
           {plane && (
             <p className="mt-3 text-[13px] leading-snug text-ink-muted">
-              Deploy access · <span className="font-medium text-ink-body">{plane.pick}</span>: {plane.access}.{" "}
+              Deploy access: <span className="font-medium text-ink-body">{plane.pick}</span> · {plane.access} ·{" "}
               <Link
                 href="/stack"
                 className="cursor-pointer text-accent-hover underline underline-offset-4"
               >
-                Every account
+                All accounts
               </Link>
             </p>
           )}
@@ -149,52 +145,39 @@ export default async function ComponentPage({ params }: { params: Promise<RouteP
       <section>
         <ContentWidth className="pb-16 pt-6">
           <div className="mb-3 flex flex-wrap items-center justify-between gap-x-6 gap-y-3">
-            <h2 className="text-[18px] font-semibold leading-none text-ink-hi">Top Ranked</h2>
-            {/* One control for one setting: the nav owns this selector from lg up. */}
-            <HarnessSelector className="lg:hidden" />
+            <h2 className="text-[19px] font-semibold leading-none text-ink-hi">Top Ranked</h2>
             <CliNote />
           </div>
 
           <ShelfTable label={`${entry.label} · Top Ranked`} rows={top} />
 
+          {/* The link opens one member's filter, not a union's whole shelf (CP138 T51), so it says which. */}
           <p className="mt-4 text-[13px] text-ink-muted">
             <Link
               href={`/leaderboard?component=${encodeURIComponent(stats.leaderboardComponent)}`}
               className="cursor-pointer font-medium text-accent-hover underline underline-offset-4"
             >
-              Leaderboard
-            </Link>{" "}
-            {isUnion ? (
-              // The link opens one member's filter, not the whole component (CP138 T51), so say which.
-              <>
-                ranks the <span className="font-sans text-ink-body">{stats.leaderboardComponent}</span> rows, the
-                largest part of this component (
-                <data value={String(stats.members[0].count)} className="tabular-nums">
-                  {stats.members[0].count.toLocaleString("en-US")}
-                </data>{" "}
-                of{" "}
-                <data value={String(stats.indexed)} className="tabular-nums">
-                  {stats.indexed.toLocaleString("en-US")}
-                </data>
-                )
-              </>
-            ) : (
-              <>
-                ranks all{" "}
-                <data value={String(stats.ranked)} className="tabular-nums">
-                  {stats.ranked.toLocaleString("en-US")}
-                </data>{" "}
-                scored rows
-              </>
-            )}
-            .{" "}
-            <Link
-              href="/formula"
-              className="cursor-pointer font-medium text-accent-hover underline underline-offset-4"
-            >
-              Formula
-            </Link>{" "}
-            shows the calculation.
+              {isUnion ? (
+                <>
+                  View {stats.leaderboardComponent} in the Leaderboard ·{" "}
+                  <data value={String(stats.members[0].count)} className="tabular-nums">
+                    {stats.members[0].count.toLocaleString("en-US")}
+                  </data>{" "}
+                  of{" "}
+                  <data value={String(stats.indexed)} className="tabular-nums">
+                    {stats.indexed.toLocaleString("en-US")}
+                  </data>
+                </>
+              ) : (
+                <>
+                  View all{" "}
+                  <data value={String(stats.ranked)} className="tabular-nums">
+                    {stats.ranked.toLocaleString("en-US")}
+                  </data>{" "}
+                  ranked
+                </>
+              )}
+            </Link>
           </p>
         </ContentWidth>
       </section>

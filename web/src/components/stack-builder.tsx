@@ -109,7 +109,7 @@ export interface StackPick {
 /**
  * One command that installs every chosen pick Armory can install: one `armory install` per line,
  * joined with `&& \`, so it pastes as a single command and stops at the first failure. The CLI takes
- * one name per call. Picks with no one-command install are listed under it with their source (CP143).
+ * one name per call. Picks with no one-command install are listed under it, as Manual, with their source (CP143).
  */
 export function StackCommand({ picks }: { picks: readonly StackPick[] }) {
   const harness = useHarness();
@@ -127,9 +127,9 @@ export function StackCommand({ picks }: { picks: readonly StackPick[] }) {
         <CommandBlock picks={picks.length} names={names} lines={lines} copied={copied} onCopy={copy} />
       )}
       {manual.length > 0 && (
+        // "Manual", the word every table uses for a row `armory install` cannot place (CP147).
         <p className="mt-3 text-[13px] leading-relaxed text-ink-muted">
-          {names.length > 0 ? "Not in the command" : "None of these picks installs with one command"}, set{" "}
-          {manual.length === 1 ? "it" : "them"} up from the source:{" "}
+          <span className="font-medium text-ink-body">Manual:</span>{" "}
           {manual.map((p, i) => (
             <span key={p.name}>
               {i > 0 && ", "}

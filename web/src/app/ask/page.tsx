@@ -8,7 +8,7 @@ import { Suspense, useCallback, useEffect, useRef, useState } from "react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { ContentWidth } from "@/components/data-table";
 import { BoardTable } from "@/components/board-table";
-import { CliNote, HarnessSelector } from "@/components/install-snippet";
+import { CliNote } from "@/components/install-snippet";
 import { RankedRowSkeleton, apiRowViews, type RankedRowData } from "@/components/ranked-row";
 import { AskResultCard, InterpretedChip, KeywordChip, type AskResultItem } from "@/components/ask-result-card";
 
@@ -47,8 +47,8 @@ export default function AskPage() {
 function AskShell() {
   return (
     <ContentWidth className="pb-16 pt-8">
-      <h1 className="text-[24px] font-semibold leading-none tracking-[-0.01em] text-ink-hi">Ask</h1>
-      <p className="mt-3 text-[13px] text-ink-muted">Loading the top {TOP_N} ranked components</p>
+      <h1 className="text-[27px] font-semibold leading-none tracking-[-0.01em] text-ink-hi">Ask</h1>
+      <p className="mt-3 text-[13px] text-ink-muted">Loading top {TOP_N}</p>
     </ContentWidth>
   );
 }
@@ -124,7 +124,7 @@ function AskContent() {
     <div>
       <section className="border-b border-line-subtle">
         <ContentWidth className="pb-6 pt-8">
-          <h1 className="text-[24px] font-semibold leading-none tracking-[-0.01em] text-ink-hi">Ask</h1>
+          <h1 className="text-[27px] font-semibold leading-none tracking-[-0.01em] text-ink-hi">Ask</h1>
           <p className="mt-2 text-[16px] leading-normal text-ink-body">
             {/* Production has no GEMINI_API_KEY, so matching is keyword-only (CP138 T51). Once the key
                 is set, restore "Describe a task, get ranked components". */}
@@ -174,8 +174,6 @@ function AskContent() {
                 {ex}
               </button>
             ))}
-            {/* One control for one setting: the nav owns this selector from lg up. */}
-            <HarnessSelector className="ml-auto lg:hidden" />
           </div>
           <CliNote className="mt-3" />
         </ContentWidth>
@@ -289,7 +287,7 @@ function AskContent() {
           {!loading && !data && (
             <div>
               <div className="mb-3 flex flex-wrap items-center justify-between gap-3">
-                <h2 className="text-[18px] font-semibold leading-none text-ink-hi">Top Ranked</h2>
+                <h2 className="text-[19px] font-semibold leading-none text-ink-hi">Top Ranked</h2>
               </div>
 
               {topErr ? (
