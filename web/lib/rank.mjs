@@ -144,8 +144,7 @@ const atWordStart = (t, k) => {
   }
   return false;
 };
-const domainOf = (text) => {
-  const raw = (text || "").toLowerCase();
+const domainIn = (raw) => {
   const t = AS_WORD.reduce((s, [c, rx, k]) => (s.includes(c) ? s.replace(rx, k) : s), raw);
   let best = "other", hits = 0, weak = 0;
   for (const [dom, kws] of Object.entries(DOMAINS)) {
@@ -158,6 +157,17 @@ const domainOf = (text) => {
     if (h > hits || (h === hits && w > weak)) { best = dom; hits = h; weak = w; }
   }
   return best;
+};
+// "MCP server" says what nearly every MCP row is, not what it does (CP147 T09, the chairman's Q25). It gave back-end
+// ("server") and ai-agents ("mcp server") a word each, so a row with one real domain word tied three ways and lost
+// on list order. The phrase, also as a name spells it (github-mcp-server, mcp_server), now decides a row's domain
+// only when no other domain word does. On the 65,239-row catalog of 26 Sep this moves 8,086 rows (PR #41 measured
+// 8,087): back-end 23,922 to 18,241, and 744 into auth.
+const MCP_SERVER = /(^|[^a-z0-9])mcp[-_ ]server/g;
+const domainOf = (text) => {
+  const raw = (text || "").toLowerCase();
+  const found = domainIn(raw.replace(MCP_SERVER, "$1"));
+  return found === "other" ? domainIn(raw) : found;
 };
 // best-matching industry vertical, or null when nothing matches (unlike domainOf, there is no "other"
 // bucket — an industry-agnostic building block should stay unclassified, not be forced into a sector).

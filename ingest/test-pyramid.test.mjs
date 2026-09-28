@@ -329,6 +329,20 @@ test("domain: \"session\" counts toward auth only beside an auth word", () => {
   assert.equal(bridge.domain, "browser", "and it no longer breaks a tie, so a browser driver is browser");
 });
 
+test("domain: \"MCP server\" decides a row's domain only when no other domain word does (CP147 T09)", () => {
+  const row = (name, description) => ({ name, type: "mcps", description, source_url: `https://github.com/a/${name}` });
+  const [overflow, sales, bare, hyphen] = computeRows([
+    row("stackoverflow-mcp-server", "An MCP server to search Stack Overflow questions and answers"),
+    row("sales-db-mcp", "MCP server giving read-only access to a sales database"),
+    row("hello-mcp", "A minimal MCP server"),
+    row("weather_mcp_server", "Forecasts for any city through a web search"),
+  ]);
+  assert.equal(overflow.domain, "search", "one real domain word beats the phrase, which used to tie it and win on list order");
+  assert.equal(sales.domain, "database", "so does a database");
+  assert.equal(bare.domain, "back-end", "with no other domain word the phrase still decides, as before");
+  assert.equal(hyphen.domain, "search", "a name spells the phrase with hyphens or underscores, and those count as the phrase");
+});
+
 test("domain: \"refund\" and \"x402\" are payments words, and four money rows are placed by hand", () => {
   const row = (name, description) => ({ name, type: "mcps", description, source_url: `https://github.com/a/${name}` });
   const rows = computeRows([
